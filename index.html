@@ -18,12 +18,18 @@ h1{margin:0;font-size:1.25rem}
 .layout{display:grid;grid-template-columns:minmax(320px,1.1fr) minmax(320px,1fr);gap:1rem;padding:1rem 1.25rem;align-items:start}
 @media (max-width:900px){.layout{grid-template-columns:1fr}}
 .map-frame{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:.6rem;position:sticky;top:1rem}
-@media (max-width:900px){.map-frame{position:static}}
-svg#map{width:100%;height:auto;display:block;touch-action:manipulation}
+@media (max-width:900px){.map-frame{position:relative}}
+svg#map{width:100%;height:auto;display:block;touch-action:none;cursor:grab;user-select:none;-webkit-user-select:none}
+svg#map.dragging{cursor:grabbing}
 svg#map path.region{fill:var(--fill);stroke:#8a97a0;stroke-width:.8;cursor:pointer}
-svg#map path.region:hover{fill:#dfe7ef}
+svg#map path.region:hover{fill:#f7e3c3}
 svg#map path.region.selected{fill:var(--fill-sel);stroke:var(--accent);stroke-width:1.6}
-svg#map text{font-size:11px;fill:#41505a;pointer-events:none;text-anchor:middle}
+svg#map path.region.selected:hover{fill:var(--fill-sel)}
+svg#map text{font-size:11px;fill:#41505a;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:#ffffff;stroke-width:3px;stroke-linejoin:round}
+.map-tools{position:absolute;top:.6rem;right:.6rem;display:flex;gap:.35rem;z-index:5}
+.map-tools button{min-width:36px;height:36px;padding:0 .5rem;border:1px solid var(--line);background:#fff;border-radius:9px;font-size:1rem;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.map-tools button:hover{border-color:var(--accent)}
+.map-hint{position:absolute;left:.8rem;bottom:.55rem;font-size:11px;color:var(--muted);background:rgba(255,255,255,.85);padding:2px 8px;border-radius:10px;pointer-events:none}
 .crumb{display:flex;gap:.5rem;align-items:center;margin-bottom:.5rem;font-size:.9rem}
 .crumb button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:.4rem .9rem;cursor:pointer;font-size:.88rem}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:1.1rem 1.2rem;min-height:300px}
@@ -67,6 +73,8 @@ footer{padding:0 1.25rem 1.5rem;color:var(--muted);font-size:.8rem;line-height:1
   <div class="map-frame">
     <div class="crumb" id="crumb" style="display:none"><button id="backBtn">← 日本全図に戻る</button><span id="crumbText"></span></div>
     <svg id="map" viewBox="0 0 960 960" aria-label="日本地図"></svg>
+    <div class="map-tools"><button id="zoomIn" title="拡大">＋</button><button id="zoomOut" title="縮小">−</button><button id="zoomReset" title="全体表示">全体</button></div>
+    <div class="map-hint">ドラッグで移動／ホイール・ピンチで拡大縮小</div>
   </div>
   <div class="panel" id="panel">
     <h2>地名を選んでください</h2>
@@ -96,25 +104,88 @@ function centerOf(g,b,w,h,m){ // largest polygon bbox center
   polys.forEach(p=>{const r=p[0];let mnx=1/0,mxx=-1/0,mny=1/0,mxy=-1/0;r.forEach(pt=>{mnx=Math.min(mnx,pt[0]);mxx=Math.max(mxx,pt[0]);mny=Math.min(mny,pt[1]);mxy=Math.max(mxy,pt[1])});const area=(mxx-mnx)*(mxy-mny);if(area>bestArea){bestArea=area;best=[(mnx+mxx)/2,(mny+mxy)/2]}});
   if(!best)return{x:w/2,y:h/2};return{x:m+((best[0]-b.minLon)/(b.maxLon-b.minLon))*(w-2*m),y:h-m-((best[1]-b.minLat)/(b.maxLat-b.minLat))*(h-2*m)}}
 
+let view={scale:1,tx:0,ty:0}, lastViewBox={w:960,h:960}, suppressClick=false;
+function applyView(){
+  const vp=document.getElementById("vp");if(!vp)return;
+  vp.setAttribute("transform",`translate(${view.tx},${view.ty}) scale(${view.scale})`);
+  document.querySelectorAll("#map text").forEach(t=>{
+    const b=parseFloat(t.dataset.base||"11");
+    t.style.fontSize=(b/view.scale)+"px";
+    t.style.strokeWidth=(3/view.scale)+"px";
+  });
+}
+function svgPoint(evt){
+  const svg=document.getElementById("map");const pt=svg.createSVGPoint();
+  pt.x=evt.clientX;pt.y=evt.clientY;
+  const m=svg.getScreenCTM();if(!m)return{x:0,y:0};
+  return pt.matrixTransform(m.inverse());
+}
+function zoomAt(p,factor){
+  const ns=Math.min(14,Math.max(1,view.scale*factor));
+  if(ns===view.scale){if(ns===1){view.tx=0;view.ty=0;applyView()}return}
+  const cx=(p.x-view.tx)/view.scale, cy=(p.y-view.ty)/view.scale;
+  view.scale=ns;view.tx=p.x-cx*ns;view.ty=p.y-cy*ns;
+  if(ns===1){view.tx=0;view.ty=0}
+  applyView();
+}
+function resetView(){view={scale:1,tx:0,ty:0};applyView()}
+function setupMapGestures(){
+  const svg=document.getElementById("map");
+  if(svg.dataset.gestures)return;svg.dataset.gestures="1";
+  const pointers=new Map();let drag=null,pinchD=0;
+  svg.addEventListener("pointerdown",e=>{
+    svg.setPointerCapture(e.pointerId);
+    pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
+    suppressClick=false;
+    if(pointers.size===1){drag={x:e.clientX,y:e.clientY,pt:svgPoint(e),tx:view.tx,ty:view.ty,moved:false}}
+    else if(pointers.size===2){const[a,b]=[...pointers.values()];pinchD=Math.hypot(a.x-b.x,a.y-b.y);drag=null}
+  });
+  svg.addEventListener("pointermove",e=>{
+    if(!pointers.has(e.pointerId))return;
+    pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
+    if(pointers.size===2&&pinchD>0){
+      const[a,b]=[...pointers.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);
+      if(d>0){zoomAt(svgPoint({clientX:(a.x+b.x)/2,clientY:(a.y+b.y)/2}),d/pinchD);pinchD=d}
+      suppressClick=true;return;
+    }
+    if(drag){
+      const p=svgPoint(e);
+      view.tx=drag.tx+(p.x-drag.pt.x);view.ty=drag.ty+(p.y-drag.pt.y);
+      if(Math.hypot(e.clientX-drag.x,e.clientY-drag.y)>5){drag.moved=true;suppressClick=true;svg.classList.add("dragging")}
+      applyView();
+    }
+  });
+  const end=e=>{pointers.delete(e.pointerId);if(pointers.size<2)pinchD=0;if(pointers.size===0){drag=null;svg.classList.remove("dragging")}};
+  svg.addEventListener("pointerup",end);svg.addEventListener("pointercancel",end);
+  svg.addEventListener("wheel",e=>{e.preventDefault();zoomAt(svgPoint(e),Math.exp(-e.deltaY*0.0016))},{passive:false});
+  svg.addEventListener("dblclick",e=>{zoomAt(svgPoint(e),1.7)});
+  document.getElementById("zoomIn").addEventListener("click",()=>zoomAt({x:lastViewBox.w/2,y:lastViewBox.h/2},1.45));
+  document.getElementById("zoomOut").addEventListener("click",()=>zoomAt({x:lastViewBox.w/2,y:lastViewBox.h/2},1/1.45));
+  document.getElementById("zoomReset").addEventListener("click",resetView);
+}
+
 function renderMap(features, onClick, labelMode){
   const svg=document.getElementById("map");svg.innerHTML="";
   const b=getBounds(features),{w,h}=viewSize(b),m=60;
   svg.setAttribute("viewBox",`0 0 ${w} ${h}`);
-  const g=document.createElementNS(SVG_NS,"g");svg.appendChild(g);
+  lastViewBox={w,h};
+  const g=document.createElementNS(SVG_NS,"g");g.id="vp";svg.appendChild(g);
   features.forEach(f=>{
     geomPaths(f.geometry,b,w,h,m).forEach(d=>{
       const p=document.createElementNS(SVG_NS,"path");
       p.setAttribute("d",d);p.setAttribute("class","region");p.dataset.name=f.properties.name;
-      p.addEventListener("click",()=>onClick(f,p));
+      p.setAttribute("vector-effect","non-scaling-stroke");
+      p.addEventListener("click",()=>{if(suppressClick)return;onClick(f,p)});
       g.appendChild(p);
     });
   });
   if(labelMode==="all" || (labelMode==="auto" && features.length<=60)){
     features.forEach(f=>{
       const c=centerOf(f.geometry,b,w,h,m);const t=document.createElementNS(SVG_NS,"text");
-      t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.textContent=f.properties.name;svg.appendChild(t);
+      t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.dataset.base="11";t.textContent=f.properties.name;g.appendChild(t);
     });
   }
+  view={scale:1,tx:0,ty:0};applyView();setupMapGestures();
 }
 function markSelected(name){document.querySelectorAll("path.region").forEach(p=>p.classList.toggle("selected",p.dataset.name===name))}
 
