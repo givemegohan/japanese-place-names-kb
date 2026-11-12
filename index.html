@@ -133,14 +133,18 @@ function setupMapGestures(){
   const svg=document.getElementById("map");
   if(svg.dataset.gestures)return;svg.dataset.gestures="1";
   const pointers=new Map();let drag=null,pinchD=0;
+  // NOTE: do NOT use setPointerCapture here. Capturing to the svg retargets
+  // the click event to the svg itself, so path click handlers never fire
+  // with a mouse (touch gets implicit capture to the path, which is why
+  // taps kept working). Move/up are listened on window instead, so drags
+  // continue even when the pointer leaves the svg.
   svg.addEventListener("pointerdown",e=>{
-    svg.setPointerCapture(e.pointerId);
     pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
     suppressClick=false;
     if(pointers.size===1){drag={x:e.clientX,y:e.clientY,pt:svgPoint(e),tx:view.tx,ty:view.ty,moved:false}}
     else if(pointers.size===2){const[a,b]=[...pointers.values()];pinchD=Math.hypot(a.x-b.x,a.y-b.y);drag=null}
   });
-  svg.addEventListener("pointermove",e=>{
+  window.addEventListener("pointermove",e=>{
     if(!pointers.has(e.pointerId))return;
     pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
     if(pointers.size===2&&pinchD>0){
@@ -155,8 +159,20 @@ function setupMapGestures(){
       applyView();
     }
   });
-  const end=e=>{pointers.delete(e.pointerId);if(pointers.size<2)pinchD=0;if(pointers.size===0){drag=null;svg.classList.remove("dragging")}};
-  svg.addEventListener("pointerup",end);svg.addEventListener("pointercancel",end);
+  const end=(e,isUp)=>{
+    // Tap fallback: select on pointerup via hit-testing, so selection works
+    // even in environments where the click event is swallowed or retargeted.
+    // The path click handler dedupes via window.__lastTap.
+    if(isUp&&drag&&!drag.moved&&pointers.size===1){
+      const el=document.elementFromPoint(e.clientX,e.clientY);
+      if(el&&el.classList&&el.classList.contains("region")&&typeof el.__pick==="function"){
+        window.__lastTap={name:el.dataset.name,at:Date.now()};
+        el.__pick();
+      }
+    }
+    pointers.delete(e.pointerId);if(pointers.size<2)pinchD=0;if(pointers.size===0){drag=null;svg.classList.remove("dragging")}
+  };
+  window.addEventListener("pointerup",e=>end(e,true));window.addEventListener("pointercancel",e=>end(e,false));
   svg.addEventListener("wheel",e=>{e.preventDefault();zoomAt(svgPoint(e),Math.exp(-e.deltaY*0.0016))},{passive:false});
   svg.addEventListener("dblclick",e=>{zoomAt(svgPoint(e),1.7)});
   document.getElementById("zoomIn").addEventListener("click",()=>zoomAt({x:lastViewBox.w/2,y:lastViewBox.h/2},1.45));
@@ -175,7 +191,13 @@ function renderMap(features, onClick, labelMode){
       const p=document.createElementNS(SVG_NS,"path");
       p.setAttribute("d",d);p.setAttribute("class","region");p.dataset.name=f.properties.name;
       p.setAttribute("vector-effect","non-scaling-stroke");
-      p.addEventListener("click",()=>{if(suppressClick)return;onClick(f,p)});
+      p.__pick=()=>onClick(f,p);
+      p.addEventListener("click",()=>{
+        if(suppressClick)return;
+        const lt=window.__lastTap;
+        if(lt&&lt.name===f.properties.name&&Date.now()-lt.at<400)return; // already handled on pointerup
+        onClick(f,p);
+      });
       g.appendChild(p);
     });
   });
