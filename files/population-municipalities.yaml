@@ -86,7 +86,7 @@ entities:
 - id: muni/01-伊達市
   prefecture: 北海道
   name: 伊達市
-  coverage: planned
+  coverage: recorded
 - id: muni/01-佐呂間町
   prefecture: 北海道
   name: 佐呂間町
@@ -346,7 +346,7 @@ entities:
 - id: muni/01-日高町
   prefecture: 北海道
   name: 日高町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-旭川市
   prefecture: 北海道
   name: 旭川市
@@ -382,7 +382,7 @@ entities:
 - id: muni/01-松前町
   prefecture: 北海道
   name: 松前町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-枝幸町
   prefecture: 北海道
   name: 枝幸町
@@ -398,7 +398,7 @@ entities:
 - id: muni/01-森町
   prefecture: 北海道
   name: 森町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-様似町
   prefecture: 北海道
   name: 様似町
@@ -430,7 +430,7 @@ entities:
 - id: muni/01-池田町
   prefecture: 北海道
   name: 池田町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-沼田町
   prefecture: 北海道
   name: 沼田町
@@ -474,7 +474,7 @@ entities:
 - id: muni/01-清水町
   prefecture: 北海道
   name: 清水町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-清里町
   prefecture: 北海道
   name: 清里町
@@ -798,7 +798,7 @@ entities:
 - id: muni/02-南部町
   prefecture: 青森県
   name: 南部町
-  coverage: planned
+  coverage: recorded
 - id: muni/02-外ヶ浜町
   prefecture: 青森県
   name: 外ヶ浜町
@@ -1110,7 +1110,7 @@ entities:
 - id: muni/04-川崎町
   prefecture: 宮城県
   name: 川崎町
-  coverage: planned
+  coverage: recorded
 - id: muni/04-村田町
   prefecture: 宮城県
   name: 村田町
@@ -1154,7 +1154,7 @@ entities:
 - id: muni/04-美里町
   prefecture: 宮城県
   name: 美里町
-  coverage: planned
+  coverage: recorded
 - id: muni/04-色麻町
   prefecture: 宮城県
   name: 色麻町
@@ -1250,7 +1250,7 @@ entities:
 - id: muni/05-美郷町
   prefecture: 秋田県
   name: 美郷町
-  coverage: planned
+  coverage: recorded
 - id: muni/05-羽後町
   prefecture: 秋田県
   name: 羽後町
@@ -1306,7 +1306,7 @@ entities:
 - id: muni/06-小国町
   prefecture: 山形県
   name: 小国町
-  coverage: planned
+  coverage: recorded
 - id: muni/06-尾花沢市
   prefecture: 山形県
   name: 尾花沢市
@@ -1322,7 +1322,7 @@ entities:
 - id: muni/06-川西町
   prefecture: 山形県
   name: 川西町
-  coverage: planned
+  coverage: recorded
 - id: muni/06-庄内町
   prefecture: 山形県
   name: 庄内町
@@ -1342,7 +1342,7 @@ entities:
 - id: muni/06-朝日町
   prefecture: 山形県
   name: 朝日町
-  coverage: planned
+  coverage: recorded
 - id: muni/06-村山市
   prefecture: 山形県
   name: 村山市
@@ -1386,7 +1386,7 @@ entities:
 - id: muni/06-金山町
   prefecture: 山形県
   name: 金山町
-  coverage: planned
+  coverage: recorded
 - id: muni/06-長井市
   prefecture: 山形県
   name: 長井市
@@ -1434,7 +1434,7 @@ entities:
 - id: muni/07-伊達市
   prefecture: 福島県
   name: 伊達市
-  coverage: planned
+  coverage: recorded
 - id: muni/07-会津坂下町
   prefecture: 福島県
   name: 会津坂下町
@@ -1526,7 +1526,7 @@ entities:
 - id: muni/07-昭和村
   prefecture: 福島県
   name: 昭和村
-  coverage: planned
+  coverage: recorded
 - id: muni/07-本宮市
   prefecture: 福島県
   name: 本宮市
@@ -1626,7 +1626,7 @@ entities:
 - id: muni/07-金山町
   prefecture: 福島県
   name: 金山町
-  coverage: planned
+  coverage: recorded
 - id: muni/07-鏡石町
   prefecture: 福島県
   name: 鏡石町
@@ -1954,7 +1954,7 @@ entities:
 - id: muni/10-南牧村
   prefecture: 群馬県
   name: 南牧村
-  coverage: planned
+  coverage: recorded
 - id: muni/10-吉岡町
   prefecture: 群馬県
   name: 吉岡町
@@ -1986,11 +1986,11 @@ entities:
 - id: muni/10-明和町
   prefecture: 群馬県
   name: 明和町
-  coverage: planned
+  coverage: recorded
 - id: muni/10-昭和村
   prefecture: 群馬県
   name: 昭和村
-  coverage: planned
+  coverage: recorded
 - id: muni/10-東吾妻町
   prefecture: 群馬県
   name: 東吾妻町
@@ -2054,7 +2054,7 @@ entities:
 - id: muni/10-高山村
   prefecture: 群馬県
   name: 高山村
-  coverage: planned
+  coverage: recorded
 - id: muni/10-高崎市
   prefecture: 群馬県
   name: 高崎市
@@ -2262,7 +2262,7 @@ entities:
 - id: muni/11-美里町
   prefecture: 埼玉県
   name: 美里町
-  coverage: planned
+  coverage: recorded
 - id: muni/11-羽生市
   prefecture: 埼玉県
   name: 羽生市
@@ -2627,7 +2627,7 @@ entities:
 - id: muni/13-府中市
   prefecture: 東京都
   name: 府中市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-御蔵島村
   prefecture: 東京都
   name: 御蔵島村
@@ -3064,7 +3064,7 @@ entities:
 - id: muni/16-朝日町
   prefecture: 富山県
   name: 朝日町
-  coverage: planned
+  coverage: recorded
 - id: muni/16-氷見市
   prefecture: 富山県
   name: 氷見市
@@ -3212,7 +3212,7 @@ entities:
 - id: muni/18-池田町
   prefecture: 福井県
   name: 池田町
-  coverage: planned
+  coverage: recorded
 - id: muni/18-福井市
   prefecture: 福井県
   name: 福井市
@@ -3220,7 +3220,7 @@ entities:
 - id: muni/18-美浜町
   prefecture: 福井県
   name: 美浜町
-  coverage: planned
+  coverage: recorded
 - id: muni/18-若狭町
   prefecture: 福井県
   name: 若狭町
@@ -3264,7 +3264,7 @@ entities:
 - id: muni/19-南部町
   prefecture: 山梨県
   name: 南部町
-  coverage: planned
+  coverage: recorded
 - id: muni/19-大月市
   prefecture: 山梨県
   name: 大月市
@@ -3404,7 +3404,7 @@ entities:
 - id: muni/20-南牧村
   prefecture: 長野県
   name: 南牧村
-  coverage: planned
+  coverage: recorded
 - id: muni/20-南相木村
   prefecture: 長野県
   name: 南相木村
@@ -3496,7 +3496,7 @@ entities:
 - id: muni/20-川上村
   prefecture: 長野県
   name: 川上村
-  coverage: planned
+  coverage: recorded
 - id: muni/20-平谷村
   prefecture: 長野県
   name: 平谷村
@@ -3548,7 +3548,7 @@ entities:
 - id: muni/20-池田町
   prefecture: 長野県
   name: 池田町
-  coverage: planned
+  coverage: recorded
 - id: muni/20-泰阜村
   prefecture: 長野県
   name: 泰阜村
@@ -3648,11 +3648,11 @@ entities:
 - id: muni/20-高山村
   prefecture: 長野県
   name: 高山村
-  coverage: planned
+  coverage: recorded
 - id: muni/20-高森町
   prefecture: 長野県
   name: 高森町
-  coverage: planned
+  coverage: recorded
 - id: muni/20-麻績村
   prefecture: 長野県
   name: 麻績村
@@ -3756,7 +3756,7 @@ entities:
 - id: muni/21-池田町
   prefecture: 岐阜県
   name: 池田町
-  coverage: planned
+  coverage: recorded
 - id: muni/21-海津市
   prefecture: 岐阜県
   name: 海津市
@@ -3900,7 +3900,7 @@ entities:
 - id: muni/22-森町
   prefecture: 静岡県
   name: 森町
-  coverage: planned
+  coverage: recorded
 - id: muni/22-河津町
   prefecture: 静岡県
   name: 河津町
@@ -3916,7 +3916,7 @@ entities:
 - id: muni/22-清水町
   prefecture: 静岡県
   name: 清水町
-  coverage: planned
+  coverage: recorded
 - id: muni/22-湖西市
   prefecture: 静岡県
   name: 湖西市
@@ -4129,7 +4129,7 @@ entities:
 - id: muni/23-美浜町
   prefecture: 愛知県
   name: 美浜町
-  coverage: planned
+  coverage: recorded
 - id: muni/23-蒲郡市
   prefecture: 愛知県
   name: 蒲郡市
@@ -4249,11 +4249,11 @@ entities:
 - id: muni/24-明和町
   prefecture: 三重県
   name: 明和町
-  coverage: planned
+  coverage: recorded
 - id: muni/24-朝日町
   prefecture: 三重県
   name: 朝日町
-  coverage: planned
+  coverage: recorded
 - id: muni/24-木曽岬町
   prefecture: 三重県
   name: 木曽岬町
@@ -4325,7 +4325,7 @@ entities:
 - id: muni/25-日野町
   prefecture: 滋賀県
   name: 日野町
-  coverage: planned
+  coverage: recorded
 - id: muni/25-東近江市
   prefecture: 滋賀県
   name: 東近江市
@@ -4525,7 +4525,7 @@ entities:
 - id: muni/27-太子町
   prefecture: 大阪府
   name: 太子町
-  coverage: planned
+  coverage: recorded
 - id: muni/27-守口市
   prefecture: 大阪府
   name: 守口市
@@ -4709,7 +4709,7 @@ entities:
 - id: muni/28-太子町
   prefecture: 兵庫県
   name: 太子町
-  coverage: planned
+  coverage: recorded
 - id: muni/28-姫路市
   prefecture: 兵庫県
   name: 姫路市
@@ -4893,11 +4893,11 @@ entities:
 - id: muni/29-川上村
   prefecture: 奈良県
   name: 川上村
-  coverage: planned
+  coverage: recorded
 - id: muni/29-川西町
   prefecture: 奈良県
   name: 川西町
-  coverage: planned
+  coverage: recorded
 - id: muni/29-平群町
   prefecture: 奈良県
   name: 平群町
@@ -5025,7 +5025,7 @@ entities:
 - id: muni/30-広川町
   prefecture: 和歌山県
   name: 広川町
-  coverage: planned
+  coverage: recorded
 - id: muni/30-御坊市
   prefecture: 和歌山県
   name: 御坊市
@@ -5041,7 +5041,7 @@ entities:
 - id: muni/30-日高町
   prefecture: 和歌山県
   name: 日高町
-  coverage: planned
+  coverage: recorded
 - id: muni/30-有田川町
   prefecture: 和歌山県
   name: 有田川町
@@ -5085,7 +5085,7 @@ entities:
 - id: muni/30-美浜町
   prefecture: 和歌山県
   name: 美浜町
-  coverage: planned
+  coverage: recorded
 - id: muni/30-那智勝浦町
   prefecture: 和歌山県
   name: 那智勝浦町
@@ -5117,7 +5117,7 @@ entities:
 - id: muni/31-南部町
   prefecture: 鳥取県
   name: 南部町
-  coverage: planned
+  coverage: recorded
 - id: muni/31-境港市
   prefecture: 鳥取県
   name: 境港市
@@ -5141,7 +5141,7 @@ entities:
 - id: muni/31-日野町
   prefecture: 鳥取県
   name: 日野町
-  coverage: planned
+  coverage: recorded
 - id: muni/31-智頭町
   prefecture: 鳥取県
   name: 智頭町
@@ -5225,7 +5225,7 @@ entities:
 - id: muni/32-美郷町
   prefecture: 島根県
   name: 美郷町
-  coverage: planned
+  coverage: recorded
 - id: muni/32-西ノ島町
   prefecture: 島根県
   name: 西ノ島町
@@ -5409,11 +5409,11 @@ entities:
 - id: muni/34-府中市
   prefecture: 広島県
   name: 府中市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-府中町
   prefecture: 広島県
   name: 府中町
-  coverage: planned
+  coverage: recorded
 - id: muni/34-廿日市市
   prefecture: 広島県
   name: 廿日市市
@@ -5741,7 +5741,7 @@ entities:
 - id: muni/38-松前町
   prefecture: 愛媛県
   name: 松前町
-  coverage: planned
+  coverage: recorded
 - id: muni/38-松山市
   prefecture: 愛媛県
   name: 松山市
@@ -6005,11 +6005,11 @@ entities:
 - id: muni/40-川崎町
   prefecture: 福岡県
   name: 川崎町
-  coverage: planned
+  coverage: recorded
 - id: muni/40-広川町
   prefecture: 福岡県
   name: 広川町
-  coverage: planned
+  coverage: recorded
 - id: muni/40-志免町
   prefecture: 福岡県
   name: 志免町
@@ -6373,7 +6373,7 @@ entities:
 - id: muni/43-小国町
   prefecture: 熊本県
   name: 小国町
-  coverage: planned
+  coverage: recorded
 - id: muni/43-山江村
   prefecture: 熊本県
   name: 山江村
@@ -6445,7 +6445,7 @@ entities:
 - id: muni/43-美里町
   prefecture: 熊本県
   name: 美里町
-  coverage: planned
+  coverage: recorded
 - id: muni/43-芦北町
   prefecture: 熊本県
   name: 芦北町
@@ -6485,7 +6485,7 @@ entities:
 - id: muni/43-高森町
   prefecture: 熊本県
   name: 高森町
-  coverage: planned
+  coverage: recorded
 - id: muni/44-中津市
   prefecture: 大分県
   name: 中津市
@@ -6625,7 +6625,7 @@ entities:
 - id: muni/45-美郷町
   prefecture: 宮崎県
   name: 美郷町
-  coverage: planned
+  coverage: recorded
 - id: muni/45-西米良村
   prefecture: 宮崎県
   name: 西米良村
