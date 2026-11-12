@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本の地名の由来 — 地図で読む地名ナレッジベース</title>
+<style>
+:root{--bg:#f4f4f3;--panel:#fff;--ink:#1e2a2f;--muted:#5b6970;--line:#d9dde0;--accent:#b3541e;--accent2:#3d8bfd;--fact:#eef6ee;--legend:#fdf3e3;--fill:#eceff1;--fill-sel:#f6c177}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Segoe UI","Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;background:var(--bg);color:var(--ink)}
+header{padding:1rem 1.25rem;background:var(--panel);border-bottom:1px solid var(--line)}
+h1{margin:0;font-size:1.25rem}
+.sub{margin:.35rem 0 0;color:var(--muted);font-size:.88rem;line-height:1.6}
+.controls{display:flex;gap:.6rem;flex-wrap:wrap;padding:.8rem 1.25rem;background:var(--panel);border-bottom:1px solid var(--line);align-items:center}
+.controls input[type=search]{flex:1;min-width:200px;padding:.55rem .8rem;border:1px solid var(--line);border-radius:999px;font-size:.95rem}
+.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:.35rem .8rem;font-size:.82rem;cursor:pointer}
+.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.layout{display:grid;grid-template-columns:minmax(320px,1.1fr) minmax(320px,1fr);gap:1rem;padding:1rem 1.25rem;align-items:start}
+@media (max-width:900px){.layout{grid-template-columns:1fr}}
+.map-frame{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:.6rem;position:sticky;top:1rem}
+@media (max-width:900px){.map-frame{position:static}}
+svg#map{width:100%;height:auto;display:block;touch-action:manipulation}
+svg#map path.region{fill:var(--fill);stroke:#8a97a0;stroke-width:.8;cursor:pointer}
+svg#map path.region:hover{fill:#dfe7ef}
+svg#map path.region.selected{fill:var(--fill-sel);stroke:var(--accent);stroke-width:1.6}
+svg#map text{font-size:11px;fill:#41505a;pointer-events:none;text-anchor:middle}
+.crumb{display:flex;gap:.5rem;align-items:center;margin-bottom:.5rem;font-size:.9rem}
+.crumb button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:.4rem .9rem;cursor:pointer;font-size:.88rem}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:1.1rem 1.2rem;min-height:300px}
+.panel h2{margin:.1rem 0 .3rem;font-size:1.35rem}
+.reading{color:var(--muted);font-size:.9rem}
+.badges{display:flex;gap:.4rem;flex-wrap:wrap;margin:.6rem 0}
+.badge{font-size:.75rem;border-radius:999px;padding:.2rem .6rem;background:#eef1f3;border:1px solid var(--line)}
+.badge.lv-E1{background:#dcefe0}.badge.lv-E2{background:#e6f0e4}.badge.lv-E3{background:#fdf6da}.badge.lv-E4{background:#fdeeda}.badge.lv-E5,.badge.lv-H{background:#f6e3e3}
+.badge.st-contested{background:#fdeeda}.badge.st-indeterminate,.badge.st-unknown{background:#eee}
+.summary{line-height:1.8;font-size:.95rem}
+h3.sec{margin:1.1rem 0 .5rem;font-size:1rem;border-left:4px solid var(--accent);padding-left:.5rem}
+h3.sec.legend{border-left-color:#d99a26}
+.claim{border:1px solid var(--line);border-radius:10px;padding:.6rem .8rem;margin:.45rem 0;font-size:.9rem;line-height:1.7;background:var(--fact)}
+.claim.legend{background:var(--legend)}
+.claim .meta{margin-top:.35rem;display:flex;gap:.35rem;flex-wrap:wrap}
+.column-box{background:#f7f3ec;border:1px dashed #c9a86a;border-radius:10px;padding:.8rem .95rem;margin-top:.6rem;line-height:1.8;font-size:.92rem}
+.column-box .ct{font-weight:700;margin-bottom:.3rem}
+.drill{margin-top:1rem;width:100%;padding:.75rem;border:none;border-radius:10px;background:var(--accent);color:#fff;font-size:1rem;cursor:pointer}
+.srcs{font-size:.82rem;color:var(--muted);line-height:1.7}
+.srcs a{color:var(--accent2)}
+.unknowns{font-size:.85rem;color:var(--muted);line-height:1.7}
+.results{display:flex;flex-direction:column;gap:.4rem}
+.results button{text-align:left;border:1px solid var(--line);background:#fff;border-radius:10px;padding:.55rem .8rem;cursor:pointer;font-size:.92rem}
+.results button:hover{border-color:var(--accent)}
+.stats{padding:0 1.25rem 1.2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
+footer{padding:0 1.25rem 1.5rem;color:var(--muted);font-size:.8rem;line-height:1.7}
+.status{padding:.4rem 1.25rem;color:var(--muted);font-size:.88rem}
+</style>
+</head>
+<body>
+<header>
+  <h1>日本の地名の由来</h1>
+  <p class="sub">都道府県・市区町村の名前がどこから来たのかを、一次文献まで遡った出典つきで記録するナレッジベースです。主張は「歴史的事実」と「民間伝説」に分けて表示します。地図の地域をクリックすると由来が表示され、都道府県からは市区町村まで深追いできます。<br>※本サイトの内容はAIが調査・作成し、出典と証拠レベルを付けて公開しているものです。地図データは WhiteMap（givemegohan.xyz/whitemap）のデータを許可を得て再利用しています。</p>
+</header>
+<div class="controls">
+  <input type="search" id="q" placeholder="地名・読み・キーワードで検索（例：府中、信長、風土記）">
+  <span id="chips"></span>
+</div>
+<div class="status" id="status">読み込み中…</div>
+<div class="layout">
+  <div class="map-frame">
+    <div class="crumb" id="crumb" style="display:none"><button id="backBtn">← 日本全図に戻る</button><span id="crumbText"></span></div>
+    <svg id="map" viewBox="0 0 960 960" aria-label="日本地図"></svg>
+  </div>
+  <div class="panel" id="panel">
+    <h2>地名を選んでください</h2>
+    <p class="summary">左の地図で都道府県をクリックすると、その名前の由来がここに表示されます。検索欄からも探せます。</p>
+    <div class="results" id="homeList"></div>
+  </div>
+</div>
+<div class="stats" id="stats"></div>
+<footer>出典は各レコード内に表示しています。証拠レベル：E1 一次文献／E2 公的・学術の二次資料／E3 専門文献／E4 地域の証言・郷土資料／E5 出典不明の一般情報／H 類推。状態：対立＝信頼できる資料が食い違うため両論併記、判定困難＝調べたが決められないもの。</footer>
+
+<script>
+const SVG_NS = "http://www.w3.org/2000/svg";
+const PREF_ORDER = ["北海道","青森県","岩手県","宮城県","秋田県","山形県","福島県","茨城県","栃木県","群馬県","埼玉県","千葉県","東京都","神奈川県","新潟県","富山県","石川県","福井県","山梨県","長野県","岐阜県","静岡県","愛知県","三重県","滋賀県","京都府","大阪府","兵庫県","奈良県","和歌山県","鳥取県","島根県","岡山県","広島県","山口県","徳島県","香川県","愛媛県","高知県","福岡県","佐賀県","長崎県","熊本県","大分県","宮崎県","鹿児島県","沖縄県"];
+const codeOf = name => String(PREF_ORDER.indexOf(name) + 1).padStart(2, "0");
+let records = [], sources = {}, muniIndex = null, prefGeo = null;
+let mode = "pref"; // pref | muni
+let currentPref = null; // {code, name}
+
+function eachCoord(g,fn){if(!g)return;if(g.type==="GeometryCollection"){(g.geometries||[]).forEach(x=>eachCoord(x,fn));return}const walk=c=>{if(typeof c[0]==="number")fn(c);else c.forEach(walk)};walk(g.coordinates)}
+function getBounds(features){let a={minLon:1/0,minLat:1/0,maxLon:-1/0,maxLat:-1/0};features.forEach(f=>eachCoord(f.geometry,c=>{a.minLon=Math.min(a.minLon,c[0]);a.maxLon=Math.max(a.maxLon,c[0]);a.minLat=Math.min(a.minLat,c[1]);a.maxLat=Math.max(a.maxLat,c[1])}));return a}
+function viewSize(b){const sx=Math.max(b.maxLon-b.minLon,1e-6), sy=Math.max(b.maxLat-b.minLat,1e-6);const aspect=(sx*Math.cos((b.minLat+b.maxLat)/2*Math.PI/180))/sy;let w=960,h=960;if(aspect>1.25)h=Math.max(480,Math.round(960/aspect));else if(aspect<0.8)w=Math.max(480,Math.round(960*aspect));return{w,h}}
+function ringPath(ring,b,w,h,m){const px=lon=>m+((lon-b.minLon)/(b.maxLon-b.minLon))*(w-2*m);const py=lat=>h-m-((lat-b.minLat)/(b.maxLat-b.minLat))*(h-2*m);return ring.map((p,i)=>(i?"L":"M")+px(p[0]).toFixed(1)+" "+py(p[1]).toFixed(1)).join(" ")+" Z"}
+function geomPaths(g,b,w,h,m){let out=[];if(!g)return out;if(g.type==="Polygon")g.coordinates.forEach(r=>out.push(ringPath(r,b,w,h,m)));else if(g.type==="MultiPolygon")g.coordinates.forEach(p=>p.forEach(r=>out.push(ringPath(r,b,w,h,m))));else if(g.type==="GeometryCollection")g.geometries.forEach(x=>out=out.concat(geomPaths(x,b,w,h,m)));return out}
+function polysOf(g){if(!g)return[];if(g.type==="Polygon")return[g.coordinates];if(g.type==="MultiPolygon")return g.coordinates;if(g.type==="GeometryCollection")return (g.geometries||[]).flatMap(polysOf);return[]}
+function centerOf(g,b,w,h,m){ // largest polygon bbox center
+  let best=null,bestArea=-1;const polys=polysOf(g);
+  polys.forEach(p=>{const r=p[0];let mnx=1/0,mxx=-1/0,mny=1/0,mxy=-1/0;r.forEach(pt=>{mnx=Math.min(mnx,pt[0]);mxx=Math.max(mxx,pt[0]);mny=Math.min(mny,pt[1]);mxy=Math.max(mxy,pt[1])});const area=(mxx-mnx)*(mxy-mny);if(area>bestArea){bestArea=area;best=[(mnx+mxx)/2,(mny+mxy)/2]}});
+  if(!best)return{x:w/2,y:h/2};return{x:m+((best[0]-b.minLon)/(b.maxLon-b.minLon))*(w-2*m),y:h-m-((best[1]-b.minLat)/(b.maxLat-b.minLat))*(h-2*m)}}
+
+function renderMap(features, onClick, labelMode){
+  const svg=document.getElementById("map");svg.innerHTML="";
+  const b=getBounds(features),{w,h}=viewSize(b),m=60;
+  svg.setAttribute("viewBox",`0 0 ${w} ${h}`);
+  const g=document.createElementNS(SVG_NS,"g");svg.appendChild(g);
+  features.forEach(f=>{
+    geomPaths(f.geometry,b,w,h,m).forEach(d=>{
+      const p=document.createElementNS(SVG_NS,"path");
+      p.setAttribute("d",d);p.setAttribute("class","region");p.dataset.name=f.properties.name;
+      p.addEventListener("click",()=>onClick(f,p));
+      g.appendChild(p);
+    });
+  });
+  if(labelMode==="all" || (labelMode==="auto" && features.length<=60)){
+    features.forEach(f=>{
+      const c=centerOf(f.geometry,b,w,h,m);const t=document.createElementNS(SVG_NS,"text");
+      t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.textContent=f.properties.name;svg.appendChild(t);
+    });
+  }
+}
+function markSelected(name){document.querySelectorAll("path.region").forEach(p=>p.classList.toggle("selected",p.dataset.name===name))}
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function claimHtml(c){
+  const st = c.status && c.status!=="established" ? `<span class="badge st-${esc(c.status)}">${esc({contested:"対立",indeterminate:"判定困難",inferred:"類推",unknown:"未確認"}[c.status]||c.status)}</span>` : "";
+  return `<div class="claim ${c.kind==="legend"?"legend":""}"><div>${esc(c.text)}</div><div class="meta"><span class="badge lv-${esc(c.level)}">${esc(c.level)}</span>${st}</div></div>`;
+}
+function srcLabel(k){const s=sources[k];if(!s)return k;return s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>`:esc(s.label)}
+
+function showPrefRecord(rec){
+  const panel=document.getElementById("panel");
+  const facts=rec.claims.filter(c=>c.kind!=="legend"), legends=rec.claims.filter(c=>c.kind==="legend");
+  const fa=rec.first_attestation||{};
+  const usedKeys=new Set();rec.claims.forEach(c=>(c.sources||[]).forEach(k=>usedKeys.add(k)));((rec.column||{}).sources||[]).forEach(k=>usedKeys.add(k));
+  panel.innerHTML=`
+    <h2>${esc(rec.names.ja)}</h2>
+    <div class="reading">${esc(rec.names.reading||"")}${rec.names.aliases&&rec.names.aliases.length?` ／ 旧称・別名：${rec.names.aliases.map(esc).join("、")}`:""}</div>
+    <div class="badges"><span class="badge">命名の類型：${esc(rec.naming_type||"")}</span>
+    ${fa.document?`<span class="badge">初出：${esc(fa.era||"")}${fa.year_western?`（${fa.year_western}年）`:""}『${esc(fa.document)}』</span>`:""}</div>
+    <p class="summary">${esc(rec.summary)}</p>
+    ${fa.note?`<p class="unknowns">初出について：${esc(fa.note)}</p>`:""}
+    <h3 class="sec">歴史的事実</h3>${facts.map(claimHtml).join("")||"<p class='unknowns'>記録なし</p>"}
+    ${legends.length?`<h3 class="sec legend">民間伝説・伝承（事実とは分けて記録）</h3>${legends.map(claimHtml).join("")}`:""}
+    ${rec.column?`<div class="column-box"><div class="ct">コラム：${esc(rec.column.title)}</div><div>${esc(rec.column.text)}</div></div>`:""}
+    ${rec.unknowns&&rec.unknowns.length?`<h3 class="sec">まだ分かっていないこと</h3><p class="unknowns">${rec.unknowns.map(esc).join("<br>")}</p>`:""}
+    <button class="drill" id="drillBtn">市区町村を深追いする（${esc(rec.names.ja)}の市区町村地図へ）</button>
+    <h3 class="sec">出典</h3><p class="srcs">${[...usedKeys].map(srcLabel).join("<br>")}</p>`;
+  document.getElementById("drillBtn").addEventListener("click",()=>enterMuni(rec));
+  panel.scrollIntoView({behavior:"smooth",block:"start"});
+}
+
+async function enterMuni(rec){
+  const code=rec.code, name=rec.names.ja;
+  mode="muni";currentPref={code,name,rec};
+  document.getElementById("status").textContent=`${name}の市区町村データを読み込み中…`;
+  try{
+    const geo=await (await fetch(`data/muni/${code}.geojson`)).json();
+    document.getElementById("crumb").style.display="flex";
+    document.getElementById("crumbText").textContent=`${name}の市区町村（クリックで詳細）`;
+    renderMap(geo.features,(f,path)=>{markSelected(f.properties.name);showMuni(name,f.properties.name)},"auto");
+    document.getElementById("status").textContent=`${name}の市区町村 ${geo.features.length} 件を表示中。市区町村をクリックしてください。`;
+    showPrefRecord(rec);
+  }catch(e){
+    document.getElementById("status").textContent="市区町村データの読み込みに失敗しました。";
+  }
+}
+function showMuni(prefName, muniName){
+  const panel=document.getElementById("panel");
+  const homos=(muniIndex&&muniIndex.homonyms&&muniIndex.homonyms[muniName])||[];
+  const others=homos.filter(p=>p!==prefName);
+  panel.innerHTML=`
+    <h2>${esc(muniName)}</h2>
+    <div class="reading">${esc(prefName)}</div>
+    <div class="badges"><span class="badge">市区町村レコード：調査中（これから作成）</span></div>
+    <p class="summary">この自治体の地名の由来は、市区町村レベルの第2フェーズで、一次文献まで遡って1件ずつ記録していきます。現時点では未調査のため、由来は表示しません（推測で埋めることはしません）。</p>
+    ${others.length?`<div class="column-box"><div class="ct">同名の自治体があります</div><div>「${esc(muniName)}」は ${others.map(esc).join("、")} にもあります。同名でも由来が同じとは限らないため、それぞれ別々に調査します。</div></div>`:""}
+    <button class="drill" id="backPref">${esc(prefName)}の由来に戻る</button>`;
+  document.getElementById("backPref").addEventListener("click",()=>{const rec=records.find(r=>r.code===currentPref.code);if(rec)showPrefRecord(rec)});
+}
+
+function renderPrefMap(){
+  mode="pref";currentPref=null;
+  document.getElementById("crumb").style.display="none";
+  renderMap(prefGeo.features,(f,path)=>{
+    markSelected(f.properties.name);
+    const rec=records.find(r=>r.names.ja===f.properties.name);
+    if(rec)showPrefRecord(rec);
+  },"all");
+  document.getElementById("status").textContent="都道府県をクリックすると由来が表示されます。";
+}
+document.getElementById("backBtn").addEventListener("click",renderPrefMap);
+
+function renderHomeList(list){
+  const el=document.getElementById("homeList");if(!el)return;
+  el.innerHTML=list.map(r=>`<button data-id="${esc(r.id)}">${esc(r.names.ja)} — ${esc(r.summary.slice(0,60))}…</button>`).join("");
+  el.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
+    const rec=records.find(r=>r.id===b.dataset.id);if(!rec)return;
+    if(mode!=="pref")renderPrefMap();
+    markSelected(rec.names.ja);showPrefRecord(rec);
+  }));
+}
+// naming_type chips
+let activeType=null;
+function renderChips(){
+  const types=[...new Set(records.map(r=>r.naming_type).filter(Boolean))];
+  const box=document.getElementById("chips");
+  box.innerHTML=types.map(t=>`<button class="chip" data-t="${esc(t)}">${esc(t)}</button>`).join("");
+  box.querySelectorAll(".chip").forEach(ch=>ch.addEventListener("click",()=>{
+    activeType=activeType===ch.dataset.t?null:ch.dataset.t;
+    box.querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",c.dataset.t===activeType));
+    applyFilter();
+  }));
+}
+function applyFilter(){
+  const q=document.getElementById("q").value.trim();
+  let list=records;
+  if(activeType)list=list.filter(r=>r.naming_type===activeType);
+  if(q){
+    list=list.filter(r=>JSON.stringify(r).includes(q));
+  }
+  if(q||activeType){
+    const panel=document.getElementById("panel");
+    panel.innerHTML=`<h2>検索結果 ${list.length}件</h2><div class="results">${list.map(r=>`<button data-id="${esc(r.id)}">${esc(r.names.ja)}（${esc(r.naming_type||"")}）— ${esc(r.summary.slice(0,70))}…</button>`).join("")||"<p class='unknowns'>見つかりませんでした。</p>"}</div>`;
+    panel.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{
+      const rec=records.find(r=>r.id===b.dataset.id);if(!rec)return;
+      if(mode!=="pref")renderPrefMap();
+      markSelected(rec.names.ja);showPrefRecord(rec);
+    }));
+  }
+}
+document.getElementById("q").addEventListener("input",applyFilter);
+
+(async()=>{
+  try{
+    const [recRes, geoRes, muniRes] = await Promise.all([
+      fetch("data/prefecture-records.json"), fetch("data/prefectures.geojson"), fetch("data/municipalities-index.json")
+    ]);
+    const recData=await recRes.json(); records=recData.records; sources=recData.sources;
+    prefGeo=await geoRes.json(); muniIndex=await muniRes.json();
+    renderPrefMap(); renderChips(); renderHomeList(records);
+    const nFact=records.reduce((a,r)=>a+r.claims.filter(c=>c.kind!=="legend").length,0);
+    const nLeg=records.reduce((a,r)=>a+r.claims.filter(c=>c.kind==="legend").length,0);
+    document.getElementById("stats").innerHTML=`現在収載：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件、出典 ${Object.keys(sources).length} 件）。市区町村は母集団 ${Object.values(muniIndex.municipalities).reduce((a,v)=>a+v.length,0)} 件を地図に収載し、由来レコードはこれから県ごとに作成します。`;
+  }catch(e){
+    document.getElementById("status").textContent="データの読み込みに失敗しました。";
+  }
+})();
+</script>
+</body>
+</html>

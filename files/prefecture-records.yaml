@@ -1,0 +1,4698 @@
+sources:
+  a-hok-pref:
+    label: 北海道庁「北海道の名前について」（文書館FAQ）
+    url: https://www.pref.hokkaido.lg.jp/sm/mnj/d/faq/faq02.html
+  a-hok-matsusaka:
+    label: 松阪市「明治維新に開拓判官を務める―松浦武四郎記念館」（北海道道名撰定上申書の解説）
+    url: https://www.city.matsusaka.mie.jp/site/takesiro/hangan.html
+  a-hok-opinion:
+    label: 松浦武四郎の道名に関する意見書（明治2年、ユーザーの途中資料では『蝦夷地道名之儀勘弁申上候書付』、松阪市は『北海道道名撰定上申書』と表記）
+    url: null
+  a-hok-dajokan:
+    label: 太政官布告（明治2年8月15日、蝦夷地を北海道と改称し11国86郡を置く）
+    url: null
+  a-aom-pref-kids:
+    label: 青森県庁「伝説・地名―『青森』の地名はどこからついたの？」
+    url: https://www.pref.aomori.lg.jp/kids/08_tradition.html
+  a-aom-pref-qa:
+    label: 青森県庁「青森県史の質問箱01―青森県の由来や地名について」
+    url: https://www.pref.aomori.lg.jp/soshiki/kotsu/seikatsu/shitsumon01.html
+  a-aom-pref-kinsei:
+    label: 青森県庁「青森県史の玉手箱 近世001―青森という地名は明治からじゃない」
+    url: https://www.pref.aomori.lg.jp/soshiki/kotsu/seikatsu/kenshi-tamatebako-kinsei01.html
+  a-aom-city:
+    label: 青森市「みなとまち・あおもり誕生400年」（1625年の連署奉書と1626年の黒印状・命名開始）
+    url: https://www.city.aomori.aomori.jp/bunka_sports_kankou/rekishi/1007593.html
+  a-iwa-pref:
+    label: 岩手県庁「岩手の名のおこり」（県プロフィール）
+    url: https://www.pref.iwate.jp/kensei/profile/1000647.html
+  a-iwa-bunka:
+    label: いわての文化情報大事典「県名・岩手の由来」（岩手県）
+    url: http://www.bunka.pref.iwate.jp/archive/p1495
+  a-iwa-lib:
+    label: 岩手県立図書館レファレンス事例（『角川日本地名大辞典3 岩手県』『岩手県史』による岩手県名の沿革）
+    url: https://www.library.pref.iwate.jp/aboutus/kanpo/kanpo160/160_07-08.pdf
+  a-yamato-monogatari:
+    label: 『大和物語』第152段（天暦5年頃・951年頃成立、「磐手」の鷹の逸話）
+    url: null
+  a-rename-1872:
+    label: 国立公文書館デジタルアーカイブ／JACAR「仙台県ヲ宮城県盛岡県ヲ岩手県ト改ム」（太政類典、明治5年1月8日、両県からの改称申請を含む）
+    url: https://www.jacar.archives.go.jp/das/meta/A24010821500
+  a-miy-sendai-lib:
+    label: 仙台市図書館レファレンス「『宮城県』の県名の由来」（『続日本紀』の引用と改称の経緯）
+    url: https://lib-www.smt.city.sendai.jp/wysiwyg/file/download/1/712
+  a-miy-pref-guide:
+    label: 宮城県公式ガイド（県名の由来：宮城郡、志波彦・鹽竈神社の宮と多賀城の城、屯倉説）
+    url: https://www.pref.miyagi.jp/documents/5966/miyagiguide-otona2.pdf
+  a-miy-rifu:
+    label: 利府町広報（硯沢窯跡出土『宮城郡』刻書須恵器は宮城郡を示す最古の資料とする町の解説）
+    url: https://www.town.rifu.miyagi.jp/material/files/group/40/R6kouhourifu9-14-15.pdf
+  a-miy-kotobank:
+    label: コトバンク「宮城県」（日本大百科全書系の解説。明治21年に皇居を宮城と称した際の県名存続の経緯を含む）
+    url: https://kotobank.jp/word/%E5%AE%AE%E5%9F%8E%E7%9C%8C-139493
+  a-shoku-nihongi:
+    label: 『続日本紀』（797年成立の官史。天平5年・天平神護2年などの条）
+    url: null
+  a-nihon-shoki:
+    label: 『日本書紀』斉明天皇4年（658年）条（齶田の記載）
+    url: null
+  a-aki-pref-tenji:
+    label: 秋田県立博物館・埋蔵文化財センター展示解説（『日本書紀』に齶田、『続日本紀』に秋田村と現れる旨の県機関の解説）
+    url: https://common3.pref.akita.lg.jp/maibun///////html/events/exhibisions_2016.html
+  a-aki-pref-kensei:
+    label: 秋田県『県勢編』（県公表資料。出羽柵の高清水岡移転と8世紀中頃に秋田城と称された経緯）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000008025_00/H26_01_P.pdf
+  a-wamyo:
+    label: 『和名類聚抄』（承平年間・931〜938年頃成立。出羽国最上郡山方郷の記載）
+    url: null
+  a-yam-pref:
+    label: 山形県庁「山形県について―山形県の名前の由来・山形県の歴史」
+    url: https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagataken/profile.html
+  a-fuk-pref:
+    label: 福島県庁「県名の由来」（『福島県史』『図説福島市史』『ふるさと再発見20』『信夫伊達風土記』を引く）
+    url: https://www.pref.fukushima.lg.jp/site/ken-no-sugata/kenmei-yurai.html
+  a-fuk-city:
+    label: 福島市公式「福島城の変遷」（文禄2年頃に木村吉清が杉目城を福島城と改名、文禄元年説も併記）
+    url: https://www.city.fukushima.fukushima.jp/kanko-bunka-sports/rekishi-bunkazai/4/1/4/11662.html
+  a-shinobu-fudoki:
+    label: 伝説集『信夫伊達風土記』（吹島伝説。福島県庁の県名由来ページが伝説として引用するもの）
+    url: null
+  b-hitachi-fudoki:
+    label: 『常陸国風土記』茨城郡条・総記（8世紀前半成立）
+    url: null
+  b-ibaraki-kenminnohi:
+    label: 茨城県公式「11月13日は茨城県民の日」
+    url: https://www.pref.ibaraki.jp/bugai/koho/kenmin/kenminnohi/r6kenmin.html
+  b-ibaraki-hibari:
+    label: 茨城県広報紙「ひばり」11月号特集・常陸国風土記と地名の由来（茨城県公式）
+    url: https://www.pref.ibaraki.jp/bugai/koho/kenmin/hibari/hibari-site/hibari202211/11tokusyu1.html
+  b-ibaraki-history:
+    label: 茨城県公式「歴史と文化」
+    url: https://www.pref.ibaraki.jp/bugai/koho/kenmin/profile/history.html
+  b-ibaraki-ndl-ref:
+    label: レファレンス協同データベース「茨城県名の由来を知りたい」（国立国会図書館）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000381499&page=ref_view
+  b-tochigi-kenmin:
+    label: 栃木県公式「県民の日・とちぎの由来」
+    url: https://www.pref.tochigi.lg.jp/c05/kensei/aramashi/kenmin.html
+  b-tochigi-150th:
+    label: 栃木県150年記念サイト「とちぎの生い立ち」（栃木県公式）
+    url: https://www.pref.tochigi.lg.jp/150th/ayumi/oitachi.html
+  b-tochigi-dayori:
+    label: とちぎ県民だより6月号・県民の日記念（栃木県公式）
+    url: https://www.pref.tochigi.lg.jp/c05/pref/kouhou/kouhoushi/428-2.html
+  b-gunma-pref:
+    label: 群馬県公式「県名の由来」
+    url: https://www.pref.gunma.jp/site/gunma-gaiyo/1059.html
+  b-gunma-maebashi150:
+    label: 前橋市立図書館企画展示「つる舞う形のふるさと―第二次群馬県150周年」パンフレット（前橋市）
+    url: https://www.city.maebashi.gunma.jp/material/files/group/105/kikakupannfu.pdf
+  b-gunma-mokkan:
+    label: 奈良文化財研究所 木簡データベース（木簡庫）「上毛野国車評」木簡レコード
+    url: https://mokkanko.nabunken.go.jp/ja/MK005084000060
+  b-gunma-kanazawahi:
+    label: 高崎市公式 文化財情報「金井沢碑」
+    url: https://www.city.takasaki.gunma.jp/site/cultural-assets/2577.html
+  b-saitama-hasshohi:
+    label: 「埼玉県名発祥之碑」碑文（埼玉県建立・昭和62年）の転載
+    url: http://engishiki.org/musashi/bun/mus170701-01.html
+  b-saitama-lib-manyo:
+    label: 埼玉県立図書館「万葉集に詠まれた埼玉」
+    url: https://www.lib.pref.saitama.jp/blog/cat5/post-186.html
+  b-saitama-mokkan:
+    label: 奈良文化財研究所 木簡データベース（木簡庫）「前玉評」関連レコード
+    url: https://mokkanko.nabunken.go.jp/ja/5AWHHK17000119
+  b-saitama-150shi:
+    label: 埼玉県公式「埼玉県150年史」関連資料
+    url: https://www.pref.saitama.lg.jp/documents/215813/150kinenshi.pdf
+  b-saitama-gikai:
+    label: 埼玉県議会 令和2年6月定例会 一般質問・答弁（埼玉県公式、前玉神社と幸魂説への言及）
+    url: https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0206/h040.html
+  b-chiba-pref-ayumi:
+    label: 千葉県公式「千葉県のあゆみ」
+    url: https://www.pref.chiba.lg.jp/kouhou/k/aramashi/oitachi.html
+  b-chiba-city-shi:
+    label: 千葉市史 第1巻 原始古代中世編（千葉市地域情報デジタルアーカイブ ADEAC）
+    url: https://adeac.jp/chiba-city/texthtml/d100010/mp000010-100010/ht002380
+  b-chiba-city-900:
+    label: 千葉市公式「千葉開府900年 HISTORY 900年のあゆみ」
+    url: https://www.city.chiba.jp/900th/history.html
+  b-nihon-koki:
+    label: 『日本後紀』延暦24年（805年）・大同元年（806年）条
+    url: null
+  b-tokyo-archives-shosho:
+    label: 国立公文書館デジタルアーカイブ「江戸ヲ称シテ東京ト為スノ詔」（明治元年7月17日）
+    url: https://www.digital.archives.go.jp/item/4123191.html
+  b-tokyo-archives-henbou:
+    label: 国立公文書館デジタル展示「変貌―江戸を東京と定める／東京府を設置」
+    url: https://www.archives.go.jp/exhibition/digital/henbou/contents/03.html
+  b-tokyo-metro-nenpyo:
+    label: 東京都公式「東京都年表」
+    url: https://www.metro.tokyo.lg.jp/tosei/tokyoto/profile/gaiyo/nenpyo
+  b-tokyo-kondo-jstage:
+    label: 佐藤信淵の国土計画思想に関する研究（土木史研究・J-STAGE）
+    url: https://www.jstage.jst.go.jp/article/journalcpij/30/0/30_379/_pdf
+  b-tokyo-soumu:
+    label: 東京都総務局・東京都公文書館「資料解説―東京府庁の始まり」
+    url: https://www.soumu.metro.tokyo.lg.jp/01soumu-archives/07edo_tokyo/0703kaidoku/0703kaidoku_01/0703kaidoku_01_2
+  b-kanagawa-pref:
+    label: 神奈川県公式「神奈川県の県名由来・立庁記念日」
+    url: https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780104.html
+  b-kanagawa-yoran:
+    label: 神奈川県県勢要覧 総説「地名の由来」（神奈川県公式）
+    url: https://www.pref.kanagawa.jp/documents/128385/202401.pdf
+  b-yokohama-kanagawa:
+    label: 横浜市神奈川区公式「神奈川区の歴史年表・地名の由来」
+    url: https://www.city.yokohama.lg.jp/kanagawa/shokai/rekishi/nenpyo.html
+  b-tsurugaoka-doc:
+    label: 鶴岡八幡宮文書 文永3年（1266年）北条時宗下文
+    url: null
+  c-niigata-lib:
+    label: 新潟県立図書館「新潟県の歴史相談室 新潟県全般に関する相談 Q1（県名の由来）」
+    url: https://www.pref-lib.niigata.niigata.jp/1b8446f94c08f7ae67441d7d895601a6/%E6%96%B0%E6%BD%9F%E7%9C%8C%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%85%A8%E8%88%AC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9B%B8%E8%AB%87/%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%85%A8%E8%88%AC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9B%B8%E8%AB%87%E3%80%80%EF%BC%B1%EF%BC%91
+  c-echigo-kako-meibo:
+    label: 『越後過去名簿』（永正17年、高野山清浄院蔵。新潟県立図書館解説が「新方」の用例として紹介）
+  c-uesugi-shojou:
+    label: 上杉輝虎（謙信）書状（永禄11年、「新潟」表記。新潟県立図書館解説が紹介）
+  c-yoshimi-kishinjo:
+    label: 吉見詮頼寄進状（応永5年5月3日、富山市郷土博物館蔵。「越中国外山郷地頭職」とある）
+  c-toyama-joka:
+    label: コトバンク「富山城下」（『日本歴史地名大系』等の辞典項目。寄進状・富山寺伝承を収録）
+    url: https://kotobank.jp/word/%E5%AF%8C%E5%B1%B1%E5%9F%8E%E4%B8%8B-1379982
+  c-toyama-weblio:
+    label: Weblio辞書「富山市」（地名の由来諸説を収録）
+    url: https://www.weblio.jp/content/%E5%AF%8C%E5%B1%B1%E5%B8%82
+  c-toyama-gikai:
+    label: 富山県議会「議会の沿革（富山県の誕生）」
+    url: https://www.pref.toyama.jp/0100/gikai/structure/enkaku.html
+  c-toyama-bunken:
+    label: 富山県「『越中を水害から守りたい』〜富山県誕生の歴史」
+    url: https://www.pref.toyama.jp/1503/kendodukuri/shinrinkasen/kasen/kasen/kj00000327/kj00000327-001-01.html
+  c-nihon-kiryaku:
+    label: 『日本紀略』弘仁14年条（加賀国設置・石川郡分置の記事を伝える）
+  c-fukui-nenpyo:
+    label: 福井県立図書館・文書館「福井県史年表（801年〜850年）」（823年の記事を『日本紀略』所引として収録）
+    url: https://www.library-archives.pref.fukui.lg.jp/fukui/07/nenpyo/rekishi/chrn04.html
+  c-ishikawa-enkaku:
+    label: 石川県「石川県の沿革」（『石川縣史』ほかによる県統計書収録）
+    url: https://www.pref.ishikawa.lg.jp/toukei/documents/r7j_1.pdf
+  c-ishikawa-tedori:
+    label: 石川県「手取川（手取川の由来）」
+    url: https://www.pref.ishikawa.lg.jp/dainichikawadamu/tedori.html
+  c-tedori-mlit:
+    label: 国土交通省「日本の川 手取川」（石川郡名と手取川の関係を紹介）
+    url: https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0414_tedori/0414_tedori_04.html
+  c-ishikawa-chimei:
+    label: 地名由来サイト「石川県 地名由来は『石の多い川辺』」（手取川説への疑問を含む諸説紹介）
+    url: https://chimeijiten.com/ishikawaken-yurai/
+  c-fukui-meiseki:
+    label: 『越前国名跡考』（江戸時代の地誌。寛永元年の改名記事を伝える。福井県文書館解説が引用）
+  c-fukui-bunshokan:
+    label: 福井県文書館 企画展示資料「なぜ『福井県』になったのか ―形と名前に注目して―」（2021年）
+    url: https://www.pref.fukui.lg.jp/muse/Cul-Hist/kikaku/kako/2021/20210515_haihusiryou.pdf
+  c-fukui-fukunoi:
+    label: 福井県「福井城天守台『福の井』」
+    url: https://www.pref.fukui.lg.jp/doc/sokou/kennto/fukunoi_d/fil/fukunoi.pdf
+  c-fukui-city:
+    label: 福井市「市の位置・人口と沿革」
+    url: https://www.city.fukui.lg.jp/sisei/fukuisi/sinoitijinkoutoenkaku/growth_location.html
+  c-ndl-fukui:
+    label: レファレンス協同データベース「福井という地名の由来は何か」（福井県立図書館回答、『福井県の地名』『福井県史』等に基づく）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000101393&page=ref_view
+  c-fukui-guidebook:
+    label: 福井県「福井城下歴史手帳（スポット編）」（福居改称・1700年頃に福井とする説を有力とする）
+    url: https://www.pref.fukui.lg.jp/doc/sokou/guidebook_d/fil/spot.pdf
+  c-fukui-fpu:
+    label: 福井県立大学 地域経済研究所「福井県の成立と近世、明治期の産業」（改名経緯の諸説を整理）
+    url: https://www.fpu.ac.jp/rire/publication/regular/001607_d/fil/file_6.pdf
+  c-wamyo-ruijusho:
+    label: 『和名類聚抄』（承平年間頃、源順編。国郡部に郡名と読みを収録する一次文献）
+  c-yamanashi-lib:
+    label: 山梨県立図書館「山梨の呼び方」
+    url: https://www.lib.pref.yamanashi.jp/kosyu/manabu/yobikata.html
+  c-ndl-yamanashi:
+    label: レファレンス協同データベース「山梨県の県名の由来について知りたい」（山梨県立図書館回答）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000001102&page=ref_view
+  c-yamanashi-ken:
+    label: 山梨県「県のシンボル（県名の由来）」
+    url: https://www.pref.yamanashi.jp/shigaku-kgk/shokai/symbole.html
+  c-yamanashi-aramashi:
+    label: 山梨県『県のあらまし2018』「県名の由来」
+    url: https://www.pref.yamanashi.jp/documents/84926/2018_aramashi_39.pdf
+  c-zenkoji-monjo:
+    label: 善光寺文書・大久保長安等連署証文（慶長6年9月16日、「信州水内郡之内長野」とある）
+  c-jstage-nagano:
+    label: 学術論文「どうして善光寺は長野に1つあるの？」（J-STAGE。1570年・1601年の用例を『長野史』等により紹介）
+    url: https://www.jstage.jst.go.jp/article/jasj/69/2/69_KJ00008520314/_pdf
+  c-nagano-ken:
+    label: 長野県『長野県統計書 総説・沿革』（中野騒動と県庁移転・改称を収録）
+    url: https://www.pref.nagano.lg.jp/tokei/tyousa/documents/1_sousetsu.pdf
+  c-nagano-shishi:
+    label: 『長野市誌 第十五巻 総集編』（ADEAC公開。中野県から長野県への移転経緯）
+    url: https://adeac.jp/nagano-city/texthtml/d100150/ct00000011/ht001540
+  c-ndl-nagano:
+    label: レファレンス協同データベース（長野村・善光寺町の関係に関する事例、『角川日本地名大辞典』等に基づく）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000302035&page=ref_view
+  c-suzaka-city:
+    label: 須坂市「須坂を知る ―信濃の由来／長野県という名はいつから？」
+    url: https://www.city.suzaka.nagano.jp/marugoto/01/8003.html
+  c-nobunaga-koki:
+    label: 『信長公記』（太田牛一。井口を岐阜と改めたことを記す当事者に近い記録）
+  c-azuchi-sogyoroku:
+    label: 『安土創業録』（後世の編纂物。沢彦宗恩の3案進言の話の出典とされる）
+  c-gifu-ken:
+    label: 岐阜県「岐阜県の概要（岐阜の由来）」（『安土創業録』による説明と諸説の留保）
+    url: https://www.pref.gifu.lg.jp/page/109.html
+  c-gifu-city-gaiyo:
+    label: 岐阜市『岐阜市の概況』（信長以前の「岐阜」「岐陽」の用例と沢彦進言説を収録）
+    url: https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/020/214/002gifushinogaikyou03_s.pdf
+  c-shizuoka-ken:
+    label: 静岡県「県の概要 県の成り立ち（『静岡』の由来）」
+    url: https://www.pref.shizuoka.jp//kensei/information/kengaiyo/1007355.html
+  c-shizuoka-lib:
+    label: 静岡県立中央図書館「『静岡の由来』の石碑 〜静？静城？静岡？〜」
+    url: https://www.tosyokan.pref.shizuoka.jp/contents/history/sisekiannai/siseki_4.html
+  c-shizuoka-kids:
+    label: 静岡県「県の歴史と昔話 静岡県の昔は？」（明治9年の合併で現在の静岡県）
+    url: https://www.pref.shizuoka.jp//kensei/information/stepkids/1007434.html
+  c-shizuoka-tokei:
+    label: 静岡県『統計年鑑 県・市町村の変遷』（県名由来は諸説ありとする）
+    url: https://toukei.pref.shizuoka.jp/toukeikikakuhan/page/nenkan/documents/r01_01_01.pdf
+  c-shizuoka-weblio:
+    label: Weblio辞書「静岡県」（向山黄村の進言逸話を含む改名経緯を収録）
+    url: https://www.weblio.jp/content/%E9%9D%99%E5%B2%A1%E7%9C%8C
+  c-nihon-shoki:
+    label: 『日本書紀』神代紀一書（草薙剣の在所として「尾張国吾湯市村」に言及）
+  c-manyoshu:
+    label: 『万葉集』巻3・271番歌（高市黒人、「年魚市潟」を詠む）
+  c-shoku-nihongi:
+    label: 『続日本紀』和銅2年5月条（「愛知郡大領」とある。『古事類苑』地部・尾張国項が引用）
+  c-aichi-ken:
+    label: 愛知県「あいちのおいたち（『あいち』の地名の由来）」
+    url: https://www.pref.aichi.jp/soshiki/koho/0000007714.html
+  c-kojiruien-owari:
+    label: 『古事類苑』地部・尾張国（『日本書紀』『続日本紀』『尾張志』等の愛知郡関係記事を集成）
+    url: https://ys.nichibun.ac.jp/kojiruien/?%E5%9C%B0%E9%83%A8/%E5%B0%BE%E5%BC%B5%E5%9C%8B
+  c-owari-chimeiko:
+    label: 津田正生『尾張国地名考』（江戸時代の郷土史家による「あゆち」語源の考察）
+  c-aichi-gunshi:
+    label: 『愛知郡誌』（「あゆ」は湧水の意とする説等を収録）
+  c-aichinow:
+    label: 愛知県公式観光サイト「あいちの万葉歌碑巡り（あいちの由来）」
+    url: https://aichinow.pref.aichi.jp/features/detail/348/
+  d-mie-bunka-birth:
+    label: 三重県（文化情報）「県名『三重県』の誕生」
+    url: https://www.bunka.pref.mie.lg.jp/rekishi/kenshi/asp/arekore/detail21.html
+  d-mie-pref-kids:
+    label: 三重県「どうやって誕生したの？」（県キッズページ）
+    url: https://www.pref.mie.lg.jp/KIDS/000181368.htm
+  d-mie-bunka-qa:
+    label: 三重県（文化情報）Q&A「県庁が津に定められた理由」
+    url: https://www.bunka.pref.mie.lg.jp/rekishi/kenshi/asp/Q_A/detail159.html
+  d-mie-kotobank-miegun:
+    label: コトバンク「三重郡」（『日本歴史地名大系』の解説）
+    url: https://kotobank.jp/word/%E4%B8%89%E9%87%8D%E9%83%A1-3067766
+  d-shiga-pref-sugata:
+    label: 滋賀県「滋賀県のすがた」（県公式資料）
+    url: https://www.pref.shiga.lg.jp/documents/20847/20261014142848.pdf
+  d-shiga-archives-rename:
+    label: 滋賀県立公文書館「滋賀県の誕生―県名改称の布告」
+    url: https://archives.pref.shiga.lg.jp/index.php/constitutions?view=article&id=29&catid=27
+  d-shiga-pref-office-history:
+    label: 滋賀県「県庁舎の歴史」
+    url: https://www.pref.shiga.lg.jp/ba00/7366.html
+  d-shiga-ndl-ref:
+    label: レファレンス協同データベース「滋賀県という県名の由来を知りたい」（『角川日本地名大辞典25』『志賀町史』等の整理）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000092351&page=ref_view
+  d-shiga-kotobank:
+    label: コトバンク「滋賀郡」（『日本歴史地名大系』の解説）
+    url: https://kotobank.jp/word/%E6%BB%8B%E8%B3%80%E9%83%A1-3069659
+  d-shiga-mlit-otsu:
+    label: 国土交通省資料「大津市における歴史的事象について」（大津宮遷都667年）
+    url: https://www.mlit.go.jp/singikai/infra/city_history/historic_climate/5/images/shiryou5-1.pdf
+  d-kyoto-pref-kodomo:
+    label: 京都府「京都府はいつできたのかな」（府公式こどもページ）
+    url: https://www.pref.kyoto.jp/kodomo/01.html
+  d-kyoto-ndl-ref:
+    label: レファレンス協同データベース「京都の名の由来について知りたい」（『京都大事典』等の整理）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000047810
+  d-kyoto-city-bunkaisan:
+    label: 京都市文化財保存計画調査報告書 第1章「『京都』と『文化的景観』」
+    url: https://kyoto-bunkaisan.city.kyoto.lg.jp/report/pdf/tyousa/05/bunka_01.pdf
+  d-kyoto-pref-history:
+    label: 京都府「明治時代の京都府の主な出来事」
+    url: https://www.pref.kyoto.jp/meiji150/history.html
+  d-osaka-archives:
+    label: 大阪府公文書館「大阪府の成立」（大阪鎮台・大阪裁判所から大阪府へ）
+    url: https://archives.pref.osaka.lg.jp/search/information.do?id=50&method=initPage
+  d-osaka-ndl-ref:
+    label: レファレンス協同データベース「『大阪』の名の由来は？」（大阪市立中央図書館、『新修大阪市史』等の整理）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000254570&page=ref_view
+  d-osaka-city-library:
+    label: 大阪市立図書館「中世・近世の大坂」
+    url: https://www.oml.city.osaka.lg.jp/page/1146.html
+  d-osaka-kotobank:
+    label: コトバンク「大坂」（百科事典系解説）
+    url: https://kotobank.jp/word/%E5%A4%A7%E5%9D%82-822043
+  d-osaka-historist:
+    label: ヒストリスト「大阪府」（山川『日本史小辞典』改訂新版の解説）
+    url: https://www.historist.jp/word_j_o/entry/029816/
+  d-hyogo-pref-faq:
+    label: 兵庫県「よくあるご質問―『兵庫』という県名の由来」
+    url: https://web.pref.hyogo.lg.jp/kk32/pa13_000000023.html
+  d-hyogo-mlit-name:
+    label: 国土交通省近畿地方整備局兵庫国道事務所「兵庫の名前の由来」
+    url: https://www.kkr.mlit.go.jp/hyogo/introduction/kankou/yurai/index.html
+  d-hyogo-pref-nenpyo:
+    label: 兵庫県「年表 明治1」（兵庫県設置・初代知事伊藤博文）
+    url: https://web.pref.hyogo.lg.jp/kk32/pa13_000000033.html
+  d-hyogo-mlit-kobeport:
+    label: 国土交通省神戸港湾事務所「幕末から明治へ―兵庫津から神戸港へ」
+    url: https://www.pa.kkr.mlit.go.jp/kobeport/_know/p6/html/p-1-3.html
+  d-nara-pref-history:
+    label: 奈良県「奈良県の歴史」
+    url: https://www.pref.nara.jp/62908.htm
+  d-nara-pref-rebirth:
+    label: 奈良県「県民だより奈良―奈良県再設置の歴史に学ぶ」
+    url: https://www.pref.nara.lg.jp/n002/61925.html
+  d-nara-city-gaiyo:
+    label: 奈良市「市勢の概要―沿革」（『日本書紀』の那羅山伝説・平城京）
+    url: https://www.city.nara.lg.jp/uploaded/attachment/17689.pdf
+  d-nara-wu-paper:
+    label: 奈良女子大学リポジトリ収録論文（奈良の表記と語源諸説の整理）
+    url: https://nara-wu.repo.nii.ac.jp/record/2005438/files/BA76442837pp203-217.pdf
+  d-wakayama-pref-150:
+    label: 和歌山県「未来へと紡ぐ、伝統と誇り 和歌山県誕生150年」（県民の友2021年12月号、『和歌山県政史』準拠）
+    url: https://www.pref.wakayama.lg.jp/bcms/prefg/000200/kenmin/web/202112/tokusyu1.html
+  d-wakayama-city-mayor:
+    label: 和歌山市長コラム「和歌山という地名」（天正13年秀吉書状を初出とする）
+    url: https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/068/332/R0807_16.txt
+  d-wakayama-heritage:
+    label: 日本遺産ポータルサイト（文化庁）「和歌山城」
+    url: https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/3191/
+  d-wakayama-city-guide:
+    label: 和歌山市資料（和歌浦と『続日本紀』の明光浦命名）
+    url: https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/054/129/WCG_2026.pdf
+  d-wakayama-nwn:
+    label: 西日本新聞系特集「和歌山県の『和歌』 その由来は？」（専門家談話・『紀伊続風土記』の説）
+    url: https://www.nwn.jp/feature/200411_waka/
+  e-tottori-pref-youran:
+    label: 鳥取県『鳥取県勢要覧』沿革・位置（鳥取県公式）
+    level: E2
+    url: https://www.pref.tottori.lg.jp/secure/1152093/h30youran_02.pdf
+  e-tottori-pref-kids:
+    label: 鳥取県公式サイト「県のおいたち」（きっずらんど）
+    level: E2
+    url: https://www.pref.tottori.lg.jp/28530.htm
+  e-tottori-city-history:
+    label: 鳥取市公式サイト「鳥取市のなりたちとあゆみ」
+    level: E2
+    url: https://www.city.tottori.lg.jp/page/1105.html
+  e-hannan-city-tottori:
+    label: 阪南市公式サイト「鳥取の由来」（『日本書紀』説話の紹介）
+    level: E2
+    url: https://www.city.hannan.lg.jp/kakuka/syogai/syogai_s/bunkazai_shokai/bunkazai_arekore/1371512696332.html
+  e-mlit-tottori-chimei:
+    label: 国土交通省中国地方整備局「殿ダム・袋川流域風土記」地名解説
+    level: E2
+    url: http://www.cgr.mlit.go.jp/tottori/tono/25shisanmeguri/fudoki_h19/chimei/kouiki.html
+  e-nihonshoki:
+    label: 『日本書紀』垂仁天皇紀（鳥取造・鳥取部の起源説話）
+    level: E1
+    year: 720
+    note: 原文は未読。阪南市・鳥取県資料の引用・要約経由で参照
+  e-wamyosho:
+    label: 『和名類聚抄（倭名類聚抄）』因幡国邑美郡条
+    level: E1
+    note: 原文は未読。鳥取市公式資料の紹介経由で参照
+  e-shimane-pref-aramashi:
+    label: 島根県公式サイト「島根県：誕生までのあらまし」
+    level: E2
+    url: https://www.pref.shimane.lg.jp/admin/seisaku/koho/profile/aramasi.html
+  e-shimane-pref-chimeikan:
+    label: 島根県市町村課「島根県の地名鑑」（県公式資料）
+    level: E2
+    url: http://www.pref.shimane.lg.jp/admin/sichoson/sichoson_info/sanko/index.data/chimeikanvol.9.5.pdf
+  e-shimane-pref-fudoki:
+    label: 島根県公式サイト「出雲国風土記」解説
+    level: E2
+    url: https://www.pref.shimane.lg.jp/life/bunka/bunkazai/izumo_fuudo/fudoki/izumofudoki.html
+  e-shimane-kotobank-gun:
+    label: コトバンク「島根郡」（『日本歴史地名大系』）
+    level: E3
+    url: https://kotobank.jp/word/%E5%B3%B6%E6%A0%B9%E9%83%A1-3086086
+  e-izumo-fudoki:
+    label: 『出雲国風土記』島根郡条・国引きの条
+    level: E1
+    year: 733
+    note: 原文は未読。島根県公式サイトの引用経由で参照
+  e-okayama-city-yuraihi:
+    label: 岡山市公式サイト 岡山城下「岡山の名由来の碑」解説（岡山市立博物館）
+    level: E2
+    url: https://www.city.okayama.jp/museum/yuraihi/13-detail.html
+  e-okayama-city-jouhistory:
+    label: 岡山市公式サイト「岡山城の歴史」（岡山市立博物館）
+    level: E2
+    url: https://www.city.okayama.jp/museum/okayamajou/history/history1.htm
+  e-okayama-kotobank-ken:
+    label: コトバンク「岡山県」（『日本大百科全書ニッポニカ』）
+    level: E3
+    url: https://kotobank.jp/word/%E5%B2%A1%E5%B1%B1%E7%9C%8C-39827
+  e-okayama-pref-soshiki:
+    label: 岡山県公式サイト「岡山県の組織概要」（県の創立を明治9年4月18日とする）
+    level: E2
+    url: https://www.pref.okayama.jp/page/345237.html
+  e-okayama-pref-pr:
+    label: 岡山県広報資料（温羅伝説と桃太郎伝説の紹介）
+    level: E2
+    url: https://www.pref.okayama.jp/uploaded/attachment/424478.pdf
+  e-hiroshima-pref-profile:
+    label: 広島県公式サイト「県のプロフィール」（『広島』の名の由来）
+    level: E2
+    url: https://www.pref.hiroshima.lg.jp/soshiki/19/1168842433111.html
+  e-hiroshima-city-history:
+    label: 広島市公式サイト「広島の歴史」
+    level: E2
+    url: https://www.city.hiroshima.lg.jp/shisei/gaiyo/1021754/1003436.html
+  e-yamaguchi-ndl-ref:
+    label: レファレンス協同データベース 山口県立山口図書館事例「山口県の『山口』という地名の由来」（2022年）
+    level: E2
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000324239&page=ref_view
+  e-yamaguchi-chimei-taikei:
+    label: 『日本歴史地名大系』36 山口県の地名（平凡社）
+    level: E3
+    year: 1980
+  e-yamaguchi-kadokawa:
+    label: 『角川日本地名大辞典』35 山口県（角川書店）
+    level: E3
+    year: 1988
+  e-yamaguchi-city-ouchi:
+    label: 山口市観光情報サイト「山口の基礎を築いた大内氏」
+    level: E2
+    url: https://www.yamaguchi-city.jp/history/ouchi.html
+  e-yamaguchi-pref-archives:
+    label: 山口県文書館資料「姓と名字」（大内氏の名字の由来）
+    level: E2
+    url: https://archives.pref.yamaguchi.lg.jp/cms/wp-content/uploads/2025/07/2-1-1-010.pdf
+  e-tokushima-pref-gaiyo:
+    label: 徳島県公式サイト「徳島県の概要」（沿革）
+    level: E2
+    url: https://www.pref.tokushima.lg.jp/kenseijoho/tokushimakennitsuite/tokushimakennogaiyo/
+  e-tokushima-pref-rekishi:
+    label: 徳島県公式サイト「歴史」
+    level: E2
+    url: https://www.pref.tokushima.lg.jp/kenseijoho/tokushimakennitsuite/rekishi/
+  e-tokushima-city-history05:
+    label: 徳島市立徳島城博物館「とくしまヒストリー第5回 城下町誕生秘話 ―幻の渭津―」
+    level: E2
+    url: http://www.city.tokushima.tokushima.jp/johaku/meihin/page02-00/tokushimahistory05.html
+  e-tokushima-city-history01:
+    label: 徳島市立徳島城博物館「とくしまヒストリー第1回」
+    level: E2
+    url: http://www.city.tokushima.tokushima.jp/johaku/meihin/page02-00/tokushimahistory01.html
+  e-tokushima-bunka-online:
+    label: 文化遺産オンライン「徳島城跡」（文化庁）
+    level: E2
+    url: https://online.bunka.go.jp/heritages/detail/203606
+  e-kagawa-pref-iware:
+    label: 香川県公式サイト「香川県プロフィール（地名のいわれ）」
+    level: E2
+    url: https://www.pref.kagawa.lg.jp/kocho/shokai/profile/iware.html
+  e-kagawa-pref-chishiki:
+    label: 香川県公式サイト「雑知識」（香川郡と『全讃史』の引用）
+    level: E2
+    url: https://www.pref.kagawa.lg.jp/kasensabo/dam/kabagawa/chishiki.html
+  e-kagawa-kotobank-gun:
+    label: コトバンク「香川郡」（『日本歴史地名大系』）
+    level: E3
+    url: https://kotobank.jp/word/%E9%A6%99%E5%B7%9D%E9%83%A1-3093044
+  e-kagawa-jlogos-gun:
+    label: JLogos「香川郡」（『日本歴史地名大系』）
+    level: E3
+    url: https://jlogos.com/docomosp/word.html?id=7198126
+  e-kagawa-gogen:
+    label: 語源由来辞典「香川県」
+    level: E3
+    url: https://gogen-yurai.jp/kagawa-ken
+  e-zensanshi:
+    label: 中山城山『全讃史』文政11年（1828年）
+    level: E3
+    year: 1828
+    note: 原文は未読。香川県公式サイトの引用経由で参照
+  e-kochi-city-rekishi:
+    label: 高知市公式サイト「高智山四百年」（広報あかるいまち）
+    level: E2
+    url: https://www.city.kochi.kochi.jp/akarui/rekishi/re0909.htm
+  e-kochi-city-shiryo:
+    label: 高知市史資料（『山内氏時代史初稿』慶長15年条の引用を含む）
+    level: E2
+    url: https://www.city.kochi.kochi.jp/uploaded/attachment/43832.pdf
+  e-kochi-kotobank:
+    label: コトバンク「高知」（『精選版日本国語大辞典』『日本大百科全書ニッポニカ』）
+    level: E3
+    url: https://kotobank.jp/word/%E9%AB%98%E7%9F%A5-496520
+  e-kochi-mainichi:
+    label: 毎日新聞ソーシャルアクションラボ 谷川彰英「『高知』の名に込められた水防への思い」（2021年）
+    level: E3
+    url: https://socialaction.mainichi.jp/2021/04/11/1162.html
+  e-ehime-pref-kinenbi:
+    label: 愛媛県公式資料「愛媛県政発足記念日について」
+    level: E2
+    url: https://www.pref.ehime.jp/uploaded/life/135285_240824_misc.pdf
+  e-ehime-kenshi-kinsei:
+    label: 『愛媛県史』近代上「愛媛県の誕生・『愛媛』の名称」（データベース『えひめの記憶』）
+    level: E2
+    url: https://www.i-manabi.jp/system/regionals/regionals/ecode:2/65/view/8167
+  e-ehime-kenshi-bungaku:
+    label: 『愛媛県史』文学「伊予と愛媛の名称」（データベース『えひめの記憶』）
+    level: E2
+    url: https://www.i-manabi.jp/system/regionals/regionals/ecode:2/52/view/6816
+  e-kojiki:
+    label: 『古事記』上巻 国生みの条（伊予の国を愛比売という）
+    level: E1
+    year: 712
+    note: 原文は未読。愛媛県史の引用経由で参照
+  f-fukuoka-ndl:
+    label: 国立国会図書館レファレンス協同データベース「九州の福岡の地名の由来は、岡山県の備前福岡と関係があるか」（岡山県立図書館回答、『筑前國續風土記』『黒田家譜』『角川日本地名大辞典』等を確認）
+    url: https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&fi=2_2%205_%E5%85%A8%E5%B9%B4%E9%BD%A2&id=1000154808&lsmp=1&mcmd=25&page=ref_view&rnk=1&st=ref_cnt_all
+  f-fukuoka-city:
+    label: 福岡市「福岡市史 福岡歴史コラム」福岡と博多の成立に関する解説
+    url: https://www.city.fukuoka.lg.jp/shishi/column_b01.html
+  f-fukuoka-pref150:
+    label: 福岡県「福岡県置県150周年 〜福岡の昔、今、そして未来へ〜」（県公式資料、1871年廃藩置県による福岡県誕生を確認）
+    url: https://www.pref.fukuoka.lg.jp/uploaded/attachment/141134.pdf
+  f-chikuzen-fudoki-zoku:
+    label: 貝原益軒『筑前国続風土記』巻之三（1709年頃成立、福岡命名の経緯を記す地誌。紙資料）
+  f-saga-city-fudoki:
+    label: 佐賀市公式資料（『肥前国風土記』佐嘉郡条の原文と現代語訳を紹介）
+    url: https://www.city.saga.lg.jp/material/files/group/2/s34631_20130124124910.pdf
+  f-hizen-fudoki:
+    label: 『肥前国風土記』佐嘉郡条（713年の編纂命令に基づき奈良時代に成立。紙資料）
+  f-nagasaki-city-magazine:
+    label: 長崎市「ナガジン」発見！長崎の歩き方（長崎歴史文化協会理事長監修、地名の2説を紹介）
+    url: https://www.city.nagasaki.lg.jp/nagazine/hakken0702/index.html
+  f-nagasaki-pref-history:
+    label: 長崎県「沿革」（県公式、長崎府から長崎県への改称と府県統合の経緯）
+    url: https://www.pref.nagasaki.jp/uploads/2024/07/1721613934.pdf
+  f-nagasaki-city-profile:
+    label: 長崎市「市勢」資料（地名は長い岬状の地形に由来するとする説と1571年開港を記載）
+    url: https://www.city.nagasaki.lg.jp/uploaded/attachment/23342.pdf
+  f-kumamoto-city-lecture:
+    label: 熊本市「熊本城学 第40回講座」（2020年、隈本の初見資料を軍忠状で確認）
+    url: https://www.city.kumamoto.jp/common/UploadFileDsp.aspx?c_id=5&id=5566&sub_id=96&flid=194528
+  f-kumamoto-kotobank:
+    label: コトバンク「隈本」（『日本歴史地名大系』等の解説、南北朝期からの地名と初見1377年の隈本城）
+    url: https://kotobank.jp/word/%E9%9A%88%E6%9C%AC-1305670
+  f-kumamoto-maff:
+    label: 農林水産省九州農政局「アグリ・インフォ九州 第279号」（県名は旧表記隈本から1607年に改めたとする解説）
+    url: https://www.maff.go.jp/kyusyu/a-info279.html
+  f-kumamoto-kikuchi:
+    label: 「論文紹介 古代のキクチ一族の謎」（菊池則隆と隈府・隈本をめぐる伝承を紹介する研究者ページ）
+    url: https://www.asahi-net.or.jp/~rg1h-smed/r-kukuchi1.htm
+  f-oita-pref:
+    label: 大分県公式サイト「県名の由来」（『日本書紀』『豊後国風土記』の碩田記事と県庁設置を紹介）
+    url: https://pref.oita.jp/soshiki/10400/symbol04.html
+  f-nihonshoki:
+    label: 『日本書紀』景行天皇紀（720年成立、碩田国・於保岐陀の記事。紙資料）
+  f-bungo-fudoki:
+    label: 『豊後国風土記』大分郡条（奈良時代成立、景行天皇の碩田命名を記す。紙資料）
+  f-oita-column:
+    label: 大分みらい信用金庫「おおいた地名めぐり旅 第1回『おおいた』って何？」（大分県・大分市公式説と対立説を紹介）
+    url: https://www.e-doyou.jp/columns/oita_place_name_01
+  f-miyazaki-ndl:
+    label: 国立国会図書館レファレンス協同データベース「宮崎という地名の由来」（宮崎県立図書館回答、地名辞典類を確認）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000022632&page=ref_view
+  f-miyazaki-kotobank:
+    label: コトバンク「宮崎郡」（『日本歴史地名大系』、『和名抄』の宮埼・宮崎表記と郡名の伝承を紹介）
+    url: https://kotobank.jp/word/%E5%AE%AE%E5%B4%8E%E9%83%A1-3105335
+  f-wamyosho:
+    label: 源順『和名類聚抄』（承平年間・934年頃成立、日向国宮崎郡等を収載。紙資料）
+  f-kagoshima-pref:
+    label: 鹿児島県公式サイト「地名の由来」（鹿児島・桜島の諸説を県が併記）
+    url: https://www.pref.kagoshima.jp/ab23/pr/gaiyou/rekishi/bunka/yurai.html
+  f-kagoshima-kotobank:
+    label: コトバンク「鹿児島郡」（『日本歴史地名大系』、桜島の古名とするのが妥当とする見解を紹介）
+    url: https://kotobank.jp/word/%E9%B9%BF%E5%85%90%E5%B3%B6%E9%83%A1-3105919
+  f-sandai-jitsuroku:
+    label: 『日本三代実録』貞観2年（860年）3月条（薩摩国鹿児島神への叙位を記録。紙資料）
+  f-okinawa-archives:
+    label: 沖縄県公文書館「1879年3月27日『沖縄県』の設置」（琉球処分と布告第14号を紹介）
+    url: https://www.archives.pref.okinawa.jp/news/that_day/4631
+  f-okinawa-ndl:
+    label: 国立国会図書館レファレンス協同データベース（沖縄県立図書館回答、『沖縄民俗辞典』『伊波普猷全集』等でウチナーと表記の変遷を確認）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000203442&page=ref_view
+  f-todaiwajoden:
+    label: 淡海三船『唐大和上東征伝』（779年成立、鑑真の漂着地として阿児奈波島を記録。紙資料）
+  f-zuisho:
+    label: 『隋書』巻81 東夷伝 流求国条（636年成立、大業3年・4年の流求遠征を記録。紙資料）
+  f-okinawa-suiryukyu:
+    label: 古田史学「『隋書』にみえる流求国」（流求の比定をめぐる台湾説・沖縄説・折衷説の論争史）
+    url: https://www.furutasigaku.jp/jfuruta/simin15/ryukyumo.html
+records:
+- id: pref/01
+  code: '01'
+  names:
+    ja: 北海道
+    reading: ほっかいどう
+    aliases:
+    - 蝦夷地
+  user_terms:
+  - 北海道の名前の由来
+  - 北加伊道って何
+  - 松浦武四郎が付けた名前
+  - なんで北海道だけ道なの
+  - 蝦夷地の新しい名前
+  naming_type: 新規命名
+  summary: 旧称「蝦夷地」を改めるため、開拓判官の松浦武四郎が明治2年（1869年）に「北加伊道」を含む6案を政府に提出し、政府が「加伊」を「海」に改めて「北海道」と命名した。五畿七道に倣った「道」の名だが、古代の七道にはなかった近代の新命名である。
+  first_attestation:
+    era: 明治2年
+    year_western: 1869
+    document: 太政官布告（明治2年8月15日）
+    note: 使用例の初出ではなく、命名そのもの。松浦の意見書提出は同年7月17日
+  claims:
+  - text: 明治2年（1869年）7月17日、松浦武四郎が蝦夷地に代わる道名の候補として日高見道・北加伊道・海北道・海島道・東北道・千島道の6案を政府に提出した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-hok-pref
+    - a-hok-matsusaka
+    - a-hok-opinion
+  - text: 政府は6案のうち北加伊道を採用し、「加伊」を「海」に改めて、明治2年8月15日の太政官布告で蝦夷地を「北海道」と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-hok-pref
+    - a-hok-matsusaka
+    - a-hok-dajokan
+  - text: 松浦は意見書で「加伊（カイ）」を「夷人」の自称であると説明したと、北海道庁の解説は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-hok-pref
+  - text: 「カイ」は天塩川流域の調査で古老から聞いた「この地で生まれたもの」という意味のアイヌの古い言葉に由来し、武四郎は『熱田大神宮縁起』に出る「加伊」の字を当てたと、松阪市（松浦武四郎記念館）は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-hok-matsusaka
+  - text: 「カイ」の語源そのものについては、アイヌの自称とする説のほか確定的な説明はなく、定説は定まっていない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - a-hok-pref
+  - text: 命名と同時に11国86郡が置かれ、国名・郡名の多くにもアイヌ語地名に基づく松浦の提案が反映されたため、松浦は「北海道の名付け親」と呼ばれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-hok-matsusaka
+  - text: 古代の五畿七道には東海道・南海道・西海道はあったが北海道はなく、「道」の字は七道の枠組みに新しい北部を組み込む形で近代に作られた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-hok-pref
+  column:
+    title: 選ばれなかった5つの案
+    text: 武四郎の6案には「東北道」もありました。もしこれが採用されていたら、本州の「東北地方」と行政名が正面からぶつかるところでした。また「日高見道」の日高見は、古い文献に現れる北の地の名にちなむ案です。残ったのはアイヌの人々の自称とされる「カイ」を含む北加伊道で、政府が「加伊」を「海」に置き換えたことで、今の「北海道」になりました。名付け親の案がそのままではなく、最後の一文字ならぬ二文字を政府が変えた、というのがこの命名の面白いところです。
+    sources:
+    - a-hok-pref
+    - a-hok-matsusaka
+  relations: []
+  unknowns:
+  - 「カイ」の語源の確定（アイヌの自称とする武四郎自身の説明以上に、言語学的に裏付ける一次資料を確認できていない）
+  - 意見書の正式な標題は資料により表記が異なり（『蝦夷地道名之儀勘弁申上候書付』／『北海道道名撰定上申書』）、原典での確定は未確認
+  updated: '2026-11-13'
+- id: pref/02
+  code: '02'
+  names:
+    ja: 青森県
+    reading: あおもりけん
+    aliases:
+    - 青森村
+    - 青森町
+    - 弘前県
+  user_terms:
+  - 青森の名前の由来
+  - 青い森があったから青森
+  - 県名に色がつく県
+  - 青森は港町の名前だった
+  - 青森の元の場所はどこ
+  naming_type: 一部の地名
+  summary: 県名は県庁所在地となった港町「青森」の転用である。「青森」は江戸時代前期、弘前（津軽）藩が港町建設を始めた際に付けられた名で、入港する船の目印になった青々とした森にちなむと県は説明する。原点の森は現在の青森市本町・県立郷土館周辺とされ、町そのものも郊外の小地名から県名へと昇格した地名である。
+  first_attestation:
+    era: 寛永元年〜3年
+    year_western: null
+    document: 弘前藩の開港関係記録（地名の由来を明記した古文書は残っていないと県史玉手箱は述べる）
+    note: 村・町の成立年は史料により1624年・1625年・1626年の異同があり、単年に確定できない
+  claims:
+  - text: 現在の青森市本町付近に青々と茂る森があり、港に入る船の目印になっていたため「青森」と呼ばれるようになったと、青森県は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aom-pref-kids
+    - a-aom-pref-qa
+  - text: 県庁所在地が弘前町から青森町へ移った明治4年（1871年）9月、弘前県が青森県と改称され、港町の名がそのまま県名になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aom-pref-qa
+  - text: 弘前藩2代藩主津軽信枚が港町建設を命じ、家臣の森山弥七郎が開港奉行としてまちづくりを進めたと伝えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aom-pref-kids
+    - a-aom-city
+  - text: 青森市の公式解説では、寛永2年（1625年）5月15日に廻船就航の連署奉書を拝領したことが開港の契機、寛永3年（1626年）4月6日に森山弥七郎へ黒印状が与えられ地名を「青森」としてまちづくりが始まったとする
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-aom-city
+  - text: 一方で青森県の県史Q&Aは、寛永元年（1624年）に弘前藩が港町の建設を始めたときに名付けたとし、開港・命名の年には1624年・1625年・1626年の異同がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-aom-pref-qa
+    - a-aom-city
+  - text: 地名の由来をはっきり述べた古文書等はなく、目印の森による命名は『青森市沿革史』等が伝える説明である、と青森県の県史解説は注意を添えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aom-pref-kinsei
+  - text: 目印となった森は現在の青森市本町・県立郷土館周辺にあったとされ、すでに失われて現存しない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aom-pref-qa
+    - a-aom-pref-kinsei
+  - text: ユーザーの途中資料が原点とする「現在の青森市青柳あたり」は、県・市の公式解説では本町・県立郷土館周辺とされており、公式説明との位置のずれが残る
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-aom-pref-qa
+    - a-aom-pref-kinsei
+  column:
+    title: 県名に「色」が入る唯一の県
+    text: 青森県の解説によれば、47都道府県の中で県名に色の名が付くのは青森県だけです。本来は港の目印だった一本立ちの小地名が、港町になり、県庁が移って県名になるという「二段階・三段階の特進」を遂げました。色の正体は青というより、冬でも青々と茂る常緑の緑。雪国の港で一年中色を失わない森は、船乗りには格好のランドマークだったはずです。
+    sources:
+    - a-aom-pref-kinsei
+    - a-aom-pref-kids
+  relations: []
+  unknowns:
+  - 開港・命名の正確な年（1624年・1625年・1626年の史料の異同を決着させる一次史料は未確認）
+  - 原点の森の正確な位置（公式解説の本町・郷土館周辺と、途中資料の青柳説との関係は未確認）
+  - 途中資料の主な文書『青森旧記之写』『堂社建立記』の現存と記載内容は未確認
+  updated: '2026-11-13'
+- id: pref/03
+  code: '03'
+  names:
+    ja: 岩手県
+    reading: いわてけん
+    aliases:
+    - 盛岡県
+    - 巌手県
+  user_terms:
+  - 岩手の名前の由来
+  - 鬼の手形の県
+  - 三ツ石の伝説
+  - 盛岡県から岩手県になった理由
+  - 岩手は言わないという意味
+  naming_type: 一部の地名
+  summary: 県名は県庁所在地・盛岡が属した郡名「岩手郡」の転用である。岩手郡は平安時代の奥六郡の一つで、『大和物語』に「磐手」と現れるのが文献上の初出とされる。盛岡県から岩手県への改称は明治5年（1872年）1月8日で、宮城県への改称と同一の太政官の手続きによる。郡名の語源そのものは確定しておらず、有名な鬼の手形の話は民間伝説として分けて記録する。
+  first_attestation:
+    era: 天暦5年頃
+    year_western: 951
+    document: 大和物語 第152段
+    note: 「磐手の郡」から献上された鷹の名として現れる使用例の初出とされる。和名類聚抄（承平年間）に奥六郡の記載がないことから、郡の成立は10世紀半ば頃と推測される
+  claims:
+  - text: 岩手県の名は、県庁の置かれた盛岡が属する岩手郡の郡名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-iwa-pref
+    - a-iwa-lib
+  - text: 「岩手」の名が文献に現れる最初は『大和物語』第152段で、陸奥国・磐手の郡から献上された鷹に帝が付けた名「磐手」として登場するとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-yamato-monogatari
+    - a-iwa-lib
+  - text: 岩手郡は平安時代に斯波（志波）郡から分かれて成立した奥六郡の一つとされ、『和名類聚抄』に記載がないため成立は940〜950年頃と推測される
+    kind: fact
+    level: E3
+    status: inferred
+    sources:
+    - a-iwa-lib
+  - text: 郡名「岩手」自体の語源は確定しておらず、「岩出の森」に由来する説などがあるが決め手はない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - a-iwa-lib
+  - text: 明治5年（1872年）1月8日、太政官の手続きにより盛岡県は岩手県と改称された。盛岡県側の申請は、盛岡の名が旧盛岡藩の因襲の呼称で藩治の風習を脱しにくいことを理由に挙げている
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - a-rename-1872
+  - text: 改称後も「巌手県」の表記が併用され、「岩手県」に一本化されたのは大正12年（1923年）である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-iwa-lib
+  - text: 盛岡市三ツ割（東顕寺・現三ツ石神社）の三つの大石は、岩手山の噴火で飛んできた石とされ「三ツ石様」と呼ばれて信仰を集めていた、と伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-iwa-pref
+    - a-iwa-bunka
+  - text: 里人や旅人に悪さをする羅刹鬼を、三ツ石の神が大石に縛りつけて懲らしめ、鬼は二度と悪さをしない証しに岩へ手形を押して南昌山の方へ逃げ去ったため、この地を「岩手」と呼ぶようになった、という伝説が語り伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-iwa-pref
+    - a-iwa-bunka
+  - text: 今も雨上がりなどに、石の上に鬼の手形らしきものが見えるといわれる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-iwa-pref
+  column:
+    title: 「言はで思ふぞ」―鷹の名になった磐手
+    text: 『大和物語』第152段では、磐手の郡から献上された鷹を帝がたいそう気に入り「磐手」と名付けます。ところが鷹は逃げてしまい、帝は「いはで思ふぞ言ふにまされる（口に出さない思いの方が、口に出すより勝る）」と、「岩手（いはて）」と「言はで（いはで）」を掛けて悲しみを詠みました。地名が都の文学で「言いたくても言えない切なさ」の歌枕になった――岩手は、鬼の手形伝説とは別に、平安の都でこうした雅な顔も持っていたのです。
+    sources:
+    - a-yamato-monogatari
+    - a-iwa-lib
+  relations:
+  - pref/04
+  unknowns:
+  - 郡名「岩手」の語源の確定（岩出の森説などを裏付ける一次資料は未確認）
+  - 『大和物語』の成立年は951年頃とする説に基づき、本文の正確な成立年は未確定
+  updated: '2026-11-13'
+- id: pref/04
+  code: '04'
+  names:
+    ja: 宮城県
+    reading: みやぎけん
+    aliases:
+    - 仙台県
+  user_terms:
+  - 宮城の名前の由来
+  - 仙台県から宮城県になった理由
+  - 宮城郡ってどこ
+  - 多賀城と塩竈神社で宮城
+  - 朝敵だから改名したという話
+  naming_type: 一部の地名
+  summary: 県名は仙台城のあった郡「宮城郡」の転用である。宮城郡は『続日本紀』天平神護2年（766年）に文献初見を持つ古い郡名で、語源は神社の「宮」と多賀城の「城」の合成説、屯倉（みやけ）の転訛説などが対立し定まっていない。仙台県から宮城県への改称は明治5年（1872年）1月8日で、岩手県への改称と同一の太政官手続きによる。
+  first_attestation:
+    era: 天平神護2年
+    year_western: 766
+    document: 続日本紀
+    note: 宮城郡の文献初見。ただし利府町硯沢窯跡出土の「宮城郡」刻書須恵器により、郡の成立自体は8世紀前半に遡ることが示されている
+  claims:
+  - text: 宮城県の名は、当時仙台城があった郡名「宮城郡」から取られた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-miy-sendai-lib
+    - a-miy-pref-guide
+  - text: 宮城郡の文献初見は『続日本紀』天平神護2年（766年）11月の記事で、陸奥国の磐城・宮城の二郡に言及するくだりに現れる、と仙台市図書館のレファレンスは『続日本紀』を引いて紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-miy-sendai-lib
+    - a-shoku-nihongi
+  - text: 利府町硯沢窯跡から出土した「宮城郡」と刻書された須恵器は宮城郡を示す最古の資料とされ、少なくとも8世紀前半には宮城郡が成立していたことが確認できる、と利府町は解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-miy-rifu
+  - text: 「宮城」の語源については、志波彦神社・鹽竈神社などの「宮」と多賀城の「城」を合わせたとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-miy-pref-guide
+  - text: 一方で、古代の朝廷直轄領「屯倉（みやけ）」が訛って「みやぎ」になったとする説もあり、宮城の語源は諸説が対立して定まっていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-miy-pref-guide
+  - text: 明治5年（1872年）1月8日、太政官の手続きで仙台県は宮城県と改称された。一次文書では、仙台県参事の申出として「仙台の旧称では人心が旧習を脱しにくいので郡名を取って宮城県と改称したい」旨が記されており、改称は県側の申請に基づく
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - a-rename-1872
+    - a-miy-sendai-lib
+  - text: 「戊辰戦争で朝敵となった仙台藩の名を嫌って改名した」とする説明は広く流布しているが、一次文書にその文言はなく、改称理由として確定はできない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - a-rename-1872
+    - a-miy-sendai-lib
+  - text: 明治9年（1876年）の統合で現在の宮城県の県域がほぼ成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-miy-pref-guide
+  column:
+    title: 皇居が「宮城」になっても残った宮城県
+    text: 明治21年（1888年）、東京の皇居が公式に「宮城（きゅうじょう）」と呼ばれるようになると、同じ文字の宮城県は恐縮しました。関係筋に意向をうかがった末、県名はそのまま存続が認められた、と専門の解説は伝えています。天皇の住まいと同名になってしまった県は日本でここだけ。改称を免れた理由の記録は薄いのですが、「宮城」という名が766年以来の古い郡名だったことが、存続の重みになったのかもしれません（この点は類推です）。
+    sources:
+    - a-miy-kotobank
+  relations:
+  - pref/03
+  unknowns:
+  - 「宮城」の語源の確定（宮＋城説、屯倉説、多賀城を「遠の朝廷」とする説などが対立し決着していない）
+  - 改称理由について、一次文書の「人心が旧習を脱しにくい」という申請文言の背後に朝敵への配慮があったかは未確認
+  updated: '2026-11-13'
+- id: pref/05
+  code: '05'
+  names:
+    ja: 秋田県
+    reading: あきたけん
+    aliases:
+    - 久保田藩
+    - 秋田藩
+    - 齶田
+    - 飽田
+    - 秋田村
+  user_terms:
+  - 秋田の名前の由来
+  - 齶田って何と読む
+  - 秋田城があったから秋田
+  - 久保田藩が秋田藩になった
+  - 悪田が秋田になったという話
+  naming_type: 藩名
+  summary: 県名は藩名の継承である。明治4年（1871年）1月13日に久保田藩が秋田藩と改称され、そのまま廃藩置県で秋田県となった。「秋田」の地名自体は『日本書紀』斉明天皇4年（658年）の「齶田（あぎた）」に始まるとされ、『続日本紀』天平5年（733年）には「秋田村」が現れ、8世紀中頃に出羽柵が「秋田城」と呼ばれるようになって「秋田」の表記が定着した。
+  first_attestation:
+    era: 斉明天皇4年
+    year_western: 658
+    document: 日本書紀
+    note: 「齶田（あぎた）」として初出とされる。現在の「秋田」表記の初出ではなく、地名の系譜の起点として扱う
+  claims:
+  - text: 秋田の地名は『日本書紀』斉明天皇4年（658年）条に「齶田・渟代、二郡蝦夷」として初めて登場すると、秋田県の機関は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aki-pref-tenji
+    - a-nihon-shoki
+  - text: 齶田は阿倍比羅夫の日本海遠征の際に報告された地名で、「あぎた」あるいは「あいた」と訓まれていたようだと、県の展示解説は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aki-pref-tenji
+  - text: 「齶」は顎（あご）の意味で、齶田は雄物川河口付近の顎に似た地形に付けられた名だという説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-aki-pref-tenji
+  - text: 一方で「悪田（あくた）」のような低湿地を意味する名が転じたとする説もあり、齶田から秋田への語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-aki-pref-tenji
+  - text: 『続日本紀』天平5年（733年）条には「秋田村」が現れ、出羽柵が高清水岡（現在の秋田市寺内）へ移されたことが記される、と県の機関は『続日本紀』の記載として紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aki-pref-tenji
+    - a-aki-pref-kensei
+    - a-shoku-nihongi
+  - text: 高清水岡に移された出羽柵は8世紀中頃（天平宝字年間・760年頃）には「秋田城」と呼ばれるようになり、「秋田」の表記が定着した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aki-pref-kensei
+  - text: 明治4年（1871年）1月13日、久保田藩は朝命により秋田藩と改称され、廃藩置県を経て秋田県となったため、県名は藩名の継承にあたる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-aki-pref-kensei
+  column:
+    title: 「アゴの田」か「悪い田」か
+    text: 秋田の出発点「齶田」の「齶」は顎のこと。雄物川の河口に突き出した地形が顎に見えた、という説は絵になる説明ですが、異説もあります。稲作に向かない低湿地を「悪田」と呼んだものが転じたという説や、湧水の多い土地を意味する古い言葉に由来する説です。やがて「飽田」を経て縁起の良い「秋田」に落ち着いたとすれば、名前の字面が悪→飽→秋と少しずつ良くなっていく過程そのものが、この土地の開拓史を映しているようです（最後の一文は読み物としての感想です）。
+    sources:
+    - a-aki-pref-tenji
+  relations: []
+  unknowns:
+  - 齶田から秋田への語源の確定（顎形説・悪田説・アイヌ語由来説などが対立）
+  - 「飽田」の表記がいつ・どの文書に現れるかの一次確認は未実施
+  - 秋田城への改称年は「760年頃」と幅があり、単年の確定は未確認
+  updated: '2026-11-13'
+- id: pref/06
+  code: '06'
+  names:
+    ja: 山形県
+    reading: やまがたけん
+    aliases:
+    - 山方郷
+    - 山形藩
+  user_terms:
+  - 山形の名前の由来
+  - 山方郷って何
+  - 山の方だから山形
+  - 山形藩から山形県
+  - 山形の名前はいつから
+  naming_type: 藩名
+  summary: 県名は山形藩の藩名を継承する形で成立した（廃藩置県で置かれた7県の一つが山形県で、明治9年（1876年）に現在の県域となった）。地名自体は『和名類聚抄』に現在の山形市の南側を指す「山方（やまがた）郷」とあることに由来すると県は説明する。なぜ山方と呼ばれたかは不明で、「山の方」という単純な地形呼称だった可能性が残る。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 和名類聚抄
+    note: 「山方郷」としての記載。『和名類聚抄』の成立は承平年間（931〜938年）とされるため単年は置かない
+  claims:
+  - text: 山形県の「山形」は、平安時代の『和名類聚抄』に今の山形市の南側を「山方郷」と記したことに由来があると言われている、と山形県は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-yam-pref
+    - a-wamyo
+  - text: なぜこの地を山方と言ったかは不明であると、山形県の公式解説は明言している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - a-yam-pref
+  - text: 山形市の南には山岳信仰で知られた蔵王や瀧山の山々があり、県の解説はこれらとの関係を示唆するが、語源として確定はしていない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - a-yam-pref
+  - text: 「山方」の地名はその後いったん資料から見えなくなり、南北朝時代に斯波兼頼がこの地を政治の拠点として安定させると、土地売買の文書などに「山形」の表記が改めて現れるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-yam-pref
+  - text: 関ヶ原の戦いの後に山形藩が成立する以前、この地は村山郡山形と呼ばれていたとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-yam-pref
+  - text: 明治4年（1871年）の廃藩置県で県域には山形・米沢・上山・天童・新庄・大泉・松嶺の7県が置かれ、その後の統廃合を経て明治9年（1876年）8月21日に現在の山形県が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-yam-pref
+  - text: 「山の方にある土地だから山方」という単純な地形呼称とする見方はあるが、出典のある定説としては確認できない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - a-yam-pref
+  column:
+    title: 一度消えて、戻ってきた「山形」
+    text: 「山方」は『和名類聚抄』に顔を出したあと、しばらく歴史資料から姿を消します。再び「山形」として文書に現れるのは南北朝時代、斯波兼頼がこの地に拠点を置いてから。地名は人が使い続けなければ消えてしまうものですが、山形の場合は政治の中心が戻ってきたことで名前も戻ってきました。読みは「やまがた」のまま、字だけが「方」から「形」に変わっているのも、音が先にあって字が後から付いた地名らしい痕跡です。
+    sources:
+    - a-yam-pref
+  relations: []
+  unknowns:
+  - 「山方」と呼ばれた理由の確定（県公式も不明と明言）
+  - 「山方」から「山形」への表記変更がいつ・どの文書で起きたかの一次確認は未実施
+  - 県名が藩名継承か郡名・城下町名転用かの厳密な選定経緯（1871年の山形県設置時の命名理由の一次文書）は未確認
+  updated: '2026-11-13'
+- id: pref/07
+  code: '07'
+  names:
+    ja: 福島県
+    reading: ふくしまけん
+    aliases:
+    - 福島藩
+    - 福島町
+    - 杉目城
+    - 大仏城
+  user_terms:
+  - 福島の名前の由来
+  - 福島城から福島県
+  - 吹島の伝説って何
+  - 杉目城が福島城になった
+  - 福島は縁起のいい名前に変えた
+  naming_type: 藩名
+  summary: 県名は県庁所在地の福島町（福島藩の城下町）の名に由来する。「福島」は文禄2年（1593年）頃、木村吉清が杉目城（大仏城）を福島城と改めたのが初めとされ、詳細な由来は不明と福島県は明言する。改名の主体については蒲生氏郷とする伝承も併存する。湖の島が「吹島」だったという話は伝説集『信夫伊達風土記』の伝説として分けて記録する。
+  first_attestation:
+    era: 文禄2年頃
+    year_western: 1593
+    document: 福島城への改称（『福島県史』『図説福島市史』が伝える）
+    note: 「福島城」として使われた最初とされる年。文禄元年（1592年）説もあり、年は「頃」付きで扱う
+  claims:
+  - text: 明治9年（1876年）に若松県・磐前県・福島県が合併して現在とほぼ同じ福島県が誕生し、「福島」の名称はその頃の県庁所在地だった福島町から取られた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+  - text: 「福島」の名は文禄2年（1593年）頃、木村吉清によって福島城として使われたのが初めてだといわれている、と福島県は『福島県史』『図説福島市史』を引いて説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+    - a-fuk-city
+  - text: 改称年については文禄元年（1592年）とする説もあり、福島市は文禄2年頃を本説としつつ元年説を併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-fuk-city
+  - text: 福島の詳細な由来は不明であると、福島県は公式に明言している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - a-fuk-pref
+  - text: 福島の中心街一帯はかつて信夫の里の杉目郷と呼ばれ、応永20年（1413年）頃に伊達持宗が杉目城（大仏城）を築いたことが町になる転機となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+  - text: 改名の主体については、蒲生氏郷が本拠の黒川を若松に改めたのにならい、支城の杉目を縁起の良い「福島」に改めたと伝える資料もあり、木村吉清が改めたとする説明と伝承が併存する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-fuk-pref
+    - a-fuk-city
+  - text: 木村吉清は大森城から杉目城へ居城と城下の機能を移し、杉目城を福島城と改名したと、福島市は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-city
+  - text: 昔、信夫郡一帯は見渡す限りの湖で、真ん中に信夫山があった。吾妻おろしが吹き付けるその島は「吹島（ふくしま）」と呼ばれた、と伝説集『信夫伊達風土記』は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+    - a-shinobu-fudoki
+  - text: やがて湖が干上がって集落が生まれ、「吹」は風が吹き付けることを嫌って「福」に替えられ、「福島」と呼ぶようになった、と『信夫伊達風土記』の伝説は続ける
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+    - a-shinobu-fudoki
+  column:
+    title: 「吹島」から「福島」へ―字を替える改名術
+    text: 伝説では「吹島」、史実の改名でも縁起担ぎ。福島の名には二重に「嫌な字・音を良いものに替える」発想が重なっています。実際に蒲生氏郷は本拠を「黒川」から「若松」に改めたことで知られ、杉目→福島の改名もこの縁起直しの系譜で語られます。伝説の湖が実在したかは分かりませんが、「吹（ふく）」に「福（ふく）」を当てる言葉遊びの感覚は、16世紀末の実際の改名の発想とよく響き合います。伝説と史実は分けて記録しますが、並べて読むと当時の人々の名付けの気持ちが見えてきます。
+    sources:
+    - a-fuk-pref
+    - a-fuk-city
+  relations: []
+  unknowns:
+  - 「福島」の名付けの正確な理由（県公式に「詳細な由来は不明」。縁起担ぎ説も伝承の域を出ない）
+  - 『信夫伊達風土記』自体の成立・書誌の確定（途中資料も「定かではない」と注記しており未確認）
+  - 改称の主体が木村吉清か蒲生氏郷かの確定
+  updated: '2026-11-13'
+- id: pref/08
+  code: 08
+  names:
+    ja: 茨城県
+    reading: いばらきけん
+    aliases:
+    - 茨城郡
+    - 茨城国
+  user_terms:
+  - 茨城の名前の由来
+  - いばらきと読むのはなぜ
+  - 水戸の県の名前
+  - 常陸国風土記の茨城
+  - 県花がバラの県
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は古代の茨城郡の郡名に由来する。県庁所在地の水戸が茨城郡に属していたことから、明治4年（1871年）の府県統合で郡名がそのまま県名に採用された。茨城という地名自体は『常陸国風土記』まで遡るが、その語源は風土記の2つの起源説話で説明されるのみで、定説はない。
+  first_attestation:
+    era: 奈良時代初期（8世紀前半）
+    year_western: null
+    document: 常陸国風土記
+    note: 茨城の名の使用例の初出級資料。総記に常陸国成立以前のクニの1つとして、茨城郡条に郡名として見える。命名の記録ではなく、編纂は和銅6年（713年）の風土記編纂の詔を契機とする
+  claims:
+  - text: 茨城県公式によれば、明治4年（1871年）11月13日に初めて茨城県という県名が用いられ、この日が県民の日の由来となっている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-kenminnohi
+  - text: 茨城県公式によれば、1871年の廃藩置県・県の統廃合により茨城県が設置され、1875年に現在の規模になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-history
+  - text: 国立国会図書館のレファレンスは、県庁所在地となった水戸が当時茨城郡に属していたことから、その郡名をそのまま県名にしたと整理している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-ndl-ref
+  - text: 茨城県公式は『常陸国風土記』に黒坂命という人が茨で城を築いたという話が書かれていると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-hibari
+    - b-hitachi-fudoki
+  - text: 黒坂命が朝廷に従わない賊の住む穴に茨棘を仕掛けて退治したという話が、『常陸国風土記』茨城郡条の地名起源説話として伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-ndl-ref
+    - b-hitachi-fudoki
+  - text: 黒坂命が人々を悪賊から守るため茨で城を造ったという話も、『常陸国風土記』茨城郡条に併せて伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-ndl-ref
+    - b-hitachi-fudoki
+  - text: 国立国会図書館のレファレンスは、風土記の2つの話は地名起源説話とみなされており、茨城の県名由来に定説はないと結論づけている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - b-ibaraki-ndl-ref
+  - text: 国立国会図書館のレファレンスが引く石岡市史等によれば、茨城は当初うばらきと読まれ、茨城廃寺跡出土の墨書土器などから茨木とも書かれたことが知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-ndl-ref
+  column:
+    title: 県花はバラ、水戸は郡の端
+    text: 茨城の読みはもとは「うばらき」で、茨（いばら・うばら）の字がバラ科の棘のある低木を指すことから、県花にバラが選ばれた（昭和41年公示）という結びつきが指摘されている。一方で県名の直接の出どころは水戸が属した郡名であり、古代の茨城の中心と推定されるのは水戸ではなく石岡市茨城（ばらき）のあたりとされる。県名・県庁所在地・古代の中心地が少しずつずれているのが茨城の面白さである。伝説の黒坂命の話はあくまで風土記の起源説話として読むのが現在の整理である。
+    sources:
+    - b-ibaraki-ndl-ref
+    - b-ibaraki-hibari
+  relations: []
+  unknowns:
+  - 茨城の本来の語源（茨の生えた土地を指す普通名詞だったのか等）は未確定で、風土記の起源説話を超える決定的資料は確認できなかった
+  - 明治4年の県統合時に茨城の名が選ばれた理由を記した太政官側の一次記録は本バッチでは未確認
+  - 水戸藩と新政府との関係が県名選択に影響したとする説明は、公式資料で裏付けが取れなかったため主張に含めていない
+  updated: '2026-11-13'
+- id: pref/09
+  code: 09
+  names:
+    ja: 栃木県
+    reading: とちぎけん
+    aliases: []
+  user_terms:
+  - 栃木の名前の由来
+  - とちぎの語源
+  - 県庁は宇都宮なのになぜ栃木県
+  - 栃木市の名前の由来
+  - 十千木って何
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は最初の県庁所在地だった栃木町（現在の栃木市）に由来する。明治4年（1871年）に栃木県と宇都宮県に整理され、明治6年（1873年）に統合して現在の栃木県となった後、県庁だけが明治17年（1884年）に宇都宮へ移ったため、県名と県庁所在地がずれている。栃木という地名自体の語源は県公式も「はっきり分かっていない」とし、4つの説が併存する。
+  first_attestation:
+    era: 明治4年（県名として）
+    year_western: 1871
+    document: 太政官布告による府県統合
+    note: 県名としての初出。栃木という地名自体は近世には成立していたが、本バッチで確認できた公式資料はその初出文書を特定していない
+  claims:
+  - text: 栃木県公式によれば、明治4年（1871年）11月に栃木県と宇都宮県の2つに整理統合され、栃木という県名はこのときの本県最初の県庁所在地である栃木町（現在の栃木市）に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tochigi-kenmin
+  - text: 栃木県公式によれば、明治6年（1873年）6月15日に栃木県と宇都宮県が統合され、今日の栃木県が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tochigi-kenmin
+    - b-tochigi-150th
+  - text: 栃木県公式によれば、最初は栃木町に置かれた県庁は明治17年（1884年）に宇都宮町（現在の宇都宮市）に移された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tochigi-kenmin
+    - b-tochigi-150th
+  - text: 栃木県公式は、栃木の地名の語源ははっきり分かっていないと明言している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - b-tochigi-kenmin
+  - text: 栃木町内の神明宮の社殿の千木と鰹木が遠くから10本に見えたことから十千木（とおちぎ）と呼ぶようになったとする十千木説があると、栃木県公式が紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-tochigi-kenmin
+    - b-tochigi-150th
+  - text: トチノキが多く生えていたことが転訛してトチギになったとするトチノキ説があると、栃木県公式が紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-tochigi-150th
+    - b-tochigi-dayori
+  - text: 栃木町内を流れる巴波川が度々氾濫したことから、ちぎれた地形を表すチギるに接頭語のトが付いたとする崩壊地名説があると、栃木県公式が紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-tochigi-150th
+    - b-tochigi-dayori
+  - text: 豊城入彦命が毛の国と紀の国を区別するため遠く離れた木の国という意味で遠津木（とおつき）と名付けたものが変化したとする遠津木説が、栃木県の県民だよりで紹介されている
+    kind: legend
+    level: E2
+    status: contested
+    sources:
+    - b-tochigi-dayori
+  column:
+    title: 県庁のない県名の町
+    text: 栃木県は「県名の由来になった町に県庁がない」代表例である。1873年の成立時は栃木町が県庁所在地だったが、1884年に宇都宮へ移り、以後140年近くそのままになっている。県名の語源自体も決着がついておらず、県公式ページは十千木・トチノキ・崩壊地の3説（県民だよりでは遠津木を加えた4説）を並べて「はっきり分かっていない」と正直に書いている。分からないことを分からないと公式が言う県は、実はそう多くない。
+    sources:
+    - b-tochigi-kenmin
+    - b-tochigi-150th
+  relations: []
+  unknowns:
+  - 栃木の文書上の初出は未特定で、途中資料が挙げる天正18年（1590年）頃の資料の「とちき城」表記は一次資料の現物・翻刻を本バッチでは確認できなかった
+  - 栃木城の築城年について諸説があり、公式資料で確定できなかった
+  - 4つの語源説のいずれについても、それを決定的に支持する学術的根拠は確認できなかった
+  updated: '2026-11-13'
+- id: pref/10
+  code: '10'
+  names:
+    ja: 群馬県
+    reading: ぐんまけん
+    aliases:
+    - 群馬郡
+    - 車郡
+    - 車評
+  user_terms:
+  - 群馬の名前の由来
+  - ぐんまはなぜ車から
+  - 群馬は馬が多いから群馬
+  - つる舞う形の県の由来
+  - 上毛野国の読み方
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は古代の群馬郡に由来し、その読み「くるま」はもとは「車」の一字で書かれた車評・車郡に遡る。和銅6年（713年）の好字二字令で「車」に「群馬」の字が当てられ、読みは「くるま」のまま継承された。明治4年（1871年）10月28日に大郡だった群馬郡の名を採って第1次群馬県が成立した。
+  first_attestation:
+    era: 藤原京時代（694-710年）
+    year_western: null
+    document: 藤原京出土木簡
+    note: 「上毛野国車評桃井里大贄鮎」と記す荷札木簡が前身表記「車評」の使用例。群馬の字そのものの在地最古例は金井沢碑（神亀3年・726年）とされる
+  claims:
+  - text: 群馬県公式によれば、藤原京（694-710年）の時代の資料に現在の群馬県の中に車評（くるまのこおり）と呼ばれた地域があったとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-pref
+  - text: 奈良文化財研究所の木簡データベースに、上毛野国車評と記された藤原京出土木簡のレコードが収録されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-mokkan
+  - text: 前橋市立図書館の展示資料によれば、当該木簡には上毛野国車評桃井里大贄の鮎とあり、桃井里から宮廷へ献上された鮎の荷札だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-maebashi150
+  - text: 群馬県公式によれば、評は大宝律令によって郡となり、和銅6年（713年）に国・郡・郷名を漢字二文字で表すこととされ、上毛野国は上野国に、車郡は群馬郡に改められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-pref
+    - b-gunma-maebashi150
+  - text: 高崎市公式によれば、神亀3年（726年）建立の金井沢碑の冒頭に上野国群馬郡下賛郷高田里とあり、本碑の群馬の文字は在地最古の群馬の用例である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-kanazawahi
+  - text: 前橋市立図書館の展示資料は、車の名は上毛野氏と祖を同じくする車持氏に由来すると考えられるとし、車持は雄略天皇に乗輿を献じて賜った姓と伝えられることを併せて紹介している
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - b-gunma-maebashi150
+  - text: 群馬県公式によれば、群馬県の県名が初めて使われたのは第1次群馬県が成立した明治4年（1871年）10月28日で、高崎・前橋の大部分を含み大郡であった群馬郡を県名とすることがふさわしいと判断されたことによる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-pref
+  - text: 前橋市立図書館の展示資料によれば、明治6年（1873年）に群馬県は入間県と合併して熊谷県となり、明治9年（1876年）に熊谷県が分割されて旧上野国分が再び群馬県となり、現在の県域がまとまった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-gunma-maebashi150
+  column:
+    title: 「車」が「群馬」になった日
+    text: 群馬の読みは今も「ぐんま」で、古代の読み「くるま」とは違う。ところが漢字の変遷を追うと、もとの言葉は「くるま」であり、713年の好字二字令で音に「群馬」の字を当てた際に読みは「くるま」のままだった。金井沢碑（726年）の碑文も「群馬郡（くるまのこおり）」と読む。つまり「群馬」は当て字として生まれ、後に字面通りの音読み「ぐんま」に読み替えられた地名である。馬の字が入った理由として馬の産地だったからとする説明が広く流布しているが、県公式の由来ページはそこまで踏み込んでおらず、本KBでは説として unknowns 側に残した。
+    sources:
+    - b-gunma-pref
+    - b-gunma-kanazawahi
+  relations: []
+  unknowns:
+  - 車（くるま）という評名自体の由来は車持氏由来説が有力視されるが確定しておらず、車評の成立事情は未確認
+  - 群馬の用字選択に当地が馬の産地だったことが考慮されたとする説は、県公式の由来ページには記載がなく、本バッチでは公的出典で裏付けが取れなかった
+  - 読みが「くるま」から「ぐんま」へ変わった時期と経緯は本バッチでは未確認
+  updated: '2026-11-13'
+- id: pref/11
+  code: '11'
+  names:
+    ja: 埼玉県
+    reading: さいたまけん
+    aliases:
+    - 埼玉郡
+    - 前玉郡
+    - 前玉評
+  user_terms:
+  - 埼玉の名前の由来
+  - さいたまはなぜ埼玉と書く
+  - さきたまとさいたまの違い
+  - 埼玉県名発祥の地はどこ
+  - さいたま市の名前の由来
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は古代の埼玉郡に由来するが、その原点は現在のさいたま市ではなく行田市埼玉（さきたま）である。古くは前玉（さきたま）と書かれ、藤原京期の資料や『万葉集』に見え、後に埼玉の字が定着して読みも「さいたま」へ移った。明治4年（1871年）11月14日、当初の管轄区域で最も広かった埼玉郡の名を採って埼玉県が成立した。
+  first_attestation:
+    era: 藤原京時代（694-710年）
+    year_western: null
+    document: 藤原宮跡出土資料（前玉評）および万葉集
+    note: 前身表記「前玉（さきたま）」の使用例の初出級資料。埼玉の字での確実な用例は『続日本紀』天平5年（733年）条とされ、読みが「さいたま」となったことは『和名類聚抄』の訓で確認できる
+  claims:
+  - text: 埼玉県名発祥之碑の碑文によれば、埼玉郡は律令による国郡制度発足当初から置かれた郡とみられ、当初は前玉郡という表示も行われ、正倉院文書の神亀3年（726年）の山背国戸籍帳に武蔵国前玉郡の表記が見える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-saitama-hasshohi
+  - text: 奈良文化財研究所の木簡データベースに前玉評に関連するレコードが収録されており、前玉が評制下の表記だったことが資料面から追える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-saitama-mokkan
+  - text: 埼玉県立図書館によれば、『万葉集』巻14の歌で埼玉は佐吉多萬と万葉仮名で表記され、埼玉の津を詠んでいる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-saitama-lib-manyo
+  - text: 埼玉県名発祥之碑の碑文によれば、明治4年（1871年）11月14日に埼玉県と入間県を設置する太政官布告が出され、これが埼玉県の誕生とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-saitama-hasshohi
+    - b-saitama-150shi
+  - text: 埼玉県名発祥之碑の碑文によれば、埼玉が県の名称とされたのは当初の県の管轄区域の中で最も広いのが埼玉郡であったことによる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-saitama-hasshohi
+  - text: 埼玉県名発祥之碑の碑文によれば、行田市埼玉の地は埼玉古墳群の所在地であり前玉神社の鎮座地でもあるため、おそらく埼玉郡の中心地であったと考えられ、県名発祥の記念地とされている
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - b-saitama-hasshohi
+  - text: 前玉・埼玉の語源は定かではなく、埼玉県議会の質疑でも前玉神社名に由来するとも、幸魂（さきみたま）で人に幸福を与える神の霊魂を意味するとも言われると紹介されるにとどまり、確証のある語源は示されていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-saitama-gikai
+  - text: 県名の原点は行田市埼玉（さきたま）であり、現在の県庁所在地であるさいたま市とは別の場所で、原点の読み「さきたま」と県名・市名の読み「さいたま」も異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-saitama-hasshohi
+    - b-saitama-lib-manyo
+  column:
+    title: 県庁は一度も「埼玉」に置かれなかった
+    text: 埼玉県の成り立ちには小さな皮肉がある。県名は埼玉郡から採られたのに、県庁は当初予定の埼玉郡岩槻ではなく浦和（旧足立郡）に置かれ、そのまま現在に至る。原点の行田市埼玉（さきたま）には埼玉古墳群と前玉神社があり、国宝の金錯銘鉄剣が出た稲荷山古墳もここにある。「さいたま」という読み自体も新しい方で、古代の人々はこの地を「さきたま」と呼んでいた。県名発祥之碑が古墳群のそばに立つのは、そのずれを正直に示すためでもある。
+    sources:
+    - b-saitama-hasshohi
+    - b-saitama-lib-manyo
+    - b-saitama-150shi
+    - b-saitama-gikai
+  relations: []
+  unknowns:
+  - 前玉（さきたま）の語源は未確定で、多摩の前説・幸魂説ともに確証がない
+  - 藤原宮跡で前玉評と記された資料の形態（木簡か瓦片か）について、資料により記述が分かれ、本バッチでは断定していない
+  - 埼玉郡の郡衙の正確な位置は未確定で、行田市埼玉を中心地とする見方は推定の域を出ない
+  updated: '2026-11-13'
+- id: pref/12
+  code: '12'
+  names:
+    ja: 千葉県
+    reading: ちばけん
+    aliases:
+    - 千葉郡
+    - 千葉国
+  user_terms:
+  - 千葉の名前の由来
+  - ちばはなぜ千葉と書く
+  - 千葉県はいつできた
+  - 千葉氏と千葉の関係
+  - 房総の名前の由来
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は千葉郡・千葉町に由来する。明治6年（1873年）6月15日に木更津県と印旛県が合併して千葉県が設置された際に、県庁が置かれた地の名がそのまま県名になった。千葉という地名自体は『万葉集』の時代から見え、律令制以前の千葉国造や下総国千葉郡に継承された古い名で、その語源は草木の繁茂を表すとする説が広く紹介されるが定説ではない。
+  first_attestation:
+    era: 奈良時代（8世紀）
+    year_western: null
+    document: 万葉集
+    note: 千葉郡の防人の歌などに千葉が見える使用例の初出級資料（表記は知波等を含む）。千葉国造の名の確実な文書上の初出は『日本後紀』延暦24年（805年）条
+  claims:
+  - text: 千葉県公式によれば、明治6年（1873年）6月15日に木更津県と印旛県を合わせて千葉県が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-chiba-pref-ayumi
+  - text: 千葉市公式によれば、千葉という地名は古代からあり、『万葉集』で千葉郡の防人が詠んだ歌に登場するほか、墨書土器によっても約1300年の歴史が確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-chiba-city-900
+  - text: 『日本後紀』延暦24年（805年）10月8日条と大同元年（806年）条に千葉国造大私部直善人の名が見え、これが千葉国造の文書上の確実な初出である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-nihon-koki
+    - b-chiba-city-shi
+  - text: 千葉市史によれば、『和名類聚抄』には下総国千葉郡に千葉郷を含む7郷が挙げられ、千葉郷は現在の千葉市稲毛区の穴川・黒砂付近に相当すると考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-chiba-city-shi
+  - text: 千葉市公式によれば、千葉の地名の由来は諸説あるが、草木の生い茂る豊かな土地であったことから、たくさんを意味する千と草木を意味する葉という好字を当てて千葉と表記したと考えられている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-chiba-city-900
+  - text: 千葉市史は、チバは本来チハからの転音で、同祖集団やその居住地を指したとする別説を詳しく検討しており、葉の繁茂説で確定とはしていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-chiba-city-shi
+  - text: 千葉の地を千葉の蓮花に結びつけて由来を説く伝承が、千葉市史の中で伝承として紹介されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-chiba-city-shi
+  - text: 千葉市公式によれば、12世紀前半に平常重がこの地に本拠を置いてから地名を名字として千葉を名乗ったのであり、千葉氏の名は地名に由来し、その逆ではない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-chiba-city-900
+  column:
+    title: 千葉氏が先か、千葉の地が先か
+    text: 「千葉県は千葉氏から名付けられた」と思われがちだが、順序は逆である。千葉の地名は奈良時代の『万葉集』にすでに出ており、平安末期から鎌倉期に活躍した千葉氏は、拠点の地名をそのまま名字にした。県名も千葉氏からではなく、明治6年に県庁が置かれた千葉町と千葉郡から来ている。地名→名字→県名という三段の継承が、千葉では文書で追えるのが面白いところである。
+    sources:
+    - b-chiba-city-900
+    - b-chiba-pref-ayumi
+  relations: []
+  unknowns:
+  - 千葉（チバ／チハ）の本来の語源は未確定で、葉の繁茂説と同族集団説などが併存し決着していない
+  - 千葉国造が大化改新以前から置かれていたかは『日本後紀』以前の文書では確認できず未確定
+  - 県名が千葉郡と千葉町のどちらに直接由来するかは、両者が同名のため資料上区別できないとされている
+  updated: '2026-11-13'
+- id: pref/13
+  code: '13'
+  names:
+    ja: 東京都
+    reading: とうきょうと
+    aliases:
+    - 江戸
+    - 東京府
+    - 東亰
+  user_terms:
+  - 東京の名前の由来
+  - 江戸から東京に変わった理由
+  - 東京の東はどこの東
+  - 東京都はいつできた
+  - 西京はどこ
+  naming_type: 新規命名
+  homonyms: []
+  summary: 東京は慶応4年（1868年）7月17日の「江戸ヲ称シテ東京ト為スノ詔書」で江戸を改称して生まれた新規命名である。意味は京都に対して東にある都という位置づけで、同日に東京府が置かれ、現在の東京都は昭和18年（1943年）に東京府と東京市が統合して発足した。江戸を東京と呼ぶ構想自体は文政6年（1823年）の佐藤信淵『混同秘策』に先行例があるが、それが改称の直接の由来かどうかは説の域を出ない。
+  first_attestation:
+    era: 慶応4年
+    year_western: 1868
+    document: 江戸ヲ称シテ東京ト為スノ詔書
+    note: 命名そのものの公式初出（旧暦7月17日、新暦1868年9月3日）。これ以前に佐藤信淵の著書の中の用例があるが、公的な地名としての初出は本詔書である
+  claims:
+  - text: 国立公文書館の目録によれば、「江戸ヲ称シテ東京ト為スノ詔」は明治元年（1868年）7月17日付けの詔勅として現存する
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - b-tokyo-archives-shosho
+  - text: 国立公文書館によれば、慶応4年（1868年）7月17日に江戸を東京と称すとの詔書が出され、江戸は天皇が直接赴いて政治を指導すべき東国第一の大鎮として位置づけられた上で東京と定められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tokyo-archives-henbou
+  - text: 国立公文書館によれば、詔書と同日に江戸府に代わって東京府が設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tokyo-archives-henbou
+    - b-tokyo-soumu
+  - text: 東京都公式の年表によれば、1868年7月に江戸を東京と改称し東京府を置いた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tokyo-metro-nenpyo
+  - text: 東京都総務局の資料解説によれば、詔書発布により市政裁判所が廃止されて東京府が設置され、正式な開庁は同年8月17日だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tokyo-soumu
+  - text: 学術論文の整理によれば、佐藤信淵は文政6年（1823年）の『混同秘策』で江戸を東京・大坂を西京とする構想を記しており、東京の名の書物の上での先行用例となっている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - b-tokyo-kondo-jstage
+  - text: 大久保利通が佐藤信淵の書からヒントを得て東京への改称を建言したとする説明は広く語られるが、学術論文でも「いわれている」という伝聞の形で紹介されており、改称の直接の由来として確定はしていない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - b-tokyo-kondo-jstage
+  - text: 佐藤信淵の著書は江戸時代には公刊されず、初めて出版されたのは明治21年（1888年）で、維新当時は写本で伝わっていたとされるため、影響経路の検証には限界がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - b-tokyo-kondo-jstage
+  column:
+    title: 幻の「西京」と45年遅れの出版
+    text: 佐藤信淵の構想では東京と西京（大坂）はセットだったが、実現したのは東京だけだった。しかも彼の本が印刷されて世に出たのは1888年で、東京誕生から20年後である。写本で読んだ大久保利通が影響を受けたという話は魅力的だが、証拠は伝聞にとどまる。確実に言えるのは、1868年の詔書が「東国第一の大鎮」という言葉で江戸の位置づけを宣言し、東京という名を公文書に初めて刻んだという事実の方である。なお東京都という行政区分自体は1868年ではなく、東京府と東京市が統合した1943年の誕生である。
+    sources:
+    - b-tokyo-archives-henbou
+    - b-tokyo-kondo-jstage
+  relations: []
+  unknowns:
+  - 佐藤信淵『混同秘策（宇内混同秘策）』が1868年の改称決定に直接影響したかどうかは未確定で、本バッチでは説としてのみ記録した
+  - 書名は『混同秘策』と『宇内混同秘策』の両表記が資料により混用されており、本バッチでは両論を併記するにとどめた
+  - 東京の読みが当初どう定められていたか（とうけい・とうきょうの混用問題）は、公的出典を本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: pref/14
+  code: '14'
+  names:
+    ja: 神奈川県
+    reading: かながわけん
+    aliases:
+    - 神奈河郷
+    - 神奈川府
+    - 神奈川宿
+  user_terms:
+  - 神奈川の名前の由来
+  - 県庁は横浜なのになぜ神奈川県
+  - 神奈川と横浜はどっちが県名
+  - 上無川って何
+  - 神奈川条約と県名の関係
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は武蔵国神奈河郷（現在の横浜市神奈川区）の地名に由来する。文永3年（1266年）の鶴岡八幡宮文書に郷名として初出する古い名で、幕末に横浜開港の管理のため置かれた神奈川奉行所の名を引き継ぎ、明治元年（1868年）9月に神奈川県となった。県庁所在地は横浜市だが、県名は開港行政の中心だった神奈川の名がそのまま残ったものである。
+  first_attestation:
+    era: 文永3年
+    year_western: 1266
+    document: 鶴岡八幡宮文書
+    note: 「武蔵国稲目、神奈河両郷」と記す北条時宗の下文が郷名としての初出。表記は神奈河で、ほかに神名川・上無川等の表記ゆれがある
+  claims:
+  - text: 神奈川県公式によれば、かながわの名は鶴岡八幡宮所蔵の文永3年（1266年）の文書に武蔵国稲目・神奈河両郷の郷名としてみられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-kanagawa-pref
+    - b-tsurugaoka-doc
+  - text: 神奈川県公式によれば、神奈河は神名川・上無川などとも書かれ、武蔵国久良岐郡（近世からは橘樹郡）内の地域で現在の横浜市神奈川区をいい、古くから陸上・海上交通の重要なところだった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-kanagawa-pref
+  - text: 神奈川県勢要覧によれば、神奈河の地域はカメ河・金河・狩野河とも書かれ、江戸時代の『江戸名所図会』には上無川とも書かれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-kanagawa-yoran
+  - text: 横浜市神奈川区公式は、上無川は水源が分からず水量も少ないため上がない川と呼ばれた小川で、その名が転じて「かな川」になったという話を、諸説の1つとして紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-yokohama-kanagawa
+  - text: 日本武尊が船出の際に宝剣が金色に川面に映ったため金川と名付けたという話が、横浜市神奈川区公式で伝承として紹介されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-yokohama-kanagawa
+  - text: 源頼朝が金川を賞して神を大いに示す地として神奈川と改めたという話が、横浜市神奈川区公式で伝承として紹介されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-yokohama-kanagawa
+  - text: 神奈川県公式によれば、県名になったのは横浜港開港に伴い安政6年（1859年）に神奈川奉行所を置いたことにより、その行政を引き継いで明治元年（1868年）9月に神奈川県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-kanagawa-pref
+    - b-kanagawa-yoran
+  - text: 神奈川県公式によれば、明治元年は3月に横浜裁判所、4月に神奈川裁判所、6月に神奈川府と改称が続き、9月21日に神奈川府を神奈川県と改称して歴史上初めて神奈川県の名が登場した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-kanagawa-pref
+  - text: 外交の拠点だった神奈川の名を対外的に掲げる必要があったため横浜や鎌倉ではなく神奈川が選ばれたとする説明は、県公式の由来説明にはなく奉行所継承という経緯で説明されているため、本KBでは選定理由としては説の域にとどめる
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - b-kanagawa-pref
+    - b-kanagawa-yoran
+  column:
+    title: 条約の地名は「神奈川」、開いた港は「横浜」
+    text: 1854年の日米和親条約は「神奈川条約」とも呼ばれ、1858年の修好通商条約でも開港場は神奈川とされた。ところが実際に開かれたのは対岸の横浜村で、行政の看板は神奈川奉行所のままだった。この「条約上の神奈川、実務上の横浜」というねじれが、県名＝神奈川・県庁所在地＝横浜という現在の形を生んだ。もとの神奈川の地は現在の横浜市神奈川区で、語源とされる上無川は関東大震災後の復興で埋め立てられ、今は流れていない。
+    sources:
+    - b-kanagawa-yoran
+    - b-yokohama-kanagawa
+  relations: []
+  unknowns:
+  - 神奈川（神奈河）の本来の語源は未確定で、上無川転訛説を含め諸説の決着はついていない
+  - 神奈川の名が県名に選ばれた理由について、外交上の必要性を挙げる説を裏付ける明治政府側の一次記録は本バッチでは未確認で、公式説明は奉行所の継承経緯にとどまる
+  - 鶴岡八幡宮文書の当該下文の原文は本バッチでは直接確認しておらず、県公式の紹介によるE2として記録した
+  updated: '2026-11-13'
+- id: pref/15
+  code: '15'
+  names:
+    ja: 新潟県
+    reading: にいがたけん
+    aliases:
+    - 新潟町
+    - 新方
+  user_terms:
+  - 新潟の名前の由来
+  - 新潟はなぜ新潟というのか
+  - 新潟の港の名前
+  - 新しい潟の県
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は県庁所在地となった港町「新潟町」の名に由来する。「新潟」は戦国期に現れた地名で、古くからある蒲原・沼垂の湊に対して新しい湊であることを示す名と考えられている。明治2年に開港場の新潟町へ県が置かれた後、紆余曲折を経て新潟県に落ち着いた。
+  first_attestation:
+    era: 永正17年
+    year_western: 1520
+    document: 越後過去名簿
+    note: 「新潟」そのものではなく「新方」という表記での用例。「新潟」表記は永禄11年（1568）の上杉輝虎の手紙に見える
+  claims:
+  - text: 永正17年（1520）の史料『越後過去名簿』（高野山清浄院蔵）に「新方」という地名が見られ、新潟の地名の初期の用例とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+    - c-echigo-kako-meibo
+  - text: 永禄7年（1564）の史料には「ニイカタ」「新方」という地名が併せて見られ、当初は表記が揺れていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+  - text: 永禄11年（1568）の上杉輝虎（後の謙信）の手紙の中には「新潟」という表記が出てくる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+    - c-uesugi-shojou
+  - text: 周辺の蒲原・沼垂は7〜8世紀の文献にも出てくる古い湊町であり、「新」と付くのはそれらに比べて新しい湊であるためと考えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+  - text: 「新」が新しい潟そのものを指すのか、もとからある潟の中に新しく作られた港町を指すのかについては、見方が分かれており決着していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-niigata-lib
+  - text: 明治2年（1869）、明治新政府は開港場になる新潟町（現・新潟市）に新潟県を設置して直接支配し、内政・外交を一括して掌握する方針をとった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+  - text: その後の廃藩置県を経て現在の行政組織としての新潟県へつながっており、県名は港町・新潟の名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+  column:
+    title: 三つの湊でいちばん新しい港
+    text: 信濃川と阿賀野川の河口には、古代から蒲原と沼垂という湊がありました。そこへ戦国時代になって加わったのが新潟です。地名に「新」と付いたのは、先輩の二つの湊から見て「新しい湊」だったからだと考えられています。つまり新潟という名前自体が、この港が後から開けた新興の港町だったことの記憶なのです。その新潟は江戸時代に北前船の寄港地として栄え、幕末には開港場に選ばれ、やがて県の名前になりました。
+    sources:
+    - c-niigata-lib
+  relations: []
+  unknowns:
+  - 「新方」が現在の新潟市域のどの範囲を指したのか、正確な比定は確認できていない
+  - 明治期の新潟県設置・改称の経緯について、太政官布告等の一次文書の直接確認は未了
+  - 潟そのものの形成時期と港町の成立時期の前後関係は、考古・地形学の資料まで深追いできていない
+  updated: '2026-11-13'
+- id: pref/16
+  code: '16'
+  names:
+    ja: 富山県
+    reading: とやまけん
+    aliases:
+    - 外山郷
+    - 富山町
+    - 新川県
+  user_terms:
+  - 富山の名前の由来
+  - 富山はなぜ富山というのか
+  - 外山と富山の違い
+  - 富山県が石川県から分かれた理由
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は富山藩の城下町・富山に由来し、その「とやま」は室町期の郷名「外山郷」に遡る。「富山」の字は戦国期以降に広がった。現在の富山県は、石川県に編入された後に治水をめぐる分県運動が起こり、明治16年（1883）に分県して成立したものである。
+  first_attestation:
+    era: 応永5年
+    year_western: 1398
+    document: 吉見詮頼寄進状
+    note: 「富山」ではなく「外山郷（越中国外山郷地頭職）」という表記での初見
+  claims:
+  - text: 応永5年（1398）5月3日の吉見詮頼寄進状に「越中国外山郷地頭職」とあり、「とやま」の文献上の初見とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-yoshimi-kishinjo
+    - c-toyama-joka
+  - text: 外山郷は呉羽山（御服山）の東麓にあり、越中守護所のあった放生津側（射水郡側）から見て山の外側に位置していた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - c-toyama-joka
+  - text: 「外山」の語源については、呉羽山の外側の地とする説のほか、深山に対する外山とする説などもあり、確定していない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - c-toyama-weblio
+  - text: もとは藤井村と称された地が、真言宗の藤井山富山（ふせん）寺にちなんで富山と改称したという伝承が『三州志』などに伝えられる
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - c-toyama-joka
+  - text: 行基が神亀元年（724）に富山寺を建立したことに地名を結びつける伝承もあるが、史料的な裏付けは確認されていない
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - c-toyama-joka
+  - text: 「富山」という表記は戦国時代に現れ、江戸時代には「外山」と「富山」の両表記が使われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-toyama-weblio
+  - text: 明治4年（1871）の廃藩置県で富山藩は富山県となったが、同年11月に新川県へ改められ、明治9年（1876）には越中全域が石川県に編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-toyama-gikai
+  - text: 道路整備を優先する加賀・能登側と治水を急務とする越中側の対立から分県運動が起こり、明治16年（1883）5月9日、太政官布告第15号により現在の富山県が石川県から分県した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-toyama-gikai
+    - c-toyama-bunken
+  column:
+    title: 水害が新しい県を生んだ
+    text: 富山県は一度、石川県に吸収されて消えています。ところが合併してみると、県のお金の使い方で折り合いがつきませんでした。金沢を中心とする側は道路整備を、常願寺川などの急流河川に悩む越中側は治水を優先したかったのです。米沢紋三郎らによる粘り強い分県運動の末、明治16年（1883）に富山県は復活しました。県名は藩名の継承ですが、県そのものは「水を治めたい」という切実な理由から生まれた県だと言えます。
+    sources:
+    - c-toyama-gikai
+    - c-toyama-bunken
+  relations:
+  - pref/17
+  unknowns:
+  - 外山郷の成立時期は、『和名類聚抄』に記載がないため特定できていない（平安前期から室町初頭の間の開発と推測されるにとどまる）
+  - 「外山」から「富山」へ字が替わった正確な時期と理由は確定していない
+  - ユーザーの途中資料が挙げる「富山城の名は永禄3年（1560）の長尾景虎書状に初見」とする点は、原典の直接確認が未了
+  - 富山城の築城を天文12年（1543）の神保長職とする伝承と、近年の発掘成果との整合は本バッチでは未検証
+  updated: '2026-11-13'
+- id: pref/17
+  code: '17'
+  names:
+    ja: 石川県
+    reading: いしかわけん
+    aliases:
+    - 金沢県
+    - 石川郡
+  user_terms:
+  - 石川の名前の由来
+  - 石川県はなぜ石川というのか
+  - 石川郡と手取川の関係
+  - 金沢県から石川県になった理由
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は加賀国の郡名「石川郡」に由来する。石川郡は弘仁14年（823）に加賀国の設置に伴って置かれた古い郡で、明治5年（1872）に県庁が石川郡美川町へ移された際に郡名をとって石川県と改称された。郡名の語源は手取川の古名「石川」に求める説が広く紹介されるが、確定していない。
+  first_attestation:
+    era: 弘仁14年
+    year_western: 823
+    document: 日本紀略
+    note: 弘仁14年6月4日に加賀郡から石川郡を分置した記事。ユーザーの途中資料は『日本後紀』を出典とするが、現存する伝存経路は主に『日本紀略』であり、本バッチではそちらを初出文書とした
+  claims:
+  - text: 弘仁14年（823）3月1日、越前国から江沼郡と加賀郡を割いて加賀国が立てられ、令制国としては最後の立国となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nihon-kiryaku
+    - c-fukui-nenpyo
+  - text: 同年6月4日、加賀郡の南部を分けて石川郡が置かれ、江沼郡からは能美郡が分けられて加賀国は4郡となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nihon-kiryaku
+    - c-fukui-nenpyo
+  - text: 石川郡設置の原記録を『日本後紀』に求める説明がある一方、福井県立図書館の県史年表はこの記事を『日本紀略』所引としており、伝存経路には注意が要る
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-fukui-nenpyo
+  - text: 明治5年（1872）2月2日、金沢県庁を石川郡美川町（現・白山市）に移した際、その郡名により石川県と改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ishikawa-enkaku
+  - text: 明治6年（1873）に県庁は金沢へ戻ったが、県名は石川県のまま現在に至っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ishikawa-enkaku
+  - text: 石川郡の命名は、県内最大の河川である手取川の古名が「石川」であったことに由来するという説が、国土交通省の河川資料などでも紹介されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-tedori-mlit
+  - text: 手取川は石川郡の南境に当たるため郡名の由来とするには疑問も呈されており、石の多い川辺・砂礫地という地形そのものに由来すると見る向きもあって、郡名の語源は確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - c-ishikawa-chimei
+  - text: 手取川の名そのものについては、木曽義仲の軍が急流を手を取り合って渡ったからとも、渡るのに手間取ったからとも言い伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - c-ishikawa-tedori
+  - text: 明治9年（1876）には越中と越前の一部まで含む県域となったが、明治14年（1881）に福井県、明治16年（1883）に富山県が順に分離し、現在の県域が確定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ishikawa-enkaku
+  column:
+    title: 県庁が1年だけ美川にあった
+    text: 石川県という名前は、県庁の引っ越しの副産物です。明治5年、金沢にあった県庁が手取川河口の港町・美川（現・白山市）へ移り、その土地の郡名をとって金沢県は石川県になりました。ところが翌年、県庁は金沢へ戻ってしまいます。庁舎は戻ったのに名前は戻らず、「石川」がそのまま県名として定着しました。なぜ美川へ移したのかは今も諸説あり、県域の北に寄りすぎていた金沢の位置を理由とする説明が公式には伝えられています。
+    sources:
+    - c-ishikawa-enkaku
+  relations:
+  - pref/16
+  - pref/18
+  unknowns:
+  - 石川郡名の語源を直接示す古代の文書は見つかっておらず、手取川説・犀川説・石川村説のいずれも後世の推定にとどまる
+  - 『日本後紀』の該当部分は散逸したとされ、823年の記事の原文を同書で直接確認することはできない
+  - 県庁を美川へ移した正確な理由を示す政府側文書の直接確認は未了
+  updated: '2026-11-13'
+- id: pref/18
+  code: '18'
+  names:
+    ja: 福井県
+    reading: ふくいけん
+    aliases:
+    - 北ノ庄
+    - 北庄
+    - 福居
+  user_terms:
+  - 福井の名前の由来
+  - 福の井は本当か
+  - 福井はなぜ福井というのか
+  - 北ノ庄から福井への改名
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は福井藩の城下町・福井に由来する。もとの地名「北ノ庄」は、寛永元年（1624）に3代藩主・松平忠昌の代で改められた。天守台の井戸「福の井」に由来すると広く語られるが、県の資料ではまず「福居」と改められ元禄頃に「福井」となったとする説が有力とされ、「福の井」由来説は誤りと位置づけられている。
+  first_attestation:
+    era: 寛永元年
+    year_western: 1624
+    document: 越前国名跡考
+    note: 寛永元年7月19日の松平忠昌入城の頃より改められたとする後世の地誌の記事。改められた字が直ちに「福井」だったか「福居」だったかには対立がある
+  claims:
+  - text: 現在の福井市中心部は近世初頭まで北ノ庄（北庄）と呼ばれ、柴田勝家によるまちづくりを経て、結城秀康が慶長5年（1600）に入封して城下町として整備された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-fukui-city
+  - text: 『越前国名跡考』は、寛永元年（1624）7月19日の松平忠昌入城の頃より「福井」と改められたと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-fukui-meiseki
+    - c-fukui-bunshokan
+  - text: 改名の理由は、「北」の字が敗北につながり軍陣に不吉であるためと伝えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-fukui-bunshokan
+  - text: 改名の経緯については、まず「福居」と改められ、1700年頃（元禄期）に「福井」となったとする説が有力であり、1624年に直ちに「福井」になったとする説明とは時期がずれる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-ndl-fukui
+    - c-fukui-guidebook
+  - text: 天守台の井戸「福の井」が福井の名の由来だとする説は広く語られるが、『福井県の地名』等に基づくレファレンス回答はこの説を誤りと位置づけている
+    kind: legend
+    level: E2
+    status: contested
+    sources:
+    - c-ndl-fukui
+    - c-fukui-fukunoi
+  - text: 「福の井」自体は福井城天守台に現存する井戸であり、県が史跡の案内資料で紹介している実在の遺構である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-fukui-fukunoi
+  - text: 明治4年（1871）の統合で県庁所在地の地名「福井」を県名とする福井県が成立した後、足羽県・敦賀県・石川県への編入を経て、明治14年（1881）に福井へ県庁を置く現在の福井県が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ndl-fukui
+  - text: 「福居」の字の選定経緯や忠昌への進言者については資料によって説明が異なり、地名の起こりは諸説あって定かではないと学術解説も述べる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - c-fukui-fpu
+  column:
+    title: 「福の井」は実在する。でも由来ではないらしい
+    text: 福井城の天守台には、今も「福の井」と呼ばれる井戸が残っています。名前の由来としてこれほど分かりやすい遺構はないため、「福井は福の井から」と長く語られてきました。ところが福井県文書館や県立図書館の検証では、忠昌が改めたのはまず「福居」で、「福井」の表記が定まるのは1700年頃とみるのが有力で、福の井由来説は誤りとされています。井戸は本物でも、由来の話は別――地名の伝承と事実の線引きを考える格好の事例です。
+    sources:
+    - c-ndl-fukui
+    - c-fukui-fukunoi
+    - c-fukui-guidebook
+  relations:
+  - pref/17
+  unknowns:
+  - 「福居」から「福井」への表記移行の正確な時期を示す同時代文書は特定できていない
+  - ユーザーの途中資料が挙げる『真雪草紙』の該当記事は、本文の直接確認が未了
+  - 「福井神（足羽神社の神）に由来する」とする別説の原典確認は未了（レファレンス回答はこれも誤りとする）
+  - コラム材料として、改名にまつわる忠昌自身の同時代記録の有無は未確認
+  updated: '2026-11-13'
+- id: pref/19
+  code: '19'
+  names:
+    ja: 山梨県
+    reading: やまなしけん
+    aliases:
+    - 甲府県
+    - 山梨郡
+    - 山無瀬
+  user_terms:
+  - 山梨の名前の由来
+  - 山梨はなぜ山梨というのか
+  - 山が多いのに山なしの理由
+  - 山梨郡と県名の関係
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は甲斐国の郡名「山梨郡」に由来し、甲府が属した郡の名を明治4年（1871）に県名とした。「やまなし」は『和名類聚抄』に「夜萬奈之」と訓まれる古い地名で、語源は果物のヤマナシとする説と、甲府盆地の平坦さを表す「山ならす」とする説などが対立し、確定していない。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 和名類聚抄
+    note: 甲斐国山梨郡を挙げ、読みを「夜萬奈之（やまなし）」と注する。成立は931〜938年頃とされるため西暦年は特定せず null とした
+  claims:
+  - text: 『和名類聚抄』は甲斐国の筆頭に山梨郡を挙げ、その読みを「夜萬奈之（やまなし）」と注している
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - c-wamyo-ruijusho
+    - c-yamanashi-lib
+  - text: 「山梨」は「夜萬奈之」「山無」などとも書かれた地名であると、県立図書館のレファレンス回答は整理する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ndl-yamanashi
+  - text: 語源については、果物のヤマナシを多く産したからとする説が県公式の解説でも紹介される
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-yamanashi-ken
+    - c-yamanashi-aramashi
+  - text: これに対し、甲府盆地の平坦な地形を表す「山ならし（山平らす）」が詰まったとする説や、盆地に山が無いことをいう「山無し」とする説もあり、語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-ndl-yamanashi
+    - c-yamanashi-lib
+  - text: 県名は藩名ではなく、甲斐国の中心地・甲府が属していた山梨郡の郡名をとったものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ndl-yamanashi
+  - text: 山梨・八代・巨摩・都留の4郡からなる甲斐国は、明治4年（1871）11月の廃藩置県で甲府県を経て山梨県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-yamanashi-ken
+  - text: 県立図書館・県公式のいずれも由来には複数の説があることを明示しており、県として単一の語源を断定していない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-yamanashi-lib
+    - c-yamanashi-aramashi
+  column:
+    title: 山だらけの県なのに「山なし」
+    text: 富士山に南アルプス、八ヶ岳と、山梨県は日本屈指の山岳県です。それなのに名前は「山梨（やまなし）」。語源説の一つ「山ならす／山無し」は、県全体ではなく甲府盆地の平らな土地を指す言葉だったと説明されます。盆地の小さな地名が郡名になり、明治に県名へ昇格したことで、山ばかりの県土全体が「山なし」と呼ばれることになりました。地名が指す範囲が時代とともに広がっていく好例です。
+    sources:
+    - c-ndl-yamanashi
+    - c-yamanashi-lib
+  relations: []
+  unknowns:
+  - 「やまなし」の語源は、ヤマナシ（果物）説・山ならす説・山無し説のいずれとも決められていない
+  - ユーザーの途中資料が述べる「和銅6年（713年）の官命で『山梨』の表記ができた」とする経緯は、それを示す具体的な公的文書を確認できていない
+  - 「山無瀬」と記す『風土記』残簡とされる資料の直接確認は未了
+  - 山梨岡神社の梨の古木にちなむとする付会的な伝承は、公的資料での確認が取れず収載を見送った
+  updated: '2026-11-13'
+- id: pref/20
+  code: '20'
+  names:
+    ja: 長野県
+    reading: ながのけん
+    aliases:
+    - 中野県
+    - 長野村
+    - 善光寺町
+  user_terms:
+  - 長野の名前の由来
+  - 長野県はなぜ長野というのか
+  - 中野県から長野県になった理由
+  - 善光寺と県名の関係
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は善光寺の所在地である長野村の名に由来する。前身の中野県は明治3年（1870）の中野騒動で県庁舎が焼失し、翌年に県庁を長野村へ移した際に長野県と改称された。「長野」は扇状地の長い緩やかな傾斜地を指す地形由来の地名と説明される。
+  first_attestation:
+    era: 慶長6年
+    year_western: 1601
+    document: 善光寺文書（大久保長安等連署証文）
+    note: 慶長6年9月16日付の証文に「信州水内郡之内長野」とある。1570年の武田信玄書状に初出を求める説もあるが字句の読みが定まらないため、確実な用例としてこちらを採った
+  claims:
+  - text: 慶長6年（1601）9月16日の大久保長安等連署証文（善光寺文書）に「信州水内郡之内長野」とあり、善光寺領の確定に関わる文書の中で「長野」が確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-zenkoji-monjo
+    - c-jstage-nagano
+  - text: 元亀元年（1570）の武田信玄の書状に長野の初出を見る説もあるが、その字句は「艮野」とも読まれ、1601年初出説と併存している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - c-jstage-nagano
+  - text: 「長野」は、善光寺平に裾花川などがつくった扇状地のような、長く緩やかな傾斜地を指す地形由来の地名と説明される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-suzaka-city
+  - text: 江戸時代、現・長野市中心部は地籍上は水内郡長野村であり、その町場の部分が善光寺の門前町として善光寺町と呼ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ndl-nagano
+  - text: 明治3年（1870）に置かれた中野県は、同年の中野騒動によって県庁舎が焼失した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nagano-ken
+    - c-nagano-shishi
+  - text: 明治4年（1871）6月、県庁が長野村の西方寺へ移され、県名が長野県と改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nagano-ken
+  - text: 県名は移転先の村名「長野村」に由来し、善光寺の門前町を県庁所在地としたことがそのまま県名になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nagano-ken
+    - c-nagano-shishi
+  - text: 当初の長野県は北信・東信が中心で、明治9年（1876）に筑摩県の信濃部分が合併して、ほぼ現在の県域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nagano-ken
+    - c-suzaka-city
+  column:
+    title: 県庁が焼けて、県の名前が変わった
+    text: 長野県の前身は、県庁を現在の中野市に置く「中野県」でした。ところが明治3年、世直し騒動の流れを受けた中野騒動で県庁舎が焼き討ちに遭い、全焼してしまいます。行き場を失った県庁は、善光寺の門前町・長野村の西方寺へ引っ越し、その際に県の名前も長野県に改められました。一揆が県名を決めた、と言ってもよい珍しい成立事情です。なお仮庁舎の西方寺での執務は、明治7年に新庁舎が完成するまで続きました。
+    sources:
+    - c-nagano-ken
+    - c-nagano-shishi
+  relations: []
+  unknowns:
+  - 1570年の武田信玄書状の該当字句（長野か艮野か）の確定には、原本の画像確認が必要で未了
+  - 「長野＝長い傾斜地」とする地形語源説の言語学的な検証水準は、本バッチでは専門地名辞典まで確認できていない
+  - 善光寺文書の証文原本の直接確認は未了（学術論文・市誌経由の確認にとどまる）
+  updated: '2026-11-13'
+- id: pref/21
+  code: '21'
+  names:
+    ja: 岐阜県
+    reading: ぎふけん
+    aliases:
+    - 井口
+    - 井ノ口
+    - 稲葉山城
+  user_terms:
+  - 岐阜の名前の由来
+  - 岐阜は信長が付けた名前か
+  - 岐山と曲阜の意味
+  - 沢彦の3つの案
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は県庁所在地・岐阜の名に由来し、その岐阜は永禄10年（1567）に織田信長が稲葉山城下の井口を改めた名とされる。沢彦宗恩の進言による命名という話は後世の編纂物『安土創業録』に基づいており、信長以前から禅僧の間で「岐阜」の語が使われていた例もあって、命名の経緯には諸説がある。
+  first_attestation:
+    era: 永禄10年
+    year_western: 1567
+    document: 信長公記
+    note: 井口を岐阜と改めた公称としての初出。語そのものは信長以前の禅僧の用例が指摘されている
+  claims:
+  - text: 永禄10年（1567）、織田信長は稲葉山城を攻略して居城を移した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-ken
+  - text: 『信長公記』は、信長が稲葉山の城下の井口（井ノ口）を岐阜と改めたと記しており、改名自体は当事者に近い記録で裏付けられる
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - c-nobunaga-koki
+    - c-gifu-ken
+  - text: 尾張・政秀寺の禅僧沢彦宗恩が「岐山・岐陽・岐阜」の3案を進言し、信長が「岐阜」を選んだとする話は『安土創業録』に基づくもので、同書は後世の編纂物であり同時代の記録ではない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-gifu-ken
+    - c-azuchi-sogyoroku
+  - text: 「岐」は、中国で周の文王が岐山より興って天下を定めた故事にちなむと岐阜県公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-ken
+  - text: 「阜」を孔子の生誕地である曲阜にちなむとする説明も広く流布するが、県公式の説明は岐山の故事を中心としており、曲阜説は諸説の一つと位置づけられる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - c-gifu-ken
+    - c-gifu-city-gaiyo
+  - text: 岐阜市の資料は、応仁元年（1467）の瑞龍寺建立に際する賛に「岐阜」の字句が見えることや、快川紹喜が「岐陽」の語を用いたことを挙げ、信長以前から禅僧の間でこの地の雅称が使われていたとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-city-gaiyo
+  - text: 県公式も「岐阜という地名は信長が名づける以前から禅僧の間で使われていたとも言われ、その由来には諸説があります」と明記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-ken
+  - text: 県名は、信長の改名で生まれた城下町名「岐阜」を県庁所在地名として採用したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-ken
+  column:
+    title: 天下統一の出発点に、中国の故事を重ねた男
+    text: 永禄10年、美濃を手に入れた信長は、井ノ口という小さな地名を捨てて「岐阜」と改め、ほどなく「天下布武」の印を使い始めます。沢彦進言説によれば、「岐」は周の文王が岐山から興って天下を平定した故事へのなぞらえで、命名はそのまま天下への宣言でした。もっとも「岐阜」の語自体は、それ以前から金華山周辺を詠む禅僧の雅称として存在したとも言われます。信長の天才は、無から名前を発明したことではなく、すでにあった由緒ある言葉を拾い上げ、自分の旗印に変えたところにあったのかもしれません。
+    sources:
+    - c-gifu-ken
+    - c-gifu-city-gaiyo
+  relations: []
+  unknowns:
+  - 沢彦宗恩の進言を裏付ける同時代史料は確認されておらず、『安土創業録』の記事の信憑性は確定していない
+  - ユーザーの途中資料が挙げる『梅花無尽蔵』の「岐阜」用例は、本文の直接確認が未了
+  - 1467年の賛の「岐阜鐘秀」という字句が地名として使われたのか、単なる美称かは解釈が分かれる
+  - 「阜＝曲阜」説の出典となる初期の文献は特定できていない
+  updated: '2026-11-13'
+- id: pref/22
+  code: '22'
+  names:
+    ja: 静岡県
+    reading: しずおかけん
+    aliases:
+    - 駿府
+    - 府中
+    - 静岡藩
+    - 駿河府中
+  user_terms:
+  - 静岡の名前の由来
+  - 静岡はなぜ静岡というのか
+  - 駿府から静岡への改名
+  - 賤機山と静岡の関係
+  naming_type: 新規命名
+  homonyms: []
+  summary: 県名は明治2年（1869）に新しく作られた藩名「静岡」に由来する。もとの「府中（駿府）」は各地にある紛らわしい名だとして政府から改名を求められ、藩内から上申した「静」「静城」「静岡」の3案の中から「静岡」が選ばれた。「シズ」は駿府の北西の賤機山に由来すると言われる。
+  first_attestation:
+    era: 明治2年
+    year_western: 1869
+    document: 静岡藩への改称（藩知事任命時）
+    note: 命名そのものの初出。明治2年6月の徳川家達の藩知事任命の際に「静岡」が初めて使用されたと県公式は説明する
+  claims:
+  - text: 駿府は「駿河府中」の略であり、律令期以来の国府所在地を指す、特定の土地固有ではない普通名詞的な名称だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-shizuoka-ken
+  - text: 明治2年（1869）、新政府は「府中」という名称は紛らわしいとして、駿府藩（府中藩）に対して地名の変更を求めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-shizuoka-ken
+    - c-shizuoka-lib
+  - text: 藩内で検討して「静」「静城」「静岡」の3案を考案して政府に報告し、そのうち「静岡」が採用されて、同年6月の藩知事任命の際に初めて使用された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-shizuoka-ken
+    - c-shizuoka-lib
+  - text: 「シズオカ」の「シズ」は、駿府の北西にある賤機山（しずはたやま）に由来すると言われているが、同時代の命名記録で直接確認されたものではない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-shizuoka-ken
+  - text: いったん「賤ヶ丘」と決まった名を、藩校頭取の向山黄村が「賤」の字を嫌って「静」に改めるよう進言したとする逸話が伝わるが、その史料的裏付けは確認されていない
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - c-shizuoka-weblio
+  - text: 「府中」が「不忠」に通じるため嫌われたとする説明も流布し、県統計年鑑も県名の由来は「諸説あります」と留保している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-shizuoka-tokei
+    - c-shizuoka-ken
+  - text: 静岡藩は廃藩置県で静岡県となり、明治9年（1876）8月21日に浜松県等と合併して現在の静岡県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-shizuoka-kids
+  column:
+    title: 候補には「静」一文字もあった
+    text: 静岡という名は、最初から決まっていたわけではありません。政府から改名を求められた駿府藩は、「静」「静城」「静岡」という3つの候補を上申し、政府がその中から「静岡」を選びました。背景には、徳川宗家が70万石で移封されたばかりという事情があります。「府中」が紛らわしいという表向きの理由に加え、新政府への恭順を示す改名でもありました。現在の静岡市役所前には、この経緯を記した「静岡の由来」の石碑が立っています。
+    sources:
+    - c-shizuoka-ken
+    - c-shizuoka-lib
+  relations: []
+  unknowns:
+  - 「シズ＝賤機山」説を裏付ける同時代の命名経緯記録は確認できていない
+  - 向山黄村の進言説については、向山自身の史料や没後の伝記・墓誌にも言及がないと指摘されており、裏付けは未確認
+  - 藩側の上申文書の原本の直接確認は未了
+  - 「岡」の字が丘陵地を指すために付けられたとするユーザーの途中資料の説明は、公的資料では確認できていない
+  updated: '2026-11-13'
+- id: pref/23
+  code: '23'
+  names:
+    ja: 愛知県
+    reading: あいちけん
+    aliases:
+    - 名古屋県
+    - 愛知郡
+    - 愛智郡
+    - 年魚市
+  user_terms:
+  - 愛知の名前の由来
+  - 愛知はなぜ愛知というのか
+  - あゆちとあいちの関係
+  - 万葉集と愛知県の関係
+  - 愛知郡と県名の関係
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は尾張国の郡名「愛知郡」に由来し、廃藩置県後に県庁が愛知郡の名古屋城内に置かれたことから採用された。郡名の読み「あいち」は、古代の地名「あゆち」の転じたもので、『万葉集』に詠まれた干潟「年魚市潟（あゆちがた）」に遡ると県公式は説明する。ただし「あゆち」自体の語源は未確定である。
+  first_attestation:
+    era: 和銅2年
+    year_western: 709
+    document: 続日本紀
+    note: 「愛知郡大領」とある「愛知」表記の郡名の初期の確認例（『古事類苑』が『続日本紀』和銅2年5月の条として引用）。地名「あゆち」自体は『日本書紀』の「吾湯市村」や『万葉集』の「年魚市潟」にさらに遡る
+  claims:
+  - text: 『日本書紀』神代紀の一書は、草薙剣が「尾張国吾湯市（あゆち）村」にあると記し、「あゆち」は熱田周辺の古い地名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nihon-shoki
+    - c-kojiruien-owari
+  - text: 『万葉集』巻3の271番歌で高市黒人は「桜田へ鶴鳴き渡る年魚市潟（あゆちがた）」と詠み、年魚市潟は歌枕として知られた干潟であった
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - c-manyoshu
+    - c-aichi-ken
+  - text: 愛知県公式は、「年魚市潟」の「あゆち」が「あいち」に転じたと言われていると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-aichi-ken
+    - c-aichinow
+  - text: 『続日本紀』和銅2年（709）5月の条に「愛知郡大領」とあり、「愛知」という表記の郡名が奈良時代前期に確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-shoku-nihongi
+    - c-kojiruien-owari
+  - text: 平城京出土木簡には「阿由市郡」など音に近い表記も見られ、大宝律令期の郡名表記には揺れがあった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-kojiruien-owari
+  - text: 『和名類聚抄』では郡名を「愛智」と記して「阿伊知（あいち）」と訓んでおり、平安中期には読みの「あいち」が成立していたことが分かる
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - c-wamyo-ruijusho
+    - c-kojiruien-owari
+  - text: 「あゆち」自体の語源は不明であり、アユが獲れる淵の意とする津田正生『尾張国地名考』の考察、「あゆ」は湧水の意とする『愛知郡誌』の説、東風の意とする説などがあり、確定していない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - c-owari-chimeiko
+    - c-aichi-gunshi
+  - text: 廃藩置県後、県庁が愛知郡の名古屋城内に置かれたところから、郡名「愛知」が県名に採用された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-aichi-ken
+  column:
+    title: 鶴の鳴く干潟が、県の名前になった
+    text: 「あいち」の原点は、海でした。古代の名古屋南部、現在の熱田区から南区にかけては伊勢湾の干潟が広がり、「年魚市潟（あゆちがた）」と呼ばれていました。『万葉集』の歌人・高市黒人は、潮が引いた干潟を鶴が鳴き渡る情景を詠んでいます。その干潟の名「あゆち」が「あいち」に転じ、郡名になり、千年以上を経て県名になりました。今では埋め立てられて海から遠くなった市街地の名前の中に、古代の海岸線の記憶が残っているのです。
+    sources:
+    - c-aichi-ken
+    - c-aichinow
+    - c-manyoshu
+  relations: []
+  unknowns:
+  - 「あゆち」の語源（アユの淵・湧水・東風などの諸説）は確定しておらず、県公文書館の資料でも複数説が併記されている
+  - 『続日本紀』和銅2年条の確認は『古事類苑』および『尾張志』の引用経由であり、原文の直接確認は未了
+  - 「愛智」と「愛知」の表記の使い分けが時代によってどう変遷したか、網羅的な用例調査は未了
+  - 年魚市評から愛知郡への移行過程（評督の系譜等）は系図資料に依る部分が大きく、検証は未了
+  updated: '2026-11-13'
+- id: pref/24
+  code: '24'
+  names:
+    ja: 三重県
+    reading: みえけん
+    aliases:
+    - 安濃津県
+    - 度会県
+  user_terms:
+  - 伊勢神宮のある県
+  - 四日市に県庁があった県
+  - 県庁は津なのに三重という県
+  - 伊勢・志摩・伊賀の県
+  naming_type: 一部の地名
+  summary: 県名は伊勢国三重郡に由来する。1872年に安濃津県が県庁を三重郡四日市町へ移した際、所在地の郡名を取って三重県と改称した。県庁は翌年に津へ戻り、1876年に度会県と合併して現在の県域となったが、県名はそのまま残った。
+  first_attestation:
+    era: 和銅5年
+    year_western: 712
+    document: 『古事記』上巻・景行天皇段
+    note: 倭建命（ヤマトタケル）の由来譚とともに「三重」の名が現れる最古級の文献。伝承の記録であり、命名の史実記録ではない。郡名自体は『日本書紀』天武天皇元年（672年）条の三重郡家の記事にも見える。
+  claims:
+  - text: 三重県の県名は伊勢国三重郡に由来し、1872年3月に安濃津県が県庁を三重郡四日市町へ移転した際、県庁所在地の名を取る原則にしたがって三重県と改称した（改称は3月17日付け、移転完了は3月28日）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-mie-bunka-birth
+    - d-mie-pref-kids
+  - text: 改称前の県域は相川を境に、県庁を安濃郡津に置く安濃津県と、県庁を度会郡山田に置く度会県の2県に分かれていた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-mie-bunka-birth
+  - text: 県庁は1873年に津へ戻ったが、県名は三重県のまま変更されなかった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-mie-bunka-birth
+  - text: 1876年4月18日に三重県と度会県が合併して現在の三重県が成立し、県名は三重県が継承された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-mie-pref-kids
+    - d-mie-bunka-birth
+  - text: 『日本書紀』天武天皇元年（672年）条には、壬申の乱に際して大海人皇子一行が三重郡家に至った記事があり、三重郡の名は7世紀後半の出来事として記録されている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-mie-kotobank-miegun
+  - text: 三重郡家の所在地は不明だが、四日市市の采女（うねめ）に比定する説がある。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-mie-kotobank-miegun
+  - text: 現在の県庁所在地は津市であり、県名の由来地である三重郡・四日市とは場所がずれている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-mie-bunka-birth
+  - text: 『古事記』景行天皇段には、東征の帰途に弱った倭建命が「吾が足は三重の勾（まがり）の如くして甚（いと）疲れたり」と述べ、その地を三重と号したという地名由来譚が記録されている。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - d-mie-kotobank-miegun
+  column:
+    title: 県庁が去っても、名前は残った
+    text: 三重県の名は、県庁が四日市にいたわずかな期間に生まれた。交通と郵便の便を理由に津から四日市へ移った県庁は、翌年には津へ戻ってしまう。それでも県名は残り、県庁所在地と県名の不一致に不満を持った伊賀上野の政治家・立入奇一が「他郡の称を県名とするのは正しくない」と改称の建白書を出す騒ぎまであったが、内務省は神奈川県・兵庫県にも同様の例があることや度会県との合併話を理由に先送りし、結局そのまま定着した。
+    sources:
+    - d-mie-bunka-qa
+    - d-mie-bunka-birth
+  relations:
+  - pref/30
+  unknowns:
+  - 三重（ミエ）の語源は未確定である。「ミ（水）・ヘ（辺）」で水辺を意味するとする辞典説を今回参照した範囲では公的・学術資料で裏取れなかったため、主張化せず未確認とした。
+  - 『和名類聚抄』における三重郡の訓は原典で直接確認しておらず、二次資料経由の確認にとどまる。
+  updated: '2026-11-13'
+- id: pref/25
+  code: '25'
+  names:
+    ja: 滋賀県
+    reading: しがけん
+    aliases:
+    - 大津県
+  user_terms:
+  - 琵琶湖のある県
+  - 近江の県
+  - 大津が県庁なのに滋賀という県
+  - 滋賀市がない県
+  naming_type: 一部の地名
+  summary: 県名は近江国滋賀郡に由来する。前身の大津県が1872年1月に、県庁所在地の大津が属する滋賀郡の名を取って滋賀県と改称し、同年9月に北部の犬上県と合併して近江国全域を管轄する現在の滋賀県となった。滋賀郡は大津京（近江大津宮）が置かれた古代の郡である。
+  first_attestation:
+    era: 養老元年
+    year_western: 717
+    document: 『続日本紀』養老元年9月条
+    note: 滋賀郡名の初出とされる記事（『日本歴史地名大系』の整理をコトバンク経由で確認したもので、原典は未読のため水準は二次確認にとどまる）。
+  claims:
+  - text: 滋賀県の名前は、県庁のある大津が明治31年（1898年）まで滋賀郡大津町であったことに由来する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-shiga-pref-sugata
+  - text: 前身の大津県は1872年1月19日に滋賀県と改称した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-shiga-pref-office-history
+    - d-shiga-pref-sugata
+  - text: 改称の契機は1871年12月に大津県令・松田道之が大蔵省へ出した要望書で、旧幕府代官所に由来する大津の名を残すことは開化の妨げになるとし、県庁舎（円満院）のある滋賀郡別所村の郡名を取って滋賀県とするよう訴えたものである。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-shiga-archives-rename
+  - text: 1872年9月29日に北部の犬上県と合併し、近江国全域を管轄する現在の滋賀県が成立した（県はこの日を「滋賀県誕生の日」とする）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-shiga-pref-sugata
+  - text: 滋賀郡の表記は『和名類聚抄』諸本で「滋賀」であり、これが古代の公式表記だったとされる一方、志賀・志我などの表記も正史や文書に見える。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-shiga-kotobank
+  - text: 「しが」の語源については、「シカ（石処）＝石の多い所」に由来するという説が有力とされる。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-shiga-ndl-ref
+  - text: 「しが」の語源には「スカ（砂処・州処）」の転訛とする説もあり、定説は確定していない。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-shiga-ndl-ref
+  - text: 滋賀郡の大津には天智天皇6年（667年）に近江大津宮への遷都が行われ、天智天皇が即位した古代の都が置かれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-shiga-mlit-otsu
+  column:
+    title: 「大津」を捨てて「滋賀」を選んだ県令
+    text: 大津県から滋賀県への改称は、県令・松田道之の強い意向で実現した。松田は、幕府の大津代官所に由来する「大津」の名を残したままでは人々が旧習を捨てて開化へ進む妨げになると大蔵省へ訴え、県庁舎のあった円満院が滋賀郡別所村にあることを根拠に郡名の採用を求めた。上申は「至当」と認められ、翌月には改称が実現する。県庁所在地の町名ではなく郡名を県名にしたため、今日も「滋賀市」は存在せず、県庁は大津市にある。
+    sources:
+    - d-shiga-archives-rename
+    - d-shiga-pref-office-history
+  relations:
+  - pref/26
+  unknowns:
+  - 『角川日本地名大辞典25』は県名採用の理由について「さざなみの志賀に通じることから採用されたと思われるが、確実な史料はない」と述べており、松田の上申以外の選定経緯の詳細は未確認である。
+  - 滋賀郡名の初出とされる『続日本紀』養老元年条は原典で直接確認していない。
+  updated: '2026-11-13'
+- id: pref/26
+  code: '26'
+  names:
+    ja: 京都府
+    reading: きょうとふ
+    aliases:
+    - 平安京
+    - 京
+    - 京師
+  user_terms:
+  - 古都の県
+  - 平安京のあった府
+  - 千年の都
+  - 京都市がある府
+  naming_type: 一部の地名
+  summary: 府名は都市名「京都」の継承である。「京都」は元来「みやこ」を意味する普通名詞だったが、平安京が長く都であり続けたことで固有名詞化した。1868年に京都裁判所が京都府と改称して設置され、1876年に丹後・丹波の一部が編入されて現在の府域となった。
+  first_attestation:
+    era: 永延2年
+    year_western: 988
+    document: 『尾張国郡司百姓等解』
+    note: 平安京を指す固有名詞としての「京都」の、確認可能な早い例とされる用例。普通名詞としての「京都」の用例はこれ以前からある。原典は未読で、京都市の調査報告書等の整理による。
+  claims:
+  - text: 京都府は慶応4年閏4月29日（太陽暦1868年6月19日）に初めて設けられ、当初の府域は山城国だけであった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-kyoto-pref-kodomo
+  - text: 1876年に丹後5郡と丹波国天田郡が合併し、ほぼ現在の京都府の区域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-kyoto-pref-kodomo
+  - text: 京都府の前身は京都市中取締所・京都裁判所であり、1868年に京都裁判所が京都府に改称して開庁した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-kyoto-pref-history
+  - text: 京都の基盤は延暦13年（794年）に桓武天皇が定めた平安京であり、以後明治のはじめまで1000年余りの間、日本の政治・経済・文化の中心として発展した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-kyoto-pref-kodomo
+  - text: 「京都」という言葉は元来、中国で天子が所在する「みやこ」を意味する普通名詞であり、日本でも同様に用いられた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-kyoto-ndl-ref
+  - text: 平安京を指す固有名詞としての「京都」の早い確認例として、永延2年（988年）の『尾張国郡司百姓等解』の用例が挙げられる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-kyoto-city-bunkaisan
+    - d-kyoto-ndl-ref
+  - text: 「京都」が固有名詞として扱われるようになったのは平安時代後期からで、鎌倉時代には地名として定着し、それ以前は「京」「京師」などの呼び名も併用されていた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-kyoto-ndl-ref
+  - text: 近代に東京が首都となると「京都」は首都という核心的な意味を失ったが地名として存続し、京都府・京都市の名付けによって、その指す範囲はかつての都の範囲を大きく超えて拡大した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-kyoto-city-bunkaisan
+  column:
+    title: 首都でなくなっても「京都」のままだった理由
+    text: 「京都」は本来、固有名詞ではなく「みやこ」という普通名詞だった。それが地名として生き残ったのは、平安京が1000年以上も都であり続けたからである。明治に都が東京へ移ると、「京都」は首都という意味そのものを失った。ところが名前は消えるどころか、京都府・京都市という行政の名付けによって、山城・丹波・丹後にまで広がる地域の名前へと拡大した。意味を失ったはずの言葉が、範囲を広げて生き延びた珍しい例である。
+    sources:
+    - d-kyoto-city-bunkaisan
+    - d-kyoto-ndl-ref
+  relations:
+  - pref/25
+  - pref/27
+  unknowns:
+  - 『尾張国郡司百姓等解』（988年）の「京都」用例は原典・影印で直接確認しておらず、京都市の調査報告書と事典類の整理による二次確認にとどまる。
+  - 平安京の造営当初（794年）に「平安京」以外の呼称がどう使い分けられたかは、今回の範囲では確定できなかった。
+  updated: '2026-11-13'
+- id: pref/27
+  code: '27'
+  names:
+    ja: 大阪府
+    reading: おおさかふ
+    aliases:
+    - 大坂
+  user_terms:
+  - 天下の台所の府
+  - 大坂が大阪になった府
+  - 大阪市がある府
+  - 商都の府
+  naming_type: 一部の地名
+  summary: 府名は城下町・大坂の名の継承で、表記は明治期に「大坂」から「大阪」へ移った。1868年に大阪鎮台・大阪裁判所を経て大阪府が設置された。「大坂」の初見は蓮如の『御文』とされ、石山本願寺の寺内町として広まった地名である。
+  first_attestation:
+    era: 明応5年
+    year_western: 1496
+    document: 蓮如『御文』
+    note: 「摂州東成郡生玉之庄内大坂」の記載を初見とする資料が多い一方、明応7年（1498年）11月21日付けの蓮如の消息を初見とする資料もあり、初見の年には資料間の揺れがある。
+  claims:
+  - text: 大阪府は慶応4年（1868年）5月2日に、大阪裁判所を廃して設置され、初代知事には醍醐忠順が就任し、旧西町奉行所が初代の府庁となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-osaka-archives
+  - text: 大阪府の前身は1868年1月22日に設置された大阪鎮台で、同年1月27日に大阪裁判所と改称された（当時の裁判所は司法・行政をあわせ司る民政機関を指す）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-osaka-archives
+  - text: 「大坂」の初見については、明応5年（1496年）の蓮如の『御文』にある「摂州東成郡生玉之庄内大坂」を挙げる資料と、明応7年（1498年）の蓮如の消息を初見とする資料があり、年は確定していない。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - d-osaka-ndl-ref
+    - d-osaka-city-library
+  - text: 大坂は本来、上町台地の北端にあたる摂津国東成郡生玉庄内の地を指す地名であった。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-osaka-kotobank
+    - d-osaka-city-library
+  - text: 蓮如が大坂に御坊（後の石山本願寺）を建立し寺内町が形成されたことで、「大坂」という町と呼称が成立・定着した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-osaka-city-library
+  - text: 大坂の語源には、上町台地北側の大江の坂を短縮したとする説や、「小坂」「尾坂」と呼ばれたものが変化したとする説など諸説があり、単純な「大きな坂」説では説明しきれないとされる。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-osaka-ndl-ref
+  - text: 近世には「大坂」表記が主流だったが「大阪」表記も石灯籠や道標などに見られ、「大阪」が広く用いられるようになったのは明治10年（1877年）前後とされる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-osaka-kotobank
+  - text: 明治初期の大阪府はいったん大阪市街地周辺のみを管轄する時期があり、1871年11月の統合で摂津の7郡を管轄する大阪府と、河内・和泉を管轄する堺県に整理された。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-osaka-historist
+  column:
+    title: 「坂」と「阪」が同居した時代
+    text: いまの「大阪」は、ある日突然決まった表記ではない。江戸時代から石灯籠や道標には「大阪」と彫った例があり、明治に入っても公文書では「大坂」と「大阪」がしばらく混在したという。一般に広まったのは明治10年前後とされる。府の設置（1868年）を改字の画期とする説明もよく見かけるが、実際の表記の移行はもっと緩やかだった。「坂を阪に変えた理由」を説く話は多いものの、改字を命じた記録自体は確認されていない。
+    sources:
+    - d-osaka-kotobank
+    - d-osaka-ndl-ref
+  relations:
+  - pref/26
+  - pref/28
+  - pref/29
+  unknowns:
+  - 「大坂」から「大阪」への改字を正式に定めた布告・記録は今回の調査では確認できなかった。改字理由として流布する「坂は土に反るため忌避した」という説明も、裏付ける同時代の公的記録を確認できなかったため主張化していない。
+  - 蓮如『御文』の初見年（1496年か1498年か）は資料間で異なり、原典での確定には至らなかった。
+  updated: '2026-11-13'
+- id: pref/28
+  code: '28'
+  names:
+    ja: 兵庫県
+    reading: ひょうごけん
+    aliases: []
+  user_terms:
+  - 神戸のある県
+  - 兵庫津の県
+  - 県庁は神戸なのに兵庫という県
+  - 初代知事が伊藤博文の県
+  naming_type: 一部の地名
+  summary: 県名は現在の神戸市兵庫区周辺を指す「兵庫」の地名に由来する。開港場に指定された兵庫津に役所が置かれたことから、1868年5月23日に兵庫裁判所を廃して兵庫県が設置され、初代知事に伊藤博文が就いた。ただし条約上の「兵庫開港」の実態は、東隣の神戸村に居留地を置くものだった。
+  first_attestation:
+    era: 長治2年
+    year_western: 1105
+    document: 土地寄進状
+    note: 「兵庫庄」の初出として国土交通省兵庫国道事務所の解説が挙げる年次。兵器庫「兵庫」そのものの設置時期は、同じ解説が645年とする一方で県公式は由来自体を未詳としており、確定した初出ではない。
+  claims:
+  - text: 兵庫県の名称は、現在の神戸市兵庫区辺りを指す「兵庫」という地名に由来する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-hyogo-pref-faq
+  - text: 1868年5月23日に兵庫裁判所が廃止されて兵庫県が設置され、初代知事に伊藤博文が任命された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-hyogo-pref-nenpyo
+    - d-hyogo-pref-faq
+  - text: 兵庫には兵庫津と呼ばれる港があり、幕末に貿易のための開港場として指定されたことが、兵庫に役所と県が置かれる背景となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-hyogo-pref-faq
+  - text: 兵庫県公式は、「兵庫」の地名は兵器の倉庫が置かれていたために名付けられたのではないかとも考えられるが、よくわかっていないと説明している。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - d-hyogo-pref-faq
+  - text: 一方、国土交通省兵庫国道事務所は、大化の改新の際（645年）に播磨国境の須磨関を守るため現在の兵庫区周辺に兵器庫「兵庫（つわものぐら）」が作られたことを「兵庫」の由来として説明しており、公的機関の間でも断定の度合いが異なる。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - d-hyogo-mlit-name
+  - text: 「兵庫庄」という表記は1105年の土地寄進状に初めて使われたとされ、古代に大輪田泊（おおわだのとまり）と呼ばれた港は鎌倉時代に「兵庫の津」と呼ばれるようになった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-hyogo-mlit-name
+  - text: 修好通商条約で開港が決められたのは兵庫津だったが、測量の結果、実際の開港場と外国人居留地は東隣の神戸村に選定され、開港後も公文書には「兵庫」と記された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-hyogo-mlit-kobeport
+  - text: 現在の県庁所在地は神戸市であり、県名の由来地である「兵庫」は神戸市兵庫区の地名として残っている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-hyogo-pref-faq
+  column:
+    title: 「兵庫開港」なのに、開いたのは神戸だった
+    text: 幕末の条約が開港を約束したのは、古くから大輪田泊・兵庫津として栄えた兵庫の港だった。ところが実際に外国人居留地が置かれたのは、湊川を隔てた東隣の小さな神戸村である。兵庫津はすでに人口が密集し、居留地を新設する余地が乏しかったことなどが背景にあるとされる。それでも公文書の上では長く「兵庫」と書き続けられた。県名に「兵庫」が残り、港と都市の名前として「神戸」が育つという、名前のねじれはここから始まっている。
+    sources:
+    - d-hyogo-mlit-kobeport
+    - d-hyogo-pref-faq
+  relations:
+  - pref/27
+  unknowns:
+  - 兵器庫「兵庫」の設置を645年とする説明は兵庫国道事務所の解説によるもので、同時代史料での裏付けは今回確認できなかった。兵庫県公式が「よくわかっていない」とする立場と併記した。
+  - 兵庫津と神戸の境界（湊川）の扱いなど、開港場選定の詳細な経緯資料は今回の範囲では未確認である。
+  updated: '2026-11-13'
+- id: pref/29
+  code: '29'
+  names:
+    ja: 奈良県
+    reading: ならけん
+    aliases:
+    - 奈良府
+    - 平城
+  user_terms:
+  - 平城京のあった県
+  - 一度消えて復活した県
+  - 南都の県
+  - 鹿と大仏の県
+  naming_type: 一部の地名
+  summary: 県名は古都・奈良（平城）の地名の継承である。1868年に奈良県が置かれ、1871年に大和国全域を管轄したが、1876年に堺県、1881年に大阪府へ統合されて一時消滅し、再設置運動を経て1887年に再設置された。「奈良」の語源には地形説・楢原説など諸説があり定説はない。
+  first_attestation:
+    era: 和銅5年
+    year_western: 712
+    document: 『古事記』
+    note: 「那良」表記での初出級の例。「奈良」の表記は『万葉集』に多く見られ、奈良時代の官用表記は主に「平城」だった。
+  claims:
+  - text: 「奈良県」の名称が初めて登場するのは慶応4年（1868年）5月19日で、大和鎮撫総督府の廃止に伴って奈良県が置かれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-nara-pref-history
+  - text: 1871年11月22日の府県統廃合により、大和国全域を管轄する奈良県が成立した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-nara-pref-history
+  - text: 奈良県は1876年4月18日に堺県へ合併され、1881年には堺県も大阪府へ統合されたため、奈良県は一時姿を消した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-nara-pref-history
+  - text: 大阪府会の大和選出議員らを中心とする奈良県再設置運動の末、1887年11月4日に奈良県の再設置が認められ、現在の奈良県が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-nara-pref-rebirth
+  - text: 奈良を歴史の表舞台に押し出したのは平城京の造営で、和銅3年（710年）に都が藤原京から遷され70余年の間、古代日本の首都として栄えた。奈良時代の官用表記は主に「平城」であり、「奈良」の表記が広く用いられるようになったのは平安時代以降である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-nara-city-gaiyo
+  - text: 「奈良」の表記には那羅・奈良・奈羅・楢・平城・乃楽・寧楽などがあてられ、『古事記』では「那良」だけが見え、『万葉集』では「奈良」が多く見られる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-nara-wu-paper
+    - d-nara-city-gaiyo
+  - text: 「なら」の語源については、なだらかな丘陵地や平地を意味する地形語に由来するという説が最も有力とされる。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-nara-wu-paper
+    - d-nara-city-gaiyo
+  - text: 「なら」の語源には、楢の木の生えた地に由来する説や、古代朝鮮語で国を意味する言葉に由来する説もあり、いずれも決定的ではなく語源は確定していない。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-nara-wu-paper
+    - d-nara-city-gaiyo
+  - text: 『日本書紀』崇神天皇の条には、大彦命らの軍が武埴安彦の軍を迎え撃つ際、兵士たちが草木を踏みならしたのでその山を那羅山と呼んだという伝説が載せられている。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - d-nara-city-gaiyo
+  column:
+    title: 一度消えた県が、運動でよみがえった
+    text: 奈良県は都道府県の中で珍しく、一度「消えた」歴史を持つ。1876年に堺県へ、1881年に大阪府へと吸収されると、大和の人々が期待した産業振興や治山・治水の予算は思うように付かなかった。そこで大阪府会の大和選出議員らが中心となり、内務省や太政官、元老院への陳情を重ねる再設置運動が始まる。1887年11月4日、再設置が認められ、奈良県は11年半ぶりに地図へ戻った。県の誕生日を「復活の日」に持つ県は、奈良だけである。
+    sources:
+    - d-nara-pref-rebirth
+    - d-nara-pref-history
+  relations:
+  - pref/27
+  unknowns:
+  - 「奈良」の語源は地形説が有力とされるものの定説はなく、楢原説・朝鮮語説などとの決着はついていないため、諸説を contested として併記した。
+  - 平城京造営（710年）以前の「なら」の地名の範囲と、現在の奈良市の範囲との対応関係は今回確定できなかった。
+  updated: '2026-11-13'
+- id: pref/30
+  code: '30'
+  names:
+    ja: 和歌山県
+    reading: わかやまけん
+    aliases:
+    - 若山
+    - 紀州藩
+    - 和歌山藩
+  user_terms:
+  - 紀州の県
+  - 和歌の浦の県
+  - 徳川御三家の県
+  - 和歌山城の県
+  naming_type: 藩名
+  summary: 県名は紀州藩（和歌山藩）の藩名・城下町名「和歌山」の継承である。「和歌山」の初出は1585年の羽柴秀吉の書状とされ、名勝・和歌浦にちなむ命名とする説が有力である。徳川頼宣の命名ではなく、頼宣は1619年に既存の若山城へ入城した藩主である。1871年11月22日に3県等が統合され現在の和歌山県が誕生した。
+  first_attestation:
+    era: 天正13年
+    year_western: 1585
+    document: 羽柴秀吉書状（遠藤山城守基信宛）
+    note: 「和歌山」の初出として和歌山市長コラムが紹介する書状（7月付け）。書状本文そのものは未読で、市公式の紹介経由の確認にとどまる。
+  claims:
+  - text: 1871年11月22日に和歌山・田辺・新宮の3県と五條県の旧高野山領が統合され、現在の和歌山県が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-wakayama-pref-150
+  - text: 「和歌山」という地名の初出は、天正13年（1585年）7月に秀吉から遠藤山城守基信へ宛てた手紙とされ、紀州和歌山を弟・秀長の居城としたことが記されていた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-wakayama-city-mayor
+  - text: 命名については、秀吉が名勝「和歌の浦」の「和歌」と、築城地である岡山の「山」を組み合わせて「和歌山」と名付けたとする説が、和歌山市や日本遺産の解説で説明される。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - d-wakayama-city-mayor
+    - d-wakayama-heritage
+  - text: 和歌山県公式は、「和歌山」の由来には諸説あるうち、古くから和歌浦の名が最も知られていたので和歌山の名ができたという説が有力であるとする。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - d-wakayama-pref-150
+  - text: 徳川家康の第10子・頼宣は元和5年（1619年）に紀州藩主として既存の若山城へ入城しており、1585年の書状に現れる「和歌山」の命名者ではない。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-wakayama-pref-150
+    - d-wakayama-city-mayor
+  - text: 藩政時代には「若山」に表記が統一された時期があったが、後に再び「和歌山」に改められた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-wakayama-pref-150
+  - text: 和歌浦については、『続日本紀』に聖武天皇が眺めに感動して「明光浦（あかのうら）」と名付けたと伝わり、それが「若の浦」を経て「和歌浦」に転訛したとされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-wakayama-city-guide
+  - text: 和歌浦は『万葉集』に山部赤人の「若の浦に潮満ち来れば」の歌が詠まれた古代からの歌枕の地である。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - d-wakayama-nwn
+  - text: 『紀伊続風土記』には、「和歌」は玉津島神社の祭神で天照大神の妹神とされる稚日女尊（わかひるめのみこと）にちなんだものではないかという説が紹介されている。
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - d-wakayama-nwn
+  column:
+    title: 「若山」と「和歌山」を行き来した名前
+    text: 「和歌山」という名前は、一度できた後も安定しなかった。藩政時代には「若山」に表記が統一された時期があり、その後ふたたび「和歌山」に戻されたという。和歌山県公式がそう記す背景には、秀吉が1585年の書状で使った「和歌山」と、城の名として定着した「若山城」という二つの表記の併存がある。秀吉自身は和歌の浦の玉津島神社に参拝して「打出て玉津島よりながむれば みどり立そふ布引の松」と詠んだと伝わり、景勝地への愛着が命名に影を落としたとする見方を、市は紹介している。
+    sources:
+    - d-wakayama-pref-150
+    - d-wakayama-city-mayor
+  relations:
+  - pref/24
+  - pref/29
+  unknowns:
+  - 1585年の秀吉書状は和歌山市長コラム経由の確認で、書状本文（影印・翻刻）は未確認である。
+  - 「和歌」と「山」の組み合わせとする命名説は市・日本遺産の解説によるもので、命名を示す同時代の命令文書は確認できていない。「若山」が当初表記だったとする資料もあり、1585年時点の表記の確定には至らなかった。
+  updated: '2026-11-13'
+- id: pref/31
+  code: '31'
+  names:
+    ja: 鳥取県
+    reading: とっとりけん
+    aliases: []
+  user_terms:
+  - 鳥取の名前の由来
+  - 鳥を取るという意味の県名
+  - 鳥取砂丘のある県の名前
+  - 因幡と伯耆の県の名前
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は因幡・伯耆を治めた鳥取藩（池田氏）の名を引き継ぐ。もとの「鳥取」は因幡国邑美郡の郷名で、鳥取平野の湖沼で水鳥を捕ることを職とした鳥取部（ととりべ）の居住に由来すると県・市が説明する。明治9年（1876年）に島根県へ合併されたが、明治14年（1881年）に再置された。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 和名類聚抄
+    note: 地名（郷名）としての初出級の記載で、因幡国邑美郡の郷の一つに「鳥取」が挙がる。職業集団としての鳥取部そのものは、それ以前の『日本書紀』『古事記』に説話として見える
+  claims:
+  - text: 鳥取県は、江戸時代に因幡・伯耆の二国を治めた鳥取藩（池田氏）の名を引き継ぎ、明治4年（1871年）の廃藩置県で鳥取県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tottori-pref-youran
+    - e-tottori-pref-kids
+  - text: 鳥取県は明治9年（1876年）に島根県へ合併されたが、明治14年（1881年）9月に分立・再置され、現在の鳥取県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tottori-pref-youran
+    - e-tottori-pref-kids
+  - text: 「鳥取」は因幡国邑美郡鳥取郷という古代の郷名に由来し、『倭名抄（和名類聚抄）』に記載された郷名が中世・近世・近代へ受け継がれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tottori-city-history
+    - e-wamyosho
+  - text: 鳥取郷の名は、この地に鳥取部という古代の部民（職業集団）がいたことに由来するといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tottori-city-history
+    - e-tottori-pref-kids
+  - text: 鳥取県の説明では、奈良時代ごろの久松山付近は湖や沼が多く水鳥が多く生息し、その鳥を取ることを仕事にしていた鳥取部が住んでいたことから、この辺りを鳥取と呼ぶようになったとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tottori-pref-kids
+    - e-tottori-pref-youran
+  - text: 鳥取平野は千代川・袋川によって形成された広い沼沢地であり、多くの水鳥が生息していたと考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-mlit-tottori-chimei
+  - text: 池田氏は久松山の鳥取城を居城として因幡・伯耆を治めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tottori-pref-youran
+    - e-tottori-pref-kids
+  - text: 『日本書紀』垂仁天皇の条には、言葉を発しなかった誉津別王（本牟智和気御子）が白鳥を見て初めて声を上げ、天湯河板挙がその鳥を追って捕らえた功により鳥取造の姓を賜り鳥取部が定められた、という起源説話が記されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-hannan-city-tottori
+    - e-nihonshoki
+  column:
+    title: 白鳥を追いかけた男と「鳥取」
+    text: 『日本書紀』の説話では、成人しても言葉を話さなかった皇子が、空を飛ぶ白鳥を見て初めて「あれは何か」と声を上げた。天皇の命を受けた天湯河板挙（あめのゆかわたな）は鳥を追って諸国を巡り、ついに出雲の地で捕らえたとされ、その功で「鳥取造」の姓と鳥取部の設置につながったと語られる。ただし捕獲地が出雲とされる点が示すように、この説話をそのまま因幡国鳥取郷の成立史とみなすことはできない。鳥取県公式の説明も、説話ではなく鳥取平野の沼沢地で水鳥を捕っていた鳥取部の存在を郷名の由来としており、説話と地名の実態は分けて読む必要がある。
+    sources:
+    - e-hannan-city-tottori
+    - e-tottori-pref-kids
+  relations:
+  - pref/32
+  unknowns:
+  - 『日本書紀』の白鳥説話と因幡国鳥取郷の成立を直接結ぶ同時代資料は確認できておらず、両者の関係は未確認
+  - 鳥取部の実在時期や、鳥取郷の成立年次を特定できる一次文書は今回確認できなかった
+  - 文書上の人名「鳥取高俊」（天慶3年・940年の東大寺領高庭庄関係文書に見えるとされる）については二次情報のみで、原典で裏取りできていない
+  updated: '2026-11-13'
+- id: pref/32
+  code: '32'
+  names:
+    ja: 島根県
+    reading: しまねけん
+    aliases:
+    - 松江県
+  user_terms:
+  - 島根の名前の由来
+  - 出雲の県の名前
+  - 島根半島の名前の意味
+  - 松江県から島根県になった理由
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は明治4年（1871年）11月、松江・広瀬・母里の3県の合併時に付けられ、県庁所在地の松江が古くは出雲国島根郡に属していたことから郡名を採用した。島根郡は『出雲国風土記』（733年）に由来説明が残る古い郡名で、風土記は命名を国引きの神・八束水臣津野命に帰している。
+  first_attestation:
+    era: 天平5年
+    year_western: 733
+    document: 出雲国風土記
+    note: 島根郡の名と、その名付けを八束水臣津野命に帰する由来説明を記す初出級の文献。なお藤原宮跡出土木簡にも「出雲国嶋根郡」の表記が見え、使用例自体は風土記成立以前に遡る
+  claims:
+  - text: 島根県の県名は、明治4年（1871年）11月に松江県・広瀬県・母里県の統廃合の際に付された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-aramashi
+    - e-shimane-pref-chimeikan
+  - text: 県庁所在地（松江・殿町）が古くは島根郡に属していたことから、この郡名が県名に採用された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-aramashi
+    - e-shimane-pref-chimeikan
+  - text: 島根郡は出雲国の郡名で、その範囲はおおむね島根半島東部（現在の松江市北部など）にあたる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-aramashi
+    - e-shimane-kotobank-gun
+  - text: 『出雲国風土記』島根郡条は「島根と号くる所以は、国引き坐しし八束水臣津野命の詔りたまひて、名を負せ給へるなり」と記し、郡名の命名を八束水臣津野命に帰している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-aramashi
+    - e-izumo-fudoki
+  - text: 『出雲国風土記』は天平5年（733年）に奏上された出雲国の地誌で、郡ごとに郡名の由来を記す構成を持ち、島根郡の由来もその中で説明される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-fudoki
+    - e-izumo-fudoki
+  - text: 藤原宮跡出土木簡に「出雲国嶋根郡副良里」などの表記が見え、島根郡の名は風土記の成立以前から使われていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-shimane-kotobank-gun
+  - text: それまでの県名である松江県が使われなかったのは、明治維新の際に松江藩が倒幕に消極的な立場をとったためであると言われている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-shimane-pref-aramashi
+  - text: 風土記の国引き神話では、八束水臣津野命が出雲国を小さいと見て他国の余った土地を綱で引き寄せて縫い合わせ、国を大きくしたと語られる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-fudoki
+    - e-izumo-fudoki
+  - text: 明治9年（1876年）には鳥取県も合併して出雲・石見・隠岐・伯耆・因幡の5か国にわたる「大島根県」が成立したが、明治14年（1881年）9月に鳥取県が再置され、現在の島根県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-aramashi
+  column:
+    title: 綱で国を引っ張ってきた神と「島根」
+    text: 現存する風土記の中でほぼ完全な形で残る『出雲国風土記』の冒頭を飾るのが、国引き神話である。若く小さい出雲国を大きくしようと、八束水臣津野命は他国の余った土地を鋤で切り、綱をかけて「国来、国来」と引き寄せたという。この神話の中で縫い合わされた土地の一つが島根半島東部であり、風土記は島根郡の名をこの神の命名に帰している。古代の地名説明はしばしば神話の形を取るが、島根の場合はその説明文そのものが733年の一次文献に残っており、「伝説として語られる内容」と「奈良時代にそう記録されたという事実」をきれいに分けて読むことができる。
+    sources:
+    - e-shimane-pref-fudoki
+    - e-izumo-fudoki
+  relations:
+  - pref/31
+  unknowns:
+  - 「島根」の語そのものの言語的な語源（「根」を接尾語とする県の説明の学術的な裏付け）は今回確認できていない
+  - 松江県から島根県への改称理由について、倒幕への消極姿勢を理由とする説明は「言われている」段階であり、決定過程を示す一次文書は確認できていない
+  updated: '2026-11-13'
+- id: pref/33
+  code: '33'
+  names:
+    ja: 岡山県
+    reading: おかやまけん
+    aliases: []
+  user_terms:
+  - 岡山の名前の由来
+  - 岡山城のある県の名前
+  - 桃太郎の県の名前の意味
+  - 備前・備中・美作の県の名前
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は県庁所在地・岡山藩の城下町である岡山に由来する。「岡山」はもともと現在の岡山城のある小高い丘の名で、宇喜多秀家がその丘に岡山城を築き城下町が広がるにつれて、町全体を指す名となった。現在の県域は明治8〜9年（1875〜1876年）の小田県・北条県の合併で定まった。
+  first_attestation:
+    era: 文禄3年
+    year_western: 1594
+    document: 宇喜多秀家書状
+    note: 「岡山」が城下町の地名として呼ばれ始めた時期の推測とされる年。丘の名としての「岡山」はそれ以前からあったとされるが、初出文書は今回特定できていない
+  claims:
+  - text: 「岡山」は、もともと現在の岡山城のある場所に存在した小高い丘を指して呼んだ名であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+  - text: 戦国時代、岡山の西隣の石山にあった石山城を元亀元年（1570年）に宇喜多直家が手に入れ、天正元年（1573年）に同城へ移って本拠とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+    - e-okayama-city-jouhistory
+  - text: 宇喜多秀家は豊臣秀吉の指示により旭川の流れを変え、石山の東の岡山へ本丸を移して岡山城の築城と本格的な城下町の建設を進めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+  - text: 岡山城の天守閣は慶長2年（1597年）に完成した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+  - text: 秀家による築城の後、城は「岡山城」、城下町は「岡山」の呼称が定着した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-jouhistory
+  - text: 岡山県の県名は、県庁所在地の岡山市に由来する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-okayama-kotobank-ken
+  - text: 明治4年（1871年）の廃藩置県後、岡山県（備前）・北条県（美作）・小田県（備中と備後東部）の3県となり、明治8年に小田県、明治9年に北条県を合併して現在の県域が定まった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-okayama-kotobank-ken
+  - text: 岡山県は県の創立を明治9年（1876年）4月18日としている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-pref-soshiki
+  - text: 吉備の鬼ノ城で悪事を働いた異国の王子・温羅を、朝廷から派遣された吉備津彦命が成敗したという温羅伝説は、桃太郎伝説のモデルになったと言われている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-okayama-pref-pr
+  column:
+    title: 川を動かして生まれた城下町・岡山
+    text: 岡山城の築城は、単に丘の上に城を建てる工事ではなかった。宇喜多秀家は旭川の流路そのものを変えて城の東側を沿わせ、天然の濠として利用しながら、岡山・石山・天神山の3つの丘にまたがる城郭と城下町を一体で造った。黒い外観から「烏城（うじょう）」、金箔瓦から「金烏城」とも呼ばれる天守は慶長2年（1597年）の完成である。もとは一つの丘の名にすぎなかった「岡山」が、川筋を付け替えるほどの大工事を経て、城・城下町・藩、そして県の名へと広がっていった。
+    sources:
+    - e-okayama-city-yuraihi
+  relations: []
+  unknowns:
+  - 丘の名としての「岡山」の文書上の初出は今回特定できていない
+  - 「岡山」が城下町名として使われ始めた時期を文禄3年（1594年）ごろとする推測は、秀家の書状に基づくとされるが、書状そのものは未確認
+  updated: '2026-11-13'
+- id: pref/34
+  code: '34'
+  names:
+    ja: 広島県
+    reading: ひろしまけん
+    aliases: []
+  user_terms:
+  - 広島の名前の由来
+  - 広島城を作ったときの命名
+  - デルタの島という意味の県名
+  - 福島と広島の名前の関係
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は広島藩の城下町・広島に由来する。天正17年（1589年）、毛利輝元が太田川デルタの五ケ（五ケ村）と呼ばれた地に築城を始めた際に「広島」と命名したと伝えられ、語源については大江広元の「広」と福島元長の「島」を合わせた説と、デルタの島々に由来する説が併存する。
+  first_attestation:
+    era: 天正17年
+    year_western: 1589
+    document: 広島城築城に伴う毛利輝元の命名（広島県公式プロフィール）
+    note: 命名そのものの出来事としての初出。命名を直接記した同時代文書は今回特定できていない。なお築城地の旧称「五ケ浦」は応永4年（1397年）の文書に付属地として見える
+  claims:
+  - text: 天正17年（1589年）、毛利輝元は当時五ケ（五ケ村）といわれた太田川デルタの上に築城を始めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-city-history
+  - text: 「広島」の名は、天正17年（1589年）に毛利輝元が広島城築城の鍬入れの時に命名したといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-pref-profile
+    - e-hiroshima-city-history
+  - text: 命名の由来の一説として、毛利氏の祖先である大江広元の「広」と、この地の戦国時代の武士である福島元長の「島」を合わせたものとする説が紹介されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-hiroshima-pref-profile
+  - text: もう一つの説として、広くデルタの島々が合わされたという自然の地形に由来するとする説があり、広島県は諸説があるとしている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-hiroshima-pref-profile
+  - text: 築城以前、この地は五ケ浦・五ケ村と呼ばれ、文書に初めて出てくるのは応永4年（1397年）で、厳島神社領安摩荘の付属地として五ケ浦の名が記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-city-history
+  - text: 築城地は太田川が運んだ土砂で形成されたデルタで、砂洲や自然堤防の上に漁撈を主業とする人々が生活を営んでいた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-city-history
+  - text: 天正19年（1591年）に輝元が広島城へ入城し、領内各地から職人や商人を招いて城下町の建設が行われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-city-history
+  - text: 「島」の由来とされる福島元長は戦国時代の地元の武士であり、関ヶ原の戦いの後に広島の領主となった福島正則とは別人で、正則の入部は慶長5年（1600年）であり天正17年の命名には関与し得ない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-pref-profile
+    - e-hiroshima-city-history
+  - text: 福島正則の改易の後、元和5年（1619年）に浅野長晟が入城し、以後広島は浅野家広島藩の城下町として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-city-history
+  column:
+    title: 福島正則は「広島」を名付けていない ― 元長と正則の取り違え
+    text: 「広島」の命名説でよく語られる「福島の島」という話に出てくるのは、安芸の地元の武士・福島元長であって、関ヶ原で有名な福島正則ではない。正則が広島の領主になったのは慶長5年（1600年）、毛利輝元が築城と命名を行ったとされる天正17年（1589年）の11年後であり、時系列の上でも命名者にはなり得ない。よく似た名前の二人の混同は地名の由来談で起こりやすい間違いであり、広島県公式のプロフィールも「広」の字を大江広元、「島」の字を福島元長に求める説として明確に元長の名を挙げている。
+    sources:
+    - e-hiroshima-pref-profile
+    - e-hiroshima-city-history
+  relations: []
+  unknowns:
+  - 1589年の命名を直接記した同時代の一次文書は今回特定できておらず、命名の経緯は後世の伝えによる
+  - 大江広元＋福島元長の合成説とデルタ地形説のどちらが正しいかは、資料上決められない
+  updated: '2026-11-13'
+- id: pref/35
+  code: '35'
+  names:
+    ja: 山口県
+    reading: やまぐちけん
+    aliases: []
+  user_terms:
+  - 山口の名前の由来
+  - 萩ではなく山口が県名になった理由
+  - 大内氏の西の京の名前
+  - 長州の県の名前の意味
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は山口藩の名を引き継ぐ。文久3年（1863年）に長州藩の藩庁が萩から山口へ移って山口藩と称するようになり、明治4年（1871年）の廃藩置県で山口県となった。もとの地名「山口」自体の語源は、山地への入り口とする説などが挙がるものの、専門辞典も「想像に過ぎない」とし定説はない。
+  first_attestation:
+    era: 南北朝時代
+    year_western: null
+    document: 大内氏の山口移転に関する山口市公式解説
+    note: 「山口」の地名自体の文書上の初出は今回特定できていない。14世紀半ばに大内弘世が政庁を山口へ移したことが、都市としての山口の起点とされる
+  claims:
+  - text: 山口県の呼称の直接の由来は、文久3年（1863年）に藩庁が萩から山口に移り、明治初年に山口藩となり、明治4年（1871年）の廃藩置県により山口県となったことにある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-ndl-ref
+  - text: 明治元年（1868年）5月10日に治所の山口移転が公認されて山口藩と称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-ndl-ref
+  - text: 明治4年（1871年）7月14日の廃藩置県で山口県となり、同年11月15日に岩国県・清末県・豊浦県が合併して現在の山口県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-ndl-ref
+  - text: 「山口」の地名の由来には、山口盆地の北を流れ椹野川の支流である一ノ坂川に沿って長門国阿武郡の山地に分け入る入り口にあたるからとする説がある
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - e-yamaguchi-ndl-ref
+    - e-yamaguchi-chimei-taikei
+  - text: 別の説として、東鳳翩山の銀鉱に入る山の口にあたる天花辺りの地名が一般的な呼称になったとする説があるが、『日本歴史地名大系』はこれらの説を「想像に過ぎない」としている
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - e-yamaguchi-ndl-ref
+    - e-yamaguchi-chimei-taikei
+    - e-yamaguchi-kadokawa
+  - text: 大内弘世は1360年ころ政庁を山口に移し、京に模した街づくりを始めたと伝えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-city-ouchi
+  - text: 大内氏の名字は、姓を多々良とし、周防国吉敷郡大内（現・山口市）を本拠としたことに由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-pref-archives
+  - text: 大内氏の始まりは、百済国聖明王の第3王子である琳聖太子が周防国に着岸し、聖徳太子より周防国大内県を賜ったことに始まると伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-city-ouchi
+  column:
+    title: 鴨川に見立てた一の坂川と、京から取り寄せたホタル
+    text: 山口が「西の京」と呼ばれるのは、大内弘世が京都に上ってその文化に感銘を受け、盆地の地形が京都に似た山口に京風の街づくりを行ったためと伝えられる。本拠の近くを流れる一の坂川は京の鴨川に見立てられた。さらに弘世が京から姫君を妻に迎えた際、都を懐かしむ妻を慰めるため宇治のゲンジボタルを取り寄せて一の坂川に放したのが土着した、という伝承まで残る。ホタルの由来は伝承の域を出ないが、一の坂川に初夏にホタルが舞うこと自体は今も山口の風物であり、伝説が土地の記憶として生き続けている例である。
+    sources:
+    - e-yamaguchi-city-ouchi
+  relations: []
+  unknowns:
+  - 「山口」という地名自体の文書上の初出と成立時期は今回特定できていない
+  - 「山口」の語源は専門辞典でも諸説が「想像に過ぎない」とされており、定説は確認できていない
+  updated: '2026-11-13'
+- id: pref/36
+  code: '36'
+  names:
+    ja: 徳島県
+    reading: とくしまけん
+    aliases:
+    - 名東県
+  user_terms:
+  - 徳島の名前の由来
+  - 阿波の県の名前
+  - 徳島城の城下町の名前
+  - 渭津から徳島への改名
+  naming_type: 藩名
+  homonyms: []
+  summary: 県名は徳島藩の城下町・徳島に由来する。天正13年（1585年）に蜂須賀家政が阿波に入り猪山（城山）に徳島城を築いた際、それまで「渭津（いのつ）」と呼ばれた地を「徳島」と改めたのが始まりである。県としては一度名東県となり高知県への合併も経たが、明治13年（1880年）に徳島県が再置された。
+  first_attestation:
+    era: 天正13年
+    year_western: 1585
+    document: 徳島城築城に伴う改名（徳島市立徳島城博物館の解説）
+    note: 地名の命名そのものとしての初出。改名を記した同時代の一次文書名は今回特定できていない
+  claims:
+  - text: 天正13年（1585年）、豊臣秀吉の四国平定により蜂須賀家政が阿波国を与えられ、徳島城を築いて居城とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-pref-rekishi
+    - e-tokushima-bunka-online
+  - text: 徳島城は天正13年（1585年）に蜂須賀家政が築城に着手し、翌天正14年（1586年）に完成した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-bunka-online
+  - text: 城地は秀吉の命により猪山（現在の城山）と定められたと徳島市立徳島城博物館は伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-city-history01
+  - text: 築城当時、城の周囲の地は「渭津（いのつ）」と呼ばれていたが、築城と城下町の開設にあたって「徳島」と地名を改めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-city-history05
+    - e-tokushima-city-history01
+  - text: 改名の狙いについては、新領主・蜂須賀氏の入国に合わせて人心の一新を図るためであったのだろうと徳島城博物館は推測している
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - e-tokushima-city-history01
+  - text: 蜂須賀家はその後阿波・淡路両国25万7000石を領し、徳島城下が政治・文化の中心となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-pref-gaiyo
+    - e-tokushima-pref-rekishi
+  - text: 明治4年（1871年）の廃藩置県で徳島県が置かれたが、間もなく名東県と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-pref-gaiyo
+  - text: 明治9年（1876年）に名東県は廃止されて高知県に合併されたが、明治13年（1880年）3月に徳島県が再置され、今日に至っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-pref-gaiyo
+  - text: 阿波国の名については、忌部氏が吉野川流域を開拓したとき粟がよく実ったので粟の国といい、南部の長（なが）の国と合わせて阿波の国と呼ぶようになったと言い伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-tokushima-pref-gaiyo
+  column:
+    title: 幻の地名「渭津（いのつ）」
+    text: 徳島城が築かれる前、城山の周囲は吉野川河口のデルタ地帯で、「渭津」と呼ばれる港のある地だった。天正13年（1585年）、蜂須賀家政の築城とともにこの名は「徳島」に改められ、渭津は表舞台から消えた。徳島市立徳島城博物館の連載はこの旧名を「幻の渭津」と呼ぶ。新しい領主が城下町を一から作る際、地名まで改めて出発を宣言するのは近世の城下町にしばしば見られる作法だが、「徳」の字を選んだ理由自体ははっきりした記録がなく、改名の事実と理由の不明さが対照的である。
+    sources:
+    - e-tokushima-city-history05
+    - e-tokushima-city-history01
+  relations:
+  - pref/39
+  unknowns:
+  - 「徳島」の「徳」の字が選ばれた理由を示す確かな記録は確認できておらず、改名理由は未確認
+  - 「渭津」から「徳島」への改名を記した同時代の一次文書は今回特定できていない
+  updated: '2026-11-13'
+- id: pref/37
+  code: '37'
+  names:
+    ja: 香川県
+    reading: かがわけん
+    aliases:
+    - 高松県
+    - 名東県
+  user_terms:
+  - 香川の名前の由来
+  - うどん県の名前の意味
+  - 香の川という意味の県名
+  - 讃岐の県の名前
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は讃岐国の郡名・香川郡に由来し、県庁所在地の高松が同郡に属していたことによる。香川郡は天平7年（735年）の文書に「香河」と見える古い郡名で、語源については『全讃史』が伝える樺の木の香りの説など諸説があり定説はない。県としては名東県・愛媛県への編入を経て、明治21年（1888年）に現在の香川県が成立した。
+  first_attestation:
+    era: 天平7年
+    year_western: 735
+    document: 弘福寺領山田郡田地図
+    note: 郡名の初見とされる記載で「山田香河二郡境」と見える（『日本歴史地名大系』香川郡条による）。表記は「香河」で、のち「香川」とも書かれた
+  claims:
+  - text: 香川県の県名は、県庁が置かれた高松が属していた香川郡の名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-kagawa-pref-chishiki
+    - e-kagawa-kotobank-gun
+  - text: 香川郡の郡名は、天平7年（735年）12月5日の弘福寺領山田郡田地図に「山田香河二郡境」と見えるのが初見である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kagawa-kotobank-gun
+  - text: 奈良時代以降、香河・香川の表記は混用され、『和名類聚抄』も高山寺本では香河、東急本では香川とし、訓は「介加波（けかは）」であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kagawa-kotobank-gun
+  - text: 『全讃史』（文政11年・1828年）は、郡の山奥の樺河という郷に樺の古木があり異香が漂い、その下から出る水が大河に落ちて郡の中央を流れたため香川郡といったと伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-kagawa-pref-iware
+    - e-kagawa-pref-chishiki
+    - e-zensanshi
+  - text: 『南海通記』には、香東川について「水清く根香山に花が咲き、西風が吹くとよい香りがするので香川と呼ぶ」とも書かれていると香川県は紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-kagawa-pref-iware
+  - text: 香川の語源にはこのほか、「かが川」の転訛とする説、雨が少なく川が枯れる「かれかわ（枯川）」の転とする説、温泉の臭気に由来する説などがあり、定説はない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - e-kagawa-gogen
+  - text: 香川郡は明治4年に高松県・香川県、明治6年に名東県、明治8年に再び香川県、明治9年に愛媛県に所属し、明治21年（1888年）に三たび香川県に所属して現在の香川県が成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kagawa-jlogos-gun
+  - text: 往時の香川郡は現在の高松市西部などを含む郡だったが、現在の香川郡は直島町のみで占められ、郡域は大きく変わっている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kagawa-jlogos-gun
+    - e-kagawa-kotobank-gun
+  column:
+    title: 樺の香りが川を伝ったという郡名
+    text: 香川県公式の「地名のいわれ」は、『全讃史』の記述として、香川の奥山の樺河にあった樺の古木の香りが川の水に移って流れたことから「香川」になったという話を伝える。高松市の南、塩江の安原上東には今も「樺川」という地名が残り、そこから流れるのが香東川であるという。香りのする川という美しい説明だが、これは江戸時代の地誌に記された伝承であり、735年の初見表記が「香河」であったことや「枯川」転訛説など別説の存在を考えると、史実として断定はできない。地名のロマンと検証は、ここでも分けて楽しむのがよい。
+    sources:
+    - e-kagawa-pref-iware
+    - e-zensanshi
+  relations:
+  - pref/38
+  - pref/36
+  unknowns:
+  - 香川（香河）の語源の定説は確認できておらず、樺の香りの説は『全讃史』が伝える伝承の域を出ない
+  - 735年の田地図そのものは未確認で、初見の情報は『日本歴史地名大系』の記述経由である
+  updated: '2026-11-13'
+- id: pref/38
+  code: '38'
+  names:
+    ja: 愛媛県
+    reading: えひめけん
+    aliases: []
+  user_terms:
+  - 愛媛の名前の由来
+  - 古事記から付けられた県名
+  - 愛比売という女神の名前
+  - 石鉄県と神山県が合併した県
+  naming_type: 文献から命名
+  homonyms: []
+  summary: 県名は『古事記』の国生み神話で伊予の国を指す名「愛比売（えひめ）」を引用した命名である。明治6年（1873年）2月20日、石鉄県と神山県の合併に際して太政官布告第60号により愛媛県が設置された。「愛媛」が地名として用いられたのはこの県名採用が最初で、それ以前に現地の地名として使われていた事実は確認されていない。
+  first_attestation:
+    era: 明治6年
+    year_western: 1873
+    document: 太政官布告第60号
+    note: 県名としての初出（愛媛県の設置）。名の出典である「愛比売」自体は和銅5年（712年）成立の『古事記』国生みの条に見える
+  claims:
+  - text: 『古事記』の国生みの条では、伊耶那岐・伊耶那美二神が生んだ伊予之二名の島について「伊予の国を愛比売（えひめ）といひ」と記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-ehime-kenshi-kinsei
+    - e-kojiki
+  - text: 『古事記』は和銅5年（712年）に太安万侶が編纂した歴史書である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-ehime-kenshi-kinsei
+  - text: 国生み神話では、四国島は身一つに面四つを持つ島として生まれ、伊予を愛比売（女神）、讃岐を飯依比古、阿波を大宜都比売、土佐を建依別と名付けたと語られる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-ehime-kenshi-kinsei
+    - e-kojiki
+  - text: 「愛媛」が地名として登場するのは明治6年（1873年）2月に県名として採用されたのが始まりであり、それ以前に現地の地名として用いられていた事実は確認されていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-ehime-kenshi-bungaku
+  - text: 明治4年（1871年）の廃藩置県で伊予は八県となり、その後、東・中予側は松山県を経て石鉄県、南予側は宇和島県を経て神山県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-ehime-kenshi-bungaku
+    - e-ehime-pref-kinenbi
+  - text: 明治6年（1873年）2月20日、石鉄県と神山県が合併し、太政官布告第60号により愛媛県が設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-ehime-pref-kinenbi
+    - e-ehime-kenshi-kinsei
+  - text: 県名の採用に先立ち、今治生まれの国学者・半井梧菴が慶応2年（1866年）の序文で地誌を『愛媛面影』と名付け、その名を『古事記』の愛比売に由来すると説明しており、梧菴が石鉄県地理掛であったことが県名採用の背景として示唆されている
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - e-ehime-kenshi-bungaku
+  - text: 「愛比売」の3字ではなく「愛媛」の2字が県名に採用された背景には、地名を2字とする慣例が関係すると愛媛県史文学編は論じている
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - e-ehime-kenshi-bungaku
+  - text: 2月20日は現在、愛媛県政発足記念日と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-ehime-pref-kinenbi
+  column:
+    title: 県名の「種本」になった地誌『愛媛面影』
+    text: 「愛媛」という名は、合併する二県のどちらにも肩入れしない中立な名として古典から引かれた、と説明されることが多い。その仲立ちをした可能性が高いのが、国学者・半井梧菴の地誌『愛媛面影』である。梧菴は慶応2年（1866年）の序文で、書名を『古事記』の「伊予の国を愛比売といふ」から採ったと明記した。梧菴が後に石鉄県の地理掛を務めたことが、面影の名がそのまま県名へ転じた事情として県史に示唆されている。つまり愛媛県の名は、712年の神話の名が、江戸末期の国学者の本の題名を経由して、1873年の県名になったという三段の系譜を持つ。
+    sources:
+    - e-ehime-kenshi-bungaku
+    - e-ehime-kenshi-kinsei
+  relations:
+  - pref/37
+  unknowns:
+  - 県名「愛媛」の最終的な決定者と決定過程を示す一次文書は今回確認できておらず、半井梧菴の影響は県史の示唆の段階である
+  - 合併時に他にどのような県名候補があったかは確認できていない
+  updated: '2026-11-13'
+- id: pref/39
+  code: '39'
+  names:
+    ja: 高知県
+    reading: こうちけん
+    aliases: []
+  user_terms:
+  - 高知の名前の由来
+  - 河中から高知に変わった理由
+  - 土佐の県の名前の意味
+  - 高知城の名前の由来
+  naming_type: 一部の地名
+  homonyms: []
+  summary: 県名は土佐藩の城下町・高知に由来する。山内一豊が大高坂山に築城し、鏡川と江ノ口川に挟まれた地勢から「河中（こうち）」と名付けたが、水害を連想させる字を嫌った2代藩主・忠義が慶長15年（1610年）に竹林寺の僧・空鏡に改めさせ「高智」とし、のちに「高知」の表記が定着した。
+  first_attestation:
+    era: 慶長15年
+    year_western: 1610
+    document: 山内氏時代史初稿
+    note: 「河中」から「高智」への改字を記す藩政史料として高知市が紹介するもの。前身の「河中」の命名は慶長8年（1603年）の一豊入城時とされる
+  claims:
+  - text: 慶長6年（1601年）に土佐へ入国した山内一豊は大高坂山に築城を開始し、慶長8年（1603年）に入城して山の名を河中山と改めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-kochi-city-rekishi
+  - text: 「河中」の名は、城下が北の江ノ口川と南の鏡川という二つの川に挟まれた「中」に位置することに由来する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kochi-kotobank
+    - e-kochi-mainichi
+  - text: 長宗我部元親は以前に大高坂山への築城を試みたが、度重なる洪水のため3年足らずで断念したとされる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kochi-mainichi
+  - text: 築城後も城下は洪水に悩まされ続けた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-kochi-city-rekishi
+  - text: 『山内氏時代史初稿』の慶長15年（1610年）9月の条に「山内忠義、竹林寺ノ僧空鏡ヲシテ河中山ノ文字ヲ改メシメ高智ト称ス」とあり、2代藩主忠義が僧・空鏡に命じて河中山を高智山に改名した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-kochi-city-rekishi
+    - e-kochi-city-shiryo
+  - text: 改名の理由は、「河中」という字が水害の多い地を連想させ縁起が悪いためであったと伝えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-kochi-city-rekishi
+    - e-kochi-kotobank
+  - text: のちに「高智」の「智」が「知」に置き換わり「高知」と書かれるようになり、城名から地名・県名へ広がった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kochi-kotobank
+  - text: 高知城は慶長16年（1611年）に三の丸が完成し、着工から10年でほぼ全容が整った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-kochi-city-rekishi
+  - text: 高知県は旧土佐国の全域を占め、県名は県庁所在地であり山内氏の城下町であった高知に由来する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-kochi-kotobank
+  column:
+    title: 水害を嫌って字を変えた城 ― 河中から高知へ
+    text: 「高知」は、初めから「高い知」の字だったわけではない。一豊が名付けた「河中」は、鏡川と江ノ口川に挟まれた地勢をそのまま表す実直な名だったが、その実直さゆえに水害のイメージと切り離せなかった。1610年、忠義は五台山竹林寺の空鏡に改名を依頼し、「高智」が生まれる。文殊菩薩の知恵にちなむともいわれるこの改字は、洪水常習地に城下町を維持し続けるための、いわば言葉による治水の願掛けだった。やがて「智」は「知」となり、城の名は町・市・県の名になった。水を避けるのではなく、水と付き合い続ける決意が字に残っている。
+    sources:
+    - e-kochi-city-rekishi
+    - e-kochi-mainichi
+  relations:
+  - pref/36
+  unknowns:
+  - 「高智」の「智」が「知」に置き換わった正確な時期と経緯は今回特定できていない
+  - 「高智」が文殊菩薩の浄土にちなむとする説明は伝承的な色彩が強く、同時代資料での裏付けは確認できていない
+  updated: '2026-11-13'
+- id: pref/40
+  code: '40'
+  names:
+    ja: 福岡県
+    reading: ふくおかけん
+    aliases:
+    - 福岡藩
+    - 筑前国
+  user_terms:
+  - 福岡の名前の由来
+  - 博多と福岡はなぜ別なの
+  - 黒田長政がつけた地名
+  - 福岡県はどうやってできた
+  naming_type: 藩名
+  summary: 県名は城下町「福岡」に由来する。1601年に黒田長政が博多の西隣に新城を築く際、黒田氏先祖ゆかりの備前福岡にちなんで「福岡」と命名したと地誌が伝え、1871年の廃藩置県で福岡藩がそのまま福岡県となった。
+  first_attestation:
+    era: 慶長6年
+    year_western: 1601
+    document: 福岡城の命名（経緯は『筑前国続風土記』等に記録）
+    note: 地名「福岡」そのものの命名時点。もとの地名は那珂郡警固村福崎であった
+  claims:
+  - text: 県名「福岡」は城下町福岡に由来し、1871年（明治4年）7月14日の廃藩置県により福岡県が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-fukuoka-pref150
+    - f-fukuoka-city
+  - text: 関ヶ原の戦いの功により筑前国を与えられた黒田長政は、翌慶長6年（1601年）に那珂郡警固村福崎の地に新城を築いた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-fukuoka-ndl
+  - text: 『筑前国続風土記』は、長政の曾祖父高政ら黒田氏先祖が備前国邑久郡福岡の里に住んだことにちなみ、長政が先祖の地の名を用いて「福岡」と名付けたと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-chikuzen-fudoki-zoku
+    - f-fukuoka-ndl
+  - text: 長政が「その本（もと）を思い出して」先祖の住んだ地の名を新城に付けたという命名譚は、江戸時代の地誌以来語り継がれる由緒譚として記録されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-chikuzen-fudoki-zoku
+    - f-fukuoka-ndl
+  - text: 備前福岡由来説に対し、黒田氏と備前福岡の関係は希薄だとして、築城地の旧名「福崎」の丘陵地にちなむ命名とする説もあり、命名動機は完全には決着していない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-fukuoka-ndl
+  - text: 那珂川を挟んだ東側の博多は古くからの港町・商人の町であり、西側の武家町福岡とは近世を通じて別の町として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-fukuoka-city
+  - text: 現在の福岡県域は1876年（明治9年）に福岡県・小倉県・三潴県の再編を経て確定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-fukuoka-pref150
+  column:
+    title: 「福岡」と「博多」、二つの名前が並ぶ理由
+    text: 福岡駅はなく博多駅があり、空港は福岡空港である。このねじれの出発点は1601年、黒田長政が那珂川の西に武家の城下町「福岡」を新設したことにある。東の博多はそれ以前から大陸交易で栄えた商人の町で、二つの町は川を挟んで並立した。市制施行の際には市名を巡って「博多市」を推す声もあったとされるが、県庁が置かれた福岡の名が市名にも県名にも残り、駅名に博多が残った。命名譚の中心が「先祖の地・備前福岡への思い入れ」である点は『筑前国続風土記』が伝える由緒であり、史実の城下町建設と、伝承としての命名動機は分けて読む必要がある。
+    sources:
+    - f-fukuoka-city
+    - f-chikuzen-fudoki-zoku
+    - f-fukuoka-ndl
+  relations: []
+  unknowns:
+  - 福崎から福岡への改名を命じた長政自身の同時代文書（書状・城普請記録）の現存は本調査では確認できず、命名経緯は後世の地誌と家譜の記述に依拠する
+  - 備前福岡由来説と福崎の丘陵由来説のどちらが命名の直接の動機かは、資料上決着していない
+  updated: '2026-11-13'
+- id: pref/41
+  code: '41'
+  names:
+    ja: 佐賀県
+    reading: さがけん
+    aliases:
+    - 佐嘉郡
+    - 佐賀藩
+    - 伊万里県
+  user_terms:
+  - 佐賀の名前の由来
+  - 佐嘉と佐賀はどう違う
+  - 栄の国って何
+  - 佐賀県がなくなった時期があるって本当
+  naming_type: 藩名
+  summary: 県名は肥前国佐賀郡（古くは佐嘉郡）に由来し、佐賀藩の廃藩置県を起点とする。郡名の由来は『肥前国風土記』が伝える「栄の国」伝説と「賢女」伝説が著名だが、いずれも伝承であり、語源の定説はない。県は1876年に一度廃止され、1883年に再置された。
+  first_attestation:
+    era: 奈良時代（風土記編纂期）
+    year_western: null
+    document: 肥前国風土記
+    note: 「佐嘉郡」の名と、その由来譚（栄郡・賢女郡）が記録された最古級の資料。風土記自体は713年の編纂命令に基づく
+  claims:
+  - text: 県名「佐賀」は県庁所在地の属する佐賀郡（旧表記・佐嘉郡）から採られ、1871年の廃藩置県の際に県名となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-saga-city-fudoki
+  - text: 『肥前国風土記』佐嘉郡条には郡名の由来として2つの異なる由緒が併記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-hizen-fudoki
+    - f-saga-city-fudoki
+  - text: 風土記の一説では、村に生えた樟（楠）の大木が朝夕の影で隣郡の山々を蔽うほど栄え、日本武尊が「此の国は栄の国と謂うべし」と述べたため栄郡と号し、後に佐嘉郡に改めたと伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-hizen-fudoki
+    - f-saga-city-fudoki
+  - text: 風土記のもう一説では、佐嘉川の荒ぶる神を鎮める方策を説いた土蜘蛛の大山田女・狭山田女が「賢女（さかしめ）」と讃えられ、賢女郡と号したものが訛って佐嘉郡になったと伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-hizen-fudoki
+    - f-saga-city-fudoki
+  - text: 「さが」の語源については、傾斜地を指す「坂」、水が逆流する「逆」、砂丘地を指す「洲処（すが）」の転訛など諸説があり、定説は定まっていない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-saga-city-fudoki
+  - text: 表記は古く「佐嘉」が正式で「佐賀」も並行して使われ、明治初年に「佐賀」へ統一されたが、統一の年を1870年とする資料と1872年とする資料がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-saga-city-fudoki
+  - text: 佐賀県は1871年に置かれた後、伊万里県への移行と復帰を経て、1876年には廃止されて三潴県・長崎県に併合された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-saga-city-fudoki
+  - text: 1883年（明治16年）5月9日、太政官布告第15号により佐賀県は富山県・宮崎県と同日に再置され、現在の佐賀県が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-saga-city-fudoki
+  column:
+    title: 消えた県が、同じ日に三つ戻ってきた
+    text: 佐賀県は一度地図から消えた県である。1874年の佐賀の乱などを経て1876年に県は廃止され、旧佐賀県域は長崎県などに吸収された。だが分県運動が実を結び、1883年5月9日、佐賀県は富山県・宮崎県と同日の太政官布告で再置された。廃止と再置を経験した県は珍しく、しかも三県同日という形は、明治の地方制度が試行錯誤の連続だったことを物語る。県の木がクスノキであることも、『肥前国風土記』の楠の伝説と響き合う偶然として地元では親しまれている。
+    sources:
+    - f-saga-city-fudoki
+    - f-hizen-fudoki
+  relations:
+  - pref/45
+  unknowns:
+  - 「佐嘉」から「佐賀」への表記統一の正確な年月日は資料間で一致せず、本調査では特定できなかった
+  - 風土記の2つの由来譚のうち、どちらが実際の郡名成立に近いかは資料上判断できない
+  updated: '2026-11-13'
+- id: pref/42
+  code: '42'
+  names:
+    ja: 長崎県
+    reading: ながさきけん
+    aliases:
+    - 長崎府
+    - 長崎藩（幕府直轄地・長崎奉行支配）
+    - 永埼
+    - 長埼浦
+  user_terms:
+  - 長崎の名前の由来
+  - 長い岬と長崎
+  - 長崎県はどうやってできた
+  - 出島があった県
+  naming_type: 一部の地名
+  summary: 県名は港町「長崎」に由来する。地名の起源には、長崎港に突き出した「長い岬」にちなむ説と、在地豪族・長崎氏にちなむ説があり、長崎市公式も両説を併記する。1869年に長崎府から長崎県となり、府県統合を経て、1883年の佐賀県分離で現在の県域に近づいた。
+  first_attestation:
+    era: 嘉禎3年
+    year_western: 1237
+    document: 福田文書等にみえる長崎小太郎重綱の知行記録（研究経由）
+    note: 鎌倉初期に「長埼浦」の地頭職を知行した長崎氏の存在が確認できる時点。地名自体はこれ以前から存在した可能性が高い
+  claims:
+  - text: 現在の長崎県域は維新前、幕府直轄地（天領）と佐賀・大村・島原・平戸・福江・厳原の諸藩に分かれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-pref-history
+  - text: 1868年（慶応4年）に長崎裁判所が置かれ、同年長崎府、翌1869年（明治2年）6月に長崎県へ改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-pref-history
+  - text: 1871年の廃藩置県後、同年11月に厳原県を除く諸県が統合されて新たな長崎県が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-pref-history
+  - text: 1876年には旧佐賀県全域が長崎県に移管され、肥前・壱岐・対馬の3国21郡に及ぶ大県となったが、1883年（明治16年）5月に旧佐賀県が分離して現在の長崎県に近い形になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-pref-history
+  - text: 地名「長崎」の由来には、諏訪神社付近から長崎港へ突き出した長い岬の地形にちなむとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-nagasaki-city-profile
+    - f-nagasaki-city-magazine
+  - text: もう一つの説は、室町時代に移住してきた豪族・長崎氏の名に由来するとするもので、長崎市関連資料は岬説と長崎氏説の2説を併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 鎌倉初期の嘉禎3年（1237年）頃、長崎小太郎重綱が長埼浦の地頭職を知行する御家人であったことが後の研究で判明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 野母崎半島を指す「長か岬（ながかみさき）」が方言で「なんかみさき」と転訛して「長崎」になったという説明は、地元で語られる俗説として伝えられている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 長崎の発展は元亀2年（1571年）のポルトガル船入港と開港を画期とし、岬の周辺に町建てが進んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-city-profile
+  column:
+    title: 県庁は「長い岬」の先端にあった
+    text: 旧長崎県庁の跡地は、かつて海に突き出した「長い岬」の先っぽにあたる。県はこの場所を「長崎のはじまりの地」と紹介し、「長い岬の物語」と題した動画まで公開している。岬の先端にはポルトガル貿易期に「岬の教会」が建ち、以後も町の中心であり続けた。つまり県庁所在地の立地そのものが、地名の有力説の一つを土地の形で物語っている。もう一つの長崎氏説とどちらが先かは決着していないが、「岬の地名が豪族の苗字になった」という順序なら両説は矛盾しない、という見方もできる。
+    sources:
+    - f-nagasaki-city-magazine
+    - f-nagasaki-city-profile
+  relations:
+  - pref/41
+  unknowns:
+  - 「長崎」の語が文献に現れる正確な初出（表記は永埼・長埼など）は本調査では一次史料で直接確認できておらず、1237年の知行記録は研究紹介経由の確認である
+  - 岬由来説と長崎氏由来説の先後関係（地名が先か苗字が先か）は確定していない
+  updated: '2026-11-13'
+- id: pref/43
+  code: '43'
+  names:
+    ja: 熊本県
+    reading: くまもとけん
+    aliases:
+    - 隈本
+    - 熊本藩
+    - 肥後国
+  user_terms:
+  - 熊本の名前の由来
+  - 隈本から熊本に変わった理由
+  - 加藤清正が字を変えた話
+  - くまもと なぜ熊の字
+  naming_type: 藩名
+  summary: 県名は城下町「熊本」に由来し、その旧表記は「隈本」である。隈本の名は南北朝時代の軍忠状に確認でき、17世紀初頭に加藤清正が「隈」を「熊」に改めたと伝えられるが、改字の理由として語られる「畏を嫌った」という説明は伝承の域を出ない。廃藩置県で熊本藩が熊本県となった。
+  first_attestation:
+    era: 観応2年
+    year_western: 1351
+    document: 伊東氏祐軍忠状
+    note: 「隈本在陣」とあり、「隈本」の初見とされる（熊本市の講座資料による）。「隈本城」の初見は永和3年（1377年）の大嶋堅軍忠状
+  claims:
+  - text: 県名「熊本」は城下町熊本に由来し、その地名は古く「隈本」と書かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kumamoto-maff
+    - f-kumamoto-kotobank
+  - text: 「隈本」の初見は観応2年（1351年）の伊東氏祐軍忠状の「隈本在陣」で、「隈本城」の初見は永和3年（1377年）の軍忠状である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kumamoto-city-lecture
+  - text: 南北朝期の隈本は飽田郡・託麻郡にまたがる地名で、今川了俊と菊池氏の攻防の舞台になるなど、肥後の政治的中心の一つであった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-kumamoto-kotobank
+  - text: 1607年（慶長12年）の熊本城完成の頃、「隈本」から「熊本」への表記変更が行われたとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kumamoto-maff
+  - text: 加藤清正が「隈」の字に「畏（おそれる）」の字を含むことを嫌い、武将の居城にふさわしくないとして「熊」の字に改めた、と広く伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-kumamoto-maff
+  - text: 隈本の由来として、菊池氏の祖・菊池則隆が鞍岳から眺めた山並みの「隈取り」にちなんで隈本・隈府と名付けたとする伝承が語られている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - f-kumamoto-kikuchi
+  - text: 「隈」は川の屈曲部や山の奥まった場所を指す地形語であり、隈本も地形に由来する地名とする見方が地名学では示されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-kumamoto-kotobank
+  - text: 熊本藩は廃藩置県で熊本県となり、県名は城下町名をそのまま継承した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kumamoto-maff
+  - text: 「来熊」「訪熊」のように熊本を1字で略す場合は「熊」を「ゆう」と音読みする慣用が定着している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kumamoto-maff
+  column:
+    title: 「畏」を嫌って「熊」にした男
+    text: 加藤清正は築城の名人として知られるが、字の改名譚でも有名である。「隈」の右側は「畏（おそれる・かしこまる）」。武将の城の名に「おそれる」は縁起が悪い、そこで猛獣の「熊」に替えた——という話は、清正の豪快な人物像とあまりに符合するため、県内では半ば史実のように語られてきた。ただし、清正自身が改名を命じた同時代の正式文書は残っていないと研究者は指摘する。話の筋の良さと史料の有無は別物であり、このKBでは改字の時期（1607年頃）は事実として、理由付けは伝承として分けて記録する。
+    sources:
+    - f-kumamoto-maff
+    - f-kumamoto-city-lecture
+  relations: []
+  unknowns:
+  - 加藤清正が隈本から熊本への改字を命じたことを示す同時代の正式文書の現存は、本調査では確認できなかった
+  - 「隈本」の語源（地形由来か人名由来か）は確定していない
+  updated: '2026-11-13'
+- id: pref/44
+  code: '44'
+  names:
+    ja: 大分県
+    reading: おおいたけん
+    aliases:
+    - 大分郡
+    - 碩田
+    - 豊後国
+  user_terms:
+  - 大分の名前の由来
+  - 碩田 おおいた 読み方
+  - おおいたは大きな田という意味
+  - 大分県はどうやってできた
+  naming_type: 一部の地名
+  summary: 県名は豊後国大分郡に由来する。『日本書紀』と『豊後国風土記』は、景行天皇が土地の広大さを称えて「碩田（おおきた）」と名付けたという命名譚を伝え、この碩田が後に「大分」と書かれるようになったとされるが、語源には対立説もある。1871年に大分県と称せられた。
+  first_attestation:
+    era: 古代（日本書紀・景行天皇紀）
+    year_western: null
+    document: 日本書紀
+    note: 「碩田国に到りたまふ…碩田、此れをば於保岐陀と云う」とあり、音「おおきた」の最古級の記録。景行天皇の年代自体は伝承上のもので実年代は特定できない
+  claims:
+  - text: 大分県と称せられたのは明治4年（1871年）11月で、明治5年1月23日に大分郡南勢家（現在の大分市都町）に県庁が設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-oita-pref
+  - text: 県名は県庁の置かれた豊後国大分郡の郡名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-oita-pref
+  - text: 『日本書紀』景行天皇の九州巡幸記事には「冬十月に、碩田國に到りたまふ。其の地形広く大きにして亦麗し。因りて碩田と名く。碩田、此れをば於保岐陀と云う」とあることを大分県公式が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nihonshoki
+    - f-oita-pref
+  - text: 『豊後国風土記』にも景行天皇の言葉として「広大なる哉、この郡は。宜しく碩田国と名づくべし」との記載があり、「碩田（おおきた）」が後に「大分」と書かれるようになったと大分県公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-bungo-fudoki
+    - f-oita-pref
+  - text: 景行天皇が巡幸先で土地を眺めて「碩田」と命名したという物語そのものは、記紀・風土記に共通する天皇命名譚であり、史実の命名行為としてではなく伝承として扱うべき性格のものである
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-nihonshoki
+    - f-bungo-fudoki
+    - f-oita-pref
+  - text: 「大きな田」由来説に対しては、大分平野は全国的に見て広大とは言い難いとして、「狭い土地に多くの田がある『多き田』」や「土地が分かれているため『分』の字を当てた」とする説も有力視されており、語源は対立している
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - f-oita-column
+  - text: 大分県公式サイト自体が県名由来について「諸説あります」と明記しており、単一の説に断定していない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-oita-pref
+  - text: 大分市碩田町という町名は、1964年に『豊後国風土記』の碩田の故事にちなんで名付けられた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - f-oita-column
+  column:
+    title: 「大きな田」は本当に大きかったのか
+    text: 大分の由来をめぐる面白さは、公式説への素朴な疑問から始まる。景行天皇が「広大なる哉」と感嘆したという碩田。しかし大分平野は、関東平野や濃尾平野と比べれば決して広くない。「あれを『大きい』と呼ぶだろうか」という地元ライターの疑問から、「多き田（田が多い）」「分かれた田」という対立説が紹介されるようになった。古代の感嘆は相対的なものだったのか、そもそも「おおきた」の原義が別にあるのか。県公式が「諸説あります」の一言を添えているのは、この決着のつかなさを正直に示す誠実な書き方といえる。
+    sources:
+    - f-oita-pref
+    - f-oita-column
+  relations: []
+  unknowns:
+  - 「おおきた／おおいた」の原義（大きな田か、多き田か、その他か）は学術的に確定していない
+  - 「碩田」から「大分」への表記変更がいつ、どの文書で確認できるかは本調査では特定できなかった
+  updated: '2026-11-13'
+- id: pref/45
+  code: '45'
+  names:
+    ja: 宮崎県
+    reading: みやざきけん
+    aliases:
+    - 宮崎郡
+    - 宮埼郡
+    - 日向国
+    - 美々津県
+    - 都城県
+  user_terms:
+  - 宮崎の名前の由来
+  - 宮崎県が一度なくなった話
+  - 神武天皇と宮崎の関係
+  - 宮崎県再置 分県運動
+  naming_type: 一部の地名
+  summary: 県名は県庁が置かれた日向国宮崎郡に由来する。郡名は『和名類聚抄』に確認でき、語源は神社の前を意味する「宮前（みやさき）」説と、神武天皇の宮居伝承に基づく説がある。県は1873年に置かれ、1876年に鹿児島県へ合併されたが、分県運動により1883年に再置された。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 和名類聚抄
+    note: 日向国宮崎郡を収載し、諸本に「宮埼」「宮崎」の表記と「三也佐伎（みやさき）」の訓がみえる。成立は934年頃
+  claims:
+  - text: 1873年（明治6年）1月15日、美々津県と都城県の東半分が合併して宮崎県が置かれ、県名は県庁の置かれた宮崎郡による
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-miyazaki-ndl
+  - text: 1876年（明治9年）8月21日に宮崎県は鹿児島県に合併され、旧県庁は宮崎支庁に格下げされた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-miyazaki-ndl
+  - text: 1883年（明治16年）5月9日、太政官布告第15号により宮崎県は富山県・佐賀県と同日に再置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-miyazaki-ndl
+  - text: 再置は川越進らによる分県運動の成果であり、1883年3月の鹿児島県会での可決を経て実現した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-miyazaki-ndl
+  - text: 『和名類聚抄』に日向国宮崎郡の名が見え、諸本では「宮埼」とも「宮崎」とも記され、「三也佐伎」の訓がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-wamyosho
+    - f-miyazaki-kotobank
+  - text: 郡名の語源として有力なのは「宮（神社）の前」を意味する「宮前（みやさき）」が転じたとする説で、「宮」にあたる神社は宮崎郡内の式内社・江田神社とする見方がある
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-miyazaki-ndl
+  - text: この地が神武天皇の宮居の地であったことから「宮崎」と呼ぶようになったという古老伝が、『日向旧跡見聞録』や『太宰管内志』に記録されている
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - f-miyazaki-kotobank
+  - text: 神武天皇の宮居伝承の候補地として、皇宮屋（宮崎市下北方町）や奈古神社の前である「宮前」が挙げられており、宮崎市公式資料も神武天皇の伝承地が多いことを地名説明に挙げている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-miyazaki-ndl
+  column:
+    title: 県民の運動で取り戻した県
+    text: 宮崎県の再置は、中央の都合ではなく地元の運動が勝ち取った珍しい事例である。1876年に鹿児島県へ合併された後、西南戦争の復興で日向側が後回しにされたことへの不満、県庁の遠さ、地方税と支庁支出の不均衡が分県運動を燃え上がらせた。運動を率いた川越進は鹿児島県会議長にまで上り詰めて議会で再置案を可決させ、1883年5月9日、佐賀・富山と同日に宮崎県は復活した。「県があること」は当たり前ではない——宮崎と佐賀の再置県の歴史は、そのことを静かに教えてくれる。
+    sources:
+    - f-miyazaki-ndl
+  relations:
+  - pref/41
+  - pref/46
+  unknowns:
+  - 「宮前」説で「宮」にあたる神社の特定（江田神社・奈古神社・宮崎神宮の前身等）は確定していない
+  - 宮崎郡の名が奈良時代の資料に遡れるか（「宮埼郡」表記の古い用例）は本調査では確認できなかった
+  updated: '2026-11-13'
+- id: pref/46
+  code: '46'
+  names:
+    ja: 鹿児島県
+    reading: かごしまけん
+    aliases:
+    - 鹿児島郡
+    - 麑嶋
+    - 薩摩藩
+    - 鹿児島藩
+  user_terms:
+  - 鹿児島の名前の由来
+  - 鹿児島と桜島はどっちが先
+  - かごしま 鹿と関係あるの
+  - 薩摩藩と鹿児島県の関係
+  naming_type: 一部の地名
+  summary: 県名は薩摩国鹿児島郡・城下町鹿児島に由来する。「鹿児島」はもともと桜島の古名だったとする見方が有力だが、その語源は鹿の子・火山を意味する「カグ」・水夫「カコ」・崖を意味する「カゴ」など諸説あり確定していない。鹿児島の名は9世紀の『日本三代実録』に神名として確認できる。
+  first_attestation:
+    era: 貞観2年
+    year_western: 860
+    document: 日本三代実録
+    note: 貞観2年3月条に薩摩国の「鹿児島神」への叙位が記録され、神社の名として「鹿児島」が9世紀に確認できる。地名としての初出はこれ以前に遡る可能性がある
+  claims:
+  - text: 県名「鹿児島」は、薩摩藩の城下町であり薩摩国鹿児島郡に属した鹿児島の地名に由来し、廃藩置県で鹿児島藩が鹿児島県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kagoshima-pref
+    - f-kagoshima-kotobank
+  - text: 『日本三代実録』貞観2年（860年）3月条に、薩摩国の鹿児島神に従五位上を授けたことが記録されており、「鹿児島」の名は9世紀には神名として存在した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-sandai-jitsuroku
+    - f-kagoshima-kotobank
+  - text: 鹿児島県公式は「古くは桜島のことを鹿児島と呼んでいたという」と紹介しており、鹿児島は桜島の古名とする見方を『日本歴史地名大系』も妥当とする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-kagoshima-pref
+    - f-kagoshima-kotobank
+  - text: 鹿児島の語源について鹿児島県公式は、野生の鹿の子が多く生息していたから、火山を意味する「カグ」という言葉から、多くの水夫（かこ）が住んでいたから、などさまざまな説があるとして併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-kagoshima-pref
+  - text: 「カゴ」は崖を意味する古語であり、四方を崖に囲まれた桜島を「カゴ島」と呼んだことが「鹿児島」の起源とする説が、地名研究では有力な候補として示されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-kagoshima-kotobank
+  - text: 山幸彦（天津日高彦穂々出見尊）が海神の宮へ行く際に乗った舟が鹿児山で作られたことに由来するという、神話に結びつけた由来譚も伝えられている
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - f-kagoshima-kotobank
+  - text: 鹿児島には「麑嶋」という表記も用いられ、「鹿」「児」の合字である「麑」の字が宛てられることがあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-kagoshima-kotobank
+  - text: 対岸の城下町側へ「鹿児島」の名が広がった過程では、鹿児島神社・鹿児島神宮など「鹿児島」を冠する神社の存在が媒介になったとする説がある
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-kagoshima-kotobank
+  column:
+    title: 「鹿児島」は最初、桜島の名前だった
+    text: 鹿児島の地名の最大の意外性は、その名がもともと対岸の火山の島——現在の桜島——を指していたとされる点にある。桜島は江戸時代前期まで「向島」とも呼ばれ、「桜島」の名が藩の通達で統一されたのは1698年とされる。つまり城下町「鹿児島」は、湾の主役である島から名前を譲り受けた土地、ということになる。語源についても「鹿の子」「崖（カゴ）」「火の神（カグ）」「水夫（カコ）」と候補が並び、県公式も諸説併記の姿勢を崩さない。島と半島と湾が織りなす景観そのものが、この地名の複雑さの背景にある。
+    sources:
+    - f-kagoshima-pref
+    - f-kagoshima-kotobank
+  relations:
+  - pref/45
+  unknowns:
+  - 「鹿児島」の語源は確定しておらず、崖説・火山説・水夫説・鹿の子説のいずれも決定的な証拠を欠く
+  - 桜島を指す地名としての「鹿児島」の最古の用例は本調査では特定できなかった（860年の記録は神名としての用例である）
+  - 桜島の名称統一（1698年・薩摩藩通達）の一次資料は本調査では直接確認できていない
+  updated: '2026-11-13'
+- id: pref/47
+  code: '47'
+  names:
+    ja: 沖縄県
+    reading: おきなわけん
+    aliases:
+    - 琉球藩
+    - 琉球国
+    - ウチナー
+  user_terms:
+  - 沖縄の名前の由来
+  - ウチナーってどういう意味
+  - 琉球と沖縄はどう違う
+  - 沖縄県はいつできた 琉球処分
+  naming_type: その他（琉球処分による新設。王国・藩の廃止に伴い、島名「沖縄」を県名に採用）
+  summary: 県名は沖縄本島の島名「沖縄」に由来する。この名は住民の自称「ウチナー」に根ざす古い言葉で、音の記録は779年の『唐大和上東征伝』の「阿児奈波」に遡るが、語源は確定していない。漢字表記「沖縄」は近世に定着し、1879年の琉球処分で琉球藩を廃して沖縄県が設置された。
+  first_attestation:
+    era: 宝亀10年
+    year_western: 779
+    document: 唐大和上東征伝
+    note: 鑑真一行の漂着地として「阿児奈波（あこなは）島」が記録され、これが沖縄本島を指す最古級の音の記録とされる。漢字「沖縄」の表記自体の初出は近世（元禄国絵図・新井白石『南島志』）である
+  claims:
+  - text: 1879年（明治12年）3月27日、処分官松田道之が首里城で琉球藩の廃止と沖縄県の設置を通達し、同年4月4日に太政官布告第14号「琉球藩ヲ廃シ沖縄縣ヲ置ク」が布告された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-okinawa-archives
+  - text: 1872年（明治5年）に琉球国が廃されて琉球藩が置かれており、琉球藩設置から沖縄県設置までの一連の措置は「琉球処分」と呼ばれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-okinawa-archives
+  - text: 「琉球」は中国側で名付けた国名であるのに対し、「沖縄」は沖縄固有の言葉に基づく島名であると、沖縄県立図書館が紹介する専門書は整理している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-okinawa-ndl
+  - text: 沖縄本島の住民は自らの島を「ウチナー」と呼んできたとされ、中国の冊封使の記録では陳侃『使琉球録』（1534年）の「倭急拿」、徐葆光『中山伝信録』（1721年）の「悪鬼納」など、ウチナーの音に漢字を宛てた表記が残る
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-okinawa-ndl
+  - text: 『唐大和上東征伝』（779年成立）にみえる「阿児奈波島」は沖縄本島に比定され、「オキナワ」の音の最古級の記録とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-todaiwajoden
+    - f-okinawa-ndl
+  - text: 漢字表記「沖縄」は、元禄の国絵図（1699年）や新井白石『南島志』（1719年）頃にほぼ定まった当て字であり、それ以前には「浮縄」「置縄」などの用字も行われていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-okinawa-ndl
+  - text: 語源として伊波普猷は「オキ（沖）」と「ナバ（漁場）」に分解して「沖合の漁場」の意とする説を示したが、現代ではウチナーとの関係を含め語源は確定しておらず、「沖に浮かぶ縄のような島」という説明は『南島志』以来の字面からの解釈にとどまる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-okinawa-ndl
+  - text: 『隋書』流求国条（大業3年・607年等の記事）にみえる「流求」が現在の沖縄を指すのか台湾を指すのかは、明治以来の論争が続いており、台湾説・沖縄説・両者を含む島々とする折衷説が対立したままで、「琉球」の初出を『隋書』に求める場合も比定は未確定である
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - f-zuisho
+    - f-okinawa-suiryukyu
+  - text: 歌謡集『おもろさうし』（16〜17世紀編纂）には「おきなわ」「おきにゃ」の表記がみえ、神女の名や御嶽の名として「おきなわ」が王府の記録に定着していたことが分かる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - f-okinawa-ndl
+  column:
+    title: 「琉球」は外からの名、「沖縄」は内からの名
+    text: 沖縄には二つの名前の系譜がある。「琉球」は中国の冊封体制の中で与えられた国名で、儀式的な文書に使われた。一方の「沖縄」は、島の人々が自分たちの島を「ウチナー」と呼んできた言葉に根ざし、日常の称呼として生き続けた、と伊波普猷以来の研究は整理する。1879年、明治政府が新県の名に選んだのは、王国の国号ではなく、この島名のほうだった。ただし「沖に浮かぶ縄」という字面の説明は後付けの解釈に近く、語源そのものは今も確定していない。名前の由来をめぐる正直な「分からない」が、最も古い層に残っている県でもある。
+    sources:
+    - f-okinawa-ndl
+    - f-okinawa-archives
+  relations:
+  - pref/46
+  unknowns:
+  - 「オキナワ／ウチナー」の語源（漁場説ほか）は学術的に確定しておらず、本KBでも通説として断定しない
+  - 『隋書』の「流求」の比定先（台湾か沖縄か島嶼総称か）は未決着であり、「琉球」の初出として沖縄に結びつけることはできない
+  - 漢字「沖縄」の厳密な初出（薩摩藩行政文書の用例と元禄国絵図・『南島志』の先後）は本調査では一次資料で確定できなかった
+  updated: '2026-11-13'
