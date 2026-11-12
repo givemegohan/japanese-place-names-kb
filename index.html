@@ -147,12 +147,14 @@ function showPrefRecord(rec){
   panel.scrollIntoView({behavior:"smooth",block:"start"});
 }
 
+function decodeRing(str){let idx=0,lat=0,lon=0;const ring=[];function dv(){let shift=0,result=0,b;do{b=str.charCodeAt(idx++)-63;result|=(b&0x1f)<<shift;shift+=5}while(b>=0x20);return (result&1)?~(result>>1):(result>>1)}while(idx<str.length){lat+=dv();lon+=dv();ring.push([lon/1e5,lat/1e5])}return ring}
 async function enterMuni(rec){
   const code=rec.code, name=rec.names.ja;
   mode="muni";currentPref={code,name,rec};
   document.getElementById("status").textContent=`${name}の市区町村データを読み込み中…`;
   try{
-    const geo=await (await fetch(`data/muni/${code}.geojson`)).json();
+    const enc=await (await fetch(`data/muni-enc/${code}.json`)).json();
+    const geo={features:enc.features.map(f=>({properties:{name:f.n},geometry:{type:"MultiPolygon",coordinates:f.g.map(poly=>poly.map(decodeRing))}}))};
     document.getElementById("crumb").style.display="flex";
     document.getElementById("crumbText").textContent=`${name}の市区町村（クリックで詳細）`;
     renderMap(geo.features,(f,path)=>{markSelected(f.properties.name);showMuni(name,f.properties.name)},"auto");
