@@ -56,7 +56,7 @@ footer{padding:0 1.25rem 1.5rem;color:var(--muted);font-size:.8rem;line-height:1
 <body>
 <header>
   <h1>日本の地名の由来</h1>
-  <p class="sub">都道府県・市区町村の名前がどこから来たのかを、一次文献まで遡った出典つきで記録するナレッジベースです。主張は「歴史的事実」と「民間伝説」に分けて表示します。地図の地域をクリックすると由来が表示され、都道府県からは市区町村まで深追いできます。<br>※本サイトの内容はAIが調査・作成し、出典と証拠レベルを付けて公開しているものです。地図データは WhiteMap（givemegohan.xyz/whitemap）のデータを許可を得て再利用しています。</p>
+  <p class="sub">都道府県・市区町村の名前がどこから来たのかを、一次文献まで遡った出典つきで記録するナレッジベースです。主張は「歴史的事実」と「民間伝説」に分けて表示します。地図の地域をクリックすると由来が表示され、都道府県からは市区町村まで深追いできます。<br>※本サイトの内容はAIが調査・作成し、出典と証拠レベルを付けて公開しているものです。地図データは国土数値情報（行政区域データ・2026年版）（国土交通省）を加工して使用しています。</p>
 </header>
 <div class="controls">
   <input type="search" id="q" placeholder="地名・読み・キーワードで検索（例：府中、信長、風土記）">
@@ -147,7 +147,7 @@ function showPrefRecord(rec){
   panel.scrollIntoView({behavior:"smooth",block:"start"});
 }
 
-function decodeRing(str){let idx=0,lat=0,lon=0;const ring=[];function dv(){let shift=0,result=0,b;do{b=str.charCodeAt(idx++)-63;result|=(b&0x1f)<<shift;shift+=5}while(b>=0x20);return (result&1)?~(result>>1):(result>>1)}while(idx<str.length){lat+=dv();lon+=dv();ring.push([lon/1e5,lat/1e5])}return ring}
+function decodeRing(str){str=str.replace(/-/g,"");let idx=0,lat=0,lon=0;const ring=[];function dv(){let shift=0,result=0,b;do{b=str.charCodeAt(idx++)-63;result|=(b&0x1f)<<shift;shift+=5}while(b>=0x20);return (result&1)?~(result>>1):(result>>1)}while(idx<str.length){lat+=dv();lon+=dv();ring.push([lon/1e5,lat/1e5])}return ring}
 async function enterMuni(rec){
   const code=rec.code, name=rec.names.ja;
   mode="muni";currentPref={code,name,rec};
