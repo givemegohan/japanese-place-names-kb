@@ -1,5 +1,167 @@
 prefecture_code: '31'
 records:
+- id: muni/31-三朝町
+  code: '313645'
+  names:
+    ja: 三朝町
+    reading: みささちょう
+    aliases:
+    - 三朝温泉
+  user_terms:
+  - 三朝温泉
+  - ラドン温泉
+  - 三徳山
+  - 投入堂
+  - 株湯
+  naming_type: 一部の地名（郷名・荘園名「三朝庄」の継承）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 町名は1889年（明治22年）の町村制で発足した三朝村の名を引き継ぎ、三朝村の名は郷名・荘園名の「三朝庄」にちなむとされる。1953年（昭和28年）に三朝村・三徳村・小鹿村・旭村・竹田村が合併して三朝町が発足した。世界屈指のラドン泉・三朝温泉と、国宝の投入堂で知られる三徳山を擁する。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: 三朝庄（郷名・荘園名）
+    note: 『角川日本地名大辞典 31 鳥取県』が三朝村の地名の由来を「郷名の三朝庄にちなむ」と記すことを、Wikipedia「三朝村 (鳥取県)」の項目経由で確認した。三朝庄そのものの初出文献と年次は未確認
+  claims:
+  - text: 1889年（明治22年）10月1日、河村郡の大瀬村・横手村・山田村・三朝村・砂原村が合併して三朝村が発足し、1953年（昭和28年）11月1日に三朝村・三徳村・小鹿村・旭村・竹田村が合併して町制を施行し、三朝町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-misasa-wiki
+  - text: Wikipedia「三朝村 (鳥取県)」の項目は、『角川日本地名大辞典 31 鳥取県』（729-730頁）の記述として、三朝村の地名の由来は「郷名の三朝庄にちなむ」と紹介している。町名「三朝」は温泉の言い伝えではなく、中世以来の郷名・荘園名を継いだものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-misasamura-wiki
+  - text: 三朝温泉の名については「三たび朝を迎えるころには病が消えてしまう」ことに由来するという言い伝えが町の公式資料で紹介されている。ただし地名「三朝」自体は三朝庄に由来する古い地名であり、この言い伝えは温泉の効能を語る後世の説明として分けて扱うべきものである
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q5-misasa-town-pdf
+  - text: 三朝温泉の発祥伝説として、平安時代末期に源義朝の家臣・大久保左馬之祐が三徳山参拝の途中で老いた白い狼を助けたところ、その夜の夢に妙見大菩薩が現れて湯の湧く場所を教え、楠の大木の株根から温泉が湧き出していたという話が伝わる。源泉の名「株湯」はこの故事に由来するとされる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q5-misasa-town-pdf
+  - text: 三朝温泉はラドンを多く含む放射能泉で、世界でも屈指の高濃度のラドン泉として知られ、古くから湯治の地として利用されてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-misasa-ndl
+  - text: 2015年、三徳山と三朝温泉は文化庁の日本遺産「六根清浄と六感治癒の地 〜日本一危ない国宝と世界屈指のラドン泉〜」に認定された。三徳山三佛寺の投入堂は国宝に指定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-misasa-ndl
+  - text: 三朝町は2003年に天神川流域の合併協議会から離脱して単独町制の継続を選択し、その後も合併していない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-misasa-wiki
+  - text: 三朝町の地方公共団体コードは313645である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「三たび朝」の伝説より古い地名
+    text: 三朝温泉には「三たび朝を迎えれば病が消える」という言い伝えと、白い狼を助けた武士が夢のお告げで楠の株根の湯（株湯）を見つけたという発祥伝説がある。しかし町名の「三朝」は、もとは郷名・荘園名の「三朝庄」にちなむ古い地名で、温泉の伝説はその名に後から結びついて広まった説明である。伝説の湯治場としての顔と、荘園名を受け継ぐ地名の顔と、二つの層が重なって今の三朝がある。
+    sources:
+    - q5-misasa-town-pdf
+    - q5-misasamura-wiki
+  relations:
+  - pref/31
+  unknowns:
+  - 三朝庄の初出文献と年次は未確認
+  - 荘園名・郷名としての「三朝」自体の語源は未確認
+  updated: '2026-11-13'
+- id: muni/31-伯耆町
+  code: '313904'
+  names:
+    ja: 伯耆町
+    reading: ほうきちょう
+    aliases:
+    - 伯耆富士の町
+  user_terms:
+  - 伯耆富士
+  - 伯耆大山
+  - 大山のふもと
+  - 岸本
+  - 溝口
+  naming_type: その他（旧国名「伯耆国」の採用）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 2005年（平成17年）1月1日に西伯郡岸本町と日野郡溝口町が合併して発足した町。町名は旧国名「伯耆国」に由来し、町公式サイトは、町内から望む大山の姿「伯耆富士」「伯耆大山」の眺望が町の誇りであることから命名したと説明する。郡をまたぐ合併で、新町は西伯郡に属した。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: 伯耆国（令制国名）
+    note: 町名の源泉である旧国名「伯耆」は奈良時代以来の令制国の名だが、その初出文献は本バッチでは未確認。自治体名としての「伯耆町」の使用は2005年の合併発足に始まる
+  claims:
+  - text: 2005年（平成17年）1月1日、西伯郡岸本町と日野郡溝口町が合併して伯耆町が発足し、新町は西伯郡に属することになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-houki-pref
+    - q5-houki-town-intro
+  - text: 町公式サイトは、「伯耆」とは旧国名「伯耆国」のなごりであり、現在の鳥取県中西部と島根県東部の一部を含む地域には今も多くの「伯耆○○」という地名や旧跡が残っていると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-houki-town-intro
+  - text: 町公式サイトは命名の理由について、当町から望む「伯耆富士」「伯耆大山」の眺望が「まさに当町の誇りであり『伯耆町』と命名いたしました」と明記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-houki-town-intro
+  - text: 大山は見る方向によって山容が大きく異なり、西側の伯耆町側から望む均整の取れた姿は富士山のように見えることから、古来より「伯耆富士」「伯耆大山」と呼ばれて親しまれてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-houki-town-intro
+  - text: 「伯耆（ほうき）」という国名自体の語源は確定しておらず、町公式サイトも「山脚が断崖となって水に落ちるところ」など諸説あると記すにとどまる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - q5-houki-town-intro
+  - text: 伯耆町は国立公園大山を望み、日野川の流域に位置する。合併前の旧岸本町は大山の西麓、旧溝口町は日野川沿いにあり、両町の区域は異なる郡（西伯郡・日野郡）に分かれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-houki-meti
+    - q5-houki-pref
+  - text: 伯耆町の地方公共団体コードは313904である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読めない町名と、誇りの山
+    text: 「伯耆町」を初見で「ほうきちょう」と読める人は少ない。町自身のコラムでも、全国の人に示したときに読める人はどれほどだろうかと率直に書かれている。それでもこの名が選ばれたのは、旧国名という重み以上に、町内から望む大山の姿――西側から見て富士山のように均整が取れた「伯耆富士」「伯耆大山」――が町の誇りだったからだという。町はPRで『伯耆（ほうき）町は本気（ほんき）町』という言葉遊びも掲げている。難読さを引き受けてでも守った、山への愛着の名前である。
+    sources:
+    - q5-houki-town-intro
+    - q5-houki-pr
+  relations:
+  - pref/31
+  unknowns:
+  - 旧国名「伯耆」の初出文献と年次は未確認（語源も諸説あり未確定）
+  - 合併協議会における新町名の公募・選定過程の詳細（候補名や得票など）は未確認
+  updated: '2026-11-13'
 - id: muni/31-倉吉市
   code: '312037'
   names:
@@ -76,6 +238,162 @@ records:
   unknowns:
   - 「倉吉」の語源は『日本歴史地名大系』でも定かでないとされ、蔵屋敷説と岩倉＋住吉説のいずれも確証はない
   - 天正11年（1583）より前の「倉吉」の用例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/31-八頭町
+  code: '313297'
+  names:
+    ja: 八頭町
+    reading: やずちょう
+    aliases: []
+  user_terms:
+  - 八頭郡
+  - 郡家
+  - 因幡
+  - やず
+  naming_type: 合併新設（郡名「八頭」の採用）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 2005年（平成17年）3月31日に郡家町・船岡町・八東町が合併して発足した町。町名は、古くからこの地域の郡名である「八頭郡」の「八頭」を採用したもので、新町名は住民公募とアンケートで選ばれた。八頭郡は1896年（明治29年）に八上郡・八東郡・智頭郡を合わせて発足した郡である。
+  first_attestation:
+    era: 明治29年
+    year_western: 1896
+    document: 八頭郡の設置（郡制施行）
+    note: 町名の源泉である郡名「八頭」の使用開始として、1896年4月1日の八頭郡発足を挙げる。「八頭」という地名自体のそれ以前の用例は未確認
+  claims:
+  - text: 2005年（平成17年）3月31日、八頭郡の郡家町・船岡町・八東町の3町が合併して八頭町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-yazu-town-origin
+  - text: 新町名は住民に募集され、応募の中から選ばれた最終候補5点（因幡町・扇野町・須賀野町・八頭町・八頭東町）についてアンケート調査が行われ、「八頭町」が最も多く選ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-yazu-town-origin
+  - text: 市区町村変遷情報（uub.jp）によれば、住民アンケートの結果は八頭53.1％、因幡21.2％、扇野10.6％、八頭東9.2％、須賀野5.9％であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-yazu-uub
+  - text: 町公式サイトは「八頭町」が選ばれた理由について、「八頭郡という地名が昔からあり、『八頭』という名前は地域住民になじみのある名前でした」と説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-yazu-town-origin
+  - text: 八頭郡は1896年（明治29年）4月1日、郡制の施行のため八上郡・八東郡・智頭郡の区域をもって発足した郡で、もとは因幡国の東部を占めた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-yazu-gun-wiki
+  - text: 合併した3町のうち郡家町は旧・八上郡の郡家（郡庁）の地にちなむ名をもち、八東町は旧・八東郡の名を受け継いだ町であり、新町名「八頭」はこれら旧郡名の上位の郡名に統一した形になっている
+    kind: fact
+    level: E5
+    status: inferred
+    sources:
+    - q5-yazu-gun-wiki
+    - q5-yazu-town-origin
+  - text: 八頭町の地方公共団体コードは313297である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: アンケートで選ばれた「郡」の名前
+    text: 八頭町の名前は、合併協議会が決めた案ではなく、住民の募集とアンケートで選ばれた。最終候補は因幡町・扇野町・須賀野町・八頭町・八頭東町の5つで、「八頭」は過半数の53.1％を得た。決め手は新しさではなく「なじみ」だったという。八頭郡という名は、1896年に八上・八東・智頭の3郡が合わさって生まれて以来100年以上、この地域の住所に使われ続けてきた。町名に郡名をそのまま掲げるのは、日本では珍しい選択である。
+    sources:
+    - q5-yazu-town-origin
+    - q5-yazu-uub
+  relations:
+  - pref/31
+  unknowns:
+  - 「八頭」の字が八上・八東の「八」と智頭の「頭」を合成したものだとする説明は広く流布しているが、本バッチでは公的・専門資料による明記を確認できなかった
+  - 旧3町（郡家町・船岡町・八東町）の各町名の由来の詳細は未調査
+  updated: '2026-11-13'
+- id: muni/31-北栄町
+  code: '313726'
+  names:
+    ja: 北栄町
+    reading: ほくえいちょう
+    aliases:
+    - コナンの町
+  user_terms:
+  - 名探偵コナン
+  - 青山剛昌
+  - 青山剛昌ふるさと館
+  - コナン駅
+  - 由良
+  naming_type: 合併新設（北条町の「北」と大栄町の「栄」の合成）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 2005年（平成17年）10月1日に北条町と大栄町が合併して発足した町。町名は北条の「北」と大栄の「栄」を合わせた合成名である。旧大栄町（由良）は『名探偵コナン』の作者・青山剛昌の出身地で、町は「コナンに会える町」として知られるが、これは町名の由来とは別の、人物ゆかりの層である。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 北栄町の発足（北条町・大栄町の新設合併）
+    note: 合成による新町名のため、古い地名としての初出はない。新町名は公募によって集められた候補から選ばれた
+  claims:
+  - text: 2005年（平成17年）10月1日、東伯郡の北条町と大栄町が合併して北栄町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-hokuei-ndl
+    - q5-hokuei-uub
+  - text: 新町名は公募され、上位候補10点には「北栄（ほくえい）」「中央」「大北（だいほく）」のほか、同じ漢字で読みの異なる「北栄（ほうえい）」、さらに「コナン」も含まれていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-hokuei-uub
+  - text: 町名「北栄」は、合併した北条町の「北」と大栄町の「栄」を一字ずつ取った合成名と解される。公募の上位候補に「大北」「大条」など両町名の字を組み合わせた案が複数並んだこととも整合する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q5-hokuei-uub
+  - text: 前身の大栄町は1955年（昭和30年）5月1日に大誠村・栄村の合併で発足し、1959年（昭和34年）4月1日に由良町と合併した。北条町は1954年（昭和29年）6月1日に中北条村・下北条村の合併で発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-daiei-wiki
+    - q5-hojo-wiki
+  - text: 『名探偵コナン』の作者・青山剛昌は北栄町（旧大栄町、由良）の出身であり、町内には青山剛昌ふるさと館がある。JR由良駅は「コナン駅」の愛称をもち、駅から館までオブジェの並ぶ「コナン通り」が続く
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-hokuei-gamf
+  - text: 合併前の大栄町は「コナンに会えるまち」を掲げて町おこしをしており、新町名の公募でも「コナン」が上位候補に入ったが、町名に採用されたのは合成名「北栄」であった。コナンは町名の由来ではなく、出身作家にちなむ観光・知名度の層として分けて理解すべきものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-hokuei-tayori
+    - q5-hokuei-uub
+  - text: 北栄町の地方公共団体コードは313726である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「コナン」が町名になりかけた町
+    text: 北栄町の新町名公募では、上位10点の中に堂々と「コナン」が入っていた。作者の出身町らしい大胆な候補だが、最終的に選ばれたのは北条の「北」と大栄の「栄」を合わせた堅実な合成名だった。面白いのは、同じ「北栄」でも読みを変えた「ほうえい」という候補が別に立っていたことで、読みの決定も含めて住民の選択だったことがうかがえる。町名は合成名に落ち着いたが、その後の町の知名度を牽引したのはやはりコナンである。名前の由来と町の顔は、ここではきれいに分かれている。
+    sources:
+    - q5-hokuei-uub
+    - q5-hokuei-gamf
+  relations:
+  - pref/31
+  unknowns:
+  - 合併協議会が「北栄（ほくえい）」を最終決定した際の公式な選定理由文は未確認
+  - 地名「北条」自体の語源（鎌倉幕府の北条氏との関係の有無を含む）は未確認
   updated: '2026-11-13'
 - id: muni/31-南部町
   code: '313891'
@@ -220,6 +538,305 @@ records:
   - 「境」の語源の国境説と内海・外海の境説のいずれが正しいかは、史料上決められない
   - 「境」に「港」を付けた「境港」の名が固まった時期は特定できなかった
   updated: '2026-11-13'
+- id: muni/31-大山町
+  code: '313866'
+  names:
+    ja: 大山町
+    reading: だいせんちょう
+    aliases:
+    - 伯耆大山
+  user_terms:
+  - 大山
+  - だいせん
+  - 伯耆富士
+  - 大山寺
+  - 大神山神社
+  naming_type: 一部の地名（山名「大山」の継承）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 町名は山名「大山（だいせん）」による。2005年（平成17年）3月28日に中山町・名和町・旧大山町が合併して新しい大山町が発足し、旧大山町の名を継承した。大山は『出雲国風土記』に神の山として記される古来の信仰の山で、大山寺・大神山神社の門前町を擁し、伯耆側からは「伯耆富士」とも呼ばれる。なお神奈川県の大山町は1970年の伊勢原市発足時に消滅しており、現行の「大山町」は当町のみである。
+  first_attestation:
+    era: 天平5年
+    year_western: 733
+    document: 『出雲国風土記』
+    note: 同書ではこの山は「大神岳（おおがみたけ）」と呼ばれていたと英語版Wikipedia「Daisen」が紹介している。「大山」の表記と「だいせん」の読みの文献上の初出は未確認
+  claims:
+  - text: 2005年（平成17年）3月28日、西伯郡の大山町・名和町・中山町が合併して、新しい大山町が新設された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-daisen-estat
+  - text: 旧・大山町は1955年（昭和30年）11月3日に大山村と大山町が合併して発足しており、2005年の合併でも「大山町」の名がそのまま継承された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-daisen-uub
+  - text: 環境省の資料は、733年に編纂された『出雲国風土記』では大山は神々が住む山と記されていること、718年に金蓮上人がこの山に地蔵権現を祀り大山寺を創建したことを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-daisen-env
+  - text: 英語版Wikipedia「Daisen」は、『出雲国風土記』（733年）でこの山が「大神岳（Ōgami-take、大いなる神の山）」と呼ばれていたこと、これが和語の古名であり、「大山（だいせん）」は漢字の漢語系の読みによる名であることを記す。古名は山麓の大神山神社の社名に今も残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-daisen-enwiki
+  - text: 大山寺の開創縁起として、養老2年（718年）に俊方（のちの金蓮上人）が大山で鹿を弓で射たところ、その正体は地蔵菩薩であったと知り、殺生の罪を悟って出家し、草庵を結んで地蔵菩薩を祀ったことが大山寺の起源と『大山寺縁起』などに伝えられる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - q5-daisenji-wiki
+  - text: 大山は仏教伝来以前から強力な神が住む山として崇められた信仰の地で、大山寺は山岳信仰の中心として栄え、平安時代には牛馬の安全を祈願する「牛馬信仰」が広まって多くの参詣者を集めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-daisen-env
+    - q5-daisenji-wiki
+  - text: 大山は見る方向によって、伯耆側からは「伯耆富士（伯耆大山）」、出雲側からは「出雲富士」とも呼ばれてきた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-daisen-enwiki
+  - text: 大山町の地方公共団体コードは313866である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「大神岳」から「だいせん」へ
+    text: 大山の古い名は「大神岳（おおがみたけ）」――大いなる神の山である。『出雲国風土記』の時代から神の住む山とされ、その名残は今も山麓の大神山神社（奥宮は日本最大級の権現造り）の社名に残る。現在の「大山（だいせん）」は漢字の音読みの名で、読みの上では後から来た名前である。町名はその音読みの山名を継いでいる。山頂の神を祀る大神山神社と、中腹で地蔵を祀る大山寺とが同居する神仏習合の山の姿も、この地名の重なりと重なっている。
+    sources:
+    - q5-daisen-enwiki
+    - q5-daisen-env
+  relations:
+  - pref/31
+  unknowns:
+  - 「大山」の表記と「だいせん」の読みが文献に現れる初出は未確認
+  - 2005年の合併で旧大山町の名を継承した際の協議経緯の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/31-岩美町
+  code: '313025'
+  names:
+    ja: 岩美町
+    reading: いわみちょう
+    aliases:
+    - 浦富海岸
+  user_terms:
+  - 浦富海岸
+  - 山陰海岸ジオパーク
+  - 岩井温泉
+  - いわみ
+  naming_type: 一部の地名（郡名「岩美郡」の継承）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 1954年（昭和29年）7月1日に岩美郡の9町村（田後村・東村・浦富町・蒲生村・岩井町・小田村・本庄村・大岩村・網代村）が合併して発足した町。町名は郡名「岩美」をそのまま採用した。岩美郡は1896年（明治29年）に邑美郡・法美郡・岩井郡を合わせて発足した郡で、現在は岩美町のみで構成される。読み「いわみ」は島根県側の旧国名「石見」と同音だが、由来は異なる。
+  first_attestation:
+    era: 明治29年
+    year_western: 1896
+    document: 岩美郡の設置（郡制施行）
+    note: 町名の源泉である郡名「岩美」の使用開始として1896年4月1日の岩美郡発足を挙げる。「岩美」という地名のそれ以前の用例は未確認
+  claims:
+  - text: 1954年（昭和29年）7月1日、岩美郡の田後村・東村・浦富町・蒲生村・岩井町・小田村・本庄村・大岩村・網代村の9町村が合併して岩美町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-iwami-wiki
+  - text: 岩美郡は1896年（明治29年）4月1日、郡制の施行のため邑美郡・法美郡・岩井郡の区域をもって発足した郡である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-iwami-gun-wiki
+  - text: 郡名「岩美」は、合併した岩井郡の「岩」と、邑美郡・法美郡の「美」を合わせた合成の郡名と解される。同じ1896年の郡再編で生まれた八頭郡（八上・八東・智頭）と同じ造られ方である
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q5-iwami-gun-wiki
+  - text: 現在の岩美郡は岩美町のみで構成されており、郡の区域と町の区域が一致している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-iwami-gun-wiki
+  - text: 岩美町は鳥取県の最東端に位置して日本海に面し、浦富海岸は山陰海岸国立公園および山陰海岸ジオパークの一部となっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-iwami-wiki
+  - text: 読みの「いわみ」は島根県側の旧国名・石見（いわみ）と同音だが、岩美は因幡国の3郡を合わせた郡名に由来するもので、石見とは無関係である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-iwami-gun-wiki
+  - text: 岩美町の地方公共団体コードは313025である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡と町が、ぴったり重なる
+    text: 岩美郡には岩美町しかない。郡イコール町という珍しい形は、1954年に郡内の9町村が一つに合併して郡名をそのまま町名に採用した結果である。その郡名自体も、1896年に邑美・法美・岩井の3郡を合わせたときの合成名と解される。つまり「岩美」は、明治の郡再編が生んだ人工的な名前を、昭和の合併が町名として受け継いだ二重の継承の名である。島根の石見（いわみ）と読みが同じため混同されやすいが、こちらは因幡側の名である。
+    sources:
+    - q5-iwami-gun-wiki
+    - q5-iwami-wiki
+  relations:
+  - pref/31
+  unknowns:
+  - 「岩美」が岩井の「岩」と邑美・法美の「美」の合成であることを明記した公的・専門資料は本バッチでは確認できなかった
+  - 岩井・浦富など旧町村名それぞれの由来は未調査
+  updated: '2026-11-13'
+- id: muni/31-日南町
+  code: '314013'
+  names:
+    ja: 日南町
+    reading: にちなんちょう
+    aliases: []
+  user_terms:
+  - 日野川源流
+  - たたら
+  - にちなん
+  - 鳥取の日南
+  naming_type: 合併新設（日野郡南部の位置による命名）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 1959年（昭和34年）4月1日に伯南町・多里村・石見村・福栄村・高宮村が合併して発足した町。町名は、日野郡の南部に位置することに由来するとされる。日野川の源流域にあたる山あいの町で、宮崎県の日南市とは別の自治体であり、由来も異なる。読みは同じ「にちなん」でも、市と町で成り立ちが違う好例である。
+  first_attestation:
+    era: 昭和34年
+    year_western: 1959
+    document: 日南町の発足（新設合併）
+    note: 位置にもとづく新命名のため、古い地名としての「日南」の初出はない。合併した伯南町の「伯南」も伯耆の南部を意識した名とみられるが、その命名経緯は未確認
+  claims:
+  - text: 1959年（昭和34年）4月、伯南町・多里村・石見村・福栄村・高宮村が合併して日南町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-nichinan-ndl
+  - text: 町名「日南」は、日野郡に属し郡域の南部に位置していることが由来であるとされる。日野の「日」に方角の「南」を合わせた、位置による命名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-nichinan-wiki
+  - text: 日南町は鳥取県南西部の内陸にあり、一級河川・日野川の源流域にあたる。たたら製鉄の歴史をもち、孝霊天皇の伝承なども伝えられる地域である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-nichinan-wiki
+  - text: 日南町は島根県・岡山県・広島県と接する県境の町で、合併した相手には1955年に生まれた伯南町が含まれていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-nichinan-wiki
+  - text: 宮崎県の日南市とは読みが同じ「にちなん」だが、別の自治体であり、日南町の名は日野郡南部の位置に由来するもので、日南市とは由来を異にする
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-nichinan-wiki
+  - text: 日南町の地方公共団体コードは314013である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 二つの「にちなん」
+    text: 日本には「にちなん」と読む自治体が二つある。宮崎県の日南市と、鳥取県の日南町である。鳥取の日南町は、日野川の源を抱える山あいの町で、名は「日野郡の南」という位置の説明そのもの。合併の中心だった町の名も「伯南町」――こちらも「伯耆の南」を思わせる名で、この地域では方角を名に刻む命名が重なってきた。県境の山里が名乗る「南」は、海に面した宮崎の日南とはまったく違う風景の南である。
+    sources:
+    - q5-nichinan-wiki
+    - q5-nichinan-ndl
+  relations:
+  - pref/31
+  unknowns:
+  - 町名「日南」の選定経緯（公募や協議の記録）および町公式の由来説明文は未確認
+  - 前身の伯南町（1955年発足）の命名経緯は未確認
+  updated: '2026-11-13'
+- id: muni/31-日吉津村
+  code: '313840'
+  names:
+    ja: 日吉津村
+    reading: ひえづそん
+    aliases: []
+  user_terms:
+  - ひえづ
+  - 鳥取県唯一の村
+  - 日野川河口
+  - 米子の隣の村
+  naming_type: 一部の地名（中心村「日吉津村」の名の継承）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 1889年（明治22年）10月1日に会見郡の日吉津村・富吉村・今吉村が合併して発足した村で、以来一度も合併・編入を経験していない。現在、鳥取県内に残る唯一の「村」である。村名は合併した3村の中心であった日吉津村の名を継いだ。日野川の河口部に位置し、江戸時代は川の渡し場（川越場）として知られた。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: 日吉津村（近世の村名）
+    note: 「日吉津」は1889年の町村制以前から会見郡の村名として存在した。その語源と文献上の初出は未確認
+  claims:
+  - text: 1889年（明治22年）10月1日、会見郡の日吉津村・富吉村・今吉村をもって日吉津村が村制を施行して発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-hiezu-pref-tokei
+  - text: 鳥取県統計課の市町村変遷表では、日吉津村について1889年の発足以降の廃置分合は記録されておらず、日吉津村は町村制以来一度も合併・編入を経験していない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-hiezu-pref-tokei
+  - text: 総務省の地方公共団体コード一覧において、日吉津村は鳥取県で唯一「村」を称する自治体である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 近世には今吉・富吉の地域が開拓され、村の農民の多くは日吉津村大神宮（日吉津伊勢宮）の神田を耕した。江戸時代の日吉津は川越場（川の渡し場）であり、マスやサケが特産品として知られた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q5-hiezu-wiki
+  - text: 村名「日吉津」は合併した3村の中心であった日吉津村の名をそのまま継いだもので、「津」の字は日野川河口の渡し・港の地であったことと響き合うが、「日吉」を含む村名自体の語源を確定する資料は確認できていない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q5-hiezu-pref-tokei
+    - q5-hiezu-wiki
+  - text: 日吉津村の地方公共団体コードは313840である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県でたった一つの「村」
+    text: 鳥取県の自治体一覧を眺めると、「村」は日吉津村ただ一つである。1889年の町村制で生まれて以来、昭和の大合併も平成の大合併もくぐり抜け、区域も名前も変わらないまま令和に至った。日野川の河口に開けたこの村は、江戸時代には川の渡し場として人と物が行き交う場所だった。小さいから残ったのではない。渡し場の村のまとまりが、そのまま自治の単位として生き続けているのである。
+    sources:
+    - q5-hiezu-pref-tokei
+    - q5-hiezu-wiki
+  relations:
+  - pref/31
+  unknowns:
+  - 「日吉津」の語源（日吉神社との関係の有無を含む）は未確認
+  - 平成の大合併期に合併を選択しなかった経緯の公式記録は未確認
+  updated: '2026-11-13'
 - id: muni/31-日野町
   code: '314021'
   names:
@@ -290,6 +907,300 @@ records:
   unknowns:
   - 日野郡・日野川の名の由来は諸説のままで、確定できる資料は未確認
   - 『出雲国風土記』仁多郡条の「日野」への言及箇所の原文確認は未実施
+  updated: '2026-11-13'
+- id: muni/31-智頭町
+  code: '313289'
+  names:
+    ja: 智頭町
+    reading: ちづちょう
+    aliases:
+    - 智頭宿
+  user_terms:
+  - 智頭宿
+  - 因幡街道
+  - ちづ
+  - 杉の町
+  naming_type: 一部の地名（古来の郡名・地名「智頭」の継承）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 町名は古来の郡名・地名「智頭」による。町公式の歴史ページによれば、『日本後紀』（808年）には智頭郡の駅馬の記録が見え、奈良時代から交通の要衝であった。江戸時代は因幡街道の宿場町・智頭宿として栄えた。1914年（大正3年）6月1日に智頭村が町制を施行して智頭町となり、1954年（昭和29年）に山郷村を編入して現在の町域になった。
+  first_attestation:
+    era: 大同3年
+    year_western: 808
+    document: 『日本後紀』
+    note: 智頭町公式の歴史ページは、『日本後紀』（808年）に智頭郡の駅馬の記録があると紹介している（原文は未読のため紹介形で記録）。「智頭」の語源自体は未確認
+  claims:
+  - text: 智頭町公式の歴史ページは、『日本後紀』（808年）に智頭郡の駅馬の記録があることから、この時代には既に交通の要衝地であったことがうかがえると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-chizu-town-history
+  - text: 町公式の歴史ページは、平安時代の『時範記』に、因幡国主が国府に向かう際に智頭町の志戸坂峠で国主を迎える「境迎え」の儀式が行われたという記録が残ると紹介している。智頭が因幡国の南の玄関口であったことを示す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-chizu-town-history
+  - text: 江戸時代、智頭は因幡街道の宿場町（智頭宿）として栄え、宿場のはずれには関屋の番所が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-chizu-town-history
+  - text: 戦国時代の智頭は尼子氏・毛利氏と織田氏（秀吉）の最前線となり、町内には27もの山城跡が確認されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-chizu-town-history
+  - text: 1888年（明治21年）に智頭村・富沢村・大内村・山郷村・虫井村・中田村・那岐村の7村が誕生し、1914年（大正3年）6月1日に智頭村が町制を施行して智頭町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-chizu-town-100th
+  - text: その後、富沢村の編入を経て、1954年（昭和29年）7月に山郷村が編入し、現在の智頭町の区域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q5-chizu-town-100th
+  - text: 智頭町の地方公共団体コードは313289である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 駅馬の記録から千年
+    text: 智頭の名は、少なくとも808年の『日本後紀』の駅馬の記録まで遡れる。駅が置かれるほどの交通の要衝で、平安時代には国司を峠で迎える「境迎え」の地、江戸時代には因幡街道最大級の宿場・智頭宿として、因幡の南の玄関口であり続けた。語源は今も確かめられていないが、千二百年にわたり街道の結節点であり続けたことが、この地名の実質的な意味になっている。
+    sources:
+    - q5-chizu-town-history
+    - q5-chizu-town-100th
+  relations:
+  - pref/31
+  unknowns:
+  - 「智頭」の語源は諸説あるとされるが、本バッチでは専門資料による確認ができなかった
+  - 『日本後紀』の駅馬記録の原文は未読（智頭町公式ページの紹介による確認にとどまる）
+  updated: '2026-11-13'
+- id: muni/31-江府町
+  code: '314030'
+  names:
+    ja: 江府町
+    reading: こうふちょう
+    aliases: []
+  user_terms:
+  - 江府
+  - こうふ
+  - 奥大山の町
+  naming_type: 合併新設
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 鳥取県日野郡の町。1953年（昭和28年）に江尾町・米沢村・神奈川村が合併して発足した。町名「江府」は、町内を流れる日野川・俣野川・船谷川・小江尾川などの河川が合流して中心（府）をなすところから名付けられた、と町公式が説明する新設名である。中心地の名は合併前の江尾町の「江尾（えび）」として大字に残る。
+  first_attestation:
+    era: 昭和28年
+    year_western: 1953
+    document: 1953年6月1日の合併による町名の新設（江府町公式の沿革による）
+    note: 町名「江府」自体の初出＝命名そのもの。元の集落名「江尾」の文献上の初出は本バッチでは確認できなかった
+  claims:
+  - text: 江府町公式の沿革によれば、1953年（昭和28年）6月1日に旧江尾町・旧米沢村・旧神奈川村が合併して江府町となり、1954年（昭和29年）4月には旧日光村の一部とも合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kofu-town-gaiyo
+  - text: 町名「江府」の由来について、江府町公式は「町内を流れる日野川、俣野川、船谷川、小江尾川にちなみ『河川が合流し府（中心）となす』の意味で名付けられた」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kofu-town-gaiyo
+  - text: 町の中心地は旧江尾町の大字江尾（えび）で、町役場も江尾に置かれている。合併で消えた中心地の名は大字名として残った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kofu-town-gaiyo
+  - text: 江府町の町章は、町名の読み「コ」「ウ」「フ」を図案化したものである（江府町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kofu-town-gaiyo
+  - text: 江府町公式の位置説明によれば、江府町は大山の南側の麓に位置し、この一帯は「奥大山」と呼ばれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kofu-town-gaiyo
+  - text: 江府町の地方公共団体コードは314030である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 川が集まって「府」になる
+    text: 江府町の名は、合併前のどの町村の名でもない。日野川に俣野川・船谷川・小江尾川が合流する地形に着目し、「河川が合流し府（中心）となす」という意味を込めて1953年の合併で新しく作られた。一方、町の中心地の名は合併前の江尾町以来の「江尾（えび）」で、いまも町役場の住所と大字名に生きている。新名と旧名が町の顔を分け合っている。
+    sources:
+    - q6-kofu-town-gaiyo
+  relations:
+  - pref/31
+  - muni/31-琴浦町
+  unknowns:
+  - 中心地の旧名「江尾（えび）」の文献上の初出と語源は、本バッチの調査範囲（町公式・一般資料）では確認できなかった
+  - 1953年の合併時に「江府」以外の町名候補があったかどうかは、確認できる公的資料がなかった
+  updated: '2026-11-13'
+- id: muni/31-湯梨浜町
+  code: '313700'
+  names:
+    ja: 湯梨浜町
+    reading: ゆりはまちょう
+    aliases: []
+  user_terms:
+  - 湯梨浜
+  - ゆりはま
+  - はわい温泉の町
+  naming_type: 合併新設
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 鳥取県東伯郡の町。2004年（平成16年）に羽合町・泊村・東郷町が合併して発足した。町名「湯梨浜」は、東郷湖から湧き出る温泉（湯）、特産の二十世紀梨（梨）、日本海に広がる砂浜（浜）という新しい町の特色を組み合わせて名づけられた合成名である。合併で消えた泊村は鳥取県の村で、北海道の同名の泊村とは別の自治体だった。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 2004年10月1日の合併による町名の新設（町名自体は2002年12月に東郷湖周地域合併協議会で決定）
+    note: 町名「湯梨浜」の初出＝命名そのもの
+  claims:
+  - text: 湯梨浜町公式「町勢要覧」によれば、2004年（平成16年）10月1日に羽合町・泊村・東郷町の3町村が合併して湯梨浜町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yurihama-seiyoran
+  - text: 新町の名前「湯梨浜」は、合併に先立つ2002年（平成14年）12月に東郷湖周地域合併協議会で決定された（湯梨浜町公式「町勢要覧」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yurihama-seiyoran
+  - text: 町名「湯梨浜」の由来について、湯梨浜町観光協会は「東郷湖から湧き出る温泉、大地がはぐくむ二十世紀梨、そして日本海に広がる白い砂浜」という新しい町の特色をイメージして名づけたものと説明する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q6-yurihama-kankou-gaiyo
+  - text: 合併で消滅した泊村は、1918年（大正7年）に久津賀村・三橋村・泊村の3か村が合併して誕生した鳥取県東伯郡の村であり（湯梨浜町公式「町勢要覧」）、北海道後志・根室の同名の泊村とは別の自治体である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yurihama-seiyoran
+  - text: 全国に普及したグラウンドゴルフは、1982年（昭和57年）に旧泊村の教育委員会が中心となって考案した競技であり、発祥の地は現在の湯梨浜町泊地区である（湯梨浜町公式「町勢要覧」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yurihama-seiyoran
+  - text: 湯梨浜町には羽衣天女伝説が伝わる。東郷池の景観に惚れ込んだ天女が近くの羽衣石山に降臨し、羽衣を隠した男と結婚して子を授かったが、やがて羽衣のありかを見つけ、天界へ去ったという話で、町の公式広報もこの伝説を紹介し、町のイメージキャラクター「ゆりりん」のモチーフとしている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q6-yurihama-koho-tennyo
+  - text: 湯梨浜町の地方公共団体コードは313700である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた泊村と、残った泊村
+    text: 2004年の合併で姿を消した鳥取県の泊村は、日本海に面した漁港の村だった。同じ「泊村」という名の自治体は北海道にもあり、こちらは今も存続している。鳥取の泊村は、名こそ新しい町名「湯梨浜」に譲ったが、1982年にこの村の教育委員会が考案したグラウンドゴルフは全国の高齢者に愛される競技として広がり、発祥の地・泊地区には「潮風の丘とまり」という公園が残る。
+    sources:
+    - q6-yurihama-seiyoran
+  relations:
+  - pref/31
+  - muni/31-琴浦町
+  unknowns:
+  - 町名候補の公募で「湯梨浜」が何件の応募から選ばれたかなど、選定過程の詳細は本バッチでは確認できなかった
+  - 旧泊村の「泊」という地名自体の文献上の初出は確認できなかった
+  updated: '2026-11-13'
+- id: muni/31-琴浦町
+  code: '313718'
+  names:
+    ja: 琴浦町
+    reading: ことうらちょう
+    aliases: []
+  user_terms:
+  - 琴浦
+  - ことうら
+  - 船上山の町
+  naming_type: 合併新設
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 鳥取県東伯郡の町。2004年（平成16年）に東伯町と赤碕町が合併して発足した。町名「琴浦」は、かつて町の海岸一帯が「琴ノ浦（ことのうら）」と呼ばれていたことに由来すると町公式が説明する。「琴ノ浦」の名の起こりには、国譲りの言問（こととい）の使いが天から降った場所という伝説にちなむ「言問ノ浦」が縮まり、字も「言」から「琴」に変わったという言い伝えと、波の音が琴の音に似ていたからという言い伝えがある。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 2004年9月1日の合併による町名の新設（公募の最終候補3点から「琴浦」を選定）
+    note: 町名「琴浦」の初出＝命名そのもの。元の海岸地名「琴ノ浦」の文献上の初出は本バッチでは確認できなかった
+  claims:
+  - text: 琴浦町公式の計画書によれば、琴浦町は2004年（平成16年）9月1日に旧東伯町と旧赤碕町が合併してできた町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kotoura-kaso-plan
+  - text: 町名「琴浦」の由来について、琴浦町公式は「かつて琴浦町の海岸一帯が『琴ノ浦（ことのうら）』と呼ばれていたことに由来しています」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kotoura-town-gaiyo
+  - text: 「琴ノ浦」の名の起こりとして、町公式は、天照大神が国譲りのために派遣した言問（こととい）の使いが天より降った場所であるとの伝説から「言問ノ浦（ことといのうら）」と呼ばれ、後世に「言問」が縮まって「言ノ浦」となり、さらに「言」が「琴」に変化して「琴ノ浦」となったと言われている、と紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q6-kotoura-town-gaiyo
+  - text: 「琴ノ浦」の名の起こりにはこのほか、海岸に寄せては返す波の音が琴を弾いた音のようであったことから呼ばれるようになった、という言い伝えも町公式が併せて紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q6-kotoura-town-gaiyo
+  - text: 琴浦町の町章は、琴ノ浦の海岸線と緑の大地を「こと」の文字でまとめたもので、全国公募1,206点の中から決定された（琴浦町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kotoura-town-gaiyo
+  - text: 町域の船上山は、1333年に隠岐へ流されていた後醍醐天皇が脱出して挙兵し、建武の新政の礎となった地である（琴浦町公式の計画書）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kotoura-kaso-plan
+  - text: 琴浦町の地方公共団体コードは313718である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「言問」が「琴」に変わった町名
+    text: 琴浦という町名の核は、海岸の古い呼び名「琴ノ浦」にある。町の説明では、その起こりは出雲国譲りの神話にまで遡る。天の使い「言問（こととい）」が降りた浦だから「言問ノ浦」、それが縮まって「言ノ浦」、字も「言」から「琴」に姿を変えて「琴ノ浦」になったという。2004年の合併で新町名を公募した際、最終候補には旧町域の中心「八橋」も残ったが、選ばれたのはこの神話の地名だった。
+    sources:
+    - q6-kotoura-town-gaiyo
+    - q6-kotoura-uub
+  relations:
+  - pref/31
+  - muni/31-湯梨浜町
+  - muni/32-隠岐の島町
+  unknowns:
+  - 海岸地名「琴ノ浦」の文献上の初出（『伯耆国風土記』等の古記録にどう現れるか）は本バッチでは確認できなかった
+  - 「琴ノ浦」の別名とされる「方見ノ浦」の由来は町公式も示しておらず未確認
   updated: '2026-11-13'
 - id: muni/31-米子市
   code: '312021'
@@ -366,6 +1277,90 @@ records:
   - 米子の語源を確定できる一次資料は確認できていない（地名大系も「定説を欠く」とする）
   - 天正3年（1575年）より前の時代の「米子」の用例は未確認
   - 米子市公式サイトに地名の由来を独立して解説するページは確認できなかった
+  updated: '2026-11-13'
+- id: muni/31-若桜町
+  code: '313254'
+  names:
+    ja: 若桜町
+    reading: わかさちょう
+    aliases: []
+  user_terms:
+  - 若桜
+  - わかさ
+  - 若桜宿
+  - 若桜鬼ヶ城
+  naming_type: 一部の地名（古代の郷名「若桜郷」の継承）
+  prefecture: 鳥取県
+  homonyms: []
+  summary: 鳥取県八頭郡の町。名は平安時代の『和名類聚抄』に見える八上郡若桜郷に遡る古い地名である。由来については、履中天皇の「伊波礼若桜宮」に奉仕した集団「若桜部（わかさくらべ）」がこの地に住んだことに因むという説が最も有力と町の観光サイトが紹介し、町公式も地名は古姓・若桜から出たものとする。読みは「わかさ」で、福井県の若狭町と同じ読みだが、字も由来も異なる別の自治体である。
+  first_attestation:
+    era: 平安時代（承平年間）
+    year_western: null
+    document: 『和名類聚抄』八上郡若桜郷
+    note: 『和名類聚抄』の成立は承平年間（931〜938年）とされ、若桜町観光サイトはこれを「若桜郷」の記載の最初とする。年が特定できないため year_western は null とした。記載は二次資料経由の確認である
+  claims:
+  - text: 若桜町観光サイトによれば、「若桜」の名は平安時代の『和名類聚抄』に「若桜郷」として記載されたのが最初と言われ、町公式の紹介も『和名抄』に八上郡若桜郷とあることを挙げる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-wakasa-kanko-name
+    - q6-wakasa-town-intro
+  - text: 若桜はもともと村の名ではなく、27か村からなる郷の名であった。現在の若桜の中心街はかつて山田村・溝見村などと呼ばれていた（若桜町公式の紹介）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-wakasa-town-intro
+  - text: 地名「若桜」の由来として、若桜町観光サイトは、『日本書紀』及び『古事記』の履中天皇の項にある「伊波礼若桜宮」に奉仕した「若桜部（わかさくらべ）」がこの地に居住したことに因むという説を、諸説の中で最も有力な説として紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - q6-wakasa-kanko-name
+  - text: 若桜町公式の紹介は『郡郷考』を引き、若桜を「和加佐（わかさ）」と読み、古姓・若桜部に因むから読みは昔から「わかさ」であり、地名若桜は姓の若桜から出たものと思われる、とする。また東大寺への進上記録から、奈良時代には因幡に若桜氏がいたとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-wakasa-town-intro
+  - text: 若桜鬼ヶ城は正治2年（1200年）に矢部氏が鶴尾山に築いたのが始めとされ、元和3年（1617年）に一国一城令で廃城となって以後、若桜は宿場町として発展した（若桜町公式の紹介）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-wakasa-town-intro
+  - text: 現在の若桜町は、1909年（明治42年）に若桜村・赤松村・菅野村が合併して発足し、1954年（昭和29年）に池田村と合併した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q6-wakasa-wiki
+  - text: 若桜町の読み「わかさ」は福井県若狭町と同じだが、若桜町は「桜」の字を用いる別の自治体で、両者の名の由来は関係しない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - q6-wakasa-town-intro
+  - text: 若桜町の地方公共団体コードは313254である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「わかさ」は若桜と若狭、二つある
+    text: 読みがまったく同じ「わかさ」でも、鳥取県の若桜町と福井県の若狭町は別の町である。若桜の「桜」は桜の木とは直接関係がなく、天皇の宮に仕えた集団「若桜部」の名に由来すると町の資料は言う。かつては「和加佐」とも書かれた読みが千年以上受け継がれ、城下町・宿場町として栄えた町の名になった。福井の若狭町が旧国名「若狭」をそのまま町名にした平成合併の名であるのとは、成り立ちがまったく異なる。
+    sources:
+    - q6-wakasa-town-intro
+    - q6-wakasa-kanko-name
+  relations:
+  - pref/31
+  - muni/18-若狭町
+  unknowns:
+  - 若桜部がこの地に置かれた経緯を直接示す一次史料は、町公式資料の紹介の範囲を超えては確認できなかった
+  - 『新撰姓氏録』に若桜部がどう記されるか、原文は未確認である
   updated: '2026-11-13'
 - id: muni/31-鳥取市
   code: '312011'
@@ -511,3 +1506,123 @@ sources:
   q1-sakaiminato-localhistoria:
     label: ローカルヒストリア「境港市の歴史」（「境」の語源の国境説・内海と外海の境説、中世の表記の揺れ、鳥取藩の番所・廻米役所、1954年の境港町発足、水木しげるロード）
     url: https://local-historia.jp/tottori/sakaiminato
+  q5-chizu-town-100th:
+    label: 智頭町公式「町制100周年の歩み」（1888年に智頭村・富沢村・大内村・山郷村・虫井村・中田村・那岐村の7村が誕生したこと、1914年6月1日に智頭町制を施行したこと、富沢村の編入を経て1954年7月に山郷村が編入し現在の智頭町に至ることなど）
+    url: https://www1.town.chizu.tottori.jp/chizu/soumu/100th
+  q5-chizu-town-history:
+    label: 智頭町公式「まちの歴史」（『日本後紀』（808年）に智頭郡の駅馬の記録があり交通の要衝だったこと、『時範記』に志戸坂峠での「境迎え」の記録が残ること、戦国時代に最前線となり27の山城跡が確認されていること、江戸時代に宿場町として栄え関屋の番所跡があることなど）
+    url: https://www1.town.chizu.tottori.jp/chizu/kikaku/about_chizu/history
+  q5-daiei-wiki:
+    label: Wikipedia「大栄町 (鳥取県)」（1955年5月1日に大誠村・栄村が合併して大栄町が発足したこと、1959年4月1日に由良町と合併して改めて大栄町が発足したこと、2005年10月1日に北条町と合併して北栄町が発足したことなど）
+    url: http://ja.wikipedia.org/wiki/大栄町_(鳥取県)
+  q5-daisen-env:
+    label: 環境省 大山隠岐国立公園「大山寺と大神山神社」（733年に編纂された『出雲国風土記』では大山は神々が住む山と記されていること、718年に金蓮上人が地蔵権現を祀り大山寺を創建したこと、平安時代に牛馬信仰が広まったこと、大神山神社奥宮への自然石の石畳の参道は700mで日本最長であること）
+    url: http://chushikoku.env.go.jp/park/daisen/viewpoint/daisenji_temple/index.html
+  q5-daisen-enwiki:
+    label: 英語版Wikipedia「Daisen (mountain)」（733年の『出雲国風土記』ではこの山は「大神岳（Ōgami-take）」と呼ばれていたこと、「Daisen」は漢字「大山」の漢語系の読みであること、見る側の旧国により伯耆富士・出雲富士とも呼ばれること、大山寺は718年に創建されたとされることなど）
+    url: https://en.wikipedia.org/wiki/Daisen_(mountain)
+  q5-daisen-estat:
+    label: 政府統計の総合窓口（e-Stat）廃置分合等情報「鳥取県 大山町」（2005年3月28日に大山町・名和町・中山町が合併し、大山町を新設したこと）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/31386
+  q5-daisen-uub:
+    label: 市区町村変遷情報（uub.jp）「大山町（1955〜2005年）」（1955年11月3日に大山村・大山町が合併して大山町が生まれたこと、2005年3月28日に名和町・中山町と合併して大山町になったことなど）
+    url: https://uub.jp/upd/c/3556.html
+  q5-daisenji-wiki:
+    label: Wikipedia「大山寺 (鳥取県大山町)」（養老2年（718年）に金蓮上人によって開かれたとされること、『大山寺縁起』によれば俊方が大山で射た鹿が実は地蔵尊であったと知って出家したという開創縁起、大山は仏教伝来以前から強力な神が住む山として崇められたことなど）
+    url: http://ja.wikipedia.org/wiki/大山寺_(鳥取県大山町)
+  q5-hiezu-pref-tokei:
+    label: 鳥取県統計課「市町村の変遷」（日吉津村は明治22年10月1日に会見郡の日吉津村・富吉村・今吉村をもって村制を施行して発足したこと、その後の廃置分合の記録がないことなど）
+    url: https://www.pref.tottori.lg.jp/secure/1200845/000001201910107.pdf
+  q5-hiezu-wiki:
+    label: Wikipedia「日吉津村」（近世に今吉・富吉の地域が開拓されたこと、農民の多くは日吉津村大神宮（日吉津伊勢宮）の神田を耕したこと、江戸時代は川越場でありマスやサケが特産品として知られたことなど）
+    url: https://ja.wikipedia.org/wiki/日吉津村
+  q5-hojo-wiki:
+    label: Wikipedia「北条町 (鳥取県)」（1954年6月1日に中北条村・下北条村が合併して北条町が発足したこと、2005年10月1日に大栄町と合併して北栄町が発足したことなど）
+    url: http://ja.wikipedia.org/wiki/北条町_(鳥取県)
+  q5-hokuei-gamf:
+    label: 青山剛昌ふるさと館 公式チラシ（「名探偵コナンの作者・青山剛昌の出身地 鳥取県北栄町」と明記し、コナン駅（JR由良駅）、コナン通り、青山剛昌ふるさと館（北栄町由良宿）を紹介）
+    url: https://www.gamf.jp/files/W025_2024050313015256779.pdf
+  q5-hokuei-ndl:
+    label: Web NDL Authorities「北栄町 (鳥取県)」（2005年10月に北条町（鳥取県）と大栄町（鳥取県）が合併し、北栄町（鳥取県）となる、という注記）
+    url: https://id.ndl.go.jp/auth/ndlna/001322203
+  q5-hokuei-tayori:
+    label: 北条町・大栄町合併協議会「合併協議会だより」第14号（2005年10月1日の合併に向けた協議会の広報。「コナンに会えるまち・大栄町」を掲げた合併記念事業の告知など）
+    url: http://www2.e-hokuei.net/gappei/tayori/tayori_14.pdf
+  q5-hokuei-uub:
+    label: 市区町村変遷情報（uub.jp）「北栄町」（2005年10月1日に北条町・大栄町が合併して北栄町が発足したこと、新町名の公募上位10点は北栄（ほくえい）・中央・大北（だいほく）・北栄（ほうえい）・砂丘・コナン・北大（ほうだい）・豊栄（ほうえい）・大条（だいじょう）・大北（だいほう）であったことなど）
+    url: https://uub.jp/upd/c/1017.html
+  q5-houki-meti:
+    label: 中国経済産業局「経営発達支援計画の概要（伯耆町商工会）」（平成17年1月1日に岸本町・溝口町の2町が合併して伯耆町が誕生したこと、町名の由来は当町から望む「伯耆富士」「伯耆大山」の眺望が町の誇りであること、国立公園大山と日野川に囲まれた立地であること）
+    url: https://www.chugoku.meti.go.jp/r7fy/topic/keiei/pdf/t-tottori06.pdf
+  q5-houki-pr:
+    label: 伯耆町公式 町長コラム（2025年8月）（『伯耆（ほうき）町は本気（ほんき）町』を掲げる町のPR、「伯耆町」と示したときに初見で「ほうきちょう」と読める人は少ないだろうという町自身の言及など）
+    url: https://www.houki-town.jp/new1/10/2/g130/w128/a217
+  q5-houki-pref:
+    label: 鳥取県公式「合併に伴う住所表記一覧」（伯耆町は平成17年1月1日に西伯郡岸本町・日野郡溝口町が合併して誕生し、西伯郡に属すること、「岸本町福岡」が「伯耆町福岡原」に変更されたことなど）
+    url: https://www.pref.tottori.lg.jp/item/182174.htm
+  q5-houki-town-intro:
+    label: 伯耆町公式「伯耆町の紹介」（西伯郡岸本町と日野郡溝口町が平成17年1月1日に合併して伯耆町となったこと、「伯耆」は旧国名「伯耆国」のなごりであり、当町から望む「伯耆富士」「伯耆大山」の眺望が町の誇りであることから「伯耆町」と命名したこと、「ほうき」の語源は「山脚が断崖となって水に落ちるところ」など諸説あることを記す）
+    url: https://www.houki-town.jp/new1/1/1
+  q5-iwami-gun-wiki:
+    label: Wikipedia「岩美郡」（1896年4月1日に郡制の施行のため邑美郡・法美郡・岩井郡の区域をもって岩美郡が発足したこと、現在の岩美郡は岩美町のみで構成されることなど）
+    url: https://ja.wikipedia.org/wiki/岩美郡
+  q5-iwami-wiki:
+    label: Wikipedia「岩美町」（1954年7月1日に岩美郡の田後村・東村・浦富町・蒲生村・岩井町・小田村・本庄村・大岩村・網代村が合併して岩美町が発足したこと、鳥取県の最東端に位置し浦富海岸は山陰海岸国立公園・山陰海岸ジオパークの一部であることなど）
+    url: https://ja.wikipedia.org/wiki/岩美町
+  q5-misasa-ndl:
+    label: 国立国会図書館 電子展示会「日本の見どころ 三朝」（三徳山と三朝温泉が2015年に日本遺産「六根清浄と六感治癒の地」に認定されたこと、三朝温泉が世界屈指のラドン泉であることなどを紹介）
+    url: https://www.ndl.go.jp/landmarks/sights/misasa
+  q5-misasa-town-pdf:
+    label: 三朝町「三朝小唄 三朝慕情」（三朝温泉の由来として「三たび朝を迎えるころには病が消える」という言い伝えと、大久保左馬之祐が白い狼を助けて株湯を発見したという発祥伝説を紹介する町公式資料）
+    url: http://www.town.misasa.tottori.jp/files/31015.pdf
+  q5-misasa-wiki:
+    label: Wikipedia「三朝町」（1889年に河村郡5村の合併で三朝村が発足したこと、1953年に三朝村・三徳村・小鹿村・旭村・竹田村の合併で三朝町が発足したこと、2003年に合併協議会から離脱したことなど）
+    url: https://ja.wikipedia.org/wiki/三朝町
+  q5-misasamura-wiki:
+    label: Wikipedia「三朝村 (鳥取県)」（『角川日本地名大辞典 31 鳥取県』729-730頁を典拠に「地名の由来：郷名の三朝庄にちなむ」と記す）
+    url: https://ja.wikipedia.org/wiki/三朝村_(鳥取県)
+  q5-nichinan-ndl:
+    label: Web NDL Authorities「日南町 (鳥取県)」（1959年4月に伯南町・多里村・石見村・福栄村・高宮村が合併し、日南町となる、という注記）
+    url: https://id.ndl.go.jp/auth/ndlna/00406931
+  q5-nichinan-wiki:
+    label: Wikipedia「日南町」（1959年に新市町村建設促進法に基づく合併により誕生したこと、日野郡に属し郡域の南部に位置していることが町名の由来であること、一級河川日野川の源流域にあたること、宮崎県の日南市とは異なる自治体であることなど）
+    url: https://ja.wikipedia.org/wiki/日南町
+  q5-yazu-gun-wiki:
+    label: Wikipedia「八頭郡」（1896年4月1日に郡制の施行のため八上郡・八東郡・智頭郡の区域をもって八頭郡が発足したことなど）
+    url: https://ja.wikipedia.org/wiki/八頭郡
+  q5-yazu-town-origin:
+    label: 八頭町公式「八頭町の名前の由来について」（新町名は住民募集とアンケートで決まり、最終候補5点は因幡町・扇野町・須賀野町・八頭町・八頭東町で「八頭町」が最も多く選ばれたこと、理由は「八頭郡という地名が昔からあり住民になじみの名前だった」こと、郡家町・船岡町・八東町が合併して平成17年3月31日に誕生したこと）
+    url: https://www.town.yazu.tottori.jp/soshiki/3/1110.html
+  q5-yazu-uub:
+    label: 市区町村変遷情報（uub.jp）「八頭町」（2005年3月31日に船岡町・郡家町・八東町が合併して八頭町が発足したこと、新町名の住民アンケート結果は八頭53.1％・因幡21.2％・扇野10.6％・八頭東9.2％・須賀野5.9％であったことなど）
+    url: https://uub.jp/upd/c/1136.html
+  q6-kofu-town-gaiyo:
+    label: 江府町公式「鳥取県江府町の概要」（昭和28年6月1日に旧江尾町・旧米沢村・旧神奈川村が合併して江府町となったこと、更に昭和29年4月に旧日光村の一部と合併したこと、町名の由来は町内を流れる日野川・俣野川・船谷川・小江尾川にちなみ「河川が合流し府（中心）となす」の意味であること、町章は「コ」「ウ」「フ」を図案化したものであること）
+    url: https://www.town-kofu.jp/2/3/5
+  q6-kotoura-kaso-plan:
+    label: 琴浦町「琴浦町過疎地域持続的発展計画」（2004年（平成16年）9月1日に旧東伯町と旧赤碕町が合併してできた町であること、1333年に流罪とされていた後醍醐天皇が隠岐の島を脱出して船上山で挙兵したこと）
+    url: https://www.town.kotoura.tottori.jp/docs/2022111700011/files/kasokeikakudai3kaihenkou.pdf
+  q6-kotoura-town-gaiyo:
+    label: 琴浦町公式「琴浦町の概要」（町名の由来として、かつて琴浦町の海岸一帯が「琴ノ浦（ことのうら）」と呼ばれていたこと、言問の使いの伝説から「言問ノ浦」が縮まって「言ノ浦」となり「言」が「琴」に変化して「琴ノ浦」となったと言われること、海岸に寄せては返す波の音が琴を弾いた音のようであったことから「琴ノ浦」と呼ばれるようになったとも言われること、町章は琴ノ浦の海岸線と緑の大地を「こと」の文字でまとめたものであること）
+    url: https://www.town.kotoura.tottori.jp/docs/2012122300027/
+  q6-kotoura-uub:
+    label: 市区町村変遷情報（uub.jp）「東伯郡 琴浦町」（2004年9月1日に赤碕町・東伯町が合併して琴浦町が生まれたこと、新町名公募の最終候補は琴浦・八橋・やばせの3点で「琴浦町」に決定したこと）
+    url: https://uub.jp/upd/c/446.html
+  q6-wakasa-kanko-name:
+    label: 若桜町観光サイト「若桜町ってどんなところ？（名前の由来）」（「若桜」という名称には諸説があるが、平安時代の承平年間（931〜938年）に作成された『和名類聚抄』に「若桜郷」として記載されたのが最初と言われること、由来としては『日本書紀』及び『古事記』の履中天皇の項にある「伊波礼若桜宮」に奉仕した「若桜部（わかさくらべ）」に因むというのが最も有力な説であること）
+    url: https://kanko.town.wakasa.tottori.jp/feature/wakasacho
+  q6-wakasa-town-intro:
+    label: 若桜町公式「若桜町の紹介」（若桜の名は姓氏録にみえること、『郡郷考』は若桜を和加佐（わかさ）と読み古姓・若桜部に因むとし、地名若桜は姓の若桜から出たものと思われること、『和名抄』に八上郡若桜郷とあり東大寺への進上記録から奈良時代に若桜氏がいたこと、若桜は27か村からなる郷の名で現在の中心街は山田村・溝見村などと呼ばれていたこと、正治2年（1200年）に矢部氏が鶴尾山に城を築いたのが若桜鬼ヶ城の始めであること、元和3年（1617年）に一国一城令で若桜城が廃城となり以来は宿場として発展したこと）
+    url: https://www.town.wakasa.tottori.jp/gyoseijoho/wakasachonogaiyo/662.html
+  q6-wakasa-wiki:
+    label: Wikipedia「若桜町」（1909年（明治42年）4月1日に八頭郡赤松村・若桜村・菅野村が合併して若桜町が発足したこと、1954年（昭和29年）3月1日に池田村と合併し改めて若桜町が発足したこと）
+    url: https://ja.wikipedia.org/wiki/若桜町
+  q6-yurihama-kankou-gaiyo:
+    label: 湯梨浜町観光協会「まちの紹介・概要」（湯梨浜という名前は「東郷湖から湧き出る温泉、大地がはぐくむ二十世紀梨、そして日本海に広がる白い砂浜」という新しい町の特色をイメージして名づけたものであること）
+    url: https://www.yurihama-kankou.jp/まちの紹介/概要
+  q6-yurihama-koho-tennyo:
+    label: 湯梨浜町広報資料（天女キャラクター「ゆりりん」の紹介。町内に残る羽衣天女伝説をモチーフにしたもので、伝説では東郷池の景観に惚れ込んだ天女が近くの羽衣石山に降臨し、羽衣を隠した男と結婚して子を授かったが、羽衣のありかを見つけて天界へ去ったとされること）
+    url: https://www.yurihama.jp/uploaded/attachment/8378.pdf
+  q6-yurihama-seiyoran:
+    label: 湯梨浜町公式「町勢要覧」（平成16年10月1日に羽合町・泊村・東郷町の3町村が合併して湯梨浜町が誕生したこと、平成14年12月に新町の名前が「湯梨浜」に決定したこと、泊村は大正7年（1918年）に久津賀村・三橋村・泊村の3か村が合併して誕生したこと、グラウンドゴルフは昭和57年（1982年）に旧泊村教育委員会が中心となって考案された競技であること）
+    url: https://www.yurihama.jp/uploaded/attachment/4682.pdf

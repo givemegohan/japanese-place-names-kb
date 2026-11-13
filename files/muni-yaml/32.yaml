@@ -77,6 +77,81 @@ records:
   - 語源は確定していない（「出る雲」説が通説だが異論があり、実証されていない）
   - 692年の造像銘以前に「出雲」の名がいつ成立したかは不明
   updated: '2026-11-13'
+- id: muni/32-吉賀町
+  code: '325058'
+  names:
+    ja: 吉賀町
+    reading: よしかちょう
+    aliases: []
+  user_terms:
+  - 吉賀
+  - よしか
+  - 六日市と柿木の合併町
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 島根県鹿足郡の町。2005年（平成17年）に六日市町と柿木村が合併して発足した。町名「吉賀」は町村の名から取ったものではなく、この地域が古くから「吉賀」と呼ばれてきた地域名に由来する。藩政時代には吉賀三領（上領・中領・下領）に属し、郡名「鹿足」の別名としても「吉賀」が広く用いられたとされる。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 2005年10月1日の六日市町・柿木村の合併による町名の新設（地域の古称「吉賀」を採用）
+    note: 町名「吉賀」の初出＝命名そのもの。地域名としての「吉賀」の文献上の初出（中世の吉賀荘・吉賀氏等の用例）は本バッチでは確認できなかった
+  claims:
+  - text: 吉賀町公式によれば、吉賀町は2005年（平成17年）10月1日に旧柿木村と旧六日市町が合併して誕生した町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yoshika-town-shoukai
+  - text: 町名の由来となった地域名について、吉賀町公式は「この地域は古くから『吉賀』と呼ばれ、藩政時代は吉賀三領『上領』『中領』『下領』に属した」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yoshika-kaso-plan
+  - text: 郡名「鹿足」は万葉仮名で「加乃阿之（かのあし）」と訓じられ、この地を指す別名として「吉賀（よしか）」も広く用いられた。その「吉賀」が、六日市町と柿木村の合併でできた新自治体の名に採用された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q6-yoshika-kanoashi-wiki
+  - text: 旧六日市町は古くから山陰と山陽を結ぶ交通の要衝として発展し、藩政時代には参勤交代の宿場町として栄えた。1954年（昭和29年）に朝倉村・蔵木村と合併し、1956年（昭和31年）に七日市村を編入した（吉賀町公式の計画書）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yoshika-kaso-plan
+  - text: 旧柿木村は1889年（明治22年）に村制を施行して以来、2005年の合併まで行政区域を変えることなく続いた村であった（吉賀町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yoshika-town-shoukai
+  - text: 吉賀町の町章は「吉」の字をモチーフに円を基調とし、緑色は森林、青色は水、黄色は太陽を示す（吉賀町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-yoshika-town-shoukai
+  - text: 吉賀町の地方公共団体コードは325058である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 町村の名でなく「地域の名」を採った合併
+    text: 2005年の合併では、宿場町として知られた六日市でも、116年区域を変えなかった柿木でもなく、両町村に共通する古い地域名「吉賀」が新町名に選ばれた。江戸時代の吉賀三領（上・中・下）という区分に残っていた名であり、郡名「鹿足（かのあし）」の別名としても古くから用いられたという。町村の名が消えても地域の名が残る、平成合併では比較的珍しい命名の型である。
+    sources:
+    - q6-yoshika-kaso-plan
+    - q6-yoshika-kanoashi-wiki
+  relations:
+  - pref/32
+  - muni/32-津和野町
+  unknowns:
+  - 地域名「吉賀」の文献上の初出（中世の荘園・吉賀氏の記録等）は本バッチでは確認できなかった
+  - 「吉賀」の語源そのもの（なぜ吉賀と呼ばれたか）は町公式資料にも示されておらず未確認
+  updated: '2026-11-13'
 - id: muni/32-大田市
   code: '322059'
   names:
@@ -143,6 +218,83 @@ records:
   - 邑（おおだ）郷の「おおだ」という地名そのものの語源は確認できなかった
   - 1956年（昭和31年）の大森町編入に至る合併協議の経緯は確認できなかった
   updated: '2026-11-13'
+- id: muni/32-奥出雲町
+  code: '323438'
+  names:
+    ja: 奥出雲町
+    reading: おくいずもちょう
+    aliases: []
+  user_terms:
+  - 奥出雲
+  - おくいずも
+  - 仁多と横田の合併町
+  - たたらの町
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 島根県仁多郡の町。2005年（平成17年）に仁多町と横田町が合併して発足した。町名「奥出雲」は、出雲の奥地を指す地域名をそのまま採ったもので、新町名の全国公募で最も多くの応募を集めた。町域は斐伊川の源流域にあたり、『出雲国風土記』に郷名が見える古代からの地で、砂鉄とたたら製鉄の地として知られる。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 2005年3月31日の仁多町・横田町の合併による町名の新設（全国公募で選定、2005年2月16日に合併協議会が確認）
+    note: 町名「奥出雲」の初出＝命名そのもの。地域名「奥出雲」がいつから用いられたかは本バッチでは確認できなかった
+  claims:
+  - text: 奥出雲町公式によれば、2005年（平成17年）3月31日に仁多町・横田町が合併して新町「奥出雲町」が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-okuizumo-town-gappei
+  - text: 新町名は全国公募で選ばれた。奥出雲町広報によれば名称選定には全国から1,795点・320種類の候補が寄せられ、「奥出雲町」には374点の応募があり、2005年2月16日に合併協議会が新町名「奥出雲町」を確認した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-okuizumo-koho2005
+    - q6-okuizumo-uub
+  - text: 合併に先立ち、当初は雲南広域の10町村での合併が検討されたが断念され、仁多郡2町での合併として再出発した経緯がある
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q6-okuizumo-uub
+  - text: 「奥出雲」は出雲の奥地を指す地域名であり、町は中国山地に連なる斐伊川とその支流の流域に位置する
+    kind: fact
+    level: E4
+    status: inferred
+    sources:
+    - q6-okuizumo-jtb
+  - text: 町域にあたる仁多郡は古代出雲国の一郡で、天平5年（733年）成立とされる『出雲国風土記』には三處郷・布勢郷・三澤郷・横田郷の4郷が記される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q6-okuizumo-nita-wiki
+  - text: この地は古くから砂鉄採取とたたら製鉄で知られ、明治初めまでわが国有数のたたら製鉄の産地として栄えた。『出雲風土記』には鉄の産出地として記されていると紹介される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-okuizumo-jtb
+  - text: 奥出雲町の地方公共団体コードは323438である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 公募1,795点から選ばれた「奥出雲」
+    text: 平成の大合併では珍しく、奥出雲町の名前は全国公募で決まった。寄せられた1,795点・320種類の候補の中で「奥出雲町」は374点と突出し、名付け親大賞には町内在住の応募者が選ばれた。当初は雲南地域10町村の大合併を目指しながら破談し、庁舎の置き場所でも両町が譲らなかった末の着地点が、どちらの町の名でもない「出雲の奥」という地域の呼び名だった。斐伊川の源流域で、風土記に鉄の産地と記された土地らしい選択である。
+    sources:
+    - q6-okuizumo-koho2005
+    - q6-okuizumo-uub
+  relations:
+  - pref/32
+  - muni/32-雲南市
+  unknowns:
+  - 地域名としての「奥出雲」の使用開始時期（近世の用例の有無等）は本バッチでは確認できなかった
+  - 公募で「奥出雲」に次いだ候補名の内訳は町広報の範囲では確認できなかった
+  updated: '2026-11-13'
 - id: muni/32-安来市
   code: '322067'
   names:
@@ -206,6 +358,88 @@ records:
   unknowns:
   - 「やすぎ」という読み・地名の言語学的な語源（風土記の由来譚以外）は、今回参照した公的資料では確認できなかった
   - 『出雲国風土記』安来郷の条の原文は直接確認しておらず、市の統計書の紹介に拠っている
+  updated: '2026-11-13'
+- id: muni/32-川本町
+  code: '324418'
+  names:
+    ja: 川本町
+    reading: かわもとまち
+    aliases: []
+  user_terms:
+  - 川本
+  - かわもと
+  - かわもとまち
+  - 江の川の町
+  naming_type: 一部の地名（江の川のほとりの地名の継承）
+  prefecture: 島根県
+  homonyms: []
+  summary: 島根県邑智郡の町。中国地方最大の河川・江の川の中流に位置する。町名「川本」について町公式資料は、「川」は江の川の「川」、「本」は「ほとり」の意味で、江の川のほとりに人々が住みついたためできた地名といわれると紹介する。読みは「かわもとまち」で、1927年の町制施行以来の正式呼称であり、平成の大合併後は島根県内で町を「まち」と読む唯一の町となった。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 川本村と因原村の合併による川本村の成立（川本の村名自体はそれ以前から存在した）
+    note: 1889年は現在の町域につながる村の成立年であり、地名「川本」そのものの文献上の初出は本バッチでは確認できなかった
+  claims:
+  - text: 町名「川本」の由来について、川本町公式資料は出典「島根県の地名鑑」として、「川」は江の川の「川」であり、「本」は「ほとり」という意味で、江の川のほとりに人々が住みつくようになったため「川本」という地名ができたといわれている、と紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - q6-kawamoto-town-yoran
+  - text: 川本は江の川の水運の中継地として発展し、江戸時代中期から明治にかけて「たたら製鉄」の生産地として早くから町が形成され、石東地方一帯の中心地であった（川本町公式資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kawamoto-town-yoran
+  - text: 天領行政の開始とともに川本は石見銀山領に編入され口留番所が設けられ、明治5年（1872年）には邑智郡役所が置かれて、国・県の地方機関の集積により邑智郡の行政・経済の中心となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q6-kawamoto-sabo
+  - text: 川本町広報によれば、1889年（明治22年）に川本村と因原村が合併して川本村となり、1927年（昭和2年）4月に町制を施行して「川本町（かわもとまち）」と呼称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kawamoto-koho2022
+  - text: 1955年（昭和30年）4月に川本町・川下村・三原村・三谷村・大代村が合併し、1956年（昭和31年）9月に祖式村の一部（川内・小谷・馬野原）を編入した（川本町公式資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kawamoto-town-yoran
+  - text: 読み「かわもとまち」は1927年の町制施行時に定めた正式呼称である。平成の大合併により、島根県内で町を「まち」と呼称するのは川本町のみになった（川本町広報）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-kawamoto-koho2022
+  - text: 川本町は平成の大合併で法定協議会を設置して近隣町村との合併を目指したが、2003年（平成15年）12月に合併を断念し、単独町制を選択した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q6-kawamoto-sabo
+  - text: 川本町の地方公共団体コードは324418である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県内唯一の「まち」――かわもとまち
+    text: 島根県の町はすべて「ちょう」と読む。ただ一つ、川本町だけが「かわもとまち」である。1927年に町制を施行したとき定めた呼称で、当時は県内28町のうち27町が「まち」だった。昭和の大合併で「ちょう」への変更が進み、平成の大合併で残りの5町も姿を消すと、ついに県内で唯一の「まち」になった。広報紙がわざわざ「川本『まち』？川本『ちょう』？」と特集するほど、町のアイデンティティになっている。
+    sources:
+    - q6-kawamoto-koho2022
+  relations:
+  - pref/32
+  - muni/32-邑南町
+  - muni/32-美郷町
+  unknowns:
+  - 地名「川本」の文献上の初出（近世の川本村の記録等）は本バッチでは確認できなかった
+  - 「本＝ほとり」説以外の語源説の有無は確認できなかった
   updated: '2026-11-13'
 - id: muni/32-松江市
   code: '322016'
@@ -522,6 +756,93 @@ records:
   - 「浜田」という地名の語源（浜辺の田を意味する普通名詞的な成立かどうか）は、今回参照した市公式・専門辞典の範囲では確定できなかった
   - 1443年以前の「浜田」の用例は確認できなかった
   updated: '2026-11-13'
+- id: muni/32-海士町
+  code: '325252'
+  names:
+    ja: 海士町
+    reading: あまちょう
+    aliases:
+    - 中ノ島
+  user_terms:
+  - 海士
+  - あま
+  - 中ノ島の町
+  - 後鳥羽上皇の島
+  naming_type: 一部の地名（古代の海部郡・海士郡の名の継承）
+  prefecture: 島根県
+  homonyms: []
+  summary: 島根県隠岐郡の町で、隠岐諸島の島前にある中ノ島1島を町域とする。町名「海士（あま）」は古代の海部（あま）郡・中世の海士郡の名を受け継ぎ、日本大百科全書は地名が海洋漁猟民の海士に由来するとする。1221年の承久の乱で敗れた後鳥羽上皇の配流地としても知られ、上皇はこの島で生涯を終えた。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 平城京跡出土の木簡（隠岐国・海士の干しアワビ等の献上を示す）
+    note: 「海士」の表記が奈良時代の木簡に見えることを総務省資料が紹介する。木簡そのものの年代・釈文は二次資料経由の確認であるため year_western は null とした
+  claims:
+  - text: 海士町は隠岐諸島・島前の中ノ島1島を町域とし、旧海士村が1969年（昭和44年）に町制を施行して成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q6-ama-kotobank
+    - q6-ama-town-about
+  - text: 日本大百科全書（ニッポニカ）は、海士は古代の海部（あま）郡であり、地名は海洋漁猟民の海士に由来する、と解説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q6-ama-kotobank
+  - text: 日本歴史地名大系によれば、中世の海士郡は中ノ島全域を領域とし「海部」とも記され、元応3年（1321年）の文書に海士郡の公文・田所両職が見える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q6-ama-kotobank
+  - text: 奈良時代の海士は朝廷に海産物を貢ぐ土地で、平城京跡からは隠岐国・海士の干しアワビ等が献上されていたことを示す木簡が発見されており、海士は「御食つ国」に位置付けられていた（総務省資料）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q6-ama-soumu
+  - text: 承久の乱（1221年）に敗れた後鳥羽上皇は海士（中ノ島）に配流され、この島で生涯を終えた。在島期間については17年余とする資料と19年余とする資料があり、数え方が異なる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - q6-ama-soumu
+    - q6-ama-sic
+  - text: 「我こそは新島守よ 隠岐の海の 荒き波風 心して吹け」は、配流の身となった後鳥羽上皇の歌として海士に伝わる
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - q6-ama-sic
+  - text: 隠岐の有人島は隠岐の島・西ノ島・知夫里島・中ノ島の4島で、海士町のある中ノ島は西ノ島・知夫里島とともに「島前」を構成する（海士町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-ama-town-about
+  - text: 海士町の地方公共団体コードは325252である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「海の民」の名と、上皇の島
+    text: 海士（あま）という名は、海に潜り漁をする人々＝海人の営みそのものを指す言葉だった。古代に海部郡、中世に海士郡と、中ノ島全体が一つの名で呼ばれ続け、それがそのまま町名になった。一方でこの島は、1221年に流された後鳥羽上皇が19年近い歳月を過ごして没した「配流の島」でもある。古い海の民の地名の層の上に、上皇の島という歴史の層が重なっている。
+    sources:
+    - q6-ama-kotobank
+    - q6-ama-soumu
+  relations:
+  - pref/32
+  - muni/32-西ノ島町
+  - muni/32-知夫村
+  - muni/32-隠岐の島町
+  unknowns:
+  - 後鳥羽上皇の在島年数の数え方（17年余／19年余）の差異の根拠は本バッチでは確定できなかった
+  - 『延喜式』等の古代文献における「海部郡・海士」の記載の原文は未確認である
+  updated: '2026-11-13'
 - id: muni/32-益田市
   code: '322041'
   names:
@@ -594,6 +915,91 @@ records:
   - 益田氏がいつ・どのように地名を名字として名乗り始めたかの一次史料は確認できなかった
   - 「真砂田」説以外の語源説の有無は確認できなかった
   updated: '2026-11-13'
+- id: muni/32-知夫村
+  code: '325279'
+  names:
+    ja: 知夫村
+    reading: ちぶむら
+    aliases:
+    - 知夫里島
+  user_terms:
+  - 知夫
+  - ちぶ
+  - 知夫里島の村
+  - 島根県唯一の村
+  naming_type: 一部の地名（古代の知夫里郡の名の継承）
+  prefecture: 島根県
+  homonyms: []
+  summary: 島根県隠岐郡の村で、県内唯一の村。隠岐諸島の最南端、知夫里島を中心とする。村名「知夫」は飛鳥時代の木簡に既に見える古い名で、かつては「ちぶり」と読まれた。村公式は由来ははっきりしないとしつつ、海路の安全を守る神「道触神（ちぶりのかみ）」を祀ったことに因むと考えられていると紹介する。
+  first_attestation:
+    era: 飛鳥時代
+    year_western: null
+    document: 藤原宮跡出土の木簡に「知夫利評・知夫利郡」
+    note: 村公式は「飛鳥時代の遺跡から出土した木簡に既に『知夫』の名が登場している」とし、日本歴史地名大系が藤原宮跡出土木簡の「知夫利評・知夫利郡」の記載として紹介する。二次資料経由の確認のため year_western は null とした
+  claims:
+  - text: 村名の由来について、知夫村公式は「はっきりしたことは分かっていません」とした上で、大陸との交通の要所であるこの地に海路の旅の安全を守る神「道触神（ちぶりのかみ）」を奉祀し、沖合を航行する船の安全を祈ったことから、「ちぶ」の名が誕生したと考えられている、と紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - q6-chibu-vill-yurai
+  - text: 「知夫」の名は飛鳥時代の木簡に既に登場している。日本歴史地名大系によれば藤原宮跡出土木簡に「知夫利評・知夫利郡」とあり、古代は知夫利・智夫、中世は知布利・知夫利、近世は知夫里などの表記で、いずれも読みは「ちぶり」であったとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-chibu-vill-yurai
+    - q6-chibu-kotobank
+  - text: 『和名抄』では知夫郡の郷として宇良郷・由良郷・三田郷の三郷が記載され、古代の知夫里郡は西ノ島と知夫里島の二島と周辺の島嶼を郡域とした（日本歴史地名大系が『和名抄』の記載として紹介）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-chibu-kotobank
+  - text: 読みは明治以前には「ちぶり」であったが、明治以降に「ちぶ」と読むようになった（知夫村公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-chibu-vill-yurai
+  - text: 知夫村は島根県内唯一の村で、隠岐諸島の最南端に位置し、有人島の知夫里島と周辺の無人島から構成される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q6-chibu-wiki
+  - text: 知夫里島は古くから海上交通の要所であり、北前船の風待港として栄えた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q6-chibu-wiki
+  - text: 知夫村の村章は1966年（昭和41年）に村民公募により決定され、漢字の「知夫」の字を円形に図案化したものである（知夫村公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-chibu-vill-yurai
+  - text: 知夫村の地方公共団体コードは325279である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「ちぶり」から「ちぶ」へ――読みが短くなった村
+    text: 知夫村の名は、かつて「ちぶり」と読まれた。藤原宮の木簡に「知夫利」とある頃から読みは「ちぶり」で、明治になって「ちぶ」に短くなった。島の名「知夫里」には今も「り」が残る。航海安全の神「道触神（ちぶりのかみ）」に由来するという村の説明は、その古い読みを今に伝えている。島根県でただ一つの「村」でもある。
+    sources:
+    - q6-chibu-vill-yurai
+    - q6-chibu-kotobank
+  relations:
+  - pref/32
+  - muni/32-海士町
+  - muni/32-西ノ島町
+  unknowns:
+  - 「道触神」奉祀と地名の因果関係を直接裏付ける史料は、村公式の紹介の範囲を超えては確認できなかった
+  - 木簡の具体的な出土点数・釈文は本バッチでは確認できなかった
+  updated: '2026-11-13'
 - id: muni/32-美郷町
   code: '324485'
   names:
@@ -660,6 +1066,248 @@ records:
   unknowns:
   - 合併協議会での名称選定過程（公募の有無・対抗候補など）の公表資料は未確認
   - 旧邑智町・大和村それぞれの地名の由来は本バッチの対象外で未確認
+  updated: '2026-11-13'
+- id: muni/32-西ノ島町
+  code: '325261'
+  names:
+    ja: 西ノ島町
+    reading: にしのしまちょう
+    aliases:
+    - 西ノ島
+  user_terms:
+  - 西ノ島
+  - にしのしま
+  - 浦郷と黒木の合併町
+  naming_type: 一部の地名（島名「西ノ島」の採用）
+  prefecture: 島根県
+  homonyms: []
+  summary: 島根県隠岐郡の町で、隠岐諸島・島前の西ノ島1島を町域とする。町名は島名「西ノ島」をそのまま採ったもので、1957年（昭和32年）に島西部の浦郷町と島東部の黒木村が合併して発足した。元弘2年（1332年）に配流された後醍醐天皇の行在所については、島内の黒木に御所があったとする「黒木御所説」があり、島後説と対立している。
+  first_attestation:
+    era: 昭和32年
+    year_western: 1957
+    document: 1957年2月11日の浦郷町・黒木村の合併による町名の新設（島名「西ノ島」を採用）
+    note: 町名の初出＝命名そのもの。島名「西ノ島」自体の文献上の初出は本バッチでは確認できなかった
+  claims:
+  - text: 西ノ島町公式の計画書によれば、西ノ島町は1957年（昭和32年）に島西部の浦郷町と島東部の黒木村が合併して成立し、西ノ島1島で一町を形成している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-nishinoshima-kaso-plan
+    - q6-nishinoshima-wiki-island
+  - text: 合併前の島東部の黒木村は、1904年（明治37年）に美田村・別府村・宇賀村が合併して成立した村で、西部の浦郷村は1946年（昭和21年）に町制を施行して浦郷町となっていた（西ノ島町公式の計画書）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-nishinoshima-kaso-plan
+  - text: 町名「西ノ島」は島名そのものの採用であり、西ノ島は島前三島（西ノ島・中ノ島・知夫里島）のうち西に位置する島である
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - q6-nishinoshima-kaso-plan
+  - text: 西ノ島町公式は、承久3年（1221年）の変乱に後鳥羽上皇が、元弘2年（1332年）には後醍醐天皇が隠岐へ遷幸になったことは広く知られている、と記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q6-nishinoshima-kaso-plan
+  - text: 後醍醐天皇の配流地については、隠岐島後の国分寺に置かれたとする説と、島前の西ノ島・黒木に御所が用意されたとする黒木御所説があり、決着が付いていない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - q6-nishinoshima-oki-rekishi
+  - text: 浦郷の由良比女神社は式内社で、もとは知夫里島にあり西ノ島へ遷座したとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q6-nishinoshima-oki-rekishi
+  - text: 島前三島の海士町・西ノ島町・知夫村は、平成の大合併では2003年（平成15年）12月に合併協議会が解散し、それぞれ独立した自治体として残る道を選んだ
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q6-nishinoshima-localhistoria
+  - text: 西ノ島町の地方公共団体コードは325261である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 天皇はどちらの島にいたのか――黒木御所説
+    text: 1332年、後醍醐天皇は隠岐へ流された。その行在所について『太平記』は、隠岐守護の佐々木宗清が西ノ島の「黒木」に御所を用意したと伝える。一方で島後の国分寺にいたとする説も根強く、決着はついていない。西ノ島の東半分を占めた旧村の名「黒木」は、その論争の舞台の名として今も大字に残る。1957年にその黒木村と港町・浦郷町が合併して生まれたのが、西ノ島町である。
+    sources:
+    - q6-nishinoshima-oki-rekishi
+    - q6-nishinoshima-kaso-plan
+  relations:
+  - pref/32
+  - muni/32-海士町
+  - muni/32-知夫村
+  - muni/32-隠岐の島町
+  unknowns:
+  - 島名「西ノ島」の文献上の初出は本バッチでは確認できなかった
+  - 黒木御所の所在地を直接裏付ける発掘等の物証は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/32-邑南町
+  code: '324493'
+  names:
+    ja: 邑南町
+    reading: おおなんちょう
+    aliases: []
+  user_terms:
+  - 邑南町の名前の由来
+  - 邑南町はなんと読むの
+  - 邑南町はいつ合併したの
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 2004年（平成16年）10月1日に邑智郡の羽須美村・瑞穂町・石見町が合併して誕生した町。町名の「邑南」は、邑智郡の南部という位置を示すとともに、古くから3町村の地域全体を表す名称として親しまれてきた広域名を採用したもので、「邑」に小さな都・人の集まる所、「南」に温かく実り豊かな明るいイメージを重ねて決定された。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 邑南町の発足（2004年10月1日）
+    note: 自治体名としての初出は発足時。「邑南」が広域名として使われ始めた時期は未確認で、名前の古い層は邑智郡名（『和名類聚抄』に5郷を持つ石見国の郡として見える）に遡る
+  claims:
+  - text: 2004年（平成16年）10月1日、邑智郡の羽須美村・瑞穂町・石見町が新設合併して邑南町が誕生した（地方公共団体コードは324493）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+    - q7-soumu-hensen-shimane
+    - b-cap-chiba-soumu-code
+  - text: 町名の「邑南」は古くから3町村の地域全体を表す名称として親しまれていたと、島根県の地名鑑は町名決定の経緯として記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 命名にあたっては「邑」に小さな都・人の多く集まるところという意味を、「南」に人情温かく産物が豊かに実り、和やかで将来に夢と希望を与える明るいイメージを重ねたことが決定の理由として説明されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 合併前の3町村は、1889年（明治22年）の市制・町村制施行と昭和28年から36年にかけての昭和の大合併を経て成立した行政区域である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 町域は古代の石見国邑智郡の南部にあたり、邑智郡は『和名類聚抄』に神稲・邑美・桜井・都賀・佐波の5郷を持つ郡として挙げられていると島根県の地名鑑は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 邑智郡の郡名の由来については定かではないと島根県の地名鑑は記しており、現時点では未詳とする
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 江戸時代のこの地域は津和野藩・浜田藩や天領に分かれて属し、たたら製鉄が最大の産業として生活基盤を支え、鉄穴流しでつくられた棚田や神楽などの伝統が残る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  column:
+    title: 一つの郡が南北に分かれた日——邑南町と美郷町
+    text: 邑南町が誕生した2004年10月1日は、邑智郡でもう一つの合併が同じ日に発足した日でもある。郡の北部にあたる邑智町と大和村は「美郷町」となり、郡の名を直接受け継ぐ自治体はなくなった。南側の3町村が選んだ「邑南」は、郡名の「邑」に方角の「南」を添えた位置の名でありながら、もともと地域全体を指す呼び名として人々に親しまれていたものだった。郡という千年以上の枠組みが消える日に、その南半分は郡の頭文字と方角で自らを名乗り直したことになる。
+    sources:
+    - e-shimane-pref-chimeikan
+    - q7-soumu-hensen-shimane
+  relations:
+  - pref/32
+  - muni/32-美郷町
+  unknowns:
+  - 「邑南」という広域名がいつ頃から使われていたか、その初出文献は未確認
+  - 邑智郡名の語源は島根県の地名鑑でも「定かではない」とされ未詳
+  - 合併協議の場で「邑南」以外の候補名が挙がったかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/32-隠岐の島町
+  code: '325287'
+  names:
+    ja: 隠岐の島町
+    reading: おきのしまちょう
+    aliases:
+    - 隠岐島
+    - 意伎
+    - 隠伎
+  user_terms:
+  - 隠岐の島町の名前の由来
+  - 隠岐の島町はなんと読むの
+  - 隠岐の島町はいつ合併したの
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 2004年（平成16年）10月1日に島後の西郷町・布施村・五箇村・都万村が合併して誕生した町で、島後全域を町域とする。町名は全国公募の中から選ばれたもので、「隠岐の島」という諸島全体の呼び名をそのまま町名に採用した。「隠岐」は古くは意伎・隠伎とも書かれ、「沖の島」から転じたものといわれる。
+  first_attestation:
+    era: 和銅5年
+    year_western: 712
+    document: 『古事記』国生みの条
+    note: 諸島の名の初出として。『古事記』では大八島の3番目に生まれた島として「隠伎之三子島」と記されると紹介される。原文は未読で、紹介はWikipediaによる
+  claims:
+  - text: 2004年（平成16年）10月1日、島後の西郷町・布施村・五箇村・都万村が新設合併して隠岐の島町が誕生し、島後全域が一つの町となった（地方公共団体コードは325287）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+    - q7-soumu-hensen-shimane
+    - b-cap-chiba-soumu-code
+  - text: 町名は全国から募集した約4千通の応募の中から選ばれ、隠岐島後町村合併協議会において「隠岐の島町」と決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 選定の理由は、日本海の島であり「隠岐の島」というイメージが全国的に最も知られており、地理的にもよく分かり、一番親しみやすい名前であることとされた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 「隠岐」の国名・郡名の由来は「沖の島」から転じたものといわれ、古くは意伎・隠伎とも書かれたと島根県の地名鑑は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 『古事記』の国生みでは、隠岐諸島は淡路・四国に続く3番目の島として「隠伎之三子島」と記される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q7-wiki-okinoshima
+  - text: 現在の隠岐郡は1969年（昭和44年）に島後の周吉郡・隠岐郡と島前の海士郡・知夫郡の4郡が合同して生まれた郡で、郡名は当地域が古来より隠岐国と称されていたことにより名付けられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 幕末の1868年（慶応4年）には、松江藩の郡代を追放して島民自らの自治機関を置いた「隠岐維新」があり、81日間の自治が行われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  column:
+    title: 島の半分だけなのに、島全体の名を名乗る町
+    text: 隠岐諸島は島後と島前（知夫里島・中ノ島・西ノ島）から成るが、2004年の合併で一つになったのは島後の4町村だけだった。それでも新町名に選ばれたのは「隠岐の島」——諸島全体を指す呼び名である。公募の選定理由は明快で、全国的に知られ、地理的に分かりやすく、親しみやすいこと。島前には海士町・西ノ島町・知夫村が別に残ったため、「隠岐の島町」は諸島の玄関口である島後が、諸島全体の看板を背負う形になった。幕末に81日間の自治を実現した島の人々の「自らのことは自らで」という気風は、地名鑑の沿革にも色濃く残されている。
+    sources:
+    - e-shimane-pref-chimeikan
+  relations:
+  - pref/32
+  unknowns:
+  - 『古事記』原文での「隠伎之三子島」の表記確認は未了（紹介はWikipediaによる）
+  - 「沖の島」転訛説以外の語源説の有無と、その典拠は未確認
+  - 公募で次点となった候補名は未確認
   updated: '2026-11-13'
 - id: muni/32-雲南市
   code: '322091'
@@ -729,6 +1377,83 @@ records:
   unknowns:
   - 旧中心地の一つである木次（きすき）の地名の由来は、今回の調査では公的資料で確認できなかった
   - 「南雲市」との最終決定がどのような手続き（投票等）で行われたかは、市公式ページの記述からは読み取れなかった
+  updated: '2026-11-13'
+- id: muni/32-飯南町
+  code: '323861'
+  names:
+    ja: 飯南町
+    reading: いいなんちょう
+    aliases:
+    - 伊鼻志
+  user_terms:
+  - 飯南町の名前の由来
+  - 飯南町はなんと読むの
+  - 飯南町はいつ合併したの
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 2005年（平成17年）1月1日に飯石郡の頓原町と赤来町が合併して誕生した町。町名の「飯南」は飯石郡の南部という位置を示す名で、「飯」に米を、「南」に明るさと力強さを重ね、農業と里山の恩恵を受けて発展する願いが込められた。郡名「飯石」は『出雲国風土記』に食の女神の名に由来すると伝えられる古い名である。
+  first_attestation:
+    era: 天平5年
+    year_western: 733
+    document: 『出雲国風土記』飯石郡条
+    note: 名前の古い層である郡名「飯石」の初出として。地名鑑によれば、もとの表記は「伊鼻志」で神亀3年（726年）に「飯石」と改められた。町名「飯南」自体は2005年の発足時に定められた。『風土記』原文は未読で、地名鑑の紹介による
+  claims:
+  - text: 2005年（平成17年）1月1日、飯石郡の頓原町と赤来町が新設合併して飯南町が誕生した（地方公共団体コードは323861）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+    - q7-soumu-hensen-shimane
+    - b-cap-chiba-soumu-code
+  - text: 町名の「飯南」は、町が飯石郡の南に位置することに基づく位置の名であり、町民が聞き慣れた親しみの感じられる地名として選ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 命名には「飯」は米を、「南」は明るさや力強さをイメージするものとして、農業に通じ、里山の文化と自然の恩恵を受け、明るく力強く発展していく町への願いが込められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 飯石郡の郡名は、『出雲国風土記』に「飯石郡の中に伊毘志都幣命が坐せる。故に飯石と云う」とある神名に由来すると島根県の地名鑑は紹介する。この神は飯（食）の主の女神であるといわれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 郡名はもとは「伊鼻志」と書かれ、神亀3年（726年）に「飯石」と改められたと島根県の地名鑑は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 『出雲国風土記』では飯石郡に熊谷・三屋・飯石・多禰・須佐・波多・来島の7郷があり、現在の飯南町域は来島郷と波多郷に属していたと思われると島根県の地名鑑は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  - text: 江戸時代の町域には広瀬藩の陣屋が置かれ、奥飯石21か村の政治・経済・文化の中心地として、また出雲・石見・備後を結ぶ陰陽交通の宿場町として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+  column:
+    title: 「米の神」の郡から採った「飯」の字
+    text: 飯南町の「飯」は、単に米どころだからという後づけの字ではない。郡名「飯石」は、『出雲国風土記』の中で食の女神・伊毘志都幣命の鎮座をもって由来とする、1300年近い歴史を持つ名である。その郡の南半分が新しい町になるとき、人々は郡名の頭文字「飯」を残し、「米」の意味を改めて読み込んだ。そして実際の飯南町は、島根県下一の良質米の産地として知られ、島根和牛の本場でもある。古代の神名に始まる「飯」の字が、現代の町の看板産業と重なっているのは偶然の符合として面白い。
+    sources:
+    - e-shimane-pref-chimeikan
+  relations:
+  - pref/32
+  unknowns:
+  - 『出雲国風土記』原文での飯石郡条の記載確認は未了（地名鑑の紹介による）
+  - 合併協議で「飯南」以外の候補名が挙がったかどうかは未確認
+  - 頓原・赤名という旧町中心地名それぞれの語源は未確認
   updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
@@ -822,3 +1547,75 @@ sources:
   q1-yasugi-tokei:
     label: 安来市「統計やすぎ」（令和4年度版・平成23年度版）（市名の由来としてスサノオの言葉に結びつける伝承を『出雲国風土記』よりとして紹介、安来市の生い立ちと合併の経過、月山富田城と尼子氏）
     url: https://www.city.yasugi.shimane.jp/shisei/tokei/tokeidata/graph.data/R4tokeiyasugi.pdf
+  q6-ama-kotobank:
+    label: コトバンク「海士」（日本大百科全書（ニッポニカ）は中ノ島1島からなる町で1969年（昭和44年）に町制施行したこと、古代は海部（あま）郡で地名は海洋漁猟民の海士に由来すること、日本歴史地名大系は中世の海士郡が中ノ島全域を領域とし「海部」とも記されたこと、元応3年（1321年）の文書に海士郡の公文・田所両職が見えることを記す）
+    url: https://kotobank.jp/word/%E6%B5%B7%E5%A3%AB-457428
+  q6-ama-sic:
+    label: 隠岐の島前地域に関する講演資料（海士町長・大江和彦）（中ノ島を「海士町」という1島1町の自治体であること、承久の乱（1221年）に敗れた後鳥羽上皇が配流され在島19年余でこの島で生涯を終えたとすること、「我こそは新島守よ隠岐の海の荒き波風心して吹け」の歌が伝わること）
+    url: http://sicnpo.jp/forum230223/ooe230223.pdf
+  q6-ama-soumu:
+    label: 総務省資料「海士町」（中ノ島全体を町域とした1島1町の町であること、平城京跡から隠岐国・海士の「干しアワビ」等が献上されていたことを示す木簡が発見され朝廷に御食料を貢ぐ「御食つ国」に位置付けられていたこと、承久の乱（1221年）に敗れた後鳥羽上皇が配流され在島17年余でこの島で生涯を終えたこと）
+    url: https://www.soumu.go.jp/main_content/000063232.pdf
+  q6-ama-town-about:
+    label: 海士町公式「海士町について」（海士町は隠岐諸島の一つ「中ノ島」の自治体であること、隠岐の有人島は隠岐の島・西ノ島・知夫里島・中ノ島の4島であること）
+    url: https://www.town.ama.shimane.jp/about/36asunziyw
+  q6-chibu-kotobank:
+    label: コトバンク「知夫里郡」（日本歴史地名大系）（古代の知夫利・智夫、中世の知布利・知夫利、近世の知夫里などの表記があり訓は「ちぶり」であろうとされること、藤原宮跡出土木簡に知夫利評・知夫利郡とあり、天平4年（732年）の隠伎国正税帳でも確認できること、『和名抄』では知夫郡の郷として宇良・由良・三田の三郷が記載されること、古代の知夫里郡は西ノ島と知夫里島の二島と周辺島嶼を郡域としたこと）
+    url: https://kotobank.jp/word/%E7%9F%A5%E5%A4%AB%E9%87%8C%E9%83%A1-3087294
+  q6-chibu-vill-yurai:
+    label: 知夫村公式「村名の由来と村章」（地名の由来について、はっきりしたことは分かっていないが、大陸との交通の要所であるこの地に海路の旅の安全を守る神「道触神（ちぶりのかみ）」を奉祀し沖合を航行する船の安全を祈ったことから「ちぶ」の名が誕生したと考えられていること、飛鳥時代の遺跡から出土した木簡には既に「知夫」の名が登場していること、明治以前には「ちぶり」と読んでいたが明治以降に「ちぶ」と読むようになったこと、村章は昭和41年（1966年）3月に村民公募により決定し漢字の「知夫」を円形に図案化したものであること）
+    url: http://www.vill.chibu.lg.jp/gyosei/about/6
+  q6-chibu-wiki:
+    label: Wikipedia「知夫村」（島根県内唯一の村であること、隠岐諸島の最南端に位置し有人島の知夫里島と周辺の無人島により構成されること、古くから海上交通の要所であり北前船の風待港として栄えたこと）
+    url: https://ja.wikipedia.org/wiki/知夫村
+  q6-kawamoto-koho2022:
+    label: 川本町広報「広報かわもと」2022年7月号特集「川本『まち』？川本『ちょう』？」（明治22年4月に川本村と因原村が合併し川本村になったこと、昭和2年4月に町制を施行し「川本町（かわもとまち）」と呼称したこと、平成の大合併により島根県内で「まち」と呼称するのは川本町のみになったこと）
+    url: https://www.town.shimane-kawamoto.lg.jp/files/original/202307061132420659466c33d.pdf
+  q6-kawamoto-sabo:
+    label: 「砂防と治水」176号（2007年）川本町長寄稿「災害復興への願いを和太鼓に」（川本町は江の川が水運路として利用されたためその中継地として発展したこと、天領行政の開始により石見銀山領に編入され口番が設けられたことを契機に明治5年に邑智郡役所が置かれ郡の行政・経済の中心的な役割を担う町として発展したこと、平成15年12月に合併を断念し単独での歩みを選択したこと）
+    url: http://www.sabo.or.jp/kaisyou/176/176-2/176-2.htm
+  q6-kawamoto-town-yoran:
+    label: 川本町公式資料「わたしたちの川本町」（町名の由来として「川」は江の川の「川」であり「本」は「ほとり」という意味で、江の川のほとりに人々が住みつくようになったため「川本」という地名ができたといわれていること〔出典「島根県の地名鑑」〕、昭和2年4月の町制施行により「川本町（かわもとまち）」となったこと、昭和30年4月に川本町・川下村・三原村・三谷村・大代村が合併したこと、昭和31年9月に祖式村の一部を編入したこと、町章は「川」と「水」をかたどって中央に置き周囲は円満・団結・平和を表すこと）
+    url: https://www.town.shimane-kawamoto.lg.jp/files/original/202206201819410588b54711b.pdf
+  q6-nishinoshima-kaso-plan:
+    label: 西ノ島町「過疎地域持続的発展計画」（西ノ島町は隠岐諸島の島前地区に位置し一島で一町を形成していること、明治37年の町村制度の施行により東側の美田村・別府村・宇賀村が合併し黒木村となり西側は浦郷村と改められたこと、浦郷村は昭和21年に町制が施行され浦郷町となり昭和32年に黒木村と浦郷町が合併し西ノ島町となったこと、承久3年（1221年）の変乱に後鳥羽上皇、元弘2年（1332年）には後醍醐天皇が遷幸になられたことは広く知られていること）
+    url: https://www.town.nishinoshima.shimane.jp/files/original/20220107114758587e642b656.pdf
+  q6-nishinoshima-localhistoria:
+    label: ローカルヒストリア「隠岐諸島」（昭和32年（1957年）に島前の浦郷町と黒木村が合体して西ノ島町が生まれたこと、平成15年（2003年）12月14日に合併協議会が解散し、海士町・西ノ島町・知夫村はそれぞれ独立した自治体として残る道を選んだこと）
+    url: https://local-historia.jp/shimane/oki-shoto
+  q6-nishinoshima-oki-rekishi:
+    label: Wikipedia「隠岐の歴史」（後醍醐天皇の配流地は隠岐島後の国分寺説と島前黒木御所説があり決着が付いていないこと、浦郷の由良比女神社は知夫里島から遷座したとされること）
+    url: https://ja.wikipedia.org/wiki/隠岐の歴史
+  q6-nishinoshima-wiki-island:
+    label: Wikipedia「西ノ島」（1957年（昭和32年）2月11日に浦郷町と黒木村が合併し西ノ島町となったこと、西ノ島は西ノ島町の主島であり浦郷地区に島前地域における中心施設があること）
+    url: https://ja.wikipedia.org/wiki/西ノ島
+  q6-okuizumo-jtb:
+    label: JTB「奥出雲町」（町域は斐伊川とその支流の流域にあり、古くから砂鉄採取が行われ『出雲風土記』には鉄の産出地として記されていると紹介されること、明治初めまでわが国有数のたたら製鉄の産地として栄えたこと、斐伊川はスサノオの八岐大蛇伝説の舞台とされること）
+    url: https://tabi.jtb.or.jp/city?opt=%E5%B3%B6%E6%A0%B9%E7%9C%8C%2C%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA&type=city
+  q6-okuizumo-koho2005:
+    label: 奥出雲町広報（2005年、新生「奥出雲町」の名付け親大賞の記事）（新町の名称選定には全国から1,795点・320種類の候補が寄せられ、このうち「奥出雲町」には374点の応募があったこと、名付け親大賞には町内の応募者が選ばれたこと）
+    url: https://www.town.okuizumo.shimane.jp/www/contents/1001000000225/simple/P1.pdf
+  q6-okuizumo-nita-wiki:
+    label: Wikipedia「仁多郡」（天平5年（733年）に成立したとされる『出雲国風土記』に仁多郡の4郷（三處郷・布勢郷・三澤郷・横田郷）の記載があること）
+    url: https://ja.wikipedia.org/wiki/仁多郡
+  q6-okuizumo-town-gappei:
+    label: 奥出雲町公式「新町"奥出雲町"合併情報」（2005年3月7日に仁多町・横田町の合併調印式が行われたこと、同年3月31日に新町「奥出雲町」が誕生したこと）
+    url: https://www.town.okuizumo.shimane.jp/choseijoho/oshirase/1001000000896.html
+  q6-okuizumo-uub:
+    label: 市区町村変遷情報（uub.jp）「仁多郡 奥出雲町」（2005年3月31日に仁多町・横田町が合併して奥出雲町が生まれたこと、2005年2月16日に合併協議会で新町名「奥出雲町」を確認したこと、当初は雲南広域10町村での合併が検討されたが断念され2町での合併となったこと）
+    url: https://uub.jp/upd/c/706.html
+  q6-yoshika-kanoashi-wiki:
+    label: Wikipedia「鹿足郡」（鹿足は万葉仮名では「加乃阿之（かのあし）」と訓じられ、この地を指す別名の「吉賀（よしか）」も広く用いられたこと、この「吉賀」は六日市町と柿木村が合併してできた新自治体の名前にも採用されていること）
+    url: https://ja.wikipedia.org/wiki/鹿足郡
+  q6-yoshika-kaso-plan:
+    label: 吉賀町「吉賀町過疎地域持続的発展計画」（本町は柿木村と六日市町が合併して誕生した町で、この地域は古くから「吉賀」と呼ばれ藩政時代は吉賀三領に属したこと、六日市町は古くから山陰と山陽を結ぶ交通の要衝として発展し参勤交代の宿場町として栄えたこと、昭和29年に朝倉・蔵木の2か村と合併し昭和31年に七日市村を編入し平成17年10月1日に両町村が合併して吉賀町となったこと）
+    url: https://www.town.yoshika.lg.jp/about/cyousei/kakushukeikaku.data/kasokeikaku.pdf
+  q6-yoshika-town-shoukai:
+    label: 吉賀町公式「町の紹介」（この地域は古くから吉賀地方と呼ばれ藩政時代は吉賀三領「上領」「中領」「下領」に属し参勤交代にも使われた主要街道筋で宿場町でもあったこと、旧柿木村は明治22年の村制施行以来行政区域を変えなかったこと、旧六日市町は昭和22年に町制を施行し昭和29年12月1日に朝倉村・蔵木村と合併し昭和31年9月30日に七日市村と合併したこと、平成17年10月1日に旧柿木村と旧六日市町が合併して吉賀町が誕生したこと、町章は「吉」の字をモチーフに円を基調とし緑は森林・青は水・黄色は太陽を示すこと）
+    url: https://www.town.yoshika.lg.jp/about/shoukai
+  q7-soumu-hensen-shimane:
+    label: 総務省「市町村合併資料集・市町村名逆引き一覧（島根県）」（平成11年3月31日時点の市町村名がどう変わるか）
+    url: https://www.soumu.go.jp/gapei/hensen_shimane.html
+  q7-wiki-okinoshima:
+    label: Wikipedia「隠岐諸島」（『古事記』の「隠伎之三子島」の紹介など）
+    url: https://ja.wikipedia.org/wiki/%E9%9A%A0%E5%B2%90%E8%AB%B8%E5%B3%B6

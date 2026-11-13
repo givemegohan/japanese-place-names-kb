@@ -69,6 +69,153 @@ records:
   - 市名の公募・選定過程の詳細（候補名や応募数）は、市の刊行物『さぬき市誕生までの歩み』等に記録があるとみられるが、オンラインで確認できる公式資料では裏付けが取れなかった
   - 「讃岐」の国名自体の語源は本レコードでは扱わず、都道府県レコード（香川県）側の課題とした
   updated: '2026-11-13'
+- id: muni/37-まんのう町
+  code: '374067'
+  names:
+    ja: まんのう町
+    reading: まんのうちょう
+    aliases:
+    - 満濃町
+    - 琴南町
+    - 仲南町
+  user_terms:
+  - まんのう
+  - 満濃池の町
+  - ため池の町
+  naming_type: 一部の地名
+  prefecture: 香川県
+  homonyms: []
+  summary: 2006年3月20日に満濃町・琴南町・仲南町が合併して発足した。町名は旧満濃町の読み「まんのう」を平仮名表記にしたもので、その源は日本最大の灌漑用ため池・満濃池にあると町公式資料が説明する。
+  first_attestation:
+    era: 奈良時代
+    year_western: 704
+    document: 満濃池の築造（大宝年間）
+    note: 池の築造は701年から704年と伝わる。地名「満濃」自体の初出文献は未確認である。
+  claims:
+  - text: 地方公共団体コードは374067である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: まんのう町は2006年3月20日に仲多度郡の満濃町・琴南町・仲南町の3町が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-manno-town
+  - text: 町名の由来は、町内にある日本一の灌漑用ため池「満濃池」であると町公式資料が明記する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-manno-town
+  - text: 旧満濃町は1955年4月1日に吉野村・神野村・四条村が合併して発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-manno-wiki
+  - text: 2006年の合併に際し、新町名の表記は漢字の「満濃町」から平仮名の「まんのう町」に改められた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-manno-wikizh
+  - text: 満濃池は大宝年間（701年から704年）に讃岐国守の道守朝臣が築いたと伝わり、弘仁9年（818年）に決壊したとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-manno-wikizh
+  - text: 決壊した満濃池は弘仁12年（821年）に空海（弘法大師）が修築を指揮して復旧したと伝えられる
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - q11-manno-wikizh
+  column:
+    title: 空海が直した日本一のため池
+    text: 満濃池は、818年に堤が決壊した後、821年に讃岐出身の空海が短期間で修築したという話で知られる。真偽のほどは伝承の域を出ないが、この「日本一のため池」の名が旧町名になり、2006年には平仮名の「まんのう町」として新町全体の名になった。
+    sources:
+    - q11-manno-wikizh
+    - q11-manno-town
+  relations:
+  - pref/37
+  unknowns:
+  - 「満濃」という地名自体の語源
+  - 満濃池の名称の初出文献
+  updated: '2026-11-13'
+- id: muni/37-三木町
+  code: '373419'
+  names:
+    ja: 三木町
+    reading: みきちょう
+    aliases:
+    - 三木郡
+    - 讃岐三木
+  user_terms:
+  - みき
+  - 讃岐三木
+  - 三大樹の町
+  naming_type: 合併新設
+  prefecture: 香川県
+  homonyms:
+  - muni/28-三木市
+  summary: 1954年10月1日に平井町・神山村・田中村・氷上村・下高岡村が合併して発足した。町名は公募で決められ、1899年まで存在した旧三木郡の名を受け継いだ。その三木郡の名は、井戸・平木・朝倉にあった「三大樹」に由来すると、江戸時代の地誌『全讃史』が記すと紹介されている。
+  first_attestation:
+    era: 江戸時代
+    year_western: 1828
+    document: 全讃史
+    note: 中山城山著『全讃史』（文政11年・1828年成立）に三木郡の名の由来が記されるとWikipedia「三木町」が引用して紹介する。原文を直接確認したわけではないため、関連する主張は実質Wikipedia経由として扱う。
+  claims:
+  - text: 地方公共団体コードは373419である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1954年10月1日に平井町・神山村・田中村・氷上村・下高岡村の1町4村が合併して三木町が誕生し、1956年9月30日に井戸村を編入した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-miki-wiki
+  - text: 町名「三木」は1954年の町制施行と同時に公募によって制定されたもので、律令時代以前より成立し1899年まで存在した三木郡に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-miki-wiki
+  - text: 高松藩の地誌『全讃史』（1828年成立）には、井戸地区高木の榁（むろ）の大木、平木地区の柊の大木、朝倉地区の山椒の大木という三大樹があったため三木郡といった、と記されていると紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-miki-wiki
+  - text: 町章は町名の由来をもとに、漢字「三木」を大樹の形状に図案化したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-miki-wiki
+  - text: 兵庫県の三木市と区別するため、「讃岐三木」と呼ばれることがある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-miki-wikizh
+  column:
+    title: 三本の大木が郡の名になった
+    text: 井戸の榁、平木の柊、朝倉の山椒。三本の大木がそびえた里が集まって「三木」の郡になったという『全讃史』の説明は、江戸時代の地誌による由来譚である。しかし1954年に公募でこの名が選ばれ、町章にまで大樹の姿が刻まれたことで、伝承はいまも町の看板として生き続けている。
+    sources:
+    - q11-miki-wiki
+  relations:
+  - pref/37
+  unknowns:
+  - 三木郡の名の実際の成立時期と『全讃史』以前の用例
+  - 三大樹の実在性
+  updated: '2026-11-13'
 - id: muni/37-三豊市
   code: '372081'
   names:
@@ -288,6 +435,78 @@ records:
   - 寺名の由来の根拠は江戸時代中期成立の寺記であり、平安時代の同時代史料では確認できていない
   - 「善通寺」が寺名ではなく土地の名（郷名・村名）として文献に現れる初出は確認できていない
   updated: '2026-11-13'
+- id: muni/37-土庄町
+  code: '373222'
+  names:
+    ja: 土庄町
+    reading: とのしょうちょう
+    aliases:
+    - 土庄村
+    - 肥土庄
+  user_terms:
+  - とのしょう
+  - 小豆島の玄関
+  - 土渕海峡の町
+  - 豊島
+  naming_type: 一部の地名
+  prefecture: 香川県
+  homonyms: []
+  summary: 小豆島の北西部と豊島などを町域とする町。1890年に土庄村が発足し、1898年に町制を施行、1955年に北浦・四海・豊島・大鐸・淵崎の5村と合併して現在の土庄町となった。「土庄」の名は、平安時代に渕崎から肥土山にかけてあった石清水八幡宮の荘園「肥土庄（ひとのしょう）」に由来するとされる。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 肥土庄（石清水八幡宮の荘園）
+    note: 荘園名としての初出年代は未確認である。「土庄」の表記と「とのしょう」の読みがいつ成立したかも未確認である。
+  claims:
+  - text: 地方公共団体コードは373222である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 土庄の名称は、平安時代に渕崎から肥土山にかけてあった石清水八幡宮の荘園・肥土庄（ひとのしょう）に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-tonosho-wiki
+  - text: 1890年2月15日に小豆郡土庄村が発足し、1898年2月11日に町制施行して土庄町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-tonosho-wiki
+  - text: 1955年4月1日に土庄町・北浦村・四海村・豊島村・大鐸村・淵崎村が合併して新たな土庄町が発足し、1957年7月1日に大部村を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-tonosho-meti
+    - q11-tonosho-wiki
+  - text: 江戸時代は前島（旧鹿島）全島が土庄村で、土庄のほか大木戸と鹿島の集落があった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-tonosho-wiki
+  - text: 小豆郡という行政区画は1878年に新設されたもので、それ以前この地域は単に「小豆島」と総称されていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-shozu-wiki
+  column:
+    title: 世界で最も狭い海峡を抱く町
+    text: 土庄町と隣の小豆島町の境を流れる土渕海峡は、世界で最も狭い海峡とされる。「土庄」の読み「とのしょう」も一筋縄ではいかない。元の荘園名「肥土庄」は「ひとのしょう」と読まれたといい、肥が落ち、読みも姿を変えて、現在の町名にたどり着いた。
+    sources:
+    - q11-tonosho-wikizh
+    - q11-tonosho-wiki
+  relations:
+  - pref/37
+  unknowns:
+  - 肥土庄の初出文献と成立年代
+  - 「ひとのしょう」から「とのしょう」への読みの変化の過程
+  updated: '2026-11-13'
 - id: muni/37-坂出市
   code: '372030'
   names:
@@ -365,6 +584,242 @@ records:
   - 「さかいで」という読みの成立過程（「さかで」など他の読みの有無）は確認できていない
   - 戦国時代末とされる初出の具体的な文献名は確認できていない
   updated: '2026-11-13'
+- id: muni/37-多度津町
+  code: '374041'
+  names:
+    ja: 多度津町
+    reading: たどつちょう
+    aliases:
+    - 多度津村
+    - 多度郡
+    - 多度津藩
+  user_terms:
+  - たどつ
+  - こんぴら詣での玄関口
+  - 北前船の寄港地
+  - 少林寺拳法の総本山
+  naming_type: 一部の地名
+  prefecture: 香川県
+  homonyms: []
+  summary: 多度郡の港「多度津」を核とする港町。江戸時代には金毘羅参詣の海の玄関口として栄え、1694年には丸亀藩から分かれた多度津藩が置かれた。1890年に多度津村と新町村が合併して多度津町が発足した。少林寺拳法の総本山がある町としても知られるが、それは戦後に加わった新しい層である。
+  first_attestation:
+    era: 古代
+    year_western: null
+    document: 多度郡の港としての多度津
+    note: 町教育委員会の資料が「多度津は古代の多度郡の港」と記す。具体的な初出文献は未確認である。
+  claims:
+  - text: 地方公共団体コードは374041である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 多度津は古代の多度郡の港であり、室町時代には細川家の家臣である香川氏の拠点港でもあったと、町教育委員会の資料は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-tadotsu-kyoiku
+  - text: 江戸時代後期に金毘羅参詣の海の玄関口として栄え、天保9年（1838年）に整備された多度津湛甫によって港としてさらに発展した。多度津は北前船寄港地・船主集落として日本遺産に認定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-tadotsu-kyoiku
+  - text: 1694年（元禄7年）に京極高通へ多度津1万石が分け与えられ、丸亀藩の支藩として多度津藩が成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-marugame-wiki
+  - text: 1890年2月15日に多度津村と新町村が合併して多度津町が誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-tadotsu-wiki
+  - text: 廻船業で財を成した商人たちは「多度津七福神」と呼ばれ、その資金によって鉄道・電力・銀行などの事業が開業し、多度津は「四国の近代産業発祥の地」ともいわれたと、町議会で町長が答弁している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-tadotsu-council
+  - text: 少林寺拳法の総本山・総本部が町内に置かれているが、これは戦後に生まれた新しい層であり、港町としての古い層とは別のものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-tadotsu-wiki
+  column:
+    title: こんぴら詣での海の玄関
+    text: 『金毘羅参詣名所図会』は多度津を「丸亀に続いて繁昌の地」と描き、参詣の人々がここに船を待たせて善通寺を拝み、象頭山へ登る都合のよい港だと記したという。港町の古層の上に、北前船の富、近代産業、そして戦後の少林寺拳法の層が重なっている。
+    sources:
+    - q11-tadotsu-kyoiku
+  relations:
+  - pref/37
+  unknowns:
+  - 「多度津」の語源（多度郡の名の由来を含む）
+  - 多度津の名の文献上の初出
+  updated: '2026-11-13'
+- id: muni/37-宇多津町
+  code: '373869'
+  names:
+    ja: 宇多津町
+    reading: うたづちょう
+    aliases:
+    - 鵜足津
+    - 宇多津村
+    - 鵜足郡
+  user_terms:
+  - うたづ
+  - 塩の町
+  - ゴールドタワーの町
+  - 県内最小の町
+  naming_type: 一部の地名
+  prefecture: 香川県
+  homonyms: []
+  summary: 旧鵜足郡の港「鵜足津」に由来する町で、古くは鵜足津とも表記された。鎌倉時代から讃岐の船着き場として知られ、1363年には細川頼之が居城を構えて四国の政治の中心となった。江戸時代中期から1972年までは全国屈指の塩の町でもあった。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 鵜足津（讃岐の船着き場）
+    note: 香川県港湾課の宇多津港解説が「鎌倉時代より讃岐の船着き場（鵜足津）として広く世に知られ」と記す。文献上の初出そのものは未確認である。
+  claims:
+  - text: 地方公共団体コードは373869である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町名の由来は旧郡である鵜足（うたり）郡の津ということであり、古くは「鵜足津」とも表記された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-utazu-wiki
+  - text: 宇多津港は鎌倉時代より讃岐の船着き場「鵜足津」として広く世に知られていたと、香川県港湾課が解説する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-utazu-port
+  - text: 1363年（貞治2年）に細川頼之が宇多津に居城を構えて讃岐の守護所とし、四国を統治する際の中心地となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-utazu-wiki
+  - text: 1890年2月15日に鵜足郡宇多津村が発足し、1898年2月11日に町制施行して宇多津町となった。1899年には鵜足郡が阿野郡と合併して綾歌郡となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q11-utazu-wiki
+  - text: 江戸時代中期から1972年（昭和47年）の塩田廃止まで全国屈指の塩の町であり、塩田の跡地は瀬戸大橋の開通を機に新宇多津都市として再開発された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-utazu-meti
+  - text: 宇多津町は面積8.10平方キロメートルで、香川県内で最も面積の小さい自治体である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q11-utazu-meti
+  column:
+    title: 塩田の上に建った新しい町
+    text: かつて海岸線を埋め尽くした塩田は1972年にすべて姿を消し、その跡地はゴールドタワーを擁する新宇多津都市に生まれ変わった。町の姿は一変したが、「鵜足津」という古い港の名だけは、字を「宇多津」と改めて今も残っている。
+    sources:
+    - q11-utazu-meti
+    - q11-utazu-wiki
+  relations:
+  - pref/37
+  unknowns:
+  - 「鵜足」の語源
+  - 鵜足津の文献上の初出
+  updated: '2026-11-13'
+- id: muni/37-小豆島町
+  code: '373249'
+  names:
+    ja: 小豆島町
+    reading: しょうどしまちょう
+    aliases:
+    - 小豆嶋
+  user_terms:
+  - しょうどしま
+  - オリーブの島
+  - 二十四の瞳の島
+  naming_type: 合併新設
+  prefecture: 香川県
+  homonyms: []
+  summary: 香川県小豆郡の町で、小豆島の中央から東部を占める。2006年3月21日に内海町と池田町が合併して発足し、町名は島名「小豆島」をそのまま採用した。島名は『古事記』の国生みの段に「小豆島（あづきしま）」として見える古い名で、古代には讃岐ではなく海を隔てた備前国児島郡に属していた。
+  first_attestation:
+    era: 奈良時代
+    year_western: 712
+    document: 『古事記』上巻・国生みの段
+    note: 島名の最古の文献記録。伊邪那岐・伊邪那美の国生みで生まれた島の一つとして「小豆島」と記され、別名を「大野手比売」という。読みは「あづきしま」。國學院大學の地名データベース経由で確認したため、主張側のレベルはE2に落としている
+  claims:
+  - text: 総務省の全国地方公共団体コードで、小豆島町の団体コードは373249と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2006年3月21日、内海町と池田町が新設合併して小豆島町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-shodoshima-meti
+  - text: 平成の大合併では土庄町を含む3町の合併協議が進んだが、役場の位置などをめぐってまとまらず、内海町と池田町の2町の合併にとどまった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q12-shodoshima-historia
+  - text: 島名「小豆島」は『古事記』の国生みの段に見え、伊邪那岐・伊邪那美が生んだ島の一つで、別名を「大野手比売（おおのでひめ）」といったと國學院大學の地名データベースが紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-shodoshima-kokugakuin
+  - text: 『続日本紀』延暦3年（784年）10月条に「備前国児嶋郡小豆嶋」と見え、平城宮跡出土の木簡にも「備前国児嶋郡小豆郷」とあることから、古代の小豆島は讃岐国ではなく海を隔てた備前国児島郡に属していたと國學院大學の地名データベースが紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-shodoshima-kokugakuin
+  - text: 古代の読みは「あづきしま」で、中世に「しょうずしま」と読まれるようになり、現在の「しょうどしま」に至った
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q12-shodoshima-historia
+  - text: 応神天皇が瀬戸内海を望み、山の少ない淡路島を「あわき（淡き）島」、山々のある小豆島を「あつき（厚き）島」と呼んだことが「あづき島」の由来だとする伝承が語られている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - q12-shodoshima-historia
+  - text: 「あづき」の語源については、小豆（あずき）の実や産地に結びつける説明も流布するが、専門的に確定した説はなく、語源は未詳である
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - q12-shodoshima-kokugakuin
+  column:
+    title: 備前か讃岐か、揺れ続けた島
+    text: 小豆島は目の前の四国（讃岐）ではなく、海を隔てた本州側の備前国児島郡に組み込まれた島だった。律令の郡に属する島という「ねじれた」位置づけは中世の末まで帰属をあいまいにし、江戸時代にも「備前国小豆島」と書く文書が残る。平成の大合併でも、島を一つの町にする協議はまとまらず、土庄町と小豆島町の2町に分かれた。古代の国生み神話に名を残す島は、所属をめぐる揺れの歴史でもある。
+    sources:
+    - q12-shodoshima-kokugakuin
+    - q12-shodoshima-historia
+  relations:
+  - pref/37
+  unknowns:
+  - 「あづき」の語源について、専門文献（『日本歴史地名大系』『角川日本地名大辞典』の小豆島の項）の記述を直接確認できていない
+  - 2006年の合併に際して新町名を「小豆島町」と定めた選定過程（公募の有無・候補名）を、合併協議会資料で直接確認できていない
+  updated: '2026-11-13'
 - id: muni/37-東かがわ市
   code: '372072'
   names:
@@ -433,6 +888,230 @@ records:
   unknowns:
   - 「かがわ」を漢字の「香川」ではなく平仮名とした理由について、公式ページには選定経過の記載はあるが理由の明記は確認できなかった
   - 「讃東」「東瀬戸」が退けられた具体的な理由は、市の公式ページには明記されていない
+  updated: '2026-11-13'
+- id: muni/37-琴平町
+  code: '374032'
+  names:
+    ja: 琴平町
+    reading: ことひらちょう
+    aliases:
+    - 金毘羅
+  user_terms:
+  - こんぴらさん
+  - こんぴら参りの町
+  naming_type: その他（金毘羅村から琴平村への改称に基づく）
+  prefecture: 香川県
+  homonyms: []
+  summary: 香川県仲多度郡の町で、金刀比羅宮（こんぴらさん）の門前町。「琴平」の名は、1873年に那珂郡金毘羅村が琴平村と改称したことに始まる。「琴平」の字そのものは「金刀比羅」より古く、象頭山に大物主神を祀る社（琴平神社）の名に由来すると考えられている。
+  first_attestation:
+    era: 明治6年
+    year_western: 1873
+    document: 香川県の布達（那珂郡金毘羅村を琴平村と改称）
+    note: 自治体名としての「琴平」の初出。この改称が現在の町名の直接の起源である。神社名としての「琴平」はこれより古いが、文献上の初出は確定できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、琴平町の団体コードは374032と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1873年（明治6年）11月27日、布達により那珂郡金毘羅村が琴平村と改称され、1890年（明治23年）2月15日の町村制施行で琴平村が町制を施行して琴平町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q12-kotohira-wiki
+  - text: 「琴平」の字は現在神社に使われる「金刀比羅」の字より古く、神社名は雷鳴の音を琴の音で打ち消す呪法「ことひき（琴弾）」に由来する可能性があると、國學院大學の神道事典は述べている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - q12-kotohira-eos
+  - text: 金刀比羅宮はもとは大物主神を祀る社であったが、中世に神仏習合の中で「金毘羅大権現」と称され、明治の神仏分離で大物主神を祭神とする神社となり「金刀比羅宮」と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-kotohira-jtb
+  - text: 1165年（長寛3年・永万元年）に、讃岐へ流された崇徳天皇が金刀比羅宮に合祀されたと日本交通公社の観光資源台帳は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-kotohira-jtb
+  - text: 門前町としての琴平は、江戸時代に参詣者が増えたことで表参道沿いに宿屋や土産店が軒を連ねる形で発展した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q12-kotohira-monzen
+  - text: 大物主神が、まだ島だった琴平山（象頭山）に行宮を営み、その跡に神を祀ったのが金刀比羅宮の始まりであるという社伝が伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q12-kotohira-jtb
+  column:
+    title: 町も神社も、名は「琴平」に戻った
+    text: 面白いのは、1873年の改称が「新しい名前」ではなく「古い名前への回帰」だったことだ。神社はもともと「琴平」を名乗り、中世に仏教の水神クンビーラ（金毘羅）と習合して「金毘羅大権現」となった。明治の神仏分離で神社は一度「琴平神社」の名に戻り（のち金刀比羅宮）、村のほうも金毘羅村から琴平村へ改めた。読みは同じ「ことひら」のまま、町と神社の表記だけが入れ替わり続けたのである。
+    sources:
+    - q12-kotohira-eos
+    - q12-kotohira-jtb
+  relations:
+  - pref/37
+  unknowns:
+  - 神社名としての「琴平」の文献上の初出（『延喜式』神名帳の讃岐国多度郡・雲気神社を金刀比羅宮に当てる説があるが、本レコードでは裏づけを取れていない）
+  - 1873年の村名改称を命じた布達の原文・改称理由の記録を、町公式資料で直接確認できていない
+  updated: '2026-11-13'
+- id: muni/37-直島町
+  code: '373648'
+  names:
+    ja: 直島町
+    reading: なおしまちょう
+    aliases:
+    - 加茂女島
+    - 加茂津久島
+    - 真知島
+  user_terms:
+  - なおしま
+  - アートの島
+  naming_type: その他（島名の継承）
+  prefecture: 香川県
+  homonyms: []
+  summary: 香川県香川郡の町で、直島諸島の主島・直島を中心とする離島の町。島名「直島」は、保元の乱に敗れて讃岐へ流される途中の崇徳上皇が、島民の純真素朴さを賞して名付けたという伝承で知られる。直島村が1954年に町制を施行して直島町となり、平成の大合併でも単独の町を維持した。
+  first_attestation:
+    era: 平安時代末期
+    year_western: null
+    document: 『梁塵秘抄』巻第二
+    note: 崇徳天皇を詠んだ歌に「直島の…松」と見えるのが史料上の初出とされる。成立年（12世紀後半）は諸説あるため西暦は null とした。紹介資料経由の確認のため主張側のレベルは落としている
+  claims:
+  - text: 総務省の全国地方公共団体コードで、直島町の団体コードは373648と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 直島は古くは加茂女島・加茂津久島・真知島とも呼ばれていたと直島町の公式計画は記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-naoshima-town-plan
+  - text: 平安時代末期の歌謡集『梁塵秘抄』に「直島の…松」と詠まれており、これが「直島」の史料上の初出とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q12-naoshima-wiki
+  - text: 『保元物語』には、崇徳上皇が御所の完成を待つため直島で3年間を過ごしたことが伝えられている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q12-naoshima-wiki
+  - text: 保元の乱（1156年）に敗れて讃岐へ配流される途中、この島に立ち寄った崇徳上皇が、島民の純真素朴さを賞して「直島」と名付けたと言い伝えられていると、直島町の公式資料は紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q12-naoshima-town-plan
+    - q12-naoshima-suido
+  - text: 島内には姫泊山・納言様・能見の浜など、崇徳上皇の直島滞在に結びつけられた地名が多数残されている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - q12-naoshima-wiki
+  - text: 平成の大合併に際して直島町は合併を選ばず、香川県内で唯一、離島のみで構成される町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-naoshima-kagawa-u
+  column:
+    title: 上皇が残した名前だらけの島
+    text: 直島では、島の名前そのものだけでなく、姫泊山（上皇を追ってきた姫の伝説）、納言様（上皇を訪ねた納言たちが船を着けた地）、能見の浜（上皇が能を見せた浜）など、島内の小地名まで崇徳上皇の3年間に結びつけて語られる。史実として確かめられるのは『保元物語』に滞在が伝えられることまでだが、「直島」という本名の由来まで上皇の命名とする伝承が、島のアイデンティティの中核になっている。
+    sources:
+    - q12-naoshima-town-plan
+    - q12-naoshima-wiki
+  relations:
+  - pref/37
+  unknowns:
+  - 1954年の直島村の町制施行の正確な日付を、町公式資料で直接確認できていない
+  - 「直島」の語源について、『日本歴史地名大系』など専門辞典の評価（崇徳上皇命名説をどう扱うか）を直接確認できていない
+  updated: '2026-11-13'
+- id: muni/37-綾川町
+  code: '373877'
+  names:
+    ja: 綾川町
+    reading: あやがわちょう
+    aliases: []
+  user_terms:
+  - あやがわ
+  - 讃岐うどん発祥の地
+  naming_type: 合併新設
+  prefecture: 香川県
+  homonyms: []
+  summary: 香川県綾歌郡の町。2006年3月21日に綾南町（りょうなん）と綾上町（あやかみ）が合併して発足した。新町名「綾川」は、旧両町を貫いて流れる川・綾川の名をそのまま採用したもので、川名そのものの語源は未詳である。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 綾川町公式サイト「綾川町の概要」
+    note: 新町名としての初出（2006年3月21日の合併発足）。川名「綾川」はそれ以前から流域の地名として使われていたが、文献上の初出は本調査では確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、綾川町の団体コードは373877と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2006年3月21日、綾上町と綾南町が合併して綾川町が誕生したと綾川町公式サイトは記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-ayagawa-town
+  - text: 新しい町名「綾川町」は、旧綾上町と旧綾南町を流れている川「綾川」に由来すると、綾川町の都市計画マスタープランは明記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-ayagawa-masterplan
+  - text: 綾川は町の南東部の山中に源を発し、町域を北西へ流れて府中湖を経て坂出市に流入する川で、町公式は「町名の由来ともなった清流綾川」と呼んでいる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-ayagawa-town
+  - text: 前身の綾南町は1954年4月1日に昭和・陶・滝宮・羽床の4村の合併で発足し、綾上町は同日に山田・羽床上・枌所・西分の4村の合併で発足した綾上村が1962年2月1日に町制を施行したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q12-ayagawa-town
+  - text: 旧両町の名「綾南」「綾上」がいずれも「綾」の字を共有していたのは、ともに綾川流域に位置したためと考えられ、新町名は両町に共通する川名そのものを採った形になっている
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q12-ayagawa-masterplan
+  - text: 唐から帰国した空海から麺の製法を授かった智泉大徳が、故郷・滝宮の両親に麺を振る舞ったことが讃岐うどんの起源であるという伝承があり、綾川町は「讃岐うどん発祥の地」とされる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - q12-ayagawa-wiki
+  column:
+    title: 「南」と「上」が消えて、川だけが残った
+    text: 1954年に生まれた2つの町の名は、綾南（綾川の下流側）と綾上（上流側）という、川に対する位置を示す対の名前だった。2006年に両町が合併すると、方角を示す「南」と「上」はともに捨てられ、共通の核だった川の名「綾川」だけが新しい町名になった。合併新設の町名としては、どちらの旧町名も採らず、両者に共通する自然地名に帰着したきれいな事例である。
+    sources:
+    - q12-ayagawa-town
+    - q12-ayagawa-masterplan
+  relations:
+  - pref/37
+  unknowns:
+  - 川名「綾川」の語源（「綾」を織物に結びつける説明など）と、川名の文献上の初出を確認できていない
+  - 新町名の選定過程（公募の実施や他の候補名）を合併協議会資料で直接確認できていない
   updated: '2026-11-13'
 - id: muni/37-観音寺市
   code: '372056'
@@ -620,6 +1299,96 @@ sources:
     label: 『和名類聚抄（倭名類聚抄）』（承平年間成立）
     level: E1
     note: 原文は未読。自治体公式・専門資料の紹介経由で参照
+  q11-manno-town:
+    label: まんのう町公式資料「まんのう町の紹介」（2006年3月20日の3町合併と、町名の由来は満濃池であることを明記）
+    url: https://www.town.manno.lg.jp/uploaded/attachment/3915.pdf
+  q11-manno-wiki:
+    label: Wikipedia「満濃町」（1955年に吉野村・神野村・四条村が合併して発足した経緯を記す）
+    url: https://ja.wikipedia.org/wiki/満濃町
+  q11-manno-wikizh:
+    label: 中国語版Wikipedia「満濃町」（満濃池の築造・決壊・空海の修築と、2006年の平仮名表記化を記す）
+    url: https://zh.wikipedia.org/wiki/滿濃町
+  q11-marugame-wiki:
+    label: Wikipedia「丸亀藩」（1694年に京極高通へ多度津1万石を分け多度津藩としたことを記す）
+    url: https://ja.wikipedia.org/wiki/丸亀藩
+  q11-miki-wiki:
+    label: Wikipedia「三木町」（公募による町名制定と三木郡の由来、『全讃史』の三大樹の記載を引用紹介）
+    url: https://ja.wikipedia.org/wiki/三木町
+  q11-miki-wikizh:
+    label: 中国語版Wikipedia「三木町」（兵庫県三木市と区別するため讃岐三木と呼ばれることを記す）
+    url: https://zh.wikipedia.org/wiki/三木町
+  q11-shozu-wiki:
+    label: Wikipedia「小豆郡」（1878年に新設された行政区画で、それ以前は小豆島と総称されたことを記す）
+    url: https://ja.wikipedia.org/wiki/小豆郡
+  q11-tadotsu-council:
+    label: 多度津町議会会議録（町長答弁。多度津七福神と四国の近代産業発祥の地を記す）
+    url: https://www.town.tadotsu.kagawa.jp/material/files/group/13/2040307nakano.pdf
+  q11-tadotsu-kyoiku:
+    label: 多度津町教育委員会「たどつのむかし・日本遺産資料」（古代の多度郡の港、金毘羅参詣と多度津湛甫、北前船寄港地の認定を記す）
+    url: https://www.town.tadotsu.kagawa.jp/material/files/group/14/tadotsunomukashi21b.pdf
+  q11-tadotsu-wiki:
+    label: 韓国語版Wikipedia「多度津町」（1890年の多度津町誕生と少林寺拳法の総本山・総本部を記す）
+    url: https://ko.wikipedia.org/wiki/다도쓰정
+  q11-tonosho-meti:
+    label: 中小企業庁「経営発達支援計画の概要（土庄町商工会）」（1955年の合併と大部村編入の経緯を記す）
+    url: https://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/37-08.pdf
+  q11-tonosho-wiki:
+    label: Wikipedia「土庄町」（肥土庄に由来する名称と土庄村・土庄町の沿革を記す）
+    url: https://ja.wikipedia.org/wiki/土庄町
+  q11-tonosho-wikizh:
+    label: 中国語版Wikipedia「土庄町」（世界で最も狭い海峡とされる土渕海峡で知られることを記す）
+    url: https://zh.wikipedia.org/wiki/土庄町
+  q11-utazu-meti:
+    label: 経済産業省四国経済産業局「経営発達支援計画の概要（宇多津町商工会）」（県内最小の町、江戸中期から1972年まで全国屈指の塩の町であったことを記す）
+    url: https://www.shikoku.meti.go.jp/03_sesakudocs/0404_chusho/shokibo/shikoku/pdf/37-12.pdf
+  q11-utazu-port:
+    label: 香川県土木部港湾課「香川の港湾 宇多津港」（鎌倉時代より讃岐の船着き場・鵜足津として知られたと解説）
+    url: https://www-pref-kagawa-lg-jp.cache.yimg.jp/documents/13082/utadu.pdf
+  q11-utazu-wiki:
+    label: Wikipedia「宇多津町」（鵜足郡の津という町名の由来、細川頼之の居城、宇多津村・宇多津町の沿革を記す）
+    url: https://ja.wikipedia.org/wiki/宇多津町
+  q12-ayagawa-masterplan:
+    label: 綾川町「綾川町都市計画マスタープラン」第2章（町公式資料。「新しい町名である綾川町は、旧綾上町と旧綾南町を流れている『綾川』に由来しています」と明記）
+    url: https://www.town.ayagawa.lg.jp/docs/2023030800028/file_contents/230110_toshikeikakuMP02.pdf
+  q12-ayagawa-town:
+    label: 綾川町公式サイト「綾川町の概要」（平成18年3月21日に綾上町と綾南町が合併して誕生、町名の由来ともなった清流綾川、1954年の両町の発足経緯）
+    url: https://www.town.ayagawa.lg.jp/docs/2011071200013/
+  q12-ayagawa-wiki:
+    label: Wikipedia「綾川町」（讃岐うどん発祥の地とされる滝宮、菅原道真ゆかりの滝宮天満宮など）
+    url: https://ja.wikipedia.org/wiki/%E7%B6%BE%E5%B7%9D%E7%94%BA
+  q12-kotohira-eos:
+    label: 國學院大學デジタルミュージアム「Encyclopedia of Shinto」Konpira Shinkōの項（「琴平」の字は「金刀比羅」より古く、雷鳴を琴の音で打ち消す呪法「ことひき」に由来する可能性を述べる）
+    url: https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8884
+  q12-kotohira-jtb:
+    label: （公財）日本交通公社「全国観光資源台帳」金刀比羅宮（由緒諸説、1165年の崇徳天皇合祀、明治の神仏分離で大物主神を祭神とする神社になった経緯）
+    url: https://tabi.jtb.or.jp/res/370014-
+  q12-kotohira-monzen:
+    label: 住まいと町の情報サイト「琴平町 ～こんぴらさんのお膝元として発展した門前町～」（門前町は江戸時代に参詣者の増加で発展したとする解説）
+    url: https://www.jutaku-sumai.jp/town/machinami/kotohira.html
+  q12-kotohira-wiki:
+    label: Wikipedia「琴平町」（1873年の金毘羅村から琴平村への改称、1890年の町制施行の沿革）
+    url: https://ja.wikipedia.org/wiki/%E7%90%B4%E5%B9%B3%E7%94%BA
+  q12-naoshima-kagawa-u:
+    label: 香川大学経済論叢の論文「瀬戸内海島嶼部における地域活性化の現状と課題」（直島町は平成の大合併で合併を選ばず、香川県内で唯一の離島のみで構成された町となったとする）
+    url: https://kagawa-u.repo.nii.ac.jp/record/6634/files/AN00038281_83_89_98.pdf
+  q12-naoshima-suido:
+    label: 直島町「直島町水道ビジョン」第1章（町公式資料。「直島」という地名は崇徳上皇が島民の純真素朴さを賞して命名されたと伝えられていると明記）
+    url: http://www.town.naoshima.lg.jp/torikumi/suido/item/nsb.pdf
+  q12-naoshima-town-plan:
+    label: 直島町「直島町過疎地域持続的発展計画」（町公式計画。古称は加茂女島・加茂津久島・真知島、崇徳上皇が島民の純真素朴さを賞して直島と名付けたという言い伝えを紹介）
+    url: https://www.town.naoshima.lg.jp/torikumi/item/kasokeikaku_R7.3.pdf
+  q12-naoshima-wiki:
+    label: Wikipedia「直島」（『梁塵秘抄』が史料上の初出とされること、『保元物語』に上皇の3年間の滞在が伝えられること）
+    url: https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%B3%B6
+  q12-shodoshima-historia:
+    label: ローカルヒストリア「香川県 小豆島」（島の通史。古代の読み「あずきしま」、備前国児島郡への所属、2006年の2町合併の経緯）
+    url: https://local-historia.jp/kagawa/shodoshima
+  q12-shodoshima-kokugakuin:
+    label: 國學院大學「古事記地名データベース」小豆島の項（『古事記』国生みの記載、別名大野手比売、『続日本紀』延暦3年条「備前国児嶋郡小豆嶋」・平城宮木簡「備前国児嶋郡小豆郷」を紹介）
+    url: https://kojiki.kokugakuin.ac.jp/chimei/azukishima
+  q12-shodoshima-meti:
+    label: 経済産業省中小企業庁「経営発達支援計画の概要」（小豆島町商工会。平成18年3月21日に内海町と池田町が合併して誕生したことを明記）
+    url: https://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/37-09.pdf
   q5-higashikagawa-keii:
     label: 東かがわ市「合併までの経緯」（市公式。引田町・白鳥町・大内町の3町は手袋生産で全国シェアの約9割を占めるなど古くから結びつきが深かったことを記す）
     url: https://www.higashikagawa.jp/soshikikarasagasu/senryaku/gyomuannai/824/2/1413.html
