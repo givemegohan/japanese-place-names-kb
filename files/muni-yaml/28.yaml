@@ -250,6 +250,81 @@ records:
   - 「さん」の語源の定説は確認できなかった
   - 南北朝時代の記録に「三田城」の名が見えると市の概要は述べるが、その史料名までは特定できなかった
   updated: '2026-11-13'
+- id: muni/28-上郡町
+  code: '284815'
+  names:
+    ja: 上郡町
+    reading: かみごおりちょう
+    aliases:
+    - 上郡村
+    - 上河原村
+  user_terms:
+  - 上郡という名前の由来
+  - かみごおりの読み方
+  - 赤穂郡の町
+  naming_type: 一部の地名
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 江戸時代から続く上郡村の名を受け継ぐ町。『日本歴史地名大系』によれば慶長国絵図に「上かうり村」と見え、当初「上河原村」といったという伝承がある。1913年に町制を施行し、1955年の合併で現在の上郡町となった。
+  first_attestation:
+    era: 慶長期
+    year_western: null
+    document: 『慶長国絵図』
+    note: 『日本歴史地名大系』が「上かうり村」と見えることを紹介する。慶長国絵図の成立は1596〜1615年頃と幅があるため year_western は null とする
+  claims:
+  - text: 『日本歴史地名大系』は、慶長年間の国絵図に「上かうり村」と見えることを記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x11-kamigori-kotobank
+  - text: 『赤穂郡誌』の伝承として、竹万の住民が移住して開発し、当初「上河原村」といったが、後に上郡村と改称したと『日本歴史地名大系』が紹介する
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - x11-kamigori-kotobank
+  - text: 江戸時代に上郡村が存在し、1889年（明治22年）に上郡村・井上村・大持村・山野里村・竹万村の区域で新しい上郡村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-kamigori-plan
+  - text: 古代、この地には山陽道が通り高田駅家・野磨駅家が置かれ、赤穂郡の政治・文化の中心地だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-kamigori-plan
+  - text: 1913年（大正2年）4月1日に上郡村が町制を施行して（旧）上郡町となり、1955年（昭和30年）3月25日に高田村・鞍居村・船坂村・赤松村の一部と合併して新しい上郡町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-kamigori-nenpyo
+  - text: 「上郡」の名は、千種川の上流部・赤穂郡の上部に位置することにちなむ位置地名と考えられるが、その命名を明示する資料は本調査では確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x11-kamigori-kotobank
+  - text: 地方公共団体コードは284815である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「上河原村」だった頃
+    text: 上郡村は、もとは「上河原村」と呼ばれていたという伝承があります。『赤穂郡誌』が伝え、『日本歴史地名大系』が紹介する話では、竹万の住民が移り住んで開いた土地で、川原の上の方という地形そのままの名だったものが、やがて「上郡村」に改まったとされます。慶長国絵図に「上かうり村」とあるのが文献上の姿で、伝承の「川原」の名は、郡の中心地らしい今の名より前の、開拓地らしい素朴な名だったことになります。
+    sources:
+    - x11-kamigori-kotobank
+  relations:
+  - pref/28
+  unknowns:
+  - 「上郡」の命名理由を明示する資料は未確認
+  - 「上河原村」から「上郡村」への改称の時期は未確認
+  updated: '2026-11-13'
 - id: muni/28-丹波市
   code: '282235'
   names:
@@ -502,6 +577,75 @@ records:
   - pref/28
   unknowns:
   - 「伊丹」の語源は諸説あるが定説はなく、諸説の内容自体も専門文献による確認が未了
+  updated: '2026-11-13'
+- id: muni/28-佐用町
+  code: '285013'
+  names:
+    ja: 佐用町
+    reading: さようちょう
+    aliases:
+    - さよちょう
+  user_terms:
+  - 佐用は「さよう」と読む
+  - さよちょうとの違い
+  - 佐用都比売の町
+  naming_type: 一部の地名
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 『播磨国風土記』の佐用都比売の伝承に結びつく古い郡名を受け継ぐ町。読みはもともと「さよ」で、1955年の合併で新・佐用町が「さようちょう」と称してから「さよう」が広まった。現在の町は2005年に4町の新設合併で発足した。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『播磨国風土記』
+    note: 佐用都比売の伝承と「五月夜郡」の名が見える。郡名としての「佐用」の確実な初出は未確認のため year_western は null とする
+  claims:
+  - text: 『播磨国風土記』の伝承では、佐用都比売（玉津日女命）が兄の伊和大神と国の占有を争い、鹿の腹を裂いてその血に種を蒔いて一夜で稲の苗を育て、五月夜（さつきよ）に植えたところ、兄神が「五月夜に植えたな」と言って去ったため、その地を「五月夜郡（さつきよのこおり）」と名付け、女神も佐用都比売と名を変えたとされる。二次資料が風土記の記載として紹介するもの
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x11-sayo-wiki
+  - text: 町内には、佐用都比売を祀る式内社・佐用都比売神社が鎮座する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-sayo-wiki
+  - text: 「佐用」の読みはもともと「さよ」だったが、1955年（昭和30年）3月1日の合併で新しい佐用町が「さようちょう」と称したことから、郡の読みも「さようぐん」と読まれることが多くなった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-sayogun-wiki
+  - text: 佐用郡は1896年（明治29年）に岡山県（美作国）吉野郡の一部を編入しており、郡域は播磨国と美作国にまたがった時期がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-sayogun-wiki
+  - text: 現在の佐用町は2005年（平成17年）10月1日に佐用町・上月町・南光町・三日月町の4町が新設合併して発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-sayo-wiki
+  - text: 地方公共団体コードは285013である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「さよ」が「さよう」になった町
+    text: 佐用町は「さようちょう」と読みますが、古い読みは「さよ」でした。『播磨国風土記』の女神・佐用都比売の名に連なる古い呼び名が、1955年の合併で新しい佐用町が「さよう」を名乗ったことを境に、郡の読みまで含めて「さよう」に寄っていったのです。地名の読みは、合併のような行政の節目で静かに変わることがある、という好例です。
+    sources:
+    - x11-sayogun-wiki
+    - x11-sayo-wiki
+  relations:
+  - pref/28
+  unknowns:
+  - 郡名「佐用」の確実な初出は未確認（『播磨国風土記』では「五月夜郡」とされ、女神の名として「佐用」が現れる）
+  - 1955年の合併で読みを「さよう」とした経緯の公式記録は未確認
   updated: '2026-11-13'
 - id: muni/28-加古川市
   code: '282103'
@@ -807,6 +951,82 @@ records:
   - muni/28-洲本市
   unknowns:
   - 新市名の候補に挙がった他の名称や、公募など選定方法の詳細は合併協議会資料の一部しか確認できなかった
+  updated: '2026-11-13'
+- id: muni/28-多可町
+  code: '283657'
+  names:
+    ja: 多可町
+    reading: たかちょう
+    aliases:
+    - 託賀郡
+  user_terms:
+  - 多可という名前の由来
+  - 敬老の日発祥の地
+  - 空が高いという地名
+  naming_type: 合併新設
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 2005年（平成17年）に多可郡の中町・加美町・八千代町が新設合併して生まれた町で、新町名には3町に共通する旧郡名「多可」を採用した。郡名は『播磨国風土記』に「託賀郡」と見える古い名で、大男が「空が高い」と言ったという命名伝説が伝えられる。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『播磨国風土記』
+    note: 郡名は「託賀郡」と記される。現在の「多可」の表記の初出は未確認のため year_western は null とする
+  claims:
+  - text: 多可町役場の定住サイトは、『播磨国風土記』に、瀬戸内の方からやって来た大男が「ここへ来たら空が高いなあ」と言ったので「たか」という地名になったという伝説が残ると紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x11-taka-teiju
+  - text: 『播磨国風土記』では、この郡は「託賀郡」と記される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-takagun-wiki
+  - text: 2005年（平成17年）11月1日に多可郡の中町・加美町・八千代町が新設合併して多可町が誕生した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-taka-uub
+  - text: 新町名には、合併した3町に共通する旧郡名「多可」が採用された。合併後、多可郡は多可町のみで構成される
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-taka-uub
+    - x11-takagun-wiki
+  - text: 合併に先立ち、2002年（平成14年）に西脇市を含む5市町合併の住民発議があったが、加美町・八千代町が否決し、黒田庄町は西脇市へ、多可郡3町での合併にまとまった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-taka-uub
+  - text: 「敬老の日」は、1947年（昭和22年）に多可郡野間谷村（現・多可町八千代区）で行われた敬老行事をきっかけに国民の祝日となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-taka-mext
+  - text: 地方公共団体コードは283657である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 空が高い、という地名
+    text: 『播磨国風土記』に残る多可の命名伝説は、拍子抜けするほど素朴です。瀬戸内の方から山を越えてきた大男が「ここへ来たら空が高いなあ」と言った——それが「たか」の始まりだとか。盆地に開けた空の広さを、大男の背の高さと視点で語るあたりに、古代の地名譚らしいおおらかさがあります。この町はもう一つ、「敬老の日」発祥の地としても知られます。
+    sources:
+    - x11-taka-teiju
+    - x11-taka-mext
+  relations:
+  - pref/28
+  unknowns:
+  - 「多可」の表記がいつ「託賀」から改まったかは未確認
+  - 風土記の大男伝説の舞台が現在の町域のどこにあたるかは未確認
   updated: '2026-11-13'
 - id: muni/28-太子町
   code: '284645'
@@ -1356,6 +1576,256 @@ records:
   - 「川西」という呼び名の文献上の初出は確認できなかった
   - 山形県川西町・奈良県川西町との由来の異同は相手側レコードで別途確認する
   updated: '2026-11-13'
+- id: muni/28-市川町
+  code: '284424'
+  names:
+    ja: 市川町
+    reading: いちかわちょう
+    aliases: []
+  user_terms:
+  - 市川
+  - いちかわ
+  - 兵庫の市川
+  - 神崎郡市川町
+  - 銀の馬車道の町
+  naming_type: 一部の地名（川名「市川」の継承）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 神崎郡の町。1955年に川辺村・瀬加村・甘地村・鶴居村が合併して誕生した。町名は、町の中央を北から南へ流れる清流・市川に由来する（町公式資料が明記）。千葉県市川市とは別の自治体で、こちらは川の名前そのものを町名にしている。川名の語源は、播磨国府の市（飾磨の市）にちなむという説が紹介されているが、確定していない。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 川名「市川」の文献上の初出は本バッチでは確認できなかった。町名としての使用は1955年の町発足に始まる
+  claims:
+  - text: 町公式の沿革によれば、1955年（昭和30年）に川辺村・瀬加村・甘地村・鶴居村の4村が合併して市川町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-ichikawa-ayumi
+  - text: 町公式の計画書は「まちの中央には町名の由来にもなっている、清流『市川』が北から南へ流れている」と記しており、町名が川名「市川」に由来することが町の公式見解として示されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-ichikawa-kaso
+  - text: 川名「市川」の語源について、Wikipedia「市川 (兵庫県)」は、流域の播磨国府の市（飾磨の市）から市川と呼ばれるようになったと考えられていると記す。専門資料での裏づけは未確認である
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x12-ichikawa-river-wiki
+  - text: 兵庫県立歴史博物館は、市川が播磨最北端の神河町に源を持ち、円山川水系へ抜ける道が古くから播磨と但馬を結ぶ重要な交通路だったと紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-ichikawa-rekihaku
+  - text: 2005年（平成17年）には神崎町・市川町・大河内町の合併協議会が発足し、市川町では合併の是非を問う住民投票も実施されたが、市川町は合併せず、神崎町と大河内町のみが合併して神河町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-ichikawa-ayumi
+    - x12-kamikawa-senryaku
+  - text: 2017年（平成29年）、生野銀山と姫路を結んだ「銀の馬車道」が「播但貫く、銀の馬車道 鉱石の道」として日本遺産に認定され、市川町もその構成地域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-ichikawa-ayumi
+  - text: 市川町の地方公共団体コードは284424である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 川の名が、そのまま町の名になった
+    text: 兵庫県市川町の名は、町を貫く川「市川」そのものから来ている。川は上流の神河町方面に発し、町を南へ流れて姫路市飾磨の港へ注ぐ。「市川」の「市」は、播磨国府の市（飾磨の市）にちなむという説がある。千葉県の市川市と間違えられることが多いが、兵庫の市川町は川の名をそのまま町名にした点に特徴がある。2005年には近隣町との合併協議会に加わりながら、住民投票を経て単独の道を選んだ。川の名を町の名として守り続けている。
+    sources:
+    - x12-ichikawa-kaso
+    - x12-ichikawa-river-wiki
+    - x12-ichikawa-ayumi
+  relations:
+  - pref/28
+  unknowns:
+  - 川名「市川」の文献上の初出と語源の確定資料は本バッチでは確認できなかった（飾磨の市に由来する説はWikipediaのみ）
+  - 『市川町史』での町名由来の記述は未確認
+  updated: '2026-11-13'
+- id: muni/28-播磨町
+  code: '283827'
+  names:
+    ja: 播磨町
+    reading: はりまちょう
+    aliases:
+    - 阿閇
+  user_terms:
+  - 播磨
+  - はりま
+  - 阿閇
+  - あえ
+  - 加古郡播磨町
+  naming_type: 新規命名（1962年の町制施行時の改称。旧国名「播磨」にちなむとみられる）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 加古郡の町。前身は『播磨国風土記』にも「阿閇津」「阿閇村」が見える古い地名「阿閇（あえ）」の村で、1889年に阿閇村として発足した。1962年4月1日、町制施行と同時に「播磨町」と改称した。新名は旧国名「播磨国」にちなむものとみられるが、改称当時の選定理由を示す資料は確認できていない。
+  first_attestation:
+    era: 奈良時代
+    year_western: 715
+    document: 『播磨国風土記』賀古郡条
+    note: 現町名「播磨」自体の初出ではなく、前身地名「阿閇（阿閇津・阿閇村）」の初出。『播磨国風土記』の成立は713〜715年頃とされる
+  claims:
+  - text: 1889年（明治22年）4月1日の町村制施行により阿閇村が発足した。歴史的行政区域データセットでは、阿閇村を前身として播磨町の有効期間が1962年4月1日からとされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-harima-town-ayumi
+    - x12-harima-geoshape
+  - text: 1962年（昭和37年）4月1日、阿閇村は町制を施行し、同時に「播磨町」と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-harima-koho-2012
+    - x12-harima-geoshape
+  - text: 広報はりま2012年4月号の町制50周年特集は、創刊号（昭和37年4月1日号）の町長挨拶を引用し、当時の村が「播磨臨海工業地帯として、今後の発展に重要な位置を占める本村」と位置づけられていたことを伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-harima-koho-2012
+  - text: 新町名「播磨」は旧国名の播磨国にちなむ名とみられるが、改称当時にその選定理由を明示した資料は本バッチでは確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x12-harima-koho-2012
+  - text: 『播磨国風土記』賀古郡条には「阿閇津（あへのつ）」「阿閇村」が記されており、「阿閇」は奈良時代の文献に現れる古い地名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-harima-fudoki-yaku
+    - x12-harima-kakokita
+  - text: 『播磨国風土記』は阿閇の名の由来を、大帯日子命（景行天皇）が印南別嬢（いなみのわきのいらつめ）を訪ねる途上、阿閇津で御食をたてまつった故事に求めている。兵庫県立加古川北高校の郷土資料も「阿閇はその時の故事に因んだ地名です」と紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-harima-fudoki-yaku
+    - x12-harima-kakokita
+  - text: 「阿閇」の語源そのもの（「あへ」の意味）については、風土記の故事以外に確定的な説明を確認できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - x12-harima-fudoki-yaku
+  - text: 播磨町の地方公共団体コードは283827である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 風土記に残る「阿閇」、1962年に消えた難読地名
+    text: 「阿閇（あえ）」は、『播磨国風土記』の時代から続く地名だった。景行天皇が印南別嬢に会いに行く物語の舞台で、天皇が食事をとった津（港）が阿閇津、その地が阿閇村と呼ばれたという。ところが1962年、町制施行を機に村は「播磨町」へと改称し、千年以上続いた「阿閇」の名は自治体名としては姿を消した。今も町内には阿閇神社の名などにその名残が残る。
+    sources:
+    - x12-harima-fudoki-yaku
+    - x12-harima-koho-2003
+    - x12-harima-koho-2012
+  relations:
+  - pref/28
+  unknowns:
+  - 「播磨町」への改称理由を明示した当時の資料（村議会記録・町史等）は未確認
+  - 「阿閇」の語源（風土記の故事を離れた言語学的な説明）は未確認
+  - 阿閇村発足時（1889年）の構成村の詳細は町史での確認が今後の課題
+  updated: '2026-11-13'
+- id: muni/28-新温泉町
+  code: '285862'
+  names:
+    ja: 新温泉町
+    reading: しんおんせんちょう
+    aliases: []
+  user_terms:
+  - 新温泉
+  - しんおんせん
+  - 湯村温泉の町
+  - 浜坂
+  - 温泉町と浜坂町が合併した町
+  naming_type: 合併新設（旧町名「温泉町」に「新」を付けた新町名。当初案から変更されて決まった）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 美方郡の町。2005年10月1日に温泉町と浜坂町が新設合併して発足した。新町名は当初「温泉町」と決まっていたが、浜坂町側の反発で「新温泉町」に変更されたという異例の経緯を持つ。旧温泉町の中心・湯村温泉は、円仁（慈覚大師）が開いたと伝える古湯で、98度の源泉「荒湯」で知られる。
+  first_attestation:
+    era: 平成
+    year_western: 2005
+    document: 浜坂町・温泉町合併協定（2005年3月19日再調印）
+    note: 新町名「新温泉町」は2005年3月19日の合併協定再調印で確定し、同年7月7日に官報告示された（市区町村変遷情報による）
+  claims:
+  - text: 2005年（平成17年）10月1日、浜坂町と温泉町が合併して新温泉町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-shinonsen-nenpyo
+    - x12-shinonsen-ndl
+  - text: 新町名は一度「温泉町」と決定していたが、浜坂町が難色を示したため、2005年3月19日に「新温泉町」へ変更して合併協定が再調印された。協定には町名を合併後に改めて検討するという留保が付されていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x12-shinonsen-uub
+  - text: 町名の候補は浜坂・温泉・おんせん・湯の浜・湯の里の5点から、浜坂・温泉の2点に絞り込まれていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x12-shinonsen-uub
+  - text: 旧温泉町は、1889年に湯村など11村の区域をもって二方郡温泉村として発足し、1896年に美方郡へ移り、1927年4月15日に町制を施行して温泉町となった。1954年には照来村・八田村と合併している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-shinonsen-onsen-wiki
+  - text: 旧浜坂町は、1889年に東浜村として発足し、1891年12月11日に町制施行・改称して浜坂町となった。1954年には大庭村・西浜村と合併している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-shinonsen-hamasaka-wiki
+  - text: 湯村温泉は、嘉祥元年（848年）に円仁（慈覚大師）によって開かれたとされると兵庫県の資料は紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-shinonsen-ken-archive
+  - text: 湯村温泉の源泉「荒湯」は98度の高温泉である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-shinonsen-ken-archive
+  - text: 新温泉町の地方公共団体コードは285862である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一度決まった「温泉町」が、ひっくり返った
+    text: 平成の大合併では、合併相手の名前をそのまま新町名にすることが多かった。新温泉町でも当初は「温泉町」に決まっていた。ところが浜坂町側が難色を示し、協定の再調印の末に生まれたのが「新温泉町」だった。それでも協定には「町名は合併後に検討する」という留保が残された。合併から20年以上経った今も町名は「新温泉町」のままで、「新」の字は合併の駆け引きの記念碑になっている。
+    sources:
+    - x12-shinonsen-uub
+    - x12-shinonsen-nenpyo
+  relations:
+  - pref/28
+  unknowns:
+  - 新町名の最終決定に至る協議の詳細（合併協議会の記録そのもの）は未確認で、市区町村変遷情報（uub.jp）の記述に依拠した
+  - 旧温泉町の名「温泉」自体の由来（湯村温泉にちなむ命名か等）を明示した資料は未確認
+  updated: '2026-11-13'
 - id: muni/28-明石市
   code: '282031'
   names:
@@ -1658,6 +2128,92 @@ records:
   - 新市名の選定過程（公募の有無や他の候補名）については、合併協議会資料での確認が未了
   - 「穂之狭別」の語義については諸説があり、特定できなかった
   updated: '2026-11-13'
+- id: muni/28-猪名川町
+  code: '283011'
+  names:
+    ja: 猪名川町
+    reading: いながわちょう
+    aliases:
+    - 猪名野
+  user_terms:
+  - 猪名川
+  - いながわ
+  - 川辺郡猪名川町
+  - 多田銀銅山の町
+  naming_type: 一部の地名（川名「猪名川」の継承とみられる）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 川辺郡の町で、兵庫県の南東部に位置する。1955年に中谷村と六瀬村が合併して誕生した。町名は、町最北部の大野山を源流とし町の中央を南流する猪名川にちなむとみられる。川名の由来には、『住吉大社神代記』の阿我奈川の伝承と、『日本書紀』『新撰姓氏録』に現れる職能集団「猪名部」に結びつける説がある。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 川名「猪名川」の文献上の初出は本バッチでは確認できなかった。『住吉大社神代記』の「阿我奈川」をその前身とする伝承がある
+  claims:
+  - text: 1955年（昭和30年）4月10日、中谷村と六瀬村が合併して猪名川町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inagawa-yoran
+    - x12-inagawa-shirahama
+    - x12-inagawa-town-lib
+  - text: 猪名川は町の最北部にある大野山（標高753m）を水源地とし、渓谷を南に流れて町の中央を貫く
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inagawa-mlit
+    - x12-inagawa-shirahama
+  - text: 新町名「猪名川」は、この川の名をそのまま採用したものとみられる。ただし、合併当時の命名経緯を明示した資料は本バッチでは確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x12-inagawa-mlit
+    - x12-inagawa-town-lib
+  - text: 国土交通省猪名川河川事務所は、川名の由来について、『住吉大社神代記』によれば、川のほとりに住んでいた山直阿我奈賀（やまのあたいあがなが）が川を阿我奈川と名付け、それが訛って為奈川（いながわ）となったと言われている、と紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-inagawa-mlit
+  - text: 一方、尼崎市教育委員会の資料は、『日本書紀』に猪名部御田が見えること、『新撰姓氏録』に猪名部造・為奈部首が見えることを挙げ、「猪名野」は猪名部（朝廷に仕えた職能集団）の住む野に由来すると考えられると説明する。川名の由来については、この説も併存する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - x12-inagawa-ama
+  - text: 町内の多田銀銅山は、東大寺大仏の鋳造の際に銅を献上したと伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-inagawa-shirahama
+  - text: 1970年代以降、町南部では日生ニュータウン・猪名川パークタウンなどの大規模開発が進み、合併当初7,000人台だった人口は2010年には31,700人を超えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inagawa-shirahama
+  - text: 猪名川町の地方公共団体コードは283011である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「猪」の字は、イノシシではないかもしれない
+    text: 猪名川の「猪」は、動物のイノシシとは無関係かもしれない。古代、朝廷に仕える職能集団に「猪名部（いなべ）」があり、『日本書紀』や『新撰姓氏録』にその名が見える。この一帯は「猪名野」と呼ばれ、猪名部の人々の本拠だったと考えられている。いっぽう『住吉大社神代記』には、山直阿我奈賀が名付けた「阿我奈川」が訛って「為奈川」になったという物語もある。二つの由来譚が重なって、今の「猪名川」の字がある。
+    sources:
+    - x12-inagawa-ama
+    - x12-inagawa-mlit
+  relations:
+  - pref/28
+  unknowns:
+  - 合併時の町名選定の経緯（なぜ川名が採用されたか）を記した一次資料は未確認
+  - 川名「猪名川」の文献上の初出は未確認。神代記説と猪名部説のどちらが古い地名の実態に近いかは判断できない
+  updated: '2026-11-13'
 - id: muni/28-相生市
   code: '282081'
   names:
@@ -1824,6 +2380,257 @@ records:
   unknowns:
   - 地名「神戸」が文書に現れる初出の年代は、今回参照した市公式・辞典資料では特定できなかった。
   - 生田神社の神戸がどの程度の規模の集落をなし、いつ「神戸村」として定着したかなど、成立過程の詳細は未確認である。
+  updated: '2026-11-13'
+- id: muni/28-神河町
+  code: '284467'
+  names:
+    ja: 神河町
+    reading: かみかわちょう
+    aliases: []
+  user_terms:
+  - 神河
+  - かみかわ
+  - 神河町
+  - 神崎郡神河町
+  naming_type: 合併新設（公募と合併協議会の投票で選ばれた新町名）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 神崎郡の町。2005年11月7日に神崎町と大河内町が合併して発足した。新町名「神河」は、886点の公募作品の中から、合併協議会の投票で「美里」との決選を制して選ばれた。「神崎の『神』と大河内の『河』」という字の構成が一般に連想されるが、協議会の公式記録に命名理由の明示はない。
+  first_attestation:
+    era: 平成
+    year_western: 2005
+    document: 神崎町・大河内町合併協議会だより第13号（2005年3月1日発行）
+    note: 新町名「神河町」の決定（2005年1月22日の第16回合併協議会）を報じた合併協議会の広報紙
+  claims:
+  - text: 2005年（平成17年）11月7日、神崎町と大河内町が合併して神河町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kamikawa-senryaku
+    - x12-kamikawa-kpu
+  - text: 新町の名称は公募され、886点の作品が寄せられた。「神河町」は17名が応募した作品だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kamikawa-dayori13
+  - text: 最終選考は合併協議会委員の無記名投票で行われ、第一次選考で「神河」18票・「美里」14票などとなり、決選投票で「神河」17票対「美里」7票で「神河町」に決定した（2005年1月22日、第16回合併協議会）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kamikawa-dayori13
+  - text: 最終候補に残った5作品は、神河・秀峰（しゅうほう）・埴岡（はにおか）・美里（みさと）・わかばだった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kamikawa-dayori13
+  - text: 「神河」の字は、神崎町の「神」と大河内町・市川水系の「河」を組み合わせたものと一般に解されるが、合併協議会だよりには命名の理由や字の由来の説明は記されていない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x12-kamikawa-dayori13
+  - text: 合併相手の大河内町は1955年（昭和30年）に寺前村・長谷村が合併して発足した町で、その名は、この地域がかつて「大河内庄」と称されていたことに由来するとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-kamikawa-okawachi-wiki
+    - x12-kamikawa-kpu
+  - text: 旧神崎町域を含む一帯は古代の神前（かむさき）郡にあたり、『播磨国風土記』神前郡条は、伊和大神の子・建石敷命が神前山に坐したことから郡名がついたと語る。現在の郡名「神崎」は、この「神前」の表記が変わったもの
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-kobe-u-fukusaki-report
+  - text: 神河町の地方公共団体コードは284467である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 決選投票は「神河」17対「美里」7
+    text: 新町名は、住民らから寄せられた886点の公募作の中から選ばれた。絞り込まれた5候補は「神河」「美里」「埴岡」「秀峰」「わかば」。合併協議会の委員による投票で、最後は「神河」と「美里」の一騎打ちになり、17対7で「神河町」に決まった。なお合併そのものについても大河内町では住民投票が行われ、「神崎町と二町合併をする」が1,796票で最多だった。市川町を加えた三町合併案も848票を集めたが、実現しなかった。
+    sources:
+    - x12-kamikawa-dayori13
+  relations:
+  - pref/28
+  unknowns:
+  - 「神河」の命名理由（字の構成の意図）を公式に説明した資料は、合併協議会だより第13号を含め本バッチでは確認できなかった
+  - 旧神崎町の名が郡名「神崎」に由来することの明示的な資料は未確認
+  updated: '2026-11-13'
+- id: muni/28-福崎町
+  code: '284432'
+  names:
+    ja: 福崎町
+    reading: ふくさきちょう
+    aliases: []
+  user_terms:
+  - 福崎
+  - ふくさき
+  - 柳田國男の生まれた町
+  - 八千種
+  - 神崎郡福崎町
+  naming_type: その他（1889年の福崎村発足以来の名。地名の由来は未確認）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 神崎郡の町。1889年に福崎村として発足し、1925年に町制を施行、1956年に田原村・八千種村を編入した。町域は古代の播磨国神前郡にあたり、『播磨国風土記』の里々に比定される地域を含むが、「福崎」という地名そのものの語源は、確認できた町公式・学術資料では説明されていない。民俗学者・柳田國男の生誕地として知られる。
+  first_attestation:
+    era: 明治
+    year_western: 1889
+    document: 町村制施行による福崎村の発足
+    note: 自治体名としての初出。地名「福崎」自体の初出・語源は未確認で、1889年以前の小地名としての存在も確認できなかった
+  claims:
+  - text: 歴史的行政区域データセットによれば、福崎村の存続期間は1889年4月1日から1925年12月1日までで、同日に町制を施行して福崎町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-fukusaki-geoshape
+    - x12-fukusaki-school
+  - text: 1956年（昭和31年）5月3日、田原村・八千種村を編入して現在の福崎町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-fukusaki-zh-wiki
+  - text: 町域は古代の播磨国神前郡にあたり、神戸大学の調査報告書は、町域が『播磨国風土記』神前郡条の高岡里・川辺里・多駝里などにあたるとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kobe-u-fukusaki-report
+  - text: 『播磨国風土記』神前郡条の冒頭は、伊和大神の子・建石敷命が山崎村の神前山に鎮座したことから「神前（かむさき）」の名がついたと語る。町公式資料もこの記述を紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-kobe-u-fukusaki-report
+    - x12-fukusaki-school
+  - text: 風土記の多駝里条にみえる「八千軍野」は、天日桙命（あめのひぼこのみこと）の軍が八千あったことに由来するという地名起源説話で、その比定地は現在の福崎町八千種とみるのが通説であると神戸大学の報告書は述べる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x12-kobe-u-fukusaki-report
+  - text: 1894年（明治27年）に播但鉄道が開通して福崎駅が置かれると、駅前に町場が形成されて郡内でも中心的な商業地として栄え、この人口増加を背景に1925年の町制施行に至った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-fukusaki-school
+  - text: 「福崎」という地名そのものの語源については、町公式資料・神戸大学の調査報告書を確認した範囲では説明が見当たらなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - x12-fukusaki-school
+    - x12-kobe-u-fukusaki-report
+  - text: 福崎町の地方公共団体コードは284432である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 天日桙命の軍「八千」が地名になった八千種
+    text: 福崎町の大字「八千種（やちくさ）」は、『播磨国風土記』の地名起源説話の舞台とされる。渡来の神・天日桙命の軍が八千もあったので、その野を「八千軍野」と呼んだという。八千種はこの八千軍野の比定地とみるのが通説で、古代の物語が今の住所に姿を変えて残っている。同じ風土記の神前郡条は、隣の市川町・神河町にもまたがる郡名「神前（かむさき）」の由来も語っており、この一帯は風土記の物語の密度がひときわ濃い地域である。
+    sources:
+    - x12-kobe-u-fukusaki-report
+    - x12-fukusaki-school
+  relations:
+  - pref/28
+  unknowns:
+  - 「福崎」の語源・初出は未確認。『福崎町史』など専門資料での確認が今後の課題
+  - 英語版Wikipediaは1925年の町制施行に際して富岡村と合併したと記すが、町公式資料・歴史的行政区域データセットは単独の町制施行を示しており、この点は確認できなかった
+  updated: '2026-11-13'
+- id: muni/28-稲美町
+  code: '283819'
+  names:
+    ja: 稲美町
+    reading: いなみちょう
+    aliases:
+    - 印南野
+  user_terms:
+  - 稲美
+  - いなみ
+  - 印南野
+  - 万葉集の印南野の町
+  - 加古郡稲美町
+  naming_type: 新規命名（1955年の合併新町名。古名「印南野」の読み「いなみ」に新しい漢字を当てたとみられる）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 加古郡の町。1955年3月31日に加古村・母里村・天満村が合併して発足した。町域は古く「印南野（いなみの）」と呼ばれた台地で、『万葉集』に印南野を詠んだ歌が13首あると町は紹介する。新町名「稲美」の読み「いなみ」は、この古名の読みと一致する。大きな川のない台地のため池の景観でも知られる。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『万葉集』
+    note: 現町名そのものではなく、読みの元になった古名「印南野（いなみの）」の初出資料として掲げる。町公式資料によれば、万葉集には「印南野」「印南野原」「いなみ」を詠み込んだ歌が13首ある。編纂年には諸説があるため year_western は空欄とした
+  claims:
+  - text: 1955年（昭和30年）3月31日、加古村・母里村・天満村の3村が合併して稲美町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inami-ayumi
+    - x12-inami-geoshape
+  - text: 町公式資料は、町域が「印南野（いなみの）」の台地にあり、『万葉集』には「印南野」「印南野原」「いなみ」の名を詠み込んだ歌が13首あると紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inami-ayumi
+  - text: 古名「印南」の読み（いなみ）は現在の町名「稲美」と同じで、異なるのは漢字表記のみである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-inami-zh-wiki
+  - text: 新町名「稲美」は、古名「印南野」の読み「いなみ」を引き継ぎ、「稲」「美」の新しい漢字を当てた名とみられる。ただし、命名の経緯を明示した公式資料は本バッチでは確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x12-inami-ayumi
+  - text: 町の年表は、726年（神亀3年）に聖武天皇の印南野行幸があったことを記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inami-ayumi
+  - text: 印南野台地には大きな川がなく、近世に至るまで野原の姿をとどめていた。人々は水不足と闘いながら、ため池を築いて開墾を進めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-inami-ayumi
+  - text: 前身の一つ加古村は、1889年に発足した加古新村が1948年（昭和23年）10月1日に改称したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-inami-zh-wiki
+  - text: 稲美町の地方公共団体コードは283819である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 万葉の「印南野」と、川のない町の水の歴史
+    text: 『万葉集』に13首も詠まれた「印南野」。その読み「いなみ」は、1955年に生まれた新町名「稲美」に受け継がれた。もっとも、この台地には大きな川が一本もない。人々は雨水をためる池を掘り続けて土地を開き、水をめぐる争い（水論）も繰り返された。今も町内に大小のため池が点在する景観は、万葉の歌の舞台であると同時に、水と闘ってきた農の歴史の姿でもある。
+    sources:
+    - x12-inami-ayumi
+    - x12-inami-zh-wiki
+  relations:
+  - pref/28
+  unknowns:
+  - 「稲美」の命名理由（なぜ「稲」「美」の字が選ばれたか）を明示した資料は未確認
+  - 古名「印南」自体の語源（印南郡・印南浦との関係を含む）は本バッチでは確認できなかった
   updated: '2026-11-13'
 - id: muni/28-芦屋市
   code: '282065'
@@ -2300,6 +3107,89 @@ records:
   - 「やぶ」の語源は市の推定（円山川沿いの薮の景観）にとどまり、専門辞典での確認は未了である
   - 「養父」の字が選ばれた理由（養父神社との関係を含む）は、市公式の文化財解説でも説の紹介にとどまり未確定である
   updated: '2026-11-13'
+- id: muni/28-香美町
+  code: '285854'
+  names:
+    ja: 香美町
+    reading: かみちょう
+    aliases: []
+  user_terms:
+  - 香美
+  - かみ
+  - 香住と村岡と美方が合併した町
+  - 香住ガニの町
+  - 兵庫の香美町
+  naming_type: 合併新設（「香住」の「香」と「美方」などの「美」を合わせた合成名）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 美方郡の町。2005年4月1日に香住町・美方町・村岡町の3町が合併して誕生し、城崎郡は消滅した。町名は「香住町」の「香」と、「美方町」「七美郡」「美含郡」などの「美」を合わせたものとされる。高知県の香美市（旧香美郡）とは同字だが無関係である。
+  first_attestation:
+    era: 平成
+    year_western: 2005
+    document: 総務大臣の廃置分合告示（2005年1月下旬）
+    note: 合併協議会広報第10号によれば、総務大臣の告示により廃置分合の効力が発生し、2005年4月1日に香美町が誕生した
+  claims:
+  - text: 2005年（平成17年）4月1日、城崎郡香住町、美方郡美方町・村岡町の3町が合併して香美町が誕生し、城崎郡は消滅した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kami-soumu
+    - x12-kami-ndl
+    - x12-kami-wiki
+  - text: 町名は「香住町」の「香」と、「美方町」「七美郡」「美含郡」などの「美」を合わせたものであるとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-kami-wiki
+  - text: 高知県の旧香美郡および香美市とは同字であるが、一切無関係である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-kami-wiki
+  - text: 合併に先立ち、2004年10月に3町の町長が兵庫県知事へ廃置分合申請書を提出し、2005年1月下旬の総務大臣の告示を経て、4月1日の香美町誕生へと進んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kami-kyogikai
+  - text: 旧香住町は、1889年に美含郡香住村（境村・香住村など10村の区域）として発足し、1925年10月1日に町制を施行した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-kami-kasumi-wiki
+  - text: 旧美方町は、1955年（昭和30年）4月1日に小代村・射添村が合併して発足した町で、その町名は美方郡の郡名によった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x12-kami-mikata-wiki
+  - text: 合併広報は、新町の面積を369.08平方キロメートルとし、町の規模では県下6番であると伝えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x12-kami-kyogikai
+  - text: 香美町の地方公共団体コードは285854である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 高知の香美市とは、まったくの無関係
+    text: 「香美町」と聞いて高知県の香美市を思い浮かべる人もいるが、両者は同字なだけで成り立ちは無関係である。兵庫の香美は、日本海側の香住町の「香」と、山側の美方町・旧郡名に含まれる「美」を合わせた平成の合成名。合併した村岡町の名は町名には残らなかったが、旧町域は地域自治区「村岡区」として名を留めている。なお読みは「かみ」で、高知の香美市と同じである。
+    sources:
+    - x12-kami-wiki
+  relations:
+  - pref/28
+  unknowns:
+  - 町名の公募・選考過程の詳細は本バッチでは確認できなかった（合併協議会広報第10号に命名理由の明示はない）
+  - 村岡町の名が新町名に採用されなかった経緯も未確認
+  updated: '2026-11-13'
 - id: muni/28-高砂市
   code: '282162'
   names:
@@ -2625,6 +3515,147 @@ sources:
   p4-toyooka-city-rekishi:
     label: 豊岡市公式サイト「市町合併までの各まちの歴史」（1580年の宮部氏による築城、1668年の京極氏移封、豊岡県の設置と解体、1950年の市制）
     url: https://www.city.toyooka.lg.jp/shisei/shinoshokai/rekishi/1002340.html
+  x11-kamigori-kotobank:
+    label: 『日本歴史地名大系』「上郡村」項（コトバンク掲載。慶長国絵図に「上かうり村」と見えること、竹万の住民が移住して開発し当初「上河原村」といったが後に上郡村と改称したという『赤穂郡誌』の伝承を紹介）
+    url: https://kotobank.jp/word/%E4%B8%8A%E9%83%A1%E6%9D%91-3024569
+  x11-kamigori-nenpyo:
+    label: 上郡町公式「上郡町のあゆみ（年表）」（1913年4月1日に上郡村が町制を施行して（旧）上郡町となったこと、1955年3月25日に高田村・鞍居村・船坂村・赤松村の一部と合併して新しい上郡町が誕生したことを収録）
+    url: https://www.town.kamigori.hyogo.jp/soshiki/kikakuseisakuka/gyomuannai/12/1/1470.html
+  x11-kamigori-plan:
+    label: 上郡町公式 都市計画資料（江戸時代に上郡村が存在し、1889年に上郡村・井上村・大持村・山野里村・竹万村の区域で新しい上郡村が発足したこと、古代に山陽道の高田駅家・野磨駅家が置かれ赤穂郡の中心地だったことを収録）
+    url: https://www.town.kamigori.hyogo.jp/material/files/group/80/ktm3.pdf
+  x11-sayo-wiki:
+    label: Wikipedia「佐用町」（『播磨国風土記』の佐用都比売と伊和大神の国占い争いの伝承、式内社・佐用都比売神社の鎮座、2005年10月1日に佐用町・上月町・南光町・三日月町の4町が新設合併して現在の佐用町が発足したことを収録）
+    url: https://ja.wikipedia.org/wiki/%E4%BD%90%E7%94%A8%E7%94%BA
+  x11-sayogun-wiki:
+    label: Wikipedia「佐用郡」（「佐用」の読みはもともと「さよ」で、1955年3月1日の合併で新しい佐用町が「さようちょう」と称したことから郡の読みも「さようぐん」と読まれることが多くなったこと、1896年に岡山県（美作国）吉野郡の一部を編入したことを収録）
+    url: https://ja.wikipedia.org/wiki/%E4%BD%90%E7%94%A8%E9%83%A1
+  x11-taka-mext:
+    label: 文部科学省「教育委員会月報」兵庫県多可町教育委員会の取組紹介（「敬老の日」は1947年に多可郡野間谷村（現・多可町）で行われた敬老行事をきっかけに国民の祝日となったことを収録）
+    url: https://www.mext.go.jp/content/20251208-mxt_syoto01-000046172_05.pdf
+  x11-taka-teiju:
+    label: 多可町役場定住推進課「多可町について」（『播磨国風土記』に、瀬戸内の方から来た大男が「ここへ来たら空が高いなあ」と言ったので「たか」という地名になったという伝説が残ることを紹介）
+    url: https://teiju.takacho.net/about
+  x11-taka-uub:
+    label: 都道府県市区町村「多可町（2005年〜）市区町村変遷情報」（2005年11月1日に多可郡の中町・加美町・八千代町が新設合併して多可町が誕生したこと、2002年の西脇市を含む5市町合併の住民発議が否決され多可郡3町の合併にまとまった経緯を収録）
+    url: https://uub.jp/upd/c/958.html
+  x11-takagun-wiki:
+    label: Wikipedia「多可郡」（『播磨国風土記』では郡名が「託賀郡」と記されること、2005年11月1日に中町・加美町・八千代町が合併して多可町が発足し、郡は多可町のみとなったことを収録）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%8F%AF%E9%83%A1
+  x12-fukusaki-geoshape:
+    label: 歴史的行政区域データセットβ版「兵庫県神崎郡福崎村」（福崎村の有効期間は1889年4月1日から1925年12月1日までであること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/28B0120017.html
+  x12-fukusaki-school:
+    label: 福崎町公式「ふくさき III 福崎小学校区」（『播磨国風土記』神前郡条の冒頭に建石敷命が神前山に鎮座したことから神前郡と名付けたと記されていること、1894年の播但鉄道開通と福崎駅設置、1925年に福崎村が町制を施行したこと）
+    url: https://www.town.fukusaki.hyogo.jp/cmsfiles/contents/0000005/5104/3fukusaki.pdf
+  x12-fukusaki-zh-wiki:
+    label: 中国語版Wikipedia「福崎町」（福崎村が1925年に町制を施行し、1956年に田原村・八千種村と合併して現在の福崎町となった沿革）
+    url: https://zh.wikipedia.org/wiki/福崎町
+  x12-harima-fudoki-yaku:
+    label: 『播磨国風土記』現代語訳（底本は山川出版社『播磨国風土記』沖森卓也・佐藤信・矢嶋泉編著。賀古郡条に「阿閇津に至って、御食をたてまつりなさった。それゆえ、阿閇村という」とあること）
+    url: https://note.com/pane_melone/n/nce8c0a736c79
+  x12-harima-geoshape:
+    label: 歴史的行政区域データセットβ版「兵庫県加古郡播磨町」（播磨町の有効期間は1962年4月1日からで、前身は阿閇村であること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/28382A1968.html
+  x12-harima-kakokita:
+    label: 兵庫県立加古川北高校「ぶらり加古川第5号」（景行天皇と印南別嬢の伝説を播磨風土記賀古郡条から紹介し、「阿閇はその時の故事に因んだ地名です」と記す）
+    url: https://www2.hyogo-c.ed.jp/weblog2/kakokita-hs/wp-content/uploads/2022/12/59_5.pdf
+  x12-harima-koho-2003:
+    label: 播磨町広報「広報はりま」2003年10月号（『播磨国風土記』特集。阿閇津・阿閇神社など町域の風土記ゆかりの地名を紹介）
+    url: https://www.town.harima.lg.jp/kikaku/chosejoho/koho/kohoharima/back/2003/documents/p2-3.pdf
+  x12-harima-koho-2012:
+    label: 播磨町広報「広報はりま」2012年4月号（町制施行50周年特集。創刊号＝昭和37年4月1日号の沿革と町長挨拶を引用し、阿閇村が播磨臨海工業地帯の一角と位置づけられていたことなど）
+    url: http://www.town.harima.lg.jp/kikaku/chosejoho/koho/kohoharima/back/2012/documents/201204_34_35.pdf
+  x12-harima-town-ayumi:
+    label: 播磨町公式「播磨町のあゆみ」（1889年の阿閇村発足以来の町の沿革）
+    url: https://www.town.harima.lg.jp/kikaku/chosejoho/gaiyo/profile/ayumi.html
+  x12-ichikawa-ayumi:
+    label: 市川町公式「あゆみ（沿革）」（1955年に川辺村・瀬加村・甘地村・鶴居村の4村が合併して市川町が誕生したこと、2005年に神崎町・市川町・大河内町合併協議会が発足し住民投票も行われたこと、2017年に「銀の馬車道」が日本遺産に認定されたことなど）
+    url: http://www.town.ichikawa.lg.jp/Info/369
+  x12-ichikawa-kaso:
+    label: 市川町「過疎地域持続的発展計画」等の町公式計画書（「まちの中央には町名の由来にもなっている、清流『市川』が北から南へ流れている」と町名の由来を明記）
+    url: https://www.town.ichikawa.lg.jp/div/kikaku/pdf/kaso/kasoR8-R12.pdf
+  x12-ichikawa-rekihaku:
+    label: 兵庫県立歴史博物館「ひょうご伝説紀行 市川の流れに沿って」（市川は播磨最北端の神河町に源を持ち、但馬へ抜ける道が古くから重要な交通路であったこと）
+    url: https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend2/story10/journey7/
+  x12-ichikawa-river-wiki:
+    label: Wikipedia「市川 (兵庫県)」（川名は流域の播磨国府の市（飾磨の市）から市川と呼ばれるようになったと考えられている、と記す）
+    url: http://ja.wikipedia.org/wiki/市川_(兵庫県)
+  x12-inagawa-ama:
+    label: 尼崎市教育委員会系資料「猪名部」（『日本書紀』に猪名部御田が見えること、『新撰姓氏録』に猪名部造・為奈部首が見えること、猪名野は猪名部たちの住む野に由来すると考えられること）
+    url: http://www.ama-net.ed.jp/school/e43/docs/inabesi.pdf
+  x12-inagawa-mlit:
+    label: 国土交通省猪名川河川事務所「流域とあらまし」（猪名川は猪名川町の大野山＝標高753mを水源地とすること、「猪名川の名称由来」として『住吉大社神代記』の阿我奈川の伝承を紹介すること）
+    url: https://www-2.kkr.mlit.go.jp/inagawa/gaiyou/shirou/summary.html
+  x12-inagawa-shirahama:
+    label: 和歌山県白浜町議会 観光建設農林常任委員会行政調査報告書（1955年4月10日に中谷村・六瀬村が合併して猪名川町が誕生したこと、大野山に源を発する猪名川が町の中央を流れること、多田銀銅山が東大寺大仏鋳造の際に銅を献上したと伝えられること、人口の推移）
+    url: https://www.town.shirahama.wakayama.jp/material/files/group/51/r7kankotyousahoukokusho.pdf
+  x12-inagawa-town-lib:
+    label: 猪名川町立図書館年報「猪名川町の沿革」（昭和30年4月に六瀬村と中谷村の合併により猪名川町が誕生したこと、本町に源を発する猪名川が町の中央部を流れること）
+    url: https://www.town.inagawa.lg.jp/material/files/group/23/R4toshokannenpou.pdf
+  x12-inagawa-yoran:
+    label: 「市町村要覧」市町の沿革・兵庫県（中谷村・六瀬村が昭和30年4月10日に合併して猪名川町となった変遷表）
+    url: https://www.sichouyouran.jp/wp-content/uploads/2023/09/youran2024_sanko_2_19.pdf
+  x12-inami-ayumi:
+    label: 稲美町公式「稲美町の歩み」（令和3年版。町域は印南野台地にあり『万葉集』に「印南野」「印南野原」「いなみ」を詠み込んだ歌が13首あること、昭和30年に加古村・母里村・天満村の3村が合併して稲美町が発足したこと、726年の聖武天皇印南野行幸を年表に記すこと、大きな川がなく水不足と闘ってきたこと）
+    url: https://www.town.hyogo-inami.lg.jp/cmsfiles/contents/0000006/6070/r03-11.ayumi.pdf
+  x12-inami-geoshape:
+    label: 歴史的行政区域データセットβ版「兵庫県加古郡稲美町」（稲美町の有効期間は1955年3月31日からであること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/28381A1968.html
+  x12-inami-zh-wiki:
+    label: 中国語版Wikipedia「稲美町」（この地は過去「印南野」と呼ばれ、「印南」の発音は現在の町名「稲美」と同じで漢字表記のみが異なること、加古新村が1948年に加古村へ改称したこと、1955年に3村が合併して稲美町となったこと）
+    url: https://zh.wikipedia.org/wiki/稲美町
+  x12-kami-kasumi-wiki:
+    label: Wikipedia「香住町」（1889年に美含郡の10村の区域をもって香住村が発足し、1925年10月1日に町制を施行したこと）
+    url: http://ja.wikipedia.org/wiki/香住町
+  x12-kami-kyogikai:
+    label: 美方町・村岡町・香住町合併協議会広報第10号（2004年10月に3町の町長が兵庫県知事へ廃置分合申請書を提出したこと、総務大臣の告示を経て2005年4月1日に香美町が誕生すること、新町の面積369.08平方キロメートルは町の規模では県下6番であること）
+    url: https://www.town.mikata-kami.lg.jp/material/files/group/4/4aaf31a1013.pdf
+  x12-kami-mikata-wiki:
+    label: Wikipedia「美方町」（1955年4月1日に小代村・射添村が合併して美方町が発足し、町名は郡名によること）
+    url: http://ja.wikipedia.org/wiki/美方町
+  x12-kami-ndl:
+    label: Web NDL Authorities「香美町 (兵庫県)」（2005年4月に香住町・村岡町・美方町が合併し香美町となったという注記）
+    url: https://id.ndl.go.jp/auth/ndlna/01188137
+  x12-kami-soumu:
+    label: 総務省「市町村名逆引き一覧（兵庫県）」（城崎郡香住町・美方郡村岡町・同郡美方町が平成17年4月1日に美方郡香美町となったこと）
+    url: https://www.soumu.go.jp/gapei/hensen_hyogo.html
+  x12-kami-wiki:
+    label: Wikipedia「香美町」（2005年4月1日に香住町・美方町・村岡町の合併により誕生し城崎郡が消滅したこと、町名は「香住町」の「香」と「美方町」「七美郡」「美含郡」などの「美」を合わせたもので、高知県の旧香美郡・香美市とは一切無関係であること、旧町域に地域自治区が置かれたこと）
+    url: https://ja.wikipedia.org/wiki/香美町
+  x12-kamikawa-dayori13:
+    label: 神崎町・大河内町合併協議会だより第13号（2005年3月1日発行。新町名は公募886点から選ばれ、最終候補5作品の投票で「神河」17票対「美里」7票となり「神河町」に決定したこと、「神河町」の応募者は17名だったこと、大河内町住民投票の結果）
+    url: https://www.town.kamikawa.hyogo.jp/cmsfiles/contents/0000000/185/13_dayori.pdf
+  x12-kamikawa-kpu:
+    label: 京都府立大学文学部考古学研究室「神河町所在古墳群の測量調査」（1889年の町村制施行時の村々、1955年に神崎町・大河内町が成立し、2005年11月に神河町となった経緯）
+    url: https://kpu-his.jp/wp/wp-content/uploads/2020/07/3-2-10.pdf
+  x12-kamikawa-okawachi-wiki:
+    label: Wikipedia「大河内町」（町名はこの地域がかつて「大河内庄」と称されていたことに由来すること、1955年3月31日に寺前村・長谷村が合併して発足したこと）
+    url: http://ja.wikipedia.org/wiki/大河内町
+  x12-kamikawa-senryaku:
+    label: 神河町「第2期神河町地域創生総合戦略」（2005年11月7日に旧神崎町と旧大河内町が合併して神河町となったこと）
+    url: https://www.town.kamikawa.hyogo.jp/cmsfiles/contents/0000001/1700/02_genzyou.pdf
+  x12-kobe-u-fukusaki-report:
+    label: 神戸大学大学院人文学研究科地域連携センター「福崎町連携事業平成25年度活動報告書」（『播磨国風土記』神前郡条の研究。神前郡条冒頭の建石敷命の説話、多駝里条「八千軍野」の比定地は福崎町八千種とみるのが通説であること、福崎町域が高岡里・川辺里・多駝里にあたること）
+    url: https://da.lib.kobe-u.ac.jp/da/kernel/81005623/81005623.pdf
+  x12-shinonsen-hamasaka-wiki:
+    label: Wikipedia「浜坂町」（1889年に東浜村として発足し、1891年12月11日に町制施行・改称して浜坂町となったこと、1954年に大庭村・西浜村と合併したこと）
+    url: http://ja.wikipedia.org/wiki/浜坂町
+  x12-shinonsen-ken-archive:
+    label: 兵庫県「ヒョーゴアーカイブス」湯村温泉（嘉祥元年＝848年に円仁（慈覚大師）によって開かれたとされること、源泉「荒湯」が98度の高温泉であること）
+    url: https://web.pref.hyogo.lg.jp/archives/c335.html
+  x12-shinonsen-ndl:
+    label: Web NDL Authorities「新温泉町 (兵庫県)」（2005年10月に浜坂町と温泉町が合併し新温泉町となったという注記）
+    url: https://id.ndl.go.jp/auth/ndlna/001255919
+  x12-shinonsen-nenpyo:
+    label: 新温泉町公式「歴史年表」（2005年10月1日に浜坂町・温泉町が合併し、新温泉町が発足したこと）
+    url: https://www.town.shinonsen.hyogo.jp/uppdf/1677656567.pdf
+  x12-shinonsen-onsen-wiki:
+    label: Wikipedia「温泉町」（1889年に二方郡温泉村として発足、1927年4月15日に町制施行、1954年に照来村・八田村と合併した沿革）
+    url: http://ja.wikipedia.org/wiki/温泉町
+  x12-shinonsen-uub:
+    label: 市区町村変遷情報（uub.jp）「新温泉町」（町名候補が5点から2点に絞られた経緯、一度「温泉町」に決定後、浜坂町の難色で2005年3月19日に「新温泉町」へ変更され合併協定が再調印されたこと、官報告示は同年7月7日であること）
+    url: https://uub.jp/upd/c/984.html
   x2-miki-crd:
     label: レファレンス協同データベース（国立国会図書館）「三木市の地名の由来」『日本歴史地名大系』が市名は中世の三木庄・近世の三木町を継承すると記すこと、「美奈木」転訛説と御酒奉納の伝承を紹介
     url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000250553&page=ref_view

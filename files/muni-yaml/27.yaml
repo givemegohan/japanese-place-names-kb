@@ -165,6 +165,86 @@ records:
   - 「八尾」の語源は諸説が並立しており、矢負い説・八百の柵説・地形説のいずれにも決着はついていない。
   - 昭和23年（1948年）の市制施行に至る合併の構成町村は、今回確認した市公式資料には記載がなく、未確認である。
   updated: '2026-11-13'
+- id: muni/27-千早赤阪村
+  code: '273830'
+  names:
+    ja: 千早赤阪村
+    reading: ちはやあかさかむら
+    aliases:
+    - 千早
+    - 赤阪
+  user_terms:
+  - 千早赤阪
+  - ちはやあかさか
+  - 大阪府唯一の村
+  - 楠木正成の村
+  - 金剛山の村
+  naming_type: 合併新設（1956年に千早村と赤阪村が合併し、両村名を連ねた合成地名とした）
+  prefecture: 大阪府
+  homonyms: []
+  summary: 大阪府南東部、南河内郡の村で、大阪府で唯一の村であり、府内で人口が最も少ない。1956年に千早村と赤阪村が合併して発足した合成地名。千早・赤阪はともに楠木正成ゆかりの地で、元弘の変の舞台となった千早城と赤坂城（上・下）の跡が国の史跡として残る。金剛山の西麓に位置し、大字には旧両村の区域がそのまま残る。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 千早村・赤阪村の合併による新村名（村の発足は1956年9月30日）
+    note: 「千早赤阪」の初出は合併命名そのもの。構成要素の「千早」「赤阪」は中世以来の地名で、千早城・赤坂城の名で元弘の変（1331〜1333年）の記録に現れるが、個別の初出用例の確認は本調査では未了
+  claims:
+  - text: 1956年（昭和31年）9月30日に千早村と赤阪村が合併して千早赤阪村が発足した。村名は両村名を連ねた合成地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-chihayaakasaka-wiki
+  - text: 千早赤阪村は大阪府で唯一の村であり、府内で人口が最も少ない自治体である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-chihayaakasaka-wiki
+  - text: 村は楠木正成の出身地として知られ、千早城跡と上赤坂城跡・下赤坂城跡はいずれも国の史跡である。これらの城は正成が鎌倉幕府軍を迎え撃った元弘の変の舞台となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-chihayaakasaka-wiki
+  - text: 現在の大字は、旧千早村の東阪・小吹・千早・中津原・吉年と、旧赤阪村の川野辺・桐山・水分・二河原辺・森屋からなり、合併前の両村の区域がそのまま残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-chihayaakasaka-wiki
+  - text: 村章は千早の頭文字「C」と赤阪の頭文字「A」を図案化したもので、合併した両村の名をそのまま紋章にしている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-chihayaakasaka-wiki
+  - text: 2008年から2009年にかけて河内長野市への編入合併が具体化し、実現すれば大阪府から村が消滅するはずだったが、村議会での反対意見が多数を占め、合併は白紙撤回された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-chihayaakasaka-wiki
+  - text: 千早赤阪村の地方公共団体コードは273830である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: あと一歩で「大阪府に村がなくなる」ところだった
+    text: 2008年、千早赤阪村は隣の河内長野市への編入合併へ大きく傾いた。法定協議会の設置が村議会で可決され、実現すれば大阪府唯一の村は消えるはずだった。ところが翌年、編入合併の議案への反対が多数を占め、計画は白紙に戻った。人口は府内最少で、2014年には大阪府で初めて過疎地域にも指定された村が、それでも「村」のままであり続けることを選んだのである。村の名前が二つの城の名前の合成なら、その存続もまた、楠木正成の故事めいた粘り強さの現代版といえるかもしれない。
+    sources:
+    - x10-chihayaakasaka-wiki
+  relations:
+  - pref/27
+  - muni/27-河南町
+  - muni/27-富田林市
+  unknowns:
+  - 「千早」「赤阪（赤坂）」それぞれの地名の語源と最古の用例
+  - 1956年の合併時に他の村名案があったかどうか
+  - 楠木正成の出生地を村内のどこに比定するか（下赤坂とする伝承の史料的裏付け）
+  updated: '2026-11-13'
 - id: muni/27-吹田市
   code: '272051'
   names:
@@ -1056,6 +1136,88 @@ records:
   - 「寝屋」の語源は宿泊所説・布施屋説・地形説が並立し、確定していない。
   - 川名「寝屋川」の記録上の初出（江戸時代初期）について、市広報は具体的な書名を示しておらず未確認である。
   updated: '2026-11-13'
+- id: muni/27-岬町
+  code: '273660'
+  names:
+    ja: 岬町
+    reading: みさきちょう
+    aliases:
+    - 深日
+    - 多奈川
+    - 淡輪
+    - 孝子
+  user_terms:
+  - 岬町
+  - みさき
+  - 大阪府最南端の町
+  - 深日港の町
+  - みさき公園の町
+  naming_type: 新規命名（1955年の合併時に新しく命名。構成町村の名をいずれも採らず、大阪府最南端で海に臨む位置を表す名とされる）
+  prefecture: 大阪府
+  homonyms: []
+  summary: 大阪府最南端、泉南郡の町で、大阪湾に臨み和歌山県に接する。1955年に深日町・多奈川町・淡輪村・孝子村が合併して誕生した。「岬」は合併時の新名で、府の最南端に位置し海へ突き出た地形に因む名と理解されるが、命名理由を明記した公式資料は確認できなかった。古くは紀貫之『土佐日記』に「黒崎の松原」としてこの地の名が残り、中世には淡輪荘・谷川荘・深日荘の3荘園があった。千葉県にも同名の岬町がかつて存在した（現・いすみ市の一部）。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 深日町・多奈川町・淡輪村・孝子村の合併による新町名（1955年4月1日発足）
+    note: 「岬町」としての初出は合併命名そのもの。町域の古い地名としては、10世紀の紀貫之『土佐日記』に「黒崎の松原」としてこの地が記されることが町公式の沿革に紹介されている
+  claims:
+  - text: 1955年（昭和30年）4月1日に泉南郡の深日町・多奈川町・淡輪村・孝子村が合併し、岬町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x10-misaki-town
+    - x10-misaki-wiki
+  - text: 「岬」は合併に際して新たに選ばれた名で、大阪府の最南端に位置し大阪湾に突き出た地形に因む名と理解されるが、命名理由を明記した町の公式資料は本調査では確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x10-misaki-wiki
+  - text: 岬町は大阪府の最南端に位置し、南から西を和泉山脈に囲まれて和歌山県と接し、北は大阪湾に面する。古くから紀伊国や淡路国・四国へ渡る南海道の交通の要衝であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-misaki-wiki
+  - text: 町公式の沿革によれば、紀貫之の『土佐日記』には「黒崎の松原」としてこの地の名がとどめられており、中世には町域に淡輪荘・谷川荘・深日荘の3つの荘園が存在した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x10-misaki-town
+  - text: 太閤検地によって淡輪・深日・孝子・東畑・西畑・谷川・小島の7か村が成立し、1889年の町村制では谷川・東畑・西畑・小島の4か村が合併して多奈川村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x10-misaki-town
+  - text: 千葉県にも同名の「岬町」がかつて存在したが、2005年の合併でいすみ市の一部となり、現存する自治体としての岬町は大阪府の当町のみである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x10-misaki-wiki
+  - text: 岬町の地方公共団体コードは273660である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 唯一賛成したのに、合併できなかった町
+    text: 平成の大合併で、岬町は泉佐野市・泉南市・阪南市・田尻町との合併を協議し、2005年に新市名「南泉州市」でいったん合意した。ところが住民投票では、合併に賛成多数となったのは5市町の中で岬町だけ。他の市町で反対が多数を占め、協議会は解散、構想は白紙に戻った。大阪府の最南端で、地理的にも大阪の中心から最も遠い町が、最も合併に前向きだったという逆転。結局「岬町」の名は残り、岬町は2021年に大阪府の町として初めて過疎地域に指定されるなど、単独での歩みを続けている。
+    sources:
+    - x10-misaki-wiki
+  relations:
+  - pref/27
+  - muni/27-阪南市
+  unknowns:
+  - 1955年の合併時に「岬」の名が選ばれた経緯を示す公式記録（合併協議会資料等）
+  - 『土佐日記』の「黒崎の松原」の比定地の詳細
+  - 「深日」「多奈川」「淡輪」「孝子」各地区名の語源
+  updated: '2026-11-13'
 - id: muni/27-岸和田市
   code: '272027'
   names:
@@ -1142,6 +1304,158 @@ records:
   - 「岸和田」の語を構成する「岸」「和田」それぞれの原義について、専門辞典による確定的な語源説明は確認できなかった
   - 延元2年（1337年）の軍忠状を「岸和田」の語の初出とする年代の裏付けは、岸和田治氏に関する二次的な記述に拠っており、軍忠状そのものの翻刻での確認は未実施
   - 岸和田城の築城者・築城年について、市教育委員会のパンフレットでも「詳しいことは不明」とされており、建武元年（1334年）の和田氏築城は伝承の域を出ない
+  updated: '2026-11-13'
+- id: muni/27-島本町
+  code: '273015'
+  names:
+    ja: 島本町
+    reading: しまもとちょう
+    aliases:
+    - 島本村
+  user_terms:
+  - 島本という名前の由来
+  - 三島郡で唯一の町
+  - 水無瀬のある町
+  naming_type: その他（1889年の合併で新設された村名。命名理由は未確認）
+  prefecture: 大阪府
+  homonyms: []
+  summary: 1889年（明治22年）に島上郡の7村が合併して生まれた島本村を前身とし、1940年に町制を施行した町。名の前半は旧郡名「島上」に通じると考えられるが、「島本」の命名理由を明示する公的・専門資料は確認できていない。広瀬・東大寺地区の「水無瀬」は『万葉集』の時代からの歌枕として知られる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による島本村の発足（島上郡7村の合併）
+    note: 町名「島本」としての初出はこの命名そのもの。それ以前に「島本」という地名が存在したかどうかは未確認
+  claims:
+  - text: 1889年（明治22年）に島上郡の桜井・高浜・広瀬・東大寺・山崎・尺代・大沢の7村が合併して島本村が誕生し、1940年（昭和15年）4月1日に町制を施行して島本町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-shimamoto-80th
+  - text: 所属していた島上郡は、701年（大宝元年）に三島郡が三島上郡・三島下郡に分けられて成立し、間もなく島上郡・島下郡と書かれるようになった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-shimagami-wiki
+  - text: 1896年（明治29年）に島上郡・島下郡が合併して三島郡が成立し、現在の島本町は三島郡で唯一の町である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-shimagami-wiki
+    - x11-shimamoto-wiki
+  - text: 広瀬・東大寺地区は「水無瀬」と呼ばれ東大寺の荘園で、『万葉集』の時代から歌枕として知られた。後鳥羽上皇が水無瀬離宮を造営し、没後その跡は水無瀬宮（現在の水無瀬神宮）となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-shimamoto-rekishi
+  - text: 桜井地区は『太平記』に描かれた楠木正成・正行父子の「桜井の別れ」の地で、町章は「嶋本」の字を楠木氏の家紋である菊水紋に似せて変形したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-shimamoto-wiki
+  - text: 「島本」という名は郡名「島上」の「島」の側に由来する部分を含むと考えられるが、「本」の字の由緒を含め、命名理由を明示する公的・専門資料は本調査では確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x11-shimagami-wiki
+  - text: 地方公共団体コードは273015である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 菊水紋になった町名
+    text: 島本町の町章は、漢字の「嶋本」を上下に割り、上半分を菊の花、下半分を水の流れに見立てたデザインです。モデルは楠木氏の菊水紋。町内の桜井は、湊川の戦いに向かう楠木正成が嫡子・正行と別れた「桜井の別れ」の地とされ、『太平記』の名場面として知られます。合併で生まれた新しい村名が、やがて中世の武将の紋を取り込んで町の顔になったわけです。
+    sources:
+    - x11-shimamoto-wiki
+    - x11-shimamoto-rekishi
+  relations:
+  - pref/27
+  unknowns:
+  - 「島本」の命名理由（「島」と「本」の字の由来）は公的・専門資料で未確認
+  - 1889年以前に「島本」という地名が存在したかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/27-忠岡町
+  code: '273414'
+  names:
+    ja: 忠岡町
+    reading: ただおかちょう
+    aliases:
+    - 忠岡村
+  user_terms:
+  - 日本一面積の小さい町
+  - 忠岡という名前の由来
+  - 忠行の丘の町
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 1889年（明治22年）に和泉郡の4村が合併した際、もとの忠岡村の名を継承して生まれた町。面積3.97km²で日本一面積の小さい町とされる。「忠岡」の由来には、平忠度の子・忠行が戦死した地とする伝承が語られる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による忠岡村の発足（忠岡村・馬瀬村・北出村・高月村の合併）
+    note: 村名「忠岡」は合併前から存在した旧村名の継承であり、その初出そのものは未確認
+  claims:
+  - text: 1889年（明治22年）4月1日、和泉郡の忠岡村・馬瀬村・北出村・高月村が合併して新しい忠岡村が発足し、村名はもとの忠岡村の名を継承した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-tadaoka-wiki
+  - text: 1939年（昭和14年）10月1日に町制を施行して忠岡町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-tadaoka-wiki
+  - text: 面積は3.97km²で、2009年（平成21年）に愛知県春日町が清須市に編入されたことに伴い、日本一面積の小さい町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-tadaoka-wiki
+  - text: 源平の時代、平忠度の子・忠行が父を逃がすため今井兼滋の軍勢を食い止めて戦死し、村人が丘を築いて葬って「忠行の丘」と呼んだことが「忠岡」の由来と伝わる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - x11-tadaoka-nankai
+  - text: 1889年の村名は合併前の忠岡村の名の継承であり、「忠行の丘」の伝承は行政名としての成立ではなく、その旧村名の由来譚として位置づけられる（異なる層）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-tadaoka-wiki
+    - x11-tadaoka-nankai
+  - text: 2003年（平成15年）に岸和田市との合併協議会が設置されたが、住民投票で否決され、合併は実現しなかった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-tadaoka-wiki
+  - text: 地方公共団体コードは273414である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 日本一小さい町の、大きな伝説
+    text: 面積わずか3.97km²、日本一小さい町に、平家の武将の子の最期の伝説が残っています。平忠度の子・忠行が父を逃がすために敵を食い止めて戦死し、村人がその丘を「忠行の丘」と呼んだ——町名の「忠」はこの孝子・忠臣の物語に結びつけられて語られてきました。伝承の真偽はともかく、小さな町の名に大きな物語が宿っているのが忠岡です。
+    sources:
+    - x11-tadaoka-nankai
+    - x11-tadaoka-wiki
+  relations:
+  - pref/27
+  unknowns:
+  - 旧忠岡村の名の初出と命名の経緯は未確認
+  - 「忠行の丘」伝承がいつ頃から語られるようになったかは未確認
   updated: '2026-11-13'
 - id: muni/27-摂津市
   code: '272248'
@@ -1699,6 +2013,74 @@ records:
   - 「河内」を冠した理由は資料により説明が異なり（長野市との重複回避説と公募最多説）、市の一次資料では確定できなかった
   - 「長野」の語源は水神説と「川沿いの長い土地」説があり、典拠のある確定説明は得られなかった
   updated: '2026-11-13'
+- id: muni/27-河南町
+  code: '273821'
+  names:
+    ja: 河南町
+    reading: かなんちょう
+    aliases: []
+  user_terms:
+  - 河南という名前の由来
+  - 南河内郡の町
+  - 近つ飛鳥の町
+  naming_type: 合併新設
+  prefecture: 大阪府
+  homonyms: []
+  summary: 1956年（昭和31年）に南河内郡の石川村・白木村・河内村・中村の4村が合併し、同時に町制を施行して生まれた町。名は合併4村のいずれとも異なる新名だが、その命名理由を示す公的記録は確認できていない。宮城県にあった河南町（現・石巻市河南地区）とは別の成立である。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 石川村・白木村・河内村・中村の合併と町制施行による河南町の発足（1956年9月30日）
+    note: 町名としての初出はこの命名そのもの
+  claims:
+  - text: 1956年（昭和31年）9月30日、南河内郡の石川村・白木村・河内村・中村の4村が合併し、同時に町制を施行して河南町が誕生した（新設合併）
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-kanan-uub
+  - text: 町章は日章をかたどり「カ・ナ・ン」の文字を図案化したもので、内部の4つの空白は合併した旧4村（石川村・白木村・河内村・中村）を表すと町公式が説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-kanan-gaiyo
+  - text: 町は大阪府の南東部、金剛・葛城山脈の西麓に位置し、面積は25.26km²である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-kanan-gaiyo
+  - text: 「河南」という名は合併4村のいずれの名でもない新名で、河内国の南部に位置することを示す位置地名と解されるが、命名の経緯を示す公的記録は本調査では確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x11-kanan-uub
+  - text: 宮城県にも河南町（かなんちょう）が1955年から2005年まで存在したが（現・石巻市河南地区）、そちらの「河南」は北上川を境として南北を区別する仙台藩政期以来の広域呼称に由来し、大阪の河南町とは別の成立である（異なる層）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-kanan-miyagi-wiki
+  - text: 地方公共団体コードは273821である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: もう一つの「河南町」
+    text: かつて日本には「かなんちょう」が二つありました。宮城県桃生郡の河南町（1955〜2005年、現・石巻市河南地区）です。宮城側の「河南」は、北上川の南という位置を示す仙台藩政期以来の広域呼称が町名になったもの。大阪の河南町も1956年の合併新名という点では同時代の命名ですが、命名の記録が残っておらず、二つの「河南」が同じ発想だったのかどうかは、今のところ確かめようがありません。
+    sources:
+    - x11-kanan-miyagi-wiki
+    - x11-kanan-uub
+  relations:
+  - pref/27
+  unknowns:
+  - 「河南」の命名理由・命名者は公的資料で未確認
+  - 1956年の合併時に他の候補名があったかどうかは未確認
+  updated: '2026-11-13'
 - id: muni/27-泉佐野市
   code: '272132'
   names:
@@ -1944,6 +2326,159 @@ records:
   - 1875年の合併以前の宇多・下条両村における「大津」表記の初出
   - 1942年当時、他の候補名が検討されたかどうか
   updated: '2026-11-13'
+- id: muni/27-熊取町
+  code: '273619'
+  names:
+    ja: 熊取町
+    reading: くまとりちょう
+    aliases:
+    - 熊取村
+    - 熊取荘
+    - 熊取谷
+  user_terms:
+  - 熊取という名前の由来
+  - くまとりの語源
+  - 熊取野の町
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 『日本後紀』に延暦23年（804年）の「熊取野」での桓武天皇の遊猟が記されると町公式が紹介する、古い地名を受け継ぐ町。中世には熊取荘が成立した。語源には神功皇后の熊鷲討伐の伝承と、「木の間通り」が転じたとする音韻変化説がある。
+  first_attestation:
+    era: 延暦23年
+    year_western: 804
+    document: 『日本後紀』
+    note: 町公式「歴史」が、桓武天皇の「熊取野」での遊猟記事を「熊取」の公式資料での初出として紹介する（二次資料経由の確認のため、主張のレベルはE2に格下げ）
+  claims:
+  - text: 町公式「歴史」は、『日本後紀』に延暦23年（804年）10月、桓武天皇が「熊取野」で遊猟したことが記されるとし、これを「熊取」の公式資料での初出として紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-kumatori-history
+  - text: 神功皇后が羽白熊鷲を討ち取った場所であることが「熊取」の由来と伝わる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - x11-kumatori-wiki
+  - text: 郷土随筆『かりそめのひとりごと』は、喬木の枝がはびこり木の下を通る道を「木の間通り（このまどおり）」と言い、それが略されて「コマトリ」となり、さらに誤って「クマトリ」になったという語源説を記す
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - x11-kumatori-kentei
+  - text: 中世には熊取荘という荘園が成立し、「熊取」の名は荘園名としても用いられた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-kumatori-wiki
+  - text: 江戸時代、この一帯は「熊取谷」と呼ばれ、久保・小谷・小垣内・七山・野田・五門・紺屋・大久保の8村がいずれも岸和田藩領で、民政を担う「七人庄屋」のうち2人を熊取谷の中家・降井家が占めた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-kumatori-kentei
+  - text: 1889年（明治22年）4月1日に日根郡の8村が合併して熊取村が発足し、1951年（昭和26年）11月3日に町制を施行して熊取町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-kumatori-wiki
+  - text: 大阪府内の町村の中で最も人口の多い町である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-kumatori-wiki
+  - text: 地方公共団体コードは273619である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 熊を取ったのか、木の間を通ったのか
+    text: 「くまとり」の由来譚は対照的な二つがあります。一つは神功皇后が羽白熊鷲を討ち取ったという勇ましい伝承。もう一つは、木の枝が覆う道「木の間通り（このまどおり）」が「コマトリ」「クマトリ」と転じたという、郷土随筆『かりそめのひとりごと』の音の変化説です。確かな最古の層は804年の『日本後紀』の「熊取野」で、どちらの説もその用例より後の時代の説明づけということになります。
+    sources:
+    - x11-kumatori-history
+    - x11-kumatori-kentei
+    - x11-kumatori-wiki
+  relations:
+  - pref/27
+  unknowns:
+  - 「熊取」の語源は諸説あり確定していない（最古の用例は804年の「熊取野」）
+  - 熊取荘の成立時期と領主の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/27-田尻町
+  code: '273627'
+  names:
+    ja: 田尻町
+    reading: たじりちょう
+    aliases:
+    - 田尻村
+  user_terms:
+  - 田尻という名前の由来
+  - 吉祥の地の町
+  - 関西空港に近い町
+  naming_type: 新規命名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 1889年（明治22年）に吉見村と嘉祥寺村が合併して生まれた田尻村を前身とする町。「田尻」は合併2村のどちらにもない新名で、その命名理由を示す公的記録は確認できていない。町は両地区から一字ずつ取った「吉祥の地」を地域の愛称にしている。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 吉見村・嘉祥寺村の合併による田尻村の発足
+    note: 「田尻」という名の初出はこの命名そのもの（合併2村のどちらにもない新名）
+  claims:
+  - text: 1889年（明治22年）に日根郡の吉見村と嘉祥寺村が合併して田尻村が誕生した。「田尻」は合併した2村のどちらにもない新名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-tajiri-kissho
+  - text: 1953年（昭和28年）に町制を施行して田尻町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-tajiri-kanko
+  - text: 「田尻」は全国に分布する地形地名で、「田の末端・水の落ち口」を意味するとされる。ただし田尻村の命名が河川名などに由来するかどうかを示す記録は確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x11-tajiri-namedic
+  - text: 町は吉見地区の「吉」と嘉祥寺地区の「祥」を合わせ、この一帯を「吉祥の地」と名づけて地域づくりに用いている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-tajiri-kissho
+  - text: 宮城県の大崎市（旧・田尻町）とは、旧町名が同じだった縁で友好都市の関係にある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-tajiri-wiki
+  - text: 地方公共団体コードは273627である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 吉と祥で「吉祥の地」
+    text: 田尻町は、合併した二つの地区の名から一字ずつをもらっています。吉見の「吉」と嘉祥寺の「祥」で「吉祥」。町はこの接点を「吉祥の地」と名づけ、地域の看板にしています。肝心の町名「田尻」自体の命名理由は記録が見つからない一方で、旧村名どうしを組み合わせた愛称の方がよく知られている、という逆転が面白いところです。なお宮城県の大崎市（旧・田尻町）とは旧町名同士の縁で友好都市になっています。
+    sources:
+    - x11-tajiri-kissho
+    - x11-tajiri-wiki
+  relations:
+  - pref/27
+  unknowns:
+  - 「田尻」の命名理由（河川名由来説を含む）は公的資料で未確認
+  - 吉見村・嘉祥寺村それぞれの地名の由来は未確認
+  updated: '2026-11-13'
 - id: muni/27-箕面市
   code: '272205'
   names:
@@ -2115,6 +2650,83 @@ records:
   unknowns:
   - 市制施行時に「南大阪町」から「羽曳野市」へ改称した理由や選定過程を説明する市公式の一次資料は確認できなかった（古名の採用とみられるが経緯は未確認）
   - 「羽曳野」の地名が江戸時代中期の「羽曳原」より古い文献に現れる例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/27-能勢町
+  code: '273228'
+  names:
+    ja: 能勢町
+    reading: のせちょう
+    aliases:
+    - 能勢郡
+    - 能勢郷
+  user_terms:
+  - 能勢という名前の由来
+  - 大阪府最北端の町
+  - おおさかのてっぺん
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 713年（和銅6年）に置かれた能勢郡以来の古い地名を受け継ぐ町。1956年（昭和31年）に西能勢村・歌垣村・田尻村が合併し町制を施行して能勢町が発足した。「能勢」の語源そのものは確定していない。
+  first_attestation:
+    era: 和銅6年
+    year_western: 713
+    document: 摂津国河辺郡からの分立による能勢郡の設置
+    note: 郡名「能勢」の初出とされる年。原典は未読のため、主張は二次資料経由として扱う
+  claims:
+  - text: 能勢郡は和銅6年（713年）に摂津国河辺郡から分けて置かれたとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-nosegun-wiki
+  - text: 『和名類聚抄』には能勢郡の郷として枳根郷・能勢郷・雄村郷が見えると二次資料が紹介する（原典は未読）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-nosegun-wiki
+  - text: 奈良時代に郡衙が設けられ、中世以降は多田源氏の流れをくむ能勢氏が江戸時代を通じて能勢を治めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-nose-ayumi
+  - text: 1956年（昭和31年）9月30日に西能勢村・歌垣村・田尻村が合併し、町制を施行して能勢町が発足した。1959年（昭和34年）には東郷村を編入した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-nose-wiki
+  - text: 町名「能勢」は、合併した村々の属した旧郡名であり、さらに郷名にも見える古い地名の継承である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-nosegun-wiki
+    - x11-nose-wiki
+  - text: 「能勢」という地名の語源は確定しておらず、古くは「野瀬」とも書かれたとされるにとどまる
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x11-nosegun-wiki
+  - text: 地方公共団体コードは273228である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 能勢町にあった「田尻村」
+    text: 1956年に能勢町へ合併した村の一つに「田尻村」がありました。大阪府の南、泉南郡の田尻町（1889年に吉見村・嘉祥寺村の合併で生まれた新名）とは無関係の同名です。同じ大阪府の中に、北の山あいの「田尻」と南の海辺の「田尻」が併存していた時期があるわけで、同名地名は府県をまたがなくても生まれることが分かります。
+    sources:
+    - x11-nose-wiki
+    - x11-tajiri-kissho
+  relations:
+  - pref/27
+  unknowns:
+  - 「能勢」の語源（「野瀬」表記との関係を含む）は未確認
+  - 713年の郡設置についての原典確認は未実施（二次資料経由）
   updated: '2026-11-13'
 - id: muni/27-茨木市
   code: '272116'
@@ -2347,6 +2959,82 @@ records:
   - pref/27
   unknowns:
   - 「豊島郡の中央にあたることから名付けた」という命名理由は、市公式が「伝えられています」とする伝承レベルの説明であり、命名当時の公文書での裏付けは確認できなかった。
+  updated: '2026-11-13'
+- id: muni/27-豊能町
+  code: '273210'
+  names:
+    ja: 豊能町
+    reading: とよのちょう
+    aliases:
+    - 東能勢村
+  user_terms:
+  - 豊能という名前の由来
+  - 東能勢村から改称した町
+  - 能勢との違い
+  naming_type: 新規命名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 1977年（昭和52年）に東能勢村が改称・町制施行して生まれた町。新町名は公募で選ばれ、最終候補の「阪北町」を退けて郡名「豊能郡」に由来する「豊能町」が採用された。隣接する能勢町（旧・能勢郡の名の継承）とは名の成立経路が異なる。
+  first_attestation:
+    era: 昭和52年
+    year_western: 1977
+    document: 東能勢村の改称・町制施行による豊能町の発足（1977年4月1日）
+    note: 町名としての初出はこの改称そのもの。もとになった郡名「豊能」は1896年の豊能郡成立に遡る
+  claims:
+  - text: 1977年（昭和52年）4月1日に東能勢村が改称し町制を施行して、豊能町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x11-toyono-estat
+  - text: 新町名は公募され、応募者362名・候補91種類から「阪北町」と「豊能町」の2案に絞られたうえで、町の将来の発展等を考慮して「豊能町」が選ばれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-toyono-guide
+  - text: もとになった「豊能」は郡名で、豊能郡は1896年（明治29年）4月1日に豊嶋郡（島下郡の後身）と能勢郡が合併して成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-toyonogun-wiki
+  - text: 前身の東能勢村は1889年（明治22年）に東部の5村の合併で成立し、1956年（昭和31年）9月30日に吉川村と合体合併して新しい東能勢村となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-toyono-wiki
+  - text: 豊能町は能勢町とともに豊能郡を構成するが、町名の直接の由来は郡名「豊能」であり、旧能勢郡の名をそのまま継承した能勢町とは成立の経路が異なる（異なる層）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x11-toyonogun-wiki
+    - x11-toyono-estat
+  - text: 公募の最終候補には、位置を示す名と解される「阪北町」も残っていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x11-toyono-guide
+  - text: 地方公共団体コードは273210である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: あと一歩だった「阪北町」
+    text: 1977年の町制施行にあたって、豊能町の名は公募で決まりました。362人の応募、91種類の候補から最後に残ったのは「豊能町」と「阪北町」の二つ。「阪北」は大阪の北という位置をそのまま名にする案で、採用されていれば町の名はまったく違う顔になっていました。選ばれたのは郡名を受け継ぐ「豊能」。88年前にできた郡の名が、村の改称を通じて町の名に生まれ変わった例です。
+    sources:
+    - x11-toyono-guide
+  relations:
+  - pref/27
+  - muni/27-能勢町
+  unknowns:
+  - 公募で「豊能町」を提案した応募者が郡名を意識していたかどうかは未確認
+  - 「東能勢」の名が1889年の村名として成立した経緯の詳細は未確認
   updated: '2026-11-13'
 - id: muni/27-貝塚市
   code: '272086'
@@ -3098,6 +3786,84 @@ sources:
   x1-shijonawate-city-yurai:
     label: 四條畷市公式「市名の由来は？」（南北朝期の古戦場である四条縄手（畷）にちなむとする説（『太平記』巻26）を挙げ、明治23年の四條畷神社創建を機に甲可村界隈の駅・学校・郵便局などが四條畷の名を冠するようになり、昭和7年に甲可村が四條畷村へ改称した経緯を記す）
     url: https://www.city.shijonawate.lg.jp/page/3-6323.html
+  x10-chihayaakasaka-wiki:
+    label: Wikipedia「千早赤阪村」（大阪府で唯一の村で人口が最も少ないこと、楠木正成の出身地として知られること、1956年9月30日に千早村・赤阪村が合併して発足したこと、大字が旧千早村の東阪・小吹・千早・中津原・吉年と旧赤阪村の川野辺・桐山・水分・二河原辺・森屋からなること、千早城跡と上・下赤坂城跡が国の史跡であること、2008〜2009年に河内長野市への編入合併が議論されたが白紙撤回されたこと、村章が千早の頭文字Cと赤阪の頭文字Aを図案化したものであることを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A9%E8%B5%A4%E9%98%AA%E6%9D%91
+  x10-misaki-town:
+    label: 岬町公式「まちのあゆみと現況」（紀貫之の『土佐日記』に「黒崎の松原」としてこの地の名がとどめられていること、中世に淡輪荘・谷川荘・深日荘の3荘園があったこと、太閤検地で淡輪・深日・孝子・東畑・西畑・谷川・小島の7か村が成立したこと、1889年に谷川・東畑・西畑・小島の4か村が合併して多奈川村が発足したこと、1955年4月1日に多奈川町・深日町・孝子村・淡輪村が合併して岬町が誕生したことを記す）
+    url: https://www.town.misaki.osaka.jp/chousei/gaiyou/1758.html
+  x10-misaki-wiki:
+    label: Wikipedia「岬町」（大阪府の最南端に位置すること、1955年4月1日に深日町・多奈川町・淡輪村・孝子村が合併して岬町が誕生したこと、平成の大合併では2005年に新市名「南泉州市」で合意しながら住民投票で岬町のみ賛成多数となり他の市町で反対が多数を占めて合併が白紙撤回されたこと、千葉県にも同名の岬町がかつて存在したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%B2%AC%E7%94%BA
+  x11-kanan-gaiyo:
+    label: 河南町公式「町の概要」（町の位置・地勢と面積25.26km²、町章の図案が「カ・ナ・ン」の文字と合併した旧4村（石川村・白木村・河内村・中村）を表すこと）
+    url: https://www.town.kanan.osaka.jp/gyoseijoho/gaiyo/3856.html
+  x11-kanan-miyagi-wiki:
+    label: Wikipedia「河南町 (宮城県)」（1955年から2005年まで宮城県桃生郡にあった河南町で、「河南」は北上川を境界として南北を区別する仙台藩政期以来の広域呼称によるという由来を収録）
+    url: https://ja.wikipedia.org/wiki/%E6%B2%B3%E5%8D%97%E7%94%BA_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+  x11-kanan-uub:
+    label: 都道府県市区町村「河南町（1956年〜）市区町村変遷情報」（1956年9月30日に南河内郡の石川村・白木村・河内村・中村が合併し、同時に町制を施行して河南町が誕生した新設合併を収録）
+    url: https://uub.jp/upd/c/3075.html
+  x11-kumatori-history:
+    label: 熊取町公式「歴史」（『日本後紀』に延暦23年（804年）10月、桓武天皇が「熊取野」で遊猟したことが記され、これが「熊取」の公式資料での初出とされることを紹介）
+    url: https://www.town.kumatori.lg.jp/soshiki/kohokocho/gyomu/gaiyo/profile/1404.html
+  x11-kumatori-kentei:
+    label: くまとりにぎわい観光協会「熊取検定攻略本」令和6年改定（郷土随筆『かりそめのひとりごと』の「木の間通り（このまどおり）→コマトリ→クマトリ」という語源説、江戸時代の熊取谷8村と七人庄屋を収録）
+    url: https://kumatori-kankou.com/files/arekore_book/kumaken_book2512.pdf
+  x11-kumatori-wiki:
+    label: Wikipedia「熊取町」（神功皇后が羽白熊鷲を討ち取った場所という伝承、中世の熊取荘、1889年の熊取村発足と1951年11月3日の町制施行、大阪府内の町村で最多の人口を持つ町であることを収録）
+    url: https://ja.wikipedia.org/wiki/%E7%86%8A%E5%8F%96%E7%94%BA
+  x11-nose-ayumi:
+    label: 能勢町公式「能勢町の歩み」（奈良時代に郡衙が設けられたこと、中世以降は多田源氏の流れをくむ能勢氏が江戸時代を通じて能勢を治めたことを紹介）
+    url: https://www.town.nose.osaka.jp/chosei/gaiyou/gaiyou/2102.html
+  x11-nose-wiki:
+    label: Wikipedia「能勢町」（1956年9月30日に西能勢村・歌垣村・田尻村が合併し町制を施行して能勢町が発足したこと、1959年に東郷村を編入したことを収録）
+    url: https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E7%94%BA
+  x11-nosegun-wiki:
+    label: Wikipedia「能勢郡」（和銅6年（713年）に摂津国河辺郡から分けて能勢郡が置かれたこと、『和名類聚抄』に能勢郡の郷として枳根郷・能勢郷・雄村郷が見えることを収録）
+    url: https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E9%83%A1
+  x11-shimagami-wiki:
+    label: Wikipedia「島上郡」（701年に三島郡が三島上郡・三島下郡に分けられて成立し、間もなく島上郡・島下郡と書かれるようになったこと、1896年に島上郡・島下郡が合併して三島郡が成立したことを収録）
+    url: https://ja.wikipedia.org/wiki/%E5%B3%B6%E4%B8%8A%E9%83%A1
+  x11-shimamoto-80th:
+    label: 島本町教育委員会「島本町制施行80周年記念誌」（1889年に島上郡の桜井・高浜・広瀬・東大寺・山崎・尺代・大沢の7村が合併して島本村が誕生したこと、1940年4月1日に町制を施行して島本町となったことを収録）
+    url: https://www.town.shimamoto.lg.jp/uploaded/life/17094_23908_misc.pdf
+  x11-shimamoto-rekishi:
+    label: 島本町公式「歴史・文化」ページ（広瀬・東大寺地区が「水無瀬」と呼ばれ東大寺の荘園であったこと、後鳥羽上皇の水無瀬離宮と、その跡の水無瀬宮（現在の水無瀬神宮）を紹介）
+    url: https://www.town.shimamoto.lg.jp/site/rekishi-bunka/2411.html
+  x11-shimamoto-wiki:
+    label: Wikipedia「島本町」（1889年の7村合併による島本村の発足、桜井地区が『太平記』の「桜井の別れ」の地であること、町章が「嶋本」の字を楠木氏の菊水紋に似せて変形したものであることを収録）
+    url: https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%9C%AC%E7%94%BA
+  x11-tadaoka-nankai:
+    label: 南海電鉄 駅紹介「忠岡」（平忠度の子・忠行が父を逃がすため今井兼滋の軍勢を食い止めて戦死し、村人が丘を築いて葬り「忠行の丘」と呼んだことが地名の由来とされる伝承を紹介）
+    url: https://www.nankai.co.jp/community/station/tadaoka.html
+  x11-tadaoka-wiki:
+    label: Wikipedia「忠岡町」（1889年に忠岡村・馬瀬村・北出村・高月村が合併して新しい忠岡村が発足したこと、1939年10月1日の町制施行、面積3.97km²で日本一面積の小さい町であること、2003年の岸和田市との合併協議会が住民投票で否決されたことを収録）
+    url: https://ja.wikipedia.org/wiki/%E5%BF%A0%E5%B2%A1%E7%94%BA
+  x11-tajiri-kanko:
+    label: 田尻町観光協会「田尻町ってどこ？」（1953年に町制を施行して田尻町となったことを紹介）
+    url: https://tajiri-tourism.com/tajiri
+  x11-tajiri-kissho:
+    label: 田尻町公式「吉祥の地」資料（1889年に吉見村と嘉祥寺村が合併して田尻村が誕生したこと、吉見の「吉」と嘉祥寺の「祥」を合わせた「吉祥の地」の命名を紹介）
+    url: https://www.town.tajiri.osaka.jp/kakukanojoho/jigyobu/sangyoshinkoka/3/1/5039.html
+  x11-tajiri-namedic:
+    label: ネムディク「田尻という名字の由来・語源」（地名「田尻」は「田の末端・水の落ち口」を意味する地形由来の名とされることを紹介）
+    url: https://namedic.jp/sei/detail/田尻
+  x11-tajiri-wiki:
+    label: Wikipedia「田尻町」（宮城県大崎市（旧・田尻町）とは旧町名が同じだった縁で友好都市の関係にあることを収録）
+    url: https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E7%94%BA
+  x11-toyono-estat:
+    label: 総務省統計局 e-Stat「廃置分合等情報」（1977年4月1日に東能勢村が改称・町制施行して豊能町が発足したことを収録）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/27321
+  x11-toyono-guide:
+    label: 豊能町観光ボランティアガイド協会「豊能町の紹介」（町制施行にあたって新町名を公募し、応募者362名・候補91種類から「阪北町」と「豊能町」の2案に絞られ、町の将来の発展等を考慮して「豊能町」が選ばれたことを紹介）
+    url: https://toyokan.net/bora3/town/town01.html
+  x11-toyono-wiki:
+    label: Wikipedia「豊能町」（1889年に東部の5村が合併して東能勢村が成立したこと、1956年9月30日に東能勢村と吉川村が合体合併して新しい東能勢村となったことを収録）
+    url: https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%83%BD%E7%94%BA
+  x11-toyonogun-wiki:
+    label: Wikipedia「豊能郡」（1896年4月1日に豊嶋郡（島下郡の後身）と能勢郡が合併して豊能郡が成立したことを収録）
+    url: https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%83%BD%E9%83%A1
   x2-fujiidera-fudoki:
     label: 郷土史サイト「藤井寺の郷土史」美陵町が藤井寺市になるまで 市名「藤井寺」はアンケート調査によって制定されたと伝える
     url: https://www.ne.jp/asahi/fudoki/fujiidera/05)rekishi/3)dekirumade/dekiru.htm

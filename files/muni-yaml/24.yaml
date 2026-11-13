@@ -363,6 +363,83 @@ records:
   - 旧上野市の「上野」という地名の語源（なぜ「上野」と呼ばれたか）は、専門辞典での確認が取れていない
   - 公募の応募総数や「伊賀」の得票数は未確認
   updated: '2026-11-13'
+- id: muni/24-南伊勢町
+  code: '244724'
+  names:
+    ja: 南伊勢町
+    reading: みなみいせちょう
+    aliases:
+    - 旧南勢町
+    - 旧南島町
+  user_terms:
+  - 南伊勢
+  - みなみいせ
+  - 伊勢志摩
+  - 五ヶ所浦
+  - 度会郡の町
+  naming_type: 合併新設
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県度会郡、伊勢市の南に位置する町。2005年10月1日に南勢町と南島町が合併して発足した。町名は旧伊勢国の南部にあり伊勢市の南隣に位置することから名付けられたとされ、旧町名をそのまま使わない新名称である。リアス式海岸に集落が点在し、町域の約6割が伊勢志摩国立公園に含まれる。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 南勢町・南島町の合併による南伊勢町の発足（南伊勢町公式『南伊勢町の概要』）
+    note: 合併に伴う新名としての初出
+  claims:
+  - text: 2005年（平成17年）10月1日に、南勢町と南島町が合併して南伊勢町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-gaiyo
+  - text: 三重県の市町村合併資料では、南伊勢町は「旧町村の名称を使用しない町の名称」の一つに数えられており、両旧町名のどちらも継承しない新名称である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-mie
+  - text: 町名は、かつての伊勢国の南部にあり、また伊勢市の南隣に位置することから名付けられたと説明される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x7-minamiise-wiki
+  - text: 前身の南勢町は1955年2月11日に五ヶ所町・穂原村・南海村・宿田曾村などの合併で、南島町は1955年4月1日に吉津町・島津村・鵜倉村・中島村の合併で発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x7-minamiise-uub
+  - text: 現在の町域は元は志摩国英虞郡の一部だったが、天正10年（1582）に伊勢国の守護大名・北畠氏により伊勢国度会郡に編入された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x7-minamiise-wiki
+  - text: 町域はリアス式海岸に38の集落が点在し、約6割が伊勢志摩国立公園に指定されている。町は自らを「伊勢の南玄関」と紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-gaiyo
+  - text: 南伊勢町の地方公共団体コードは244724である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 名古屋にもあった「南伊勢町」
+    text: 合併で生まれた真新しい名前かと思いきや、「南伊勢町」という地名は、かつて名古屋市中区にも存在した。現在の三重県南伊勢町が2005年に生まれるずっと前から、伊勢湾を挟んだ愛知県側に、同名の町名があったことになる。その名古屋の南伊勢町は今では地図から消え、「南伊勢町」を名乗るのは三重県度会郡の町だけになった。新しいはずの名前が、実は遠く離れた土地で一足先に生まれて消えていたという、静かな入れ替わりである。
+    sources:
+    - x7-minamiise-wiki
+  relations:
+  - pref/24
+  unknowns:
+  - 新町名「南伊勢」の選定過程（公募の有無・候補となった他名称）は、町公式資料では確認できなかった
+  - 旧南勢町の「南勢」、旧南島町の「南島」という1955年当時の町名の由来は、本調査では確認できなかった
+  updated: '2026-11-13'
 - id: muni/24-名張市
   code: '242080'
   names:
@@ -536,6 +613,243 @@ records:
   - 定期市がいつ始まったか（1473年の用例以前の開始時期）は未確認
   - 「四ケ市庭浦」の「庭浦」が指す具体的な場所と現在の市街地との位置関係は、本バッチでは詰めていない
   updated: '2026-11-13'
+- id: muni/24-多気町
+  code: '244414'
+  names:
+    ja: 多気町
+    reading: たきちょう
+    aliases: []
+  user_terms:
+  - たきちょう
+  - 多気
+  - 多気郡の町
+  - 丹生の水銀の町
+  naming_type: 一部の地名（古代の郡名・郷名「多気」の継承。1955年の発足時に郡名を町名とし、2006年の合併でも郡名であることを理由に旧多気町の名が維持された）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県中部、多気郡の町。町名は古代の郡名「多気」の継承で、1955年に相可町・佐奈村・津田村の合併で発足し、2006年に勢和村と合併して現在の町域となった。平成の合併で県が記録した決定理由は「歴史的に由緒がある」「郡名」であること。「多気」の語源そのものには竹の地とする説など諸説がある。町域の丹生は、東大寺大仏の金メッキに使われた水銀の産地として知られる。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 『和名類聚抄』
+    note: 934年頃の成立とされる同書に伊勢国「多気郡多気郷」の表記が見えることを、Wikipedia「多気町」が紹介するもの。原典そのものは本バッチでは確認できていないため、二次資料経由の紹介として記録する
+  claims:
+  - text: 1955年3月31日に相可町・佐奈村・津田村が新設合併して多気町が発足し、1959年4月15日に西外城田村を編入した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-taki-uub
+  - text: 2006年1月1日に勢和村と新設合併し、改めて多気町が発足して現在の町域となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-taki-uub
+  - text: 三重県の合併資料は、多気町を「旧町名」を用いた町とし、2006年の合併で町名が決まった理由を「歴史的に由緒がある」「郡名」と記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-mie
+  - text: 『和名類聚抄』には伊勢国「多気郡多気郷」の表記が見えると、Wikipedia「多気町」が紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-taki-wiki
+  - text: 「多気」の語源には、竹の生育する地域で「竹郡」と呼ばれ後に「多気」の字が当てられて読みが「たき」に変わったとする説、古語の「多木（食物の多くできる土地）」とする説、動詞「たぎる」による説などがあり、定説は確立していない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - x8-taki-wiki
+  - text: 町域の丹生は「丹（に）を生む場所」の意とされ、奈良時代に東大寺大仏の金メッキに丹生の水銀約2tが使われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-taki-pref
+  - text: 多気町の地方公共団体コードは244414である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 大仏を金色に染めた水銀の里・丹生
+    text: 多気町の丹生地区は、その名のとおり「丹（に）を生む場所」で、朱の原料となる辰砂、水銀鉱石の産地だった。三重県の資料によれば、奈良時代、東大寺の大仏を金色に仕上げる金メッキには丹生の水銀が約2tも使われ、中世には日本で唯一の「水銀座」がここに形成されたという。伊勢神宮に近い山あいの町が、奈良の大仏の輝きを下支えしていたことになる。「多気」という郡名のほうの由来は今も諸説のままだが、この町の地下が日本の古代史を支えたことだけは、確かな記録として残っている。
+    sources:
+    - x8-taki-pref
+  relations:
+  - pref/24
+  - muni/24-大台町
+  unknowns:
+  - 「多気」の語源の確定。竹郡説・多木説・たぎる説はいずれも二次資料経由でしか確認できていない
+  - 1955年の発足時に郡名「多気」を町名とした経緯を記す町公式の命名資料
+  updated: '2026-11-13'
+- id: muni/24-大台町
+  code: '244431'
+  names:
+    ja: 大台町
+    reading: おおだいちょう
+    aliases: []
+  user_terms:
+  - おおだいちょう
+  - 大台
+  - 大台ヶ原の町
+  - ユネスコエコパークの町
+  - 宮川上流の町
+  naming_type: 合併新設（1956年に三瀬谷町・川添村の合併で生まれた新名。大台ヶ原にちなむとされるが命名理由を明記した公的資料は未確認。2006年の合併では人口の多い旧大台町の名が継承された）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県中南部、多気郡の山間の町で、県内の町では最大の面積を持ち、全域がユネスコエコパーク「大台ケ原・大峯山・大杉谷」の一部。1956年に三瀬谷町・川添村の合併で発足し、2006年に宮川村と合併して三重県から村が消滅した。町名は大台ヶ原にちなむと一般に説明されるが、1956年の命名理由を明記した公的資料は確認できていない。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 三瀬谷町・川添村の新設合併による大台町発足
+    note: 自治体名「大台」としての初出。由来とされる山名「大台ヶ原」の文献上の初出は、本バッチでは確認できていない
+  claims:
+  - text: 1956年9月30日に三瀬谷町・川添村が新設合併して大台町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-odai-uub1956
+  - text: 2006年1月10日に宮川村と新設合併し、改めて大台町が発足した。これにより三重県から村が消滅した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-odai-uub2006
+    - x8-odai-wiki
+  - text: 三重県の合併資料は、大台町を平成の合併で「旧町名」を用いた町の一つとし、2町村の合併に際して人口の多い町の名称を用いたものと整理している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-mie
+  - text: 町名「大台」は大台ヶ原にちなむと一般に説明されるが、1956年の合併時の命名理由を明記した公的資料は本調査では確認できなかった
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x8-odai-wiki
+  - text: 『日本歴史地名大系』は、大台町は多気郡の中央部に位置し、宮川とその支流の大内山川の流域に集落が形成されていると記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-odai-kotobank
+  - text: 宮川は大台山系を源流とし伊勢湾に注ぐ延長約100km・三重県内最大の河川で、古くから伊勢神宮の禊川であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-odai-pref
+  - text: 町全域がユネスコエコパーク「大台ケ原・大峯山・大杉谷」の一部として登録されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-odai-wiki
+  - text: 大台町の地方公共団体コードは244431である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 三重県から「村」が消えた町
+    text: 2006年1月10日、大台町と宮川村が合併して新しい大台町が生まれたこの日、三重県からは「村」という自治体が完全に姿を消した。県内で最後まで残った村が宮川村だったのである。相手となった大台町は、面積では県内の町で最大、全域が大台ヶ原を含むユネスコエコパークに登録される山の町だ。皮肉なことに、自然の豊かさを誇るこの合併が、県の地図から「村」の字を消す最後の一手になった。いま三重県の市町村はすべて市と町だけで構成されている。
+    sources:
+    - x8-odai-uub2006
+    - x8-odai-wiki
+  relations:
+  - pref/24
+  - muni/24-多気町
+  - muni/24-大紀町
+  unknowns:
+  - 1956年の合併時に「大台」と命名した理由・経緯を記す一次資料（合併協議記録・町史の該当記述）
+  - 「大台ヶ原」という山名自体の初出と命名経緯
+  updated: '2026-11-13'
+- id: muni/24-大紀町
+  code: '244716'
+  names:
+    ja: 大紀町
+    reading: たいきちょう
+    aliases: []
+  user_terms:
+  - たいきちょう
+  - 大紀
+  - 瀧原宮のある町
+  - 大内山川と宮川の町
+  naming_type: 合併新設（2005年の合併で住民公募により選ばれた新名。大宮町・大内山村の「大」と紀勢町の「紀」を合わせた合成名であると町は説明する）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県中南部、度会郡の町。2005年に大宮町・紀勢町・大内山村の合併で発足した。町名は「大宮・大内山の『大』と紀勢の『紀』の合成」と町は説明するが、三重県の合併資料が記録する決定理由は別で、「大内山川・宮川などの大きな川をイメージ」「紀州の玄関口として大きく発展」というものだった。町内には伊勢神宮の別宮・瀧原宮がある。町域の大半は旧伊勢国だが、錦地区のみ旧紀伊国に属した歴史を持つ。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 大宮町・紀勢町・大内山村の新設合併による大紀町発足
+    note: 住民公募によって生まれた新名であり、合併そのものが「大紀」の名の初出である
+  claims:
+  - text: 2005年2月14日に大宮町・紀勢町・大内山村が新設合併して大紀町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-taiki-uub
+  - text: 町名は大宮町・大内山村の「大」と紀勢町の「紀」を合わせた合成地名であると、大紀町公式サイトの説明として紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-taiki-wiki
+  - text: 三重県の合併資料によれば、町名は地域住民からの公募をもとに小委員会で1候補に絞り協議会で決定され、決定理由は「大内山川・宮川などの大きな川をイメージ」「紀州の玄関口として大きく発展」であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-mie
+  - text: 合成元の大宮町もまた合成名で、その「大」は大内山川に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-taiki-wiki
+  - text: 合成元の紀勢町は、1957年2月1日に度会郡柏崎村と北牟婁郡錦町が合併して発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-taiki-wiki
+  - text: 町域の大半は旧伊勢国だが錦地区のみ旧紀伊国に属し、天正10年（1582年）に志摩国英虞郡から紀伊国牟婁郡へ編入された歴史を持つ
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-taiki-wiki
+  - text: 大紀町の地方公共団体コードは244716である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「大きな川」と「紀州の玄関口」
+    text: 大紀町の名は、旧町名から一字ずつ取った合成名だと説明されることが多い。ところが三重県が残した合併資料を読むと、決定理由として書かれているのは別の言葉である。「大内山川・宮川などの大きな川をイメージ」「紀州の玄関口として大きく発展」。つまり「大」は大きな川の「大」、「紀」は紀州への玄関の「紀」という願いを込めた読み解きが、公式の理由として記録されている。実際、町の錦地区はかつて紀伊国に属し、伊勢と紀州の境目にあたる土地だった。合成名と願い名、二つの説明が重なっているのがこの町名の面白さである。
+    sources:
+    - x7-minamiise-mie
+    - x8-taiki-wiki
+  relations:
+  - pref/24
+  - muni/24-紀北町
+  - muni/24-大台町
+  unknowns:
+  - 公募で「大紀町」が最多得票だったかなど、選定過程の票数等の詳細
+  - 瀧原宮（伊勢神宮別宮）と町名・地域名「滝原」の関係を記す町公式資料
+  updated: '2026-11-13'
 - id: muni/24-尾鷲市
   code: '242098'
   names:
@@ -623,6 +937,233 @@ records:
   - 「尾鷲」に鷲が棲んでいた等に結びつける伝承は、本バッチでは公的・専門資料で確認できなかった
   - 読みが「おわし」から「おわせ」に変わった理由（経緯の記録）は未確認
   - 貞和2年の荘司文書の原文は未読で、大系の紹介に拠っている
+  updated: '2026-11-13'
+- id: muni/24-川越町
+  code: '243442'
+  names:
+    ja: 川越町
+    reading: かわごえちょう
+    aliases:
+    - 川越村
+  user_terms:
+  - かわごえちょう
+  - 三重の川越
+  - 川越火力発電所の町
+  - 伊勢湾岸の川越
+  naming_type: 合併新設（1889年の町村制施行時の合併で生まれた名。朝明川を挟む南北の村々が川を越えて一つになったことによると町公式が明記する）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県北部、三重郡の町で、伊勢湾に面する。読みも漢字も同じ埼玉県川越市とは全く別の自治体であり、川越の名は1889年に朝明川北部の村々と南部の豊田村・高松村が合併した際に「川を越えて一つになった」ことによると町公式が説明する。町域の約半分は江戸時代の干拓による新田地帯で、1961年に町制施行した。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による川越村の発足
+    note: 『日本歴史地名大系』が紹介する川越村の成立をもって、自治体名としての初出とする。「川越」の地名としてのより古い用例は本バッチでは確認できていない
+  claims:
+  - text: 川越町公式サイトは、町村制施行の際、朝明川北部の村々と南部の豊田村・高松村が合併することになり、文字どおり「川を越えて」一つの村になったため「川越村」と名づけられたと明記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-kawagoe-town
+  - text: 『日本歴史地名大系』は、明治22年（1889年）に九村が合併して川越村が成立したと記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-kawagoe-kotobank
+  - text: 1961年5月1日に川越村が町制施行して川越町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-kawagoe-wiki
+  - text: 町域の約半分は、江戸時代に桑名藩領だった頃の新田開発によって生まれた伊勢湾の干拓地である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-kawagoe-wiki
+  - text: 本町は三重郡の北東端にあり東は伊勢湾に臨む町で、城下町として発達した埼玉県川越市とは読みと漢字が同じでも成り立ちの異なる別自治体である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-kawagoe-kotobank
+    - x8-kawagoe-town
+  - text: 1959年の伊勢湾台風を契機に地先の海面埋立事業が計画され、1973年に完成して中部電力川越火力発電所が立地した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-kawagoe-pref
+  - text: 川越町の地方公共団体コードは243442である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 川を越えた先の、発電所の町
+    text: 埼玉県の川越といえば城下町の面影で知られるが、三重の川越はまったく違う顔を持つ。町名の由来は、1889年の合併で朝明川の北と南の村々が「川を越えて」一つになったという、町公式がはっきり書き残す素直な命名である。その土地の半分は江戸時代に干拓で生まれた新田で、1959年の伊勢湾台風の後には海面埋立が進み、やがて中部電力の川越火力発電所が立つ工業の町へと変わった。同じ「かわごえ」でも、片や川を越えて生まれ、海を埋めて育った町なのである。
+    sources:
+    - x8-kawagoe-town
+    - x8-kawagoe-pref
+  relations:
+  - pref/24
+  - muni/24-四日市市
+  unknowns:
+  - 1889年の合併に参加した村の確定リスト（『日本歴史地名大系』は九村とし、町公式の説明は村名を一部のみ挙げる）
+  - 「川越」の地名が1889年以前に小地名として存在したかどうか
+  updated: '2026-11-13'
+- id: muni/24-度会町
+  code: '244708'
+  names:
+    ja: 度会町
+    reading: わたらいちょう
+    aliases:
+    - 度会村
+  user_terms:
+  - わたらいちょう
+  - 度会
+  - 伊勢神宮の神郡の町
+  - 度会郡の町
+  naming_type: 一部の地名（古代の郡名「度会」の継承。1955年の度会村発足時に公募で過半数が希望した名称であり、1968年の町制でそのまま度会町となった）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県中南部、度会郡の町。町名は古代の郡名「度会」の継承で、1955年に4村の合併で度会村が発足した際、公募で半数以上が希望した名称だった。度会郡は伊勢神宮最古の神郡の一つで、外宮の祠官を世襲した度会氏の本拠でもあった。町公式は、古代から伊勢神宮と関わりが深く倭姫命の伝説が残る町と紹介する。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 『和名類聚抄』
+    note: 934年頃の成立とされる同書に伊勢国「度会郡」の表記が見える。二次資料経由の確認にとどまり、原典そのものは本バッチでは確認できていない
+  claims:
+  - text: 1955年4月1日に小川郷村・内城田村・一之瀬村・中川村が合併して度会村が発足し、1968年1月1日に町制施行して度会町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-watarai-wiki
+  - text: 町名は郡名「度会」による広域地名で、度会村発足時の公募では半数以上がこの名称を希望したと、度会町役場総務課の資料の紹介として記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-watarai-wiki
+  - text: 度会郡は伊勢神宮の神郡のうち最古のものの一つで、弘仁8年（817年）に度会郡・多気郡が伊勢神宮に寄進され、度会郡・多気郡・飯野郡は「神三郡」と呼ばれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-watarai-gun
+  - text: 度会氏は明治初期まで伊勢神宮外宮（豊受大神宮）の祠官を世襲した氏族で、その主な根拠地は伊勢国度会郡であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-watarai-clan
+  - text: 度会町公式サイトは、町は古代から伊勢神宮の歴史と関わりが深く、萱の御料地などが町内各地に残されていると記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-watarai-town
+  - text: 天照大御神を内宮に祀ったとされる倭姫命の伝説が町内各地に残されていると、度会町公式サイトは伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x8-watarai-town
+  - text: 度会町の地方公共団体コードは244708である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 神宮の祠官・度会氏の郡
+    text: 「度会」という名は、伊勢神宮の外宮に深く結びついている。外宮の祠官を代々世襲した度会氏はこの郡を本拠とし、中世には伊勢神道を唱えて内宮方と張り合った。もっとも郡名と氏名のどちらが先かは単純ではなく、郡そのものは神宮最古の神郡の一つに数えられる。1955年に新しい村の名を公募したとき、住民の半数以上が選んだのは、この千年の重みを持つ「度会」だった。神宮のご料地や倭姫命の伝説が点在する町に、それ以上の名は要らなかったということだろう。
+    sources:
+    - x8-watarai-clan
+    - x8-watarai-wiki
+  relations:
+  - pref/24
+  - muni/24-玉城町
+  - muni/24-伊勢市
+  unknowns:
+  - 郡名「度会」と氏族名「度会氏」の先後関係、および「度会」の語源そのもの
+  - 1955年の公募における「度会」以外の候補名
+  updated: '2026-11-13'
+- id: muni/24-御浜町
+  code: '245615'
+  names:
+    ja: 御浜町
+    reading: みはまちょう
+    aliases: []
+  user_terms:
+  - みはまちょう
+  - 御浜
+  - 七里御浜の町
+  - 年中みかんのとれる町
+  naming_type: 合併新設（1958年の合併で生まれた新町名。熊野灘に面する長大な礫浜「七里御浜」にちなんで名づけられた）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県南部、南牟婁郡の町。1958年に阿田和町・神志山村・市木尾呂志村の合併で発足した。町名は、熊野灘に延びる長大な礫浜「七里御浜」にちなむと『日本大百科全書（ニッポニカ）』が明記する。「年中みかんのとれる町」として知られる柑橘の産地でもある。
+  first_attestation:
+    era: 昭和33年
+    year_western: 1958
+    document: 阿田和町・神志山村・市木尾呂志村の合併による御浜町発足
+    note: 町名としての初出。由来となった浜名「七里御浜」自体の文献上の初出は、本バッチでは確認できていない
+  claims:
+  - text: 1958年9月1日に阿田和町・神志山村・市木尾呂志村が合併して御浜町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-mihama-uub
+  - text: 『日本大百科全書（ニッポニカ）』は、御浜町について「熊野灘の七里御浜に面し、町名もそれにちなんで命名された」と明記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-mihama-kotobank
+  - text: 町の観光サイトも「七里御浜は御浜町の名前の由来にもなっています」と記している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-mihama-kanko
+  - text: 町は七里御浜の中間部に位置し、吉野熊野国立公園の区域を含んでいる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-mihama-yoran
+  - text: 町は「年中みかんのとれる町」を掲げる柑橘の産地である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-mihama-yoran
+  - text: 御浜町の地方公共団体コードは245615である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 七里御浜と、年中みかんのとれる町
+    text: 熊野灘に沿って熊野市から和歌山県新宮市方面へ延びる七里御浜は、砂ではなく小石でできた長大な礫浜で、その距離は名のとおり七里あまりに及ぶ。御浜町はちょうどその中ほどにあり、町名そのものがこの浜から採られた。浜の背後の丘陵では温暖な気候を生かした柑橘栽培が盛んで、町は「年中みかんのとれる町」をキャッチフレーズに掲げる。海の地形が自治体の名前になり、その名前が町の暮らしの看板にもなっている例である。
+    sources:
+    - x8-mihama-kotobank
+    - x8-mihama-yoran
+  relations:
+  - pref/24
+  - muni/24-紀宝町
+  - muni/24-熊野市
+  unknowns:
+  - 1958年の合併協議で「御浜」が選定された経緯（公募の有無・他候補）
+  - 「七里御浜」という浜名の文献上の初出
   updated: '2026-11-13'
 - id: muni/24-志摩市
   code: '242152'
@@ -867,6 +1408,168 @@ records:
   unknowns:
   - 迹太川の比定について、現在の朝明川とする説への異説の具体的内容は、久志本鉄也「壬申紀『迹太川』小考」（2013年）などの原典確認が必要
   - 『朝日町史』（1974年）原文での命名経緯の直接確認は未実施（Wikipediaが同書を引く紹介によって記録した）
+  updated: '2026-11-13'
+- id: muni/24-木曽岬町
+  code: '243035'
+  names:
+    ja: 木曽岬町
+    reading: きそさきちょう
+    aliases:
+    - 木曽岬村
+  user_terms:
+  - きそさきちょう
+  - 木曽岬
+  - 輪中の町
+  - 木曽三川河口の町
+  naming_type: 合併新設（1889年に木曽三川河口の25の新田を合わせて生まれた新村名。木曽川河口に突き出た地形による命名と考えられるが、命名理由を明記した資料は未確認。1989年に町制施行）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県北東端、桑名郡唯一の町で、木曽三川の河口部に位置する輪中の町。1889年に25の新田の区域を合わせて木曽岬村が成立し、1989年（平成元年）に町制施行した。「木曽岬」は木曽川の河口に突き出た岬状の地形に由来すると考えられるが、命名理由を明記した公的資料は確認できていない。三重県の市町村で木曽川の東岸にあるのは本町と桑名市長島町の一部のみである。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による木曽岬村の設置
+    note: 25新田を合わせた新村の名としての初出。「木曽岬」の地名が村制以前から用いられていたかどうかは、本バッチでは確認できていない
+  claims:
+  - text: 1889年4月1日に、木曽三川河口部の25の新田の区域を合わせて木曽岬村が成立した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-kisosaki-uub
+  - text: 木曽岬町公式サイトの沿革は、1889年3月に三重県令により木曽岬村が発足したと記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-kisosaki-town
+  - text: 1989年5月1日に町制施行して木曽岬町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-kisosaki-wiki
+  - text: 町は木曽川の最下流・河口部に位置し、周囲を堤防で囲まれた輪中の地形のうえに集落と耕地が広がる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-kisosaki-mlit
+  - text: 三重県の市町村で木曽川東岸に位置するのは木曽岬町と桑名市長島町老松の区域のみであり、本町は桑名郡に属する唯一の町である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-kisosaki-wiki
+  - text: 「木曽岬」の名が木曽川河口に突き出た岬状の地形に由来するという理解は地形と整合するが、1889年の村名決定の理由を明記した資料は本調査では確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x8-kisosaki-mlit
+    - x8-kisosaki-wiki
+  - text: 木曽岬町の地方公共団体コードは243035である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 木曽川の東岸にある、三重県の町
+    text: 木曽岬町は、三重県でありながら木曽川の東岸にある。県内の市町村で川の東側に位置するのは、この町と桑名市長島町の一部だけで、東隣はもう愛知県である。町域そのものが江戸時代以来、河口の干潟に築かれた新田の集まりで、1889年に25もの新田が寄り集まって一つの村になった。輪中の堤防に囲まれ、川と海の境目に生きてきた土地だからこそ、「木曽川の岬」という名がそのまま自治体の名になったのだろう。県境の川を越えた飛び地のような位置も、この町の個性である。
+    sources:
+    - x8-kisosaki-wiki
+    - x8-kisosaki-uub
+  relations:
+  - pref/24
+  - muni/24-桑名市
+  unknowns:
+  - 1889年の村名「木曽岬」の命名理由を記す一次資料
+  - 「木曽岬」という呼び名が新田開発の過程でいつから使われていたか
+  updated: '2026-11-13'
+- id: muni/24-東員町
+  code: '243248'
+  names:
+    ja: 東員町
+    reading: とういんちょう
+    aliases:
+    - 東員村
+  user_terms:
+  - とういんちょう
+  - 東員
+  - 員弁郡唯一の町
+  - いなべ市の隣の町
+  naming_type: 合併新設（1954年に大長村・稲部村・神田村の合併で生まれた新名。員弁郡の「員」を採った命名と考えられるが、命名理由を明記した公的資料は未確認。1967年に町制施行）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県北部、員弁郡唯一の町。1954年に大長村・稲部村・神田村が合併して東員村が発足し、1967年に町制施行した（合併は1967年ではない）。「東員」の名は、員弁郡の郡名の「員」に、郡の東部という位置を重ねた命名と考えられるが、命名理由を明記した公的資料は確認できていない。2003年に郡内の他町がいなべ市となったため、員弁郡で唯一の町となった。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 大長村・稲部村・神田村の合併による東員村発足
+    note: 合併新名としての初出。「員弁」の郡名そのものは古代に遡るが、「東員」の用例はこの合併が最初とみられる
+  claims:
+  - text: 1954年11月3日に大長村・稲部村・神田村が合併して東員村が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-toin-uub
+  - text: 1955年2月1日に久米村の一部（大字中上）を編入した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-toin-uub
+  - text: 1967年4月1日に町制施行して東員町となった。この年は合併の年ではなく、村から町への移行である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-toin-uub
+  - text: 東員町公式サイトの沿革ページは年表形式で町の歴史を示すが、「東員」の命名理由については説明していない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-toin-town
+  - text: 「東員」は員弁郡の東部に位置することと郡名の「員」を組み合わせた命名と考えられるが、命名理由を明記した公的資料は本調査では確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x8-toin-pamphlet
+    - x8-toin-uub
+  - text: 町の中央を員弁川が東流し、町域は古代豪族・猪名部氏の本拠地とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-toin-pamphlet
+  - text: 2003年に員弁郡の他の4町がいなべ市となったため、東員町は員弁郡で唯一の町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-toin-wiki
+  - text: 東員町の地方公共団体コードは243248である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読めない町名「とういん」と、員弁郡の生き残り
+    text: 「東員」は、初見ではまず読めない。答えは「とういん」で、鍵は郡名の「員弁（いなべ）」にある。1954年の合併で生まれたこの名は、員弁郡の「員」を採ったものとみられる。半世紀後の2003年、員弁郡の他の4町は合併していなべ市となり、「員弁」の名は市の名に残った一方、郡に残ったのは東員町ただ一つになった。郡の名を市と町で分け合う形である。読みの難しさも含めて、古代の豪族・猪名部氏の本拠とされるこの土地の、郡への帰属意識の強さを物語る名前といえる。
+    sources:
+    - x8-toin-wiki
+    - x8-toin-pamphlet
+  relations:
+  - pref/24
+  - muni/24-いなべ市
+  unknowns:
+  - 1954年の合併時に「東員」と命名した理由・経緯を記す一次資料
+  - 「東員」の読み「とういん」が正式に定められた時期と根拠
   updated: '2026-11-13'
 - id: muni/24-松阪市
   code: '242047'
@@ -1236,6 +1939,319 @@ records:
   - 1954年の合併時に市名「熊野」を決定した協議の一次記録は未確認
   - 『日本書紀』神代巻の該当記事は原典未読で、大系の紹介に拠っている
   updated: '2026-11-13'
+- id: muni/24-玉城町
+  code: '244619'
+  names:
+    ja: 玉城町
+    reading: たまきちょう
+    aliases: []
+  user_terms:
+  - たまきちょう
+  - 玉城
+  - 田丸城の城下町
+  - 度会郡の町
+  naming_type: 合併新設（1955年の合併で生まれた町名。田丸城の古称「玉丸城」にちなむとブリタニカ国際大百科事典は記す）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県中部、度会郡の町。1955年に田丸町・東外城田村・有田村の一部が合併して発足した。町名は、中心地区・田丸に北畠親房が築いた田丸城の古称「玉丸城」にちなむとブリタニカ国際大百科事典は記す。沖縄県の旧玉城村（現・南城市）とは「全国で唯一の同名町村」の縁で姉妹町村盟約を結んだ。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 田丸町・東外城田村・有田村の一部の合併による玉城町発足
+    note: 自治体名としての初出。由来とされる田丸城の古称「玉丸城」の文献上の初出は、本バッチでは確認できていない
+  claims:
+  - text: 1955年4月10日に田丸町・東外城田村・有田村の一部が合併して玉城町が発足し、1956年9月30日に下外城田村を編入した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-tamaki-kotobank
+  - text: ブリタニカ国際大百科事典小項目事典は、玉城町について「町名は田丸城の古称玉丸城にちなむ」と記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-tamaki-kotobank
+  - text: 中心地区の田丸は、延元元年（1336年）に北畠親房が田丸城を築いて以来の城下町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-tamaki-town
+  - text: 『日本歴史地名大系』は、玉城町は度会郡の北部にあり、宮川下流の左岸に位置すると記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x8-tamaki-kotobank
+  - text: 沖縄県の旧玉城村（現・南城市）とは「全国で唯一の同名町村」の縁により、1993年11月12日に姉妹町村盟約を結んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-tamaki-nanjo
+  - text: 「玉城」の名が1955年以前の郷名などの古い地名に遡るかどうかは、本調査では確認できなかった
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x8-tamaki-wiki
+  - text: 玉城町の地方公共団体コードは244619である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 全国で唯一の同名町村だった縁
+    text: 1993年、三重県玉城町は遠く沖縄県の玉城村と姉妹町村の盟約を結んだ。理由は明快で、当時この二つが「全国で唯一の同名町村」だったからである。読みも同じ「たまき」。沖縄の玉城はグスク（城）に由来する琉球の地名、三重の玉城は田丸城の古称「玉丸城」にちなむとされ、由来はまったく異なる。2006年に沖縄の玉城村は合併して南城市の一部となり、同名町村のペアは消えたが、盟約は南城市との間で今も生きている。同名地名が自治体同士を結びつけた、珍しい縁の記録である。
+    sources:
+    - x8-tamaki-nanjo
+    - x8-tamaki-kotobank
+  relations:
+  - pref/24
+  - muni/24-度会町
+  - muni/24-伊勢市
+  unknowns:
+  - 田丸城の古称「玉丸城」の用例が確認できる文献と、その初出時期
+  - 1955年の合併で「玉城町」が選定された経緯（公募の有無・他候補）。ブリタニカの記述以外の裏づけ
+  updated: '2026-11-13'
+- id: muni/24-紀北町
+  code: '245437'
+  names:
+    ja: 紀北町
+    reading: きほくちょう
+    aliases: []
+  user_terms:
+  - きほくちょう
+  - 紀北
+  - 熊野古道の町
+  - 東紀州の玄関口
+  naming_type: 合併新設（2005年の合併で住民公募から選ばれた新名。「紀伊の北部」という広域名で、合併以前から県民局・農協等の名称として親しまれていた）
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県南部、北牟婁郡唯一の町。2005年に紀伊長島町・海山町の合併で発足した。町名「紀北」は三重県の合併資料によれば住民公募で募り、幹事会で10候補に絞って協議会の投票で決めた新名で、決定理由は「地理的にイメージできる」「県民局、農協等で使用され親しみがある」。町域はもと志摩国に属したが、1582年に紀伊国へ編入された土地である。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 紀伊長島町・海山町の新設合併による紀北町発足
+    note: 自治体名としての初出。「紀北」の語そのものは、県民局や農協などの地域名称として合併以前から使われていたことが、三重県の合併資料からうかがえる
+  claims:
+  - text: 2005年10月11日に北牟婁郡紀伊長島町・海山町が新設合併して紀北町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x8-kihoku-uub
+  - text: 三重県の合併資料によれば、町名は地域住民からの公募をもとに、幹事会で10候補を選定し、合併協議会の投票によって決定された新名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-mie
+  - text: 同資料が記録する決定理由は「地理的にイメージできる」「県民局、農協等で使用され親しみがある」で、「紀北」が合併前から広域名として使われていたことがうかがえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x7-minamiise-mie
+  - text: 紀北町は北牟婁郡に属する唯一の自治体である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-kihoku-wiki
+  - text: 町域はもと志摩国に属していたが、天正10年（1582年）に新宮の堀内氏善の北進によって一帯が紀伊の国に編入されたと、紀北町公式サイトは記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x8-kihoku-town
+  - text: 町内には、ユネスコ世界文化遺産「紀伊山地の霊場と参詣道」を構成する熊野古道の馬越峠などの峠道がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x8-kihoku-wiki
+  - text: 紀北町の地方公共団体コードは245437である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: もとは志摩国、いまは「紀」の北
+    text: 紀北町の「紀」は紀伊国の紀だが、この土地はもともと紀伊ではなかった。町公式の歴史によれば、一帯はかつて志摩国に属し、伊勢神宮の御領地となったのち、1582年に新宮の堀内氏善の進出によって紀伊の国に組み込まれたという。以来400年あまり「紀伊の端」にあった土地が、平成の合併で「紀伊の北部＝紀北」を名乗ったことになる。しかも県の資料によれば、この名は県民局や農協の名称として以前から地域で使われ、親しまれていた。合併で作られた新名でありながら、実は先に暮らしの中で育っていた名前だった。
+    sources:
+    - x8-kihoku-town
+    - x7-minamiise-mie
+  relations:
+  - pref/24
+  - muni/24-尾鷲市
+  - muni/24-大紀町
+  unknowns:
+  - 公募における「紀北町」以外の最終候補（10候補）の内容と得票状況
+  - 「紀北」の広域名としての使用開始時期（県民局・農協の名称に採用された時期）
+  updated: '2026-11-13'
+- id: muni/24-紀宝町
+  code: '245623'
+  names:
+    ja: 紀宝町
+    reading: きほうちょう
+    aliases:
+    - 井田村
+    - 御船村
+    - 相野谷村
+    - 鵜殿村
+    - 宇和野村
+  user_terms:
+  - きほう
+  - 三重県最南端の町
+  - ウミガメの町
+  naming_type: 合併新設
+  prefecture: 三重県
+  homonyms: []
+  summary: 三重県の最南端、南牟婁郡の町。1954年（昭和29年）に井田村・御船村・相野谷村が合併して町制とともに生まれ、2006年（平成18年）に鵜殿村と合併して現在の町域となった。この合併で三重県から村がなくなった。「紀宝」は1954年の合併時に付けられた新しい名だが、その命名理由を記した公的資料は確認できていない。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 紀宝町の設置（井田村・御船村・相野谷村の新設合併と町制施行）
+    note: 自治体名としての初出は1954年の命名そのもの。前身の各村名はそれ以前からの村名を継ぐ
+  claims:
+  - text: 紀宝町の地方公共団体コードは245623である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - x9-kiho-wiki
+  - text: 1954年（昭和29年）10月31日に井田村・御船村・相野谷村が合併し、町制を施行して紀宝町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-kiho-wiki
+    - x9-kiho-uub
+  - text: 2006年（平成18年）1月10日に鵜殿村と合併して新しい紀宝町が発足し、これにより三重県内の村は消滅した。町役場には旧鵜殿村役場が使われている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-kiho-wiki
+  - text: 2006年の合併に際して新町名が公募されたが、「紀宝（きほう）」は応募の上位にあり、最終候補を経て、読みを「きほうちょう」として町名が維持された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x9-kiho-uub
+  - text: 町域は令制国では紀伊国牟婁郡（それ以前は熊野国）に属した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-kiho-wiki
+  - text: 1954年の命名時に「紀宝」の名が選ばれた理由を記した公的資料は確認できておらず、「紀伊半島の宝」に由来するといった説明は裏付けのない解釈にとどまる
+    kind: fact
+    level: H
+    status: indeterminate
+    sources:
+    - x9-kiho-wiki
+    - x9-kiho-yoran
+  column:
+    title: 二度生まれた町
+    text: 紀宝町は1954年に3村の合併で生まれ、2006年には隣の鵜殿村と合併して「新しい紀宝町」として改めて生まれた。2度目の合併では新町名が公募されたが、「紀宝」は応募の上位に入って最終的に存置され、一方で役場庁舎は旧鵜殿村のものを使うことになった。名は紀宝、庁舎は鵜殿という役割分担である。この合併で三重県から村が姿を消した。町の町勢要覧はいま「宝」の字を町の魅力そのものとして大きく掲げているが、そもそも1954年に「紀宝」と名付けられた理由の記録は、まだ見つかっていない。
+    sources:
+    - x9-kiho-uub
+    - x9-kiho-wiki
+    - x9-kiho-yoran
+  relations:
+  - pref/24
+  - muni/24-御浜町
+  unknowns:
+  - 1954年の合併時に「紀宝」と命名された理由・経緯を記した公的資料（合併協議記録・町史等）は未確認
+  - 「紀宝」の二字の出典（紀伊国と宝の合成かどうか等）についての専門的裏付けは未確認
+  updated: '2026-11-13'
+- id: muni/24-菰野町
+  code: '243418'
+  names:
+    ja: 菰野町
+    reading: こものちょう
+    aliases:
+    - 菰野村
+    - 菰野藩
+    - 菰野県
+    - 薦野
+    - 古茂野
+    - 鵜川原村
+    - 竹永村
+    - 朝明村
+  user_terms:
+  - こもの
+  - 湯の山温泉の町
+  - 御在所岳
+  - マコモの野
+  naming_type: 一部の地名
+  prefecture: 三重県
+  homonyms: []
+  summary: 鈴鹿山脈の東麓、三重郡の町。町公式サイトによれば、その昔マコモ（真菰）などが生い茂る原野を開拓して村づくりが始まり、この地を「こもの」と呼んだことが町名の由来で、表記には薦野・古茂野・菰野が使われてきた。江戸時代には土方氏の菰野藩1万2千石の城下町となり、1889年に菰野村、1928年に菰野町となった。1956〜57年の合併で現在の町域となった。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による三重郡菰野村の設置
+    note: 自治体名としての初出。地名「こもの」自体の文書上の初出は未確認
+  claims:
+  - text: 菰野町の地方公共団体コードは243418である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - x9-komono-wiki
+  - text: 菰野町公式サイトは、その昔マコモ（真菰・真薦）やクサヨモギなどが生い茂る原野が広がっており、そこを切り開いて村づくりがはじめられたことから、この地を「こもの」と命名したことが町名の由来であり、「こもの」の字には薦野・古茂野・菰野が使われてきたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x9-komono-town
+  - text: 1600年（慶長5年）に土方雄氏が菰野に入って菰野藩（1万2千石）を創設し、陣屋を中心とする城下町として発展した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-komono-wiki
+    - x9-komono-han-wiki
+  - text: 1871年（明治4年）の廃藩置県では菰野藩は菰野県となり、その後三重県に編入された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-komono-han-wiki
+  - text: 1889年（明治22年）に旧城下町の区域で菰野村が発足し、1928年（昭和3年）10月1日に町制を施行して菰野町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-komono-wiki
+  - text: 1956年（昭和31年）9月30日に鵜川原村・竹永村と合併し、1957年（昭和32年）に朝明村を編入して現在の町域となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x9-komono-wiki
+  column:
+    title: 原野の名が藩の名、県の名になった
+    text: 「菰野」はマコモの生い茂る原野を指した土地の名だったが、1600年に土方氏が入ると藩の名になり、1871年の廃藩置県では一瞬だけ「菰野県」という県名にもなった。その後は村の名、町の名として今日まで途切れず使われ続けている。菰野藩は年貢の取り立てが比較的緩やかで、明治維新まで一揆が一度もなかった珍しい藩として紹介される。一つの土地の名が四百年にわたり行政の名として生き延びた例である。
+    sources:
+    - x9-komono-town
+    - x9-komono-han-wiki
+  relations:
+  - pref/24
+  - muni/24-四日市市
+  unknowns:
+  - 地名「こもの」の文書上の初出（中世文書等での使用例）は未確認
+  - 町公式サイトのいう「村づくり」がいつの時期を指すのかは特定できていない
+  - 「薦野」「古茂野」表記の具体的な使用年代は未確認
+  updated: '2026-11-13'
 - id: muni/24-鈴鹿市
   code: '242071'
   names:
@@ -1563,3 +2579,144 @@ sources:
   r1-toba-wiki:
     label: Wikipedia「鳥羽（鳥羽市）」（地名の由来・泊浦・城下町）
     url: https://ja.wikipedia.org/wiki/%E9%B3%A5%E7%BE%BD_(%E9%B3%A5%E7%BE%BD%E5%B8%82)
+  x7-minamiise-gaiyo:
+    label: 南伊勢町公式サイト『南伊勢町の概要』
+    url: https://www.town.minamiise.lg.jp/admin/kankoujouhou/1478.html
+  x7-minamiise-mie:
+    label: 三重県 平成の市町村合併資料『名称、字名の取扱い』
+    url: https://www.pref.mie.lg.jp/common/content/000110356.pdf
+  x7-minamiise-uub:
+    label: 市区町村変遷情報『南伊勢町』（uub.jp）
+    url: https://uub.jp/upd/c/377.html
+  x7-minamiise-wiki:
+    label: Wikipedia『南伊勢町』
+    url: https://ja.wikipedia.org/wiki/南伊勢町
+  x8-kawagoe-kotobank:
+    label: コトバンク「川越町」（『日本歴史地名大系』：明治22年（1889年）に九村が合併して川越村が成立したこと、三重郡の北東端にあり東は伊勢湾に臨むことを記す）
+    url: https://kotobank.jp/word/%E5%B7%9D%E8%B6%8A%E7%94%BA-48216
+  x8-kawagoe-pref:
+    label: 三重県公式資料「三重の文化」郷土の文化編・川越町（1959年の伊勢湾台風を契機に地先の海面埋立事業が計画され1973年に完成し、中部電力川越火力発電所が立地したことを記す）
+    url: https://www.pref.mie.lg.jp/common/content/000055254.pdf
+  x8-kawagoe-town:
+    label: 川越町公式「『川越』の由来・町章」（町村制施行の際、朝明川北部の村々と南部の豊田村・高松村が合併することになり、文字どおり「川を越えて」一つの村になったため「川越村」と名づけられたと町が明記する）
+    url: https://www.town.kawagoe.mie.jp/gyousei/town/1001946.html
+  x8-kawagoe-wiki:
+    label: Wikipedia「川越町」（三重県三重郡の町で、1889年4月1日に川越村が発足し、1961年5月1日に町制施行して川越町となったこと、町域の約半分は江戸時代に桑名藩領だった頃の新田開発による伊勢湾の干拓地であることを記す）
+    url: https://ja.wikipedia.org/wiki/川越町
+  x8-kihoku-town:
+    label: 紀北町公式「紀北町長からのごあいさつ、紀北町の歴史」（当地方はもと志摩国に属し、その後全町が伊勢神宮の御領地となったこと、天正10年（1582年）に新宮の堀内氏善の北進によって当地方一帯は紀伊の国になったことを記す）
+    url: https://www.town.mie-kihoku.lg.jp/2019/02/27/1117
+  x8-kihoku-uub:
+    label: 市区町村変遷情報「紀北町」（2005年10月11日に海山町・紀伊長島町が新設合併して紀北町が生まれたことを記す）
+    url: https://uub.jp/upd/c/1101.html
+  x8-kihoku-wiki:
+    label: Wikipedia「紀北町」（2005年10月11日に旧紀伊長島町と旧海山町を引き継いで新設され、北牟婁郡に属する唯一の自治体となったこと、ユネスコ世界文化遺産「紀伊山地の霊場と参詣道」（熊野古道）を構成する馬越峠などの峠道が町内にあることを記す）
+    url: https://ja.wikipedia.org/wiki/紀北町
+  x8-kisosaki-mlit:
+    label: 国土交通省中部地方整備局「木曽川文庫」Vol.59（木曽川最下流・河口部の輪中地帯と木曽岬町の成り立ちを紹介する）
+    url: https://www.cbr.mlit.go.jp/kisokaryu/KISSO/pdf/kisso-VOL59.pdf
+  x8-kisosaki-town:
+    label: 木曽岬町公式「町の歴史」（1889年3月に三重県令により木曽岬村が発足したことを記す）
+    url: https://www.town.kisosaki.lg.jp/0000000105.html
+  x8-kisosaki-uub:
+    label: 市区町村変遷情報「木曽岬町」（1889年4月1日に25の新田の区域を合わせて木曽岬村が成立したことを記す）
+    url: https://uub.jp/upd/c/19587.html
+  x8-kisosaki-wiki:
+    label: Wikipedia「木曽岬町」（木曽三川の河口部に位置する町で、1989年5月1日に町制施行して木曽岬町となったこと、桑名郡に属する唯一の町であること、三重県の市町村で木曽川東岸に位置するのは木曽岬町と桑名市長島町老松の区域のみであることを記す）
+    url: https://ja.wikipedia.org/wiki/木曽岬町
+  x8-mihama-kanko:
+    label: 御浜町観光サイト「青を編む」（七里御浜は御浜町の名前の由来にもなっていると記す）
+    url: https://mihama-mie-townpromotion.jp/visit/1757
+  x8-mihama-kotobank:
+    label: コトバンク「御浜町」（『日本大百科全書（ニッポニカ）』：熊野灘の七里御浜に面し、町名もそれにちなんで命名されたと明記する）
+    url: https://kotobank.jp/word/%E5%BE%A1%E6%B5%9C-3134234
+  x8-mihama-uub:
+    label: 市区町村変遷情報「御浜町」（1958年9月1日に阿田和町・神志山村・市木尾呂志村が合併して御浜町が発足したことを記す）
+    url: https://uub.jp/upd/c/2597.html
+  x8-mihama-yoran:
+    label: 御浜町公式「町勢要覧」（町は七里御浜の中間部に位置し吉野熊野国立公園の区域を含むこと、「年中みかんのとれる町」を掲げることを記す）
+    url: https://www.town.mihama.mie.jp/material/files/group/2/youran00.pdf
+  x8-odai-kotobank:
+    label: コトバンク「大台町」（『日本歴史地名大系』：多気郡の中央部に位置し、宮川とその支流・大内山川の流域に集落が形成されていることを記す）
+    url: https://kotobank.jp/word/%E5%A4%A7%E5%8F%B0%E7%94%BA-39324
+  x8-odai-pref:
+    label: 三重県公式資料「三重の文化」郷土の文化編・大台町（宮川は大台山系を源流とし伊勢湾に注ぐ延長約100km・三重県内最大の河川で、古くから伊勢神宮の禊川であったこと、大台町における北畠氏の事跡、大台茶を記す）
+    url: https://www.pref.mie.lg.jp/common/content/000055261.pdf
+  x8-odai-uub1956:
+    label: 市区町村変遷情報「大台町（三重県多気郡）1956〜2006年」（1956年9月30日に三瀬谷町・川添村が新設合併して大台町が発足したことを記す）
+    url: https://uub.jp/upd/c/3096.html
+  x8-odai-uub2006:
+    label: 市区町村変遷情報「大台町（三重県多気郡）2006年〜」（2006年1月10日に大台町・宮川村が新設合併して大台町が生まれたことを記す）
+    url: https://uub.jp/upd/c/975.html
+  x8-odai-wiki:
+    label: Wikipedia「大台町」（町全域がユネスコエコパーク「大台ケ原・大峯山・大杉谷」の一部であること、2006年の宮川村との合併で三重県から村が消滅したこと、1956年の発足と2006年の再発足の沿革を記す）
+    url: https://ja.wikipedia.org/wiki/大台町
+  x8-taiki-uub:
+    label: 市区町村変遷情報「大紀町」（2005年2月14日に大宮町・紀勢町・大内山村が新設合併して大紀町が発足したことを記す）
+    url: https://uub.jp/upd/c/976.html
+  x8-taiki-wiki:
+    label: Wikipedia「大紀町」（町名は大宮町・大内山村の「大」と紀勢町の「紀」を合わせた合成地名であることを大紀町公式サイトの説明として紹介し、大宮町の「大」は大内山川に由来すること、紀勢町は1957年2月1日に柏崎村・錦町が合併して生まれたこと、町域の大半は旧伊勢国だが錦地区のみ旧紀伊国で天正10年（1582年）に志摩国英虞郡から紀伊国牟婁郡へ編入されたことを記す）
+    url: https://ja.wikipedia.org/wiki/大紀町
+  x8-taki-pref:
+    label: 三重県公式資料「三重の文化」郷土の文化編・多気町（丹生は「丹（に）を生む場所」の意で辰砂（水銀鉱石）を産出し、奈良時代に東大寺大仏の金メッキに丹生の水銀約2tが使われたこと、中世には日本唯一の「水銀座」が形成されたことを記す）
+    url: https://www.pref.mie.lg.jp/common/content/000055259.pdf
+  x8-taki-uub:
+    label: 市区町村変遷情報「多気町（三重県多気郡）」（1955年3月31日に相可町・佐奈村・津田村が新設合併して多気町が発足したこと、1959年4月15日に西外城田村を編入したこと、2006年1月1日に勢和村と新設合併して現在の多気町になったことを記す）
+    url: https://uub.jp/upd/c/4312.html
+  x8-taki-wiki:
+    label: Wikipedia「多気町」（町名の語源として、竹の生育する地域で「竹郡」と呼ばれ後に「多気」の字が当てられて読みが「たき」に変わったとする説、古語「多木（食物の多くできる土地）」説、動詞「たぎる」説を挙げ、『和名類聚抄』に多気郡多気郷の表記が見えることを記す）
+    url: https://ja.wikipedia.org/wiki/多気町
+  x8-tamaki-kotobank:
+    label: コトバンク「玉城町」（ブリタニカ国際大百科事典小項目事典：1955年に田丸町・東外城田村と有田村の一部が合体して成立し、1956年に下外城田村を編入したこと、町名は田丸城の古称・玉丸城にちなむこと、中心地区の田丸は延元元年（1336年）の北畠親房の築城以来の城下町であること／『日本歴史地名大系』：度会郡の北部、宮川下流左岸に位置すること）
+    url: https://kotobank.jp/word/%E7%8E%89%E5%9F%8E%E7%94%BA-94287
+  x8-tamaki-nanjo:
+    label: 南城市公式資料（沖縄県の旧玉城村と三重県玉城町は「全国で唯一の同名町村」の縁により、1993年11月12日に姉妹町村盟約を結んだことを記す）
+    url: https://www.city.nanjo.okinawa.jp/shisei/keikaku/20250404/2026021220260212
+  x8-tamaki-town:
+    label: 玉城町公式「玉城町の姿」（田丸城は延元元年（1336年）に北畠親房が築城したことを記す）
+    url: https://kizuna.town.tamaki.mie.jp/chosei/shokai/sugata.html
+  x8-tamaki-wiki:
+    label: Wikipedia「玉城町」（1955年4月10日に田丸町・東外城田村・有田村の一部が合併して玉城町が発足し、1956年9月30日に下外城田村を編入したことを記す）
+    url: https://ja.wikipedia.org/wiki/玉城町
+  x8-toin-pamphlet:
+    label: 東員町公式パンフレット（町の中央を員弁川が東流すること、古代豪族・猪名部氏の本拠地とされることを記す）
+    url: https://www.town.toin.lg.jp/material/files/group/1/map-omote.pdf
+  x8-toin-town:
+    label: 東員町公式「東員町の沿革」（町の沿革を年表形式で示すが、「東員」の命名理由についての説明はない）
+    url: https://www.town.toin.lg.jp/soshiki/1001/1/1/129.html
+  x8-toin-uub:
+    label: 市区町村変遷情報「東員町」（1954年11月3日に大長村・稲部村・神田村が合併して東員村が発足したこと、1955年2月1日に久米村の一部（大字中上）を編入したこと、1967年4月1日に町制施行して東員町となったことを記す）
+    url: https://uub.jp/upd/c/5127.html
+  x8-toin-wiki:
+    label: Wikipedia「東員町」（2003年に員弁郡の他の4町がいなべ市となったため、員弁郡で唯一の町となったことを記す）
+    url: https://ja.wikipedia.org/wiki/東員町
+  x8-watarai-clan:
+    label: Wikipedia「度会氏」（度会氏は明治初期まで伊勢神宮外宮（豊受大神宮）の祠官を世襲した氏族で、主な根拠地は伊勢国度会郡であったことを記す）
+    url: https://ja.wikipedia.org/wiki/度会氏
+  x8-watarai-gun:
+    label: Wikipedia（中国語版）「度會郡」（度会郡は伊勢神宮の神郡のうち最古のものの一つで、弘仁8年（817年）に度会郡・多気郡が伊勢神宮に寄進されたこと、度会郡・多気郡・飯野郡が「神三郡」と呼ばれたことを記す）
+    url: https://zh.wikipedia.org/wiki/%E5%BA%A6%E6%9C%83%E9%83%A1
+  x8-watarai-town:
+    label: 度会町公式「度会町の概要」（町の歴史は縄文時代にまで遡り、森添遺跡の発掘物から当時重要な産物であった「朱」の一大生産地であったことが分かること、古代から伊勢神宮と関わりが深く、倭姫命の伝説や萱の御料地が町内各地に残されていることを記す）
+    url: https://www.town.watarai.lg.jp/contents_detail.php?co=kak&frmId=2116
+  x8-watarai-wiki:
+    label: Wikipedia「度会町」（1955年4月1日に小川郷村・内城田村・一之瀬村・中川村が合併して度会村が発足し、1968年1月1日に町制施行して度会町となったこと、町名は郡名による広域地名で、度会村発足時の公募で半数以上が希望した名称であったことを度会町役場総務課資料の紹介として記す）
+    url: https://ja.wikipedia.org/wiki/度会町
+  x9-kiho-uub:
+    label: 市区町村変遷情報「紀宝町」（1954年の3村合併による発足、2006年の鵜殿村との合併の経緯。新町名公募では「紀宝」が応募上位にあり最終候補を経て存置されたこと）
+    url: https://uub.jp/upd/c/5211.html
+  x9-kiho-wiki:
+    label: Wikipedia「紀宝町」（1954年10月31日に井田村・御船村・相野谷村が合併して町制施行し紀宝町が発足、2006年1月10日に鵜殿村と合併して新・紀宝町となり三重県から村が消滅したこと、令制国では紀伊国牟婁郡に属したこと）
+    url: https://ja.wikipedia.org/wiki/紀宝町
+  x9-kiho-yoran:
+    label: 紀宝町「町勢要覧2026」（町が「宝」の字を町の魅力として掲げる町の公式要覧。1954年の命名理由自体は記されていない）
+    url: https://www.town.kiho.lg.jp/wp-content/uploads/2026/02/R8_yoran.pdf
+  x9-komono-han-wiki:
+    label: Wikipedia「菰野藩」（土方氏の1万2千石の藩。1871年の廃藩置県で菰野県となり、その後三重県に編入されたこと。年貢の取り立てが比較的緩やかで一揆がなかったとされること）
+    url: https://ja.wikipedia.org/wiki/菰野藩
+  x9-komono-town:
+    label: 菰野町公式サイト「町名の由来は？」（その昔マコモなどが生い茂る原野を開拓して村づくりが始まり、この地を「こもの」と命名したのが由来で、表記には薦野・古茂野・菰野が使われてきたとする町の公式説明）
+    url: https://www2.town.komono.mie.jp/soshiki/2/1469.html
+  x9-komono-wiki:
+    label: Wikipedia「菰野町」（1600年に土方雄氏が入り菰野藩が成立したこと、1889年の菰野村発足、1928年10月1日の町制施行、1956〜57年の合併による現在の町域）
+    url: https://ja.wikipedia.org/wiki/菰野町

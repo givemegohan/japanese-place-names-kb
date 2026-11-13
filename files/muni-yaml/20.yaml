@@ -3002,6 +3002,291 @@ records:
   - 1875年の命名を示す一次記録（合併文書等）は確認しておらず、由来は郷土資料に基づく伝承的な説明にとどまる
   - 御代田村成立（1875年）の経緯については、主にWikipediaの記述（典拠は角川日本地名大辞典・『北佐久郡志 町村篇』等）に依った
   updated: '2026-11-13'
+- id: muni/20-朝日村
+  code: '204510'
+  names:
+    ja: 朝日村
+    reading: あさひむら
+    aliases: []
+  user_terms:
+  - 松本盆地の南にある村
+  - 東筑摩郡の村
+  - 朝日が一番先にあたる村
+  naming_type: 新規命名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県東筑摩郡の村。松本盆地南部の西山麓の高地に位置する。1889年（明治22年）の町村制施行で小野沢・針尾・古見・西洗馬の4村の区域をもって発足し、以来合併を経験していない。村名は、この地域に朝日が一番先に当たることと、旭日のように輝かしく発展することへの祈念から付けられたと村公式資料が伝える。新潟県にも朝日村があったが2008年に村上市へ編入されて消滅し、現行の同名自治体はない。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: null
+    note: 村名「朝日」は1889年の町村制施行に伴う命名そのものが初出。旧4村の名の継承ではない。
+  claims:
+  - text: 村名の由来について、朝日村公式の村勢要覧は「松本盆地南部の西山麓高地にあって、この村の地域が朝日が一番先にあたること、旭日のように輝かしく発展することを祈念してつけられたといわれている」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-asahi-yoran
+  - text: 1889年（明治22年）4月1日の町村制施行により、小野沢村・針尾村・古見村・西洗馬村の区域をもって朝日村が発足し、現在に至る
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-asahi-wiki
+  - text: 朝日村の前身として、針尾・小野沢・古見・西洗馬の合併による山本村が明治7年（1874年）に発足したが、1884年（明治17年）に元の村々に分村した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-asahi-wiki
+  - text: 朝日村は平成元年（1989年）に開村100周年を迎えており、1889年の発足以来の村であることが村勢要覧の村木・村花制定の経緯から確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-asahi-yoran
+  - text: 村章のデザインの円は「朝日（太陽）」を示すと村勢要覧が説明し、村名の意味がシンボルにも反映されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-asahi-yoran
+  - text: 地方公共団体コードは204510である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 朝日が一番先に当たる村
+    text: 松本盆地の南、西山麓の高地にある朝日村は、盆地に朝日が差すとき一番先に光が当たる場所だと村の要覧は説明する。夜明けの光と「旭日のように発展を」という願いが、1889年の命名に重ねられた。村はそれ以来一度も合併せず、全国に複数あった「朝日村」のうち現行自治体として残るのはこの村だけになった（新潟県の朝日村は2008年に村上市へ編入された）。朝日村公式「2017 朝日村村勢要覧」に基づく。
+    sources:
+    - x1-asahi-yoran
+    - x1-asahi-wiki
+  relations:
+  - pref/20
+  unknowns:
+  - 山本村の発足年について、Wikipedia日本語版は「1875年（明治7年）10月25日」と元号と西暦が矛盾する表記をしており、発足の正確な日付は確認できていない（明治7年＝1874年であることは確か）
+  - 命名を決めた主体（旧村側の協議か県の裁定か）を示す一次資料は確認できていない
+  updated: '2026-11-13'
+- id: muni/20-木島平村
+  code: '205621'
+  names:
+    ja: 木島平村
+    reading: きじまだいらむら
+    aliases: []
+  user_terms:
+  - 千曲川の東岸の村
+  - 下高井郡の村
+  - 木島平米の村
+  naming_type: 一部の地名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県下高井郡の村。千曲川の東岸、飯山市の南に位置する。1955年（昭和30年）に穂高村・往郷村・上木島村が合併して発足した。村名は、中世にこの一帯にあった「木島郷」の名と、近世に村々の総称として使われた「木島平」という広域地名を継いだものである。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 市河文書
+    note: 「木島郷」の名と地頭・木島氏の活動が、木島平村公式の村史では『市河文書』に見えると紹介される。郷名としての用例の側の初出級であり、村史を介した確認のため年は特定しない。
+  claims:
+  - text: 鎌倉時代には岳北地方に志久見・犬飼（犬甘）・毛見・木島等の郷が文献に現れ、木島郷の地頭は木島氏で、その活動は『市河文書』に見えると木島平村公式の村史が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kijimadaira-sonshi
+  - text: 慶長7年（1602年）の森忠政の検地帳には上木島・計見・高石・平沢・馬曲・鴨原・中村・内山・和栗の9カ村の名が記され、元禄11年（1698年）には「木島平18カ村」の入会権が幕府によって認められたと村公式の村史が記し、近世に「木島平」が一帯の総称であったことが裏づけられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kijimadaira-sonshi
+  - text: 村名は、中世に「木島郷」があり、近世にこの一帯が「木島平」と呼ばれていたことに由来すると、木島平村公式ウェブサイトの説明として紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-kijimadaira-donnatoko
+  - text: 1955年（昭和30年）2月1日に穂高村・往郷村・上木島村が合併して木島平村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-kijimadaira-wiki
+    - x1-kijimadaira-donnatoko
+  - text: 木島は「鬼島」であり、稲光や豪雨をもたらす鬼を恐れた名残が照明寺旧大門の「鬼の首塚」に残り、村名の語源になったという伝説が伝わると、長野県の災害伝承データが紹介する
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - x1-kijimadaira-saigai
+  - text: 地方公共団体コードは205621である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郷の名と総称が重なった村名
+    text: 木島平村の名は二つの層からできている。中世の「木島郷」と、近世に18カ村の総称として幕府にも認められた「木島平」である。1955年の合併で3村が選んだのは、どの旧村の名でもなく、村々全体を指してきた広い地名だった。一方で村には「木島は鬼島」という伝説も伝わる。豪雨という災いを鬼に見立てた言い伝えで、災害伝承として県が記録している。木島平村公式の村史と長野県「災害伝承データ」に基づく。
+    sources:
+    - x1-kijimadaira-sonshi
+    - x1-kijimadaira-saigai
+  relations:
+  - pref/20
+  - muni/20-栄村
+  unknowns:
+  - 「木島」の語源そのもの（木の島状の地形か、鬼島の当て字か等）は資料で確定していない
+  - 1955年の合併時に村名を「木島平」と決めた協議の記録は確認できていない
+  updated: '2026-11-13'
+- id: muni/20-木曽町
+  code: '204323'
+  names:
+    ja: 木曽町
+    reading: きそまち
+    aliases: []
+  user_terms:
+  - 木曽福島のある町
+  - 木曽郡の中心の町
+  - 中山道の宿場の町
+  naming_type: 合併新設
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県木曽郡の町。2005年（平成17年）11月1日に木曽福島町・日義村・開田村・三岳村が合併して発足した。町名「木曽」は、4町村に共通する郡名であり、木曽川・木曽谷・木曽路に通じる広域地名である。前身の中心地・木曽福島は中山道の福島宿と福島関所の地で、日義は木曽義仲が育った地と伝わる。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: null
+    note: 「木曽町」という自治体名の初出は2005年の合併による命名そのもの。「木曽」という地名自体は中世以来の広域地名だが、本調査では一次資料での初出確認はしていない。
+  claims:
+  - text: 2005年（平成17年）11月1日に木曽福島町・日義村・開田村・三岳村が合併して木曽町となったことが、総務省の市町村合併資料集に記録されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kiso-soumu-gapei
+    - x1-kiso-ndl-kisofukushima
+  - text: 前身の木曽福島町は1967年（昭和42年）4月に福島町と新開村が合併して成立した町で、その名は中山道の宿場町・関所の地であった「福島」に郡名の「木曽」を冠したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kiso-ndl-kisofukushima
+    - x1-kiso-yoshinaka
+  - text: 木曽郡はもと西筑摩郡と称し、1968年（昭和43年）5月1日に「木曽郡」へ改称された。すなわち「木曽」は2005年の町名に先立って郡名として公式化されていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-kisofukushima-wiki
+  - text: 新町名「木曽」は、合併した4町村のいずれの名でもなく、4町村に共通する郡名・広域地名を採用したものとみられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x1-kiso-soumu-gapei
+  - text: 町域の日義は、平安時代末期の武将・木曽義仲（源義仲）が育った地と伝えられ、義仲館などの史跡があると長野県公式資料が紹介する
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - x1-kiso-yoshinaka
+  - text: 地方公共団体コードは204323である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 旧・三岳村の名前と王滝のややこしさ
+    text: 木曽町に合併した旧三岳村の名は、1874年（明治7年）に黒沢村と三尾村が合併した際、「三尾」の「三」に御嶽山の「嶽」を組み合わせて作られたと三岳村誌が伝える。その背景には、当時お隣の王滝村が「おんたけ」と呼ばれていて混同を避けたかったという事情があったという。王滝の読みが変わったことで生まれた隣村の名前が、今は木曽町の大字として残っている。水資源機構のコラムが村誌の記述として紹介する話に基づく。
+    sources:
+    - x1-otaki-water
+  relations:
+  - pref/20
+  - muni/20-木祖村
+  - muni/20-王滝村
+  unknowns:
+  - 2005年の合併協議で新町名「木曽」を選定した経緯（公募の有無や候補名）を明記した公的資料は確認できていない
+  - 広域地名「木曽」の語源と一次資料上の初出は確認できていない
+  updated: '2026-11-13'
+- id: muni/20-木祖村
+  code: '204251'
+  names:
+    ja: 木祖村
+    reading: きそむら
+    aliases: []
+  user_terms:
+  - 木曽川の源流の村
+  - 木曽郡の村
+  - 藪原宿のある村
+  naming_type: 新規命名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県木曽郡の村。木曽川の源流域にあり、1874年（明治7年）に藪原村・小木曽村・菅村が合併して生まれた。村名は、木曽川の源流であることから「木曽の祖」という意味を込めて付けられた。一度分村したが1889年（明治22年）に再合併して現在の村となった。なお「木曽」の「曽」ではなく「祖」の字を使う点が村資料でも注意されている。
+  first_attestation:
+    era: 明治7年
+    year_western: 1874
+    document: null
+    note: 村名「木祖」は1874年の3村合併に伴う命名そのものが初出。1889年は分村後の再合併の年である。
+  claims:
+  - text: 明治7年（1874年）に藪原村・小木曽村・菅村が合併して木祖村となり、明治17年（1884年）にいったん分村したものの、明治22年（1889年）に再び合併して現在の木祖村になったと、木祖村公式の議会概要（村の沿革）が記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kisomura-gikai
+  - text: 村名「木祖」は、木曽川の源流であることから「木曽の祖なり」という意味を込めて付けられたと、木祖村役場総務課の資料が説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kisomura-yakuba
+  - text: 農林水産省の事例資料も「明治7年 藪原村・小木曽村・菅村が合併、木曽の祖として木祖村と命名」と記し、命名の経緯を裏づける
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kisomura-maff
+  - text: 木曽川は村内の鉢盛山（標高2,446m）を源とし、長野・岐阜・愛知を流れて伊勢湾に注ぐ川であると、国土交通省中部地方整備局の資料として紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-kisomura-donnatoko
+  - text: 村役場の資料は、村名の表記について「木曽」の「曽」ではなく「祖」の字を使うことに注意を促しており、両者は別の言葉として意識されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kisomura-yakuba
+  - text: 村内の藪原は中山道・木曽路11宿の1つ「藪原宿」の地であり、享保年間から続くお六櫛の産地として知られたと農林水産省資料が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-kisomura-maff
+  - text: 地方公共団体コードは204251である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「曽」ではなく「祖」――源流の名乗り
+    text: 木曽川は木祖村の鉢盛山に源を発し、伊勢湾まで流れる大河である。その「源（もと）」であることを名前に刻んだのが「木祖」で、郡名の「木曽」の「曽」とは字が違う。村役場の資料にも「『曽祖父』等の『祖』です」とわざわざ断りがあるほどで、村の人々にとってこの一字は源流の里の名乗りそのものだ。1874年の命名以来、分村と再合併を経てもこの名は守られてきた。木祖村役場総務課の資料と農林水産省の事例資料に基づく。
+    sources:
+    - x1-kisomura-yakuba
+    - x1-kisomura-maff
+  relations:
+  - pref/20
+  - muni/20-木曽町
+  - muni/20-王滝村
+  unknowns:
+  - 1874年の命名を決めた当時の文書（合併願書等）の原文は確認できていない
+  - 1884年の分村の理由は資料で確認できていない
+  updated: '2026-11-13'
 - id: muni/20-東御市
   code: '202193'
   names:
@@ -3072,6 +3357,138 @@ records:
   - 市名の最終候補5点（東御・東信濃・美駒・御牧野・湯の牧）と「東御」が28.9%で最多だったという数値は、市区町村変遷情報サイトで見られる情報であり、市公式資料では確認できなかった
   - 「東御」が合成地名であることの、市公式資料による明示は確認できなかった（Wikipediaによる）
   - 東部町の「東部」という名の由来（1956年に田中町・祢津村・和村が合併して発足した際の命名理由）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/20-松川村
+  code: '204820'
+  names:
+    ja: 松川村
+    reading: まつかわむら
+    aliases: []
+  user_terms:
+  - 北安曇郡の村
+  - 安曇野の北の村
+  - りんごの村
+  naming_type: 一部の地名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県北安曇郡の村。安曇野の北部に位置する。1874年（明治7年）に鼠穴・細野・神戸新田・松川・板取の5村が合併して発足し、1889年（明治22年）の町村制施行でもその区域のまま再発足して、以来合併を経験していない。村名は合併した村の一つに既にあった「松川村」の名を継いだもの。下伊那郡の松川町（1956年に片桐松川から命名）とは同じ県内の別の自治体である。
+  first_attestation:
+    era: 明治7年
+    year_western: 1874
+    document: null
+    note: 自治体名「松川村」は1874年の5村合併による命名が初出級だが、名自体は構成村の一つであった旧・松川村からの継承で、それより古い。旧松川村の地名としての初出は未確認。
+  claims:
+  - text: 1874年（明治7年）10月22日に筑摩県安曇郡の鼠穴村・細野村・神戸新田村・松川村・板取村が合併して松川村が発足した。合併村の一つに既に「松川村」があり、現在の村名はその継承である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-matsukawamura-wiki
+    - x1-matsukawamura-donnatoko
+  - text: 1889年（明治22年）4月1日の町村制施行により同区域をもって松川村が発足（当時の人口2,496人・戸数501戸、村役場は細野に置かれた）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-matsukawamura-wiki
+  - text: 松川村は明治22年の町村制施行以来、一度も合併等を経験していないと、村役場作成の移住募集資料が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-matsukawamura-iju
+  - text: 村章は「マ」の字と「川」を組み合わせた図案であり、名の文字そのものがシンボルに使われている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-matsukawamura-wiki
+  - text: 村域を流れる主な川は高瀬川・乳川・中房川などであり、「松川」という名の川は村内にない。旧・松川村の名が何に由来するかは資料で確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x1-matsukawamura-wiki
+  - text: 地方公共団体コードは204820である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 同じ県に二つの「まつかわ」
+    text: 長野県には「まつかわ」が二つある。北安曇郡の松川村と下伊那郡の松川町だ。村のほうは1874年の合併で生まれ、合併した村の一つに既にあった古い地名をそのまま名乗り続けた。町のほうは1956年の合併で、中央アルプスから流れる片桐松川という川の名を新しく採った。同じ読みでも、村は「継いだ名」、町は「選んだ名」という対照がある。松川村役場の移住資料と松川町公式の総合計画に基づく。
+    sources:
+    - x1-matsukawamura-iju
+    - x1-matsukawamachi-plan
+  relations:
+  - pref/20
+  - muni/20-松川町
+  unknowns:
+  - 構成村の一つであった旧・松川村の地名の語源（川の名に由来するのか等）は確認できていない
+  - 1874年の合併で村名を「松川」と決めた経緯の記録は確認できていない
+  updated: '2026-11-13'
+- id: muni/20-松川町
+  code: '204021'
+  names:
+    ja: 松川町
+    reading: まつかわまち
+    aliases: []
+  user_terms:
+  - 下伊那郡の町
+  - りんごと梨の町
+  - 片桐松川の町
+  naming_type: 合併新設
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県下伊那郡の町。1956年（昭和31年）9月20日に下伊那郡大島村と上伊那郡上片桐村が合併して発足した、郡をまたぐ合併による町。町名は中央アルプスから流れる片桐松川にちなんで命名されたと町公式資料が明記する。北安曇郡の松川村（1874年以来の村）とは同じ県内の別の自治体である。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: null
+    note: 町名「松川」は1956年の合併に伴う命名そのものが初出。元の河川名「片桐松川」はそれより古いが、その初出は未確認。
+  claims:
+  - text: 町名の由来について、松川町公式の総合計画は「中央アルプスから流れる片桐松川より命名しました」と明記する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-matsukawamachi-plan
+  - text: 松川町は昭和31年（1956年）9月20日に大島村と上伊那郡上片桐村の2村が合併して発足し、昭和34年（1959年）に生田村と高森町の一部を編入合併したと町公式の総合計画が記す。下伊那郡と上伊那郡をまたぐ合併であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-matsukawamachi-plan
+  - text: 江戸時代の初期、大島・片桐の両地区には伊那街道（秋葉街道）の宿場が置かれていたと、松川町公式サイトの説明として紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-matsukawamachi-donnatoko
+  - text: 町章は「マ」「ツ」「川」の文字と平和のシンボルである鳩を図案化したものと町公式の総合計画が説明し、川の名を採った町名がシンボルにも刻まれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-matsukawamachi-plan
+  - text: 地方公共団体コードは204021である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡をまたいで生まれた町と、一本の川
+    text: 1956年の松川町の発足は、下伊那郡の大島村と上伊那郡の上片桐村という、郡の違う2村の合併だった。新しい町の名に選ばれたのは、どちらの村の名でもなく、中央アルプスから流れて両村の地を潤す片桐松川の名である。川の名を共有の看板に掲げることで、郡の境を越えた合併に一つのまとまりを与えた命名といえる。同じ長野県の北安曇郡松川村（1874年以来の古い村名）とは別の自治体である。松川町公式「第5次松川町総合計画」に基づく。
+    sources:
+    - x1-matsukawamachi-plan
+  relations:
+  - pref/20
+  - muni/20-松川村
+  unknowns:
+  - 河川名「片桐松川」の名自体の由来（「片桐」の語源）は確認できていない
+  - 合併協議で町名を河川名に決めた過程の記録は確認できていない
   updated: '2026-11-13'
 - id: muni/20-松本市
   code: '202029'
@@ -3152,6 +3569,150 @@ records:
   - 貞慶が「松本」の名を選んだ理由を示す同時代史料は確認できていない
   - 1582年の改称以前に「松本」という地名の用例があったかは未確認
   - 「深志」の語源については本バッチでは確認できていない
+  updated: '2026-11-13'
+- id: muni/20-栄村
+  code: '206024'
+  names:
+    ja: 栄村
+    reading: さかえむら
+    aliases: []
+  user_terms:
+  - 長野県の最北端の村
+  - 下水内郡の村
+  - 秋山郷のある村
+  - 豪雪の村
+  naming_type: 合併新設
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県下水内郡の村で、県の最北端に位置する豪雪地。1956年（昭和31年）9月30日に下水内郡水内村と下高井郡堺村が合併して発足した、郡をまたぐ合併による村。村域の南には平家の落人伝説で知られる秋山郷が広がる。「栄」という村名の命名理由は、村公式資料でも確認できていない。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: null
+    note: 村名「栄」は1956年の合併に伴う命名そのものが初出。前身の水内村を構成した村の一つに「豊栄村」があったが、その名の一部を採ったかどうかは未確認。
+  claims:
+  - text: 現在の栄村は昭和31年（1956年）9月に下高井郡堺村と下水内郡水内村が合併して生まれた村であり、合併当時の人口は堺村5,641人・水内村2,331人であったと、栄村公式の村勢要覧が記す（発足日は1956年9月30日）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-sakae-yoran
+    - x1-sakae-wiki
+  - text: 1889年（明治22年）の町村制施行の時点で、現在の村域は堺村と水内村の2村にまとまっており、水内村は豊栄村・北信村・森村などの合併、堺村は志久見村・白鳥村・平滝村・青倉村などの合併で成立したと、村勢要覧の変遷図が示す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-sakae-yoran
+  - text: 「栄」という村名の命名理由について、村勢要覧をはじめ村公式資料に説明が見当たらず、本調査では確認できていない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - x1-sakae-yoran
+  - text: 村域南部の秋山郷は、平家の落人が隠れ住んだ地と伝えられる秘境として知られる
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - x1-sakae-wiki
+  - text: 栄村は長野県の最北端に位置し、面積の92.8％を山林原野が占める豪雪地帯であると村勢要覧が記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-sakae-yoran
+  - text: 地方公共団体コードは206024である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 理由の残らなかった「栄」
+    text: 1956年、栄村は郡の違う堺村と水内村の合併で生まれた。ところが合併の記録を村公式資料でたどっても、「栄」の名を選んだ理由はどこにも書かれていない。前身の一つには「豊栄村」という名もあったが、そこから字を採ったのか、新しい村の「栄え」を願ったのかは、今の資料では決められない。命名理由が残らなかったこと自体が、この村の記録の正直な姿である。栄村公式「2019 村勢要覧」に基づく。
+    sources:
+    - x1-sakae-yoran
+  relations:
+  - pref/20
+  - muni/20-木島平村
+  unknowns:
+  - 村名「栄」の命名理由は公的資料で確認できていない（前身の豊栄村からの継承かどうかも含め未確認）
+  - 1956年の合併協議における村名決定の経緯は確認できていない
+  updated: '2026-11-13'
+- id: muni/20-根羽村
+  code: '204102'
+  names:
+    ja: 根羽村
+    reading: ねばむら
+    aliases: []
+  user_terms:
+  - 矢作川の源流の村
+  - 下伊那郡の最南の村
+  - 信玄終焉の伝承の村
+  naming_type: 一部の地名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県下伊那郡の村で、県の南端に位置する。矢作川の源流域の村であり、1875年（明治8年）に根羽村と月瀬村が合併して現在の村となった。名は旧・根羽村の地名の継承。古代・中世には三河国に属していた歴史を持ち、武田信玄の終焉にまつわる伝承が残る。
+  first_attestation:
+    era: 明治8年
+    year_western: 1875
+    document: null
+    note: 自治体名「根羽村」は1875年の月瀬村との合併で旧名を継承したもの。「根羽」という地名自体は中世（三河国）以来のものだが、具体的な初出文書は未確認。
+  claims:
+  - text: 明治8年（1875年）1月12日に根羽村と月瀬村が合併し、現在の根羽村となったと、根羽村役場の村史紹介に基づく資料が伝える。村名は旧・根羽村の名の継承である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-neba-donnatoko
+  - text: 古代・中世の根羽・月瀬の両村は三河国に属していたが、元亀2年（1571年）に武田信玄の南下作戦で足助松山城が攻略されると武田領となり、三河国から信濃国へ編入されたと、村役場の村史紹介に基づく資料が伝える
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-neba-donnatoko
+  - text: 村を流れる矢作川の最上流部は「根羽川」とも呼ばれ、村名と同じ名を冠する川が源流域を流れる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-yahagi-wiki
+  - text: 根羽村は矢作川源流の里として、流域約180万人の水源を守る村づくりを進めていると、村役場のSDGs未来都市提案資料（内閣府掲載）が示す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-neba-sdgs
+  - text: 村は武田信玄終焉の伝承地の一つとされ、病が重くなった信玄の一行が旗を横にしたことから「横旗」の地名が生まれたと伝えられる。信玄の没地には駒場など諸説がある
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - x1-neba-donnatoko
+  - text: 「根羽」という地名の語源そのものは、本調査で確認できた資料には説明がなく、未確認である
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - x1-neba-donnatoko
+  - text: 地方公共団体コードは204102である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 三河から信濃へ――国境を越えた村名
+    text: 根羽村は今でこそ長野県の村だが、古代・中世は三河国の村だった。1571年に武田信玄の軍が進むと信濃国へ組み入れられ、江戸時代も伊那県・筑摩県を経て長野県に属した。村の名はその国替えを越えて残り、今は矢作川の源流の名として、愛知県側の下流の人々の水源の村を指す言葉になっている。根羽村役場の村史紹介に基づく資料による。
+    sources:
+    - x1-neba-donnatoko
+    - x1-neba-sdgs
+  relations:
+  - pref/20
+  unknowns:
+  - 「根羽」の地名の語源・初出文書は確認できていない
+  - 中世の根羽村・月瀬村を記した具体的な史料名は確認できていない
   updated: '2026-11-13'
 - id: muni/20-池田町
   code: '204811'
@@ -3236,6 +3797,550 @@ records:
   unknowns:
   - 「池田」の語源（池と田の地形名に由来するか等）は、確認した資料の範囲では説明がなく未確認
   - 池田郷の成立時期（1465年より前の記録）は未確認
+  updated: '2026-11-13'
+- id: muni/20-泰阜村
+  code: '204145'
+  names:
+    ja: 泰阜村
+    reading: やすおかむら
+    aliases: []
+  user_terms:
+  - 下伊那郡の村
+  - 泰山丘阜の村
+  - 天竜川の左岸の村
+  naming_type: 文献から命名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県下伊那郡の村。1875年（明治8年）1月23日に17村が合併して発足し、1889年（明治22年）の町村制施行後も区域のまま現在に至る。村名は漢詩の「泰山丘阜」の語に由来するとされ、「泰（やす）」は安らかさ、「阜（おか）」は丘を意味し、読みも意味に沿った「やすおか」である。中世の村域は南山郷・今田郷と呼ばれていた。
+  first_attestation:
+    era: 明治8年
+    year_western: 1875
+    document: null
+    note: 村名「泰阜」は1875年の17村合併に伴う命名そのものが初出。「泰山丘阜」の出典となった具体的な漢詩の特定は未了。
+  claims:
+  - text: 村名は漢詩の「泰山丘阜」に由来すると、Wikipediaが泰阜村について記す。「泰山丘阜」は大きな山と丘を意味する語である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-yasuoka-wiki
+  - text: 1875年（明治8年）1月23日に、伊那郡の南山村・唐笠村・金野村・怒田村・左京村・平島田村・鍬不取村・平野村・田野口村・柿野村・明島村・門島村・打沢村・黒見村・高町村・稲伏戸村・万場村の17村が合併して泰阜村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-yasuoka-wiki
+    - x1-yasuoka-donnatoko
+  - text: 1889年（明治22年）4月1日の町村制施行でも泰阜村は区域のまま発足し、現在に至る
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-yasuoka-donnatoko
+  - text: 村名の読み「やすおか」は、「泰」の字の意味（安らか）から「やす」、「阜」の字の意味（丘）から「おか」と、漢字の意味に沿って訓読されたものとみられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x1-yasuoka-wiki
+  - text: 中世の村域は、南部が南山郷、北部が今田郷と呼ばれていたと、泰阜村の計画書に基づく資料が伝える
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-yasuoka-donnatoko
+  - text: 地方公共団体コードは204145である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 漢詩から生まれた村の名
+    text: 1875年、17もの村が合併して生まれた新しい村に付けられたのは、どの村の名でも地形の名でもなく、漢詩の言葉「泰山丘阜」だった。大きな山と丘――天竜川の左岸に丘陵が連なる村の姿に重ねた命名とも読める。読みも「たいふ」ではなく、字の意味を訓読した「やすおか」。意味から名を作る明治初期の教養が感じられる命名である。ただし出典となった具体的な漢詩までは特定できていない。Wikipediaと泰阜村の計画書に基づく資料による。
+    sources:
+    - x1-yasuoka-wiki
+    - x1-yasuoka-donnatoko
+  relations:
+  - pref/20
+  unknowns:
+  - 「泰山丘阜」の出典である具体的な漢詩（作品名・作者）は特定できておらず、村誌等での一次確認が残る
+  - 村名の由来の説明はWikipedia依拠であり、村公式資料での裏づけは確認できていない
+  updated: '2026-11-13'
+- id: muni/20-王滝村
+  code: '204293'
+  names:
+    ja: 王滝村
+    reading: おうたきむら
+    aliases: []
+  user_terms:
+  - 御嶽山の登山口の村
+  - 木曽郡の村
+  - おんたけの村
+  naming_type: 一部の地名
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県木曽郡の村。御嶽山の登山口にあたり、木曽谷で唯一、江戸時代のままの区域で形成されている自治体とされる。村名はもともと「大滝」と書かれ、その名は王滝川に由来すると村誌が伝える。後に後白河法皇にまつわる伝承によって「大」が「王」に改められたとされる。
+  first_attestation:
+    era: 戦国時代
+    year_western: 1504
+    document: null
+    note: 旧表記「大滝村」の存在を示す記録が1504年（永正元年）のものとして紹介されるが、本調査では原典を確認できていない。「王滝」の表記自体の文書上の初出も未確認で、村誌の伝承では鎌倉時代（後白河法皇の頃）に改められたとされる。
+  claims:
+  - text: 村名は昔は「大滝」と書かれており、「大滝」が王滝川に由来することは事実である、と『王滝村誌』が記す内容を、水資源機構（国土交通省所管）の職員コラムが紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-otaki-water
+  - text: 77代・後白河天皇が法皇となった後の急病が、御嶽山の神への祈祷によって快方に向かったため、勅によって「大滝」の「大」に代えて「皇」の字から「白」を取り去った「王」の字を用いることが許され、以来「王滝」と書くようになったと、『王滝村誌』の伝承として紹介されている
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - x1-otaki-water
+  - text: 王滝の読みは、江戸時代初期までは「おのたけ」、中期以後は「おんたけ」、明治7年（1874年）以後は「おおたき」と変遷したと『王滝村誌』が伝え、現在の「おうたき」はその後の読みである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x1-otaki-water
+  - text: 1889年（明治22年）4月1日の町村制施行により西筑摩郡王滝村の区域をもって王滝村が発足し、木曽谷で唯一、江戸時代のままの区域で形成されている自治体である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x1-otaki-wiki
+  - text: 1984年（昭和59年）の長野県西部地震では御嶽山の中腹が崩れて土石流が王滝川をせき止め、自然湖ができたと、林野庁の資料として紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x1-otaki-donnatoko
+  - text: 地方公共団体コードは204293である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「皇」から白を取った「王」
+    text: 王滝村の名には、字そのものの成り立ちを説く伝説がある。後白河法皇の病が御嶽山への祈祷で癒えた礼として、「皇」の字から「白」を除いた「王」を村の名に使うことが許されたという。もとの名「大滝」は王滝川に由来する地名で、伝説は表記の交代を説明する物語として村誌に残された。さらに読みも「おのたけ」「おんたけ」「おおたき」と時代ごとに揺れており、隣の旧三岳村の命名にも影響した。水資源機構のコラムが『王滝村誌』の記述として紹介する内容に基づく。
+    sources:
+    - x1-otaki-water
+  relations:
+  - pref/20
+  - muni/20-木曽町
+  - muni/20-木祖村
+  unknowns:
+  - 「大滝村」の存在を示す1504年の記録の出典（史料名）は確認できていない
+  - 「王滝」表記の文書上の初出は確認できていない（村誌の伝承では鎌倉時代に遡るとされる）
+  updated: '2026-11-13'
+- id: muni/20-生坂村
+  code: '204480'
+  names:
+    ja: 生坂村
+    reading: いくさかむら
+    aliases:
+    - 上生坂村
+    - 下生坂村
+  user_terms:
+  - 生坂村
+  - いくさか
+  - 山清路の村
+  naming_type: 一部の地名（江戸期に上生坂村・下生坂村として現れる「生坂」の継承）
+  prefecture: 長野県
+  homonyms: []
+  summary: 東筑摩郡の村。村名は、江戸時代に上生坂村・下生坂村として現れる古い地名「生坂」の継承で、1875年に小立野・下生野・上生坂・下生坂の4村が合併して生坂村となり、1957年に陸郷村・広津村の各一部を合わせて現在の村域となった。「生坂」の語源は確定していないが、イカ（厳）・サカ（坂）の転で急傾斜地を意味するとの説が紹介されている。犀川の渓谷・山清路を擁し、竜が山を割って平野を作ったという泉小太郎伝説の舞台でもある。
+  first_attestation:
+    era: 寛永19年
+    year_western: 1642
+    document: 『日本歴史地名大系』「下生坂村」項が紹介する寛永19年の高付けの記録
+    note: 上生坂村・下生坂村としての用例。大系経由の紹介であり、検地帳等の原文の直接確認はしていない
+  claims:
+  - text: 村公式の沿革によれば、明治8年（1875年）1月に小立野村・下生野村・上生坂村・下生坂村が合併し、現在のもととなる生坂村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-ikusaka-vill-official
+  - text: 昭和32年（1957年）3月31日、当時の陸郷村の一部、旧生坂村、広津村の一部が合併し、新しい生坂村が発足して現在に至ると村公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-ikusaka-vill-official
+  - text: 『日本歴史地名大系』は、慶長19年（1614年）の寄帳ではこの一帯が日岐村とされていたものが、寛永19年（1642年）には上生坂村・下生坂村・下生野村・小立野村・上生野村に分かれて現れることを紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x2-ikusaka-kotobank-taikei
+  - text: 「生坂」の由来は近世の通称で、イカ（厳）・サカ（坂）の転じたもの、「急傾斜地」のことと考えられる、とする解説がある
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x2-ikusaka-mapbinder
+  - text: 村公式は、平安時代の延長5年（927年）にできた『延喜式』に日置神社（明治になって日岐神社と改称）が載っていることを伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-ikusaka-vill-official
+  - text: 『信濃の国有明の里由来記』に基づく伝説として、諏訪大明神の化身である母犀竜に乗った泉小太郎が山清路の岩山を乗り割り、湖の水を千曲川筋から越後の海まで流したために松本・安曇の平らが人の住む平野となった、と村公式は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x2-ikusaka-vill-official
+  - text: 生坂村の地方公共団体コードは204480である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 竜が割った谷――山清路と泉小太郎
+    text: 生坂村の中心を流れる犀川の名は、村に伝わる泉小太郎伝説と結びついている。昔この一帯は湖で、諏訪大明神の化身の母犀竜に乗った小太郎が山清路の巨岩を突き破って水を落とし、平野を作ったという。その通り道が犀川になったとされ、犀川と麻績川が合流する大渓谷・山清路は今も村の象徴である。「生坂」の名の由来そのものは急傾斜地を指す古い通称という説にとどまるが、村の景観はまさに険しい坂と谷の連続であり、伝説の舞台装置とよく重なっている。
+    sources:
+    - x2-ikusaka-vill-official
+    - x2-ikusaka-mapbinder
+  relations:
+  - pref/20
+  unknowns:
+  - 「生坂」の語源（イカ・サカ説）を裏付ける一次資料・自治体史の記述は確認できなかった
+  - 寛永19年（1642年）より前の「生坂」の用例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/20-白馬村
+  code: '204854'
+  names:
+    ja: 白馬村
+    reading: はくばむら
+    aliases:
+    - 神城村
+    - 北城村
+  user_terms:
+  - 白馬村
+  - はくば
+  - ハクバ
+  - ハクババレー
+  naming_type: 合併新設（白馬岳の山名を採った新名）
+  prefecture: 長野県
+  homonyms: []
+  summary: 北安曇郡の村。1956年に神城村と北城村が合併して誕生し、村名は白馬連峰の主峰・白馬岳に由来する。山名の「白馬」のもとは、春の山肌に現れる「代掻き馬」の雪形から来た「代馬（しろうま）」で、語源的には「しろうま」が本来の読みとされるが、音読の「はくば」が広がって村名・駅名の読みとなった。村の読みは「はくばむら」で、今も山名の読みをめぐっては「しろうまだけ」と「はくばだけ」の揺れが残る。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 白馬村公式「白馬村の歩み（合併～平成）」
+    note: 村名としての初出は1956年9月30日の合併時の命名。山名「白馬」自体の成立はそれ以前に遡るが、命名年は特定できない
+  claims:
+  - text: 村公式の年表によれば、1956年（昭和31年）9月30日に神城村と北城村が合併して白馬村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-hakuba-vill-ayumi
+  - text: 村名は富山県と接する白馬連峰の白馬岳（しろうまだけ）に由来するとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-hakuba-wiki
+  - text: 林野庁の広報誌は、白馬の由来について、春になると雪が解けた山肌に黒い「代掻き馬」の雪形が浮かび上がることから、代掻き馬が代馬（しろうま）と呼ばれるようになったとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-hakuba-rinya
+  - text: 全国観光資源台帳（日本交通公社）は、山頂付近に現れる馬の雪形をめやすに苗代を作るところから苗代馬・代馬（しろうま）といわれるようになったとし、「白馬は語源的には『はくば』でなく『しろうま』である」と解説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x2-hakuba-jtb
+  - text: 白馬岳は古くは大蓮華岳といい、代掻き馬の雪形が出ることから代馬岳と呼ばれ、それが白馬岳に変った、と雪形の研究資料は伝える
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x2-hakuba-yukigata
+  - text: 「代馬岳（しろうまだけ）」はやがて「白馬岳（しろうまだけ）」に変化し、さらに「はくば」と音読されるようになって、麓の村や鉄道駅の名称にもなったとされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - x2-hakuba-wiki
+  - text: 村名の読みは総務省の一覧でも「はくばむら」であり、山名に地図で使われる「しろうまだけ」とは読みが分かれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - x2-hakuba-jtb
+  - text: 白馬村の地方公共団体コードは204854である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「しろうま」か「はくば」か――雪形が決めた山の名
+    text: 白馬岳の名の核心は、春の残雪が山肌に描く馬の姿、雪形にある。田植え前の代掻きの時期に現れるその馬を「代掻き馬」「代馬（しろうま）」と呼び、農作業の目安にしてきた。だから語源の読みは「しろうま」で、国土地理院の地図も白馬岳を「しろうまだけ」とする。一方で地元の山案内人たちは「はくばだけ」こそ地元の呼び名だと主張してきた歴史があり、村の名前も駅名も「はくば」で定着した。同じ二文字に二つの読みが重なることが、この村の名前のいちばんの面白さである。
+    sources:
+    - x2-hakuba-rinya
+    - x2-hakuba-jtb
+    - x2-hakuba-wiki
+  relations:
+  - pref/20
+  - muni/20-小谷村
+  unknowns:
+  - 1956年の合併時に村名の読みを「はくば」と定めた経緯を示す合併協議会等の一次記録は確認できなかった
+  - 山名「白馬」の文献上の初出年は特定できなかった（村公式の村史資料は、明治26年頃まで山名さえ定かでなかったとする）
+  updated: '2026-11-13'
+- id: muni/20-立科町
+  code: '203246'
+  names:
+    ja: 立科町
+    reading: たてしなまち
+    aliases:
+    - 立科村
+    - 芦田村
+    - 横鳥村
+    - 三都和村
+  user_terms:
+  - 立科町
+  - たてしな
+  - 蓼科
+  naming_type: 合併新設（蓼科山の名を採り、当用漢字にない「蓼」を古表記「立科」に改めた命名）
+  prefecture: 長野県
+  homonyms: []
+  summary: 北佐久郡の町。1955年に芦田村・横鳥村・三都和村が合併して立科村が誕生し、1958年に町制施行して立科町となった。合併時の新村名は蓼科山にちなむ「蓼科村」で準備が進められていたが、「蓼」が当用漢字になかったことと、蓼科山は古くは「立科山」と表記されていたことから、「立科村」に決まった。山の名（蓼科山）と町の名（立科町）で漢字が書き分けられる、表記変更型の命名である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 立科町公式「立科町の概要」（名称の由来）
+    note: 村名としての命名そのもの（1955年4月1日の合併時）。典拠となった山名の古表記「立科山」はそれ以前に遡るが、具体的な年代は確認できなかった
+  claims:
+  - text: 歴史的行政区域データセットによれば、立科村は1955年4月1日に成立し、1958年10月1日に立科町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tateshina-nii-geoshape
+  - text: 町公式「名称の由来」によれば、明峰「蓼科山」の麓に発展した芦田村・横鳥村・三都和村の三村が合併して立科村が誕生し、その後町制施行により立科町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tateshina-town-gaiyo
+  - text: 合併に際して新村名は「蓼科村」とすることで準備が進められていたと町公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tateshina-town-gaiyo
+  - text: しかし「蓼」の字が当用漢字になかったこと、蓼科山は古くは立科山と表記されていたことから、新村名は「立科村」に異議なく決定されたと町公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tateshina-town-gaiyo
+  - text: 三村が関わる連合体にはすべて蓼科の名が冠され、三村の組合が設置した蓼科実業補習学校（現在の長野県立蓼科高等学校）の存在も、蓼科の名を新村名とする背景となったと町公式は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tateshina-town-gaiyo
+  - text: 『日本歴史地名大系』は、町域の古町地区に蓼科神社の里宮や中世の芦田氏の城館跡があることを記しており、「たてしな」の名が神社名としても地域に根付いていたことがうかがえる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x2-tateshina-kotobank-taikei
+  - text: 立科町の地方公共団体コードは203246である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 当用漢字に消された「蓼科村」
+    text: 立科町の名前は、あと一歩で「蓼科村」になるところだった。合併する三村は学校組合などあらゆる連合体に「蓼科」を冠して融和を図り、新しい村の名も「蓼科村」で話が進んでいた。ところが「蓼」は当用漢字に入っていなかった。そこで引っ張り出されたのが、蓼科山の古い表記「立科山」である。古表記を根拠に「立科村」とすることで決着し、以来この一帯では、山は「蓼科山」、町は「立科町」、高校は「蓼科高等学校」と、同じ「たてしな」に二つの書き方が併存することになった。
+    sources:
+    - x2-tateshina-town-gaiyo
+  relations:
+  - pref/20
+  - muni/20-長和町
+  unknowns:
+  - 蓼科山を「立科山」と記した古い文献の具体例と年代は、町公式の説明以上には確認できなかった
+  - 「たてしな」という山名自体の語源（蓼の群生地とする説など）は、公的・専門資料で確定できなかった
+  updated: '2026-11-13'
+- id: muni/20-筑北村
+  code: '204528'
+  names:
+    ja: 筑北村
+    reading: ちくほくむら
+    aliases:
+    - 本城村
+    - 坂北村
+    - 坂井村
+  user_terms:
+  - 筑北村
+  - ちくほく
+  naming_type: 合併新設（東筑摩郡北部の地域名「筑北」の採用）
+  prefecture: 長野県
+  homonyms: []
+  summary: 東筑摩郡の村。2005年10月11日に本城村・坂北村・坂井村が新設合併して誕生した平成合併の村である。村名の公式な選定記録は確認できないが、東筑摩郡では平野部を「筑南」、山間部を「筑北」と呼び分ける地域名があり、この筑摩郡北部の総称「筑北」をそのまま村名に採ったものと考えられる。当初は隣の麻績村を含む枠組みも検討されたが、麻績村は加わらず3村の合併となった。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 筑北村公式「合併の歴史」
+    note: 村名としての初出は2005年10月11日の新設合併時の命名。地域名としての「筑北」の使用はそれ以前に遡るが、初出年は確認できなかった
+  claims:
+  - text: 村公式「合併の歴史」によれば、旧本城村・旧坂北村・旧坂井村が平成17年（2005年）に合併して筑北村となり、合併日は2005年10月11日である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-chikuhoku-vill-gappei
+    - x2-chikuhoku-uub
+  - text: 合併の枠組みには当初、隣接する麻績村も関わり、2001年12月から2002年1月にかけて麻績村で合併に関する住民アンケートが行われた記録があるが、最終的に麻績村は加わらず3村の合併となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x2-chikuhoku-uub
+  - text: 東筑摩郡では、上田市・松本市側の平野部に位置する朝日村・山形村を筑南、山間部に位置する生坂村・麻績村・筑北村を筑北と呼んで区別することがある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-chikuhoku-wiki-gun
+  - text: 村名「筑北」は、筑摩郡（東筑摩郡）北部の地域を指すこの「筑北」という呼び名を、合併新村の名として採用したものと考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x2-chikuhoku-wiki-gun
+    - x2-chikuhoku-vill-gappei
+  - text: 旧坂北村は明治8年（1875年）に阪北村として成立し、のちに坂北村となったが、「阪」から「坂」への字の変更については村公式も「定かではありません」としている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-chikuhoku-vill-gappei
+  - text: 旧本城村は、明治8年（1875年）に乱橋・西条・東条・大沢新田の各村から本条村となったが、明治15年（1882年）に元の4か村に分離し、明治22年（1889年）に再び合併して本城村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-chikuhoku-vill-gappei
+  - text: 筑北村の地方公共団体コードは204528である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡の北半分の呼び名が、そのまま村の名になった
+    text: 筑北村の名は、合併で新しく発明された言葉ではない。松本平の東側、東筑摩郡の山間部は、地元で長く「筑北」と呼ばれてきた。平野部の「筑南」と対になる、暮らしの中の方位地名である。2005年の合併では、本城・坂北・坂井のどの旧村名も採らず、この地域全体の呼び名が新村名になった。もっとも、同じ「筑北」に括られてきた生坂村や麻績村は合併に加わらなかったため、「筑北」という地名の範囲と筑北村の村域は今も完全には一致していない。
+    sources:
+    - x2-chikuhoku-wiki-gun
+    - x2-chikuhoku-vill-gappei
+  relations:
+  - pref/20
+  - muni/20-麻績村
+  - muni/20-生坂村
+  unknowns:
+  - 村名「筑北」の選定経緯（公募の有無・候補名）を記した合併協議会等の公式記録は確認できなかった
+  - 地域名としての「筑北」の初出と成立時期は確認できなかった
+  updated: '2026-11-13'
+- id: muni/20-箕輪町
+  code: '203831'
+  names:
+    ja: 箕輪町
+    reading: みのわまち
+    aliases:
+    - 中箕輪町
+    - 東箕輪村
+    - 箕輪村
+  user_terms:
+  - 箕輪町
+  - みのわ
+  naming_type: 合併新設（三町村に共通する古い郷名「箕輪」の採用）
+  prefecture: 長野県
+  homonyms: []
+  summary: 上伊那郡の町。1955年1月1日に中箕輪町・箕輪村・東箕輪村が合併して誕生し、町名は三町村に共通する古い郷名「箕輪」を採った。「箕輪」は現在の箕輪町・南箕輪村・伊那市西箕輪一帯を指した中世以来の地域名（箕輪郷）で、その起源は平安中期の荘園「蕗原庄」に遡るとされる。「箕輪」という地名一般については、突出した丘を取り囲む村落が箕の形に似ることからいうとする辞典の解説がある。
+  first_attestation:
+    era: 応仁3年
+    year_western: 1469
+    document: 『諏訪御符礼之古書』
+    note: 地域史資料が「箕輪郷」の用例として紹介するもの。原典の直接確認はしておらず、文明9年（1477年）の同書にも見えるとされる
+  claims:
+  - text: 町公式の検定資料によれば、昭和30年（1955年）1月1日、中箕輪町と箕輪村、東箕輪村が合併し、箕輪町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-minowa-town-kentei
+  - text: 合併した三町村はいずれも名に「箕輪」を含んでおり、新町名はその共通部分である「箕輪」を採った形になっている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-minowa-town-kentei
+    - x2-minowa-town-yoran
+  - text: 町勢要覧の変遷図は、明治8年（1875年）2月12日に中箕輪村と東箕輪村が成立したことを示し、中箕輪村は昭和23年（1948年）に町制施行して中箕輪町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-minowa-town-yoran
+  - text: 「箕輪郷」は現在の箕輪町・南箕輪村および伊那市の西箕輪・手良一帯を指す歴史的地名で、応仁3年（1469年）と文明9年（1477年）に編まれた諏訪社の記録『諏訪御符礼之古書』にも「箕輪郷」の名が記されていると、地域史資料が紹介する
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - v11-minamiminowa-blog-minowago
+  - text: 箕輪郷の起源は平安中期の荘園「蕗原（ふきはら）庄」に遡り、「箕輪」「箕輪郷」「箕輪領」の呼称が用いられるようになったのは室町後期とみられると、地域史資料は説明する。箕輪町の町民憲章も町を「歴史の古い蕗原の里」と表現している
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - v11-minamiminowa-blog-minowago
+    - x2-minowa-town-yoran
+  - text: 『精選版 日本国語大辞典』は「箕輪」を、中部地方以東で砦を中心に発達した村をいい、突出した丘の周囲を取り囲んだ村落が箕の形に似ているところからいう、と解説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x2-minowa-kotobank-kokugo
+  - text: ジャパンナレッジの地名解説は、『地名の語源』（鏡味完二・鏡味明克）の「半円形の土地」を意味するという説もあわせて紹介しており、「みのわ」の語源は一つに定まっていない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - v11-minowa-japanknowledge
+  - text: 箕輪町の地方公共団体コードは203831である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 中・東・南に枝分かれした「箕輪」
+    text: 「箕輪」の名は伊那谷の北部一帯を指す古い郷の名で、明治の町村整理では中箕輪・東箕輪（現在の箕輪町側）と南箕輪（南箕輪村側）、さらに西箕輪（現・伊那市）という具合に、方位を付けて枝分かれしていった。1955年の合併で中・東と箕輪村が一緒になるとき、新しい町の名に選ばれたのは、枝分かれする前の大本の名「箕輪」そのものだった。いわば先祖の名に里帰りした命名で、南箕輪村だけが「南」を付けたまま今も隣に残っている。
+    sources:
+    - v11-minamiminowa-blog-minowago
+    - x2-minowa-town-kentei
+  relations:
+  - pref/20
+  - muni/20-南箕輪村
+  - muni/20-辰野町
+  unknowns:
+  - 『諏訪御符礼之古書』における「箕輪郷」の用例は地域史資料の紹介によるもので、原典での直接確認はしていない
+  - 箕輪郷の「箕輪」の語源が、当地についても「箕の形」説で説明できるかは専門資料で確定できなかった
   updated: '2026-11-13'
 - id: muni/20-茅野市
   code: '202142'
@@ -3401,6 +4506,78 @@ records:
   - 「諏訪」の語源そのものは定かでない。市議会要覧が紹介する太湖の詩語説は市の紹介する説であり、専門辞典による裏付けは本バッチでは確認できなかった
   - 漢字表記「諏訪」がいつ定着したかは、本バッチでは確認できなかった
   updated: '2026-11-13'
+- id: muni/20-豊丘村
+  code: '204161'
+  names:
+    ja: 豊丘村
+    reading: とよおかむら
+    aliases:
+    - 神稲村
+    - 河野村
+  user_terms:
+  - 豊丘村
+  - とよおか
+  naming_type: 合併新設（天竜川沿いの段丘の景観にちなむ新名）
+  prefecture: 長野県
+  homonyms: []
+  summary: 下伊那郡の村。1955年4月1日に神稲村と河野村が合併して誕生した。「豊丘」は合併時の新名で、発足直後に村が発行した村勢要覧は「豊丘の村名も此の自然の景観に負う所が少くない」と記しており、天竜川沿いに発達した河岸段丘の豊かな丘陵の景観にちなむ命名と考えられる。前身の一つ神稲村は「くましろ」と読む難読の村名だった。同じ読みの豊岡市（兵庫県）や豊岡村（静岡県、現・磐田市）とは別の自治体である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 豊丘村『村勢要覧』（1955年発行）
+    note: 村名としての初出は1955年4月1日の合併時の新命名。村勢要覧は発足直後の村公式出版物で、村名と景観の関わりを記す
+  claims:
+  - text: 1955年4月1日、神稲村と河野村が新設合併して豊丘村が誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-toyooka-wiki-kumashiro
+  - text: 合併発足直後の昭和30年（1955年）に村が発行した村勢要覧は、発足以来の村の歩みを記すとともに、「豊丘の村名も此の自然の景観に負う所が少くない」と述べ、村名を村の自然景観に結びつけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-toyooka-yoran1955
+  - text: 『日本歴史地名大系』は、豊丘村が天竜川左岸に位置し、天竜川に沿って南北に発達した数段の河岸段丘をもつ農村であることを記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x2-toyooka-kotobank-taikei
+  - text: 村名「豊丘」は、この段丘の丘陵地が豊かに実る地であることにちなむ合併時の新命名と考えられるが、命名の審議経過そのものは確認できていない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x2-toyooka-yoran1955
+    - x2-toyooka-kotobank-taikei
+  - text: 前身の神稲村は「くましろむら」と読む難読の村名で、村役場は現在も旧神稲村域の神稲地区に置かれている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-toyooka-wiki-kumashiro
+  - text: 豊丘村の地方公共団体コードは204161である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた難読村名「神稲（くましろ）」
+    text: 豊丘村の前身のひとつは、初見ではまず読めない「神稲村（くましろむら）」だった。1955年の合併でこの難読名は表舞台から消え、代わりに選ばれたのが、誰にでも読めて景観そのものを表す「豊丘」である。天竜川の段丘に田畑と果樹園が重なる眺めを、そのまま名前にしたような命名だった。もっとも「神稲」の名は消えたわけではなく、村役場のある地区の名として今も残り、村の住所に生き続けている。
+    sources:
+    - x2-toyooka-wiki-kumashiro
+    - x2-toyooka-yoran1955
+  relations:
+  - pref/20
+  - muni/20-喬木村
+  - muni/20-大鹿村
+  unknowns:
+  - 「豊丘」の命名者・候補名など合併協議の具体的な経過は、村勢要覧の景観への言及以外に確認できなかった
+  - 神稲（くましろ）の語源は確認できなかった
+  updated: '2026-11-13'
 - id: muni/20-軽井沢町
   code: '203211'
   names:
@@ -3488,6 +4665,255 @@ records:
   - 東長倉村が町制を施行して軽井沢町となった正確な年月日は、本バッチで確認した観光協会の資料では年次まで示されていない
   - アイヌ語説を最初に唱えた文献とその根拠の詳細は、論文の要約的な紹介の範囲を超えて確認できていない
   updated: '2026-11-13'
+- id: muni/20-辰野町
+  code: '203823'
+  names:
+    ja: 辰野町
+    reading: たつのまち
+    aliases:
+    - 伊那富村
+  user_terms:
+  - 辰野町
+  - たつの
+  - 日本の中心の町
+  - ほたるの町
+  naming_type: その他（古い地域名「辰野」を、1947年の町制施行時に伊那富村が町名として採用）
+  prefecture: 長野県
+  homonyms: []
+  summary: 上伊那郡の町。町名の「辰野」は、古代に御牧が置かれ中世には庄園の名にもなった古い地域名で、1947年に伊那富村が町制を施行する際、辰野町と改めたことに始まる。その語源は町公式も「はっきりとわかっていない」とし、竜が住む湖があったという伝承が残る。なお町が掲げる「日本の中心」は、経緯度のほぼ中央に当たるという近代の標榜であり、地名の由来とは別のものである。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 庄園名「辰野」に言及する研究（伊藤富雄「庄園辰野・平出・宮所の研究」『伊那路』第4巻、1960年。県立長野図書館のレファレンス事例が紹介）
+    note: 「辰野」の名は古代の御牧・中世の庄園の名に遡るとされるが、具体的な初出史料と年次は確認できなかった
+  claims:
+  - text: 町公式は「辰野（たつの）という地域の歴史は古いが、地名の由来については、はっきりとわかっていません」と明記している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - x2-tatsuno-town-iware
+  - text: 辰野町資料（第22号）に掲載された伝承では、昔、荒神山が天竜川をせき止めて辰野は湖であり、一匹の竜が住んでいたが、大雨で湖の水が荒神山を切り崩して流れ出し、水がなくなって竜も天へ昇ってしまった、それで辰野というようになった、と語られる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x2-tatsuno-town-iware
+  - text: 江戸時代後期の国学者・松沢義章の著書『洲羽国考』には、この辺りに1里四方の湖があり「天ノ竜ノ海」と呼ばれていたこと、天竜川の流路が変わって湖が干潟となり辰野の地名が残された、との趣旨が記されていると町公式は紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - x2-tatsuno-town-iware
+  - text: 町勢要覧は、古代に朝廷直轄の御牧が平出・宮所・辰野・小野に設けられ、毎年都へ貢馬が送られていたとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tatsuno-town-yoran
+  - text: 中世には庄園としての辰野が存在し、伊藤富雄「庄園辰野・平出・宮所の研究」（『伊那路』1960年）などの研究があることを、県立長野図書館のレファレンス事例が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tatsuno-ndl-ref
+  - text: 町勢要覧の沿革によれば、昭和22年（1947年）の町制施行で伊那富村が辰野町となり、昭和30年（1955年）に朝日村、昭和31年（1956年）に川島村、昭和36年（1961年）に小野村を合併して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tatsuno-town-yoran
+  - text: 町は、東経138度と北緯36度の線が交わり日本列島のほぼ中心に当たることを掲げ、鶴ヶ峰には昭和45年（1970年）に「日本中心の標」が設置されたが、これは地名「辰野」の由来とは別の、近代になってからの標榜である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-tatsuno-town-center
+    - x2-tatsuno-town-yoran
+  - text: 辰野町の地方公共団体コードは203823である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 竜の湖の伝説と「日本の中心」
+    text: 辰野には、名前を彩る看板が二つある。一つは古い伝承の「竜の湖」――天竜川をせき止めた湖に竜が住み、水が抜けたあとに「辰（竜）の野」が残ったという語りで、江戸時代の国学者も「天ノ竜ノ海」と書き留めた。もう一つは現代の「日本の中心」で、経緯度の交点を根拠に1970年に標が建てられ、町民憲章の冒頭にも「辰野町は日本の真ん中」とうたわれる。ただし後者は地名の由来ではなく、町が後から掲げたキャッチフレーズである。語源そのものは今も「はっきりとわかっていない」というのが、町の公式見解である。
+    sources:
+    - x2-tatsuno-town-iware
+    - x2-tatsuno-town-center
+  relations:
+  - pref/20
+  - muni/20-箕輪町
+  - muni/20-下諏訪町
+  unknowns:
+  - 「辰野」の語源について、伝承以外の学術的な説明は確認できなかった
+  - 御牧・庄園としての「辰野」の初出史料と年次は特定できなかった
+  - 1947年に伊那富村が町制施行にあたって「辰野」と改名した理由を明記した資料は確認できなかった（地域の古名の採用とみられる）
+  updated: '2026-11-13'
+- id: muni/20-野沢温泉村
+  code: '205630'
+  names:
+    ja: 野沢温泉村
+    reading: のざわおんせんむら
+    aliases:
+    - 豊郷村
+    - 湯山村
+    - 野沢村
+  user_terms:
+  - 野沢温泉村
+  - のざわおんせん
+  - 野沢温泉
+  - ノザワ
+  naming_type: その他（旧豊郷村が1953年に温泉地の名「野沢温泉」へ改称）
+  prefecture: 長野県
+  homonyms: []
+  summary: 下高井郡の村。もとは湯山村と呼ばれた温泉の集落で、室町時代頃に野沢村となり、明治以降は豊郷村を名乗ったが、1953年に温泉地の名をそのまま自治体名とする「野沢温泉村」へ改称し、1956年に市川村と合併して現在の村となった。集落の記録上の初めは1272年の「湯山村」で、温泉の発見は奈良時代と伝えられる。「野沢温泉」という観光地の名が、そのまま村の正式名称になった事例である。
+  first_attestation:
+    era: 文永9年
+    year_western: 1272
+    document: 野沢温泉村公式「野沢温泉村概要」が紹介する記録
+    note: 集落が「湯山村」として歴史に現れる最初と村公式が述べるもの。記録の原典名は明示されておらず、原文の直接確認はしていない
+  claims:
+  - text: 村公式の概要によれば、野沢温泉村が「湯山村」として歴史に現れてくるのは鎌倉時代中期の文永9年（1272年）が最初であり、江戸時代初期にはすでに24軒もの宿屋があったといわれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-nozawa-vill-gaiyo
+  - text: 地縁団体野沢組の年表は、室町時代の応永年間に湯山村から野沢村に変わったと思われるとし、当時の集落は現在の位置より西に下がった古屋敷にあったとする
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x2-nozawa-gumi-history
+  - text: 野沢組の年表によれば、弘治3年（1557年）の上杉景虎（謙信）の願文と武田晴信（信玄）の書状に「野沢の湯」との記録があり、戦国時代には「野沢」の名が文書に現れている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x2-nozawa-gumi-history
+  - text: 温泉の発見は奈良時代の神亀2年（724年）、聖武天皇の頃のことと野沢組の年表は伝える
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - x2-nozawa-gumi-history
+  - text: 明治22年（1889年）の町村制で豊郷村と坪山村の区域から豊郷村が成立し、昭和28年（1953年）8月18日の改称により野沢温泉村となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - x2-nozawa-uub-toyogo
+  - text: 昭和31年（1956年）9月30日、野沢温泉村と市川村が新設合併し、改めて野沢温泉村が発足して現在の村域となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-nozawa-wiki-ichikawa
+  - text: 村名に「温泉」を含む形は、1953年の改称で、古くからの温泉地の呼称「野沢温泉」をそのまま自治体名に採り入れたことによるものである
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - x2-nozawa-uub-toyogo
+    - x2-nozawa-vill-gaiyo
+  - text: 野沢温泉村の地方公共団体コードは205630である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 観光地の名前が、そのまま村の名前になった
+    text: この村の名前の変遷は、湯山村→野沢村→豊郷村→野沢温泉村と、まるで看板の掛け替えのようである。注目したいのは最後の改称で、1953年、村は由緒ある行政名「豊郷」を捨て、温泉地として知られた通称「野沢温泉」を正式な村名に採用した。13の外湯を村人が共同で守る「湯仲間」の文化で知られるこの村では、温泉こそが村のアイデンティティそのものだった。名実を一致させる改称は、その後スキー場と並んで「野沢温泉」の名を世界に広めることになる。
+    sources:
+    - x2-nozawa-uub-toyogo
+    - x2-nozawa-vill-gaiyo
+  relations:
+  - pref/20
+  - muni/20-木島平村
+  unknowns:
+  - 「湯山村」の1272年の記録の原典（文書名）は村公式・野沢組の資料に明示されておらず、直接確認できなかった
+  - 「野沢」の語源（野の沢という地形名か等）を明示した専門資料は確認できなかった
+  - 1953年の改称の審議経過（候補名など）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/20-長和町
+  code: '203505'
+  names:
+    ja: 長和町
+    reading: ながわまち
+    aliases:
+    - 長門町
+    - 和田村
+  user_terms:
+  - 長和町
+  - ながわ
+  naming_type: 合併新設（長門町の「長」と和田村の「和」の合成）
+  prefecture: 長野県
+  homonyms: []
+  summary: 小県郡の町。2005年10月1日に長門町と和田村が合併して誕生し、町名「長和」は長門の「長」と和田の「和」を合わせた合成名である。しかも前身の長門町自体が、1956年に長久保・長窪の「長」と大門の「門」を合わせた合成名であり、合成地名の中に合成地名が入る入れ子構造になっている。読みは「ながわ」で、旧国名の長門（山口県）とは無関係である。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 長和町「長和町の概況」
+    note: 町名としての初出は2005年10月1日の合併時の命名（合成名）
+  claims:
+  - text: 町公式の概況によれば、長和町は平成17年（2005年）10月1日、長門町と和田村とが合併し誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-nagawa-town-gaikyo
+  - text: 町名「長和」は、長門町と和田村という両町村の頭文字（「長」と「和」）より命名された合成名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-nagawa-wiki
+  - text: 合併に先立ち、平成16年（2004年）3月28日に任意合併協議会が設立され、同年9月に法定合併協議会へ移行し、平成17年（2005年）3月1日に両町村議会で全会一致により合併が議決された経過を、町公式の概況は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-nagawa-town-gaikyo
+  - text: 前身の長門町は、昭和31年（1956年）9月30日に長久保新町・長窪古町・大門村が合併して発足し、その名は長窪古町と長久保新町の「長」と大門村の「門」より命名された合成名であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x2-nagato-wiki
+  - text: もう一方の前身・和田村は、明治22年（1889年）の町村制以来2005年まで単独の村として存続し、中山道の和田宿を擁した。和田宿本陣などは国の史跡に指定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-nagawa-gikai-yoran
+  - text: 町名の読みは総務省の一覧でも「ながわまち」であり、山口県の旧国名・長門や長門市とは読みも成り立ちも異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 長和町の地方公共団体コードは203505である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 合成地名の入れ子――「長和」の中の「長門」
+    text: 「長和」は、長門の「長」と和田の「和」を貼り合わせた名前である。ところが、その材料になった「長門」もまた、1956年に長久保・長窪の「長」と大門の「門」を貼り合わせた名前だった。つまり長和町は、合成地名どうしをさらに合成した、二重の入れ子構造の名前なのである。合併のたびに旧名の断片を残してきた結果、現在の町名の二文字の中に、長久保・長窪・大門・和田という4つの旧町村の痕跡が畳み込まれている。
+    sources:
+    - x2-nagawa-wiki
+    - x2-nagato-wiki
+  relations:
+  - pref/20
+  - muni/20-立科町
+  unknowns:
+  - 町名「長和」の合成であることを明記した合併協議会・町の一次資料は確認できず、合成の説明はWikipediaの記述に基づく
+  - 長門町の「長」「門」合成についても、一次資料での裏付けは取れていない
+  updated: '2026-11-13'
 - id: muni/20-長野市
   code: '202011'
   names:
@@ -3567,6 +4993,272 @@ records:
   - 1570年の武田信玄書状の該当字句（長野か艮野か）の確定には原本の画像確認が必要で未了（県レコードと同一の未確認事項）
   - 長野村から長野町が成立した年次（町制の経緯）については本バッチでは市公式資料まで確認できていない
   - 「長野＝長い傾斜地」とする地形語源説の言語学的な検証水準は、専門地名辞典まで確認できていない
+  updated: '2026-11-13'
+- id: muni/20-阿南町
+  code: '204048'
+  names:
+    ja: 阿南町
+    reading: あなんちょう
+    aliases:
+    - 大下条村
+    - 和合村
+    - 旦開村
+    - 富草村
+  user_terms:
+  - 阿南町
+  - あなんちょう
+  - あなん
+  naming_type: 合併新設（地域名「阿南」を公募で採用）
+  prefecture: 長野県
+  homonyms:
+  - muni/36-阿南市
+  summary: 下伊那郡の町。1957年7月に大下条村・和合村・旦開村が合併して誕生した。町名の「阿南」は、阿智川（阿知川）以南一帯を指す地域名で、明治中期に青年たちが「阿南青年会」を組織した頃から使われ始めた比較的新しい地名であり、合併時の公募で「南信濃町」との最終対決を制して採用された。読みは「あなんちょう」で、長野県の町では唯一「ちょう」と読む。徳島県の阿南市とは同名だが、成り立ちは無関係である。
+  first_attestation:
+    era: 明治24年
+    year_western: 1891
+    document: 「阿南青年会」の組織（町公式「町名の由来」が『下伊那青年運動70年史』によるものとして紹介）
+    note: 地域名としての「阿南」の使用の最初と町公式が述べるもの。江戸時代の文献には「阿南」の文字は見当たらないと町公式は説明する
+  claims:
+  - text: 町公式の沿革によれば、阿南町は大下条村・和合村・旦開（あさげ）村が昭和32年（1957年）7月に合併して誕生し、さらに昭和34年（1959年）4月に富草村と合併して現在の阿南町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-anan-town-enkaku
+  - text: 町公式「町名の由来」によれば、阿智川以南の地域は明治の中期から「阿南」と呼ばれるようになり、明治24年（1891年）に下條・富草・大下条・泰阜の青年たちが『阿南青年会』を組織したのが、「阿南」という名称が使われた最初である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-anan-town-yurai
+  - text: 「阿知川の南だから阿南」という考え方は、当時の若い世代によるものだったと町公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-anan-town-yurai
+  - text: 合併に際して町名は公募され、応募総数300通・95種類の中から最終段階で5候補が残り、最後は「阿南町」と「南信濃町」の2つに絞り込まれたと町公式は記録する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-anan-town-yurai
+  - text: 町名決定の理由として、「阿知川の南に生まれた新しい町だから」「日常に『阿南』の言葉が多く使われていて当地方の代名詞として広く知られていたから」「応募数が一番多かったから」などが挙げられたと町公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-anan-town-yurai
+  - text: 町名の読みは「あなんちょう」で、長野県の町で唯一「ちょう」と呼ぶ町であると町公式は説明する。近接する静岡・愛知・岐阜で「ちょう」と呼ぶ地域との交流の影響が考えられるという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x2-anan-town-yurai
+  - text: 徳島県の阿南市は那賀川河口に位置する港町で、同名ながら長野県阿南町とは成り立ちが無関係である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x2-anan-kotobank
+  - text: 阿南町の地方公共団体コードは204048である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「阿南」は若者が作った名前
+    text: 多くの地名が古代や中世に遡る中で、「阿南」は異色の若い地名である。江戸時代の文献に「阿南」の文字はなく、明治24年（1891年）に地域の青年たちが「阿南青年会」を名乗ったのが始まりと町は説明する。「阿知川の南」という明快な命名は、その後、阿南新聞、阿南病院、阿南高校、阿南警察署と地域の機関名に次々に広がり、1957年の合併では公募300通の頂点に立って、ついに自治体名になった。青年会の看板が66年かけて町名に昇格したのである。
+    sources:
+    - x2-anan-town-yurai
+  relations:
+  - pref/20
+  - muni/36-阿南市
+  - muni/20-泰阜村
+  unknowns:
+  - 「阿南青年会」の組織年（明治24年）や名称使用の最初であることは町公式の紹介によるもので、『下伊那青年運動70年史』の原典は直接確認していない
+  - 公募の最終候補5つのうち「阿南町」「南信濃町」以外の3候補の名称は、町公式ページに明記されていなかった
+  updated: '2026-11-13'
+- id: muni/20-阿智村
+  code: '204072'
+  names:
+    ja: 阿智村
+    reading: あちむら
+    aliases:
+    - 阿知
+  user_terms:
+  - あちむら
+  - 日本一の星空の村
+  - 昼神温泉の村
+  - 花桃の里
+  naming_type: 合併新設（1956年に3村が合併し、地域の古名「阿智」を新村名に採用）
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県の南端、下伊那郡の村。1956年に会地村・伍和村・智里村が合併した際、構成村の名ではなく、古代からこの一帯を指した通称「阿智」を新村名に採用した。村公式によれば『先代旧事本紀』に一帯を「阿智」と呼ぶ記述があり、『延喜式』には東山道の阿智駅が見えるという。2006年に浪合村、2009年に清内路村を編入して現在の村域になった。
+  first_attestation:
+    era: 延長5年
+    year_western: 927
+    document: 延喜式
+    note: 村公式が『延喜式』に東山道の駅として「阿智駅」が載ると紹介するもの。駅の所在地は現在の駒場地区付近と推定される。原文を直接確認したものではないため、村名そのものの初出は1956年の合併発足時である
+  claims:
+  - text: 昭和31年（1956年）9月30日、会地村・伍和村・智里村が合併して阿智村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-achi-vill-plan
+  - text: 村名「阿智」は合併した3村の名ではなく、古くからこの一帯を通称した「阿智」をもって新村名としたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-achi-vill-gaiyo
+  - text: 阿智村公式は、平安初期に編纂された『先代旧事本紀』にこの地域一帯を「阿智」と呼ぶ記述があると紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-achi-vill-gaiyo
+  - text: 阿智村公式は、『延喜式』に東山道の道筋の中に阿智駅が載っていると紹介し、古代の阿智は東山道の駅が置かれたこの地方の中心だったとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-achi-vill-gaiyo
+    - x3-achi-vill-plan
+  - text: 平成18年（2006年）1月1日に浪合村、平成21年（2009年）3月31日に清内路村と合併し、現在の阿智村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-achi-vill-gaiyo
+  - text: 昼神地区は延喜式内社の阿智神社の鎮座地であり、知恵の神・思兼命（おもいかねのみこと）とその氏族が入植した地域であると伝えられる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - x3-hirugami-wiki
+  - text: 『日本書紀』応神天皇20年の条には、東漢氏の祖・阿知使主（あちのおみ）が子の都加使主と党類17県を率いて渡来したとあり、『古事記』では阿知吉師と記されるが、「阿知」と信濃の阿智を結びつける史料はなく、村名との直接の関係は確認できない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x3-achi-no-omi-wiki
+  - text: 昼神温泉は昭和48年（1973年）1月、計画中の国鉄中津川線のトンネル工事に伴うボーリング調査中に昼神湯ノ瀬地区で温水が湧出して始まった新しい温泉である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-hirugami-tsukuba
+  - text: 昼神では江戸時代の享保・元文年間にまとめられた『信州伊奈郡村鑑』に温泉が湧き出して近郷の人が湯治したという記録が残るが、その湧出口は後に阿智川の大水で埋没したと学術論文は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-hirugami-tsukuba
+  - text: 阿智村の地方公共団体コードは204072である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 村より1200年古い名前
+    text: 阿智村という自治体ができたのは1956年だが、「阿智」という名前はそれより千年以上前からこの谷を指していた。村の公式説明によれば、『先代旧事本紀』には一帯を「阿智」と呼ぶ記述があり、『延喜式』には東山道の駅として阿智駅が載る。東山道は都と東国を結ぶ古代の幹線で、駅が置かれる場所はその地域の中心だった。1956年の合併で3村が新しい名前を必要としたとき、選ばれたのは構成村のどれかではなく、谷全体を千年以上指してきた通称だった。合併で生まれた村が、合併相手のどの名前でもない「一番古くて一番広い名前」を拾う――そういう命名の型がここにはある。
+    sources:
+    - x3-achi-vill-gaiyo
+    - x3-achi-vill-plan
+  relations:
+  - pref/20
+  - muni/20-平谷村
+  unknowns:
+  - 「阿智」という地名そのものの語源（『先代旧事本紀』の記述の原文と、その「阿智」が現村域とどう重なるかは未確認）
+  - 阿智駅の正確な所在地（駒場地区付近とする推定にとどまる）
+  - 『古事記』『日本書紀』の阿知使主・阿知吉師と信濃国阿智との関係を示す史料の有無
+  - 大字「昼神」の地名の由来
+  updated: '2026-11-13'
+- id: muni/20-青木村
+  code: '203491'
+  names:
+    ja: 青木村
+    reading: あおきむら
+    aliases: []
+  user_terms:
+  - あおきむら
+  - 義民の里
+  - 五島慶太の出身地
+  - 田沢温泉と沓掛温泉の村
+  naming_type: 合併新設（1889年に6村が合併し、小字名であり学校名でもあった「青木」を新村名に採用）
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県小県郡の村。1889年の町村制施行で奈良本村・沓掛村・夫神村・殿戸村・村松郷・田沢村が合併して発足した。新村名の選定は難航したが、田沢の小字「青木」にちなみ、1886年にその地に置かれた「青木学校」の名でもあった「青木村」が選ばれたと伝えられる。小字「青木」の名は、東山道の道しるべだったネズの名木に由来するという。
+  first_attestation:
+    era: 寛正6年
+    year_western: 1465
+    document: 諏訪御符礼之古書
+    note: 『日本歴史地名大系』「青木」項が紹介する用例。同書の寛正6年五月会の件に「青木」の名が見え、集落名としての使用例の初出とされる。村名としての初出は1889年の青木村発足時
+  claims:
+  - text: 明治22年（1889年）4月1日、町村制の施行により小県郡の奈良本村・沓掛村・夫神村・殿戸村・村松郷・田沢村の区域をもって青木村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x3-aoki-wiki
+  - text: 『日本歴史地名大系』は、現在の青木村大字田沢の「青木」を「青木村の語源となった集落」とし、東山道と国道143号との分岐点にあたると説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-aoki-kotobank-taikei
+  - text: 『日本歴史地名大系』によれば、『諏訪御符礼之古書』の寛正6年（1465年）五月会の件に「左頭、青木、代官深井肥前守治光」とあり、室町時代には「青木」の名が記録に現れている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-aoki-kotobank-taikei
+  - text: 小字「青木」の名は、東山道の道しるべだった「ねずみさし」（ネズ）の名木に由来するとされ、その地には明治19年（1886年）に近隣の学校を統合した「青木学校」が置かれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x3-aoki-wiki
+  - text: 1889年の合併で新村名の選定が難航する中、学校の名でもあり希望に輝く新しい村の名称にふさわしいとして「青木村」が選ばれたと、『青木村誌』に基づく説明が紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x3-aoki-wiki
+  - text: 昭和32年（1957年）3月31日、浦里村の一部（大字当郷）と合併して新しい青木村が発足し、村はこの年を「新制青木村」の誕生と位置づけている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - x3-aoki-wiki
+  - text: 村名の由来を戦国期に当地に居住した青木氏に求める説明は、福島県の旧青木村など他地域の事例と混同されることがあり、長野県青木村について氏族由来を裏づける資料は確認できない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - x3-aoki-wiki
+  - text: 青木村の地方公共団体コードは203491である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 学校の名前が村の名前になった
+    text: 村の名前が学校から来るというのは珍しい順序である。田沢の小字「青木」には東山道の道しるべだったネズの名木があり、その場所に1886年、近隣4校を統合した学校ができて「青木学校」と名乗った。3年後、6村の合併で新しい村名が決まらないとき、人々が思いついたのがこの学校の名前だった。名木は後に切られたが、村民有志が根を掘り返して3つに分け、小学校・中学校・文化会館に保存したという。木は消えても、木の名前は学校を経由して村全体の名前として残った。
+    sources:
+    - x3-aoki-wiki
+  relations:
+  - pref/20
+  - muni/20-麻績村
+  unknowns:
+  - 『青木村誌 歴史編 下』（1992年）が「村名の由来」として記す内容の原文（本バッチではWikipedia経由の紹介にとどまる）
+  - ネズの名木があった場所と「青木」という小字名が付けられた時期
+  - 1465年以前の「青木」の用例の有無
   updated: '2026-11-13'
 - id: muni/20-須坂市
   code: '202070'
@@ -3733,6 +5425,87 @@ records:
   - 地名「飯山」の文書上の初出（中世文書における用例）は特定できなかった
   - 飯山城の築城以前に「飯山」という地名が存在したかどうかは未確認
   updated: '2026-11-13'
+- id: muni/20-飯島町
+  code: '203840'
+  names:
+    ja: 飯島町
+    reading: いいじままち
+    aliases: []
+  user_terms:
+  - いいじままち
+  - ふたつのアルプスが見えるまち
+  - 飯島陣屋の町
+  naming_type: 一部の地名（中世の郷名「飯島郷」に由来する村名を継承し、町制・合併を経て現在に至る）
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県上伊那郡の町。町公式の沿革によれば、鎌倉時代には飯島氏の支配のもとで飯島郷の開発が進んだとされ、その郷名が後の飯島村・飯島町に引き継がれた。1875年に飯島村など4か村が合併して飯島村となり、1889年の町村制でも飯島村・田切村・本郷村の合併で飯島村が発足、1954年に町制を施行して飯島町となり、1956年に七久保村と合併して現在の町域になった。「飯島」の語源そのものは資料で確定していない。
+  first_attestation:
+    era: 明治8年
+    year_western: 1875
+    document: null
+    note: 自治体名としての「飯島村」の成立は1875年1月23日の4か村合併による。もとになった郷名「飯島郷」は鎌倉時代に遡ると町公式の沿革が記すが、文書上の初出は本バッチでは確認できていない
+  claims:
+  - text: 飯島町公式の沿革は、鎌倉時代に飯島氏の支配のもとで飯島郷の開発が進んだと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iijima-town-history
+  - text: 江戸時代には幕府直轄領を支配する飯島陣屋が置かれ、延宝5年（1677年）に設置されたといい、明治維新後は伊那県庁として使われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iijima-town-history
+  - text: 明治8年（1875年）1月23日、飯島村・石曽根村・田切村・本郷村の4か村が合併して飯島村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iijima-town-history
+  - text: 明治22年（1889年）4月1日の町村制施行の際、分離していた飯島村・田切村・本郷村の3か村が合併して改めて飯島村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iijima-town-history
+  - text: 昭和29年（1954年）1月1日に飯島村は町制を施行して飯島町となり、昭和31年（1956年）9月30日に七久保村と合併して新・飯島町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iijima-town-report
+  - text: 町名は中世の郷名「飯島郷」を受け継ぐ飯島村の名を、町制施行と合併を通じてそのまま引き継いだもので、新たに付けられた名ではない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iijima-town-history
+    - x3-iijima-town-report
+  - text: 「飯島」という地名の語源は、飯島氏が地名を名乗ったのか、地名が先にあったのかを含め、確認できる資料では確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - x3-iijima-town-history
+  - text: 飯島町の地方公共団体コードは203840である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県庁だった町
+    text: 飯島は、江戸時代には天領を治める陣屋の町だった。延宝5年（1677年）に置かれたという飯島陣屋は、明治維新のあと短期間だが「伊那県」の県庁として使われた。伊那県は1868年に置かれ1871年に廃止された短命の県で、その庁舎が陣屋の建物を転用したものだった。つまり飯島町は、ほんの数年とはいえ県庁所在地だったことがある。県庁が置かれたのは、この地が中世以来「飯島郷」の中心であり、江戸時代を通じて伊那谷北部の行政の拠点だったからである。
+    sources:
+    - x3-iijima-town-history
+  relations:
+  - pref/20
+  - muni/20-中川村
+  unknowns:
+  - 「飯島郷」の文書上の初出と、飯島氏の出自（地名が先か氏が先か）
+  - 「飯島」の語源についての専門的検討（角川日本地名大辞典・日本歴史地名大系の該当項を未確認）
+  updated: '2026-11-13'
 - id: muni/20-飯田市
   code: '202053'
   names:
@@ -3810,6 +5583,81 @@ records:
   unknowns:
   - 「飯田」の初出とされる鎌倉時代の具体的な文献名は、市公式でも示されておらず、本バッチでも特定できなかった
   - 語源の「結いの田」説について、それを裏づける古い記録は確認できなかった
+  updated: '2026-11-13'
+- id: muni/20-飯綱町
+  code: '205907'
+  names:
+    ja: 飯綱町
+    reading: いいづなまち
+    aliases:
+    - 飯縄
+  user_terms:
+  - いいづなまち
+  - 飯綱山のふもとの町
+  - りんごの町
+  naming_type: 合併新設（2005年に2村が合併し、公募と住民アンケートを経て、地域の山「飯縄山」にちなむ新町名を採用）
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県上水内郡の町。2005年10月1日に牟礼村と三水村が合併して発足した。新町名は公募と住民アンケートを経て決められ、「飯綱町」が約51パーセントの支持で選ばれた。名前のもとになった山の正式な表記は「飯縄山（いいづなやま）」で、合併以前から両村共通の飯綱中学校などの施設名に「飯綱」が使われていたことが、町名への後押しになったと町は説明する。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: null
+    note: 町名「飯綱町」の初出は2005年10月1日の飯綱町発足時。もとになった山名「飯縄山」は中世以来の修験の山として知られるが、その初出文書は本バッチでは確認していない
+  claims:
+  - text: 平成17年（2005年）10月1日、牟礼村と三水村が合併して飯綱町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iizuna-town-tokei
+  - text: 新町名は平成16年（2004年）9月に牟礼村・三水村合併協議会が公募を行い、700件を超える応募があった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iizuna-town-tokei
+  - text: 同年11月の住民アンケート（12歳以上）では「飯綱町」が約51パーセントの支持を得て最も多く、11月25日の第8回合併協議会で新町名が「飯綱町」に決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iizuna-town-tokei
+  - text: アンケートでは「いいづな町」「飯綱村」「いいづな村」といった表記や町村の別が異なる候補も票を集め、「鳥居川町」などの候補もあった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iizuna-town-tokei
+  - text: 町は、合併以前から飯綱中学校や病院など両村共通の公共施設に「飯綱」の名が存在し、住民に親しみやすく分かりやすい名称だったことを命名の背景として説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iizuna-town-tokei
+  - text: 町名のもとになった山の名は「飯縄山」と書くのが正式で、町章も飯縄山と斑尾山をモチーフとしており、町名の「飯綱」と山名の「飯縄」では表記が異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-iizuna-town-tokei
+  - text: 飯綱町の地方公共団体コードは205907である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: アンケートで決まった町名
+    text: 平成の大合併では新しい自治体名を公募で決めることが多かったが、飯綱町はその過程が数字つきで記録に残っている好例である。公募では700件を超える応募があり、20歳未満の応募者の約58パーセントが「飯綱」に関する名前を寄せた。住民アンケートでは「飯綱町」が51.23パーセントで1位だったが、「いいづな町」（20.31パーセント）という平仮名案も2位に入った。漢字にするか平仮名にするか、町にするか村にするか――名前の中身は早くから「いいづな」で固まっていて、最後に競われたのは表記の形だった。
+    sources:
+    - x3-iizuna-town-tokei
+  relations:
+  - pref/20
+  - muni/20-信濃町
+  unknowns:
+  - 山名「飯縄山」の語源と初出（飯綱権現信仰との関係を含む）
+  - 町名で「飯縄」ではなく「飯綱」の表記が選ばれた経緯の詳細
   updated: '2026-11-13'
 - id: muni/20-駒ヶ根市
   code: '202100'
@@ -4026,6 +5874,90 @@ records:
   unknowns:
   - 命名の選定過程（公募だったか、候補名に何があったか）は未確認
   - 山名「本高森山」の「高森」自体の由来（いつ、なぜ高森と呼ばれるようになったか）は未確認
+  updated: '2026-11-13'
+- id: muni/20-麻績村
+  code: '204463'
+  names:
+    ja: 麻績村
+    reading: おみむら
+    aliases:
+    - 麻続
+  user_terms:
+  - おみむら
+  - 麻績宿の村
+  - 聖高原の村
+  - 難読地名
+  naming_type: 一部の地名（古代の郷名「麻績郷」を受け継ぐ地名で、1875年の合併で村名となった）
+  prefecture: 長野県
+  homonyms: []
+  summary: 長野県東筑摩郡の村。「麻績」は「おみ」と読む難読地名で、もとは麻を績む（裂いて糸にする）ことを業とした人々＝麻績氏・麻績部に由来する郷名とされる。『和名類聚抄』には「麻続」「麻績」と記され「乎美（をみ）」と訓じられている。江戸時代は北国脇往還の麻績宿として栄え、1875年に麻績町など5か村が合併して麻績村となり、1956年に日向村と合併して現在に至る。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 和名類聚抄
+    note: 『日本歴史地名大系』「麻績郷」項によれば、『和名抄』高山寺本は「麻続」、流布本は「麻績」と記し、ともに「乎美（をみ）」と訓じる。『和名類聚抄』の成立は承平年間（931〜938年）頃とされるため西暦年は確定せず null とした
+  claims:
+  - text: 『日本歴史地名大系』によれば、『和名類聚抄』の高山寺本はこの郷を「麻続」と、流布本は「麻績」と記し、いずれも「乎美（をみ）」と訓じており、「をみ」という読みが平安時代に確かだったことが分かる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-omi-kotobank-taikei-go
+  - text: 『日本歴史地名大系』は、麻績郷の名は品部（専門技術集団）を擁していた麻績氏が定着した土地であることを示すと考えられると説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-omi-kotobank-taikei-go
+  - text: 『精選版 日本国語大辞典』によれば、「麻績（をみ）」は「おうみ（苧績）」の音変化した語で、麻を細く裂いてより合わせ糸にすることをいい、それを業とする氏族の名でもあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-omi-kotobank-dictionary
+  - text: 麻績村公式によれば、平安時代には伊勢神宮の麻績御厨（みくりや）がこの地に設けられ、荘園としての麻績が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-omi-vill-aramashi
+  - text: 江戸時代、麻績は天領で、北国脇往還（善光寺街道）の宿駅・麻績宿が置かれて善光寺参りの人々などで賑わった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - x3-omi-vill-aramashi
+  - text: 『日本歴史地名大系』によれば、明治8年（1875年）1月、麻績組のうち麻績町・矢倉・市野川・下井堀・野口の五か村が合併して麻績村がつくられ、昭和31年（1956年）に日向村と合併した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-omi-kotobank-taikei-mura
+  - text: 麻績郷は『和名類聚抄』では更級郡の部に記されるが、その範囲は現在の筑北盆地の本城・坂北・麻績・坂井の四か村一帯にあたると推定されており、現在の麻績村はその一部である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - x3-omi-kotobank-taikei-go
+  - text: 麻績村の地方公共団体コードは204463である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: なぜ「麻績」と書いて「おみ」と読むのか
+    text: 「麻績」を音読みすれば「ましょく」、訓読みでも「あさつみ」としか読めない。ところがこの村は「おみ」と読む。鍵は古代の職能集団にある。「をみ（麻績）」は、麻の繊維を裂いてつなぎ、糸にする仕事のことで、それを朝廷に納める品部の人々は「麻績氏」「麻績部」と呼ばれた。『万葉集』にも「麻績の子ら」の歌がある。平安時代の『和名類聚抄』はこの地を「麻績」と書いて「乎美」と読ませているから、「をみ」の読みは千年以上前からこの土地の名前だった。仕事の名前が、その仕事をする人々の住む土地の名前になり、さらに村の名前として残ったのである。
+    sources:
+    - x3-omi-kotobank-taikei-go
+    - x3-omi-kotobank-dictionary
+  relations:
+  - pref/20
+  - muni/20-青木村
+  - muni/20-筑北村
+  unknowns:
+  - 麻績氏がこの地に定着した時期と経緯を示す一次史料
+  - 麻績御厨の成立年と『吾妻鏡』文治2年（1186年）の「麻績御厨」の記載の原文確認
   updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
@@ -4484,3 +6416,237 @@ sources:
   v3-wiki-komagane:
     label: Wikipedia「駒ヶ根市」。市名が小・中・高等学校への電話での応募依頼による公募から僅か3日で決定したこと、「駒ヶ根」は隣の宮田村にあったキャンプ場の名称でもあったこと、1956年9月30日に大字宮田が宮田村として分立したこと、2005年の「中央アルプス市」への合併・改名計画が住民投票で反対多数となり断念されたことを、『駒ヶ根市誌』等の記述として紹介する
     url: http://ja.wikipedia.org/wiki/駒ヶ根市
+  x1-asahi-wiki:
+    label: Wikipedia「朝日村」（1875年に針尾・小野沢・古見・西洗馬が合併して山本村、1889年4月1日の町村制施行で朝日村が発足）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%9D%91
+  x1-asahi-yoran:
+    label: 朝日村公式「2017 朝日村村勢要覧」（村名の由来：朝日が一番先にあたることと旭日のような発展への祈念。平成元年に開村100周年、村章の円は朝日を象徴）
+    url: https://www.vill.asahi.nagano.jp/material/files/group/2/15180download.pdf
+  x1-kijimadaira-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」木島平村記事（木島平村公式ウェブサイトの説明として、村名は中世の木島郷と近世に一帯が「木島平」と呼ばれたことに由来すると紹介。1955年2月1日に穂高村・往郷村・上木島村が合併）
+    url: https://donnatoko.jp/nagano-ken/kijimadaira-guide/
+  x1-kijimadaira-saigai:
+    label: 長野県「災害伝承データ」木島平村上木島の鬼の首塚カード（木島は「鬼島」で、豪雨をもたらす鬼を恐れた名残が村名の語源になったという伝説を紹介）
+    url: https://www.pref.nagano.lg.jp/sabo/manabu/documents/06-02kizimadaira-card.pdf
+  x1-kijimadaira-sonshi:
+    label: 木島平村公式「木島平村の歴史」（村史のウェブ公開版。鎌倉時代に木島郷が文献に現れ地頭は木島氏、慶長7年の検地帳に上木島など9カ村、元禄11年に木島平18カ村の入会権が幕府に認められた経緯）
+    url: https://www.vill.kijimadaira.lg.jp/articles/2013031900049/file_contents/kyouhon01.pdf
+  x1-kijimadaira-wiki:
+    label: Wikipedia「木島平村」（1955年2月1日に穂高村・往郷村・上木島村が合併して発足）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%B3%B6%E5%B9%B3%E6%9D%91
+  x1-kiso-ndl-kisofukushima:
+    label: 国立国会図書館 Web NDL Authorities「木曽福島町」（1967年4月に福島町と新開村が合併して木曽福島町、2005年11月に4町村が合併して木曽町）
+    url: https://id.ndl.go.jp/auth/ndlna/00287617
+  x1-kiso-soumu-gapei:
+    label: 総務省「市町村合併資料集 市町村名逆引き一覧（長野県）」（平成17年11月1日に木曽福島町・日義村・開田村・三岳村が木曽町となった）
+    url: https://www.soumu.go.jp/gapei/hensen_nagano.html
+  x1-kiso-yoshinaka:
+    label: 長野県公式「木曽町福島 森林づくり」候補地案内（木曽町公式の地域紹介。日義は木曽義仲が育った地と紹介）
+    url: https://www.pref.nagano.lg.jp/ringyo/sangyo/ringyo/seibi/satooya/documents/33kiso.pdf
+  x1-kisofukushima-wiki:
+    label: Wikipedia「木曽福島町」（1967年4月3日に福島町と新開村が合併して木曽福島町が発足、1968年5月1日に西筑摩郡が木曽郡へ改称）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9B%BD%E7%A6%8F%E5%B3%B6%E7%94%BA
+  x1-kisomura-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」木祖村記事（国土交通省中部地方整備局の資料として、木曽川は木祖村の鉢盛山を源とすると紹介）
+    url: https://donnatoko.jp/nagano-ken/kiso-guide/
+  x1-kisomura-gikai:
+    label: 木祖村公式「令和7年度 木祖村議会の概要」（沿革：明治7年に藪原村・荻曽村・菅村が合併して木祖村、明治17年に分村、明治22年に再合併。木曽川が村の中央を貫流し鳥居峠が分水嶺）
+    url: https://www.vill.kiso.nagano.jp/gyoseijoho/gikai/documents/sosiki/R7gaiyou.pdf
+  x1-kisomura-maff:
+    label: 農林水産省「6次産業化の取組事例 長野県木祖村」（明治7年に藪原村・小木曽村・菅村が合併し「木曽の祖として木祖村と命名」。藪原宿は旧中山道・木曽路11宿の1つ）
+    url: https://www.maff.go.jp/j/nousin/tikei/houkiti/attach/pdf/h2803_jirei-39.pdf
+  x1-kisomura-yakuba:
+    label: 木祖村役場総務課作成の移住資料（「木曽川の源流であることから『木曽の祖なり』という意味を込めてつけられた」。「曽」でなく「祖」の字を使う点への注意書き）
+    url: https://www.furusato-web.jp/wp/wp-content/uploads/2024/10/727808042e6062d86bf89d4f928f971e.pdf
+  x1-matsukawamachi-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」松川町記事（松川町公式サイトに基づく1956年の合併と町名の由来。江戸時代初期に大島・片桐へ宿場が新設された経緯）
+    url: https://donnatoko.jp/nagano-ken/nagano-matsukawa-guide/
+  x1-matsukawamachi-plan:
+    label: 松川町公式「第5次松川町総合計画［改訂版］」（町の現況：名称は「中央アルプスから流れる片桐松川より命名」。昭和31年9月20日に大島村と上伊那郡上片桐村が合併し発足、昭和34年に生田村と高森町の一部を編入。町章は「マ」「ツ」「川」と鳩の図案化）
+    url: https://www.town.matsukawa.lg.jp/material/files/group/11/20191220_zenkyou_no2.pdf
+  x1-matsukawamura-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」松川村記事（松川村公式ホームページ「松川村略年表」に基づく1874年の5村合併と1889年の発足。下伊那郡松川町とは別の自治体である旨の注意）
+    url: https://donnatoko.jp/nagano-ken/matsukawa-guide/
+  x1-matsukawamura-iju:
+    label: 松川村役場作成の移住募集資料（JOIN掲載。明治22年の町村制施行以来一度も合併等を経験していないと紹介）
+    url: https://www.iju-join.jp/material/recruit/9/64158/20241202102735238.pdf
+  x1-matsukawamura-wiki:
+    label: Wikipedia「松川村」（1874年10月22日に鼠穴村・細野村・神戸新田村・松川村・板取村が合併して松川村が発足、1889年4月1日の町村制施行で再発足。村章は「マ」と「川」の組み合わせ）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B7%9D%E6%9D%91
+  x1-neba-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」根羽村記事（根羽村役場「根羽村の歴史」に基づく：古代・中世は三河国に属し、1571年に武田領となって信濃国へ編入、1875年1月12日に根羽村と月瀬村が合併。武田信玄終焉の伝承地「横旗」の地名由来）
+    url: https://donnatoko.jp/nagano-ken/neba-guide/
+  x1-neba-sdgs:
+    label: 根羽村役場「2022年度SDGs未来都市」提案資料（内閣府掲載。矢作川源流の里として流域約180万人の水源を担う村づくり）
+    url: https://www.chisou.go.jp/tiiki/kankyo/teian/2022sdgs_pdf/presentation/19_P_nebamura.pdf
+  x1-otaki-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」王滝村記事（王滝村公式サイトに基づく村の概要。1984年の長野県西部地震で王滝川がせき止められて自然湖ができた経緯は林野庁資料）
+    url: https://donnatoko.jp/nagano-ken/nagano-otaki-guide/
+  x1-otaki-water:
+    label: 水資源機構愛知用水総合管理所の職員コラム（『王滝村誌』の紹介として：旧表記「大滝」は王滝川に由来し、後白河法皇の病気平癒の伝承により「皇」から「王」を取って「王滝」と改めた。読みは江戸初期「おのたけ」・中期以後「おんたけ」・明治7年以後「おおたき」と変遷。三岳村の命名が王滝の呼び名との混同回避に関わる経緯も紹介）
+    url: https://www.water.go.jp/chubu/aityosui/c(message)/01_02(staff)/013/01.html
+  x1-otaki-wiki:
+    label: Wikipedia「王滝村」（1889年4月1日の町村制施行で西筑摩郡王滝村が発足。木曽谷で唯一、江戸時代のままの区域で形成されている自治体）
+    url: https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%BB%9D%E6%9D%91
+  x1-sakae-wiki:
+    label: Wikipedia「栄村」（1956年9月30日に水内村と堺村が合併して栄村が発足。秋山郷は村域南部に広がる）
+    url: https://ja.wikipedia.org/wiki/%E6%A0%84%E6%9D%91
+  x1-sakae-yoran:
+    label: 栄村公式「2019 村勢要覧」（栄村の歴史：現在の栄村は昭和31年9月に下高井郡堺村と下水内郡水内村が合併して生まれた。1889年時点の村域は堺村・水内村の2村にまとまっていた変遷図）
+    url: http://www.vill.sakae.nagano.jp/fs/2/5/7/7/0/_/2019_____.pdf
+  x1-yahagi-wiki:
+    label: Wikipedia「矢作川」（矢作川の最上流部は「根羽川」とも呼ばれる）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E5%B7%9D
+  x1-yasuoka-donnatoko:
+    label: 地域紹介サイト「どんなとこ？」泰阜村記事（泰阜村の計画書等に基づく：中世の村域は南山郷・今田郷と呼ばれた。1875年に17村が合併して泰阜村が誕生）
+    url: https://donnatoko.jp/nagano-ken/yasuoka-guide/
+  x1-yasuoka-wiki:
+    label: Wikipedia「泰阜村」（村名は漢詩の「泰山丘阜」に由来する。1875年1月23日に17村が合併して泰阜村が発足、1889年の町村制施行後も区域は不変）
+    url: https://ja.wikipedia.org/wiki/%E6%B3%B0%E9%98%9C%E6%9D%91
+  x2-anan-kotobank:
+    label: 『精選版 日本国語大辞典』「阿南」項（コトバンク掲載。徳島県東部の地名として那賀川河口に位置する阿南を解説）
+    url: https://kotobank.jp/word/%E9%98%BF%E5%8D%97-426184
+  x2-anan-town-enkaku:
+    label: 阿南町公式「町の沿革」（大下条村・和合村・旦開村が昭和32年（1957年）7月に合併して阿南町が誕生し、昭和34年（1959年）4月に富草村と合併）
+    url: http://www.town.anan.nagano.jp/anan_town/enkaku
+  x2-anan-town-yurai:
+    label: 阿南町公式「町名の由来 なぜ『あなんちょう？』」（「阿南」は阿智川以南の地域名として明治中期から使われ、明治24年（1891年）の「阿南青年会」が使用の最初。「阿知川の南だから阿南」は当時の若い世代の考え方。1957年の合併時、町名は公募300通・95種から「阿南町」と「南信濃町」に絞って決定した。読みは長野県の町で唯一の「ちょう」）
+    url: http://www.town.anan.nagano.jp/anan_town/name-yurai
+  x2-chikuhoku-uub:
+    label: 市区町村変遷情報「筑北村」（uub.jp。2005年10月11日に本城村・坂北村・坂井村が新設合併して筑北村が誕生。麻績村の合併に関する住民アンケートが2001年12月〜2002年1月に行われた記録）
+    url: https://uub.jp/upd/c/307.html
+  x2-chikuhoku-vill-gappei:
+    label: 筑北村公式「合併の歴史」（旧本城村・旧坂北村・旧坂井村が平成17年（2005年）に合併し筑北村となったこと、各旧村の明治期の変遷。坂北村は明治8年に阪北村として成立し、「阪」から「坂」への変更理由は定かでないとする）
+    url: https://www.vill.chikuhoku.lg.jp/docs/375.html
+  x2-chikuhoku-wiki-gun:
+    label: Wikipedia「東筑摩郡」（東筑摩郡の平野部を筑南、山間部（生坂村・麻績村・筑北村）を筑北と呼んで区別する、とする説明）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%AD%91%E6%91%A9%E9%83%A1
+  x2-hakuba-jtb:
+    label: 全国観光資源台帳「白馬連山高山植物帯」（公益財団法人日本交通公社。白馬の名は苗代馬・代馬（しろうま）に由来し、語源的には「はくば」でなく「しろうま」であるとする解説）
+    url: https://tabi.jtb.or.jp/res/200120-
+  x2-hakuba-rinya:
+    label: 林野庁中部森林管理局 広報誌（令和2年10月・第199号。白馬の由来は春に山肌に現れる「代掻き馬」の雪形にあり、代馬（しろうま）と呼ばれたとする解説）
+    url: https://www.rinya.maff.go.jp/chubu/koho/gotouti/attach/pdf/130521-10-49.pdf
+  x2-hakuba-vill-ayumi:
+    label: 白馬村公式「白馬村の歩み（合併～平成）」（1956年9月30日に神城村と北城村が合併し白馬村となる）
+    url: https://www.vill.hakuba.lg.jp/gyosei/soshikikarasagasu/somuka/kikakuchoseigakari/17/1393.html
+  x2-hakuba-wiki:
+    label: Wikipedia「白馬村」（名称節：村名は白馬岳（しろうまだけ）に由来し、「代馬岳」から「白馬岳」に変化し音読の「はくば」が駅名・村名にもなったとする説明）
+    url: https://ja.wikipedia.org/wiki/%E7%99%BD%E9%A6%AC%E6%9D%91
+  x2-hakuba-yukigata:
+    label: 雪形研究ページ「白馬岳」（田淵行男『山の紋章「雪形」』等に基づく。白馬岳は古くは大蓮華岳といい、代掻き馬の雪形が出ることから代馬岳、それが白馬岳に変ったとする）
+    url: http://www.scn-net.ne.jp/~yukigata/siroumadake.html
+  x2-ikusaka-kotobank-taikei:
+    label: 『日本歴史地名大系』「下生坂村」項（コトバンク掲載。寛永19年（1642）に上生坂村・下生坂村・下生野村・小立野村と分かれて現れる）
+    url: https://kotobank.jp/word/%E4%B8%8B%E7%94%9F%E5%9D%82%E6%9D%91-3058986
+  x2-ikusaka-mapbinder:
+    label: MapBinder「生坂村」（生坂の由来は近世の通称で、イカ（厳）・サカ（坂）の転、「急傾斜地」のことと考えられる、とする解説を転載）
+    url: http://www.mapbinder.com/Map/Japan/Nagano/IkusakaMura/IkusakaMura.html
+  x2-ikusaka-vill-official:
+    label: 生坂村公式「生坂村の紹介」（沿革：1875年に小立野・下生野・上生坂・下生坂の4村が合併して生坂村が発足、1957年3月31日に陸郷村の一部・広津村の一部と合併。『延喜式』に日置神社が載ること、犀竜泉小太郎の伝説も紹介）
+    url: https://www.village.ikusaka.nagano.jp/syoukai
+  x2-minowa-kotobank-kokugo:
+    label: 『精選版 日本国語大辞典』「箕輪」項（コトバンク掲載。中部地方以東で砦を中心に発達した村をいい、突出した丘の周囲を取り囲んだ村落が箕の形に似ているところからいう）
+    url: https://kotobank.jp/word/%E7%AE%95%E8%BC%AA-392108
+  x2-minowa-town-kentei:
+    label: 箕輪町「箕輪ふるさと検定」解答・解説書（令和7年度。1955年1月1日に中箕輪町・箕輪村・東箕輪村が合併して箕輪町が誕生）
+    url: https://www.town.minowa.lg.jp/material/files/group/19/R7AnswerExplanationbook.pdf
+  x2-minowa-town-yoran:
+    label: 箕輪町「箕輪町町勢要覧2024」（変遷図に明治8年2月12日の中箕輪村・東箕輪村の成立を示す。町民憲章は箕輪町を「歴史の古い蕗原の里」と表現）
+    url: https://www.town.minowa.lg.jp/material/files/group/2/2024-01.pdf
+  x2-nagato-wiki:
+    label: Wikipedia「長門町」（1956年9月30日に長久保新町・長窪古町・大門村が合併して長門町が発足。長窪古町と長久保新町の「長」と大門村の「門」より命名）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E9%96%80%E7%94%BA
+  x2-nagawa-gikai-yoran:
+    label: 長和町議会「議会要覧」（令和7年6月。町内に中山道の長久保宿・和田宿の2つの宿場跡があり、和田宿本陣等が国の史跡に指定されている）
+    url: https://www.town.nagawa.nagano.jp/material/files/group/11/reiwa7nenndonagawamatigikaiyouran.pdf
+  x2-nagawa-town-gaikyo:
+    label: 長和町「長和町の概況」（平成23年10月版。合併の経過：平成16年3月28日に任意合併協議会を設立、同年9月に法定合併協議会へ移行、平成17年3月1日に両町村議会で合併が議決され、同年10月1日に長和町が誕生）
+    url: https://www.town.nagawa.nagano.jp/material/files/group/3/kessangaiyou_h22.pdf
+  x2-nagawa-wiki:
+    label: Wikipedia「長和町」（2005年10月1日に長門町・和田村が合併して発足。町名は両町村の頭文字より命名）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E5%92%8C%E7%94%BA
+  x2-nozawa-gumi-history:
+    label: 地縁団体 野沢組「野沢温泉の温泉に関する歴史」（年表：神亀2年（724年）に温泉発見と伝える。文永年間に湯山村の記録、応永年間に湯山村から野沢村へ変わったと思われること、弘治3年（1557年）の上杉景虎願文・武田晴信書状に「野沢の湯」の記録があること）
+    url: https://www.nozawagumi.net/index.php/227
+  x2-nozawa-uub-toyogo:
+    label: 市区町村変遷情報「豊郷村」（uub.jp。1889年に豊郷村と坪山村から豊郷村が成立し、1953年8月18日の改称により野沢温泉村になった）
+    url: https://uub.jp/upd/c/20587.html
+  x2-nozawa-vill-gaiyo:
+    label: 野沢温泉村公式「野沢温泉村概要」（沿革：野沢温泉村が「湯山村」として歴史に現れてくるのは鎌倉時代中期の文永9年（1272年）が最初である）
+    url: https://www.vill.nozawaonsen.nagano.jp/www/contents/1050000000299/index.html
+  x2-nozawa-wiki-ichikawa:
+    label: Wikipedia「市川村 (長野県)」（1956年9月30日に野沢温泉村と市川村が新設合併し、改めて野沢温泉村が発足した）
+    url: https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%9D%91_(%E9%95%B7%E9%87%8E%E7%9C%8C)
+  x2-tateshina-kotobank-taikei:
+    label: 『日本歴史地名大系』「立科町」項（コトバンク掲載。古町地区に蓼科神社の里宮や中世芦田氏の城館跡がある）
+    url: http://kotobank.jp/word/%E7%AB%8B%E7%A7%91%E7%94%BA-93702
+  x2-tateshina-nii-geoshape:
+    label: 歴史的行政区域データセットβ版「長野県北佐久郡立科村」（国立情報学研究所。有効期間1955-04-01〜1958-10-01、以後は立科町）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/20B0170031.html
+  x2-tateshina-town-gaiyo:
+    label: 立科町公式「立科町の概要」（名称の由来：芦田村・横鳥村・三都和村が合併して立科村が誕生。新村名は「蓼科村」で準備が進められていたが、「蓼」が当用漢字になく、蓼科山は古くは立科山と表記されていたことから「立科村」に決定した）
+    url: https://www.town.tateshina.nagano.jp/soshiki/somu/shomu/300.html
+  x2-tatsuno-ndl-ref:
+    label: レファレンス協同データベース・県立長野図書館事例「辰野町発祥とされる名字『辰野』に関する文献・史料はあるか」（伊藤富雄「庄園辰野・平出・宮所の研究」『伊那路』1960年等を紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000319961&page=ref_view
+  x2-tatsuno-town-center:
+    label: 辰野町公式「日本中心の標・日本中心の展望台」（鶴ヶ峰に東経137度59分36秒・北緯36度00分47秒の「日本中心の標」があり、昭和45年（1970年）に設置された）
+    url: https://www.town.tatsuno.lg.jp/gyosei/soshiki/sangyoshinkoka/kankosite/4/7/1222.html
+  x2-tatsuno-town-iware:
+    label: 辰野町公式「『たつの』のいわれ」（地名の由来ははっきりわかっていないと明記したうえで、竜が住む湖の伝承（辰野町資料第22号）と、松沢義章『洲羽国考』の「天ノ竜ノ海」の記述を紹介）
+    url: https://www.town.tatsuno.lg.jp/gyosei/soshiki/machizukuriseisakuka/choseijoho/7/629.html
+  x2-tatsuno-town-yoran:
+    label: 辰野町「町勢要覧」（平成27年度版。古代に朝廷直轄の御牧が平出・宮所・辰野・小野に設けられたこと、昭和22年の町制施行で伊那富村が辰野町となり、昭和30年に朝日村・31年に川島村・36年に小野村を合併したこと）
+    url: https://www.town.tatsuno.lg.jp/material/files/group/3/h27-youran.pdf
+  x2-toyooka-kotobank-taikei:
+    label: 『日本歴史地名大系』「豊丘村」項（コトバンク掲載。天竜川左岸に南北に発達した数段の河岸段丘をもつ農村）
+    url: https://kotobank.jp/word/%E8%B1%8A%E4%B8%98%E6%9D%91-106006
+  x2-toyooka-wiki-kumashiro:
+    label: Wikipedia「神稲村」（1955年4月1日に神稲村・河野村が新設合併して豊丘村となった。神稲村の読みは「くましろむら」）
+    url: https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%A8%B2%E6%9D%91
+  x2-toyooka-yoran1955:
+    label: 豊丘村『村勢要覧』（1955年発行。合併発足直後の村公式要覧。「豊丘の村名も此の自然の景観に負う所が少くない」と記す）
+    url: https://www.vill.nagano-toyooka.lg.jp/19gyousei/12sonzeiyoran/files/yoran1955.pdf
+  x3-achi-no-omi-wiki:
+    label: Wikipedia「阿知使主」（『日本書紀』応神天皇20年条に東漢氏の祖・阿知使主が子の都加使主と党類17県を率いて来帰したとあること、『古事記』では阿知吉師と記されること、実在性には学者の異論もあること）
+    url: http://ja.wikipedia.org/wiki/%E9%98%BF%E7%9F%A5%E4%BD%BF%E4%B8%BB
+  x3-achi-vill-gaiyo:
+    label: 阿智村公式「阿智村の概要」（村の沿革と村名の由来。『先代旧事本紀』に一帯を「阿智」と呼ぶ記述があり、『延喜式』に東山道の阿智駅が見えること、その「阿智」を1956年の三村合併後の新村名としたことを説明）
+    url: https://www.vill.achi.lg.jp/soshiki/2/2009-06-post-51.html
+  x3-achi-vill-plan:
+    label: 阿智村「第2章 阿智村の概要」（村の総合計画系資料。1956年9月に会地村・伍和村・智里村が合併して旧阿智村が発足し、2006年に浪合村、2009年に清内路村と合併した経緯、古代に東山道の阿智駅が置かれたこと）
+    url: https://www.vill.achi.lg.jp/uploaded/life/6711_15584_misc.pdf
+  x3-aoki-kotobank-taikei:
+    label: 『日本歴史地名大系』「青木」項（コトバンク掲載。青木村大字田沢の青木を「青木村の語源となった集落」とし、『諏訪御符礼之古書』の寛正6年（1465年）五月会の件に「青木」の名が見えることを紹介）
+    url: http://kotobank.jp/word/%E9%9D%92%E6%9C%A8-422214
+  x3-aoki-wiki:
+    label: Wikipedia「青木村」（1889年に6村が合併して発足したこと、村名は東山道の道しるべだったネズの名木に由来する小字「青木」と1886年発足の青木学校の名から選ばれたとする『青木村誌』に基づく説明、1957年に浦里村の一部と合併したこと）
+    url: https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9C%A8%E6%9D%91
+  x3-hirugami-tsukuba:
+    label: 筑波大学「地域研究年報」35号（2013年）「長野県阿智村昼神温泉の地域活性化戦略とその課題」（享保・元文年間の『信州伊奈郡村鑑』に温泉湧出の記録があること、その後は阿智川の大水で湧出口が埋没したこと、1973年1月に中津川線建設のボーリング中に昼神湯ノ瀬地区で温水が湧出したことを学術論文として整理）
+    url: http://www.geoenv.tsukuba.ac.jp/~chicho/nenpo/35/12.pdf
+  x3-hirugami-wiki:
+    label: Wikipedia「昼神温泉」（1973年に国鉄中津川線のトンネル工事のボーリングで湧出したこと、江戸時代の記録に温泉湧出の記述があること、昼神は延喜式内社・阿智神社の鎮座地で思兼命の氏族が入植した地域と伝えること）
+    url: http://ja.wikipedia.org/wiki/%E6%98%BC%E7%A5%9E%E6%B8%A9%E6%B3%89
+  x3-iijima-town-history:
+    label: 飯島町公式「町の歴史と歩み」（飯島陣屋は延宝5年（1677年）に設置されたとされ、明治維新後は伊那県庁として使われたこと、沿革として鎌倉時代に飯島氏の支配のもと飯島郷の開発が進んだこと、1875年に4か村が合併して飯島村となったこと、1889年に3か村が合併して飯島村となったこと）
+    url: http://www.town.iijima.lg.jp/Introduction?content=233
+  x3-iijima-town-report:
+    label: 飯島町「行政報告書」沿革（1954年1月1日に飯島村が町制を施行して飯島町となったこと、1956年9月30日に七久保村と合併して新・飯島町となったこと）
+    url: https://www.town.iijima.lg.jp/material/files/group/2/22732242.pdf
+  x3-iizuna-town-tokei:
+    label: 飯綱町「統計資料（令和4年度）」（町名の由来：2004年9月の公募で700件を超す応募があり、同年11月の住民アンケートで「飯綱町」が約51パーセントの支持を得て合併協議会で決定したこと。合併以前から飯綱中学校など両村共通の施設に「飯綱」の名が使われていたこと。山の名は「飯縄山」と書くこと）
+    url: https://www.town.iizuna.nagano.jp/fs/7/3/2/0/1/_/r4tokeishiryo.pdf
+  x3-omi-kotobank-dictionary:
+    label: 『精選版 日本国語大辞典』「麻績（をみ）」項（コトバンク掲載。「麻績」は「おうみ（苧績）」の音変化で、麻を細く裂いてより合わせて糸にすることをいい、それを業とする氏族をも指すこと。『万葉集』巻16に用例があること）
+    url: https://kotobank.jp/word/%E9%BA%BB%E7%B8%BE-454424
+  x3-omi-kotobank-taikei-go:
+    label: 『日本歴史地名大系』「麻績郷」項（コトバンク掲載。『和名抄』高山寺本は「麻続」、流布本は「麻績」と記し、ともに「乎美（をみ）」と訓じること、この名は品部を擁していた麻績氏が定着した土地と考えられること、郷の範囲は現在の筑北盆地の四か村一帯と推定されること）
+    url: https://kotobank.jp/word/%E9%BA%BB%E7%B8%BE%E9%83%B7-3057997
+  x3-omi-kotobank-taikei-mura:
+    label: 『日本歴史地名大系』「麻績村」項（コトバンク掲載。江戸時代は麻績宿を中心に栄え、麻績組のうち麻績町・矢倉・市野川・下井堀・野口の五か村が明治8年（1875年）1月に合併して麻績村をつくり、昭和31年（1956年）に日向村と合併したこと）
+    url: https://kotobank.jp/word/%E9%BA%BB%E7%B8%BE%E6%9D%91-41234
+  x3-omi-vill-aramashi:
+    label: 麻績村公式「おみ村のあらまし」（平安時代に伊勢神宮の麻績御厨が設けられたこと、江戸時代は北国脇往還の麻績宿が置かれたこと、明治8年に麻績ほか四か村が合併して麻績村となり、昭和31年に日向村と合併したこと）
+    url: https://www.vill.omi.nagano.jp/omimura/gaiyo/somu795.html
