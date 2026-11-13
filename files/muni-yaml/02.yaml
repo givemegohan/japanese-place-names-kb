@@ -756,24 +756,24 @@ records:
     document: ''
     note: 古くは「今淵」と表記されたとされるが、その初出文献は未確認。大同2年（807）に「今淵」の郷名が現れるとする伝承的な記述もあるが、裏付けは確認できていない
   claims:
-  - text: 現在の今別町大字今別は、古くは「今淵（いまぶち）」と呼称されていたとされる
+  - text: 現在の今別町大字今別は、古くは「今淵（いまぶち）」と呼称され、「今淵」が訛って「今別」になったと『角川日本地名大辞典』は伝える（同書は戦国期の地名として「今淵」を別項に立てる）
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - z4-imabetsu-wiki-oaza
-  - text: 源義経一行が北上する途中、当地の川が大雨で増水して浅瀬が淵になっているのを見て驚き、この地を「今淵」と命名したという伝承があり、「今淵」が訛って「今別」になったとされる
+    - upg-parent-imabetsu-kadokawa
+  - text: 源義経一行が北上する途中、大雨の後の川が大幅に増水し、昨日の浅瀬が今日の淵になったことに驚いて、この地を「今淵」と命名したという伝承があり、「今淵」が訛って「今別」になったとされる
     kind: legend
-    level: E5
+    level: E3
     status: indeterminate
     sources:
-    - z4-imabetsu-wiki-oaza
-  - text: 戦後になって、アイヌ語のイ・マ・ペッ（それ・焼く・川）が「今別」の由来であるとの異説も提唱されている
+    - upg-parent-imabetsu-kadokawa
+  - text: 「別（べつ）」はアイヌ語のペッ（川）に通じることから、「今別」はアイヌ語系の地名と思われると『角川日本地名大辞典』は『アイヌ語地名の研究』を引いて述べる
     kind: fact
-    level: E5
+    level: E3
     status: contested
     sources:
-    - z4-imabetsu-wiki-oaza
+    - upg-parent-imabetsu-kadokawa
   - text: 明治22年（1889）、今別村・浜名村・大川平村・鍋田村が合併して改めて今別村となり、これが現在の今別町大字今別にあたる
     kind: fact
     level: E2
@@ -807,10 +807,10 @@ records:
   - pref/02
   - muni/02-外ヶ浜町
   unknowns:
-  - 「今淵」表記の初出文献と年代
-  - 義経命名伝承とアイヌ語説について、『角川日本地名大辞典』等の専門辞典の原文での扱い（二次情報経由の確認にとどまる）
+  - 「今淵」表記の初出文献と年代（『角川日本地名大辞典』は戦国期の地名として立項するが、出典文献までは示さない）
+  - 戦後に提唱されたという「イ・マ・ペッ（それ・焼く・川）」説の具体的な典拠（『角川日本地名大辞典』本文ではペッ（川）に通じると述べるにとどまる）
   - 大同2年（807）の「今淵臯内之郷」とする記述の典拠
-  updated: '2026-11-13'
+  updated: '2026-11-14'
 - id: muni/02-佐井村
   code: '024261'
   names:
@@ -3328,6 +3328,9 @@ sources:
   upg-ae2-fukaura-geoshape:
     label: 国立情報学研究所「歴史的行政区域データセットβ版」深浦町（深浦町の有効期間は1926年4月1日から、近隣の深浦村の有効期間は1889年4月1日から1926年4月1日までであることを示す）
     url: https://geoshape.ex.nii.ac.jp/city/resource/02323A1968.html
+  upg-parent-imabetsu-kadokawa:
+    label: 『角川日本地名大辞典』第2巻 青森県「今別」（地名は義経伝説に由来するとされ、義経一行が大雨で増水した川を見て「今淵」と命名し、のち訛って今別になったという。また「別」はアイヌ語のペッ（川）に通じることからアイヌ語系地名と思われると『アイヌ語地名の研究』を引いて述べる。戦国期の地名として「今淵」を別項に立てる）
+    url: https://jlogos.com/ausp/word.html?id=7010021
   upg-parent-yokohama-geoshape:
     label: 歴史的行政区域データセットβ版（CODH）「青森県上北郡横浜町」「横浜村」（横浜町の有効期間は1958-04-01〜、横浜村の有効期間は1889-04-01〜1958-04-01で、町制施行が1958年4月1日であることを示す）
     url: https://geoshape.ex.nii.ac.jp/city/resource/02406A1968.html
@@ -3475,9 +3478,6 @@ sources:
   z4-imabetsu-town-plan:
     label: 今別町「第5次今別町総合計画」（町公式。昭和30年に今別村と一本木村が合併して今別町になったこと、奥津軽いまべつ駅開業）
     url: https://www.town.imabetsu.lg.jp/gyousei/shisaku/files/2016_sougou.pdf
-  z4-imabetsu-wiki-oaza:
-    label: Wikipedia「今別（今別町）」・「今別町」（古くは今淵と呼称されたこと、義経の今淵命名伝承、アイヌ語イ・マ・ペッ説。『角川日本地名大辞典』を典拠として挙げるが原文は未確認のためE5扱い）
-    url: https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%88%A5_%28%E4%BB%8A%E5%88%A5%E7%94%BA%29
   z4-ooma-townshi:
     label: 大間町『大間町史』第2章（町公式サイト掲載PDF。大奥村の誕生、町制施行に伴う「大間」への改称、大間・奥戸の地名の由来考）
     url: https://www.town.ooma.lg.jp/introduction/files/r4_02_2_.pdf

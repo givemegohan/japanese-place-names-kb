@@ -1054,11 +1054,12 @@ records:
     status: established
     sources:
     - z10-kosaka-town-handbook
-  - text: 「小坂」は英語圏向けの秋田県の地域紹介で「Small Hill（小さな丘）」と訳されているが、この語源解釈を裏づける専門資料は確認できていない
+  - text: 地名「小坂」の語源について、『角川日本地名大辞典』は「地形に由来する」と述べるにとどまり、具体的な地形要素は示していない。英語圏向けの秋田県の地域紹介では「Small Hill（小さな丘）」と訳されているが、この解釈に対応する専門資料の裏づけは得られていない
     kind: fact
-    level: E5
+    level: E3
     status: indeterminate
     sources:
+    - upg-ah1-kosaka-kadokawa-jlogos
     - z10-kosaka-akitajet
   column:
     title: 村の中に「鉱山」という自治体があった町
@@ -1071,10 +1072,10 @@ records:
   - muni/05-鹿角市
   - muni/05-大館市
   unknowns:
-  - 「小坂」の語源は、『角川日本地名大辞典』等の専門辞典で直接確認できておらず、「小さな坂・丘」説の典拠は弱い
+  - 「小坂」の具体的な語源は、『角川日本地名大辞典』を直接確認しても「地形に由来する」と述べるにとどまっており、「小さな坂・丘」説の典拠は確認できていない
   - 『和名類聚抄』など古代・中世の文献に鹿角地方の「小坂」の地名が見えるかどうかは確認できなかった
   - 町制施行日は町公式サイトが大正3年（1914年）5月15日とする一方、歴史的行政区域データセットと秋田県の市町村合併沿革図は5月12日としており、資料間で食い違う
-  updated: '2026-11-13'
+  updated: '2026-11-14'
 - id: muni/05-東成瀬村
   code: '054640'
   names:
@@ -2192,6 +2193,9 @@ sources:
   upg-ag6-ogata-env-proposal:
     label: 環境省「脱炭素先行地域」大潟村提案書（大潟村生活環境課作成、2022年2月18日提出・2025年1月22日改定。「大潟村は、干拓でできた日本で最も新しい村である」と記す）
     url: https://policies.env.go.jp/policy/roadmap/assets/preceding-region/1st-teiansyo-06.pdf
+  upg-ah1-kosaka-kadokawa-jlogos:
+    label: 『角川日本地名大辞典』第5巻 秋田県「小坂」（JLogos掲載。小坂川中流域一帯に位置し、中世は鹿角の土豪・秋元氏一族の小坂筑後の領地で館があったこと、地名については「地形に由来する」と述べるにとどまり、具体的な語源は示していないこと）
+    url: https://jlogos.com/ausp/word.html?id=7020966
   upg-z1-akita-enkaku:
     label: 秋田県「市町村合併沿革図」（秋田県公式サイト掲載、平成21年・2009年4月1日現在。明治22年・1889年4月1日の市制・町村制施行以降の各市町村の合併・町制等の変遷を図示し、下小阿仁村を含む合川町が昭和30年・1955年3月31日に、小坂町が昭和30年4月1日に、八郎潟町が昭和31年・1956年9月30日に成立したことなどを示す）
     url: https://www.pref.akita.lg.jp/uploads/public/archive_0000004319_00/enkaku.pdf

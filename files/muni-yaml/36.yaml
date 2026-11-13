@@ -1005,6 +1005,12 @@ records:
     status: established
     sources:
     - upg-s1-itano-gun-taikei
+  - text: 郡名「板野」の語源には定説がなく、『角川日本地名大辞典』は、多く板を産したためとする説（『粟の落穂』）、上板町神宅に鎮座する吾田鹿葦津姫の神名「葦田埜（いたの）」に由来するという説（『阿府志』）、潮野すなわち潮の満ち来る低湿地の意とする説（『県史』）の3説を挙げる
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - upg-parent-itano-kadokawa
   - text: 律令制の時代には当地に板野郡衙が置かれたとされ、古くから交通の要衝であった
     kind: fact
     level: E5
@@ -1027,9 +1033,8 @@ records:
   - pref/36
   - muni/36-上板町
   unknowns:
-  - 郡名「板野」自体の語源は、角川日本地名大辞典・日本歴史地名大系等の専門資料での確認が未了
   - 1955年の合併で郡名を新町名に採用した協議の経緯は未確認
-  updated: '2026-11-13'
+  updated: '2026-11-14'
 - id: muni/36-海陽町
   code: '363880'
   names:
@@ -2113,6 +2118,9 @@ sources:
   upg-af8-tokushima-shihyo:
     label: 徳島県企画総務部統計課『市町村別指標2022』（県内24市町村の総面積・人口密度などを順位付きで示す県公式統計。総面積は国土地理院「全国都道府県市区町村別面積調」、人口は県人口移動調査等に基づく。北島町の総面積8.74km2は県内最小で、人口密度2,609.0人/km2は県内1位）
     url: https://www.pref.tokushima.lg.jp/file/attachment/1078500.pdf
+  upg-parent-itano-kadokawa:
+    label: 『角川日本地名大辞典』第36巻 徳島県「板野郡」（郡名の語源として、多く板を産したためとする説（粟の落穂）、上板町神宅に鎮座する吾田鹿葦津姫の神名「葦田埜」に由来するという説（阿府志）、潮野すなわち潮の満ち来る低湿地の意とする説（県史1）の3説を挙げる）
+    url: https://jlogos.com/ausp/word.html?id=7195177
   upg-s1-ai-heritage:
     label: 文化庁「日本遺産」ポータル『藍のふるさと阿波』認定申請書（ストーリーの対象地域は徳島市・吉野川市・阿波市・美馬市・石井町・北島町・藍住町・板野町・上板町の9市町で、吉野川流域が藍染料の日本一の産地であること、構成文化財「阿波藍製造」（国選定保存技術）の所在地に上板町が含まれることを記す）
     url: https://www.japan-heritage.bunka.go.jp/ja/datas/files/2022/09/08/0b8ea0d8704e9bd4217546b6d12fd35863bebe4b.pdf

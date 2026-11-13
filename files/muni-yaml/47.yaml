@@ -1342,12 +1342,12 @@ records:
     status: established
     sources:
     - s9-nishihara-fukki50
-  - text: 語源については、沖縄語で南の方角・南風を「フェー（ハエ）」、原っぱ・原野を「バル」と呼ぶ語構成から、「首里の南にひらけた土地」を意味すると説明されるが、専門辞典による直接の確認は取れなかった
+  - text: 語源について『角川日本地名大辞典』は、首里城の南すなわちフェー（南）に当たる地の意とし、方言ではフェーバル・ヘーバルなどというと記す
     kind: fact
-    level: E5
+    level: E3
     status: indeterminate
     sources:
-    - s9-haebaru-note
+    - upg-parent-haebaru-kadokawa
   - text: 南風原町は沖縄県内で唯一、海に面していない町である。面積は10.76平方キロメートルで、県内41市町村の中で4番目に小さい
     kind: fact
     level: E2
@@ -1385,8 +1385,8 @@ records:
   - muni/47-八重瀬町
   unknowns:
   - 「南風原」という名の文献上の初出（間切名としての初出文献と年代）
-  - フェー（南）＋バル（原）という語構成の語源説について、角川日本地名大辞典や日本歴史地名大系での記載の直接確認
-  updated: '2026-11-13'
+  - 「バル（原）」の要素まで含めた語構成の説明は、『角川日本地名大辞典』では確認できなかった（同書はフェー（南）の部分のみを説明する）。日本歴史地名大系での記載も未確認
+  updated: '2026-11-14'
 - id: muni/47-名護市
   code: '472093'
   names:
@@ -3957,9 +3957,6 @@ sources:
   s9-haebaru-gaiyo:
     label: 南風原町公式「南風原町の概要」（海に面していない唯一の町、1908年の南風原村の形成、1980年の町制移行）
     url: https://www.town.haebaru.lg.jp/soshiki/5/2133.html
-  s9-haebaru-note:
-    label: ラジオ番組の後書き「南風原（はえばる）とは？」（南風原＝南＋原という語構成の個人的な言語学的読み解き）
-    url: https://note.com/mint_mint_mint/n/n38f9c1f3db97
   s9-kitanakagusuku-fudo:
     label: 北中城村「第1章 北中城村の歴史的風致形成の背景」（村の公式資料。旧中城村の範囲と1946年の分村の経緯）
     url: https://www.vill.kitanakagusuku.lg.jp/material/files/group/39/1.pdf
@@ -4002,6 +3999,9 @@ sources:
   upg-ag7-kume-sophia:
     label: 『上智経済論集』掲載の論文「久米島の持続可能な社会構築に向けた将来戦略試案」（球美とは琉球方言で米を指し、久米島の人々は古くから米作りをしていたと考えられている、と述べる）
     url: https://fe.sophia.ac.jp/wp/wp-content/uploads/2024/02/63-3.pdf
+  upg-parent-haebaru-kadokawa:
+    label: 『角川日本地名大辞典』第47巻 沖縄県「南風原」（島尻郡。方言ではフェーバル・ヘーバルなどといい、地名は首里城の南すなわちフェー（南）に当たる地の意とする。古くは首里三平等を構成する間切であったらしい）
+    url: https://jlogos.com/ausp/word.html?id=7241423
   upg-parent-nanjo-okinawa-gappei:
     label: 沖縄県「市町村合併過去の動き」（県公式の合併経過記録。2004年10月26日に佐敷町・知念村・玉城村・与那原町合併協議会の第20回で新市名「東方市（あがりかたし）」が確認されたこと、新市の事務所の位置をめぐる対立で与那原町が離脱し同年12月28日に同協議会が廃止されたこと、大里村を加えた新たな協議会が2005年2月に市名の公募を行い、同年3月22日の第2回法定協議会で新市名「南城市」が確認されたことを直接確認）
     url: https://www.pref.okinawa.jp/site/kikaku/shichoson/7685.html
