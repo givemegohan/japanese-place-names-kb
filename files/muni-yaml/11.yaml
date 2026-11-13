@@ -210,16 +210,15 @@ records:
     status: established
     sources:
     - w1-fujimino-wiki
-  - text: 新市名の決定に際し、隣接する富士見市は、駅の所在地でありながら駅名と紛らわしいことなどを理由に「ふじみ野市」の名称を使わないよう求める動きを見せたが、名称は変更されなかった
+  - text: 新市名の決定に際し、隣接する富士見市は2005年1月13日に「ふじみ野市」の名称に難色を示し、2市町に新市名の再考を要望したが、名称は変更されなかった
     kind: fact
-    level: E5
+    level: E4
     status: contested
     sources:
-    - w1-fujimino-wiki
     - w1-fujimino-uub
   - text: 旧上福岡市は、昭和47年（1972年）4月10日に福岡町が市制を施行した際、福岡県福岡市との同名を避けるため「上」を冠して上福岡市と改称したものである
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
     - w1-fujimino-uub
@@ -360,10 +359,10 @@ records:
     - w1-misato-city-museum
   - text: 村名「三郷」は、合併した三つの村の「三」と、この地域が昔から呼ばれていた「二郷半領」の「郷」の字を合わせて名づけられたとされる
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w1-misato-wiki
+    - upg-ae1-misato-mlit
   - text: 江戸時代、三郷市域の51か村は武蔵国葛飾郡に属し、現在の吉川市域南部の村々とともに「二郷半領」という地域単位を構成していた
     kind: fact
     level: E2
@@ -404,7 +403,7 @@ records:
   - pref/11
   - muni/20-安曇野市
   unknowns:
-  - 「三郷」の命名理由を記した1956年当時の合併協議資料そのものは未確認で、由来の説明は二次的な紹介による
+  - 「三郷」の命名理由を記した1956年当時の合併協議資料そのものは未確認（命名の説明は国土交通省関東地方整備局の広報資料で確認）
   - 二郷半領の呼称の初出と、定勝寺梵鐘碑文の原文確認は未実施
   updated: '2026-11-13'
 - id: muni/11-上尾市
@@ -445,12 +444,18 @@ records:
     sources:
     - w1-ageo-kotobank
     - w1-ageo-city
-  - text: 明治22年（1889年）に上尾宿・上尾村・上尾下村・柏座村・春日谷津村・谷津村が合併して北足立郡上尾町となった
+  - text: 明治22年（1889年）4月1日に上尾宿・上尾村・上尾下村・柏座村・春日谷津村・谷津村が合併して北足立郡上尾町となった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - w1-ageo-wiki
+    - upg-ag1-ageo-uub
+  - text: 上尾市教育委員会の資料は、江戸時代末期の市域は40余りの宿村に分かれていたが、明治22年（1889年）と大正2年（1913年）の合併により、上尾町・平方村・原市町・大石村・上平村・大谷村の6か町村になったと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-ae1-ageo-shogai
   - text: 昭和30年（1955年）1月1日に上尾町・平方町・原市町・大石村・上平村・大谷村の3町3村が合併して上尾町となり、昭和33年（1958年）7月15日に県下19番目の市制を施行して上尾市が誕生した
     kind: fact
     level: E2
@@ -3143,10 +3148,11 @@ records:
     - w2-okegawa-kids
   - text: 江戸時代、桶川周辺で栽培されていた紅花は「桶川臙脂」としてその名を知られ、最上地方に次いで2番目の収穫高を誇り、宿場の発展に重要な役割を果たした
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w2-okegawa-wiki
+    - upg-ag5-okegawa-saitama-nenrin
+    - upg-ag5-okegawa-museum-benibana
   - text: 明治22年（1889年）の町村制施行に伴い桶川町が成立し、昭和30年（1955年）に加納村・川田谷村と合併、昭和45年（1970年）11月3日に市制を施行して桶川市となった
     kind: fact
     level: E2
@@ -3216,10 +3222,11 @@ records:
     - w10-yokoze-gogen
   - text: 明治22年（1889年）に横瀬村が成立し、昭和30年（1955年）2月11日に芦ヶ久保村と合併して改めて横瀬村となり、昭和59年（1984年）10月1日に町制を施行して横瀬町となった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - w10-yokoze-wiki
+    - upg-ae5-yokoze-uub-saitama
+    - upg-ae5-yokoze-geoshape
   - text: 地方公共団体コードは113611である
     kind: fact
     level: E2
@@ -4277,12 +4284,12 @@ records:
     status: established
     sources:
     - w3-hasuda-city-plan
-  - text: 2011年（平成23年）1月4日に、条例改正により市名の「蓮」の字の表記が、しんにょうの点が2つの「蓮」から点が1つの「蓮」に変更された
+  - text: 2011年（平成23年）1月4日に、市名の「蓮」の字の表記が、しんにょうの点が2つの「蓮」から点が1つの「蓮」に変更された
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w3-hasuda-wiki
+    - upg-ag5-hasuda-kamisato-gikai
   - text: 総務省の全国地方公共団体コードで、蓮田市の団体コードは112381と定められている
     kind: fact
     level: E2
@@ -4445,12 +4452,12 @@ records:
     status: established
     sources:
     - upg-p3-gyoda-concept
-  - text: 平成13年（2001年）にさいたま市が誕生する際、新市名の候補となっていた「埼玉市」について、行田市は「埼玉」という地名の発祥の地が市内の旧埼玉村であることを理由として難色を示したと伝えられる
+  - text: 平成13年（2001年）にさいたま市が誕生する際、新市名の公募で1位となった「埼玉市」などについて、行田市商工会議所が要望を出し、行田市と同市議会も「さいたま市」への反対の要望を出したと、当時の新聞報道や記録をもとに埼玉県立久喜図書館のレファレンスが紹介している
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - m4-gyoda-wiki
+    - upg-af5-gyoda-crd
   - text: 総務省の全国地方公共団体コードで、行田市のコードは112062と定められている（J-LISの埼玉県内市町村一覧による）
     kind: fact
     level: E2
@@ -4459,10 +4466,10 @@ records:
     - k1-jlis-saitama
   column:
     title: 県名の原点は、県庁のある市にはない
-    text: 埼玉県の名は埼玉郡から採られたが、その原点は現在のさいたま市ではなく、行田市の大字「埼玉（さきたま）」である。古代の読みは「さきたま」で、前玉神社と埼玉古墳群が残る。1954年に埼玉村が行田市へ編入され、原点は行田の一部になった。そして2001年、合併で生まれる新市の名が「埼玉市」になりかけたとき、行田市は発祥の地として待ったをかけたと伝えられる。県名の本家は、今も行田にある。
+    text: 埼玉県の名は埼玉郡から採られたが、その原点は現在のさいたま市ではなく、行田市の大字「埼玉（さきたま）」である。古代の読みは「さきたま」で、前玉神社と埼玉古墳群が残る。1954年に埼玉村が行田市へ編入され、原点は行田の一部になった。そして2001年、合併で生まれる新市の名が「埼玉市」になりかけたとき、行田市商工会議所や行田市・市議会は反対の要望を出したと伝えられる。県名の本家は、今も行田にある。
     sources:
     - b-saitama-hasshohi
-    - m4-gyoda-wiki
+    - upg-af5-gyoda-crd
   relations:
   - pref/11
   - muni/11-さいたま市
@@ -5148,9 +5155,6 @@ sources:
   m4-chichibu-wiki:
     label: Wikipedia「秩父市」
     url: https://ja.wikipedia.org/wiki/秩父市
-  m4-gyoda-wiki:
-    label: Wikipedia「行田市」
-    url: https://ja.wikipedia.org/wiki/行田市
   m4-hanno-chimei:
     label: 郷土研究「飯能市原市場の地名について 第五回」（『入間郡誌』『飯能郷土史』『埼玉県地名誌』を引く）
     url: https://sc767eabdc59d5420.jimcontent.com/download/version/1608434289/module/12472854192/name/%E9%A3%AF%E8%83%BD%E5%B8%82%E5%8E%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E5%9C%B0%E5%90%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%AC%AC%E4%BA%94%E5%9B%9E.pdf
@@ -5193,6 +5197,33 @@ sources:
   upg-a-kamikawa-history:
     label: 神川町公式「町の歴史」（昭和29年に丹荘村と青柳村が合併して神川村が誕生したことを明記）
     url: https://www.town.kamikawa.saitama.jp/soshiki/shogaigakushu/shokai/gaiyou/582.html
+  upg-ae1-ageo-shogai:
+    label: 上尾市教育委員会「第5次上尾市生涯学習振興基本計画」（令和3年3月。上尾市の概況の沿革として、江戸時代末期の市域は40余りの宿村に分かれていたが、明治22年と大正2年の合併により上尾町・平方村・原市町・大石村・上平村・大谷村の6か町村になったと記す）
+    url: http://ageowww.city.ageo.lg.jp/uploaded/attachment/69717.pdf
+  upg-ae1-misato-mlit:
+    label: 国土交通省関東地方整備局江戸川河川事務所「三郷出張所だより」第46号（2018年1月。「三郷市」の沿革についてとして、1956年9月30日に東和村・彦成村・早稲田村の3村が合併して三郷村が誕生したこと、「三郷」の名は合併した三つの村の「三」と、古く二郷半領と呼ばれた地域名の「郷」の字を合わせたものであることを記す）
+    url: https://www.ktr.mlit.go.jp/ktr_content/content/000693360.pdf
+  upg-ae5-yokoze-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」横瀬村（有効期間が1889年4月1日から1984年10月1日までとされること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/11361A1968.html
+  upg-ae5-yokoze-uub-saitama:
+    label: 市区町村変遷情報「履歴情報 埼玉県」（1955年に秩父郡横瀬村が横瀬村・芦ヶ久保村の新設合併で発足したこと、1984年10月1日に町制を施行して横瀬町となった記録）
+    url: https://uub.jp/upd/saitama.html
+  upg-af5-gyoda-crd:
+    label: レファレンス協同データベース（国立国会図書館、提供館：埼玉県立久喜図書館）「新市名への行田市の要望」（『さいたま市誕生』（さいたま市、2001年）の新市名公募結果、『ドキュメント100万都市誕生』（2001年）の行田市商工会議所の要望の記述、『埼玉新聞』2000年4月7日・11日の見出しを紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000082464
+  upg-ag1-ageo-uub:
+    label: 市区町村変遷情報「上尾町」（1889年4月1日に上尾宿・上尾村・上尾下村・柏座村・春日谷津村・谷津村が合併して北足立郡上尾町が発足したこと）
+    url: https://uub.jp/upd/c/22919.html
+  upg-ag5-hasuda-kamisato-gikai:
+    label: 上里町議会「平成22年第6回定例会会議録第2号」（2010年12月14日。蓮田市の市名の「蓮」の字形が2011年1月4日にしんにょうの点が2つの字から点が1つの字に変更されること、情報機器で二点しんにょうの字が表示できない支障があったことが理由であることを記す）
+    url: https://www.town.kamisato.saitama.jp/secure/1943/02.pdf
+  upg-ag5-okegawa-museum-benibana:
+    label: 桶川市歴史民俗資料館 講座資料「一品の世界」第5回（『新編武蔵風土記稿』の「近郷ノ人コレヲ桶川臙脂ト称ス」を引用し、天保年間に桶川の紅花が出羽に次ぐ産地に成長し、紅花の集散地として栄えたことを記す）
+    url: https://www.city.okegawa.lg.jp/material/files/group/42/ippinnosekai_05.pdf
+  upg-ag5-okegawa-saitama-nenrin:
+    label: 埼玉県公式「ねんりんピック彩の国さいたま2026」桶川市紹介ページ（江戸時代後期になると全国2番目の紅花の生産量を誇り、「桶川臙脂」と呼ばれた紅花は、今日の発展の礎となりましたと記す）
+    url: https://www.pref.saitama.lg.jp/b0617/nenrin-saitama2026/kaisaishubetsu/okegawa.html
   upg-p10-higashichichibu-britannica:
     label: コトバンク「東秩父村」（ブリタニカ国際大百科事典小項目事典の解説。1956年に槻川村・大河原村の2村が合体して東秩父村が成立したことを記す）
     url: http://kotobank.jp/word/%E6%9D%B1%E7%A7%A9%E7%88%B6%E6%9D%91-119124
@@ -5412,9 +5443,6 @@ sources:
   w1-ageo-kotobank:
     label: コトバンク「上尾宿」（『日本歴史地名大系』の解説。年未詳の旦那引付注文写（熊野那智大社文書）に「足立郷あけをの郷」と見えること、中世の上尾郷は近世の上尾宿・上尾村・上尾下村から原市村辺りまでを含む一帯と推定されること、上尾宿は中山道の江戸から五番目の宿駅として賑わったことを記す）
     url: https://kotobank.jp/word/%E4%B8%8A%E5%B0%BE%E5%AE%BF-1261473
-  w1-ageo-wiki:
-    label: Wikipedia「上尾市」（明治22年（1889年）に上尾宿・上尾村・上尾下村・柏座村・春日谷津村・谷津村が合併して北足立郡上尾町となったことを記す）
-    url: https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B0%BE%E5%B8%82
   w1-fujimino-city-keii:
     label: ふじみ野市公式「合併までの経緯」（2004年6月に上福岡市・大井町の任意合併協議会が設置され、11月に法定合併協議会へ移行、2005年1月に新市の名称を「ふじみ野市」に決定して合併協定書が調印され、同年10月1日に新市が誕生したことを記す）
     url: https://www.city.fujimino.saitama.jp/shinojoho/fujiminoshinoshokai/1/3452.html
@@ -5422,7 +5450,7 @@ sources:
     label: ふじみ野市総合振興計画・基本構想（ふじみ野市公式。旧大井町は昭和41年（1966年）に町制を施行して誕生したこと、旧上福岡市は昭和47年（1972年）に市制が施行されたことなどを記す）
     url: https://www.city.fujimino.saitama.jp/material/files/group/2/kihonkousou.pdf
   w1-fujimino-uub:
-    label: 市区町村変遷情報「ふじみ野市」詳細情報（2005年10月1日に上福岡市と入間郡大井町が新設合併してふじみ野市が発足したこと、新市名公募の候補に「ふじみ野」「栄」「大福」があったこと、1972年4月10日に福岡町が福岡市との同名回避のため「上」を冠して上福岡市となったことを記す）
+    label: 市区町村変遷情報「ふじみ野市」詳細情報（2005年10月1日に上福岡市と入間郡大井町が新設合併してふじみ野市が発足したこと、新市名公募の候補に「ふじみ野」「栄」「大福」があったこと、1972年4月10日に福岡町が福岡市との同名回避のため「上」を冠して上福岡市となったこと、2005年1月13日に富士見市が新市名「ふじみ野市」に難色を示し2市町に新市名の再考を要望したことを記す）
     url: https://uub.jp/upd/u/u1163.html
   w1-fujimino-wiki:
     label: Wikipedia「ふじみ野市」（1993年開業のふじみ野駅の駅名は、富士見市・上福岡市・大井町・三芳町の2市2町合併運動の中で合併後の新市名「ふじみ野市」にちなんで公募で決められたこと、2市2町の合併は住民投票で不成立となったが駅名はそのまま残ったこと、富士見市側が隣市と紛らわしいとして名称を使わないよう求める動きがあったことを記す）

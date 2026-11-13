@@ -267,7 +267,7 @@ records:
   formation: 改称
   prefecture: 岐阜県
   homonyms: []
-  summary: 岐阜県加茂郡の町。現在の町名は1889年に生まれた。この地は町村制まで「細目村」と呼ばれていたが、町村制施行の際に村民が村名改称願を出し、「大宝2年（702年）にこの地が八百津と名付けられた」という伝承に基づく旧称への復帰として「八百津町」と改称して発足した。ただし1921年の『美濃国加茂郡誌』は、702年命名の物語に史料の裏付けがないと指摘している。人道外交官・杉原千畝の出身地として知られるが、その出生地をめぐっては別に論争があり、地名の層とは切り分けて記録する。
+  summary: 岐阜県加茂郡の町。現在の町名は1889年に生まれた。この地は町村制まで「細目村」と呼ばれていたが、町村制施行の際に「大宝2年（702年）にこの地が八百津と名付けられた」という伝承に基づく旧称への復帰として「八百津町」と改称して発足した。ただし1921年の『美濃国加茂郡誌』は、702年命名の物語に史料の裏付けがないと指摘している。人道外交官・杉原千畝の出身地として知られるが、その出生地をめぐっては別に論争があり、地名の層とは切り分けて記録する。
   first_attestation:
     era: 明治22年
     year_western: 1889
@@ -280,12 +280,12 @@ records:
     status: established
     sources:
     - x3-yaotsu-town-ayumi
-  - text: 『八百津町史』史料編（1972年）に収められた「村名改称御願」によれば、細目村人民惣代は岐阜県知事に村名の改称を願い出て、1889年7月1日に細目村が町制を施行して八百津町が発足した
+  - text: 1889年7月1日に細目村が町制を施行して八百津町が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - x3-yaotsu-wiki
+    - upg-ae4-yaotsu-geoshape
   - text: 里伝によれば、大宝2年（702年）に錦織中納言久道が美濃国岐蘇山道を開いた際、それまで「赤江」と呼んでいた地を「八百津」と名付けたという。この里伝は大正10年（1921年）の『美濃国加茂郡誌』が伝えている
     kind: legend
     level: E1
@@ -335,6 +335,7 @@ records:
   - 「八百津」の文書上の確実な初出（1889年以前の用例の有無）
   - 702年命名説の典拠となった郷土伝承の成立過程
   - 旧称とされる「赤江」の指す範囲
+  - 『八百津町史』史料編（1972年）に収められた「村名改称御願」に基づく改称願い出の経緯は、町史本文での直接の確認が未了
   updated: '2026-11-13'
 - id: muni/21-北方町
   code: '214213'
@@ -1060,6 +1061,7 @@ records:
   relations:
   - pref/21
   unknowns:
+  - 1889年に豊木村へ合併された別の大野村があったとする記述については、歴史的行政区域データセットでは豊木村が1889年に発足し大野村は1897年発足とされており、食い違いがある。『大野町史』等での確認が必要
   - 「大野」という地名自体の語源（広い野原を指す普通名詞か等）について、『角川日本地名大辞典』等の専門辞典の説は未確認
   - 『大野町史』における命名経緯の記述は未確認
   updated: '2026-11-13'
@@ -1183,13 +1185,19 @@ records:
     sources:
     - x4-tomika-town
     - x4-tomika-wiki
-  - text: 前身の富田村は、かつてこの地域に存在した荘園の富田荘に村名が由来し、明治30年（1897）に滝田村・羽生村・高畑村・大山村・夕田村が合併して発足した
+  - text: 前身の富田村の名は、かつてこの地域に存在した荘園の富田荘に由来するとされる
     kind: fact
     level: E5
     status: established
     sources:
     - x4-tomida-wiki
     - x4-tomika-wiki
+  - text: 明治30年（1897）4月1日に滝田村・羽生村・高畑村・大山村・夕田村が合併して富田村が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - upg-ag1-tomika-uub-1897
   - text: 『富加町史 上巻（史料編）』は、古代の部の筆頭の史料として大宝2年（702）11月の「御野国加毛郡半布里戸籍」を収録している
     kind: fact
     level: E4
@@ -1203,12 +1211,12 @@ records:
     sources:
     - upg-p1-tomika-yoran
     - upg-p1-tomika-kotobank
-  - text: 昭和24年（1949）に大平賀が富岡村から分離して富田村に編入され、合併前の富田村の区域がほぼ固まった
+  - text: 昭和24年（1949）10月1日に富岡村の一部が富田村に編入され、合併前の富田村の区域がほぼ固まった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - x4-tomika-wiki
+    - upg-ag1-tomika-uub-1949
   - text: 総務省の全国地方公共団体コードで、富加町の団体コードは215023と定められている
     kind: fact
     level: E2
@@ -1227,6 +1235,7 @@ records:
   - 「富加」の合成を明示した合併当時の公式文書は未確認
   - 富田荘の史料上の初出と比定地は未確認
   - 半布里戸籍の「半布里」と羽生地区の比定根拠の詳細は未確認
+  - 1949年に富岡村から富田村へ編入された区域が大平賀であることはWikipediaの記載によるもので、市区町村変遷情報では「富岡村の一部」の編入までしか確認できなかった
   updated: '2026-11-13'
 - id: muni/21-山県市
   code: '212156'
@@ -1668,7 +1677,13 @@ records:
     status: established
     sources:
     - upg-p4-ena-taikei-city
-  - text: 『延喜式』『和名類聚抄』では「恵奈郡」と書かれ、近世の『正保国絵図』では「恵那郡」、元禄以後は再び「恵奈郡」とされるなど表記が揺れ、明治になって「恵那郡」に定まったと紹介されている
+  - text: 『延喜式』『和名類聚抄』では「恵奈郡」と書かれ、元禄以後も「恵奈郡」であり、明治になって「恵那郡」に定まったと、『日本歴史地名大系』「恵那郡」は記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - upg-af2-kotobank-ena-gun
+  - text: 近世の『正保国絵図』では「恵那郡」と書かれていたと紹介されている
     kind: fact
     level: E5
     status: established
@@ -1713,6 +1728,7 @@ records:
   - 677年木簡の釈文は二次資料経由の確認にとどまり、木簡データベースでの原文照合は未実施
   - 「美濃国司解」に「恵奈郡繪下郷」とあるとする細部と、恵奈郡が8世紀初め頃に土岐郡から分離成立したとする推定は、強い出典で確認できなかった
   - 胞衣伝説の細部（イザナミが出産したとする話や、「恵奈」を経て「恵那」になったとする表記の変化）は、強い出典で確認できなかった
+  - 『正保国絵図』の表記が「恵那郡」であったとする点は、『日本歴史地名大系』のコトバンク掲載本文では確認できなかった（大系は元禄以後の「恵奈郡」への言及にとどまる）
   updated: '2026-11-13'
 - id: muni/21-揖斐川町
   code: '214019'
@@ -2412,10 +2428,14 @@ records:
   claims:
   - text: 明治22年（1889）7月1日の町村制施行により、加茂郡に西白川村・蘇原村・黒川村・佐見村が、武儀郡に坂ノ東村が成立した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - x4-shirakawa-wiki
+    - upg-ag1-shirakawa-geoshape-nishishirakawa
+    - upg-ag1-shirakawa-geoshape-sohara
+    - upg-ag1-shirakawa-geoshape-kurokawa
+    - upg-ag1-shirakawa-geoshape-sami
+    - upg-ag1-shirakawa-geoshape-sakanohigashi
   - text: 昭和28年（1953）4月1日、西白川村が単独で町制を施行し、名の「西」を外して白川町となった
     kind: fact
     level: E2
@@ -3508,6 +3528,33 @@ sources:
   s2-ohno-gun-kotobank:
     label: コトバンク「大野郡」（『日本歴史地名大系』。古代以来の大野郡域は大野川流域を中心に広がる）
     url: https://kotobank.jp/word/%E5%A4%A7%E9%87%8E%E9%83%A1-3055118
+  upg-ae4-yaotsu-geoshape:
+    label: 歴史的行政区域データセットβ版「八百津町」（八百津町の有効期間の開始が1889年7月1日であることを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21505A1968.html
+  upg-af2-kotobank-ena-gun:
+    label: コトバンク『日本歴史地名大系』「恵那郡」。延喜式には「恵奈郡」と書かれ、元禄以後に再び「恵奈郡」となり、明治になって「恵那郡」に定まったとする表記の変遷を記す
+    url: https://kotobank.jp/word/%E6%81%B5%E9%82%A3%E9%83%A1-3064746
+  upg-ag1-shirakawa-geoshape-kurokawa:
+    label: 歴史的行政区域データセットβ版「黒川村」（国立情報学研究所。有効期間が1889年7月1日から始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21B0060009.html
+  upg-ag1-shirakawa-geoshape-nishishirakawa:
+    label: 歴史的行政区域データセットβ版「西白川村」（国立情報学研究所。有効期間が1889年7月1日から始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21B0060015.html
+  upg-ag1-shirakawa-geoshape-sakanohigashi:
+    label: 歴史的行政区域データセットβ版「坂ノ東村」（国立情報学研究所。有効期間が1889年7月1日から始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21B0180008.html
+  upg-ag1-shirakawa-geoshape-sami:
+    label: 歴史的行政区域データセットβ版「佐見村」（国立情報学研究所。有効期間が1889年7月1日から始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21B0060010.html
+  upg-ag1-shirakawa-geoshape-sohara:
+    label: 歴史的行政区域データセットβ版「蘇原村」（国立情報学研究所。有効期間が1889年7月1日から始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21B0060016.html
+  upg-ag1-tomika-uub-1897:
+    label: 市区町村変遷情報「富田村」の出来事詳細（1897年4月1日に滝田村・羽生村・大山村・高畑村・夕田村が合併して加茂郡富田村が新設されたこと）
+    url: https://uub.jp/upd/u/u10683.html
+  upg-ag1-tomika-uub-1949:
+    label: 市区町村変遷情報「富田村」の出来事詳細（1949年10月1日に富岡村の一部が加茂郡富田村に編入されたこと）
+    url: https://uub.jp/upd/u/u6499.html
   upg-p1-anpachi-gun-kotobank:
     label: コトバンク『日本歴史地名大系』「安八郡」（郡名の表記は8世紀初めに安八とされ、『延喜式』神名帳に「アハチ」、『拾芥抄』に「アハ」とあり、のちアンパチと訓じられるようになったと記す）
     url: https://kotobank.jp/word/%E5%AE%89%E5%85%AB%E9%83%A1-3060384

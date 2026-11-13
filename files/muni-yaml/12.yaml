@@ -807,7 +807,7 @@ records:
     - w4-minamiboso-city-history
   - text: 新市名の最終候補は「南房総」と「安房（あわ）」の2点であり、「南房総市」に決定したと市区町村変遷情報に記される
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
     - w4-minamiboso-uub
@@ -1539,12 +1539,12 @@ records:
     status: established
     sources:
     - upg-r3-sammu-gun-taikei
-  - text: 当初の合併計画は東金市・九十九里町を含むもので、平成15年（2003年）12月25日に山武地域合併協議会が新市名を「九十九里市」と決定していたが、この計画は実現しなかった
+  - text: 合併は当初、東金市・大網白里町・九十九里町を含む山武地域7市町村（東金市・大網白里町・九十九里町・成東町・山武町・蓮沼村・松尾町）の枠組みで進められ、平成15年（2003年）4月に東金市・九十九里町・成東町・山武町・松尾町の山武地域合併協議会が設置された。しかしこの枠組みは実現せず、平成16年（2004年）11月の東金市の住民投票で合併反対が多数となったことなどから、最終的に成東町・山武町・蓮沼村・松尾町の4町村による合併となった（千葉県公式『千葉県における平成の合併の記録』）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w4-sanmu-wiki
+    - upg-r3-chiba-gappei-sammu
   - text: 山武市の地方公共団体コードは122378であり、総務省の一覧でも読みは「サンムシ」とされる
     kind: fact
     level: E2
@@ -1560,6 +1560,7 @@ records:
   - pref/12
   unknowns:
   - 「さんむ」の読みを新市の正式な読みに採用した経緯を示す合併協議会の公式資料は確認できず、Wikipedia の記述に依拠した
+  - 山武地域合併協議会が平成15年（2003年）12月に新市名を「九十九里市」と決定したという紹介があるが、千葉県の公式記録では確認できなかった
   - 武射（むさ）という郡名自体の語源、山辺（やまべ）の語源は確認できていない
   - 「さんぶ」への読みの変化が1975年頃という年代の根拠も未確認である
   updated: '2026-11-13'
@@ -2505,12 +2506,12 @@ records:
     status: established
     sources:
     - w12-sakae-town-toshi
-  - text: 地名としての「栄町」は日本各地の町丁名として存在するが、基礎自治体（町）としての「栄町」は千葉県の当町のみである
+  - text: 基礎自治体（町）としての「栄町」は千葉県の当町のみであり、総務省「地方公共団体コード一覧」に自治体名「栄町」として記載されているのは当町だけである
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w12-sakae-wiki
+    - b-cap-chiba-soumu-code
   - text: 旧中心地名の「安食（あじき）」は、現在も栄町の大字やJR成田線・安食駅の名として残っている
     kind: fact
     level: E2
@@ -3008,12 +3009,12 @@ records:
     status: established
     sources:
     - w12-mutsuzawa-wiki
-  - text: 土睦村の名は、明治22年（1889年）に下之郷村・上之郷村など11か村が合併して成立したことに由来するとされる
+  - text: 土睦村は明治22年（1889年）に、下之郷村・上之郷村・大谷木村・北山田村・北山田寺崎新田・上市場村・寺崎村・岩井村・川島村・小滝村・河須ヶ谷村の11か村が合併して成立した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - w12-mutsuzawa-dochin-wiki
+    - upg-r11-chonan-uub-s
   - text: 瑞沢村の名は、村内を流れる瑞沢川に由来する
     kind: fact
     level: E5
@@ -3190,12 +3191,13 @@ records:
     status: contested
     sources:
     - m5-narashino-city-sansaku98
-  - text: 新市名「習志野市」は、津田沼町・幕張町・犢橋村の合併協議会が1953年（昭和28年）12月17日に決定したもので、その後の協議の離脱・変更を経て、最終的には津田沼町が単独で市制施行しこの名を採用した
+  - text: 新市名「習志野市」は、1953年（昭和28年）11月から開かれた津田沼町・幕張町・犢橋村の合併協議会が、合併によって成立する市の名として決定した（習志野市公式）。その後、最終的には津田沼町が単独で市制施行しこの名を採用した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - m5-narashino-wikipedia
+    - upg-ae5-narashino-sansaku73
+    - m5-narashino-city-yurai
   - text: 1954年（昭和29年）8月1日、千葉郡津田沼町は千葉県下で16番目、全国で415番目の市として習志野市として発足した（習志野市公式。地方公共団体コードは122165）
     kind: fact
     level: E2
@@ -3228,6 +3230,7 @@ records:
   unknowns:
   - 命名の正確な経緯（「篠原に習え」説の真偽）は資料上確定していない
   - 1951年に改称があったとする一部資料の記述は市公式資料では確認できず、改称は1954年の市制施行時であることを市公式で確認した
+  - 合併協議会が市名「習志野市」を決定した正確な日（1953年12月17日と伝える資料がある）は、市公式資料では確認できなかった
   updated: '2026-11-13'
 - id: muni/12-船橋市
   code: '122041'
@@ -4598,6 +4601,9 @@ sources:
   m5-yachiyo-city-keisei:
     label: 八千代市公式「京成本線沿線の歴史・まちなみ」（江戸時代の市域の中心は大和田で佐倉・成田に通じる街道の宿場町として繁栄したこと）
     url: https://www.city.yachiyo.lg.jp/uploaded/attachment/26357.pdf
+  upg-ae5-narashino-sansaku73:
+    label: 習志野市公式「新ならしの散策 No.73」（津田沼町・幕張町・犢橋村の3町村が昭和28年11月から合併協議会を開き、合併によって成立する市名を「習志野市」と決めたこと）
+    url: https://www.city.narashino.lg.jp/citypromotion/shizen/walk/sansaku/h16/sansaku073.html
   upg-r10-isumi-city-history:
     label: いすみ市公式「歴史の中のいすみ」（当地域が最初に文献に現れるのは『古事記』の「伊自牟」で、その後『日本書紀』に「伊甚」、宝亀5年（774年）の平城京出土木簡には「夷灊郡」と記載され、朝廷の直轄地である伊甚屯倉が置かれ、その後律令国家の成立によって夷灊郡が置かれたと記す）
     url: https://www.city.isumi.lg.jp/gyosei/about_isumi/4224.html
@@ -4903,9 +4909,6 @@ sources:
   w12-sakae-town-toshi:
     label: 栄町公式「栄町安食地区都市再生整備計画」（平成25年。昭和30年12月に旧安食町と旧布鎌村が合併して栄町が誕生）
     url: https://www.town.sakae.chiba.jp/data/doc/1369101935_doc_1_0.pdf
-  w12-sakae-wiki:
-    label: Wikipedia「栄町」（基礎自治体としての「栄町」は当町のみ・1955年12月1日に安食町と布鎌村が新設合併）
-    url: https://ja.wikipedia.org/wiki/%E6%A0%84%E7%94%BA
   w12-shibayama-town-about:
     label: 芝山町公式「芝山町について」（町名は1955年7月の合併時に議会が芝山仁王尊観音教寺と明治2年に設置された柴山藩を考慮して「芝山町」と称した）
     url: https://www.town.shibayama.lg.jp/0000000149.html

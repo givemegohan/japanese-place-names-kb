@@ -1116,15 +1116,15 @@ records:
     era: 明治8年
     year_western: 1875
     document: 村の合併による忍野村の発足
-    note: 自治体名としての初出は1875年2月15日の合成命名。構成要素の「忍草」「内野」はそれ以前からの村名である
+    note: 自治体名としての初出は1875年の合併による発足。合併の日付（2月15日）と村名が合成地名であることは公的資料では未確認で、構成要素の「忍草」「内野」はそれ以前からの村名である
   claims:
-  - text: 1875年（明治8年）2月15日に忍草村と内野村が合併して忍野村が発足し、村名は忍草の「忍」と内野の「野」を合わせた合成地名である
+  - text: 1875年（明治8年）に旧忍草村と旧内野村が合併して忍野村が発足した（忍野村公式「村の歴史」による）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v9-oshino-wiki
-  - text: 合併に際しての当初の村名案は「豊葦村」であったが、合成地名の「忍野」に変更された
+    - v9-oshino-vill-history
+  - text: 合併の日は1875年2月15日とされ、村名は忍草の「忍」と内野の「野」を合わせた合成地名である。合併に際しての当初の村名案は「豊葦村」であったが、合成地名の「忍野」に変更された
     kind: fact
     level: E5
     status: established
@@ -1180,6 +1180,7 @@ records:
   - 「忍草」の語源（シノブなどの草の群生に由来するとする解釈の専門的な裏付け）
   - 村名案「豊葦村」が採用されなかった理由を記す当時の記録
   - 「内野」の語源
+  - 合併の日付（1875年2月15日）と、村名が忍草・内野の合成地名であることの公的裏付けは未確認
   updated: '2026-11-13'
 - id: muni/19-早川町
   code: '193640'
@@ -1873,12 +1874,12 @@ records:
     status: established
     sources:
     - v10-doshi-wiki
-  - text: 村名「道志」の由来には諸説があり、平安時代にこの地が「道志」という名の検非違使の所領であったためとする言い伝えが、『甲斐国志』の記載として村志『道志七里』などに紹介されている
+  - text: 村名「道志」の由来には諸説があり、平安時代にこの地が「道志」という名の検非違使の所領であったためとする言い伝えが、『甲斐国志』の記載として村の総合計画や村志『道志七里』などに紹介されている
     kind: legend
-    level: E5
+    level: E2
     status: contested
     sources:
-    - v10-doshi-zhwiki
+    - upg-af5-doshi-plan
   - text: 明治22年（1889年）7月1日、町村制の施行により道志村の区域をもって道志村が発足し、以後、合併を経ていない
     kind: fact
     level: E4
@@ -2217,6 +2218,9 @@ sources:
   n3-minamialps-date:
     label: 福島県伊達市 伊達7町合併協議会資料「新市の名称について」（先進地事例として南アルプス市の名称決定方法：小委員会が公募から3点に絞り協議会委員の投票で最多の名称を選んだ）
     url: https://www.city.fukushima-date.lg.jp/uploaded/attachment/3319.pdf
+  upg-af5-doshi-plan:
+    label: 道志村「道志村総合計画」（村公式。村名「道志」は平安時代頃に定まったとされ、その起源には諸説あるが、『甲斐国志』によれば「道志（みちのさかん）」と呼ばれる検非違使の領地であったことに由来すると紹介。村誌「道志七里」にも言及）
+    url: http://www.vill.doshi.lg.jp/upload/file/furusato/sougoukeikaku/doshisougoukeikaku.pdf
   upg-v2-fujikawa-kotobank:
     label: コトバンク「富士川」（『日本歴史地名大系』：釜無川・笛吹川・芦川の三川の合流より下流を富士川と呼ぶこと、合流は市川大門村・東南湖村の間の押切所であること／デジタル大辞泉・改訂新版世界大百科事典：富士川は最上川・球磨川と並んで日本三急流の一つに数えられること）
     url: https://kotobank.jp/word/%E5%AF%8C%E5%A3%AB%E5%B7%9D-124389
@@ -2364,9 +2368,6 @@ sources:
   v10-doshi-yokohama:
     label: 横浜市記者発表資料（令和4年8月30日。1897年に道志川から取水開始、1916年に山梨県から道志村の水源林を取得、2004年に友好・交流協定を締結）
     url: https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/seisaku/2022/0830paneruten.files/0003_20220830.pdf
-  v10-doshi-zhwiki:
-    label: 中国語版Wikipedia「道志村」（村名「道志」の起源には諸説あり、江戸時代の地誌『甲斐国志』に、平安時代に「道志」という検非違使の領地であったとする言い伝えが紹介されていること。村志『道志七里』を引く）
-    url: https://zh.wikipedia.org/wiki/%E9%81%93%E5%BF%97%E6%9D%91
   v10-minobu-kuonji-wiki:
     label: Wikipedia「久遠寺」（文永11年に南部実長が日蓮を招いて草庵を構えたこと、弘安4年に日蓮が「身延山妙法華院久遠寺」と命名したこと）
     url: http://ja.wikipedia.org/wiki/久遠寺

@@ -1611,7 +1611,7 @@ records:
   formation: 分村・分立
   prefecture: 長野県
   homonyms: []
-  summary: 下伊那郡南部の山間の小村。「売木（うるぎ）」の名は江戸時代前期の『下条記』に見え、地域は中世の遠山庄の一部だった。語源には定説がなく、湿地に関わる「ウル（潤す）」説と、川の上流を指す「ウレ・ウラ」説が挙げられている。1889年に和合村と共に豊村となり、1948年に分村して売木村が発足した。
+  summary: 下伊那郡南部の山間の小村。「売木（うるぎ）」の名は江戸時代前期の『下条記』に見え、地域は中世の遠山庄の一部だった。語源には定説がなく、湿地に関わる「ウル（潤す）」説と、川の上流を指す「ウレ・ウラ」説が挙げられている。売木は1889年発足の豊村の一部となり、1948年に豊村が売木村と和合村に分かれて売木村が発足した。
   first_attestation:
     era: 江戸時代（元禄年間）
     year_western: null
@@ -1642,12 +1642,12 @@ records:
     status: established
     sources:
     - v11-urugi-kotobank-sekai
-  - text: 明治22年（1889年）に和合村・売木村の区域をもって豊村が発足し、昭和23年（1948年）7月1日に分村して大字売木の区域をもって売木村が発足した
+  - text: 豊村は1889年（明治22年）4月1日に発足し、1948年（昭和23年）7月1日に廃止されて、その区域は売木村と和合村に分かれた（歴史的行政区域データセットにおける豊村の有効期間と区域の重なりによる）
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - v11-urugi-wiki
+    - upg-ae3-urugi-geoshape-toyo
   - text: 売木村の地方公共団体コードは204129である
     kind: fact
     level: E2
@@ -1667,6 +1667,7 @@ records:
   unknowns:
   - 「うるぎ」の確定的な語源。江戸期以前の史料での用例の確認を含め、専門文献での決着は未確認
   - 『下条記』より古い「売木」の表記の初出
+  - 豊村の発足時（1889年）の構成（旧和合村・旧売木村の区域をもって発足したこと）と、1948年の分村が大字売木の区域をもって行われたことの公的裏付けは未確認
   updated: '2026-11-13'
 - id: muni/20-大桑村
   code: '204307'
@@ -3029,12 +3030,13 @@ records:
     document: 4か村の合併による御代田村の成立
     note: 命名そのものが「御代田」の初出。由来の説明は御代田町公民館『御代田物語』（1980年）など郷土資料に基づく地域の伝承的説明で、合併当時の一次記録は確認していない
   claims:
-  - text: 1875年（明治8年）に、近世以来の前田原村・池田新田・児玉村・小田井村が合併して御代田村となった
+  - text: 1875年（明治8年）に、小田井村・前田原村・児玉新田・池田新田の4村が合併して御代田村となった（御代田町統計書の沿革図・長野県公式の合併図）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v12-miyota-wiki-mura
+    - upg-ae5-miyota-town-tokeisho
+    - upg-ae5-miyota-pref-gappei
   - text: 御代田の名の由来について、御代田町公民館『御代田物語』など郷土資料に基づく地域の説明は、合併した4つの村の名にある「田」を取り、明治維新の「御代」に因んで「御代田」と名付けたといい、「代（よ）」は4か村の「四（よん）」にも通じると添える
     kind: fact
     level: E4
@@ -3074,7 +3076,6 @@ records:
   - pref/20
   unknowns:
   - 1875年の命名を示す一次記録（合併文書等）は確認しておらず、由来は郷土資料に基づく伝承的な説明にとどまる
-  - 御代田村成立（1875年）の経緯については、主にWikipediaの記述（典拠は角川日本地名大辞典・『北佐久郡志 町村篇』等）に依った
   updated: '2026-11-13'
 - id: muni/20-朝日村
   code: '204510'
@@ -4996,7 +4997,13 @@ records:
     status: established
     sources:
     - x2-nagawa-town-gaikyo
-  - text: 前身の長門町は、昭和31年（1956年）9月30日に長久保新町・長窪古町・大門村が合併して発足し、その名は長窪古町と長久保新町の「長」と大門村の「門」より命名された合成名であった
+  - text: 前身の長門町は、昭和31年（1956年）9月30日に長久保新町・長窪古町・大門村が合併して発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - upg-r9-uub-nagano-upd
+  - text: 長門町の名は、長窪古町と長久保新町の「長」と大門村の「門」より命名された合成名であったとされる
     kind: fact
     level: E5
     status: established
@@ -5857,12 +5864,12 @@ records:
     status: established
     sources:
     - upg-r9-uub-nagano-upd
-  - text: 2005年には飯島町・中川村との合併で「中央アルプス市」へ改名する計画があったが、住民投票で反対多数となり合併は断念された
+  - text: 飯島町・中川村との合併で新市名を「中央アルプス市」とする協議が進められたが、駒ヶ根市と飯島町では住民アンケートで反対が多数を占め（中川村の住民投票では賛成が多数となった）、2005年3月31日に合併は断念され、合併協議会は解散した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - v3-wiki-komagane
+    - upg-ae4-uub-chuoalps
   - text: 駒ヶ根市役所は旧赤穂町の区域である赤須町に置かれており、市の中心は赤穂地区である
     kind: fact
     level: E2
@@ -6207,6 +6214,18 @@ sources:
   upg-a-toyooka-tokei2012:
     label: 豊丘村「豊丘村統計書（平成24年版）」（村公式。村役場の所在地を「豊丘村神稲3120番地」と明記）
     url: https://www.vill.nagano-toyooka.lg.jp/19gyousei/08toukei/files/tokei2012.pdf
+  upg-ae3-urugi-geoshape-toyo:
+    label: 歴史的行政区域データセットβ版（CODH）「長野県下伊那郡豊村」（豊村の有効期間は1889年4月1日〜1948年7月1日とされ、終了時点の区域は売木村・和合村と重なると記録される）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/20B0020032.html
+  upg-ae4-uub-chuoalps:
+    label: 市区町村変遷情報「中央アルプス市（不成立）の詳細」（駒ヶ根市・飯島町・中川村の合併で新市名「中央アルプス市」が決まったものの、駒ヶ根市と飯島町では住民アンケートで反対が多数を占め（中川村の住民投票では賛成が多数）、2005年3月31日に合併が断念され協議会が解散した経緯）
+    url: https://uub.jp/upd/u/u290.html
+  upg-ae5-miyota-pref-gappei:
+    label: 長野県公式の市町村合併図「御代田町」（明治8年の御代田村の構成4村を示す県の合併記録図）
+    url: https://www.pref.nagano.lg.jp/shichoson/kensei/shichoson/gappei/gappei/mejiiko/documents/27miyota.pdf
+  upg-ae5-miyota-town-tokeisho:
+    label: 御代田町公式『御代田町統計書』総説の沿革図（明治8年に成立した御代田村の構成を、小田井村・前田原村・児玉新田・池田新田の4村と図示するもの）
+    url: http://www.town.miyota.nagano.jp/file/181285.pdf
   upg-r10-hakuba-zck:
     label: 全国町村会「町村長随想」白馬村長（当時）・福島信行「北アルプスの懐に抱かれて」（2005年10月10日掲載。村が誕生する時、北アルプス白馬岳の呼び名からハクバと読み替えて「白馬村」と名付けた、と村長本人が記す）
     url: http://www.zck.or.jp/site/essay/5542.html
@@ -6543,9 +6562,6 @@ sources:
   v11-urugi-rekishinote:
     label: レキシノオト「四つの峠に囲まれた、走る村、『売木村』という小さな盆地」（「うるぎ」の地名には定説がなく、「ウル」を「潤す」の語幹と見て湿地を指す説、「ウレ・ウラ」は川の上流を示す語の転じたものという説が挙げられている）
     url: https://rekishinote.com/urugi
-  v11-urugi-wiki:
-    label: Wikipedia「売木村」（1889年に和合村・売木村の区域をもって豊村が発足、1948年7月1日に豊村が分割され大字売木の区域をもって売木村が発足）
-    url: https://ja.wikipedia.org/wiki/%E5%A3%B2%E6%9C%A8%E6%9D%91
   v12-fujimi-jk-column:
     label: ジャパンナレッジ『日本歴史地名大系』ジャーナル「日本列島『地名』をゆく！」第146回「『富士見』は意外と新しい？」（鏡味完二・鏡味明克『地名の語源』の「そこから富士山がみえる所」という説明を紹介）
     url: https://japanknowledge.com/articles/blogjournal/interest_chimei/entry.html?entryid=146
@@ -6594,9 +6610,6 @@ sources:
   v12-miyota-town-nenpyo:
     label: 御代田町公式「町の歩み（年表）」（昭和31年9月30日に小沼村・御代田村・伍賀村が合併し御代田町が発足したこと）
     url: https://www.town.miyota.nagano.jp/category/syoukai/2152.html
-  v12-miyota-wiki-mura:
-    label: Wikipedia「御代田村」（1875年に前田原村・池田新田・児玉村・小田井村が合併して御代田村となったこと。典拠は角川日本地名大辞典・『北佐久郡志 町村篇』等）
-    url: https://ja.wikipedia.org/wiki/%E5%BE%A1%E4%BB%A3%E7%94%B0%E6%9D%91
   v12-obuse-kotobank-taikei:
     label: 『日本歴史地名大系』「小布施村」項（コトバンク掲載。村名は古代の土豪・布勢氏の居住説が有力、初見は嘉暦4年の鎌倉幕府下知状案（守矢文書）の「小布施」）
     url: https://kotobank.jp/word/%E5%B0%8F%E5%B8%83%E6%96%BD%E6%9D%91-3059701

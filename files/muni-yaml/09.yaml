@@ -133,17 +133,20 @@ records:
     status: indeterminate
     sources:
     - w6-kaminokawa-koho
-  - text: 1889年（明治22年）の町村制で上三川村が発足し、1893年（明治26年）7月1日に町制を施行して上三川町となった
+  - text: 1889年（明治22年）の町村制で上三川村が発足し、1893年（明治26年）7月に町制を施行して上三川町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-z2-kaminokawa-geoshape
     - w6-kaminokawa-wiki
   - text: 1955年（昭和30年）4月29日に上三川町・本郷村・明治村が合併して、新しい上三川町が誕生した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-z2-tochigi-nenkan
+    - upg-z2-kaminokawa-geoshape
     - w6-kaminokawa-wiki
   - text: 町名の読みは「かみのかわ」であり、J-LISの栃木県内市町村一覧でも「かみのかわまち」と振られている。「三川」を「みかわ」とは読まない
     kind: fact
@@ -167,6 +170,7 @@ records:
   - pref/09
   unknowns:
   - 「上三川」の「上」が三川郷のどの範囲（上流側・北側の区域）を指したのか、広報特集の詳細までは判読しきれなかった
+  - 1893年の町制施行日は、Wikipediaの「7月1日」と歴史的行政区域データセットにおける町の有効期間の開始日「7月20日」とで食い違いがあり、日単位では確定できなかった
   - 「三川」の語源の定説と、「三川」を「のかわ」と読むようになった経緯は確認できなかった
   updated: '2026-11-13'
 - id: muni/09-下野市
@@ -377,17 +381,20 @@ records:
     - w6-shioya-clan-wiki
   - text: 1957年（昭和32年）3月31日に玉生村・船生村・大宮村が合併して塩谷村が発足し、1965年（昭和40年）2月11日に町制を施行して塩谷町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-z2-tochigi-nenkan
+    - upg-z2-shioya-geoshape
     - w6-shioya-wiki
-  - text: 合併した玉生村・船生村・大宮村はいずれも塩谷郡に属する村々であり、新村名には古代以来の郡名「塩谷」が採用された
+  - text: 合併した玉生村・船生村・大宮村はいずれも塩谷郡に属する村々であり、新村名には郡名「塩谷」が採用された
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-z2-tochigi-nenkan
+    - upg-z2-shioya-geoshape
     - w6-shioya-wiki
-    - w6-shioya-gun-wiki
   - text: 「塩谷」という名が塩とどう関わるのか（塩の産地であったのか、塩を運ぶ路の谷であったのか等）は、参照した資料では明らかにされておらず、語源は未確定である
     kind: fact
     level: E5
@@ -439,24 +446,25 @@ records:
     document: null
     note: 「壬生」の地名としての文献初出は確認できていない。中世には壬生氏の本拠として史料に現れる
   claims:
-  - text: 「壬生（みぶ）」はもともと水辺・水生の意で泉や低湿地を意味し、後に「壬生」の字が当てられた地名であることが、ブリタニカ国際大百科事典の解説を引いて紹介されている
+  - text: 「壬生（みぶ）」という地名について、ブリタニカ国際大百科事典 小項目事典は、京都市の壬生を例に「古来より湧き水が多かったため『水生』と呼ばれたことの転化」と解説し、『日本大百科全書（ニッポニカ）』も同じく京都市の壬生について「古くは『水生（みぶ）』といい、その呼称が示すように土地が低湿で」と記している
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - w6-mibu-term-wiki
+    - upg-af2-kotobank-mibu
   - text: 一方で、皇子の世話・養育を行う子代の集団である乳部（壬生部、みぶべ）からの転化を含むとされ、各地に点在する壬生氏はこの壬生部に由来するとも紹介されており、両説は併記される
     kind: fact
     level: E5
     status: contested
     sources:
     - w6-mibu-term-wiki
-  - text: 天台宗の円仁（慈覚大師）の俗姓は壬生氏で、延暦13年（794年）に下野国都賀郡に生まれたとされ、壬生は円仁の出身氏族の地と伝わる
+  - text: 天台宗の円仁（慈覚大師）の俗姓は壬生氏で、延暦13年（794年）に下野国都賀郡に生まれたとされる
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w6-mibu-wiki
+    - upg-z2-mibu-town-history
+    - upg-z2-tochigi-enjin
   - text: 壬生町の活性化計画によれば、寛正3年（1462年）に壬生氏によって壬生城が築かれて城下町が開け、江戸時代には日光街道の宿場町、黒川を利用した河川交通の要衝として栄えた
     kind: fact
     level: E2
@@ -469,11 +477,12 @@ records:
     status: established
     sources:
     - w6-mibu-town-plan
-  - text: 1889年（明治22年）の町村制では壬生町と藤井村が合併して壬生町が成立しており、町名は江戸時代の城下町・宿場町の名をそのまま継承した
+  - text: 1889年（明治22年）の町村制では壬生町と藤井村が合併して壬生町が成立し、町名は従来の壬生町の名がそのまま用いられた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-z2-mibu-pref
     - w6-mibu-wiki
   - text: 壬生町の地方公共団体コードは093611である（J-LISの栃木県内市町村一覧による）
     kind: fact
@@ -1295,12 +1304,12 @@ records:
     status: indeterminate
     sources:
     - w7-haga-crd
-  - text: 中世の下野では、清原氏の流れを称する芳賀氏が芳賀郡を本拠に宇都宮氏の重臣として重きをなし、真岡城を拠点とした
+  - text: 戦国時代の下野では、芳賀氏が宇都宮氏の重要な家臣として活躍し、真岡城を拠点とした
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w7-haga-clan-wiki
+    - upg-z5-haga-moka-castle
   column:
     title: 郡の名をもらった町
     text: 芳賀町は1954年、祖母井町・南高根沢村・水橋村の合併で生まれた。町の図書館によれば、町名は「芳賀郡の中心として栄えたい」という関係者の願いから郡名をそのまま採ったもので、古代の郡名の由来とは関係がないという。ところが、その郡名の古層をたどると、意外なずれが見えてくる。藤原宮跡から出た木簡には「下毛野国芳宜評」とあり、「芳賀」は当時「はぎ」とも読まれた可能性がある。そして『和名類聚抄』に載る芳賀郷は、現在の芳賀町ではなく、真岡市中央部に比定されている。つまり1954年に町がもらった「芳賀」という名は、もともと少し離れた土地を郡の中心として指していた名だった。芳賀郡には現在、芳賀町だけが残り、町の願いどおり、郡の名とその中心はこの町に残った。
@@ -1329,7 +1338,7 @@ records:
   formation: 不明
   prefecture: 栃木県
   homonyms: []
-  summary: 栃木県南東部、芳賀郡の町。町名は中心集落の茂木に由来し、文和2年（1353年）の茂木知貞譲状写に「茂木郷内前小堀」と見える。鎌倉初期から江戸初期までの茂木家文書100通が県指定文化財として残り、八田知家の三男・知基が茂木郷の地頭職を継承して「茂木」を名乗ったとされる。「もてぎ」の語源は専門辞典にも確定的な説明がなく未詳である。中世の茂木城の城下町から、慶長15年（1610年）に細川氏が城を廃して陣屋を置いた町場へと姿を変えた。
+  summary: 栃木県南東部、芳賀郡の町。町名は中心集落の茂木に由来し、文和2年（1353年）の茂木知貞譲状写に「茂木郷内前小堀」と見える。鎌倉初期から江戸初期までの茂木家文書100通が県指定文化財として残り、八田知家が治承4年（1180年）に茂木の地頭職を安堵され、三男・知基が西茂木保を相続して「茂木」を名乗った。「もてぎ」の語源は専門辞典にも確定的な説明がなく未詳である。中世の茂木城の城下町から、慶長15年（1610年）に細川氏が城を廃して陣屋を置いた町場へと姿を変えた。
   first_attestation:
     era: 文和2年
     year_western: 1353
@@ -1354,12 +1363,12 @@ records:
     status: established
     sources:
     - w7-motegi-pref-doc
-  - text: 八田知家の三男・知基が茂木郷（茂木保）の地頭職を継承して「茂木」を名乗ったことが、茂木氏の起こりとされる
+  - text: 八田知家が治承4年（1180年）に茂木の地頭職を安堵されて入部したことに茂木氏の起源があり、三男の知基は相続した西茂木保で「茂木」を苗字として名乗り、茂木氏の初代となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w7-motegi-clan-wiki
+    - upg-z5-motegi-report
   - text: 中世の茂木は茂木城の城下町であったが、慶長15年（1610年）に細川氏が入部すると茂木城は廃され、町内に藩庁（陣屋）が置かれて郭内と称された
     kind: fact
     level: E3
@@ -1510,16 +1519,17 @@ records:
     - w7-nakagawa-estat
   - text: 町名「那珂川」は、両町を貫いて流れる那珂川の名を採ったものである
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w7-nakagawa-wiki
-  - text: 合併は当初、烏山町・南那須町を含む4町の「南那須地区町村合併研究会」で検討されたが、各町議会の判断を経て、最終的には馬頭町・小川町の2町の枠組みとなった
+    - upg-z5-nakagawa-tochigi-chara
+  - text: 合併は当初、烏山町・南那須町を含む4町の「南那須地区町村合併研究会」で検討されたが、最終的には馬頭町・小川町の2町の枠組みとなった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - w7-nakagawa-wiki
+    - u4-nasukarasuyama-uub
+    - w7-nakagawa-estat
   - text: 那珂川の名の由来は明らかでない。室町時代の『神明境』には応永15年（1408年）の記事として「常州那珂河」とあり、この頃には那珂川の名が用いられていた
     kind: fact
     level: E2
@@ -1535,16 +1545,16 @@ records:
     - w7-nakagawa-bato-wiki
   - text: 旧小川町は、1889年に那珂村として発足し、1938年に町制施行とともに小川町へ改称した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - w7-nakagawa-ogawa-wiki
+    - upg-z5-nakagawa-geoshape-ogawa
   - text: 福岡県の那珂川町は2018年10月1日に市制施行して那珂川市となり、「那珂川町」が2つ存在する状態は解消された
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w7-nakagawa-wiki
+    - upg-z5-nakagawa-fukuoka-kobunsyokan
   column:
     title: 国宝の碑を世に出した里正
     text: 那珂川町の旧馬頭町の地に、飛鳥時代の国宝・那須国造碑と深く関わった人物がいる。江戸時代、武茂郷小口村（現・那珂川町域）の里正だった大金重貞である。那須国造碑の顕彰は水戸藩主・徳川光圀の働きかけで進み、重貞は碑の由緒を調べて『那須記』にまとめ、光圀に献上した。689年に那須国造・韋提が評督に任じられたことなどを伝えるこの碑は、下野国の北辺にあった「那須」の国の最古の記録である。2005年に生まれた那珂川町は、川の名を町名に採った新しい町だが、その町域には、那須地方の名の始まりを掘り起こした里正の村が含まれている。
@@ -1586,18 +1596,18 @@ records:
     status: established
     sources:
     - u4-nasushiobara-city-plan
-  - text: 新市名「那須塩原」は、合併当時、市域内にある東北新幹線の駅名として長年使われ、全国的に知られていた名であったことから採用されたとされる
+  - text: 新市名「那須塩原」は、公募と合併協議会委員の投票によって決定された。日本都市センターの合併調査資料は、その選定理由を「新幹線の駅名でもあり、公募並びに委員の投票でも圧倒的多数であった」と記録している
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - u4-nasushiobara-wikipedia
-  - text: 駅名「那須塩原」は、東北新幹線開業の1982年（昭和57年）6月に、それまでの東那須野駅を改称して生まれた名である。建設計画の段階での仮称は「新那須駅」だったが、開業が近づいて「塩原」の文字を入れてほしいという動きがあり、「那須塩原」に落ち着いたと駅史の資料は伝えている
+    - upg-ae5-nasushiobara-toshi
+  - text: 駅名「那須塩原」は、東北新幹線開業の1982年（昭和57年）6月に、それまでの東那須野駅を改称して生まれた名である。駅名をめぐっては、地元から「塩原」の文字も入れてほしいという声が上がり、「那須塩原」に決まったと、開業当時を取材した毎日新聞の回顧記事は伝えている
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - u4-nasushiobara-station
+    - upg-z5-nasushiobara-mainichi
   - text: 旧中心地の黒磯について『日本歴史地名大系』は、天正19年（1591）の那須与一郎資景知行目録（那須文書）に「くろいそ」とあることを紹介し、近世は初め那須藩領、寛永20年（1643）から幕府領だったとする
     kind: fact
     level: E3
@@ -1630,14 +1640,14 @@ records:
     - b-cap-chiba-soumu-code
   column:
     title: 駅名がそのまま市名になった
-    text: 「那須塩原」という名は、もともと土地の名ではない。1982年の東北新幹線開業のとき、計画名「新那須駅」に対して「塩原」の二字を入れてほしいという地元の声が高まり、東那須野駅という小さな在来線の駅が「那須塩原駅」に改称されたのが始まりと伝えられる。那須高原と塩原温泉、二つの観光ブランドを一つの駅名に背負わせる工夫だった。それから23年後の2005年、黒磯市・西那須野町・塩原町が合併する際、新市名に選ばれたのは、どの旧市町の名でもなく、この駅名だった。鉄道の駅名が自治体の名に「出世」した、平成の大合併でも目立つ事例である。
+    text: 「那須塩原」という名は、もともと土地の名ではない。1982年の東北新幹線開業のとき、「塩原」の二字を入れてほしいという地元の声があり、東那須野駅という小さな在来線の駅が「那須塩原駅」に改称されたのが始まりである。那須高原と塩原温泉、二つの観光ブランドを一つの駅名に背負わせる工夫だった。それから23年後の2005年、黒磯市・西那須野町・塩原町が合併する際、新市名に選ばれたのは、どの旧市町の名でもなく、この駅名だった。鉄道の駅名が自治体の名に「出世」した、平成の大合併でも目立つ事例である。
     sources:
-    - u4-nasushiobara-station
+    - upg-z5-nasushiobara-mainichi
     - u4-nasushiobara-wikipedia
   relations:
   - pref/09
   unknowns:
-  - 市名選定の具体的な手続き（公募の実施有無や協議会での候補一覧）は、合併協議会の記録資料で直接確認できなかった
+  - 市名の公募と協議会委員の投票による決定は日本都市センターの調査資料で確認できたが、公募の候補一覧そのものは確認できなかった
   - 「黒磯」の語源は人名説・景観説が併記されるのみで、専門辞典での確定は確認できなかった
   - 「塩原」の名そのものの由来（温泉の塩分に由来するか等）は、公的資料で明示を確認できなかった。大同元年（806）の発見も伝承の域を出ない
   updated: '2026-11-13'
@@ -2167,9 +2177,6 @@ sources:
   u4-nasushiobara-kotobank-kuroiso:
     label: コトバンク「黒磯村」（『日本歴史地名大系』の解説：天正19年（1591）の那須与一郎資景知行目録（那須文書）に「くろいそ」とあること、近世は初め那須藩領で寛永20年（1643）から幕府領だったこと、鎌倉時代に落武者が住みついたのが村の起りと伝える「黒磯村創立記録」があること）
     url: https://kotobank.jp/word/%E9%BB%92%E7%A3%AF%E6%9D%91-3032500
-  u4-nasushiobara-station:
-    label: 鉄道資料ページ「JR東日本・那須塩原駅」（那須塩原駅はかつて東那須野駅と称し、東北新幹線建設計画の仮称は新那須駅だったが、開業近くになり「塩原」の文字を入れてほしいという動きがあり、1982年6月の東北新幹線開業に際して「那須塩原」へ改称されたとする駅史の記録）
-    url: http://www.pcpulab.mydns.jp/main/touhokushinkansen_nasushiobara.htm
   u4-nasushiobara-wikipedia:
     label: Wikipedia「那須塩原市役所」（市名の由来の節：市の名称「那須塩原」は、合併当時において市域内で新幹線の駅名として長年使用されており、全国的に知られた名であったとする説明）
     url: https://ja.wikipedia.org/wiki/%E9%82%A3%E9%A0%88%E5%A1%A9%E5%8E%9F%E5%B8%82%E5%BD%B9%E6%89%80
@@ -2242,6 +2249,48 @@ sources:
   u4-yaita-wikipedia:
     label: Wikipedia「矢板市」（地名の由来の節：「矢板」の由来は確定的なものはなく、美田を意味する「八重田（やえた）」の転訛説、田畑を焼く「焼田（やきた）」の転訛説、土留めの板という意味の「矢板」からという説、矢板氏の発祥の地で一族の支配によって土地が矢板と呼ばれた可能性など、いずれも根拠に乏しく推測の域を出ないとする整理）
     url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%9D%BF%E5%B8%82
+  upg-ae5-nasushiobara-toshi:
+    label: 日本都市センター「合併市町村の事例・那須塩原市」（合併協議会への調査に基づく合併経緯。新市の名称は公募と協議会委員の投票により決定され、選定理由は「新幹線の駅名でもあり、公募並びに委員の投票でも圧倒的多数であった」と記す）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/nasushiobara050620.pdf
+  upg-af2-kotobank-mibu:
+    label: コトバンク「壬生」（ブリタニカ国際大百科事典 小項目事典：京都市の壬生について「地名は、古来より湧き水が多かったため『水生』と呼ばれたことの転化」とする解説。日本大百科全書（ニッポニカ）：京都市の壬生について「古くは『水生（みぶ）』といい、その呼称が示すように土地が低湿で」とする解説）
+    url: https://kotobank.jp/word/%E5%A3%AC%E7%94%9F-643315
+  upg-z2-kaminokawa-geoshape:
+    label: 歴史的行政区域データセットβ版「栃木県河内郡上三川町」（国立情報学研究所。町の有効期間は1893年7月20日から。1889年時点の上三川村、1954年時点の本郷村・明治村が現在の町域に重なることを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/09301A1968.html
+  upg-z2-mibu-pref:
+    label: 栃木県「栃木県における市町村の変遷 壬生町」（明治23年1月時点の壬生町は、壬生町と藤井村から構成されていた）
+    url: https://www.pref.tochigi.lg.jp/a02/pref/shichouson/sonota/1177374464500.html
+  upg-z2-mibu-town-history:
+    label: 壬生町「みぶの歴史」（2018年12月、壬生町総務部総合政策課発行の町の歴史紹介資料。円仁について「下野国都賀郡に壬生氏の子として誕生」「794年〜864年」と記す）
+    url: https://www.town.mibu.tochigi.jp/docs/2015071400015/file_contents/2kawara_rekishi2018.pdf
+  upg-z2-shioya-geoshape:
+    label: 歴史的行政区域データセットβ版「栃木県塩谷郡塩谷町」（国立情報学研究所。塩谷村の有効期間は1957年3月31日から1965年2月11日までで、玉生村・船生村・大宮村はいずれも塩谷郡に属した）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/09384A1968.html
+  upg-z2-tochigi-enjin:
+    label: 栃木県「人物『江戸時代以前』慈覚大師円仁」（円仁は794年から864年までで、誕生地には壬生説・岩舟説があるとする県の人物紹介）
+    url: https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/jinbutsu1_04.html
+  upg-z2-tochigi-nenkan:
+    label: 栃木県統計年鑑 平成31年版「市町村の廃置分合及び名称変更」（栃木県市町村課。昭和29年2月から平成31年3月までの廃置分合・名称変更の一覧で、上三川町の合併、塩谷村の設置・塩谷町の町制、市貝村の設置・市貝町の町制などを収録）
+    url: https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/documents/h30-1.pdf
+  upg-z5-haga-moka-castle:
+    label: 真岡市公式「真岡城跡・真岡陣屋」（市公式の文化財資料。真岡城は現在の真岡市域を治めた芳賀氏の城で、芳賀氏は戦国時代に宇都宮氏の重要な家臣として活躍したことを記す）
+    url: https://www.city.moka.lg.jp/material/files/group/30/mokajyou.pdf
+  upg-z5-motegi-report:
+    label: 高橋修編『下野国茂木保現況調査報告書』（茨城大学学術機関リポジトリ収録、科研費・基盤研究C報告書、2025年。常陸国守護・八田知家が治承4年（1180年）に茂木の地頭職を安堵されて入部したことに下野茂木氏の起源があり、三男・知基が相続した西茂木保で「茂木」を苗字として名乗り、茂木氏の初代となったことを記す）
+    url: https://rose-ibadai.repo.nii.ac.jp/record/2000933/files/%E4%B8%8B%E9%87%8E%E5%9B%BD%E8%8C%82%E6%9C%A8%E4%BF%9D%E7%8F%BE%E6%B3%81%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf
+  upg-z5-nakagawa-fukuoka-kobunsyokan:
+    label: 福岡共同公文書館公式ブログ「公文書でめぐる ふるさと福岡 ～那珂川市～」（平成30年（2018年）10月1日に筑紫郡那珂川町から「那珂川市」となったことを記す）
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog/?p=1654
+  upg-z5-nakagawa-geoshape-ogawa:
+    label: 歴史的行政区域データセットβ版「栃木県那須郡小川町」（国立情報学研究所。小川町の有効期間は1938年7月1日から2005年10月1日まで、前身の那珂村の有効期間は1889年4月1日から1938年7月1日までとされる）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/09404A1968.html
+  upg-z5-nakagawa-tochigi-chara:
+    label: 栃木県公式「なかちゃん（那珂川町）」（県公式の市町村マスコット紹介。那珂川町の町名の由来となった、町の中央部を流れる「那珂川」を紹介する）
+    url: https://www.pref.tochigi.lg.jp/c05/town/shinkou/shinkou/tochichara/nakachan.html
+  upg-z5-nasushiobara-mainichi:
+    label: 毎日新聞「新編集講座ウェブ版」第157号（2020年）（東北新幹線開業を取材した記者の回顧。東那須野駅の改名が注目され、駅名について「塩原も入れて『那須塩原』に」という声があり最終的に「那須塩原」に決定したこと、改名前の最終日が1982年6月22日であったことを記す）
+    url: https://cdn.mainichi.jp/vol1/2020/09/30/20200930org00m070002000q/0.pdf?1
   w6-ichihane-wiki:
     label: Wikipedia「市羽村」（村名は市塙村の「市」と赤羽村の「羽」の合成、1954年5月3日に小貝村と合併し市貝村となる）
     url: http://ja.wikipedia.org/wiki/%E5%B8%82%E7%BE%BD%E6%9D%91
@@ -2281,9 +2330,6 @@ sources:
   w6-shioya-wiki:
     label: Wikipedia「塩谷町」（1957年3月31日に玉生村・船生村・大宮村が合併し塩谷村、1965年2月11日町制施行）
     url: https://ja.wikipedia.org/wiki/%E5%A1%A9%E8%B0%B7%E7%94%BA
-  w7-haga-clan-wiki:
-    label: Wikipedia「芳賀氏」（下野国芳賀郡より起こる鎌倉時代から戦国時代の武家で、本姓は清原氏、下野宇都宮氏の重臣として清党の棟梁を務め、真岡城主であったことを記す）
-    url: https://ja.wikipedia.org/wiki/%E8%8A%B3%E8%B3%80%E6%B0%8F
   w7-haga-crd:
     label: レファレンス協同データベース・芳賀町総合情報館の事例「芳賀町の『芳賀』の由来を教えてほしい」（芳賀町は昭和29年（1954年）3月に祖母井町・南高根沢村・水橋村の合併により成立し、その際「芳賀郡の中心として栄えたい」といった関係者の想いがあって町名を「芳賀」としたもので古代の郡名の成り立ちとは全く関係はないこと、「芳賀郡」の「芳賀」は奈良県藤原宮跡出土木簡に「下野国芳宜評」と記され「はが（はぎ）のこおり」と読むのが古く、8世紀の早い段階で「芳賀郡」に改められたと推定されることを、『栃木県の地名』『角川日本地名大辞典 栃木県』『芳賀町史』『芳賀町の歴史読本』を引いて回答する）
     url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000170273&page=ref_view
@@ -2302,9 +2348,6 @@ sources:
   w7-mashiko-kyohan-history:
     label: 益子焼窯元共販センター「歴史」（益子焼は嘉永6年（1853年）に大塚啓三郎が窯を築いたのが始まりとされ、啓三郎は笠間の久野窯で技術を習得し益子村大津沢で良質な陶土を発見して根古屋に窯を築いたこと、安政2年（1855年）に黒羽藩から三田称平が郷奉行として赴任し益子焼を保護奨励したこと、安政4年（1857年）には5つの窯元に藩から奨励覚書が交付され財政的援助を得たことを記す）
     url: http://www.mashikoyakikyouhan.jp/history/index.html
-  w7-motegi-clan-wiki:
-    label: Wikipedia「茂木氏」（中世に下野国を根拠とした武家で、常陸国守護を務めた八田氏の一族である八田知家の三男・知基が下野国芳賀郡茂木郷（茂木保）の地頭職を継承して「茂木」を号したことに由来すると記す）
-    url: https://ja.wikipedia.org/wiki/%E8%8C%82%E6%9C%A8%E6%B0%8F
   w7-motegi-kotobank-gou:
     label: コトバンク「茂木郷」（平凡社『日本歴史地名大系』の解説を収録。茂木保東方に属する郷で現在の大字茂木付近に比定され、文和2年（1353年）6月10日の茂木知貞譲状写（茂木文書）に「茂木郷内前小堀」とみえること、以後応永11年（1404年）まで茂木氏歴代に伝領されたことを記す）
     url: https://kotobank.jp/word/%E8%8C%82%E6%9C%A8%E9%83%B7-3034865
@@ -2326,12 +2369,6 @@ sources:
   w7-nakagawa-mlit:
     label: 国土交通省関東地方整備局「那珂川流域の歴史」（那珂川の名の由来は明らかではないが、室町時代の『神明境』に「応永十五年（1408）正月十八日、野州那須山焼崩、硫黄空ヨリ降、常州那珂河硫黄ニ変ズ」とあり、この頃は那珂川の名が用いられていることを記す）
     url: https://www.ktr.mlit.go.jp/ktr_content/content/000024334.pdf
-  w7-nakagawa-ogawa-wiki:
-    label: Wikipedia「小川町（栃木県）」（栃木県那須郡にあった町。1889年4月1日に10か村が合併して那珂村が発足し、1938年7月1日に那珂村が町制施行・改称して小川町となったこと、2005年10月1日に馬頭町と新設合併して那珂川町となり廃止されたことを記す）
-    url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E7%94%BA_(%E6%A0%83%E6%9C%A8%E7%9C%8C)
-  w7-nakagawa-wiki:
-    label: Wikipedia「那珂川町」（栃木県那須郡の町で、町名は町内を流れる那珂川に由来すること、2005年（平成17年）10月1日に小川町と馬頭町の合併により発足したこと、福岡県の那珂川町が2018年10月1日に市制施行して那珂川市となり同名の町が2つ存在する状態が解消されたことを記す）
-    url: https://ja.wikipedia.org/wiki/%E9%82%A3%E7%8F%82%E5%B7%9D%E7%94%BA
   w7-nasu-ohtawara-hi:
     label: 大田原市公式サイト「那須国造碑（国宝・古文書）」（湯津上の笠石神社に祀られる石碑で、碑文は永昌元年（689）に那須国造であった那須直韋提が評督を賜り、庚子の年（700）に亡くなったため後継者の意斯麻呂らが碑を立てたことなどを記すこと、碑文の内容から那須国が下毛野国（後の下野国）に組み入れられたことがわかること、江戸時代に徳川光圀の尽力で顕彰され、武茂郷小口村（現那珂川町）の里正・大金重貞が碑を調べて『那須記』に記し光圀に献上したことを記す）
     url: https://www.city.ohtawara.tochigi.jp/docs/2013082778383

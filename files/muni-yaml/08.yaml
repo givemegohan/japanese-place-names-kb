@@ -663,10 +663,11 @@ records:
     - w5-tone-wiki
   - text: 川名「利根」の語源については、和歌に見える「刀祢（とね）」をめぐって利根郡に由来する説や、源流域の尖った峰々をいう「尖き峰（ときみね）」が転化したとする説など諸説が提唱されてきたが、いずれも定説となっておらず、真の意味は不明とされる
     kind: fact
-    level: E5
+    level: E2
     status: contested
     sources:
-    - w5-tone-river-wiki
+    - upg-af4-tone-mlit-rekishi
+    - upg-af4-tone-mlit-about
   - text: 合併前の中心だった布川は、利根川水運の河岸場・宿場町として栄えた町で、『利根川図志』を著した赤松宗旦の生家が残り、民俗学者の柳田國男も少年期の約3年間を布川で過ごした
     kind: fact
     level: E2
@@ -700,7 +701,7 @@ records:
   - muni/08-五霞町
   unknowns:
   - 1955年の合併に際して「利根町」の名が選ばれた経緯（他の候補名の有無など）は、町公式資料に明記されておらず確認できなかった
-  - 川名「利根」の語源は専門の地名学でも定説がなく、Wikipediaの諸説整理以上の確認はできていない
+  - 川名「利根」の語源は、国土交通省の資料が挙げる諸説（利根郡・尖った峰説、刀嶺岳・刀根岳由来说、アイヌ語「トンナイ」説など）の範囲でも定説がなく、専門の地名学での確定には至っていない
   - 布川の河岸としての最盛期の規模や、布川城・布川宿の詳細な沿革は確認できなかった
   updated: '2026-11-13'
 - id: muni/08-北茨城市
@@ -2009,10 +2010,12 @@ records:
     - w6-tokai-wiki
   - text: 1889年（明治22年）の町村制では、亀下・竹瓦・石神内宿・石神外宿・舟石川の5か村から石神村が、村松・石神白方・石神豊岡・須和間・船場・照沼の6か村から村松村がそれぞれ発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w6-tokai-wiki
+    - w6-tokai-koho-2024
+    - upg-ag6-tokai-geoshape-ishigami
+    - upg-ag6-tokai-geoshape-muramatsu
   - text: 東海村は那珂郡を構成する唯一の町村であり、茨城県内で村は東海村と美浦村の2つだけである
     kind: fact
     level: E2
@@ -2400,7 +2403,15 @@ records:
     status: established
     sources:
     - upg-q2-ryugasaki-kinryuji
-  - text: この金龍寺の昔話は本来は牛久沼の名の由来譚だが、地名「牛久」の由来としても真説のように流布しており、しかも牛久沼そのものは現在の牛久市ではなく龍ケ崎市に位置する
+  - text: この金龍寺の昔話は牛久沼の名の由来譚の一つであり、牛久沼そのものは現在の牛久市ではなく龍ケ崎市に位置する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-q2-ryugasaki-kinryuji
+    - upg-af4-ushiku-mlit-qa
+    - upg-af4-ushiku-ryugasaki-tegami
+  - text: この金龍寺の昔話は、地名「牛久」の由来としても真説のように流布している
     kind: fact
     level: E5
     status: established
@@ -3461,12 +3472,12 @@ records:
     status: established
     sources:
     - u3-takahagi-wiki
-  - text: 1937年の改称は、町内の集落名の一つだった「高萩」を町名全体に採用したものと解されるが、改称の理由を記した資料は確認できなかった
+  - text: 1937年（昭和12年）の改称について、『日本大百科全書（ニッポニカ）』は、常磐炭田の開発で旧松原町の高萩が発展して中心地となり、松原町が高萩町と改称したと記す。改称は、中心地として発展した集落「高萩」の名を町名全体に採用したものと解される
     kind: fact
-    level: E5
+    level: E3
     status: inferred
     sources:
-    - u3-takahagi-wiki
+    - upg-q2-takahagi-nipponica
   - text: 市域は古代の常陸国多賀郡の地で、近世には松岡藩が置かれ、のち水戸藩家老の中山氏の知行地となった
     kind: fact
     level: E5
@@ -3500,7 +3511,7 @@ records:
   - pref/08
   unknowns:
   - 高萩村の語源（萩の多い高台説など）は裏付けのある資料で確認できなかった
-  - 1937年の松原町から高萩町への改称理由（駅名との関係を含む）は未確認
+  - 1937年の松原町から高萩町への改称理由を明記した当時の資料は未確認（ニッポニカは高萩が中心地として発展した経緯を紹介するにとどまる）
   - 高萩村の文献上の初出は未確認
   updated: '2026-11-13'
 - id: muni/08-鹿嶋市
@@ -4026,6 +4037,24 @@ sources:
   u4-kashima-uub-henkan:
     label: 市区町村変遷情報「茨城県鹿嶋市の詳細情報」（1995年9月1日に鹿島町が大野村を編入し、町の名称変更で鹿嶋町となり、同日に市制施行して鹿嶋市となった告示の経緯。当初は新市名「鹿島市」を検討したが自治省が佐賀県鹿島市と同名であることに難色を示し、佐賀県鹿島市からも申入れがあったこと）
     url: https://uub.jp/upd/u/u123.html
+  upg-af4-tone-mlit-about:
+    label: 国土交通省関東地方整備局利根川上流河川事務所「利根川のあらまし 利根川の名前の由来」（「トネ」の語源としてアイヌ語「トンナイ」由来说、尖った峰すなわち利き峰が略されたとする説、等禰直・椎根津彦の人名説、大水上山の別称・刀嶺岳・刀根岳・大刀嶺岳由来说などを挙げ、定説はないとすること。利根川の名が初出する『万葉集』には「刀禰（トネ）」と記されること）
+    url: https://www.ktr.mlit.go.jp/tonejo/m/m-tonegawa/gaiyou/about/B01.htm
+  upg-af4-tone-mlit-rekishi:
+    label: 国土交通省関東地方整備局利根川上流河川事務所「利根川の歴史 利根川の名前」（万葉集に見える「刀祢河泊」の「トネ」について、水源地が利根郡にあるため利根郡中には尖った峰が多くその簡略転化によるとする説、水源の大水上山の別称・刀嶺岳・刀根岳・刀祢岳・大刀嶺岳に由来する説などを挙げること）
+    url: https://www.ktr.mlit.go.jp/tonejo/m/m-tonegawa/rekishi/B07.htm
+  upg-af4-ushiku-mlit-qa:
+    label: 国土交通省関東地方整備局下館河川事務所「Q&A 鬼怒川の言い伝え」（小貝川の支川・牛久沼にまつわる話として、龍ヶ崎の金龍寺の小坊主が牛になって沼に沈んだ話を紹介し、このことから沼を牛久沼（牛食う沼）というようになったとすること）
+    url: https://www.ktr.mlit.go.jp/shimodate/shimodate_q_a005.html
+  upg-af4-ushiku-ryugasaki-tegami:
+    label: 龍ケ崎市公式「市長への手紙 ご意見とその回答（令和5年5月）」（牛久沼の由来の主なものの一つとして「牛を喰った沼」という金竜寺の伝説を挙げ、牛久沼が龍ケ崎市の行政区内にある経緯を説明すること）
+    url: http://3fccc4211a0fb4bab151959ac26ec28e.cdnext.stream.ne.jp/shisei/koho/tegami/iken-anser/r5-4tegami.files/5gatu.tegami.pdf
+  upg-ag6-tokai-geoshape-ishigami:
+    label: 歴史的行政区域データセットβ版（CODH）「茨城県那珂郡石神村」（有効期間は1889年4月1日〜1955年3月31日）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/08B0140018.html
+  upg-ag6-tokai-geoshape-muramatsu:
+    label: 歴史的行政区域データセットβ版（CODH）「茨城県那珂郡村松村」（有効期間は1889年4月1日〜1955年3月31日）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/08B0140021.html
   upg-q10-ishioka-bunkazai:
     label: 石岡市公式資料「歴史・観光」（石岡市文化財保存活用地域計画関連資料。国指定文化財一覧として特別史跡・常陸国分寺跡と常陸国分尼寺跡（いずれも昭和27年3月29日指定）、史跡・常陸国府跡（平成22年8月5日指定）を掲げること、奈良・平安時代の本市には国府が置かれていたことを記す）
     url: https://www.city.ishioka.lg.jp/data/doc/1697435694_doc_17_0.pdf
@@ -4243,7 +4272,7 @@ sources:
     label: Wikipedia「大洗町」（1954年11月3日の発足、1955年7月23日の旭村一部編入）
     url: http://ja.wikipedia.org/wiki/大洗町
   w6-tokai-koho-2024:
-    label: 東海村「広報とうかい 令和6年11月10日号」（発足70周年記念特別企画：「東海村名の由来」、1948年の東海中学校開校、1955年3月31日の発足）
+    label: 東海村「広報とうかい 令和6年11月10日号」（発足70周年記念特別企画：「東海村名の由来」、1948年の東海中学校開校、1955年3月31日の発足、石神村の大字＝亀下・竹瓦・舟石川・石神内宿・石神外宿と村松村の大字＝村松・白方・豊岡・須和間・船場・照沼の構成）
     url: https://www.vill.tokai.ibaraki.jp/material/files/group/1/20241110-10-11.pdf
   w6-tokai-koho-2026:
     label: 東海村「広報とうかい 令和8年7月10日号」（企画展「さきがけ―藤田東湖と東海村―」：村の名前の由来が『正気歌』である旨の案内）

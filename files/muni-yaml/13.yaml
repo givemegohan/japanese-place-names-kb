@@ -2580,13 +2580,13 @@ records:
     sources:
     - upg-u2-higashikurume-kyoiku-dayori
     - upg-u2-geoshape-higashikurume-shi
-  - text: 福岡県久留米市とは読みが同じ「くるめ」だが、本市の名は黒目川の旧称に由来するもので、由来の上で両者は無関係である
+  - text: 福岡県久留米市とは読みが同じ「くるめ」だが、本市の名は黒目川の旧称「久留米川」に由来するもので、由来の上で両者は無関係である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
     - w6-higashikurume-tuushin
-    - w6-higashikurume-wikipedia
+    - upg-af3-higashikurume-yurai
   - text: 総務省の全国地方公共団体コードで、東久留米市の団体コードは132225と定められている
     kind: fact
     level: E2
@@ -3240,12 +3240,12 @@ records:
     status: established
     sources:
     - w6-kiyose-city-yurai
-  - text: 1889年（明治22年）4月1日、上清戸村、中清戸村、下清戸村、清戸下宿村、中里村、野塩村および埼玉県新座郡野火止村の一部を合わせて、北多摩郡清瀬村とした
+  - text: 1889年（明治22年）4月1日、上清戸村・中清戸村・下清戸村・清戸下宿村・中里村・野塩村の6村が合併して、神奈川県北多摩郡清瀬村が発足した（清瀬市広報による）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w6-kiyose-wikipedia
+    - upg-af3-kiyose-koho
   - text: 市名の由来については、市内を流れる柳瀬川の「清らかなせせらぎ（瀬ぎ）」から名付けられたという説もある
     kind: fact
     level: E5
@@ -3276,6 +3276,7 @@ records:
   unknowns:
   - 「清戸」という地名の文書上の初出と、その語源の専門的な検討は未確認
   - 1889年の清瀬村命名の際に「清＋瀬」の合成が実際に行われたことを示す当時の記録は未確認で、市の公式説明が「一説」とする範囲にとどまる
+  - 1889年の清瀬村発足時の構成については、6村のほかに下里村の一部を含むとする資料（市区町村変遷情報）と、新座郡野火止村の一部を含むとする資料（Wikipedia）があり、食い違いが未解消のため、主張には6村のみを記した
   updated: '2026-11-13'
 - id: muni/13-渋谷区
   code: '131130'
@@ -3443,17 +3444,17 @@ records:
   homonyms: []
   summary: 市名は古代の郷名「狛江郷」に由来するとされ、1889年の合併で生まれた村の名となった。「狛江」の語源は、高句麗（高麗）の人々が住んだ入り江の意味が転じたものと伝えられる。『万葉集』の東歌に詠まれた多摩川の布さらしの地でもあり、中和泉には万葉歌碑がある。
   first_attestation:
-    era: 貞観11年
-    year_western: 869
-    document: 『続日本後紀』
-    note: 狛江郷についての記述があり、史料における狛江郷の初見とされる（狛江市史等の紹介による確認で、原文は未読のため関連主張は紹介として扱った）
+    era: 承和13年
+    year_western: 846
+    document: 『続日本後紀』承和13年5月2日条
+    note: 多摩郡狛江郷の戸主の妻が節婦として表彰された記事で、「狛江郷」の名が見える（『日本歴史地名大系』の本文で確認）。狛江郷は『和名類聚抄』にも所載される
   claims:
-  - text: 平安時代の869年（貞観11年）に成立した『続日本後紀』には狛江郷についての記述があり、これが史料における狛江郷の初見だとされる。その範囲は現在の狛江市、調布市を中心とする地域だと推定されている
+  - text: 狛江郷は『和名類聚抄』に載る武蔵国多摩郡の郷名であり、『続日本後紀』承和13年（846年）5月2日条には、多摩郡狛江郷の戸主刑部直道継の妻が節婦として表彰された記事が見える。現在の狛江市駒井がその遺称地とされる（『日本歴史地名大系』による）
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - w6-komae-wikipedia
+    - upg-af3-komae-taikei
   - text: 「狛江」という地名は、7世紀後半に朝鮮半島から渡来してくる人々が増える中で、高句麗の別名である「高麗（こま）」の人々が住む入り江という意味が転じて「狛江」になったとも伝えられている
     kind: fact
     level: E2
@@ -3501,7 +3502,7 @@ records:
   - pref/13
   - muni/13-調布市
   unknowns:
-  - 『続日本後紀』の狛江郷の記述の原文は未読で、市史を紹介する二次資料経由の確認にとどまる
+  - 狛江郷の用例は『日本歴史地名大系』が引く『続日本後紀』承和13年（846年）の記事で確認したが、それより古い用例の有無や、この記事が史料上の初見であるかは未確認
   - 1889年の村名が古代の郷名「狛江郷」から採用されたという点と、市制時の新市名アンケートで「狛江」の継続が73.5パーセントで最多だったという点は、市史等の本文での確認が未了
   - 「狛江」の語源の高麗説は「伝えられている」段階の説明で、専門辞典による確定は未確認。他説（狛＝獅子・犬に関わる説など）の有無も未調査
   updated: '2026-11-13'
@@ -3601,10 +3602,10 @@ records:
   claims:
   - text: 「町田」という地名の由来は諸説あり定かではないが、田の区画を意味する「町」から区画した田地のことを指したとする説、昔は「マチ」と「イチ」が同じ意味で使われ町田では市が盛んだったことによるとする説、市の神を祀る費用を工面するための田「祭り田（まつりだ）」のことからとする説などが挙げられる
     kind: fact
-    level: E5
+    level: E2
     status: contested
     sources:
-    - l2-machida-wikipedia
+    - upg-af6-machida-library-chimei
   - text: 天正10年（1582）、町田・森野・木曾の間にあった草刈場の相之原を開発して町田村から原町田村が分村し、その際にもとの町田村は本町田村と称するようになった。現在の中心市街地は、後から分かれた原町田側に発展した
     kind: fact
     level: E3
@@ -3648,7 +3649,7 @@ records:
   relations:
   - pref/13
   unknowns:
-  - 語源の諸説はいずれもWikipediaの紹介に基づくもので、町田市史など自治体史での裏付けは取れていない
+  - 語源の諸説は町田市立図書館の郷土資料『町田の地名のいわれ』で確認したが、町田市史など自治体史での裏付けは取れていない
   - 町田村の文献上の初出（1582年より前）は、確認できていない
   updated: '2026-11-13'
 - id: muni/13-目黒区
@@ -3994,12 +3995,12 @@ records:
   formation: 改称
   prefecture: 東京都
   homonyms: []
-  summary: 「立川」の語源には、多摩川が縦に流れる一帯を指した「立の河」が変化したという説と、豪族・立川氏が城を築いたことに由来するという説がある。村名としては、1881年に柴崎村が郡内の同名の村との混同を避けて旧郷名「立川」に改称したのが自治体名の始まりで、1940年に東京府で3番目の市制を施行した。
+  summary: 「立川」の語源には、多摩川が縦に流れる一帯を指した「立の河」が変化したという説と、中世の豪族・立川氏に由来するという説がある。村名としては、1881年に柴崎村が郡内の同名の村との混同を避けて旧郷名「立川」に改称したのが自治体名の始まりで、1940年に東京府で3番目の市制を施行した。
   first_attestation:
-    era: 享徳4年
-    year_western: 1455
-    document: 分倍河原の戦いの舞台としての「立河原」の呼称
-    note: 「立川」に通じる地名の古い用例。村名としての「立川」の採用は1881年
+    era: 永正元年
+    year_western: 1504
+    document: 立河原の戦いの舞台としての「立河原」の呼称
+    note: 「立川」に通じる地名の古い用例（立川市市史編さん広報に、立河原合戦の戦死者を供養する銅鉦鼓の調査記事がある）。村名としての「立川」の採用は1881年
   claims:
   - text: 「立川」の由来には、武蔵国府が現在の府中市にあった時代、府中宿付近より見て多摩の横山から多摩川が縦方向（南北）に流れている近辺（現在の立川、日野近辺）を「立の河」と呼んでいたものが次第に変化して「立川」になったという説があり、この場合の「川」は現在の多摩川を指す
     kind: fact
@@ -4007,25 +4008,32 @@ records:
     status: contested
     sources:
     - w6-tachikawa-wikipedia
-  - text: 「立川」の由来には、地方豪族の立川氏が現在の普済寺に城をつくったことから「立川」になったという説もある
+  - text: 「立川」の由来については、中世にこの地に居住した武蔵七党の一つ西党日奉氏の一族が立川（立河）氏を称したことが地名の起こりだとする説がある（『精選版 日本国語大辞典』による）
     kind: fact
-    level: E5
+    level: E3
     status: contested
     sources:
-    - w6-tachikawa-wikipedia
-  - text: 立川付近の多摩川の河原は「立河原」と呼称され、1455年（享徳4年から康正元年）の分倍河原の戦いの追撃戦と、1504年（文亀4年から永正元年）の立河原の戦いの舞台となった
+    - upg-af3-tachikawa-kokugo
+  - text: 立川付近の多摩川の河原は「立河原」と呼称され、1504年（永正元年）の立河原の戦いの舞台となった。この戦いの戦死者を供養する目的で作られた銅鉦鼓が市内に伝わり、立川市の市史編さん係が調査している
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - w6-tachikawa-wikipedia
+    - upg-af3-tachikawa-shishi
   - text: 1881年（明治14年）、柴崎村から立川村に改称した。これは北多摩郡内に同名の柴崎村（現在の調布市柴崎）があったため、戦国期の郷名である「立川」に改称したとされる
     kind: fact
     level: E5
     status: established
     sources:
     - w6-tachikawa-wikipedia
-  - text: 1940年（昭和15年）12月1日に立川町が市制を施行して立川市となった。東京府では東京市、八王子市に次いで3番目の市制施行で、かつ東京府時代最後の市制施行自治体となった
+  - text: 1940年（昭和15年）12月1日に立川町が市制を施行して立川市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-ae2-tachikawa-museum-nenpyo
+    - upg-ae2-tachikawa-geoshape
+  - text: 東京府では東京市、八王子市に次いで3番目の市制施行で、かつ東京府時代最後の市制施行自治体となった
     kind: fact
     level: E5
     status: established
@@ -4046,8 +4054,9 @@ records:
   - pref/13
   - muni/13-府中市
   unknowns:
-  - 「立の河」説と立川氏説のどちらが有力かは、立川市史など専門資料での確認ができておらず未確定
+  - 「立の河」説は専門資料のWeb公開分では確認できておらず、立川氏説（『精選版 日本国語大辞典』が地名の起こりとして紹介）との優劣は未確定
   - 1881年の柴崎村から立川村への改称の経緯は、Wikipediaの記述（「とされる」）によるもので、当時の公文書での裏付けは未確認
+  - 1455年（享徳4年）の分倍河原の戦いの追撃戦が立河原で行われたとする記述は、公的・専門資料のWeb公開分では確認できなかったため、主張からは除いた
   updated: '2026-11-13'
 - id: muni/13-練馬区
   code: '131202'
@@ -4534,12 +4543,12 @@ records:
     status: established
     sources:
     - m6-chofu-ayumi
-  - text: 1889年の調布町は、上布田村・下布田村・国領宿・上石原村・下石原村・飛田給村・上ヶ給村・布田小島分村が合併して発足した
+  - text: 1889年の調布町は、上布田宿・下布田宿・国領宿・上石原宿・下石原宿・飛田給村・上ヶ給村・布田小島分村の合併（大沢村の一部を含む）で発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - m6-chofu-machi-wiki
+    - upg-ae5-chofu-uub
   - text: 江戸時代、甲州街道沿いの国領・下布田・上布田・下石原・上石原の5宿は「布田五宿」と呼ばれ、交替で宿場の務めを果たした
     kind: fact
     level: E2
@@ -4946,9 +4955,6 @@ sources:
   l2-hachioji-yurai:
     label: 八王子市公式ホームページ「八王子市の名前の由来（八王子神社）」（牛頭天王と八王子信仰、宗関寺の古記録と妙行の伝承、1569年氏康書状の八王子筋、氏照の八王子城築城）
     url: https://www.city.hachioji.tokyo.jp/kankobunka/003/002/p005301.html
-  l2-machida-wikipedia:
-    label: Wikipedia「町田市」（地名の由来の諸説、1958年2月1日の1町3村合併による市制施行）
-    url: https://ja.wikipedia.org/wiki/%E7%94%BA%E7%94%B0%E5%B8%82
   m6-akishima-70th:
     label: 昭島市「市制施行70周年記念誌」（近世10か村の名前の由来諸説、拝島の大日如来漂着伝承、組合村から昭和村への系譜）
     url: https://www.city.akishima.lg.jp/_res/projects/default_project/_page_/001/005/370/akishimakinennsi70th.pdf
@@ -4970,9 +4976,6 @@ sources:
   m6-chofu-kotobank:
     label: コトバンク「調布市」（ブリタニカ国際大百科事典小項目事典。地名は大化改新の税制で調として布を貢じたことに由来）
     url: https://kotobank.jp/word/%E8%AA%BF%E5%B8%83%E5%B8%82-98164
-  m6-chofu-machi-wiki:
-    label: Wikipedia「調布町」（1889年の発足時の合併構成、1955年4月1日の調布市新設）
-    url: https://ja.wikipedia.org/wiki/%E8%AA%BF%E5%B8%83%E7%94%BA
   m6-chofu-radiko:
     label: radiko news「小金井・福生・調布など多摩の"地名の魔力"に迫る」（地図研究家・今尾恵介。多摩川沿いに3つあった「調布」と1889年の命名）
     url: https://news.radiko.jp/article/station/TBS/115210/?_ref=intro
@@ -5036,6 +5039,33 @@ sources:
   m6-ome-plan:
     label: 青梅市「第7次青梅市総合長期計画（第2章 本市の概況・本市の歩み）」（1951年の市制・1955年の編入、青梅宿と織物、ウメ輪紋ウイルスによる伐採と梅の里再生）
     url: http://www.city.ome.tokyo.jp/uploaded/life/117521_236480_misc.pdf
+  upg-ae2-tachikawa-geoshape:
+    label: 歴史的行政区域データセットβ版「立川市」（国立情報学研究所。立川市の有効期間が1940年12月1日からであること、前身の立川町の有効期間が1923年12月1日から1940年12月1日までであることを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/13202A1968.html
+  upg-ae2-tachikawa-museum-nenpyo:
+    label: 立川市歴史民俗資料館 年表（昭和15年（1940年）12月に立川町が市制を施行し、立川市となったことを記す）
+    url: https://d3vmgtma8ssh52.cloudfront.net/_res/projects/default_project/_page_/001/004/905/6koubutetudounokaihatu.pdf
+  upg-ae5-chofu-uub:
+    label: 市区町村変遷情報「法的根拠等に基づく変遷 神奈川県」（1889年の新設の項で、北多摩郡調布町が布田小島分・上石原宿・下石原宿・上布田宿・下布田宿・国領宿・上ヶ給村・飛田給村（大沢村の一部を含む）の区域で発足したとあること。当時の調布町は神奈川県に属した）
+    url: https://uub.jp/upd/s_kanagawa.html
+  upg-af3-higashikurume-yurai:
+    label: 東久留米市公式「東久留米の名前の由来」（1889年（明治22年）に誕生した久留米村の名称は市内を流れる「久留米川」から付けられたというのが一般的な説であること、現在の黒目川は江戸時代の文献や石碑に「久留目川」「来目川」「来梅川」と書かれ、明治政府編纂の『皇国地誌』には「久留米川」と記されていること、1970年（昭和45年）の市制施行に際しては福岡県久留米市との行政的な混同を避けるため等の理由で「東久留米市」となったことを記す）
+    url: https://www.city.higashikurume.lg.jp/shisei/profile/youkoso/1000074.html
+  upg-af3-kiyose-koho:
+    label: 清瀬市広報「広報きよせ」2024年4月1日号の特集「清瀬村誕生135周年」（明治22年（1889年）4月1日に上清戸・中清戸・下清戸・清戸下宿・中里・野塩の6つの村が1つになって清瀬村が誕生したことを記す）
+    url: https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/013/646/240401_all.pdf
+  upg-af3-komae-taikei:
+    label: コトバンク『日本歴史地名大系』「狛江郷」（狛江郷は『和名類聚抄』所載の武蔵国多摩郡の郷であり、『続日本後紀』承和13年（846年）5月2日条に多摩郡狛江郷の戸主刑部直道継の妻が節婦として表彰された記事が見えること、現狛江市駒井が遺称地とされることを記す）
+    url: https://kotobank.jp/word/%E7%8B%9B%E6%B1%9F%E9%83%B7-3042272
+  upg-af3-tachikawa-kokugo:
+    label: コトバンク『精選版 日本国語大辞典』「立川」（中世、この地に居住した武蔵七党の一つ西党日奉氏の一族が立川（立河）氏を称したのが地名の起こりであると記す）
+    url: https://kotobank.jp/word/%E7%AB%8B%E5%B7%9D-93447
+  upg-af3-tachikawa-shishi:
+    label: 立川市 市史編さん広報紙（市史編さん係が、市内に伝わる永正元年（1504年）の立河原合戦の戦死者を供養する目的で作られた銅鉦鼓を調査したことを記す）
+    url: http://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/003/087/shishidayori_13.pdf
+  upg-af6-machida-library-chimei:
+    label: 町田市立図書館公式サイト掲載の郷土資料『町田の地名のいわれ』（「町田」の語源として、田の区画「町」から区画した田地を指すという説、「まつりだ（祭り田）」が「まちだ」になったという説、昔はマチとイチが同じ意味で市が盛んだったことによるという説の3説を挙げる）
+    url: https://www.library-machida.tokyo.jp/assets/%E7%94%BA%E7%94%B0%E3%81%AE%E5%9C%B0%E5%90%8D%E3%81%AE%E3%81%84%E3%82%8F%E3%82%8C.pdf
   upg-u10-murayama-musashimurayama-plan:
     label: 武蔵村山市「第五次長期総合計画 総論」（狭山丘陵の周辺は古くから村山郷と呼ばれ、地名の起こりは、狭山丘陵の峰々を指した「群山（むれやま）」がなまって「村山」になったといわれると記す）
     url: https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/020/967/souron.pdf
