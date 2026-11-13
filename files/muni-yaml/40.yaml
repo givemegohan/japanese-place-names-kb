@@ -84,6 +84,80 @@ records:
   - 「浮羽」の語源について、『日本書紀』は盞（ウキ）の故事を掲げ、生葉（イクハ）はその訛とするが、実際の用例では生葉が先行しており、語源の確定はできない
   - 新市名公募の応募総数と、最終候補5点の具体的な名称は、確認した資料では示されていなかった
   updated: '2026-11-13'
+- id: muni/40-みやこ町
+  code: '406252'
+  names:
+    ja: みやこ町
+    reading: みやこまち
+    aliases:
+    - 勝山町
+    - 犀川町
+    - 豊津町
+  user_terms:
+  - みやこまち
+  - 京都郡の町
+  - みやこぐん
+  - 豊前国府の町
+  naming_type: 合併新設
+  prefecture: 福岡県
+  homonyms: []
+  summary: 福岡県東部、京都郡の町。2006年3月20日に勝山町・犀川町・豊津町の新設合併で発足した。町名は郡名によるもので、京都郡は「きょうと」ではなく「みやこ」と読む。郡名の由来には、日本書紀に記される景行天皇の滞在伝承が地域資料で紹介されている。豊津地区には豊前国の国府跡・国分寺跡がある。
+  first_attestation:
+    era: 平成時代
+    year_western: 2006
+    document: 3町の新設合併による新町名「みやこ町」
+    note: 町名そのものは2006年の新命名。由来となった郡名「京都（みやこ）」の初出文献は未確認
+  claims:
+  - text: 2006年（平成18年）3月20日、豊津町・犀川町・勝山町の3町が新設合併してみやこ町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-yanagawa-soumu-gappei
+    - r3-miyako-wiki
+  - text: 町名は、所属する京都郡の郡名「みやこ」に因んで名付けられた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-miyako-wiki
+  - text: 京都郡は「きょうと」ではなく「みやこ」と読み、現在の郡は1896年（明治29年）4月1日に旧京都郡と仲津郡の区域をもって再編されたものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-miyako-wiki
+  - text: 郡名「みやこ」の由来として、日本書紀に、景行天皇が九州に来られた際に仮の御殿を建てて滞在され、天皇がしばらく住まわれた場所なのでこの地は「みやこ」と呼ばれるようになった、との記述があると地域の観光協会資料が紹介する
+    kind: legend
+    level: E4
+    status: indeterminate
+    sources:
+    - r3-miyako-pref-pdf
+    - r3-miyako-jiji
+  - text: 豊津地区では豊前国の国府跡や国分寺跡が発見されており、古代には豊前国の中心地であったとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-miyako-wiki
+  - text: 総務省の地方公共団体コードは406252である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「京都」と書いて「みやこ」と読む
+    text: みやこ町の名は、日本で唯一といっていい読み方をする郡名から来ている。「京都」と書いて「きょうと」ではなく「みやこ」と読む京都郡である。地元では、日本書紀にある景行天皇の滞在の物語がその由来として語られ、実際に豊津には豊前国の国府と国分寺があった。都（みやこ）とは無関係に思える地名の奥に、古代の国の中心地だったという土地の記憶が重なっている。
+    sources:
+    - r3-miyako-pref-pdf
+    - r3-miyako-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 郡名「京都（みやこ）」の初出文献と、古代における読みの確定資料は未確認
+  - 景行天皇の滞在を記すとされる日本書紀の原文該当箇所は未読のため、伝承として格下げして記録した
+  updated: '2026-11-13'
 - id: muni/40-みやま市
   code: '402290'
   names:
@@ -155,6 +229,83 @@ records:
   unknowns:
   - 旧中心地名「瀬高」の語源（矢部川の瀬に由来するという説があるが、公的・専門資料では確認できなかった）
   - 公募の応募総数と、最終候補から「みやま」を選んだ投票等の具体的な手続きは、市の公表資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-上毛町
+  code: '406465'
+  names:
+    ja: 上毛町
+    reading: こうげまち
+    aliases:
+    - 新吉富村
+    - 大平村
+  user_terms:
+  - こうげまち
+  - 大平山の町
+  - 旧上毛郡の町
+  naming_type: 合併新設
+  prefecture: 福岡県
+  homonyms: []
+  summary: 福岡県東端、築上郡の町。2005年10月11日に新吉富村と大平村が合併し町制施行して発足した。町名は、築上郡が誕生する前にこの地域が属していた旧郡名「上毛郡」にちなむ復活命名である。この「上毛」は豊前国の三毛郡が山国川を境に上下に分かれた一方に由来し、群馬県の旧国名「上毛野」との直接の関係は確認できない。
+  first_attestation:
+    era: 平成時代
+    year_western: 2005
+    document: 合併による新町名「上毛町」（旧郡名の復活採用）
+    note: 町名そのものは2005年の新命名。旧郡名「上毛」自体は古代の三毛郡の分割に遡る
+  claims:
+  - text: 2005年（平成17年）10月11日、新吉富村と大平村が対等合併し、町制を施行して上毛町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-yanagawa-soumu-gappei
+    - r3-koge-wiki
+  - text: 町名は、築上郡が誕生する前、この地域が明治時代以前に上毛郡と呼ばれていたことから、その旧郡名にちなんで名付けられた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-koge-wiki
+  - text: 上毛郡は、古代の三毛郡（みけのこおり）が後に山国川を境に上三毛郡と下三毛郡に分けられ、さらに上毛郡・下毛郡となったもので、1896年（明治29年）に築城郡と合併して築上郡となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-koge-gun-wiki
+  - text: 群馬県の旧国名「上毛野（こうずけ）」との直接の関係を示す資料は確認できず、当地の「上毛」は豊前国三毛郡の上下分割に由来する、由来の経路が異なる地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-koge-gun-wiki
+  - text: 前身の大平村は1955年（昭和30年）に唐原村と友枝村の合併で誕生し、村名は両村にまたがる大平山にちなむ。新吉富村も同年に西吉富村と南吉富村の合併で誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-koge-wiki
+  - text: 合併は当初、吉富町を含む3町村で進められ、新町名は「大富町」（おおとみまち）に決まっていたが、新町役場の位置や大平村で起きた不祥事をめぐって協議が難航し、吉富町を除く2村で合併することとなった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-koge-wiki
+  - text: 総務省の地方公共団体コードは406465である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた町名「大富町」
+    text: 上毛町が誕生する前、この地域の合併後の名前は別のものに決まっていた。吉富町・新吉富村・大平村の3町村は法定合併協議会を設け、新町名を「大富町」と決定した。しかし役場の位置などをめぐって協議は難航し、吉富町は合併から離脱。残った2村は旧郡名「上毛」を新しい町の名に選んだ。決まっていた名前が消え、失われていた郡の名前が百年ぶりに自治体名として戻ってきた合併である。
+    sources:
+    - r3-koge-wiki
+    - r3-yoshitomi-wiki
+  relations:
+  - pref/40
+  - muni/40-吉富町
+  unknowns:
+  - 旧郡名「上毛」の初出文献（古代の三毛郡の分割を記す一次史料）は未確認
   updated: '2026-11-13'
 - id: muni/40-中間市
   code: '402150'
@@ -243,6 +394,76 @@ records:
   unknowns:
   - 村名「中間」自体の語源は確認できなかった。遠賀川と堀川の「中間」に位置することに由来するという地形説が語られることがあるが、今回確認した公的資料（市勢要覧・福岡共同公文書館）ではその裏付けは取れなかった。なお堀川は中間を起点として開削されており、「中間」の地名は運河より古い層に属する
   - 中間村の名の文献上の初出は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-久山町
+  code: '403482'
+  names:
+    ja: 久山町
+    reading: ひさやままち
+    aliases:
+    - 久原村
+    - 山田村
+  user_terms:
+  - ひさやままち
+  - 久山町研究の町
+  - ひさやま方式の町
+  naming_type: 合併新設
+  prefecture: 福岡県
+  homonyms: []
+  summary: 福岡県中部、糟屋郡の町で、読みは「ひさやままち」。1956年9月30日に久原村と山田村が合併して発足した。町名は久原の「久」と山田の「山」を合わせた合成地名である。1961年から続く九州大学との疫学研究「久山町研究」の町として世界的に知られる。
+  first_attestation:
+    era: 昭和時代
+    year_western: 1956
+    document: 久原村・山田村の合併による新町名「久山町」
+    note: 2村の頭文字を合わせた合成地名として1956年に生まれた
+  claims:
+  - text: 1956年（昭和31年）9月30日、久原村と山田村が合併して久山町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-hisayama-geoshape
+    - r3-hisayama-wiki
+  - text: 町名は、久原村の「久」と山田村の「山」の頭文字を合わせた合成地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-hisayama-wiki
+  - text: 久原村は1889年（明治22年）に単独で村制を施行し、山田村は同年に山田村と猪野村の合併によって成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-hisayama-wiki
+  - text: 旧村名は、現在の大字である久原・山田（猪野を含む）に地名として残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-hisayama-wiki
+  - text: 1961年（昭和36年）から、行政・町内開業医・九州大学久山町研究室が連携した健診事業が60年以上続いており、「ひさやま方式」として知られる疫学研究（久山町研究）の町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-hisayama-town-plan
+  - text: 総務省の地方公共団体コードは403482で、町の読みは「ひさやままち」である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 二文字の合成地名と「ひさやま方式」
+    text: 久山町の名前は、久原と山田、合併した二つの村から一字ずつ取った合成地名である。その名が世界に知られるようになったのは地名の由来とは別のところにある。1961年に始まった住民健診と九州大学の追跡研究は「久山町研究」と呼ばれ、脳卒中や心血管病の疫学に大きな成果を残した。合成地名という無難な命名が、医学の分野で固有名詞として通用する町になった。
+    sources:
+    - r3-hisayama-town-plan
+    - r3-hisayama-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 合成地名としての命名を決めた当時の協議記録（町史等）は未確認
   updated: '2026-11-13'
 - id: muni/40-久留米市
   code: '402036'
@@ -550,6 +771,85 @@ records:
   - 地区名「古賀」の文献上の初出と語源は確認できなかった
   - 改称の理由について、市の一次資料による明示は未確認であり、駅に由来するという説明は言い伝えとして伝わるもの
   updated: '2026-11-13'
+- id: muni/40-吉富町
+  code: '406422'
+  names:
+    ja: 吉富町
+    reading: よしとみまち
+    aliases:
+    - 東吉富村
+    - 吉富郷
+  user_terms:
+  - よしとみまち
+  - 九州で一番小さい町
+  - 吉富製薬の町
+  - 神様が相撲をとる町
+  naming_type: その他
+  prefecture: 福岡県
+  homonyms: []
+  summary: 福岡県最東端、築上郡の町。町名は室町時代から呼ばれてきた郷名「吉富郷」に由来する。1889年に成立した東吉富村が、吉富製薬の工場創立を背景に1942年5月19日に「東」を外して吉富町と改称し町制を施行した。昭和・平成の大合併でも単独を保ち、九州で最も小さい町の一つである。
+  first_attestation:
+    era: 室町時代
+    year_western: null
+    document: 吉富郷（福岡共同公文書館が「室町時代から呼称されてきた」と紹介）
+    note: 郷名の一次史料における初出自体は未確認
+  claims:
+  - text: 町名は、室町時代から呼称されてきた「吉富（よしとみ）郷」に由来して名付けられたと、福岡共同公文書館が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-yoshitomi-kobunsyokan
+  - text: 1889年（明治22年）に東吉富村と高浜村が誕生し、築上郡設置の際（1896年）に高浜村のうち山国川を境とした西側の小祝・小犬丸が東吉富村に編入され、現在の町の姿となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-yoshitomi-kobunsyokan
+  - text: 1940年（昭和15年）の吉富製薬の工場創立に伴い、1942年（昭和17年）5月19日に東吉富村が吉富町と改名して町制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-yoshitomi-kobunsyokan
+  - text: 吉富製薬（現在の田辺ファーマの吉富工場）の企業城下町として発展した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-yoshitomi-wiki
+  - text: 町公式のSDGs未来都市計画では、面積5.72平方キロメートルで沖縄県を除いて九州で最も小さい自治体とされ、昭和・平成の大合併でも合併せず単独を保ってきたことが記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-yoshitomi-town-sdgs
+  - text: 平成の合併協議では新吉富村・大平村と新町名「大富町」でいったん合意したが、対立により破談し、吉富町は単独存続を選んだ
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-yoshitomi-wiki
+  - text: 総務省の地方公共団体コードは406422である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郷の名を分け合う二つの町
+    text: 中世の吉富郷は、現在の吉富町と上毛町にまたがる地域だった。郷はやがて東吉富・西吉富・南吉富に分かれ、東吉富は吉富町に、西と南は新吉富村を経て上毛町の一部になった。平成の合併では両者が「大富町」として一つに戻る案が決まりかけたが破談し、郷の名は吉富町が、郡の名は上毛町が名乗る形で落ち着いた。八幡古表神社の「神様が相撲をとる町」という顔も持つ、小さいが由緒のある町である。
+    sources:
+    - r3-yoshitomi-kobunsyokan
+    - r3-koge-wiki
+  relations:
+  - pref/40
+  - muni/40-上毛町
+  unknowns:
+  - 「吉富郷」の一次史料における初出は未確認
+  - 1896年の高浜村との関係について、福岡共同公文書館は一部（小祝・小犬丸）の編入とし、Wikipediaは同年5月1日の合併による東吉富村の再発足としており、記述の細部が異なる
+  - 面積について町公式計画は5.72平方キロメートル、福岡共同公文書館ブログは5.68平方キロメートルとしており、数値に差がある
+  updated: '2026-11-13'
 - id: muni/40-嘉麻市
   code: '402273'
   names:
@@ -624,6 +924,167 @@ records:
   - 「鎌（かま）」という元の地名の語源（鎌形の地形に由来するのか等）は、確認した資料では説明されていなかった
   - 『日本書紀』の「鎌の屯倉」の記事と後の嘉麻郡とのつながりは市の観光協会資料の説明によるもので、専門辞典による裏付けは未確認
   updated: '2026-11-13'
+- id: muni/40-大任町
+  code: '406082'
+  names:
+    ja: 大任町
+    reading: おおとうまち
+    aliases:
+    - 大任村
+    - 大行事村
+    - 今任原村
+  user_terms:
+  - おおとうまち
+  - 道の駅おおとう桜街道の町
+  - 花としじみの里
+  naming_type: 合併新設
+  prefecture: 福岡県
+  homonyms: []
+  summary: 福岡県北東部、田川郡の町。1889年に今任原村と大行事村が合併して大任村が成立した際の、大行事の「大」と今任原の「任」を取った合成地名である。村時代の読みは「おおとうむら」で、1960年の町制施行により大任町（おおとうまち）となった。町の中央を彦山川が流れる。
+  first_attestation:
+    era: 明治時代
+    year_western: 1889
+    document: 今任原村・大行事村の合併による新村名「大任村」
+    note: 両村名から一字ずつ取った合成地名として1889年に生まれた
+  claims:
+  - text: 明治22年（1889年）の町村制施行に伴い、今任原村（いまとうばるむら）と大行事村（だいぎょうじむら）が合併して大任村（おおとうむら）が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-oto-kobunsyokan
+  - text: 村名「大任」は、大行事村の「大」と今任原村の「任」を一字ずつ取った合成地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-oto-wiki
+  - text: 昭和35年（1960年）1月1日、大任村が町制を施行して大任町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-oto-kobunsyokan
+    - r3-oto-geoshape
+  - text: 大行事村は1887年に福田村・元松村・白土村・安永村・成光村・秋永村・柿原村の合併で、今任原村は上今任村・下今任村・桑原村の合併で、それぞれ先行して成立していた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-oto-wiki
+  - text: 町は田川郡のほぼ中央に位置し、町の中央を南北に彦山川が貫流する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-oto-kobunsyokan
+  - text: 町役場は、合成地名の「大」の字を与えた旧大行事村域の大字大行事に所在する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-oto-wiki
+  - text: 総務省の地方公共団体コードは406082である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読みが変わった合成地名
+    text: 大任町の名は、1889年の合併で生まれた合成地名だが、読みは一度変わっている。村の時代は「おおとうむら」、1960年の町制施行で「おおとうまち」になった。名前を与えた二つの村のうち、大行事は今も大字として残り、町役場もその大字大行事に置かれている。今任原の「任」の字も、合成されて以来ずっと町の名の後ろ半分を担っている。筑豊炭田の産炭地として栄えた歴史を持ち、今は道の駅「おおとう桜街道」と彦山川のしじみで知られる。
+    sources:
+    - r3-oto-kobunsyokan
+    - r3-oto-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 「今任」「大行事」という旧村名自体の語源は未確認
+  updated: '2026-11-13'
+- id: muni/40-大刀洗町
+  code: '405035'
+  names:
+    ja: 大刀洗町
+    reading: たちあらいまち
+    aliases:
+    - 太刀洗
+  user_terms:
+  - たちあらい
+  - 大刀洗
+  - 菊池武光が太刀を洗った町
+  - 大刀洗飛行場のあった町
+  - 太刀洗と間違えられる町
+  naming_type: 一部の地名（旧・大刀洗村の名を継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 三井郡の町で、筑後平野の北東部に位置する。町名の本義は「太刀洗」で、南北朝時代の武将・菊池武光が合戦の後に小川で太刀を洗ったという伝承に由来するとされる。1889年に「太刀洗村」と届け出たものが官報に「大刀洗村」と誤って掲載され、その表記がそのまま自治体名として定着した。1955年に大刀洗村・本郷村・大堰村が合併して現在の町となった。
+  first_attestation:
+    era: 南北朝時代
+    year_western: 1359
+    document: 大保原の合戦（筑後川の戦い）にまつわる菊池武光の太刀洗い伝承
+    note: 由来伝承の舞台となった年であり、「太刀洗」の表記での文献初出そのものは確認できなかった
+  claims:
+  - text: 菊池武光が合戦の後、小川で血のついた太刀を洗い、川がたちまち朱に染まったといい、そこから「太刀洗」という地名が生まれたと伝えられる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - r4-tachiarai-asahi
+  - text: 福岡県の広報誌『グラフふくおか』は、町名は1359年の筑後川の戦いにおいて武将・菊池武光が小川で太刀を洗ったという伝説から名付けられたと紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r4-tachiarai-fukuoka
+  - text: 武光が小川を渉ったところを「菊池渡り」といい、太刀を洗った川を「太刀洗川」と称するようになったことが「太刀洗」という地名の由来だと言われている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - r4-tachiarai-wiki
+  - text: 1889年（明治22年）の町村制施行の際、村は「太刀洗村」として届け出たが、政府側の手違いで官報に「大刀洗村」と誤って記載され、訂正の申請は認められなかったため、「大刀洗」の表記が自治体名として定着した（朝日新聞が町企画財政課の説明として紹介）
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r4-tachiarai-asahi
+  - text: 1955年（昭和30年）3月31日、大刀洗村・本郷村・大堰村が対等合併し、大刀洗町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-tachiarai-wiki
+  - text: 大刀洗公園には、町名の由来となった武将・菊池武光の銅像が設置されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-tachiarai-fukuoka
+  - text: 町の北部から隣の筑前町にかけて、かつて「東洋一と謳われた」大刀洗飛行場があり、大刀洗陸軍飛行学校が置かれて西日本航空発祥の地とされる。飛行場の名には「大刀洗」ではなく「太刀洗」の表記が残った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-tachiarai-town
+  - text: 地方公共団体コードは405035である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 役所の手違いが町名になった
+    text: 「太刀洗村」の届け出が官報で「大刀洗村」と誤植され、訂正も認められないまま130年以上が過ぎた。一方で、旧陸軍の大刀洗飛行場や駅名などには本来の「太刀洗」の表記が残り、町内とその周辺では今も「大刀洗」と「太刀洗」が混在している。誤記が正式な地名として勝ち残った、全国でも珍しい例である。
+    sources:
+    - r4-tachiarai-asahi
+    - r4-tachiarai-town
+  relations:
+  - pref/40
+  - muni/40-筑前町
+  unknowns:
+  - 「太刀洗」の表記での地名の文献初出（伝承の舞台である1359年以前に遡るか）は確認できなかった
+  - 官報の誤記について、官報そのものや県の公文書での直接確認はできていない（町企画財政課の説明を伝える新聞報道による）
+  updated: '2026-11-13'
 - id: muni/40-大川市
   code: '402125'
   names:
@@ -692,6 +1153,88 @@ records:
   unknowns:
   - 「大川」の語源の定説（筑後川そのものを指した呼び名だったのか、1889年の合併時に新たに付けられたのか）は、公的・専門資料では確認できなかった
   - 明治22年（1889年）の大川町の成立時の構成（榎津・小保・向島などの範囲）は、市の要約資料からは確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-大木町
+  code: '405221'
+  names:
+    ja: 大木町
+    reading: おおきまち
+    aliases: []
+  user_terms:
+  - おおき
+  - 大木
+  - クリーク（堀）の町
+  - 三潴郡で唯一の町
+  naming_type: 合併新設（1955年に3村が合併し、村を経ず町として発足）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 三潴郡の町で、筑後平野の南西部に位置する。1889年に発足した大溝村・木佐木村・大莞村が、1955年1月1日に合併し、村を経ずに直接町制を施行して大木町となった。新町名「大木」は村民公募で集められた候補を協議で3案に絞り、全村民投票で決定したと福岡県公文書館が紹介する。2005年以降は三潴郡を構成する唯一の自治体である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 大溝村・木佐木村・大莞村の合併に伴う新町名の選定（福岡県公文書館の紹介による全村民投票）
+    note: 町名「大木」そのものの成立時点。前身の旧村名の初出は確認していない
+  claims:
+  - text: 1889年（明治22年）の町村制施行により、大溝村・木佐木村・大莞村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-ooki-town
+    - r4-ooki-kobunshokan
+  - text: 1955年（昭和30年）1月1日、大溝村・木佐木村・大莞村が新設合併して町制を施行し、大木町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-ooki-wiki
+  - text: 福岡県公文書館によれば、新しい町名は村民から募集し、協議で絞られた「大木」「木佐木」「花井」の3つの候補から、全村民投票によって「大木」に決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-ooki-kobunshokan
+  - text: 「大木」は大溝村の「大」と木佐木村の「木」を合わせた合成名と見ることもできるが、命名の理由を明記した公的資料は確認できず、確認できるのは村民投票で選ばれたという経緯のみである
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r4-ooki-kobunshokan
+  - text: 2005年（平成17年）に城島町と三潴町が久留米市へ編入合併された結果、大木町は三潴郡を構成する唯一の自治体となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-ooki-kobunshokan
+  - text: 町域は標高4〜5メートルのほぼ平坦な水田地帯で、「堀」と呼ばれるクリーク（溝渠）が縦横に走り、その面積は町全体の14%を占める
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-ooki-kobunshokan
+  - text: 中世には藤原北家・徳大寺家の荘園があり、筑後宇都宮氏が下向して大木城に拠った。戦国時代には蒲池氏の一族・大木氏の領地であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-ooki-wiki
+  - text: 地方公共団体コードは405221である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 投票で決まった町名と、中世の「大木」
+    text: 町内には中世の大木城や大木氏の名が残るため、「大木町」は古い地名の継承のように見える。しかし実際に町名が決まったのは1955年の合併のときで、公募で集まった候補を「大木」「木佐木」「花井」の3案に絞り、全村民の投票で「大木」が選ばれた。古名と響きが重なったのは偶然か意図か、記録は残っていない。
+    sources:
+    - r4-ooki-kobunshokan
+    - r4-ooki-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 村民投票で選ばれた「大木」という候補名そのものの命名理由（応募者の意図）は確認できなかった
+  - 大溝・木佐木・大莞の旧村名それぞれの語源・初出は確認できなかった
   updated: '2026-11-13'
 - id: muni/40-大牟田市
   code: '402028'
@@ -919,6 +1462,97 @@ records:
   - 村名として「太宰府」の表記が1881年の改称で採用された経緯（なぜ「大」でなく「太」だったのか）は、市の公式資料では確認できなかった
   - 『日本書紀』の671年の記事が「大宰府」の初出であるという説はWikipediaの紹介によるもので、原文の確認は未了
   updated: '2026-11-13'
+- id: muni/40-宇美町
+  code: '403415'
+  names:
+    ja: 宇美町
+    reading: うみまち
+    aliases:
+    - 宇瀰
+    - 蚊田
+  user_terms:
+  - うみ
+  - 宇美
+  - 応神天皇が生まれたと伝わる町
+  - 安産の神様・宇美八幡宮の町
+  naming_type: 一部の地名（旧・宇美村の名を継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 糟屋郡の町。『古事記』『日本書紀』が伝える神功皇后の応神天皇出産の故事にちなみ、出産を意味する「産み」に通じる名とされ、古くは「宇瀰」とも書かれた。1889年に宇美村・炭焼村・四王寺村・井野村の区域をもって宇美村が発足し、1920年に糟屋郡で最初に町制を施行した。以来一度も合併していない。
+  first_attestation:
+    era: 奈良時代
+    year_western: 712
+    document: 『古事記』中巻（神功皇后の条）
+    note: 『古事記』は皇后の御子の生地を号けて「宇美」というとし、『日本書紀』（720年）では「宇瀰」の表記で産所を号けたとする。いずれも宇美八幡宮・宇美町公式資料が紹介する記載で、原文の直接確認はしていない
+  claims:
+  - text: 宇美町総合計画は、『古事記』や『日本書紀』に、神功皇后が応神天皇を出産された地を「宇美（産み）」と呼ぶようになったという記述があると紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r4-umi-plan
+  - text: 宇美八幡宮によれば、『日本書紀』には皇后が新羅から還る際に皇子を生み、その産所を号けて「宇瀰」といったとあり、産所の地「蚊田（かだ）」は宇美の古名とされる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - r4-umi-hachimangu
+  - text: 宇美八幡宮は、御産所の四辺に八つの幡（はた）を立てて兵士に守らせた故事が、後世「八幡大神」と称する由縁になったとも伝え、同宮は敏達天皇の御宇（570年頃）に創建されたと伝える
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - r4-umi-hachimangu
+  - text: 『魏志』「倭人伝」に現れる不弥国を宇美に比定する説は、新井白石が『古史通惑問』で指摘して以来唱えられており、町は国指定史跡・光正寺古墳をその根拠の一つとして注目する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r4-umi-plan
+    - r4-umi-wiki
+  - text: 1889年（明治22年）4月1日、糟屋郡宇美村・炭焼村・四王寺村・井野村の区域をもって宇美村が発足し、1920年（大正9年）10月20日に町制を施行して宇美町となった。以後、市町村合併は一度も行っていない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-umi-wiki
+  - text: 町制施行は糟屋郡で最初であり、当時の戸数は2,585戸、人口は11,975人であった（宇美町総合計画）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-umi-plan
+  - text: かつては石炭産業で栄え、三菱鉱業勝田鉱業所があったが、1948年（昭和23年）6月18日に坑内爆発事故が発生して多数の死者が出た。勝田鉱業所は1963年（昭和38年）に閉山した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-umi-plan
+    - r4-umi-wiki
+  - text: 宇美八幡宮の安産信仰にまつわる「子安の木（槐）」「産湯の水」「胞衣が浦」などの対象は、1955年（昭和30年）に福岡県指定文化財（民俗資料）に一括指定された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r4-umi-hachimangu
+  - text: 地方公共団体コードは403415である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「産み」の町と、古い名「蚊田」
+    text: 記紀の伝承では、応神天皇が生まれた土地そのものは「蚊田（かだ）」と呼ばれていて、生まれたこと自体を記念して「宇瀰（うみ）」、のち「宇美」と号したとされる。つまり宇美は土地の古名ではなく「出来事の記念名」だという点が珍しい。今も宇美八幡宮は安産の守護神「子安大神」として全国から参拝者を集めている。
+    sources:
+    - r4-umi-hachimangu
+  relations:
+  - pref/40
+  - muni/40-志免町
+  unknowns:
+  - 『和名類聚抄』など律令期の文献に「宇美」の郷名が見えるかどうかは確認できなかった
+  - 不弥国の比定地については諸説があり、宇美とする説が定説かどうかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/40-宗像市
   code: '402206'
   names:
@@ -1077,6 +1711,81 @@ records:
   - 宮田の「宮」がどの宮（神社）に由来するかは、確認した市の資料では説明されていなかった
   - 新市名の最終決定が投票によるものか等の具体的な手続きは、公表資料では確認できなかった
   updated: '2026-11-13'
+- id: muni/40-小竹町
+  code: '404012'
+  names:
+    ja: 小竹町
+    reading: こたけまち
+    aliases:
+    - 勝野村
+  user_terms:
+  - こたけ
+  - 小竹
+  - 小竹の処
+  - 筑豊の旧炭鉱町
+  naming_type: 新規命名（町制施行に際し、古称「小竹の処」をもとに命名）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 鞍手郡の町。1889年に6村が合併して勝野村として発足したが、1928年1月1日の町制施行の際に「小竹町」へ改称した。町公式によれば、古来、町内の街道沿いに竹薮が生い茂り「小竹の処（ところ）」といわれたことが町名の起こりとされる。中心地の勝野ではなく、街道の景観に由来する古称を自治体名に選んだ例である。
+  first_attestation:
+    era: 昭和3年
+    year_western: 1928
+    document: 勝野村の町制施行に伴う改称（小竹町公式サイト「町の概要」）
+    note: 町名「小竹」としての成立時点。「小竹の処」という古称自体の初出文献・時期は確認できなかった
+  claims:
+  - text: 1884年（明治17年）に勝野・新多・新山崎・南良津・御徳・赤地・中泉の7か村で勝野村外6か村戸長役場が置かれ、1889年（明治22年）の町村制の際に中泉村は福智村（現・直方市）に併合され、他の6か村を合併して勝野村として発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-kotake-town
+  - text: 1928年（昭和3年）1月1日、勝野村に町制が施行され、現町名「小竹町」に名称変更された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-kotake-town
+  - text: 町名の由来は、古来、町内の街道沿いに竹薮が生い茂り、小竹の町まで続いていて、「小竹の処」といわれたのが町名のおこりになったといわれている（小竹町公式の説明）
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - r4-kotake-town
+  - text: 町章は1938年（昭和13年）1月1日に制定され、「小竹」の文字をデザイン化し、色は竹をイメージしたものと町公式が説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-kotake-town
+  - text: 町域の中央部を遠賀川が北流し、長崎街道を擁する交通の要衝として栄えた（小竹町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-kotake-town
+  - text: 戦中・戦後を通じて石炭産業で栄えたが、エネルギー革命の影響で小竹炭鉱は1963年（昭和38年）に、古河目尾（しゃかのお）炭鉱は1969年（昭和44年）に閉山した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-kotake-wiki
+  - text: 地方公共団体コードは404012である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 中心地の名を捨てて、街道の景観を採った
+    text: 1889年の発足時は、戸長役場の置かれた勝野の名をとって勝野村だった。ところが1928年の町制施行で選ばれたのは「小竹」という古称だった。長崎街道沿いに竹薮が続く景観を指す「小竹の処」という呼び名が、行政の中心地の名を上書きしたことになる。町章も「小竹」の文字を竹の色でデザイン化しており、竹のイメージが町の表看板になっている。
+    sources:
+    - r4-kotake-town
+  relations:
+  - pref/40
+  unknowns:
+  - 「小竹の処」という古称がいつ頃から使われたか、文献上の初出は確認できなかった
+  - 1928年の改称の際に他の候補名があったかどうかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/40-小郡市
   code: '402168'
   names:
@@ -1156,6 +1865,84 @@ records:
   unknowns:
   - 「小郡」が『日本書紀』に見える「大郡」と対になる、大小の客館を指す名だったという語源説明は広く流布しているが、専門辞典の原文では確認できなかった
   - 小郡官衙の設置時期については、市の資料でも飛鳥時代と奈良時代に表現が分かれており確定できなかった
+  updated: '2026-11-13'
+- id: muni/40-岡垣町
+  code: '403831'
+  names:
+    ja: 岡垣町
+    reading: おかがきまち
+    aliases: []
+  user_terms:
+  - おかがき
+  - 岡垣
+  - 海老津駅の町
+  - 三里松原の町
+  naming_type: 合併新設（1907年に古地名「岡」と「垣前（垣崎）」の二字を折衷した新造名）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 遠賀郡の町。1889年に編成された岡県村と矢矧村が1907年に合併して岡垣村となり、1962年に町制を施行した。「岡垣」は合併時に新たに作られた名で、それまで歴史上に現れたことのない名称だった。砂丘の地形に由来する古地名「岡」と、垣前郷（垣崎）の「垣」を合わせたもので、新村名をめぐる両村の対立を遠賀郡長が裁定して決めたと伝えられる。
+  first_attestation:
+    era: 奈良時代
+    year_western: 720
+    document: 『日本書紀』神武天皇条（「筑紫の国崗」）
+    note: 町公式「町名の由来」が「岡」の古層として引く記載で、「岡垣」の名そのものは1907年の新造である
+  claims:
+  - text: 1889年（明治22年）の町村制施行に伴い遠賀郡に岡県村と矢矧村が編成され、1907年（明治40年）10月1日に両村が合併して岡垣村が発足した。1962年（昭和37年）10月1日に町制を施行して岡垣町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-okagaki-wiki
+  - text: 「岡垣」という名称は1907年の合併まで歴史上に一度も現れたことがなく、合併に際して新たに採用された名である（岡垣町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-okagaki-town
+  - text: 新村名について、岡県村側は「矢矧村も古くは岡の県だったから岡県村とすべきだ」とし、矢矧村側は弓矢を作った故事に由来する由緒正しい名だと主張して意見がまとまらなかった。そこで遠賀郡長が、岡県の「岡」と、古くからこの地方を「垣崎」と呼んでいたことから「垣」をとり、合わせて「岡垣」とする決定を下した（岡垣町公式が『己百斎筆語』による話として紹介し、福岡県公文書館も同旨を紹介する）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-okagaki-town
+    - r4-okagaki-kobunshokan
+  - text: 「岡」の古層について町公式は、『日本書紀』神武天皇条に「筑紫の国崗」のくだりがあること、『筑前国続風土記』に「内浦の西、原村より芦屋までの海辺に、高き岡つづけり。ゆえに、その辺りを岡と称し、郡の名もこれにより名付きならん」とあることを引き、この一帯が「岡郷」「岡の庄」と呼ばれていたとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-okagaki-town
+  - text: 「垣」の古層である垣前郷については、神功皇后が宿陣された時に海風の強さを嫌って一晩に千本の松を植えさせて垣としたのが起こりで、松が生茂って垣崎の松原・垣崎の郷と呼ばれるようになった、と『筑前国続風土記』や遠賀郡誌が伝えることを町公式が紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r4-okagaki-town
+  - text: 村名に残せなかった矢矧村の名前は矢矧川にその名を残し、矢矧村の中心であった海老津の名は1910年（明治43年）に開業した国鉄の駅名に残った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-okagaki-town
+    - r4-okagaki-kobunshokan
+  - text: 地方公共団体コードは403831である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡長の鶴の一声で生まれた合成名
+    text: 「岡垣」の「岡」は砂丘の地形、「垣」は防風の松林という、この土地の風土そのものを写した二字である。だが決定の過程は穏やかではなかった。由緒を競う両村の主張が平行線をたどり、最後は遠賀郡長が双方の古名から一字ずつ取って裁定した。敗れた矢矧村は、川の名と駅の名にその名を残すことで折り合いをつけた。
+    sources:
+    - r4-okagaki-town
+    - r4-okagaki-kobunshokan
+  relations:
+  - pref/40
+  - muni/40-芦屋町
+  unknowns:
+  - 『己百斎筆語』そのものの書誌（著者・成立時期）は確認できなかった
+  - 「岡郷」「垣前郷」の郷名としての初出文献の直接確認はできていない（町公式の紹介による）
   updated: '2026-11-13'
 - id: muni/40-川崎町
   code: '406058'
@@ -1318,6 +2105,159 @@ records:
   unknowns:
   - 川名「広川」の語源（広い川原・氾濫原に由来するか等）の町史・地名辞典での確認は未了
   - 町村制以前の「広川村」の成立時期、近世の村名としての初出は未確認
+  updated: '2026-11-13'
+- id: muni/40-志免町
+  code: '403431'
+  names:
+    ja: 志免町
+    reading: しめまち
+    aliases: []
+  user_terms:
+  - しめ
+  - 志免
+  - しめ縄の地名と伝わる町
+  - 旧志免鉱業所の竪坑櫓がある町
+  naming_type: 一部の地名（旧・志免村の名を継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 糟屋郡の町で、福岡市の東に隣接する。1889年に田富・吉原・志免・南里・別府・御手洗の区域をもって志免村が発足し、1939年に町制を施行した。地名の由来については、隣町・宇美町の宇美八幡宮の注連縄（しめなわ）が張られた土地であることから「志免」になったという説が伝えられる。かつては炭鉱の町で、旧志免鉱業所の竪坑櫓がその象徴として残る。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「志免」の文献上の初出は確認できなかった。1889年に旧村名を継承して志免村が発足している
+  claims:
+  - text: 1889年（明治22年）4月1日、町村制の施行により、田富村・吉原村・志免村・南里村・別府村・御手洗村の区域をもって志免村が発足し、1939年（昭和14年）4月17日に町制を施行して志免町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-shime-wiki
+  - text: 志免町の町名は、1889年の合併で区域に含まれた旧・志免村の名を継承したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-shime-wiki
+  - text: 志免町は、宇美八幡宮の注連縄（しめなわ）が張られた土地であることから「志免」の地名となったという説がある（志免町公式パンフレットの紹介）
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - r4-shime-town
+  - text: 町の公式キャラクター「シメッチャ」は、この注連縄説をモチーフに、しめ縄を模した角を持ち、頭と体に「S」と「M」の模様が入った羊としてデザインされた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-shime-town
+  - text: 町内には旧志免鉱業所の竪坑櫓（たてこうやぐら）が残されており、かつて産炭地であった町の歴史を伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-shime-town
+  - text: 町の面積は8.69平方キロメートルで、福岡県内では3番目に小さい町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-shime-town
+  - text: 地方公共団体コードは403431である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 神域の結界が、そのまま町名に
+    text: 注連縄説が正しければ、「志免」は神域と俗界を分ける結界の内側だった土地を指す名ということになる。隣の宇美町が「応神天皇の生まれた町」なら、志免町はその聖地を守る縄の張られた側の町、という対の関係が浮かび上がる。町もこの説を積極的に採用し、公式キャラクターの角をしめ縄の形にしている。
+    sources:
+    - r4-shime-town
+  relations:
+  - pref/40
+  - muni/40-宇美町
+  unknowns:
+  - 「志免」の文献上の初出（『和名類聚抄』の糟屋郡の郷名に含まれるか等）は確認できなかった
+  - 注連縄説以外に地名の語源を説明する公的・専門資料は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-新宮町
+  code: '403458'
+  names:
+    ja: 新宮町
+    reading: しんぐうまち
+    aliases: []
+  user_terms:
+  - しんぐう
+  - 新宮
+  - 相島（猫の島）のある町
+  - 立花山の町
+  naming_type: 一部の地名（旧・新宮村の名を継承）
+  prefecture: 福岡県
+  homonyms:
+  - muni/30-新宮市
+  summary: 糟屋郡の町で、福岡市の東に隣接し、玄界灘の沖合には相島を擁する。1889年に合併した5村のうち最大の村だった新宮（新宮浦）の名を採って新宮村となり、1954年に町制、1955年に立花村と合併して現在に至る。「新宮」の起こりについては、住吉の神を勧請したためとする説と、紀州熊野から速玉の神を迎えたためとする伝承が併存する。和歌山県新宮市とは同名だが由来は別である。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『本朝無題詩集』所収、藤原周光の詩
+    note: 詩集は986年から1140年ごろまでの詩を選録したものとされ、「新宮湊」に詠まれたこの詩に「住吉霊社を此地に移し、新宮と号す。故にこの地名を新宮と言う」とあることを、新宮町公式サイトが紹介する
+  claims:
+  - text: 1889年（明治22年）に上府村・下府村・新宮村（新宮浦）・湊村・相島村が合併して新宮村が発足した際、一番大きな村である新宮の名前をとって村名とした（新宮町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-shingu-town-yurai
+    - r4-shingu-town-enkaku
+  - text: 1954年（昭和29年）11月1日に新宮村が町制を施行して新宮町となり、1955年（昭和30年）4月1日に立花村と対等合併して新制の新宮町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-shingu-wiki
+    - r4-shingu-town-enkaku
+  - text: 「新宮」の由来について新宮町公式は、住吉霊社をこの地に移したことに求める説を紹介する。『本朝無題詩集』所収の藤原周光の詩にその旨が詠まれ、貝原益軒『筑前国続風土記』は住吉の神を勧請して磯崎神社としたことに由来すると主張し、青柳種信『筑前国続風土記拾遺』は上府・下府の氏神である新宮神社に住吉神社を勧請したとする
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r4-shingu-town-yurai
+  - text: 磯崎神社文書「新宮浦由来書上帳」は、その昔、紀州熊野新宮浦より速玉（はやたま）の御神がこの地に来臨し、漁人が網に引き上げて新宮大明神と称したため、湊浦を新宮浦と改号したと伝える
+    kind: legend
+    level: E2
+    status: contested
+    sources:
+    - r4-shingu-town-yurai
+  - text: 古代の町域は宗像郡席内郷に属していたが、奈良・平安時代頃に糟屋郡へ郡代えされ、戦国時代は立花氏の領土で、立花山には立花山城が築かれた。1955年に合併した旧立花村の名は、この立花山・立花氏ゆかりの地域名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-shingu-wiki
+  - text: 玄界灘の沖合約7.5キロメートルに位置する相島は、1889年の新宮村発足時からの村域（現在の町域）であり、国指定史跡の相島積石塚群がある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-shingu-town-enkaku
+  - text: 地方公共団体コードは403458である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「新しい宮」はどちらの神か
+    text: 「新宮」は「新たに勧請された宮（神社）」があった土地の名とみられるが、勧請元については住吉とする文献群と熊野とする由緒書が対立している。熊野説が正しければ、和歌山県新宮市（熊野速玉大社の所在地）と福岡県新宮町は、同じ神を迎えた縁で結ばれた同名地名ということになる。ただし両自治体の名の直接のつながりを示す資料はなく、同名であることと勧請の伝承は分けて読む必要がある。
+    sources:
+    - r4-shingu-town-yurai
+  relations:
+  - pref/40
+  - muni/30-新宮市
+  unknowns:
+  - 住吉勧請説と熊野勧請説のいずれが古い層か、史料の成立年代からの確定はできなかった
+  - 『本朝無題詩集』の藤原周光の詩そのものの原文確認はできていない（町公式の引用による）
   updated: '2026-11-13'
 - id: muni/40-春日市
   code: '402184'
@@ -1491,6 +2431,88 @@ records:
   - 「朝倉」の語源（校倉造りの倉庫にちなむ説、神を迎える朝の座にちなむ説が専門辞典で候補として紹介される）はいずれも確定説ではない
   - 『日本書紀』に見える、朝倉社の木を切って宮を造ったため神が怒って殿を壊したという記事は、二次資料経由でのみ接し、市公式資料での裏付けは取れなかった
   updated: '2026-11-13'
+- id: muni/40-東峰村
+  code: '404489'
+  names:
+    ja: 東峰村
+    reading: とうほうむら
+    aliases: []
+  user_terms:
+  - とうほう
+  - 東峰村
+  - 小石原焼の村
+  - 棚田の村
+  - 日本で最も美しい村の一つ
+  naming_type: 合併新設（2005年に小石原村と宝珠山村が合併して発足）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 朝倉郡の村で、福岡県の中南部の山間にある。2005年3月28日に小石原村と宝珠山村が合併して発足した平成の大合併期の自治体でありながら、合併後も村制を選んだ数少ない村である。新村名「東峰」は公募を経て最終候補5点の中から選ばれた。旧村名のうち宝珠山は岩屋神社の宝珠石の伝承に、小石原は「腰原（越原）」の転訛とも小石の多い原ともいわれる。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 小石原村・宝珠山村合併協議会による新村名の選定
+    note: 村名「東峰」そのものの成立時点。旧村名「小石原」「宝珠山」の初出はそれぞれ別に古い
+  claims:
+  - text: 2005年（平成17年）3月28日、小石原村と宝珠山村が対等合併して東峰村が発足した。平成の大合併で発足した市町村では数少ない村制の自治体で、合併後の人口は約3,000人という「ミニ合併」として知られる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-toho-wiki
+  - text: 新村名は公募を経て、最終候補5点（東峰・宝石〈ほうせき〉・陶宝〈とうほう〉・小宝・宝珠小石原）の中から「東峰」が選ばれた（市区町村変遷情報）
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r4-toho-uub
+  - text: 合併に先立つ1986年（昭和61年）に、両村の組合立で設置された中学校は「東峰中学校」と名付けられていた。学校名と新村名が同じになったが、合併とは直接の関係はないとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-toho-wiki
+  - text: 旧宝珠山村の名は岩屋神社に祀られた宝珠石に由来するとされ、欽明天皇8年（547年）のある日、岩屋に光り輝くものが降ってきて、社僧がこれを「宝珠石」と名付け、ご神体として祀ったと伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r4-toho-ijuu
+  - text: 旧小石原村の「小石原」の語源については、昔の呼称「腰原（越原）村」の転訛とする説と、小石の多い原っぱを指して呼んだとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r4-toho-ijuu
+  - text: 小石原は日田街道の宿場町として栄え、九州修験道の中心道場である英彦山への登山口に当たり、英彦山と宝満山を結ぶ修験者たちの峰入りルートの要地であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-toho-ijuu
+  - text: 2017年（平成29年）の九州北部豪雨で村は甚大な被害を受け、交通網の寸断により一時孤立状態になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-toho-ijuu
+  - text: 地方公共団体コードは404489である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 落ちた候補名「宝石」と「陶宝」
+    text: 新村名の最終候補には、宝珠山の「宝」と小石原焼の「陶」をめぐる案が並んだ。「宝石（ほうせき）」は宝珠山の宝珠石と小石原の石を、「陶宝（とうほう）」は陶器の里と宝珠山を組み合わせた案と読める。選ばれた「東峰」は両村の名を直接には含まない第三の名だった。面白いことに「東峰」は1986年から両村の組合立中学校の名として先に存在しており、生徒たちには馴染みのある言葉でもあった。
+    sources:
+    - r4-toho-uub
+    - r4-toho-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 「東峰」という名称が選ばれた理由（命名の趣旨）を明記した合併協議会の一次資料は確認できなかった
+  - 旧村名「宝珠山」「小石原」の文献上の初出は確認できなかった
+  updated: '2026-11-13'
 - id: muni/40-柳川市
   code: '402079'
   names:
@@ -1575,6 +2597,242 @@ records:
   unknowns:
   - 永仁4年（1296）の「簗川」が見える史料の具体的な名称は、市の公式ページに示されておらず確認できなかった
   - 「柳川」と「柳河」の表記が、藩の公式文書でどのように使い分けられたかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-桂川町
+  code: '404217'
+  names:
+    ja: 桂川町
+    reading: けいせんまち
+    aliases: []
+  user_terms:
+  - けいせん
+  - 桂川
+  - 王塚古墳の町
+  - 装飾古墳の町
+  naming_type: 合併新設（1889年に9村が合併して桂川村が発足。名の由来は未詳）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 嘉穂郡の町で、福岡県の中央部に位置する。1889年に瀬戸・寿命・中屋・豆田・九郎丸・土居・吉隈・土師・内山田の9村が合併して穂波郡桂川村となり、1940年4月17日に町制を施行した。古代には穂波郡土師郷に比定される土地で、王塚古墳をはじめ装飾古墳の多い地域だが、村名「桂川」の由来を明記した公的・専門資料は確認できなかった。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行に伴う桂川村の発足（桂川町総合計画）
+    note: 「桂川」という村名の初出としての時点。それ以前の使用例や命名の由来は確認できなかった
+  claims:
+  - text: 1889年（明治22年）、瀬戸村・寿命村・中屋村・豆田村・九郎丸村・土居村・吉隈村・土師村・内山田村が合併し、穂波郡桂川村として発足した（桂川町総合計画）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-keisen-plan
+  - text: 1896年（明治29年）の郡の統合により嘉穂郡の所属となり、1940年（昭和15年）4月17日に町制を施行して桂川町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-keisen-wiki
+  - text: 『日本歴史地名大系』は、町域は『和名類聚抄』に載る古代穂浪（穂波）郡土師（はじ）郷に比定されるとする。中世には安楽寺（現・太宰府天満宮）の荘園「土師庄」が置かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r4-keisen-kotobank
+  - text: 町域には6世紀の王塚古墳（国の特別史跡）をはじめ前方後円墳が造られ、装飾古墳は60基以上が発見されており、全国の装飾古墳の約1割にあたる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-keisen-wiki
+    - r4-keisen-plan
+  - text: 江戸時代中期には石炭の採掘が行われるようになり、明治中期に炭鉱が開かれて発展したが、1972年（昭和47年）に町内最後の炭坑が閉山した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-keisen-wiki
+  - text: 村名「桂川」の由来は、町公式資料・専門資料のいずれにも明記を確認できなかった。なお現在の町内を流れる主な川は泉河内川・穂波川・馬敷川・又手川で、「桂川」という名の河川は町域に見当たらない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r4-keisen-kotobank
+    - r4-keisen-plan
+  - text: 地方公共団体コードは404217である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 由来の残らなかった町名
+    text: 王塚古墳の壁画で知られる古墳の宝庫であり、古代の郷名（土師郷）や中世の荘園名（土師庄）までは文献で辿れるのに、1889年に付けられた村名「桂川」の理由だけが記録に残っていない。京都の桂川のような清流の名にあやかった瑞祥命名ではないかという見方もあるが、裏付ける資料は見つからなかった。由来の「空白」そのものが、この町の記録の特徴である。
+    sources:
+    - r4-keisen-kotobank
+    - r4-keisen-plan
+  relations:
+  - pref/40
+  unknowns:
+  - 村名「桂川」の命名理由・由来は、町公式資料（総合計画）・『日本歴史地名大系』のいずれでも確認できなかった
+  - 1889年以前に「桂川」という地名がこの地域で使われていたかどうかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-水巻町
+  code: '403822'
+  names:
+    ja: 水巻町
+    reading: みずまきまち
+    aliases: []
+  user_terms:
+  - みずまき
+  - 水巻
+  - 遠賀川のコスモスの町
+  - 北九州市のベッドタウン
+  naming_type: 一部の地名（中世の荘園名「水巻の庄（御牧庄）」を1889年の新村名に採用）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 遠賀郡の町で、遠賀川の下流に位置する。古くは「みまき」と読まれ、遠賀川の水の巻く地形にちなむ地名とされる。1889年の合併では、中世の荘園名「水巻の庄（御牧庄）」を根拠として新村名に「水巻」を採用したことが、合併の施行理由書に明記されている。1940年に町制を施行し、読みは「みずまき」となった。かつての産炭地で、今は北九州市のベッドタウンである。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 水巻村の合併施行理由書（水巻町『水巻の学校史』が引用）
+    note: 新村名の選定根拠として「新村名を水巻の庄（御牧庄ともあり）と唱えしによる」と明記する。「水巻」の語自体の文献初出は確認できなかった
+  claims:
+  - text: 水巻町公式サイトによれば、立屋敷の八劔神社に合祀されている保食（うけもち）神社の棟札に「保食宮は昔、水巻宮（みまきぐう）と称す。水巻（みまき）は、地名にして水の巻く意なり」と記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-mizumaki-town
+  - text: 1889年（明治22年）の合併に際して作成された村施行理由書には、新村名について「新村名を水巻の庄（御牧庄ともあり）と唱えしによる」と記されており、中世の荘園名を新村名の根拠としたことが文書で確認できる（水巻町『水巻の学校史』の引用）
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r4-mizumaki-gakkoshi
+  - text: 1889年に立屋敷・伊左座・二・下二・吉田・頃末・朳（えぶり）・古賀・猪熊の9か村が合併して水巻村が発足した。水巻山にあった戸長役場を村役場に改称し、役場の所在地の名をとって村名とした。1940年（昭和15年）に町制を施行し、水巻町（みずまきまち）となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-mizumaki-town
+  - text: 中世の「麻生文書」には水巻関係の地名として「二村村」「古加名」「是末名」が記され、永享4年（1432年）の「対島文書」には是末名・古賀名が見える。これらは現在の二・古賀・頃末のもとになった名である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r4-mizumaki-town
+    - r4-mizumaki-gakkoshi
+  - text: 元和6年（1620年）、黒田長政が水巻大明神に参拝したことが「岡郡宗社志」に記されている（水巻町公式サイトの紹介）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-mizumaki-town
+  - text: 明治に入って石炭産業で栄え、水巻村の発足後も人口が急増したが、昭和46年（1971年）に石炭産業は終焉を迎え、その後は炭鉱跡地の再開発と住宅政策により北九州都市圏のベッドタウンとして発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r4-mizumaki-town
+  - text: 町章（1950年制定）は、遠賀川の水が三つ巴になり、渦巻きながら流れる様を「水巻」と図案化したものと説明される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r4-mizumaki-wiki
+  - text: 地方公共団体コードは403822である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 理由書に残った命名の根拠
+    text: 多くの自治体では1889年の新村名の理由は伝わらないが、水巻村では合併の施行理由書に「水巻の庄（御牧庄ともあり）と唱えしによる」とはっきり書かれている。中世の荘園名を掘り起こして新しい村の名にした、記録の残る命名の好例である。しかも読みは当初の「みまき」から、町制の頃には「みずまき」へと姿を変えた。棟札の「水の巻く意」という説明と、遠賀川の渦を描いた町章が、今もその語源を伝えている。
+    sources:
+    - r4-mizumaki-gakkoshi
+    - r4-mizumaki-town
+  relations:
+  - pref/40
+  unknowns:
+  - 荘園名「水巻の庄（御牧庄）」の成立時期・文献上の初出は確認できなかった
+  - 読みが「みまき」から「みずまき」に変わった正確な時期と経緯は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-添田町
+  code: '406023'
+  names:
+    ja: 添田町
+    reading: そえだまち
+    aliases:
+    - 添田村
+    - 添伊田村
+  user_terms:
+  - そえだ
+  - 添田
+  - 田川郡添田町
+  - 英彦山の町
+  naming_type: 一部の地名（旧村名「添田」の継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 田川郡の町。1889年に添田村として発足し、1911年に町制を施行した。町名は合併前からあった旧村「添田」に由来する。その前身の添伊田村は1887年に添田町村・添田村・伊原村が合併して生まれた。現在も町の大字（添田・庄・野田・津野・桝田・英彦山・落合・中元寺）は1889年以前に存在した8村の名を受け継いでいる。修験の霊峰・英彦山を擁する町でもある。
+  first_attestation:
+    era: 明治時代
+    year_western: 1887
+    document: 添田町村・添田村・伊原村の合併による添伊田村の発足
+    note: 「添田」は合併前から村名として存在しており、1887年の合併で添伊田村、1889年の合併で添田村となった経緯は確認できるが、「添田」の語源と初出文献は確認できなかった
+  claims:
+  - text: 町公式資料によれば、現在の大字（添田・庄・野田・津野・桝田・英彦山・落合・中元寺）は1889年以前に存在した8村の名称に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-soeda-town-plan
+  - text: 1887年に添田町村・添田村・伊原村が合併して添伊田村となり、1889年4月1日に添伊田村・庄村・野田村が合併して添田村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-soeda-wiki
+  - text: 1911年4月1日に町制を施行して添田町となり、1942年2月11日に彦山村を編入、1955年1月1日に津野村と対等合併して現在の添田町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-soeda-wiki
+  - text: 「添伊田」は、合併した添田町村・添田村の「添」と伊原村の「伊」を組み合わせた合成地名とみられ、1889年の合併の際にその前半部分の「添田」が村名として残ったと考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r5-soeda-wiki
+  - text: 英彦山の名の由来について、町公式資料は祭神である天忍穂耳命が日の神・天照大神の子であることと結びつける説明を紹介し、あわせて天平6年（734年）開山説と弘仁13年（822年）の法蓮による修験開祖説を紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-soeda-town-fuchi
+  - text: 福岡共同公文書館は、英彦山について、その昔この山へ降臨し山の神とあがめられた日胤尊（ひこのみこと）の名にちなんで日子の山「日子山」と名付けられたとされ、それが変化して「英彦山」と呼ばれるようになったと伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r5-soeda-kobunsyokan
+  - text: 添田町の地方公共団体コードは406023である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 日子山から英彦山へ――修験の霊峰の名
+    text: 添田町の南にそびえる英彦山は、古くは「日子山」と呼ばれたという。福岡共同公文書館の紹介では、この山に降臨して山の神とあがめられた日胤尊（ひこのみこと）の名にちなんで「日子山」と名付けられ、それが変化して「英彦山」になったと伝わる。一方、町の公式資料は、祭神の天忍穂耳命が日の神・天照大神の子であることと結びつける由来説明を挙げ、開山についても天平6年（734年）説と弘仁13年（822年）に法蓮が修験を開いたとする説とを紹介している。山の名ひとつにも、神話的な伝承と修験の歴史とが幾重にも重なっている。
+    sources:
+    - r5-soeda-kobunsyokan
+    - r5-soeda-town-fuchi
+  relations:
+  - pref/40
+  unknowns:
+  - 「添田」の語源（なぜこの地が「添田」と呼ばれたか）は確認できなかった
+  - 「添田」の初出文献は確認できなかった
   updated: '2026-11-13'
 - id: muni/40-田川市
   code: '402061'
@@ -1831,6 +3089,85 @@ records:
   - 『日本書紀』の「那津」と『続日本紀』の「博多大津」が完全に同一の港を指すかについては検討を要すると専門事典が指摘しており、本KBでは断定しない
   - 福岡命名を命じた長政自身の同時代文書の現存は本調査では確認できず、命名経緯は後世の地誌と家譜に依拠する
   updated: '2026-11-13'
+- id: muni/40-福智町
+  code: '406104'
+  names:
+    ja: 福智町
+    reading: ふくちまち
+    aliases:
+    - 金田町
+    - 方城町
+    - 赤池町
+  user_terms:
+  - ふくち
+  - 福智
+  - 福智山の町
+  - 旧金田町・方城町・赤池町
+  naming_type: 合併新設（一般公募により福智山にちなんで命名）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 田川郡の町。2006年3月6日に金田町・方城町・赤池町が対等合併して発足した。町名は一般公募により選ばれたもので、町の北端にそびえる福智山（標高約901m）に由来する。旧3町はいずれも財政再建団体に指定された歴史を持ち、合併は筑豊の町々の再建とも深く結びついている。
+  first_attestation:
+    era: 平成時代
+    year_western: 2006
+    document: 金田町・方城町・赤池町の対等合併による福智町の発足
+    note: 町名「福智」は2004年8月3日に法定合併協議会が採用で合意したもので、その由来である地名「福智山」はこれ以前から存在する。福智山そのものの名の由来は確認できなかった
+  claims:
+  - text: 町の暮らしのガイドブックは、福智山（標高901m）を「町の象徴と、町名の由来でもある」存在として紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-fukuchi-guide
+  - text: 2006年3月6日に金田町・方城町・赤池町が対等合併して福智町が発足し、町名は一般公募により選ばれたもので、町の北端にある福智山（標高901m）に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-fukuchi-wiki
+  - text: 福智山は標高900.6mで北九州市小倉南区・直方市・福智町にまたがり、2006年に麓の3町が合併して誕生した福智町の名はこの山に因んで名付けられた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-fukuchiyama-wiki
+  - text: 新町名の公募では福智・下田川・あかほ・池田城・北田川・平成・筑豊・赤金城・ふくち・赤金方が上位10点に入り、最終候補は福智・あかほ・下田川の3点に絞られた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r5-fukuchi-uub-akaike
+  - text: 旧3町の前身は、1916年7月28日に町制を施行して金田町と改称した神田村、1939年11月3日に町制を施行して赤池町と改称した上野村、1956年8月1日に町制を施行した方城村（方城町）であり、旧上野村の名は特産の上野焼（あがのやき）に今も残る
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-fukuchi-wiki
+    - r5-fukuchi-uub-hojo
+  - text: 旧3町はいずれも財政再建団体に指定されたことがあり、赤池町は1992年に指定された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-fukuchi-wiki
+  - text: 福智町の地方公共団体コードは406104である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 公募で敗れた名前たち――「下田川」と「あかほ」
+    text: 福智町の名は公募で決まった。市区町村変遷情報が伝える公募の上位10点には、採用された「福智」のほかに、旧赤池町・金田町を流れる下田川にちなむ「下田川」、赤池と方城の名を織り込んだとみられる「あかほ」、旧町の名を合成した「赤金城」「赤金方」、そして「平成」「筑豊」などがあった。最終候補は福智・あかほ・下田川の3点で、最後に残ったのは3町に共通する象徴である福智山の名だった。敗れた候補の数々が、合併前の3町の名をどう残すかに悩んだ経緯を物語っている。
+    sources:
+    - r5-fukuchi-uub-akaike
+    - r5-fukuchi-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 福智山そのものの名の由来（「福智」の語源）は確認できなかった
+  - 新町名公募の応募総数と各候補の得票数は確認できなかった
+  updated: '2026-11-13'
 - id: muni/40-福津市
   code: '402249'
   names:
@@ -1911,6 +3248,78 @@ records:
   unknowns:
   - 市名の最終選考過程（候補の絞り込みと決定理由）を示す合併協議会の議事録は未確認
   - 福間の語源は諸説が併存し、確定していない
+  updated: '2026-11-13'
+- id: muni/40-筑前町
+  code: '404471'
+  names:
+    ja: 筑前町
+    reading: ちくぜんまち
+    aliases:
+    - 夜須町
+    - 三輪町
+  user_terms:
+  - ちくぜん
+  - 筑前
+  - 旧夜須町
+  - 旧三輪町
+  - 大己貴神社の町
+  naming_type: 合併新設
+  prefecture: 福岡県
+  homonyms: []
+  summary: 朝倉郡の町。2005年3月22日に夜須町と三輪町が対等合併して発足した。町名「筑前」は旧国名の筑前国にちなむ命名とみられるが、その理由を明記した公的資料は確認できなかった。町域は旧筑前国に属し、1896年以降は朝倉郡に属する。三輪地区の大己貴神社は、『日本書紀』の神功皇后の記事に結びつけて「日本最古の神社」と称される由緒を伝える。
+  first_attestation:
+    era: 平成時代
+    year_western: 2005
+    document: 夜須町・三輪町の対等合併による筑前町の発足
+    note: 「筑前」自体は古代の国名として古くから記録に現れるが、町名として採用した理由・経緯を示す一次資料は本バッチでは確認できなかった
+  claims:
+  - text: 福岡共同公文書館によれば、筑前町は平成17年（2005年）3月22日に旧夜須町と旧三輪町が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-chikuzen-kobunsyokan
+  - text: 前身の村々は1889年に夜須郡の三根村・中津屋村・安野村・大三輪村・栗田村として発足し、1896年に朝倉郡所属となり、1908年に夜須村と三輪村に再編され、1962年4月1日に両村が町制を施行して夜須町・三輪町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikuzen-wiki
+  - text: 町名「筑前」は、両町域を含む地域が属した旧国名「筑前国」にちなむ命名とみられるが、命名理由を明記した公的資料は本バッチでは確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r5-chikuzen-wiki
+  - text: 福岡共同公文書館は、大己貴神社について、神功皇后が羽白熊鷲の征伐の後に新羅征討の兵を募るため大神社（大三輪社）を建てて太刀や矛を奉納したところ兵が集まったと『日本書紀』に記載されていることを紹介し、地元では「日本最古の神社」といわれ「おんがさま」と呼ばれて崇敬されていると伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r5-chikuzen-kobunsyokan
+  - text: 旧町名の「夜須」は古代以来の夜須郡の名に、「三輪」は大三輪村の名に遡り、合併前の村名（三根・中津屋・安野・大三輪・栗田）は現在も地区名として残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikuzen-wiki
+  - text: 筑前町の地方公共団体コードは404471である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「日本最古の神社」を名乗る大己貴神社と「三輪」の名
+    text: 筑前町三輪地区の大己貴神社は、地元で「おんがさま」と呼ばれ、「日本最古の神社」といわれる。福岡共同公文書館の紹介によれば、その由緒は『日本書紀』の記事に結びつく。神功皇后が豪族・羽白熊鷲を征伐した後、新羅征討のために兵を募ったが集まらず、大神社（大三輪社）を建てて太刀や矛を奉納したところ、兵が集まったというのである。旧三輪町の「三輪」は、この大三輪社の鎮座する大三輪村の名を受け継いだものだ。2005年の合併で町名は「筑前」に変わったが、「三輪」という名は地区の名として、神社の由緒とともに今も生き続けている。
+    sources:
+    - r5-chikuzen-kobunsyokan
+    - r5-chikuzen-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 「筑前」と命名した理由・経緯を明記した公的資料は確認できなかった
+  - 合併時の新町名の候補にどのようなものがあったかは確認できなかった
   updated: '2026-11-13'
 - id: muni/40-筑後市
   code: '402117'
@@ -2069,6 +3478,225 @@ records:
   - 昭和30年（1955年）の合併時に「筑紫野」の名が選ばれた具体的な経緯（公募の有無、候補名、「万葉集にちなんだ」という説の典拠）は、公的・専門資料では確認できなかった
   - 中心地名「二日市」の由来（市（いち）の開かれた日にちなむという通説）について、専門資料による裏付けは未確認
   updated: '2026-11-13'
+- id: muni/40-築上町
+  code: '406473'
+  names:
+    ja: 築上町
+    reading: ちくじょうまち
+    aliases:
+    - 椎田町
+    - 築城町
+  user_terms:
+  - ちくじょう
+  - 築上
+  - 築城基地の町
+  - 旧椎田町・築城町
+  naming_type: 合併新設（郡名「築上郡」を採用）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 築上郡の町。2006年1月10日に椎田町と築城町が新設合併して発足した。町名は郡名「築上郡」に由来する。築上郡は1896年に築城郡と上毛郡が合併してできた郡で、「築城」の「築」と「上毛」の「上」の頭文字を合成した郡名である。ただし築上町の区域は旧築城郡のみで、旧上毛郡は町域に含まれない。
+  first_attestation:
+    era: 平成時代
+    year_western: 2006
+    document: 椎田町・築城町の新設合併による築上町の発足
+    note: 町名の由来である郡名「築上」は、1896年の築城郡・上毛郡の合併で生まれた合成地名である
+  claims:
+  - text: 町名は郡名「築上郡」に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikujo-wiki
+  - text: 築上郡は1896年に築城郡と上毛郡が合併してできた郡であり、「築城」の「築」と「上毛」の「上」の頭文字を合成した名前である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikujo-wiki
+  - text: 築上町の区域は旧築城郡であり、旧上毛郡は含まれないため、町名は区域の一部しか占めない旧郡の名を継いだ形になっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikujo-wiki
+  - text: 1889年には築城郡の椎田村・西角田村・葛城村・八津田村・築城村・上城井村・下城井村が発足し、1898年に椎田村が町制を施行、1955年に新椎田町と築城町が成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikujo-wiki
+  - text: 2006年1月10日に椎田町と築城町が新設合併して築上町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikujo-wiki
+  - text: 合併協議は当初、行橋市・京都郡3町など6市町で進められたが築城町の離脱で破談し、次いで豊前市・椎田町・築城町の協議も椎田町の住民投票で反対多数となり破談した末、合併特例法の期限間際に2町だけの協議会を設けて合併に漕ぎ着けた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-chikujo-wiki
+  - text: 築上町の地方公共団体コードは406473である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡名を名乗るのに、郡の半分は町内にない
+    text: 築上町の名は郡名「築上郡」から採られた。だが築上郡という郡自体、1896年に築城郡と上毛郡を合成して作られた人工的な名前で、「築城」の築と「上毛」の上を継ぎ合わせたものだ。現在の築上郡は築上町と上毛町・吉富町などからなるが、築上町の区域は旧築城郡だけであり、「上」にあたる旧上毛郡は町内にはない。二度の破談を経て期限間際に成立した合併で、町は自らの区域を越える広がりを持つ郡名を選んだ。町内にはその名に「城」の字を残す航空自衛隊築城基地もある。
+    sources:
+    - r5-chikujo-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 合併時に「築上」以外の町名候補があったかは確認できなかった
+  - 「築城」「上毛」それぞれの語源は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-篠栗町
+  code: '403423'
+  names:
+    ja: 篠栗町
+    reading: ささぐりまち
+    aliases:
+    - 篠栗村
+    - 勢門村
+  user_terms:
+  - ささぐり
+  - 篠栗
+  - 篠栗四国八十八箇所
+  - 南蔵院
+  - 涅槃像の町
+  naming_type: 一部の地名（旧村名「篠栗」の継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 糟屋郡の町。1889年に篠栗村として発足し、1927年に町制を施行、1955年に勢門村と対等合併して現在の町域となった。町名は旧来の村名「篠栗」を継ぐ。四国八十八箇所の写し霊場「篠栗四国八十八箇所」の本山・南蔵院と、青銅製として世界最大級の釈迦涅槃像で知られる。「篠栗」の語源は確認できなかった。
+  first_attestation:
+    era: 明治時代
+    year_western: 1889
+    document: 町村制による篠栗村の発足（1889年4月1日）
+    note: 村名「篠栗」はこれ以前から存在した地名とみられるが、初出文献は本バッチでは確認できなかった
+  claims:
+  - text: 1889年4月1日に篠栗村と勢門村が発足し、1927年1月1日に篠栗村が町制を施行して篠栗町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-sasaguri-wiki
+  - text: 1955年4月1日に篠栗町と勢門村が対等合併し、新町制の篠栗町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-sasaguri-wiki
+  - text: 篠栗四国八十八箇所は、1835年（天保6年）に尼僧慈忍がこの地を訪れて霊場の造成を提案したと伝わり、1854年（嘉永7年）に藤井藤助らによって88か所が完成した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-sasaguri-shikoku-wiki
+  - text: 1899年（明治32年）に高野山から南蔵院が移転して霊場の本山となり、その釈迦涅槃像は青銅製として世界最大級とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-sasaguri-shikoku-wiki
+    - r5-sasaguri-wiki
+  - text: 若杉山の太祖宮には、若杉山の名称に由来する神功皇后の伝承が残るとされる
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - r5-sasaguri-wiki
+  - text: 篠栗町の地方公共団体コードは403423である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 村の名より有名になった霊場――篠栗四国と涅槃像
+    text: 「篠栗」の名を全国に知らしめたのは、地名そのものよりも霊場のほうだった。天保6年（1835年）に尼僧慈忍がこの地を訪れて四国八十八箇所の写し霊場の造成を提案したと伝わり、嘉永7年（1854年）に藤井藤助らの手で88か所がそろった。明治32年（1899年）には高野山から南蔵院が移って霊場の本山となり、今では全長41メートルという青銅製で世界最大級の釈迦涅槃像が参拝者を迎える。村の名は1889年以来変わらないが、その響きは霊場とともに育ってきた。
+    sources:
+    - r5-sasaguri-shikoku-wiki
+    - r5-sasaguri-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 「篠栗」の語源は確認できなかった
+  - 「篠栗」の初出文献は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-粕屋町
+  code: '403491'
+  names:
+    ja: 粕屋町
+    reading: かすやまち
+    aliases:
+    - 大川村
+    - 仲原村
+  user_terms:
+  - かすや
+  - 粕屋
+  - 糟屋郡粕屋町
+  - 駕与丁公園
+  naming_type: 合併新設（命名の経緯は未確認）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 糟屋郡の町。1957年3月31日に大川村と仲原村が新設合併し、村を経ずに町として発足した。郡名は「糟屋」と書くのに町名は「粕屋」で、なぜ字が違うのか、命名の経緯を明記した資料は確認できなかった。2020年国勢調査では九州の町村として人口が最も多く、町内にJRの駅が6つあるベッドタウンである。
+  first_attestation:
+    era: 昭和時代
+    year_western: 1957
+    document: 大川村・仲原村の新設合併による粕屋町の発足（1957年3月31日）
+    note: 「粕屋」という町名の採用理由と、郡名「糟屋」と表記が異なる理由は確認できなかった
+  claims:
+  - text: 歴史的行政区域データセットによれば、粕屋町の有効期間は1957年3月31日からであり、現在の町域はそれ以前の大川村・仲原村の区域と重なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-kasuya-geoshape
+  - text: 1957年3月31日に大川村と仲原村が新設合併して粕屋町が発足した（村を経ずに町として発足した形である）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kasuya-wiki
+  - text: 粕屋町は2020年国勢調査で九州地方の町村として人口が最も多く、町内にJRの駅が6つある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kasuya-wiki
+  - text: 粕屋町と須恵町が合同で開設した下水処理施設「酒水園（しゅすいえん）」の名は、地名「酒殿」の「酒」とボタ山の名称だった「水洗」の「水」から一文字ずつ採ったものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kasuya-wiki
+  - text: 町内の阿惠（あえ）官衙遺跡は国指定史跡であり、駕与丁（かよいちょう）池と駕与丁公園は町の顔とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kasuya-wiki
+  - text: 粕屋町の地方公共団体コードは403491である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「酒」と「水」で「酒水園」――町の中の合成地名
+    text: 粕屋町と隣の須恵町が合同で設けた下水処理施設には「酒水園（しゅすいえん）」という風変わりな名が付いている。その由来は合成にある。地名「酒殿」の「酒」と、かつてのボタ山の名称だった「水洗」の「水」とを一文字ずつ採って組み合わせたのだという。町名「粕屋」自体の命名経緯は今のところ資料に見当たらないが、町の中には、身近な地名を一文字ずつ継ぎ合わせて新しい名を作るという、合併地名の作法そのままの命名が残っている。
+    sources:
+    - r5-kasuya-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 町名「粕屋」の命名理由と、郡名「糟屋」と字が異なる理由は確認できなかった
+  - 合併時に他の町名候補があったかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/40-糸島市
   code: '402303'
   names:
@@ -2145,6 +3773,219 @@ records:
   unknowns:
   - 新市名の選定理由を記した合併協議会の一次資料（議事録等）は確認できなかった
   - 「糸島半島」という呼称がいつ頃から使われるようになったかは未確認
+  updated: '2026-11-13'
+- id: muni/40-糸田町
+  code: '406040'
+  names:
+    ja: 糸田町
+    reading: いとだまち
+    aliases:
+    - 糸田村
+  user_terms:
+  - いとだ
+  - 糸田
+  - 泌泉
+  - たぎり
+  - 大字のない町
+  naming_type: 一部の地名（旧村名「糸田」の継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 田川郡の町。1887年に糸田村・鼠が池村・大熊村の合併で糸田村が発足し、1939年1月1日に町制を施行した。町内には「糸田町の地名の起こり」とされる湧泉「泌泉（たぎり）」があり、町指定文化財（史跡）に指定されている。また町には大字がなく、住所は町名と番地だけで表示される珍しい自治体である。
+  first_attestation:
+    era: 明治時代
+    year_western: 1887
+    document: 糸田村・鼠が池村・大熊村の合併による糸田村の発足
+    note: 「糸田」の地名の起こりは湧泉「泌泉」と結びつけて語られるが、「糸田」の初出文献は本バッチでは確認できなかった
+  claims:
+  - text: 泌泉（たぎり）は「糸田町の地名の起こりとされている湧泉」であり、町指定文化財第4号（史跡）に指定されている（糸田町公式ホームページの文化財ページを参照するWikipediaの記述による）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-itoda-wiki
+  - text: 1887年に糸田村・鼠が池村・大熊村が合併して糸田村が発足し、1889年4月1日の町村制により糸田村となり、1939年1月1日に町制を施行して糸田町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-itoda-wiki
+  - text: 町には大字がなく、住所は「福岡県田川郡糸田町○○番地○○」とだけ表示される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-itoda-wiki
+  - text: 現在の字名には上糸田・中糸田・下糸田・南糸田などがあり、「糸田」がこの地域の基幹的な地名であることがうかがえる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-itoda-wiki
+  - text: 町の西部の烏尾峠は古代に筑前国と豊前国を結ぶ国境地帯として多くの通行人が訪れた場所で、市町境付近には国境石（町指定文化財第7号）が置かれている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-itoda-wiki
+  - text: 糸田町の地方公共団体コードは406040である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 大字のない町――住所が町名で終わる
+    text: 糸田町に住所を書くと「福岡県田川郡糸田町○○番地○○」で終わる。大字がないからだ。町の下には字こそあるが、住所表記には現れない。一方で、この町の名の起こりは一つの泉に結びつけられている。「泌泉（たぎり）」と呼ばれる湧泉が「糸田町の地名の起こり」とされ、町の指定文化財（史跡）第4号に指定されている。泉の名が町の名に育ち、町の名だけが住所に残る。糸田町は、地名の層がとても薄く、しかし一点に凝縮された町だといえる。
+    sources:
+    - r5-itoda-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 「糸田」の語源そのもの（泌泉が地名の起こりとされる以上の説明）は確認できなかった
+  - 泌泉の名「たぎり」の由来は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-芦屋町
+  code: '403814'
+  names:
+    ja: 芦屋町
+    reading: あしやまち
+    aliases:
+    - 芦屋村
+    - 芦屋津
+  user_terms:
+  - あしや
+  - 芦屋
+  - 芦屋釜
+  - 芦屋津
+  - 兵庫県芦屋市と同名の町
+  naming_type: 一部の地名（旧来の地名「芦屋」の継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 遠賀郡の町。1889年に芦屋村として発足し、1891年に町制を施行、1905年に山鹿村を編入した。平安時代中期から芦屋津（港）として記録に残る古い地名で、1185年には葦屋浦の戦いの合戦場となった。兵庫県の芦屋市とは読みも表記も同じ「あしや」だが、市と町とで異なる自治体である（芦屋市のレコードからも相互に言及されている）。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 芦屋津（港）としての記録
+    note: 平安時代中期から芦屋津として記録に残るとされるが、初出文献の特定は本バッチではできなかった
+  claims:
+  - text: 芦屋は平安時代中期から芦屋津として記録に残る港の地名であり、1185年には治承・寿永の乱の葦屋浦の戦いの合戦場となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-ashiya-wiki
+  - text: およそ1200年頃に宇都宮氏によって「芦屋釜」が興され、中世には「芦屋千軒・関千軒」とも言われ、下関とも肩を並べるほどの都市だったとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-ashiya-wiki
+  - text: 1889年4月1日に芦屋村と山鹿村が発足し、1891年6月10日に芦屋村が町制を施行して芦屋町となり、1905年11月5日に山鹿村を編入した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-ashiya-wiki
+  - text: 町内の山鹿貝塚は全国的に著名な貝塚として知られる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-ashiya-wiki
+  - text: 読みも表記も同じ「あしや」である兵庫県芦屋市とは別の自治体であり、両者は本知識ベースでも相互に言及されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-ashiya-wiki
+  - text: 芦屋町の地方公共団体コードは403814である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 芦屋千軒――港町「芦屋津」と芦屋釜
+    text: 芦屋の名は、まず港の名として歴史に現れる。平安時代中期には芦屋津として記録に残り、1185年には源平の争いの葦屋浦の戦いの舞台となった。鎌倉期のおよそ1200年頃には宇都宮氏のもとで茶釜の「芦屋釜」が興り、中世の芦屋は「芦屋千軒・関千軒」と称され、下関と肩を並べる都市だったという。1891年という早い時期に町制を施行したのも、この港町としての蓄積があってのことだろう。今も町には航空自衛隊芦屋基地とボートレース芦屋があり、水辺の町の性格は受け継がれている。
+    sources:
+    - r5-ashiya-wiki
+  relations:
+  - pref/40
+  - muni/28-芦屋市
+  unknowns:
+  - 「芦屋」の語源（葦の生える地に由来するか等）は確認できなかった
+  - 芦屋津の初出文献は特定できなかった
+  updated: '2026-11-13'
+- id: muni/40-苅田町
+  code: '406210'
+  names:
+    ja: 苅田町
+    reading: かんだまち
+    aliases:
+    - 苅田村
+    - 小波瀬村
+    - 白川村
+  user_terms:
+  - かんだ
+  - 苅田
+  - 難読地名
+  - 北九州空港のある町
+  naming_type: 一部の地名（旧村名「苅田」の継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 京都郡の町。読みは難読の「かんだ」。1889年に苅田村として発足し、1924年に町制を施行、1955年に小波瀬村・白川村と対等合併して現在の町域となった。町内には今も字「神田（かんだ）」が残るが、「かんだ」の読みが神田に由来し字を苅田に改めたという説は本バッチでは検証できなかった。1975年度以降地方交付税の不交付団体であり続け、北九州空港は町内の埋立地に立地する。
+  first_attestation:
+    era: 明治時代
+    year_western: 1889
+    document: 町村制による苅田村の発足（1889年4月1日）
+    note: 「苅田」はこれ以前から存在した地名とみられるが、初出文献は本バッチでは確認できなかった
+  claims:
+  - text: 1889年4月1日に苅田村・小波瀬村・白川村が発足し、1924年8月1日に苅田村が町制を施行して苅田町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kanda-wiki
+  - text: 1955年1月1日に苅田町・小波瀬村・白川村が対等合併し、新町制の苅田町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kanda-wiki
+  - text: 町内には字「神田（かんだ）」が現存し、1960年には神田・提・光国・馬場・浜町から京町が発足し、神田を含む区域からは神田町1〜3丁目が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kanda-wiki
+  - text: 平尾台の青龍窟には、景行天皇が洞窟を住処とする土蜘蛛を退治したという伝説が『日本書紀』に記載されていると紹介される
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - r5-kanda-wiki
+  - text: 苅田町は1975年度以降、地方交付税の不交付団体であり続けており（2025年現在）、北九州空港は町内の埋立地（空港南町）に立地する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-kanda-wiki
+  - text: 苅田町の地方公共団体コードは406210である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 町の中に残る「神田」と、空港のある町
+    text: 「苅田（かんだ）」という読みの手がかりは、町の中に今もある。苅田町には字「神田（かんだ）」が現存し、1960年の町名整理では神田を含む区域から神田町1〜3丁目が生まれた。音は「かんだ」で共通するのに、町名は「苅田」、字は「神田」。読みが先にあって字が分かれたのか、それとも別の経緯かは、まだ確かめられていない。一方で苅田町は1975年度から半世紀近く地方交付税を受け取らない「不交付団体」であり続け、2006年開港の北九州空港は町内の埋立地に立つ。難読の名と、空港と工場の町という現代の顔との落差が、この町の面白さである。
+    sources:
+    - r5-kanda-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 「苅田（かんだ）」の読みの由来（神田からの転訛という説を含む）は検証できなかった
+  - 「苅田」表記の初出文献は確認できなかった
   updated: '2026-11-13'
 - id: muni/40-行橋市
   code: '402133'
@@ -2285,6 +4126,160 @@ records:
   - 改称の経緯についての市の公式な詳細記録（市勢要覧の記述等）は直接確認できておらず、主張は主にWikipediaの記述による
   - 「豊前」の名を誰が候補に挙げたかなど、改称決定の内幕は未確認
   updated: '2026-11-13'
+- id: muni/40-赤村
+  code: '406091'
+  names:
+    ja: 赤村
+    reading: あかむら
+    aliases:
+    - 上赤村
+    - 下赤村
+    - 内田村
+  user_terms:
+  - あか
+  - 赤
+  - 福岡県唯一の村
+  - 我鹿八幡神社
+  naming_type: 一部の地名（旧村名「赤」の継承）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 田川郡の村で、福岡県唯一の村。1887年に上赤村・下赤村・山浦村の合併で赤村が発足し、1889年の町村制では内田村の区域を合わせて赤村となった。以後、市町村合併も町制施行もしたことがなく、筑豊地域では唯一の存在である。色の漢字一字だけを名前に使う市町村は全国で赤村だけと言われる。「赤」の語源は未詳だが、村内の我鹿（あか）八幡神社に結びつける説が紹介されている。
+  first_attestation:
+    era: 明治時代
+    year_western: 1887
+    document: 上赤村・下赤村・山浦村の合併による赤村の発足
+    note: 「赤」の地名自体は、上赤村・下赤村という村名としてこれ以前から存在した。「赤」の初出文献と語源は確認できなかった
+  claims:
+  - text: 1887年に上赤村・下赤村・山浦村が合併して赤村が発足し、大内田村・小内田村が合併して内田村が発足、1889年4月1日の町村制施行により両村の区域をもって赤村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-aka-wiki
+  - text: 赤村は福岡県唯一の村であり、筑豊地域では町村制施行以降に市町村合併も町制施行もしたことのない唯一の村である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-aka-wiki
+  - text: 歴史的行政区域データセットによれば、赤村の行政区域は1889年4月1日以降継続しており、行政区域コードは40609である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-aka-geoshape
+  - text: 昭和の大合併では、大任村（現・大任町）から合併を申し入れられたがこれを拒み、香春町・勾金村・採銅所村との1町3村合併を目指したものの香春町が拒んだため合併に至らなかった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-aka-wiki
+  - text: 村内には「我鹿」と書いて「あか」と読む我鹿八幡神社があり、村名の「赤」は色に由来するのではなく「我鹿」に由来するとする説が紹介されているが、確証は得られていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - r5-aka-note
+  - text: 内田三連橋梁は国の登録有形文化財であり、第二石坂トンネルは九州最古の鉄道トンネルとされ、未成に終わった国鉄油須原線の路盤を使った観光トロッコ「赤村トロッコ油須原線」がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-aka-wiki
+  - text: 赤村の地方公共団体コードは406091である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 合併を二度断った村――残った「赤」一字
+    text: 赤村は、合併の誘いを断り続けてきた村である。昭和の大合併では、隣の大任村（現・大任町）からの申し入れを拒み、香春町などとの1町3村合併も相手方の拒否で流れた。平成の大合併の波も越え、赤村は福岡県でただ一つの村として残った。色の漢字一字をそのまま名前にする市町村は全国でも赤村だけと言われる。その「赤」の由来は定かでないが、村の我鹿八幡神社は「我鹿」と書いて「あか」と読み、「赤は色ではなかった」とする説も紹介されている。一字の名の奥に、まだ解かれていない物語がある。
+    sources:
+    - r5-aka-wiki
+    - r5-aka-note
+  relations:
+  - pref/40
+  unknowns:
+  - 「赤」の語源（赤土に由来する説、我鹿に由来する説など）は確定できなかった
+  - 「赤」の初出文献は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-遠賀町
+  code: '403849'
+  names:
+    ja: 遠賀町
+    reading: おんがちょう
+    aliases:
+    - 遠賀村
+  user_terms:
+  - 遠賀
+  - おんが
+  - 遠賀川
+  naming_type: 合併新設（1929年の島門村・浅木村の合併に際し、郡名「遠賀」を新村名に採用した）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 遠賀郡の町で、町名は郡名「遠賀」の転用である。「遠賀」のもとは遠賀川河口の丘陵を指した「岡（ヲカ）」で、『日本書紀』の岡県・岡水門に端を発し、『延喜式』で「遠賀」と書かれるようになった。読みが「おか」から「おんが」に転じたのは、室町期に御牧郡と改められた郡名が1664年に遠賀郡へ戻された後のことといわれる。
+  first_attestation:
+    era: 奈良時代
+    year_western: 720
+    document: 『日本書紀』（岡県・岡水門）
+    note: 町公式が「遠賀」の由来の端緒とする記載。現在の二字表記「遠賀」そのものの初出ではなく、元の地名「岡」の用例である。「遠賀」の表記は『延喜式』など奈良・平安期の文献に見える
+  claims:
+  - text: 遠賀町の地方公共団体コードは403849である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式は、「遠賀」という地名の由来は『日本書紀』に詠まれた「岡県・岡水門」や『万葉集』の「水茎の岡の水門」に端を発していると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-onga-town-yurai
+  - text: 町誌によれば、遠賀地方の最も古い地名表記である「岡」「塢舸」「崗」の語源は地形に由来し、ヲは高い所、カは処で「岡」「丘」の意であり、その後『続日本紀』が「遠珂」、『延喜式』が「遠賀」というように文字が変化した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-onga-choshi
+  - text: 町誌によれば、遠賀郡は室町時代初期に「御牧郡」と改称されるまで「遠賀」と呼ばれて「ヲカ」と読まれ、「オンガ」と読むようになったのは寛文4年（1664年）に御牧郡を旧名の遠賀郡に戻して以降のことといわれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-onga-choshi
+  - text: 江戸時代の国学者・伊藤常足は『太宰管内志』で「遠賀は広き岡のあるに依れり」と説明しており、町誌がこれを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-onga-choshi
+  - text: 町誌によれば、古代の遠賀川河口周辺は崗津（岡津）と呼ばれ、瀬戸内海経由で朝鮮・中国へ向かう船の中継泊地として海上交通の要衝であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-onga-choshi
+  - text: 1929年（昭和4年）4月1日に島門村と浅木村が合併して遠賀村が誕生し、1964年（昭和39年）4月1日に遠賀郡では最後となる町制を実施して遠賀町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-onga-town-yurai
+  column:
+    title: ヲカがオンガになるまで
+    text: 遠賀はずっと「ヲカ」だった。ところが室町時代の初め、郡名は「御牧郡」に改められてしまう。江戸時代の寛文4年（1664年）に旧名の遠賀郡へ戻されたのだが、その頃から読みは「オンガ」へと転じていったと町誌はいう。漢字は元に戻っても、読みは戻らなかったわけである。遠賀川も遠賀郡も遠賀町も、この「戻って変わった」名を分かち合っている。
+    sources:
+    - r6-onga-choshi
+    - r6-onga-town-yurai
+  relations:
+  - pref/40
+  - muni/40-鞍手町
+  unknowns:
+  - 『日本書紀』の「岡県」の用例を原文で直接確認したわけではなく、町公式・町誌の紹介による
+  - 「御牧郡」への改称の正確な年次と理由は、今回参照した町誌の記述では特定できなかった
+  updated: '2026-11-13'
 - id: muni/40-那珂川市
   code: '402311'
   names:
@@ -2354,6 +4349,157 @@ records:
   unknowns:
   - 川名「那珂川」の語源と初出は、公的・専門資料では確認できなかった（古代の筑前国那珂郡の「那珂」との関係も含め未確定）
   - 昭和31年（1956年）の合併に際して川名を町名に採用した決定過程の詳細は、公表資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-鞍手町
+  code: '404021'
+  names:
+    ja: 鞍手町
+    reading: くらてまち
+    aliases: []
+  user_terms:
+  - 鞍手
+  - くらて
+  - 鞍橋君
+  naming_type: 合併新設（1955年の剣町・西川村・古月村の合併に際し、公募で郡名「鞍手」を新町名に決定した）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 鞍手郡の町で、町名は1955年の合併時に公募で選ばれた郡名である。その郡名の由来として町が語るのは、『日本書紀』の伝承に現れる筑紫国造「鞍橋君（くらじのきみ）」の物語で、「くらじ」が転じて「くらて」になったという。合併した剣町・西川村・古月村のいずれの名でもない、郡の名が新町の名になった。
+  first_attestation:
+    era: 奈良時代
+    year_western: 720
+    document: 『日本書紀』（鞍橋君の伝承）
+    note: 由来譚の典拠としての初出層であり、地名「鞍手」そのものの初出ではない。郡名「鞍手」の文献上の初出は確認できなかった
+  claims:
+  - text: 鞍手町の地方公共団体コードは404021である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式は町名の由来を『日本書紀』に記されている伝承に求め、欽明天皇の命を受けた筑紫国造が百済の皇太子・餘昌（のちの威徳王）を新羅の騎馬兵から救い出す功績を挙げたと伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r6-kurate-youran
+  - text: その功績により餘昌は筑紫国造に「鞍橋君（くらじのきみ）」の尊称を授けたとされ、鞍橋とは馬の鞍骨のことで、敵の馬の鞍骨やよろいを射抜くほどの弓の名手であったことに由来すると町公式は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r6-kurate-youran
+  - text: 筑紫国造が治めたこの地は「くらじ」と呼ばれるようになり、それが時を経て「くらて」へと変化し、現在の鞍手町の地名になったと町公式は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r6-kurate-youran
+  - text: 鞍手町の「くらて」は「くらじ」が訛ったものとされ、町内の飯盛山にある鞍橋神社では鞍橋君が祀られている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-kuraji-wiki
+  - text: 現在の鞍手町は1955年（昭和30年）1月1日に剣町・西川村・古月村の1町2村が合併して誕生し、新しい町名「鞍手町」は公募により決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kurate-youran
+  - text: 合併した剣町・西川村・古月村のいずれも「鞍手」を名乗っておらず、公募で選ばれた「鞍手」は3町村が属していた鞍手郡の郡名を採ったものと解される
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r6-kurate-youran
+  column:
+    title: 公募で選ばれた、千四百年前の名
+    text: 1955年の合併で、剣町・西川村・古月村は、3町村のどれか一つの名ではなく「鞍手町」を公募で選んだ。その「鞍手」の由来として町が語るのは、6世紀の筑紫国造が百済の王子を救ったという『日本書紀』の伝承である。弓の名手への褒美の名「鞍橋君」から「くらじ」、そして「くらて」へ。合併の公募が、伝説の層までつながる古い名をすくい上げた格好だ。町内の飯盛山には今も鞍橋神社が祀られている。
+    sources:
+    - r6-kurate-youran
+    - r6-kuraji-wiki
+  relations:
+  - pref/40
+  - muni/40-遠賀町
+  unknowns:
+  - 『日本書紀』の鞍橋君に関する記事を原文で直接確認したわけではなく、町公式資料の紹介による。また伝承の舞台が現在の鞍手町域であることの史料上の裏付けは確認できなかった
+  - 郡名「鞍手」の文献上の初出（『和名類聚抄』などへの記載の有無を含む）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-須恵町
+  code: '403440'
+  names:
+    ja: 須恵町
+    reading: すえまち
+    aliases:
+    - 須恵村
+  user_terms:
+  - 須恵
+  - すえ
+  - 須恵焼
+  naming_type: 一部の地名（1889年の6村合併に際し、構成村の一つ「須恵村」の名を新村名とした）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 糟屋郡の町で、町名は1889年の合併で構成村の一つ須恵村の名を継いだもの。「須恵」は古代の須恵器の生産に由来するといわれるが、町自身の計画書は地名の初出が中世であることを併記しており、須恵器との直接の結びつきは確かめられていない。江戸時代に藩の御用窯で焼かれた磁器「須恵焼」も、古代の須恵器とは別のものである。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: null
+    note: 町公式の総合計画は「須恵」という地名の初出は中世になっていると述べるが、具体的な文献名は示されておらず確認できなかった
+  claims:
+  - text: 須恵町の地方公共団体コードは403440である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式の総合計画は、「須恵」という地名は古代の須恵器の生産に由来していると言われると紹介する一方で、須恵町において「須恵」という地名の初出は中世になっているとしており、須恵器生産と地名の直接の結びつきは裏付けられていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r6-sue-plan
+  - text: 「須恵器」という呼称自体は、平安時代に「陶器（すえもの）」と読まれていた土器に後世の考古学が当て字を考案して一般化した用語であり、須恵の地名および江戸時代の須恵焼とは直接的には無関係であるとされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - r6-sueki-wiki
+  - text: 1889年（明治22年）、佐谷村・上須恵村・須恵村・新原村・旅石村・植木村の6村が合併して「須恵村」となり、新村名は構成村の一つ「須恵村」の名を継いだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-sue-plan
+  - text: 1953年（昭和28年）に町制を施行して「須恵町」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-sue-plan
+    - r6-sue-wiki
+  - text: 江戸時代の17世紀中ごろ、上須恵の皿山に福岡黒田藩唯一の本格的な磁器御用窯が築かれて「須恵焼」が誕生し、明治30年代まで約150年間作られたと町公式の総合計画は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-sue-plan
+  - text: 須恵町は町村制施行以来、一度も市町村合併を経験していない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-sue-wiki
+  column:
+    title: 三つの「すえ」
+    text: 須恵町には「すえ」が三つある。古代の土器「須恵器」、江戸時代に藩の御用窯で焼かれた磁器「須恵焼」、そして地名の「須恵」。似た名が重なるため地名は須恵器から来たと思われがちだが、町の計画書自身が「地名の初出は中世」と留保し、「須恵器」という言葉自体も後世の学者が作った当て字だとされる。名の連想は魅力的だが、証拠の上では三つの「すえ」は切り分けて考えるべきものとして残っている。
+    sources:
+    - r6-sue-plan
+    - r6-sueki-wiki
+  relations:
+  - pref/40
+  unknowns:
+  - 地名「須恵」の中世の初出とされる具体的な文献・文書名は確認できなかった
+  - 須恵焼の御用窯の設置時期は、町公式の総合計画が「17世紀中ごろ」とする一方、1764年の設置とする百科事典的な記述もあり、資料により異なる
   updated: '2026-11-13'
 - id: muni/40-飯塚市
   code: '402052'
@@ -2440,6 +4586,98 @@ records:
   unknowns:
   - 中世の荘園名など、「飯塚」の文献上の初出は確認できなかった
   - 市制施行の正確な日付（1932年1月20日）は、個人が編纂した市名一覧でしか確認できなかった
+  updated: '2026-11-13'
+- id: muni/40-香春町
+  code: '406015'
+  names:
+    ja: 香春町
+    reading: かわらまち
+    aliases:
+    - 鹿春郷
+    - 香春宮
+  user_terms:
+  - 香春
+  - かわら
+  - 香春岳
+  - 採銅所
+  naming_type: 一部の地名（1956年の香春町・勾金村・採銅所村の合併に際し、旧香春町の名を継承した）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 田川郡の町で、町名は8世紀の『豊前国風土記』に「鹿春郷」と見える古い地名の継承である。語源には、金辺川の美しい「川原」に由来するという風土記以来の説明と、古代朝鮮語で銅を意味する語の転訛で、香春岳の銅と結びついた地名だという学術説とが対立する。1956年の合併では、銅を採る役所を思わせる「採銅所村」も相手に含まれていた。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『豊前国風土記』逸文（田川郡鹿春郷）
+    note: 町公式は「初めて公式文書に登場するのは8世紀に編集された風土記」とする。風土記本文は逸文としてのみ伝わり、成立年次も諸説あるため西暦年は特定しない
+  claims:
+  - text: 香春町の地方公共団体コードは406015である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「香春」の名が公式文書に初めて現れるのは8世紀に編集された『豊前国風土記』であり、「鹿春郷」と記されたと町公式は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kawara-town-intro
+  - text: 町公式によれば、地名の漢字表記は河原・鹿春・清河原・加波流・賀春・香春・香原など多様に書き残され、『豊前国風土記』はその語源を金辺川（清瀬川）の美しい「川原」に求め、『和名類聚抄』は田川郡香春郷を「加波留（カハラ）」と訓じた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kawara-town-intro
+  - text: 町公式は、語源について古代朝鮮語のカパル（急険な）・カグポル（金の村）という意味から来たという説も紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r6-kawara-town-intro
+  - text: 学術研究（井上孝夫）では、「香春」は古代朝鮮語で銅を意味する「カリ」「クリ」が転訛した地名であり、風土記の「清い河原」に基づくという由来は和銅6年（713年）の「郷の名は好字を書け」という命令のもとで付け替えられた説明であると解釈されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - r6-kawara-inoue
+  - text: 学術論文と北九州市立考古博物館の展示図録が紹介するところでは、和同開珎の鋳銭のために豊前国香春岳の銅が使用されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kawara-inoue
+  - text: 『豊前国風土記』逸文は、香春神社の第一座である辛国息長大姫大目命を朝鮮半島からの渡来神とし、新羅の神がこの地の川原に来て鹿春神になったと伝える内容を含むと、福岡県の公式観光サイトが紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r6-kawara-jinja-fukuoka
+  - text: 香春神社は『延喜式』神名帳に載る豊前国田川郡の辛国息長大姫大目命神社・忍骨神社・豊比咩神社を前身とし、和銅2年（709年）に三神を合祀して「香春宮」と称したと伝えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kawara-jinja-fukuoka
+    - r6-kawara-engishiki
+  - text: 現在の香春町は1956年（昭和31年）に香春町・勾金村・採銅所村の3町村が合併して発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kawara-bunkazai
+  column:
+    title: 川原か、銅か
+    text: 香春の語源は二つの物語が奪い合っている。一つは平安の昔から語られる「美しい川原」の名。もう一つは、古代朝鮮語で銅を意味する語が転じたもので、香春岳の銅を掘った渡来の人々の地名だという説である。和同開珎の銅に香春岳の銅が使われたとされ、1956年に合併した相手には「採銅所」という、いかにも銅を採る役所らしい村名まであった。「川原」説は風土記自身が語る由来だが、713年の好字令のもとで整えられた説明かもしれない。どちらが本当かは、まだ決着していない。
+    sources:
+    - r6-kawara-town-intro
+    - r6-kawara-inoue
+    - r6-kawara-bunkazai
+  relations:
+  - pref/40
+  unknowns:
+  - 和同開珎への香春岳の銅の使用について、『続日本紀』など一次史料の直接の記事は今回確認できなかった（学術論文・博物館図録の紹介による）
+  - 語源の「川原」説と「銅」説のいずれが正しいかは決着しておらず、町公式が紹介する古代朝鮮語説の原典も確認できなかった
+  - 香春と神功皇后を結びつける伝承は、今回参照した公的資料では確認できなかった（香春神社の祭神・辛国息長大姫大目命は朝鮮半島からの渡来神とされる）
   updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
@@ -2615,6 +4853,15 @@ sources:
   r3-chikugo-reiki:
     label: 筑後市例規集所収の告示文（総理府告示第255号・福岡県告示第253号。1954年4月1日から羽犬塚町・水田村・古川村・岡山村大字前津及び長浜の区域をもって筑後市を置く）
     url: https://www.city.chikugo.lg.jp/reiki_int/reiki_honbun/q013RG00000001.html
+  r3-hisayama-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」久山町（1956年～）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/40348A1968.html
+  r3-hisayama-town-plan:
+    label: 久山町「第4次久山町総合計画 基本構想（素案）」（町公式サイト掲載PDF）
+    url: https://www.town.hisayama.fukuoka.jp/material/files/group/1/kihonkoso.pdf
+  r3-hisayama-wiki:
+    label: Wikipedia「久山町」
+    url: https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B1%B1%E7%94%BA
   r3-iizuka-chushinshi:
     label: 飯塚市「中心市宣言書」（長崎街道の宿場町としての繁栄と、炭鉱閉山による人口減の経緯）
     url: https://www.city.iizuka.lg.jp/uploaded/attachment/5492.pdf
@@ -2633,12 +4880,27 @@ sources:
   r3-iizuka-yurai:
     label: 飯塚市公式「地名の由来」（神功皇后の「いつか」説と聖光上人の「飯の塚」説の二説を紹介）
     url: https://www.city.iizuka.lg.jp/soshiki/8/2637.html
+  r3-koge-gun-wiki:
+    label: Wikipedia「上毛郡」
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%AF%9B%E9%83%A1
+  r3-koge-wiki:
+    label: Wikipedia「上毛町」
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%AF%9B%E7%94%BA
   r3-kotobank-amagi:
     label: コトバンク「甘木」（『精選版日本国語大辞典』は安長寺にちなむ命名とし、『デジタル大辞泉』は安長寺の門前町に始まるとする）
     url: https://kotobank.jp/word/%E7%94%98%E6%9C%A8-27120
   r3-kurume-kokufu:
     label: 久留米市公式「筑後国府跡が追加指定されました」（筑後国府跡は久留米市合川町にあり国指定史跡）
     url: https://www.city.kurume.fukuoka.jp/1080kankou/2015bunkazai/3010bunkazai/2025-1211-1159-280.html
+  r3-miyako-jiji:
+    label: 時事通信「ホストタウン紹介・みやこ町」
+    url: https://sp.m.jiji.com/olympic/hosttown/show/861
+  r3-miyako-pref-pdf:
+    label: 一般社団法人みやこ観光まちづくり協会の紹介資料（福岡県公式サイト掲載）
+    url: https://www.pref.fukuoka.lg.jp/uploaded/life/789470_62655256_misc.pdf
+  r3-miyako-wiki:
+    label: Wikipedia「みやこ町」
+    url: https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%84%E3%81%93%E7%94%BA
   r3-nakama-kobunsyokan:
     label: 福岡共同公文書館ブログ「公文書でめぐるふるさと福岡 ～中間市～」（長津村の成立、通称「中間」の定着、1924年の改称可決と1958年の市制を公文書でたどる）
     url: https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=2139
@@ -2663,6 +4925,15 @@ sources:
   r3-ogori-weblio:
     label: Weblio辞書「小郡市」（山口県に2005年まであった小郡町とは異なる自治体である旨の曖昧さ回避を含む）
     url: https://www.weblio.jp/content/%E5%B0%8F%E9%83%A1%E5%B8%82
+  r3-oto-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」大任村（1889年～1960年）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/40B0180010.html
+  r3-oto-kobunsyokan:
+    label: 福岡共同公文書館ブログ「公文書でめぐるふるさと福岡 ～大任町～」
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog/?p=2500
+  r3-oto-wiki:
+    label: Wikipedia「大任町」
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%BB%BB%E7%94%BA
   r3-tagawa-kotobank:
     label: コトバンク『精選版日本国語大辞典』「田川」（田川郡は古くは「たかは」といい鷹羽・高羽・田河とも書かれた）
     url: https://kotobank.jp/word/%E7%94%B0%E5%B7%9D-92828
@@ -2714,6 +4985,15 @@ sources:
   r3-yanagawa-uub:
     label: 市区町村変遷情報「柳川市」（1951年の柳川町成立、1952年の市制、1955年の昭代村・蒲池村編入を収録）
     url: https://uub.jp/upd/c/583.html
+  r3-yoshitomi-kobunsyokan:
+    label: 福岡共同公文書館ブログ「公文書でめぐるふるさと福岡 ～吉富町～」
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog/?p=1775
+  r3-yoshitomi-town-sdgs:
+    label: 吉富町「吉富町SDGs未来都市計画（改定版）」（町公式サイト掲載PDF）
+    url: https://www.town.yoshitomi.lg.jp/user/filer_public/f6/fc/f6fc9ac8-b45f-4880-8a73-2c99ee001f45/ji-fu-ting-sdgswei-lai-du-shi-ji-hua-gai-ding-ban.pdf
+  r3-yoshitomi-wiki:
+    label: Wikipedia「吉富町」
+    url: https://ja.wikipedia.org/wiki/%E5%90%89%E5%AF%8C%E7%94%BA
   r3-yukuhashi-kids:
     label: 行橋市公式キッズページ「行橋市の歴史」（1889年の合併で「行橋」が誕生したとする説明と、古代の京都郡・仲津郡）
     url: https://www.city.yukuhashi.fukuoka.jp/site/kids/13497.html
@@ -2741,6 +5021,21 @@ sources:
   r4-kama-wikipedia-gun:
     label: Wikipedia「嘉麻郡」（明治29年の郡統合で嘉麻郡と穂波郡をもって嘉穂郡が発足し、嘉麻郡は廃止されたとする郡の変遷）
     url: https://ja.wikipedia.org/wiki/%E5%98%89%E9%BA%BB%E9%83%A1
+  r4-keisen-kotobank:
+    label: コトバンク「桂川町」（平凡社『日本歴史地名大系』の解説。町域は『和名類聚抄』に載る古代穂浪〈穂波〉郡土師郷に比定されること、町内を泉河内川・穂波川などが流れること。あわせてブリタニカ国際大百科事典小項目事典の解説〈1940年町制〉）
+    url: https://kotobank.jp/word/%E6%A1%82%E5%B7%9D%E7%94%BA-59000
+  r4-keisen-plan:
+    label: 桂川町「第5次桂川町総合計画」（明治22年に瀬戸村・寿命村・中屋村・豆田村・九郎丸村・土居村・吉隈村・土師村・内山田村が合併し穂波郡桂川村として発足したこと、この桂川村が昭和15年に町制施行して現在の桂川町となったこと、6世紀に国の特別史跡である王塚古墳をはじめ前方後円墳が造られたこと）
+    url: https://www.town.keisen.fukuoka.jp/pdf/sougou/5sougou_2.pdf
+  r4-keisen-wiki:
+    label: Wikipedia「桂川町」（1889年4月1日に穂波郡の9村の区域をもって桂川村が発足したこと、1896年の郡統合で嘉穂郡の所属となったこと、1940年4月17日に町制施行したこと、装飾古墳が60基以上発見されていること、江戸時代中期には石炭の採掘が行われるようになり1972年に町内最後の炭坑が閉山したこと）
+    url: https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B7%9D%E7%94%BA
+  r4-kotake-town:
+    label: 小竹町公式サイト「町の概要（町の沿革・位置・地勢）」（明治17年に7か村で勝野村外6か村戸長役場を置き、明治22年の町村制で中泉村は福智村〈現・直方市〉に併合され他の6か村が合併して勝野村として発足したこと、昭和3年1月1日に町制が施行され現町名に変更されたこと、町名の由来は古来町内の街道沿いに竹薮が生い茂り「小竹の処」といわれたのが起こりであること、町章は昭和13年1月1日制定で「小竹」の文字をデザイン化したこと）
+    url: https://town.kotake.lg.jp/hpkiji/pub/Detail.aspx?c_id=3&id=610
+  r4-kotake-wiki:
+    label: Wikipedia「小竹町」（1889年4月1日に勝野村・南良津村・新山崎村・新多村・赤地村・御徳村の区域をもって勝野村が発足したこと、1928年1月1日に町制施行して小竹町となったこと、小竹炭鉱が1963年に、古河目尾炭鉱が1969年に閉山したこと）
+    url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AB%B9%E7%94%BA
   r4-miyama-hensen-db:
     label: 市区町村変遷情報「みやま市（福岡県）2007年〜」（新市名公募の上位10点と最終候補3点（三山・山門・筑南）、「みやま市」の選定を伝える）
     url: https://uub.jp/upd/c/890.html
@@ -2753,6 +5048,15 @@ sources:
   r4-miyawaka-hensen-db:
     label: 市区町村変遷情報「宮若市（福岡県）2006年〜」（新市名公募の候補10点と最終候補2点（宮田・宮若）、直鞍合併協議会からの離脱を経た2町合併の経緯を伝える）
     url: https://uub.jp/upd/c/1120.html
+  r4-mizumaki-gakkoshi:
+    label: 水巻町『水巻の学校史』抜粋（町公式サイト掲載PDF。1889年の合併による村施行理由書に「新村名を水巻の庄〈御牧庄ともあり〉と唱えしによる」と記されること、頃末・古賀が「対島文書」の中に永享4年〈1432年〉の是末名・古賀名として初めて見えること）
+    url: https://www.town.mizumaki.lg.jp/s036/kanko/020/aaa.pdf
+  r4-mizumaki-town:
+    label: 水巻町公式サイト「町名由来・町のなりたち」（立屋敷の八劔神社に合祀されている保食神社の棟札に「保食宮は昔、水巻宮〈みまきぐう〉と称す。水巻〈みまき〉は、地名にして水の巻く意なり」と記されていること、明治22年の町村制のとき水巻山にあった戸長役場を村役場に改称し役場の所在地の名をとって水巻村〈みずまきむら〉としたこと、昭和15年に町制を施行し水巻町〈みずまきまち〉となったこと、9か村が合併して水巻村になったこと、『麻生文書』に水巻関係の地名として「二村村」「古加名」「是末名」が記されること、元和6年〈1620年〉に黒田長政が水巻大明神に参拝したことが「岡郡宗社志」に記されること、昭和46年〈1971年〉に石炭産業の終えんを迎えたこと）
+    url: https://www.town.mizumaki.lg.jp/s036/business/030/010/030/20200108095000.html
+  r4-mizumaki-wiki:
+    label: Wikipedia「水巻町」（1889年4月1日に遠賀郡水巻村が発足し1940年2月11日に町制施行したこと、町章は1950年10月に制定され遠賀川の水が三つ巴になり渦巻きながら流れる様を「水巻」と図案化したものと説明されること、日炭高松炭鉱があり1969年に日本炭礦が撤退したこと）
+    url: https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B7%BB%E7%94%BA
   r4-nakagawa-antoku-kyodo:
     label: 那珂川町郷土史研究会の現地探訪記録（安徳台は安徳天皇と平家一門の九州下向の際に居館が置かれた地と伝えられ、「安徳」の地名の起こりとされること、安徳宮と「天皇さまこもり」の行事）
     url: http://nnmymsm.web.fc2.com/bastanbounakagawa.html
@@ -2765,9 +5069,63 @@ sources:
   r4-nakagawa-sakuta:
     label: 那珂川市公式（文化財課）「裂田溝（さくたのうなで）」（那珂川の一の井手から安徳・五郎丸・松木を通って今光に至る総延長約5.5kmの人工用水路で、『日本書紀』にゆかりを持つ古い用水路とする市の説明）
     url: https://www.city.nakagawa.lg.jp/site/bunkazai/nihonisansakutanounade.html
+  r4-okagaki-kobunshokan:
+    label: 福岡県立図書館・福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 ～岡垣町～」（1907年に岡県村と矢矧村が合併して岡垣村が誕生した経緯、新村名をめぐる両村の主張と遠賀郡長が「岡県の岡」と「垣崎」の「垣」を合わせて「岡垣」と決定したこと、1962年10月1日に町制施行したこと）
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=843
+  r4-okagaki-town:
+    label: 岡垣町公式サイト「町名の由来」（「岡」は砂の岡、「垣」は防風林として誕生した松の垣で、この二字が合わさったのが岡垣であること、「岡垣」という名称は1907年の合併まで歴史上に一度も現れたことがないこと、『日本書紀』神武天皇条の「筑紫の国崗」、『筑前国続風土記』の岡に関する記述、垣前郷と神功皇后の千本松の伝承、新村名がまとまらず遠賀郡長が岡県の「岡」と古称「垣崎」の「垣」を合わせて決定したこと〈『己百斎筆語』による〉、矢矧村の名は矢矧川に残り海老津の名は1910年開業の駅に残ったこと）
+    url: http://www.town.okagaki.lg.jp/s034/040/030/010/20200703151910.html
+  r4-okagaki-wiki:
+    label: Wikipedia「岡垣町」（1889年に岡県村と矢矧村が編成され、1907年10月1日に両村が合併して岡垣村が発足し、1962年10月1日に町制施行したこと、町名の由来は古代の地名「岡」と「垣崎〈垣前郷〉」の「垣」の折衷であること）
+    url: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%9E%A3%E7%94%BA
   r4-okawa-rekishi-bunka:
     label: 大川市「大川市歴史文化基本構想」第2章（市の公式資料。明治22年に大川町が誕生、昭和29年に大川町と三又村・木室村・田口村・川口村・大野島村が合併して大川市が誕生し「大川」の名が継承されたこと、筑後川の旧称と榎津の船大工の歴史）
     url: https://www.city.okawa.lg.jp/s065/010/010/020/03_1-2.pdf
+  r4-ooki-kobunshokan:
+    label: 福岡県立図書館・福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 ～大木町～」（1889年に大溝村・木佐木村・大莞村となり、1955年に3村が合併して大木町になったこと、町名は村民から募集し協議で絞られた「大木」「木佐木」「花井」から全村民投票で決定したこと、2005年以降は三潴郡を構成する唯一の自治体であること、町内を「堀」と呼ばれるクリークが縦横に走り町全体の14%を占めること）
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=866
+  r4-ooki-town:
+    label: 大木町公式サイト「まちの歴史・あゆみ（明治22年～昭和29年）」（明治22年に大溝村・木佐木村・大莞村が誕生したことなど前身3村の歩み）
+    url: https://www.town.ooki.lg.jp/gyosei/1/1/1424066273462.html
+  r4-ooki-wiki:
+    label: Wikipedia「大木町」（1955年1月1日に大溝村・木佐木村・大莞村が新設合併して町制施行し大木町が発足したこと、中世には徳大寺家の荘園があり筑後宇都宮氏が大木城に拠ったこと）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9C%A8%E7%94%BA
+  r4-shime-town:
+    label: 志免町公式パンフレット（町は宇美八幡宮のしめ縄が張られた土地であることから「志免」の地名となったという説があること、公式キャラクター「シメッチャ」はそのしめ縄をモチーフにした角を持つ羊であること、旧志免鉱業所竪坑櫓が町の見どころであること、町の面積は8.69平方キロメートルで県内3番目に小さい町であること、平成31年4月に町制80周年を迎えたこと）
+    url: https://www.town.shime.lg.jp/uploaded/attachment/19178.pdf
+  r4-shime-wiki:
+    label: Wikipedia「志免町」（隣町の宇美八幡宮の注連縄が張られた土地であることから志免の地名となった説があること、1889年4月1日に田富村・吉原村・志免村・南里村・別府村・御手洗村の区域をもって志免村が発足したこと、1939年4月17日に町制施行したこと）
+    url: https://ja.wikipedia.org/wiki/%E5%BF%97%E5%85%8D%E7%94%BA
+  r4-shingu-town-enkaku:
+    label: 新宮町公式サイト「新宮町（しんぐうまち）の沿革」（1889年に的野・立花口・原上・三代の4村が合併して立花村に、上府・下府・新宮・湊・相島の5村が合併して新宮村になったこと、1955年4月1日に新宮町と立花村の合併で新しい新宮町が生まれたこと）
+    url: https://www.town.shingu.fukuoka.jp/gyosei/gaiyo/1/2615.html
+  r4-shingu-town-yurai:
+    label: 新宮町公式サイト「新宮の由来」（町名「新宮」は1955年の合併で付けられた名で、旧新宮村の名は1889年に合併した村々のうち一番大きな村である新宮の名前をとったこと、『本朝無題詩集』所収の藤原周光の詩に住吉霊社を移して新宮と号したという由来が詠まれること、貝原益軒『筑前国続風土記』は住吉の神を勧請して磯崎神社としたことに由来すると主張すること、青柳種信『筑前国続風土記拾遺』は新宮神社への住吉勧請を主張すること、磯崎神社文書「新宮浦由来書上帳」は紀州熊野新宮浦より速玉の神が来臨し漁人が網に引き上げたため湊浦を新宮浦と改号したと伝えること）
+    url: https://www.town.shingu.fukuoka.jp/gyosei/gaiyo/1/2618.html
+  r4-shingu-wiki:
+    label: Wikipedia「新宮町」（古代は宗像郡席内郷に属し奈良・平安時代頃に糟屋郡へ郡代えされたこと、戦国時代は立花氏の領土であったこと、1954年11月1日に新宮村が町制施行し、1955年4月1日に立花村と対等合併して新宮町が発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%AE%E7%94%BA
+  r4-tachiarai-asahi:
+    label: 朝日新聞デジタル「ことばマガジン『「太」ったり、「大」きくなったり―九州・大刀洗編』」（2011年。1359年の大原の合戦〈筑後川の戦い〉の後に菊池武光が小川で血のついた刀を洗い川が朱に染まったという言い伝え、1889年に「太刀洗村」として届け出たが政府側の手違いで官報に「大刀洗村」と誤記され訂正は認められなかったことを、町企画財政課の説明として紹介する）
+    url: http://www.asahi.com/special/kotoba/archive2015/moji/2011100200005.html
+  r4-tachiarai-fukuoka:
+    label: 福岡県公式「グラフふくおか」2013夏号「きらめきマイタウン 大刀洗町」（町名は1359年の筑後川の戦いにおいて菊池武光が小川で太刀を洗ったという伝説から名付けられたと紹介すること、大刀洗公園内に町名の由来となった武将・菊池武光の銅像があること）
+    url: https://www.pref.fukuoka.lg.jp/somu/graph-f/2013summer/mytown/index.html
+  r4-tachiarai-town:
+    label: 大刀洗町公式観光サイト「タチヨリドコロ」大刀洗町について（町の北部から隣の筑前町にかけて「東洋一と謳われた」大刀洗飛行場があり、大刀洗陸軍飛行学校が置かれ、西日本航空発祥の地とされること）
+    url: https://www.town.tachiarai.fukuoka.jp/tachiyoridokoro/kiji003967/index.html
+  r4-tachiarai-wiki:
+    label: Wikipedia「大刀洗町」（町名の由来として菊池武光の太刀洗い伝承と太刀洗川の名を挙げること、1889年に「太刀洗村」と申請したものが官報に「大刀洗村」と掲載されたとする説明、1955年3月31日に大刀洗村・本郷村・大堰村が対等合併して大刀洗町が発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%80%E6%B4%97%E7%94%BA
+  r4-toho-ijuu:
+    label: 福岡県移住相談センター「ふくおかよかとこ移住相談センター」市町村情報「令和版東峰見聞録」（2005年に宝珠山村と小石原村が合併して発足し合併後も村制を敷いた数少ない自治体であること、旧宝珠山村は岩屋神社に祀られた宝珠石に由来し欽明天皇8年〈547年〉に岩屋へ光り輝くものが降ったと伝わること、旧小石原村は昔「腰原〈越原〉村」とも呼ばれ小石原の語源はその転訛とする説と小石の多い原を指すとする説があること、英彦山への登山口で修験道の峰入りルートの要地であったこと、2017年の九州北部豪雨で甚大な被害を受けたこと）
+    url: https://ijuu-teijuu.pref.fukuoka.lg.jp/coordinators/entries/detail/178
+  r4-toho-uub:
+    label: 市区町村変遷情報「朝倉郡東峰村」（2005年3月28日に小石原村・宝珠山村が合併して東峰村が生まれたこと、新村名の最終候補5点が東峰・宝石〈ほうせき〉・陶宝〈とうほう〉・小宝・宝珠小石原であったこと、1889年に小石原村は鼓村の区域を、宝珠山村は福井村の区域を合わせて発足したこと）
+    url: https://uub.jp/upd/c/1168.html
+  r4-toho-wiki:
+    label: Wikipedia「東峰村」（2005年3月28日に小石原村と宝珠山村が合併して発足したこと、1986年に両村の組合立で設置された中学校が「東峰中学校」と名付けられていたが学校名と新村名が同じなのは合併とは直接の関係はないとされること、2012年に日本で最も美しい村連合に加盟したこと）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B3%B0%E6%9D%91
   r4-ukiha-city-profile:
     label: うきは市公式「概要・市民の歌」（平成17年3月20日に旧浮羽町と旧吉井町が合併して「うきは市」が誕生したとする市の概要）
     url: https://www.city.ukiha.fukuoka.jp/kiji0035589/index.html
@@ -2783,3 +5141,114 @@ sources:
   r4-ukiha-wikipedia-gun:
     label: Wikipedia「浮羽郡」（明治29年に竹野郡・生葉郡の一部をもって浮羽郡が発足したとする郡の変遷）
     url: https://ja.wikipedia.org/wiki/%E6%B5%AE%E7%BE%BD%E9%83%A1
+  r4-umi-hachimangu:
+    label: 宇美八幡宮公式サイト「宇美八幡宮について」（『日本書紀』に産所を号けて「宇瀰」というとあり、『古事記』に御子の生地を号けて「宇美」というとあること、産所の地「蚊田」は宇美の古名であること、敏達天皇の御宇〈570年頃〉に創建されたと伝えること、御産所に八つの幡を立てて兵士に守らせた故事が「八幡」の称の由縁とも伝えられること、安産信仰にまつわる対象が1955年に福岡県指定文化財〈民俗資料〉に一括指定されたこと）
+    url: https://www.umi-hachimangu.or.jp/about
+  r4-umi-plan:
+    label: 宇美町「第6次宇美町総合計画」（『古事記』『日本書紀』に神功皇后が応神天皇を出産された地を「宇美〈産み〉」と呼ぶようになったという記述があること、魏志倭人伝の「不彌国」比定の根拠とされる光正寺古墳があること、1888年に4村が合併して宇美村となり1920年10月に糟屋郡で最初に町制を施行したこと、三菱勝田鉱業所が1963年に閉山したこと）
+    url: https://www.town.umi.lg.jp/uploaded/attachment/1489.pdf
+  r4-umi-wiki:
+    label: Wikipedia「宇美町」（神功皇后が応神天皇を出産した地とされ「産み」に通じる「宇美」の地名がついたといわれること、新井白石が『古史通惑問』で指摘して以来『魏志』倭人伝の不弥国に比定する説があること、1889年4月1日に宇美村・炭焼村・四王寺村・井野村の区域をもって宇美村が発足し1920年10月20日に町制施行したこと、1948年に三菱鉱業勝田鉱業所で坑内爆発事故が発生したこと）
+    url: https://ja.wikipedia.org/wiki/%E5%AE%87%E7%BE%8E%E7%94%BA
+  r5-aka-geoshape:
+    label: 歴史的行政区域データセットβ版「福岡県田川郡赤村」（赤村の有効期間は1889年4月1日からで、行政区域コードは40609であること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/40609A1968.html
+  r5-aka-note:
+    label: note「色の名前の村、赤村。一つの山が抱える物語」（個人の紀行記事。村内の我鹿八幡神社は「我鹿」と書いて「あか」と読み、村名の「赤」は色に由来しないとする説を紹介）
+    url: https://note.com/stringer7/n/n7825b09c4431
+  r5-aka-wiki:
+    label: Wikipedia「赤村」（1887年に上赤村・下赤村・山浦村の合併で赤村が、大内田村・小内田村の合併で内田村が発足し、1889年に両村の区域をもって赤村となったこと、福岡県唯一の村で町村制以降合併も町制施行もしていないこと、昭和の大合併で合併に至らなかった経緯、内田三連橋梁と第二石坂トンネル、赤村トロッコ油須原線）
+    url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%9D%91
+  r5-ashiya-wiki:
+    label: Wikipedia「芦屋町」（平安時代中期から芦屋津として記録に残ること、1185年に葦屋浦の戦いの合戦場となったこと、芦屋釜と「芦屋千軒」の繁栄、1889年に芦屋村・山鹿村が発足し1891年に町制施行、1905年に山鹿村を編入したこと、山鹿貝塚）
+    url: https://ja.wikipedia.org/wiki/%E8%8A%A6%E5%B1%8B%E7%94%BA
+  r5-chikujo-wiki:
+    label: Wikipedia「築上町」（町名は郡名「築上郡」に由来すること、築上郡は1896年に築城郡と上毛郡が合併してできた郡で「築」と「上」の合成名であること、町の区域は旧築城郡のみであること、2006年1月10日に椎田町・築城町が新設合併したこと、合併協議の紆余曲折）
+    url: https://ja.wikipedia.org/wiki/%E7%AF%89%E4%B8%8A%E7%94%BA
+  r5-chikuzen-kobunsyokan:
+    label: 福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 ～筑前町～」（平成17年3月22日に旧夜須町と旧三輪町が合併して誕生したこと、大己貴神社について神功皇后が大神社（大三輪社）を建て太刀や矛を奉納したところ兵が集まったと『日本書紀』に記載されていることを紹介し、地元では「日本最古の神社」といわれること）
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog/?p=1158
+  r5-chikuzen-wiki:
+    label: Wikipedia「筑前町」（1889年に夜須郡の三根村・中津屋村・安野村・大三輪村・栗田村が発足し、1896年に朝倉郡所属となり、1908年に夜須村・三輪村へ再編、1962年に両村が町制施行したこと、2005年3月22日に両町が対等合併して筑前町が発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E7%AD%91%E5%89%8D%E7%94%BA
+  r5-fukuchi-guide:
+    label: 福智町「暮らしのガイドブック」（福岡県移住・定住ポータルサイト掲載。福智山は町の象徴であり町名の由来でもあること、標高901mであること）
+    url: https://www.iju-join.jp/material/files/group/1563/kurasiguide.pdf
+  r5-fukuchi-uub-akaike:
+    label: 市区町村変遷情報「赤池町」（新町名公募の上位10点は福智・下田川・あかほ・池田城・北田川・平成・筑豊・赤金城・ふくち・赤金方で、最終候補3点は福智・あかほ・下田川だったこと）
+    url: https://uub.jp/upd/c/7426.html
+  r5-fukuchi-uub-hojo:
+    label: 市区町村変遷情報「方城町」（方城村が1956年8月1日に町制を施行して方城町となったことなど旧3町の変遷）
+    url: https://uub.jp/upd/c/3367.html
+  r5-fukuchi-wiki:
+    label: Wikipedia「福智町」（2006年3月6日に金田町・方城町・赤池町が対等合併して発足したこと、町名は一般公募で選ばれ町の北端にある福智山に由来すること、2004年8月3日に法定合併協議会が新町名で合意したこと、旧3町の成立と財政再建団体指定の歴史）
+    url: https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%99%BA%E7%94%BA
+  r5-fukuchiyama-wiki:
+    label: Wikipedia「福智山」（標高900.6mで北九州市小倉南区・直方市・福智町にまたがること、2006年に誕生した福智町の名はこの山に因んで名付けられたこと）
+    url: https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%99%BA%E5%B1%B1
+  r5-itoda-wiki:
+    label: Wikipedia「糸田町」（1887年に糸田村・鼠が池村・大熊村の合併で糸田村が発足し、1939年1月1日に町制施行したこと、泌泉は糸田町の地名の起こりとされている湧泉で町指定文化財第4号（史跡）であること＝脚注で糸田町公式ホームページの文化財ページを参照、町には大字がないこと）
+    url: https://ja.wikipedia.org/wiki/%E7%B3%B8%E7%94%B0%E7%94%BA
+  r5-kanda-wiki:
+    label: Wikipedia「苅田町」（1889年に苅田村・小波瀬村・白川村が発足し、1924年に苅田村が町制施行、1955年に3町村が対等合併したこと、町内に字「神田」が現存すること、青龍窟の土蜘蛛伝説、1975年度以降地方交付税の不交付団体であること、北九州空港が町内の埋立地に立地すること）
+    url: https://ja.wikipedia.org/wiki/%E8%8B%85%E7%94%B0%E7%94%BA
+  r5-kasuya-geoshape:
+    label: 歴史的行政区域データセットβ版「福岡県糟屋郡粕屋町」（粕屋町の有効期間は1957年3月31日からで、現在の区域は大川村・仲原村の区域と重なること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/40349A1968.html
+  r5-kasuya-wiki:
+    label: Wikipedia「粕屋町」（1957年3月31日に大川村と仲原村が新設合併して粕屋町が発足したこと、2020年国勢調査で九州の町村として人口が最も多いこと、町内にJRの駅が6つあること、酒水園の名は「酒殿」の酒と「水洗」の水から採ったこと、阿惠官衙遺跡は国指定史跡であること）
+    url: https://ja.wikipedia.org/wiki/%E7%B2%95%E5%B1%8B%E7%94%BA
+  r5-sasaguri-shikoku-wiki:
+    label: Wikipedia「篠栗四国八十八箇所」（1835年に尼僧慈忍が霊場造成を提案したと伝わること、1854年に藤井藤助らが88か所を完成させたこと、1899年に高野山より南蔵院が移転して霊場の本山となったこと）
+    url: https://ja.wikipedia.org/wiki/%E7%AF%A0%E6%A0%97%E5%9B%9B%E5%9B%BD%E5%85%AB%E5%8D%81%E5%85%AB%E7%AE%87%E6%89%80
+  r5-sasaguri-wiki:
+    label: Wikipedia「篠栗町」（1889年に篠栗村・勢門村が発足し、1927年に篠栗村が町制施行、1955年に両町村が対等合併したこと、南蔵院の釈迦涅槃像は青銅製として世界最大級であること、若杉山の太祖宮に神功皇后の伝承が残ること）
+    url: https://ja.wikipedia.org/wiki/%E7%AF%A0%E6%A0%97%E7%94%BA
+  r5-soeda-kobunsyokan:
+    label: 福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 ～添田町～」（英彦山は日胤尊の名にちなむ「日子山」が変化したものと伝えることなど）
+    url: https://kobunsyokan.pref.fukuoka.lg.jp/blog/?p=1228
+  r5-soeda-town-fuchi:
+    label: 添田町公式「歴史的風致維持向上計画」第1章（英彦山の名称の由来について祭神・天忍穂耳命と結びつける説明、天平6年開山説・弘仁13年の法蓮による修験開祖説など）
+    url: https://www.town.soeda.fukuoka.jp/uploaded/attachment/4833.pdf
+  r5-soeda-town-plan:
+    label: 添田町公式「文化財保存活用地域計画」（現在の大字は1889年以前に存在した8村の名称に由来すること、添田町の沿革など）
+    url: https://www.town.soeda.fukuoka.jp/uploaded/attachment/4829.pdf
+  r5-soeda-wiki:
+    label: Wikipedia「添田町」（1887年に添田町村・添田村・伊原村が合併して添伊田村となり、1889年に添田村が発足、1911年に町制施行、1942年に彦山村編入、1955年に津野村と対等合併したこと）
+    url: https://ja.wikipedia.org/wiki/%E6%B7%BB%E7%94%B0%E7%94%BA
+  r6-kawara-bunkazai:
+    label: 香春町公式ホームページ「香春町の文化財」（昭和31年〈1956年〉に香春町、勾金村、採銅所村の三町村の合併が行われたこと、町の中央やや西寄りに奇峰「香春岳」三山が屹立すること、万葉の昔から栄えた歴史を持ち万葉集に香春を詠んだ短歌が7首あること）
+    url: https://www.town.kawara.fukuoka.jp/s032/030/040/040/20180131092927.html
+  r6-kawara-engishiki:
+    label: 延喜式神名帳の解説サイト「香春神社」（延喜式神名帳に豊前国田川郡の辛国息長大姫大目命神社、忍骨神社、豊比咩神社が載ること。和銅2年〈709年〉に三神を合祀して「香春宮」と称したとする社伝。豊前国風土記に新羅神が川原〈香春〉に来て鹿春神となったとみえること）
+    url: http://engishiki.org/buzen/bun/buz620201-01.html
+  r6-kawara-inoue:
+    label: 井上孝夫「古代採鉱民族の構成――長門・周防・豊前を中心に」（山口大学学術情報リポジトリ。和同開珎鋳銭のために豊前国香春岳の銅が使用されていたことは北九州市立考古博物館常設展示図録にも記されること。香春という名称は古代朝鮮語で銅を意味する「カリ」「クリ」が転訛した地名とみるべきで、8世紀の風土記が語る「清い河原に基づき鹿春にした」という由来は和銅6年〈713年〉の好字を書けという命令のもとで付け替えられた説明だと解釈すること）
+    url: http://ypir.lib.yamaguchi-u.ac.jp/sc/1446/files/140435
+  r6-kawara-jinja-fukuoka:
+    label: 福岡県公式観光サイト「クロスロードふくおか」香春神社（新羅の神様「辛国息長大姫大目命」を祀る神社で、709年に香春岳の一ノ岳、二ノ岳、三ノ岳に分祀されていた3つの神社を現在の位置に合祭したこと。香春神社が文献に初めてみられるのは豊前風土記逸文の「鹿春郷〈かはらのさと〉」で、第一座の辛国息長大姫大目命は朝鮮半島からの渡来神とされていること）
+    url: https://www.crossroadfukuoka.jp/spot/13053
+  r6-kawara-town-intro:
+    label: 香春町公式ホームページ「香春町の紹介」（初めて公式文書に登場するのは8世紀に編集された風土記であること。地名の漢字は河原、鹿春、清河原、加波流、賀春、香春、香原などと多様に書き残されていること。語源は古代朝鮮語のカパル〈急険な〉・カグポル〈金の村〉の意味から来たという説もあること。万葉集巻九の歌に「豊国の香春〈加波流〉」とあり、豊前風土記に「田河の郡、鹿春の郷」とあって語源はいずれも「川原」の意味から取った当て字で金辺川〈清瀬川〉の美しい川原の意味であると書かれていること。和名抄に「田川郡香春郷あり、香春は加波留又はカハラと訓むべし」と出ていること。中世には香原の字も見えるが香春が定着したこと）
+    url: https://www.town.kawara.fukuoka.jp/s044/010/080/070/20171024215306.html
+  r6-kuraji-wiki:
+    label: Wikipedia「鞍橋君」（福岡県鞍手郡鞍手町の「くらて」は「くらじ」が訛ったものとされ、飯盛山にある鞍橋神社では鞍橋君が祀られていること。典拠として鞍手町公式『鞍手町再発見〈歴史〉』を挙げる）
+    url: https://ja.wikipedia.org/wiki/%E9%9E%8D%E6%A9%8B%E5%90%9B
+  r6-kurate-youran:
+    label: 鞍手町公式「町勢要覧2025［概要版］」（町名の由来として、日本書紀に記されている伝承に基づき、西暦554年に欽明天皇の命を受けた筑紫国造が百済の皇太子・餘昌〈のちの威徳王〉を新羅の騎馬兵から救い、敵の馬の鞍骨やよろいを射抜くほどの弓の名手であったことから餘昌に「鞍橋君」の尊称を授けられ、その地が「くらじ」と呼ばれ、時を経て「くらて」へと変化したと伝えること。1955年1月1日に剣町・西川村・古月村の1町2村が合併し、公募により新しい町名が「鞍手町」に決定したとする沿革）
+    url: https://www.town.kurate.lg.jp/syoukai/gaiyou/documents/tyouseiyourann2025-gaiyoubann.pdf
+  r6-onga-choshi:
+    label: 遠賀町公式ホームページ「遠賀町誌 第三編 先史より有史へ」（遠賀町誌、昭和61年発行の掲載ページ。遠賀地方の最も古い地名表記「岡」「塢舸」「崗」の語源は地形に由来し、ヲは高い所、カは処で「岡」「丘」の意であること、その後『続日本紀』が「遠珂」、『延喜式』が「遠賀」と文字が変化したこと、室町時代初期に郡名を御牧郡と改称するまで「ヲカ」と呼ばれ、「オンガ」と読むようになったのは寛文4年〈1664年〉に御牧郡を旧名の遠賀郡に戻して以降といわれること、伊藤常足『太宰管内志』の「遠賀は広き岡のあるに依れり」という説明、古遠賀湾と崗津の記述）
+    url: https://www.town.onga.lg.jp/site/choshi/26899.html
+  r6-onga-town-yurai:
+    label: 遠賀町公式ホームページ「町名由来・町のなりたち」（「遠賀」という地名の由来は日本書紀に詠まれた「岡県・岡水門」や万葉集の「水茎の岡の水門」に端を発し、和銅6年頃から「乎加」「塢餉」「遠賀」と2文字で表されるようになり、延喜式にはヲカとふり、次第に「おんが」と読むようになったとする説明。1929年4月1日に島門村と浅木村が合併して遠賀村が誕生し、1964年4月1日に町制を実施して遠賀町となったとする沿革）
+    url: https://www.town.onga.lg.jp/soshiki/27/1151.html
+  r6-sue-plan:
+    label: 須恵町公式「第五次須恵町総合計画〈後期計画〉」（「須恵」という地名は古代の須恵器の生産に由来していると言われるが、須恵町において「須恵」という地名の初出は中世になっているとすること。17世紀中ごろ上須恵の皿山に福岡黒田藩唯一の本格的な磁器御用窯が築かれ「須恵焼」が誕生し明治30年代まで約150年間作られたこと。明治22年に佐谷村・上須恵村・須恵村・新原村・旅石村・植木村の6村が合併し「須恵村」となり、昭和28年に町制施行により「須恵町」となったこと）
+    url: https://www.town.sue.fukuoka.jp/material/files/group/10/250.pdf
+  r6-sue-wiki:
+    label: Wikipedia「須恵町」（須恵の町名は古墳時代に須恵器が当地で生産されていたことに由来するといわれていること、1889年4月1日に糟屋郡植木村・上須恵村・佐谷村・新原村・須恵村・旅石村の区域をもって糟屋郡須恵村が発足したこと、町村制施行以来一度も市町村合併を経験していないこと）
+    url: https://ja.wikipedia.org/wiki/%E9%A0%88%E6%81%B5%E7%94%BA
+  r6-sueki-wiki:
+    label: Wikipedia「須恵器」（「須恵器」という呼称は、平安時代には「陶器」と書いて「すえもの」「すえうつわもの」と読まれていたものに、考古学用語として当て字が考案され一般化したものであること。福岡県糟屋郡の須恵という地名および須恵焼と、古代の須恵器とは直接的には無関係であるとすること）
+    url: https://ja.wikipedia.org/wiki/%E9%A0%88%E6%81%B5%E5%99%A8

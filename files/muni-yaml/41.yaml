@@ -1,5 +1,159 @@
 prefecture_code: '41'
 records:
+- id: muni/41-みやき町
+  code: '413461'
+  names:
+    ja: みやき町
+    reading: みやきちょう
+    aliases:
+    - 三養基
+  user_terms:
+  - みやき
+  - 三養基
+  - みやきぐん
+  naming_type: 合併新設（2005年の合併に際し、所属する三養基郡の読み「みやき」を平仮名化して新町名とした）
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 三養基郡の町で、佐賀県で最初の平仮名名の市町村である。「みやき」は郡名「三養基」の読みそのもので、三養基は1896年に合併した三根（み）・養父（や）・基肄（き）3郡の頭字を並べた合成名。2005年に中原町・北茂安町・三根町が合併して発足し、町名は公募で決まった。ただし現在の町域は旧三根郡と旧養父郡の部分だけで、「基」の旧基肄郡は町域に含まれない。
+  first_attestation:
+    era: 明治時代
+    year_western: 1896
+    document: 郡制施行前の郡統合による三養基郡の設置
+    note: 読み「みやき」の源である郡名「三養基」の成立年。町名「みやき町」そのものは2005年3月1日の町発足に始まる
+  claims:
+  - text: みやき町の地方公共団体コードは413461である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町名「みやき」は、当町が属する三養基郡（みやきぐん）の読みに由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-miyaki-wiki
+  - text: 三養基郡は、古く肥前国三根郡・養父（やぶ）郡・基肄（きい）郡と呼ばれた地域が1896年（明治29年）に一つになって発足した郡であると町公式の総合計画は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-miyaki-plan
+  - text: 「三養基」という郡名は、三根郡（みねぐん）・養父郡（やぶぐん）・基肄郡（きいぐん）の頭文字を並べた合成名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-miyaki-wiki
+  - text: 2005年（平成17年）3月1日に中原町・北茂安町・三根町が合併して、みやき町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-miyaki-plan
+    - r6-miyaki-wiki
+  - text: 町名は旧3町の町民からの公募で決定され、最終候補には「三養基町」「なみき町」「三養町」などがあった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-miyaki-wiki
+  - text: みやき町は佐賀県で最初の平仮名名の市町村であり、現在も県内で唯一の平仮名の自治体名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-miyaki-wiki
+  - text: 現在のみやき町の町域は、旧三根郡と旧養父郡だった部分のみで構成され、郡名の三文字目「基」にあたる旧基肄郡の地域は町域に含まれない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-miyaki-wiki
+  column:
+    title: 「基」の付かない、みやき
+    text: 「みやき」は三養基郡の読みで、三養基は三根・養父・基肄の頭文字だ。ところが2005年に合併した中原町・北茂安町・三根町は、旧三根郡と旧養父郡の地であり、旧基肄郡（今の基山町や鳥栖市方面）は入っていない。つまり町名の三文字のうち「基」だけが、地図の上では町域の外にある。公募の最終候補には、旧3町の頭文字を取った「なみき町」もあったが、選ばれたのは郡の名の平仮名化だった。佐賀県で最初の平仮名の自治体名は、こうして生まれた。
+    sources:
+    - r6-miyaki-wiki
+    - r6-miyaki-plan
+  relations:
+  - pref/41
+  - muni/41-上峰町
+  - muni/41-基山町
+  unknowns:
+  - 公募の応募総数や「みやき」が選ばれた具体的な理由は、町公式資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/41-上峰町
+  code: '413453'
+  names:
+    ja: 上峰町
+    reading: かみみねちょう
+    aliases:
+    - 上峰村
+  user_terms:
+  - 上峰
+  - かみみね
+  naming_type: 一部の地名（1889年の4村合併で生まれた上峰村の名を、1989年の町制施行でもそのまま町名とした）
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 三養基郡の町で、町名は1889年に江迎村・前牟田村・坊所村・堤村の4村が合併して発足した上峰村以来の名である。1989年に町制を施行して上峰町となった。「上峰」の命名理由を明示した資料は確認できておらず、町北部の丘陵や鎮西山の峰々にちなむ命名と推測されるにとどまる。
+  first_attestation:
+    era: 明治時代
+    year_western: 1889
+    document: 町村制施行時の村名（上峰村）
+    note: 上峰村の発足年をもって「上峰」の自治体名としての初出とする。「上峰」の名がそれ以前の地名として存在したかは確認できなかった
+  claims:
+  - text: 上峰町の地方公共団体コードは413453である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1889年（明治22年）4月、江迎村・前牟田村・坊所村・堤村の4村が合併し、上峰村と称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kamimine-town
+  - text: 発足時の上峰村は三根郡に属し、1896年（明治29年）4月1日の郡統合により、三根郡・養父郡・基肄郡の区域をもって三養基郡が発足したことに伴い、三養基郡の所属となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-kamimine-wiki
+  - text: 1989年（平成元年）に町制を施行し、上峰町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kamimine-town
+  - text: 町の地形は北部が丘陵及び台地、南部が沖積平野の北高南低で、南北に細長い町域であり、北部の鎮西山が町のシンボル的な山として紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kamimine-town
+  - text: 「上峰」の「峰」は、町北部の鎮西山をはじめとする峰々を望む地形にちなんで1889年の合併時に付けられた名と推測されるが、命名理由を明記した公的資料は確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r6-kamimine-town
+  column:
+    title: 正月元日に生まれた町
+    text: 上峰村が生まれたのは1889年。そして町制を施行して上峰町になったのは、ちょうど100年後の1989年（平成元年）である。村の誕生から百年を経て「町」になった自治体だが、その名「上峰」の由来は、町の公式紹介にも記されていない。北に峰をいただく地形からの命名だろうとは思わせるものの、記録は沈黙している。古い村名ほど、名付けの瞬間が残っていないことが多いという好例である。
+    sources:
+    - r6-kamimine-town
+    - r6-kamimine-wiki
+  relations:
+  - pref/41
+  - muni/41-みやき町
+  - muni/41-基山町
+  - muni/41-吉野ヶ里町
+  unknowns:
+  - 「上峰」という村名の命名理由・命名者は、町公式資料でも確認できなかった
+  - 「上峰」の名が1889年以前の小字・地名として存在したかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/41-伊万里市
   code: '412058'
   names:
@@ -156,6 +310,85 @@ records:
   - 風土記の2つの由来譚のうち、どちらが実際の郡名成立に近いかは資料上判断できない
   - 「さが」の語源は確定していない
   updated: '2026-11-13'
+- id: muni/41-吉野ヶ里町
+  code: '413275'
+  names:
+    ja: 吉野ヶ里町
+    reading: よしのがりちょう
+    aliases: []
+  user_terms:
+  - 吉野ヶ里
+  - よしのがり
+  - 吉野ヶ里遺跡
+  naming_type: 合併新設（2006年の三田川町・東脊振村の合併に際し、両町村にまたがる吉野ヶ里遺跡の名を新町名に採用した）
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 神埼郡の町で、町名は弥生時代の大遺跡「吉野ヶ里遺跡」に由来する。遺跡は1986年の発掘開始以来、邪馬台国を想起させる環壕集落として全国に知られ、1991年に国の特別史跡となった。2006年に三田川町と東脊振村が合併する際、両町村にまたがるこの遺跡の名が、そのまま新町の名に選ばれた。遺跡名のもとになった地名「吉野ヶ里」自体の語源は未確認である。
+  first_attestation:
+    era: 平成時代
+    year_western: 2006
+    document: 新設合併による吉野ヶ里町の発足（2005年11月4日官報告示）
+    note: 町名としての成立年。地名「吉野ヶ里」は遺跡所在地の旧来の地名で、遺跡名はこの地名から採られたが、地名自体の語源・初出は確認できなかった
+  claims:
+  - text: 吉野ヶ里町の地方公共団体コードは413275である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2006年（平成18年）3月1日、三田川町と東脊振村が新設合併して吉野ヶ里町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-yoshinogari-wiki
+  - text: 町名は吉野ヶ里遺跡に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-yoshinogari-wiki
+  - text: 吉野ヶ里遺跡は佐賀県神埼市と吉野ヶ里町にまたがって位置する弥生時代の大規模な遺跡で、1986年に佐賀県が発掘調査を開始した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-yoshinogari-saga
+  - text: 遺跡は弥生時代後期には40ヘクタールを超す大規模な環壕集落へと発展し、「魏志倭人伝」に記された邪馬台国を想起させる遺構が発見されたことにより全国的な注目を集めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-yoshinogari-saga
+    - r6-yoshinogari-mlit
+  - text: 遺跡は1991年（平成3年）に国の特別史跡に指定され、国営吉野ヶ里歴史公園として整備されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-yoshinogari-saga
+    - r6-yoshinogari-mlit
+  - text: 吉野ヶ里遺跡は旧三田川町と旧東脊振村にまたがっており、合併した両町村のどちらか一方の名ではなく、両者に共通する遺跡の名が新町名となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-yoshinogari-wiki
+    - r6-yoshinogari-saga
+  column:
+    title: 遺跡が町になった
+    text: 合併で新しい自治体名が必要になるとき、旧町村の名前の争いを避けて、第三の名が選ばれることがある。吉野ヶ里町の場合は、それが発掘されたばかりの遺跡の名だった。1986年に調査が始まり、邪馬台国論争で一躍全国区になった吉野ヶ里遺跡は、三田川町と東脊振村の両方にまたがる。どちらの町の名でもないこの遺跡名は、対等合併の象徴として申し分なかった。弥生時代の「クニ」の中心集落の名が、平成の町の名になったのである。
+    sources:
+    - r6-yoshinogari-wiki
+    - r6-yoshinogari-saga
+  relations:
+  - pref/41
+  - muni/41-上峰町
+  - muni/41-みやき町
+  unknowns:
+  - 地名「吉野ヶ里」自体の語源と初出（字名としての成立経緯）は確認できなかった
+  - 町名の選定手続き（公募の有無や候補名）は、今回参照した資料では確認できなかった
+  updated: '2026-11-13'
 - id: muni/41-唐津市
   code: '412023'
   names:
@@ -234,6 +467,86 @@ records:
   unknowns:
   - 「唐津」の語源を「唐（から）への津（港）」とする説明は市の要覧が「いわれている」と伝えるもので、専門辞典による語源の確定は未確認
   - 「辛津」の比定地や読みの詳細は、文化事業団の解説の範囲を超えては確認できなかった
+  updated: '2026-11-13'
+- id: muni/41-基山町
+  code: '413411'
+  names:
+    ja: 基山町
+    reading: きやまちょう
+    aliases:
+    - 基山村
+    - 基肄城
+  user_terms:
+  - 基山
+  - きやま
+  - 基肄城
+  naming_type: 合併新設（1889年の4村合併に際し、基肄城の築かれた山「基山」の名を新村名に採用したと解される）
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 三養基郡の町で、町名は天智4年（665年）に大野城とともに基肄城が築かれた山「基山」に由来すると解される。古代に基肄郡（きいぐん）が置かれた地で、「基」の字は基肄城・基肄郡に連なる。山の名は中世に「木山（きやま）」とも書かれ、現在の読み「きやま」に通じる。1889年に小倉村・園部村・長野村・宮浦村が合併して基山村が発足し、1939年に町制を施行した。
+  first_attestation:
+    era: 飛鳥時代
+    year_western: 665
+    document: 『日本書紀』（基肄城の築城記事）
+    note: 山城名「基肄」としての初出層であり、「基山」の表記および自治体名としての初出ではない。自治体名「基山」は1889年の基山村発足に始まる
+  claims:
+  - text: 基山町の地方公共団体コードは413411である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本書紀』には、天智2年（663年）の白村江の敗戦を受け、天智4年（665年）に大宰府防衛の拠点として大野城とともに基肄城を築いたという記載があると、町公式は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kiyama-history
+  - text: 基肄城は、町の北西部にそびえる基山（きざん）に築かれた朝鮮式山城で、1954年（昭和29年）に佐賀県内初の国の特別史跡に指定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kiyama-chushin
+  - text: 古代、この一帯には基肄郡（きいぐん）が置かれ、『肥前国風土記』によればこの郡は郷六所・里十七・駅一所であったと、町公式は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kiyama-history
+  - text: 1889年（明治22年）4月1日、小倉村・園部村・長野村・宮浦村の区域をもって基山村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kiyama-fuchi
+    - r6-kiyama-wiki
+  - text: 1939年（昭和14年）に町制を施行して基山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-kiyama-fuchi
+  - text: 村名・町名「基山」は、基肄城の築かれた山「基山」の名を採ったものと解される。山の名は中世には「木山」とも書かれて「きやま」と読まれ、南北朝時代の記録に見える「城山（木山）」は基山のことを指し、古代山城の基肄城跡が中世山城「木山城」として再利用されたと町公式資料は述べる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r6-kiyama-fuchi
+    - r6-kiyama-chushin
+  column:
+    title: きい、きざん、きやま
+    text: 一つの山に読みが三つある。古代の城は基肄城（きいじょう）、その山は基山（きざん）、そして今の町は基山町（きやまちょう）。中世の記録では同じ山が「木山」と書かれていて、これが「きやま」の読みの橋渡しになったらしい。1889年の合併で生まれた村がこの山の名を名乗り、昭和に入って町になったときも、読みは「きやま」で定着していた。一三五〇年前に築かれた山城の名が、読みを変えながら自治体の名として生き続けている。
+    sources:
+    - r6-kiyama-chushin
+    - r6-kiyama-fuchi
+  relations:
+  - pref/41
+  - muni/41-みやき町
+  - muni/41-上峰町
+  unknowns:
+  - 1889年の基山村発足時に「基山」の村名が山名から採られたことを明記した当時の記録は確認できなかった（町公式資料は山と城の歴史を述べるが、村名の命名理由そのものは明示していない）
+  - 山名「基山」の読みが「きざん」から「きやま」へ定着した時期は確認できなかった
   updated: '2026-11-13'
 - id: muni/41-多久市
   code: '412040'
@@ -316,6 +629,155 @@ records:
   - 「高来」と「多久」の領域比定は史料上確定しておらず、「たく」の語源（栲木説を含む）も定説がない
   - 多久氏の祖・宗直の入部を建久2年（1191）とする話など、中世の経緯には軍記物に拠る伝承の部分が残る
   - 1954年の市制にあたって市名がどのような手続きで決まったかは、市公式資料で確認できなかった
+  updated: '2026-11-13'
+- id: muni/41-大町町
+  code: '414239'
+  names:
+    ja: 大町町
+    reading: おおまちちょう
+    aliases:
+    - 大町村
+  user_terms:
+  - 大町
+  - おおまち
+  - 佐賀の大町
+  naming_type: 一部の地名（1889年に旧大町村の名を新村名として引き継ぎ、1936年の町制施行でそのまま町名とした）
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 杵島郡の町で、佐賀県で最も面積の小さい自治体である。町名は1889年に大町村と福母村の区域をもって発足した大町村の名を引き継ぎ、1936年1月1日の町制施行で大町町となった。「大町」の語源を明示した資料は確認できていない。読みの同じ長野県大町市とは別の自治体であり、「大町」は各地に分布する普通名詞的な地名でもある。
+  first_attestation:
+    era: 明治時代
+    year_western: 1889
+    document: 町村制施行時の村名（大町村）
+    note: 自治体名としての初出。「大町」という地名自体は近世の村名に遡ると考えられるが、初出の文献は確認できなかった
+  claims:
+  - text: 大町町の地方公共団体コードは414239である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1889年（明治22年）4月1日、町村制の施行により、大町村および福母村の区域をもって、大町村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-omachi-wiki
+  - text: 1936年（昭和11年）1月1日に町制を施行して、大町町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-omachi-wiki
+    - r6-omachi-pr
+  - text: 大町町は佐賀県のほぼ中心に位置し、現存する佐賀県の市町村で最も面積が小さく、町内には大字大町と大字福母がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-omachi-wiki
+  - text: 「大町」は読みの同じ長野県大町市とは別の自治体で、「大きな町場」を意味する普通名詞的地名として各地に分布する名の一つである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-omachi-wiki
+  - text: 「大町」という名は近世の大町村の村名をそのまま継いだものだが、その村名の命名経緯や語源を明示した資料は確認できなかった
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r6-omachi-wiki
+  column:
+    title: 佐賀でいちばん小さい町
+    text: 大町町の面積は約11.5平方キロメートルで、佐賀県の市町村の中で最も小さい。東京の千代田区よりやや小さい程度の町域に、大字は大町と福母の二つだけ。それでも町内には標高416メートルの聖岳（ひじりだけ）がそびえ、町の学校の名「ひじり学園」はこの山から採られている。かつては杵島炭鉱の産炭地として栄え、大きな産業を持った小さな町だった。
+    sources:
+    - r6-omachi-wiki
+  relations:
+  - pref/41
+  unknowns:
+  - 「大町」の語源・命名経緯を記した公的・専門資料は確認できなかった
+  - 近世の大町村の成立時期と、村名の初出文献は確認できなかった
+  updated: '2026-11-13'
+- id: muni/41-太良町
+  code: '414417'
+  names:
+    ja: 太良町
+    reading: たらちょう
+    aliases:
+    - 多良町
+    - 多良村
+  user_terms:
+  - 太良
+  - たら
+  - 多良岳
+  - 竹崎カニ
+  naming_type: 合併新設（1955年の多良町・大浦村の合併に際し、「多良」の一字を「太」に改めた同音の新町名とした）
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 藤津郡の町で、有明海と多良岳山系に抱かれた町である。前身の多良町（たらまち）は1889年の多良村に遡り、1953年に町制を施行した町だったが、1955年に大浦村と合併する際、「多良」の「多」を「太」に改めた「太良町」として再出発した。読みも「たらまち」から「たらちょう」に変わっている。「多良」の名は背後の多良岳の古い山名に連なると解される。
+  first_attestation:
+    era: 明治時代
+    year_western: 1889
+    document: 町村制施行時の村名（多良村）
+    note: 自治体名としての「多良」の初出層。「太良」の表記は1955年2月11日の合併で生まれた。「多良」の地名自体は近世の多良村に遡るが、それ以前の文献上の初出は確認できなかった
+  claims:
+  - text: 太良町の地方公共団体コードは414417である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1889年（明治22年）4月1日、多良村と糸岐村が合併して多良村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-tara-70
+  - text: 1953年（昭和28年）4月1日に多良村が町制を施行して多良町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-tara-70
+    - r6-tara-wiki
+  - text: 1955年（昭和30年）2月11日、多良町と大浦村の合併により太良町が発足し、町名は「多良」から「太良」へ一字を改めた同音の名とされた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-tara-70
+    - r6-tara-wiki
+  - text: 1955年（昭和30年）3月1日、七浦村の一部である大字飯田甲地区（伊福）が太良町に編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-tara-70
+  - text: 旧多良町の読みは「たらまち」であったのに対し、現在の太良町は「たらちょう」と読む
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-tara-old-wiki
+    - r6-tara-70
+  - text: 町は多良岳山系と有明海に抱かれた地にあり、地名「多良」は、その背後にそびえる多良岳の古い山名に連なるものと解される
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r6-tara-youran
+  column:
+    title: 「多」を「太」に変えた合併
+    text: 1955年、多良町と大浦村の合併で生まれた新町の名は「太良町」だった。「多良」から「多」を「太」に変えただけで、読みは「たら」のまま。どちらか一方の地名をそのまま使うのでも、全く新しい名を作るのでもなく、一字だけ替えて心機一転を図るという、合併命名の穏当な着地点である。ついでに読みも「たらまち」から「たらちょう」に改まった。山の名は今も「多良岳」のままで、町と山で一字違いの名が並んで残っている。
+    sources:
+    - r6-tara-70
+    - r6-tara-old-wiki
+  relations:
+  - pref/41
+  unknowns:
+  - 1955年の合併で「多」を「太」に改めた理由（字画・縁起・大浦村側への配慮など）を明示した公的資料は確認できなかった
+  - 地名「多良」の語源と、多良岳の山名との先後関係は確認できなかった
   updated: '2026-11-13'
 - id: muni/41-嬉野市
   code: '412091'
@@ -459,6 +921,83 @@ records:
   - 「小城」という地名の語源（小さな城郭にちなむのか等）は、専門辞典・市公式資料では確認できなかった
   - 小城郡の名の初出とされる一次文献は本調査では特定できなかった
   updated: '2026-11-13'
+- id: muni/41-有田町
+  code: '414018'
+  names:
+    ja: 有田町
+    reading: ありたちょう
+    aliases:
+    - 有田皿山
+  user_terms:
+  - ありた
+  - 有田焼の町
+  - 焼き物の町
+  naming_type: 一部の地名
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 佐賀県西松浦郡の町で、有田焼の産地として知られる。ただし地名「有田」自体は陶磁器の生産よりはるかに古く、中世には有田郷と呼ばれて有田氏が支配した土地だった。現在の町は2006年3月1日に有田町と西有田町が合併して発足し、このとき読みが「ありたまち」から「ありたちょう」に変わった。
+  first_attestation:
+    era: 平安時代末期
+    year_western: null
+    document: 有田郷の名（特定の初出文書は未確認）
+    note: 有田町統計書（町公式）は「平安末期より戦国時代にかけて有田郷を支配した有田氏」と紹介しており、中世には「有田郷」の名が成立していたことがうかがえる。古代の律令制の郷として『和名類聚抄』等に「有田」が見えるかどうかは確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、有田町の団体コードは414018と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 中世には有田郷と呼ばれ、平安末期から戦国時代にかけて有田氏がこの地を支配したと、有田町統計書（町公式）が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-arita-town-toukei
+  - text: 明治22年（1889年）に有田皿山が有田町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-arita-town-toukei
+  - text: 昭和22年（1947年）に有田村が東有田町となり、昭和29年（1954年）に東有田町と有田町が合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-arita-town-toukei
+  - text: 平成18年（2006年）3月1日に有田町と西有田町が合併して、現在の有田町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-arita-town-toukei
+  - text: 旧有田町は「ありたまち」と読んだが、2006年の合併で新町の読みは「ありたちょう」に変更された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-arita-kotobank-chimei
+  - text: 有田の陶磁器生産は、17世紀初めに朝鮮から連行された李参平（初代金ヶ江三兵衛）が泉山で白磁鉱（陶石）を発見したことに始まるとされ、地名「有田」の成立よりはるかに後の層である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-arita-kotobank-sarayama
+    - r7-arita-town-toukei
+  column:
+    title: 「まち」から「ちょう」へ―読みだけが変わった合併
+    text: 2006年の合併で生まれた新しい有田町は、漢字は元の有田町とまったく同じなのに、読みが「ありたまち」から「ありたちょう」に変わった。旧有田町は皿山（窯業集落）が1889年にそのまま町になった町で、「まち」の読みはその古さを物語っていた。合併相手の西有田町は「にしありたちょう」と「ちょう」読みで、 新町は西側の読みに合わせた形になった。表記が同じで読みだけが変わる合併は珍しく、有田はその好例である。
+    sources:
+    - r7-arita-kotobank-chimei
+    - r7-arita-town-toukei
+  relations:
+  - pref/41
+  unknowns:
+  - 「有田」の語源（有田川の流域の地形に由来する説など）は、公的・専門資料で裏付けが取れなかった
+  - 古代の郷名として「有田」が『和名類聚抄』などに見えるかどうかは確認できなかった
+  - 「有田郷」の初出となる中世文書の特定はできなかった
+  updated: '2026-11-13'
 - id: muni/41-武雄市
   code: '412066'
   names:
@@ -539,6 +1078,223 @@ records:
   unknowns:
   - 社名「武雄」が武内宿禰の名に直接ちなむ命名かどうかは、専門辞典では明言されておらず確認できなかった
   - 江戸時代中期に地名として広がった具体的な経緯は資料で追えなかった
+  updated: '2026-11-13'
+- id: muni/41-江北町
+  code: '414247'
+  names:
+    ja: 江北町
+    reading: こうほくまち
+    aliases: []
+  user_terms:
+  - こうほく
+  - 佐賀県のへそ
+  naming_type: 新規命名
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 佐賀県杵島郡の町で、県のほぼ中央に位置する。昭和7年（1932年）に小田村・山口村・佐留志村が合併して江北村となり、昭和27年（1952年）に町制を施行した。佐賀県の町の中で唯一「ちょう」ではなく「まち」と読む町である。
+  first_attestation:
+    era: 昭和7年
+    year_western: 1932
+    document: 江北村の発足（合併による新村名として）
+    note: 「江北」の名は1932年の3村合併で新たに付けられた名で、それ以前にこの地域を指す地名としての用例は確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、江北町の団体コードは414247と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）の町村制施行により、現在の町域には小田村・山口村・佐留志村が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-kouhoku-kaso
+  - text: 昭和7年（1932年）4月1日に小田村・山口村・佐留志村が合併して江北村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-kouhoku-fukudokuhon
+    - r7-kouhoku-kaso
+  - text: 昭和27年（1952年）4月1日に江北村が町制を施行して江北町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-kouhoku-fukudokuhon
+  - text: 昭和31年（1956年）9月30日に小城郡砥川村の一部（江口・正徳）を編入して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-kouhoku-fukudokuhon
+  - text: 「江北」の命名理由を明記した公的資料は確認できなかったが、町域は南を六角川、東を牛津川に限られ両川の北側に広がっており、川（江）の北という位置を表す命名と考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r7-kouhoku-kaso
+  - text: 佐賀県の現存する町の中で、江北町だけが「ちょう」ではなく「まち」と読む
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r7-kouhoku-wiki
+  column:
+    title: 109年遅れで町名に追いついた江北駅
+    text: 町の中心駅は1895年に旧山口村の名を取って「山口駅」として開業した。1913年には山口県の山口駅ができたため重複を避けて「肥前山口駅」に改称され、1932年に村が江北町になっても駅名は山口のまま残り続けた。ようやく2022年9月23日、西九州新幹線の開業と同日に、町の要望を受けたJR九州が駅名を「江北駅」に改称した。旧村名の駅名が109年間生き残り、最後は消えたはずの「山口」でなく「江北」に落ち着いたことになる。
+    sources:
+    - r7-kouhoku-jr
+    - r7-kouhoku-wiki
+  relations:
+  - pref/41
+  unknowns:
+  - 1932年の合併時に「江北」と命名した理由・経緯を記した当時の記録は確認できなかった
+  - 「まち」という読みが1952年の町制施行時に意図的に選ばれたものかどうかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/41-玄海町
+  code: '413879'
+  names:
+    ja: 玄海町
+    reading: げんかいちょう
+    aliases: []
+  user_terms:
+  - げんかい
+  - 玄海原発の町
+  naming_type: 新規命名
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 佐賀県東松浦郡の町で、東松浦半島の中央に位置し玄界灘に面する。昭和31年（1956年）9月30日に値賀村と有浦村が合併して発足し、町名は前面に広がる海「玄海」（玄界灘の略で「くろい海」の意）にちなんで付けられた。九州電力玄海原子力発電所の所在地として知られるが、町名は原発の誘致より先に成立している。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 玄海町の発足（合併による新町名として）
+    note: 町名としての初出。海域名「玄海」自体は玄界灘の別表記としてそれ以前から使われていたが、その初出時期は確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、玄海町の団体コードは413879と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）の町村制施行により、現在の町域には有浦村と値賀村が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-genkai-chimei
+  - text: 昭和31年（1956年）9月に値賀村と有浦村が合併して玄海町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-genkai-gaiyo
+    - r7-genkai-ayumi
+  - text: 町名「玄海」は、「玄」が暗い・黒いの意で玄界灘を省略した「くろい海」を意味し、東松浦半島の前面に広がる海の5つの特徴（大陸文化の流入する海、豊かな海の幸など）を地盤に、将来の大発展への期待を込めて付けられたと町公式が説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-genkai-chimei
+  - text: 昭和32年（1957年）12月に旧切木村の一部（座川内・湯野尾・藤平・田代）を編入して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-genkai-ayumi
+  - text: 旧値賀村の「値賀」の名は1313年の『有浦家文書』の譲状案に「肥前國松浦郷庄値賀村」と見え、旧有浦村の「有浦」の名も1342年の同文書の譲状案に「肥前國松浦郷庄佐志村内有浦今里村」と見えると、町公式が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-genkai-chimei
+  - text: 「有浦」の由来について、『玄海町史』は仮屋湾が深く入り込んだ「山あい（相）の浦」が訛ったものとする一方、地元には有浦川周辺の地形が蟻の行列に似ていることに由来するとの説もあり、決着していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r7-genkai-chimei
+  column:
+    title: もう一つの「ちか」―玄海町に残る値賀の名
+    text: 玄海町を構成した旧村の一つ「値賀（ちか）」は、五島列島の小値賀町と響きを同じくする名である。五島の「値嘉（ちか）」は『肥前国風土記』に説話が残る古代の島名で、東松浦の値賀も中世文書に現れる古い名だが、両者が同じ語源を持つかどうかは分かっていない。1956年の合併で値賀村は消えたが、「値賀川内」という大字の名として今も玄海町に残っている。佐賀・長崎の両県にまたがる「ちか」の地名の分布は、この地域の古い海の交通を考える手がかりになる。
+    sources:
+    - r7-genkai-chimei
+    - r7-ojika-kokugakuin-manyo
+  relations:
+  - pref/41
+  - muni/42-小値賀町
+  unknowns:
+  - 海域名としての「玄海」の用例がいつ頃からあるかは確認できなかった
+  - 東松浦の「値賀」と五島の「値嘉」が語源的に関係するかどうかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/41-白石町
+  code: '414255'
+  names:
+    ja: 白石町
+    reading: しろいしちょう
+    aliases: []
+  user_terms:
+  - しろいし
+  - 白石平野の町
+  - レンコンの町
+  naming_type: その他
+  prefecture: 佐賀県
+  homonyms: []
+  summary: 佐賀県杵島郡の町で、有明海に面する白石平野に広がる。町名は昭和11年（1936年）に福治村が町制を施行する際に「白石町」と改称したのが始まりで、昭和30年の合併を経て、平成17年（2005年）1月1日に白石町・福富町・有明町が合併して現在の町となった。「白石」はそれ以前から杵島郡内の地域名として用いられていた古い名である。
+  first_attestation:
+    era: 昭和11年
+    year_western: 1936
+    document: 白石町への改称（福治村の町制施行時）
+    note: 自治体名としての初出。地名「白石」自体は、近世に杵島郡白石が成富兵庫茂安の知行地であったことに見えるように、それ以前から地域名として存在した
+  claims:
+  - text: 総務省の全国地方公共団体コードで、白石町の団体コードは414255と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）の町村制施行により、現在の町域には福治村・六角村・須古村・橋下村・北有明村・福富村・錦江村・竜王村・南有明村の9村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r7-shiroishi-wiki
+  - text: 昭和11年（1936年）4月1日に福治村が町制を施行し、同時に白石町と改称した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r7-shiroishi-uub-1936
+  - text: 昭和30年（1955年）7月20日に白石町・六角村・須古村が合併して新しい白石町が生まれ、翌年には橋下村の一部と北有明村を編入した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r7-shiroishi-uub-1955
+  - text: 平成17年（2005年）1月1日に旧白石町・旧福富町・旧有明町が合併して現在の白石町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-shiroishi-town-gappei
+  - text: 三養基郡みやき町の白石地区の名は、成富兵庫茂安がかつて杵島郡白石（現在の白石町）に知行地を持っていたことに由来すると観光案内で説明されており、「白石」が近世の杵島郡の地名であったことがうかがえる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r7-shiroishi-kyushu
+  column:
+    title: 47年で消えた合成名「福治」と、戻ってきた「白石」
+    text: 白石町の前身「福治村」の名は、福田と廿治（はつじ）という二つの村の合成地名だった。1889年から1936年までの47年間だけ存在した名前である。1936年の町制施行にあたって町が選んだのは、合成名でも新しい造語でもなく、近世から杵島郡の地名として知られていた「白石」だった。近隣のみやき町にも、成富兵庫茂安の白石の知行にちなむ同名の地区が残っており、「白石」という名の広がりを物語っている。
+    sources:
+    - r7-shiroishi-uub-1936
+    - r7-shiroishi-kyushu
+  relations:
+  - pref/41
+  unknowns:
+  - 1936年の改称で「白石」が選ばれた理由を記した公式の記録は確認できなかった
+  - 「白石」という地名自体の語源（白い石や白石神社に由来する説など）は、裏付けのある資料で確認できなかった
   updated: '2026-11-13'
 - id: muni/41-神埼市
   code: '412104'
@@ -826,3 +1582,102 @@ sources:
   r5-ureshino-wikipedia:
     label: Wikipedia「嬉野市」（地名の初現・語源説、本庁舎の位置の経緯）
     url: https://ja.wikipedia.org/wiki/%E5%AC%89%E9%87%8E%E5%B8%82
+  r6-kamimine-town:
+    label: 上峰町公式ホームページ「上峰町の紹介」（明治22年4月に江迎村、前牟田村、坊所村、堤村の4村が合併し、上峰村と称したこと。平成元年に町制施行をなしたこと。町は北部が丘陵及び台地、南部が沖積平野の北高南低の地形で、南北に細長い町域であること。北部の鎮西山が見どころとして紹介されること）
+    url: https://www.town.kamimine.lg.jp/kiji00328/index.html
+  r6-kamimine-wiki:
+    label: Wikipedia「上峰町」（1889年〈明治22年〉4月1日に町村制の施行により、江迎村、前牟田村、坊所村及び堤村の区域をもって、三根郡上峰村が発足したこと。1896年4月1日の郡統合により三根郡、養父郡及び基肄郡の区域をもって三養基郡が発足し、三養基郡の所属となったこと）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B3%B0%E7%94%BA
+  r6-kiyama-chushin:
+    label: 基山町公式「基山町中心市街地活性化基本計画」（天智4年〈665年〉、唐・新羅の侵攻に備え大宰府防衛のために、本町の北西部にそびえる基山〈きざん〉に日本最古の朝鮮式の山城である「基肄〈きい〉城」が築かれたこと。昭和29年〈1954年〉に佐賀県内初の国の特別史跡に指定されたこと。明治22年〈1889年〉に基山村が発足したこと）
+    url: https://www.town.kiyama.lg.jp/kiji0031434/3_1434_7675_up_rb55i4np.pdf
+  r6-kiyama-fuchi:
+    label: 基山町公式「基山町の歴史的風致形成の背景」（基山町歴史的風致維持向上計画。1889年に4ケ村が合併して基山村が成立し、昭和14年〈1939年〉の町制施行により基山町となったこと。南北朝時代に南朝軍が太宰府防衛のための砦としていた「城山〈木山〉」を攻め取ったという記録の「きやま」こそ基山のことであり、古代山城・基肄城跡が中世山城である「木山城」として再利用されたこと）
+    url: https://www.town.kiyama.lg.jp/kiji0032054/3_2054_29133_up_pl55na8i.pdf
+  r6-kiyama-history:
+    label: 基山町公式ホームページ「町の歴史」（古代にこの一帯に基肄郡〈きいぐん〉が置かれ、「肥前国風土記」によればこの郡は「郷六所、里十七、駅壱所」であったこと。「日本書紀」には天智2年〈663年〉の白村江の敗戦により、天智4年〈665年〉に大野城とともに基肄城を築いたという記載があること）
+    url: https://www.town.kiyama.lg.jp/kiji0031176/index.html
+  r6-kiyama-wiki:
+    label: Wikipedia「基山町」（1889年〈明治22年〉4月1日に町村制の施行により、小倉村、園部村、長野村及び宮浦村の区域をもって、基肄郡基山村が発足したこと。1896年4月1日の郡の統合により三養基郡の所属となったこと）
+    url: https://ja.wikipedia.org/wiki/%E5%9F%BA%E5%B1%B1%E7%94%BA
+  r6-miyaki-plan:
+    label: みやき町公式「第一次みやき町総合計画」（現在の三養基郡は、古く肥前国三根郡、養父〈やぶ〉郡、基肄〈きい〉郡と呼ばれた地域が1896年〈明治29年〉に一つになり発足したこと。1889年の町村制施行により中原村、北茂安村、南茂安村、三川村の4村が発足し、1955年に南茂安村と三川村が合併して三根村となり、2005年〈平成17年〉3月に中原町、北茂安町及び三根町が合併し、みやき町となったこと）
+    url: https://www.town.miyaki.lg.jp/var/rev0/0015/5252/2017613161015.pdf?_previewDate_=null&revision=0&viewForce=1&_tmpCssPreview_=0
+  r6-miyaki-wiki:
+    label: Wikipedia「みやき町」（「みやき」は当町が属する「三養基郡〈みやきぐん〉」の読みに由来し、三養基郡の名前は合併前の3郡「三根郡〈みねぐん〉」「養父郡〈やぶぐん〉」「基肄郡〈きいぐん〉」の頭文字を並べたものであること。現在の町域は旧三根郡・旧養父郡だった部分のみで構成されること。町名は旧中原町、旧三根町、旧北茂安町の町民からの公募で決定され、最終候補には「三養基町」「なみき町」「三養町」などがあったこと。当町は佐賀県で最初のひらがな名の市町村であること。2005年3月1日に中原町、北茂安町、三根町が合併し、みやき町が発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%84%E3%81%8D%E7%94%BA
+  r6-omachi-pr:
+    label: 大町町公式広報誌（町制施行80周年記念号。1936年〈昭和11年〉に町制を施行し大町町となり、2016年に町制施行80周年を迎えたこと）
+    url: https://www.town.omachi.lg.jp/kiji003481/3_481_6_b9e01d4d8b02bcd2a65954bb5701bbd5.pdf
+  r6-omachi-wiki:
+    label: Wikipedia「大町町」（長野県の大町市とは異なる自治体であること。佐賀県のほぼ中心に位置し杵島郡に属し、現存する佐賀県の市町村で最も面積が小さいこと。町内には大字大町と大字福母があること。1889年4月1日に町村制の施行により、大町村及び福母村の区域をもって、大町村が発足したこと。1936年〈昭和11年〉1月1日に町制施行して大町町となったこと。かつて町内に杵島炭鉱があり産炭地として栄えたこと）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%BA%E7%94%BA
+  r6-tara-70:
+    label: 太良町公式「70年のあゆみ 太良町合併70周年記念」（明治22年4月1日に多良村と糸岐村が合併し多良村となったこと、昭和28年4月1日に町制施行により多良村が多良町となったこと、昭和30年2月11日に多良町と大浦村の合併により太良町となったこと、同年3月1日に七浦村の一部大字飯田甲地区〈伊福〉を編入したこと）
+    url: https://www.town.tara.lg.jp/var/rev0/0012/8616/125418113157.pdf
+  r6-tara-old-wiki:
+    label: Wikipedia「多良町」（旧多良町の読みは「たらまち」であったこと。1955年2月11日に大浦村との新設合併で太良町となり廃止されたこと）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%9A%E8%89%AF%E7%94%BA
+  r6-tara-wiki:
+    label: Wikipedia「太良町」（1953年〈昭和28年〉4月1日に多良村が町制施行し多良町となったこと、1955年2月11日に多良町と大浦村が対等合併し太良町が発足したこと、同年3月1日に七浦村の一部〈大字飯田のうち字伊福〉を編入したこと）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%AA%E8%89%AF%E7%94%BA
+  r6-tara-youran:
+    label: 太良町公式「太良町町勢要覧2019」（太良町は緑豊かな多良岳山系と豊饒の海有明海に抱かれた町であること、竹崎カニが町の名物であること）
+    url: https://www.town.tara.lg.jp/var/rev0/0003/5751/2020122154110.pdf
+  r6-yoshinogari-mlit:
+    label: 国土交通省九州地方整備局「国営吉野ヶ里歴史公園 事業評価資料」（吉野ヶ里遺跡は魏志倭人伝に記された邪馬台国を想起させる遺構が発見されたことにより全国的な注目を集めたこと。平成3年5月に国の特別史跡に指定され、国営吉野ヶ里歴史公園として整備されていること）
+    url: https://www.qsr.mlit.go.jp/s_top/jigyo-hyoka/101129/siryou5-1.pdf
+  r6-yoshinogari-saga:
+    label: 佐賀県公式ホームページ「特別史跡 吉野ヶ里遺跡」（吉野ヶ里遺跡は佐賀県神埼市、神埼郡吉野ヶ里町にまたがって位置する弥生時代の大規模な遺跡で、1986年に佐賀県が発掘調査を開始したこと。弥生時代後期には40ヘクタールを超す大規模な環壕集落へと発展したこと。1991年に国の特別史跡に指定されたこと）
+    url: http://www.pref.saga.lg.jp/kiji0031321/index.html
+  r6-yoshinogari-wiki:
+    label: Wikipedia「吉野ヶ里町」（遺跡が発見され、吉野ヶ里遺跡と命名された。町名はこの吉野ヶ里遺跡に由来すること。1889年に現在の町域にあたる三田川村・東脊振村が発足したこと。2006年3月1日に三田川町と東脊振村が合併して吉野ヶ里町となったこと）
+    url: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E3%83%B6%E9%87%8C%E7%94%BA
+  r7-arita-kotobank-chimei:
+    label: コトバンク「有田町」日本歴史地名大系の解説（旧有田町は「ありたまち」と読み、2006年3月1日の西有田町との合併で「ありたちょう」に呼称変更されたことを明記）
+    url: https://kotobank.jp/word/%E6%9C%89%E7%94%B0%E7%94%BA-28047
+  r7-arita-kotobank-sarayama:
+    label: コトバンク「有田皿山」日本歴史地名大系の解説（佐賀藩主鍋島直茂が朝鮮侵攻の際に連行した李参平（初代金ヶ江三兵衛）が17世紀初めに泉山の白磁鉱を発見したとする）
+    url: https://kotobank.jp/word/%E6%9C%89%E7%94%B0%E7%9A%BF%E5%B1%B1-1265265
+  r7-arita-town-toukei:
+    label: 有田町「有田町統計書」（町公式。有田町の沿革：1889年に有田皿山が有田町、1947年に有田村が東有田町、1954年に東有田町と有田町が合併、1955年に西有田村、1965年に西有田町、2006年3月に有田町と西有田町が合併。平安末期から戦国時代に有田郷を支配した有田氏、約400年前に李参平らによって発見されたと伝えられる磁器原料地の記述を含む）
+    url: https://www.town.arita.lg.jp/kiji003485/3_485_38_toukei_17.pdf
+  r7-genkai-ayumi:
+    label: 玄海町公式「玄海町のあゆみ[年表]」（昭和31年9月に値賀村・有浦村の合併により玄海町誕生、昭和32年12月に座川内・湯野尾・藤平・田代を編入した年表）
+    url: https://www.town.genkai.lg.jp/soshiki/2/1012.html
+  r7-genkai-chimei:
+    label: 玄海町公式「玄海町地名のおこり」（「玄海」は玄界灘を省略したもので「くろい海」の意、町名は前面の海の5つの特徴と将来の大発展への期待を込めて付けられたこと、『玄海町史』による有浦の地形由来説と地元の蟻の行列説、『有浦家文書』の1313年の譲状案に「値賀村」、1342年の譲状案に「有浦今里村」が見えることを紹介）
+    url: https://www.town.genkai.lg.jp/site/kankou/87526.html
+  r7-genkai-gaiyo:
+    label: 玄海町公式「玄海町の概要」（昭和31年9月に旧値賀村・旧有浦村の合併によって玄海町が誕生し、翌年に旧切木村の一部を編入したこと、玄界灘に面する地勢を記す）
+    url: https://www.town.genkai.lg.jp/soshiki/2/1013.html
+  r7-kouhoku-fukudokuhon:
+    label: 江北町小学校社会科副読本編集委員会編『わたしたちの江北町』（町公式。1932年に小田村・山口村・佐留志村が合併して江北村となり、1952年に江北町となり、1956年に旧小城郡砥川村の一部（江口・正徳）を編入した沿革を記す）
+    url: https://www.town.kouhoku.saga.jp/kiji0031992/3_1992_up_l1zmztca.pdf
+  r7-kouhoku-jr:
+    label: JR九州・佐賀県江北町「長崎本線 肥前山口駅の駅名改称について」（2021年4月21日発表。江北町からの要望を受け、肥前山口駅を2022年度秋の西九州新幹線開業日と同日に「江北駅」へ改称すると決定した公式発表）
+    url: https://www.jrkyushu.co.jp/news/__icsFiles/afieldfile/2021/04/21/210421_hizsenyamaguchi_ekimei.pdf
+  r7-kouhoku-kaso:
+    label: 江北町「江北町過疎地域持続的発展計画」（町公式。明治22年の町村制施行で小田村・山口村・佐留志村となり、昭和7年に3村が合併して江北村、昭和27年4月に町制施行、昭和31年に砥川村の一部を編入した沿革。町の南を六角川、東を牛津川が流れる地勢も記す）
+    url: https://www.town.kouhoku.saga.jp/kiji0032125/3_2125_6477_up_aik82ket.pdf
+  r7-kouhoku-wiki:
+    label: Wikipedia「江北町」（佐賀県の現存する町で江北町のみが「ちょう」でなく「まち」と読むこと、1895年に山口駅として開業し1913年に山口市の山口駅との重複を避けて肥前山口駅に改称した駅史の記述）
+    url: https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8C%97%E7%94%BA
+  r7-ojika-kokugakuin-manyo:
+    label: 國學院大學デジタル・ミュージアム「万葉神事語辞典」ちか（値嘉）の項（『肥前国風土記』の松浦郡に「値嘉郷」が見え、遠くにあるが近くに見える島を天皇が「近島」というがよいと言って「値嘉」と名付けたという話、『古事記』国生みの「知訶島」、『日本書紀』の血鹿島、万葉集の「値嘉の崎」の歌を紹介）
+    url: https://jmapps.ne.jp/kokugakuin/det.html?data_id=32136
+  r7-shiroishi-kyushu:
+    label: 九州旅ネット（みやき町観光協会）「白石神社」の解説（みやき町の白石地区の名は、成富兵庫茂安がかつて杵島郡白石（現在の杵島郡白石町）に知行地を持っていたことに由来すると説明し、「白石」が近世の杵島郡の地名であったことを示す）
+    url: https://www.welcomekyushu.jp/spots/detail/9999900069314
+  r7-shiroishi-town-gappei:
+    label: 白石町公式「合併に伴う経緯」（平成17年1月1日に旧白石町・旧福富町・旧有明町が合併して白石町が誕生したことと、合併協議の経緯）
+    url: https://www.town.shiroishi.lg.jp/chousei_machi/shoukai/_1324.html
+  r7-shiroishi-uub-1936:
+    label: 市区町村変遷情報データベース「佐賀県杵島郡 白石町の町制/改称（1936年4月1日）」（福治村が1936年4月1日に町制施行と同時に白石町へ改称した記録）
+    url: https://uub.jp/upd/u/u7638.html
+  r7-shiroishi-uub-1955:
+    label: 市区町村変遷情報データベース「白石町（佐賀県杵島郡）1955〜2005年」（1955年7月20日に須古村・六角村・白石町が合併して白石町が生まれ、1956年に橋下村の一部と北有明村を編入した系譜）
+    url: https://uub.jp/upd/c/3623.html
+  r7-shiroishi-wiki:
+    label: Wikipedia「白石町」（1889年の町村制で福治村・六角村・須古村・橋下村・北有明村・福富村・錦江村・竜王村・南有明村が発足した沿革の記述）
+    url: https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E7%94%BA

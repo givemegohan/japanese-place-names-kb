@@ -87,6 +87,74 @@ records:
   - 旧中心地「福江」という地名自体の語源は確認できなかった
   - 新市名の公募件数など選定過程の詳細は、合併協議会の一次資料では確認できなかった（変遷情報データベースの記録による）
   updated: '2026-11-13'
+- id: muni/42-佐々町
+  code: '423912'
+  names:
+    ja: 佐々町
+    reading: さざちょう
+    aliases: []
+  user_terms:
+  - さざ
+  - 佐々川の町
+  naming_type: 一部の地名
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長崎県北松浦郡の町で、佐々川が町の中央を貫流する。明治22年（1889年）に佐々村と市瀬村が合併して佐々村となり、昭和16年（1941年）1月1日に町制を施行した。かつては北松炭田の炭鉱で栄え、現在は佐世保市の近郊の町として人口を保っている。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「佐々」の名が文献に現れる初出は確認できなかった。中世には宇野御厨のうちと想定され、志佐氏の勢力下にあったことが『日本歴史地名大系』に記される
+  claims:
+  - text: 総務省の全国地方公共団体コードで、佐々町の団体コードは423912と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）4月に佐々村と市瀬村が合併して新しい佐々村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-saza-town-gaiyo
+    - r7-saza-pref-toukei
+  - text: 昭和16年（1941年）1月1日に佐々村が町制を施行して佐々町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-saza-town-gaiyo
+  - text: 律令制下では松浦郡に属し、平安末期から鎌倉期には宇野御厨のうちであったと想定され、鎌倉期には志佐氏の勢力下にあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-saza-kotobank
+  - text: 佐々川は町の中央を貫流して河口部の佐々浦に注ぐ川で、町はこの川の流域に開けている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-saza-kotobank
+    - r7-saza-pref-toukei
+  - text: 「佐々」という地名の語源は、『日本歴史地名大系』の佐々町の項にも明示されておらず、現時点では確定できない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - r7-saza-kotobank
+  column:
+    title: 住民投票で消えた町名「さざなみ町」
+    text: 平成の大合併では、佐々町と隣の小佐々町が合併し、両町の間を流れる佐々川の流れにちなんで新町名を「さざなみ町」とすることが決まっていた。しかし2005年の住民投票で合併そのものが否決され、「さざなみ町」は発足予定のまま実現しなかった。その後、小佐々町は2010年に佐世保市へ編入され、佐々町は単独の町として残った。地名の候補としてはよくできていただけに、幻の町名として語り継がれている。
+    sources:
+    - r7-saza-sazanami-wiki
+  relations:
+  - pref/42
+  unknowns:
+  - 「佐々」の語源と文献上の初出は確認できなかった
+  - 佐々川の川名と集落名「佐々」のどちらが先に成立したかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/42-佐世保市
   code: '422029'
   names:
@@ -489,6 +557,90 @@ records:
   - 対馬国府の厳原への比定は広く知られるが、今回の出典範囲では公的資料で直接確認できなかったため主張に入れていない
   - 新市名公募の応募総数は確認できなかった（最終候補の記録は変遷情報データベースによる）
   updated: '2026-11-13'
+- id: muni/42-小値賀町
+  code: '423831'
+  names:
+    ja: 小値賀町
+    reading: おぢかちょう
+    aliases:
+    - 小値賀島
+    - 値賀島
+  user_terms:
+  - おぢか
+  - 小値賀島
+  - 値賀島
+  - 五島の島町
+  naming_type: 一部の地名
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長崎県北松浦郡の町で、五島列島北部の小値賀島を中心に大小17の島からなる。「値賀（ちか）」は古代に遡る名で、『古事記』の国生みでは五島列島が「知訶島」と生まれたとされ、『肥前国風土記』には近く見える島を「近島（値嘉）」と名付けたという説話が残る。大正15年（1926年）に3村が合併して小値賀村となり、昭和15年（1940年）に町制を施行した。
+  first_attestation:
+    era: 奈良時代
+    year_western: 712
+    document: 『古事記』上巻・国生みの段（「知訶島」）
+    note: 五島列島全体を指す名としての初出であり、現在の小値賀島だけを指す名ではない。小値賀島単独の名の初出は、風土記の説話で第一の島を「小近（おちか）」と呼んだとする伝承の層に属する
+  claims:
+  - text: 総務省の全国地方公共団体コードで、小値賀町の団体コードは423831と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『古事記』の国生み神話では、五島列島は「知訶島（ちかのしま）」の名で生まれた島とされ、その亦名を天之忍男というと、國學院大學の神名データベースが紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-ojika-kokugakuin-shinmei
+  - text: 『肥前国風土記』の松浦郡の条（現存せず他書に伝わる逸文）には値嘉郷の名の起こりとして、景行天皇が志々伎の行宮から西の海を見て、遠くにあるのに近く見える島を「近島」というがよいと言って「値嘉」と名付けたとする話が記されていると、國學院大學の研究資料が紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r7-ojika-kokugakuin-manyo
+  - text: 値嘉島の島々のうち小さい方を「小近（おちか、のち小値賀）」島、大きい方を「大近（おおちか、のち大値賀）」島と呼び、のちに小値賀・大値賀の表記が通用するようになった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-ojika-kotobank-chika
+  - text: 『延喜式』では日本の最西端として「西方遠値嘉」と記され、遣唐使の南路では博多大津を出て値嘉島の諸島で順風を待つ寄港地だったと、角川日本地名大辞典が記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-ojika-kakugawa
+  - text: 大正15年（1926年）4月1日に笛吹村・前方村・柳村の3村が合併して小値賀村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-nagasaki-toukei-enkaku
+  - text: 昭和15年（1940年）2月11日に小値賀村が町制を施行して小値賀町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-ojika-town-yoran
+  - text: 平成の大合併では近隣自治体との合併を選択せず、単独で存続する道を選んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-ojika-ndl-report
+  column:
+    title: 日本の西の果ての標識だった「値嘉」
+    text: 平安時代の『延喜式』は日本の西の果てを「西方遠値嘉」と記した。値嘉島は遣唐使船が博多を出て順風を待つ最後の寄港地で、万葉集には山上憶良がこの地で詠んだ「値嘉の崎」の歌が残る。国生みの神話の「知訶島」から遣唐使の時代まで、値賀の名は日本列島の西端を示す標識であり続けた。現在の読み「おぢか」は、古代の「おちか」に由来する音の変化をそのまま残している。
+    sources:
+    - r7-ojika-kakugawa
+    - r7-ojika-kokugakuin-manyo
+  relations:
+  - pref/42
+  - muni/41-玄海町
+  unknowns:
+  - 小値賀島だけを指す「小近（おちか）」の名が現れる最古の文書は確認できなかった
+  - 「おちか」から「おぢか」への音変化がいつ頃起きたかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/42-島原市
   code: '422037'
   names:
@@ -557,6 +709,81 @@ records:
   unknowns:
   - 「島原」の語源（海に突き出た島のような原にちなむとする見方など）は専門辞典に確定的な説明がなく、定説を確認できなかった
   - 中世の初出とされる具体的な文書は本調査では特定できなかった
+  updated: '2026-11-13'
+- id: muni/42-川棚町
+  code: '423220'
+  names:
+    ja: 川棚町
+    reading: かわたなちょう
+    aliases:
+    - 河棚
+  user_terms:
+  - かわたな
+  - 川棚川の町
+  naming_type: 一部の地名
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長崎県東彼杵郡の町で、大村湾に面し川棚川が町の中央を流れる。中世の村名は「河棚村」とも書かれ、文化11年（1814年）に東川棚村と西川棚村が合併して川棚村となり、昭和9年（1934年）に町制を施行した。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: 河棚村の名（特定の初出文書は未確認）
+    note: 『日本歴史地名大系』の河原城跡の項は現在地名の欄に中世の「河棚村」を示しており、中世には「河棚」の表記でこの地が呼ばれていたことがうかがえる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、川棚町の団体コードは423220と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 文化11年（1814年）に東川棚村と西川棚村が合併して川棚村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-kawatana-town-enkaku
+  - text: 昭和9年（1934年）11月3日に川棚村が町制を施行して川棚町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-nagasaki-toukei-enkaku
+    - r7-kawatana-town-enkaku
+  - text: 中世の村名は「河棚村」とも書かれ、川棚川の流域には川棚氏または河原氏の居城とされる河原城があった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-kawatana-kotobank-kawara
+  - text: 『肥前国風土記』の彼杵郡の条に見える、美しい玉を持つという篦簗（へらやな）の住む「川岸」は、川棚川の流域に比定されることがあると『日本歴史地名大系』が述べている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r7-kawatana-kotobank-river
+  - text: 昭和18年（1943年）に彼杵町小音琴郷の一部を編入し、昭和35年（1960年）と同37年（1962年）に波佐見町中山郷の一部を編入して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-kawatana-town-enkaku
+  - text: 「川棚」という地名の語源を明示した公的・専門資料は確認できず、現時点では確定できない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - r7-kawatana-kotobank-river
+  column:
+    title: 風土記の「川岸」と玉の物語
+    text: 『肥前国風土記』の彼杵郡の条には、この地に住む篦簗が美しい玉を持っていたという話が伝わる。『日本歴史地名大系』は、その舞台の「川岸」を川棚川の流域ともいうと紹介している。隣の東彼杵町にも、同じ風土記の条に出る「具足玉国」の献玉の物語が残っており、大村湾東岸のこの一帯は、古代の玉にまつわる伝承が集まる地域だったことが分かる。
+    sources:
+    - r7-kawatana-kotobank-river
+    - r7-sonogi-rekishikan
+  relations:
+  - pref/42
+  unknowns:
+  - 「川棚」の語源（川沿いの棚田や台地に由来する説など）は裏付けのある資料で確認できなかった
+  - 中世の「河棚」の表記が現れる最古の文書は確認できなかった
   updated: '2026-11-13'
 - id: muni/42-平戸市
   code: '422070'
@@ -632,6 +859,223 @@ records:
   unknowns:
   - 「平戸」の語源は「平たい門戸」説のほかに諸説の検討ができておらず、専門辞典での確定は得られなかった
   - 「平戸」の初出とされる一次文献は本調査では特定できなかった
+  updated: '2026-11-13'
+- id: muni/42-新上五島町
+  code: '424111'
+  names:
+    ja: 新上五島町
+    reading: しんかみごとうちょう
+    aliases: []
+  user_terms:
+  - しんかみごとう
+  - 上五島
+  - 五島列島の町
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長崎県南松浦郡の町で、五島列島の中通島・若松島などを町域とする。平成16年（2004年）8月1日に若松町・上五島町・新魚目町・有川町・奈良尾町の5町が合併して発足した。町名は地域名「上五島」に「新」を冠したもので、新町名の公募では「北五島」が1位だったが、最終候補の中から「新上五島」が選ばれた。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 新上五島町の発足（合併による新町名として）
+    note: 町名としての初出。地域名「上五島」自体はそれ以前から五島列島北東部を指す名として使われていた
+  claims:
+  - text: 総務省の全国地方公共団体コードで、新上五島町の団体コードは424111と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 平成16年（2004年）8月1日に若松町・上五島町・新魚目町・有川町・奈良尾町の5町が新設合併して新上五島町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r7-shinkamigoto-uub
+  - text: 五島列島は北東部を「上五島」、南西部を「下五島」と呼び分け、長崎県の資料では通常、旧奈良尾町以北または若松町以東を上五島、旧奈留町以南を下五島と称している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-shinkamigoto-goto-gaiyo
+  - text: 新町名の公募では「北五島」が1位となり、最終候補は海輝（かいき）・かみごとう・北五島・新上五島・つばきの5点だったが、合併協議会は「新上五島町」を新町名に決定した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r7-shinkamigoto-uub
+  - text: 明治22年（1889年）の町村制施行では上五島地域は8村で構成され、昭和の大合併によって若松町・上五島町・新魚目町などの町が生まれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-shinkamigoto-town
+  - text: 前身の上五島町は昭和31年（1956年）に青方町と浜ノ浦村の合併で生まれ、2004年の合併で新上五島町の一部となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r7-shinkamigoto-uub
+  column:
+    title: 公募1位が敗れた町名
+    text: 新上五島町の町名は、住民公募では「北五島」が最も多くの支持を集めた。しかし最終候補に残った5つの名の中から合併協議会が選んだのは「新上五島」だった。五島列島は古くから北東を「上五島」、南西を「下五島」と呼び分けており、公募1位の新造語よりも、地域で長く使われてきた「上五島」の名を残す選択がされた。「新」の一字は、1956年から存在した旧・上五島町と区別するための工夫でもある。
+    sources:
+    - r7-shinkamigoto-uub
+    - r7-shinkamigoto-goto-gaiyo
+  relations:
+  - pref/42
+  unknowns:
+  - 「上五島」の「上」が何を基準にした呼称か（京都＝上方を基準とする説など）は、公的資料で裏付けが取れなかった
+  - 「新」を冠した理由が旧上五島町との区別であることは状況から推測されるが、協議会の公式な決定理由の記録は確認できなかった
+  updated: '2026-11-13'
+- id: muni/42-時津町
+  code: '423084'
+  names:
+    ja: 時津町
+    reading: とぎつちょう
+    aliases: []
+  user_terms:
+  - とぎつ
+  - 時津港
+  - 時津街道
+  naming_type: 一部の地名
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長崎県西彼杵郡の町で、長崎市の北に接し大村湾（時津港）に面する。町公式によれば起源は明らかでないが、鎌倉時代には「時津」と呼ばれていたとされる。明治5年（1872年）に時津村・西時津村・日並村が合併して時津村となり、昭和26年（1951年）12月1日に町制を施行した。江戸時代には長崎街道の海路「時津街道」の起点として栄えた。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 「時津」の用例（特定の初出文書は未確認）
+    note: 時津町公式サイトは「町の起源ははっきりしないが、鎌倉時代には『時津』と呼ばれていたようだ」と紹介している。具体的な初出文書の特定には至らなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、時津町の団体コードは423084と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町の起源は明らかではないが、鎌倉時代には「時津」と呼ばれていたようだと、時津町公式サイトが説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-togitsu-town-gaiyo
+  - text: 中世には時津氏一族が荘官あるいは地頭として活躍し、室町時代には大村領に属した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-togitsu-town-gaiyo
+  - text: 明治5年（1872年）に時津村・西時津村・日並村の3村が合併して時津村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-togitsu-town-gaiyo
+  - text: 昭和26年（1951年）12月1日に時津村が町制を施行して時津町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-togitsu-town-gaiyo
+  - text: 江戸時代には長崎と彼杵を結ぶ海路の街道「時津街道」が開かれ、時津港は交通の要衝だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-togitsu-yoran
+  - text: 「時津」の語源について、町公式サイト自身が「時津の名称の由来ははっきりはしません」と明記しており、確定できない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - r7-togitsu-town-gaiyo
+  column:
+    title: 二十六聖人が最後の夜を過ごした港
+    text: 1597年、豊臣秀吉の禁教令で捕らえられた日本二十六聖人は、京都から長崎へ護送される道のりの最後に時津港へ船で到着し、船上で最後の夜を過ごした。翌朝、一行は時津から殉教地の西坂の丘へ歩いたという。長崎街道の海路の起点だった時津港は、長崎の歴史を象徴する出来事の舞台でもあった。町名の由来は分からなくても、港の記憶は町の誇りとして語り継がれている。
+    sources:
+    - r7-togitsu-yoran
+  relations:
+  - pref/42
+  unknowns:
+  - 「時津」の語源は町公式も未詳としており、確定できなかった
+  - 「時津」の初出となる中世文書の特定はできなかった
+  - 古く「ときつ」とも読まれた読みが「とぎつ」に定着した時期は確認できなかった
+  updated: '2026-11-13'
+- id: muni/42-東彼杵町
+  code: '423211'
+  names:
+    ja: 東彼杵町
+    reading: ひがしそのぎちょう
+    aliases: []
+  user_terms:
+  - ひがしそのぎ
+  - そのぎ茶の町
+  - 千綿駅
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長崎県東彼杵郡の町で、大村湾の東岸に位置する。昭和34年（1959年）5月1日に彼杵町と千綿村が合併して発足し、町名は郡名「東彼杵」から採られた。「彼杵（そのぎ）」は古代の彼杵郡に遡る古い名で、その語源には『肥前国風土記』の「具足玉国（そないだまのくに）」の転訛とする説をはじめ諸説がある。
+  first_attestation:
+    era: 奈良時代
+    year_western: 713
+    document: 『肥前国風土記』彼杵郡の条（郡名「彼杵」として）
+    note: 『肥前国風土記』は元々の一部のみが伝わり、彼杵郡の条は他書の引用（逸文）で知られる。東彼杵町歴史民俗資料館は風土記を奈良時代に元明天皇の命で編纂された地誌と説明している
+  claims:
+  - text: 総務省の全国地方公共団体コードで、東彼杵町の団体コードは423211と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和34年（1959年）5月1日に彼杵町と千綿村が新設合併して東彼杵町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r7-sonogi-wiki
+  - text: 町名は郡名「東彼杵郡」から採られたもので、彼杵郡は明治11年（1878年）に東彼杵郡と西彼杵郡に分かれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r7-sonogi-wiki
+  - text: 『肥前国風土記』の彼杵郡の条には、景行天皇の巡幸の際に土蜘蛛らが白・青・赤の3つの玉を献じ、天皇が当地を「具足玉国（そないだまのくに）」と名付けよと命じたという話が伝わり、「そのぎ」はこの「そない」が転訛したものとする説がある
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - r7-sonogi-folklore
+  - text: 「彼杵」の由来にはこのほか、『大村郷村記』に伝わる安全寺大御堂への「杵の天降り」の伝説にちなむとする説、彼杵宿の大楠を「彼木（そのき）」と呼んだことにちなむとする説がある
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - r7-sonogi-folklore
+  - text: 語源としてはソ（麻）を栽培する里を意味する「麻の木（そのき）」に由来するとする説もあり、「彼杵」の語源は諸説あって定説はない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - r7-sonogi-folklore
+  - text: 東彼杵町歴史民俗資料館は、『肥前国風土記』の具足玉国の物語を展示コーナー「具足王国」として紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r7-sonogi-rekishikan
+  column:
+    title: 三色の玉を献じた「具足玉国」
+    text: 『肥前国風土記』が伝える彼杵の物語は劇的である。九州を巡幸した景行天皇の前に土蜘蛛の八十枉津日女らが現れ、白・青・赤の3つの美しい玉を献じた。これらを合わせれば世に絶えない宝になるとして、天皇はこの国を「具足玉国（そないだまのくに）」と名付けよと命じたという。「そのぎ」という読みにくい地名の背後には、この玉の物語が隠れているとされる。町の歴史民俗資料館は今もこの伝承を「具足王国」と名付けて展示している。
+    sources:
+    - r7-sonogi-folklore
+    - r7-sonogi-rekishikan
+  relations:
+  - pref/42
+  unknowns:
+  - 「彼杵（そのぎ）」の語源は諸説あり、定説は確認できなかった
+  - 1878年の東西彼杵郡への分割を一次資料で確認することはできなかった
+  - 「そのき」から「そのぎ」への読みの変化の時期は確認できなかった
   updated: '2026-11-13'
 - id: muni/42-松浦市
   code: '422088'
@@ -716,6 +1160,91 @@ records:
   - 「松浦」の語源（松浦川との関係を含む）は確認できなかった
   - 1955年の市制時に郡名「松浦」を市名に選んだ選定過程の一次資料は確認できなかった
   - 松浦郡の文献上の初出（『和名類聚抄』の用例など）は原文・専門辞典で直接確認できなかった
+  updated: '2026-11-13'
+- id: muni/42-波佐見町
+  code: '423238'
+  names:
+    ja: 波佐見町
+    reading: はさみちょう
+    aliases:
+    - 波佐美
+    - 波佐見村
+    - 上波佐見町
+    - 下波佐見村
+  user_terms:
+  - 波佐見焼の町の名前の由来
+  - 波佐見はなぜ「はさみ」と読むのか
+  - 波佐見の地名の起源
+  naming_type: その他
+  prefecture: 長崎県
+  homonyms: []
+  summary: 波佐見は中世の文書にみえる彼杵庄内の古い地名で、近世は大村藩領の波佐見村だった。明治期に上波佐見村・下波佐見村に分かれ、1934年に上波佐見村が町制施行、1956年に両者が合併して波佐見町が誕生した。地名の語源は確定しておらず、町公式は山に挟まれた地形をいう「狭間」から変化したとも言われると紹介する。江戸時代以来の窯業（波佐見焼）の名が全国的に知られるが、それは地名の由来とは別の層である。
+  first_attestation:
+    era: 鎌倉時代（正安3年）
+    year_western: 1301
+    document: 鎮西探題御教書案（青方文書）
+    note: 『日本歴史地名大系』が紹介する「波佐見左衛門太郎（親平）」という人名としての用例。原典は未読のため紹介として記録する。地名に直接かかわる用例としては嘉暦4年（1329）の東福寺領肥前国彼杵庄文書目録にみえる波佐見彦次郎ら一族の名がある
+  claims:
+  - text: 波佐見は中世よりみえる彼杵（そのき）庄内の地名で、正安3年（1301）6月19日の鎮西探題御教書案（青方文書）に「波佐見左衛門太郎（親平）」とあることを『日本歴史地名大系』が紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r8-hasami-kotobank
+  - text: 元応2年（1320）の鎮西探題裁許状案では「波佐美左衛門太郎入道」と「波佐美」の表記もみえ、嘉暦4年（1329）の東福寺領肥前国彼杵庄文書目録には波佐見彦次郎・波佐見次郎忠平など当地を拠点とする一族の名がみえることを同大系が紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r8-hasami-kotobank
+  - text: 町公式は「波佐見」という地名の由来について諸説あるとしたうえで、山々に挟まれた地形を示す「狭間（ハザマ）」から変化したとも言われていると紹介する
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - r8-hasami-town-history
+  - text: 近世には大村藩領の波佐見村となり、明治3年（1870）に上波佐見村・下波佐見村に分かれたと町公式は説明する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r8-hasami-town-history
+    - r8-nagasaki-yogyo-nenpyo
+  - text: 一方、長崎県の窯業関連年表は天和年間（1681〜1684）に「波佐見村が上・下波佐見村へ」と記しており、上・下への区分が江戸時代にさかのぼるとする点で町公式の説明と異なる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r8-nagasaki-yogyo-nenpyo
+  - text: 昭和9年（1934）に上波佐見村が町制を施行して上波佐見町となり、昭和31年（1956）に下波佐見村と合併して現在の波佐見町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r8-hasami-town-history
+  - text: 波佐見焼の始まりについては、慶長の役ののち慶長4年（1599）に李朝陶工の李祐慶らが始めたという言い伝えがあり、長崎県の窯業年表も「言い伝え」として記録している。これは地名自体の由来とは別の、窯業の層である
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r8-nagasaki-yogyo-nenpyo
+  - text: 総務省「地方公共団体コード一覧」では本町のコードは423238とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「伊万里焼」「有田焼」の陰に隠れた名前
+    text: 波佐見で焼かれた磁器は、江戸時代には積出港である伊万里の名を取って「伊万里焼」、明治時代以降は積出駅の有田の名を取って「有田焼」と称されてきました。長崎県の窯業講座資料は、「伊万里焼」「有田焼」の中には実は多くの「波佐見焼」が含まれていると指摘します。庶民向けの日用食器「くらわんか茶碗」の一大産地でありながら、表に出る名前は港や駅の名前だった――地名が商品名に埋もれた町でもあります。
+    sources:
+    - r8-nagasaki-yogyo-koza
+  relations:
+  - pref/42
+  unknowns:
+  - 「波佐見」の語源は確定しておらず、「狭間」変化説以外の諸説の詳細は未確認
+  - 正安3年の文書の「波佐見」は人名（名字）としての用例であり、地名そのものの初出とは断定できない
+  - 1956年の合併の正確な月日は、確認した町公式ページでは明記されていなかった
   updated: '2026-11-13'
 - id: muni/42-西海市
   code: '422126'
@@ -868,6 +1397,82 @@ records:
   - 「伊佐早」の語源は定説がなく未確定（市史にも語源説の提示がない）
   - 「諫早」への改称が具体的に何年に行われたかは、2代直孝の代とされるものの年次は未確認
   - 1940年の市制時の合併構成はWikipediaの整理に依拠しており、市公式の沿革資料での直接確認が未了
+  updated: '2026-11-13'
+- id: muni/42-長与町
+  code: '423076'
+  names:
+    ja: 長与町
+    reading: ながよちょう
+    aliases:
+    - 長与浦
+    - 長与村
+  user_terms:
+  - 長与の名前の由来
+  - 長与はなぜ「ながよ」と読むのか
+  - 長与専斎の出身地
+  naming_type: その他
+  prefecture: 長崎県
+  homonyms: []
+  summary: 長与は中世の文書に「長与浦」とみえる彼杵庄の古い地名で、当地を名字の地とする長与氏の本拠だった。1889年に9郷をもって長与村が発足し、1969年に町制を施行して長与町となった。語源は確定しておらず、神功皇后が「長い夜だなぁ」と言ったという言い伝えや、長い入江の地形によるとも言われる。
+  first_attestation:
+    era: 鎌倉時代（嘉暦4年）
+    year_western: 1329
+    document: 東福寺領肥前国彼杵庄文書目録（正慶乱離志裏文書）
+    note: 『日本歴史地名大系』が紹介する「長与浦」の用例。原典は未読のため紹介として記録する。人名としては正和3年（1314）の訴陳状に「長与民部次郎」がみえる
+  claims:
+  - text: 長与は中世よりみえる彼杵（そのき）庄戸町浦のうちの地名で、嘉暦4年（1329）7月3日の東福寺領肥前国彼杵庄文書目録に「長与浦」とみえることを『日本歴史地名大系』が紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r8-nagayo-kotobank
+  - text: 正和3年（1314）から元亨3年（1323）にかけての彼杵庄の訴陳状には長与民部次郎の名がみえ、長与左衛門三郎入道・長与覚道房らを含めて、当地名を名字の地とする長与氏の存在が知られると同大系は述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r8-nagayo-kotobank
+  - text: 言い伝えによれば、神功皇后が三韓征伐の帰路にこの地に着き、琴ノ尾岳で一夜を過ごした際、寒くて寝付けず「長い夜だなぁ」と言われたことが「長与」になったといわれる
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - r8-nagayo-blog
+  - text: 地形が「長い入江」になっているところから「長与」になったとも言われるが、これも言い伝えの域を出ない
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - r8-nagayo-blog
+  - text: 明治22年（1889）4月の町村制施行により、岡・斉藤・嬉里・丸田・高田・吉無田・三根・平木場・本川内の9郷をもって自治体としての長与村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r8-nagayo-town-plan
+  - text: 昭和44年（1969）1月1日、西彼杵郡長与村が町制を施行して長与町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r8-nagasaki-henko
+  - text: 総務省「地方公共団体コード一覧」では本町のコードは423076とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「長い夜」の伝説と名字の地・長与
+    text: 神功皇后が寒さに眠れず「長い夜だなぁ」と言ったという伝説は、語呂合わせの由来譚らしい軽さがあります。一方で史料に残るのは、ここを本拠にした長与氏の一族の名前です。近代日本の医療・衛生行政の基礎を築いた長与専斎はこの長与の出身で、名字と地名がそのまま結びついた例として知られます。伝説の「長い夜」と、文書に残る「名字の地」、二つの層が重なった地名です。
+    sources:
+    - r8-nagayo-kotobank
+    - r8-nagayo-blog
+  relations:
+  - pref/42
+  unknowns:
+  - 「長与」の語源の確定説は確認できず、神功皇后伝説と入江地形説はいずれも言い伝えにとどまる
+  - 中世以前（鎌倉時代以前）の「長与」の記録は未確認
   updated: '2026-11-13'
 - id: muni/42-長崎市
   code: '422011'
@@ -1148,3 +1753,93 @@ sources:
   r6-unzen-uub:
     label: 都道府県市区町村「雲仙市（2005年〜）市区町村変遷情報」（合併の経過と、新市名「雲仙市」への住民アンケート（賛成84.1％）の記録）
     url: https://uub.jp/upd/c/620.html
+  r7-kawatana-kotobank-kawara:
+    label: コトバンク「河原城跡」日本歴史地名大系の解説（川棚町上組郷にある中世の城跡で、現在地名の欄に中世の村名「河棚村」が示され、川棚氏または河原氏の居城であったとされる）
+    url: https://kotobank.jp/word/%E6%B2%B3%E5%8E%9F%E5%9F%BA%E8%B7%A1-3100019
+  r7-kawatana-kotobank-river:
+    label: コトバンク「川棚川」日本歴史地名大系の解説（『肥前国風土記』彼杵郡条に見える、美しい玉を持つという篦簗が住む「川岸」を川棚川流域ともいうとする）
+    url: https://kotobank.jp/word/%E5%B7%9D%E6%A3%9A%E5%B7%9D-3100013
+  r7-kawatana-town-enkaku:
+    label: 川棚町公式「町の沿革」（文化11年に東西川棚村を合併して川棚村となり、昭和9年に町制を施行して川棚町となったこと、昭和18年に彼杵町小音琴郷の一部を編入、昭和35年・37年に波佐見町中山郷の一部を編入した沿革）
+    url: https://www.kawatana.jp/cat05/c5-01/post_255
+  r7-nagasaki-toukei-enkaku:
+    label: 長崎県統計年鑑「第1章 土地・気象」市町村の廃置分合の沿革表（大正15年4月1日に北松浦郡笛吹村・柳村・前方村の三村を廃し小値賀村を置いたこと、昭和9年11月3日に東彼杵郡川棚村を川棚町とし町制施行したことなどを記録）
+    url: https://www.pref.nagasaki.lg.jp/uploads/2022/03/1646981023.pdf
+  r7-ojika-kakugawa:
+    label: 角川日本地名大辞典「値嘉島（古代）」（jlogos版。『延喜式』に「西方遠値嘉」とあって日本の最西端の地と意識されたこと、遣唐使の南路では博多大津を出て値嘉島の諸島で順風を待って東シナ海を横断した航路の寄港地であったことを記す）
+    url: https://jlogos.com/docomosp/word.html?id=7448688
+  r7-ojika-kokugakuin-manyo:
+    label: 國學院大學デジタル・ミュージアム「万葉神事語辞典」ちか（値嘉）の項（『肥前国風土記』の松浦郡に「値嘉郷」が見え、遠くにあるが近くに見える島を天皇が「近島」というがよいと言って「値嘉」と名付けたという話、『古事記』国生みの「知訶島」、『日本書紀』の血鹿島、万葉集の「値嘉の崎」の歌を紹介）
+    url: https://jmapps.ne.jp/kokugakuin/det.html?data_id=32136
+  r7-ojika-kokugakuin-shinmei:
+    label: 國學院大學「古事記学」神名データベース「天之忍男」の項（伊耶那岐・伊耶那美の国生みで生まれた知訶島（長崎県五島列島）の亦名が天之忍男であるとする）
+    url: https://kojiki.kokugakuin.ac.jp/shinmei/amenoosio
+  r7-ojika-kotobank-chika:
+    label: コトバンク「値嘉島」日本歴史地名大系の解説（古代より見える島で知賀島・血鹿島とも記され現在の五島列島に相当し、島内に小近（おちか）島・大近（おおちか）島があり、のちに小値賀島・大値賀島などの表記が通用するようになったとする）
+    url: https://kotobank.jp/word/%E5%80%A4%E5%98%89%E5%B3%B6-95897
+  r7-ojika-ndl-report:
+    label: 「小値賀町における古民家再生事業レポート」（『ながさき経済』2012年6月号、国立国会図書館デジタルコレクション所蔵。平成の大合併で近隣自治体との合併を選択せず単独存続の道を選んだ経緯）
+    url: https://dl.ndl.go.jp/view/prepareDownload?contentNo=1&itemId=info%3Andljp%2Fpid%2F8327873
+  r7-ojika-town-yoran:
+    label: 小値賀町「小値賀町町勢要覧」（町公式。町長あいさつで昭和15年2月11日に町制が施行されたこと、肥前国風土記にもその名が記されていることを述べる）
+    url: https://www.town.ojika.lg.jp/material/files/group/2/youran_ojika.pdf
+  r7-saza-kotobank:
+    label: コトバンク「佐々町」日本歴史地名大系の解説（律令制下では松浦郡に属し、平安末期から鎌倉期には宇野御厨のうちであったと想定され、鎌倉期には志佐氏の勢力下にあったとする。佐々川が町域を流れる地勢）
+    url: http://kotobank.jp/word/%E4%BD%90%E3%80%85%E7%94%BA-68887
+  r7-saza-pref-toukei:
+    label: 長崎県「県内各市町の統計所管課だより（その20 佐々町）」（佐々村・市瀬村が明治22年4月に合併して佐々村となり、炭鉱全盛期を経て昭和16年1月に町制を施行した町の紹介）
+    url: https://www.pref.nagasaki.jp/uploads/2022/02/1646009350.pdf
+  r7-saza-sazanami-wiki:
+    label: Wikipedia「さざなみ町」（平成の大合併で佐々町と小佐々町の合併により2005年4月1日に発足する予定だった町名。住民投票で合併が否決され実現しなかった経緯）
+    url: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%96%E3%81%AA%E3%81%BF%E7%94%BA
+  r7-saza-town-gaiyo:
+    label: 佐々町公式「町の概要」（町制施行は昭和16年1月1日、古くは佐々村・市瀬村が明治22年4月に合併して佐々村となった歴史、佐々川が町の中央を貫流する地勢を記す）
+    url: https://www.sazacho-nagasaki.jp/kiji0031940/index.html
+  r7-shinkamigoto-goto-gaiyo:
+    label: 長崎県五島振興局「五島の概要」（県公式資料。新上五島町は若松町・上五島町・新魚目町・有川町・奈良尾町の合併により誕生し、通常は旧奈留町以南を下五島、旧奈良尾町以北または若松町以東を上五島と称していると明記）
+    url: https://www.pref.nagasaki.lg.jp/uploads/2025/10/1761891982.pdf
+  r7-shinkamigoto-town:
+    label: 新上五島町公式「新上五島町のあらまし」（明治22年の町村制施行で上五島地域は8村で構成され、昭和の大合併で若松町・上五島町などが生まれた歴史の概説）
+    url: https://official.shinkamigoto.net/goto_chosei_full.php?eid=00641
+  r7-shinkamigoto-uub:
+    label: 市区町村変遷情報データベース「長崎県南松浦郡 新上五島町の新設（2004年8月1日）」（若松町・上五島町・新魚目町・有川町・奈良尾町の新設合併。新町名の公募1位は北五島、最終候補5点は海輝・かみごとう・北五島・新上五島・つばきで、新町名は新上五島町に決まった経過を記録）
+    url: https://uub.jp/upd/u/u623.html
+  r7-sonogi-folklore:
+    label: 地名の由来サイト「『彼杵』の地名の由来」（『肥前国風土記』の彼杵郡彼杵郷の条によるという説＝景行天皇が具足玉国（そないだまのくに）と名付けよと命じた話が「そのぎ」に転訛した、『大村郷村記』の安全寺大御堂の杵の天降り伝説、彼杵宿の大楠「彼木」説、ソ（麻）＋ノ＋ギ（村）の語源説など諸説を紹介し「諸説有る」とする）
+    url: https://folklore2017.com/timei700/70168.htm
+  r7-sonogi-rekishikan:
+    label: 東彼杵町歴史民俗資料館公式サイト（『肥前国風土記』の具足玉国（そなひだまのくに）の物語を展示コーナー「具足王国」として紹介し、風土記が奈良時代に元明天皇の命で編纂された地誌であることを説明）
+    url: https://rekishi-higashisonogi.jp/rekisikan.html
+  r7-sonogi-wiki:
+    label: Wikipedia「彼杵町」（旧彼杵町は1959年5月1日に千綿村との新設合併で廃止され東彼杵町となったこと）および「東彼杵町」（1959年に彼杵町と千綿村が合併して町制施行した沿革）
+    url: https://ja.wikipedia.org/wiki/%E5%BD%BC%E6%9D%B5%E7%94%BA
+  r7-togitsu-town-gaiyo:
+    label: 時津町公式「時津町の概要」（町の起源ははっきりしないが鎌倉時代には「時津」と呼ばれていたようで、中世に時津氏一族が荘官・地頭として活躍したこと、明治5年に時津村・西時津村・日並村の3村が合併して時津村となり、昭和26年12月1日に町制を施行した沿革）
+    url: https://www.town.togitsu.nagasaki.jp/soshikikarasagasu/senryaku/gyoseijoho/machinojoho/1806.html
+  r7-togitsu-yoran:
+    label: 時津町「町勢要覧 TOGITSU 2025」（町公式。江戸時代に長崎と小倉を結ぶ長崎街道の海路として時津から彼杵へ至る「時津街道」があったこと、日本二十六聖人が時津港に到着し船上で最後の夜を過ごして翌朝に殉教地の西坂の丘へ向かったことを紹介）
+    url: https://www.town.togitsu.nagasaki.jp/material/files/group/1/cyouseiyouran2.pdf
+  r8-hasami-kotobank:
+    label: コトバンク「波佐見」（平凡社『日本歴史地名大系』）
+    url: https://kotobank.jp/word/%E6%B3%A2%E4%BD%90%E8%A6%8B-3100022
+  r8-hasami-town-history:
+    label: 波佐見町公式（歴史文化交流館）「波佐見町の歴史」
+    url: https://www.town.hasami.lg.jp/rekishi/kiji0031893/index.html
+  r8-nagasaki-henko:
+    label: 長崎県「市町村の廃置分合の沿革」
+    url: https://www.pref.nagasaki.lg.jp/uploads/2024/03/1711688926.pdf
+  r8-nagasaki-yogyo-koza:
+    label: 長崎県「やきものプロ養成講座」資料編（波佐見焼）
+    url: https://www.pref.nagasaki.jp/yogyo/yakimono/pdf/01hasamiyaki.pdf
+  r8-nagasaki-yogyo-nenpyo:
+    label: 長崎県「波佐見焼・三川内焼関連年表」（窯業技術センター資料）
+    url: https://www.pref.nagasaki.jp/yogyo/yakimono/pdf/06nenpyo.pdf
+  r8-nagayo-blog:
+    label: 郷土史ブログ「丸山歴史散歩」（長与の地名の由来の言い伝え）
+    url: http://cgi.www5d.biglobe.ne.jp/~hirosuke/cgi-bin/diary.cgi?LOGCODE=201008
+  r8-nagayo-kotobank:
+    label: コトバンク「長与」（平凡社『日本歴史地名大系』）
+    url: https://kotobank.jp/word/%E9%95%B7%E4%B8%8E-588194
+  r8-nagayo-town-plan:
+    label: 長与町「長与町公共施設等総合管理計画（令和4年3月改訂）」
+    url: https://webtown.nagayo.jp/kiji00358/3_58_up_mvbr1sp0.pdf

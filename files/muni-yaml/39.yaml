@@ -1,5 +1,463 @@
 prefecture_code: '39'
 records:
+- id: muni/39-いの町
+  code: '393860'
+  names:
+    ja: いの町
+    reading: いのちょう
+    aliases:
+    - 伊野町
+  user_terms:
+  - いの
+  - 紙の町
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県吾川郡の町。2004年10月1日に伊野町・吾北村・本川村が新設合併して発足し、その際に漢字の「伊野」を平仮名の「いの」に改めた。中心の伊野は土佐和紙で知られる古い町場で、古代は『和名類聚抄』の大野郷の地に含まれていたと考えられている。「伊野」の語源そのものは定説がない。
+  first_attestation:
+    era: 元弘3年
+    year_western: 1333
+    document: 熊野那智大社文書（旦那注文）
+    note: 『日本歴史地名大系』が紹介する用例で、「いのとのゝ御一門」とあり当地の有力者を指すとされる。村名「伊野村」としての確実な用例は天正16年（1588）の地検帳とされる
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、いの町の団体コードは393860とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 2004年10月1日に伊野町・吾北村・本川村が新設合併して、いの町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-ino-uub
+  - text: 伊野町・吾北村・本川村合併協議会の第6回会議録（2003年6月27日）には、町民・村民へのアンケートを経て、新しい町の名前が平仮名で「いの町」と決まったことが会長挨拶として記録されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-ino-gappei-minutes
+  - text: 旧伊野町は1895年に町制を施行し、1954年には宇治村・川内村・八田村との合併で拡大した伊野町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-ino-uub
+    - r1-ino-kotobank-nipponika
+  - text: 『日本歴史地名大系』は、古代の伊野の地は『和名類聚抄』に載る土佐国吾川郡の大野郷の地に含まれたと考えられると述べている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-ino-kotobank-taikei
+  - text: 『日本歴史地名大系』は、元弘3年（1333）の熊野那智大社文書に「いのとのゝ御一門」と見え、天正16年（1588）の弘岡分伊野村地検帳に伊野村が見えることを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-ino-kotobank-taikei
+  - text: 『日本大百科全書（ニッポニカ）』は、伊野地区は製紙の町で、藩政時代に御用紙漉き地に指定・保護されて土佐和紙が発展したと説明している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-ino-kotobank-nipponika
+  column:
+    title: 読みは同じ、字を替えて「対等」を示した合併
+    text: 2004年の合併では、本庁舎が旧伊野町に置かれることから、吾北村・本川村の委員には「対等合併といいながら吸収ではないか」という思いがあったことが協議会の会議録に残っている。その中で新町名は住民アンケートを経て、漢字の「伊野」ではなく平仮名の「いの町」に決まった。読みは変えず、字だけを新しくすることで、旧伊野町だけの名前ではない「3町村みんなの町名」にする工夫だったといえる。なお町の紋章は、旧伊野町章――「いの」の文字を図案化し、1954年の合併を記念して制定されたもの――をそのまま継承している。
+    sources:
+    - r1-ino-gappei-minutes
+    - r1-ino-wiki
+  relations:
+  - pref/39
+  unknowns:
+  - 「伊野（いの）」の語源（「猪野」説など）は専門資料で確認できず、定説は未確認
+  - 平仮名化の理由として合併協議会の公式文書に明記された説明文は、会議録の範囲では確認できていない
+  updated: '2026-11-13'
+- id: muni/39-三原村
+  code: '394271'
+  names:
+    ja: 三原村
+    reading: みはらむら
+    aliases:
+    - 三原郷
+  user_terms:
+  - みはら
+  - 三原米の村
+  naming_type: 一部の地名
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県幡多郡の村で、四国最南端かつ最西端の村。村名は、江戸時代にこの一帯を総称した「三原郷」に由来する。郷の中心の村は「三原村」とも呼ばれていた。1889年に郷内の村々が合併して三原村となり、以来一度も合併・分割を経験していない。「三原」の語源そのものは定説がない。なお島根県と岡山県にも同名の三原村があったが、いずれも廃止され、現存する三原村は高知のこの村だけである。
+  first_attestation:
+    era: 天正18年
+    year_western: 1590
+    document: 三原郷地検帳
+    note: 『日本歴史地名大系』が紹介する地検帳で、「三原郷」の単位と郷内各村の名が確認できる。村名「三原村」は江戸時代に三原郷本村（柚ノ木村）の別称として見える
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、三原村の団体コードは394271とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 三原村公式サイトは、古くは「三原郷」と呼ばれ、明治22年（1889年）の町村制施行により「三原村」となったと説明しており、農林水産省の地域資料も同じ沿革を記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-mihara-vill-official
+    - r1-mihara-maff
+  - text: 『日本歴史地名大系』は、江戸時代に現三原村域の狼内・上長谷・下長谷・芳井・来栖野など11村を総称して三原郷とし、そのうち柚ノ木村を「三原村」とも称して三原郷の本村とし、郷大庄屋が置かれたと述べている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-mihara-kotobank-taikei
+  - text: 『日本歴史地名大系』は、天正18年（1590年）の三原郷地検帳に来栖野・皆尾・下長谷など郷内の各村が見えることを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-mihara-kotobank-taikei
+  - text: 1889年に来栖野村・上長谷村・下長谷村・成山村・狼内村・芳井村・柚ノ木村・広野村・亀ノ川村・下切村の10村が合併して三原村が誕生し、以来行政区分はまったく変わっていない
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-mihara-kochischool
+  - text: 戦国期に国侍の敷地氏が三原郷・川登・敷地の領主となったと、三原村公式サイトの「歴史と民話」は伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-mihara-vill-history
+  - text: 敷地藤康の娘・椿姫が、父の二重の婚約約束のために自ら桶に入って生き埋めにされ、その霊を慰めるため御霊神社が建てられたという椿姫伝説が村に伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - r1-mihara-vill-history
+  column:
+    title: 村の名は、郷の名だった
+    text: 1889年に生まれた三原村は、合併した10村のどの村の名でもない。採用されたのは、江戸時代にこの盆地の村々を束ねた広域の名「三原郷」である。郷の中では柚ノ木村が「三原村」とも呼ばれて本村とされ、郷大庄屋が置かれていたから、郷の名と中心村の名はもともと重なっていた。以来130年以上、三原村は一度も合併も分割もしていない。村の名物「三原米」もこの郷の名を受け継いだものである。
+    sources:
+    - r1-mihara-kotobank-taikei
+    - r1-mihara-vill-official
+  relations:
+  - pref/39
+  unknowns:
+  - 「三原」の語源（三つの原・台地があった等）は確認できる専門資料がなく未確認
+  - 三原郷の名の平安・鎌倉時代の用例は確認できていない（『日本歴史地名大系』が引く応徳2年（1085年）の境界文書が当地を指すかは判読できなかった）
+  updated: '2026-11-13'
+- id: muni/39-中土佐町
+  code: '394017'
+  names:
+    ja: 中土佐町
+    reading: なかとさちょう
+    aliases: []
+  user_terms:
+  - なかとさ
+  - カツオの町
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県高岡郡の町。1957年7月1日に久礼町と上ノ加江町が合併して発足し、2006年1月1日に大野見村を合わせて現在の町域になった。町名「中土佐」は旧国名「土佐」のほぼ中央に位置することにちなむ合併時の新名で、中心地の久礼はカツオの一本釣りで知られる漁港の町である。
+  first_attestation:
+    era: 昭和32年
+    year_western: 1957
+    document: 中土佐町の設置（久礼町・上ノ加江町の新設合併）
+    note: 町名としての初出。構成地名の「久礼」「上ノ加江」自体の初出は未確認
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、中土佐町の団体コードは394017とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 1957年7月1日に久礼町と上ノ加江町が新設合併して中土佐町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-nakatosa-uub
+  - text: 2006年1月1日に中土佐町と大野見村が新設合併して、現在の中土佐町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-nakatosa-uub
+    - r1-nakatosa-kotobank-sekai
+  - text: 町名の決定について、「地図で見ると大体土佐の中央にあるので、難しく考えずにこれにせえ」ということで「中土佐町」になったという話が地元に伝えられている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-nakatosa-kochischool
+  - text: 「中土佐」は旧国名「土佐」の中央部という位置を示す名で、合併した久礼町・上ノ加江町のどちらの名も採らなかった中立的な新名だったと考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r1-nakatosa-kochischool
+  - text: 『改訂新版 世界大百科事典』は、町の中心集落である久礼はかつてカツオ漁港として栄え、南の上ノ加江・矢井賀もブリの定置網漁業が盛んだったと述べている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-nakatosa-kotobank-sekai
+  - text: 上ノ加江の「加江」は、土佐清水市の下ノ加江と対になる名だと誤解されやすいが、下ノ加江は江戸時代の「下茅村」が訛ったもので、両者は無関係であると地元の学校資料サイトは指摘している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-nakatosa-kochischool
+  column:
+    title: 「難しく考えずにこれにせえ」
+    text: 中土佐町の名の由来として地元に伝わるのは、拍子抜けするほどあっさりした話である。当初、久礼町は大野見村との、上ノ加江は窪川町への合併を望んだがどちらも難航し、県知事の勧告で久礼と上ノ加江が組むことになった。新しい町の名は「地図で見ると大体土佐の中央にあるので、難しく考えずにこれにせえ」と決まったという。旧国名に方位を付けただけの名だが、どちらの町の名も残さない「対等」の落としどころでもあった。なお2006年に大野見村が加わった後も、町名は変わらず中土佐のままである。
+    sources:
+    - r1-nakatosa-kochischool
+    - r1-nakatosa-uub
+  relations:
+  - pref/39
+  unknowns:
+  - 町名「中土佐」の決定経緯を記した合併当時の公式文書は確認できていない（命名理由は地元に伝わる話として記録した）
+  - 「久礼」「上ノ加江」の地名自体の語源・初出は未確認
+  updated: '2026-11-13'
+- id: muni/39-仁淀川町
+  code: '393878'
+  names:
+    ja: 仁淀川町
+    reading: によどがわちょう
+    aliases: []
+  user_terms:
+  - によどがわ
+  - 仁淀ブルーの町
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県吾川郡の町。2005年8月1日に池川町・吾川村・仁淀村が新設合併して発足し、町名は流域を貫く一級河川・仁淀川をそのまま採った。川名「仁淀」の由来は定説がなく、『延喜式』に貢物のアユで登場する「贄殿川」から転じたとする説が有力とされる。川は愛媛県側では面河川と呼ばれ、高知県に入って仁淀川と名を変える。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 仁淀川町の設置（池川町・吾川村・仁淀村の新設合併）
+    note: 町名としての初出。川名「仁淀」自体の初出は未確認で、前身とされる「贄殿川」は『延喜式』に見えるという説があるが原文は未確認
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、仁淀川町の団体コードは393878とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 2005年8月1日に池川町・吾川村・仁淀村が新設合併して仁淀川町が発足し、合併協議会は「西仁淀合併協議会」と称した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-niyodogawa-uub
+  - text: 新町名「仁淀川町」は、3町村の流域を貫く一級河川・仁淀川の名をそのまま町名に採ったものである
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-niyodogawa-uub
+    - r1-niyodogawa-town-river
+  - text: 仁淀川町公式サイトは、仁淀川は愛媛県側では面河川と呼ばれ、高知県の仁淀川町へ入って仁淀川と名を変える川で、その青さが「仁淀ブルー」と呼ばれていると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-niyodogawa-town-river
+  - text: 『日本歴史地名大系』は、江戸時代の安養寺禾麻呂『土佐幽考』を引き、仁淀川の古名を「贄殿川」、別名を「吾川」と称したとする説を紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-niyodogawa-kotobank-agawa
+  - text: 川名「仁淀」の由来については、『延喜式』に貢物のアユとして登場する「贄殿川」――宮中の厨房へ贄を納める川――から転じたとする説が有力とされる一方、諸説があり定かではないとWikipedia「仁淀川」は紹介している
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - r1-niyodogawa-wiki-river
+  - text: 平城天皇の皇子・高岳親王が土佐に来た際、この川が山城国の淀川に似ているので「仁淀」と名付けたという言い伝えがある
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - r1-niyodogawa-wiki-river
+  - text: 合併した旧仁淀村は1954年に長者村と別府村の合併で生まれた村で、川名の一部「仁淀」は合併の半世紀前から自治体名として使われていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-niyodogawa-uub
+  column:
+    title: 贄を納める川、という名の記憶
+    text: 「仁淀」は当て字めいた不思議な名だが、その奥には「贄殿川」という古名があるという。贄殿とは宮中の台所のことで、この川のアユが朝廷への貢物だったことから付いた名とされる。『土佐幽考』は仁淀川の古名を贄殿川、別名を吾川とする。いまの吾川郡の「吾川」も、その別名の名残りだと大系はいう。一方で、流れの姿が京都の淀川に似ていたから高岳親王が「仁淀」と名付けたという話も伝わる。史実として扱えるのは贄殿の説のほうだが、どちらが正しいかは決着していない。確かなのは、清流のアユを都へ送った川の記憶が、2005年にそのまま町の名になったことである。
+    sources:
+    - r1-niyodogawa-kotobank-agawa
+    - r1-niyodogawa-wiki-river
+  relations:
+  - pref/39
+  unknowns:
+  - 川名「仁淀」の文献上の初出と、贄殿川から仁淀川への転訛の時期は未確認
+  - 2005年の新町名の選定手続き（公募の有無など）の公式記録は確認できていない
+  updated: '2026-11-13'
+- id: muni/39-佐川町
+  code: '394025'
+  names:
+    ja: 佐川町
+    reading: さかわちょう
+    aliases:
+    - 佐川郷
+  user_terms:
+  - さかわ
+  - 牧野富太郎の故郷
+  - 文教の町
+  naming_type: 一部の地名
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県高岡郡の町。名は中世の郷「佐川郷」に遡り、この地に興った武士・佐川氏の名でもあった。1889年に佐川村、1900年に佐川町となり、1954年に斗賀野村・黒岩村・尾川村と合併して現在の町域の基礎ができた。語源には、盆地を北へ流れる柳瀬川を「逆川」と呼んだことに由来するという説があるが、専門資料の裏付けはない。植物学者・牧野富太郎の生地として知られる。
+  first_attestation:
+    era: 天正18年
+    year_western: 1590
+    document: 佐川郷地検帳
+    note: 『日本歴史地名大系』によれば、郷名「佐川郷」を明記した唯一の現存史料。中世には「佐川」の名を冠した有力武士（佐川氏）が確認されるが、個別の初出年次は未確認
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、佐川町の団体コードは394025とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 佐川町公式サイトの沿革によれば、明治22年（1889年）に佐川村ができ、明治33年（1900年）に町制を施行して佐川町となり、昭和29年（1954年）に1町3村が合併、昭和30年（1955年）に加茂村の一部を合併して現在に至っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-sakawa-town-official
+  - text: 『日本歴史地名大系』は、佐川郷は佐川盆地を中心とした中世の郷で、天正18年（1590年）の佐川郷地検帳などが郷名を明記した唯一の現存史料であり、この地に佐川氏が興ったと述べている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-sakawa-kotobank-taikei-go
+  - text: 『日本歴史地名大系』は、佐川の町の中央部を仁淀川の支流・柳瀬川が北流していると記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-sakawa-kotobank-taikei-cho
+  - text: 「佐川」の語源については、四国山地の南側では川は南へ流れるのが普通なのに佐川の川は北へ流れるため「逆川（サカガワ）」が転じて「佐川」になったという説と、「狭い谷間の川」の意の「狭川（サカハ）」に由来する説が、語源由来辞典のサイトで紹介されているが、いずれも典拠の明示はない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - r1-sakawa-gogen
+  - text: 『日本大百科全書（ニッポニカ）』は、中心地の佐川は近世に土佐藩家老・深尾氏の小城下町として発達し、維新の志士・田中光顕と植物学者・牧野富太郎の出身地であると述べている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r1-sakawa-kotobank-nipponika
+  - text: 町名「佐川」は、明治の町村名として新しく作られたものではなく、中世の郷名であり佐川氏の名字でもあった古い地名を、村名・町名がそのまま受け継いだものと考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r1-sakawa-kotobank-taikei-go
+    - r1-sakawa-town-official
+  column:
+    title: 北へ流れる川と「逆川」の名
+    text: 佐川盆地を貫く柳瀬川は、仁淀川の支流でありながら北へ向かって流れる。四国山地の南側斜面では川はふつう南の太平洋へ下るので、これは目立つ例外である。そこから「逆さに流れる川＝逆川（さかがわ）」が転じて「佐川」になった、という語源説が生まれた。専門資料の裏付けはまだない説だが、川の流れそのものは事実で、『日本歴史地名大系』も柳瀬川の北流を明記している。町の紋章にも3本の線で川を描き「さ川」を図案化したと公式の説明があり、この町のアイデンティティが川とともにあることが分かる。
+    sources:
+    - r1-sakawa-gogen
+    - r1-sakawa-kotobank-taikei-cho
+    - r1-sakawa-town-official
+  relations:
+  - pref/39
+  unknowns:
+  - 「佐川」の語源について専門文献（町史・地名辞典類）の見解は未確認で、逆川説・狭川説はいずれも裏付けが弱い
+  - 中世の佐川氏の初出年次と、郷名と名字のどちらが先かは未確認
+  updated: '2026-11-13'
+- id: muni/39-北川村
+  code: '393053'
+  names:
+    ja: 北川村
+    reading: きたがわむら
+    aliases:
+    - 北川郷
+  user_terms:
+  - きたがわ
+  - ゆず王国
+  - 中岡慎太郎の生まれた村
+  naming_type: 一部の地名
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県安芸郡の村。奈半利川の中・上流域にあり、1889年の町村制施行以来、一度も合併していない。名は中世の「北川郷」に遡り、烏ヶ森に城を築いた在地武士・北川氏の領地だった。「北川」の語源は未詳である。高知県内だけでも高岡郡・長岡郡・吾川郡に同名の北川村があったが、いずれも消滅し、現存する北川村は安芸郡のこの村だけである。幕末の志士・中岡慎太郎の生地。
+  first_attestation:
+    era: 寛治6年
+    year_western: 1092
+    document: 妙楽寺文書
+    note: 『日本歴史地名大系』によれば、寛治6年8月6日の奥書のある妙楽寺文書に「北川郷」の四至（四方の境）が記される。ただし大系自身が、この文書の年号には疑問も残ると注記している
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、北川村の団体コードは393053とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 1889年4月1日の市制町村制施行で北川村が成立し、以来合併・分割のないまま現在に続いている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-kitagawa-uub
+  - text: 『日本歴史地名大系』は、寛治6年（1092年）の奥書のある妙楽寺文書に「北川北南西東山堺ノ事」とあって北川郷の四至が記されるが、この文書の年号には疑問も残ると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-kitagawa-kotobank-taikei
+  - text: 『日本歴史地名大系』は、烏ヶ森に城を築いた北川氏について、その菩提寺・松林寺が建久元年（1190年）開基と伝えることからその頃来住したとする説があるが古記録を焼失して不詳であり、『参考土佐軍記』は北川氏が室町時代に幡多郡中村の一条氏に属して北川郷・加茂村・野友村・奈半利村などを領していたと記す、と紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-kitagawa-kotobank-taikei
+  - text: 「北川」の語源については、キダ（崩壊地形）とカハ（川）の転訛で「崖の発達した川」の意ではないかとする説が地名解説サイトで紹介されているが、専門資料の裏付けはない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - r1-kitagawa-folklore
+  - text: 北川村の村勢要覧は、村の特産であるゆずについて、本村出身の幕末の志士・中岡慎太郎が庄屋時代に生産を奨励したことが始まりといわれており、かつては県内一の産地だったと記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-kitagawa-vill-yoran
+  - text: 地名「北川郷」が先にあり、領主となった北川氏はその地名を名字に採った可能性が高いが、古記録が焼失しているため、地名と名字の先後は確定できない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r1-kitagawa-kotobank-taikei
+  column:
+    title: 中岡慎太郎が奨励したゆずと、千年の「北川郷」
+    text: 北川村は幕末の志士・中岡慎太郎の生まれた村である。村の村勢要覧によれば、特産のゆずは慎太郎が庄屋を務めた時代に生産を奨励したのが始まりといわれ、村は「ゆず王国」を名乗る。その慎太郎の生家がある野友は、中世には北川氏の領地の一部だった。地名の「北川」は、寛治6年（1092年）の奥書を持つ妙楽寺文書に「北川郷」として現れるという。文書の年号には疑問も残ると専門書は断るが、少なくとも中世以来、奈半利川の山あいの郷の名として「北川」は使われ続けてきた。維新の志士を生んだ山村の名は、千年近い時間をくぐってきた名でもある。
+    sources:
+    - r1-kitagawa-vill-yoran
+    - r1-kitagawa-vill-hurusato
+    - r1-kitagawa-kotobank-taikei
+  relations:
+  - pref/39
+  unknowns:
+  - 「北川」の語源は未詳（崖の発達した川＝キダ＋カハ説は裏付けが弱い）
+  - 妙楽寺文書の年号（寛治6年）の真偽と、北川郷の成立時期は未確認
+  - 北川氏と地名「北川」の先後関係は、古記録の焼失のため確認できない
+  updated: '2026-11-13'
 - id: muni/39-南国市
   code: '392049'
   names:
@@ -158,6 +616,84 @@ records:
   - 「四万十」という地名そのものの由来（上流域の四万十郷などとの関係）は、本バッチでは専門辞典で確認できなかった
   - 「中村」の語源（四万十川と後川に挟まれた中間の村とする説明）は、地名資料サイトの解説の範囲を超えて確認できていない
   - 先行した4か町村合併協議会の公募記録は、協議会の一次資料そのものでは未確認
+  updated: '2026-11-13'
+- id: muni/39-四万十町
+  code: '394122'
+  names:
+    ja: 四万十町
+    reading: しまんとちょう
+    aliases: []
+  user_terms:
+  - しまんと
+  - 四万十川中流の町
+  - 窪川
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県高岡郡の町。2006年3月20日に窪川町（高岡郡）と大正町・十和村（幡多郡）が郡をまたいで合併して発足した。町名は町域を流れる四万十川の名をそのまま採ったもの。川の名「四万十川」自体、もとは愛称で、正式名称だった「渡川」から1994年に改められた経緯がある。下流には2005年に発足した四万十市があり、「四万十」を名乗る市と町が同じ川の流域に併存している。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 合併設置（窪川町・大正町・十和村合併協議会）
+    note: 町名は川名「四万十川」の転用。川名が「渡川」から「四万十川」に正式改称されたのは1994年のことである
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、四万十町の団体コードは394122とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 2006年3月20日、高岡郡窪川町と幡多郡大正町・十和村が新設合併して四万十町が発足した、郡をまたぐ合併であった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r1-shimanto-town-uub
+  - text: 町名「四万十町」は、町域を東から西へ流れる四万十川の中流域に位置するこの町の、川の名をそのまま自治体名に採用したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-shimanto-town-official
+    - r1-shimanto-town-wiki
+  - text: 四万十川の正式名称はもともと「渡川（わたりがわ）」であり、「四万十川」は地元で慣れ親しまれた愛称だったが、テレビ番組で「日本最後の清流・四万十川」と紹介されたことをきっかけに有名になり、地元の強い要望もあって1994年に「四万十川」が正式名称となった経緯を、町の公式学習資料が説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-shimanto-town-hakase
+    - r1-shimanto-chimei
+  - text: Wikipediaによれば、四万十川の下流域では2005年に四万十市が先に発足していたが、名称の決定は四万十町の方がわずかに早く、両者とも「四万十」の名を譲ることができなかったため、四万十町と四万十市の両方が存在することになった。また、四万十市の市内にも「四万十町」というまったく同じ読みの地名がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r1-shimanto-town-wiki
+  - text: 合併した旧町村の名にも命名の層があり、十和村は1957年に十川村と昭和村が合併した際、両村の名から一字ずつを採って名付けられ、大正町は1914年（大正3年）に改称された大正村の後身である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-shimanto-town-gappei-plan
+  - text: 「四万十」は、川の愛称が1994年に公式の川名へ昇格した比較的新しい名前でありながら、流域の市と町の双方が自治体名に採用するほど、地域を代表する名として定着している
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r1-shimanto-town-hakase
+    - r1-shimanto-town-wiki
+  column:
+    title: 市と町、ふたつの「四万十」が並ぶ理由
+    text: 四万十川の流域には「四万十市」と「四万十町」という、読みまで同じ名の自治体がふたつある。下流の市は2005年に中村市と西土佐村の合併で発足し、上・中流の町は2006年に3町村の合併で発足した。順序だけ見れば市が先だが、名前の決定自体は町の方がわずかに早かったとされ、どちらも「四万十」を譲れなかったために併存が決まったという。もともと「四万十川」は愛称で、川の正式名は「渡川」だった。それが1994年に正式名へ昇格してわずか十余年で、流域の二つの自治体が奪い合うほどの名になった。川の名の力強さを、これほど端的に示す例は珍しい。なお四万十市の市内には大字として「四万十町」も存在し、「四万十町」は高知県内に三重に現れる名となっている。
+    sources:
+    - r1-shimanto-town-wiki
+    - r1-shimanto-town-hakase
+  relations:
+  - pref/39
+  - muni/39-四万十市
+  unknowns:
+  - 合併協議会での町名候補の公募結果や他候補との比較検討の詳細は、協議会資料での確認が未了
+  - 川名「四万十」の語源そのもの（四万十市レコードでも諸説併記）は未確定
   updated: '2026-11-13'
 - id: muni/39-土佐市
   code: '392057'
@@ -318,6 +854,476 @@ records:
   - 「清水」という地名自体の由来（清らかな水にちなむという一般的な説明を本市域で裏付ける資料）は、本バッチでは確認できなかった
   - 1924年に清松村が「清水町」へ改称した理由を明示する一次資料は未確認
   - 「土佐」を冠した理由として静岡県清水市との区別が市名協議で挙げられたかどうかは、市史編さん資料では明示されていなかった
+  updated: '2026-11-13'
+- id: muni/39-土佐町
+  code: '393631'
+  names:
+    ja: 土佐町
+    reading: とさちょう
+    aliases:
+    - 土佐村（旧称）
+  user_terms:
+  - とさ
+  - 早明浦ダムの町
+  - 嶺北
+  - 四国の水がめ
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県土佐郡の町。吉野川の源流域、四国山地のただ中にある。1955年3月31日に土佐郡の地蔵寺村・森村と長岡郡の田井村が合併して「土佐村」が生まれ、1970年4月1日の町制施行で土佐町となった。名は旧国名「土佐」をそのまま自治体名にしたもので、合併したどの村の名も採っていない。同じ「土佐」を名乗る土佐市（旧高岡町が母体）とは別の自治体である。町内には「四国の水がめ」と呼ばれる早明浦ダムがある。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 合併設置（土佐村発足）
+    note: 自治体名としての「土佐」の成立時点を記す。地名「土佐」自体は古代の令制国・土佐国の名に遡る
+  claims:
+  - text: 地方公共団体情報システム機構（J-LIS）の高知県内市町村一覧で、土佐町の団体コードは393631とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-jlis-kochi
+  - text: 土佐町公式サイトの沿革によれば、明治22年の町村制で誕生した土佐郡森村・地蔵寺村と長岡郡田井村が昭和30年（1955年）3月に合併して土佐村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-tosa-town-official
+    - r1-tosa-uub
+  - text: 1961年4月に当時の本山町の一部だった大渕・古味・井尻・上津川など5地区と合併し、早明浦ダム建設をきっかけに市街地が開け、1970年4月1日から町制を施行して土佐町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-tosa-town-official
+  - text: 平成の大合併においても、土佐町は住民投票により単独自治体として残ることを選択し、合併しなかった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-tosa-sdgs
+  - text: 「土佐」は古代の令制国・土佐国の名であり、町が属する土佐郡も高知県（土佐国）の郡としてこの国名を負っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r1-tosa-gun-wiki
+  - text: 土佐町は吉野川の源流域にあり、町内の早明浦ダムは「四国の水がめ」とも称されて他の四国3県に水を送っており、町は水源のまちを自任している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r1-tosa-sdgs
+  - text: 合併した3村は土佐郡の2村と長岡郡の1村で、郡も村名も共通するものがなかったため、3村すべてに共通する上位の地域名である旧国名「土佐」が、新村名として選ばれたと考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r1-tosa-town-official
+    - r1-tosa-gun-wiki
+  column:
+    title: 国の名を名乗る、小さな水源の町
+    text: 「土佐町」は、旧国名そのものを自治体名にした町である。県名にはならなかった「土佐」の名は、高知県内では土佐市とこの土佐町が分け合っている。土佐町は四国山地のただ中、吉野川の源流域にあり、西日本最大級の早明浦ダムを擁する。ダムは「四国の水がめ」と呼ばれ、四国4県へ水を送る。国の名を名乗り、四国全体の水源を担う――人口数千人の山あいの町にとって大きな名だが、水源地としての役割がその名に実質を与えている。1955年の合併で3村のどの名も採らずに「土佐」を選んだ判断は、平成の大合併でも住民投票で単独存続を選んだこの町の、地域への誇りの表れと読むこともできる。
+    sources:
+    - r1-tosa-sdgs
+    - r1-tosa-town-official
+  relations:
+  - pref/39
+  - muni/39-土佐市
+  unknowns:
+  - 1955年の合併時に村名を「土佐」と決めた選定経緯（公募の有無、他候補）を示す資料は未確認
+  - 「土佐」という国名自体の語源は諸説あり、本レコードでは扱わない
+  updated: '2026-11-13'
+- id: muni/39-大川村
+  code: '393649'
+  names:
+    ja: 大川村
+    reading: おおかわむら
+    aliases: []
+  user_terms:
+  - 大川村 高知
+  - 早明浦ダムで村が沈んだ村
+  - 湖底から旧役場が現れる村
+  - 日本で人口がとても少ない村
+  naming_type: その他（1889年に16集落が合併して発足したが、「大川」の命名理由は確認できていない）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県土佐郡の村。1889年（明治22年）、本川郷下分と森郷の一部の16集落が分離して発足した。村名「大川」の命名理由は公式資料でも確認できておらず、村の中央を流れる吉野川との関係も裏付けがない。村は早明浦ダムの湛水で中心集落が水没し、白滝鉱山の閉山も重なって人口が大きく減ったことで知られる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による大川村の発足
+    note: 村名としての初出として確認できる範囲。より古い「大川」という地名の使用例は確認できていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、大川村の地方公共団体コードは393649である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 国土交通省の資料は、明治22年（1889年）の町村制施行に伴い、本川郷下分及び森郷の一部から16集落が分離して大川村が発足したと記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-okawa-mlit
+    - r2-okawa-wiki
+  - text: 国土交通省の資料によれば、村のほぼ中央を一級河川の吉野川が西から東へ流れ、早明浦ダムに注いでいる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-okawa-mlit
+  - text: 国土交通省の資料は、昭和46年（1971年）の早明浦ダム建設による中心集落の水没と、昭和47年（1972年）の白滝鉱山閉山が、集落の形態を大きく変え人口減少の決定的な要因になったとしている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-okawa-mlit
+  - text: 水資源機構の早明浦ダムパンフレットは、ダムの管理開始を1975年（昭和50年）としている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-sameura-water
+  - text: Wikipedia「早明浦ダム」は、大川村がダム事業への抗議の意思を示すため、1970年にあえて想定水没地に村役場の新庁舎を建て、その庁舎が今も渇水時に湖底から姿を現すと説明している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-sameura-wiki
+  - text: 村名「大川」は、村を貫く吉野川の大きな流れにちなむ可能性が考えられるが、合併当時の命名記録を確認できていないため類推にとどまる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r2-okawa-mlit
+  column:
+    title: 湖底に沈んだ村役場
+    text: 早明浦ダムの水が減ると、湖底から旧大川村役場の庁舎が姿を現す。Wikipedia「早明浦ダム」によれば、この庁舎は1970年、ダム計画が進むなかで村が反対の意思を示すためにあえて水没予定地に建てたものだという。ダム本体は本山町と土佐町にまたがり、固定資産税も両町に入るため、大川村には得るものがないまま中心集落が沈んだ。庁舎はその抵抗の記憶を、いまも渇水のたびに湖面へ持ち上げている。
+    sources:
+    - r2-sameura-wiki
+    - r2-sameura-water
+    - r2-okawa-mlit
+  relations:
+  - pref/39
+  unknowns:
+  - 村名「大川」の命名理由・語源は、村公式資料・専門地名辞典のいずれでも確認できなかった
+  - 「大川」が吉野川の旧称だったかどうかは裏付けが取れていない
+  - 旧村役場庁舎の建設年については資料間で表記が異なる可能性があり、本調査では確定していない
+  updated: '2026-11-13'
+- id: muni/39-大月町
+  code: '394246'
+  names:
+    ja: 大月町
+    reading: おおつきちょう
+    aliases:
+    - 大内町
+    - 月灘村
+    - 奥内村
+  user_terms:
+  - 大月町 高知
+  - おおつき 幡多郡
+  - 柏島のある町
+  - 山梨の大月市とは別の大月
+  naming_type: 合併新設（大内町と月灘村から1字ずつ取った合成地名）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県幡多郡の町。1957年（昭和32年）2月11日、大内町と月灘村が合併して発足し、「大月」は両町村名から1字ずつ取った合成地名である。後半の「月」を出した月灘村の名は、村が面する太平洋を地元で「お月灘」と通称していたことに由来すると『角川日本地名大辞典』が説明する。山梨県の大月市とは読みが同じでも別の自治体である。
+  first_attestation:
+    era: 昭和32年
+    year_western: 1957
+    document: 大内町・月灘村の合併による大月町の発足
+    note: 町名としての初出。合成元の大内町・月灘村の名はそれ以前から存在した
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、大月町の地方公共団体コードは394246である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 歴史的行政区域データセットは、大月町の有効期間の開始を1957年2月11日としている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-otsuki-geoshape
+  - text: Wikipedia「大月町」は、1957年（昭和32年）2月11日に大内町と月灘村が合併して発足したこと、「大月」は合併前の両町村の名前から一文字ずつ取った合成地名であることを説明している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-otsuki-wiki
+  - text: 大内町の前身の奥内村は1889年（明治22年）に発足し、1951年（昭和26年）11月3日に町制施行とともに大内町へ改称した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-ouchi-wiki
+  - text: Wikipedia「月灘村」は、『角川日本地名大辞典 39 高知県』p.647の記載として、月灘村の村名は村が面していた太平洋を地元で「お月灘」と通称していたことによると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-tsukinada-wiki
+  - text: 大月町公式の計画資料によれば、町は高知県の西南端に位置し、南に太平洋、西に豊後水道（宿毛湾）に面している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-otsuki-town-plan
+  column:
+    title: 「お月灘」の月が残った合成名
+    text: 「大月」は、大内町の「大」と月灘村の「月」をつないだ典型的な合成地名である。だが後半の「月」は月そのものではなく海の名から来ている。月灘村が面した太平洋は、地元で「お月灘」と呼ばれていたという。合併で村の名は消えたが、その海の通称の「月」だけが、新しい町の名に残った。
+    sources:
+    - r2-otsuki-wiki
+    - r2-tsukinada-wiki
+  relations:
+  - pref/39
+  unknowns:
+  - 1957年の合併時に他の候補名があったか、公募が行われたかなどの検討過程は確認できていない
+  - 奥内村が1951年に「大内町」へ改称した理由は確認できていない
+  updated: '2026-11-13'
+- id: muni/39-大豊町
+  code: '393444'
+  names:
+    ja: 大豊町
+    reading: おおとよちょう
+    aliases:
+    - 大豊村
+    - 豊永郷
+    - 東豊永村
+    - 西豊永村
+    - 大杉村
+    - 天坪村
+  user_terms:
+  - 大豊町
+  - おおとよ
+  - 杉の大スギの町
+  - 豊永郷
+  naming_type: 合併新設（1955年に4村が合併して発足。命名理由は未確認で、大杉の「大」と豊永の「豊」の合成という読みは類推として分離する）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県長岡郡の町。古くは豊永郷と呼ばれた地域を含み、1955年（昭和30年）に東豊永村・西豊永村・大杉村・天坪村が合併して大豊村が発足、1972年に町制施行して大豊町となった。「大豊」の命名理由を示す合併当時の記録は確認できておらず、大杉の「大」と豊永の「豊」の合成という説明は類推の域を出ない。町内には特別天然記念物の杉の大スギと国宝・豊楽寺薬師堂がある。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 東豊永村・西豊永村・大杉村・天坪村の合併による大豊村の発足
+    note: 「大豊」という自治体名としての初出。母胎となった広域地名「豊永郷」はそれ以前からあった
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、大豊町の地方公共団体コードは393444である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: Wikipedia「大豊町」は、町域が古くは「豊永郷」と呼ばれた地域を含み、1889年（明治22年）時点では東豊永村・西豊永村・東本山村・天坪村などに分かれていたと説明している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-otoyo-wiki
+  - text: 東本山村が大杉村へ改称した日は資料により食い違い、日本語版Wikipedia「大杉村」は1918年（大正7年）7月16日、中国語版Wikipedia「大豊町」は1918年6月7日としている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - r2-osugi-wiki
+    - r2-otoyo-zh
+  - text: Wikipedia「杉の大スギ」は、所在する地区名の「杉」、旧自治体の大杉村、土讃線大杉駅の名前は、いずれも八坂神社境内の巨木・杉の大スギに由来していると説明している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-sugi-wiki
+  - text: 国土交通省四国地方整備局の道の駅情報は、杉の大スギを国の特別天然記念物とし、大豊町の豊楽寺薬師堂を国宝としている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-otoyo-mlit-road
+  - text: 1955年（昭和30年）3月31日に東豊永村・西豊永村・大杉村・天坪村が合併して大豊村が発足し、1972年（昭和47年）4月1日に町制施行して大豊町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-otoyo-wiki
+    - r2-otoyo-geoshape
+  - text: 町内には重要有形民俗文化財「土佐豊永郷及び周辺地域の山村生産用具」があり、広域地名「豊永郷」の名が文化財の名称に残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-otoyo-wiki
+  - text: 「大豊」は大杉村の「大」と豊永（東豊永村・西豊永村）の「豊」を合わせた合成地名と読むのが自然だが、合併当時の命名記録を確認できていないため類推にとどまる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r2-otoyo-wiki
+  column:
+    title: 一本のスギが村の名になった
+    text: 大豊町の大杉地区には、推定樹齢3000年以上といわれる杉の大スギが立つ。この巨木の名は、地区名「杉」、土讃線の大杉駅、そして1918年に東本山村が改称した「大杉村」の村名にまで広がった。大杉村は1955年の合併で消えたが、「大」の字が「大豊」に残っているかどうかは、命名記録が未確認のため断定できない。それでも、木一本が村名と駅名の源になった例は珍しい。
+    sources:
+    - r2-sugi-wiki
+    - r2-osugi-wiki
+  relations:
+  - pref/39
+  - muni/39-本山町
+  unknowns:
+  - 「大豊」の命名理由を示す合併当時の公式記録は確認できていない
+  - 東本山村から大杉村への改称日は1918年6月7日と7月16日で資料が食い違い、未解消である
+  - 1955年の発足当時の所属郡について、資料により長岡郡・香美郡の表記が分かれており確定していない
+  updated: '2026-11-13'
+- id: muni/39-奈半利町
+  code: '393029'
+  names:
+    ja: 奈半利町
+    reading: なはりちょう
+    aliases:
+    - 奈半利村
+    - 奈半の泊
+    - 那波泊
+  user_terms:
+  - 奈半利
+  - なはり
+  - 土佐日記に出てくる港町
+  - ごめん・なはり線の終点
+  naming_type: その他（『土佐日記』にみえる古い港の名「奈半」を受け継ぐ地名とみられるが、「奈半利」という表記の成立過程は未確認）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県安芸郡の町。国土交通省の港湾事務所は、奈半利港が紀貫之の『土佐日記』に「なはのとまり」と記され、土佐と都を結ぶ海路の要所として栄えたと紹介する。この「奈半（那波）の泊」が現在の奈半利にあたるとされる。1889年に奈半利村が成立し、1916年に町制施行した。「なはり」自体の語源は確認できていない。
+  first_attestation:
+    era: 承平5年
+    year_western: 935
+    document: 『土佐日記』
+    note: 現在の奈半利に比定される「奈半の泊（那波泊）」の使用例で、「奈半利」という現在の表記そのものではない。二次資料経由の確認のため主張側ではE2として扱う
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、奈半利町の地方公共団体コードは393029である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 国土交通省高知港湾・空港整備事務所は、奈半利港について、紀貫之の「土佐日記」に“なはのとまり”と記されるなど歴史が古く、当時は土佐と都を結ぶ海路の要所として栄えたと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-nahari-mlit
+  - text: 林野庁四国森林管理局は、野根山街道が奈半利町を起点とし、北川村・室戸市の境界を経て東洋町野根に至る延べ35kmの尾根伝いの旧街道であると説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-noneyama-rinya
+  - text: 林野庁四国森林管理局は、野根山街道の起源について、養老2年（718年）頃から断崖の多い海岸回りを避け、阿波と土佐の通行路として利用されてきたといわれるとしている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-noneyama-rinya
+  - text: 1889年（明治22年）に奈半利村が成立し、1916年（大正5年）5月1日に町制施行して奈半利町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-nahari-wiki
+  - text: 国土交通省高知港湾・空港整備事務所によれば、2002年（平成14年）7月に土佐くろしお鉄道ごめん・なはり線が開通し、奈半利駅はその起点・終点となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-nahari-mlit
+  - text: 山内一豊が土佐へ入国する際、野根山街道を通って奈半利の正覚寺に立ち寄ったと伝えられている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - r2-nahari-zh
+  column:
+    title: 『土佐日記』に残る「なはのとまり」
+    text: 紀貫之が土佐国司の任を終えて帰京する航海を記した『土佐日記』には、船が「奈半の泊」に停まったことが記される。国土交通省の港湾事務所はこの港を奈半利港の古層として紹介する。現在の町名「奈半利」のうち、少なくとも「奈半」の部分は10世紀の日記にまで遡れるわけで、「利」の字がいつ加わったのかは、まだ確かめられていない。
+    sources:
+    - r2-nahari-mlit
+  relations:
+  - pref/39
+  - muni/39-東洋町
+  unknowns:
+  - 「なはり」という語自体の語源は、権威ある出典で確認できなかった
+  - 「奈半利」という漢字表記の初出と成立時期は確認できていない
+  - 奈半利川と地名「奈半利」のどちらが先かは確認できていない
+  updated: '2026-11-13'
+- id: muni/39-安田町
+  code: '393045'
+  names:
+    ja: 安田町
+    reading: やすだちょう
+    aliases:
+    - 安田村
+    - 安田郷
+  user_terms:
+  - 安田町 高知
+  - やすだ 安芸郡
+  - ハウス園芸発祥の地
+  - 安田川の町
+  naming_type: 一部の地名（1889年の合併で核となった旧安田村の名を継承し、町制施行でもそのまま用いた）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県安芸郡の町。1889年（明治22年）に安田村・西島村・唐浜村・東島村の区域で安田村が発足し、1925年に町制施行して安田町となった。町名は合併の核となった近世以来の安田村の名の継承で、1943年には中山村を編入した。「安田」の語源や、古い安田郷との関係は専門資料で確認できていない。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による安田村の発足
+    note: 近世以来の安田村の名を継承する自治体としての初出。地名「安田」自体の文献上の初出は確認できていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、安田町の地方公共団体コードは393045である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 安田町公式の資料によれば、1889年（明治22年）の町村制施行により安田村・西島村・唐浜村・東島村の4村で安田村が発足し、1925年（大正14年）に安田町となり、1943年（昭和18年）に中山村を編入して現在の姿となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-yasuda-official
+  - text: 歴史的行政区域データセットは、安田村の有効期間を1889年4月1日から1925年2月11日としており、町制施行の日付と整合する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-yasuda-geoshape
+  - text: 安田町公式の資料によれば、町域は馬路村から流れる安田川に沿って広がり、土佐湾に近い安田川下流部はハウス園芸発祥の地とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-yasuda-official
+  - text: 中国語版Wikipedia「安田町」は、大化改新の頃に安田地区と隣の馬路村は同じ安田郷に属し、江戸時代に馬路郷・中山郷・安田郷へ分かれたと伝えているが、原典の提示は確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - r2-yasuda-zh
+  - text: 1889年の安田村は、同名の近世以来の安田村に西島村・唐浜村・東島村を合わせた区域で発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-akigun-wiki
+  column:
+    title: 川の名か、村の名か
+    text: 安田町は安田川の中下流に沿って細長く広がり、下流の平地はハウス園芸発祥の地とされる。町名と川名は同じ「安田」だが、どちらが先に付いた名なのかは分かっていない。はっきりしているのは、1889年の合併で新しい名を作らず、核になった旧安田村の名をそのまま村名・町名に引き継いだという継承の形だけである。
+    sources:
+    - r2-yasuda-official
+  relations:
+  - pref/39
+  unknowns:
+  - 「安田」の語源（荘園名・人名・地形などとの関係）は専門資料で確認できなかった
+  - 古代の安田郷の実在と範囲は、中国語版Wikipediaの紹介のみで、一次資料・専門辞典による裏付けが取れていない
+  - 安田川と地名「安田」のどちらが先かは確認できていない
   updated: '2026-11-13'
 - id: muni/39-安芸市
   code: '392031'
@@ -556,6 +1562,664 @@ records:
   - 葦説と藻屑説のいずれを採るべきか、専門辞典の判断は本バッチでは確認できなかった
   - 「宿毛」の字が当てられた時期・経緯は未確認
   updated: '2026-11-13'
+- id: muni/39-日高村
+  code: '394106'
+  names:
+    ja: 日高村
+    reading: ひだかむら
+    aliases:
+    - 日下村
+    - 能津村
+  user_terms:
+  - 日高村 高知
+  - ひだかむら 高岡郡
+  - 日本の高知のほどよい田舎
+  - 北海道や和歌山の日高とは別の日高
+  naming_type: 合併新設（「日本」と「高知県」から1文字ずつ取った合成地名とされる）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県高岡郡の村。1954年（昭和29年）10月15日、日下村・能津村と加茂村の一部が合併して発足した。村名は「日本」と「高知県」から1文字ずつ取った合成とWikipediaが説明し、村のキャッチフレーズ「日本の高知のほどよい田舎」もこれと響き合う。ただしこの由来の公式史誌での裏付けはまだ取れていない。古代の日高郡に由来する和歌山県日高町や、日高国に由来する北海道日高町とは、読みが同じでも別の自治体で、系譜も異なる。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 日下村・能津村・加茂村一部の合併による日高村の発足
+    note: 村名としての初出。合併前の中心地名は日下（くさか）だった
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、日高村の地方公共団体コードは394106である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 歴史的行政区域データセットは、日高村の有効期間の開始を1954年10月15日としている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-hidaka-geoshape
+  - text: 日高村役場の発表資料も、昭和29年（1954年）10月15日に日下村・能津村・加茂村の一部が合併して日高村となったことを記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-hidaka-slide
+  - text: Wikipedia「日高村」は、村名は「日本」と「高知県」から1文字ずつ取ったことに由来すると説明しているが、本調査では村公式史誌による裏付けは確認できていない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-hidaka-wiki
+  - text: 1955年（昭和30年）2月10日に加茂村の一部（大字入沢）が日高村へ編入された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-hidaka-wiki
+  - text: 合併前の中心地だった日下村は、近世以来の日下村が1889年（明治22年）に単独で自治体を形成したもので、現在の日高村の中心部にあたる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-kusaka-wiki
+  - text: 村域は仁淀川とその支流・日下川の流域にあり、中央の盆地を日下川が流れている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-hidaka-wiki
+  - text: 本村の「日高」は1954年の合併で作られた合成名と説明されており、古代の日高郡や明治新設の日高国といった古い行政名を直接継いだ名ではないとみられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r2-hidaka-wiki
+  column:
+    title: 国と県から一文字ずつ
+    text: 「日高」という名は全国にあり、和歌山は古代の日高郡、北海道は明治に置かれた日高国に由来する。ところが高知の日高村の名は、1954年の合併で「日本」の「日」と「高知県」の「高」を組み合わせた新造語だという。村のキャッチフレーズ「日本の高知のほどよい田舎」は、この命名をそのまま広げた言葉である。古そうに見えて、実は戦後の合併が生んだ若い名前なのである。
+    sources:
+    - r2-hidaka-wiki
+    - r2-hidaka-slide
+  relations:
+  - pref/39
+  - muni/01-日高町
+  - muni/30-日高町
+  unknowns:
+  - 村名が「日本」と「高知県」から1文字ずつ取った合成であることは、現時点ではWikipediaの説明のみが根拠で、村史など公式史誌での裏付けは未確認である
+  - 「日下村の『日』と高岡郡の『高』」という見かけ上の別解釈についても、検証できる資料は見つかっていない
+  - 旧中心地名「日下（くさか）」の語源は本調査では確認できていない
+  updated: '2026-11-13'
+- id: muni/39-本山町
+  code: '393410'
+  names:
+    ja: 本山町
+    reading: もとやまちょう
+    aliases:
+    - 本山郷
+    - 西本山村
+    - 本山村
+    - 吉野村
+  user_terms:
+  - 本山町 高知
+  - もとやま 長岡郡
+  - 本山氏の本拠
+  - 早明浦ダムのある町
+  naming_type: 一部の地名（中世の本山郷以来の地名を、1890年の村名・町名として継承した）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県長岡郡の町。町域は中世の土佐国長岡郡本山郷にあたり、土佐七雄の一つ本山氏の本拠だった。『土佐物語』は、八木伊典が本山に本拠を移して本山と名乗りだしたと伝え、地名が名字に先行する形を示す。1889年に西本山村として発足し、1890年に本山村へ改称、1955年に吉野村と合併して現在の本山町となった。早明浦ダムは町域にかかるが、ダムは地名の由来とは別の層である。
+  first_attestation:
+    era: 明治23年
+    year_western: 1890
+    document: 西本山村から本山村への改称
+    note: 自治体名としての初出。本山郷という地名は中世に遡るが、その文献上の初出は確認できていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、本山町の地方公共団体コードは393410である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: Wikipedia「本山氏」は、本山氏が土佐七雄の一つであり、『土佐物語』には八木伊典が本山に来て居住し、その子孫の代に本姓を改めて本山と号したという趣旨の記述があると紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-motoyamashi-wiki
+  - text: 1889年（明治22年）4月1日に本山村・大石村・吉延村など12村の区域で西本山村が発足し、1890年（明治23年）6月1日に本山村へ改称した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-motoyama-wiki
+  - text: 本山村の町制施行の年は資料により食い違い、歴史的行政区域データセットは本山の有効期間の開始を1909年6月1日とする一方、日本語版Wikipedia「本山町」は1910年6月1日の町制施行としている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - r2-motoyama-geoshape
+    - r2-motoyama-wiki
+  - text: 農林水産省の取組事例資料は、昭和30年（1955年）4月20日に旧本山町と吉野村が合併して現在の本山町になったことを記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-motoyama-maff
+  - text: 水資源機構のパンフレットによれば、早明浦ダムは本山町と土佐町にまたがり、管理開始は1975年（昭和50年）である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-sameura-water
+  - text: 町名「本山」は本山郷以来の地名の継承であり、本山氏の名字の方が地名から生まれたという伝承の順序が示されている
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r2-motoyamashi-wiki
+  column:
+    title: 地名が名字になった本山氏
+    text: 本山氏は土佐七雄の随一ともいわれた戦国の豪族だが、その名は自分たちで作った号ではなく、本拠の地名から取ったものと伝えられる。『土佐物語』によれば、もと八木氏だった一族が本山に移り住み、三代のうちに本山と名乗るようになったという。町名の層を追うと、早明浦ダムよりもずっと深いところに、この中世の郷と豪族の名が横たわっている。
+    sources:
+    - r2-motoyamashi-wiki
+    - r2-motoyama-wiki
+  relations:
+  - pref/39
+  - muni/39-大豊町
+  unknowns:
+  - 「本山」という地名自体の語源（山の形状・信仰などとの関係）は確認できていない
+  - 本山村の町制施行年は1909年と1910年で資料が食い違い、公式史誌による確定はできていない
+  - 本山郷の文献上の初出は確認できていない
+  updated: '2026-11-13'
+- id: muni/39-東洋町
+  code: '393011'
+  names:
+    ja: 東洋町
+    reading: とうようちょう
+    aliases:
+    - 甲浦町
+    - 野根町
+    - 甲浦村
+    - 野根村
+  user_terms:
+  - 東洋町 高知
+  - とうよう 高知県最東端
+  - 高知の東玄関
+  - 生見サーフィンビーチの町
+  naming_type: 合併新設（1959年に甲浦町・野根町が合併して新設された名。命名理由は未確認）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県安芸郡の町。1959年（昭和34年）7月1日、甲浦町と野根町が新市町村建設促進法に基づく合併で発足した。高知県の最東端にあり、太平洋に面して「高知県の東玄関」と位置づけられる。「東洋」という町名の命名理由を示す公式記録は確認できておらず、県最東端の位置や太平洋への志向と結びつける説明は類推にとどまる。
+  first_attestation:
+    era: 昭和34年
+    year_western: 1959
+    document: 甲浦町・野根町の合併による東洋町の発足
+    note: 町名としての初出。「東洋」という語自体は古くからある普通名詞である
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、東洋町の地方公共団体コードは393011である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 経済産業省中小企業庁の東洋町商工会の計画によれば、東洋町は昭和34年（1959年）7月1日に新市町村建設促進法に基づき、旧甲浦町と旧野根町の合併により発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-toyo-meti
+    - r2-toyo-geoshape
+  - text: 同じ計画は、東洋町が高知県の最東端に位置し、太平洋を一辺とする町域を持ち、「高知県の東玄関」として発展してきたと位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-toyo-meti
+  - text: 1889年（明治22年）時点の現在の町域は甲浦村と野根村に分かれており、甲浦村は1916年に、野根村は1938年にそれぞれ町制を施行した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-toyo-zh
+  - text: 甲浦の読みは「かんのうら」で、甲浦町は1959年に野根町と合併して東洋町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-kannoura-wiki
+  - text: 林野庁の解説では、野根山街道は奈半利町と東洋町野根を尾根伝いに結ぶ旧街道であり、東洋町の野根はその東の端にあたる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-noneyama-rinya
+  - text: 国立国会図書館のNDLサーチには、2025年刊行の郷土史資料『東洋町郷土史必携』が登録されているが、本調査では本文を確認できていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-toyo-ndl
+  - text: 「東洋」は、太平洋に面する県最東端の位置と「東の海」を思わせる語感にちなむ新造名と推測されるが、合併当時の命名記録を確認できていないため類推にとどまる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r2-toyo-meti
+  column:
+    title: 県の東玄関に置かれた新造名
+    text: 甲浦と野根という、港と街道の古い地名を持つ二つの町が合併したとき、どちらか一方の名も、両名の合成でもない「東洋」という新しい名が選ばれた。町は高知県の最東端で太平洋に面し、「高知県の東玄関」と呼ばれる。名の由来の記録は残っていないが、東の海に開けた玄関口という町の自己像と、「東洋」という言葉の響きはよく重なる。ただしこれは推測であり、断定はできない。
+    sources:
+    - r2-toyo-meti
+    - r2-toyo-geoshape
+  relations:
+  - pref/39
+  - muni/39-奈半利町
+  unknowns:
+  - 「東洋」という町名の命名理由（公募の有無、候補名、選定経過）は公式資料で確認できなかった
+  - 甲浦（かんのうら）と野根それぞれの地名の語源は本調査では確認できていない
+  updated: '2026-11-13'
+- id: muni/39-檮原町
+  code: '394050'
+  names:
+    ja: 檮原町
+    reading: ゆすはらちょう
+    aliases:
+    - 梼原町
+    - 檮原村
+    - 西津野村
+    - 檮原荘
+  user_terms:
+  - 檮原町
+  - ゆすはら
+  - 梼原（略字表記）
+  - 龍馬脱藩の道の町
+  - 雲の上の町
+  naming_type: 一部の地名（1912年の改称で、構成村の一つだった近世以来の檮原村の名を採用した）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県高岡郡の町。正式表記は「檮原」で、「梼原」は略式表記である。1889年（明治22年）に6村の区域で西津野村として発足し、1912年に構成村の一つだった檮原村の名を取って檮原村へ改称、1966年に町制施行した。中世には津野氏の拠点の一つ・檮原荘があったとされる。「ゆすはら」の語源は権威ある出典で確認できていない。幕末に坂本龍馬が脱藩で通った道の層は、この古い地名の層とは別のものである。
+  first_attestation:
+    era: 明治45年
+    year_western: 1912
+    document: 西津野村から檮原村への改称
+    note: 自治体名として「檮原」を採用した時点。構成村の檮原村や檮原荘の名はそれ以前からあったが、文献上の初出は確認できていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、檮原町の地方公共団体コードは394050である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: Wikipedia「檮原町」によれば、町の正式表記は「檮原」で、「梼原」は略式表記である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-yusuhara-wiki
+  - text: 1889年（明治22年）4月1日、四万川村・越知面村・檮原村・初瀬村・中平村・松原村の区域をもって西津野村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-yusuhara-wiki
+  - text: 1912年（明治45年）7月20日に西津野村は檮原村へ改称し、1966年（昭和41年）11月3日に町制施行して檮原町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-yusuhara-wiki
+    - r2-yusuhara-kochinews
+  - text: 1912年の改称で村名に採用された「檮原」は、1889年の発足時に構成村の一つだった近世以来の檮原村の名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-yusuhara-wiki
+  - text: Wikipedia「津野氏」は、津野氏が中世に津野荘・津野新荘とともに檮原荘を拠点の一つとしたと説明している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-tsuno-clan-wiki
+  - text: 津野氏の家伝では、藤原経高が延喜13年（913年）に土佐へ入り津野山を開拓して津野と名乗ったと伝えるが、Wikipedia「津野氏」自身が諸説があり断定できないと注記している
+    kind: legend
+    level: E5
+    status: contested
+    sources:
+    - r2-tsuno-clan-wiki
+  - text: Japan Searchの資料によれば、文久2年（1862年）に坂本龍馬は檮原から隣国・伊予へ脱藩し、地元の那須俊平・信吾父子に案内されて国境を越えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-yusuhara-jpsearch
+  column:
+    title: 脱藩の道の下にある古い地名
+    text: 檮原といえば坂本龍馬の脱藩の道が有名だが、地名の層はもっと古い。中世、この地は津野氏の檮原荘とされ、近世の檮原村の名が1912年の改称で村全体の名になった。龍馬が国境を越えたのは1862年で、地名の歴史から見れば新しい出来事である。有名な幕末の層と、その下にある荘園・村の層を分けて見ることが、この町の名前を理解する近道になる。
+    sources:
+    - r2-yusuhara-jpsearch
+    - r2-tsuno-clan-wiki
+    - r2-yusuhara-wiki
+  relations:
+  - pref/39
+  - muni/39-津野町
+  unknowns:
+  - 「ゆすはら」の語源（柞＝イスノキに結びつける説を含む）は、権威ある出典で確認できなかった
+  - 檮原荘の初出年と文献は確認できていない
+  - 1912年の改称で、構成村のうち檮原村の名が選ばれた理由の記録は確認できていない
+  updated: '2026-11-13'
+- id: muni/39-津野町
+  code: '394114'
+  names:
+    ja: 津野町
+    reading: つのちょう
+    aliases:
+    - 東津野村
+    - 葉山村
+    - 津野郷
+    - 津野山
+  user_terms:
+  - 津野町
+  - つの 高岡郡
+  - 四万十川源流の町
+  - 東津野と葉山が合併した町
+  naming_type: 合併新設（2005年に東津野村と葉山村が合併して新設された名。旧広域地名「津野」の復活とみられるが、公式の命名理由は未確認）
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県高岡郡の町。2005年（平成17年）2月1日、東津野村と葉山村が合併して発足した。「津野」は中世の津野郷・津野山に遡る広域地名で、土佐七雄の一つ津野氏の名の地でもある。ただし津野荘そのものは現在の須崎市付近に比定される説があり、現在の町域と単純に同一視はできない。2005年の合併で「津野町」と命名した公式の理由は確認できていない。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 東津野村・葉山村の合併による津野町の発足
+    note: 町名としての初出。「津野」の語自体は中世の津野郷・津野荘などに遡るが、それらの文献上の初出は確認できていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、津野町の地方公共団体コードは394114である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 津野町公式の地域公共交通計画によれば、1889年（明治22年）に上半山村・下半山村・東津野村が発足し、1956年（昭和31年）に上半山村と下半山村が合併して葉山村となり、2005年（平成17年）2月1日に葉山村と東津野村が合併して津野町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-tsuno-official
+  - text: 東津野村は1889年に船戸村・芳生野村・北川村の合併で成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-higashitsuno-wiki
+  - text: 津野町公式の計画は、葉山地域を新荘川が、東津野地域を四万十川が流れる町域の姿を記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r2-tsuno-official
+  - text: Wikipedia「津野氏」は、津野氏が土佐国高岡郡津野郷を出身地とする土佐七雄の一つで、津野荘・津野新荘・檮原荘を拠点としたと説明している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-tsuno-clan-wiki
+  - text: 津野氏の家伝では、藤原経高が延喜13年（913年）に土佐へ入り高岡郡津野山を開拓して津野と名乗ったと伝えるが、諸説があり断定できない
+    kind: legend
+    level: E5
+    status: contested
+    sources:
+    - r2-tsuno-clan-wiki
+  - text: 津野荘そのものについては、現在の須崎市吾井郷付近にあったと考える説があり、山間部の拠点は津野新荘・姫野々城とされるため、津野荘と現在の津野町域を単純に同一視することはできない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r2-tsuno-clan-wiki
+  - text: 2005年の町名「津野」は、東津野村の名と中世以来の広域地名「津野」を継ぐ復活名とみられるが、合併協議における命名理由の記録は確認できていないため類推を含む
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r2-tsuno-official
+    - r2-tsuno-clan-wiki
+  column:
+    title: 地図から消えていた広域地名の復活
+    text: 「津野」という名は、長く自治体名としては「東津野村」の中にしか残っていなかった。西側の葉山村には「津野」の字すらない。それでも2005年の合併で選ばれたのは、中世の津野郷・津野山以来の広域地名「津野」だった。ただし注意も必要で、賀茂御祖神社の荘園だった津野荘は須崎市付近に比定される説があり、山間のこの町域の拠点は津野新荘とされる。復活した名の指す範囲は、時代ごとに少しずつずれている。
+    sources:
+    - r2-tsuno-official
+    - r2-tsuno-clan-wiki
+  relations:
+  - pref/39
+  - muni/39-檮原町
+  unknowns:
+  - 2005年の合併で「津野町」と命名した公式の理由や候補名は、合併協議会資料等で確認できていない
+  - 「津野」という語自体の語源は確認できていない
+  - 津野荘・津野郷と現在の津野町域との正確な対応関係は、比定が分かれており確定していない
+  updated: '2026-11-13'
+- id: muni/39-田野町
+  code: '393037'
+  names:
+    ja: 田野町
+    reading: たのちょう
+    aliases:
+    - 田野村
+    - 田野郷
+  user_terms:
+  - たのちょう
+  - 四国で一番小さい町
+  - 奈半利川の町
+  naming_type: その他
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県東部、安芸郡の町。古くは那波郷に属し、鎌倉時代初期に定住した公家の一門が開いたと町公式資料が伝える「田野郷」の名を、町村制下の田野村が継ぎ、1920年の町制施行後もそのまま町名とした。藩政時代には魚梁瀬山系の木材の集散地として栄えた。発足以来一度も合併しておらず、四国で最も小さい町である。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 田野郷（町公式の過疎地域持続的発展計画が紹介）
+    note: 町公式資料が鎌倉時代初期の郷の成立を伝えるもので、一次史料における「田野」の初出自体は未確認
+  claims:
+  - text: 町域は古来は那波（なは）郷に属していたが、鎌倉時代初期、流罪となった公家の一門が定住し、以来奈半利川の治水を図って田野郷を開いたと、町公式の過疎地域持続的発展計画が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-tano-town-plan
+  - text: 町名は、中世に開かれたと伝える郷名「田野郷」を町村制下の田野村が継承し、町制施行後もそのまま用いたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-tano-town-plan
+    - r3-tano-100th
+  - text: 藩政時代中期ごろから、奥地の魚梁瀬山系を中心に産出される木材の唯一の集散地となり、高知東部地域の経済の中心地として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-tano-town-plan
+  - text: 町村制の施行によって田野村として発足し（町公式年表は1888年・村制公布の年に置く）、1920年（大正9年）5月1日に町制を施行して田野町に改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-tano-100th
+    - r3-tano-geoshape
+  - text: 発足以来一度も合併しておらず、面積は四国の市町村で最も小さい
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-tano-wiki
+  - text: 宮崎県宮崎市の田野町（2006年に宮崎市に編入された旧田野町）と姉妹都市・提携都市の関係にある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-tano-wiki
+  - text: 総務省の地方公共団体コードは393037である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 同名のまち同士の縁
+    text: 宮崎県の宮崎市にも「田野町」がある。かつては宮崎郡田野町という独立した町で、2006年に宮崎市に編入された。漢字も読みも同じこの二つの田野町は姉妹都市・提携都市の関係を結んでいる。四国で最も小さい田野町は、町村制の発足以来一度も合併することなく区域を保ち、2020年には町制施行100周年を迎えた。小さいからこそ、同名の遠くのまちとの縁が際立つ。
+    sources:
+    - r3-tano-wiki
+    - r3-tano-100th
+  relations:
+  - pref/39
+  - muni/39-馬路村
+  unknowns:
+  - 「田野」という地名の語源を説明する公的・専門資料は確認できなかった
+  - 田野郷の成立を伝える一次史料の特定はできていない
+  updated: '2026-11-13'
+- id: muni/39-芸西村
+  code: '393070'
+  names:
+    ja: 芸西村
+    reading: げいせいむら
+    aliases:
+    - 和食村
+    - 馬ノ上村
+    - 西分村
+  user_terms:
+  - げいせいむら
+  - 芸西天文台の村
+  - 小惑星ゲイセイの村
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県東部、安芸郡の村。1954年に和食村・馬ノ上村・西分村の新設合併で発足した。「芸西」は合併時に生まれた新しい村名で、それ以前にこの地名は存在しない。命名理由を明記した公的・専門資料は確認できておらず、安芸郡の西部に位置することからの命名と推測されるにとどまる。
+  first_attestation:
+    era: 昭和時代
+    year_western: 1954
+    document: 3村の新設合併による新村名「芸西村」
+    note: 合併で生まれた新地名であり、それ以前の「芸西」の用例は確認できない
+  claims:
+  - text: 1954年（昭和29年）7月20日、和食村・馬ノ上村・西分村が新設合併して芸西村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-geisei-geoshape
+    - r3-geisei-wiki
+  - text: 1955年（昭和30年）4月1日、香美郡東川村の一部（大字久重山・道家・国光）を編入し、現在の村域となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-geisei-wiki
+  - text: 村名「芸西」は1954年の合併で新たに作られた地名で、安芸郡の西部に位置することから「芸（安芸）」と「西」を組み合わせたものと推測されるが、命名理由を記した公的・専門資料は確認できていない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r3-geisei-wiki
+  - text: 小惑星（2571）ゲイセイは、本村にある天文台で発見されたことにちなんで命名された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-geisei-wiki
+  - text: 初代村長の岡村雅夫は、旧西分村の官選村長時代（1946年）から数えて1996年まで、50年間にわたり村長職にあった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-geisei-wiki
+  - text: 総務省の地方公共団体コードは393070である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 小惑星になった村の名
+    text: 芸西村の名は、空にも刻まれている。小惑星（2571）ゲイセイは、本村の芸西天文台で発見された小惑星で、発見地である村にちなんで「ゲイセイ」と命名された。1954年の合併で生まれたまだ新しい村名が、天文学の命名によって世界に知られる形になった例である。村はまた、初代村長が前身の村長時代から数えて50年間村長を務めたことでも知られる。
+    sources:
+    - r3-geisei-wiki
+  relations:
+  - pref/39
+  unknowns:
+  - 村名「芸西」の正式な選定経緯・命名理由（『芸西村史』等の村史資料での確認が必要）
+  updated: '2026-11-13'
+- id: muni/39-越知町
+  code: '394033'
+  names:
+    ja: 越知町
+    reading: おちちょう
+    aliases:
+    - 越知村
+  user_terms:
+  - おちちょう
+  - 仁淀川の町
+  - 安徳天皇伝説の町
+  - 横倉山の町
+  naming_type: その他
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県中部、高岡郡の町で、仁淀川中流域の越知盆地に位置する。近世の村名「越知村」を継承し、1889年に越知村として発足、1900年に町制施行した。1954年に大桐村・横畠村と合併して改めて越知町となり、明治村を編入した。「越知」の語源は公的・専門資料では確認できていない。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 旧高旧領取調帳にみえる越知村（二次資料経由の確認）
+    note: 近世には越知村が存在した。中世以前の初出は未確認
+  claims:
+  - text: 近世には高岡郡に越知村が存在し、1889年（明治22年）4月1日に越知村・野老山村の区域をもって越知村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-takaoka-gun-wiki
+    - r3-ochi-wiki
+  - text: 1900年（明治33年）6月7日に町制を施行して越知町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-ochi-wiki
+  - text: 1954年（昭和29年）3月20日に越知町・大桐村・吾川郡横畠村が合併して改めて越知町が発足し、同年7月20日に吾川郡明治村を編入した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-ochi-wiki
+  - text: 町は仁淀川中流域の越知盆地に位置し、清流・仁淀川を町の資源とする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-ochi-meti
+  - text: 「越知」という地名の語源を説明する公的・専門資料は確認できておらず、由来は未詳である
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - r3-ochi-wiki
+  - text: 源平合戦の後、安徳天皇がこの地へ逃れてきたという伝説が町内に残り、横倉山の湧水「安徳水」は天皇が飲んだ水と伝えられる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - r3-ochi-wiki
+  - text: 総務省の地方公共団体コードは394033である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 安徳天皇伝説と横倉山
+    text: 越知町には、壇ノ浦で入水したはずの安徳天皇が実は生き延びてこの地に逃れてきた、という伝説が残る。横倉山の湧水「安徳水」は天皇が喉を潤した水と伝えられ、平家の落人伝説の多い四国山地らしい物語である。横倉山はまた、植物学者・牧野富太郎が調査に通った山としても知られ、越知町は伝説と植物の山を町の顔にしている。
+    sources:
+    - r3-ochi-wiki
+  relations:
+  - pref/39
+  unknowns:
+  - 「越知」の語源（『日本歴史地名大系』高知県巻の越知村の項などの専門資料での確認が必要）
+  - 中世以前の「越知」の初出
+  updated: '2026-11-13'
 - id: muni/39-須崎市
   code: '392065'
   names:
@@ -775,6 +2439,83 @@ records:
   - 「鏡」が郡名となった経緯は、香美市広報自身も推測（「ではないかと考えられる」）としており、同時代の記録では確認できていない
   - 郡名と郡司を務めた物部鏡連（氏）の先後関係は、香美市広報も不明とする
   updated: '2026-11-13'
+- id: muni/39-馬路村
+  code: '393061'
+  names:
+    ja: 馬路村
+    reading: うまじむら
+    aliases:
+    - 魚梁瀬村
+  user_terms:
+  - うまじむら
+  - ゆずの村
+  - 魚梁瀬杉の村
+  - ごっくん馬路村
+  naming_type: その他
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県東部、安芸郡の村で「うまじ」と読む。藩政時代以降、馬路村と魚梁瀬村に分かれていた両村が1889年に合併して発足し、以来区域は変わっていない。村名は近世村「馬路」の継承で、その語源には「馬でしか行けない山道」に由来するとも言われるが確定していない。村域の96%が山林で、魚梁瀬杉とユズの村として知られる。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 旧高旧領取調帳にみえる馬路村（二次資料経由の確認）
+    note: 近世の村名としての確認であり、中世以前の初出は未確認
+  claims:
+  - text: 村は馬路・魚梁瀬の二つの大字からなり、藩政時代以降は馬路・魚梁瀬の両村に分かれていたが、明治22年（1889年）に馬路村として発足し、現在に至っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-umaji-town-stat
+  - text: 村域の96パーセントが山林で、古来より杉の産地として知られ、特に魚梁瀬の千本杉は美林として有名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-umaji-town-stat
+  - text: 魚梁瀬杉は江戸時代に土佐藩の御留山として保護された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-umaji-wiki
+  - text: 1964年の魚梁瀬ダム建設に伴い魚梁瀬集落は移転し、1965年のダム供用開始で旧魚梁瀬地区は水没した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-umaji-wiki
+  - text: 村名「馬路」は、曲がりくねった山道を馬でしか行くことができなかったことに由来するとも言われるが、確定的な語源は確認できていない
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - r3-umaji-shokubunka
+  - text: 平家の落人が柚子の木を植えたという伝説が伝えられており、村のユズ栽培の起源譚となっている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - r3-umaji-shokubunka
+  - text: 総務省の地方公共団体コードは393061である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: ダムに沈んだ魚梁瀬と森林鉄道
+    text: 馬路村のもう一つの顔が魚梁瀬である。千本杉で知られた旧魚梁瀬集落は、1964年から翌年にかけての魚梁瀬ダム建設で湖底に沈み、住民は現在地へ集団移転した。かつて杉を運び出した魚梁瀬森林鉄道の遺構は、ユズとともに「ゆずと森林鉄道」として2017年に日本遺産に認定された中芸地域の物語の一部となっている。幾度かの合併の機会にも村民の意向で単独を守ってきた村である。
+    sources:
+    - r3-umaji-wiki
+    - r3-tano-100th
+  relations:
+  - pref/39
+  - muni/39-田野町
+  unknowns:
+  - 「馬路」の確定的な語源（村史・専門地名辞典での確認が必要）
+  - 中世以前の「馬路」の初出
+  updated: '2026-11-13'
 - id: muni/39-高知市
   code: '392014'
   names:
@@ -851,6 +2592,84 @@ records:
   - 「高智」の「智」が「知」に置き換わった正確な時期と経緯は今回特定できていない（県レコード pref/39 と同じ論点）
   - 「高智」が文殊菩薩の浄土にちなむとする説明は伝承的な色彩が強く、同時代資料での裏付けは確認できていない
   updated: '2026-11-13'
+- id: muni/39-黒潮町
+  code: '394289'
+  names:
+    ja: 黒潮町
+    reading: くろしおちょう
+    aliases:
+    - 大方町
+    - 佐賀町
+  user_terms:
+  - くろしおちょう
+  - 入野松原の町
+  - カツオの町
+  - 防災の町
+  naming_type: 合併新設
+  prefecture: 高知県
+  homonyms: []
+  summary: 高知県南西部、幡多郡の町。2006年3月20日に大方町と佐賀町が新設合併して発足した、平成の大合併による新町名である。町名は沖合の太平洋を北上する黒潮にちなむ命名とみられるが、選定理由を明記した公的資料は確認できていない。入野松原の海岸と、カツオ漁の旧佐賀町域を擁する。
+  first_attestation:
+    era: 平成時代
+    year_western: 2006
+    document: 大方町・佐賀町の新設合併による新町名「黒潮町」
+    note: 合併で生まれた新地名であり、それ以前の自治体名としての用例はない
+  claims:
+  - text: 2006年（平成18年）3月20日、幡多郡の大方町と佐賀町が新設合併して黒潮町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r3-kuroshio-geoshape
+    - r3-kuroshio-soumu-gappei
+  - text: 旧佐賀町は1889年の佐賀村に始まり1940年に町制を施行した町で、旧大方町は1943年の合併で生まれた大方村が1956年に白田川村を合わせて町制を施行した町である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-kuroshio-wiki
+  - text: 町名「黒潮」は、町の沖合の太平洋を北上する黒潮（日本海流）にちなんで命名されたものとみられるが、命名理由を明記した公的資料は確認できていない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - r3-kuroshio-wiki
+  - text: 町役場は旧大方町域の入野に置かれ、入野海岸・入野松原は国の名勝に指定されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-kuroshio-wiki
+  - text: 旧佐賀町域はカツオ漁で知られる漁業の地区である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-kuroshio-wiki
+  - text: 南海トラフ地震では町内海岸の最大津波高が県内最大級と想定され、防災対策の先進地として2018年6月に役場本庁舎が高台へ移転した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r3-kuroshio-wiki
+  - text: 総務省の地方公共団体コードは394289である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 最大級の津波想定と向き合う町
+    text: 黒潮町は、2012年の内閣府想定で町内の最大津波高が34メートルを超えるとされ、全国でも最大級の想定が示された町として知られるようになった。町は「犠牲者ゼロ」を目標に防災対策を進め、2018年には役場本庁舎を高台へ移転した。黒潮という名が象徴する太平洋の恵みと、その太平洋がもたらす脅威の双方と向き合う町である。
+    sources:
+    - r3-kuroshio-wiki
+    - r3-kuroshio-tadotsu
+  relations:
+  - pref/39
+  unknowns:
+  - 町名「黒潮」の正式な選定経緯・命名理由を明記した公的資料は確認できなかった
+  - 旧大方町の前身の一つとされる村の表記（七里村か七郷村か）に資料間で揺れがあり未確認
+  updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
     label: 総務省「地方公共団体コード一覧」
@@ -908,15 +2727,111 @@ sources:
   q6-tosa-uub:
     label: 都道府県市区町村「土佐市（1959年〜）市区町村変遷情報」（高岡町の合併と市制・改称の系譜）
     url: https://uub.jp/upd/c/2521.html
+  r1-ino-gappei-minutes:
+    label: いの町公式サイト掲載「第6回伊野町・吾北村・本川村合併協議会会議録」（2003年6月27日。会長挨拶に、町民・村民アンケートを経て新しい町の名前が平仮名で「いの町」と決まったことが記録されている）
+    url: https://www.town.ino.kochi.jp/igh/pdf/kiroku06.pdf
+  r1-ino-kotobank-nipponika:
+    label: コトバンク「伊野」（小学館『日本大百科全書（ニッポニカ）』の本文。旧伊野町が1895年に町制を施行したこと、中心地の伊野地区は製紙の町で藩政時代に御用紙漉き地に指定され発展したこと）
+    url: https://kotobank.jp/word/%E4%BC%8A%E9%87%8E-31918
+  r1-ino-kotobank-taikei:
+    label: コトバンク「伊野村」（平凡社『日本歴史地名大系』の本文。古代は『和名類聚抄』の大野郷の地に含まれたと考えられること、元弘3年（1333）の熊野那智大社文書に「いのとの」と見えること、天正16年（1588）の地検帳に伊野村が見えること）
+    url: https://kotobank.jp/word/%E4%BC%8A%E9%87%8E%E6%9D%91-3095570
+  r1-ino-uub:
+    label: 市区町村変遷情報データベース「いの町（高知県吾川郡）」（2004年10月1日に本川村・伊野町・吾北村が新設合併していの町が生まれた変遷、旧伊野町が1954年に宇治村・川内村・八田村と合併した系譜）
+    url: https://uub.jp/upd/c/572.html
+  r1-ino-wiki:
+    label: Wikipedia「いの町」（2004年の合併で現在の平仮名表記になったこと、町章が旧伊野町章＝「いの」の文字を図案化したものを継承していること）
+    url: https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%AE%E7%94%BA
   r1-jlis-kochi:
     label: 地方公共団体情報システム機構（J-LIS）「高知県内市町村」（団体コード一覧）
     url: https://www.j-lis.go.jp/spd/code-address/shikoku/cms_16014186.html
+  r1-kitagawa-folklore:
+    label: 地名の由来解説サイト「『北川』の地名の由来」（安芸郡北川村の「北川」について、キダ（崩壊地形）とカハ（川）の転で「崖の発達した川」の意かとする説を紹介）
+    url: http://folklore2017.com/timei990/992988.htm
+  r1-kitagawa-kotobank-taikei:
+    label: コトバンク「北川村」（平凡社『日本歴史地名大系』の本文。安芸郡北川村について、寛治6年（1092）の奥書のある妙楽寺文書に北川郷の四至が記されるが年号には疑問も残ること、烏ヶ森に城を築いた北川氏が室町時代に一条氏に属し北川郷などを領していたと『参考土佐軍記』が記すこと）
+    url: http://kotobank.jp/word/%E5%8C%97%E5%B7%9D%E6%9D%91-50859
+  r1-kitagawa-uub:
+    label: 市区町村変遷情報データベース「北川村（高知県安芸郡）」（1889年4月1日の市制町村制施行で北川村が生まれ、以来続いている自治体であること）
+    url: https://uub.jp/upd/c/16858.html
+  r1-kitagawa-vill-hurusato:
+    label: 北川村公式サイト「ふるさときたがわ寄附金」（中岡慎太郎の生誕地であること、延喜12年に始まったと伝えられる「お弓まつり」が受け継がれていること）
+    url: https://www.kitagawamura.jp/hurusato
+  r1-kitagawa-vill-yoran:
+    label: 北川村「村勢要覧」（村公式資料。ゆずは本村出身の幕末の志士・中岡慎太郎が庄屋時代に生産を奨励したことが始まりといわれていること、かつて県内一のゆず産地だったこと）
+    url: https://www.kitagawamura.jp/file/kitagawa_yoran.pdf
+  r1-mihara-kochischool:
+    label: 高知県の学校資料サイト「三原村」（1889年に来栖野村・上長谷村・下長谷村・成山村・狼内村・芳井村・柚ノ木村・広野村・亀ノ川村・下切村の10村が合併して三原村が誕生し、以来行政区分は変わらないこと）
+    url: http://kochischool.net/mihara.htm
+  r1-mihara-kotobank-taikei:
+    label: コトバンク「三原郷」（平凡社『日本歴史地名大系』の本文。江戸時代に現三原村域の村々を総称して三原郷とし、柚ノ木村を「三原村」とも称して三原郷本村としたこと、天正18年（1590）の三原郷地検帳に郷内各村が見えること）
+    url: https://kotobank.jp/word/%E4%B8%89%E5%8E%9F%E9%83%B7-3095908
+  r1-mihara-maff:
+    label: 農林水産省「農林水産大臣賞受賞 一般社団法人三原村集落活動センターやまびこ」資料（地域の沿革として、古くは三原郷と呼ばれ明治22年の町村制施行により三原村となったこと、三原米で知られる米どころであること）
+    url: https://www.maff.go.jp/j/nousin/noukei/binosato/b_maturi/attach/pdf/260216-10.pdf
+  r1-mihara-vill-history:
+    label: 三原村公式サイト「歴史と民話」（戦国期に敷地氏が三原郷の領主となったと伝えること、御霊神社にまつわる椿姫伝説を収録）
+    url: https://www.vill.mihara.kochi.jp/life/detail.php?hdnKey=125
+  r1-mihara-vill-official:
+    label: 三原村公式サイト「三原村のご紹介」（古くは「三原郷」と呼ばれ、明治22年の町村制施行により「三原村」となったこと、村の特産として三原米・土佐硯・ゆず・どぶろく・お茶を挙げる）
+    url: https://www.vill.mihara.kochi.jp/life/list.php?hdnKeyword=%E4%B8%89%E5%8E%9F%E6%9D%91%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B
+  r1-nakatosa-kochischool:
+    label: 高知県の学校資料サイト「中土佐町」（町名は「地図で見ると大体土佐の中央にあるので、難しく考えずにこれにせえ」ということで中土佐町になったという話、上ノ加江と土佐清水市の下ノ加江は無関係で下ノ加江は下茅村の訛りであるという指摘）
+    url: http://kochischool.net/nakatosa.html
+  r1-nakatosa-kotobank-sekai:
+    label: コトバンク「中土佐」（平凡社『改訂新版 世界大百科事典』の本文。2006年に旧中土佐町と大野見村が合体して成立したこと、中心集落の久礼はかつてカツオ漁港として栄えたこと）
+    url: https://kotobank.jp/word/%E4%B8%AD%E5%9C%9F%E4%BD%90-3133921
+  r1-nakatosa-uub:
+    label: 市区町村変遷情報データベース「中土佐町（高知県高岡郡）」（1957年7月1日に久礼町・上ノ加江町が合併して中土佐町が生まれ、2006年1月1日に大野見村と合併して現在の中土佐町になった変遷）
+    url: https://uub.jp/upd/c/2788.html
+  r1-niyodogawa-kotobank-agawa:
+    label: コトバンク「吾川郡」（平凡社『日本歴史地名大系』の本文。郡名の由来について安養寺禾麻呂『土佐幽考』を引き、仁淀川の古名を贄殿川、別名を吾川と称したことに基づくという説を紹介）
+    url: https://kotobank.jp/word/%E5%90%BE%E5%B7%9D%E9%83%A1-3095541
+  r1-niyodogawa-town-river:
+    label: 仁淀川町公式サイト「仁淀川」（愛媛県側では面河川と呼ばれ高知県の仁淀川町へ入って仁淀川と名を変えること、水質の青さが「仁淀ブルー」と呼ばれることを紹介）
+    url: https://www.town.niyodogawa.lg.jp/life/life_dtl.php?hdnKey=968
+  r1-niyodogawa-uub:
+    label: 市区町村変遷情報データベース「仁淀川町（高知県吾川郡）」（2005年8月1日に池川町・吾川村・仁淀村が新設合併して仁淀川町が生まれた変遷、合併協議会の名称が「西仁淀合併協議会」であったこと、旧仁淀村が1954年に長者村・別府村の合併で生まれた系譜）
+    url: https://uub.jp/upd/c/1124.html
+  r1-niyodogawa-wiki-river:
+    label: Wikipedia「仁淀川」（川名の由来は諸説あり定かではないこと、有力説として『延喜式』に貢物として登場する「贄殿川」から転じたとする説、高岳親王が淀川に似ているので「仁淀」と名付けたという言い伝え）
+    url: https://ja.wikipedia.org/wiki/%E4%BB%81%E6%B7%80%E5%B7%9D
+  r1-sakawa-gogen:
+    label: 語源由来辞典「佐川町」（川が北へ向かって流れるため「逆川（サカガワ）」が転じて「佐川」になったという説と、「狭い谷間の川」の意の「狭川（サカハ）」に由来する説を紹介。いずれも典拠の明示はない）
+    url: https://gogen-yurai.jp/sakawa-cho-kochi
+  r1-sakawa-kotobank-nipponika:
+    label: コトバンク「佐川」（小学館『日本大百科全書（ニッポニカ）』の本文。1900年の町制施行と1954年の合併、近世は土佐藩家老深尾氏の小城下町だったこと、田中光顕・牧野富太郎の出身地であること）
+    url: https://kotobank.jp/word/%E4%BD%90%E5%B7%9D-3133687
+  r1-sakawa-kotobank-taikei-cho:
+    label: コトバンク「佐川町」（平凡社『日本歴史地名大系』の本文。町の中央部を仁淀川の支流・柳瀬川が北流していること、佐川駅付近は土佐藩筆頭家老深尾氏の土居下町として栄えたこと）
+    url: http://kotobank.jp/word/%E4%BD%90%E5%B7%9D%E7%94%BA-68599
+  r1-sakawa-kotobank-taikei-go:
+    label: コトバンク「佐川郷」（平凡社『日本歴史地名大系』の本文。佐川盆地を中心とした中世の郷で、天正18年（1590）の佐川郷地検帳などが郷名を明記した唯一の現存史料であること、この地に佐川氏が興ったこと）
+    url: https://kotobank.jp/word/%E4%BD%90%E5%B7%9D%E9%83%B7-3095618
+  r1-sakawa-town-official:
+    label: 佐川町公式サイト「地勢・概要」（明治22年に佐川村などができ、明治33年に佐川村が町制を施行、昭和29年に1町3村が合併し、昭和30年に加茂村の一部を合併したという町の沿革。町章の説明では3本の線で川を表し「さ川」を図案化したと明記）
+    url: https://www.town.sakawa.lg.jp/life/dtl.php?hdnKey=693
   r1-shimanto-chimei:
     label: 四万十町地名辞典「四万十市」（中村市・西土佐村合併協議会の名称決定記録の引用を含む地名資料サイト）
     url: https://www.shimanto-chimei.com/%E5%B9%B3%E6%88%90%E3%81%AE%E5%9C%9F%E4%BD%90%E4%B8%8C%80%E8%A6%A7%E8%A8%98/%E5%9B%9B%E4%B8%87%E5%8D%81%E5%B8%82
   r1-shimanto-city-gaiyo:
     label: 四万十市公式「四万十市の概要」
     url: https://www.city.shimanto.lg.jp/soshiki/4/1342.html
+  r1-shimanto-town-gappei-plan:
+    label: 四万十町まちづくり計画（窪川町・大正町・十和村合併協議会。十和村は昭和32年（1957年）に十川村と昭和村が合併し旧村名を一字ずつとって名付けられたこと、大正町は大正3年（1914年）に大正村へ改称した東上山村の後身であること）
+    url: https://www.town.shimanto.lg.jp/download?fid=37763&id=7968&t=LD
+  r1-shimanto-town-hakase:
+    label: 四万十町公式の学習資料「四万十博士になろう」（四万十川の正式名称はもともと「渡川」で、テレビ番組で「四万十川」と紹介されたことがきっかけで愛称の方が有名になり、地元の強い要望もあって平成6年（1994年）に「四万十川」が正式な名前になったこと）
+    url: https://www.town.shimanto.lg.jp/download?fid=34168&id=6108&t=LD
+  r1-shimanto-town-official:
+    label: 四万十町公式サイト「地勢・概要」（平成18年3月20日に窪川町・大正町・十和村が合併して誕生した新町であること、東から西に流れる四万十川の中流域に位置すること）
+    url: https://www.town.shimanto.lg.jp/info/outline.php
+  r1-shimanto-town-uub:
+    label: 市区町村変遷情報データベース「四万十町（高知県高岡郡）」（2006年3月20日に高岡郡窪川町と幡多郡大正町・十和村が新設合併して四万十町が発足したこと、合併協議会は「窪川町・大正町・十和村合併協議会」）
+    url: https://uub.jp/upd/c/1051.html
+  r1-shimanto-town-wiki:
+    label: Wikipedia「四万十町」（四万十市が2005年に先に発足していたが名称決定は四万十町の方がわずかに早く、両者とも名前を譲れなかったため市と町が併存すること、四万十市内にも「四万十町」という同名の地名があること）
+    url: https://ja.wikipedia.org/wiki/%E5%9B%9B%E4%B8%87%E5%8D%81%E7%94%BA
   r1-shimanto-zaidan:
     label: 公益財団法人四万十川財団「四万十川流域年表」（1994年の河川名変更の記録）
     url: https://www.shimanto.or.jp/?data-shimanto=%E5%9B%9B%E4%B8%87%E5%8D%81%E5%B7%9D%E6%B5%81%E5%9F%9F%E5%B9%B4%E8%A1%A8
@@ -926,27 +2841,213 @@ sources:
   r1-sukumo-shishi:
     label: 『宿毛市史』古代編「宿毛村の誕生 ― 宿毛の名称」（宿毛市公式サイト掲載）
     url: https://www.city.sukumo.kochi.jp/sisi/008101.html
+  r1-tosa-gun-wiki:
+    label: Wikipedia「土佐郡」（土佐郡は高知県（土佐国）の郡であり、現在は土佐町と大川村の1町1村からなること）
+    url: https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E9%83%A1
+  r1-tosa-sdgs:
+    label: 土佐町の地方創生SDGs提案書類（内閣府地方創生推進室サイト掲載。平成の大合併においても住民投票により単独自治体として残ることを選択したこと、早明浦ダムは「四国の水がめ」とも称され他の四国3県に水を送っていること）
+    url: https://www.chisou.go.jp/tiiki/kankyo/teian/2020sdgs_pdf/teian/67tosa.pdf
+  r1-tosa-town-official:
+    label: 土佐町公式サイト「土佐町の概要」（明治22年の町村制で誕生した土佐郡森村・地蔵寺村と長岡郡田井村が昭和30年（1955年）3月に合併して土佐村が誕生したこと、昭和36年（1961年）4月に本山町の一部だった5地区と合併したこと、昭和45年（1970年）4月1日から町制を施行したこと）
+    url: https://www.town.tosa.kochi.jp/life/detail.php?hdnKey=419
+  r1-tosa-uub:
+    label: 市区町村変遷情報データベース「土佐村（高知県土佐郡）」（1955年3月31日に地蔵寺村・森村・田井村が新設合併して土佐村が生まれ、1970年4月1日の町制で土佐町になったこと）
+    url: https://uub.jp/upd/c/4227.html
   r1-tosashimizu-shishi23:
     label: 土佐清水市教育委員会・市史編さん室「市史編さん便り 第23号」（土佐清水市誕生までの自治体変遷）
     url: https://www.city.tosashimizu.kochi.jp/fs/4/1/9/3/1/8/_/hist_news_r3_23.pdf
   r1-tosashimizu-shishi52:
     label: 土佐清水市教育委員会・市史編さん室「市史編さん便り 第52号」（市制発足の経緯・市名の決着）
     url: https://www.city.tosashimizu.kochi.jp/fs/4/5/6/7/4/2/_/hist_news_r5_52.pdf
+  r2-akigun-wiki:
+    label: Wikipedia「安芸郡 (高知県)」（1889年の町村制で安田村は安田村・西島村・唐浜村・東島村から発足したこと）
+    url: http://ja.wikipedia.org/wiki/安芸郡_(高知県)
+  r2-hidaka-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」日高村（有効期間の開始が1954-10-15）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39410A1968.html
+  r2-hidaka-slide:
+    label: 日高村役場産業環境課の発表資料（「日本の高知のほどよい田舎の村 日高村」のキャッチフレーズと、昭和29年10月15日に日下村・能津村・加茂村の一部が合併して日高村となったこと）
+    url: https://kochi-shoukiborin.jp/download/?t=LD&id=570&fid=1113
+  r2-hidaka-wiki:
+    label: Wikipedia「日高村」（1954年10月15日に日下村・能津村および加茂村の一部が合併して発足し、村名は「日本」と「高知県」から1文字ずつ取ったことに由来すると説明すること、1955年2月10日に加茂村の一部・入沢を編入したこと、村域が仁淀川と支流・日下川の流域にあること）
+    url: http://ja.wikipedia.org/wiki/日高村
+  r2-higashitsuno-wiki:
+    label: Wikipedia「東津野村」（1889年に船戸村・芳生野村・北川村の合併で東津野村が成立し、2005年2月1日に葉山村と合併して津野町となったこと）
+    url: http://ja.wikipedia.org/wiki/東津野村
   r2-kami-koho:
     label: 香美市広報「香美史探訪記 第59回 香美の由来」（香美市公式サイト）
     url: https://www.city.kami.lg.jp/uploaded/attachment/5166.pdf
   r2-kami-uub:
     label: 市区町村変遷情報「香美市」
     url: https://uub.jp/upd/c/570.html
+  r2-kannoura-wiki:
+    label: Wikipedia「甲浦町」（甲浦の読みは「かんのうら」、1959年7月1日に野根町と合併して東洋町が発足したこと。参考文献に『角川日本地名大辞典 39 高知県』と『東洋町の歴史』）
+    url: https://ja.wikipedia.org/wiki/%E7%94%B2%E6%B5%A6%E7%94%BA
   r2-konan-city-design:
     label: 香南市「香南市まちづくり構想及び新庁舎建設周辺土地利用計画報告書」
     url: https://www.city.kochi-konan.lg.jp/material/files/group/4/houkokusyo.pdf
   r2-konan-wikipedia:
     label: Wikipedia「香南市」
     url: https://ja.wikipedia.org/wiki/%E9%A6%99%E5%8D%97%E5%B8%82
+  r2-kusaka-wiki:
+    label: Wikipedia「日下村 (高知県)」（近世以来の日下村が1889年に単独で自治体を形成し、現在の日高村の中心部にあたること）
+    url: http://ja.wikipedia.org/wiki/日下村_(高知県)
+  r2-motoyama-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」本山町（本山としての有効期間の開始を1909-06-01とする）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39341A1968.html
+  r2-motoyama-maff:
+    label: 農林水産省「小規模・高齢化集落支援モデル事業の取組事例・高知県本山町」（昭和30年4月20日に旧本山町と吉野村（旧「吉野村」地区）が合併して現在の本山町になったこと）
+    url: https://www.maff.go.jp/j/nousin/tiiki/syoukibo/s_zirei/pdf/z13_motoyama.pdf
+  r2-motoyama-wiki:
+    label: Wikipedia「本山町」（1889年に西本山村が発足し1890年6月1日に本山村へ改称したこと、町制施行を1910年6月1日とすること、1955年4月20日に吉野村と合併して本山町が再発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B1%B1%E7%94%BA
+  r2-motoyamashi-wiki:
+    label: Wikipedia「本山氏」（本山氏は土佐七雄の一つで、『土佐物語』は八木伊典が本山に本拠を移し本山と名乗りだしたと伝えると紹介すること）
+    url: http://ja.wikipedia.org/wiki/本山氏
+  r2-nahari-mlit:
+    label: 国土交通省高知港湾・空港整備事務所「みなとオアシス奈半利」（奈半利港は紀貫之の『土佐日記』に“なはのとまり”と記され、土佐と都を結ぶ海路の要所として栄えたこと、2002年に土佐くろしお鉄道ごめん・なはり線が開通し奈半利駅がその起点・終点となったこと）
+    url: https://www.pa.skr.mlit.go.jp/kouchi/D/nahari.html
+  r2-nahari-wiki:
+    label: Wikipedia「奈半利町」（1889年に奈半利村が成立し、1916年5月1日に町制施行した沿革）
+    url: https://ja.wikipedia.org/wiki/奈半利町
+  r2-nahari-zh:
+    label: 中国語版Wikipedia「奈半利町」（山内一豊が土佐入国の際に野根山街道を通り奈半利の正覚寺に立ち寄ったと伝えられること）
+    url: https://zh.wikipedia.org/wiki/%E5%A5%88%E5%8D%8A%E5%88%A9%E7%94%BA
+  r2-noneyama-rinya:
+    label: 林野庁四国森林管理局「野根山街道風景林」（街道は奈半利町を起点とし北川村・室戸市の境界を経て東洋町野根に至る延べ35kmの尾根伝いの旧街道で、養老2年（718年）頃から阿波と土佐の通行路として利用されてきたといわれること）
+    url: https://www.rinya.maff.go.jp/shikoku/kanri/noneyamakaido.html
+  r2-okawa-mlit:
+    label: 国土交通省資料「地域を支える持続可能な物流ネットワーク・高知県大川村」（明治22年に本川郷下分及び森郷の一部から16集落が分離発足したこと、吉野川が村の中央を西から東へ流れ早明浦ダムに注ぐこと、昭和46年のダム建設による中心集落の水没と昭和47年の白滝鉱山閉山が人口減の決定的要因だったこと）
+    url: https://www.mlit.go.jp/common/001133511.pdf
+  r2-okawa-wiki:
+    label: Wikipedia「大川村」（1889年に16村の区域で発足した沿革、早明浦ダム完成・湛水と白滝鉱山閉山による人口減）
+    url: http://ja.wikipedia.org/wiki/大川村
+  r2-osugi-wiki:
+    label: Wikipedia「大杉村 (高知県)」（1889年に東本山村が発足し、1918年7月16日に改称して大杉村となったこと。参考文献に『角川日本地名大辞典 39 高知県』）
+    url: http://ja.wikipedia.org/wiki/大杉村_(高知県)
+  r2-otoyo-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」大豊町（町としての有効期間の開始が1972年）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39344A1972.html
+  r2-otoyo-mlit-road:
+    label: 国土交通省四国地方整備局「道の駅情報｜大杉」（杉の大スギが国の特別天然記念物であること、豊楽寺薬師堂が国宝であること）
+    url: https://www.skr.mlit.go.jp/road/rstation/eki/ko01_oosugi.html
+  r2-otoyo-wiki:
+    label: Wikipedia「大豊町」（古くは豊永郷と呼ばれた地域を含むこと、1889年時点では東豊永村・西豊永村・東本山村・天坪村などに分かれていたこと、1955年の合併と1972年の町制、国宝・豊楽寺薬師堂や重要有形民俗文化財「土佐豊永郷及び周辺地域の山村生産用具」）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B1%8A%E7%94%BA
+  r2-otoyo-zh:
+    label: 中国語版Wikipedia「大豊町」（東本山村から大杉村への改称を1918年6月7日とし、日本語版「大杉村」の7月16日と食い違う）
+    url: https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%90%E7%94%BA
+  r2-otsuki-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」大月町（有効期間の開始が1957-02-11）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39424A1968.html
+  r2-otsuki-town-plan:
+    label: 大月町公式の健康増進計画資料（町は高知県の西南端にあり南に太平洋・西に豊後水道に面すること）
+    url: https://www.town.otsuki.kochi.jp/download/?t=LD&id=1289&fid=1604
+  r2-otsuki-wiki:
+    label: Wikipedia「大月町」（1957年2月11日に大内町・月灘村が合併して発足し、「大月」は両町村名から1字ずつ取った合成地名であること）
+    url: http://ja.wikipedia.org/wiki/大月町
+  r2-ouchi-wiki:
+    label: Wikipedia「大内町 (高知県)」（1889年に奥内村が発足し、1951年11月3日に町制施行・改称して大内町となった沿革）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%86%85%E7%94%BA_(%E9%AB%98%E7%9F%A5%E7%9C%8C)
+  r2-sameura-water:
+    label: 水資源機構「早明浦ダムパンフレット」（ダムが本山町と土佐町にまたがること、着手1967年・管理開始1975年）
+    url: https://www.water.go.jp/yoshino/ikeda/sameura/img/file3.pdf
+  r2-sameura-wiki:
+    label: Wikipedia「早明浦ダム」（1975年完成、大川村役場を含む主要集落の大部分が水没対象となったこと、1970年に村がダム計画への抗議として想定水没地に新庁舎を建て、渇水時に湖底から姿を現すこと）
+    url: https://ja.wikipedia.org/wiki/%E6%97%A9%E6%98%8E%E6%B5%A6%E3%83%80%E3%83%A0
+  r2-sugi-wiki:
+    label: Wikipedia「杉の大スギ」（所在する地区名「杉」、旧自治体の大杉村、土讃線大杉駅の名前はすべてこのスギに由来していること、1924年に国の天然記念物・1952年に特別天然記念物に指定されたこと）
+    url: http://ja.wikipedia.org/wiki/杉の大スギ
   r2-susaki-city-plan:
     label: 須崎市「須崎市過疎地域持続的発展計画」（須崎市公式）
     url: https://www.city.susaki.lg.jp/download?fid=41927&id=4106&t=LD
   r2-susaki-matinami:
     label: 日本の町並み「須崎」
     url: https://matinami.o.oo7.jp/sikoku/susaki.html
+  r2-toyo-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」東洋町（有効期間の開始が1959-07-01）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39301A1968.html
+  r2-toyo-meti:
+    label: 経済産業省中小企業庁「東洋町商工会 経営発達支援計画」（東洋町は昭和34年7月1日に新市町村建設促進法に基づき旧甲浦町と旧野根町の合併により発足したこと、高知県の最東端に位置し「高知県の東玄関」として発展してきたこと）
+    url: http://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/39-06.pdf
+  r2-toyo-ndl:
+    label: 国立国会図書館 NDLサーチ「東洋町郷土史必携（東洋町資料集 第18集）」（原田英祐著、2025年刊行の郷土史資料が存在すること）
+    url: https://ndlsearch.ndl.go.jp/books/R100000002-I034197518
+  r2-toyo-zh:
+    label: 中国語版Wikipedia「東洋町」（1889年時点では甲浦村・野根村に分かれ、甲浦村は1916年4月1日に、野根村は1938年2月11日にそれぞれ町制施行した沿革）
+    url: https://zh.wikipedia.org/wiki/東洋町
+  r2-tsukinada-wiki:
+    label: Wikipedia「月灘村」（村名の由来は、村が面した太平洋を地元で「お月灘」と通称していたことによるとし、出典として『角川日本地名大辞典 39 高知県』p.647を紹介）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%88%E7%81%98%E6%9D%91
+  r2-tsuno-clan-wiki:
+    label: Wikipedia「津野氏」（津野氏は土佐七雄の一つで津野荘・津野新荘・檮原荘を拠点としたこと、家伝では藤原経高が913年に土佐へ入り津野山を開拓して津野と名乗ったと伝えるが諸説があり断定できないと注記すること、津野荘は現在の須崎市吾井郷付近に比定される説があること）
+    url: http://ja.wikipedia.org/wiki/津野氏
+  r2-tsuno-official:
+    label: 津野町公式「津野町地域公共交通計画」（1889年に上半山村・下半山村・東津野村が発足し、1956年に上半山村・下半山村が合併して葉山村となり、2005年2月1日に葉山村と東津野村が合併して津野町となった沿革。葉山地域を新荘川が、東津野地域を四万十川が流れること）
+    url: https://town.kochi-tsuno.lg.jp/cms/wp-content/uploads/2022/05/7d74d399ee9877aa0a0ed34e0a13b69d.pdf
+  r2-yasuda-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」安田村（有効期間が1889-04-01から1925-02-11）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39B0020002.html
+  r2-yasuda-official:
+    label: 安田町公式の総合計画系資料「安田町の社会的現況」（1889年に安田村・西島村・唐浜村・東島村の4村で安田村が発足し1925年に安田町となり、1943年に中山村を編入したこと、安田川沿いに町域が広がり下流部はハウス園芸発祥の地とされること）
+    url: https://www.town.yasuda.kochi.jp/download/?t=LD&id=1010&fid=442
+  r2-yasuda-zh:
+    label: 中国語版Wikipedia「安田町」（大化改新の頃、安田地区と隣の馬路村は同じ安田郷に属し、江戸時代に馬路郷・中山郷・安田郷に分かれたと伝えること）
+    url: https://zh.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E7%94%BA
+  r2-yusuhara-jpsearch:
+    label: Japan Search「高知 龍馬脱藩の道」（文久2年（1862年）に坂本龍馬が檮原から伊予へ脱藩し、地元の那須俊平・信吾父子に案内されて国境を越えたこと）
+    url: https://jpsearch.go.jp/en/item/michi-D0004990950_00000
+  r2-yusuhara-kochinews:
+    label: 高知新聞「梼原町制60年で記念式典」（檮原町が1966年11月の町制施行から60周年を迎えたこと、前身が6村の合併だったこと）
+    url: https://www.kochinews.co.jp/article/detail/1061997
+  r2-yusuhara-wiki:
+    label: Wikipedia「檮原町」（正式表記は「檮原」で「梼原」は略式表記であること、1889年に四万川村・越知面村・檮原村・初瀬村・中平村・松原村の区域で西津野村が発足し、1912年7月20日に檮原村へ改称、1966年11月3日に町制施行して檮原町となったこと）
+    url: https://ja.wikipedia.org/wiki/%E6%A2%BC%E5%8E%9F%E7%94%BA
+  r3-geisei-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」芸西村（1954年～）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39307A1968.html
+  r3-geisei-wiki:
+    label: Wikipedia「芸西村」
+    url: https://ja.wikipedia.org/wiki/%E8%8A%B8%E8%A5%BF%E6%9D%91
+  r3-kuroshio-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」黒潮町（2006年～）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39428A2006.html
+  r3-kuroshio-soumu-gappei:
+    label: 総務省「市町村合併資料集・高知県」（合併対応表）
+    url: https://www.soumu.go.jp/gapei/hensen_kochi.html
+  r3-kuroshio-tadotsu:
+    label: 四国地区町村議会議長会関係資料（多度津町公式サイト掲載、黒潮町の津波想定への言及を含む）
+    url: https://www.town.tadotsu.kagawa.jp/material/files/group/13/07031105furukawa.pdf
+  r3-kuroshio-wiki:
+    label: Wikipedia「黒潮町」
+    url: https://ja.wikipedia.org/wiki/%E9%BB%92%E6%BD%AE%E7%94%BA
+  r3-ochi-meti:
+    label: 経済産業省中小企業庁「経営発達支援計画の概要（越知町商工会）」
+    url: http://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/39-17.pdf
+  r3-ochi-wiki:
+    label: Wikipedia「越知町」
+    url: https://ja.wikipedia.org/wiki/%E8%B6%8A%E7%9F%A5%E7%94%BA
+  r3-takaoka-gun-wiki:
+    label: Wikipedia「高岡郡」
+    url: https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E9%83%A1
+  r3-tano-100th:
+    label: 田野町公式サイト「町制100周年特設ページ」（年表）
+    url: https://tanocho.jp/100th
+  r3-tano-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」田野村（1889年～1920年）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/39B0020019.html
+  r3-tano-town-plan:
+    label: 田野町「過疎地域持続的発展計画」（町公式サイト掲載PDF）
+    url: https://tanocho.jp/download/?t=LD&id=391&fid=492
+  r3-tano-wiki:
+    label: Wikipedia「田野町」
+    url: https://ja.wikipedia.org/wiki/%E7%94%B0%E9%87%8E%E7%94%BA
+  r3-umaji-shokubunka:
+    label: 食文化に関する現地調査事例資料（馬路村）
+    url: https://d2gt7qz2p7h7rk.cloudfront.net/j/keikaku/syokubunka/pdf/siryo4-2.pdf
+  r3-umaji-town-stat:
+    label: 馬路村公式サイト「馬路村統計資料編（抜粋）2008.6・馬路村の概況」
+    url: https://vill.umaji.lg.jp/wp/wp-content/uploads/2022/02/06318d8b7bcc4575e5751ce5f079d227.pdf
+  r3-umaji-wiki:
+    label: Wikipedia「馬路村」
+    url: https://ja.wikipedia.org/wiki/%E9%A6%AC%E8%B7%AF%E6%9D%91
