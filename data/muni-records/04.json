@@ -1,0 +1,2071 @@
+{
+ "sources": {
+  "a-cap-sendai-ayumi": {
+   "label": "仙台市「仙台市のあゆみ」（1889年市制施行・当時の人口、1989年政令指定都市）",
+   "url": "https://www.city.sendai.jp/sesakukoho/shise/gaiyo/profile/ayumi.html"
+  },
+  "a-cap-sendai-city": {
+   "label": "仙台市「仙台城の紹介-仙台城の歴史-」（公式年表。慶長5年に政宗が千代を仙台と改めた）",
+   "url": "https://www.city.sendai.jp/shisekichosa/kurashi/manabu/kyoiku/inkai/bunkazai/bunkazai/joseki/rekishi.html"
+  },
+  "a-cap-sendai-lib": {
+   "label": "レファレンス協同データベース・仙台市民図書館の事例（『仙台事物起原考』の千体→千代説、韓翃の詩句説、川内説・アイヌ語説の併記）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000252199&page=ref_view"
+  },
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "h3-kawasaki-f-hitahiko": {
+   "label": "日田彦山線沿線紹介サイト「川崎町」（東・西川崎村からの沿革）",
+   "url": "https://www.hitahiko.jp/machi_kawasaki.php"
+  },
+  "h3-kawasaki-kotobank": {
+   "label": "コトバンク「川崎町」（日本歴史地名大系。宮城県・福岡県の両川崎町を収載）",
+   "url": "https://kotobank.jp/word/%E5%B7%9D%E5%B4%8E%E7%94%BA-48225"
+  },
+  "h3-kawasaki-m-juku": {
+   "label": "コトバンク「川崎宿」（日本歴史地名大系。宮城県柴田郡・前川村の川崎宿）",
+   "url": "https://kotobank.jp/word/%E5%B7%9D%E5%B4%8E%E5%AE%BF-1294410"
+  },
+  "h3-kawasaki-m-school": {
+   "label": "川崎町立川崎小学校「沿革の概要」（宮城県川崎町公式サイト内。昭和23年の町制施行を含む）",
+   "url": "https://www.town.kawasaki.miyagi.jp/site/kawasaki-sho/1145.html"
+  },
+  "h3-kawasaki-m-townplan": {
+   "label": "川崎町（宮城県）「過疎地域持続的発展計画」（江戸時代の6村と合併の経過を含む）",
+   "url": "https://www.town.kawasaki.miyagi.jp/uploaded/attachment/9185.pdf"
+  },
+  "h3-kawasaki-m-uub": {
+   "label": "市区町村変遷情報「法的根拠等に基づく変遷 宮城県」（1889年の川崎村新設の構成村）",
+   "url": "https://uub.jp/upd/s_miyagi.html"
+  },
+  "h3-kumamoto-misato-pref": {
+   "label": "熊本県「美里町（市町村史資料）」（最終候補5点と候補に推された理由を含む）",
+   "url": "https://www.pref.kumamoto.jp/uploaded/life/82485_102304_misc.pdf"
+  },
+  "h3-miyagi-gappei-gaiyo": {
+   "label": "宮城県「宮城県遠田郡小牛田町・同郡南郷町の合併（新町の概要）」",
+   "url": "https://www.pref.miyagi.jp/documents/23633/59977.pdf"
+  },
+  "h3-miyagi-gappei-ichiran": {
+   "label": "宮城県「合併市町の概要・美里町」",
+   "url": "https://www.pref.miyagi.jp/documents/23621/59957.pdf"
+  },
+  "h3-miyagi-gappei-shosai": {
+   "label": "宮城県「合併市町の概要（第3章）」（3町合併で新市名を「遠田市」と決定した経緯を含む）",
+   "url": "https://www.pref.miyagi.jp/documents/23613/59923.pdf"
+  },
+  "h3-saitama-mayor": {
+   "label": "美里町（埼玉県）町長コラム（新村名「美里村」の公募・全世帯投票と命名の意味）",
+   "url": "https://www.town.saitama-misato.lg.jp/0000000893.html"
+  },
+  "l1-ishinomaki-city": {
+   "label": "石巻市公式「石巻漁港の概要」（「伊寺水門」が石巻の古名であると伝えられる）",
+   "url": "http://www.city.ishinomaki.lg.jp/cont/10453000/684/684.html"
+  },
+  "l1-ishinomaki-mlit": {
+   "label": "国土交通省北上川下流河川事務所・石巻市建設部 資料（御島の「巻石」に水が当たって渦を巻くことが石巻の地名の由来と言われる）",
+   "url": "https://www.thr.mlit.go.jp/bumon/kisya/kisyah/images/53115_1.pdf"
+  },
+  "l1-ishinomaki-name-wiki": {
+   "label": "Wikipedia「石巻（石巻市）」（村岡良弼『地理志科』の伊寺水門説と、「石巻」の地名は古代までさかのぼらないとの見解）",
+   "url": "https://ja.wikipedia.org/wiki/石巻_(石巻市)"
+  },
+  "l1-ishinomaki-wiki": {
+   "label": "Wikipedia「石巻市」（1889年石巻町成立、1933年4月1日市制施行、2005年の1市6町合併）",
+   "url": "https://ja.wikipedia.org/wiki/石巻市"
+  },
+  "m1-kesennuma-kotobank": {
+   "label": "コトバンク「気仙沼市」（日本歴史地名大系。アイヌ語ケセモイ説、延喜式の計仙麻神社、1953年の合併市制）",
+   "url": "https://kotobank.jp/word/%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82-59453"
+  },
+  "m1-kesennuma-kotobank2": {
+   "label": "コトバンク「気仙沼」（改訂新版世界大百科事典・デジタル大辞泉。計仙麻神由来説、2006年唐桑合併・2009年本吉編入）",
+   "url": "https://kotobank.jp/word/%E6%B0%97%E4%BB%99%E6%B2%BC-490137"
+  },
+  "m1-kurihara-estat": {
+   "label": "政府統計の総合窓口（e-Stat）「宮城県 栗原市｜廃置分合等情報」（2005年4月1日に10町村が合併し栗原市を新設、栗原郡廃止）",
+   "url": "https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/04213"
+  },
+  "m1-kurihara-toshi": {
+   "label": "日本都市センター「栗原市（宮城県）」（合併調査報告。新市名称の公募・5候補・投票による決定手続きと選定理由）",
+   "url": "http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/kurihara050930.pdf"
+  },
+  "m1-osaki-pref": {
+   "label": "宮城県「大崎市」（県の合併記録資料。大崎地方合併協議会の経過と、新市名「大崎市」の変更申入れをめぐる応酬）",
+   "url": "http://www.pref.miyagi.jp/documents/23621/59958.pdf"
+  },
+  "m1-osaki-wiki": {
+   "label": "Wikipedia「大崎氏」（中世に江合川・鳴瀬川一帯が「大崎」と呼ばれ、大崎氏の支配地となった経緯）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B4%8E%E6%B0%8F"
+  },
+  "m1-osaki-youran": {
+   "label": "大崎市議会事務局「大崎市議会要覧（令和8年度版）」（市勢・歴史。大崎耕土と2006年の1市6町合併）",
+   "url": "https://www.city.osaki.miyagi.jp/material/files/group/62/R08yourran.pdf"
+  },
+  "m1-tome-historia": {
+   "label": "ローカルヒストリア「登米市の歴史」（1878年の郡制で読みが「とよま」から「とめ」へ改められた経緯）",
+   "url": "https://local-historia.jp/miyagi/tome"
+  },
+  "m1-tome-kominkan": {
+   "label": "登米公民館（とよまコミュニティ運営協議会）「とよまの紹介」（大槻文彦『復軒雑纂』の遠山村説と『和名類聚抄』の止与米の引用）",
+   "url": "https://miyagi-toyoma.jp/toyoma"
+  },
+  "m1-tome-pref": {
+   "label": "宮城県「登米郡9町の合併」（県の合併記録資料。新市名は登米市（とめし）、2005年4月1日新設合併）",
+   "url": "https://www.pref.miyagi.jp/documents/23633/59973.pdf"
+  },
+  "t4-natori-city-bunkazai": {
+   "label": "名取市公式「熊野三社関係」（仙台湾を熊野灘、名取川を熊野川、高舘丘陵を熊野連山に模して、本宮・新宮・那智の三社が別々に勧請され、名取熊野三社は東北太平洋沿いにおける熊野信仰布教の一大拠点であったこと）",
+   "url": "https://www.city.natori.miyagi.jp/site/bunkazai/4461.html"
+  },
+  "t4-natori-city-toukei": {
+   "label": "名取市統計書（令和4年度）「1概況」（昭和30年4月1日に阿武隈川・名取川の両水系に囲まれた2町4か村の合併により名取町が誕生し、昭和33年10月1日に県下7番目の市として市制を施行したこと）",
+   "url": "https://www.city.natori.miyagi.jp/uploaded/attachment/21215.pdf"
+  },
+  "t4-natori-gun-wiki": {
+   "label": "Wikipedia「名取郡」（「名取」の文献上の初見は『続日本紀』天平神護2年（766年）の名取竜麻呂の改姓記事で、「名取郡」としては神護景雲3年（769年）の記事が最古であること、天平元年（729年）の日付で陸奥国名取郡から昆布を納めた荷札の木簡が平城宮から見つかっていること、和銅6年（713年）の「丹取郡」を名取の誤記とする説は現在では否定されていること）",
+   "url": "http://ja.wikipedia.org/wiki/名取郡"
+  },
+  "t4-natori-kawa-wiki": {
+   "label": "Wikipedia「名取川」（川名の語源にはアイヌ語の「ナイトリベツ（渓谷）」に由来する説と「ニットリトン（静かな海）」に由来する説があり、どちらもアイヌ語起源とされること）",
+   "url": "https://ja.wikipedia.org/wiki/名取川"
+  },
+  "t4-shiogama-city-kamado": {
+   "label": "塩竈市公式「『竈』の字について」（地名の由来として、海水を煮て塩をつくるかまど（竈）を「塩竈」といい、もともとは地名ではなく製塩用のかまどを指す名詞であったこと、「竈」と「釜」の両方の使用が認められているが、市役所の公用文では21画の「竈」を用いること）",
+   "url": "https://www.city.shiogama.miyagi.jp/soshiki/6/1082.html"
+  },
+  "t4-shiogama-city-minichishiki": {
+   "label": "塩竈市公式「『塩竈』についてのミニ知識」（塩竈は国府津とも呼ばれたが、塩竈神社が陸奥国の総鎮守として信仰を集めるようになり、「塩竈」が地名として定着していったと市の説明で述べられていること、塩竈神社の藻塩焼神事が伝わること）",
+   "url": "http://www.city.shiogama.miyagi.jp/soshiki/6/1029.html"
+  },
+  "t4-shiogama-city-shiryo": {
+   "label": "塩竈市統計書（令和4年度）（昭和16年11月23日に市制を施行し県内3番目の市となったこと、藻塩が地名の由来ともなった伝統の製塩方法により作られる塩であること）",
+   "url": "https://www.city.shiogama.miyagi.jp/uploaded/attachment/22794.pdf"
+  },
+  "t4-shiogama-wiki": {
+   "label": "Wikipedia「塩竈市」（「塩竈」の名が初めて現れる文献は平安時代初期の『弘仁式主税帳』とされること、地名の表記は「塩竈」「塩釜」「鹽竈」「鹽釜」と様々だったが1941年の市制施行より「塩竈」に統一されたこと）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%83%E5%B8%82"
+  },
+  "t4-tagajo-city-bunkazai": {
+   "label": "多賀城市公式「特別史跡多賀城跡附寺跡保存管理計画」（多賀城の創建については六国史に記載がなく、多賀城碑に神亀元年（724年）に大野朝臣東人が設置したと刻まれていること、その記載が発掘調査の結果と合致し考古学的にも裏付けられていること）",
+   "url": "https://www.city.tagajo.miyagi.jp/bunkazai/shiseki/bunkazai/shitebunkazai/documents/hozonkanri03.pdf"
+  },
+  "t4-tagajo-city-saiyou": {
+   "label": "多賀城市職員採用試験案内（2025）（多賀城市の礎は神亀元年（724年）に陸奥国の国府として創建された「多賀城」に由来すること、多賀城碑が令和6年（2024年）8月に国宝に認定されたこと）",
+   "url": "https://www.city.tagajo.miyagi.jp/jinji/shise/shokuin/documents/saiyou2025.pdf"
+  },
+  "t4-tagajo-city-suido": {
+   "label": "多賀城市新水道ビジョン第2章「多賀城市の概要」（多賀城は神亀元年（724年）に大野東人によって創建され、陸奥国の国府と鎮守府が置かれて平安時代の中頃まで東北地方の政治・文化・軍事の中心地であったこと、多賀城跡が国の特別史跡で平城宮跡・大宰府跡と並ぶ日本三大史跡の一つであること、天平宝字6年（762年）に多賀城の修造を記念して多賀城碑が建立され、多胡碑・那須国造碑とともに日本三古碑の一つであること）",
+   "url": "https://www.city.tagajo.miyagi.jp/keiei/kurashi/suido/suido/documents/shinsuidovision_02.pdf"
+  },
+  "t4-tagajo-city-suishitsu": {
+   "label": "多賀城市水質年報（令和6年度）「多賀城市の歴史」（明治22年に13の村を統合して多賀城村となり、昭和26年7月に町制を施行し、昭和46年11月には県下9番目の市となったこと）",
+   "url": "https://www.city.tagajo.miyagi.jp/josui/kurashi/suido/suido/kyoyu/documents/suisitunenpou-6.pdf"
+  },
+  "t4-tagajo-wiki": {
+   "label": "Wikipedia「多賀城市」（市の名称は古代陸奥国府「多賀城」に因むこと、1971年（昭和46年）11月1日に市制を施行したこと）",
+   "url": "https://ja.wikipedia.org/wiki/多賀城市"
+  },
+  "t5-higashimatsushima-pref": {
+   "label": "宮城県「桃生郡矢本町・同郡鳴瀬町の合併」（県公式の合併概要。新市名は東松島市、新設合併、2005年4月1日発足、2004年1月16日の第9回協議会で名称決定）",
+   "url": "https://www.pref.miyagi.jp/documents/23633/59975.pdf"
+  },
+  "t5-higashimatsushima-toshi": {
+   "label": "日本都市センター「東松島市（宮城県）」（合併事例資料。新市名は全国公募に5,019件・2,004種類が寄せられ候補選定小委員会で8候補に絞られた経緯）",
+   "url": "http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/higashimatsushima050401.pdf"
+  },
+  "t5-higashimatsushima-uub": {
+   "label": "都道府県市区町村「東松島市（宮城県）2005年〜」（市区町村変遷情報。新市名の最終候補8点の記録と1955年の両町の成立）",
+   "url": "https://uub.jp/upd/c/828.html"
+  },
+  "t5-iwanuma-city-hajimari": {
+   "label": "岩沼市公式「岩沼のはじまり」（岩沼入門。阿武隈川と岩石・沼の多い地形、小野篁と白狐・八声の橋の伝説と竹駒神社の起こり）",
+   "url": "https://www.city.iwanuma.miyagi.jp/kanko/rekishi/nyumon/hajimari.html"
+  },
+  "t5-iwanuma-gikai": {
+   "label": "岩沼市議会「岩沼市の紹介」（市議会公式。岩沼の地名は鵜ケ崎城下の池を岩沼と呼んだことから出たとか、岩沼八郎という武士によるともいわれること、1955年の3町村合併）",
+   "url": "http://www.gikai-iwanuma.jp/raishi/iwanumashi.htm"
+  },
+  "t5-iwanuma-jtb-takekoma": {
+   "label": "公益財団法人日本交通公社「全国観光資源台帳・竹駒神社」（842年に小野篁が勧請したとされる創建、竹駒の名は古称・武隈の転訛とされること、芭蕉の句碑）",
+   "url": "https://tabi.jtb.or.jp/res/040045-"
+  },
+  "t5-iwanuma-kotobank-city": {
+   "label": "コトバンク「岩沼市」（『日本歴史地名大系』の解説。近世の岩沼郷はかつて武隈といったこと、岩沼の呼称は天正末年になって現れること）",
+   "url": "http://kotobank.jp/word/%E5%B2%A9%E6%B2%BC%E5%B8%82-32707"
+  },
+  "t5-iwanuma-kotobank-go": {
+   "label": "コトバンク「岩沼郷」（『日本歴史地名大系』の解説。古くは武隈と呼ばれ『後撰集』等に詠まれた武隈の松の比定地であること、鵜ヶ崎城の城下町・竹駒神社の門前町として栄えたこと）",
+   "url": "http://kotobank.jp/word/%E5%B2%A9%E6%B2%BC%E9%83%B7-3024638"
+  },
+  "t5-kakuda-city-castle": {
+   "label": "角田市公式「角田城跡」（臥牛舘・金鶏館とも呼ばれた仙台藩の要害。慶長3年（1598年）の石川昭光の移封と以後明治維新までの石川氏の居城）",
+   "url": "https://www.city.kakuda.lg.jp/site/kokokakuda/1033.html"
+  },
+  "t5-kakuda-kakugawa": {
+   "label": "角川日本地名大辞典「角田【かくだ】」（jlogos掲載。地名の由来は明らかでなく諸説定まっていないこと、戦国期の田手氏・石川氏の入封、1958年の角田市成立）",
+   "url": "https://jlogos.com/ausp/word.html?id=7017191"
+  },
+  "t5-kakuda-kotobank-hongo": {
+   "label": "コトバンク「角田本郷」（『日本歴史地名大系』の解説。天文7年（1538年）の段銭古帳の「かく田かう」、天文15年の伊達晴宗書状の「角田」）",
+   "url": "http://kotobank.jp/word/%E8%A7%92%E7%94%B0%E6%9C%AC%E9%83%B7-3024438"
+  },
+  "t5-shiroishi-city-castle": {
+   "label": "白石市公式「白石城」（白石城の名の文献上の初出は『伊達正統世次考』天文14年条で城主は白石大和宗綱とする市公式解説）",
+   "url": "https://www.city.shiroishi.miyagi.jp/soshiki/17/918.html"
+  },
+  "t5-shiroishi-city-rekishi": {
+   "label": "白石市公式「白石の歴史を守り受け継ぐ」（戊辰戦争後に旧片倉家中の多くが北海道へ渡り、札幌市白石区・登別市の発展の礎を築いたとする市公式解説）",
+   "url": "https://www.city.shiroishi.miyagi.jp/soshiki/1/48.html"
+  },
+  "t5-shiroishi-city-scene": {
+   "label": "白石市市勢要覧「白石を彩る城下の情景」（白石市公式。慶長7年の片倉景綱入城と260余年の片倉氏の居城、一国一城令後の存続）",
+   "url": "https://www.city.shiroishi.miyagi.jp/youran/scene.html"
+  },
+  "t5-shiroishi-city-tochi": {
+   "label": "白石市公式「統計書 第1章 土地・気象」（市域の変遷。刈田郡の成立、1954年の市制施行、1957年の小原村編入、白石県の設置）",
+   "url": "https://www.city.shiroishi.miyagi.jp/uploaded/attachment/29100.pdf"
+  },
+  "t5-shiroishi-kakugawa": {
+   "label": "角川日本地名大辞典（旧地名）「白石（中世）」（jlogos掲載。『天文段銭古帳』の「白いし」が初見、白石氏と地名の関係、蒲生氏郷時代の「増岡」への改称）",
+   "url": "https://jlogos.com/ausp/word.html?id=7256615"
+  },
+  "t5-shiroishi-kanko": {
+   "label": "白石市観光協会「歴史のまち白石」（平安後期の刈田経元以来の刈田氏と、6代目以降の白石氏への改称の伝承）",
+   "url": "https://shiroishi.ne.jp/feature/1794"
+  },
+  "t5-shiroishi-local": {
+   "label": "宮城の地域伝統文化ラボ「地名『白石市』の読み方や由来・語源をたずねる」（沢端町の「神石白石」と呼ばれる石を地名の由来に結びつける地域の語り）",
+   "url": "https://local-culture.jp/miyagi-prefecture-how-to-read-the-place-name-shiroishi-city"
+  },
+  "t5-tomiya-jtb": {
+   "label": "公益財団法人日本交通公社「全国観光資源台帳・富谷市」（1889年の富谷村発足、1963年町制、2016年市制、富谷新町と奥道中歌の紹介）",
+   "url": "https://tabi.jtb.or.jp/city?opt=%E5%AE%AE%E5%9F%8E%E7%9C%8C%2C%E5%AF%8C%E8%B0%B7%E5%B8%82&type=city"
+  },
+  "t5-tomiya-kotobank": {
+   "label": "コトバンク「富谷村」（『日本歴史地名大系』の解説。『安永風土記』による村名の由来＝十宮から富谷への書き改め、慶長〜寛永期の伊達宗清の知行地）",
+   "url": "http://kotobank.jp/word/%E5%AF%8C%E8%B0%B7%E6%9D%91-3025006"
+  },
+  "t5-tomiya-pref": {
+   "label": "宮城県「みやぎ移住・交流ガイド・富谷市」（県公式。約400年前に伊達政宗の命により開宿した富谷宿を起源とし2016年に市制施行）",
+   "url": "https://miyagi-ijuguide.pref.miyagi.jp/city/454"
+  },
+  "t5-tomiya-shinmachi": {
+   "label": "富谷しんまち（奥州街道宿場町まちづくり団体）「しんまちの歴史」（元和4年の開設命令、元和6年の富谷宿発足、内ヶ崎織部と政宗の黒印状）",
+   "url": "https://shinmachi-tomiya.com/history"
+  },
+  "t5-tomiya-wiki": {
+   "label": "Wikipedia「富谷市」（1889年の発足時の構成村の列挙、政宗の鷹と甕杉の言い伝えの紹介）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E8%B0%B7%E5%B8%82"
+  },
+  "t5-yamoto-wiki": {
+   "label": "Wikipedia「矢本（東松島市）」（『安永風土記』による矢本の由来＝八居→谷本→矢本の伝承と、1889年の鷹来村成立・1940年の矢本町成立を紹介）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%9C%AC_(%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82)"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/04-仙台市",
+   "code": "041009",
+   "names": {
+    "ja": "仙台市",
+    "reading": "せんだいし",
+    "aliases": [
+     "千代",
+     "仙臺",
+     "仙台町"
+    ]
+   },
+   "user_terms": [
+    "仙台の名前の由来",
+    "政宗が千代を仙台に変えた理由",
+    "仙台は中国の詩から来た名前",
+    "千代と仙台は読みが同じ"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "市名は伊達政宗が慶長5年（1600年）に旧名「千代」を「仙台（仙臺）」と改めた命名の継承である。「千代」は、この地に祭られていた千体仏にちなむ「千体」の雅名とする説がよく知られ、「仙台」の字は唐の詩人・韓翃の詩句「仙臺初見五城樓」から採ったと考えられている。読み（せんだい）は変えず字だけを格上げした改名で、明治22年（1889年）に市制施行した。",
+   "first_attestation": {
+    "era": "慶長5年",
+    "year_western": 1600,
+    "document": "政宗による改称（仙台市公式年表に「千代を仙台と改め縄張りを行う」とある）",
+    "note": "命名・改称そのものの年。旧名「千代」の文書上の初出は別途未確認"
+   },
+   "claims": [
+    {
+     "text": "仙台市の公式年表は、慶長5年（1600年）に伊達政宗が「千代」を「仙台」と改め、仙台城の縄張りを行い、翌慶長6年（1601年）に普請を開始したとする",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sendai-city"
+     ]
+    },
+    {
+     "text": "改称後も読みは「せんだい」のままで、変わったのは漢字表記だけである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sendai-city",
+      "a-cap-sendai-lib"
+     ]
+    },
+    {
+     "text": "仙台市民図書館のレファレンスによれば、もともとこの地に祭られていた千体仏にちなんで「千体」の字が当てられ、いつのころからかその雅名である「千代」の文字が使われるようになった、と『仙台事物起原考』は伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sendai-lib"
+     ]
+    },
+    {
+     "text": "「仙台」の字の由来は、中国の唐の詩人・韓翃（かんゆう）の七言律詩の起句「仙臺初見五城樓」から採ったものと考えられている、と同じレファレンスは紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sendai-lib"
+     ]
+    },
+    {
+     "text": "「千代（せんだい）」の語源にはこのほか、川に囲まれた山の手を「川内（かわうち）」と称したことから音読で「せんだい」と呼ばれて「千代」の字が生まれたとする説、アイヌ語の「sep-nay（広い川）」を語源とする説もあり、諸説が並立している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "a-cap-sendai-lib"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に市制を施行して仙台市が誕生し（当時の人口8万6352人）、平成元年（1989年）に東北初の政令指定都市となった、と仙台市は述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sendai-ayumi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "詩の一節を、城下町の名前に",
+    "text": "「仙臺」は唐の詩人・韓翃の詩に詠まれた、仙人の住むという高台の名です。政宗は読みを一切変えず、「千代」という日本の名前に中国の詩の字を当てはめました。音は土地のまま、字だけを天下に通用する教養の言葉に替える――読みを保ったまま漢字だけを格上げするこの手法は、岐阜（信長）や福島の改名とも通じる、戦国大名好みの命名術です。政宗の漢詩の素養が、そのまま都市の名前になっている例といえます。",
+    "sources": [
+     "a-cap-sendai-lib"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "韓翃の詩句から採ったとする説の一次裏付け（政宗自身の文書での確認は未実施。『仙台事物起原考』を引く図書館レファレンス経由の情報）",
+    "旧名「千代」の文書上の初出と、千体仏を祭った場所の特定は未確認",
+    "「川内」説・アイヌ語説との優劣の決着"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-名取市",
+   "code": "042072",
+   "names": {
+    "ja": "名取市",
+    "reading": "なとりし",
+    "aliases": [
+     "名取町",
+     "名取郡"
+    ]
+   },
+   "user_terms": [
+    "仙台空港のある市",
+    "閖上（ゆりあげ）のある市",
+    "名取熊野三社のまち",
+    "なとり"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "市名は、古代以来の郡名「名取郡」と、市と仙台市の境を流れる「名取川」の名を受け継ぐ。「名取」の文献上の初見は8世紀にさかのぼり、729年の荷札木簡や『続日本紀』の記事に現れるが、語源はアイヌ語説などがあり定まっていない。中世以降は名取川を「熊野川」に見立てる熊野信仰の拠点として知られた。現在の市は1955年に2町4村の合併で名取町として発足し、1958年に市制を施行した。",
+   "first_attestation": {
+    "era": "奈良時代（天平元年）",
+    "year_western": 729,
+    "document": "平城宮跡出土の荷札木簡（陸奥国名取郡から昆布を納めた荷札）",
+    "note": "文献では『続日本紀』天平神護2年（766年）に「名取」、神護景雲3年（769年）に「名取郡」が見える"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、名取市の団体コードは042072と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "市域は旧名取郡に属し、市名は郡名であり川名でもある「名取」を受け継いでいる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-natori-city-toukei",
+      "t4-natori-gun-wiki"
+     ]
+    },
+    {
+     "text": "「名取」の文献上における初見は、『続日本紀』天平神護2年（766年）12月30日条にある名取竜麻呂の改姓記事であり、「名取郡」としては神護景雲3年（769年）3月13日条の記事が最も早いと紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t4-natori-gun-wiki"
+     ]
+    },
+    {
+     "text": "天平元年（729年）の日付をもち、陸奥国名取郡から昆布を納めたことを示す荷札の木簡が、平城宮跡から見つかっていると紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t4-natori-gun-wiki"
+     ]
+    },
+    {
+     "text": "かつては『続日本紀』の和銅6年（713年）の記事にある「丹取郡」を「名取」の誤記とみて名取の初出とする説が有力だったが、現在では否定されていると紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "t4-natori-gun-wiki"
+     ]
+    },
+    {
+     "text": "「名取」の語源は定かでなく、川名についてはアイヌ語の「ナイトリベツ（渓谷）」に由来する説と、下流に入江があったことから「ニットリトン（静かな海）」に由来する説が紹介されており、いずれもアイヌ語起源とされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "t4-natori-kawa-wiki"
+     ]
+    },
+    {
+     "text": "名取市公式の文化財解説によれば、名取では仙台湾を熊野灘、名取川を熊野川、高舘丘陵を熊野連山に模して、本宮・新宮・那智の熊野三社が他の地域と異なり別々に勧請され、東北太平洋沿いにおける熊野信仰布教の一大拠点であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-natori-city-bunkazai"
+     ]
+    },
+    {
+     "text": "現在の名取市は、昭和30年（1955年）4月1日に阿武隈川・名取川の両水系に囲まれた2町4か村の合併により名取町として誕生し、昭和33年（1958年）10月1日に県下7番目の市として市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-natori-city-toukei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "名取川は「熊野川」だった",
+    "text": "中世から近世にかけての名取は、熊野信仰の東北への玄関口でした。市の公式解説によれば、仙台湾を熊野灘に、名取川を熊野川に、高舘丘陵を熊野連山に見立て、紀州の熊野三山にならって本宮・新宮・那智の三つの社が、それぞれ別の場所に勧請されました。三社が一か所にまとまらず別々に建つのは他の地域にはない名取ならではの姿で、まさに縮小版の熊野世界です。今も市内に残る名取熊野三社は、古代の郡名「名取」の上に、信仰の都・熊野の名が重ねられた歴史を伝えています。",
+    "sources": [
+     "t4-natori-city-bunkazai"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/04-岩沼市"
+   ],
+   "unknowns": [
+    "「名取」の語源についてはアイヌ語説などが紹介されるのみで、定説は確認できなかった",
+    "「名取川で獲れた鮎（年魚）を朝廷に献上して『名を取った』」という趣旨の語源説は、確認した自治体公式・専門資料では裏付けが得られなかった",
+    "名取郡が設置された正確な年代は確認できなかった（7世紀設置と推定されるにとどまる）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-塩竈市",
+   "code": "042030",
+   "names": {
+    "ja": "塩竈市",
+    "reading": "しおがまし",
+    "aliases": [
+     "塩釜",
+     "鹽竈",
+     "国府津"
+    ]
+   },
+   "user_terms": [
+    "塩釜（表記ゆれ）",
+    "鹽竈神社の門前町",
+    "寿司のまち",
+    "しおがま"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "市名の「塩竈」は、もとは地名ではなく、海水を煮て塩をつくるかまど（竈）を指す普通名詞だったと市は説明する。国府の港「国府津」とも呼ばれた一帯は、陸奥国総鎮守・鹽竈神社の門前町として栄え、「塩竈」の名が地名として定着した。表記は歴史的に揺れたが、1941年の市制施行で旧字体の「竈」を含む「塩竈」に統一され、今も公用文でこの字が使われる。製塩の伝統は鹽竈神社の藻塩焼神事に受け継がれている。",
+   "first_attestation": {
+    "era": "平安時代初期",
+    "year_western": null,
+    "document": "『弘仁式主税帳』",
+    "note": "「塩竈」の名が初めて現れる文献とされる（Wikipedia「塩竈市」の紹介による。原典での直接確認はしていない）"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、塩竈市の団体コードは042030と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "塩竈市は地名の由来について、海水を煮て塩をつくるかまど（竈）のことを「塩竈」といい、もともとは地名ではなく製塩用のかまどを指す名詞だったが、この竈のある場所として有名になり、それがそのまま地名になっていったと説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-city-kamado"
+     ]
+    },
+    {
+     "text": "市の説明によれば、塩竈は国府津（国府の港の意）とも呼ばれていたが、塩竈神社が陸奥国の総鎮守として信仰を集めるようになり、国府津よりも塩竈の方が地名として定着していった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-city-minichishiki"
+     ]
+    },
+    {
+     "text": "「塩竈」の名が初めて現れる文献は、平安時代初期の『弘仁式主税帳』であると紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-wiki"
+     ]
+    },
+    {
+     "text": "「しおがま」の地名表記は「塩竈」「塩釜」「鹽竈」「鹽釜」と様々だったが、1941年の市制施行より表記を「塩竈」に統一したと紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-wiki"
+     ]
+    },
+    {
+     "text": "塩竈市によれば、市名の「竈」と「釜」の両方の使用が認められているが、21画で書き方の難しい漢字である「竈」を、市役所の公用文では用いることになっている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-city-kamado"
+     ]
+    },
+    {
+     "text": "塩竈市は昭和16年（1941年）11月23日に市制を施行し、県内3番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-city-shiryo"
+     ]
+    },
+    {
+     "text": "鹽竈神社では藻塩焼神事が行われ、海藻を用いる伝統的な製塩法で作る藻塩は、地名の由来ともなった製塩の伝統を今に伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-shiogama-city-minichishiki",
+      "t4-shiogama-city-shiryo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "21画の「竈」を守る市",
+    "text": "塩竈市の「竈」は21画もある難しい字です。市は、書き順まで示した案内ページを用意してこの字を守っています。歴史的には「塩釜」「鹽竈」など表記が揺れましたが、1941年の市制施行のときに「塩竈」に統一され、市の公用文では今も「竈」が使われます。一方で駅名や郵便局名には「塩釜」が残り、市内では二つの表記が並び立っています。もともとは塩を煮るかまどを指す普通名詞だった言葉が、神社の門前町として定着し、難しい旧字体ごと市の名前として生き続けているのです。",
+    "sources": [
+     "t4-shiogama-city-kamado",
+     "t4-shiogama-wiki"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/04-多賀城市"
+   ],
+   "unknowns": [
+    "『弘仁式主税帳』における「塩竈」の表記は、原典で直接確認していない",
+    "この地で製塩が始まった時期は、確認した資料では特定できなかった",
+    "「国府津」の読み「こうづ」と表記の初出については、市のミニ知識の説明以上には確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-多賀城市",
+   "code": "042099",
+   "names": {
+    "ja": "多賀城市",
+    "reading": "たがじょうし",
+    "aliases": [
+     "多賀城町",
+     "多賀城村"
+    ]
+   },
+   "user_terms": [
+    "史都多賀城",
+    "古代東北の都",
+    "多賀城碑のある市",
+    "たがじょう"
+   ],
+   "naming_type": "その他",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "市名は、奈良・平安時代に陸奥国の国府と鎮守府が置かれた古代の城柵「多賀城」に因む。多賀城は724年に大野東人によって創建されたと多賀城碑の碑文に刻まれ、11世紀中頃まで東北の政治・文化・軍事の中心だった。近代の自治体は1889年に13村の統合で多賀城村となり、1951年の町制を経て1971年に市制を施行した。滋賀県の多賀町とは同名に近いが、由来も成り立ちも異なる別の自治体である。",
+   "first_attestation": {
+    "era": "天平宝字6年",
+    "year_western": 762,
+    "document": "多賀城碑の碑文",
+    "note": "碑文に神亀元年（724年）の多賀城創建が記される。六国史には多賀城創建の記載がない"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、多賀城市の団体コードは042099と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "市の名称は古代陸奥国府「多賀城」に因み、多賀城市は市の礎が神亀元年（724年）に陸奥国の国府として、また東北全域の政治・軍事の拠点として創建された多賀城に由来すると説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-tagajo-city-saiyou",
+      "t4-tagajo-wiki"
+     ]
+    },
+    {
+     "text": "多賀城市の資料によれば、多賀城は神亀元年（724年）に大野東人によって創建され、陸奥国の国府が置かれ、奈良時代には鎮守府もあわせ置かれて、平安時代の中頃まで東北地方の政治・文化・軍事の中心地としての役割を果たした",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-tagajo-city-suido"
+     ]
+    },
+    {
+     "text": "多賀城の創建については六国史に記載がなく、多賀城碑に神亀元年（724年）に大野朝臣東人が設置したと刻まれており、この記載が発掘調査の結果と合致して考古学的にも裏付けられていることが、市の文化財資料で説明されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-tagajo-city-bunkazai"
+     ]
+    },
+    {
+     "text": "天平宝字6年（762年）に多賀城の修造を記念して建立された多賀城碑は、多胡碑・那須国造碑とともに日本三古碑の一つに数えられ、令和6年（2024年）8月に国宝に指定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-tagajo-city-suido",
+      "t4-tagajo-city-saiyou"
+     ]
+    },
+    {
+     "text": "多賀城跡は国の特別史跡「多賀城跡附寺跡」に指定され、奈良県の平城宮跡、福岡県の大宰府跡と並ぶ日本三大史跡の一つに数えられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-tagajo-city-suido"
+     ]
+    },
+    {
+     "text": "古代末から中世初期には、陸奥国府を継承した「多賀国府」が多賀城を中心とする地域に存在したことが文献から知られるが、その遺構としては確定していない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "t4-tagajo-city-bunkazai"
+     ]
+    },
+    {
+     "text": "近代の自治体としては、明治22年（1889年）に13の村を統合して多賀城村となり、昭和26年（1951年）7月に町制を施行し、昭和46年（1971年）11月1日に県下9番目の市として市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t4-tagajo-city-suishitsu",
+      "t4-tagajo-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "千三百年の名を継ぐ市",
+    "text": "多賀城市の名の源である古代の多賀城は、724年の創建から数えて2024年に1300年を迎えました。その創建を今に伝えるのは、都の正史ではなく、762年に現地に建てられた多賀城碑の碑文です。この碑は日本三古碑の一つとして長く敬われ、2024年8月には国宝に指定されました。市が県下9番目の市となったのは1971年のことですが、人々はそれより千年以上前から、この土地を「多賀城のある場所」と呼び続けてきました。自治体の名前が古代の政庁の名をそのまま継ぐ例は、全国でも珍しいものです。",
+    "sources": [
+     "t4-tagajo-city-bunkazai",
+     "t4-tagajo-city-saiyou"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/04-塩竈市"
+   ],
+   "unknowns": [
+    "地名「多賀」自体の語源は、確認した公式・専門資料では確定していなかった",
+    "中世の「多賀国府」の中心地の遺構は確定していない",
+    "1889年の多賀城村の命名経緯（13村のうち多賀城跡に最も近い村名があったのか等）は、確認した資料では分からなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-大崎市",
+   "code": "042153",
+   "names": {
+    "ja": "大崎市",
+    "reading": "おおさきし",
+    "aliases": [
+     "古川市"
+    ]
+   },
+   "user_terms": [
+    "大崎市か古川市かで揉めた話",
+    "大崎耕土とは何か",
+    "大崎という地名の由来"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "平成18年（2006年）3月31日、古川市と松山町・三本木町・鹿島台町・岩出山町・鳴子町・田尻町の1市6町が合併して誕生した。市名は古くからの広域名「大崎」を採用したものだが、決定後に再選された古川市長が「古川市」への変更を求める異例の申し入れを行い、合併協議会が名称を変更しないと決めて、ようやく「大崎市」が実現した。",
+   "first_attestation": {
+    "era": "平成18年",
+    "year_western": 2006,
+    "document": "大崎市の新設（1市6町の合併・市制施行）",
+    "note": "市名としての初出。「大崎」という広域名は中世の大崎氏の支配地に遡る"
+   },
+   "claims": [
+    {
+     "text": "宮城県の合併記録によれば、平成18年（2006年）3月31日、古川市・松山町・三本木町・鹿島台町・岩出山町・鳴子町・田尻町の1市6町が新設合併して大崎市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-osaki-pref"
+     ]
+    },
+    {
+     "text": "合併協議会は「大崎地方合併協議会」と称されており、「大崎」は合併前からこの地域を指す広域名として行政上も使われてきた、と県の合併記録は示す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-osaki-pref"
+     ]
+    },
+    {
+     "text": "市域に広がる肥沃な平野は「大崎耕土」と呼ばれ、その伝統的な水管理システムは平成29年（2017年）に世界農業遺産に認定された、と大崎市議会要覧は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-osaki-youran"
+     ]
+    },
+    {
+     "text": "中世には江合川・鳴瀬川の一帯が「大崎」と呼ばれており、奥州管領・奥州探題を務めた斯波氏一族の大崎氏がこの地を支配したことが、「大崎」という地域名の定着の背景にある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "m1-osaki-wiki"
+     ]
+    },
+    {
+     "text": "平成16年（2004年）11月2日、市長選で再選された古川市長が合併協議会に対し、合併期日の延期と、新市名を「大崎市」から「古川市」に変更することを申し入れた、と県の合併記録は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-osaki-pref"
+     ]
+    },
+    {
+     "text": "同年12月19日の第28回協議会で、新市名は変更しないこと、合併期日を平成18年3月31日とすることが決定され、「大崎市」の名が維持された、と県の合併記録は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-osaki-pref"
+     ]
+    },
+    {
+     "text": "地方公共団体コードは042153である（総務省「地方公共団体コード一覧」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えかけた「大崎市」",
+    "text": "新市名「大崎市」は、一度決まったあとで最大の構成市・古川から覆されかけました。2004年の古川市長選で「大崎市」に反対する現職が再選されると、市長は協議会に「古川市への変更」を正式に申し入れます。合併そのものの延期まで求めたこの申し入れに、協議会は「名称は変更しない」と答え、合併期日だけを1年遅らせて折り合いました。広域の名か、中心市の名か。大崎の名前は、その綱引きの末に残った名前です。",
+    "sources": [
+     "m1-osaki-pref"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "市名「大崎」の当初の決定手続き（公募の有無や候補案）は、県の合併記録の今回確認範囲では未確認",
+    "「大崎」の語源そのもの（地形に由来する名か、荘園名か）についての専門的な検討は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-富谷市",
+   "code": "042161",
+   "names": {
+    "ja": "富谷市",
+    "reading": "とみやし",
+    "aliases": [
+     "富谷町",
+     "富谷村",
+     "富谷新町",
+     "十宮"
+    ]
+   },
+   "user_terms": [
+    "とみや",
+    "富谷宿のある市",
+    "仙台のベッドタウン",
+    "ブルーベリーのまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "宮城県中部、仙台市の北隣にある市。1889年（明治22年）に旧富谷村を中心に周辺の村々が合併して黒川郡富谷村が発足し、1963年（昭和38年）の町制を経て、2016年（平成28年）10月10日に合併を経ない単独市制で富谷市となった。「富谷」の名は、江戸時代に奥州街道の宿場「富谷宿」が置かれた旧富谷村の村名に由来する。村名自体は、かつて十の宮があったことから「十宮（とみや）」と書いたものを「富谷」に書き改えたと『安永風土記』が伝える。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "安永風土記",
+    "note": "仙台藩の地誌『安永風土記』が、村名の由来として「熊谷に宮十社があったので『とみや』と称し、十宮と書いたがのちに富谷と書き改めた」と伝えるのが、今回確認できた由来の最古級の記録。「富谷」表記そのものの初出年は未確認"
+   },
+   "claims": [
+    {
+     "text": "富谷市の地方公共団体コードは042161である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）4月1日、町村制の施行により旧富谷村を含む周辺の村々の区域をもって黒川郡富谷村が発足した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-jtb"
+     ]
+    },
+    {
+     "text": "富谷村は1963年（昭和38年）に町制を施行して富谷町となり、2016年（平成28年）10月10日に単独で市制を施行して富谷市となった。1889年の発足以来、一度も合併を経ていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-pref",
+      "t5-tomiya-jtb"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は『安永風土記』の記述として、村名はかつて村内の熊谷に宮十社があったので「とみや」と称して「十宮」と書いたが、のちに「富谷」と書き改めたと紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-kotobank"
+     ]
+    },
+    {
+     "text": "富谷村は慶長年間（1596〜1615年）から寛永11年（1634年）まで伊達宗清（政宗の三男）の知行地であった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-kotobank"
+     ]
+    },
+    {
+     "text": "元和4年（1618年）、吉岡黒川氏の家老だった内ヶ崎筑後（のち織部）が伊達政宗から宿場の開設を命じられ、元和6年（1620年）に政宗の黒印状をもって富谷宿が正式に発足した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-shinmachi"
+     ]
+    },
+    {
+     "text": "富谷宿は仙台以北の奥州街道の宿場で、七北田宿と吉岡宿の中間に新たに置かれた宿場であったため「富谷新町」とも呼ばれ、富谷茶の産地として奥道中歌にも詠まれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-jtb",
+      "t5-tomiya-shinmachi"
+     ]
+    },
+    {
+     "text": "伊達政宗が鷹狩りの際に愛鷹が死んだため、甕（かめ）に入れて丁重に埋葬したという言い伝えが残り、市内にはその「甕杉」が存在すると伝えられる",
+     "kind": "legend",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t5-tomiya-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "合併しないで市になったまち",
+    "text": "富谷は1889年（明治22年）の町村制以来、一度も合併を経験していない。昭和の合併促進期には県から黒川郡10か町村の合併案が示されたが、富谷村はこれを断念し「自立自存」を決議した。平成の大合併でも仙台市との合併などが議論されたが、人口5万人到達の見通しが立つと「合併しない宣言」を出し、2016年（平成28年）10月10日、町単独の市制施行にこぎつけた。一方で地名の古層は江戸初期に遡る。元和4年（1618年）に政宗の命で開かれた富谷宿は2020年に開宿400年を迎え、「富谷茶」の復活栽培も始まっている。村名の由来とされる「十宮→富谷」の書き改めは、縁起のよい字への改字という日本地名に多いパターンの一例である。",
+    "sources": [
+     "t5-tomiya-pref",
+     "t5-tomiya-jtb",
+     "t5-tomiya-shinmachi"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "「富谷（十宮）」という地名の初出の文献と年は、今回の調査では特定できなかった（『安永風土記』の由来説明が確認できた最古級の記録）",
+    "宮十社（十の宮）が実在した神社群かどうかは、『安永風土記』の伝承の域を出ず、考古学・文献上の裏付けは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-岩沼市",
+   "code": "042111",
+   "names": {
+    "ja": "岩沼市",
+    "reading": "いわぬまし",
+    "aliases": [
+     "岩沼町",
+     "岩沼郷",
+     "武隈"
+    ]
+   },
+   "user_terms": [
+    "いわぬま",
+    "竹駒神社の門前町",
+    "仙台空港に近い市",
+    "武隈の松のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "宮城県南部、阿武隈川下流の北岸にある市。古くは歌枕に詠まれた「武隈（たけくま）」の地で、近世の岩沼郷もかつて武隈と呼ばれた。「岩沼」の呼称が現れるのは天正（1573〜92年）の末年になってからで、鵜ヶ崎城（岩沼城）の城下町、奥州街道の宿場町、日本三稲荷の一つとされる竹駒神社の門前町としてこの地方の中心地となった。1955年（昭和30年）に岩沼町・玉浦村・千貫村が合併して岩沼町となり、1971年（昭和46年）に市制を施行した。",
+   "first_attestation": {
+    "era": "天正年間",
+    "year_western": null,
+    "document": null,
+    "note": "『日本歴史地名大系』が「岩沼の呼称は天正（1573〜92年）末年になってあらわれる」と述べるのが、今回確認できた最古級の言及。初出の具体的な文書は未確認。古称「武隈」は『後撰集』などに詠まれた「武隈の松」の比定地として平安時代の和歌に遡る"
+   },
+   "claims": [
+    {
+     "text": "岩沼市の地方公共団体コードは042111である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1955年（昭和30年）4月1日、岩沼町・玉浦村・千貫村の3町村が合併して岩沼町が発足し、1971年（昭和46年）に市制を施行して岩沼市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-iwanuma-gikai",
+      "t5-iwanuma-kotobank-city"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、近世の岩沼郷はかつて「武隈（たけくま）」といったとし、「岩沼」の呼称は天正（1573〜92年）の末年になって現れると述べる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-iwanuma-kotobank-city"
+     ]
+    },
+    {
+     "text": "岩沼は『後撰集』などに詠まれた歌枕「武隈の松」の比定地とされ、当地に陸奥国府があったという説もあるが真偽は不明である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "t5-iwanuma-kotobank-go"
+     ]
+    },
+    {
+     "text": "岩沼の地名の由来について、岩沼市議会の紹介は、鵜ヶ崎城下の池を岩沼と呼んだことから出たともいわれると伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "t5-iwanuma-gikai"
+     ]
+    },
+    {
+     "text": "岩沼は鵜ヶ崎城（岩沼城）の城下町、奥州街道の宿場町、竹駒神社の門前町として栄え、この地方の中心地であった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-iwanuma-kotobank-go"
+     ]
+    },
+    {
+     "text": "竹駒神社は承和9年（842年）、陸奥守として赴任した小野篁が伏見稲荷を勧請したのが始まりと伝えられ、「竹駒」の名は当地の古称「武隈」の転訛とされる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t5-iwanuma-jtb-takekoma"
+     ]
+    },
+    {
+     "text": "小野篁が多賀城へ赴任する途中、南長谷の橋で箱の中の白狐が八回鳴いて森へ消えたため、その森に社を建てて「武隈明神」と名付けたという伝説が、市の公式解説でも伝説として紹介されている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-iwanuma-city-hajimari"
+     ]
+    }
+   ],
+   "column": {
+    "title": "歌枕「武隈の松」と芭蕉",
+    "text": "岩沼の古称「武隈」は、平安時代の歌集に詠まれた「武隈の松」で知られる歌枕の地。一本の根元から二股に分かれる松は「二木（ふたき）の松」とも呼ばれ、西行や松尾芭蕉も訪れた。芭蕉は『おくのほそ道』の旅で岩沼を通り、竹駒神社の二ノ鳥居近くには「桜より松は二木を三月越し」と詠んだ句碑が残る。市の名前としては武隈は近世初めに「岩沼」へ交替したが、神社の名「竹駒」は武隈の音の転訛として今に古称を伝えている。",
+    "sources": [
+     "t5-iwanuma-kotobank-go",
+     "t5-iwanuma-jtb-takekoma"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "「岩沼」という呼称の初出の具体的な文書・年は、今回の調査では特定できなかった（『日本歴史地名大系』の「天正末年に現れる」が確認できた範囲）",
+    "岩沼に陸奥国府があったとする説の真偽は、『日本歴史地名大系』も「不明」とし、確認できなかった",
+    "城下の池に由来するという地名説の典拠（いつの記録に基づくか）は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-川崎町",
+   "code": "043249",
+   "names": {
+    "ja": "川崎町",
+    "reading": "かわさきまち",
+    "aliases": [
+     "川崎村",
+     "川崎宿"
+    ]
+   },
+   "user_terms": [
+    "川崎町の名前の由来",
+    "宮城の川崎町はなぜ川崎",
+    "笹谷街道の宿場町"
+   ],
+   "naming_type": "その他",
+   "prefecture": "宮城県",
+   "homonyms": [
+    "muni/40-川崎町"
+   ],
+   "summary": "1889年の町村制施行で前川村・今宿村・小野村・川内村・本砂金村の5村が合併して生まれた新村名「川崎村」が前身。構成村のいずれも「川崎」ではなかった一方、前川村内には笹谷街道の中心宿駅「川崎宿」が先行して存在した。村名がこの宿場名に由来するかを含め、「川崎」の命名理由は確認した資料では明示されない。1948年に町制を施行して川崎町となった。",
+   "first_attestation": {
+    "era": "近世",
+    "year_western": null,
+    "document": "川崎宿（前川村内、笹谷街道の中心宿駅）として『日本歴史地名大系』に立項される地名",
+    "note": "宿名の初出年と命名理由は未確認。自治体名としては1889年の川崎村が初出"
+   },
+   "claims": [
+    {
+     "text": "明治22年（1889年）の町村制施行に際し、柴田郡の前川村・今宿村・小野村・川内村・本砂金村の5村が新設合併して川崎村となった。構成した5村のいずれも「川崎」という名ではなかった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-m-uub"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、前川村に笹谷街道の中心宿駅である川崎宿があり、街道が仙台城下方面への道と奥州街道方面への道とに分岐する要地だったと紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-m-juku"
+     ]
+    },
+    {
+     "text": "新村名「川崎」が先行する宿場名「川崎宿」に由来するかどうかは、確認した資料に明記がなく確定できない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "h3-kawasaki-m-juku",
+      "h3-kawasaki-m-uub"
+     ]
+    },
+    {
+     "text": "昭和23年（1948年）5月3日に川崎村が町制を施行して川崎町となった。町の計画によれば、江戸時代に形成された前川村・今宿村・小野村・川内村・本砂金村・支倉村の6村が、明治22年の町村制施行と昭和30年（1955年）の合併を経て現在の町域となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-m-school",
+      "h3-kawasaki-m-townplan"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、町域は蔵王連峰北部の東麓にあたり、太郎川・北川・前川の三川が東流して東端で碁石川となり、仙台市域で名取川に合流すると記す",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-kotobank"
+     ]
+    },
+    {
+     "text": "福岡県川崎町とは「川崎村」を前身とする点は共通する。ただし福岡では東川崎村・西川崎村という村名が先行したのに対し、宮城では構成村に「川崎」がなく宿場名が先行する点が異なる。両町とも「川崎」の語源そのものは未確認で、共通の命名理由は立証できない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-f-hitahiko",
+      "h3-kawasaki-m-uub",
+      "h3-kawasaki-m-juku"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では本町のコードは043249とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "村の名前にない「川崎」",
+    "text": "1889年に合併した5つの村の名は、前川・今宿・小野・川内・本砂金。新村名の「川崎」はそのどれでもありませんでした。一方、地域の中心だったのは笹谷街道の宿場「川崎宿」（現在の前川地区）です。宿場の名が村名に選ばれた可能性は高いものの、理由を記した資料は見つかっておらず、この町の名前の謎として残ります。",
+    "sources": [
+     "h3-kawasaki-m-juku",
+     "h3-kawasaki-m-uub"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/40-川崎町"
+   ],
+   "unknowns": [
+    "「川崎」という地名の語源（どの川の、どのような地形を指すのか）",
+    "川崎宿の成立年と初出文書",
+    "1889年に新村名として「川崎」を選んだ理由の記録"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-東松島市",
+   "code": "042145",
+   "names": {
+    "ja": "東松島市",
+    "reading": "ひがしまつしまし",
+    "aliases": [
+     "矢本町",
+     "鳴瀬町"
+    ]
+   },
+   "user_terms": [
+    "ひがしまつしま",
+    "ブルーインパルスの基地の市（松島基地）",
+    "奥松島のある市",
+    "矢本・鳴瀬の合併市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "宮城県東部、松島湾の東側に位置する市。2005年（平成17年）4月1日に桃生郡の矢本町と鳴瀬町が新設合併して発足した。市名「東松島」は合併協議会が全国公募をもとに選んだ新市名で、日本三景・松島の東に位置する地域であることを示す名と解される。もともと市域には松島町は含まれず、「松島」を名乗るのは湾の景観を共有する地域としてである。市役所は旧矢本町役場に置かれ、中心地の矢本は中世以来の地名である。",
+   "first_attestation": {
+    "era": "平成16年",
+    "year_western": 2004,
+    "document": "矢本町・鳴瀬町合併協議会（第9回協議会）の決定",
+    "note": "「東松島市」の市名そのものの決定（2004年1月16日）であり命名の初出。基層の中心地名「矢本」は、『安永風土記』が由来を伝える古い地名"
+   },
+   "claims": [
+    {
+     "text": "東松島市の地方公共団体コードは042145である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）4月1日、桃生郡矢本町と鳴瀬町を廃し、その区域をもって東松島市が新設合併により発足し、事務所は旧矢本町役場の位置に置かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-higashimatsushima-pref"
+     ]
+    },
+    {
+     "text": "新市の名称は、平成16年（2004年）1月16日に開かれた矢本町・鳴瀬町合併協議会の第9回協議会において「東松島市」に決定した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-higashimatsushima-pref"
+     ]
+    },
+    {
+     "text": "新市名は全国に公募され、5,019件・2,004種類の名称が寄せられたうえで、候補選定小委員会において8つの候補に絞られた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-higashimatsushima-toshi"
+     ]
+    },
+    {
+     "text": "新市名の最終候補は「あおい」「青空」「奥松島」「滝山」「東松島」「松海（まつみ）」「未来」「桃生（ものう）」の8点であったと変遷情報データベースが記録する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t5-higashimatsushima-uub"
+     ]
+    },
+    {
+     "text": "旧矢本町と旧鳴瀬町はいずれも1955年（昭和30年）5月3日に成立した町で、矢本町は旧矢本町・赤井村・大塩村、鳴瀬町は野蒜村・小野村・宮戸村の合併による",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t5-higashimatsushima-uub"
+     ]
+    },
+    {
+     "text": "中心地の「矢本」は、もとは矢本村で、1889年（明治22年）に大曲村・小松村と合併して鷹来村の大字となり、1940年（昭和15年）に鷹来村が町制を施行して矢本町となったことで町名として復活した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t5-yamoto-wiki"
+     ]
+    },
+    {
+     "text": "『安永風土記』によれば「矢本」の由来は、平泉で戦死した源義経が蓄養していた八羽の鷹が矢本の丘陵地に飛来して住み着いたため「八居」と名付けられ、それが時代とともに谷本、矢本と変化したことによるとされる",
+     "kind": "legend",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t5-yamoto-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "落ちた候補名が町名になった「あおい」",
+    "text": "東松島市の市名公募には2,004種類もの案が集まり、最終候補には「青空」「未来」といった情緒的な名や、旧郡名の「桃生（ものう）」、野蒜・宮戸の景観にちなむ「奥松島」などが残った。選ばれたのは地理を素直に示す「東松島」だったが、落選した候補の筆頭格「あおい」も消え去りはしなかった。2016年（平成28年）、市内の区画整理事業で新しい町名が必要になった際、その名は大字「あおい」として採用された。市名にはならなかった案が、10年余を経て地名として地図に載った珍しい例である。",
+    "sources": [
+     "t5-higashimatsushima-uub",
+     "t5-yamoto-wiki"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "「東松島」が最終候補の中から選ばれた公式の選定理由文（「松島の東に位置する」等の説明）は、県・協議会の公表資料では確認できなかった",
+    "中心地名「矢本」の中世以前の文献上の初出は、今回の調査では特定できなかった（『安永風土記』の由来説明が確認できた最古級の記録）",
+    "旧鳴瀬町の名の由来である鳴瀬川の語源は、今回の調査範囲では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-栗原市",
+   "code": "042137",
+   "names": {
+    "ja": "栗原市",
+    "reading": "くりはらし",
+    "aliases": [
+     "栗原郡"
+    ]
+   },
+   "user_terms": [
+    "栗原市は郡の名前をそのまま使ったのか",
+    "栗原郡はどうなったのか",
+    "栗原の名前の由来"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）4月1日、栗原郡の10町村すべてが合併して誕生した、郡全域がそのまま市になった例である。市名「栗原」は、公募で集めた案から小委員会が5候補に絞り、合併協議会委員の投票で決定された。選定理由には、郡の合併であること、住民が長く慣れ親しんだ名であること、歴史的に古くからある名であることが挙げられた。",
+   "first_attestation": {
+    "era": "平成17年",
+    "year_western": 2005,
+    "document": "栗原市の新設（10町村の合併・市制施行）",
+    "note": "市名としての初出。「栗原」の名自体は古代以来の郡名に遡るが、その語源は未確認"
+   },
+   "claims": [
+    {
+     "text": "政府統計の廃置分合情報によれば、平成17年（2005年）4月1日、築館町・若柳町・栗駒町・高清水町・一迫町・瀬峰町・鶯沢町・金成町・志波姫町・花山村の10町村が合併して栗原市が新設され、栗原郡は廃止された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-kurihara-estat"
+     ]
+    },
+    {
+     "text": "構成10町村はすべて栗原郡に属し、市を一つも含まない郡全域の合併であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-kurihara-estat",
+      "m1-kurihara-toshi"
+     ]
+    },
+    {
+     "text": "日本都市センターの調査報告によれば、新市の名称は、合併協議会に小委員会を設置して名称案を公募し、応募された中から5候補を小委員会で選定したうえで、合併協議会委員による投票を実施して決定された",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kurihara-toshi"
+     ]
+    },
+    {
+     "text": "選定理由として「栗原郡10町村の合併であることから」「栗原地域に住んでいる人々が長い間、慣れ親しんできた、馴染みやすい名前であること」「歴史的にも古くから『栗原』の名称があることから」が挙げられた、と同報告は記す",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kurihara-toshi"
+     ]
+    },
+    {
+     "text": "地方公共団体コードは042137である（総務省「地方公共団体コード一覧」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市のない郡が、そのまま市になった",
+    "text": "栗原の合併には、もともと「市」が一つもありませんでした。10の町村が対等に合併するとき、中心地の名（築館や若柳）を採れば他の町村が反発しかねません。そこで選ばれたのが、10町村すべてに共通する一番大きな傘、すなわち郡の名前でした。千年以上続いた「栗原郡」は合併で消えましたが、その名は市の名前として生き残ったのです。",
+    "sources": [
+     "m1-kurihara-toshi",
+     "m1-kurihara-estat"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "「栗原」という郡名自体の語源（「栗の原」に求める説明の典拠）は今回確認できていない",
+    "公募の応募総数と、最終候補5案の内訳は、都市センター報告の今回確認範囲では未確認",
+    "栗原郡の設置時期など郡史の詳細は本レコードでは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-気仙沼市",
+   "code": "042056",
+   "names": {
+    "ja": "気仙沼市",
+    "reading": "けせんぬまし",
+    "aliases": [
+     "気仙沼町",
+     "気仙沼本郷"
+    ]
+   },
+   "user_terms": [
+    "気仙沼はアイヌ語なのか",
+    "計仙麻とは何か",
+    "気仙沼の「沼」はどこにあるのか"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "市名は、古代の「計仙麻（けせま）」の系譜を引く地名「気仙沼」の継承である。語源はアイヌ語の「ケセ・モイ（終端の湾）」とする説が有力とされる。昭和28年（1953年）に気仙沼町・鹿折町・松岩村が合併して市制を施行した。",
+   "first_attestation": {
+    "era": "延長5年",
+    "year_western": 927,
+    "document": "『延喜式』神名帳（牡鹿郡・計仙麻神社、桃生郡・計仙麻大島神社）",
+    "note": "日本歴史地名大系が紹介する「けせま」の古い記録。『日本三代実録』に「計仙麻」の地名記事があるとする紹介もあるが、今回は原典を確認できていない"
+   },
+   "claims": [
+    {
+     "text": "日本歴史地名大系は、気仙沼の地名はアイヌ語のケセモイ・ケセムイから来ており、「湾内の奥」もしくは「アイヌの勢力の及ぶはずれの港」の意味とする説がある、と述べる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "m1-kesennuma-kotobank"
+     ]
+    },
+    {
+     "text": "同大系によれば、『延喜式』神名帳には牡鹿郡に計仙麻神社、桃生郡に計仙麻大島神社が見え、古代においては陸前高田市から牡鹿郡に至る沿海部を広く「けせま」と呼んだと考えられる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kesennuma-kotobank"
+     ]
+    },
+    {
+     "text": "慶長5年（1600年）の葛西大崎船止日記・漆請取日記（伊達家文書）には、仮名で「けせぬま」と記されている、と同大系は紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kesennuma-kotobank"
+     ]
+    },
+    {
+     "text": "世界大百科事典は、気仙沼の地名は『延喜式』に記された計仙麻神に由来するといわれる、とする",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kesennuma-kotobank2"
+     ]
+    },
+    {
+     "text": "昭和28年（1953年）に気仙沼町・鹿折町・松岩村が合体して気仙沼市が誕生し、昭和30年（1955年）に新月村・大島村・階上村を加えた、と日本歴史地名大系は述べる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kesennuma-kotobank"
+     ]
+    },
+    {
+     "text": "平成18年（2006年）3月に唐桑町と合併し、平成21年（2009年）に本吉町を編入した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-kesennuma-kotobank2"
+     ]
+    },
+    {
+     "text": "地方公共団体コードは042056である（総務省「地方公共団体コード一覧」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「終端の湾」という名の港町",
+    "text": "アイヌ語説によれば、「ケセ」は果て・末端、「モイ」は入り江で、気仙沼は「アイヌの勢力の及ぶ最果ての湾」という意味になります。古代の朝廷側の記録に残る「計仙麻（けせま）」という当て字は、その音を写し取ったものと考えられています。やがて音は「けせんぬま」へと延び、「沼」の字が残りました。市名の「沼」は湖沼ではなく、湾の奥の入り江を指す古い地名の名残です。",
+    "sources": [
+     "m1-kesennuma-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "『日本三代実録』に「計仙麻」の地名の記述があるとする紹介があるが、該当記事の原典確認は未実施",
+    "ケセ・モイ説と計仙麻神由来説の関係（どちらが先か）の専門的な決着は未確認",
+    "「気仙沼」の表記が定着した時期の特定は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-登米市",
+   "code": "042129",
+   "names": {
+    "ja": "登米市",
+    "reading": "とめし",
+    "aliases": [
+     "登米町（とよま）",
+     "登米郡"
+    ]
+   },
+   "user_terms": [
+    "登米はなぜ「とめ」と読むのか",
+    "とよまと登米市はどう違うのか",
+    "登米の名前は遠山村から来たのか"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）に登米郡8町と本吉郡津山町の9町が合併して誕生した。市名は古い郡名「登米」の継承だが、採用された読みは古来の「とよま」ではなく、明治11年（1878年）に郡名の読みとして改められた「とめ」である。「とよま」の語源は、『続日本紀』宝亀5年（774年）の「遠山村」に由来すると大槻文彦が指摘した。",
+   "first_attestation": {
+    "era": "宝亀5年",
+    "year_western": 774,
+    "document": "『続日本紀』（陸奥国遠山村の記事）",
+    "note": "語源とされる「遠山村」の記録で、大槻文彦が登米郡の地に比定した。「登米」の表記自体の初出級の記録は『和名類聚抄』の登米郡・登米郷（止与米）"
+   },
+   "claims": [
+    {
+     "text": "登米公民館の紹介によれば、国語学者の大槻文彦は『復軒雑纂』で、『続日本紀』宝亀5年（774年）10月の条に見える蝦夷の拠点「陸奥国遠山村」が後の登米郡の地であろうと述べ、「遠山」は「とよま」と同音であることを指摘した。これが「とよま」の語源とされている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "m1-tome-kominkan"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』には、登米郡に登米・行方の二郷があり、登米は「止与米（とよま）」と訓むことが記されている、と登米公民館は紹介する",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "m1-tome-kominkan"
+     ]
+    },
+    {
+     "text": "明治11年（1878年）、郡区町村編制法によって行政区画としての登米郡が発足した際、郡名の読みが「とよま」から「とめ」に改められ、以後、町の名は「とよま」、郡や行政に関わる名は「とめ」という二つの読みが並び立つようになった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "m1-tome-historia"
+     ]
+    },
+    {
+     "text": "宮城県の合併記録によれば、平成17年（2005年）4月1日、迫町・登米町・東和町・中田町・豊里町・米山町・石越町・南方町・津山町の9町が新設合併し、新市の名称は「登米市（とめし）」とされた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-tome-pref"
+     ]
+    },
+    {
+     "text": "登米（とよま）の町は中世には葛西氏の城下、近世には伊達一門の居館の地であった、と登米公民館は述べる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "m1-tome-kominkan"
+     ]
+    },
+    {
+     "text": "地方公共団体コードは042129である（総務省「地方公共団体コード一覧」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「とよま」と「とめ」、一つの地名に二つの読み",
+    "text": "登米は、日本でも珍しい「読みが割れた」地名です。土地の人々が古くから呼んできた「とよま」は町の名として残り、明治に郡役所の文書が持ち込んだ「とめ」が郡名・行政の読みとして広がりました。2005年の合併では、市の読みに選ばれたのは後者の「とめ」。いま市内では「登米市（とめし）」の中に「登米町（とよままち）」が大字として生き続け、二つの読みが同じ地図の上に並んでいます。",
+    "sources": [
+     "m1-tome-historia",
+     "m1-tome-kominkan"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "「遠山村＝登米郡の地」という比定は大槻文彦の指摘に基づくもので、『続日本紀』原典との照合は未実施",
+    "2005年の合併で読みに「とめ」を採った理由の明文は、県の合併記録には見当たらなかった",
+    "「とめ」の読みが県の役人の読み癖に始まるとする大槻文彦の説明の原文確認は未実施"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-白石市",
+   "code": "042064",
+   "names": {
+    "ja": "白石市",
+    "reading": "しろいしし",
+    "aliases": [
+     "白石町",
+     "白いし",
+     "増岡",
+     "白石村"
+    ]
+   },
+   "user_terms": [
+    "しろいし",
+    "白石城の城下町",
+    "片倉小十郎のまち",
+    "宮城蔵王の玄関口"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [
+    "muni/41-白石町"
+   ],
+   "summary": "宮城県最南部、蔵王連峰の東麓にある城下町。地名「白石」は中世に刈田郡の郷村名として現れ、『天文段銭古帳』の「白いし」が初見とされる。在地領主の白石氏は地名に因んで氏としたと伝えられ、戦国期には伊達氏の重臣層をなした。慶長7年（1602年）に片倉景綱が白石城に入って以来、260余年にわたり片倉氏の城下町として続き、1954年（昭和29年）に白石町ほか1町6村の合併で白石市が発足した。なお「白石」の語源そのものは専門辞典でも解明されていない。",
+   "first_attestation": {
+    "era": "天文年間",
+    "year_western": null,
+    "document": "天文段銭古帳",
+    "note": "角川日本地名大辞典が「『天文段銭古帳』に『白いし』と見えるのが初見」と紹介するもの（紹介形で記録）。古代の刈田郡四郷（篤借・刈田・坂田・三田）には「白石」は含まれず、地名の成立は中世と考えられる"
+   },
+   "claims": [
+    {
+     "text": "白石市の地方公共団体コードは042064である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）4月1日、白石町・越河村・斎川村・大平村・大鷹沢村・白川村・福岡村の1町6村が合併して白石市が発足し、1957年（昭和32年）3月31日に小原村を編入して現在の市域となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-shiroishi-city-tochi"
+     ]
+    },
+    {
+     "text": "角川日本地名大辞典は、「白石」の初見は『天文段銭古帳』に見える「白いし」であると紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-shiroishi-kakugawa"
+     ]
+    },
+    {
+     "text": "『伊達正統世次考』は「白石氏世々刈田郡白石邑に住す。よって氏とす」と記し、地名の「白石」が先にあって白石氏がそれに因んで氏としたとされる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-shiroishi-kakugawa"
+     ]
+    },
+    {
+     "text": "白石市公式資料は、『続日本紀』によれば養老5年（721年）10月に柴田郡の2郷を割いて刈田郡が置かれたと紹介し、当時の刈田四郷は篤借・刈田・坂田・三田であったとする",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-shiroishi-city-tochi"
+     ]
+    },
+    {
+     "text": "天正19年（1591年）に蒲生氏郷の領有となると白石の地名は改められたとみえ、内閣文庫蔵の高目録帳には白石にあたる地が「増岡」と記されている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-shiroishi-kakugawa"
+     ]
+    },
+    {
+     "text": "慶長7年（1602年）に片倉景綱が白石城に入城して以来、明治維新まで260余年にわたり片倉氏の居城となり、一国一城令の後も仙台藩は仙台城と白石城の二城を許された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-shiroishi-city-scene",
+      "t5-shiroishi-city-castle"
+     ]
+    },
+    {
+     "text": "市内の沢端町には「神石白石」と呼ばれる石があり、「白石」の地名の由来に結びつけて語られることがあるが、専門辞典に語源の裏付けは見当たらない",
+     "kind": "legend",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "t5-shiroishi-local"
+     ]
+    }
+   ],
+   "column": {
+    "title": "白石の名が運んだ先――札幌市白石区",
+    "text": "戊辰戦争で奥羽越列藩同盟（白石同盟）の本拠地となった白石城。敗戦後、旧片倉家中の多くは北海道へ渡る道を選んだ。彼らが札幌の東部に入植して開いた村が「白石村」で、現在の札幌市白石区の地名の起こりである。つまり北海道の「白石」は宮城県白石の旧藩士たちが持ち運んだ地名で、北海道の区名と宮城県の市名は、移住という人の移動でつながっている。なお白石自身も、明治の初めに一時「白石県」の県庁所在地になったことがあるが、まもなく角田県に改められ消えた。",
+    "sources": [
+     "t5-shiroishi-city-rekishi",
+     "t5-shiroishi-city-tochi",
+     "t5-shiroishi-kanko"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/41-白石町"
+   ],
+   "unknowns": [
+    "「白石」という地名の語源（白い石・神石などに求める説明）は、専門辞典・市公式資料のいずれでも裏付けが確認できなかった",
+    "『天文段銭古帳』自体の成立年・原典は未読のため、初出の主張は角川日本地名大辞典の紹介形にとどめた"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-石巻市",
+   "code": "042021",
+   "names": {
+    "ja": "石巻市",
+    "reading": "いしのまきし",
+    "aliases": [
+     "石巻町"
+    ]
+   },
+   "user_terms": [
+    "石巻の名前の由来",
+    "巻石とは何か",
+    "伊寺水門と石巻"
+   ],
+   "naming_type": "その他（古地名の継承）",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "石巻の由来には、御島の「巻石」に川の水が当たって渦を巻くことによるとする説と、『日本書紀』の「伊寺水門（いしのみなと）」に求める村岡良弼以来の説とがあり、定説は定まっていない。元和9年（1623年）の北上川開削で港町として開け、昭和8年（1933年）に市制を施行、平成17年（2005年）に1市6町の合併で現在の市となった。",
+   "first_attestation": {
+    "era": "天保10年",
+    "year_western": 1839,
+    "document": "村岡良弼『地理志科』",
+    "note": "石巻の由来を論じた古い文献の一つ。「石巻」の使用例自体の初出は未確認で、古代にさかのぼらないとする見解がある。"
+   },
+   "claims": [
+    {
+     "text": "石巻の地名の由来として、住吉公園前にある御島（島）の北側の松の下にある「巻石」に、川の水が当たって渦を巻くことから名付けられたとする説が、国土交通省北上川下流河川事務所と石巻市建設部の資料で紹介されている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "l1-ishinomaki-mlit"
+     ]
+    },
+    {
+     "text": "江戸時代後期の地理学者・村岡良弼は天保10年（1839年）の『地理志科』で、『日本書紀』仁徳天皇条の「伊寺水門（いしのみなと）」を石巻の由来とし、石巻は伊寺の牧（放牧地）であったと説いた。一方で、「石巻」の地名は古代までさかのぼらないとの見解もある。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l1-ishinomaki-name-wiki"
+     ]
+    },
+    {
+     "text": "石巻市公式「石巻漁港の概要」は、上毛野田道将軍が「伊寺水門」で戦死したと記録されており、「伊寺水門」が石巻の古名であると伝えられているとする。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-ishinomaki-city"
+     ]
+    },
+    {
+     "text": "元和9年（1623年）、伊達政宗が川村孫兵衛に命じて北上川の新河道を開削して本流を導入してから水運が開け、石巻は港町として繁栄した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-ishinomaki-city",
+      "l1-ishinomaki-mlit"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に石巻町が成立し、昭和8年（1933年）4月1日に単独で市制を施行して石巻市となった。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-ishinomaki-wiki"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）4月1日、旧石巻市・河北町・雄勝町・河南町・桃生町・北上町・牡鹿町の1市6町が合併して新しい石巻市となった。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-ishinomaki-wiki"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、石巻市のコードは042021とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "渦を巻く石か、古代の水門か",
+    "text": "石巻の由来は二つの物語に分かれる。一つは目の前に実在する石の話。御島のほとりの「巻石」に北上川の水が当たって渦を巻く、その姿が名になったという。もう一つは『日本書紀』の「伊寺水門」に古代の港を求める話で、江戸後期の学者・村岡良弼が唱えた。ただし「石巻」という名自体は古代までさかのぼらないとの見解もあり、古代説は地名の古さではなく伝承の古さを語るものかもしれない。実在の石と古代の書物、どちらを原点と見るかで町の物語が変わる。",
+    "sources": [
+     "l1-ishinomaki-mlit",
+     "l1-ishinomaki-name-wiki"
+    ]
+   },
+   "relations": [
+    "pref/04"
+   ],
+   "unknowns": [
+    "「石巻」の表記の文献上の初出は未確認。",
+    "巻石説がいつ誰によって唱えられたか、その典拠は特定できていない。",
+    "1933年の市制施行と2005年の合併の経緯について、市公式年表での再確認は未実施。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-美里町",
+   "code": "045055",
+   "names": {
+    "ja": "美里町",
+    "reading": "みさとまち",
+    "aliases": []
+   },
+   "user_terms": [
+    "美里町の名前の由来",
+    "小牛田町と南郷町が合併した町",
+    "遠田市にならなかった理由"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "宮城県",
+   "homonyms": [
+    "muni/11-美里町",
+    "muni/43-美里町"
+   ],
+   "summary": "2006年に小牛田町と南郷町の新設合併で生まれた新町名。当初は涌谷町を含む3町合併で新市名「遠田市」に決まっていたが、涌谷町の離脱で2町合併となり、名称も「美里町」に決め直された経緯がある。県の合併記録に命名理由は記されておらず、「美しい里」型の佳名として選ばれたかどうかは公式資料では確認できない。",
+   "first_attestation": {
+    "era": "平成18年",
+    "year_western": 2006,
+    "document": "自治体名としての「美里町」（小牛田町・南郷町合併協議会で確認）",
+    "note": "合併前の両町域に「美里」という地名があったかどうかは未確認"
+   },
+   "claims": [
+    {
+     "text": "当初の3町（小牛田町・涌谷町・南郷町）合併では、公募で集まった名称の中から小委員会が候補を絞り、2004年2月の第10回協議会の投票で新市名を「遠田市」と決定していたと宮城県の合併記録が伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-miyagi-gappei-shosai"
+     ]
+    },
+    {
+     "text": "涌谷町で2004年12月12日に行われた合併の是非を問う住民投票は反対54.9%となり、涌谷町は協議会を離脱して3町協議会は解散した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-miyagi-gappei-shosai"
+     ]
+    },
+    {
+     "text": "2町による合併協議会（2005年2月4日設立）の第5回協議会で新町の名称を「美里町」とすることなどが確認され、2006年1月1日に小牛田町・南郷町を廃して美里町が設置された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-miyagi-gappei-ichiran",
+      "h3-miyagi-gappei-gaiyo"
+     ]
+    },
+    {
+     "text": "県がまとめた新町の概要・合併記録には「美里」の選定理由が記されておらず、この名が「美しい里」を意味する佳名として選ばれたのか、旧地名等に由来するのかは、確認した公式資料では判明しない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "h3-miyagi-gappei-gaiyo"
+     ]
+    },
+    {
+     "text": "埼玉県・熊本県の美里町と同様に合併で生まれた新名で、「美しい里」と読める字面を持つ点は共通する。しかし埼玉では公募・全世帯投票の経緯と理由の説明が、熊本では公募の理由文が公式に残るのに対し、宮城では理由文が確認できない点が異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-saitama-mayor",
+      "h3-kumamoto-misato-pref",
+      "h3-miyagi-gappei-gaiyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では本町のコードは045055とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えた「遠田市」と決め直された名前",
+    "text": "美里町の名前は、最初から「美里」だったわけではありません。3町合併の段階では郡名にちなむ「遠田市」が新市名に決まっていました。涌谷町の住民投票で枠組みが崩れ、2町で仕切り直した協議会が改めて選んだのが「美里町」です。経緯の記録は県資料に詳しく残る一方、なぜ「美里」なのかという理由文は残っていません。",
+    "sources": [
+     "h3-miyagi-gappei-shosai",
+     "h3-miyagi-gappei-ichiran"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/11-美里町",
+    "muni/43-美里町"
+   ],
+   "unknowns": [
+    "「美里」の具体的な選定理由（公募の有無・候補名・理由文）",
+    "合併前の両町域に「美里」という字名・小地名があったか"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/04-角田市",
+   "code": "042081",
+   "names": {
+    "ja": "角田市",
+    "reading": "かくだし",
+    "aliases": [
+     "角田町",
+     "角田本郷",
+     "かく田"
+    ]
+   },
+   "user_terms": [
+    "かくだ",
+    "宇宙のまち（JAXA角田宇宙センター）",
+    "石川氏の城下町",
+    "角田盆地の中心"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "宮城県",
+   "homonyms": [],
+   "summary": "宮城県南部、伊具盆地（角田盆地）の中心にある市。「角田」の名は戦国期に成立した郷村名で、天文7年（1538年）の段銭古帳に「かく田」と見えるのが記録上の初見級である。語源は専門辞典でも「明らかでない」とされ、四角に開けた田に求める説、「すみた（隅田）」の転訛とみる説などが定まっていない。戦国期は伊達一族の田手氏が拠り、慶長3年（1598年）に伊達一門筆頭の石川昭光が入封して以降、角田要害（臥牛城）の城下町として270年にわたり石川氏が治めた。1958年（昭和33年）に市制を施行して角田市となった。",
+   "first_attestation": {
+    "era": "天文7年",
+    "year_western": 1538,
+    "document": "天文段銭古帳（段銭帳）",
+    "note": "『日本歴史地名大系』が、段銭古帳に後世の角田本郷にあたる地として段銭29貫250文の「かく田かう」が見えると紹介するもの（紹介形で記録）。地名の成立自体は戦国期と角川日本地名大辞典が述べる"
+   },
+   "claims": [
+    {
+     "text": "角田市の地方公共団体コードは042081である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "角田町は1958年（昭和33年）に市制を施行して角田市となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-kakuda-kakugawa"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、天文7年（1538年）の段銭古帳に後世の角田本郷にあたる「かく田かう」が見えると紹介し、天文15年（1546年）の伊達晴宗の書状にも「角田」の地の動向を気遣う文が見える",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-kakuda-kotobank-hongo"
+     ]
+    },
+    {
+     "text": "角川日本地名大辞典は「角田」の地名の由来は明らかでないとし、角田城門近くに四角に田が開けたからとする説、阿武隈川と西方山地の間に細長く田が開けたからとする説、「すみた（隅田）」と読んで隅田の意味に考える説（『宮城県地名考』）などを挙げて定説はないとする",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "t5-kakuda-kakugawa"
+     ]
+    },
+    {
+     "text": "戦国期の角田の領主は伊達一族の田手氏で、次いで伊達の重臣・伊達成実が入った",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-kakuda-kakugawa"
+     ]
+    },
+    {
+     "text": "慶長3年（1598年）、伊達家一門筆頭の石川昭光が松山より移封されて角田に入り、臥牛城（角田館・角田要害）は以後明治維新に至るまで270年間、石川氏の居城となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t5-kakuda-city-castle",
+      "t5-kakuda-kakugawa"
+     ]
+    },
+    {
+     "text": "石川氏は阿武隈川の治水・利水に尽力し、角田本郷は阿武隈川水運の中継地として繁栄し、米や生糸の集散地となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t5-kakuda-kakugawa"
+     ]
+    }
+   ],
+   "column": {
+    "title": "読みも決まらなかった「かくだ」",
+    "text": "「角田」は今でこそ「かくだ」と読むが、角川日本地名大辞典が引く『宮城県地名考』は「すみた」と読んで隅田（すみだ）の意味に考える説を紹介する。実際、「角田」は全国的には「つのだ」「かくた」「すみた」など読みが分かれる姓・地名で、隅田・門田と通じる字でもある。天文の段銭古帳の表記も漢字ではなく「かく田かう」という音の記録だった。漢字の「角田」が定着し読みが「かくだ」に落ち着くまで、この地名は長いあいだ音として受け継がれてきたらしい。語源が「明らかでない」という専門辞典の結論は、この地名の古さの裏返しでもある。",
+    "sources": [
+     "t5-kakuda-kakugawa",
+     "t5-kakuda-kotobank-hongo"
+    ]
+   },
+   "relations": [
+    "pref/04",
+    "muni/04-白石市"
+   ],
+   "unknowns": [
+    "「角田」の語源は角川日本地名大辞典が「明らかでない」と明記する通り未解明で、四角田説・細長田説・隅田説のいずれも裏付けが得られなかった",
+    "1958年（昭和33年）の市制施行が単独市制か合併を伴うものかは、今回の調査範囲では市公式資料で確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

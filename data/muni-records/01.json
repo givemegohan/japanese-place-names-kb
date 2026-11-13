@@ -1,0 +1,4889 @@
+{
+ "sources": {
+  "a-cap-sapporo-city": {
+   "label": "札幌市「札幌市のあらまし」（札幌の地名の由来・札幌の歴史）",
+   "url": "https://www.city.sapporo.jp/city/aramashi"
+  },
+  "a-cap-sapporo-sugata": {
+   "label": "札幌市「札幌市の姿」（参考資料。茨戸のアイヌ・能登酉雄の談話の引用を含む）",
+   "url": "https://www.city.sapporo.jp/shimin/bunkazai/documents/408sankoushiryou2.pdf"
+  },
+  "a-cap-sapporo-teine": {
+   "label": "手稲郷土史研究会・渡辺隆「地名『札幌』の由来をたずねて」（札幌市サイト掲載の研究会報。最古の記録とサッポロ川の旧流路の特定）",
+   "url": "https://www.city.sapporo.jp/teine/shimin/chiikishinkou/rekishi/documents/kaihou163.pdf"
+  },
+  "a-hok-dajokan": {
+   "label": "太政官布告（明治2年8月15日、蝦夷地を北海道と改称し11国86郡を置く）",
+   "url": null
+  },
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "h1-date-hokkaido-gaikyo": {
+   "label": "伊達市（北海道）「伊達市の概況（令和7年度版）」（邦成の移住・伊達村の成立・大滝との合併）",
+   "url": "https://www.city.date.hokkaido.jp/hotnews/files/00001300/00001323/20250602142736.pdf"
+  },
+  "h1-date-summit": {
+   "label": "伊達藩「ふるさと姉妹都市・歴史友好都市」連絡協議会資料（新地町。「ふるさと従兄弟」まちづくりサミット開催要領。邦成の移住の人数と経緯）",
+   "url": "http://www.shinchi-town.jp/uploaded/attachment/6557.pdf"
+  },
+  "h1-jk-chimei-62": {
+   "label": "ジャパンナレッジ 日本歴史地名大系ジャーナル「日本列島『地名』をゆく！ 第62回 同一市名あれこれ（2）」（2つの伊達市の由来と名称決定の経緯。国史大辞典・日本歴史地名大系を引く）",
+   "url": "https://japanknowledge.com/articles/blogjournal/interest_chimei/entry.html?entryid=62"
+  },
+  "h1-matsumae-crd": {
+   "label": "レファレンス協同データベース事例（北海道立図書館。「松前城が別名福山城と呼ばれるのは何故か」。松前町史・北海道大百科事典を引く）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000194671&page=ref_view"
+  },
+  "h1-matsumae-ehime-yoran": {
+   "label": "愛媛県「市町要覧」松前町の項（町名の由来＝正木の改字説と諸説ありの留保、1955年の合併）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/182942.pdf"
+  },
+  "h1-matsumae-hokkaido-town": {
+   "label": "松前町（北海道）公式「松前町の概要」（町名の由来＝アイヌ語「マツ・オマイ」「マト・マイ」説と古表記「万堂宇満伊犬」）",
+   "url": "https://www.town.matsumae.hokkaido.jp/hotnews/detail/00000342.html"
+  },
+  "h1-matsumae-jtb": {
+   "label": "日本交通公社 全国観光資源台帳「松前町（北海道）」（福山町への改称・松前町への改称年・松前藩の城下町）",
+   "url": "https://tabi.jtb.or.jp/city?opt=%E5%8C%97%E6%B5%B7%E9%81%93%2C%E6%9D%BE%E5%89%8D%E7%94%BA&type=city"
+  },
+  "h2-hidaka-hok-ainu": {
+   "label": "内閣府「日高町アイヌ施策推進地域計画」（2022年3月11日公表、右左府の由来と2006年の合併）",
+   "url": "https://www8.cao.go.jp/ainu/kouhyou/chiiki_keikaku/20220311/kouhyou-hidaka.pdf"
+  },
+  "h2-hidaka-hok-gyokaku": {
+   "label": "北海道日高振興局「令和3年度 日高振興局管内行財政概要」（管内町の沿革）",
+   "url": "https://www.hidaka.pref.hokkaido.lg.jp/fs/1/2/5/0/1/5/4/9/_/R3%E6%97%A5%E9%AB%98%E6%8C%AF%E8%88%88%E5%B1%80%E7%AE%A1%E5%86%85%E8%A1%8C%E8%B2%A1%E6%94%BF%E6%A6%82%E8%A6%810819.pdf"
+  },
+  "h2-hidaka-hok-hassho": {
+   "label": "日高町発祥之地碑を紹介するページ（日高村五拾年史等の内容を含む郷土資料）",
+   "url": "http://ouendaichi20092.web.fc2.com/douou/dououhtml/hidakahasshou.html"
+  },
+  "h2-hidaka-wakayama-manabi": {
+   "label": "和歌山県教育センター学びの丘「わかやま発見」日高町（1954年の合併と町名の由来）",
+   "url": "https://www.manabi.wakayama-c.ed.jp/wakayama_hakken/pdf/section/03/238.pdf"
+  },
+  "h2-ikeda-hok-gikai": {
+   "label": "北海道池田町議会「令和8年 池田町議会の概要」（池田町の沿革：凋寒・川合・池田町の変遷）",
+   "url": "https://www.town.hokkaido-ikeda.lg.jp/files/00000900/00000958/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E6%B1%A0%E7%94%B0%E7%94%BA%E8%AD%B0%E4%BC%9A%E3%81%AE%E6%A6%82%E8%A6%81.pdf"
+  },
+  "h2-ikeda-hok-history": {
+   "label": "北海道池田町公式サイト「沿革」（池田農場の開設・池田駅・池田町の歴史）",
+   "url": "https://www.town.hokkaido-ikeda.lg.jp/machi/history/675.html"
+  },
+  "h2-kotobank-ikedacho": {
+   "label": "コトバンク「池田町」（日本歴史地名大系・ブリタニカ国際大百科事典 小項目事典）",
+   "url": "https://kotobank.jp/word/%E6%B1%A0%E7%94%B0%E7%94%BA-30274"
+  },
+  "h2-kotobank-shimizu": {
+   "label": "コトバンク「清水町」（日本歴史地名大系、北海道・静岡県の清水町）",
+   "url": "https://kotobank.jp/word/%E6%B8%85%E6%B0%B4%E7%94%BA-75199"
+  },
+  "h2-mori-hok-ayumi": {
+   "label": "北海道森町公式サイト「森町のあゆみ-北海道で唯一の『まち』-」",
+   "url": "https://www.town.hokkaido-mori.lg.jp/soshiki/somu/6/124.html"
+  },
+  "h2-mori-hok-tokei": {
+   "label": "北海道森町「森町統計書（令和2年版）第1編 沿革・地勢・気象」",
+   "url": "https://www.town.hokkaido-mori.lg.jp/material/files/group/5/R2toukeisyo_01.pdf"
+  },
+  "h2-mori-shizuoka-yurai": {
+   "label": "静岡県森町公式サイト「森町の由来」",
+   "url": "https://www.town.morimachi.shizuoka.jp/gyosei/machinososhiki/shakaikyoikuka/bunkashinkogakari/rekishi/5590.html"
+  },
+  "h2-shimizu-hok-history": {
+   "label": "北海道清水町公式サイト「歴史」（ペケレベツの意訳・清水村への改称）",
+   "url": "https://www.town.shimizu.hokkaido.jp/town/history.html"
+  },
+  "h2-shimizu-hok-setsumei": {
+   "label": "北海道清水町「清水町 町名変更に関する町民説明会資料」（「十勝清水町」への改称検討）",
+   "url": "https://www.town.shimizu.hokkaido.jp/section/02/files/ff293f33d5911068f2c6f288231e6b47.pdf"
+  },
+  "k2-asahikawa-city-ayumi": {
+   "label": "旭川市「旭川市のあゆみ（市の概要）」（チュプ・ペッ語源説と「諸説あって定かではない」との市の見解、1890年の村の設置と1922年の市制）",
+   "url": "https://www.city.asahikawa.hokkaido.jp/700/701/summary/p008252.html"
+  },
+  "k2-asahikawa-crd": {
+   "label": "レファレンス協同データベース「『旭川』の命名者，命名の由来について知りたい」（旭川市中央図書館。新聞『北海』明治23年9月23日記事の引用、アイヌ語解釈の3説、命名者の記録なし）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000242135&page=ref_view"
+  },
+  "k2-hakodate-city-gaiyo": {
+   "label": "函館市「函館市の概要」（享徳3年（1454年）の河野政通の宇須岸館と「箱館」の起こり、明治2年の「函館」への改称）",
+   "url": "https://www.city.hakodate.hokkaido.jp/docs/2014020600063"
+  },
+  "k2-hakodate-shishi": {
+   "label": "函館市史 通説編第3巻「市制の施行」（大正11年の函館区の市制施行に至る経緯。函館市中央図書館デジタル資料館）",
+   "url": "https://archives.c.fun.ac.jp/hakodateshishi/tsuusetsu_03/shishi_05-02/shishi_05-02-01-01-03.htm"
+  },
+  "k2-hakodate-zaidan": {
+   "label": "函館市文化・スポーツ振興財団「河野政通」（函館ゆかりの人物伝。宇須岸河野館の規模と「箱館」由来の有力説、コシャマインの戦い）",
+   "url": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kounoma.html"
+  },
+  "k2-hokkaido-rrc-origin": {
+   "label": "北海道マイナビジョン編集（ぐるっと北海道・北海道のふるさと納税特設サイト）「北海道の市町村名の由来」（アイヌ語語源の諸説。民間資料としてE4扱い）",
+   "url": "https://hokkaido-rrc.jp/origin"
+  },
+  "k2-kushiro-city-gaiyo": {
+   "label": "釧路市「釧路市の概要（令和7年度）」（市名の由来はアイヌ語の諸説あり定かではないとの市の見解、明治2年の「釧路」の字の決定、2005年の新設合併）",
+   "url": "https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/002/949/r7gaiyou.pdf"
+  },
+  "k2-kushiro-city-machi": {
+   "label": "釧路市「釧路市の町名の由来」（久寿里場所についての松浦武四郎の言を『釧路郷土史考』経由で伝える）",
+   "url": "https://www.city.kushiro.lg.jp/machi/tkeikaku/1006116/1006187/1006191.html"
+  },
+  "k2-uub-hakodate": {
+   "label": "市区町村変遷情報「函館市（1922〜2005年）」（大正11年8月1日の市制施行。実務資料としてE4扱い）",
+   "url": "https://uub.jp/upd/c/8600.html"
+  },
+  "l1-ebetsu-kamiebetsu": {
+   "label": "江別市立上江別小学校「地域史・年表」（『新江別市史』を引き、1846年『再航蝦夷日誌』の「エベツプト」、1752年の伐木図の「伊別川」を紹介）",
+   "url": "http://www.ebetsu-city.ed.jp/kamiebetsu-s/tiikisi/nenpyou.htm"
+  },
+  "l1-ebetsu-shishi-nenpyo": {
+   "label": "江別市史 第17章年表（江別市公式。1878年の第1次屯田兵入地と村名決定、1906年合併、1916年町制、1954年7月市制）",
+   "url": "https://www.city.ebetsu.hokkaido.jp/uploaded/attachment/6055.pdf"
+  },
+  "l1-ebetsu-yoran": {
+   "label": "江別市 市勢要覧系資料（地名の由来としてアイヌ語の「イベチプト」「イ・ブ・ツ」「ユベオツ」等の複数説を併記）",
+   "url": "https://www.city.ebetsu.hokkaido.jp/uploaded/attachment/82375.pdf"
+  },
+  "l1-kitami-kuni-wiki": {
+   "label": "Wikipedia「北見国」（1869年の松浦武四郎の国名建議書の文面の引用）",
+   "url": "https://ja.wikipedia.org/wiki/北見国"
+  },
+  "l1-kitami-rubeshibe": {
+   "label": "北見市公式「留辺蘂町の歴史」（1915年に武華村として分村、1921年の町制施行にあわせ留辺蘂町へ改称）",
+   "url": "https://www.city.kitami.lg.jp/administration/education/detail.php?content=3138"
+  },
+  "l1-kitami-wiki": {
+   "label": "Wikipedia「北見市」（野付牛の由来と変遷、1942年の市制施行と改称、2006年の新設合併）",
+   "url": "https://ja.wikipedia.org/wiki/北見市"
+  },
+  "l1-obihiro-furikaeru": {
+   "label": "帯広市公式連載「振り返る帯広」（下帯広村から1902年帯広町・1915年一級町村制、1933年4月1日市制施行）",
+   "url": "https://www.city.obihiro.hokkaido.jp/shisei/gaiyo/furikaeru/1001414.html"
+  },
+  "l1-obihiro-yoran": {
+   "label": "帯広市「市勢要覧2025」（地名の由来＝アイヌ語「オペレペレケプ」の転訛、1883年の晩成社入植）",
+   "url": "https://www.city.obihiro.hokkaido.jp/_res/projects/default_project/_page_/001/004/142/2025_shiseiyouran.pdf"
+  },
+  "l1-otaru-ayumi": {
+   "label": "小樽市公式「小樽市のあゆみ」（1865年の村並指定、1869年の「小樽」への改称、1922年8月1日の市制施行）",
+   "url": "https://www.city.otaru.lg.jp/docs/2020120700886"
+  },
+  "l1-otaru-guide": {
+   "label": "小樽市「くらしのガイド2025・市の概要」（地名はアイヌ語「オタ・オル・ナイ（砂浜の中の川）」に由来）",
+   "url": "https://www.city.otaru.lg.jp/docs/2020102200380/file_contents/P01-2025-guide.pdf"
+  },
+  "l1-otaru-keikaku": {
+   "label": "小樽市 環境計画第2章「環境の現状と課題」（小樽市の概況・沿革。1940年に高島町・朝里村、1958年に塩谷村を合併）",
+   "url": "https://www.city.otaru.lg.jp/docs/2020120800753/file_contents/4keikaku2syo.pdf"
+  },
+  "l1-tomakomai-qa": {
+   "label": "苫小牧市公式Q&A「苫小牧の『牧』の字の由来について」（令和5年1月27日公開。3説を挙げ「明確にはわかっていません」と回答）",
+   "url": "https://www.city.tomakomai.hokkaido.jp/shisei/koho/kocho/ikembako/reiwa4/r04200.html"
+  },
+  "l1-tomakomai-rekishi": {
+   "label": "苫小牧市公式「苫小牧の歴史」（1869年の高知藩による表記、1873年「苫細」、1874年「苫小牧」への改名、1902年村制・1918年町制・1948年市制）",
+   "url": "https://www.city.tomakomai.hokkaido.jp/shisei/tomakomainitsuite/gaiyo/tomakomai-rekishi.html"
+  },
+  "l1-tomakomai-wiki": {
+   "label": "Wikipedia「苫小牧市」（松浦武四郎『初航蝦夷日誌』の「トフマコマフ」、別説「トゥマコマイ」）",
+   "url": "https://ja.wikipedia.org/wiki/苫小牧市"
+  },
+  "l1-tomakomai-yoran": {
+   "label": "苫小牧市「市勢要覧2025」（地名の由来＝アイヌ語「ト・マコマイ」）",
+   "url": "https://www.city.tomakomai.hokkaido.jp/files/00006900/00006983/20250407150000.pdf"
+  },
+  "t1-chitose-rekishi": {
+   "label": "千歳市公式「歴史散歩ちとせ シコツから千歳へ」（千歳地方を指す「シコツ」（アイヌ語で大きな凹地）という地名が文献に最初に現れるのは万治3年（1660年）の『福山秘府』といわれること、江戸時代にはシコツ越えとして知られた交通路であったことを紹介）",
+   "url": "https://www.city.chitose.lg.jp/c70/1002771/1002773/1004799.html"
+  },
+  "t1-chitose-shikotsu-ron": {
+   "label": "西田秀子（千歳市史編さん担当）「シコツと千歳の地名解」（千歳市公式サイト掲載の市史編さん論文。知里真志保がシコツをアイヌ語 si-kot「大きい窪地・大谷」と解したこと、文化2年（1805年）に羽太正養がシコツ川を千歳川に改名したこと、その理由としてシコツの音の響きの悪さと鶴の生息地であることを挙げる）",
+   "url": "https://www.city.chitose.lg.jp/_res/projects/default_project/_page_/001/005/095/20160721-150808.pdf"
+  },
+  "t1-chitose-yoran": {
+   "label": "千歳市「要覧ちとせ 令和7年版」（「地名の由来」として、旧地名シコツはアイヌ語で「大きなくぼ地又は谷」の意であること、文化2年（1805年）に箱館奉行調役並の山田鯉兵衛嘉充が奉行の羽太正養に願い出て、鶴の多い地であることから「鶴は千年、亀は万年」の故事により「千歳」と命名したことを記す。昭和33年（1958年）の市制施行にも触れる）",
+   "url": "https://www.city.chitose.lg.jp/_res/projects/default_project/_page_/001/005/859/6.pdf"
+  },
+  "t1-furano-city-gaiyo": {
+   "label": "富良野市「富良野市の概要（令和4年版）」（「富良野の語源」として、アイヌ語の「フラヌイ hura-nu-i（臭・もつ・所）」が転訛したとする説が有力となっており、富良野川の水源が十勝岳であるために硫黄の臭気を含むことから呼ばれたと考えられる、と記す。市町村コード番号012297も同書で確認できる）",
+   "url": "https://www.city.furano.hokkaido.jp/fs/5/2/7/3/0/_/gaiyou_R4.pdf"
+  },
+  "t1-furano-env": {
+   "label": "環境省「感覚環境のまちづくり報告書」（富良野市の開拓は明治29年（1896年）に富良野原野殖民地区画が設定され、翌30年（1897年）に入植が始まったことによること、昭和41年（1966年）に道内29番目の市として富良野市が誕生したことを記す）",
+   "url": "https://www.env.go.jp/content/900405075.pdf"
+  },
+  "t1-furano-gogen": {
+   "label": "語源由来辞典「富良野市」（富良野の地名の由来は、アイヌ語で「臭気をもつ所」を意味する「フラヌイ」の転訛とする説が有力とされることのほか、赤い溶岩や焼け石がたくさんある所で「赤い野」を意味するアイヌ語の「フラヌ」に由来するといった説もあることを紹介）",
+   "url": "https://gogen-yurai.jp/furano-shi-hokkaido"
+  },
+  "t1-furano-kamifurano-saguru": {
+   "label": "上富良野町郷土をさぐる会「武四郎とアイヌ語地名」（上富良野百年史掲載。「フラヌイ」という地名は、文政4年（1821年）間宮林蔵作と認められる『蝦夷図』に見えるのが初出のようであること、安政5年（1858年）に松浦武四郎が富良野を経て十勝越えを果たし日誌・地図で流域のアイヌ語地名を明らかにしたこと、武四郎自身はフウラヌイを「赤川と云う義、川底皆赤土なるが故」と解したことを紹介）",
+   "url": "https://www.town.kamifurano.hokkaido.jp/hp/saguru/100nen/2.05.01.htm"
+  },
+  "t1-hokuto-city-chosho": {
+   "label": "北斗市公式「村章・町章・市章」（明治12年（1879年）に有川村と戸切地村が合併して上磯村が誕生したこと、明治33年（1900年）に大野・市渡・本郷・文月・千代田・一本木の6村が統合して新しい大野村が誕生したことを記す）",
+   "url": "https://www.city.hokuto.hokkaido.jp/bunkazai/data/chosho.htm"
+  },
+  "t1-hokuto-city-gaiyo": {
+   "label": "北斗市公式「北斗市の概要」（平成18年（2006年）2月1日、旧上磯町と旧大野町が合併し、道内35番目の市となる北斗市が誕生したこと、旧上磯町は明治13年に上磯村ほか4か村戸長役場の設置に始まり大正7年に町制を施行したこと、旧大野町は明治33年に6村が合併して大野村となり昭和32年に町制を施行したことを記す）",
+   "url": "https://www.city.hokuto.hokkaido.jp/docs/1112.html"
+  },
+  "t1-hokuto-wiki": {
+   "label": "Wikipedia「北斗市」（市名の由来として、合併協議会で一般公募を実施し、応募の中から合併新市名選考小委員会が6点まで選考し、最終的に合併協議会委員25人の投票により決定したこと、応募者の思いとして「北の空（大地）にさんぜんと光り輝く星（街）（北斗星）。他の市町村の範となると同時に、個性を失わず独自の輝きをもつ街づくり」が紹介されていること、2006年2月1日に上磯町と大野町の新設合併により誕生したことを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%B8%82"
+  },
+  "t1-iwamizawa-city-chimei": {
+   "label": "岩見沢市公式「地名の由来」（岩見沢はアイヌ語地名が多い北海道で数少ない和名の都市であること、明治11年に幌内煤田開採のため開拓使が札幌〜幌内間の道路開削に当たり、当市北部の幾春別川の川辺に休泊所を設け、ここで浴（ゆあみ）して疲れをいやしたことから「浴澤」（ゆあみさわ）と称するようになり、これが転化して「岩見澤」と呼ばれるようになったとする説明）",
+   "url": "https://www.city.iwamizawa.hokkaido.jp/soshiki/shomuka/iwamizawashi_shokai/1/4232.html"
+  },
+  "t1-iwamizawa-city-oitachi": {
+   "label": "岩見沢市公式「岩見沢のおいたち」（明治17年10月6日の設村の告示により岩見澤（イワミザワ）村となったこと、明治17〜18年に山口県・鳥取県ほか10県から士族277戸1,503人が集団移住したことを記す）",
+   "url": "https://www.city.iwamizawa.hokkaido.jp/soshiki/shomuka/iwamizawashi_shokai/1/3876.html"
+  },
+  "t1-iwamizawa-hi": {
+   "label": "岩見沢市教育委員会「岩見沢神社 巌見澤紀碑」（市指定文化財の碑の解説と碑文。明治38年（1905年）建立の碑文「岩見澤記」は、開拓使の役丁が澗流で浴したことから浴澤と称し、「浴」の訓（ゆあみ）と「岩見」の音が近いことから岩見澤と名付けられたと記すことを紹介）",
+   "url": "https://www.city.iwamizawa.hokkaido.jp/material/files/group/49/content_20200917_092407.pdf"
+  },
+  "t1-iwamizawa-mlit": {
+   "label": "国土交通省北海道開発局札幌開発建設部「岩見沢市」（市町村名の由来として、開拓使が道路開削の際に幾春別川沿いに浴場を設けて浴したことから浴沢（ゆあみざわ）と呼称され、のちに岩見沢と転称表記されたとする説明。変遷として1884年の岩見沢村戸長役場設置、1943年の市制施行、2006年の栗沢町・北村編入を記す）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh400000041n6.html"
+  },
+  "t1-kitahiroshima-city-youran": {
+   "label": "北広島市「市勢要覧リーフレット」（略史として、1884年（明治17年）に和田郁次郎が率いる広島県からの入植者25戸103人が到着したこと、1894年（明治27年）に月寒村から分離して「広島村」が誕生し、地名は入植者の故郷である広島県に由来すること、1968年（昭和43年）の町制施行で「広島町」となり、1996年（平成8年）9月1日に広島町が市制を施行して「北広島市」が誕生したことを記す）",
+   "url": "https://www.city.kitahiroshima.hokkaido.jp/hotnews/files/00160100/00160164/siseiyouran_leaflet.pdf"
+  },
+  "t1-kitahiroshima-kyoiku": {
+   "label": "北広島市教育委員会「略年表」（明治17年（1884年）5月に、和田郁次郎を中心とする広島県人移住団体18戸が5月23日に到着したことを記す）",
+   "url": "http://www.city.kitahiroshima.hokkaido.jp/kyoiku/detail/00131446.html"
+  },
+  "t1-kitahiroshima-localhistoria": {
+   "label": "ローカルヒストリア「北広島市の歴史」（1996年9月1日に広島町が市制を施行し同時に「北広島市」へ改称したこと、すでに広島県に広島市があるため「広島市」を名のることができず、大正15年（1926年）から駅名として使われてきた「北広島」を市の名に採ったこと、町民アンケートでは広島に由来する名を望む声が7割を超えたことを紹介）",
+   "url": "https://local-historia.jp/hokkaidou/hokkaidou-kitahiroshima"
+  },
+  "t1-kitahiroshima-mlit": {
+   "label": "国土交通省北海道開発局札幌開発建設部「北広島市」（市町村名の由来として、明治17年以降に入植した和田郁次郎ら18戸の出身地の広島県名にちなむと説明。変遷として1894年の広島村設置、1968年の町制施行（広島町）、1996年の市制施行で北広島市に改称したことを記す）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh400000026bx.html"
+  },
+  "t1-mikasa-city-about": {
+   "label": "三笠市公式「三笠市について」（明治元年（1868年）に幌内で石炭の炭層の露出面が発見され、明治12年（1879年）に幌内炭鉱が開坑、明治15年（1882年）6月に市来知村が開村され、このときが三笠市の誕生であると記す）",
+   "url": "https://www.city.mikasa.hokkaido.jp/hotnews/detail/00000056.html"
+  },
+  "t1-mikasa-city-plan": {
+   "label": "三笠市「MIKASA」（市の刊行物。本市の由来は、空知集治監があった裏山が奈良の三笠山に似ているということから、囚人が望郷の念をこめて当時から三笠山と呼んでおり、明治39年の市来知・幌内・幾春別の三村合併のときにこの山の名を取って三笠山村としたこと、昭和17年に三笠町が誕生したことを記す。明治15年6月に市来知村が開村したことにも触れる）",
+   "url": "https://www.city.mikasa.hokkaido.jp/hotnews/files/00001700/00001714/20130703142729.pdf"
+  },
+  "t1-mikasa-mlit": {
+   "label": "国土交通省北海道開発局札幌開発建設部「三笠市」（市町村名の由来として、市来知（いちきしり）監獄背後にある丘陵の景観が奈良の三笠山に似ていることから三笠山の通称があったことに由来すると説明。変遷として1906年に幌内村・幾春別村・市来知村の一部が合併して三笠山村となり、1942年に町制施行で三笠町に改称、1957年に市制施行したことを記す）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000003t7e.html"
+  },
+  "t1-mikasa-wiki": {
+   "label": "Wikipedia「三笠市」（地名の由来として、現在の市中心部は「市来知（いちきしり）」と呼ばれた土地で、アイヌ語の「イチキルシ（それ〔＝熊〕の・足跡が・多くある・ところ）」が訛って名づけられたものであったこと、1906年の3村合併で新村名を命名するにあたり、市来知神社の裏山の山容が奈良の三笠山に似ていることと3村合併を表して「三笠山村」と命名したことを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%AC%A0%E5%B8%82"
+  },
+  "t1-muroran-city-about": {
+   "label": "室蘭市公式「室蘭市のあらまし」（室蘭の語源はアイヌ語の「モ・ルエラニ」から転化したもので「小さな・下り路」の意であり、崎守町仙海寺前の坂がゆかりの地とされること、慶長年間（1600年ころ）に松前藩が絵鞆場所を開いたこと、明治5年（1872年）に室蘭村（崎守町）に海関所が置かれたこと、大正11年（1922年）8月1日の市制施行を記す）",
+   "url": "https://www.city.muroran.lg.jp/content?content=2019"
+  },
+  "t1-muroran-hepco": {
+   "label": "北海道電力「アイヌ語ゆかりの『北海道の地名』第5号 室蘭」（「室蘭」の名は明治の初めまでは室蘭湾の北側、現在の崎守町あたりの地名で、会所や港があったこと、呼び名はアイヌ語「モロラン」（モ・ルエラニ＝小さい坂）に由来すると考えられることを紹介）",
+   "url": "https://www.hepco.co.jp/corporate/contribute/upopoy/pdf/ainu_place_name_05.pdf"
+  },
+  "t1-muroran-saka": {
+   "label": "日本坂学会「ムロラン地名発祥の坂」（室蘭市が設置した説明板の内容として、原名は「モルラン」で語源は「モ・ルエラニ」＝「小さな下り路」とされること、松浦武四郎が室蘭郡命名の理由に「会所元へ何れより行ても小さき坂を下る故」と挙げたこと、明治2年（1869年）に胆振国室蘭郡が制定されたことを紹介）",
+   "url": "http://www.sakagakkai.org/profile/Hokkaido/MuroranTimei.html"
+  },
+  "t1-muroran-wiki": {
+   "label": "Wikipedia「室蘭市」（市名の由来として、1871年（明治4年）に港がモルラン（旧室蘭港、現在の崎守町付近）から移り地名も移動したこと、「室蘭」の漢字があてられ明治中期ごろまでは「もろらん」と呼んでいたが、後年漢字の音に引きずられて「むろらん」となったことを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B8%82"
+  },
+  "t1-nayoro-bojan": {
+   "label": "Bojan International「北海道のアイヌ語地名（595）名寄・内淵・ラカン川」（日本国有鉄道北海道総局『北海道駅名の起源』（昭和48年版）の引用として、名寄の起源はアイヌ語の「ナヨロ・プッ」（川の入口）の下略で、名寄川が天塩川に注ぐあたりを指したものであること、また筆者による nay-or「谷・のところ」という解釈、同名の「名寄村」が樺太にも存在したことを紹介）",
+   "url": "https://www.bojan.net/2019/01/06.html"
+  },
+  "t1-nayoro-city-museum": {
+   "label": "名寄市北国博物館「名寄地区の主な史跡」（安政4年（1857年）に松浦武四郎が名寄に入りアイヌの家に泊まったとされる「松浦武四郎宿営の地」、明治33年（1900年）に山形団体が最初に入植した「和人開拓黎明の地」などを紹介）",
+   "url": "http://www.city.nayoro.lg.jp/section/museum/vdh2d10000000oc9.html"
+  },
+  "t1-nayoro-localhistoria": {
+   "label": "ローカルヒストリア「名寄市の歴史」（「名寄」という地名は天塩川と名寄川が合わさる川口を指したナイオㇿプトゥ（川・のところ・の口）に由来するとされ、名寄川そのものもナイオㇿと呼ばれたこと、市の市街地は両川の合流点のやや上流に形成されたことを紹介）",
+   "url": "https://local-historia.jp/hokkaidou/nayoro"
+  },
+  "t1-nayoro-wiki": {
+   "label": "Wikipedia「名寄市」（旧名寄市は昭和31年（1956年）に市制を施行したこと、平成18年（2006年）3月27日に旧名寄市と風連町が新設合併して現在の名寄市となったことを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%AF%84%E5%B8%82"
+  },
+  "t1-shibetsu-city-gikai": {
+   "label": "士別市議会事務局「士別市議会概要（令和7年度）」（「しべつ」という語源は、アイヌ語の「シュペツ」から転訛したもので大いなる川を意味しており、母なる天塩川が本市発展の源であったこと、明治32年（1899年）7月1日に北海道最後の屯田兵100戸が入植したことを記す）",
+   "url": "https://www.city.shibetsu.lg.jp/material/files/group/36/R7gikaigaiyou.pdf"
+  },
+  "t1-shibetsu-city-map": {
+   "label": "士別市公式「士別再発見マップ」（士別市教育委員会等の資料。アイヌ語で「本当の川」を意味する「シペッ〔si-pet〕」が町の名前の由来となっていること、明治32年（1899年）に最北で最後の屯田兵によって開拓が始められたこと、安政4年（1857年）に松浦武四郎がこの地を訪れたことが『天塩日誌』に記されていること、昭和29年（1954年）に士別町・上士別村・多寄村・温根別村の4町村が合併して士別市となり、平成17年（2005年）に朝日町と合併したことを紹介）",
+   "url": "https://www.city.shibetsu.lg.jp/material/files/group/33/rekishi_map.pdf"
+  },
+  "t1-yubari-city-gaiyo": {
+   "label": "夕張市公式「夕張市の概要」（市の由来として「アイヌ語のユーパロ（鉱泉の湧き出るところ）の転訛したものといわれています」と記す）",
+   "url": "https://www.city.yubari.lg.jp/soshiki/2/1062.html"
+  },
+  "t1-yubari-city-kaso": {
+   "label": "夕張市「夕張市過疎地域持続的発展市町村計画（令和3年度〜令和7年度）」（明治21年に北海道庁技師の坂市太郎が夕張炭田の大露頭を発見したこと、明治24年に北海道炭礦鉄道会社が夕張第一砿を開坑したこと、昭和18年に市制を施行したことを記す）",
+   "url": "https://www.city.yubari.lg.jp/uploaded/attachment/1940.pdf"
+  },
+  "t1-yubari-kotobank": {
+   "label": "コトバンク「夕張市」（『日本歴史地名大系』の解説。昭和18年（1943年）4月1日に夕張町が市制を施行して成立したこと、石狩炭田南部の夕張炭田の中心地であったこと）",
+   "url": "https://kotobank.jp/word/%E5%A4%95%E5%BC%B5%E5%B8%82-144861"
+  },
+  "t1-yubari-mlit": {
+   "label": "国土交通省北海道開発局札幌開発建設部「夕張市」（市町村名の由来としてユーパロ（温泉口）説、イパロ（それの口＝千歳へ往来する東の口）説、ユーバリ（硫黄臭）説を併記。変遷として1890年の登川村設置、1918年の夕張町への改称、1943年の市制施行を記す）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000002o77.html"
+  },
+  "t1-yubari-wiki": {
+   "label": "Wikipedia「夕張市」（地名の由来として、アイヌ語の「ユーパロ（鉱泉の湧き出る所）」からきているとされること、原案者は松浦武四郎で、1869年に提出した郡名建議書「郡名之儀ニ付申上候書付」には夕張郡の由来を「イユウパロ（温泉之口）」、読みを「ユウハリ」と示されていることを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%95%E5%BC%B5%E5%B8%82"
+  },
+  "t2-chimei-sanpo": {
+   "label": "「地名散歩」第18回・北海道の地名（歌志内と砂川は同じアイヌ語「オタウシュナイ」から生まれた地名）",
+   "url": "https://www.chosashi.or.jp/media/201309kaiho.pdf"
+  },
+  "t2-eniwa-ainu-plan": {
+   "label": "内閣府公表「恵庭市アイヌ施策推進地域計画」（2024年。市名「恵庭」などアイヌ語由来地名の多さ）",
+   "url": "https://www8.cao.go.jp/ainu/kouhyou/chiiki_keikaku/20240318/kouhyou-eniwa.pdf"
+  },
+  "t2-eniwa-city-gaiyo": {
+   "label": "恵庭市「恵庭市の概要」（市名の由来・沿革）",
+   "url": "https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/soumubu/somuka/eniwashinitsuite/1/1077.html"
+  },
+  "t2-eniwa-mlit": {
+   "label": "国土交通省北海道開発局「市町村紹介・恵庭市」（市町村名の由来・変遷）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000002412.html"
+  },
+  "t2-eniwa-wiki": {
+   "label": "Wikipedia「恵庭市」（地名の由来＝エエンイワの語構成「頭が・尖っている・山」）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%81%B5%E5%BA%AD%E5%B8%82"
+  },
+  "t2-fukagawa-ainu-pdf": {
+   "label": "深川市教育委員会「深川のアイヌ語地名」冊子（オオホナイ＝深い・川の和訳説、明治25年2月4日の北海道庁告示が初出、メムの説明）",
+   "url": "https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lsth-att/ik75k4000000lt24.pdf"
+  },
+  "t2-fukagawa-kyoii": {
+   "label": "深川市教育委員会「深川のアイヌ語地名」（山田秀三『アイヌ語地名の研究』等を引く市内地名の一覧）",
+   "url": "https://www.city.fukagawa.lg.jp/cms/section/gakuspo/ik75k4000000lsth.html"
+  },
+  "t2-fukagawa-mlit": {
+   "label": "国土交通省北海道開発局「市町村紹介・深川市」（由来2説の併記・変遷）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000003k6m.html"
+  },
+  "t2-fukagawa-wiki": {
+   "label": "Wikipedia「深川市」（市名の由来・成立の経緯は忘れられている、1890年ごろから「深川」の名が出現）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%B8%82"
+  },
+  "t2-ishikari-city-history": {
+   "label": "石狩市「石狩市の歴史」（石狩場所と請負人・村山家の繁栄）",
+   "url": "http://www.city.ishikari.hokkaido.jp/kanko/miru/1002879.html"
+  },
+  "t2-ishikari-kankyo": {
+   "label": "石狩市「石狩市環境白書'14」（平成8年9月に道内34番目の市として誕生、名の由来＝イシカラ・ベツ）",
+   "url": "https://www.city.ishikari.hokkaido.jp/_res/projects/default_project/_page_/001/002/421/1002421_021.pdf"
+  },
+  "t2-ishikari-mlit": {
+   "label": "国土交通省北海道開発局「市町村紹介・石狩市」（由来の諸説・変遷。市制施行年は「1966年」とあるが誤記）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh400000020s0.html"
+  },
+  "t2-ishikari-wiki": {
+   "label": "Wikipedia「石狩市」（永田方正『北海道蝦夷語地名解』に基づく語源の諸説）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%8B%A9%E5%B8%82"
+  },
+  "t2-nemuro-ken-wiki": {
+   "label": "Wikipedia「三県一局時代」（1882年に根室県設置・県庁は根室、1886年に廃止）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%9C%88%E4%B8%80%E5%B1%80%E6%99%82%E4%BB%A3"
+  },
+  "t2-nemuro-kuni-wiki": {
+   "label": "Wikipedia「根室国」（1869年の根室国制定、語源は不明で松浦武四郎『知床日誌』はニ・ムイに比定、根室県の所管）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%AE%A4%E5%9B%BD"
+  },
+  "t2-nemuro-shinko-pdf": {
+   "label": "北海道根室振興局「根室市」市町村資料（市名の由来＝ニムオロ転化説、沿革）",
+   "url": "https://www.nemuro.pref.hokkaido.lg.jp/fs/1/1/4/2/0/5/0/5/_/18%20%E6%A0%B9%E5%AE%A4%E5%B8%82.pdf"
+  },
+  "t2-noboribetsu-ainu-names": {
+   "label": "登別市郷土資料館「登別のアイヌ語地名」（知里真志保による「ヌプル」の解釈と山田秀三の紹介）",
+   "url": "http://www3.city.noboribetsu.lg.jp/ainu/names"
+  },
+  "t2-noboribetsu-city": {
+   "label": "登別市「登別市について」（由来＝ヌプルペッ、市の変遷＝幌別村・幌別町・登別町・1970年市制）",
+   "url": "https://www.city.noboribetsu.lg.jp/docs/2013012800108"
+  },
+  "t2-noboribetsu-shishi-dayori": {
+   "label": "登別市「登別市史編さんだより第16号」（ヌプル・ペッは登別川を指し温泉成分で濁った水の色）",
+   "url": "https://www.city.noboribetsu.lg.jp/article/2020072000034/file_contents/16.pdf"
+  },
+  "t2-noboribetsu-spa-history": {
+   "label": "登別温泉公式サイト「登別の歴史」（最上徳内・松浦武四郎の記録、1858年の滝本金蔵の開湯）",
+   "url": "https://noboribetsu-spa.jp/history"
+  },
+  "t2-noboribetsu-tokei": {
+   "label": "登別市「登別市統計書（令和3年版）」（地名の由来＝nupur-pet、登別温泉は18世紀末より古文書に登場）",
+   "url": "https://www.city.noboribetsu.lg.jp/docs/2025032100014/file_contents/R3.pdf"
+  },
+  "t2-rumoi-ayumi": {
+   "label": "留萌市「留萌市のあゆみ」（慶長年間のルルモッペ場所、1869年の「留萌」命名、1947年の市制）",
+   "url": "https://www.e-rumoi.jp/shisei/rum_00002.html"
+  },
+  "t2-rumoi-gikai": {
+   "label": "留萌市議会事務局「留萌市議会の概要（令和8年度）」（市名の由来＝ルルモッペの語分解）",
+   "url": "https://www.e-rumoi.jp/content/000081103.pdf"
+  },
+  "t2-rumoi-mlit-river": {
+   "label": "国土交通省「留萌川水系河川整備基本方針」関係資料（松浦武四郎『西蝦夷日誌』のルルモッペ解釈の引用紹介）",
+   "url": "https://www.mlit.go.jp/river/shinngikai_blog/shaseishin/kasenbunkakai/shouiinkai/kihonhoushin/dai144kai/241115_08.pdf"
+  },
+  "t2-sunagawa-city-profile": {
+   "label": "砂川市「プロフィール」（語源＝オタ・ウシ・ナイの意訳、ペンケ・パンケの両川）",
+   "url": "https://www.city.sunagawa.hokkaido.jp/sunagawa_gaiyou/profile.html"
+  },
+  "t2-sunagawa-mlit": {
+   "label": "国土交通省北海道開発局「市町村紹介・砂川市」（由来＝オタウシナイの意訳・変遷）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000003n9k.html"
+  },
+  "t2-takikawa-city-history": {
+   "label": "滝川市「滝川市のプロフィール（歴史）」（語源＝ソーラプチの意訳、1890年の滝川村戸長役場）",
+   "url": "https://www.city.takikawa.lg.jp/page/1148.html"
+  },
+  "t2-takikawa-mlit": {
+   "label": "国土交通省北海道開発局「市町村紹介・滝川市」（由来＝ソーラプチの意訳・変遷）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000003vc4.html"
+  },
+  "t2-takikawa-nenpyo": {
+   "label": "滝川市「滝川市年表」（1890年の滝川村設置、1910年11月の滝川町改称、1958年の市制）",
+   "url": "https://www.city.takikawa.lg.jp/uploaded/attachment/8638.pdf"
+  },
+  "t2-takikawa-shishi-ge": {
+   "label": "滝川市史（地名・字名の由来の補説。ソーラプチペツから空知太・滝川へ、命名の異説と北海道毎日新聞の記事）",
+   "url": "https://www.city.takikawa.lg.jp/uploaded/life/25662_45527_misc.pdf"
+  },
+  "t2-utashinai-keikaku": {
+   "label": "歌志内市「歌志内市総合計画」（語源の分解＝オタ・ウシ・ナイ）",
+   "url": "https://www.city.utashinai.hokkaido.jp/hotnews/files/00004600/00004683/%E6%AD%8C%E5%BF%97%E5%86%85%E5%B8%82%E7%B7%8F%E5%90%88%E8%A8%88%E7%94%88.pdf"
+  },
+  "t2-utashinai-kihonkoso": {
+   "label": "歌志内市総合計画「基本構想」（明治30年開基・昭和15年町制・昭和33年市制、1948年の人口ピーク46,171人）",
+   "url": "https://www.city.utashinai.hokkaido.jp/hotnews/files/00004600/00004683/04_I%EF%BC%8E%20%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3.pdf"
+  },
+  "t2-utashinai-yoran": {
+   "label": "歌志内市「市勢要覧2026」（地名の由来＝ペンケウタシュナイ川、1891年の鉄道開通時に命名）",
+   "url": "https://www.city.utashinai.hokkaido.jp/hotnews/files/00003200/00003241/20260518141522.pdf"
+  },
+  "t2-wakkanai-ayumi": {
+   "label": "稚内市「稚内のあゆみ（歴史）」（宗谷場所の開設、1879年の開基、1949年に道内14番目の市制）",
+   "url": "https://www.city.wakkanai.hokkaido.jp/gaiyo/ayumi.html"
+  },
+  "t2-wakkanai-gaiyo": {
+   "label": "稚内市「稚内市のご紹介」（日本最北端の位置、宗谷岬から約43kmでサハリンを望む）",
+   "url": "https://www.city.wakkanai.hokkaido.jp/gaiyo/gaiyo.html"
+  },
+  "t2-wakkanai-jtb": {
+   "label": "JTB「旅」稚内市紹介（1949年市制・1955年宗谷村編入、市名はヤムワッカナイに由来）",
+   "url": "https://tabi.jtb.or.jp/city?opt=%E5%8C%97%E6%B5%B7%E9%81%93%2C%E7%A8%9A%E5%86%85%E5%B8%82&type=city"
+  },
+  "t2-wakkanai-tokei": {
+   "label": "稚内市「稚内市統計書（平成26年版）」（「稚内」の名はアイヌ語「ヤム・ワッカ・ナイ」に由来）",
+   "url": "https://www.city.wakkanai.hokkaido.jp/files/00008900/00008939/20150618193418.pdf"
+  },
+  "t3-abashiri-city-yurai": {
+   "label": "網走市公式「市名の由来と紋章」",
+   "url": "https://www.city.abashiri.hokkaido.jp/soshiki/2/1061.html"
+  },
+  "t3-abashiri-kotobank-seisen": {
+   "label": "『精選版 日本国語大辞典』「網走」項（コトバンク掲載。北見国網走郡は明治2年成立）",
+   "url": "https://kotobank.jp/word/%E7%B6%B2%E8%B5%B0-43296"
+  },
+  "t3-abashiri-kotobank-taikei": {
+   "label": "『日本歴史地名大系』「網走市」項（コトバンク掲載）",
+   "url": "https://kotobank.jp/word/%E7%B6%B2%E8%B5%B0%E5%B8%82-1163058"
+  },
+  "t3-abashiri-ndl-ref": {
+   "label": "国立国会図書館レファレンス協同データベース事例「アバシリ（網走）という地名の意味」（角川日本地名大辞典・日本地名ルーツ辞典等の紹介）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000142505&page=ref_view"
+  },
+  "t3-akabira-mlit": {
+   "label": "国土交通省北海道開発局札幌開発建設部「赤平市」（市町村名の由来・変遷）",
+   "url": "https://www.hkd.mlit.go.jp/sp/tiiki_sinkou/kluhh40000003zwb.html"
+  },
+  "t3-ashibetsu-city-enkaku": {
+   "label": "芦別市公式「沿革」（語源二説は北海道「アイヌ語地名リスト」の引用として紹介）",
+   "url": "http://www.city.ashibetsu.hokkaido.jp/docs/5024.html"
+  },
+  "t3-bibai-city-ayumi": {
+   "label": "美唄市公式「美唄市の歩み」（市史年表。沼貝村設置・美唄町改称・市制施行）",
+   "url": "https://www.city.bibai.hokkaido.jp/uploaded/attachment/1643.pdf"
+  },
+  "t3-bibai-city-gaiyo": {
+   "label": "美唄市公式「美唄市の概要」（地名の由来・市章）",
+   "url": "https://www.city.bibai.hokkaido.jp/uploaded/attachment/19395.pdf"
+  },
+  "t3-bibai-kanko-shiryokan": {
+   "label": "美唄観光物産協会「美唄市郷土史料館」（ピパ・オ・イと美貝・沼貝の変遷）",
+   "url": "https://bibaikanko.jp/machimise3?introduce=%E7%BE%8E%E5%94%84%E5%B8%82%E9%83%B7%E5%9C%9F%E5%8F%B2%E6%96%99%E9%A4%A8"
+  },
+  "t3-folklore-mombetsu": {
+   "label": "地名の由来資料集「紋別」（「静かな川」「小さい川」両解釈の併記）",
+   "url": "http://folklore2017.com/timei300/017.htm"
+  },
+  "t3-mombetsu-city-yurai": {
+   "label": "紋別市公式「市名の由来と紋章」（紋別市の紹介）",
+   "url": "https://mombetsu.jp/administration?content=75"
+  },
+  "t3-mombetsu-kotobank-taikei": {
+   "label": "『日本歴史地名大系』「紋別市」項（コトバンク掲載）",
+   "url": "https://kotobank.jp/word/%E7%B4%8B%E5%88%A5%E5%B8%82-143349"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/01-三笠市",
+   "code": "012220",
+   "names": {
+    "ja": "三笠市",
+    "reading": "みかさし",
+    "aliases": [
+     "三笠山村",
+     "三笠町",
+     "市来知村"
+    ]
+   },
+   "user_terms": [
+    "奈良の三笠山にちなむ市",
+    "幌内炭鉱のまち",
+    "市来知（いちきしり）",
+    "三笠市の名前の由来"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "「三笠」はアイヌ語ではなく、奈良の三笠山にちなむ和名である。中心地はもとアイヌ語由来の「市来知（いちきしり）」と呼ばれ、空知集治監の裏山が奈良の三笠山に似ていたことから「三笠山」の通称があった。明治39年（1906年）に市来知・幌内・幾春別の3村が合併した際にこの山の名を採って「三笠山村」とし、1942年に三笠町、1957年に三笠市となった。",
+   "first_attestation": {
+    "era": "明治39年",
+    "year_western": 1906,
+    "document": "市来知・幌内・幾春別3村合併時の新村名「三笠山村」",
+    "note": "「三笠」の名の初出はこの命名。中心地の旧名「市来知」は1882年の開村時から用いられた"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、三笠市の団体コードは012220と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "国土交通省の資料によれば、三笠の名は、市来知監獄（空知集治監）背後にある丘陵の景観が奈良の三笠山に似ていることから「三笠山」の通称があったことに由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-mikasa-mlit"
+     ]
+    },
+    {
+     "text": "三笠市の刊行物によれば、空知集治監があった裏山が奈良の三笠山に似ていることから、囚人が望郷の念をこめて当時から「三笠山」と呼んでいた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-mikasa-city-plan"
+     ]
+    },
+    {
+     "text": "明治39年（1906年）に市来知・幌内・幾春別の3村が合併して三笠山村となり、昭和17年（1942年）に町制施行で三笠町に改称、昭和32年（1957年）に市制を施行して三笠市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-mikasa-mlit",
+      "t1-mikasa-city-plan"
+     ]
+    },
+    {
+     "text": "現在の市中心部はもと「市来知（いちきしり）」と呼ばれた土地で、アイヌ語の「イチキルシ」（それ〔＝熊〕の・足跡が・多くある・ところ）が訛って名づけられたものであったと紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t1-mikasa-wiki"
+     ]
+    },
+    {
+     "text": "三笠市によれば、明治12年（1879年）に幌内炭鉱が開坑し、明治15年（1882年）6月に市来知村が開村されて、石炭と鉄道の発祥の地として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-mikasa-city-about"
+     ]
+    }
+   ],
+   "column": {
+    "title": "望郷の山が市の名前になった",
+    "text": "三笠の中心地は、もともとアイヌ語で「熊の足跡の多いところ」を意味したとされる「市来知」という名の土地でした。1882年、ここに空知集治監（刑務所）が置かれると、収監された人々は裏山を見て遠い奈良の三笠山を思い、「三笠山」と呼ぶようになったといいます。1906年に3つの村が合併して新しい村名が必要になったとき、選ばれたのは囚人たちの望郷の呼び名でした。アイヌ語の地名の上に、望郷の和名が重なったまちです。",
+    "sources": [
+     "t1-mikasa-city-plan",
+     "t1-mikasa-wiki"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-岩見沢市"
+   ],
+   "unknowns": [
+    "「三笠山」の通称がいつ頃から使われたか、集治監設置（1882年）以前に遡るかは確認できていない",
+    "「市来知＝イチキルシ（熊の足跡）」説の典拠となる専門研究（山田秀三ら）の原典は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-伊達市",
+   "code": "012335",
+   "names": {
+    "ja": "伊達市",
+    "reading": "だてし",
+    "aliases": [
+     "伊達村",
+     "伊達町"
+    ]
+   },
+   "user_terms": [
+    "北海道の伊達市はなぜ伊達という名前なの",
+    "伊達邦成が作った市",
+    "北海道の伊達と福島の伊達はどう違う"
+   ],
+   "naming_type": "その他（開拓にあたった亘理伊達家の姓にちなむ命名）",
+   "prefecture": "北海道",
+   "homonyms": [
+    "muni/07-伊達市"
+   ],
+   "summary": "明治3年（1870年）、仙台藩一門の亘理領主・伊達邦成が家臣団を率いて自費で集団移住し、有珠山のふもとの紋鼈の地を開拓したことに始まる。明治33年（1900年）に6村が合併して伊達村が成立した際、新村名は開拓にあたった亘理伊達家にちなんで名付けられ、大正14年（1925年）の町制を経て昭和47年（1972年）に市制を施行した。福島県伊達市とは同名だが、こちらは移住した武家の姓に直接由来し、郡名に由来する福島側とは成立の経路が異なる。ただし亘理伊達家は伊達氏の一門であり、遠く遡れば両市は同じ伊達氏の系譜に結びつく。",
+   "first_attestation": {
+    "era": "明治33年",
+    "year_western": 1900,
+    "document": "伊達村の成立（有珠郡6村の合併）",
+    "note": "自治体名としての「伊達」の初出。開拓自体は明治3年（1870年）の伊達邦成の移住に始まる"
+   },
+   "claims": [
+    {
+     "text": "伊達市の公式概況は、伊達地域の開拓は明治3年（1870年）に仙台藩一門の亘理領主・伊達邦成とその家臣たちの自費による集団移住という独特の形態で行われたと述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-date-hokkaido-gaikyo"
+     ]
+    },
+    {
+     "text": "邦成は明治3年（1870年）に家臣とその家族ら総勢255名を率いて有珠山のふもとに入植し、明治14年（1881年）までに9回にわたり2,800人余りが移住して現在の伊達市の礎を築いたと、伊達開拓関係市町の協議会資料は伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-date-summit"
+     ]
+    },
+    {
+     "text": "明治33年（1900年）、有珠郡の有珠村・稀府村・黄金蘂村・長流村・東紋鼈村・西紋鼈村の6村が合併して伊達村が成立し、新村名は地域の開拓にあたった仙台藩亘理伊達家にちなむと日本歴史地名大系ジャーナルは解説する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-jk-chimei-62",
+      "h1-date-hokkaido-gaikyo"
+     ]
+    },
+    {
+     "text": "伊達村は大正14年（1925年）に町制を施行し、昭和47年（1972年）4月1日に市制を施行して伊達市となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-jk-chimei-62",
+      "h1-date-hokkaido-gaikyo"
+     ]
+    },
+    {
+     "text": "平成18年（2006年）3月に大滝村（大滝区）と合併し、現在の伊達市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-date-hokkaido-gaikyo"
+     ]
+    },
+    {
+     "text": "（異なる層）福島県伊達市とは同名だが、北海道側は移住した亘理伊達家の姓に直接ちなむ命名であり、中世の郡名を継承した福島側とは名前の成立経路が異なる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-jk-chimei-62"
+     ]
+    },
+    {
+     "text": "（共通する層）亘理伊達家は仙台藩伊達氏の一門であり、その始祖・伊達朝宗の名字の地は福島県側の伊達郡であるため、2つの伊達市の名は遠く遡れば同じ伊達氏の系譜に結びついている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-jk-chimei-62"
+     ]
+    },
+    {
+     "text": "2006年に福島県側の合併協議会が新市名に「伊達市」を使うにあたり、北海道伊達市の意向を確認したと日本歴史地名大系ジャーナルは伝えている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-jk-chimei-62"
+     ]
+    }
+   ],
+   "column": {
+    "title": "殿様が自費で連れてきた名前",
+    "text": "北海道の伊達は、開拓使の政策ではなく、戊辰戦争で敗れた仙台藩亘理領主・伊達邦成が、私財を投じて旧家臣と家族を率いて海を渡ったことから生まれた名前です。明治3年（1870年）の第一陣255名に始まり、移住は9回・2,800人余りに及びました。ルーツを同じくする宮城県亘理町・山元町・柴田町、福島県新地町と北海道伊達市の5市町は、今も「伊達開拓 ふるさと従兄弟（い〜とこ）」として交流を続けています。故郷の名字が、そのまま移住先の地名になった稀な例です。",
+    "sources": [
+     "h1-date-summit",
+     "h1-date-hokkaido-gaikyo"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/07-伊達市"
+   ],
+   "unknowns": [
+    "入植地が「伊達紋別」と呼ばれた時期と経緯について、市公式の概況では確認できなかった",
+    "移住以前の地名「紋鼈（もんべつ）」のアイヌ語としての語源の確定は未了",
+    "明治2年（1869年）に有珠郡が邦成の支配地とされた経緯の一次資料確認は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-函館市",
+   "code": "012025",
+   "names": {
+    "ja": "函館市",
+    "reading": "はこだてし",
+    "aliases": [
+     "箱館",
+     "函館区",
+     "宇須岸（ウスケシ）"
+    ]
+   },
+   "user_terms": [
+    "函館はなぜ箱館と書いたのか",
+    "函館の名前の由来",
+    "ウスケシとは何か",
+    "箱の形の館があった街"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "函館の名は、15世紀に津軽の豪族・河野政通がアイヌ語で「湾の端」を意味する宇須岸（ウスケシ）の地に築いた館が、箱の形に似ていたことから「箱館」と呼ばれたことに始まると函館市は説明する。明治2年（1869年）に蝦夷地が北海道と改められた際、「箱館」も同じ音の「函館」に改められた。",
+   "first_attestation": {
+    "era": "享徳3年",
+    "year_western": 1454,
+    "document": "河野政通による宇須岸館の築館（函館市「函館市の概要」が伝える「箱館」の起こり）",
+    "note": "市の公式説明が「箱館」の名の起こりとする出来事。「箱館」の文字が文書に現れる初出の一次確認は未実施。"
+   },
+   "claims": [
+    {
+     "text": "函館市公式「函館市の概要」によれば、室町時代の享徳3年（1454年）、津軽の豪族・河野政通が、宇須岸（ウスケシ。アイヌ語で「湾の端」の意）と呼ばれていた漁村に館を築き、その館が箱に似ていたことから、この地は「箱館」と呼ばれるようになった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hakodate-city-gaiyo"
+     ]
+    },
+    {
+     "text": "函館市文化・スポーツ振興財団の人物伝によれば、河野政通の館（宇須岸河野館）は東西約64m・南北約51mに土塁と空堀をめぐらせた箱形の館であり、「箱館」の地名はこの館の形に由来するという説が有力とされる。館跡は現在の函館山麓の元町地区にあたる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hakodate-zaidan"
+     ]
+    },
+    {
+     "text": "一方で、「箱館（函館）」の由来をアイヌ語の「ハㇰチャシ（hak-casi）」（浅い砦の意）に求める説もあり、館の形に由来する説と併存する。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "函館市公式によれば、長禄元年（1457年）のコシャマインの戦いで河野館は一時攻め落とされ、永正9年（1512年）に河野家が滅びて箱館は衰退したが、地名そのものは後の港町に受け継がれた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hakodate-city-gaiyo",
+      "k2-hakodate-zaidan"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）、蝦夷地が北海道と改称されたのに伴い、箱館も「函館」と改められた。読みは「はこだて」のまま、漢字の「箱」が「函」に置き換わった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hakodate-city-gaiyo"
+     ]
+    },
+    {
+     "text": "大正11年（1922年）8月1日、函館区が市制を施行して函館市となり、札幌・小樽・室蘭・旭川・釧路の各区とともに北海道の最初の市の一つとなった。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k2-hakodate-shishi",
+      "k2-uub-hakodate"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、函館市のコードは012025とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "建物のかたちが街の名になった",
+    "text": "地名の由来の多くは川や山などの自然に求められるが、函館の場合は人が建てた一軒の館である。15世紀半ば、河野政通が湾の端の小村に築いた箱形の館の名が、そのまま土地の名になり、館の主人が滅びて館自体が姿を消した後も400年以上生き延びて、港町の名前になった。明治の改称でも音は守られ、「箱」が「函」に変わっただけだった。いま元町地区を歩くと、坂の上に「箱館」の原点である館のあった場所が残る。全国に「館」に由来する地名は多いが、函館のように館の「形」が由来と明示される例は珍しい。",
+    "sources": [
+     "k2-hakodate-city-gaiyo",
+     "k2-hakodate-zaidan"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "「箱館」の文字が文書に現れる初出（年と文献名）は未確認。",
+    "アイヌ語「ハㇰチャシ」説の典拠となる文献（誰のどの著作か）は本バッチでは特定できていない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-北広島市",
+   "code": "012343",
+   "names": {
+    "ja": "北広島市",
+    "reading": "きたひろしまし",
+    "aliases": [
+     "広島村",
+     "広島町"
+    ]
+   },
+   "user_terms": [
+    "北海道の広島",
+    "北広島駅のまち",
+    "エスコンフィールドのある市",
+    "北広島市の名前の由来"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "北広島の「広島」は、移住者の出身地名を持ち込んだ新しい層の地名である。1884年に和田郁次郎ら広島県からの集団移住者が開拓し、1894年に月寒村から分離して出身地にちなみ「広島村」とした。1968年に広島町となり、1996年の市制施行の際、広島県広島市と同名になるのを避けて「北」を冠し、「北広島市」となった。",
+   "first_attestation": {
+    "era": "明治27年",
+    "year_western": 1894,
+    "document": "月寒村からの分村による広島村の設置",
+    "note": "「広島」の名が自治体名として用いられた初出。それ以前は「広島開墾地」と呼ばれていた"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、北広島市の団体コードは012343と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "北広島市によれば、明治17年（1884年）に和田郁次郎が率いる広島県からの入植者が到着して本格的な開拓が始まり、明治27年（1894年）に月寒村から分離して「広島村」が誕生し、地名は入植者の故郷である広島県に由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-kitahiroshima-city-youran"
+     ]
+    },
+    {
+     "text": "移住団体の戸数については、北広島市教育委員会の略年表が明治17年5月に18戸が到着したと記す一方、市の市勢要覧は25戸103人が到着したとしており、公的資料の間でも表記が分かれる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t1-kitahiroshima-kyoiku",
+      "t1-kitahiroshima-city-youran"
+     ]
+    },
+    {
+     "text": "国土交通省の資料によれば、広島村は1894年に設置され、1968年に町制を施行して広島町となり、1996年に市制を施行して北広島市に改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-kitahiroshima-mlit"
+     ]
+    },
+    {
+     "text": "「北」を冠したのは、すでに広島県に広島市があるため同名を避けたものであり、大正15年（1926年）から駅名として使われてきた「北広島」を市の名に採ったと紹介されている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-kitahiroshima-localhistoria"
+     ]
+    },
+    {
+     "text": "市制施行に際しての町民アンケートでは、広島に由来する名を望む声が7割を超えたと紹介されている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-kitahiroshima-localhistoria"
+     ]
+    }
+   ],
+   "column": {
+    "title": "故郷の名を北の大地へ、そして「北」の一字",
+    "text": "1884年、和田郁次郎ら広島からの移住者は、未開の原野に故郷の名をそのまま付けました。「広島村」です。やがて鉄道が通ると、本家の広島駅と区別するため駅は「北広島駅」と名付けられました。1996年、町が市になるとき、自治体も同じ問題にぶつかります。広島市は名乗れない。しかし住民の多くは広島の名を残したがりました。答えは駅名の転用でした。70年前に駅が得た「北」の一字を、町全体が受け継いだのです。",
+    "sources": [
+     "t1-kitahiroshima-city-youran",
+     "t1-kitahiroshima-localhistoria"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-千歳市"
+   ],
+   "unknowns": [
+    "市制施行と同日にいったん「広島市」を称したという話が一部で紹介されるが、公的資料では確認できていない",
+    "入植以前にこの一帯を指したアイヌ語地名は、今回確認した資料では特定できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-北斗市",
+   "code": "012360",
+   "names": {
+    "ja": "北斗市",
+    "reading": "ほくとし",
+    "aliases": [
+     "上磯町",
+     "大野町"
+    ]
+   },
+   "user_terms": [
+    "新函館北斗駅のまち",
+    "北斗七星にちなむ市名",
+    "旧上磯・旧大野",
+    "北斗市の名前の由来"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "北斗市は平成の大合併で生まれた新しい市名である。2006年2月1日、上磯町と大野町が新設合併して道内35番目の市として誕生した。市名は合併協議会の一般公募で集められた案から選ばれたもので、応募者には「北の空にさんぜんと光り輝く北斗星のような街」という思いが込められていた。旧両町の名（上磯・大野）は明治期の村名に遡る古い層である。",
+   "first_attestation": {
+    "era": "平成18年",
+    "year_western": 2006,
+    "document": "上磯町・大野町合併協議会による新市名の決定",
+    "note": "市名そのものの初出はこの決定と同年2月1日の市発足"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、北斗市の団体コードは012360と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "北斗市によれば、平成18年（2006年）2月1日、旧上磯町と旧大野町が合併し、道内35番目の市となる北斗市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-hokuto-city-gaiyo"
+     ]
+    },
+    {
+     "text": "市名は合併協議会で一般公募を実施し、応募の中から合併新市名選考小委員会が6点まで選考し、最終的に合併協議会委員25人の投票により決定したと紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t1-hokuto-wiki"
+     ]
+    },
+    {
+     "text": "応募者の思いとして「北の空（大地）にさんぜんと光り輝く星（街）（北斗星）。他の市町村の範となると同時に、個性を失わず独自の輝きをもつ街づくり」という趣旨が紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t1-hokuto-wiki"
+     ]
+    },
+    {
+     "text": "北斗市によれば、旧上磯町は明治13年（1880年）に上磯村ほか4か村戸長役場の設置に始まり、大正7年（1918年）に町制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-hokuto-city-gaiyo"
+     ]
+    },
+    {
+     "text": "北斗市によれば、旧大野町のもとの大野村は、明治33年（1900年）に大野・市渡・本郷・文月・千代田・一本木の6村が統合して誕生し、昭和32年（1957年）に町制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-hokuto-city-chosho",
+      "t1-hokuto-city-gaiyo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "星の名前をもらった市",
+    "text": "上磯と大野、どちらの町の名も残さない「第三の名」を選んだのが北斗市です。公募で集まった候補を6点に絞り、最後は協議会委員25人の投票で決めました。採用された「北斗」に込められたのは、北の空に輝く北斗七星のように、範となりながらも個性の輝きを失わない街に、という願いです。2016年には北海道新幹線の駅名が「新函館北斗」となり、星の名前は函館の玄関口の名としても知られるようになりました。",
+    "sources": [
+     "t1-hokuto-wiki",
+     "t1-hokuto-city-gaiyo"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "公募の応募総数や、最終候補に残った他の5点の市名は、確認した資料からは特定できていない",
+    "旧町名「上磯」「大野」それぞれの語源は、今回確認した市の公式資料には記されていなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-北見市",
+   "code": "012084",
+   "names": {
+    "ja": "北見市",
+    "reading": "きたみし",
+    "aliases": [
+     "野付牛（のつけうし）",
+     "野付牛町"
+    ]
+   },
+   "user_terms": [
+    "北見の名前の由来",
+    "もとの名前は野付牛だった",
+    "北見国とは何か"
+   ],
+   "naming_type": "その他（旧令制国「北見国」の名の転用）",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "北見の名は、明治2年（1869年）に松浦武四郎が建議した令制国「北見国」の名を転用したもの。もとの地名はアイヌ語「ヌㇷ゚ケㇱ（野の末端）」に由来する「野付牛（のつけうし）」で、昭和17年（1942年）の市制施行の際に北見市と改称した。平成18年（2006年）に旧北見市・端野町・常呂町・留辺蘂町が新設合併して現在の市となり、面積は北方領土を除き北海道最大である。",
+   "first_attestation": {
+    "era": "明治2年",
+    "year_western": 1869,
+    "document": "松浦武四郎の国名建議書",
+    "note": "「北見」の名の初出（令制国の命名として）。建議書の文面はWikipedia経由で確認し、原文は未読。"
+   },
+   "claims": [
+    {
+     "text": "「北見」は旧令制国・北見国の名の転用で、北見国は明治2年（1869年）に松浦武四郎が国名建議書で提案した名である。建議書には「常々此辺の事北海岸と唱へ来り候事故、北の文字相用ひ、カラフト島快晴之日には見へ候に付北見等如何に」とあったことをWikipediaが紹介する。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-kitami-kuni-wiki"
+     ]
+    },
+    {
+     "text": "旧称「野付牛（のつけうし）」はアイヌ語「ヌㇷ゚ケㇱ（nup-kes）」（野の末端の意）に由来し、北見盆地で最初に開拓が始まった端野地区の名であったとされる。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-kitami-wiki"
+     ]
+    },
+    {
+     "text": "明治30年（1897年）に野付牛戸長役場が置かれ、明治42年（1909年）に野付牛村、大正5年（1916年）4月1日に野付牛町となった。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-kitami-wiki"
+     ]
+    },
+    {
+     "text": "昭和17年（1942年）6月10日、野付牛町は市制施行にあたって、北見国の中央に位置し商工業の中心をなすためとして、北見市と改称した。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-kitami-wiki"
+     ]
+    },
+    {
+     "text": "平成18年（2006年）3月5日、旧北見市・端野町・常呂町・留辺蘂町が新設合併して現在の北見市となり、その面積は北方領土を除き北海道で最大となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-kitami-wiki",
+      "l1-kitami-rubeshibe"
+     ]
+    },
+    {
+     "text": "留辺蘂は大正4年（1915年）に野付牛村から武華村として分村し、大正10年（1921年）の町制施行にあわせて留辺蘂町と改称した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-kitami-rubeshibe"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、北見市のコードは012084とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "牛の名を捨てて、国名を名乗る",
+    "text": "北見の市街地は長く「野付牛（のつけうし）」と呼ばれていた。アイヌ語で「野の末端」を意味する名である。ところが1942年、市制施行の機会に町はこの名を捨て、かつての令制国「北見国」の名を名乗った。国名は1869年、松浦武四郎が「晴れた日にはカラフト島が見えるから」と建議した名前である。さらに2006年、端野・常呂・留辺蘂の3町と合併して市域は一気に広がり、北方領土を除く北海道最大の面積の市になった。名実ともに「北見地方の中心」への衣替えだった。",
+    "sources": [
+     "l1-kitami-kuni-wiki",
+     "l1-kitami-wiki"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "松浦武四郎の国名建議書の原文と所蔵機関の直接確認は未実施（文面はWikipedia経由）。",
+    "「ヌㇷ゚ケㇱ（野の末端）」とする野付牛の語源について、専門辞典による検証は未実施。",
+    "1942年の改称理由は、北見市史など市公式資料での原文確認が未実施。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-千歳市",
+   "code": "012246",
+   "names": {
+    "ja": "千歳市",
+    "reading": "ちとせし",
+    "aliases": [
+     "シコツ",
+     "千歳町"
+    ]
+   },
+   "user_terms": [
+    "新千歳空港のまち",
+    "支笏湖のある市",
+    "シコツ",
+    "千歳市の名前の由来"
+   ],
+   "naming_type": "文献から命名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "千歳の旧名はアイヌ語の「シコツ」で、「大きな窪地・谷」を意味するとされる。文化2年（1805年）、箱館奉行の羽太正養が、鶴の生息地であることにちなみ中国の故事「鶴は千年」から「千歳」と改名した。改名の直接の対象はシコツ川（千歳川）で、和風の名が川から地名へ広がった。1958年に市制を施行して千歳市となった。",
+   "first_attestation": {
+    "era": "万治3年",
+    "year_western": 1660,
+    "document": "『福山秘府』",
+    "note": "千歳市公式が紹介する、旧名「シコツ」の文献上の初見。和名「千歳」の命名は1805年"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、千歳市の団体コードは012246と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "千歳市によれば、千歳の旧地名はアイヌの人たちの言葉で「シコツ」と呼ばれ、「大きなくぼ地又は谷」という意味である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-chitose-yoran"
+     ]
+    },
+    {
+     "text": "千歳市史編さんの論文によれば、アイヌ語学者の知里真志保は「シコツ」をアイヌ語の si-kot（大きい窪地・大谷）と解した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-chitose-shikotsu-ron"
+     ]
+    },
+    {
+     "text": "千歳市公式は、千歳地方一帯を指す「シコツ」という地名が文献に最初に現れるのは万治3年（1660年）の『福山秘府』といわれると紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-chitose-rekishi"
+     ]
+    },
+    {
+     "text": "千歳市によれば、文化2年（1805年）、シコツ場所担当の箱館奉行調役並・山田鯉兵衛嘉充が箱館奉行・羽太正養に新しい地名を願い出て、この地に多くの鶴がいることから「鶴は千年、亀は万年」の故事により「千歳」と命名された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-chitose-yoran"
+     ]
+    },
+    {
+     "text": "千歳市史編さんの論文によれば、改名の直接の対象はシコツ川（千歳川）であり、理由には鶴の生息に加えて「シコツ」の音の響きが悪いこともあった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-chitose-shikotsu-ron"
+     ]
+    },
+    {
+     "text": "昭和33年（1958年）に市制が施行され、千歳市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-chitose-yoran"
+     ]
+    }
+   ],
+   "column": {
+    "title": "鶴は千年の願いを込めた改名",
+    "text": "1805年の改名は、現場からの願い出から始まりました。シコツ場所を担当する役人の山田鯉兵衛嘉充が、奉行の羽太正養に新しい地名を付けてほしいと頼んだのです。正養は、この地に鶴が多いことから「鶴は千年、亀は万年」という中国のめでたい故事を引いて「千歳」と名付けました。市史の編さん者は、響きの悪い「シコツ」を改めたいという事情も背景にあったと指摘します。最初に改名されたのは川の名（千歳川）で、アイヌ語の地名に漢字の祝いの名が重なった土地になりました。",
+    "sources": [
+     "t1-chitose-yoran",
+     "t1-chitose-shikotsu-ron"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "『福山秘府』の「シコツ」の記載は市公式の紹介によるもので、原典そのものは確認できていない",
+    "「シコツ」の語源については si-kot（大きい窪地）説が有力だが、発祥の地をめぐって市史編さんでも議論があり、原点の位置は確定していない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-名寄市",
+   "code": "012211",
+   "names": {
+    "ja": "名寄市",
+    "reading": "なよろし",
+    "aliases": [
+     "上名寄村",
+     "名寄町",
+     "風連町"
+    ]
+   },
+   "user_terms": [
+    "ナイオロピュットのまち",
+    "天塩川と名寄川の合流点",
+    "もち米のまち名寄",
+    "名寄市の名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "名寄は、天塩川に名寄川が合流する川口を指したアイヌ語の地名に由来するとされる。旧国鉄の『北海道駅名の起源』は「ナヨロ・プッ（川の入口）」の下略とし、近年の郷土史紹介は「ナイオㇿプトゥ（川のところの口）」に求める一方、「ナイ・オㇿ（谷のところ）」と解する研究者の説もある。和人の入植は1900年からで、1956年に市制を施行、2006年に風連町と合併して現在の名寄市となった。",
+   "first_attestation": {
+    "era": "不明",
+    "year_western": null,
+    "document": null,
+    "note": "アイヌ語名の和人による文字記録の初出は確認できていない。安政4年（1857年）に松浦武四郎が名寄に入ったことが市の史跡資料に記される"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、名寄市の団体コードは012211と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "日本国有鉄道北海道総局『北海道駅名の起源』（昭和48年版）は、名寄の起源をアイヌ語の「ナヨロ・プッ」（川の入口）の下略で、名寄川が天塩川に注ぐあたりを指したものであるとしている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-nayoro-bojan"
+     ]
+    },
+    {
+     "text": "郷土史の紹介によれば、「名寄」という地名は天塩川と名寄川が合わさる川口を指した「ナイオㇿプトゥ」（川・のところ・の口）に由来するとされ、名寄川そのものも「ナイオㇿ」と呼ばれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-nayoro-localhistoria"
+     ]
+    },
+    {
+     "text": "アイヌ語地名研究の立場からは、「ナヨロ」を nay-or（谷・のところ）と解する説もあり、川口に求める説と見解が分かれる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "t1-nayoro-bojan"
+     ]
+    },
+    {
+     "text": "名寄市北国博物館によれば、安政4年（1857年）に松浦武四郎が名寄に入り、アイヌの家に泊まったとされる地が史跡として残る",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-nayoro-city-museum"
+     ]
+    },
+    {
+     "text": "名寄市北国博物館によれば、明治33年（1900年）に山形団体がこの地の原野に最初に入植した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-nayoro-city-museum"
+     ]
+    },
+    {
+     "text": "旧名寄市は昭和31年（1956年）に市制を施行し、平成18年（2006年）3月27日に風連町との新設合併により現在の名寄市となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t1-nayoro-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "川口の名が、盆地の中心の名になった",
+    "text": "名寄の市街は、天塩川と名寄川という2つの川に挟まれた場所に育ちました。「ナヨロ」というアイヌ語の名は、その合流点――川の入口を指す言葉だったと伝えられます。川舟の時代、この川口は交通の要所でした。鉄道が通り、山形からの団体移住者が入って100年余り。川口を指した小さな地名は、盆地全体の中心都市の名前になりました。なお、かつて樺太にも同名の「名寄村」があり、道北の名が樺太へも持ち込まれていました。",
+    "sources": [
+     "t1-nayoro-bojan",
+     "t1-nayoro-localhistoria"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-士別市"
+   ],
+   "unknowns": [
+    "「ナイオㇿプトゥ（川口）」説と「ナイ・オㇿ（谷のところ）」説のどちらが正しいか、山田秀三『北海道の地名』等の専門研究の原典では確認できていない",
+    "「名寄」の漢字表記が公的に定着した時期は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-士別市",
+   "code": "012203",
+   "names": {
+    "ja": "士別市",
+    "reading": "しべつし",
+    "aliases": [
+     "士別村",
+     "士別町",
+     "朝日町"
+    ]
+   },
+   "user_terms": [
+    "サムライ士別",
+    "羊のまち士別",
+    "屯田兵最後の村",
+    "士別市の名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "士別は、天塩川を指したアイヌ語の「シペッ」に由来する。市の資料はこれを「本当の川」と訳すが、別の市の資料は原語を「シュペツ」とし「大いなる川」の意としており、表記と訳の両方に揺れがある。漢字の「士別」はその音に当てたものとされる。1899年に北海道最後の屯田兵村として開かれ、1954年に合併・市制、2005年に朝日町と合併して現在の市となった。",
+   "first_attestation": {
+    "era": "安政4年",
+    "year_western": 1857,
+    "document": "松浦武四郎『天塩日誌』",
+    "note": "市公式資料が紹介する、松浦武四郎がこの地を訪れた際の記録。アイヌ語名「シペッ」の文字記録としての初出は原典未確認のため断定しない"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、士別市の団体コードは012203と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "士別市の資料によれば、アイヌ語で「本当の川」を意味する「シペッ〔si-pet〕」が町の名前の由来となっている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-shibetsu-city-map"
+     ]
+    },
+    {
+     "text": "一方、士別市議会の概要は、「しべつ」という語源はアイヌ語の「シュペツ」から転訛したもので「大いなる川」を意味すると記しており、市の公的資料の間でも原語の表記と訳が分かれる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t1-shibetsu-city-gikai"
+     ]
+    },
+    {
+     "text": "「シペッ／シュペツ」が指すのは天塩川であり、市は天塩川が本市発展の源であったと説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-shibetsu-city-gikai",
+      "t1-shibetsu-city-map"
+     ]
+    },
+    {
+     "text": "士別市の資料によれば、安政4年（1857年）に松浦武四郎がこの地を訪れ、アイヌの人々と交流したことが『天塩日誌』に記されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-shibetsu-city-map"
+     ]
+    },
+    {
+     "text": "士別市によれば、明治32年（1899年）7月1日に北海道最後の屯田兵100戸が入植して開拓が始まった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-shibetsu-city-gikai",
+      "t1-shibetsu-city-map"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）に士別町・上士別村・多寄村・温根別村の4町村が合併して士別市となり、平成17年（2005年）には朝日町と合併して現在の士別市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-shibetsu-city-map"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「本当の川」の名を持つ、最後の屯田兵村",
+    "text": "天塩川は、道北のアイヌの人々にとってまさに「本当の川」――暮らしの大動脈でした。その名「シペッ」を受け継いだ士別は、1899年に入植した北海道最後の屯田兵村として開かれました。武士（士）の身分の人々が鍬を取った土地に、「士」の字を含む当て字がよく似合ったのかもしれません。ただし「シペッ」なのか「シュペツ」なのか、「本当の川」なのか「大いなる川」なのかは、市の資料によっても表記が揺れています。同じ読みの標津町（しべつちょう）と間違えやすいことでも知られます。",
+    "sources": [
+     "t1-shibetsu-city-map",
+     "t1-shibetsu-city-gikai"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-名寄市"
+   ],
+   "unknowns": [
+    "「シペッ」と「シュペツ」のどちらの形が原語に近いか、専門研究（山田秀三ら）での確認はできていない",
+    "「士別」の漢字が当てられた正確な時期と経緯は、確認した資料では確定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-夕張市",
+   "code": "012092",
+   "names": {
+    "ja": "夕張市",
+    "reading": "ゆうばりし",
+    "aliases": [
+     "登川村",
+     "夕張町",
+     "ユーパロ"
+    ]
+   },
+   "user_terms": [
+    "夕張メロンのまち",
+    "炭鉱のまち夕張",
+    "ユーパロ",
+    "夕張市の名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "夕張は夕張川・夕張郡の名で、その由来はアイヌ語の「ユーパロ（鉱泉・温泉の湧き出る口）」の転訛と市が説明するが、ほかに「イパロ」「ユーバリ」に求める説もあり定まっていない。自治体は1890年に登川村として置かれ、1918年に郡・川の名を採って夕張町と改称、1943年に市制を施行した。地名そのものは炭鉱開発より古い層に属する。",
+   "first_attestation": {
+    "era": "明治2年",
+    "year_western": 1869,
+    "document": "松浦武四郎の郡名建議書「郡名之儀ニ付申上候書付」",
+    "note": "夕張郡の由来を「イユウパロ（温泉之口）」、読みを「ユウハリ」と示したと紹介される用例。原典は未確認で紹介形で記録する"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、夕張市の団体コードは012092と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "夕張市は市の由来として、アイヌ語のユーパロ（鉱泉の湧き出るところ）の転訛したものといわれていると記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-yubari-city-gaiyo"
+     ]
+    },
+    {
+     "text": "国土交通省の資料は夕張の由来について諸説を併記しており、ユーパロ（温泉口の意）による説のほか、イパロ（それの口の意）により文化的中心地だった千歳へ往来する東の口にちなむ説、ユーバリ（硫黄臭があるの意）により大雨の時に硫黄で白く濁ったことにちなむ説がある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t1-yubari-mlit"
+     ]
+    },
+    {
+     "text": "松浦武四郎は1869年に提出した郡名建議書で、夕張郡の由来を「イユウパロ（温泉之口）」とし、読みを「ユウハリ」と示したと紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t1-yubari-wiki"
+     ]
+    },
+    {
+     "text": "自治体としては明治23年（1890年）に登川村が設置され、大正7年（1918年）に登川村から夕張町へ改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-yubari-mlit"
+     ]
+    },
+    {
+     "text": "昭和18年（1943年）4月1日、夕張町が市制を施行して夕張市が成立した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t1-yubari-kotobank"
+     ]
+    },
+    {
+     "text": "夕張市によれば、明治21年（1888年）に北海道庁技師の坂市太郎が夕張炭田の大露頭を発見し、明治24年（1891年）に北海道炭礦鉄道会社が夕張第一砿を開坑して、炭鉱のまちとして発展した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-yubari-city-kaso"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「夕張」は村の名前ではなかった",
+    "text": "夕張という名は、もともと川と郡の名前でした。いまの夕張市の区域に置かれた村は、1890年の設置時は「登川村」という別の名で、炭鉱が開かれてから28年後の1918年に、ようやく「夕張町」と改称して川と郡の名にそろえたのです。アイヌ語のユーパロに由来するという川の名が、炭都の名前として全国に知られるようになりました。最盛期には12万人近くが暮らしましたが、1990年までに市内の炭鉱はすべて閉山しています。",
+    "sources": [
+     "t1-yubari-mlit",
+     "t1-yubari-city-kaso"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-岩見沢市"
+   ],
+   "unknowns": [
+    "ユーパロ・イパロ・ユーバリの諸説のうちどれが正しいか、専門研究での決着は確認できていない",
+    "松浦武四郎の郡名建議書の原文は確認できておらず、夕張郡の由来の記載は二次的な紹介による"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-室蘭市",
+   "code": "012050",
+   "names": {
+    "ja": "室蘭市",
+    "reading": "むろらんし",
+    "aliases": [
+     "モロラン",
+     "室蘭町",
+     "輪西町"
+    ]
+   },
+   "user_terms": [
+    "鉄のまち室蘭",
+    "モロラン",
+    "地球岬のある市",
+    "室蘭市の名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "室蘭の語源はアイヌ語の「モ・ルエラニ」で、「小さな下り路」を意味すると市の公式資料が説明する。もとの地名は現在の崎守町付近の坂のある一帯を指していたが、明治初年に港と町の中心が絵鞆半島側へ移るにつれて地名も移動した。読みも明治中期までは「もろらん」で、後に「むろらん」に変わった。1922年に市制を施行した。",
+   "first_attestation": {
+    "era": "明治2年",
+    "year_western": 1869,
+    "document": "胆振国室蘭郡の制定",
+    "note": "「室蘭」の漢字表記が国郡名として公に用いられた早い用例。アイヌ語名「モ・ルエラニ」自体の文献上の初出は確認できていない"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、室蘭市の団体コードは012050と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "室蘭市によれば、室蘭の語源はアイヌ語の「モ・ルエラニ」から転化したもので、「小さな・下り路」という意味である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-muroran-city-about"
+     ]
+    },
+    {
+     "text": "室蘭市によれば、語源ゆかりの地とされるのは崎守町仙海寺前の坂である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-muroran-city-about"
+     ]
+    },
+    {
+     "text": "室蘭市によれば、慶長年間（1600年ころ）に松前藩がアイヌの人たちとの交易のため絵鞆場所を開き、運上屋を置いたのがこの地のはじまりである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-muroran-city-about"
+     ]
+    },
+    {
+     "text": "室蘭市設置の説明板を紹介する資料によれば、松浦武四郎は室蘭郡の命名理由として「会所元へ何れより行ても小さき坂を下る故に此名有」と挙げ、明治2年（1869年）に胆振国室蘭郡が制定された",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-muroran-saka"
+     ]
+    },
+    {
+     "text": "北海道電力の地名紹介によれば、「室蘭」の名は明治の初めまでは室蘭湾の北側、現在の崎守町あたりの地名であり、会所や港もそこにあった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-muroran-hepco"
+     ]
+    },
+    {
+     "text": "「室蘭」の読みは明治中期ごろまでは「もろらん」で、後年、漢字の音に引きずられて「むろらん」に変化したとされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t1-muroran-wiki"
+     ]
+    },
+    {
+     "text": "大正11年（1922年）8月1日に市制が施行され、室蘭市となった（当時の人口は52,158人）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-muroran-city-about"
+     ]
+    }
+   ],
+   "column": {
+    "title": "地名が引っ越したまち――モロランは崎守にあった",
+    "text": "いま室蘭といえば絵鞆半島の市街を思い浮かべますが、もとの「モロラン」は湾の反対側、崎守町あたりの小さな坂のある一帯の名でした。坂を下ったところに会所と港があり、松浦武四郎は「どこから行っても小さな坂を下る」ことを郡名の理由に挙げています。明治初年、新しい港が半島側に築かれると、町の中心とともに地名も湾を渡って引っ越しました。崎守にはいまも「地名発祥の坂」として、その小さな坂が残っています。",
+    "sources": [
+     "t1-muroran-saka",
+     "t1-muroran-hepco"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-岩見沢市"
+   ],
+   "unknowns": [
+    "アイヌ語名「モ・ルエラニ（モロラン）」の文献上の初出は確認できていない",
+    "「モ・ルエラニ」の語構成については「モ・ルエラン」等の表記ゆれがあり、専門研究（山田秀三ら）での最終確認はできていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-富良野市",
+   "code": "012297",
+   "names": {
+    "ja": "富良野市",
+    "reading": "ふらのし",
+    "aliases": [
+     "フラヌイ",
+     "富良野村",
+     "富良野町"
+    ]
+   },
+   "user_terms": [
+    "北海道のへそのまち",
+    "ラベンダーの富良野",
+    "フラヌイ",
+    "富良野市の名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "富良野は、富良野川を指したアイヌ語「フラヌイ」の転訛である。市は語源を「フラヌイ＝臭・もつ・所」とし、川の水源である十勝岳の硫黄の臭気に由来するとする説が有力と説明する。一方、松浦武四郎は同じ名を「赤川（川底が赤土）」の意と解しており、解釈には対立がある。「フラヌイ」の初出は1821年の間宮林蔵『蝦夷図』とされる。1966年に市制を施行した。",
+   "first_attestation": {
+    "era": "文政4年",
+    "year_western": 1821,
+    "document": "間宮林蔵『蝦夷図』",
+    "note": "上富良野町郷土をさぐる会が紹介する「フラヌイ」の初出（「初出のようである」とする紹介形で記録する）"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、富良野市の団体コードは012297と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "t1-furano-city-gaiyo"
+     ]
+    },
+    {
+     "text": "富良野市によれば、富良野の語源はアイヌ語の「フラヌイ（hura-nu-i＝臭・もつ・所）」が転訛したとする説が有力であり、富良野川の水源が十勝岳であるために硫黄の臭気を含むことから呼ばれたと考えられる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-furano-city-gaiyo"
+     ]
+    },
+    {
+     "text": "上富良野町の郷土研究によれば、「フラヌイ」という地名は文政4年（1821年）の間宮林蔵の『蝦夷図』に見えるのが初出のようである",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t1-furano-kamifurano-saguru"
+     ]
+    },
+    {
+     "text": "同じ郷土研究によれば、安政5年（1858年）にこの地を踏査した松浦武四郎は「フウラヌイ」を「赤川と云う義、川底皆赤土なるが故」と解しており、硫黄の臭気に求める現在の有力説とは解釈が異なる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "t1-furano-kamifurano-saguru"
+     ]
+    },
+    {
+     "text": "環境省の資料によれば、富良野の開拓は明治29年（1896年）に富良野原野殖民地区画が設定され、翌30年（1897年）に入植が始まったことによる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-furano-env"
+     ]
+    },
+    {
+     "text": "昭和41年（1966年）に市制が施行され、道内29番目の市として富良野市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-furano-env"
+     ]
+    },
+    {
+     "text": "語源紹介の中には、赤い溶岩や焼け石がたくさんある所で「赤い野」を意味するアイヌ語の「フラヌ」に由来するといった説を紹介するものもある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "t1-furano-gogen"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「香りのよい野」ではなかった――硫黄の匂いの川",
+    "text": "ラベンダー畑の印象から、富良野には「花の香る野」というイメージが付きがちです。しかし語源のアイヌ語「フラヌイ」は、市自身の説明では「臭・もつ・所」。十勝岳から流れ出す川水が硫黄の匂いを含んでいたことが名の起こりとされます。面白いのは、1858年に現地を歩いた松浦武四郎が、この名を「赤い川（川底が赤土だから）」と全く別に解していたことです。匂いの川か、赤い川か。150年以上前の探検家の解釈と現在の有力説が、静かに対立しています。",
+    "sources": [
+     "t1-furano-city-gaiyo",
+     "t1-furano-kamifurano-saguru"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "『蝦夷図』（1821年）の「フラヌイ」の記載は郷土研究の紹介によるもので、原図そのものは確認できていない",
+    "「フラヌイ」の解釈について、永田方正の「臭き火焔」説など明治期の地名解との関係は専門研究で未確認である"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-小樽市",
+   "code": "012033",
+   "names": {
+    "ja": "小樽市",
+    "reading": "おたるし",
+    "aliases": [
+     "オタルナイ",
+     "小樽区"
+    ]
+   },
+   "user_terms": [
+    "小樽の名前の由来",
+    "小樽はアイヌ語でどういう意味か",
+    "オタルナイとは"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "小樽の地名はアイヌ語の「オタ・オル・ナイ（オタルナイ）」（砂浜の中の川の意）に由来する。元治2年（1865年）に幕府がオタルナイを村並とし、明治2年（1869年）に「小樽」と改められ、大正11年（1922年）に市制を施行した。昭和の合併で高島町・朝里村・塩谷村を編入して現在の市域となった。",
+   "first_attestation": {
+    "era": "元治2年",
+    "year_western": 1865,
+    "document": "幕府による「オタルナイ」の村並指定（小樽市公式「小樽市のあゆみ」が紹介）",
+    "note": "アイヌ語地名が公的に位置づけられた節目。文献上の使用例の初出そのものは未確認。"
+   },
+   "claims": [
+    {
+     "text": "小樽市は、「小樽」の地名はアイヌ語の「オタ・オル・ナイ（砂浜の中の川の意）」に由来すると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-otaru-guide",
+      "l1-otaru-keikaku"
+     ]
+    },
+    {
+     "text": "元治2年（1865年）、幕府は「オタルナイ」を村並とした。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-otaru-ayumi"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）に開拓使が置かれ、「オタルナイ」は「小樽」と改められた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-otaru-ayumi"
+     ]
+    },
+    {
+     "text": "大正11年（1922年）8月1日に市制を施行して小樽市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-otaru-ayumi"
+     ]
+    },
+    {
+     "text": "昭和15年（1940年）に高島町と朝里村を合併し、昭和33年（1958年）に塩谷村を合併して、現在の市域となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-otaru-keikaku"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、小樽市のコードは012033とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "砂浜の中の小さな川が、港湾都市の名になった",
+    "text": "小樽の名の元は、砂浜の中を流れる一本の川を指すアイヌ語だった。その小さな川の名が、幕府の村並指定、開拓使による「小樽」の字の付与を経て、やがて道内随一の商港として栄える都市の名前になった。語源の「オタルナイ」は市の資料でも「オタ・オル・ナイ」と区切って示されることがあり、意味は「砂浜の中の川」で一貫している。大きな港の名が、もとは浜辺の小さな流れの名だったという落差が面白い。",
+    "sources": [
+     "l1-otaru-guide",
+     "l1-otaru-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "「オタルナイ」の文献上の初出（松浦武四郎の日誌類などにおける表記）は未確認。",
+    "アイヌ語の語形「オタ・オル・ナイ」の区切りと原義について、専門辞典による検証は未実施。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-岩見沢市",
+   "code": "012106",
+   "names": {
+    "ja": "岩見沢市",
+    "reading": "いわみざわし",
+    "aliases": [
+     "浴澤",
+     "岩見澤村",
+     "岩見沢町"
+    ]
+   },
+   "user_terms": [
+    "浴澤（ゆあみざわ）",
+    "空知の中心都市",
+    "和名の都市岩見沢",
+    "岩見沢市の名前の由来"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "岩見沢は、アイヌ語地名が多い北海道では数少ない和名の都市である。明治11年（1878年）、幌内煤田の開採道路の工事に当たった人々が幾春別川のほとりの休泊所で浴（ゆあみ）して疲れを癒したことから「浴澤（ゆあみざわ）」と呼ばれ、それが転訛して「岩見澤」になったと市は説明する。1884年に岩見澤村が置かれ、1943年に市制を施行、2006年に栗沢町・北村を編入した。",
+   "first_attestation": {
+    "era": "明治17年",
+    "year_western": 1884,
+    "document": "設村の告示（岩見澤村）",
+    "note": "市公式「岩見沢のおいたち」による。「浴澤」の呼称自体は1878年頃から使われていたとされる"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、岩見沢市の団体コードは012106と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "岩見沢市は、アイヌ語の地名が多い北海道において、岩見沢は数少ない和名の都市であると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-iwamizawa-city-chimei"
+     ]
+    },
+    {
+     "text": "岩見沢市によれば、明治11年（1878年）に幌内煤田を開採するため、開拓使は札幌〜幌内間の道路開削に当たり、当市北部の幾春別川の川辺に休泊所を設け、ここで浴（ゆあみ）して疲れをいやしたといわれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-iwamizawa-city-chimei"
+     ]
+    },
+    {
+     "text": "岩見沢市によれば、この地は憩いの場所として「浴澤」（ゆあみさわ）と称するようになり、これが転化して「岩見澤」（いわみざわ）と呼ばれるようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-iwamizawa-city-chimei"
+     ]
+    },
+    {
+     "text": "岩見沢市教育委員会が紹介する巌見澤紀碑（明治38年・1905年建立）の碑文は、開拓使の役丁が流れで浴したことから浴澤と称し、「浴」の訓（ゆあみ）と「岩見」の音が近いことから岩見澤と名付けられたと記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-iwamizawa-hi"
+     ]
+    },
+    {
+     "text": "岩見沢市によれば、明治17年（1884年）10月6日の設村の告示により岩見澤（イワミザワ）村となり、同年から翌年にかけて山口県・鳥取県ほか10県からの士族277戸1,503人の集団移住により開拓が始まった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-iwamizawa-city-oitachi"
+     ]
+    },
+    {
+     "text": "昭和18年（1943年）に市制を施行して岩見沢市となり、平成18年（2006年）に栗沢町と北村を編入した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t1-iwamizawa-mlit"
+     ]
+    }
+   ],
+   "column": {
+    "title": "お風呂から生まれた市名",
+    "text": "北海道の市名の多くはアイヌ語に由来しますが、岩見沢は違います。1878年、炭鉱への道路工事の人夫たちが、川のほとりの休泊所で湯浴み（ゆあみ）をして疲れを取った場所が「浴澤」と呼ばれました。「ゆあみ」という音が「いわみ」に近いことから、やがて漢字が「岩見澤」に置き換わった――1905年に建てられた巌見澤紀碑の碑文は、そう物語っています。湯浴みの沢という素朴な呼び名が、そのまま市の名前になった珍しい例です。",
+    "sources": [
+     "t1-iwamizawa-city-chimei",
+     "t1-iwamizawa-hi"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-室蘭市",
+    "muni/01-夕張市"
+   ],
+   "unknowns": [
+    "「浴澤」の呼称が使われ始めた正確な時期と、「岩見澤」表記への置き換えが公的に行われた時期は確定できていない",
+    "アイヌ語由来説など他の語源説は、確認した公的資料では見当たらなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-帯広市",
+   "code": "012076",
+   "names": {
+    "ja": "帯広市",
+    "reading": "おびひろし",
+    "aliases": [
+     "下帯広村"
+    ]
+   },
+   "user_terms": [
+    "帯広の名前の由来",
+    "帯広はアイヌ語でどういう意味か",
+    "晩成社が開いた町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "帯広の名は、アイヌ語「オペレペレケプ」（川尻がいくつも裂けている所、河口がいくつにも分かれている川の意）の転訛と言われる。明治16年（1883年）に依田勉三率いる民間開拓団体・晩成社が入植して下帯広村を開き、十勝で最初の町を経て昭和8年（1933年）に市制を施行した。",
+   "first_attestation": {
+    "era": "明治16年",
+    "year_western": 1883,
+    "document": "晩成社の入植と下帯広村の成立（帯広市公式資料が紹介）",
+    "note": "和人の集落の名としての節目。アイヌ語名そのものの使用はそれ以前にさかのぼる。"
+   },
+   "claims": [
+    {
+     "text": "帯広市は市勢要覧で、帯広の地名はアイヌ語「オペレペレケプ」（川尻がいくつも裂けている所、河口がいくつにも分かれている川の意）という言葉の転訛と言われると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-obihiro-yoran"
+     ]
+    },
+    {
+     "text": "明治16年（1883年）、依田勉三が率いる晩成社の一行27名がこの地に入植した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-obihiro-yoran",
+      "l1-obihiro-furikaeru"
+     ]
+    },
+    {
+     "text": "晩成社は屯田兵ではなく民間の開拓団体であり、帯広は民間の開拓によって開かれた町である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-obihiro-yoran"
+     ]
+    },
+    {
+     "text": "入植地は下帯広村と称し、明治35年（1902年）に二級町村制により帯広町（十勝で唯一の町）となり、大正4年（1915年）に一級町村制の町となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-obihiro-furikaeru"
+     ]
+    },
+    {
+     "text": "昭和8年（1933年）4月1日に市制を施行して帯広市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-obihiro-furikaeru"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、帯広市のコードは012076とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "屯田兵ではない開拓",
+    "text": "北海道の開拓というと屯田兵が思い浮かぶが、帯広を開いたのは民間の開拓団体・晩成社だった。静岡県出身の依田勉三が同志27名を率いて1883年に入植し、十勝の原野に下帯広村を開いた。集落は十勝で唯一の町を経て、入植からちょうど50年後の1933年に市制を施行する。地名の「帯広」は、川の流れがいくつにも分かれる土地の姿を写したアイヌ語の転訛とされ、開拓の舞台そのものを名前に刻んでいる。",
+    "sources": [
+     "l1-obihiro-yoran",
+     "l1-obihiro-furikaeru"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "「オペレペレケプ」の語形と原義について、アイヌ語の専門辞典による検証は未実施。",
+    "下帯広村の成立年次（戸長役場の設置時期など）の詳細は確認できていない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-恵庭市",
+   "code": "012319",
+   "names": {
+    "ja": "恵庭市",
+    "reading": "えにわし",
+    "aliases": [
+     "恵庭村",
+     "恵庭町",
+     "エニワ"
+    ]
+   },
+   "user_terms": [
+    "恵庭の名前の由来",
+    "恵庭はアイヌ語でどういう意味か",
+    "ガーデニングのまち恵庭",
+    "恵庭岳のふもとのまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "恵庭の名は、現在の恵庭岳を指すアイヌ語「エエンイワ（鋭くとがった山）」が転訛したものと恵庭市は説明する。漁村と島松村が合併して明治39年（1906年）に恵庭村となり、昭和26年（1951年）に町制、昭和45年（1970年）に市制を施行した。札幌市と新千歳空港のほぼ中間に位置する。",
+   "first_attestation": {
+    "era": "明治時代",
+    "year_western": 1906,
+    "document": "二級町村制施行時の村名「恵庭村」",
+    "note": "自治体名としての初出。もとのアイヌ語の山名はこれより古くから口承されてきたが、和人の文献における初出の特定は本バッチでは未実施。"
+   },
+   "claims": [
+    {
+     "text": "恵庭市は公式の概要で、市名の由来はアイヌ語の「エエンイワ」（現在の恵庭岳を指し、鋭くとがった山という意）から転訛されてきたと言われていると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-eniwa-city-gaiyo"
+     ]
+    },
+    {
+     "text": "国土交通省北海道開発局も、恵庭の名はアイヌ語のエエンイワ（鋭い高い山の意）に由来すると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-eniwa-mlit"
+     ]
+    },
+    {
+     "text": "「エエンイワ」の語構成を「頭が・尖っている・山」（e-en-iwa）と分析する説明が紹介されている。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t2-eniwa-wiki"
+     ]
+    },
+    {
+     "text": "明治39年（1906年）に漁村と島松村が合併して恵庭村となり、昭和26年（1951年）に町制を施行、昭和45年（1970年）11月1日に市制を施行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-eniwa-mlit",
+      "t2-eniwa-city-gaiyo"
+     ]
+    },
+    {
+     "text": "恵庭の市制施行は、伊達市・登別市とともに地方自治法の特例によるもので、人口34,500人で実現したと市の沿革は伝える。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-eniwa-city-gaiyo"
+     ]
+    },
+    {
+     "text": "内閣府が公表した恵庭市アイヌ施策推進地域計画は、市名「恵庭」のほか漁川など、市内にアイヌ語由来の地名が数多く残されていると記す。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-eniwa-ainu-plan"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、恵庭市のコードは012319とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "人口が足りなくても市になれた1970年",
+    "text": "恵庭が市になった昭和45年（1970年）は、地方自治法の特例が適用された年だった。通常の人口要件に届かない34,500人のまま、伊達市・登別市と並んで市制を施行している。名の元になった恵庭岳は、札幌側から近づくと鋭く尖った山容でひときわ目立つ。アイヌ語で「鋭くとがった山」を意味した名が、山から麓のまち全体の名へと広がったことになる。",
+    "sources": [
+     "t2-eniwa-city-gaiyo"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-登別市"
+   ],
+   "unknowns": [
+    "アイヌ語「エエンイワ」の文献上の初出（松浦武四郎らの記録における表記を含む）は未確認。",
+    "恵庭岳の山名が市街地一帯を指す地名へ広がった時期と経緯の詳細は未確認。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-日高町",
+   "code": "016012",
+   "names": {
+    "ja": "日高町",
+    "reading": "ひだかちょう",
+    "aliases": [
+     "右左府村",
+     "日高村",
+     "門別町"
+    ]
+   },
+   "user_terms": [
+    "日高町 北海道",
+    "沙流郡の日高町",
+    "飛び地の日高町",
+    "旧門別町と旧日高町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "北海道",
+   "homonyms": [
+    "muni/30-日高町"
+   ],
+   "summary": "北海道日高振興局の町。名は明治2年（1869）に新設された日高国に由来する地方名「日高」で、旧日高町はアイヌ語由来の右左府村が昭和18年（1943）に日高村へ改称したことに始まる。平成18年（2006）に旧日高町と門別町が新設合併して現在の日高町となり、町域は平取町を挟んで南北に分かれる。和歌山県日高町の古代の日高郡とは系譜が異なる。",
+   "first_attestation": {
+    "era": "昭和18年",
+    "year_western": 1943,
+    "document": "右左府村から日高村への改称（4月29日）",
+    "note": "地方名としての「日高」は明治2年（1869）の日高国設置に遡る"
+   },
+   "claims": [
+    {
+     "text": "明治2年（1869）8月15日の太政官布告で北海道に11国86郡が置かれ、日高国もその1つとして新設された。「日高」はこの国名に由来する地方名である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-hok-dajokan"
+     ]
+    },
+    {
+     "text": "旧日高町の前身は大正8年（1919）に幌去村から分村した右左府村で、右左府はアイヌ語のウシャップ（両方に出入口のある所）に由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-hidaka-hok-ainu",
+      "h2-hidaka-hok-gyokaku"
+     ]
+    },
+    {
+     "text": "右左府村は昭和18年（1943）4月29日に日高村と改称し、昭和37年（1962）11月1日に町制を施行して日高町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-hidaka-hok-gyokaku"
+     ]
+    },
+    {
+     "text": "平成18年（2006）3月1日に（旧）日高町と門別町が新設合併して現在の日高町が置かれた。両町は平取町を挟んで接しておらず、町役場は旧門別町側にある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-hidaka-hok-ainu",
+      "h2-hidaka-hok-gyokaku"
+     ]
+    },
+    {
+     "text": "「日高」の名は日高山脈の麓に位置することから命名されたと、地元の発祥之地碑の解説などでは説明される",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "h2-hidaka-hok-hassho"
+     ]
+    },
+    {
+     "text": "同名の比較（異なる層）：北海道の日高は明治2年に新設された国の名に由来する地方名であり、古代の日高郡の名を受け継ぐ和歌山県日高町とは、「広域の地方名を町名にする」点では似ても、国名系と郡名系で出発点が異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-hidaka-hok-gyokaku",
+      "h2-hidaka-wakayama-manabi"
+     ]
+    },
+    {
+     "text": "同名の比較（共通する層）：読みは和歌山県日高町と同じ「ひだかちょう」である。なお、ほぼ同時期（2006年）に誕生した新ひだか町は別の自治体である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "h2-hidaka-hok-gyokaku"
+     ]
+    }
+   ],
+   "column": {
+    "title": "平取町を挟んだ、飛び地の合併",
+    "text": "2006年、海側の門別町と山側の旧日高町が合併した。ところが両町の間には平取町があり、新しい日高町の町域は南北に分断されている。役場は旧門別町側に置かれ、町の名は旧日高町側から受け継いだ。しかも同じ2006年には、静内町と三石町が合併して「新ひだか町」が誕生している。北海道の日高地方では、「日高町」と「新ひだか町」という紛らわしい2つの町が同年に生まれた。",
+    "sources": [
+     "h2-hidaka-hok-ainu",
+     "h2-hidaka-hok-gyokaku"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/30-日高町"
+   ],
+   "unknowns": [
+    "1943年の改称時に「日高」を選んだ理由の公式記録は未確認（日高山脈の麓という説明は地元の碑の解説等による）",
+    "日高国という国名自体の命名理由（日高山脈にちなむとされる）の一次資料は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-旭川市",
+   "code": "012041",
+   "names": {
+    "ja": "旭川市",
+    "reading": "あさひかわし",
+    "aliases": [
+     "旭川村",
+     "旭川町",
+     "旭川区"
+    ]
+   },
+   "user_terms": [
+    "旭川の名前の由来",
+    "チュプペッとは何か",
+    "旭川は誰が名付けたのか",
+    "アイヌ語を翻訳して付けた地名"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "旭川は、忠別川のアイヌ語名「チュプ・ペッ」（日・川）を意訳して明治23年（1890年）に北海道庁が命名した名とされる。「日」を「旭」に置き換えた翻訳命名だが、原語の解釈自体に「日・川」「波・川」「秋・川」の3説があり、命名者や経緯の公的記録も残っていないことを旭川市公式と旭川市中央図書館は明示している。",
+   "first_attestation": {
+    "era": "明治23年",
+    "year_western": 1890,
+    "document": "北海道庁庁令による旭川村の設置・命名（9月20日）",
+    "note": "村名の由来を伝える最古級の史料は、函館の新聞「北海」の明治23年9月23日記事（旭川市中央図書館のレファレンスが紹介）。"
+   },
+   "claims": [
+    {
+     "text": "旭川市公式「旭川市のあゆみ」によれば、「旭川」の由来は忠別川のアイヌ語名「チュプ・ペッ」（チュプは「日」、ペッは「川」）を語源とする説がよく知られ、「日」を「旭」に置き換えて意訳して名付けたと言われる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-asahikawa-city-ayumi"
+     ]
+    },
+    {
+     "text": "ただし旭川市公式も「諸説あって定かではない」とし、旭川市中央図書館のレファレンスは、原語の解釈に永田方正『北海道蝦夷語地名解』（1891年）の「日・川（Chup-pet）」、知里真志保（1960年）の「波・川（chiu-pet）」、山田秀三（1984年）の「秋・川（cuk-pet）」の3説があることを整理している。市の公式表記「チュプ・ペッ」は永田説の読みに沿う。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k2-asahikawa-crd",
+      "k2-asahikawa-city-ayumi"
+     ]
+    },
+    {
+     "text": "旭川村は明治23年（1890年）9月20日、北海道庁庁令により上川郡に永山村・神居村とともに置かれた。命名の経緯や命名者についての公の記録は見つかっていない。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-asahikawa-crd",
+      "k2-asahikawa-city-ayumi"
+     ]
+    },
+    {
+     "text": "命名の理由を伝える最古級の史料として、函館の新聞「北海」明治23年9月23日の記事があり、「土人名チュプペツにて、日月を出だす義なりとて、今訳名を用いて旭川村とす」と記している。旭川市中央図書館のレファレンスが『新旭川市史』等に基づいて紹介する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-asahikawa-crd"
+     ]
+    },
+    {
+     "text": "第2代北海道庁長官の永山武四郎が命名したとする説も唱えられているが、公的記録による裏づけはない（旭川市中央図書館レファレンスが関連文献の所在を案内するにとどまる）。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k2-asahikawa-crd"
+     ]
+    },
+    {
+     "text": "明治33年（1900年）に旭川町、大正11年（1922年）8月に市制を施行して旭川市となり、平成12年（2000年）には北海道で初の中核市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-asahikawa-city-ayumi"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、旭川市のコードは012041とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "翻訳して作られた名前、記録に残らなかった命名者",
+    "text": "旭川は北海道の和風地名の中でも珍しく、「翻訳」で生まれた名である。忠別川を指すアイヌ語「チュプ・ペッ」の意味を漢字に置き換えると「旭川」になる、というのが新聞『北海』の報じた命名の瞬間だった。ところが不思議なことに、誰がこの名を決めたのかは公の記録に残っていない。しかも後世の研究では原語の解釈が割れ、「日の川」は「波の川」や「秋の川」だった可能性も出てきた。名前の意味が三通りありうる街というのは面白い。旭川の旭日旗のような朝の光を思い浮かべるか、波立つ川を思い浮かべるかで、風景の見え方が少し変わる。",
+    "sources": [
+     "k2-asahikawa-city-ayumi",
+     "k2-asahikawa-crd"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "命名者が誰か（永山武四郎説を含む）は公的記録では未確認。",
+    "アイヌ語原語の正しい解釈（日・川／波・川／秋・川）は確定していない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-札幌市",
+   "code": "011002",
+   "names": {
+    "ja": "札幌市",
+    "reading": "さっぽろし",
+    "aliases": [
+     "札幌区",
+     "さつほろ",
+     "サツホロ"
+    ]
+   },
+   "user_terms": [
+    "札幌の名前の由来",
+    "サッポロはアイヌ語でどういう意味",
+    "乾いた大きな川の市",
+    "札幌の元の場所はどこ"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "市名はアイヌ語の河川名「サッポロ」の継承で、新しく作られた名ではない。語源は「サッ・ポロ・ペッ（乾いた・大きな・川）」説と「サリ・ポロ・ペッ（その葦原が・広大な・川）」説が対立し、市の公式解説も両説を併記する。明治2年（1869年）に開拓使本府が置かれて都市ができ、大正11年（1922年）に札幌区から市制施行した。もとのサツホロは現在の都心ではなく、市北端の茨戸付近で石狩川に注ぐ川の合流点を指す地名だった。",
+   "first_attestation": {
+    "era": "寛文10年",
+    "year_western": 1670,
+    "document": "寛文拾年狄蜂起集書",
+    "note": "仮名表記「さつほろ」としての最古級の記録として郷土史研究が挙げるもの。寛文9年（1669年）の津軽藩士の報告書『石狩地形の事』を最古とする資料もあり、初出の特定には幅がある"
+   },
+   "claims": [
+    {
+     "text": "札幌市は公式解説で、語源としてアイヌ語の「サッ・ポロ・ペッ」（乾いた・大きな・川）とする説と「サリ・ポロ・ペッ」（その葦原が・広大な・川）とする説の2つを併記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-city"
+     ]
+    },
+    {
+     "text": "2説のどちらが語源かは確定しておらず、乾いた扇状地側を見るか下流の湿地側を見るかで解釈が分かれるため、札幌市自身も両説を並べて紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "a-cap-sapporo-city"
+     ]
+    },
+    {
+     "text": "郷土史研究によれば、「さつほろ」の最も古い記録は寛文10年（1670年）の『寛文拾年狄蜂起集書』で、元禄13年（1700年）の『松前嶋郷帳』には「志やつほろ」とある",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-teine"
+     ]
+    },
+    {
+     "text": "もとのサッポロ川は現在の豊平川に相当し、石狩川への合流点（サッポロブト）は現在の市北端・茨戸の下茨戸橋付近にあったと郷土史研究は特定する。地名の原点は今の都心ではなく市北端にある",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-teine"
+     ]
+    },
+    {
+     "text": "文化年間初め（1801年頃）の大洪水でサッポロ川の流路が大きく変わり、元の川はフシコサッポロ（古いサッポロ川）と呼ばれて明治初めに篠路川と改められ、流れを変えた川の方が豊平川と名付けられた、と郷土史研究は述べている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-teine"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）に開拓使が設置され、判官・島義勇のもとで札幌本府の建設が始まった。市名に選ばれたのは、この既存のアイヌ語地名である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-city"
+     ]
+    },
+    {
+     "text": "大正11年（1922年）8月1日に札幌区が市制を施行して札幌市となり、昭和47年（1972年）に政令指定都市へ移行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-city"
+     ]
+    },
+    {
+     "text": "茨戸に住んでいたアイヌの能登酉雄の談話として、昔の大洪水のあと丸木舟で漕ぎ着いた土地が乾いて広い土地だったので「サッポロ」と呼ぶようになった、という話が伝えられている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-sapporo-sugata"
+     ]
+    }
+   ],
+   "column": {
+    "title": "川が引っ越して、名前が都心に残った",
+    "text": "「札幌」という名前はもともと川の名前で、その川口は今の市北端・茨戸にありました。ところが1801年頃の大洪水で川は流路を大きく変え、元の川は「フシコサッポロ（古いサッポロ川）」と呼ばれてやがて篠路川に改名され、新しい流れの方が豊平川になりました。一方、開拓使の本府が置かれたのは川の扇状地の上、現在の都心です。つまり名前の原点（茨戸）と、名前を受け継いだ都市の中心（大通周辺）は、市の中で10キロ以上離れていることになります。",
+    "sources": [
+     "a-cap-sapporo-teine",
+     "a-cap-sapporo-city"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "語源2説（サッ・ポロ・ペッ／サリ・ポロ・ペッ）の決着（市公式も両論併記のまま）",
+    "初出を『寛文拾年狄蜂起集書』（1670年）とするか『石狩地形の事』（1669年）とするか、資料により異なる",
+    "漢字表記「札幌」がいつ・誰によって定着したかの一次確認は未実施"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-松前町",
+   "code": "013315",
+   "names": {
+    "ja": "松前町",
+    "reading": "まつまえちょう",
+    "aliases": [
+     "福山町",
+     "福山"
+    ]
+   },
+   "user_terms": [
+    "松前町（北海道）の名前の由来",
+    "福山という旧名の城下町",
+    "松前藩の城下町はどこ"
+   ],
+   "naming_type": "その他（城下町名「福山」から、地域名・藩名として知られた「松前」への改称）",
+   "prefecture": "北海道",
+   "homonyms": [
+    "muni/38-松前町"
+   ],
+   "summary": "江戸時代は松前藩の城下町・福山として蝦夷地の政治・経済の中心だった地で、明治33年（1900年）に福山町となり、昭和15年（1940年）に松前町と改称した。「松前」の語源については、町公式サイトがアイヌ語の「マツ・オマイ」「マト・マイ」（婦人の居るところ）によるという説を紹介する。愛媛県松前町とは同じ漢字だが、読み（まつまえ／まさき）も由来も全く異なる。",
+   "first_attestation": {
+    "era": "昭和15年",
+    "year_western": 1940,
+    "document": "町名改称（福山町から松前町へ）",
+    "note": "町名としての「松前」の始まり。地域名・藩名としての「松前」は近世を通じて使われたが、地名としての文献上の初出の特定は本バッチでは未了"
+   },
+   "claims": [
+    {
+     "text": "松前町公式サイトは、町名の由来として、古い表記「万堂宇満伊犬（まどうまいぬ）」を挙げ、アイヌ語の「マツ・オマイ」「マト・マイ」（婦人の居るところ）というところからきたという説を紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-hokkaido-town"
+     ]
+    },
+    {
+     "text": "全国観光資源台帳は、町名はアイヌ語のマツオマナイ（半島の意）、またはマツオマイ（婦人のいるところの意）からの転訛とされるとしており、アイヌ語語源の内部でも解釈が分かれている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "h1-matsumae-jtb"
+     ]
+    },
+    {
+     "text": "江戸時代、この地は松前藩の城下町であり、蝦夷地の政治・経済の中心であった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-jtb"
+     ]
+    },
+    {
+     "text": "明治33年（1900年）に福山町となり、昭和15年（1940年）に松前町と改称した。昭和29年（1954年）には周辺3村を合併した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-jtb"
+     ]
+    },
+    {
+     "text": "松前城はもともと福山城と名付けられたが、備後福山城と混同するので、松前城と呼ぶことも許されたと、北海道立図書館のレファレンス事例は北海道大百科事典を引いて紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-crd"
+     ]
+    },
+    {
+     "text": "（異なる層）愛媛県松前町とは同じ漢字表記だが、読みが異なり（まつまえ／まさき）、由来も、アイヌ語地名と松前藩の系譜に連なる北海道側と、「正木」の改字という言い伝えに基づく愛媛側とで全く異なる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-jtb",
+      "h1-matsumae-ehime-yoran"
+     ]
+    },
+    {
+     "text": "アイヌ語の語源解釈として、この地名は先住民の住む地（蝦夷）に和人の女性も住むという珍しさを表したものだという言い伝えが、町公式サイトに紹介されている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-hokkaido-town"
+     ]
+    }
+   ],
+   "column": {
+    "title": "もうひとつの福山との混同を避けて",
+    "text": "松前城は、完成した安政元年（1854年）には福山城と名付けられました。ところが備後国（現在の広島県）にも福山城があったため混同のもとになり、「松前城」と呼ぶことも許されたと北海道立図書館のレファレンス事例は伝えています。城下の町も長く「福山」を名乗り、松前町になったのは昭和15年（1940年）のことです。奇しくも、その備後福山の近くには、備後国府に由来する広島県府中市があります。「福山違い」と「府中」が、北と西の地名の糸でつながっているわけです。",
+    "sources": [
+     "h1-matsumae-crd",
+     "h1-matsumae-jtb"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/38-松前町"
+   ],
+   "unknowns": [
+    "アイヌ語語源の確定（「婦人の居るところ」系の説と「半島」説が併存）",
+    "昭和15年（1940年）に福山町から松前町へ改称した理由の一次確認は未了",
+    "地名「松前」の文献上の初出（松前氏による改姓以前の用例の有無を含む）は未特定"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-根室市",
+   "code": "012238",
+   "names": {
+    "ja": "根室市",
+    "reading": "ねむろし",
+    "aliases": [
+     "根室町",
+     "ネムロ",
+     "子モロ",
+     "根諸"
+    ]
+   },
+   "user_terms": [
+    "根室の名前の由来",
+    "根室はアイヌ語でどういう意味か",
+    "日本最東端の市",
+    "北方領土の玄関口"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "根室の名はアイヌ語「ニムオロ（樹木の繁茂する所）」から転化したものと北海道・根室市は説明する。ただし語源そのものは本来不明とされ、根室国を命名した松浦武四郎は『知床日誌』で「ニ・ムイ（木・湾）」に比定していた。明治2年（1869年）に根室国・根室郡が置かれ、明治33年（1900年）に根室町、昭和32年（1957年）に和田村と合併して根室市となった。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "江戸時代の文献における「子モロ」「根諸」などの表記",
+    "note": "和人の文献には「子モロ」「根諸」といった表記が現れることが紹介されているが、原典の直接確認は未実施のため、初出の年は特定しない。"
+   },
+   "claims": [
+    {
+     "text": "北海道根室振興局の資料によれば、市名「根室」はアイヌ語「ニムオロ」（樹木の繁茂する所の意）から転化したものといわれている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-nemuro-shinko-pdf"
+     ]
+    },
+    {
+     "text": "一方で、根室の語源は本来不明とされ、江戸時代の文献には「子モロ」「根諸」などの表記が現れること、根室国を命名した松浦武四郎は『知床日誌』でアイヌ語の「ニ・ムイ（木・湾）」を由来と比定したことが紹介されている。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "t2-nemuro-kuni-wiki"
+     ]
+    },
+    {
+     "text": "「ニムオロ」説の語構成については、「ニ（木）・ム（つまる）・オロ（ところ）」と分解し「樹木の繁茂するところ」と解する説明がある。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）に開拓使庁根室出張所が設置され、明治33年（1900年）7月に一級町村制を施行して根室町となり、昭和32年（1957年）8月に根室町と和田村が合併して根室市が設置され、昭和34年（1959年）4月に歯舞村を合併した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-nemuro-shinko-pdf"
+     ]
+    },
+    {
+     "text": "根室市は北方領土返還要求運動の「原点の地」と位置づけられ、本土最東端の納沙布岬からは歯舞群島など北方領土を間近に見ることができる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-nemuro-shinko-pdf"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、根室市のコードは012238とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "わずか4年間だけ存在した「根室県」",
+    "text": "明治15年（1882年）、開拓使の廃止に伴って函館・札幌と並んで根室にも県が置かれ、根室は道東一円を管轄する県庁所在地になった。ところが明治19年（1886年）に北海道庁が設置されると3県は廃止され、根室県は4年足らずで姿を消した。いま根室振興局が置かれるのは、その遠い名残でもある。市が採用する「ニムオロ＝樹木の繁茂する所」説とは別に、命名者・松浦武四郎自身は「ニ・ムイ（木・湾）」と考えていたと伝えられ、語源は今も確定していない。",
+    "sources": [
+     "t2-nemuro-ken-wiki",
+     "t2-nemuro-shinko-pdf"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "松浦武四郎『知床日誌』原文における根室の語源比定の直接確認は未実施。",
+    "「ニ・ム・オロ＝木の根の所」という読みは、今回当たった公的資料・専門的紹介では確認できなかった。「根」を木の根と読むのは、漢字の字面からの後付けの解釈である可能性がある。",
+    "江戸時代の文献における「子モロ」「根諸」の具体的な書名と箇所は未特定。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-森町",
+   "code": "013455",
+   "names": {
+    "ja": "森町",
+    "reading": "もりまち",
+    "aliases": [
+     "森村",
+     "オニウシ"
+    ]
+   },
+   "user_terms": [
+    "森町 北海道",
+    "もりまち 北海道",
+    "イカめしの森町",
+    "北海道で唯一のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [
+    "muni/22-森町"
+   ],
+   "summary": "北海道渡島地方の町。古くアイヌ語でオニウシ（樹木の多くある所）と呼ばれた地に江戸時代の漁村「森」が生まれ、安政5年（1858）に鷲ノ木村から分立して森村が成立した。明治35年（1902）の合併を経て、大正10年（1921）の町制施行で森町となった。町は「北海道で唯一の『まち』」を掲げる。",
+   "first_attestation": {
+    "era": "安政5年",
+    "year_western": 1858,
+    "document": "鷲ノ木村からの分立による森村の成立",
+    "note": "村名としての初出。地名としては江戸時代の漁村名に遡る"
+   },
+   "claims": [
+    {
+     "text": "この地は古くアイヌ語でオニウシ（樹木の多くある所）と呼ばれていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-mori-hok-tokei"
+     ]
+    },
+    {
+     "text": "江戸時代に漁村が形成され、安政5年（1858）に森村と尾白内村が鷲ノ木村から分立して成立し、その後いったん鷲ノ木村に合体した時期を経て、慶応3年（1867）に改めて一村として独立した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-mori-hok-tokei"
+     ]
+    },
+    {
+     "text": "明治35年（1902）に周辺の村々との合併で新たな森村となり、大正10年（1921）に町制を施行して森町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-mori-hok-tokei"
+     ]
+    },
+    {
+     "text": "町は「北海道で唯一の『まち』（町＝まちと読む町）」をキャッチフレーズに掲げている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-mori-hok-ayumi"
+     ]
+    },
+    {
+     "text": "同名の比較（異なる層）：「森」はアイヌ語オニウシ（樹木の多い所）に対応する土地の姿を写した和名で、成立は江戸時代の漁村に遡る。中世の村名を継承する静岡県森町とは、同じ「森」でも時代の深さと成り立ちが異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-mori-hok-tokei",
+      "h2-mori-shizuoka-yurai"
+     ]
+    },
+    {
+     "text": "同名の比較（共通する層）：読みは静岡県森町と同じ「もりまち」である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "オニウシを「森」と書いた翻訳地名",
+    "text": "アイヌ語のオニウシは「樹木の多くある所」。和人はその意味をそのまま漢字に置き換えて「森」とした。音ではなく意味を訳した地名は、北海道では珍しくない。しかもこの町は、北海道の町で唯一「ちょう」ではなく「まち」と読むことを町の看板にしている。静岡県にも「もりまち」がある以上、正確には「道内で唯一」という話だが、その自負が町の個性になっている。",
+    "sources": [
+     "h2-mori-hok-tokei",
+     "h2-mori-hok-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/22-森町"
+   ],
+   "unknowns": [
+    "漁村名「森」が文献に現れる最初の年は未確認",
+    "アイヌ語オニウシと和名「森」の対応付けがいつ・誰によって行われたかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-歌志内市",
+   "code": "012271",
+   "names": {
+    "ja": "歌志内市",
+    "reading": "うたしないし",
+    "aliases": [
+     "歌志内村",
+     "歌志内町",
+     "ウタシナイ",
+     "オタウシナイ"
+    ]
+   },
+   "user_terms": [
+    "歌志内の名前の由来",
+    "日本一人口の少ない市",
+    "歌志内と砂川は同じ語源",
+    "炭鉱のまち歌志内"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "歌志内の名は、市内を流れるペンケウタシュナイ川のアイヌ語名に由来し、「オタ（砂）・ウシ（たくさんある）・ナイ（沢）」で「砂のたくさんある沢」の意味と市は説明する。明治24年（1891年）の鉄道開通の際にこの名が採られ、明治30年（1897年）に歌志内村が成立、昭和33年（1958年）に市制を施行した。炭鉱のまちとして最盛期には約4万6千人が暮らしたが、現在は日本で最も人口の少ない市である。",
+   "first_attestation": {
+    "era": "明治時代",
+    "year_western": 1891,
+    "document": "北海道炭礦鉄道の開通と「歌志内」の称呼",
+    "note": "市勢要覧が地名の始まりとして伝える年。アイヌ語の川名としての使用はこれより古い。"
+   },
+   "claims": [
+    {
+     "text": "歌志内市は市勢要覧で、地名は市内を西に向かって流れる「ペンケウタシュナイ川」の名に由来し、アイヌ語で「砂のたくさんある沢」を意味すると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-utashinai-yoran"
+     ]
+    },
+    {
+     "text": "市の総合計画は、語源をアイヌ語の「オタ」（砂）・「ウシ」（たくさんある場所）・「ナイ」（沢・谷）と分解して説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-utashinai-keikaku"
+     ]
+    },
+    {
+     "text": "市勢要覧によれば、明治24年（1891年）に北海道炭礦鉄道の鉄道が開通した際、その意をとって「歌志内」と称したことが地名の始まりとされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-utashinai-yoran"
+     ]
+    },
+    {
+     "text": "明治30年（1897年）の歌志内村開基以来、昭和15年（1940年）に町制、昭和33年（1958年）に市制を施行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-utashinai-kihonkoso"
+     ]
+    },
+    {
+     "text": "人口は昭和23年（1948年）の常住人口調査で46,171人のピークを記録した後、炭鉱の閉山とともに減少を続け、平成7年（1995年）に市内最後の炭鉱が閉山した。現在は日本で一番人口の少ない市である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-utashinai-kihonkoso",
+      "t2-utashinai-yoran"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、歌志内市のコードは012271とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "同じ川から生まれた、音の市名と訳の市名",
+    "text": "歌志内市と西隣の砂川市は、どちらも石狩川支流ペンケウタシュナイ川の流域にある。この川のアイヌ語名「オタウシュナイ」（砂の多い川）が和人に発音しやすい「ウタシナイ」に転訛し、上流側のまちはその音に「歌志内」の漢字を当て、下流側のまちは意味を訳して「砂川」とした。同じ一つのアイヌ語から、音訳と意訳という正反対の方法で二つの市名が生まれた珍しい姉妹地名である。",
+    "sources": [
+     "t2-chimei-sanpo",
+     "t2-sunagawa-city-profile"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-砂川市"
+   ],
+   "unknowns": [
+    "「歌志内」の漢字を当てた人物と経緯の詳細は未確認。",
+    "市勢要覧の「その意をとって歌志内と称し」という記述だけでは、1891年に採られたのが川名の音か意味かは判然としない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-江別市",
+   "code": "012173",
+   "names": {
+    "ja": "江別市",
+    "reading": "えべつし",
+    "aliases": [
+     "江別村",
+     "江別町",
+     "エベツ"
+    ]
+   },
+   "user_terms": [
+    "江別の名前の由来",
+    "江別はアイヌ語でどういう意味か",
+    "屯田兵の入った町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "江別の名は江別川に由来し、その語源について江別市は「イベチプト」「イ・ブ・ツ（大事な所への入口）」「ユベオツ（サメのいる川）」など複数のアイヌ語説を併記して定説を示していない。明治11年（1878年）に屯田兵が入地して江別村が置かれ、昭和29年（1954年）に市制を施行した。",
+   "first_attestation": {
+    "era": "宝暦2年",
+    "year_western": 1752,
+    "document": "飛騨屋久兵衛の伐木図（『新江別市史』が紹介）",
+    "note": "「伊別川」という川の名としての初出。地名としては弘化3年（1846年）の松浦武四郎『再航蝦夷日誌』の「エベツプト」が知られる。"
+   },
+   "claims": [
+    {
+     "text": "江別市は市勢要覧系資料で、地名の由来としてアイヌ語の「イベチプト」、「イ・ブ・ツ」（大事な所への入口の意）、または「ユベオツ」（サメのいる川の意）など、複数の語形と解釈を併記しており、単一の定説を示していない。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "l1-ebetsu-yoran"
+     ]
+    },
+    {
+     "text": "『新江別市史』は、宝暦2年（1752年）の飛騨屋久兵衛の伐木図に「伊別川（江別川）」の河口の番屋が描かれていることを紹介する。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l1-ebetsu-kamiebetsu"
+     ]
+    },
+    {
+     "text": "同市史は、松浦武四郎が弘化3年（1846年）の『再航蝦夷日誌』に「エベツプト」の記述を残したことも紹介する。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l1-ebetsu-kamiebetsu"
+     ]
+    },
+    {
+     "text": "江別市史の年表によれば、明治11年（1878年）に第1次江別屯田兵が入地し、同年10月5日の開拓使府令布達により村名が江別村と定められた。屯田兵はその後第5次まで、総数432戸が入地した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-ebetsu-shishi-nenpyo"
+     ]
+    },
+    {
+     "text": "明治39年（1906年）に江別・対雁・篠津の3村が合併して江別村となり、大正5年（1916年）に町制を施行して江別町、昭和29年（1954年）7月に市制を施行して江別市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-ebetsu-shishi-nenpyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、江別市のコードは012173とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "サメのいる川か、大事な所への入口か",
+    "text": "江別の語源は、市自身が決めかねている。「ユベオツ＝サメのいる川」という勇ましい説と、「イ・ブ・ツ＝大事な所への入口」という実務的な説とが、市の要覧に並んで載る。地名の元になった江別川は石狩川に合流する川で、内陸へ向かう入口にも、魚の豊かな川にも見える。1752年の伐木図に「伊別川」と書かれた古い川の名が、1878年に屯田兵の村の名となり、そのまま市の名になった。語源が一つに定まらないことも、この地名の記録の一部である。",
+    "sources": [
+     "l1-ebetsu-yoran",
+     "l1-ebetsu-kamiebetsu"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "市が併記する語源3説のうちどれが妥当か、専門辞典による検証は未実施。",
+    "『再航蝦夷日誌』原文における「エベツプト」の箇所の直接確認は未実施。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-池田町",
+   "code": "016446",
+   "names": {
+    "ja": "池田町",
+    "reading": "いけだちょう",
+    "aliases": [
+     "凋寒村",
+     "川合村",
+     "池田農場"
+    ]
+   },
+   "user_terms": [
+    "池田町 北海道",
+    "十勝の池田町",
+    "ワインの町 池田",
+    "池田農場があった町"
+   ],
+   "naming_type": "その他（人名に由来する命名）",
+   "prefecture": "北海道",
+   "homonyms": [
+    "muni/18-池田町",
+    "muni/20-池田町",
+    "muni/21-池田町"
+   ],
+   "summary": "北海道十勝地方の町。もとの地名はアイヌ語のセイ・オロ・サムに由来する凋寒（しぼさむ）で、明治29年（1896）に旧鳥取藩主家の当主・池田仲博が池田農場を開設したことから、農場名・駅名を経て大正15年（1926）の町制施行時に池田町となった。全国に4つある池田町のうち、唯一人名に由来する。",
+   "first_attestation": {
+    "era": "大正15年",
+    "year_western": 1926,
+    "document": "川合村の町制施行に伴う池田町への改称",
+    "note": "「池田」の名自体は明治29年（1896）の池田農場、明治37年（1904）の池田駅に先行する"
+   },
+   "claims": [
+    {
+     "text": "この地はもとアイヌ語でセイ・オロ・サム（貝殻のある所）と呼ばれ、和人側では凋寒（しぼさむ）と表記された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-ikeda-hok-gikai"
+     ]
+    },
+    {
+     "text": "明治29年（1896）、旧鳥取藩主池田家の当主・池田仲博が池田農場を開設し、3年後の明治32年（1899）に一帯は池田農場直営となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-ikeda-hok-history",
+      "h2-ikeda-hok-gikai"
+     ]
+    },
+    {
+     "text": "凋寒村は大正2年（1913）に、十勝川と利別川の合流点に位置することから川合村と改称された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-ikeda-hok-gikai"
+     ]
+    },
+    {
+     "text": "明治37年（1904）に十勝線（現・根室本線）の駅が池田農場内に開設され池田駅と名付けられ、大正15年（1926）の町制施行の際、川合村はこの駅名を町名として池田町となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h2-kotobank-ikedacho",
+      "h2-ikeda-hok-gikai"
+     ]
+    },
+    {
+     "text": "同名の比較（異なる層）：4つの池田町のうち北海道池田町だけが人名（池田仲博）に由来し、福井県・岐阜県の池田荘、長野県の池田郷といった中世以来の地名の継承ではない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-ikeda-hok-history"
+     ]
+    },
+    {
+     "text": "同名の比較（異なる層）：読みは「いけだちょう」で、4つの池田町のうち「いけだまち」と読む長野県池田町とは読みが異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "凶字を捨てて二度改名し、人名が町名になった",
+    "text": "「凋寒（しぼさむ）」という村名は、冬の寒さに凋む姿を思わせ、移住者募集の妨げになるとして、まず川の合流点にちなむ「川合」に改められた。ところが最終的に選ばれたのは、開拓農場の主の姓だった。農場ができ、駅ができ、駅名が地域の顔になるうちに、「池田」は人名から地名へと転じた。池田町が現在「ワインの町」として知られるのも、この農場開拓以来の開墾の歴史の延長にある。",
+    "sources": [
+     "h2-ikeda-hok-gikai",
+     "h2-ikeda-hok-history"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/18-池田町",
+    "muni/20-池田町",
+    "muni/21-池田町"
+   ],
+   "unknowns": [
+    "「凋寒」の当て字の選定経緯は未確認",
+    "池田駅の命名手続きを示す一次記録は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-深川市",
+   "code": "012289",
+   "names": {
+    "ja": "深川市",
+    "reading": "ふかがわし",
+    "aliases": [
+     "深川村",
+     "深川町",
+     "メム",
+     "オオホナイ"
+    ]
+   },
+   "user_terms": [
+    "深川の名前の由来",
+    "深川はアイヌ語でどういう意味か",
+    "北海道の深川は東京の深川と関係あるのか"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "深川の名の成立経緯は「忘れられている」とされ、市街地付近はアイヌ語で湧き水の沼を意味する「メム」と呼ばれていた。一説には、市街の北を流れる大鳳川のアイヌ語名「オオホナイ（深い川）」を和訳したものとされる。「深川」の名は明治25年（1892年）2月4日の北海道庁告示に初めて現れて深川村が置かれ、昭和38年（1963年）に深川町・一已村・納内村・音江村が合併して市制を施行した。",
+   "first_attestation": {
+    "era": "明治時代",
+    "year_western": 1892,
+    "document": "北海道庁告示（明治25年2月4日）",
+    "note": "「深川村」という表示が地名の初出であると、深川市教育委員会の冊子が紹介する。告示原文の直接確認は未実施。"
+   },
+   "claims": [
+    {
+     "text": "深川市教育委員会の冊子によれば、「深川」の地名が最初に現れたのは明治25年（1892年）2月4日の北海道庁告示で、そこに深川村という表示がされた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-fukagawa-ainu-pdf"
+     ]
+    },
+    {
+     "text": "同冊子は、市街の北側を東西に流れる大鳳川について、アイヌ語で「深い・川」の意味を持つオオホ・ナイが語源で、これを和訳したという説を、深川市史に書かれた諸説の一つとして紹介する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-fukagawa-ainu-pdf"
+     ]
+    },
+    {
+     "text": "国土交通省北海道開発局は、深川の由来として、アイヌ語のメム（清き水の意、または「清く深く水の流れ」の意）にちなむという説と、アイヌ語のオーホナイ（深い川）に由来するという説の2説を併記する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-fukagawa-mlit"
+     ]
+    },
+    {
+     "text": "深川市教育委員会は、市街地付近がアイヌ語で「水が湧き出る沼に魚が多くいるところ」を意味する「メム」と呼ばれていたこと、また市内のアイヌ語地名を山田秀三『アイヌ語地名の研究』などを引いて整理したことを紹介する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-fukagawa-ainu-pdf",
+      "t2-fukagawa-kyoii"
+     ]
+    },
+    {
+     "text": "深川の市名の由来・成立の経緯は忘れられているとされ、1890年（明治23年）ごろから「深川」の名が出現したことが紹介されている。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "t2-fukagawa-wiki"
+     ]
+    },
+    {
+     "text": "明治25年（1892年）に深川村が設置され、大正7年（1918年）に町制を施行、昭和38年（1963年）に深川町・一已村・納内村・音江村の4町村が合併して市制を施行し、昭和45年（1970年）に多度志町と合併した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-fukagawa-mlit"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、深川市のコードは012289とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "命名の経緯が「忘れられた」まち",
+    "text": "深川は、北海道の市の中でも「市名の由来・成立の経緯は忘れられている」と公に言われる珍しい例である。市街地はもともと湧き水の沼を意味するアイヌ語「メム」と呼ばれ、北を流れる大鳳川の「オオホナイ（深い川）」を訳したのが深川だという説が市史に残るが、誰がいつ「深川」と決めたのかは記録がたどれない。なお東京の深川（現在の江東区の地名）とは、成立のうえでの関係は確認されていない。",
+    "sources": [
+     "t2-fukagawa-wiki",
+     "t2-fukagawa-ainu-pdf"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "「深川」と命名した人物・理由を示す一次記録は確認できていない。",
+    "オオホナイ意訳説の典拠となる『深川市史』の該当記述の直接確認は未実施。",
+    "ブリーフで示唆された「オイデウシナイ」という語形は、今回当たった市教育委員会・国土交通省の資料では確認できなかった。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-清水町",
+   "code": "016365",
+   "names": {
+    "ja": "清水町",
+    "reading": "しみずちょう",
+    "aliases": [
+     "清水村",
+     "ペケレベツ"
+    ]
+   },
+   "user_terms": [
+    "清水町 北海道",
+    "十勝の清水町",
+    "十勝清水",
+    "ペケレベツだった町"
+   ],
+   "naming_type": "その他（アイヌ語地名の意訳による改称）",
+   "prefecture": "北海道",
+   "homonyms": [
+    "muni/22-清水町"
+   ],
+   "summary": "北海道十勝地方の町。「清水」はアイヌ語のペケレベツ（明るく清らかな川）の意訳で、駅名と行政名の不一致の不便を避けるため、昭和2年（1927）に清水村と改称され、昭和11年（1936）に町制施行した。駅のほうは1934年に十勝清水駅へ先に改称されており、現在は町自体も「十勝清水町」への改称が検討されている。",
+   "first_attestation": {
+    "era": "昭和2年",
+    "year_western": 1927,
+    "document": "清水村への改称（9月25日）",
+    "note": "意訳の元になったアイヌ語地名ペケレベツは、明治32年（1899）の駅逓開設の頃の地名として用いられている"
+   },
+   "claims": [
+    {
+     "text": "「清水」は、アイヌ語のペケレベツ（明るく清らかな川）の意訳である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-shimizu-hok-history"
+     ]
+    },
+    {
+     "text": "明治32年（1899）にペケレベツ駅逓が開設されたが、駅逓名と行政区画の名が一致しない不便があったため、昭和2年（1927）9月25日に清水村と改称され、昭和11年（1936）に町制を施行して清水町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-shimizu-hok-history"
+     ]
+    },
+    {
+     "text": "昭和31年（1956）に御影村が合併し、現在の町域の基礎ができた",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h2-kotobank-shimizu"
+     ]
+    },
+    {
+     "text": "鉄道の駅は1934年（昭和9年）に清水駅から十勝清水駅へ改称されており、地名の区別のための「十勝」の冠称は駅名が先行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-shimizu-hok-history"
+     ]
+    },
+    {
+     "text": "同名の比較（共通する層と異なる層）：静岡県清水町も「清水（清らかな水）」に由来する点は共通する。ただし北海道清水町はアイヌ語ペケレベツの意訳、静岡県清水町は柿田川の湧水そのものにちなむ和名であり、出発点が異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h2-shimizu-hok-history",
+      "h2-kotobank-shimizu"
+     ]
+    },
+    {
+     "text": "同名の比較（共通する層）：読みは静岡県清水町と同じ「しみずちょう」である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "駅が先に名乗った「十勝」、町も追うか",
+    "text": "1934年、駅は混同を避けて「十勝清水駅」になった。ところが町の名は「清水町」のまま残り、時を経て今度は町自身が「十勝清水町」への改称を検討している。町の町民説明会資料によれば、道外の人の多くが清水町を知らず、静岡県の清水町（や旧清水市）と混同されるという調査結果が示された。アイヌ語を訳した由緒ある名を取るか、見つけてもらえる名を取るか——改称の是非は住民投票で決める方針とされる。",
+    "sources": [
+     "h2-shimizu-hok-setsumei",
+     "h2-shimizu-hok-history"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/22-清水町"
+   ],
+   "unknowns": [
+    "ペケレベツの語義について町公式は「明るく清らかな川」とするが、アイヌ語の語構成に基づく学術的な裏付けは未確認",
+    "改称前（1927年以前）の自治体名と駅逓との行政上の関係の詳細は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-滝川市",
+   "code": "012254",
+   "names": {
+    "ja": "滝川市",
+    "reading": "たきかわし",
+    "aliases": [
+     "滝川村",
+     "滝川町",
+     "空知太",
+     "ソーラプチ"
+    ]
+   },
+   "user_terms": [
+    "滝川の名前の由来",
+    "滝川はアイヌ語でどういう意味か",
+    "菜の花のまち滝川",
+    "グライダーのまち滝川"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "滝川の名は、空知川のアイヌ語名「ソーラプチ（滝下る所）」の意訳と滝川市は説明する。ただし命名の経緯には、屯田兵本部が名付けたとする市史の説と、空知監獄との混同を避けて改めたとする当時の新聞記事の説があり、市史自身が「今後更に調査を要する」としている。明治23年（1890年）に滝川村が置かれ、明治43年（1910年）に滝川町、昭和33年（1958年）に市制を施行した。",
+   "first_attestation": {
+    "era": "明治時代",
+    "year_western": 1890,
+    "document": "北海道庁令第1号による滝川村戸長役場の設置",
+    "note": "村名としての公的な初出。屯田兵第五大隊の日誌には明治22年（1889年）12月30日の時点で「滝川村」と記されていたと市史が紹介する。"
+   },
+   "claims": [
+    {
+     "text": "滝川市は公式プロフィールで、滝川の語源はアイヌ語の「ソーラプチ」＝「滝下る所」を意訳したもので、空知川の中流には滝のような段差があり、アイヌの人々から「ソーラプチペツ」＝「滝のかかる川・滝の川」と呼ばれていたと説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-takikawa-city-history"
+     ]
+    },
+    {
+     "text": "国土交通省北海道開発局も、滝川は空知川のアイヌ語名ソーラプチ（滝掛かる川の意）の意訳であり、ソーラプチは「空知」の語源でもあると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-takikawa-mlit"
+     ]
+    },
+    {
+     "text": "滝川市史は、ソーラプチペツ（滝が盛んに落ちる川）から「空知太」となり、それが滝川となったとする一方、命名については明治22年（1889年）12月30日の屯田兵第五大隊の日誌に「滝川村」とあることから、中隊本部が滝川の命名を行ったとする説を載せる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-takikawa-shishi-ge"
+     ]
+    },
+    {
+     "text": "同じ市史の補説は、明治23年（1890年）1月17日の北海道毎日新聞に「ここを空知村ないし空知太村とすべきだが、市来知に空知監獄があったため紛らわしいので滝川村にした」という記事が発見されたことを紹介し、「いずれにしても今後更に調査を要する」と結んでいる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-takikawa-shishi-ge"
+     ]
+    },
+    {
+     "text": "明治23年（1890年）に北海道庁令をもって滝川村が設置され、屯田兵440戸が入植した。明治43年（1910年）11月に滝川町と改称し、昭和33年（1958年）に市制を施行、昭和46年（1971年）に江部乙町と合併した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-takikawa-nenpyo",
+      "t2-takikawa-city-history"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、滝川市のコードは012254とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「空知太」にならなかったまち",
+    "text": "滝川はもともと、川の名そのままに「空知太」と呼ばれる可能性があった。ところが1890年の北海道毎日新聞は、市来知（現在の三笠市の一部）にあった空知監獄と紛らわしいため「滝川村」にした、と報じたという。屯田兵本部が名付けたとする市史の説と並んで決め手を欠き、滝川市史はいまも「今後更に調査を要する」と書く。語源（ソーラプチの意訳）は確かでも、誰がその訳を選んだかは未解決のまま残されている。",
+    "sources": [
+     "t2-takikawa-shishi-ge"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "命名者と命名理由の確定は、市史自身が今後の調査課題としており未確定。",
+    "合併で市域に入った江部乙の語源には3説あり、市史は鮫居川説を大勢とするが、本レコードでは市名の範囲に限った。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-留萌市",
+   "code": "012122",
+   "names": {
+    "ja": "留萌市",
+    "reading": "るもいし",
+    "aliases": [
+     "ルルモッペ",
+     "留萌町",
+     "るもえ"
+    ]
+   },
+   "user_terms": [
+    "留萌の名前の由来",
+    "留萌はアイヌ語でどういう意味か",
+    "ニシン漁のまち留萌",
+    "日本海オロロンライン"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "留萌の名は、アイヌ語「ルルモッペ（潮の静かに入る所）」に由来する。慶長年間に松前藩がアイヌとの交易のために「ルルモッペ場所」を開き、明治2年（1869年）に「留萌（るもえ）」と命名された。その後ニシン漁とともに発展し、昭和22年（1947年）に市制を施行した。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "松前藩の交易拠点「ルルモッペ場所」の開設（慶長年間）",
+    "note": "交易場所の名としての初出と留萌市の年表が伝える。場所の開設を示す一次史料の直接確認は未実施のため、年は特定しない。"
+   },
+   "claims": [
+    {
+     "text": "留萌市議会の概要によれば、市名の由来はアイヌ語のルルモッペが語源で、ルルは（潮）、モは（静）、ヲッは（入る）、ペは（所）のことで、「潮の静かに入る所」という意味から名付けられている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-rumoi-gikai"
+     ]
+    },
+    {
+     "text": "国土交通省の河川資料は、留萌川の名がアイヌ語「ルルモッペ」に由来するとし、松浦武四郎『西蝦夷日誌』に「ルルは（汐）モは（静）ヲツは（ある、入る）ペは（水の事）なり、此川自然と奥深く、汐入る故になづく」と記されたことを紹介する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-rumoi-mlit-river"
+     ]
+    },
+    {
+     "text": "語形については「ルルモオッペ（rur-mo-ot-pe：潮汐が・静かで・いつもある・もの）」や「ルルモペ（海の潮・静かな・もの）」ともされるなど、表記と分析には幅がある。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "留萌市の年表によれば、慶長年間に松前藩がアイヌの人たちと交易するためにルルモッペ場所を開き、明治2年（1869年）にルルモッペを「留萌（るもえ）」と命名した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-rumoi-ayumi"
+     ]
+    },
+    {
+     "text": "留萌はニシン漁とともに発展し、昭和22年（1947年）に市制が施行されて留萌町が留萌市になった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-rumoi-gikai",
+      "t2-rumoi-ayumi"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、留萌市のコードは012122とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "松浦武四郎が書き残した「汐入る川」",
+    "text": "留萌川は河口から奥深くまで潮が入る川だった。松浦武四郎は『西蝦夷日誌』に、アイヌ語の語分解とともに「此川自然と奥深く、汐入る故になづく」と記した。交易の「ルルモッペ場所」に始まるこの地は、やがてニシン漁の港町として栄える。なお明治2年に「留萌」の字が当てられたときの読みは「るもえ」で、現在の「るもい」と読む形とは少し違っていた。",
+    "sources": [
+     "t2-rumoi-mlit-river",
+     "t2-rumoi-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "読みが「るもえ」から「るもい」に変わった時期と経緯は未確認。",
+    "松浦武四郎『西蝦夷日誌』原文の該当箇所の直接確認は未実施（国土交通省資料経由の紹介による）。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-登別市",
+   "code": "012301",
+   "names": {
+    "ja": "登別市",
+    "reading": "のぼりべつし",
+    "aliases": [
+     "登別町",
+     "幌別町",
+     "幌別村",
+     "ヌプルペッ",
+     "ヌプリペツ"
+    ]
+   },
+   "user_terms": [
+    "登別の名前の由来",
+    "登別はアイヌ語でどういう意味か",
+    "登別温泉のまち",
+    "鬼のまち登別"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "登別の名は、アイヌ語「ヌプル・ペッ（色の濃い川）」に由来し、温泉成分で濁った登別川の水の色を表したとされる。もとの自治体名は幌別で、大正8年（1919年）に幌別村、昭和26年（1951年）に幌別町となり、昭和36年（1961年）に登別町と改称、昭和45年（1970年）に市制を施行して登別市となった。登別温泉は江戸時代から知られ、安政5年（1858年）に滝本金蔵が開湯した。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "古文書における登別温泉（湯浴み場）の記載",
+    "note": "登別市統計書は「登別川の上流にあった湯浴み場（登別温泉）は18世紀末よりしばしば古文書に登場する」とする。具体的な文献名の特定は本バッチでは未実施。"
+   },
+   "claims": [
+    {
+     "text": "登別市は公式に、登別の名はアイヌ語「ヌプルペッ」（色の濃い川）に由来すると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-noboribetsu-city"
+     ]
+    },
+    {
+     "text": "登別市統計書は語形を「nupur-pet（ヌプリペツ）」（色の濃い・川）とし、登別川の上流にあった湯浴み場（登別温泉）は18世紀末よりしばしば古文書に登場すると記す。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-noboribetsu-tokei"
+     ]
+    },
+    {
+     "text": "登別市史編さんだよりは、市名「登別」の由来となるアイヌ語地名「ヌプル・ペッ」は登別川のことで、川の水の色が温泉成分によって濁った状態になっていることだと説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-noboribetsu-shishi-dayori"
+     ]
+    },
+    {
+     "text": "登別市出身のアイヌ語学者・知里真志保は「ヌプル」を本来は霊力を指す言葉で「強い、どぎつい」といった感じを表し、色や食物の味などが「濃い」意味に使われるようになったと解釈していたことが、市のアイヌ語地名解説で紹介されている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-noboribetsu-ainu-names"
+     ]
+    },
+    {
+     "text": "自治体の変遷として、大正8年（1919年）に幌別郡3カ村を大字として幌別村となり、昭和26年（1951年）に幌別町、昭和36年（1961年）に登別町と改称し、昭和45年（1970年）に市制を施行した（全国で570番目、道内で30番目）。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-noboribetsu-city"
+     ]
+    },
+    {
+     "text": "登別温泉は、安政5年（1858年）に滝本金蔵が私費で温泉宿を建てたことが開湯とされる。金蔵は妻の皮膚病の湯治のために湯小屋を建てたのが始まりと伝えられる。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t2-noboribetsu-spa-history"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、登別市のコードは012301とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "まちの名が温泉の名に寄せた1961年",
+    "text": "登別市の前身は、長く「幌別」という名の自治体だった。ところが昭和36年（1961年）、町名を幌別町から登別町へ改めた。市内の一地区の名であり温泉地の名として知られた「登別」が、自治体全体の名に昇格したのである。旧名の幌別は、駅の名（JR幌別駅）や地区名として今も市内に残る。9年後の昭和45年には登別市となり、恵庭市・伊達市とともに地方自治法の特例で市制を施行した。",
+    "sources": [
+     "t2-noboribetsu-city"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-恵庭市"
+   ],
+   "unknowns": [
+    "「ヌプルペッ」の文献上の初出（記録者・年代）は未特定。",
+    "昭和36年（1961年）の幌別町から登別町への改称の理由を示す公式記録（議事録等）は未確認。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-石狩市",
+   "code": "012351",
+   "names": {
+    "ja": "石狩市",
+    "reading": "いしかりし",
+    "aliases": [
+     "石狩町",
+     "イシカリ",
+     "イシカラペッ"
+    ]
+   },
+   "user_terms": [
+    "石狩の名前の由来",
+    "石狩はアイヌ語でどういう意味か",
+    "石狩川の河口のまち",
+    "札幌の隣の石狩市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "石狩の名は、石狩川のアイヌ語名に由来する。解釈は「曲がりくねって流れる川」とする説が大勢とされるが、「神様が造った美しい川」とする説、「鳥尾で矢羽を作る処」とする説もあって定まっていない。江戸時代には石狩場所として栄え、明治35年（1902年）に石狩町が成立、平成8年（1996年）に市制を施行した道内でも新しい市で、平成17年（2005年）に厚田村・浜益村を合併した。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "松前藩の交易拠点「石狩場所」",
+    "note": "交易場所の名として江戸時代から用いられた。文献上の初出そのものの特定は本バッチでは未実施で、場所の開設年も資料により異なるため年は特定しない。"
+   },
+   "claims": [
+    {
+     "text": "石狩市は環境白書で、石狩の名は市内のほぼ中央を流れる石狩川がアイヌ語で「イシカラ・ベツ」と呼ばれていたことに由来し、言葉の意味は「曲がりくねって流れる川」、あるいは「神様が造った美しい川」だと言われていると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-ishikari-kankyo"
+     ]
+    },
+    {
+     "text": "国土交通省北海道開発局は、石狩の語源として、石狩川が屈曲して流れているため川が塞がっているように見えることにちなむ説、国造り伝説にちなむ「イシュカラペッ（美しく作った川）」説、「イシカラペッ（鳥尾で箭羽を作るところ）」説など諸説があると紹介する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-ishikari-mlit"
+     ]
+    },
+    {
+     "text": "永田方正『北海道蝦夷語地名解』は、イ・シカラ・ペッ（回流・曲がりくねった川）を中流のアイヌによる説、イシ・カラ（美しく・作る）を上流のアイヌによる説とし、鳥尾で矢羽を作る処とする説は和人の説でアイヌの古老はこれを否定したと伝えることが紹介されている。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "t2-ishikari-wiki"
+     ]
+    },
+    {
+     "text": "江戸時代、石狩は松前藩がアイヌと交易する区域の一つ「石狩場所」が置かれ、場所請負人の村山家は石狩だけでなく留萌、宗谷、国後なども請け負う日本屈指の豪商として知られた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-ishikari-city-history"
+     ]
+    },
+    {
+     "text": "明治35年（1902年）に石狩町が成立し、平成8年（1996年）9月に道内34番目の市として石狩市が誕生、平成17年（2005年）10月に厚田村・浜益村と合併した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-ishikari-kankyo"
+     ]
+    },
+    {
+     "text": "国土交通省北海道開発局の市町村紹介ページは石狩市の市制施行を「1966年」と記しているが、石狩市環境白書は平成8年（1996年）9月と明記しており、1966年は誤記とみられる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t2-ishikari-mlit",
+      "t2-ishikari-kankyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、石狩市のコードは012351とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "神様が親指で描いた川、という言い伝え",
+    "text": "石狩の語源説の一つは、国作りの神コタンカラカムイが親指で大地に川筋を描いたので「イシ・カラ（美しく・作る）」と呼ぶ、という言い伝えに結びついている。これは上流のアイヌの説として永田方正の『北海道蝦夷語地名解』に採られたもので、伝承の層として味わうべき話である。学術的には「回流する川」説などと並んで決着がついておらず、市自身も複数の解釈を併記している。日本有数の大河・石狩川の河口のまちの名は、今も説の競合の中にある。",
+    "sources": [
+     "t2-ishikari-wiki",
+     "t2-ishikari-kankyo"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "語源の確定説はなく、山田秀三『北海道の地名』における石狩の解釈の直接確認は未実施。",
+    "石狩場所の開設年は資料により異なり、本バッチでは特定しなかった。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-砂川市",
+   "code": "012262",
+   "names": {
+    "ja": "砂川市",
+    "reading": "すながわし",
+    "aliases": [
+     "砂川村",
+     "砂川町",
+     "奈井江村",
+     "オタウシナイ"
+    ]
+   },
+   "user_terms": [
+    "砂川の名前の由来",
+    "砂川はアイヌ語の意訳",
+    "歌志内と砂川は同じ語源のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "砂川の名は、アイヌ語「オタ・ウシ・ナイ（砂の多い川）」の意訳である。もとは奈井江村と称したが、明治36年（1903年）に砂川村と改称し、大正12年（1923年）に町制、昭和33年（1958年）に市制を施行した。上流の歌志内市とは、同じアイヌ語の川名から、音訳と意訳で分かれた姉妹地名である。",
+   "first_attestation": {
+    "era": "明治時代",
+    "year_western": 1903,
+    "document": "奈井江村から砂川村への改称",
+    "note": "自治体名としての「砂川」の初出。アイヌ語の川名オタウシナイとしての使用はこれより古い。"
+   },
+   "claims": [
+    {
+     "text": "砂川市は公式プロフィールで、砂川の語源はアイヌ語のオタ・ウシ・ナイを意訳したもので、「オタ」は砂、「ウシ」は多い、「ナイ」は川を意味すると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-sunagawa-city-profile"
+     ]
+    },
+    {
+     "text": "同プロフィールによれば、市内には上流に歌志内を源とする「ペンケオタウシナイ川」と、下流に市街の中央を流れる「パンケオタウシナイ川」があり、アイヌ語の地名「オタウシナイ」から生まれたと考えられている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-sunagawa-city-profile"
+     ]
+    },
+    {
+     "text": "国土交通省北海道開発局も、砂川は地内を流れるアイヌ語川名オタウシナイ（砂の多い川の意）の意訳にちなむと説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-sunagawa-mlit"
+     ]
+    },
+    {
+     "text": "明治23年（1890年）に奈井江村として発足し、明治36年（1903年）に砂川村と改称、大正12年（1923年）に町制を施行、昭和33年（1958年）に市制を施行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-sunagawa-mlit"
+     ]
+    },
+    {
+     "text": "人口は最盛期には4万人を超えたが、昭和24年（1949年）に上砂川町が分離した直後には2万3千人台になったと市のプロフィールは伝える。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-sunagawa-city-profile"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、砂川市のコードは012262とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "音を捨てて、意味を取った市名",
+    "text": "同じアイヌ語「オタウシュナイ」から生まれた二つのまちのうち、上流の歌志内は音に漢字を当て、下流の砂川は意味を日本語に訳した。砂川がまだ奈井江村と呼ばれていた明治36年（1903年）の改称で選ばれたのは、川の姿そのものを表す訳語だった。ペンケ（上流側）とパンケ（下流側）という一対の川名が残る地形の中で、二つの市名は今も同じ源を指し示している。",
+    "sources": [
+     "t2-chimei-sanpo",
+     "t2-sunagawa-city-profile"
+    ]
+   },
+   "relations": [
+    "pref/01",
+    "muni/01-歌志内市"
+   ],
+   "unknowns": [
+    "明治36年（1903年）の奈井江村から砂川村への改称の際の議論や命名者の記録は未確認。",
+    "旧名「奈井江」の語源は本レコードの対象外とした。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-稚内市",
+   "code": "012149",
+   "names": {
+    "ja": "稚内市",
+    "reading": "わっかないし",
+    "aliases": [
+     "稚内町",
+     "稚内村",
+     "ヤムワッカナイ"
+    ]
+   },
+   "user_terms": [
+    "稚内の名前の由来",
+    "稚内はアイヌ語でどういう意味か",
+    "日本最北端の市",
+    "宗谷岬のあるまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "稚内の名は、アイヌ語「ヤム・ワッカ・ナイ（冷たい水の出る沢）」に由来する。この一帯の古くからの中心は宗谷場所だったが、明治期に行政の中心は稚内へ移り、昭和24年（1949年）に北海道で14番目の市制を施行した。宗谷岬を擁する日本最北端の市である。",
+   "first_attestation": {
+    "era": "明治時代",
+    "year_western": 1900,
+    "document": "宗谷郡稚内村の成立",
+    "note": "自治体名としての「稚内」の初出とされる年。アイヌ語の沢の名としての使用はこれより古く、江戸時代の記録における表記の特定は本バッチでは未実施。"
+   },
+   "claims": [
+    {
+     "text": "稚内市統計書によれば、「稚内」の名前はアイヌ語の「ヤム・ワッカ・ナイ」（冷たい水の出る沢）に由来する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-wakkanai-tokei"
+     ]
+    },
+    {
+     "text": "語構成は「ヤム（冷たい）・ワッカ（水・飲み水）・ナイ（川）」と分析される。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "稚内市は、貞享年間（1684〜1687年）に松前藩が宗谷に藩主直轄の宗谷場所を開設したことを市の始まりとし、明治12年（1879年）に宗谷村に戸長役場が置かれた年を開基としている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-wakkanai-ayumi"
+     ]
+    },
+    {
+     "text": "稚内はもともと宗谷村の一地区（ヤムワッカナイ）だったが、明治21年（1888年）に道北の行政の中心は宗谷から稚内に移ったと紹介されている。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t2-wakkanai-jtb"
+     ]
+    },
+    {
+     "text": "昭和24年（1949年）に北海道で14番目となる市制が施行され、昭和30年（1955年）に宗谷村を編入した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-wakkanai-ayumi",
+      "t2-wakkanai-jtb"
+     ]
+    },
+    {
+     "text": "稚内市は日本最北端に位置し、宗谷岬からわずか約43kmの地にサハリン（旧樺太）の島影を望む国境の街である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t2-wakkanai-gaiyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、稚内市のコードは012149とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "中心が「宗谷」から「稚内」へ移ったまち",
+    "text": "この一帯の歴史の主役は、もともと宗谷だった。松前藩の宗谷場所が置かれ、間宮林蔵が樺太探検へ出帆したのも宗谷である。ところが明治に入ると行政の中心は稚内へ移り、中心地は南の稚内へ移った。現在の稚内市役所は稚内にあり、宗谷は市内の一地区として名を残す。地名の主従が入れ替わった、位置のずれの分かりやすい例である。",
+    "sources": [
+     "t2-wakkanai-ayumi",
+     "t2-wakkanai-jtb"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "「稚内」の漢字表記が定まった時期と経緯は未確認。",
+    "ヤムワッカナイと呼ばれた沢が、現在の市内のどの水系に当たるかは本バッチでは特定しなかった。",
+    "稚内村の成立年（1900年）と町制施行年（1901年）については、市の公式年表の直接確認が取れておらず、first_attestation の年は暫定である。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-紋別市",
+   "code": "012190",
+   "names": {
+    "ja": "紋別市",
+    "reading": "もんべつし",
+    "aliases": [
+     "紋別",
+     "モンベツ",
+     "モペッ",
+     "紋部津",
+     "茂武遍津"
+    ]
+   },
+   "user_terms": [
+    "紋別",
+    "もんべつ",
+    "流氷のまち",
+    "オホーツク紋別",
+    "北見紋別"
+   ],
+   "naming_type": "その他（アイヌ語の川名に漢字を当てた地名を継承）",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "地名はアイヌ語の「モペッ」に由来する。もとは現在の元紋別を流れる藻鼈（もべつ）川の名で、番屋ができた現在の市街地へ人々が移り住むにつれて地名も移動した。明治8年（1875年）に漢字表記「紋別」が定着し、昭和29年（1954年）に紋別町・渚滑村・上渚滑村が合併して市制を施行した。",
+   "first_attestation": {
+    "era": "明治2年",
+    "year_western": 1869,
+    "document": "太政官布告（北海道の国郡画定）",
+    "note": "北見国紋別郡の設置という行政上の画期。アイヌ語名「モペッ」自体の文献上の初出は特定できていない"
+   },
+   "claims": [
+    {
+     "text": "紋別の地名はアイヌ語の「モペッ」（静かな川の意味）から来ていると紋別市公式サイトは説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-mombetsu-city-yurai"
+     ]
+    },
+    {
+     "text": "「モペッ」はもともと元紋別を流れる藻鼈川を指した名で、モペッコタンに住んでいたアイヌの人々が現在の市街地の方へ移り住むようになると、地名もそちらへ移動したと市公式サイトは説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-mombetsu-city-yurai"
+     ]
+    },
+    {
+     "text": "「モペッ」の「モ」を「小さい」と解して「小さい川」とする説明も一部の地名資料集には見られ、原義の解釈は資料によって分かれる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "t3-folklore-mombetsu"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）の太政官布告で北見国に紋別郡が置かれ、明治5年（1872年）に紋別郡の村名が決まってモンベツ村と呼ばれるようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-mombetsu-city-yurai"
+     ]
+    },
+    {
+     "text": "明治8年（1875年）の通達で町村や港の名に漢字を当てることになり、紋部津・紋部地・茂武遍津・紋辺津などの当て字の中から「紋別」の表記が定着した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-mombetsu-city-yurai"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）7月、紋別郡紋別町・渚滑村・上渚滑村が合併して市制を施行し、紋別市が成立した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t3-mombetsu-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "紋別市の地方公共団体コードは012190である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "川のない市街地に残る「静かな川」の名",
+    "text": "紋別の市街地には目立った川がないのに、地名は「静かな川」を意味するアイヌ語「モペッ」だという。もとのモペッは市街地の東、元紋別を流れる藻鼈川の名だった。番屋ができて人々が西へ移り住むと、名前だけが一緒に引っ越してきた。地名は土地に貼り付いているようでいて、実は人に付いて移動する。この紋別の成り立ちは、そのことを静かに教えてくれる。",
+    "sources": [
+     "t3-mombetsu-city-yurai"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "「モペッ」の原義が「静かな川」か「小さい川」かは資料により解釈が分かれ、本バッチでは確定できなかった",
+    "江戸時代の文書における紋別の最古の用例（「まうべつ」「モベツ」等の表記）は、市公式が存在を紹介するにとどまり、具体的な文書名までは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-網走市",
+   "code": "012114",
+   "names": {
+    "ja": "網走市",
+    "reading": "あばしりし",
+    "aliases": [
+     "網走",
+     "アバシリ",
+     "アパシリ"
+    ]
+   },
+   "user_terms": [
+    "網走",
+    "あばしり",
+    "網走刑務所",
+    "流氷のまち",
+    "オホーツクの玄関口"
+   ],
+   "naming_type": "その他（アイヌ語「アパシリ」への漢字当て字）",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "「網走」はアイヌ語の「アパシリ」に漢字を当てた名とされる。語源は「我らが見つけた土地」「入り口の地」「漏れる所」「幣場のある島」など諸説あって、市公式サイト自身が「定まりません」と述べている。北見国網走郡の中心として発展し、昭和22年（1947年）に網走町が市制を施行した。",
+   "first_attestation": {
+    "era": "",
+    "year_western": null,
+    "document": "",
+    "note": "「網走」の漢字表記の初出は特定できなかった。アパシリという地名自体は近世の記録に現れるが、本バッチでは原典を確認できていない"
+   },
+   "claims": [
+    {
+     "text": "「網走」という地名は「アパシリ」というアイヌ語に漢字を当てたものとされていると網走市公式サイトは説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-abashiri-city-yurai"
+     ]
+    },
+    {
+     "text": "市公式サイトは、語源について「ア・パ・シリ」（我らが見つけた土地）、「アパ・シリ」（入り口の地）、「チバ・シリ」（幣場のある島）などの諸説があって定まらないと明記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t3-abashiri-city-yurai"
+     ]
+    },
+    {
+     "text": "国立国会図書館のレファレンス協同データベースは、『日本地名ルーツ辞典』が、岩窟の入口に雨水がたまって漏水することから「アパ・シリ（漏れる所）」を語源とする説も挙げていることを紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t3-abashiri-ndl-ref"
+     ]
+    },
+    {
+     "text": "同データベースは、『角川日本地名大辞典』が網走の由来を「アイヌ語のアパシリ（我等が発見した土地の意）による」と記していることを紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t3-abashiri-ndl-ref"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）に北見国の一郡として網走郡が成立し、網走は郡名として行政に組み込まれた",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t3-abashiri-kotobank-seisen"
+     ]
+    },
+    {
+     "text": "昭和22年（1947年）2月、網走郡網走町が市制を施行して網走市が成立した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t3-abashiri-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "網走市の地方公共団体コードは012114である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市役所が「決まらない」と公言する語源",
+    "text": "自治体の公式サイトが市名の由来について「諸説があって定まりません」と書くのは、なかなか潔い。網走の「アパシリ」には、発見の地・入り口の地・水の漏れる所・神に幣を捧げた島と、候補が並ぶ。帽子岩を「カムイ・ワタラ（神の岩）」と呼んで幣を捧げた漁民の姿を思わせる「幣場のある島」説は、最近の解釈として紹介されることもある。決まらないことを決まらないまま並べるのも、地名の記録の大切な仕事である。",
+    "sources": [
+     "t3-abashiri-city-yurai",
+     "t3-abashiri-ndl-ref"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "山田秀三『北海道の地名』におけるアパシリの解釈は、本バッチでは原典で確認できなかった",
+    "「網走」の漢字表記が公文書に初めて現れる時期は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-美唄市",
+   "code": "012157",
+   "names": {
+    "ja": "美唄市",
+    "reading": "びばいし",
+    "aliases": [
+     "美唄",
+     "沼貝",
+     "美貝",
+     "ピパオイ"
+    ]
+   },
+   "user_terms": [
+    "美唄",
+    "びばい",
+    "ビバイ",
+    "炭鉱のまち",
+    "宮島沼"
+   ],
+   "naming_type": "その他（アイヌ語地名の意訳「沼貝」を経て、当て字「美唄」に改称）",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "地名はアイヌ語の「ピパ・オ・イ（沼の貝の多いところ）」に由来する。明治23年（1890年）にその意訳である「沼貝村」が置かれ、大正14年（1925年）に沼貝町、翌年に「美唄町」と改称し、昭和25年（1950年）に市制を施行した。石狩炭田の美唄炭鉱で栄えた炭鉱都市である。",
+   "first_attestation": {
+    "era": "明治23年",
+    "year_western": 1890,
+    "document": "道庁令第61号（沼貝村の設置）",
+    "note": "アイヌ語名「ピパオイ」自体の文献上の初出ではなく、その意訳名が自治体名となった画期"
+   },
+   "claims": [
+    {
+     "text": "美唄の地名の由来は、アイヌ語の「ピパ・オ・イ（沼の貝の多いところ）」から来ていると美唄市の概要資料は説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-bibai-city-gaiyo"
+     ]
+    },
+    {
+     "text": "美唄市郷土史料館の紹介では、「ピパ・オ・イ」は川真珠貝（カワシンジュガイ）がたくさんいるところの意で、地質学者ライマンの炭田調査報文以来この地は「美貝」と呼ばれるようになったとされる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t3-bibai-kanko-shiryokan"
+     ]
+    },
+    {
+     "text": "明治23年（1890年）、道庁令第61号により、アイヌ語名を意訳した「沼貝村」が設置された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-bibai-city-ayumi"
+     ]
+    },
+    {
+     "text": "大正14年（1925年）の町制施行により沼貝町となり、翌大正15年（1926年）に町名を美唄町と改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-bibai-city-ayumi"
+     ]
+    },
+    {
+     "text": "昭和25年（1950年）4月に市制を施行し、美唄市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-bibai-city-ayumi"
+     ]
+    },
+    {
+     "text": "大正9年（1920年）の第1回国勢調査では、沼貝村は人口32,321人で全国最大の村であったと市の年表は記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-bibai-city-ayumi"
+     ]
+    },
+    {
+     "text": "美唄市の地方公共団体コードは012157である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「沼貝」から「美唄」へ――翻訳されて、化粧直しされた名前",
+    "text": "美唄の名前は二度姿を変えている。最初はアイヌ語「ピパ・オ・イ（貝の多いところ）」を日本語に訳した「沼貝」。正確だが、どこか泥のにおいがする。それが大正15年（1926年）に「美唄」へ改められた。「唄」という漢字を地名に使う例は珍しく、響きの美しさを選んだ改名だったことがうかがえる。炭鉱で膨れあがり「全国最大の村」と呼ばれた土地の名前は、翻訳と化粧直しの歴史を背負っている。",
+    "sources": [
+     "t3-bibai-city-ayumi",
+     "t3-bibai-kanko-shiryokan"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "大正15年（1926年）に「美唄」へ改称した理由を記した当時の資料は、本バッチでは確認できなかった",
+    "「ピパオイ」の文献上の初出は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-芦別市",
+   "code": "012165",
+   "names": {
+    "ja": "芦別市",
+    "reading": "あしべつし",
+    "aliases": [
+     "芦別",
+     "アシペッ",
+     "ハシュペッ"
+    ]
+   },
+   "user_terms": [
+    "芦別",
+    "あしべつ",
+    "星の降る里",
+    "炭鉱のまち芦別"
+   ],
+   "naming_type": "その他（アイヌ語の川名に由来）",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "市内を流れる芦別川の名に由来する。その語源はアイヌ語で「低木の中を流れる川」「立つ川」の二説があり、北海道の「アイヌ語地名リスト」も両説を併記する。明治33年（1900年）に歌志内村から分かれて芦別村が誕生し、昭和16年（1941年）に町制、昭和28年（1953年）に市制を施行した。炭鉱の最盛期には人口7万5千人を超えた。",
+   "first_attestation": {
+    "era": "",
+    "year_western": null,
+    "document": "",
+    "note": "アイヌ語名の文献上の初出は特定できなかった。自治体としては明治33年（1900年）の芦別村の成立が画期"
+   },
+   "claims": [
+    {
+     "text": "「芦別」の語源には「ハシュペッ」（低木の中を流れる川）と「アシペッ」（立つ・川）の二つがあると、芦別市公式サイトは北海道生活環境部「アイヌ語地名リスト」（平成13年発行）を引いて紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t3-ashibetsu-city-enkaku"
+     ]
+    },
+    {
+     "text": "市名は市域を南北に貫流する芦別川の名に由来し、「立つ川」説は同川上流の三段滝に関わると説明されることがある",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "明治33年（1900年）、歌志内村から独立して芦別村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-ashibetsu-city-enkaku"
+     ]
+    },
+    {
+     "text": "昭和16年（1941年）に町制、昭和28年（1953年）に市制がそれぞれ施行された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-ashibetsu-city-enkaku"
+     ]
+    },
+    {
+     "text": "明治30年代から掘り始められた石炭は、大正2年（1913年）の三菱鉱業の本格開鉱を契機に拡大し、人口は最高で7万5千人余りに達して「炭鉱のまち芦別」を築いたと市公式サイトは述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-ashibetsu-city-enkaku"
+     ]
+    },
+    {
+     "text": "現在の芦別市は「星の降る里あしべつ」を愛称とし、市公式サイトの題字にも用いている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-ashibetsu-city-enkaku"
+     ]
+    },
+    {
+     "text": "芦別市の地方公共団体コードは012165である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "灌木の中の川か、滝の立つ川か",
+    "text": "芦別の語源は二つある。「ハシュペッ」＝低木の間を縫って流れる川、という穏やかな景色の説と、「アシペッ」＝立つ川、という説である。後者は芦別川の上流にある三段滝の姿を指すともいわれる。同じ川を見ても、茂みを見る人と滝を見る人で名前の物語が変わる。北海道の公式リストが両説を併記しているのは、その両方の景色がこの川にあるからかもしれない。",
+    "sources": [
+     "t3-ashibetsu-city-enkaku",
+     "k2-hokkaido-rrc-origin"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "山田秀三『北海道の地名』における芦別の解釈は、本バッチでは原典で確認できなかった",
+    "「芦別」の漢字表記が定まった時期は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-苫小牧市",
+   "code": "012131",
+   "names": {
+    "ja": "苫小牧市",
+    "reading": "とまこまいし",
+    "aliases": [
+     "苫細",
+     "トマコマイ"
+    ]
+   },
+   "user_terms": [
+    "苫小牧の名前の由来",
+    "苫小牧はアイヌ語でどういう意味か",
+    "苫小牧の「牧」はなぜ牧なのか"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "苫小牧の名は、アイヌ語で「山奥に入っていく川」を意味する「マコマイ」に、沼を意味する「ト」を付けた「ト・マコマイ」が転じたものと苫小牧市は説明する。明治6年（1873年）に「苫細」という漢字が当てられ、翌年に「苫小牧」と改められたが、「牧」の字が選ばれた理由は市自身も「明確にはわかっていません」としている。",
+   "first_attestation": {
+    "era": "江戸時代（19世紀半ば）",
+    "year_western": null,
+    "document": "松浦武四郎『初航蝦夷日誌』",
+    "note": "「トフマコマフ」の表記が文献上の初出としてWikipediaに紹介される。原典の直接確認は未実施。"
+   },
+   "claims": [
+    {
+     "text": "苫小牧市は市勢要覧で、苫小牧の名はアイヌ語「マコマイ」（山奥に入っていく川の意）に、沼を意味する「ト」を付けた「ト・マコマイ」が転じて今日の苫小牧になったと説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-tomakomai-yoran"
+     ]
+    },
+    {
+     "text": "一方でWikipediaは、「トゥマコマイ（tu-makomai）」がマコマイ川の旧河道・河口を指したとする説を紹介しており、市公式の説明とは語形と解釈が異なる。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l1-tomakomai-wiki"
+     ]
+    },
+    {
+     "text": "文献上の初出として、松浦武四郎『初航蝦夷日誌』に「トフマコマフ」と記されたことをWikipediaが紹介する。",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l1-tomakomai-wiki"
+     ]
+    },
+    {
+     "text": "苫小牧市公式の歴史によれば、明治2年（1869年）に勇払郡を統治した高知藩が「トマコマイ」と表記し、明治6年（1873年）2月に漢字表記「苫細」が用いられ、明治7年（1874年）に苫細を苫小牧と改名した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-tomakomai-rekishi"
+     ]
+    },
+    {
+     "text": "明治35年（1902年）に7村が合併して苫小牧村となり、大正7年（1918年）に町制を施行、昭和23年（1948年）に市制を施行して苫小牧市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-tomakomai-rekishi"
+     ]
+    },
+    {
+     "text": "「苫小牧」の「牧」の字の由来について、苫小牧市は公式Q&Aで、島牧を昔「島小牧」と表したことにならった説、苫細牧という牧場名からとする説、開拓使役人の小牧昌業が自らの名の字を書いたとする説の3説を挙げたうえで「明確にはわかっていません」と回答している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "l1-tomakomai-qa"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、苫小牧市のコードは012131とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「牧」の一字は誰が書いたのか",
+    "text": "苫小牧という地名の謎は、音ではなく最後の一字にある。「苫細」から「苫小牧」へ改められた1874年当時、なぜ「牧」が選ばれたのか。市役所への問い合わせに市が公式に答えたQ&Aは、島牧の旧表記「島小牧」にならった説、牧場の名「苫細牧」からとする説、役人・小牧昌業が自分の名前の字を書いたとする説を並べ、「明確にはわかっていません」と結ぶ。150年近く市名として使われてきた字の由来を、自治体自身が分からないと公表している珍しい例である。",
+    "sources": [
+     "l1-tomakomai-qa",
+     "l1-tomakomai-rekishi"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "『初航蝦夷日誌』原文における「トフマコマフ」の表記と箇所の直接確認は未実施。",
+    "「トゥマコマイ」説の学術的典拠（誰のどの著作か）は特定できていない。",
+    "市制施行の月日（4月1日と伝える資料がある）については、本バッチでは公的資料で再確認できていない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-赤平市",
+   "code": "012181",
+   "names": {
+    "ja": "赤平市",
+    "reading": "あかびらし",
+    "aliases": [
+     "赤平",
+     "アカピラ",
+     "フレピラ"
+    ]
+   },
+   "user_terms": [
+    "赤平",
+    "あかびら",
+    "炭鉱のまち赤平",
+    "ズリ山"
+   ],
+   "naming_type": "その他（アイヌ語地名への当て字と意訳の複合とされる）",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "空知川沿いの炭鉱都市。名の由来には、アイヌ語の「アカピラ（山稜の崖）」に由来する説と、崖が赤いことから「フレピラ（赤い崖）」と呼ばれ、「フレ」を「赤」と訳して「ピラ」に「平」の字を当てたとする説の二説がある。大正11年（1922年）に歌志内村から分かれて赤平村となり、昭和18年（1943年）に町制、昭和29年（1954年）に市制を施行した。",
+   "first_attestation": {
+    "era": "",
+    "year_western": null,
+    "document": "",
+    "note": "アイヌ語名の文献上の初出は特定できなかった。自治体としては大正11年（1922年）の赤平村の分村が画期"
+   },
+   "claims": [
+    {
+     "text": "国土交通省北海道開発局の市町村紹介は、赤平の市町村名の由来として、アイヌ語の「アカピラ（山稜の崖の意）」に由来する説を挙げている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t3-akabira-mlit"
+     ]
+    },
+    {
+     "text": "同紹介はもう一つの説として、空知川の崖が赤いことからアイヌ語で「フレピラ（赤い崖の意）」と呼び、フレを「赤」と訳し、ピラには「平」の字を当てたとする説を併記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "t3-akabira-mlit"
+     ]
+    },
+    {
+     "text": "北海道公式のアイヌ語地名資料に基づく市町村名の由来集は、アカピラ説について「滝川公園の沼の崖が発祥」と注記している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "明治30年（1897年）に奈江村から歌志内村が分離し、大正11年（1922年）にその歌志内村から分村して赤平村となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-akabira-mlit"
+     ]
+    },
+    {
+     "text": "昭和18年（1943年）に町制を施行して赤平町となり、昭和29年（1954年）に市制を施行して赤平市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-akabira-mlit"
+     ]
+    },
+    {
+     "text": "赤平市の地方公共団体コードは012181である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「赤い崖」なのに、なぜ「平」なのか",
+    "text": "フレピラ説が正しければ、「赤平」は半分が翻訳で半分が当て字という、少し不思議な名前である。「フレ（赤い）」は意味を訳して「赤」に、「ピラ（崖）」は音だけを借りて、崖とは似ても似つかない「平」の字が当てられた。意味を取るか音を取るか、その中途半端さこそが、和人がアイヌ語地名を受け継いだ時代の実務の痕跡なのかもしれない。",
+    "sources": [
+     "t3-akabira-mlit"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "アカピラ説とフレピラ説のどちらが正しいかは、参照した資料の範囲では決着していない",
+    "「赤平」の表記が公文書に初めて現れる時期は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/01-釧路市",
+   "code": "012068",
+   "names": {
+    "ja": "釧路市",
+    "reading": "くしろし",
+    "aliases": [
+     "久寿里",
+     "クスリ場所",
+     "釧路区"
+    ]
+   },
+   "user_terms": [
+    "釧路の名前の由来",
+    "クスリとは何か",
+    "釧路の語源はなぜ分からないのか",
+    "釧路は昔なんと呼ばれていたか"
+   ],
+   "naming_type": "その他",
+   "prefecture": "北海道",
+   "homonyms": [],
+   "summary": "釧路はアイヌ語に由来する地名だが、語源は「クッチャロ（のど）」「クシベツ・クシナイ（通り抜けることのできる川）」「クシュル（通路）」「クスリ（薬・温泉）」の諸説があり、釧路市公式自身が「定かではない」としている。江戸時代には「久寿里」とも書かれ、明治2年（1869年）の太政官布告で「釧路」の字が当てられた。",
+   "first_attestation": {
+    "era": "江戸時代初期",
+    "year_western": null,
+    "document": "松前藩が置いた「クスリ場所」",
+    "note": "和人の記録に現れる地名の母体。漢字表記「釧路」は明治2年（1869年）の太政官布告によるもので、「久寿里」の表記も並行して使われた。"
+   },
+   "claims": [
+    {
+     "text": "釧路市公式「釧路市の概要（令和7年度）」は、市名の由来についてアイヌ語による諸説があり定かではないとし、「クッチャロ（のど）」「クシベツ」「クシナイ（通り抜けることのできる川）」「クシュル（通路）」「クスリ（薬・温泉）」を候補として挙げる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-kushiro-city-gaiyo"
+     ]
+    },
+    {
+     "text": "江戸時代初期に松前藩はこの地に「クスリ場所」を置いて拠点とし、地名はアイヌ語の「クスリ」に由来すると説明する資料もある。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k2-hokkaido-rrc-origin"
+     ]
+    },
+    {
+     "text": "江戸時代の釧路は「久寿里」とも表記された。釧路市の町名資料によれば、松浦武四郎は久寿里場所（現在の釧路）が「東蝦夷地で一番の都会になるだろう」と語ったと伝えられる（『釧路郷土史考』経由）。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-kushiro-city-machi"
+     ]
+    },
+    {
+     "text": "明治2年（1869年）、太政官布告により、釧路国の設置と同時期に「釧路」の漢字が正式に当てられた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-kushiro-city-gaiyo"
+     ]
+    },
+    {
+     "text": "明治33年（1900年）に釧路町、大正11年（1922年）に市制を施行して釧路市となり、平成17年（2005年）10月11日に阿寒町・音別町と新設合併して現在の釧路市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-kushiro-city-gaiyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、釧路市のコードは012068とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "由来が「分からない」と市が公言する名前",
+    "text": "釧路市の公式資料は、市名の由来を聞かれて「諸説あり定かではない」と4つの説を並べて答える。率直だが、この4説はどれも川と地形に結びつく。「のど」を意味するクッチャロは川の流れが細く絞られる場所、「通り抜ける川」は内陸への水路、「通路」は交通の要衝、「薬」は温泉を指すと読む。和人の交易拠点「クスリ場所」として栄えた歴史を考えると、いずれの説も場所の性格の一面を突いている。結論が出ないまま140年以上使われ続けている名前というのも、釧路らしいたくましさかもしれない。",
+    "sources": [
+     "k2-kushiro-city-gaiyo",
+     "k2-hokkaido-rrc-origin"
+    ]
+   },
+   "relations": [
+    "pref/01"
+   ],
+   "unknowns": [
+    "アイヌ語語源のどの説が正しいかは、釧路市公式の見解でも未確定。",
+    "「釧路」の漢字が選ばれた理由（音の一致以外の選字理由）は本バッチでは確認できていない。"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

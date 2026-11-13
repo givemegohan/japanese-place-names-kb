@@ -1,0 +1,1402 @@
+{
+ "sources": {
+  "a-aom-pref-qa": {
+   "label": "青森県庁「青森県史の質問箱01―青森県の由来や地名について」",
+   "url": "https://www.pref.aomori.lg.jp/soshiki/kotsu/seikatsu/shitsumon01.html"
+  },
+  "a-cap-aomori-city": {
+   "label": "青森市「青森市の歴史」（港町の成立・命名・1898年市制施行）",
+   "url": "https://www.city.aomori.aomori.jp/shisei/aomoricity-konnamchi/1005551/1005555.html"
+  },
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "h3-aomori-pref-gappei": {
+   "label": "青森県「南部町（名川町・南部町・福地村）の合併」",
+   "url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/shichoson/gappei-nanbu.html"
+  },
+  "h3-aomori-town-history": {
+   "label": "南部町（青森県）公式「南部藩発祥の地」",
+   "url": "https://www.town.aomori-nanbu.lg.jp/page/1842.html"
+  },
+  "h3-aomori-town-plan": {
+   "label": "南部町（青森県）「過疎地域持続的発展計画」（町名の由来となった南部氏・町の沿革を含む）",
+   "url": "https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/5660.pdf"
+  },
+  "h3-tottori-gikai": {
+   "label": "南部町（鳥取県）・南部町議会「南部町及び南部町議会の概要（令和8年4月版）」（新町名の理由を含む）",
+   "url": "https://www.town.nanbu.tottori.jp/user/filer_public/c1/0e/c10e77bf-f699-4aaa-bb48-b762ae8861c5/reiwa-8-nen-4-gatuban-_-nanbu-mati-oyobi-nanbu-tyougikai-no-gaiyou-26-04-01ver.pdf"
+  },
+  "h3-yamanashi-yukari": {
+   "label": "南部町（山梨県）観光サイト「南部氏ゆかりの地」",
+   "url": "https://www.town.nanbu.yamanashi.jp/kankou/rekishi/nanbushi/yukari.html"
+  },
+  "k2-hachinohe-city-gaiyo": {
+   "label": "八戸市「八戸市の概要」（糠部郡の8番目の「戸」、「戸」の正体についての市の見解、1929年の市制）",
+   "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/kohotokeika/kohokocho/2/1702.html"
+  },
+  "k2-hachinohe-museum-nejo": {
+   "label": "八戸市博物館「史跡根城の広場開場30周年記念シンポジウム『根城・再考Ⅳ 根城の始まり』資料」（根城は建武元年（1334年）に南部師行が築城したという従来説と近年の見直し）",
+   "url": "https://hachinohe-city-museum.jp/wp-content/themes/hcm/images/goods/20251025nejo-symposium.pdf"
+  },
+  "k2-hirosaki-city-gaiyo": {
+   "label": "弘前市「弘前市の概要」（慶長16年（1611年）の弘前城築城、明治22年の市制、平成18年の合併）",
+   "url": "https://city.hirosaki.aomori.jp/jouhou/keikaku/files/1_gaiyou.pdf"
+  },
+  "k2-hirosaki-city-yurai": {
+   "label": "弘前市「市章・地名の由来」（高岡・鷹岡の由来、弘前への改称理由は明らかでないこと、諸説の併記、寛永5年（1628年）8月20日の記録）",
+   "url": "https://www.city.hirosaki.aomori.jp/jouhou/keikaku/files/yurai.pdf"
+  },
+  "k2-iwate-fudoki-he": {
+   "label": "岩手の風土記シリーズ（31）「戸（へ）の由来について考える」（九牧説・九ヶ部四門の制・四戸の存在。郷土資料としてE4扱い）",
+   "url": "https://fukura.ne.jp/i-senior/iwate_topography31roots_he.pdf"
+  },
+  "l1-ndl-hachiro": {
+   "label": "国立国会図書館 電子展示会「錦絵と写真でめぐる日本の名所・八郎潟」（八郎太郎と十和田湖の三湖伝説の梗概。英語版ページ）",
+   "url": "https://www.ndl.go.jp/en/landmarks/column/hachirogata_lagoon"
+  },
+  "l1-towada-ayumi": {
+   "label": "十和田市公式「旧『十和田市』のあゆみ」（1889年三本木村、1910年町制、1955年三本木市、1956年に十和田市へ改称）",
+   "url": "https://www.city.towada.lg.jp/shisei/about/shoukai/ayumi-old.html"
+  },
+  "l1-towada-bunkazai": {
+   "label": "十和田市教育委員会「文化財マップ」（八郎太郎が十和田湖から投げたと伝えられる巨岩を祀る稲荷神社）",
+   "url": "https://www.city.towada.lg.jp/bunka/bunka/files/bunkazaimap.pdf"
+  },
+  "l1-towada-kaso": {
+   "label": "十和田市 過疎地域持続的発展計画（2005年1月1日に旧十和田市と旧十和田湖町が合併）",
+   "url": "https://www.city.towada.lg.jp/shisei/gyousei/machidukuri/files/kaso-keikaku-03.pdf"
+  },
+  "l1-towada-keikaku": {
+   "label": "十和田市公式 計画資料（三本木原の開拓。1855年に新渡戸傳が着手、稲生川上水と碁盤目状区画）",
+   "url": "https://www.city.towada.lg.jp/shisei/gyousei/machidukuri/files/01-1.pdf"
+  },
+  "l1-towada-kentei": {
+   "label": "十和田観光協会「十和田こども検定」解説（「十和田」はアイヌ語「トーワタラ（岩の多い湖）」に由来、江戸時代の表記「十湾湖」「十曲湖」）",
+   "url": "https://www.towada.or.jp/kodomokentei/pdf/kaitou_full.pdf"
+  },
+  "l1-towada-wiki": {
+   "label": "Wikipedia「十和田市」（十和田湖の名の由来と市の変遷）",
+   "url": "https://ja.wikipedia.org/wiki/十和田市"
+  },
+  "m1-misawa-chimei": {
+   "label": "三沢市「三沢市の地名あれこれ」（市公式。市内各地名の由来と、天ケ森の尼の言い伝え）",
+   "url": "https://www.city.misawa.lg.jp/index.cfm/23,9429,16,125,html"
+  },
+  "m1-misawa-city-hensen": {
+   "label": "三沢市「三沢市の概要・三沢市行政区域の変遷」（市公式資料。江戸期の支村三沢から1958年市制施行までの変遷）",
+   "url": "https://www.city.misawa.lg.jp/index.cfm/19,3999,c,html/3999/20230921-091834.pdf"
+  },
+  "m1-misawa-kotobank": {
+   "label": "コトバンク「三沢」（日本大百科全書・精選版日本国語大辞典。1948年大三沢町成立と1958年三沢市への改称）",
+   "url": "https://kotobank.jp/word/%E4%B8%89%E6%B2%A2-637624"
+  },
+  "m1-mutsu-mlit": {
+   "label": "国土交通省「むつ市長 宮下宗一郎 日本初の『ひらがな』市名：むつ市」（官民連携ポータル寄稿資料）",
+   "url": "https://www.mlit.go.jp/sogoseisaku/kanminrenkei/content/001521435.pdf"
+  },
+  "m1-mutsu-youran": {
+   "label": "むつ市「市制施行50周年・合併5周年 むつ市勢要覧」（2009年。市のあゆみ、市章の制定、将来像「陸奥の国」）",
+   "url": "https://www.city.mutsu.lg.jp/government/about/gaiyou/files/ShiseiYouran2009-01.pdf"
+  },
+  "t3-gosho-chisou": {
+   "label": "五所川原市「地域経済循環分析」（地方創生関係資料。1665年の五所川原新田開拓・太宰治の生家）",
+   "url": "https://www.chisou.go.jp/sousei/resas/pdf/goshogawarashi.pdf"
+  },
+  "t3-gosho-city-chimei": {
+   "label": "五所川原市『五所川原市の地名』（合併10周年記念、市公式PDF。2005年合併・1889年の五所川原村）",
+   "url": "https://www.city.goshogawara.lg.jp/lib/document/files/chimei-21.pdf"
+  },
+  "t3-gosho-city-hokushin": {
+   "label": "五所川原市教育委員会「北辰大学第6回学習会事業報告」（五所川原地名発祥之源地の碑と二つの説）",
+   "url": "https://www.city.goshogawara.lg.jp/kyouiku/syakaikyouiku/files/R3hokusindaigaku_jigyouhoukoku06.pdf"
+  },
+  "t3-gosho-historia": {
+   "label": "ローカルヒストリア「五所川原市の歴史」（平山日記の説・1645年の津軽知行高之帳・御所川原伝承）",
+   "url": "https://local-historia.jp/aomori/goshogawara"
+  },
+  "t3-gosho-ndl-authority": {
+   "label": "Web NDL Authorities「五所川原町（青森県）」（1954年10月の合併による五所川原市成立の注記）",
+   "url": "https://id.ndl.go.jp/auth/ndlna/00349687"
+  },
+  "t3-hirakawa-city-ayumi": {
+   "label": "平川市公式「市のあゆみ」（平賀郡・平賀庄の中心地、1955年の平賀町・尾上町の成立）",
+   "url": "https://www.city.hirakawa.lg.jp/jouhou/shoukai/shinoayumi.html"
+  },
+  "t3-hirakawa-city-youran": {
+   "label": "平川市市勢要覧（2007年、市公式PDF。「平川」がつなぐ平川市、碇ヶ関村の伝統）",
+   "url": "http://www.city.hirakawa.lg.jp/jouhou/shoukai/files/2007_03.pdf"
+  },
+  "t3-hirakawa-pref-gappei": {
+   "label": "青森県公式「平川市（平賀・尾上・碇ヶ関合併協議会）」（2005年1月14日に新市名「平川市」を決定）",
+   "url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/shichoson/gappei-hirakawa.html"
+  },
+  "t3-kuroishi-city-chushin": {
+   "label": "黒石市中心市街地活性化基本計画（市公式PDF。「黒石」の地名は鎌倉時代から）",
+   "url": "https://www.city.kuroishi.aomori.jp/sangyou/sangyou/files/Out_sigaichi_01.pdf"
+  },
+  "t3-kuroishi-city-keikan": {
+   "label": "黒石市景観計画（市公式PDF。1546年の「久ろいし」、1656年の黒石領発足と陣屋の町割り、1809年の立藩）",
+   "url": "http://www.city.kuroishi.aomori.jp/kurashi/sumai/files/Top_Keikan_keikaku_1-1.pdf"
+  },
+  "t3-kuroishi-city-youran": {
+   "label": "黒石市勢要覧2020（市公式PDF。1954年7月1日の市制施行）",
+   "url": "https://www.city.kuroishi.aomori.jp/shisei/about/files/youran_2020.pdf"
+  },
+  "t3-kuroishi-kanko-history": {
+   "label": "黒石観光協会「黒石の歴史」（1343年の譲状の「くろいしごう」、国栖の転化説）",
+   "url": "https://kuroishi.or.jp/history"
+  },
+  "t3-tsugaru-kakugawa-jlogos": {
+   "label": "『角川日本地名大辞典』（旧地名）「津軽」項（JLogos掲載。日本書紀の津刈・津軽・都加留の記事）",
+   "url": "https://jlogos.com/ausp/word.html?id=7251546"
+  },
+  "t3-tsugaru-kita-ainu": {
+   "label": "喜田貞吉「奈良時代前後における北海道の経営」（1933）の「都加留」解釈を紹介するアイヌ学資料ページ「津軽」",
+   "url": "http://m-ac.jp/ainu/yezo/tohoku/tsugaru/index_j.phtml"
+  },
+  "t3-tsugaru-pref-gappei": {
+   "label": "青森県公式「つがる市（木造町、森田村、柏村、稲垣村、車力村）」（合併協議会の経過・新市名決定）",
+   "url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/shichoson/gappei-tsugaru.html"
+  },
+  "t3-tsugaru-wiki": {
+   "label": "Wikipedia「つがる市」（青森県内で2例目の平仮名市名）",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8C%E3%82%8B%E5%B8%82"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/02-つがる市",
+   "code": "022098",
+   "names": {
+    "ja": "つがる市",
+    "reading": "つがるし",
+    "aliases": [
+     "つがる",
+     "津軽",
+     "木造町"
+    ]
+   },
+   "user_terms": [
+    "つがる",
+    "つがる市",
+    "津軽",
+    "ひらがなの市名",
+    "亀ヶ岡遺跡のまち"
+   ],
+   "naming_type": "合併新設（広域地名「津軽」を平仮名表記で採用）",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）に西津軽郡の木造町・森田村・柏村・稲垣村・車力村が合併して発足した。市名は広域地名「津軽」を平仮名にしたもので、青森県ではむつ市に次ぐ平仮名の市名である。「津軽」の名自体は7世紀の『日本書紀』に「津刈」「津軽」と見える古い広域称で、もとは蝦夷の集団名「都加留」だったとする説がある。",
+   "first_attestation": {
+    "era": "斉明天皇4年",
+    "year_western": 658,
+    "document": "『日本書紀』",
+    "note": "津軽郡の郡領を定めた記事に「津軽」の表記が見える（角川日本地名大辞典の紹介による）。これに先立つ斉明元年（655年）条には「津刈蝦夷」とも見える"
+   },
+   "claims": [
+    {
+     "text": "平成17年（2005年）2月11日、西津軽郡の木造町・森田村・柏村・稲垣村・車力村が新設合併して、つがる市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-tsugaru-pref-gappei"
+     ]
+    },
+    {
+     "text": "新市の名称は、平成15年（2003年）10月27日の木造新田合併協議会第6回会議で「つがる市」に決定し、事務所は旧木造町役場に置くこととされた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-tsugaru-pref-gappei"
+     ]
+    },
+    {
+     "text": "つがる市は、青森県内の平仮名の市名としてはむつ市に次いで2例目である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "t3-tsugaru-wiki"
+     ]
+    },
+    {
+     "text": "『角川日本地名大辞典』（旧地名）は、『日本書紀』斉明天皇元年（655年）条に「津刈蝦夷」、同4年（658年）条に津軽郡の郡領を定めた記事が見え、7世紀にはすでに津軽という広域称が成立していたと解説している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t3-tsugaru-kakugawa-jlogos"
+     ]
+    },
+    {
+     "text": "『日本書紀』斉明天皇5年（659年）条が引く伊吉博徳の書は、蝦夷には3種類あり、最も遠いものを「都加留（つがる）」と呼ぶと記している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "t3-tsugaru-kakugawa-jlogos"
+     ]
+    },
+    {
+     "text": "喜田貞吉は、「都加留」はもともと蝦夷の集団の名称で、アイヌ語の「チュプカグル（東方、すなわち日の出る処の人）」の訛りではないかと論じた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "t3-tsugaru-kita-ainu"
+     ]
+    },
+    {
+     "text": "つがる市の地方公共団体コードは022098である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "千三百年の漢字を、あえて平仮名にした市",
+    "text": "「津軽」は、『日本書紀』にまで遡れる由緒正しい漢字地名である。それを平成の合併では、あえて平仮名の「つがる」にした。青森県では昭和35年（1960年）に田名部町から改称した「むつ市」の先例があり、平仮名の市名は県内2例目となった。広域の名を名乗るからこそ、どの旧町村の漢字の影も引かない柔らかい表記が選ばれたのだとすれば、これは表記の選択であると同時に、合併の政治の知恵でもある。",
+    "sources": [
+     "t3-tsugaru-pref-gappei",
+     "t3-tsugaru-wiki"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "平仮名を採用した理由（読みやすさ・柔らかさ等）を、合併協議会の資料そのものでは確認できなかった",
+    "「津軽」の語源については都加留＝集団名とする説が有力視されるが、定説として確定はしていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-むつ市",
+   "code": "022080",
+   "names": {
+    "ja": "むつ市",
+    "reading": "むつし",
+    "aliases": [
+     "大湊田名部市",
+     "田名部町",
+     "大湊町"
+    ]
+   },
+   "user_terms": [
+    "ひらがなの市名はなぜ生まれたのか",
+    "大湊田名部市は実在したのか",
+    "むつは陸奥のことか"
+   ],
+   "naming_type": "その他（旧国名「陸奥」の読みをひらがな表記にした改称）",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "昭和34年（1959年）に田名部町と大湊町が合併して「大湊田名部市」となったが、翌昭和35年（1960年）8月1日、旧国名「陸奥（むつ）」の読みをそのままひらがなで書く「むつ市」に改称した。漢字を使わない市名は全国で初めてで、ひらがな市名の先駆けとなった。なお、改称は1970年ではなく1960年の出来事である。",
+   "first_attestation": {
+    "era": "昭和35年",
+    "year_western": 1960,
+    "document": "市名変更（大湊田名部市から「むつ市」へ、1960年8月1日）",
+    "note": "市名としての「むつ」の初出。語としての「陸奥（むつ）」は古代の令制国名に遡る"
+   },
+   "claims": [
+    {
+     "text": "むつ市勢要覧によれば、下北の中心地・田名部町と海軍の街として発展した大湊町が合併し、昭和34年9月1日に「大湊田名部市」が誕生したが、翌年の8月1日に「むつ市」に改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-mutsu-youran"
+     ]
+    },
+    {
+     "text": "むつ市はこの改称について、全国初のひらがなの市名であると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-mutsu-youran"
+     ]
+    },
+    {
+     "text": "国土交通省の資料も、むつ市を「日本初の『ひらがな』市名」として紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-mutsu-mlit"
+     ]
+    },
+    {
+     "text": "新市名「むつ」は旧国名「陸奥（むつ）」の読みの継承であり、市はまちの将来像に『人と自然が輝く やすらぎと活力の大地 陸奥の国』を掲げ、市勢要覧でも旧国名「陸奥」の解説を市の概要に置いている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-mutsu-youran"
+     ]
+    },
+    {
+     "text": "市章はひらがなの「むつ」を図案化したもので「融和と飛躍発展」を象徴し、昭和35年11月1日に制定された、と市勢要覧は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-mutsu-youran"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）3月14日に川内町・大畑町・脇野沢村と合併し、新しいむつ市が誕生した、と市勢要覧は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-mutsu-youran"
+     ]
+    },
+    {
+     "text": "地方公共団体コードは022080である（総務省「地方公共団体コード一覧」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "11か月だけの「大湊田名部市」",
+    "text": "田名部と大湊、性格の違う二つの町の名を連ねた「大湊田名部市」は、漢字6字という当時日本一長い市名でした。しかし、この名前はわずか11か月で姿を消します。翌年、両地区に共通する広い名として旧国名「陸奥」の読みを取り、しかも漢字ではなくひらがなで「むつ市」としたのです。市章の説明に残る「融和」という言葉が、改称に込められた狙いを今に伝えています。",
+    "sources": [
+     "m1-mutsu-youran"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "改称を決めた当時の公式な命名理由の明文（市議会議事録・市史の記述）の直接確認は未実施",
+    "旧名「田名部」「大湊」それぞれの地名の語源は本レコードでは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-三沢市",
+   "code": "022071",
+   "names": {
+    "ja": "三沢市",
+    "reading": "みさわし",
+    "aliases": [
+     "大三沢町",
+     "三沢村"
+    ]
+   },
+   "user_terms": [
+    "三沢基地のある市の名前",
+    "大三沢から三沢に戻したのはなぜ",
+    "三沢の名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "市名は旧上北郡三沢村の地名の継承である。昭和23年（1948年）に周辺村の一部と合併して「大三沢町」となったが、昭和33年（1958年）の市制施行の際に元の「三沢」に戻して三沢市となった。「三沢」という地名自体の語源は、確実な資料では確認できていない。",
+   "first_attestation": {
+    "era": "寛政9年頃",
+    "year_western": 1797,
+    "document": "三沢市公式資料が紹介する江戸期の記録（百石村の支村「三沢」、戸数61戸）",
+    "note": "市の資料経由の古い記録で、原典の文書名は未確認。分村の年は明治14年（1881年）とする市公式資料と、1880年とする資料があり、初出の確定は今後の課題"
+   },
+   "claims": [
+    {
+     "text": "三沢市の公式資料によれば、江戸時代後期には百石村の支村として「三沢」があり、明治14年（1881年）に百石村から分村して戸長役場が浜三沢に置かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-misawa-city-hensen"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村制施行により、三沢村と天ケ森村が合わさって三沢村となった、と市の公式資料は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-misawa-city-hensen"
+     ]
+    },
+    {
+     "text": "昭和23年（1948年）、上北郡三沢村と六戸・下田・浦野館の各一部が合併して大三沢町となり、昭和33年（1958年）に市制施行して三沢市と改称した、と日本大百科全書は述べる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "m1-misawa-kotobank"
+     ]
+    },
+    {
+     "text": "三沢市公式資料の年表も、昭和23年2月11日に大三沢町となり、昭和33年9月1日に三沢の市制が施行された（市制施行時の人口3万5911人）としている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-misawa-city-hensen"
+     ]
+    },
+    {
+     "text": "「三沢」の語源については、市公式の地名解説や百科事典に確定的な由来の記載が見当たらず、沢の地形に結びつける一般的な説明の域を出ないため、現時点では未確定である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "m1-misawa-kotobank",
+      "m1-misawa-chimei"
+     ]
+    },
+    {
+     "text": "地方公共団体コードは022071である（総務省「地方公共団体コード一覧」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "市内北部の天ケ森については、いつ来たのか分からない一人の尼が住み着いてから「尼森」と呼ばれ、やがて「天ケ森」になったという言い伝えを、市公式の地名解説が紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "m1-misawa-chimei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "太平洋を初めて飛び越えた海岸",
+    "text": "三沢市の淋代（さびしろ）海岸は、昭和6年（1931年）にアメリカの飛行家ハーンドンとパングボーンが「ミス・ビードル号」で世界最初の太平洋無着陸横断飛行に出発した場所です。現在の三沢が米軍・自衛隊の航空基地の街であることと合わせると、この海岸は日本の航空史の転機の舞台でした。なお、市名が一時「大三沢」になったのは合併で大きくなった町の改称で、10年後の市制施行で「三沢」に戻っています。",
+    "sources": [
+     "m1-misawa-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "「三沢」の語源の確定資料は未確認（『三沢市史』等の地名考の直接確認が今後の課題）",
+    "江戸期の「支村三沢」を記す原典の文書名は、市の資料経由のため未確認",
+    "分村の年について、市公式資料は明治14年（1881年）9月19日とする一方、1880年9月19日とする資料もあり、決着していない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-五所川原市",
+   "code": "022055",
+   "names": {
+    "ja": "五所川原市",
+    "reading": "ごしょがわらし",
+    "aliases": [
+     "五所川原",
+     "御所川原",
+     "五所川原町",
+     "金木"
+    ]
+   },
+   "user_terms": [
+    "五所川原",
+    "ごしょがわら",
+    "立佞武多のまち",
+    "太宰治のふるさと金木"
+   ],
+   "naming_type": "その他（近世の新田開発で生まれた村名を継承）",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "岩木川の川原に開かれた新田のまちである。名の由来は、岩木川が屈曲して五か所に川原ができたとする『平山日記』の説が定説とされ、ほかに長慶天皇の御神体が流れ着いた地として「御所川原」と呼ばれたという伝承がある。昭和29年（1954年）に市制を施行し、平成17年（2005年）に金木町・市浦村と合併して現在の市となった。",
+   "first_attestation": {
+    "era": "正保2年",
+    "year_western": 1645,
+    "document": "『津軽知行高之帳』（津軽郡絵図・郷帳）",
+    "note": "「五所川原村 六石二斗五升」と記された例が最古とされる（郷土史サイトの紹介による）"
+   },
+   "claims": [
+    {
+     "text": "「五所川原」の名が文献に現れる最古の例は、正保2年（1645年）の『津軽知行高之帳』に記された「五所川原村」とされる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t3-gosho-historia"
+     ]
+    },
+    {
+     "text": "近世の基本史料『平山日記』は、新田を開くときに岩木川が屈曲して五か所に川原ができていたことから村名になったと記し、この説が定説とされている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "t3-gosho-historia"
+     ]
+    },
+    {
+     "text": "元町八幡宮に伝わる話では、相馬村の五所にあった長慶天皇の御神体を祀る祠が洪水でたびたびこの地の川原に流れ着いたため「御所川原」と呼ばれ、後に「五所川原」になったという",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t3-gosho-historia"
+     ]
+    },
+    {
+     "text": "五所川原市教育委員会は、「五所川原地名発祥之源地」の碑について、地名の由来となった二つの説が市民にとって大切な伝説となっていると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-gosho-city-hokushin"
+     ]
+    },
+    {
+     "text": "五所川原は寛文5年（1665年）の五所川原新田の開拓から始まった都市であり、岩木川の水運による米の集散地として発展の基礎ができた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-gosho-chisou"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）10月、五所川原町と榮村・中川村・三好村・長橋村・松島村・飯詰村が合併して五所川原市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-gosho-ndl-authority"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）3月28日、旧五所川原市・金木町・市浦村が合併して現在の五所川原市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-gosho-city-chimei"
+     ]
+    },
+    {
+     "text": "五所川原市の地方公共団体コードは022055である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "飛び地と、太宰と、大ねぷたと",
+    "text": "2005年の合併で五所川原市は不思議な形になった。南の五所川原・金木の地区と、北の十三湖に面する市浦地区のあいだに中泊町が挟まり、市浦は飛び地なのである。金木は太宰治の生家「斜陽館」のある町として知られ、中世には十三湊を拠る安東氏の世界に属した。川原の新田の村だった五所川原は、合併によって日本海交易の港と文豪の故郷を市域に抱え込むことになった。",
+    "sources": [
+     "t3-gosho-historia",
+     "t3-gosho-chisou"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "『平山日記』の原文は本バッチでは未確認で、郷土史サイトの引用によった",
+    "「五つの村の合祀に由来する」という説明は、一部資料の「五つの村ができた」という記述と混同されることがあるが、市・県の公式資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-八戸市",
+   "code": "022039",
+   "names": {
+    "ja": "八戸市",
+    "reading": "はちのへし",
+    "aliases": [
+     "八戸町",
+     "根城"
+    ]
+   },
+   "user_terms": [
+    "八戸の戸とは何か",
+    "一戸から九戸の由来",
+    "消えた四戸はどこか",
+    "糠部とは何か"
+   ],
+   "naming_type": "その他",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "八戸は、古代末期から中世に「糠部郡（糠部地方）」と呼ばれた地域に一から九まで並んだ「戸」の地名の8番目。岩手県北から青森県南に一戸・二戸・三戸・五戸・六戸・七戸・八戸・九戸が残る全国でも珍しい連続番号地名で、「戸」の正体は律令制の統治機構に由来するとみる説、牧場（九牧）に由来するとみる説などがあり確定していない。番号のかたちで城下と港を抱える八戸は、その最大の「戸」である。",
+   "first_attestation": {
+    "era": "中世（鎌倉時代）",
+    "year_western": null,
+    "document": "糠部地方における「戸」の区分（九ヶ部四門の制）",
+    "note": "郷土史研究は、鎌倉時代初期には一戸から九戸までの区分が存在したとする。「八戸」の個別名が文書に現れる初出の年は未確認。"
+   },
+   "claims": [
+    {
+     "text": "八戸市公式によれば、岩手県北から青森県南東部にかけての一から九の数字に「戸」の付く地名は、古代末期から中世にかけて「糠部郡」と呼ばれた地域に残るものであり、八戸はその8番目の「戸」を意味する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hachinohe-city-gaiyo"
+     ]
+    },
+    {
+     "text": "「戸」の正体について八戸市公式は、古代律令制に基づく地方統治機構に由来すると考えられるとした上で、この地域が馬産地だったことから牧場に関連させる考え方と、蝦夷支配のために北進する朝廷側の前進基地とする考え方があると紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k2-hachinohe-city-gaiyo"
+     ]
+    },
+    {
+     "text": "郷土史研究「岩手の風土記」は、中世に南部氏が置いた9か所の牧場「九牧」に由来する説を紹介する一方で、「戸」の地名自体は南部氏の糠部入部以前に成立していたとみられ、鎌倉時代初期には各「戸」に牧場1か所と村7つを置く「九ヶ部四門の制」が存在したとする。つまり牧場説は「戸」の運用の一形態の説明であって、起源の確定には至っていない。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k2-iwate-fudoki-he"
+     ]
+    },
+    {
+     "text": "現行自治体名に残らない「四戸」もかつて存在し、八戸市西部の櫛引八幡宮は「四戸八幡宮」と呼ばれ、この一帯を支配した櫛引氏は「四戸殿」と呼ばれていた。なぜ四戸の名が消えたのかは明らかでない（「四」が「死」に通じるためとする説も紹介されるが根拠は薄い）。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k2-iwate-fudoki-he"
+     ]
+    },
+    {
+     "text": "従来説では、建武元年（1334年）に南部師行が根城を築き、八戸は南部氏の城下として発展したとされてきた（八戸市博物館）。近年の発掘調査と研究の進展により、14世紀の根城と南部氏の入部の様相は見直されつつある。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k2-hachinohe-museum-nejo"
+     ]
+    },
+    {
+     "text": "昭和4年（1929年）5月1日、八戸町・小中野町・湊町・鮫村の4町村の合併により八戸市が誕生した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hachinohe-city-gaiyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、八戸市のコードは022039とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "一から九まで揃うのに、四だけが欠けている",
+    "text": "一戸、二戸、三戸、五戸、六戸、七戸、八戸、九戸。国道4号を北上すると、まるで番号札のように「戸」の地名が並ぶ。全国でもここだけという規則正しい連続地名なのに、肝心の「四戸」だけが現在の自治体名にない。実は四戸は実在し、八戸市西部の櫛引八幡宮は四戸八幡宮と呼ばれ、支配者の櫛引氏は「四戸殿」と名乗っていた。名が消えた理由は不明のままだが、1000年近く前の地方区分の番号が、いまも住所として生きていること自体がこの地域の面白さである。八戸はその最大の番号札の街だ。",
+    "sources": [
+     "k2-hachinohe-city-gaiyo",
+     "k2-iwate-fudoki-he"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "「戸」の起源（律令制の統治機構か、牧の区分か、その他か）は確定していない。",
+    "「八戸」の名が文書に初めて現れる年と文献は未確認。",
+    "四戸の名が消えた理由は未確認。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-十和田市",
+   "code": "022063",
+   "names": {
+    "ja": "十和田市",
+    "reading": "とわだし",
+    "aliases": [
+     "三本木市",
+     "三本木町"
+    ]
+   },
+   "user_terms": [
+    "十和田の名前の由来",
+    "もとは三本木という名前だった",
+    "十和田湖の名前の意味"
+   ],
+   "naming_type": "その他（十和田湖の名に因む改称）",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "市名は十和田湖に因む。「十和田」はアイヌ語で「岩の多い湖」を意味する「トーワタラ」に由来するとされる。市の中心部はもと三本木原の開拓地で、自治体名も三本木だったが、昭和31年（1956年）に三本木市から十和田市へ改称し、平成17年（2005年）に旧十和田湖町と合併して湖を含む市となった。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "十和田湖を指す「十湾湖」「十曲湖」などの表記（十和田観光協会「十和田こども検定」解説が紹介）",
+    "note": "「十和田」の表記そのものの初出は未確認。"
+   },
+   "claims": [
+    {
+     "text": "「十和田」はアイヌ語で「岩の多い湖」を意味する「トーワタㇻ（トーワタラ）」に由来すると、十和田観光協会の検定解説などが説明する。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "l1-towada-kentei",
+      "l1-towada-wiki"
+     ]
+    },
+    {
+     "text": "江戸時代には、十和田湖は「十湾湖」「十曲湖」などとも表記された。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l1-towada-kentei"
+     ]
+    },
+    {
+     "text": "現在の市中心部はもと三本木原の台地で、安政2年（1855年）に南部盛岡藩の勘定奉行・新渡戸傳（新渡戸稲造の祖父）が開拓に着手し、稲生川の上水と京都を模した碁盤目状の区画が作られた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-towada-keikaku"
+     ]
+    },
+    {
+     "text": "十和田市公式のあゆみによれば、明治22年（1889年）に三本木村が発足し、明治43年（1910年）に三本木町、昭和30年（1955年）に三本木町・大深内村・藤坂村が合併（同年に四和村も合併）して三本木市となり、昭和31年（1956年）に十和田市と改称した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-towada-ayumi"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）1月1日、旧十和田市と旧十和田湖町が合併して新しい十和田市が誕生し、市名には十和田が引き継がれた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-towada-kaso"
+     ]
+    },
+    {
+     "text": "十和田湖には、鹿角の若者・八郎太郎が竜となって湖を作りその主となったが、修験者・南祖坊との戦いに敗れて湖を追われたという伝説が伝わり、八郎潟・田沢湖の伝説と合わせて三湖伝説と呼ばれる。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-ndl-hachiro"
+     ]
+    },
+    {
+     "text": "十和田市教育委員会の文化財マップは、八郎太郎が十和田湖から投げたと伝えられる巨岩を祀る稲荷神社を、市内の伝承地として紹介している。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l1-towada-bunkazai"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、十和田市のコードは022063とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "湖の名を名乗るまで、半世紀",
+    "text": "十和田市の中心市街は、もとは湖とは別の世界だった。1855年に新渡戸傳が開いた三本木原の碁盤目の開拓地で、自治体の名も長く「三本木」だった。1956年、すでに三本木市となっていた町が「十和田市」に改称する。しかし十和田湖そのものは当時の市域の外にあった。名実が一致したのは2005年、湖畔の十和田湖町と合併してからである。湖の名を借りてから半世紀遅れて、湖が市のものになった。",
+    "sources": [
+     "l1-towada-ayumi",
+     "l1-towada-kaso"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "「トーワタラ」の語形と原義について、専門辞典による検証は未実施。",
+    "「十和田」表記の文献上の初出は未確認。",
+    "1956年の改称の決定経緯（候補や公募の有無）は未確認。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-南部町",
+   "code": "024457",
+   "names": {
+    "ja": "南部町",
+    "reading": "なんぶちょう",
+    "aliases": [
+     "南部村"
+    ]
+   },
+   "user_terms": [
+    "南部町の名前の由来",
+    "南部藩発祥の地はどこ",
+    "南部氏はどこから来た"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "青森県",
+   "homonyms": [
+    "muni/19-南部町",
+    "muni/31-南部町"
+   ],
+   "summary": "町名は南部氏に由来する。甲斐国南部郷で「南部」を姓とした南部三郎光行が糠部郡を拝領してこの地に入ったことが町の説明する始まりで、2006年の合併では前身の旧南部町（1959年町制）の名が新町名に継がれた。山梨県南部町とは同じ南部氏を介して発祥地と移転先の関係にあり、鳥取県南部町の「南部」とは由来を異にする。",
+   "first_attestation": {
+    "era": "鎌倉時代（建久2年）",
+    "year_western": 1191,
+    "document": "南部三郎光行の糠部郡拝領と現在の南部町相内地区への入部（南部町の計画が紹介）",
+    "note": "「南部」という名そのものは甲斐国南部郷に先行する。奥州側で「南部」が地名として定着するのは南部氏の入部以降であり、拝領を伝える一次文書の直接確認は未了"
+   },
+   "claims": [
+    {
+     "text": "2006年1月1日、名川町・南部町・福地村の新設合併により発足した。新町名「南部町」は2004年12月24日の第4回合併協議会で決定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-aomori-pref-gappei"
+     ]
+    },
+    {
+     "text": "町の計画は、町名の由来となった南部氏について、初代の南部三郎光行が軍功により糠部郡を拝領し、建久2年（1191年）に現在の南部町相内地区へ入部して翌年平良ヶ崎城を築いたと説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-aomori-town-plan"
+     ]
+    },
+    {
+     "text": "1955年4月20日に平良崎村と向村が合併して南部村となり、1959年に町制を施行して旧南部町となった。2006年の新町名はこの旧町名の継承である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-aomori-town-plan"
+     ]
+    },
+    {
+     "text": "町は、聖寿寺館を中心に三戸南部氏が糠部を治めた歴史を「南部藩発祥の地」として公式に紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-aomori-town-history"
+     ]
+    },
+    {
+     "text": "山梨県南部町とは南部氏を介してつながる共通の層を持つ。光行が甲斐の南部を与えられて「南部」を姓としたのが山梨側であり、その一族が奥州へ移った先が青森側で、両町は発祥地と移転先の関係にある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-yamanashi-yukari",
+      "h3-aomori-town-plan"
+     ]
+    },
+    {
+     "text": "鳥取県南部町の「南部」は南部氏とは無関係に、古くから親しまれた地域名を合併時に採用したもので、本町の「南部」とは同字でも由来の系統が異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-tottori-gikai"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では本町のコードは024457とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「発祥の地」は甲斐にも奥州にもある",
+    "text": "南部氏の姓の発祥は甲斐の南部郷（山梨県南部町）ですが、氏が大名として根を下ろしたのは奥州の糠部で、青森県南部町は聖寿寺館のある地を「南部藩発祥の地」と位置づけています。同じ一族をめぐって「発祥の地」が2県に併存するのは、姓が生まれた場所と藩として発祥した場所が別だからです。",
+    "sources": [
+     "h3-yamanashi-yukari",
+     "h3-aomori-town-history"
+    ]
+   },
+   "relations": [
+    "pref/02",
+    "muni/19-南部町",
+    "muni/31-南部町"
+   ],
+   "unknowns": [
+    "「南部」の語が奥州側の地名として文書に現れる最古の用例",
+    "建久2年（1191年）の入部を伝える一次史料の特定",
+    "2006年の合併で旧町名を新町名とした選定理由の公式文"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-平川市",
+   "code": "022101",
+   "names": {
+    "ja": "平川市",
+    "reading": "ひらかわし",
+    "aliases": [
+     "平川",
+     "平賀町",
+     "尾上町",
+     "碇ヶ関村"
+    ]
+   },
+   "user_terms": [
+    "平川",
+    "ひらかわ",
+    "平川市",
+    "平賀",
+    "碇ヶ関"
+   ],
+   "naming_type": "合併新設（市内を流れる川「平川」の名を採用）",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "平成18年（2006年）に南津軽郡の平賀町・尾上町・碇ヶ関村が合併して発足した。市名は3町村を結ぶ川・平川にちなむ。市域は古くは鎌倉時代に区分された平賀郡、のちに津軽藩が「庄」と改めた平賀庄の中心地であり、碇ヶ関は関所の地として知られた村である。",
+   "first_attestation": {
+    "era": "平成17年",
+    "year_western": 2005,
+    "document": "平賀・尾上・碇ヶ関合併協議会の新市名称決定",
+    "note": "市名としての初出。河川名「平川」自体の文献上の初出は確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "平成18年（2006年）1月1日、南津軽郡の平賀町・尾上町・碇ヶ関村が新設合併して平川市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-hirakawa-pref-gappei"
+     ]
+    },
+    {
+     "text": "新市の名称は、平成17年（2005年）1月14日の平賀・尾上・碇ヶ関合併協議会第6回会議で「平川市」に決定した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-hirakawa-pref-gappei"
+     ]
+    },
+    {
+     "text": "平川市の市勢要覧は「『平川』がつなぐ平川市」とうたっており、市名は市内を流れ3町村を結ぶ平川にちなむものである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-hirakawa-city-youran"
+     ]
+    },
+    {
+     "text": "現在の市域は古くは鎌倉時代に区分された「平賀郡」に属し、津軽四代藩主信政が「郡」を「庄」と改えてからは平賀庄が明治の新政まで存在し、本市はその中心地であったと市の沿革は説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-hirakawa-city-ayumi"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）に大光寺町・柏木町・竹舘村・町居村・尾崎村が合併して平賀町となり、尾上町と猿賀村が合併して尾上町となり、これらが平成の合併の母体となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-hirakawa-city-ayumi"
+     ]
+    },
+    {
+     "text": "碇ヶ関村は明治22年（1889年）の町村制施行のときに誕生して以来、100年を超えて存続した村であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-hirakawa-city-youran"
+     ]
+    },
+    {
+     "text": "平川市の地方公共団体コードは022101である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "どの町の名でもなく、川の名を",
+    "text": "合併で新しい市の名を決めるとき、中心だった平賀町の名を採るのが無難な選択だったはずである。ところが選ばれたのは、3町村に共通して流れる川の名「平川」だった。市の要覧は「『平川』がつなぐ平川市」と書く。旧町名のどれか一つを選べば残りが不満を持つ。川なら誰のものでもあり、みんなのものでもある。平成の大合併では各地で見られたこの「地理の共有物に託す」命名の、素直な例である。",
+    "sources": [
+     "t3-hirakawa-city-youran",
+     "t3-hirakawa-pref-gappei"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "河川名「平川」自体の語源と文献上の初出は、本バッチでは確認できなかった",
+    "新市名について住民公募が行われたかどうかは、県の合併記録では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-弘前市",
+   "code": "022021",
+   "names": {
+    "ja": "弘前市",
+    "reading": "ひろさきし",
+    "aliases": [
+     "高岡",
+     "鷹岡",
+     "鷹ヶ岡"
+    ]
+   },
+   "user_terms": [
+    "弘前の名前の由来",
+    "弘前は昔なんと呼ばれていたか",
+    "高岡から弘前への改名理由",
+    "弘前城の城下町の名前"
+   ],
+   "naming_type": "その他",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "弘前は、津軽信枚が慶長16年（1611年）に城を築いて開いた城下町。地名はそれ以前の「高岡（鷹岡）」を改めたもので、改名した日付（寛永5年（1628年）8月20日）は藩主の日記に残るのに、なぜ「弘前」になったのかは市公式も「はっきりしていない」とし、「広崎」由来説・十三岬由来説・アイヌ語説が併記される。",
+   "first_attestation": {
+    "era": "寛永5年",
+    "year_western": 1628,
+    "document": "『信枚君一代之自記』",
+    "note": "弘前市が『弘前市史 藩政編』を引いて紹介する、「弘前」という名称の使用開始（8月20日）の記録。「弘前」の名自体は築城（1611年）当初からの城下町名として扱われることもある。"
+   },
+   "claims": [
+    {
+     "text": "弘前市公式によれば、弘前は以前「高岡」または「鷹岡（鷹ヶ岡）」と呼ばれていた。城地が高台にあることや、城地の丘には昔鷹が多く生息し営巣していたことに由来があるようだと市は説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hirosaki-city-yurai"
+     ]
+    },
+    {
+     "text": "慶長16年（1611年）、2代藩主・津軽信枚が弘前城を築き、城下町弘前が誕生した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hirosaki-city-gaiyo"
+     ]
+    },
+    {
+     "text": "高岡が弘前に改称された理由ははっきりしておらず、弘前市公式は、北海道への海上交通を控え地勢が広大なところから「広崎」と呼びそれが「弘前」になったとする説、十三岬を「尾閭ヶ崎」と呼んでいたのを取ったとする説、チェンバレンが唱えたアイヌ語起源説を併記し、いずれの説も明らかではないとする。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k2-hirosaki-city-yurai"
+     ]
+    },
+    {
+     "text": "『信枚君一代之自記』には「弘前」という名称が用いられたのは寛永5年（1628年）8月20日からと記録されていると、弘前市は『弘前市史 藩政編』を引いて紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hirosaki-city-yurai"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）4月、市町村制の実施に際して、弘前は全国の最初の市の一つとして市制を施行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hirosaki-city-gaiyo"
+     ]
+    },
+    {
+     "text": "平成18年（2006年）2月27日、弘前市・岩木町・相馬村が合併して現在の弘前市となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k2-hirosaki-city-gaiyo"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では、弘前市のコードは022021とされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "改名の日付は分かるのに、理由が分からない",
+    "text": "弘前の改名は、記録の残り方が少し皮肉である。寛永5年8月20日という日付は、改名した当の藩主・津軽信枚の日記『信枚君一代之自記』によって日単位で分かる。にもかかわらず、信枚がなぜ「弘前」の二文字を選んだのかは、どこにも書かれていない。「広崎」からの当て字とする説、「尾閭ヶ崎」から取ったとする説、外国人学者の唱えたアイヌ語説まで、後世の推測だけが積み重なってきた。日記に経緯を残さなかった藩主の沈黙が、400年後の市役所に「明らかではありません」という誠実な注意書きを書かせている。",
+    "sources": [
+     "k2-hirosaki-city-yurai",
+     "k2-hirosaki-city-gaiyo"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "「弘前」への改称理由は市公式の見解でも未確定（広崎説・尾閭ヶ崎説・アイヌ語説のいずれとも決められない）。",
+    "「高岡」の文書上の初出は本バッチでは確認できていない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-青森市",
+   "code": "022012",
+   "names": {
+    "ja": "青森市",
+    "reading": "あおもりし",
+    "aliases": [
+     "青森町"
+    ]
+   },
+   "user_terms": [
+    "青森市の名前の由来",
+    "青森は港町の名前",
+    "青森市はいつできた",
+    "青森の丘の名前"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "市名は江戸時代前期に弘前藩が開いた港町「青森」の継承である。青森市は、もと沿岸部に浜松が覆われた小高い丘が古くから「青森」と呼ばれていたことに由来すると説明し、県は船の目印になった青々とした森による命名を前面に出す。明治4年（1871年）に青森町が県庁所在地となり、明治31年（1898年）4月1日に市制施行した。",
+   "first_attestation": {
+    "era": "寛永2〜3年",
+    "year_western": null,
+    "document": "弘前藩の開港関係記録（連署奉書・黒印状）",
+    "note": "港町の成立・命名の時期。県レコード（pref/02）と同様に1624〜1626年の異同があり単年に確定できない"
+   },
+   "claims": [
+    {
+     "text": "青森市は、名の由来を「かつての沿岸部に浜松が覆われた小高い丘があり、そこが古くから『青森』と呼ばれていたことに由来するといわれている」と説明している。つまり藩が港町を名付ける前から、この一帯の小地名として「青森」があったとする説明である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-aomori-city"
+     ]
+    },
+    {
+     "text": "一方で青森県は、現在の青森市本町付近に青々と茂る森があり港に入る船の目印になっていたため「青森」と呼ばれるようになったと説明しており、命名の説明の力点は市と県で異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "a-cap-aomori-city",
+      "a-aom-pref-qa"
+     ]
+    },
+    {
+     "text": "寛永2年（1625年）、弘前藩2代藩主・津軽信枚は陸奥湾に面した現在の青森市中心部に新しい港町を作ることにし、寛永3年（1626年）4月6日に家臣の森山弥七郎へまちづくりを命じた、と青森市は述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-aomori-city"
+     ]
+    },
+    {
+     "text": "目印となった森は現在の青森市本町・県立郷土館周辺にあったとされ、港町の原点は現在の市中心部とほぼ重なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-aom-pref-qa"
+     ]
+    },
+    {
+     "text": "港町・青森は碁盤目状に作られ、その町割りは今と変わらないと青森市は述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-aomori-city"
+     ]
+    },
+    {
+     "text": "明治4年（1871年）に青森町は青森県の県庁所在地となり、明治31年（1898年）4月1日に青森町から青森市になった。市名は港町名の継承である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "a-cap-aomori-city"
+     ]
+    }
+   ],
+   "column": {
+    "title": "町が生まれる前からあった名前",
+    "text": "青森市の説明で面白いのは、「青森」が藩の発明ではないことです。松の生えた小高い丘が、港町ができる前から土地の人々に「青森」と呼ばれていた――藩はその呼び名をそのまま新しい港町の名前に採用しました。小地名→港町→県庁所在地→県名と、「青森」は3段階も出世した名前ですが、その第一歩は役所の命名ではなく、土地の日常の呼び方だったことになります。",
+    "sources": [
+     "a-cap-aomori-city"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "丘の小地名「青森」が開港以前の文書に現れるかの確認は未実施（市の説明は「古くから呼ばれていた」という伝聞の形）",
+    "開港・命名の年（1624年・1625年・1626年の異同）の決着は県レコードと同じく未確定"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/02-黒石市",
+   "code": "022047",
+   "names": {
+    "ja": "黒石市",
+    "reading": "くろいしし",
+    "aliases": [
+     "黒石",
+     "くろいし",
+     "久ろいし",
+     "黒石藩"
+    ]
+   },
+   "user_terms": [
+    "黒石",
+    "くろいし",
+    "こみせ通り",
+    "米とりんごのまち",
+    "黒石よされ"
+   ],
+   "naming_type": "その他（中世以来の地名を継承し、黒石藩の城下町として定着）",
+   "prefecture": "青森県",
+   "homonyms": [],
+   "summary": "「黒石」の名は中世の黒石郷に遡り、興国4年（1343年）の譲状に見えるのが最古の記録とされる。語源は、蝦夷の住む土地を指した「国栖（くにす）」などの転訛という見方が有力とされる。明暦2年（1656年）に津軽信英が5千石を分知されて黒石領が発足し陣屋の町となり、文化6年（1809年）に1万石となって黒石藩を立藩した。昭和29年（1954年）に市制を施行した。",
+   "first_attestation": {
+    "era": "興国4年",
+    "year_western": 1343,
+    "document": "工藤右衛門尉貞行の妻しれん尼の譲状",
+    "note": "「くろいしごう（黒石郷）」と見える（黒石観光協会の紹介による）。黒石郷の名自体はこれ以前から使われていたとされる"
+   },
+   "claims": [
+    {
+     "text": "黒石観光協会は、黒石の地名が記録に残る最古のものとして、興国4年（1343年）の譲状に「くろいしごう（黒石郷）」とあることを紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "t3-kuroishi-kanko-history"
+     ]
+    },
+    {
+     "text": "黒石市の景観計画は、天文15年（1546年）の「津軽郡中名字」にも「久ろいし」の名称が見えることを紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-kuroishi-city-keikan"
+     ]
+    },
+    {
+     "text": "語源については、蝦夷の住む土地を久慈須（くじす）・国栖（くにす）と称したことから、国栖が「くるし」を経て「くろいし」に転化したというのが大方の一致した見方であるが、起源ははっきりしないと観光協会は述べている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "t3-kuroishi-kanko-history"
+     ]
+    },
+    {
+     "text": "市の中心市街地活性化基本計画は、「黒石」の地名は鎌倉時代から出始めていると述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-kuroishi-city-chushin"
+     ]
+    },
+    {
+     "text": "明暦2年（1656年）、津軽信英が弘前藩から5千石を分知されて黒石領が発足し、黒石に陣屋を構えて町割りを行った",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-kuroishi-city-keikan"
+     ]
+    },
+    {
+     "text": "文化6年（1809年）に1万石へ加増され、改めて黒石藩を立藩した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-kuroishi-city-keikan"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）7月1日、黒石町のほか4村が合併し、県内で4番目の市として市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "t3-kuroishi-city-youran"
+     ]
+    },
+    {
+     "text": "黒石市の地方公共団体コードは022047である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "陣屋の町に残る「こみせ」",
+    "text": "黒石は城を持たない藩の町である。万石に満たない5千石の分知から始まった黒石領は、陣屋を中心に町割りされ、そのときに雪や雨を避けて歩ける小見世（こみせ）――店先に張り出した木造のアーケード――が整備されたとされる。豪雪の津軽で生まれたこの仕掛けは中町に今も残り、国の重要伝統的建造物群保存地区に選ばれている。地名の古さだけでなく、町並みそのものが近世の設計図を残している町である。",
+    "sources": [
+     "t3-kuroishi-city-keikan"
+    ]
+   },
+   "relations": [
+    "pref/02"
+   ],
+   "unknowns": [
+    "「黒い石」に由来するという俗説は、市および観光協会の資料では確認できなかった",
+    "興国4年（1343年）の譲状の原文は本バッチでは未確認で、観光協会の紹介によった"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

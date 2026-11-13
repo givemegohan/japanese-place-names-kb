@@ -1,0 +1,2534 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "b-cap-yoko-jlis": {
+   "label": "地方公共団体情報システム機構（J-LIS）「地方公共団体コード住所・神奈川県内市町村」",
+   "url": "https://www.j-lis.go.jp/spd/code-address/kantou/cms_13514181.html"
+  },
+  "b-cap-yoko-kaiko-plan": {
+   "label": "横浜市「横浜開港150周年〜市政120周年〜基本計画」",
+   "url": "https://www.city.yokohama.lg.jp/kanko-bunka/miryoku/kaiko150/about.files/0005_20180918.pdf"
+  },
+  "b-cap-yoko-kaiko150": {
+   "label": "横浜市公式「150周年記念事業とは（横浜開港150周年アーカイブ）」",
+   "url": "https://www.city.yokohama.lg.jp/kanko-bunka/miryoku/kaiko150/about.html"
+  },
+  "b-cap-yoko-kiyou": {
+   "label": "横浜市調査季報アーカイブ論考「安政の開港、平成の邂逅」（横浜市公式）",
+   "url": "https://www.city.yokohama.lg.jp/city-info/seisaku/torikumi/shien/tyousakihou/kihou-archive/136.files/0015_20191118.pdf"
+  },
+  "b-cap-yoko-naka-nenpyo": {
+   "label": "横浜市中区「中区歴史年表」（横浜市公式）",
+   "url": "https://www.city.yokohama.lg.jp/naka/kusei/koho/reference/chronology.files/0002_20200318.pdf"
+  },
+  "k1-kamakura-intro": {
+   "label": "鎌倉市「鎌倉市の紹介」",
+   "url": "https://www.city.kamakura.kanagawa.jp/shisei/gaiyou/intro.html"
+  },
+  "k1-kamakura-izakamakura": {
+   "label": "鎌倉市観光協会「いざ鎌倉『鎌倉の地名』」",
+   "url": "https://izakamakura.jp/?page_id=134"
+  },
+  "k1-kamakura-ndlref": {
+   "label": "国立国会図書館レファレンス協同データベース「『鎌倉』という地名の由来は何か。またいつごろから使われていたのか。」（回答：鎌倉市中央図書館）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000154081&page=ref_view"
+  },
+  "k1-kamakura-yurai": {
+   "label": "鎌倉市「地名由来」",
+   "url": "https://www.city.kamakura.kanagawa.jp/shisei/gaiyou/yurai.html"
+  },
+  "k1-kawasaki-chimei": {
+   "label": "日本地名研究所（川崎市委託調査）『川崎市 川崎区・幸区の町名の移り変わり』報告資料（2020年）",
+   "url": "https://www.city.kawasaki.jp/250/cmsfiles/contents/0000005/5013/r1_chimeihoukoku.pdf"
+  },
+  "k1-kawasaki-kusei50": {
+   "label": "川崎市川崎区『川崎区制50周年記念誌』",
+   "url": "https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000150/150054/kinenshi01.pdf"
+  },
+  "k1-kawasaki-seisaku": {
+   "label": "川崎市 政策資料（市制90周年・多摩川と川崎の由来）",
+   "url": "https://www.city.kawasaki.jp/170/cmsfiles/contents/0000062/62799/31seisaku.pdf"
+  },
+  "k1-kawasaki-suido": {
+   "label": "川崎市上下水道局『川崎市水道百年史』「川崎市の変遷」",
+   "url": "https://www.city.kawasaki.jp/800/cmsfiles/contents/0000139/139012/pageindices/index43.html"
+  },
+  "k1-sagamihara-archive": {
+   "label": "相模原市「さがみはらデジタルアーカイブ『市制施行70年 さがみはらの歴史』」",
+   "url": "https://digital-sagamihara.jp/special-contents/photos/history"
+  },
+  "k1-sagamihara-gappei": {
+   "label": "相模原市「相模原・津久井地域合併協議会資料『新市名称関連資料：「相模原」の歴史的背景』」",
+   "url": "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/524/05k-material-1.pdf"
+  },
+  "k1-sagamihara-ndlref": {
+   "label": "国立国会図書館レファレンス協同データベース「相模原市の地名の由来について知りたい。」（回答：相模原市立図書館）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000363632&page=ref_view"
+  },
+  "k1-sosa-suka": {
+   "label": "匝瑳市 公式資料「須賀地区の地名」（千葉県匝瑳市）",
+   "url": "https://www.city.sosa.lg.jp/data/doc/1554691947_doc_8_0.pdf"
+  },
+  "k1-yokosuka-gogen": {
+   "label": "語源由来辞典「横須賀市」",
+   "url": "https://gogen-yurai.jp/yokosuka-shi-kanagawa"
+  },
+  "k1-yokosuka-kotobank": {
+   "label": "コトバンク『日本歴史地名大系』「横須賀市」",
+   "url": "https://kotobank.jp/word/%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82-146037"
+  },
+  "k1-yokosuka-shisei110": {
+   "label": "横須賀市「市制施行110周年」",
+   "url": "https://www.city.yokosuka.kanagawa.jp/0510/hyoushou/siseisekou110.html"
+  },
+  "k1-yokosuka-zaidan": {
+   "label": "日本財団図書館『美しい都市景観の形成に関する研究』第1章「横須賀市の歩み」",
+   "url": "https://nippon.zaidan.info/seikabutsu/2001/00125/contents/00003.htm"
+  },
+  "k6-hakone-jinja": {
+   "label": "箱根神社公式「箱根神社・九頭龍神社・箱根元宮の由緒並に宝物と文化財」（『筥根山縁起并序』と757年の万巻上人による建立の社伝）",
+   "url": "https://hakonejinja.or.jp/hakone"
+  },
+  "k6-hakone-town-ayumi": {
+   "label": "箱根町「町のあゆみ」（町公式。1889年の1駅6村、1956年の5町村合併、関所と天下の険）",
+   "url": "https://www.town.hakone.kanagawa.jp/www/contents/1100000000353/index.html"
+  },
+  "k6-hakone-town-nenpyo": {
+   "label": "箱根町「町のあゆみ 年表（1956年〜1965年）」（1956年9月30日の合併と新町発足の人口・面積）",
+   "url": "https://www.town.hakone.kanagawa.jp/www/contents/1100000001054/index.html"
+  },
+  "l2-atsugi-tokei": {
+   "label": "厚木市「統計書」令和5年度版（市の沿革。1338年夢窓疎石書状の相州厚木郷が初見、アツメギ説とアイヌ語ヤオロケシ説、愛甲郡・大住郡、1889年の1町12か村への再編）",
+   "url": "https://www.city.atsugi.kanagawa.jp/material/files/group/9/tokeisho_r5ikkatsu.pdf"
+  },
+  "l2-fujisawa-tokei": {
+   "label": "藤沢市「統計年報 2023年版」藤沢市の沿革（藤沢の起源の諸説と淵沢転化説、天慶年間の文献登場、遊行寺の門前町と東海道藤沢宿、更級日記の西富）",
+   "url": "https://www.city.fujisawa.kanagawa.jp/documents/31642/2023zentai.pdf"
+  },
+  "l2-hiratsuka-city": {
+   "label": "平塚市公式ウェブサイト「平塚の基本情報 まちを知ろう」（市名の由来としての新編相模国風土記稿の伝承、東海道平塚宿、1932年の市制施行、塚の表記）",
+   "url": "https://www.city.hiratsuka.kanagawa.jp/shokai/page-c_00377.html"
+  },
+  "s5-odawara-city-castle": {
+   "label": "小田原市公式「小田原城」（前身は室町時代に西相模を支配した大森氏が築いた山城で、15世紀末に伊勢宗瑞（北条早雲）が進出し、以後北条氏が5代約100年にわたって本拠とし、天正18年（1590年）に豊臣秀吉の小田原攻めで滅亡したとする市公式解説）",
+   "url": "https://www.city.odawara.kanagawa.jp/kanko/corridor/castle/p09978.html"
+  },
+  "s5-odawara-city-gaiyo": {
+   "label": "小田原市公式資料「第1章 小田原市の概要」（「小田原」の地名の由来は明らかにされていないとし、確実な史料で確認できる最古の用例は嘉元3年（1305年）と推定される称名寺文書「某書状」の「をたはら」で、延慶3年（1310年）頃成立の『夫木和歌抄』にも収録されるとする市公式資料）",
+   "url": "https://www.city.odawara.kanagawa.jp/global-image/units/710484/1-20260326152505_b69c4d1417611d.pdf"
+  },
+  "s5-odawara-city-tanjo": {
+   "label": "小田原市公式「小田原市の誕生」（市制記念日は12月20日で、昭和15年（1940年）12月に市が誕生したとする市公式解説）",
+   "url": "http://www.city.odawara.kanagawa.jp/about/introduction/history/kinennbi.html"
+  },
+  "s5-odawara-uub": {
+   "label": "都道府県市区町村「小田原市（1940年〜）市区町村変遷情報」（1940年12月20日に小田原町・大窪村・早川村・足柄町が合併して小田原市が生まれたとする記録）",
+   "url": "https://uub.jp/upd/c/7234.html"
+  },
+  "s5-odawara-wiki": {
+   "label": "Wikipedia「小田原市」（古代の相模国足下郡の地で、古名を「こゆるぎ」といい「小由留木」「淘陵」などの字が宛てられ、「小田原」という地名は「小由留木」の草書体を読み間違えたものという説があることを紹介）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%B8%82"
+  },
+  "s6-ayase-city-kichi": {
+   "label": "綾瀬市「綾瀬市と厚木基地」（市の概要と沿革。明治22年に深谷・本蓼川・蓼川・寺尾・小園・早川・吉岡・上土棚の八カ村が合併して綾瀬村が誕生したこと、寛文13年に蓼川新田村が成立したこと、行政面積の18パーセント弱を厚木基地が占めること）",
+   "url": "https://www.city.ayase.kanagawa.jp/material/files/group/4/54170004.pdf"
+  },
+  "s6-ayase-gogen": {
+   "label": "語源由来辞典「綾瀬市」（「綾瀬」の名は1889年の合併時の新命名で、地名の由来は定かではないとし、綾をなす瀬の説、蓼川が綾瀬川と呼ばれていた説、養蚕が盛んだったことから綾に因んで命名された説を挙げること）",
+   "url": "https://gogen-yurai.jp/ayase-shi-kanagawa"
+  },
+  "s6-ayase-townnews": {
+   "label": "タウンニュース綾瀬版「市制40周年特別企画 綾瀬誕生130年の歴史辿る」（1978年11月1日に全国646番目、県下では一番若い19番目の市として人口5万9133人で誕生したこと）",
+   "url": "https://www.townnews.co.jp/0406/2018/01/01/413486.html"
+  },
+  "s6-ayase-wiki": {
+   "label": "Wikipedia「綾瀬市」（1889年4月1日に8村が合併して綾瀬村が成立、1945年4月1日に町制施行、1978年11月1日に市制施行という沿革）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%B6%BE%E7%80%AC%E5%B8%82"
+  },
+  "s6-chigasaki-city-hakubutsukan": {
+   "label": "茅ヶ崎市公式（博物館）「『茅ヶ崎』の地名の由来って？」（チガヤ（茅萱）の生い茂る砂州状の地形から「茅萱の御崎」が「茅ヶ崎」に変化したのではないかという地名伝承と、文明2年（1470年）の米良文書に平仮名で「ちかさき」と記されること）",
+   "url": "https://www.city.chigasaki.kanagawa.jp/bunka_rekishi/hakubutsukan/1042540/1042555/1042755.html"
+  },
+  "s6-chigasaki-city-hensen": {
+   "label": "茅ヶ崎市公式「茅ヶ崎の変遷」（1889年の市制町村制施行で茅ヶ崎村・松林村・鶴嶺村・小出村の4村に再編、1908年10月に茅ヶ崎町が誕生、1947年10月に市制施行、1955年4月に小出村が分村して合併）",
+   "url": "https://www.city.chigasaki.kanagawa.jp/bunka_rekishi/1027972/1027975/1028215/1027977.html"
+  },
+  "s6-chigasaki-city-yurai": {
+   "label": "茅ヶ崎市公式「茅ヶ崎村の由来」（地名が古文書に初めて現れるのは室町時代で、熊野神社の御師の文書に相模国の信者として「ちかさき」と見えること、戦国時代の『小田原衆所領役帳』に「茅ヶ崎」と書かれること、江戸時代の初めに茅ヶ崎村が生まれたこと）",
+   "url": "https://www.city.chigasaki.kanagawa.jp/bunka_rekishi/1027972/1027975/1028215/1028216.html"
+  },
+  "s6-ebina-city-gaiyou": {
+   "label": "海老名市「第1章 海老名市の概要」（市の変遷。1889年に北部9か村が合併して海老名村、南部8か村が合併して有馬村となり、1940年12月20日に海老名町、1955年7月20日に有馬村と合併、1971年11月1日に市制施行）",
+   "url": "https://www.city.ebina.kanagawa.jp/_res/projects/default_project/_page_/001/003/790/gaiyou.pdf"
+  },
+  "s6-ebina-city-kokubunji": {
+   "label": "海老名市公式「国指定史跡 史跡相模国分寺跡・尼寺跡」（相模国分寺跡が海老名駅の東側約500メートルの台地上にあること）",
+   "url": "https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/bunkazai/1006603/1000692.html"
+  },
+  "s6-ebina-kadokawa": {
+   "label": "『角川日本地名大辞典』「海老名」（JLogos収録。有鹿神社の神領を康平年間頃に村上源氏出自の海老名氏が押領して海老名郷と称したという、地名は大きな海老が生息していた土地の意ともいい「有鹿神社縁起」に「海老の大なる有るを以て」とあること）",
+   "url": "https://jlogos.com/ausp/word.html?id=7065962"
+  },
+  "s6-hadano-city-honpen": {
+   "label": "秦野市「第2章 秦野市の概要」（沿革。秦野盆地の開発には多くの渡来人系の人々が従事し、特に機織を業とする秦氏が中心であったところから「秦野」の地名の由来になったといわれていること、波多野庄は開発領主の波多野氏が摂関家に寄進したことに始まること）",
+   "url": "https://www.city.hadano.kanagawa.jp/material/files/group/3/honpen2.pdf"
+  },
+  "s6-hadano-kotobank": {
+   "label": "コトバンク「秦野市」（『日本歴史地名大系』と『ブリタニカ国際大百科事典』の解説。古代に秦氏の開拓した地と伝え秦河勝の来住も伝えること、『和名抄』東急本の余綾郡幡多郷（高山寺本では幡多野）、1955年の合体市制と大根村の一部編入、1963年の西秦野町編入）",
+   "url": "https://kotobank.jp/word/%E7%A7%A6%E9%87%8E%E5%B8%82-187531"
+  },
+  "s6-hadano-wiki": {
+   "label": "Wikipedia「秦野市」（『和名抄』に「波多野郷」とあり万葉仮名は清濁を区別することから本来「はたの」であったと考えられること、1889年に発足した「秦野」を冠する6町村のうち上秦野村だけが「はたの」としたこと）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E9%87%8E%E5%B8%82"
+  },
+  "s6-isehara-bunkazai-edo": {
+   "label": "伊勢原市文化財サイト「いせはらの歴史 江戸時代」（元和5年（1619年）に伊勢山田の曾右衛門と鎌倉の湯浅清左衛門が千手ケ原を拓き、伊勢神宮を勧請して鎮守としたことに始まると伝えること、大山の賑わい）",
+   "url": "https://www.city.isehara.kanagawa.jp/bunkazai/docs/2012100400831"
+  },
+  "s6-isehara-city-50th": {
+   "label": "伊勢原市「伊勢原市制施行50周年記念事業基本方針」（昭和29年12月1日に伊勢原町・大山町・高部屋村・比々多村・成瀬村・大田村の6町村が合併して伊勢原町となり、昭和46年3月1日に県内15番目の市として誕生した沿革）",
+   "url": "https://www.city.isehara.kanagawa.jp/docs/2019060400055"
+  },
+  "s6-isehara-city-intro": {
+   "label": "伊勢原市公式「市の紹介」（「市名について」として、江戸時代初期に伊勢山田の曽右衛門らが千手ヶ原を拓き、伊勢の国の人々が住みついたことから伊勢原の地名になったとする説明）",
+   "url": "https://www.city.isehara.kanagawa.jp/docs/2014090400013"
+  },
+  "s6-isehara-kita-spot": {
+   "label": "伊勢原市「伊勢原北地区ほっとスポット」（伊勢原大神宮について、湯浅清左衛門が新田開発を願い出て元和5年に草原を拓き、伊勢の大神宮を勧請して鎮守とした経緯。伊勢原市文化財課編集「いせはら史跡と文化財のまち」の引用を含む）",
+   "url": "https://www.city.isehara.kanagawa.jp/docs/2014112500035"
+  },
+  "s6-minamiashigara-city-history": {
+   "label": "南足柄市公式「南足柄市の歴史」（足柄峠と古道について『万葉集』や『更級日記』などに記述を見ることができること、9世紀の初めの富士山の噴火で一時通行が途絶えたこと）",
+   "url": "https://www.city.minamiashigara.kanagawa.jp/machi/syoukai/rekishi.html"
+  },
+  "s6-minamiashigara-kintaro": {
+   "label": "南足柄市公式「金太郎伝説」（地蔵堂地区の四万長者伝説、金太郎生家跡・夕日の滝などの伝説地、「足柄山の金太郎」の紹介）",
+   "url": "https://www.city.minamiashigara.kanagawa.jp/kankou/kintaro/kintarodensetu.html"
+  },
+  "s6-minamiashigara-localwiki": {
+   "label": "LocalWiki「南足柄」（『神奈川県町村合併誌』等の記述に基づく南足柄町・福沢村の沿革。1940年の町制、1955年の合併で新町名を「足柄山と足柄明神の南方に広がる境域にあるから」とした理由、1972年の市制）",
+   "url": "https://ja.localwiki.org/minamiashigara/_explore"
+  },
+  "s6-miura-city-about": {
+   "label": "三浦市公式「三浦市について」（市の歴史と、昭和30年1月1日に三崎町・南下浦町・初声村が合併して三浦市となった沿革）",
+   "url": "https://www.city.miura.kanagawa.jp/soshiki/seisakuka/seisakuka_hisho/aboutmiura.html"
+  },
+  "s6-miura-city-chimei": {
+   "label": "三浦市「三浦の地名はどこから？？？」（市の教材資料。『日本書紀』に「御浦」の表記で登場すること、三方を海に面することからの説、初声の伝説）",
+   "url": "https://www.city.miura.kanagawa.jp/material/files/group/24/chimei.pdf"
+  },
+  "s6-miura-kotobank-chimei": {
+   "label": "コトバンク「三浦市」（『日本歴史地名大系』の解説。『日本書紀』持統天皇6年条に「御浦郡」とあること、古代には御浦、中世以降は三浦と記されること）",
+   "url": "https://kotobank.jp/word/%E4%B8%89%E6%B5%A6%E5%B8%82-138209"
+  },
+  "s6-miura-kotobank-kokugo": {
+   "label": "コトバンク「三浦」（『精選版 日本国語大辞典』の解説。郡名は古くは御浦と書き、初出の実例として二十巻本『和名類聚抄』の「御浦〈美宇良〉」を引くこと）",
+   "url": "https://kotobank.jp/word/%E4%B8%89%E6%B5%A6-514806"
+  },
+  "s6-yamato-gaikyo": {
+   "label": "大和市「大和市の概況について」（沿革表。明治24年9月の大和村誕生、昭和34年2月1日の市制施行は県下14番目。町制施行は「昭和19年11月」とする）",
+   "url": "https://www.city.yamato.lg.jp/material/files/group/46/000109381.pdf"
+  },
+  "s6-yamato-shobo": {
+   "label": "大和市「消防年報」（市のあゆみ。鶴見村の分村問題を収拾するため明治24年9月に「大いなる和」の願いを込めて大和村と改称したこと、昭和18年11月3日の町制施行、昭和30年4月の渋谷町の分割、昭和31年9月の渋谷村合併、昭和34年2月1日に県内14番目の市として市制を施行したこと）",
+   "url": "https://www.city.yamato.lg.jp/material/files/group/69/00_r4_shoubounenpou.pdf"
+  },
+  "s6-yamato-tokei": {
+   "label": "大和市「統計概要 令和4年版」（「大和市のあゆみ」。明治22年に下鶴間・深見・上草柳・下草柳の4村が合併して鶴見村となり、村名について村内が折り合わず、明治24年9月に「大きく和する」というところから大和村と改称したこと）",
+   "url": "https://www.city.yamato.lg.jp/material/files/group/10/r4gaiyou00.pdf"
+  },
+  "s6-yokosuka-kids-miura": {
+   "label": "横須賀市「ゆかりの人物（三浦一族）」（横須賀市公式の資料。村岡為通が三浦半島の地をもらい衣笠を拠点として三浦の姓を名乗ったのが三浦氏の始まりと伝えること）",
+   "url": "https://www.city.yokosuka.kanagawa.jp/2120/culture_info/kids/documents/yukarinojinbutu_1.pdf"
+  },
+  "s6-zama-city-gaiyou": {
+   "label": "座間市「第1章 座間市の概要」（市の変遷。明治22年に座間入谷村・座間宿村・栗原村・新田宿村・四ツ谷村の5か村が合併して座間村になったこと、昭和11年に陸軍士官学校の移転用地買収の意向が伝えられ昭和12年に移転してきたこと）",
+   "url": "https://www.city.zama.kanagawa.jp/_res/projects/default_project/_page_/001/004/239/02gaiyou.pdf"
+  },
+  "s6-zama-city-tochi": {
+   "label": "座間市統計書「1 土地、気象」（市域の変遷表。1889年の座間村成立、1937年12月20日の町制、1941年の相模原町への合併、1948年9月1日の分離独立、1971年11月1日に県下17番目の市として市制施行）",
+   "url": "https://www.city.zama.kanagawa.jp/_res/projects/default_project/_page_/001/003/669/tochi-kisho.pdf"
+  },
+  "s6-zama-kotobank": {
+   "label": "コトバンク「座間市」（『日本歴史地名大系』と『ブリタニカ国際大百科事典』の解説。『続日本紀』宝亀2年条の相模国夷参駅と『和名抄』の伊参郷がこの地に比定され地名の起源にもなったとされること、夷参駅が伊佐間となり伊を略して呼ばれたことにちなむという説）",
+   "url": "https://kotobank.jp/word/%E5%BA%A7%E9%96%93%E5%B8%82-69709"
+  },
+  "s6-zushi-city-history": {
+   "label": "逗子市公式「市の歴史」（町村制施行により7か村が合併して田越村、1913年に町制施行して逗子町、1943年に横須賀市へ編入、1950年7月1日に住民の総意により分離独立して逗子町、1954年4月15日に県下9番目の市として市制施行）",
+   "url": "https://www.city.zushi.kanagawa.jp/shisei/abotzushi/1005032.html"
+  },
+  "s6-zushi-library-ref": {
+   "label": "逗子市立図書館レファレンス事例「逗子の地名の由来」（由来は諸説ありとして三浦厨子城の厨子、延命寺の延命地蔵尊を安置する厨子、役人である図師の住まい等の説を挙げ、『日本歴史地名大系』が豆師・図師・厨子・豆子の字があてられ俗説では延命寺の延命地蔵尊の厨子から出た地名というとすることを紹介）",
+   "url": "https://www.library.city.zushi.lg.jp/referencedetail?num=1964276"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/14-三浦市",
+   "code": "142107",
+   "names": {
+    "ja": "三浦市",
+    "reading": "みうらし",
+    "aliases": [
+     "御浦",
+     "三崎町"
+    ]
+   },
+   "user_terms": [
+    "三浦半島の先端の市",
+    "三崎港のまち",
+    "三浦海岸",
+    "マグロの三崎",
+    "三浦市の名前の由来"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「三浦」の名は古代の「御浦」に由来し、『日本書紀』や『和名類聚抄』に御浦郡として現れる。漢字表記は中世以降「三浦」に変わり、平安末期にはこの地を領した武士団が地名を名字として三浦氏を名乗った。現在の三浦市は1955年に三崎町・南下浦町・初声村が合併して生まれ、旧三浦郡の名をそのまま市名に採った。",
+   "first_attestation": {
+    "era": "持統天皇6年",
+    "year_western": 692,
+    "document": "『日本書紀』",
+    "note": "『日本歴史地名大系』が紹介する「御浦郡」の用例。読みは「みうら」で、この頃の表記は「御浦」"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、三浦市の団体コードは142107と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』によれば、『日本書紀』持統天皇6年（692年）5月7日条に「御浦郡」とあり、古代には御浦と記され、中世以降は三浦と記される",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-miura-kotobank-chimei"
+     ]
+    },
+    {
+     "text": "『精選版 日本国語大辞典』の「三浦」の項は、郡名は古くは御浦と書いたとし、初出の実例として二十巻本『和名類聚抄』（934年頃）の「相模国 御浦〈美宇良〉」を挙げる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-miura-kotobank-kokugo"
+     ]
+    },
+    {
+     "text": "三浦市の教材資料は、「みうら」という地名は『日本書紀』の中に「御浦」という表記で登場し、1300年も前から存在すると紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-miura-city-chimei"
+     ]
+    },
+    {
+     "text": "同じく三浦市の教材資料は、三浦半島が東・西・南の三方を海（浦）に面していることから「三浦」と呼ぶようになったという説も紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "s6-miura-city-chimei"
+     ]
+    },
+    {
+     "text": "横須賀市の資料によれば、三浦氏の始祖とされる村岡為通は東国の争乱での活躍の恩賞として三浦半島の土地をもらい、衣笠を拠点として三浦の姓を名乗ったと伝えられ、地名の「三浦」が名字に先行する",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yokosuka-kids-miura"
+     ]
+    },
+    {
+     "text": "三浦市によれば、鎌倉時代初期には和田義盛をはじめとする三浦一族が活躍した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-miura-city-about"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）1月1日、三崎町・南下浦町・初声村が合併して三浦市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-miura-city-about"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「御」から「三」へ、1300年読み継がれた「みうら」",
+    "text": "「みうら」という読みは、奈良時代にはすでに「御浦」と書かれて記録に残っていました。やがて漢字は「三浦」に置き換わりますが、読みはそのまま残ります。なぜ「三」になったのかには、三浦半島が東・西・南の三方を海に囲まれているからだという説明があります。さらに平安時代の末には、この地を領した武士の一族が地名をそのまま名字にして「三浦氏」を名乗りました。地名が先にあり、名字が後に続いたのです。1955年に生まれた市が郡の名を受け継いだことで、「みうら」は1300年以上も読み継がれることになりました。",
+    "sources": [
+     "s6-miura-kotobank-chimei",
+     "s6-miura-city-chimei",
+     "s6-yokosuka-kids-miura"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-横須賀市"
+   ],
+   "unknowns": [
+    "「御浦」から「三浦」への表記の変更がいつ・なぜ行われたかは、確認した資料では確定できなかった",
+    "三方を海に面していることから「三浦」になったという説の典拠となる古い文献は確認できなかった",
+    "三浦氏が地名を名字とした経緯を、三浦市自身の公式資料では確認できなかった（横須賀市の公式資料で代替した）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-伊勢原市",
+   "code": "142140",
+   "names": {
+    "ja": "伊勢原市",
+    "reading": "いせはらし",
+    "aliases": [
+     "伊勢原町",
+     "千手ヶ原"
+    ]
+   },
+   "user_terms": [
+    "大山のふもとの市",
+    "大山詣りの玄関口",
+    "伊勢原市の名前の由来",
+    "道灌まつりの市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "伊勢原は、江戸時代初期に大山参りの人々が行き来する千手ヶ原の新田開発から生まれた地名と伝えられる。伊勢山田の曽右衛門らが原野を拓いて伊勢神宮を勧請し、やがて伊勢の国の人々が住みついたことから「伊勢原」になったという。1954年に6町村が合併して伊勢原町となり、1971年に県内15番目の市として市制を施行した。",
+   "first_attestation": {
+    "era": "元和5年",
+    "year_western": 1619,
+    "document": "伊勢原市文化財サイトが伝える千手ヶ原開発の年",
+    "note": "地名「伊勢原」の起こりとされる年（元和6年ともいわれる）。「伊勢原」という村名の文献上の確かな初出そのものは確認できていない"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、伊勢原市の団体コードは142140と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "伊勢原市は「市名について」として、江戸時代初期、大山参りに来た伊勢山田の曽右衛門らにより千手ヶ原が拓かれ、やがて伊勢の国の人々がこの地に住みついたことから伊勢原の地名になったと言われていると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-isehara-city-intro"
+     ]
+    },
+    {
+     "text": "市の文化財サイトによれば、「伊勢原」の名は元和5年（1619年）（元和6年ともいわれる）に、伊勢山田の曾右衛門と鎌倉の湯浅清左衛門が千手ケ原を拓き、伊勢神宮を勧請して鎮守としたことに始まると伝えられている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-isehara-bunkazai-edo"
+     ]
+    },
+    {
+     "text": "伊勢原大神宮について市の資料は、湯浅清左衛門が幕府に新田の開発を願い出て元和5年（1619年）に草原を拓いて住みつき、伊勢宇治山田からやってきた曾右衛門とともに開発を成功させると、その故郷の伊勢の大神宮を勧請し鎮守としたと紹介し、「伊勢原」の名はここから起こったといわれているとする",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-isehara-kita-spot"
+     ]
+    },
+    {
+     "text": "市の文化財サイトは、江戸時代の大山について、徳川家康が大山寺の改革に乗り出して寺領100石を寄進するなど、大山詣り（大山参り）の信仰の地として賑わったことを紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-isehara-bunkazai-edo"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）12月1日、伊勢原町・大山町・高部屋村・比々多村・成瀬村・大田村の6町村が合併して、新しい伊勢原町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-isehara-city-50th"
+     ]
+    },
+    {
+     "text": "昭和46年（1971年）3月1日、市制を施行して神奈川県内15番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-isehara-city-50th"
+     ]
+    }
+   ],
+   "column": {
+    "title": "大山参りの途中に根付いた、遠く伊勢の名前",
+    "text": "伊勢原の中心は、もとは「千手ヶ原」と呼ばれる松原でした。大山参りの途中で目をつけた湯浅清左衛門が新田開発を進め、伊勢山田から来た曾右衛門らとともに原野を拓いたといいます。開拓者たちは故郷の伊勢神宮を勧請して鎮守とし、やがて伊勢の国の人々が住みつくようになって「伊勢原」と呼ばれるようになったと市は伝えます。相模の国の原野に、はるか伊勢の名前が根付いたのは、信仰の山・大山への参詣路が生んだ人の移動の結果でした。",
+    "sources": [
+     "s6-isehara-city-intro",
+     "s6-isehara-kita-spot"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-秦野市",
+    "muni/14-平塚市"
+   ],
+   "unknowns": [
+    "「伊勢原」という村名の文献上の初出は確認できなかった",
+    "千手ヶ原の開発年は元和5年と元和6年の両説があり、確定できなかった",
+    "曾右衛門らの開拓の物語は伝承として伝えられており、同時代の文書による裏付けは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-南足柄市",
+   "code": "142174",
+   "names": {
+    "ja": "南足柄市",
+    "reading": "みなみあしがらし",
+    "aliases": [
+     "南足柄町",
+     "南足柄村"
+    ]
+   },
+   "user_terms": [
+    "金太郎のふるさと",
+    "足柄峠のふもと",
+    "南足柄市の名前の由来",
+    "大雄山線のまち"
+   ],
+   "naming_type": "その他",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「足柄」は、『万葉集』にも詠まれた足柄の坂（足柄峠）と古代の相模国足柄郡にさかのぼる古い地名である。「南」は方角を示し、1955年の合併で新町名とする際の理由として「足柄山と足柄明神の南方に広がる境域にあるから」と説明された。1972年に市制を施行した。足柄山の金太郎伝説の舞台として知られる。",
+   "first_attestation": {
+    "era": "奈良時代",
+    "year_western": null,
+    "document": "『万葉集』",
+    "note": "足柄（あしがら・あしがり）を詠んだ歌が巻14の東歌や巻20の防人歌にみえる。「南足柄」という名そのものの初出ではない"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、南足柄市の団体コードは142174と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "南足柄市は、足柄峠や古道について『万葉集』や『更級日記』などに記述を見ることができると紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-city-history"
+     ]
+    },
+    {
+     "text": "市の歴史ページによれば、9世紀の初めに起きた富士山の噴火で足柄路の通行が一時途絶えたものの、1年で復旧し、その後も活用された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-city-history"
+     ]
+    },
+    {
+     "text": "『神奈川県町村合併誌』に基づく沿革資料によれば、昭和15年（1940年）4月1日、南足柄村が町制を施行して南足柄町となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-localwiki"
+     ]
+    },
+    {
+     "text": "同資料によれば、昭和30年（1955年）4月1日に南足柄町・福沢村・岡本村と北足柄村のうち内山・矢倉沢が合併して新しい南足柄町が発足し、新町名は「足柄山と足柄明神の南方に広がる境域にあるから」という理由で「南足柄町」とした",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-localwiki"
+     ]
+    },
+    {
+     "text": "昭和47年（1972年）4月1日に市制を施行して南足柄市となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-localwiki"
+     ]
+    },
+    {
+     "text": "南足柄市は、地蔵堂地区に四万長者がおり、その娘・八重桐が産んだ子どもが金太郎だという伝説を伝えており、金太郎生家跡や産湯伝説のある夕日の滝などの伝説地を紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-kintaro"
+     ]
+    },
+    {
+     "text": "南足柄市は「足柄山の金太郎」のふるさととして、金太郎のシンボルマークや像、まつりなど、金太郎をまちの顔として積極的に取り入れている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-minamiashigara-kintaro"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「南」は1955年につけ直された方角",
+    "text": "「南足柄」という名は、古くからあった村の名前そのままではありません。1955年の合併で新しい町の名を決める際、「足柄山と足柄明神の南方に広がる境域にあるから」という理由で「南足柄」が選ばれたと、県の合併誌に基づく資料は伝えています。合併相手には北足柄村も含まれていたのに、あえて「南」を名乗ったのは、足柄という大きな地名の南側という位置を名前に刻むためでした。古代の東海道・足柄の坂の名が、方角の接頭語と組み合わされて現代の市名になっています。",
+    "sources": [
+     "s6-minamiashigara-localwiki",
+     "s6-minamiashigara-city-history"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "「足柄」の語源（アシガラの原義）は、今回参照した専門辞典・市公式資料では確認できなかった",
+    "南足柄村が成立した年と町村制時点の構成村は確認できなかった",
+    "古代の足柄の関（関所）の所在地の比定は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-厚木市",
+   "code": "142123",
+   "names": {
+    "ja": "厚木市",
+    "reading": "あつぎし",
+    "aliases": [
+     "厚木郷",
+     "厚木町"
+    ]
+   },
+   "user_terms": [
+    "厚木市の名前の由来",
+    "厚木の語源に定説はあるのか",
+    "本厚木駅のある市",
+    "厚木はいつから厚木と呼ばれるのか"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「あつぎ」の初見は建武5年（1338）の夢窓疎石の書状に記された「相州厚木郷」とされる。語源には木材の集散地を意味する「アツメギ（集め木）」から変化したという説と、アイヌ語の「ヤオロケシ（寄木）」によるとする説があるが、市の統計書も「定説とはなっていない」とする。1955年に厚木町など5町村の合併で市制を施行した。",
+   "first_attestation": {
+    "era": "建武5年",
+    "year_western": 1338,
+    "document": "夢窓疎石書状",
+    "note": "臨済宗の僧・夢窓疎石から足利尊氏の執事・高師直に宛てた書状に「相州厚木郷」とあるのが初見と市統計書が述べる"
+   },
+   "claims": [
+    {
+     "text": "「あつぎ」の地名が資料に見えるのは南北朝時代の建武5年（1338）で、夢窓疎石から高師直に宛てた書状に「相州厚木郷」とあるのが初見である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-atsugi-tokei"
+     ]
+    },
+    {
+     "text": "「あつぎ」の由来は、木材の集散地を意味するアツメギ（集め木）から変化したという説や、アイヌ語のヤオロケシ（寄木）から付けられたとも言われているが、定説とはなっていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "l2-atsugi-tokei"
+     ]
+    },
+    {
+     "text": "律令制のもとで市域は相模国愛甲郡・大住郡に属し、中世には愛甲氏・毛利氏・本間氏など在地の武士団の活動の地となり、愛甲荘・毛利荘などの荘園も成立した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-atsugi-tokei"
+     ]
+    },
+    {
+     "text": "明治22年（1889）には市町村の合併によって、江戸時代の36か村が厚木町・南毛利村など1町12か村にまとめられた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-atsugi-tokei"
+     ]
+    },
+    {
+     "text": "昭和30年（1955）2月1日、厚木町・南毛利村・小鮎村・玉川村・睦合村の合併により厚木市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-atsugi-tokei"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、厚木市の団体コードは142123と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "定説のない「あつぎ」",
+    "text": "厚木の名前は、少なくとも1338年の書状まで遡れることが分かっています。臨済宗の高僧・夢窓疎石が、足利尊氏の執事・高師直に宛てた手紙に「相州厚木郷」と書いたのが初見です。ところが、それが何を意味する名前だったのかは、今も決着していません。木材を集める場所「集め木（アツメギ）」が縮んだという説、流れ着いた木を意味するアイヌ語「ヤオロケシ」から来たという説。市の統計書は両説を挙げた上で「定説とはなっていない」と明記します。700年近く使われてきた名前の意味が未解決のまま残っていること自体が、地名研究の正直な現在地です。",
+    "sources": [
+     "l2-atsugi-tokei"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "語源は市の統計書自身が「定説とはなっていない」としており、アツメギ説・アイヌ語説のいずれとも決着していない",
+    "建武5年（1338）以前の「厚木」の用例の有無は、専門の地名辞典では本バッチで確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-大和市",
+   "code": "142131",
+   "names": {
+    "ja": "大和市",
+    "reading": "やまとし",
+    "aliases": [
+     "鶴見村",
+     "大和村",
+     "大和町"
+    ]
+   },
+   "user_terms": [
+    "厚木基地のまち",
+    "大和市の名前の由来",
+    "神奈川の大和",
+    "やまとの由来は大きく和する"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「大和」の名は、明治時代の合併村の改称で生まれた。1889年に下鶴間・深見・上草柳・下草柳の4村が合併して鶴見村となったが、村名について村内が折り合わず、1891年9月に「大きく和する」という願いを込めて大和村と改称した。海軍施設が進出して軍都の色彩を濃くした時期に町制を施行したが、改称自体はそれより半世紀早い。1959年に県内14番目の市となった。",
+   "first_attestation": {
+    "era": "明治24年",
+    "year_western": 1891,
+    "document": "鶴見村から大和村への改称（大和市公式資料が伝える）",
+    "note": "地名「大和」の初出はこの改称による。古代日本の中心地を指した大和（奈良）とは直接の関係のない命名"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、大和市の団体コードは142131と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "大和市の統計概要によれば、明治22年（1889年）4月、町村制の実施の際に下鶴間・深見・上草柳・下草柳の4村が合併して鶴見村となり、現在の大和市の基礎が形成された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yamato-tokei"
+     ]
+    },
+    {
+     "text": "同資料によれば、旧村の名称は大字として残したが、村名について村内が折り合わず、明治24年（1891年）9月、村中が「大きく和する」というところから大和村と改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yamato-tokei"
+     ]
+    },
+    {
+     "text": "大和市の消防年報も、鶴見村では分村問題が発生し、それを収拾するため明治24年（1891年）9月に「大いなる和」の願いを込めて村名を大和村と改称し、ここに「大和」の名称が誕生したと記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yamato-shobo"
+     ]
+    },
+    {
+     "text": "大和村の町制施行の年は市の公式資料の中でも分かれており、消防年報は昭和18年（1943年）11月3日に大和村が町制を施行したとし、市の概況資料の沿革表は町制施行を「昭和19年（1944年）11月」とする",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "s6-yamato-shobo",
+      "s6-yamato-gaikyo"
+     ]
+    },
+    {
+     "text": "消防年報によれば、昭和30年（1955年）4月、渋谷町の長後・高倉が藤沢市に編入され、福田・上和田・下和田が渋谷村となり、翌1956年9月に大和町に渋谷村が合併した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yamato-shobo"
+     ]
+    },
+    {
+     "text": "昭和34年（1959年）2月1日、県内14番目の市として市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yamato-shobo"
+     ]
+    },
+    {
+     "text": "昭和17年（1942年）に相模野海軍航空隊、昭和18年（1943年）に高座海軍工廠が設置されて軍都の色彩を濃くしたが、「大和」への改称は1891年のことであり、海軍の進出とは関係がない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-yamato-shobo",
+      "s6-yamato-tokei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "村のケンカを収めるために生まれた「大きく和する」",
+    "text": "1889年に4つの村が合併してできた鶴見村は、村の名前をめぐって内輪が折り合わず、分村の危機にまで発展しました。1891年9月、村は「大きく和する」という願いを込めて「大和村」に改称します。どの旧村の名前でもない、まったく新しい名前を選ぶことで対立を収めたのです。半世紀後に海軍の施設が進出すると、「大和」は戦艦大和を連想させる名前になりましたが、命名の理由はあくまで村の和合でした。合併で揉めるたびに新しい名前を作るという知恵は、明治の村にもあったのです。",
+    "sources": [
+     "s6-yamato-tokei",
+     "s6-yamato-shobo"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-綾瀬市",
+    "muni/14-座間市"
+   ],
+   "unknowns": [
+    "鶴見村の「鶴見」の名の由来（構成した旧村の名前の合成かどうか）は、市公式資料では確認できなかった",
+    "町制施行年の資料間の相違（1943年と1944年）は、今回の調査では決着できなかった",
+    "改称を主導した人物については、県知事の命名とする紹介も世上にあるが、大和市の公式資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-小田原市",
+   "code": "142069",
+   "names": {
+    "ja": "小田原市",
+    "reading": "おだわらし",
+    "aliases": [
+     "小田原町",
+     "こゆるぎ",
+     "小由留木",
+     "をたはら"
+    ]
+   },
+   "user_terms": [
+    "おだわら",
+    "小田原城の城下町",
+    "後北条氏の本拠地",
+    "小田原評定のまち",
+    "箱根の玄関口"
+   ],
+   "naming_type": "その他",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "神奈川県西部の中心都市で、戦国時代には後北条氏5代の本拠・小田原城の城下町として栄えた。「小田原」の地名は14世紀初頭の史料に「をたはら」と確認できるが、その由来は小田原市自身の公式資料でも「明らかにされていません」と明言されている。古代のこの地の名「こゆるぎ（小由留木）」の草書体を読み誤ったとする説が伝えられるものの、定説はない。昭和15年（1940年）12月20日に合併と同時に市制を施行した。",
+   "first_attestation": {
+    "era": "嘉元3年",
+    "year_western": 1305,
+    "document": "称名寺文書「某書状」",
+    "note": "嘉元3年（1305年）と推定される称名寺文書の書状にみられる「をたはら」が、確実な史料で確認できる最古の用例であると市の公式資料は述べる。同時期の『夫木和歌抄』（延慶3年・1310年頃成立）にも「をたはら」が収録されており、14世紀初頭には地名が成立していたと考えられている（二次資料経由の確認）"
+   },
+   "claims": [
+    {
+     "text": "小田原市の地方公共団体コードは142069である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "小田原市は昭和15年（1940年）12月20日、小田原町・足柄町・大窪村・早川村などが合併し、同時に市制を施行して誕生した。市制記念日は12月20日である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-odawara-city-tanjo",
+      "s5-odawara-uub"
+     ]
+    },
+    {
+     "text": "この地が「小田原」となった由来については明らかにされていないと、小田原市自身の公式資料が明言している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "s5-odawara-city-gaiyo"
+     ]
+    },
+    {
+     "text": "確実な史料で確認できる「小田原」の最古の用例は、嘉元3年（1305年）と推定される称名寺文書「某書状」にみられる「をたはら」であり、延慶3年（1310年）頃成立の『夫木和歌抄』にも「をたはら」が収録されていることから、14世紀初頭には「小田原」の地名が誕生していたと考えられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-odawara-city-gaiyo"
+     ]
+    },
+    {
+     "text": "古代の相模国足下郡にあたるこの地の古名は「こゆるぎ」で、「小由留木」「淘陵」などの字が宛てられており、「小田原」という地名は「小由留木」の草書体を読み間違えたものという説があることが紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "s5-odawara-wiki"
+     ]
+    },
+    {
+     "text": "小田原城の前身は室町時代に西相模一帯を支配していた大森氏が築いた山城で、15世紀末に伊勢宗瑞（後の北条早雲）が小田原に進出し、以後、北条氏が5代約100年にわたって関東支配の中心拠点とした",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-odawara-city-castle"
+     ]
+    },
+    {
+     "text": "天正18年（1590年）、豊臣秀吉の小田原攻めにより後北条氏は滅亡し、小田原は徳川家康に従った大久保氏の城下町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-odawara-city-castle"
+     ]
+    }
+   ],
+   "column": {
+    "title": "結論の出ない会議「小田原評定」のふるさと",
+    "text": "「小田原評定」といえば、いまでは結論の出ない長会議の代名詞である。その由来は1590年、豊臣秀吉の大軍に包囲された小田原城の中で、北条方が籠城か和議かをめぐって評議を重ね、結論を引き延ばし続けたことに求められる。戦国最大級の城下町を築いた名家の最期の迷走が、地名を冠した慣用句として日本語に残ったのは皮肉だが、それだけ当時の小田原が全国の注目を集める場所だった証しでもある。なお肝心の「小田原」という地名そのものの由来は、市の公式資料が「明らかにされていません」と明言するほどの謎である。日本史に名高いまちの名前が、実はいまだに分からない、というのもまた面白い。",
+    "sources": [
+     "s5-odawara-city-gaiyo",
+     "s5-odawara-city-castle"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "「小田原」の語源は市の公式資料でも「明らかにされていません」とされ、「小由留木」の読み誤り説を含め定説は確認できなかった",
+    "称名寺文書「某書状」の原文は二次資料経由でしか確認できていない",
+    "中世の「小田原宿」が東海道の宿として成立した経緯と地名の広がりの関係は、市史の通史編そのものでは未確認である"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-川崎市",
+   "code": "141305",
+   "names": {
+    "ja": "川崎市",
+    "reading": "かわさきし",
+    "aliases": [
+     "川崎町",
+     "川崎宿",
+     "河崎"
+    ]
+   },
+   "user_terms": [
+    "川崎市の名前の由来",
+    "川崎はなぜ川崎というのか",
+    "川崎大師の川崎",
+    "川崎宿のあったまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "市名は東海道の宿場町・川崎宿に発達した川崎町の名を受け継いだものである。「川崎」は平安時代後期の文献に「河崎」と現れる古い地名で、川崎市は「川の先」、すなわち多摩川の河口近くに位置していたことに由来すると説明する。大正13年（1924年）に川崎町・大師町・御幸村が合併して川崎市が誕生した。",
+   "first_attestation": {
+    "era": "平安時代後期",
+    "year_western": null,
+    "document": "「河崎冠者基家」の名乗り（『川崎市水道百年史』が紹介）",
+    "note": "この地に移って荘園を開いた秩父基家が地名をとって「河崎冠者」と名乗ったのが文献上の初めと市は伝える。当時は「河崎」と書かれた"
+   },
+   "claims": [
+    {
+     "text": "『川崎市水道百年史』によれば、「川崎」という地名が文献に登場するのは平安時代後期のことで、この地に移って荘園を開いた秩父基家が地名をとって「河崎冠者基家」と名乗ったことに始まるといわれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kawasaki-suido"
+     ]
+    },
+    {
+     "text": "「川崎」の由来について、川崎市は「川の先」、すなわち多摩川の河口近くに位置していたことによる名であると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kawasaki-seisaku"
+     ]
+    },
+    {
+     "text": "元和9年（1623年）、久根崎・砂子・小土呂・新宿の各地区をもって川崎宿が東海道の宿駅の一つに加えられ、多摩川の六郷の渡しを控える宿場として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kawasaki-suido",
+      "k1-kawasaki-chimei"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村制施行の際、新宿・砂子・小土呂・久根崎と堀之内を合わせて川崎町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kawasaki-suido"
+     ]
+    },
+    {
+     "text": "大正13年（1924年）7月1日、川崎町・大師町・御幸村が合併して川崎市が誕生した。当時の人口は約4万8,000人だった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kawasaki-seisaku"
+     ]
+    },
+    {
+     "text": "市制の発足は当初大正12年（1923年）に目指されたが、関東大震災の発生と、大師河原村が町制を施行してから合併したいという事情のため、翌大正13年にずれ込んだ",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kawasaki-kusei50"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、川崎市のコードは141305と定められている（J-LISの神奈川県内市町村一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-jlis"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市制は震災で1年延びた",
+    "text": "川崎の市制は、本来なら大正12年（1923年）に始まるはずだった。ところが同年9月に関東大震災が発生し、さらに合併相手の大師河原村が「まず町になってから合流したい」と望んだため、発足は大正13年7月1日にずれ込んだ。川崎大師の門前町である大師町と、東海道の宿場町だった川崎町、多摩川沿いの農村だった御幸村という、性格の違う3町村の合併で生まれた市である。誕生時の人口は約4万8,000人で、その後の100年で30倍を超える大都市に成長した。",
+    "sources": [
+     "k1-kawasaki-kusei50",
+     "k1-kawasaki-seisaku"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "「川の先」説以外の語源説（「川の崎」など）については、本バッチでは専門文献の裏付けが取れなかった",
+    "平安時代後期の「河崎」の一次資料そのものは未読で、市史の紹介による記録にとどまる"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-平塚市",
+   "code": "142034",
+   "names": {
+    "ja": "平塚市",
+    "reading": "ひらつかし",
+    "aliases": [
+     "平塚宿",
+     "平塚町"
+    ]
+   },
+   "user_terms": [
+    "平塚市の名前の由来",
+    "平塚の塚とは何か",
+    "平塚八幡宮と地名",
+    "湘南ひらつか七夕まつりの市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「平塚」の名の起こりとして知られるのは、皇族の墓の封土が崩れて平らになったことに由来するという伝承で、江戸時代の『新編相模国風土記稿』に記される。近世には東海道の平塚宿として栄え、1932年に県内4番目の市となった。語源の確実なところは伝承の域を出ない。",
+   "first_attestation": {
+    "era": "天保年間",
+    "year_western": null,
+    "document": "『新編相模国風土記稿』大住郡平塚宿条",
+    "note": "宿場名としての「平塚」と、命名伝承の記録。古代・中世における「平塚」の用例は本バッチでは確認できていない"
+   },
+   "claims": [
+    {
+     "text": "『新編相模国風土記稿』には大住郡平塚宿の条に、桓武天皇の孫・高見王の子の政子が一族と東国へ下向する途中、病死したのでここに埋めて塚を築いたところ、長い月日が流れるうちに封土が崩れて平らになったので「平塚」の名が発生したという伝承が記されている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-hiratsuka-city"
+     ]
+    },
+    {
+     "text": "江戸時代、平塚は東海道五十三次の宿場町（平塚宿）として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-hiratsuka-city"
+     ]
+    },
+    {
+     "text": "明治20年（1887）に鉄道（現在のJR東海道線）が開通し、平塚は平塚駅を中心に発展した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-hiratsuka-city"
+     ]
+    },
+    {
+     "text": "昭和7年（1932）4月1日、平塚町が市制を施行し、横浜・横須賀・川崎に次いで神奈川県で4番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-hiratsuka-city"
+     ]
+    },
+    {
+     "text": "平塚市の「塚」の字は、常用漢字となっている「丶（てん）」のない「塚」を市の正式な表記として使用している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-hiratsuka-city"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、平塚市の団体コードは142034と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "崩れて平らになった塚",
+    "text": "平塚の「塚」は、崩れてしまった塚だという伝承があります。桓武天皇の孫にあたる高見王の子・政子が東国へ下る途中で病死し、この地に埋葬されて塚が築かれた。しかし長い年月のうちに封土が崩れて平らになった。だから「平塚」なのだ、と江戸時代の地誌『新編相模国風土記稿』は伝えます。皇族の墓という由緒と、それが失われて平らになったという逆説が組み合わさった、印象に残る命名譚です。もっとも、市の公式ページもこれを「伝承」として紹介しており、確かな語源としてではなく、土地に伝わる物語として記録するのが適切な話です。",
+    "sources": [
+     "l2-hiratsuka-city"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "平安期の平塚郷の有無など、中世以前の文献における「平塚」の用例は本バッチでは確認できていない",
+    "政子の実在性や、この地への比定は伝承の域を出ない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-座間市",
+   "code": "142166",
+   "names": {
+    "ja": "座間市",
+    "reading": "ざまし",
+    "aliases": [
+     "座間村",
+     "座間町",
+     "座間宿村",
+     "座間入谷村"
+    ]
+   },
+   "user_terms": [
+    "キャンプ座間のまち",
+    "座間市の名前の由来",
+    "ひまわりの座間",
+    "ざまの語源"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「座間」の名は、古代の駅と郷の名「夷参（いさま）」にさかのぼると専門辞典は説明する。『続日本紀』にみえる相模国夷参駅と『和名類聚抄』の伊参郷がこの地に比定され、伊佐間を経て座間になったという。1889年に5か村が合併して座間村となり、1941年にいったん相模原町へ合併されたが1948年に分離独立し、1971年に県下17番目の市として市制を施行した。",
+   "first_attestation": {
+    "era": "宝亀2年",
+    "year_western": 771,
+    "document": "『続日本紀』",
+    "note": "『日本歴史地名大系』が紹介する「相模国夷参駅」の記事。表記は「夷参」で、読み「いさま」が地名の起源になったとされる"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、座間市の団体コードは142166と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』によれば、『続日本紀』宝亀2年（771年）10月27日条に記される「相模国夷参（いさま）駅」と『和名抄』の伊参（いさま）郷はこの地に比定され、地名の起源にもなったとされる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-zama-kotobank"
+     ]
+    },
+    {
+     "text": "『ブリタニカ国際大百科事典』は、地名は古く東海道の夷参駅が伊佐間となり、のちに伊を略して呼ばれたことにちなむといわれるとする",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "s6-zama-kotobank"
+     ]
+    },
+    {
+     "text": "座間市によれば、明治22年（1889年）に座間入谷村・座間宿村・栗原村・新田宿村・四ツ谷村の5か村が合併して座間村になった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zama-city-gaiyou"
+     ]
+    },
+    {
+     "text": "市の統計書の変遷表によれば、昭和12年（1937年）12月20日に町制を施行して座間町となり、昭和16年（1941年）4月29日に上溝町ほかと合併して相模原町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zama-city-tochi"
+     ]
+    },
+    {
+     "text": "昭和23年（1948年）9月1日、相模原町から旧座間町の区域が分離独立し、座間町が再置された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zama-city-tochi"
+     ]
+    },
+    {
+     "text": "昭和46年（1971年）11月1日、県下17番目の市として市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zama-city-tochi"
+     ]
+    },
+    {
+     "text": "座間市によれば、昭和11年（1936年）に陸軍から村長へ陸軍士官学校の移転用地として土地を買収したいとの意向が伝えられ、昭和12年（1937年）に東京から陸軍士官学校が移転してきた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zama-city-gaiyou"
+     ]
+    }
+   ],
+   "column": {
+    "title": "古代の駅の名前が、そのまま市の名前になった",
+    "text": "座間の出発点は、奈良時代の駅（うまや）でした。『続日本紀』に記された相模国の夷参（いさま）駅と、『和名類聚抄』の伊参郷がこの地に比定され、「いさま」という音が地名の起源になったと専門辞典は説明します。その後「伊佐間」と呼ばれるようになり、「伊」が略されて「座間」になったというのが、ブリタニカの伝える経緯です。駅はとっくに姿を消しましたが、駅の名前だけが1200年以上も土地の名前として残り、現代の市名になりました。",
+    "sources": [
+     "s6-zama-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-相模原市",
+    "muni/14-海老名市"
+   ],
+   "unknowns": [
+    "「座間」という漢字表記が定着した時期は確認できなかった",
+    "「座間」が新田開発の「座」に由来するという説は、今回参照した専門辞典・市公式資料では確認できなかった",
+    "座間村が江戸時代に座間宿村と座間入谷村に分かれた経緯の詳細は、市公式の概要資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-横浜市",
+   "code": "141003",
+   "names": {
+    "ja": "横浜市",
+    "reading": "よこはまし",
+    "aliases": [
+     "横浜村",
+     "横浜新田"
+    ]
+   },
+   "user_terms": [
+    "横浜の名前の由来",
+    "横浜はなぜ横浜と呼ぶ",
+    "横に長い浜って本当",
+    "開港前の横浜村",
+    "神奈川県なのに県庁は横浜"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "横浜は、入り江に横に長く突き出た砂浜を指した地名だと横浜市の論考は説明する。その砂浜にあった横浜村は戸数100戸ほどの漁村だったが、安政6年（1859年）の開港で国際港のまちとなり、明治22年（1889年）の市制施行で村の名がそのまま市名に継承された。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "横浜村（横浜市中区の歴史年表が紹介する村名）",
+    "note": "「横浜」の名が現れる最古の文書は本バッチでは未特定。18世紀には横浜新田と洲干を合わせた横浜村として存在し、安政元年（1854年）の日米和親条約の交渉地として国際的な記録に現れる"
+   },
+   "claims": [
+    {
+     "text": "横浜市の調査季報に収録された論考によれば、かつての大岡川が注いでいた洲乾湊（すがんみなと）が江戸湾に接する部分に、石川郷の台地から横に長く突き出た砂浜があり、それが元々の「横浜」であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "b-cap-yoko-kiyou"
+     ]
+    },
+    {
+     "text": "横浜市中区の歴史年表によれば、18世紀になると洲干（洲乾）の付け根に隣接する海岸が埋め立てられて横浜新田が造成され、この横浜新田と洲干を合わせて横浜村といい、その頃は100戸ほどの寒村であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-naka-nenpyo"
+     ]
+    },
+    {
+     "text": "横浜市の開港150周年基本計画によれば、安政元年（1854年）、日米和親条約の締結場所として一寒村に過ぎなかった横浜村が選ばれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-kaiko-plan"
+     ]
+    },
+    {
+     "text": "横浜市公式によれば、日米修好通商条約では神奈川に開港場が置かれることとされたが、実際に開港したのは神奈川宿の東南約4キロにあった横浜であり、安政6年（1859年）7月1日（旧暦6月2日）に横浜が開港した。条約が名指した地名と、実際に開かれた港の地名にはずれがある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-kaiko-plan",
+      "b-cap-yoko-kaiko150"
+     ]
+    },
+    {
+     "text": "横浜市中区の歴史年表によれば、明治22年（1889年）に市制が施行され、横浜市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-naka-nenpyo"
+     ]
+    },
+    {
+     "text": "横浜市公式によれば、開港前の横浜は戸数100戸ほどの小さな村であり、開港を契機に海外の窓口として技術・文化・人が集まる港を中心に発展し、現在の大都市が築かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-kaiko150"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、横浜市のコードは141003と定められている（J-LISの神奈川県内市町村一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-jlis"
+     ]
+    }
+   ],
+   "column": {
+    "title": "条約には「神奈川」と書かれたのに",
+    "text": "1858年の日米修好通商条約が開港場として名指したのは「神奈川」だった。ところが幕府が実際に開港場を整えたのは、東海道の宿場町・神奈川宿から約4キロ離れた寒村の横浜である。街道の往来と外国人を切り離す狙いがあったとされるこの置き換えの結果、港の名は「横浜」が世界に知られ、県の名には条約どおりの「神奈川」が残った。横浜市と神奈川県という、港と県で名前が食い違う現在の姿は、この1859年のずれがそのまま化石になったものといえる。",
+    "sources": [
+     "b-cap-yoko-kaiko-plan",
+     "b-cap-yoko-kiyou"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "「横浜」の名が現れる最古の文書は本バッチでは特定できなかった。室町時代の用例が指摘されることがあるが、一次資料で確認できていない",
+    "「横に長い浜」説以外の語源説は、本バッチでは専門文献で確認できなかった",
+    "開港場を神奈川から横浜に置いた幕府の判断理由については諸説があり、本バッチでは市の公式資料の範囲を超えて断定していない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-横須賀市",
+   "code": "142018",
+   "names": {
+    "ja": "横須賀市",
+    "reading": "よこすかし",
+    "aliases": [
+     "横須賀町",
+     "横須賀村"
+    ]
+   },
+   "user_terms": [
+    "横須賀市の名前の由来",
+    "横須賀はなぜ横須賀というのか",
+    "軍港のまち横須賀",
+    "ペリーが来た横須賀"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "市名は三浦半島の漁村だった横須賀村・横須賀町の名を受け継いだものである。「横須賀」は鎌倉時代の『吾妻鏡』に「三浦横須賀」と見える古い地名で、「須賀」は砂州を意味し、横に長く伸びた砂州を指す名と考えられている。慶応元年（1865年）の横須賀製鉄所設立を機に軍港都市となり、明治40年（1907年）に横浜市に次ぐ県内2番目の市として発足した。",
+   "first_attestation": {
+    "era": "建保3年",
+    "year_western": 1215,
+    "document": "『吾妻鏡』建保3年3月5日条（「三浦横須賀」）",
+    "note": "『日本歴史地名大系』が引く用例で、将軍家の花見の地として記される。一次文献そのものは未読のため、二次資料経由の記録として扱う"
+   },
+   "claims": [
+    {
+     "text": "『日本歴史地名大系』によれば、「横須賀」の地名は『吾妻鏡』建保3年（1215年）3月5日条に「将軍家為覧花、御出于三浦横須賀」と見える",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "k1-yokosuka-kotobank"
+     ]
+    },
+    {
+     "text": "語源由来辞典は、「スカ（須賀）」は砂州（砂処・州処）を意味し、横須賀は横に長く伸びた砂州のことと考えられるとする",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "k1-yokosuka-gogen"
+     ]
+    },
+    {
+     "text": "「須賀」という地名要素が砂州・砂地を意味することは、千葉県匝瑳市の須賀地区について同市の公式資料も「須賀という地名は、全国各地に存在する。その語源は須が砂州を意味する」と説明しており、各地の「須賀」に共通する語義とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sosa-suka"
+     ]
+    },
+    {
+     "text": "明治9年（1876年）に横須賀村が横須賀町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-yokosuka-zaidan"
+     ]
+    },
+    {
+     "text": "慶応元年（1865年）、江戸幕府が横須賀村（現在の本町一帯）に横須賀製鉄所を設立した。以後、横須賀は漁村・農村集落から軍港都市へと変貌していった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-yokosuka-zaidan"
+     ]
+    },
+    {
+     "text": "明治39年（1906年）12月15日に横須賀町と豊島町が合併し、明治40年（1907年）2月15日に市制を施行して横須賀市が誕生した。横浜市に次いで神奈川県内2番目の市だった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-yokosuka-shisei110"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、横須賀市のコードは142018と定められている（J-LISの神奈川県内市町村一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-jlis"
+     ]
+    }
+   ],
+   "column": {
+    "title": "黒船が来たのは「横須賀」ではなかった",
+    "text": "嘉永6年（1853年）にペリーが来航したのは浦賀沖で、上陸したのは久里浜である。どちらも現在の横須賀市域だが、当時は横須賀とは別の村々だった。横須賀の名が表舞台に出るのはその12年後、幕府が横須賀村に製鉄所（後の横須賀造船所）を造ってからである。軍港として急成長した横須賀は、明治40年（1907年）に県内2番目の市となり、やがて浦賀や久里浜も市域に取り込んだ。黒船の舞台と軍港の名が同居する現在の市域は、この合併の結果である。",
+    "sources": [
+     "k1-yokosuka-zaidan",
+     "k1-yokosuka-shisei110"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "『吾妻鏡』建保3年条の原文は未読で、『日本歴史地名大系』の引用による記録にとどまる",
+    "「横に長い砂州」説について、『角川日本地名大辞典』の見解は本バッチでは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-海老名市",
+   "code": "142158",
+   "names": {
+    "ja": "海老名市",
+    "reading": "えびなし",
+    "aliases": [
+     "海老名村",
+     "海老名町",
+     "海老名郷"
+    ]
+   },
+   "user_terms": [
+    "海老名サービスエリアの市",
+    "相模国分寺のまち",
+    "海老名市の名前の由来",
+    "えびなの語源は海老か"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「海老名」は中世の郷の名で、もとは有鹿神社の神領だった土地を、康平年間頃に村上源氏を出自とする海老名氏が押領して海老名郷と称したという。地名そのものには、大きな海老の生息する土地という言い伝えが結びつく。市域には奈良時代の相模国分寺跡がある。1889年に北部9か村が合併して海老名村となり、1955年に有馬村と合併、1971年に市制を施行した。",
+   "first_attestation": {
+    "era": "康平年間",
+    "year_western": null,
+    "document": "『角川日本地名大辞典』「海老名」の項が伝える海老名郷の成立",
+    "note": "「海老名郷」と称したとされる時期。文書による「海老名」の確かな初出そのものは確認できていない"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、海老名市の団体コードは142158と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『角川日本地名大辞典』によれば、海老名の地はもとは有鹿神社の神領であったが、康平年間（1058年から1065年）頃に村上源氏を出自とする海老名氏によって押領されて海老名郷と称したという",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-ebina-kadokawa"
+     ]
+    },
+    {
+     "text": "同辞典によれば、地名は大きな海老が生息していた土地の意ともいい、「有鹿神社縁起」には「殊に海老の大なる有るを以てこの海より美名得るなり」とある",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "s6-ebina-kadokawa"
+     ]
+    },
+    {
+     "text": "海老名市によれば、相模国分寺跡は海老名駅の東側約500メートルの台地上にあり、国指定史跡として歴史公園に整備されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ebina-city-kokubunji"
+     ]
+    },
+    {
+     "text": "海老名市によれば、明治22年（1889年）4月1日の市制・町村制施行により、北部9か村（国分村・大谷村・中新田村・河原口村・上郷村・下今泉村・上今泉村・柏ケ谷村・望地村）が合併して海老名村となり、南部8か村が合併して有馬村となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ebina-city-gaiyou"
+     ]
+    },
+    {
+     "text": "昭和15年（1940年）12月20日に海老名村は町制を施行して海老名町となり、昭和30年（1955年）7月20日には有馬村と合併した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ebina-city-gaiyou"
+     ]
+    },
+    {
+     "text": "昭和46年（1971年）11月1日に市制を施行して海老名市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ebina-city-gaiyou"
+     ]
+    }
+   ],
+   "column": {
+    "title": "海老の名産地か、武士の名字か",
+    "text": "「海老名」の説明には、二つの顔があります。一つは、有鹿神社の縁起が伝える「このあたりの海には大きな海老がいたので美名を得た」という景観・産物にちなむ話。もう一つは、平安時代の末に有鹿神社の神領を押領した武士の海老名氏が「海老名郷」と称したという話です。名字が地名から生まれたのか、地名が名字から広がったのかは辞典でも確定していません。ただ、内陸の台地のまちが「海老」の名を持つ不思議は、相模川やかつての潟湖で海老が獲れた時代を思わせます。",
+    "sources": [
+     "s6-ebina-kadokawa"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-座間市",
+    "muni/14-綾瀬市"
+   ],
+   "unknowns": [
+    "「海老名」の文書上の確かな初出は確認できなかった",
+    "海老名氏と地名のどちらが先かは、『角川日本地名大辞典』の記述でも確定できない",
+    "「有鹿神社縁起」の成立時期や原文は確認できなかった（同辞典経由の紹介にとどまる）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-相模原市",
+   "code": "141500",
+   "names": {
+    "ja": "相模原市",
+    "reading": "さがみはらし",
+    "aliases": [
+     "相模原町"
+    ]
+   },
+   "user_terms": [
+    "相模原市の名前の由来",
+    "相模原はなぜ相模原というのか",
+    "軍都だった相模原",
+    "日本一大きな町だった相模原町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「相模原」は昭和16年（1941年）の8町村合併で生まれた新しい町名で、構成町村のどの名でもなく、相模国に広がる原野「相模野」・相模原台地を指す地域の名を採用したものとされる。町名の決定には神奈川県が関与した。相模原町は昭和29年（1954年）に市制を施行して相模原市となった。",
+   "first_attestation": {
+    "era": "昭和16年",
+    "year_western": 1941,
+    "document": "高座郡相模原町の成立（8町村の合併）",
+    "note": "「相模原」という自治体名の初出。それ以前、この一帯の原野は「相模野」と呼ばれ、台地は相模原台地と呼ばれていた"
+   },
+   "claims": [
+    {
+     "text": "江戸時代、現在の相模原市域の中央部は「相模野」と呼ばれる雑草や雑木の茂る広大な原野で、江戸期を通じて新田開発が進められた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sagamihara-gappei"
+     ]
+    },
+    {
+     "text": "昭和16年（1941年）4月29日、上溝町・座間町の2町と相原・大野・大沢・田名・麻溝・新磯の6村が合併し、人口45,482人・面積108.71平方キロで当時「日本一大きな町」とされた高座郡相模原町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sagamihara-gappei",
+      "k1-sagamihara-archive"
+     ]
+    },
+    {
+     "text": "「相模原」という町名は合併する8町村のいずれの名でもなく、相模原市立図書館のレファレンス記録によれば、町名は神奈川県の側から提示されて「相模原町」に決められたという",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sagamihara-ndlref"
+     ]
+    },
+    {
+     "text": "合併を進めた相模原市（合併協議会）の資料は、「相模原」の歴史的背景として、相模野と呼ばれた原野の開発の歴史を位置づけており、市名は相模国の名と台地の原野を指す「原」を組み合わせた地域名である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sagamihara-gappei"
+     ]
+    },
+    {
+     "text": "昭和10年代には陸軍士官学校や相模陸軍造兵廠などの軍施設が次々に置かれて「軍都」と呼ばれるようになり、県による相模原都市建設区画整理事業が進められたことが、8町村合併の背景にあった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sagamihara-gappei"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）11月20日、相模原町が市制を施行して相模原市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-sagamihara-archive"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、相模原市のコードは141500と定められている（J-LISの神奈川県内市町村一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-jlis"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「日本一大きな町」の名は県が決めた",
+    "text": "1941年に生まれた相模原町は、面積108.71平方キロ・人口45,482人で「日本一大きな町」だった。だが、その名は合併する8町村の住民が選んだものではない。相模原市立図書館の調べでは、町名は神奈川県の側から一方的に「相模原町」と決められたという。軍都建設を進める県にとって、相模野の大台地全体を指す大きな名前が必要だったのだろう。「相模原」という地名が世に出たのはこの時が初めてで、それ以前に「相模原」という町や村は存在しなかった。",
+    "sources": [
+     "k1-sagamihara-gappei",
+     "k1-sagamihara-ndlref",
+     "k1-sagamihara-archive"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "神奈川県が「相模原」の名を選んだ具体的な理由を記した一次資料は、本バッチでは確認できなかった（図書館レファレンスが引く『相模原市史』第4巻等は未読）",
+    "「相模原」の語が1941年以前に地域名としてどう使われていたかは、台地名（相模原台地）としての用例以上の確認ができていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-秦野市",
+   "code": "142115",
+   "names": {
+    "ja": "秦野市",
+    "reading": "はだのし",
+    "aliases": [
+     "波多野",
+     "幡多野",
+     "秦野町"
+    ]
+   },
+   "user_terms": [
+    "丹沢のふもとの市",
+    "秦野市の読み方ははたのかはだのか",
+    "秦野市の名前の由来",
+    "タバコと落花生のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「秦野」の名は古代の郷名にさかのぼる。『和名類聚抄』には幡多（高山寺本では幡多野）とみえ、本来の読みは「はたの」だったと考えられる。盆地の開発には機織を業とする秦氏が関わったと伝えられ、中世には波多野庄・波多野氏の本拠となった。1955年に秦野町・南秦野町・東秦野村・北秦野村が合併して秦野市が発足した。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": "『和名類聚抄』",
+    "note": "『日本歴史地名大系』によれば、東急本に余綾郡幡多（はだ）郷がみえ、高山寺本では幡多野とある"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、秦野市の団体コードは142115と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』によれば、『和名抄』東急本に余綾郡幡多（はだ）郷がみえ、高山寺本では幡多野とあり、市域の大部分は古代には余綾郡に含まれていたらしい",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-hadano-kotobank"
+     ]
+    },
+    {
+     "text": "同辞典は、秦野市域は古代に秦氏の開拓した地と伝え、秦河勝が五大尊を祀るため当地に来住したとも伝えるとする",
+     "kind": "legend",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-hadano-kotobank"
+     ]
+    },
+    {
+     "text": "秦野市は、秦野盆地の開発には多くの渡来人系の人々が従事し、特に機織を業とする「秦氏（はたし）」が中心であったところから、今日の「秦野（はだの）」の地名の由来になったといわれていると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-hadano-city-honpen"
+     ]
+    },
+    {
+     "text": "市の資料によれば、波多野庄は平安時代中期に、この地方の開発領主であった波多野氏が源氏の家人になった縁により摂関家（近衛家）に寄進したことに始まると思われ、波多野氏は鎌倉時代には執権北条氏の下で有力御家人となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-hadano-city-honpen"
+     ]
+    },
+    {
+     "text": "『和名抄』に「波多野郷」とあり、万葉仮名は清濁を区別することから本来「はたの」であったと考えられ、1889年の町村合併で発足した「秦野」を冠する6町村のうち上秦野村だけが「はたの」とし、ほかの1町4村は読みを「はだの」とした",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "s6-hadano-wiki"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）に秦野町・南秦野町・東秦野村・北秦野村が合体して市制を施行し秦野市となり、同年に大根村の一部を編入、1963年には西秦野町を編入した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s6-hadano-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「はたの」が「はだの」になるまで",
+    "text": "秦野の読みは、もともと「はたの」だったと考えられています。万葉仮名は清濁を区別して書くので、『和名類聚抄』の時代の表記からは「はたの」と読むのが自然だというのです。ところが明治22年（1889年）の合併で生まれた「秦野」を冠する6つの町村のうち、「はたの」と読んだのは上秦野村だけで、ほかはみな「はだの」でした。濁音の方が言いやすかったのか、理由は分かりませんが、読みは多数派に統一され、今では駅名も市名も「はだの」が正式です。千年以上前の辞書と、明治の町村の読み比べが、発音の変化を物語っています。",
+    "sources": [
+     "s6-hadano-wiki",
+     "s6-hadano-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-伊勢原市",
+    "muni/14-平塚市"
+   ],
+   "unknowns": [
+    "『和名抄』の幡多郷が現在の秦野市域のどこに比定されるかは、辞典でも確定していない",
+    "秦氏が盆地開発の中心だったことは伝承の域を出ず、考古学的な裏付けは確認できなかった",
+    "「秦野」という漢字表記が定着した時期は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-箱根町",
+   "code": "143821",
+   "names": {
+    "ja": "箱根町",
+    "reading": "はこねまち",
+    "aliases": [
+     "筥根"
+    ]
+   },
+   "user_terms": [
+    "箱根の名前の由来",
+    "箱根町はいつできたの",
+    "箱根関所と天下の険",
+    "筥根とは何か"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "現在の箱根町は、1956年に湯本町・温泉村・宮城野村・仙石原村・箱根町の5町村が合併して生まれた町で、合併前の構成町村の一つだった旧箱根町（関所の町）の名が全体の名となった。「箱根」の語源については確定した説明を確認できておらず、中世の縁起では「筥根」とも表記された。万巻上人が757年に社殿を建立したという箱根神社の社伝など、山岳信仰の伝承がこの名と深く結びついている。",
+   "first_attestation": {
+    "era": "建久2年",
+    "year_western": 1191,
+    "document": "筥根山縁起并序",
+    "note": "箱根神社の縁起。「筥根」と表記され、箱根山と箱根権現の名を伝える中世の資料。より古い用例の有無は未確認"
+   },
+   "claims": [
+    {
+     "text": "1956年（昭和31年）9月30日、湯本町・温泉村・宮城野村・仙石原村・箱根町の5町村が合併して現在の箱根町が誕生した。発足当時の人口は16,491人だった（地方公共団体コードは143821）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-hakone-town-nenpyo",
+      "k6-hakone-town-ayumi",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）の町村制では、のちの箱根町域は湯本村・温泉村・宮城野村・仙石原村・箱根駅・元箱根村・芦之湯村の1駅6村に分かれていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-hakone-town-ayumi"
+     ]
+    },
+    {
+     "text": "中世の縁起『筥根山縁起并序』（1191年成立）では地名が「筥根」と表記され、箱根神社はこの縁起を伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-hakone-jinja"
+     ]
+    },
+    {
+     "text": "箱根神社の社伝では、天平宝字元年（757年）に万巻上人が芦ノ湖畔に社殿を建立し、箱根山の三神を祀って「箱根三所権現」と号したと伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-hakone-jinja"
+     ]
+    },
+    {
+     "text": "縁起には、聖占仙人が孝昭天皇の御代に駒ヶ岳の山頂に神仙宮を開いたという開山の伝承が記される",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k6-hakone-jinja"
+     ]
+    },
+    {
+     "text": "箱根は東海道の要衝で、深い谷と急な坂路から「天下の険」と呼ばれ、江戸時代には幕府が芦ノ湖畔に関所を置いて往来を取り締まったと箱根町は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-hakone-town-ayumi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "関所の町の名前が、山全体の名前になった",
+    "text": "1956年の合併で新しい町の名になった「箱根」は、もとは芦ノ湖畔の関所を中心に栄えた一町村の名だった。江戸時代、東海道最大の難所とされたこの地には関所が置かれ、「入り鉄砲に出女」の取り締まりで知られた。その宿場町の名が、湯本・宮城野・仙石原といった温泉地を含む町全体の名となり、今日では温泉地群全体を指す広域ブランドとして定着している。町の名は、関所の町の名の「格上げ」だったのである。",
+    "sources": [
+     "k6-hakone-town-ayumi",
+     "k6-hakone-town-nenpyo"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "「箱根」の語源（カルデラの形状に由来するという俗説等）については、専門辞典による確定した説明を本調査では確認できなかった",
+    "『万葉集』に箱根の歌があるとする紹介も見られるが、本調査では原典・専門資料での確認が取れていないため主張に含めていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-綾瀬市",
+   "code": "142182",
+   "names": {
+    "ja": "綾瀬市",
+    "reading": "あやせし",
+    "aliases": [
+     "綾瀬村",
+     "綾瀬町"
+    ]
+   },
+   "user_terms": [
+    "厚木基地のまち",
+    "駅のない市",
+    "綾瀬市の名前の由来",
+    "足立区の綾瀬とは別"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「綾瀬」は1889年に深谷・小園・早川など8か村が合併したときに生まれた新しい村名で、由来は定かではない。川の支流が綾をなす地形にちなむ説、蓼川が綾瀬川と呼ばれていた説、養蚕の綾にちなむ説がある。1945年に町制を施行し、1978年に県内19番目・一番若い市として市制を施行した。同名で知られる東京都足立区の綾瀬とは別の自治体で、成り立ちも異なる。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "綾瀬村の成立（綾瀬市公式資料が伝える）",
+    "note": "合併時の新命名であり、それ以前にこの地域を指す「綾瀬」という地名はなかったとされる"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、綾瀬市の団体コードは142182と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "綾瀬市によれば、明治22年（1889年）の市制町村制施行と同時に、深谷・本蓼川・蓼川・寺尾・小園・早川・吉岡・上土棚の八カ村が合併して綾瀬村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ayase-city-kichi"
+     ]
+    },
+    {
+     "text": "「綾瀬」の名はこの合併時の新命名であり、地名の由来は定かではないとされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "s6-ayase-gogen"
+     ]
+    },
+    {
+     "text": "由来の説としては、蓼川・比留川・目久尻川の支流が綾をなしているところからとする説、蓼川が「綾瀬川」と呼ばれていたことに由来する説、養蚕が盛んだったことから絹でできた綾に因んで命名されたとする説が挙げられている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "s6-ayase-gogen"
+     ]
+    },
+    {
+     "text": "綾瀬市によれば、江戸時代には新田開発が盛んで、寛文13年（1673年）に蓼川新田村が成立してのちに蓼川村となった。合併した8か村には、こうした新田開発で生まれた村が含まれていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ayase-city-kichi"
+     ]
+    },
+    {
+     "text": "昭和20年（1945年）4月1日に町制を施行して綾瀬町となり、昭和53年（1978年）11月1日に市制を施行して綾瀬市となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s6-ayase-wiki",
+      "s6-ayase-townnews"
+     ]
+    },
+    {
+     "text": "綾瀬市は1978年の市制施行にあたり、全国646番目、県下では一番若い19番目の市として誕生した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s6-ayase-townnews"
+     ]
+    },
+    {
+     "text": "綾瀬市によれば、行政面積の18パーセント弱を厚木基地が占めている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-ayase-city-kichi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "どの村の名前でもない、新品の村名",
+    "text": "明治22年（1889年）、8つの村が合併して生まれた綾瀬村は、合併の際にまったく新しい名前を与えられた村でした。どの旧村の名前も採用しないという点では、2年後に「大きく和する」の願いで改称した隣の大和村と発想がよく似ています。ただ、大和には改称の理由が公式に残っているのに対し、綾瀬の命名理由は記録が乏しく、川の流れが綾をなす姿、綾瀬川と呼ばれた川、養蚕の綾といった後付けの説が並ぶだけです。県内で一番若い市の名前は、県内の市名の中でも一番「素性が知れない」名前でもあります。",
+    "sources": [
+     "s6-ayase-gogen",
+     "s6-ayase-city-kichi"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-大和市",
+    "muni/14-海老名市"
+   ],
+   "unknowns": [
+    "「綾瀬」の命名理由を記した当時の公文書は確認できなかった",
+    "語源の3説はいずれも裏付けが弱く、命名の経緯は未確定のままである",
+    "市公式サイトには村名の由来を説明するページが見つからなかった（『綾瀬市史』等の紙資料は未確認）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-茅ヶ崎市",
+   "code": "142077",
+   "names": {
+    "ja": "茅ヶ崎市",
+    "reading": "ちがさきし",
+    "aliases": [
+     "茅ヶ崎村",
+     "茅ヶ崎町",
+     "ちかさき"
+    ]
+   },
+   "user_terms": [
+    "サザンのまち",
+    "湘南の市",
+    "茅ヶ崎市の名前の由来",
+    "ちがさきの茅とは"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「茅ヶ崎」の名が文書に現れるのは室町時代で、熊野神社の御師の文書（米良文書）に平仮名で「ちかさき」と記されたのが初出とされる。チガヤ（茅萱）の生い茂る砂州状の崎が「茅萱の御崎」から茅ヶ崎になったという地名伝承がある。1889年に茅ヶ崎村など4村に再編され、1908年に茅ヶ崎町、1947年に市制を施行した。",
+   "first_attestation": {
+    "era": "文明2年",
+    "year_western": 1470,
+    "document": "『米良文書』",
+    "note": "茅ヶ崎市公式（博物館）が紹介する初出。熊野三社の御師・米良家の伝来文書に、平仮名で「ちかさき」と記される"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、茅ヶ崎市の団体コードは142077と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "茅ヶ崎市によれば、茅ヶ崎の地名が古文書に初めて現れるのは今から550年程前の室町時代で、熊野神社の御師の文書に、相模国の信者として「ちかさき」の左近四郎と五郎二郎の名が見える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-yurai"
+     ]
+    },
+    {
+     "text": "市の博物館によれば、「ちがさき」の初出資料は米良文書（熊野三社の御師の米良家伝来文書）の文明2年（1470年）のもので、漢字ではなく平仮名で「ちかさき」と記されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-hakubutsukan"
+     ]
+    },
+    {
+     "text": "市によれば、戦国時代になると後北条氏の家臣台帳ともいえる『小田原衆所領役帳』に「茅ヶ崎」と漢字で書かれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-yurai"
+     ]
+    },
+    {
+     "text": "市の博物館は、大昔の茅ヶ崎辺りは一面の沼地でチガヤやアシが生い茂り、陸の一部が海に突き出た砂州状の地形だったと考えられ、「茅萱（チガヤ）の御崎」が誰言うとなく「茅ヶ崎」に変化したのではないかという地名伝承を紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-hakubutsukan"
+     ]
+    },
+    {
+     "text": "市によれば、江戸時代の初めに茅ヶ崎村が生まれ、1908（明治41）年に茅ヶ崎町に合併するまで茅ヶ崎村は存続した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-yurai"
+     ]
+    },
+    {
+     "text": "市によれば、1889年の市制町村制施行によって茅ヶ崎村・松林村・鶴嶺村・小出村の4カ村に再編され、1908年10月には茅ヶ崎村・松林村・鶴嶺村が合併して茅ヶ崎町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-hensen"
+     ]
+    },
+    {
+     "text": "1947（昭和22）年10月に市制が施行され、1955年4月には小出村が分村して茅ヶ崎市に合併し、現在の茅ヶ崎市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-chigasaki-city-hensen"
+     ]
+    }
+   ],
+   "column": {
+    "title": "初登場は平仮名の「ちかさき」",
+    "text": "茅ヶ崎の名前が記録に初めて姿を現したのは、1470年の熊野の御師の文書でした。そこには漢字ではなく、平仮名で「ちかさき」と書かれています。今の読み「ちがさき」とも少し違う、清音の名前でした。その後、戦国時代の台帳で「茅ヶ崎」の漢字があてられます。市の博物館によれば、チガヤ（茅萱）の若い穂は甘みがあり、茅ヶ崎でも昔は子どもがおやつ代わりに噛んでいたそうです。名前の由来とされる草は、つい最近まで子どものおやつでもあったのです。",
+    "sources": [
+     "s6-chigasaki-city-hakubutsukan",
+     "s6-chigasaki-city-yurai"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-平塚市",
+    "muni/14-藤沢市"
+   ],
+   "unknowns": [
+    "「ちかさき」の「ちか」の意味はチガヤとの関係も含めて伝承の域を出ず、確定できなかった",
+    "室町時代以前の「茅ヶ崎」の用例は確認できなかった（『和名類聚抄』の「渭堤」は小出の比定にとどまる）",
+    "読みが「ちかさき」から「ちがさき」に変わった時期は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-藤沢市",
+   "code": "142051",
+   "names": {
+    "ja": "藤沢市",
+    "reading": "ふじさわし",
+    "aliases": [
+     "淵沢",
+     "藤沢宿",
+     "藤沢町"
+    ]
+   },
+   "user_terms": [
+    "藤沢市の名前の由来",
+    "藤沢は藤の花と関係があるのか",
+    "藤沢宿と遊行寺",
+    "江の島のある市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「藤沢」の起源には、藤の多い水辺とする説、鎌倉時代の藤沢二郎清親の居住地とする説、淵や沢の多い土地とする説があり、市はこのうち淵沢（ふちさわ）が藤沢（ふじさわ）に転化したとする説が最も妥当とみる。文献への登場は10世紀半ばとされ、中世には時宗総本山・遊行寺の門前町、近世には東海道の藤沢宿として発達した。",
+   "first_attestation": {
+    "era": "天慶年間（938〜947）",
+    "year_western": null,
+    "document": "藤沢の名が見える最古級の文献（藤沢市統計年報の沿革による）",
+    "note": "市統計年報は10世紀半ばの天慶年間に文献へ現れるとするが、具体的な文献名は示されていない"
+   },
+   "claims": [
+    {
+     "text": "藤沢市統計年報の「藤沢市の沿革」は、「藤沢」の地名の起源について、①藤の多い水辺の地、②藤沢二郎清親（鎌倉時代）の居住地、③淵や沢の多い土地、の諸説を挙げた上で、植物の藤と関係が深いとは考えられず、人名と地名では地名が先とする見方が有力だとして、淵沢（ふちさわ）が藤沢（ふじさわ）に転化したとする説③が最も妥当と考えられると述べている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "l2-fujisawa-tokei"
+     ]
+    },
+    {
+     "text": "文献に「藤沢」の名が現れるのは10世紀の中ごろ、天慶年間で、桓武天皇の曾孫・平良文が渡内（村岡）に割拠して関東平氏発祥の拠点をつくった時代にあたる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-fujisawa-tokei"
+     ]
+    },
+    {
+     "text": "治安元年（1021）前後に菅原孝標女によって書かれた『更級日記』には、現在の西富付近と思われる海岸の景色が記されており、当時このあたりに海岸線に接した幹線道路が走っていたことがうかがえる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-fujisawa-tokei"
+     ]
+    },
+    {
+     "text": "時宗総本山の遊行寺は正中2年（1325）前後に呑海上人によって開かれたと伝えられ、藤沢はこの寺の門前町として発達した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-fujisawa-tokei"
+     ]
+    },
+    {
+     "text": "近世の藤沢は東海道五十三次の一駅（藤沢宿）として知られ、本陣が現在の藤沢1〜2丁目に置かれて宿場町・問屋町として繁栄した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-fujisawa-tokei"
+     ]
+    },
+    {
+     "text": "昭和15年（1940）10月1日、高座郡藤沢町が市制を施行して藤沢市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l2-fujisawa-tokei"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、藤沢市の団体コードは142051と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「藤」の花ではなかった、という市の見解",
+    "text": "「藤沢」と聞けば藤の花を思い浮かべますが、藤沢市自身の沿革はその連想を退けます。市の統計年報は、藤の多い水辺という説について「藤沢がとくに植物のふじに関係が深いとは考えられない」とし、鎌倉時代の武士・藤沢二郎清親に由来するという説についても「地名が先で人名が後とする見方が有力」と位置づけます。そして最も妥当とするのが、淵（ふち）や沢の多い土地を指す「淵沢」が「藤沢」に転化したという説です。花の名前に見える市名の正体は、川の淵と沢の多い地形だった、というのが市の公式の読み解きです。",
+    "sources": [
+     "l2-fujisawa-tokei"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "初出とされる天慶年間の文献について、市統計年報は具体的な文献名を示しておらず特定できていない",
+    "遊行寺の開創（1325年前後）も「伝えられる」とされるもので、伝承の要素を含む"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-逗子市",
+   "code": "142085",
+   "names": {
+    "ja": "逗子市",
+    "reading": "ずしし",
+    "aliases": [
+     "逗子村",
+     "逗子町",
+     "田越村"
+    ]
+   },
+   "user_terms": [
+    "逗子海岸のまち",
+    "逗子の名前の由来",
+    "ずしの語源は厨子か",
+    "ハーフマイルビーチ"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "「逗子」の語源は諸説あり、延命寺の延命地蔵尊を安置する厨子から出たという俗説のほか、三浦厨子城にちなむ説、役人である図師の住まいがあったとする説がある。もとの地域は明治の合併でいったん田越村となったが、1913年の町制施行の際に中心地の名を採って逗子町と改称した。戦時中に横須賀市へ編入されたが1950年に分離独立し、1954年に県下9番目の市として市制を施行した。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「逗子」の確かな初出は確認できなかった。『日本歴史地名大系』は逗子に豆師・図師・厨子・豆子の字があてられたと記す（逗子市立図書館レファレンスの紹介による）"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、逗子市の団体コードは142085と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "逗子市立図書館のレファレンスによれば、「逗子」の地名の由来は諸説あり、「三浦厨子城」より厨子とする説、延命寺の延命地蔵尊（伝行基作）を安置する「厨子」からとする説、役人である図師の住まいがあったところからとする説などが挙げられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "s6-zushi-library-ref"
+     ]
+    },
+    {
+     "text": "同レファレンスが紹介する『日本歴史地名大系』によれば、逗子は豆師・図師・厨子・豆子の字があてられ、俗説では延命寺の延命地蔵尊の厨子から出た地名という",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "s6-zushi-library-ref"
+     ]
+    },
+    {
+     "text": "逗子市によれば、町村制施行により逗子・沼間・桜山・池子・山野根・久木・小坪の7か村が合併して、三浦郡田越村となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zushi-city-history"
+     ]
+    },
+    {
+     "text": "大正2年（1913年）に町制を施行し、田越村が逗子町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zushi-city-history"
+     ]
+    },
+    {
+     "text": "昭和18年（1943年）に横須賀市へ編入されたが、昭和25年（1950年）7月1日、住民の総意により横須賀市から分離独立し、逗子町が再置された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zushi-city-history"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）4月15日に市制を施行し、人口約3万7800人、県下9番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s6-zushi-city-history"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えたはずの町が、住民の総意で戻ってきた",
+    "text": "逗子の自治体としての歩みは、一度途切れています。1889年に生まれた田越村は1913年に逗子町となりますが、1943年、戦時体制の中で横須賀市へ編入され、「逗子」の名は自治体から消えました。ところが戦後の1950年、「住民の総意により」横須賀市から分離独立し、逗子町が復活します。そして1954年に市制を施行しました。市役所の公式年表が「住民の総意により」という言葉をわざわざ残していることに、町名への愛着の強さがうかがえます。",
+    "sources": [
+     "s6-zushi-city-history"
+    ]
+   },
+   "relations": [
+    "pref/14",
+    "muni/14-横須賀市",
+    "muni/14-鎌倉市"
+   ],
+   "unknowns": [
+    "「逗子」の確かな初出は確認できなかった",
+    "厨子・図師などの諸説の優劣は、専門資料でも確定していない",
+    "田越村が1913年に「逗子町」と改称した理由を記した公式の記録は確認できなかった",
+    "延命寺の延命地蔵尊の厨子に由来するという俗説の、古い文献上の典拠は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/14-鎌倉市",
+   "code": "142042",
+   "names": {
+    "ja": "鎌倉市",
+    "reading": "かまくらし",
+    "aliases": [
+     "鎌倉町",
+     "鎌倉郷",
+     "可麻久良"
+    ]
+   },
+   "user_terms": [
+    "鎌倉の名前の由来",
+    "鎌倉はなぜ鎌倉というのか",
+    "藤原鎌足の鎌の話は本当か",
+    "鎌倉幕府の鎌倉"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "神奈川県",
+   "homonyms": [],
+   "summary": "市名は相模国鎌倉郡の郷名以来の古い地名を受け継いだものである。「鎌倉」は奈良時代には確実に使われており、天平5年（733年）の木簡に「鎌倉郡鎌倉里」とある。語源は確定しておらず、三方を山に囲まれた地形に由来する説が有力とされるほか、藤原鎌足が鎌を埋めたという伝説などが市の公式ページに併記されている。",
+   "first_attestation": {
+    "era": "和銅5年",
+    "year_western": 712,
+    "document": "『古事記』中巻・景行天皇条（「鎌倉之別」）",
+    "note": "氏族名としての「鎌倉」の初出とされる。地名としての確実な初期例は天平5年（733年）の宮久保遺跡出土木簡「鎌倉郡鎌倉里」で、『万葉集』には「可麻久良」と詠まれている"
+   },
+   "claims": [
+    {
+     "text": "「鎌倉」の名が文書に登場するのは、和銅5年（712年）成立の『古事記』の中で、日本武尊の子・足鏡別王を「鎌倉之別の祖」と記しているのが最初とされる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k1-kamakura-izakamakura"
+     ]
+    },
+    {
+     "text": "神奈川県綾瀬市の宮久保遺跡から出土した天平5年（733年）銘の木簡に「鎌倉郡鎌倉里」と記されており、奈良時代には鎌倉郡・鎌倉郷（里）の名が実際に使われていた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k1-kamakura-izakamakura"
+     ]
+    },
+    {
+     "text": "鎌倉市公式は、「鎌倉」の由来には諸説あるとした上で、地形的な説として「鎌はもともと『かまど』のことで、倉は『谷』のこと。三方を山に囲まれ南が海に開けた地形が、かまどのようで倉のように一方が開いていることによる」という説を紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k1-kamakura-yurai"
+     ]
+    },
+    {
+     "text": "鎌倉市中央図書館のレファレンス記録は、地形に由来を求める説が有力だとしつつ、『角川日本地名大辞典』が「カマは洞穴、クラは岩の意ともいう」と説くことなど、複数の地形説が併存することを示している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k1-kamakura-ndlref"
+     ]
+    },
+    {
+     "text": "藤原鎌足が神宮参拝の途中、由井里（今の由比ガ浜）に泊まった夜に不思議な夢を見て、いつも持っていた鎌（鎌槍）を大蔵の松ヶ岡に埋めた。そこから「鎌倉」になったといわれている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kamakura-yurai"
+     ]
+    },
+    {
+     "text": "神武天皇が東国を征服しようとした際、毒矢に当たって死んだ人々の屍が山となり今の鎌倉の山ができた。「屍（かばね）が蔵をつくった」ので「屍蔵（かばねくら）」となり、それがなまって「かまくら」になったといわれている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kamakura-yurai"
+     ]
+    },
+    {
+     "text": "昭和14年（1939年）11月3日、鎌倉郡鎌倉町と腰越町の区域を合わせて市制を施行し、鎌倉市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k1-kamakura-intro"
+     ]
+    },
+    {
+     "text": "総務省の全国地方公共団体コードで、鎌倉市のコードは142042と定められている（J-LISの神奈川県内市町村一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-yoko-jlis"
+     ]
+    }
+   ],
+   "column": {
+    "title": "幕府より500年以上古い名前",
+    "text": "「鎌倉」は源頼朝の幕府で有名になったが、地名自体はそれよりはるか前からあった。奈良時代の木簡には「鎌倉郡鎌倉里」とあり、『万葉集』にも「可麻久良」と詠まれている。つまり頼朝は新しい名前を作ったのではなく、三方を山に囲まれた天然の要害に、少なくとも450年以上の歴史を持つ古い地名の土地を選んだことになる。幕府の所在地として選ばれた理由の一つが地形だとすれば、「かまど」のように囲まれた地形を指すという語源説とも響き合う。",
+    "sources": [
+     "k1-kamakura-izakamakura",
+     "k1-kamakura-yurai"
+    ]
+   },
+   "relations": [
+    "pref/14"
+   ],
+   "unknowns": [
+    "語源の定説はなく、地形説が有力とされるが確定していない。アイヌ語説・蒲（がま）説・神倉（かみくら）説なども市公式が併記する",
+    "『古事記』の「鎌倉之別」を地名そのものの初出とみなしてよいかは議論の余地があり、本レコードでは氏族名としての初出と位置づけた"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}
