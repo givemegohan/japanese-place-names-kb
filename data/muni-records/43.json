@@ -236,10 +236,6 @@
    "label": "あさぎり町公式「令和7年度あさぎり町地域おこし協力隊募集要項」",
    "url": "https://www.town.asagiri.lg.jp/kiji0034811/3_4811_1375_up_d0idjs37.pdf"
   },
-  "r8-asagiri-wiki": {
-   "label": "Wikipedia「あさぎり町」",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%95%E3%81%8E%E3%82%8A%E7%94%BA"
-  },
   "r8-itsuki-jtb": {
    "label": "JTB「五木・五家荘の渓谷」（五木村教育委員会提供写真・解説）",
    "url": "https://tabi.jtb.or.jp/res/430031-"
@@ -507,6 +503,10 @@
   "s1-yamaga-pref": {
    "label": "熊本県「山鹿市」（市町村史資料。一市四町合併の経緯と市名の由来・公募結果を収録した県公式資料）",
    "url": "https://www.pref.kumamoto.jp/uploaded/life/82485_102250_misc.pdf"
+  },
+  "upg-b-asagiri-jlis": {
+   "label": "地方公共団体情報システム機構（J-LIS）「熊本県内市町村一覧」（県内全45市町村の名称と読みを掲げる一覧で、読みが「ちょう」の町はあさぎり町・山都町・氷川町の3町のみ、名称が平仮名のみで表記される自治体はあさぎり町のみであることが確認できる）",
+   "url": "https://www.j-lis.go.jp/spd/code-address/kyuusyuu/cms_16414187.html"
   }
  },
  "records": [
@@ -583,10 +583,10 @@
     {
      "text": "あさぎり町は熊本県内では山都町・氷川町とともに「まち」でなく「ちょう」と読む数少ない町であり、県内の市町村名で唯一の平仮名表記の自治体である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "r8-asagiri-wiki"
+      "upg-b-asagiri-jlis"
      ]
     },
     {

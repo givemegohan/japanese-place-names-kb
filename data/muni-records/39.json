@@ -520,6 +520,10 @@
   "r3-umaji-wiki": {
    "label": "Wikipedia「馬路村」",
    "url": "https://ja.wikipedia.org/wiki/%E9%A6%AC%E8%B7%AF%E6%9D%91"
+  },
+  "upg-b-tosa-kotobank": {
+   "label": "コトバンク「土佐郡」（平凡社『日本歴史地名大系』。郡名は『続日本紀』神護景雲2年（768年）11月18日条に「土左国土左郡人」とみえ、『土佐国風土記』逸文にも「土左の郡」とあることを記す）",
+   "url": "https://kotobank.jp/word/%E5%9C%9F%E4%BD%90%E9%83%A1-1552913"
   }
  },
  "records": [
@@ -1812,10 +1816,10 @@
     {
      "text": "「土佐」は古代の令制国・土佐国の名であり、町が属する土佐郡も高知県（土佐国）の郡としてこの国名を負っている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "r1-tosa-gun-wiki"
+      "upg-b-tosa-kotobank"
      ]
     },
     {

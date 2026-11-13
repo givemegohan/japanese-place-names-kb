@@ -164,6 +164,10 @@
    "label": "Wikipedia「遠野市」（1954年12月1日に遠野町・青笹村・上郷村・小友村・綾織村・附馬牛村・松崎村・土淵村が合併して遠野市が生まれたこと、柳田國男の『遠野物語』の舞台で河童や座敷童子が登場する民話が伝わること）",
    "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E5%B8%82"
   },
+  "upg-a-yahaba-access": {
+   "label": "矢巾町公式「アクセス」（町役場の所在地を「岩手県紫波郡矢巾町大字南矢幅第13地割123番地」と明記し、「矢幅」が現行の大字名であることを示す）",
+   "url": "https://www.town.yahaba.iwate.jp/chousei/yahabachou/accece"
+  },
   "z6-ichinohe-town-about": {
    "label": "一戸町公式「一戸町について」（一戸の由来は諸説あるが、平安末期から名馬の産地として知られ、その牧場を一から九の戸に分けられたことからといわれていること、昭和32年（1957年）11月1日に一戸町・浪打村・鳥海村・小鳥谷村・姉帯村の1町4村が合併して現在の一戸町が誕生したことを記す）",
    "url": "https://www.town.ichinohe.iwate.jp/soshikikarasagasu/somuka/gyouseikakari/1/372.html"
@@ -2698,9 +2702,10 @@
     {
      "text": "町役場は大字南矢幅に所在し、「矢幅」の表記は「矢巾」とは別に、現在も町内の大字名として残っている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
+      "upg-a-yahaba-access",
       "z7-yahaba-wiki"
      ]
     },
