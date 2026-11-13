@@ -427,6 +427,206 @@
   "x1-toyoake-wikipedia": {
    "label": "Wikipedia「豊明市」（市町村コード232297。市名「豊明」については、宮中の年中行事「豊明節会（とよのあかりのせちえ）」から嘉字の「豊」「明」を採ったとする『豊明町誌』の説と、前後駅付近にあった酒造業の屋号「豊倉」と元号「明治」から採られたとする伝えの両方があること、市西部の地名「前後（ぜんご）」は前郷（南の意）に由来するという市生涯学習課の説明、1972年（昭和47年）8月1日の市制施行を記す）",
    "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%98%8E%E5%B8%82"
+  },
+  "x6-fuso-aichi-bunkazai": {
+   "label": "愛知県「川田家住宅主屋（資料5）」（扶桑町教育委員会提供。『桑によって扶養される町』が町名の由来であること、1906年の扶桑村誕生、1930年の繭生産高県内1位）",
+   "url": "https://www.pref.aichi.jp/uploaded/attachment/272957.pdf"
+  },
+  "x6-fuso-town-ayumi": {
+   "label": "扶桑町公式「扶桑町の歩み」（1952年の町制施行等）",
+   "url": "https://www.town.fuso.lg.jp/chousei/1002199/1002226/1002298.html"
+  },
+  "x6-fuso-wiki": {
+   "label": "Wikipedia「扶桑町」（1889年の4村と1906年の合併、丹羽郡長による命名の伝承）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%89%B6%E6%A1%91%E7%94%BA"
+  },
+  "x6-kota-kids": {
+   "label": "幸田町公式「キッズこうた」（町の成り立ち：広田川にちなむ広田村、駅に合わせた幸田への改称）",
+   "url": "https://www.town.kota.lg.jp/soshiki/2/9.html"
+  },
+  "x6-kota-nenpyo": {
+   "label": "幸田町公式「幸田歴史年表（昭和）」（1908年の幸田村への改称、1952年の町制、1954年の豊坂村合併と読みの変更）",
+   "url": "https://www.town.kota.lg.jp/soshiki/2/52.html"
+  },
+  "x6-kota-wiki": {
+   "label": "Wikipedia「幸田町」（駅名が広田駅との重複を避けて幸田となったとする経緯、改称年を1909年とする記述）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B9%B8%E7%94%B0%E7%94%BA"
+  },
+  "x6-minamichita-ayumi": {
+   "label": "南知多町「南知多町50年のあゆみ」（1961年の合併申請書の理由と町のあゆみ）",
+   "url": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/001/550/minamichitatyounoayumi-hyousi.pdf"
+  },
+  "x6-minamichita-databook": {
+   "label": "南知多町「南知多町データブック（令和3年度版）」（沿革：1961年の5か町村合併、尾州廻船と内田佐七家）",
+   "url": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/001/664/r03databook.pdf"
+  },
+  "x6-oguchi-gikai": {
+   "label": "大口町議会「議会の概要（平成29年度）」（大口町の歩みと沿革：1906年の大口村誕生、1962年の町制、五条川）",
+   "url": "https://www.town.oguchi.lg.jp/secure/9195/02_H29gikai_no_gaiyou.pdf"
+  },
+  "x6-oguchi-kotobank": {
+   "label": "コトバンク「大口町」（平凡社『日本歴史地名大系』とブリタニカ国際大百科事典小項目事典の解説。町名は太口を大口に改めたことによるとする）",
+   "url": "https://kotobank.jp/word/%E5%A4%A7%E5%8F%A3%E7%94%BA-39118"
+  },
+  "x6-oguchi-wiki": {
+   "label": "Wikipedia「大口町」（町名の由来：『太』の点が抜け落ちて相応しくないとされ大口に改めたという伝承）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8F%A3%E7%94%BA"
+  },
+  "x6-oharu-kotobank": {
+   "label": "コトバンク「大治町」（平凡社『日本歴史地名大系』とブリタニカ国際大百科事典小項目事典の解説。1889年の12ヶ村合併、1975年の町制）",
+   "url": "https://kotobank.jp/word/%E5%A4%A7%E6%B2%BB%E7%94%BA-39526"
+  },
+  "x6-oharu-wiki": {
+   "label": "Wikipedia「大治町」（町名の由来を『大いに治まる』を意味する瑞祥地名とする。1913年の海部郡成立を含む沿革）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%BB%E7%94%BA"
+  },
+  "x6-toei-gaiyo": {
+   "label": "東栄町公式「東栄町の概要」（地形と歴史：江戸時代の17村と幕府領、大千瀬川）",
+   "url": "https://www.town.toei.aichi.jp/1095.htm"
+  },
+  "x6-toei-hanamatsuri": {
+   "label": "東栄町観光サイト「東栄町のじかん」（東栄町観光協会。花祭は700年以上続く伝統神事で1976年に国の重要無形民俗文化財に指定）",
+   "url": "https://www.toeinavi.jp/column/detail/72"
+  },
+  "x6-toei-hongo-wiki": {
+   "label": "Wikipedia「本郷町（愛知県）」（1889年の本郷村成立、1921年の町制、1955年の東栄町への合併）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E9%83%B7%E7%94%BA_(%E6%84%9B%E7%9F%A5%E7%9C%8C)"
+  },
+  "x6-toei-kotobank": {
+   "label": "コトバンク「東栄」（小学館『日本大百科全書（ニッポニカ）』の解説。1955年に本郷町と下川・御殿・園の3村が合併改称）",
+   "url": "http://kotobank.jp/word/%E6%9D%B1%E6%A0%84-2851993"
+  },
+  "x6-toei-youran": {
+   "label": "東栄町「東栄町町勢要覧 資料編2022」（地勢・歴史：1889年の5村誕生、1955年の東栄町発足、1956年の編入）",
+   "url": "http://www.town.toei.aichi.jp/secure/1116/tyouseiyouran2022.pdf"
+  },
+  "x7-agui-folklore": {
+   "label": "地名の由来集『「阿久比」の地名の由来』",
+   "url": "https://folklore2017.com/timei990/991026.htm"
+  },
+  "x7-agui-rekishi": {
+   "label": "阿久比町公式サイト『町の歴史』",
+   "url": "https://www.town.agui.lg.jp/0000000179.html"
+  },
+  "x7-higashiura-bunkazai": {
+   "label": "東浦町『ひがしうらのすがた』文化財・歴史（東浦五ヶ村虫供養行事）",
+   "url": "https://www.town.aichi-higashiura.lg.jp/material/files/group/64/0316bunnka-rekishi.pdf"
+  },
+  "x7-higashiura-kotobank": {
+   "label": "日本歴史地名大系『東浦町』項（コトバンク）",
+   "url": "https://kotobank.jp/word/東浦町-849339"
+  },
+  "x7-higashiura-yoran": {
+   "label": "東浦町『町制75周年記念 東浦町勢要覧』",
+   "url": "https://www.town.aichi-higashiura.lg.jp/material/files/group/78/75_yoran_all.pdf"
+  },
+  "x7-kanie-gaiyou": {
+   "label": "蟹江町公式サイト『町の概要』",
+   "url": "https://www.town.kanie.aichi.jp/soshiki/2/chou-gaiyou.html"
+  },
+  "x7-kanie-museum20": {
+   "label": "蟹江町歴史民俗資料館『おうちミュージアム第20回 蟹江町と「カニ」について』",
+   "url": "https://www.town.kanie.aichi.jp/uploaded/attachment/16761.pdf"
+  },
+  "x7-kanie-museum21": {
+   "label": "蟹江町歴史民俗資料館『おうちミュージアム第21回 蟹江祭について』",
+   "url": "https://www.town.kanie.aichi.jp/uploaded/attachment/21965.pdf"
+  },
+  "x7-kanie-wiki": {
+   "label": "Wikipedia『蟹江町』",
+   "url": "https://ja.wikipedia.org/wiki/蟹江町"
+  },
+  "x7-shitara-kanko": {
+   "label": "設楽町観光協会『設楽町の地名のいわれ』",
+   "url": "https://www.kankoshitara.jp/news/detail/307"
+  },
+  "x7-shitara-kotobank-go": {
+   "label": "日本歴史地名大系『設楽郷』項（コトバンク）",
+   "url": "https://kotobank.jp/word/設楽郷-3066125"
+  },
+  "x7-shitara-kotobank-gun": {
+   "label": "日本歴史地名大系『設楽郡』項（コトバンク）",
+   "url": "https://kotobank.jp/word/設楽郡-1168897"
+  },
+  "x7-shitara-tosho": {
+   "label": "東書Eネット『「設楽」の地名のいわれについて』（愛知県）",
+   "url": "https://ten.tokyo-shoseki.co.jp/detail/24508"
+  },
+  "x7-shitara-uub": {
+   "label": "市区町村変遷情報『設楽町』（uub.jp）",
+   "url": "https://uub.jp/upd/c/3109.html"
+  },
+  "x7-taketoyo-jinja": {
+   "label": "武雄神社公式サイト『武雄神社について』",
+   "url": "https://takeojinja.jp/about.php"
+  },
+  "x7-taketoyo-seiyo": {
+   "label": "武豊町『町政概要 令和3年度版』沿革",
+   "url": "https://www.town.taketoyo.lg.jp/_res/projects/default_project/_page_/001/002/260/r3_all.pdf"
+  },
+  "x7-taketoyo-wiki": {
+   "label": "Wikipedia『武豊町』",
+   "url": "https://ja.wikipedia.org/wiki/武豊町"
+  },
+  "x7-tobishima-gaiyo": {
+   "label": "飛島村公式サイト『概要・歴史』",
+   "url": "https://www.vill.tobishima.aichi.jp/sonsei/syoukai/gaiyou.html"
+  },
+  "x7-tobishima-kotobank": {
+   "label": "日本歴史地名大系『飛島村』項（コトバンク）",
+   "url": "https://kotobank.jp/word/飛島村-105636"
+  },
+  "x7-tobishima-wiki": {
+   "label": "Wikipedia『飛島村』",
+   "url": "https://ja.wikipedia.org/wiki/飛島村"
+  },
+  "x7-tobishima-yoran": {
+   "label": "飛島村『村勢要覧2020』歴史",
+   "url": "https://www.vill.tobishima.aichi.jp/_res/projects/default_project/_page_/001/002/141/youran2020_5.pdf"
+  },
+  "x7-togo-ayumi": {
+   "label": "『東郷町のあゆみ』（地域資料ページ）",
+   "url": "http://www.tcp-ip.or.jp/~tengjing/togo/shiryou/ayumi.html"
+  },
+  "x7-togo-chimei": {
+   "label": "東郷町公式サイト『東郷町の地名あれこれ』",
+   "url": "https://www.town.aichi-togo.lg.jp/soshikikarasagasu/shogaigakushuka/gyomuannai/12/1/1/3/2260.html"
+  },
+  "x7-togo-rekishi": {
+   "label": "東郷町公式サイト『東郷の歴史とタイムマシン』",
+   "url": "https://www.town.aichi-togo.lg.jp/soshikikarasagasu/johokohoka/gyomuannai/1/1624.html"
+  },
+  "x7-toyone-folklore": {
+   "label": "地名の由来集『「豊根」の地名の由来』",
+   "url": "https://www.folklore2017.com/timei990/996188.htm"
+  },
+  "x7-toyone-mytabi": {
+   "label": "愛知の観光情報『豊根村』（aichi.mytabi.net）",
+   "url": "https://aichi.mytabi.net/toyone-village.php"
+  },
+  "x7-toyone-rekishi": {
+   "label": "豊根村公式サイト『村の歴史』",
+   "url": "https://www.vill.toyone.aichi.jp/soshiki/kyoiku/96.html"
+  },
+  "x7-toyone-uub": {
+   "label": "市区町村変遷情報『豊根村』（uub.jp）",
+   "url": "https://uub.jp/upd/c/12792.html"
+  },
+  "x7-toyone-wiki": {
+   "label": "Wikipedia『豊根村』",
+   "url": "https://ja.wikipedia.org/wiki/豊根村"
+  },
+  "x7-toyoyama-50th": {
+   "label": "豊山町『町制施行50周年記念事業実施計画書』",
+   "url": "https://www.town.toyoyama.lg.jp/_res/projects/default_project/_page_/001/003/775/zigyoukeikaku.pdf"
+  },
+  "x7-toyoyama-benricho": {
+   "label": "豊山町『とよやま暮らしの便利帳2026』",
+   "url": "https://www.town.toyoyama.lg.jp/_res/projects/default_project/_page_/001/000/683/2026benricho.pdf"
+  },
+  "x7-toyoyama-shokai": {
+   "label": "豊山町公式サイト『町の紹介』",
+   "url": "https://www.town.toyoyama.lg.jp/chosei/1001063/index.html"
   }
  },
  "records": [
@@ -1060,6 +1260,108 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/23-南知多町",
+   "code": "234451",
+   "names": {
+    "ja": "南知多町",
+    "reading": "みなみちたちょう",
+    "aliases": [
+     "南知多"
+    ]
+   },
+   "user_terms": [
+    "南知多",
+    "みなみちた",
+    "師崎",
+    "篠島",
+    "日間賀島",
+    "内海",
+    "豊浜"
+   ],
+   "naming_type": "合併新設（1961年の合併で付けられた「知多半島の南」という位置の新名）",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "知多半島の南端と沖合の篠島・日間賀島からなる町。1961年（昭和36年）6月1日、内海町・豊浜町・師崎町・篠島村・日間賀島村の3町2村が合併して誕生した。町名は知多半島の南部という位置による新名で、合併の申請書自体に5か町村が「知多半島の南部として」一体に行政を行ってきたことが記されている。",
+   "first_attestation": {
+    "era": "昭和36年",
+    "year_western": 1961,
+    "document": "内海町・豊浜町・師崎町・篠島村・日間賀島村の町村廃置分合申請と南知多町の発足",
+    "note": "町名そのものの初出（合併新設名）"
+   },
+   "claims": [
+    {
+     "text": "1961年（昭和36年）6月1日に、当時の内海町・豊浜町・師崎町・篠島村・日間賀島村の5か町村の合併により南知多町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-minamichita-databook"
+     ]
+    },
+    {
+     "text": "合併に先立ち同年3月23日に県知事へ提出された申請書は、5か町村が「知多半島の南部として従来から相たずさえて行政を行ってきた」ことを合併の理由として記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-minamichita-ayumi"
+     ]
+    },
+    {
+     "text": "町域は知多半島の先端部と、沖合に浮かぶ篠島・日間賀島等の島々からなり、東は三河湾、南西は伊勢湾に面している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-minamichita-databook"
+     ]
+    },
+    {
+     "text": "江戸時代には東西海上交通の要衝の地として海運業が盛んとなり、内海をはじめ町内の多くの船主が千石船を有するほど隆盛を極めた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-minamichita-databook"
+     ]
+    },
+    {
+     "text": "尾州廻船の内海船船主であった内田佐七家の屋敷（南知多町指定文化財）が残され、2006年（平成18年）より修復し公開されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-minamichita-databook"
+     ]
+    },
+    {
+     "text": "南知多町の地方公共団体コードは234451である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "申請書に残る「南」の理由",
+    "text": "合併で生まれる町名の理由は、たいてい後づけの説明しか残らない。南知多町には珍しく、合併そのものの申請書が理由を語っている。「5か町村は知多半島の南部として従来から相たずさえて行政を行ってきた」——つまり「南知多」という名は、新しい造語であると同時に、半島の南という一体の地域を指す古くからの感覚そのものでもあった。本土側の3つの港町と、篠島・日間賀島という2つの島の村を一つの名に束ねた合併だった。",
+    "sources": [
+     "x6-minamichita-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-美浜町"
+   ],
+   "unknowns": [
+    "「南知多」という町名の最終決定の過程（候補名の有無や公募の有無）は公式資料で確認できなかった",
+    "内海・豊浜・師崎・篠島・日間賀島など旧町村名それぞれの語源は本バッチでは扱っていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/23-名古屋市",
    "code": "231002",
    "names": {
@@ -1182,6 +1484,109 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/23-大口町",
+   "code": "233617",
+   "names": {
+    "ja": "大口町",
+    "reading": "おおぐちちょう",
+    "aliases": [
+     "大口",
+     "太口村（当初の表記とされる）",
+     "小口村・太田村・富成村（合併前の村）"
+    ]
+   },
+   "user_terms": [
+    "大口",
+    "おおぐち",
+    "丹羽郡の大口",
+    "五条川の桜"
+   ],
+   "naming_type": "合併新設（太田村と小口村の合成名「太口」の表記を改めたもの）",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "丹羽郡、五条川中流の町。町名のもとは太田村の「太」と小口村の「口」を合わせた「太口村」で、「太」の字の点が抜け落ちたように見えるのは相応しくないとして「大口」に改めたと伝えられる。1906年（明治39年）に大口村が発足し、1962年（昭和37年）に町制を施行した。",
+   "first_attestation": {
+    "era": "明治39年",
+    "year_western": 1906,
+    "document": "富成村・小口村・太田村と柏森村の一部の合併による大口村の発足",
+    "note": "「太口」の表記がいつまで使われいつ「大口」に改められたかは町史未確認のため、ここでは大口村の成立を初出とする"
+   },
+   "claims": [
+    {
+     "text": "町名は、太田村と小口村が合体して「太口村」が成立した際、「太口」を「大口」に変更したことによるとブリタニカ国際大百科事典は説明する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x6-oguchi-kotobank"
+     ]
+    },
+    {
+     "text": "元々の漢字表記は太田と小口から一文字ずつ取った「太口村」であったが、後に「太」の点部分が抜け落ちて相応しくないとされ、現在の「大口」の表記になったと伝えられる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x6-oguchi-wiki"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）の町村制で富成村・小口村・太田村が成立し、1906年（明治39年）にこの3か村と柏森村の一部である余野が合併して大口村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-oguchi-gikai"
+     ]
+    },
+    {
+     "text": "1962年（昭和37年）に町制を施行して大口町と改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-oguchi-gikai"
+     ]
+    },
+    {
+     "text": "町の中央を五条川が貫流し、その流域に木曽川の沖積層からなる肥沃な田園が広がっている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-oguchi-gikai"
+     ]
+    },
+    {
+     "text": "大口町の地方公共団体コードは233617である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えた「点」一つの改名劇",
+    "text": "「大口」という地名は全国にあり、多くは川の出口や大きな入口を意味する普通の地名である。ところが丹羽郡の大口は違う。太田の「太」と小口の「口」を合わせた「太口」がもとの名で、「太」の字は点が取れると「大」に紛れる——その見かけの不都合を嫌って「大口」に書き改めたという。結果として、合成地名でありながら、全国にありふれた「自然地名」と同じ顔を持つ町名になった。読みも「おぐち」（小口）から「おおぐち」へと変わっている。",
+    "sources": [
+     "x6-oguchi-kotobank",
+     "x6-oguchi-wiki"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-扶桑町"
+   ],
+   "unknowns": [
+    "「太口村」から「大口村」への表記変更の正確な時期と手続きは『大口町史』未確認のため特定できなかった",
+    "合併構成について、町議会資料は1906年に富成村・小口村・太田村＋柏森村の一部とする一方、ブリタニカは太田村と小口村の合体とするなど、資料により記述の粒度が異なる",
+    "小口村の「小口」（おぐち）自体の語源は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/23-大府市",
    "code": "232238",
    "names": {
@@ -1279,6 +1684,109 @@
     "「大府」の語源について、『角川日本地名大辞典』『日本歴史地名大系』など専門辞典の説明は本バッチでは確認できておらず、市の沿革が伝える言い伝え以外の学術的な裏づけは未確認",
     "「大府」の表記が現れる最古の文書は特定できていない",
     "七津大夫という人物の実在性は確認できない（市の沿革も「いわれ」の形で伝えている）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-大治町",
+   "code": "234249",
+   "names": {
+    "ja": "大治町",
+    "reading": "おおはるちょう",
+    "aliases": [
+     "大治",
+     "大治村（1975年までの旧称）"
+    ]
+   },
+   "user_terms": [
+    "大治",
+    "おおはる",
+    "海部郡の大治町",
+    "難読地名おおはる"
+   ],
+   "naming_type": "新規命名（1889年の合併時の新名。「大いに治まる」の瑞祥地名と説明される）",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "名古屋市の西に接する海部郡の町。「大治」は1889年（明治22年）に12ヶ村が合併して大治村となった際の新名で、「大いに治まる」を意味する瑞祥地名であるという。読みは「おおはる」で、難読地名として知られる。1975年（昭和50年）に町制を施行して大治町となった。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行による大治村の発足",
+    "note": "合併時の新名そのものの初出"
+   },
+   "claims": [
+    {
+     "text": "1889年（明治22年）に、江戸時代に大代官管轄であった砂子村・鎌須賀村・八ッ屋村の3ヵ村と、清須代官下の長牧村・東条村・北間島村・堀ノ内村・馬島村・三本木村・花常村・中島村・西条村の9ヵ村、計12ヵ村が合併して大治村となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x6-oharu-kotobank"
+     ]
+    },
+    {
+     "text": "「大治」は「大いに治まる」を意味する瑞祥地名であるという",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "x6-oharu-wiki"
+     ]
+    },
+    {
+     "text": "1975年（昭和50年）に町制を施行して大治町となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x6-oharu-kotobank"
+     ]
+    },
+    {
+     "text": "町は海部郡の東端に位置し、庄内川を隔てて名古屋市に接している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x6-oharu-kotobank"
+     ]
+    },
+    {
+     "text": "1913年（大正2年）に海東郡と海西郡の区域が海部郡となり、大治村は海部郡に属することになった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x6-oharu-wiki"
+     ]
+    },
+    {
+     "text": "大治町の地方公共団体コードは234249である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「おおはる」と読む理由は霧の中",
+    "text": "初めて見る人はたいてい「だいじ」か「おおじ」と読む。だがこの町は「おおはる」である。名古屋の西の小さな町は、愛知県内でも指折りの難読地名として知られる。「大いに治まる」という瑞祥の意味づけは伝わるが、なぜ「はる」と読むのかを説明する資料は見当たらない。元号の「大治」（1126〜1131年）との関係も確認できていない。読みの由来は霧の中に残されたまま、それでも町は「元気なまち おおはる」を掲げてこの読みを名乗っている。",
+    "sources": [
+     "x6-oharu-wiki",
+     "x6-oharu-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-あま市",
+    "muni/23-名古屋市"
+   ],
+   "unknowns": [
+    "「大治」の読みが「おおはる」となった経緯は、調査した資料では確認できなかった",
+    "元号「大治」（1126〜1131年）や中世の荘名・村名との直接の関係は確認できなかった",
+    "瑞祥地名説の典拠となる1889年当時の命名記録は未確認"
    ],
    "updated": "2026-11-13"
   },
@@ -1913,6 +2421,123 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/23-幸田町",
+   "code": "235016",
+   "names": {
+    "ja": "幸田町",
+    "reading": "こうたちょう",
+    "aliases": [
+     "幸田",
+     "広田村（1906〜1908年の旧称）",
+     "幸田村",
+     "幸田町（こうだちょう、1954年までの読み）"
+    ]
+   },
+   "user_terms": [
+    "幸田",
+    "こうた",
+    "こうだ",
+    "幸田駅",
+    "額田郡の町"
+   ],
+   "naming_type": "その他（駅名に合わせた改称。1954年の合併時に読みを「こうだ」から「こうた」へ変更）",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "額田郡唯一の町。1906年（明治39年）に坂崎村・相見村・深溝村が合併して、土地を流れる広田川にちなむ広田村（こうだむら）となり、1908年に開業した東海道本線の駅名「幸田」に合わせて幸田村へ改称した。1952年（昭和27年）に町制を施行し、1954年（昭和29年）に豊坂村と合併した際、読みを「こうだ」から「こうた」に改めたが、駅名は今も「こうだ」のままである。",
+   "first_attestation": {
+    "era": "明治41年",
+    "year_western": 1908,
+    "document": "東海道本線幸田駅の開業と、広田村から幸田村への改称",
+    "note": "「幸田」の名そのものの初出は駅名。町公式年表は改称を1908年とするが、1909年とする資料もあり確定していない（claims参照）"
+   },
+   "claims": [
+    {
+     "text": "1906年（明治39年）に坂崎村・相見村・深溝村が合併して生まれた村は、この地を流れる広田川にちなんで広田村（こうだむら）と名付けられた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-kota-kids"
+     ]
+    },
+    {
+     "text": "町公式年表は、1908年（明治41年）7月28日に東海道本線の幸田駅に合わせて広田村が幸田（こうだ）村に改称し、同年9月11日に幸田駅が開業したと記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-kota-nenpyo"
+     ]
+    },
+    {
+     "text": "駅名が「広田」でなく「幸田」となったのは、すでに広田駅が存在したため、同音の「幸田」を当てたことによるとされる。また、村の改称年を1909年（明治42年）とする資料もあり、町公式年表の1908年と食い違う",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "x6-kota-wiki"
+     ]
+    },
+    {
+     "text": "1952年（昭和27年）4月1日に町制を施行し、幸田町（こうだちょう）が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-kota-nenpyo"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）8月1日に幡豆郡豊坂村と合併して新生幸田町が誕生し、この時に町名の読みが「こうだ」から「こうた」に改められた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-kota-nenpyo"
+     ]
+    },
+    {
+     "text": "読みの変更後もJR東海道本線の幸田駅の駅名は「こうだ」のままであり、町名と駅名で読みが食い違う状態が続いている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x6-kota-wiki"
+     ]
+    },
+    {
+     "text": "幸田町の地方公共団体コードは235016である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "駅が村の名を決め、合併が読みを変えた",
+    "text": "幸田の名は、村が先ではない。1906年に生まれた村は川の名を取って「広田村」だった。ところが1908年に鉄道の駅ができる際、先に広田駅が存在したため、同音の「幸田」が駅名に選ばれ、村は駅に合わせて改称した。さらに1954年の合併では、町は読みだけを「こうだ」から「こうた」に変えた。駅は今も「幸田（こうだ）駅」。車窓の案内と町の看板で読みが違うという、駅名由来の町ならではのねじれが残っている。",
+    "sources": [
+     "x6-kota-kids",
+     "x6-kota-nenpyo",
+     "x6-kota-wiki"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-岡崎市",
+    "muni/23-西尾市",
+    "muni/23-蒲郡市"
+   ],
+   "unknowns": [
+    "幸田村への改称年は町公式年表（1908年）と一部資料（1909年）で食い違い、本バッチでは確定できなかった",
+    "駅名に「幸」の字が選ばれた詳しい経緯（命名者や理由）は公式資料で確認できなかった",
+    "広田川の「広田」の語源自体は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/23-弥富市",
    "code": "232351",
    "names": {
@@ -2132,6 +2757,109 @@
    ],
    "unknowns": [
     "旧佐織町の名「佐織」の語源（佐織神社・機織りとの関係など）は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-扶桑町",
+   "code": "233625",
+   "names": {
+    "ja": "扶桑町",
+    "reading": "ふそうちょう",
+    "aliases": [
+     "扶桑",
+     "扶桑村（1952年までの旧称）"
+    ]
+   },
+   "user_terms": [
+    "扶桑",
+    "ふそう",
+    "守口大根の町",
+    "桑の町",
+    "養蚕の町"
+   ],
+   "naming_type": "新規命名（1906年の合併時の新名。養蚕の桑にちなむ命名と伝えられる）",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "丹羽郡、木曽川南岸の町。「扶桑」は1906年（明治39年）に4村が合併して扶桑村となった際の新名で、養蚕が盛んで桑園の多かった土地柄から「桑によって扶養される町」の意味が込められたと県の資料が伝える。1952年（昭和27年）に町制を施行した。",
+   "first_attestation": {
+    "era": "明治39年",
+    "year_western": 1906,
+    "document": "山名村・豊国村・柏森村・高雄村の合併による扶桑村の発足",
+    "note": "新名そのものの初出"
+   },
+   "claims": [
+    {
+     "text": "1906年（明治39年）に扶桑村が誕生した当時、村の全耕地の大部分が桑園となったほど養蚕が盛んで、「桑によって扶養される町」が町名の由来であると、扶桑町教育委員会提供の愛知県資料が伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-fuso-aichi-bunkazai"
+     ]
+    },
+    {
+     "text": "「扶桑」の名は、当時の丹羽郡長が養蚕の盛んな土地柄から名付けたと伝えられる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x6-fuso-wiki"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）の町村制では高雄村・山名村・豊国村・柏森村の4村に分かれており、1906年にこれらが合併して扶桑村となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x6-fuso-wiki"
+     ]
+    },
+    {
+     "text": "1930年（昭和5年）には繭の生産高が愛知県で第1位となるほど、養蚕は町の基幹産業であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-fuso-aichi-bunkazai"
+     ]
+    },
+    {
+     "text": "1952年（昭和27年）に町制を施行して扶桑町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-fuso-town-ayumi"
+     ]
+    },
+    {
+     "text": "扶桑町の地方公共団体コードは233625である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "神木「扶桑」が桑畑の名になった",
+    "text": "「扶桑」は本来、東方の海に立つという神木の名で、日本国そのものを指す古い言葉でもある。ところが丹羽郡の扶桑は、その壮大な語源とは別の読み方をされた。「扶（たす）ける桑」——養蚕の桑に扶けられて生きる町、という実用の字解きである。村の耕地の大部分が桑園だった時代の名付けで、1930年には繭の生産高が県内1位になった。養蚕が過去の産業となった今も、「桑の町」の名だけが地名に残っている。",
+    "sources": [
+     "x6-fuso-aichi-bunkazai"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-大口町",
+    "muni/23-犬山市",
+    "muni/23-江南市"
+   ],
+   "unknowns": [
+    "郡長による命名という伝承の一次資料（1906年当時の命名記録）は未確認",
+    "「扶桑」の字を選ぶ際に、神木や日本国の異称としての意味が意識されたかどうかは不明"
    ],
    "updated": "2026-11-13"
   },
@@ -2451,6 +3179,228 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/23-東栄町",
+   "code": "235628",
+   "names": {
+    "ja": "東栄町",
+    "reading": "とうえいちょう",
+    "aliases": [
+     "東栄",
+     "本郷町（1955年の合併前の中心自治体）"
+    ]
+   },
+   "user_terms": [
+    "東栄",
+    "とうえい",
+    "花祭の里",
+    "奥三河の町"
+   ],
+   "naming_type": "合併新設（1955年の合併で付けられた新名。命名理由は未確認）",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "北設楽郡南東部、天竜川水系・大千瀬川流域の山間の町。1955年（昭和30年）4月1日に本郷町・下川村・御殿村・園村が合併して発足した。町名「東栄」は合併時の新名だが、命名理由を記した公式資料は確認できていない。国の重要無形民俗文化財に指定された神事「花祭」で知られる。",
+   "first_attestation": {
+    "era": "昭和30年",
+    "year_western": 1955,
+    "document": "本郷町・下川村・御殿村・園村の合併による東栄町の発足",
+    "note": "町名そのものの初出（合併新設名）。ブリーフにあった「2005年に本郷町・下川村・御園村が合併」は誤りで、正しくは1955年、構成は本郷町・下川村・御殿村・園村"
+   },
+   "claims": [
+    {
+     "text": "1955年（昭和30年）に本郷町と下川村・御殿村・園村の3村が合併して東栄町となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x6-toei-kotobank"
+     ]
+    },
+    {
+     "text": "1956年（昭和31年）に振草村の一部と三輪村の一部が東栄町へ編入され、新しい東栄町が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-toei-youran"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）には本郷村・振草村・御殿村・園村・三輪村の5村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-toei-youran"
+     ]
+    },
+    {
+     "text": "本郷村は1921年（大正10年）に町制を施行して本郷町となり、1955年の合併まで大千瀬川沿いの地域の中心であった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x6-toei-hongo-wiki"
+     ]
+    },
+    {
+     "text": "町域は天竜川水系の大千瀬川（振草川）が貫流する山間で、江戸時代には17の村が存在し、そのほとんどは幕府領であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x6-toei-gaiyo"
+     ]
+    },
+    {
+     "text": "町内各地区で冬に行われる「花祭」は700年以上続く伝統神事とされ、1976年（昭和51年）に国の重要無形民俗文化財に指定された",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x6-toei-hanamatsuri"
+     ]
+    },
+    {
+     "text": "東栄町の地方公共団体コードは235628である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "中心の名が消えた合併",
+    "text": "1955年の合併で、中心地だった本郷町の名は自治体名から消えた。採用されたのは、構成町村のどれでもない「東栄」という新しい名である。なぜ「東栄」なのか——「東三河の栄え」といった意味づけは想像できるが、それを記した公式の記録は見つからなかった。合併の名はしばしば理由を残さない。いま町を代表するのは名の由来ではなく、700年以上続くとされる霜月の神事「花祭」で、その開催地の名（月・古戸・中設楽・東薗目など）には合併前の村々の土地の名が生きている。",
+    "sources": [
+     "x6-toei-kotobank",
+     "x6-toei-hanamatsuri"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-設楽町",
+    "muni/23-豊根村",
+    "muni/23-新城市"
+   ],
+   "unknowns": [
+    "「東栄」の命名理由（意味づけや候補名の経緯）は、町公式資料・専門辞典のいずれでも確認できなかった",
+    "御殿村の「御殿」をはじめ、合併前の村名それぞれの語源は本バッチでは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-東浦町",
+   "code": "234427",
+   "names": {
+    "ja": "東浦町",
+    "reading": "ひがしうらちょう",
+    "aliases": [
+     "東浦村"
+    ]
+   },
+   "user_terms": [
+    "東浦",
+    "ひがしうら",
+    "知多半島の町",
+    "ぶどうの町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "知多半島の付け根、衣浦湾の最奥に位置する町。1906年に森岡・緒川・石浜・生路・藤江の5村が合併して東浦村となり、1948年に町制を施行した。近世以来この5村は「東浦五ヶ村」と総称されており、町名は知多半島東岸の浦々に面した広域呼称を引き継いだものとみられるが、命名理由を明記した公式資料は確認できていない。",
+   "first_attestation": {
+    "era": "明治39年",
+    "year_western": 1906,
+    "document": "町村合併による東浦村の発足（東浦町勢要覧）",
+    "note": "自治体名としての初出。「東浦五ヶ村」という広域呼称は近世に遡るが、その初出年代は本調査では確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "東浦町は知多半島の北東部に位置し、東は衣浦湾を隔てて刈谷市と相対し、南は半田市に隣接している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-higashiura-kotobank"
+     ]
+    },
+    {
+     "text": "近世以来、森岡・緒川・石浜・生路・藤江の一帯は「東浦五ヶ村」と総称され、虫供養行事が五ヶ村の持ち回りで受け継がれてきた（県無形民俗文化財「知多の虫供養行事（東浦五ヶ村虫供養行事）」）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-higashiura-bunkazai"
+     ]
+    },
+    {
+     "text": "1906年（明治39年）5月1日に森岡・緒川・石浜・生路・藤江の五か村が合併し、東浦村ができた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-higashiura-yoran"
+     ]
+    },
+    {
+     "text": "1948年（昭和23年）6月1日に町制を施行して東浦町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-higashiura-yoran"
+     ]
+    },
+    {
+     "text": "「東浦」の名は、合併した5村が衣浦湾に面して知多半島の東岸に並ぶことに対応する広域呼称とみられるが、町公式資料に命名理由の明示はなく、断定はできない",
+     "kind": "fact",
+     "level": "H",
+     "status": "inferred",
+     "sources": [
+      "x7-higashiura-yoran",
+      "x7-higashiura-bunkazai"
+     ]
+    },
+    {
+     "text": "かつて淡路島（兵庫県）にも同名の東浦町があり、2005年に淡路町・津名町・北淡町・一宮町と合併して淡路市の一部となり、自治体としては消滅した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-higashiura-kotobank"
+     ]
+    },
+    {
+     "text": "東浦町の地方公共団体コードは234427である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えた、もうひとつの東浦町",
+    "text": "兵庫県の淡路島にも、かつて同じ「東浦町」があった。愛知の東浦町と同じく海に面した町で、読みも同じ「ひがしうら」である。淡路の東浦町は2005年、淡路町・津名町・北淡町・一宮町と合併して淡路市となり、自治体としては消滅した。そのため現在、「東浦町」を名乗る自治体は愛知県知多郡の東浦町だけである。日本歴史地名大系でも両者は並んで項目が立てられており、遠く離れた二つの港町が、図らずも同じ名前を名乗っていた。",
+    "sources": [
+     "x7-higashiura-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-阿久比町",
+    "muni/23-武豊町"
+   ],
+   "unknowns": [
+    "「東浦」の命名理由を明記した町公式資料・当時の記録は確認できなかった",
+    "「東浦五ヶ村」という広域呼称の初出年代は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/23-東海市",
    "code": "232220",
    "names": {
@@ -2567,6 +3517,217 @@
    "unknowns": [
     "公募の応募総数や各候補の得票数など、選定過程の数量的な詳細は市の公式ページでは確認できなかった",
     "旧上野町の「上野」という町名そのものの由来（上野村の命名経緯）は本バッチでは確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-東郷町",
+   "code": "233021",
+   "names": {
+    "ja": "東郷町",
+    "reading": "とうごうちょう",
+    "aliases": [
+     "東郷村",
+     "諸和村",
+     "春木村"
+    ]
+   },
+   "user_terms": [
+    "東郷",
+    "とうごう",
+    "愛知池",
+    "名古屋の隣の町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "名古屋市の東に隣接する、愛知郡唯一の町。1906年に諸和村と春木村が合併して東郷村が発足した。町名は海軍元帥の東郷平八郎とは無関係で、愛知郡の東端・尾張の最東部にあることから「東の郷」の意で名付けられたと町誌が伝える。前身の諸和村も諸輪村と和合村の合成名だった。",
+   "first_attestation": {
+    "era": "明治39年",
+    "year_western": 1906,
+    "document": "町村合併による東郷村の発足（東郷町誌）",
+    "note": "町名としての初出。町域の地名・諸輪は『日本霊異記』の「守り輪の里」に遡ると町公式が紹介する"
+   },
+   "claims": [
+    {
+     "text": "1906年（明治39年）に諸和村と春木村が合併して東郷村が発足した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-togo-ayumi",
+      "x7-togo-chimei"
+     ]
+    },
+    {
+     "text": "町名「東郷」は、合併地が愛知郡の東端、尾張の最東部にあることから「東の郷」の意により命名されたと『東郷町誌』が伝えると、町公式サイトは説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-togo-chimei"
+     ]
+    },
+    {
+     "text": "日露戦争の英雄・東郷平八郎の名にちなむという連想が生じやすいが、町公式の説明は一貫して「東の郷」（位置）由来であり、平八郎由来とする資料は確認できない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-togo-chimei"
+     ]
+    },
+    {
+     "text": "前身の諸和村は1889年に諸輪村と和合村が合併してできた合成名であり、春木村は1878年に傍示本村・祐福寺村・部田村が合併して成立した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-togo-ayumi"
+     ]
+    },
+    {
+     "text": "町域の諸輪は古い地名で、町公式の歴史紹介は、822年頃『日本霊異記』に「阿育智（愛知）郡守り輪の里」と記されたのが諸輪の里のことだと紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-togo-rekishi"
+     ]
+    },
+    {
+     "text": "東郷町の地方公共団体コードは233021である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "東郷平八郎ではない「東郷」",
+    "text": "「東郷」という地名を聞いて多くの人が思い浮かべるのは、日露戦争の連合艦隊司令長官・東郷平八郎だろう。だが愛知郡東郷町の名は元帥とは無関係で、1906年の合併の際、愛知郡の東端・尾張の最東部にあることから「東の郷」の意で付けられたと町誌は伝える。しかも前身の諸和村も、諸輪村と和合村から一字ずつ取った合成名だった。つまり東郷町は、合成地名どうしが合併して生まれた、由緒正しい「作られた地名」なのである。",
+    "sources": [
+     "x7-togo-chimei",
+     "x7-togo-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/23"
+   ],
+   "unknowns": [
+    "東郷村が町制を施行した正確な年月日は、本調査では公的資料で確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-武豊町",
+   "code": "234478",
+   "names": {
+    "ja": "武豊町",
+    "reading": "たけとよちょう",
+    "aliases": [
+     "武豊村"
+    ]
+   },
+   "user_terms": [
+    "武豊",
+    "たけとよ",
+    "衣浦港",
+    "武豊線の終点の町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "知多半島中央部、衣浦湾（衣浦港）に面する町。1878年に長尾村と大足村が合併して武豊村が発足した。町名は、長尾村の氏神・武雄神社の「武」と大足村の氏神・豊石神社の「豊」を一字ずつ取った合成名とされる。1891年に町制を施行し、1954年に富貴村と合併して現在の武豊町となった。",
+   "first_attestation": {
+    "era": "明治11年",
+    "year_western": 1878,
+    "document": "長尾村・大足村の合併による武豊村の発足（武豊町政概要）",
+    "note": "2村の氏神名から合成された新名としての初出"
+   },
+   "claims": [
+    {
+     "text": "1878年（明治11年）に長尾村と大足村が合併して武豊村になり、その後の離合集散を経て、1891年に町制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-taketoyo-seiyo",
+      "x7-taketoyo-wiki"
+     ]
+    },
+    {
+     "text": "町名「武豊」は、長尾村の氏神「武雄神社」と大足村の氏神「豊石神社」の頭文字を一字ずつ取って名付けられたものだと、『角川日本地名大辞典』の記載としてWikipediaが紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-taketoyo-wiki"
+     ]
+    },
+    {
+     "text": "武雄神社は長尾の氏神で、主祭神は須佐之男命。神社の公式紹介によれば、境内は貝塚の上にあり、創建は明らかでないが奈良時代以前に遡るといわれる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-taketoyo-jinja"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）10月5日に（旧）武豊町と富貴村が新設合併して、現在の武豊町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-taketoyo-seiyo"
+     ]
+    },
+    {
+     "text": "武豊港は東海道線敷設のための荷揚げ基地として整備され、ここから資材輸送の軌道が敷かれたのが1886年開業の国鉄武豊線である。港は1957年に衣浦港と改名され重要港湾の指定を受けた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-taketoyo-seiyo"
+     ]
+    },
+    {
+     "text": "町内には浦島太郎伝説が伝わり、「浦島」「竜宮」「乙姫橋」などの地名が残っている",
+     "kind": "legend",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x7-taketoyo-wiki"
+     ]
+    },
+    {
+     "text": "武豊町の地方公共団体コードは234478である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "騎手・武豊が「一日町長」になった町",
+    "text": "JRAの騎手・武豊（たけ・ゆたか）は滋賀県出身で武豊町とは無縁だが、町名とよく似た名前の縁から、1989年と1999年の2度、町に招かれて「一日町長」を務めた。町名の本当の由来は、合併した長尾村と大足村の氏神、武雄神社と豊石神社から一字ずつ取った合成名である。今も長尾地区では武雄神社に6輛の山車が、大足地区では豊石神社に山車が曳き入れられ、町名の由来となった二つの氏神の祭りがそれぞれ受け継がれている。",
+    "sources": [
+     "x7-taketoyo-wiki"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-東浦町",
+    "muni/23-阿久比町"
+   ],
+   "unknowns": [
+    "1878年の合併当時、氏神名から命名したことを示す当時の記録そのものは確認できなかった（由来の説明は『角川日本地名大辞典』の記載として伝わる）",
+    "武雄神社・豊石神社の創建年代は社伝の域を出ない"
    ],
    "updated": "2026-11-13"
   },
@@ -3970,6 +5131,127 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/23-蟹江町",
+   "code": "234257",
+   "names": {
+    "ja": "蟹江町",
+    "reading": "かにえちょう",
+    "aliases": [
+     "蟹江郷",
+     "富吉荘"
+    ]
+   },
+   "user_terms": [
+    "蟹江",
+    "かにえ",
+    "水郷の町",
+    "須成祭",
+    "カニの町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "名古屋市の西隣、海部郡の町。木曽川下流のデルタにあり、町域の約5分の1を河川が占める水郷の町。地名はカニの多い入江に由来すると考えられているが、町歴史民俗資料館は「はっきりとは分からない」とする。文献初出は1215年の水野家文書とされ、1889年に最初から町制で発足した珍しい町でもある。",
+   "first_attestation": {
+    "era": "建保3年",
+    "year_western": 1215,
+    "document": "水野家文書",
+    "note": "「カニエ」の文献初出とされる文書（Wikipediaが紹介）。町資料館は地名の由来そのものは「はっきりとは分からない」としている"
+   },
+   "claims": [
+    {
+     "text": "町歴史民俗資料館は、「蟹江」の地名の由来ははっきりとは分からないとしたうえで、カニが多く住む入江だったからだと考えられていると解説する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "x7-kanie-museum20"
+     ]
+    },
+    {
+     "text": "歴史上「カニエ」という地名が初めて文献に登場したのは1215年（建保3年）の「水野家文書」とされ、当時の蟹江は「蟹江郷」「富吉荘」と呼ばれていた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "x7-kanie-wiki"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）10月1日、蟹江本町村・蟹江新町村・今村・西福田村の一部が合併して、最初から町制で蟹江町が発足した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x7-kanie-wiki"
+     ]
+    },
+    {
+     "text": "1906年（明治39年）に須成村・西之森村・新蟹江村と合併し、1961年の永和村一部の編入で現在の町域がほぼ固まった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x7-kanie-wiki"
+     ]
+    },
+    {
+     "text": "町内には蟹江川・日光川・福田川・善太川・佐屋川などが流れ、町域の約5分の1を河川が占める。大半が海抜ゼロメートル地帯の低平地である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-kanie-gaiyou",
+      "x7-kanie-wiki"
+     ]
+    },
+    {
+     "text": "室町時代に蟹江城が築かれた頃、その守り神として蟹江神明社が建てられたと伝えられ、神明社の祭礼である蟹江祭が今も本町地区で行われる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-kanie-museum21"
+     ]
+    },
+    {
+     "text": "平治の乱（1159年）で敗れた源義朝一行が東国へ落ち延びる途中この地に立ち寄り、漁民のもてなしを受けた島を「源氏島」と呼ぶようになったと伝えられる",
+     "kind": "legend",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x7-kanie-wiki"
+     ]
+    },
+    {
+     "text": "蟹江町の地方公共団体コードは234257である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "日本でただひとつの「蟹」のつく町",
+    "text": "かつて青森県には蟹田町（かにたちょう）があり、「蟹」の字を冠する自治体は二つあった。ところが蟹田町は2005年の合併で外ヶ浜町の一部となって消滅し、以来、「蟹」のつく自治体は蟹江町だけになった。町にはカニをかたどった公式キャラクター「かに丸くん」もいる。ただし名前の主役だったはずのカニは、1962年に日光川水閘門が完成して川が淡水化すると姿を消し、町の漁業協同組合も解散した。名前にだけ、海の記憶が残っている。",
+    "sources": [
+     "x7-kanie-wiki",
+     "x7-kanie-museum20"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-飛島村"
+   ],
+   "unknowns": [
+    "「水野家文書」（1215年）の現物・所蔵先は本調査では確認できなかった",
+    "蟹江城の築城者・築城年を確定できる記録は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/23-西尾市",
    "code": "232131",
    "names": {
@@ -4075,6 +5357,219 @@
     "「西尾」の語源そのもの（なぜ「尾」の字が選ばれたか）は確認できなかった",
     "酒井正親による改名伝説の原拠となる同時代史料は未確認",
     "『今川義元書状』の原文は市公式資料の紹介経由でのみ確認した"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-設楽町",
+   "code": "235610",
+   "names": {
+    "ja": "設楽町",
+    "reading": "したらちょう",
+    "aliases": [
+     "設楽郷"
+    ]
+   },
+   "user_terms": [
+    "設楽",
+    "したら",
+    "奥三河",
+    "北設楽郡の町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "愛知県北東部、奥三河の北設楽郡の町。1956年に田口町・段嶺村・名倉村が合併して発足し、2005年に津具村を合わせた。町名は古代の郡名「設楽郡」の継承で、『和名類聚抄』は設楽郷の訓を「之多良（したら）」とする。「したら」の語源は、設楽神・拍手音・シダ原・新羅人など諸説あって定まらない。",
+   "first_attestation": {
+    "era": "延喜3年",
+    "year_western": 903,
+    "document": "『延喜式』民部頭注",
+    "note": "「延喜三年八月十三日割宝飫郡置設楽郡」とあり郡名としての確認（日本歴史地名大系が紹介）。郷名「設楽」は『和名類聚抄』に訓「之多良」で見える"
+   },
+   "claims": [
+    {
+     "text": "設楽郡は、『延喜式』民部頭注に「延喜3年（903年）8月13日に宝飫（宝飯）郡を割いて設楽郡を置く」とあるとおり、10世紀初頭に宝飯郡の北半が分割独立して成立した（日本歴史地名大系が紹介）",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-shitara-kotobank-gun"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』は設楽郡に賀茂・設楽・黒瀬・多原の4郷を記し、設楽郷の訓は高山寺本で「之太良」、東急本で「之多良」とされる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-shitara-kotobank-gun",
+      "x7-shitara-kotobank-go"
+     ]
+    },
+    {
+     "text": "「したら」の語については、『北設楽郡史』が疫病神の「シタラ神」や拍手の音などの意味に触れつつ、郡名とこれらの言葉の関わりは明らかではないとしている（東書Eネットが紹介）",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "x7-shitara-tosho"
+     ]
+    },
+    {
+     "text": "設楽町観光協会は、地名のいわれとして設楽神説・拍手音説のほか、穂のしだれる郡の「ジダル部」の転訛説、豊穣な土地を表す「足る郷」に発語のシがついた説、新羅人が住んでいたことによる「シンラ」転記説、羊歯（しだ）の生い茂る「シダ原」説など、多くの説を紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "x7-shitara-kanko"
+     ]
+    },
+    {
+     "text": "1956年（昭和31年）9月30日に田口町・段嶺村・名倉村が合併して設楽町が発足し、2005年（平成17年）10月1日に津具村と合併して現在の設楽町となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-shitara-uub"
+     ]
+    },
+    {
+     "text": "町名「設楽」は、合併した町村のいずれの名でもなく、町域が属してきた郡の名「設楽郡」（のち北設楽郡）を継承したものである",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-shitara-uub",
+      "x7-shitara-kotobank-gun"
+     ]
+    },
+    {
+     "text": "設楽町の地方公共団体コードは235610である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「したら」の正体は、誰にも分からない",
+    "text": "設楽町の読み「したら」は、初見ではほぼ読めない難読地名である。その語源も謎が深い。疫神の設楽神、拍手の音、稲穂のしだれる「ジダル部」の転訛、豊かな「足る郷」、渡来した新羅人、羊歯（シダ）の原——町の観光協会が紹介する説だけでも六つある。専門資料の側も慎重で、『北設楽郡史』はシタラ神や拍手音の意味には触れつつ、郡名との関わりは「明らかではない」と結んでいる。10世紀の『和名類聚抄』がすでに「之多良」と訓を残すほど古い名でありながら、意味だけが取り残された地名である。",
+    "sources": [
+     "x7-shitara-kanko",
+     "x7-shitara-tosho"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-豊根村"
+   ],
+   "unknowns": [
+    "「したら」の語源は諸説あり、いずれの説についても決定的な裏付けは確認できなかった",
+    "1956年の新設合併で町名に郡名「設楽」を採用した決定過程（候補名の有無など）は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-豊山町",
+   "code": "233421",
+   "names": {
+    "ja": "豊山町",
+    "reading": "とよやまちょう",
+    "aliases": [
+     "豊山村"
+    ]
+   },
+   "user_terms": [
+    "豊山",
+    "とよやま",
+    "名古屋空港の町",
+    "空港の町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "名古屋市の北に隣接し、県営名古屋空港を擁する町。1906年に豊場村と青山村が合併して豊山村が発足した。町名は豊場の「豊」と青山の「山」を合わせた合成地名とみられる。1972年に町制を施行した。航空のイメージが強いが、地名そのものは明治の合併で生まれた農村の名に由来する。",
+   "first_attestation": {
+    "era": "明治39年",
+    "year_western": 1906,
+    "document": "豊場村・青山村の合併による豊山村の発足（豊山町公式資料）",
+    "note": "豊場・青山の村名自体は江戸期に遡るが、「豊山」の名の初出はこの合併"
+   },
+   "claims": [
+    {
+     "text": "1889年（明治22年）の町村制で豊場村と青山村がそれぞれ自治体となり、1906年（明治39年）に両村が合併して豊山村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-toyoyama-50th",
+      "x7-toyoyama-benricho"
+     ]
+    },
+    {
+     "text": "町名「豊山」は、合併した豊場村の「豊」と青山村の「山」を合わせた合成地名とみられる。両村名の組み合わせであることは名前の形から明らかだが、命名の経緯を明記した町公式資料は確認できていない",
+     "kind": "fact",
+     "level": "H",
+     "status": "inferred",
+     "sources": [
+      "x7-toyoyama-benricho"
+     ]
+    },
+    {
+     "text": "江戸時代、青山村は小牧代官所、豊場村は大代官所（尾張藩）の所管であり、現在の町域は二つの支配の窓口に分かれていた。戦国時代には織田氏の家臣・溝口氏の所領だった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-toyoyama-shokai",
+      "x7-toyoyama-benricho"
+     ]
+    },
+    {
+     "text": "1972年（昭和47年）4月に町制を施行して豊山町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-toyoyama-50th"
+     ]
+    },
+    {
+     "text": "町域には1944年（昭和19年）に陸軍小牧飛行場が完成し、戦後の名古屋空港（現・県営名古屋空港）へとつながった。ただしこの航空の層は、地名「豊山」の成立とは無関係である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-toyoyama-benricho",
+      "x7-toyoyama-50th"
+     ]
+    },
+    {
+     "text": "豊山町の地方公共団体コードは233421である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "同じ町内で、殿様の窓口が違った",
+    "text": "豊山町を形づくる豊場村と青山村は、江戸時代、同じ尾張藩の領内でありながら管轄が分かれていた。青山村は小牧代官所、豊場村は大代官所の所管だったという。年貢や訴えごとを持っていく先が、村を一歩出れば違ったのである。1906年、その二つの村が合併して「豊山村」となった。豊場の豊と青山の山——合成地名は、別々の窓口に通っていた村々が一つの役場に集まる時代の、ささやかな記念碑でもある。",
+    "sources": [
+     "x7-toyoyama-shokai",
+     "x7-toyoyama-benricho"
+    ]
+   },
+   "relations": [
+    "pref/23"
+   ],
+   "unknowns": [
+    "「豊山」が豊場・青山の合成であることを明記した町公式資料は確認できなかった（合成とみられるが断定はできない）",
+    "豊場・青山という村名自体の由来は確認できなかった"
    ],
    "updated": "2026-11-13"
   },
@@ -4332,6 +5827,114 @@
     "『豊明町誌』そのものを直接確認できておらず、豊明節会説は二次紹介経由である",
     "公募や命名理由を示す1889年当時の一次記録は確認できなかった",
     "「桶狭間」の戦いの主戦場の位置については名古屋市側の伝承地もあり、市域との関係は伝説地の指定範囲に限って記録した"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-豊根村",
+   "code": "235636",
+   "names": {
+    "ja": "豊根村",
+    "reading": "とよねむら",
+    "aliases": []
+   },
+   "user_terms": [
+    "豊根",
+    "とよね",
+    "茶臼山高原",
+    "愛知県最高峰の村",
+    "人口最少の村"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "愛知県の北東端、長野県・静岡県境に接する山村。1889年に三沢・上黒川・下黒川・古真立・坂宇場の5村が合併して発足し、2005年に富山村を編入した。村名は「豊かな尾根」という瑞祥地名と説明されるが、村公式資料に命名の経緯は明記されていない。県内最高峰の茶臼山を擁し、人口は愛知県の自治体で最も少ない。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "5村合併による豊根村の発足（豊根村公式『村の歴史』）",
+    "note": "合併時の新名としての初出。合併した5村のいずれの名とも異なる"
+   },
+   "claims": [
+    {
+     "text": "1889年（明治22年）に三沢村・上黒川村・下黒川村・古真立村・坂宇場村の5か村が合併し、豊根村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-toyone-rekishi",
+      "x7-toyone-uub"
+     ]
+    },
+    {
+     "text": "村名「豊根」の命名理由は、村公式の歴史紹介には明記されていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "x7-toyone-rekishi"
+     ]
+    },
+    {
+     "text": "地名の由来を集めた資料では、豊根は1889年の合併時の新命名で、「豊かな尾根」という瑞祥地名だと説明される",
+     "kind": "fact",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "x7-toyone-folklore"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）11月27日に富山村を編入合併し、現在の村域となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-toyone-uub"
+     ]
+    },
+    {
+     "text": "村は長野県との県境に位置し、面積の9割以上が山地である。長野県境の茶臼山（標高1,415メートル）は愛知県の最高峰で、茶臼山高原は県内唯一のスキー場を擁する観光地である",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-toyone-mytabi"
+     ]
+    },
+    {
+     "text": "人口は愛知県の自治体の中で最も少なく、1,000人を下回る県内唯一の自治体である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x7-toyone-wiki"
+     ]
+    },
+    {
+     "text": "豊根村の地方公共団体コードは235636である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "愛知県にあった「富山村」",
+    "text": "富山といえば富山県だが、かつて愛知県にも富山村があった。同じ北設楽郡の山村で、読みは「とみやま」。2005年11月27日に豊根村へ編入され、自治体としては消滅した。平成の大合併では県庁所在地級の大きな合併が注目されがちだが、山あいの小さな村どうしの編入もまた、地図の名前を一つ消した出来事だった。「愛知の富山」は、今は豊根村の一地区の名として残る。",
+    "sources": [
+     "x7-toyone-uub"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-設楽町"
+   ],
+   "unknowns": [
+    "村名「豊根」の命名理由・決定過程は村公式資料に記載がなく、確認できなかった",
+    "合併前の5村（とくに古真立など）の村名の由来は、本調査では追いきれなかった"
    ],
    "updated": "2026-11-13"
   },
@@ -4686,6 +6289,239 @@
     "天正年間の検地帳の具体的な書名・所蔵は市公式資料の紹介からは特定できなかった",
     "「湫＝湿地」説は郷土資料室の説明に基づくが、地名学会等の専門文献での裏付けは未確認",
     "「長くての郷」以前の中世の用例（郷名としての成立時期）は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-阿久比町",
+   "code": "234419",
+   "names": {
+    "ja": "阿久比町",
+    "reading": "あぐいちょう",
+    "aliases": [
+     "阿具比",
+     "英比",
+     "阿古居",
+     "英比谷"
+    ]
+   },
+   "user_terms": [
+    "阿久比",
+    "あぐい",
+    "英比谷",
+    "ホタルの町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "知多半島の中央に位置する、海に面しない町。町名の由来は不明であると町公式が明記するが、694年の藤原京出土木簡に「知多評阿具比」と見える古い地名で、713年の嘉名の令で「英比」と改められ、中世の「阿古居」を経て、後世に「阿久比」の字が定着した。1906年に3村が合併して阿久比村となり、1953年に町制を施行した。",
+   "first_attestation": {
+    "era": "持統8年",
+    "year_western": 694,
+    "document": "藤原京出土木簡",
+    "note": "「甲午年9月12日 知多評阿具比」と記された木簡を、町公式が現在知られる最古の資料として紹介する。表記は現行の「阿久比」ではなく「阿具比」"
+   },
+   "claims": [
+    {
+     "text": "町名「阿久比」の由来は不明であると、阿久比町公式サイトは明記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "x7-agui-rekishi"
+     ]
+    },
+    {
+     "text": "現在知られている最古の資料は藤原京から出土した木簡で、「甲午年（694年）9月12日、知多評（後に知多郡）阿具比」と書かれていたと町公式サイトは紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-agui-rekishi"
+     ]
+    },
+    {
+     "text": "平城京出土の木簡には「英比（あぐい）郷」とあり、これは713年（和銅6年）の「二字」「嘉名」の令によって「阿具比」から改められたものと考えられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-agui-rekishi"
+     ]
+    },
+    {
+     "text": "中世には「阿古居」と書いた例もあり、後世になって英比谷の十数カ村が合併したときに「阿久比」の字を使うようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-agui-rekishi"
+     ]
+    },
+    {
+     "text": "語源については、アグ（高くなった所）をヘ（辺）の転とする説や、ア（接頭語）とクヒ（崩壊地形）による説などが地名資料に紹介されるが、いずれも推測の域を出ない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "x7-agui-folklore"
+     ]
+    },
+    {
+     "text": "菅原道真の孫・英比麿（えびまろ）が住んでいたことに因むという説もある",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "x7-agui-folklore"
+     ]
+    },
+    {
+     "text": "1906年（明治39年）5月1日に阿久比村・東阿久比村・上阿久比村の3か村が合併して阿久比村となり、1953年（昭和28年）1月1日に町制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-agui-rekishi"
+     ]
+    },
+    {
+     "text": "阿久比町の地方公共団体コードは234419である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "1300年のあいだに3回、字が変わった名前",
+    "text": "阿久比の名は、木簡の中で生き残ってきた。694年の藤原京の木簡では「阿具比」、平城京の木簡では713年の改名令を受けた「英比」、中世には「阿古居」と書かれ、近世以降に今の「阿久比」になった。読みは一貫して「あぐい」だが、字のほうは時代ごとに着替え続けたのである。町が「由来は不明」と正直に記すこの地名は、確定した語源こそないものの、どの時代にどんな字で書かれたかという記録の層の厚さでは、県内でも屈指の古さを誇る。",
+    "sources": [
+     "x7-agui-rekishi"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-東浦町",
+    "muni/23-武豊町"
+   ],
+   "unknowns": [
+    "「あぐい」の語源は諸説あるが、いずれも推測の域を出ず、確定できなかった",
+    "藤原京木簡・平城京木簡の釈読内容は町公式サイトの紹介によるもので、木簡そのものの公表資料は直接確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/23-飛島村",
+   "code": "234273",
+   "names": {
+    "ja": "飛島村",
+    "reading": "とびしまむら",
+    "aliases": [
+     "飛島山",
+     "飛島新田"
+    ]
+   },
+   "user_terms": [
+    "飛島",
+    "とびしま",
+    "干拓の村",
+    "海抜ゼロメートルの村",
+    "名古屋港の隣の村"
+   ],
+   "naming_type": "その他",
+   "prefecture": "愛知県",
+   "homonyms": [],
+   "summary": "伊勢湾の最北部、名古屋港に隣接する村。もとは木曽川河口の三角州の中にあった「飛島山」と呼ばれる小高い地で、江戸時代後期に干拓が進み、津金文左衛門が1801年に飛島新田を完成させた。1889年に飛島新田・服岡新田・政成新田が合併して飛島村となり、村域のほぼ全域が干拓地という、土地の成り立ちがそのまま村名になった村である。",
+   "first_attestation": {
+    "era": "寛政3年",
+    "year_western": 1791,
+    "document": "飛島山の干拓開始（日本歴史地名大系『飛島村』項）",
+    "note": "干拓されて「飛島村」と名付けられたとする大系の記述。それ以前は三角州の中の「飛島山」と記された。自治体としての飛島村は1889年成立"
+   },
+   "claims": [
+    {
+     "text": "現在の飛島村の地は、古くは木曽川河口の三角州の中にあった小高い地で、「飛島山」と記されていた（日本歴史地名大系）",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-tobishima-kotobank"
+     ]
+    },
+    {
+     "text": "日本歴史地名大系は、寛政3年（1791）にこの地が干拓されて「飛島村」と名付けられたと記す",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-tobishima-kotobank"
+     ]
+    },
+    {
+     "text": "村公式の要覧は、熱田奉行・船奉行を務めた津金文左衛門が新田開発に着目し、享和元年（1801）に767ヘクタールに及ぶ飛島新田を完成させたとし、彼を「飛島村の生みの親」と紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-tobishima-yoran"
+     ]
+    },
+    {
+     "text": "周辺では元禄5年（1692）の大宝新田、享保11年（1726）の八島新田、享和元年（1801）の服岡新田、文政9年（1826）の政成新田など新田開発が相次ぎ、村域のほぼ全域が近世以降の干拓・新田の土地である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "x7-tobishima-kotobank"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）に飛島新田・服岡新田・政成新田が合併して、現在の飛島村が発足した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "x7-tobishima-wiki"
+     ]
+    },
+    {
+     "text": "村の平均海抜はマイナス1.5メートルで、村全体が干拓地や埋立地からなる海抜ゼロメートル地帯である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "x7-tobishima-gaiyo",
+      "x7-tobishima-wiki"
+     ]
+    },
+    {
+     "text": "飛島村の地方公共団体コードは234273である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「島」の名が残った、元は海の村",
+    "text": "飛島村は、もともと本当に島めいた土地だった。木曽川河口の三角州の中に「飛島山」と記される小高い地があり、周囲は干潟と水面だった。江戸時代後期、熱田奉行・船奉行の津金文左衛門が干拓に乗り出し、1801年に767ヘクタールもの飛島新田を完成させた。村は彼を「飛島村の生みの親」と呼ぶ。干拓で周囲と陸続きになっても「島」の字は地名に残り、今では平均海抜マイナス1.5メートルという数字が、この村の土地の出自を正直に物語っている。",
+    "sources": [
+     "x7-tobishima-kotobank",
+     "x7-tobishima-yoran"
+    ]
+   },
+   "relations": [
+    "pref/23",
+    "muni/23-蟹江町"
+   ],
+   "unknowns": [
+    "「飛島山」と記された時代の具体的な文献名・年代は、日本歴史地名大系の解説でも特定されていなかった",
+    "1791年の干拓開始（日本歴史地名大系）と1801年の飛島新田完成（村要覧）の関係は、着手と完成の違いとみられるが、資料により表現が異なり完全には統一できなかった"
    ],
    "updated": "2026-11-13"
   },
