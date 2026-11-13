@@ -52,10 +52,6 @@
    "label": "長野県南牧村公式サイト「南牧村の歴史」（五か村の合併、大明村の馬産、1886年の馬市場開設の年表）",
    "url": "https://www.minamimakimura.jp/main/about/history.html"
   },
-  "h6-minamimaki-wiki": {
-   "label": "Wikipedia「南牧村 (長野県)」（市町村コード20305-0、1889年に海尻・海ノ口・広瀬・平沢と大明村の板橋の区域で発足）",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%89%A7%E6%9D%91_(%E9%95%B7%E9%87%8E%E7%9C%8C)"
-  },
   "h6-nanmoku-futatsu-essay": {
    "label": "個人サイト「南牧村は二つある！」（県境を挟んで近接する二つの南牧村と、道路標識で迷った体験を記す随筆）",
    "url": "http://home.r07.itscom.net/miyazaki/zakki/mura.html"
@@ -104,10 +100,6 @@
    "label": "草津温泉観光協会「歴史（草津年代記）」（日本武尊・行基・源頼朝の発見伝承）",
    "url": "https://www.kusatsu-onsen.ne.jp/youkoso/bunka03.php"
   },
-  "l2-gunma-hensei": {
-   "label": "都道府県市区町村「群馬県の市の変遷」（高崎市の1900年市制、伊勢崎市の1940年誕生と2005年新設合併の変遷表）",
-   "url": "https://uub.jp/trc/p10.html"
-  },
   "l2-isesaki-machinaka": {
    "label": "伊勢崎市「いせさきのまちなか〜その歴史と現在」（赤石の古称と赤土の崖、1565年の伊勢神宮への寄進と伊勢宮建立による伊勢崎の地名の発生、伊勢崎藩と銘仙）",
    "url": "https://www.city.isesaki.lg.jp/material/files/group/43/machinakasassisyuuseibann.pdf"
@@ -155,10 +147,6 @@
   "m3-kiryu-nenpyo": {
    "label": "桐生市公式 市勢要覧・年表（1921年3月1日の市制施行、2005年6月13日の新里村・黒保根村との合併）",
    "url": "https://www.city.kiryu.lg.jp/shisei/profile/1002964.html"
-  },
-  "m3-kiryu-wiki": {
-   "label": "Wikipedia「桐生市」（地名の由来として桐の自生説と霧生説を挙げ「どちらも決め手は無い」とする）",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A1%90%E7%94%9F%E5%B8%82"
   },
   "m3-kotobank-fujioka-machi": {
    "label": "コトバンク 日本歴史地名大系「藤岡町」（富士浅間神社縁起書の「富士岡」の由来、『続太平記』に永享の乱で藤岡に陣を張った記事）",
@@ -264,6 +252,34 @@
    "label": "沼田市公式サイト「真田の里・沼田城」（天文元年に沼田顕泰が蔵内城として築城、天正8年に真田昌幸が入城、天正18年に信幸が初代城主、慶長年間の五層天守、天和元年の改易と破却）",
    "url": "https://www.city.numata.gunma.jp/kanko/1004186/1004286/sanada/1001156.html"
   },
+  "upg-aa4-azuma-geoshape": {
+   "label": "歴史的行政区域データセット（Geoshape）「群馬県吾妻郡東村」（東村の有効期間は1889年4月1日から2006年3月27日まで）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/10422A1968.html"
+  },
+  "upg-aa4-gunma-hayami1": {
+   "label": "群馬県公式「市町村名変遷早見表（その1）」（上野村の読みは「ウエノ」、伊勢崎市の1940年・2005年の合併、高崎町の1900年4月1日市制施行などの変遷を記す）",
+   "url": "https://www.pref.gunma.jp/page/14541.html"
+  },
+  "upg-aa4-kiryu-kudo": {
+   "label": "工藤進「桐生川と利根川―日本河川名の語源について」（明治学院大学機関リポジトリ掲載の論文。「桐生」という地名については、その漢字から「桐の木の自生地」とする説と、「キリュウ（古くはキリフ）」という音から「霧生」（霧の発生地）とする説があるが、両方とも民間語源の域を出ないとする）",
+   "url": "https://meigaku.repo.nii.ac.jp/record/1528/files/karuchuru_1_17-25.pdf"
+  },
+  "upg-aa4-midori-toshi-center": {
+   "label": "日本都市センター「合併市町村の事例・みどり市」（合併協議会への調査に基づく合併経緯。桐生広域圏の枠組みでの調整、2002年の桐生市からの合併提案、2004年10月11日の大間々町住民投票（桐生市・新里村・黒保根村を対象市町村とする合併協議会設置協議について）などを記す）",
+   "url": "http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/midori060728.pdf"
+  },
+  "upg-aa4-ndl-minakami": {
+   "label": "国立国会図書館典拠データ「水上町（群馬県）」（旧・水上町の読みを「ミナカミマチ」とする）",
+   "url": "https://id.ndl.go.jp/auth/ndlna/00372347"
+  },
+  "upg-aa4-osutaka-tohoku": {
+   "label": "伊達一馬・李仁子「日航機墜落事故の慰霊行事についての人類学的研究」（『東北大学大学院教育学研究科研究年報』第74集第1号、2025年。墜落地点である「御巣鷹の尾根」は事故後に当時の上野村村長が命名したこと、事故後に「御巣鷹の尾根」と銘々された上野村の山中に墜落したことを記す）",
+   "url": "https://tohoku.repo.nii.ac.jp/record/2007294/files/%E5%B9%B4%E5%A0%B174%281%29_02.pdf"
+  },
+  "upg-aa4-ueno-cmp-report": {
+   "label": "上野村公式サイト掲載「チェンジ・メイカー育成プログラム フィールドワーク報告 レポート第2回」（立命館東京キャンパス主催のプログラム報告。黒澤丈夫村長（当時）のリーダーシップのもとで日航機墜落事故への対応が行われたこと、同村が平成の市町村合併を拒否し自立的な自治を実践していることで知られることを記す）",
+   "url": "http://uenomura.jp/221110__%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E7%AC%AC2%E5%9B%9EFW%E7%B7%A8.pdf"
+  },
   "w7-minakami-env": {
    "label": "環境省「みなかみ町国民保養温泉地計画書」（令和6年3月。みなかみ町は平成17年（2005年）10月に月夜野町・水上町・新治村の2町1村が合併した町で、町名は若山牧水の「みなかみ紀行」に由来すること、町内の温泉地は「みなかみ18湯」と総称されることを記す）",
    "url": "https://www.env.go.jp/nature/onsen/area/pdf/hoyo_023.pdf"
@@ -279,10 +295,6 @@
   "w7-minakami-water": {
    "label": "水資源機構広報誌「水のひろば」みなかみ町紹介（みなか町役場職員の寄稿。群馬県みなかみ町は平成17年10月1日に旧新治村・旧水上町・旧月夜野町の3町村が合併して誕生したこと、「みなかみ」という町名は何度も当地を訪れた若山牧水の紀行文「みなかみ紀行」に由来していること、町の北端の大水上山の三角雪渓からの一滴が利根川の源であると言われ「利根川源流の町」と言われる所以であることを記す）",
    "url": "https://www.water.go.jp/honsya/honsya/pamphlet/kouhoushi/topics/pdf/05mizunohiroba/1403-07.pdf"
-  },
-  "w7-minakami-wiki": {
-   "label": "Wikipedia「みなかみ町」（2005年（平成17年）10月1日に月夜野町・水上町・新治村が対等合併してみなかみ町が発足し、町名の由来は若山牧水の『みなかみ紀行』からとすること、旧水上町は1889年に水上村として発足し1947年10月10日に町制施行して水上町（みなかみまち）となったことを記す）",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA"
   },
   "w7-shimonita-kotobank": {
    "label": "コトバンク「下仁田」（小学館『日本大百科全書（ニッポニカ）』ほかの解説を収録。下仁田は群馬県南西部・甘楽郡西部の町で1889年（明治22年）に町制施行、1955年（昭和30年）に馬山・青倉・西牧・小坂の4村と合併したこと、中心集落の下仁田は西牧川と南牧川の合流点近くに位置する谷口集落で、近世以来2・5・9の日を市日とする市場町、信州方面への交通の要地として発達したことを記す）",
@@ -343,14 +355,6 @@
   "w8-higashiagatsuma-gunma-arabashi": {
    "label": "群馬県「市町村のあらまし 25．東吾妻町」（団体コード104299、平成18年3月に東村と吾妻町が合併し東吾妻町となったこと、岩櫃城と吾妻渓谷）",
    "url": "https://www.pref.gunma.jp/uploaded/attachment/38114.pdf"
-  },
-  "w8-higashiagatsuma-gunma-hensen1": {
-   "label": "群馬県公式「市町村名変遷一覧表その1」（昭和31年2月1日に原町が改称して吾妻町となったこと、平成18年3月27日に東村と合併して東吾妻町となったこと）",
-   "url": "https://www.pref.gunma.jp/page/14541.html"
-  },
-  "w8-higashiagatsuma-uub-azuma": {
-   "label": "市区町村変遷情報「東村（群馬県吾妻郡）」（1889年に五町田村・箱島村・岡崎新田・奥田村・新巻村の区域をもって東村が成立し、2006年に東吾妻町の一部となった）",
-   "url": "https://uub.jp/upd/c/23404.html"
   },
   "w8-itakura-ryomo-walker": {
    "label": "地域文「りょうもうWalker・板倉町、初秋の田園を歩く」（町名「板倉」はかつて町のほぼ中央に存在した板倉沼に由来すると紹介、水塚の風景）",
@@ -451,10 +455,6 @@
   "w8-shinto-vill-kyoiku": {
    "label": "榛東村教育委員会「榛東村の教育 ―令和7年度榛東村教育行政方針―」（村のあらまし：藤原京出土木簡「上毛野国車評桃井里大贄鮎」、『和名類聚抄』にも見える「桃井」の地名、鎌倉時代の桃井氏）",
    "url": "http://160.16.67.235/manage/contents/upload/68357a5555cd8.pdf"
-  },
-  "w8-shinto-wiki": {
-   "label": "Wikipedia「榛東村」（桃井村の沿革：1889年の成立、郡の変遷、1957年の合併と1959年の改称、相馬原駐屯地）",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A6%9B%E6%9D%B1%E6%9D%91"
   },
   "w8-tsumagoi-gunma-arabashi": {
    "label": "群馬県「市町村のあらまし 22．嬬恋村」（団体コード104256、村制施行日は明治22年4月1日）",
@@ -637,12 +637,14 @@
      ]
     },
     {
-     "text": "この市域の形は、桐生広域圏の合併枠組みを巡る調整の結果による。大間々町の西隣の新里村と、大間々町と東村の間にあった黒保根村が桐生市との合併を選択したため、桐生市に挟まれた3町村が「みどり市」として合併することになったとされる",
+     "text": "この市域の形は、桐生広域圏の合併枠組みを巡る調整の結果である。合併は当初、桐生市を含む広域圏単位で模索され、2004年（平成16年）10月には大間々町で、桐生市・新里村・黒保根村との合併協議会の設置を問う住民投票も行われた。しかし新里村・黒保根村は桐生市との合併を選び（2005年6月13日に桐生市と合併）、残された笠懸町・大間々町・東村の3町村が2006年3月27日に合併してみどり市となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "u4-midori-wikipedia"
+      "upg-aa4-midori-toshi-center",
+      "w8-chiyoda-gunma-hensen",
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
@@ -769,12 +771,13 @@
      ]
     },
     {
-     "text": "最大の旧町であった水上町の読みも「みなかみまち」であり、新町名はその読みを引き継ぎながら漢字表記を捨てて平仮名にしたものだった",
+     "text": "最大の旧町であった水上町の読みも「みなかみまち」であり、新町名「みなかみ」はその読みと同音のまま、表記だけを漢字から平仮名に改めた形になった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "w7-minakami-wiki"
+      "w8-chiyoda-gunma-hensen",
+      "upg-aa4-ndl-minakami"
      ]
     },
     {
@@ -881,10 +884,10 @@
     {
      "text": "村名の読みは、国名「上野（こうずけ）」と同じ漢字でありながら「こうずけ」ではなく「うえの」である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "w7-ueno-wiki"
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
@@ -897,21 +900,22 @@
      ]
     },
     {
-     "text": "上野村は平成の大合併の際に「合併しない宣言」を出し、単独での存続を選んだ",
+     "text": "上野村は平成の大合併の際に合併の道を選ばず、2003年（平成15年）3月12日に村議会が「健全な自治存続に関する決議案」を可決して、単独での存続の方針を明らかにした",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "w7-ueno-wiki"
+      "w9-kanna-uub"
      ]
     },
     {
-     "text": "村域南部の「御巣鷹の尾根」は1985年8月12日の日本航空123便墜落事故の現場で、当時無名だったこの尾根に「御巣鷹の尾根」と命名したのは元村長の黒澤丈夫とされる",
+     "text": "村域南部の「御巣鷹の尾根」は、1985年（昭和60年）8月12日の日本航空123便墜落事故の現場となった尾根で、事故後に当時の上野村村長・黒澤丈夫によって「御巣鷹の尾根」と命名された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "w7-ueno-wiki"
+      "upg-aa4-osutaka-tohoku",
+      "upg-aa4-ueno-cmp-report"
      ]
     }
    ],
@@ -1252,10 +1256,10 @@
     {
      "text": "昭和15年（1940）9月13日、伊勢崎町・殖蓮村・茂呂村が合併して伊勢崎市が誕生し、平成17年（2005）1月1日に赤堀町・東村・境町との新設合併で現在の伊勢崎市となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "l2-gunma-hensei"
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
@@ -1594,13 +1598,12 @@
      ]
     },
     {
-     "text": "両村は県境を挟んで近接しており、Wikipediaの両村の記事はともに相手の村の読みの違いを注記している（共通する層は「南牧」という漢字表記のみ）",
+     "text": "両村は県境を挟んで近接しており、『日本歴史地名大系』とブリタニカ小項目事典は両村を別項目に収載して、群馬側を「なんもくむら」、長野側を「みなみまきむら」と読みを区別している（共通する層は「南牧」という漢字表記のみ）",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "h6-nanmoku-gunma-wiki",
-      "h6-minamimaki-wiki"
+      "h6-nanmoku-kotobank"
      ]
     },
     {
@@ -2077,7 +2080,7 @@
     {
      "text": "「吾妻者耶」の故事は郡名「吾妻」の由来ともされるもので、村名と郡名は同じ伝説の層を共有すると紹介される",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
       "w8-tsumagoi-kankou"
@@ -2785,7 +2788,7 @@
      "status": "established",
      "sources": [
       "w8-higashiagatsuma-gunma-arabashi",
-      "w8-higashiagatsuma-gunma-hensen1"
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
@@ -2804,7 +2807,7 @@
      "status": "established",
      "sources": [
       "w8-higashiagatsuma-gappei-dayori",
-      "w8-higashiagatsuma-gunma-hensen1"
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
@@ -2813,16 +2816,17 @@
      "level": "E2",
      "status": "established",
      "sources": [
-      "w8-higashiagatsuma-gunma-hensen1"
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
-     "text": "前身の東村は明治22年（1889年）に五町田村・箱島村・岡崎新田・奥田村・新巻村の区域をもって成立し、116年間続いた村だった",
+     "text": "前身の東村は明治22年（1889年）に成立し、平成18年（2006年）3月27日に吾妻町と新設合併して東吾妻町となるまで116年間続いた村だった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "w8-higashiagatsuma-uub-azuma"
+      "upg-aa4-azuma-geoshape",
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {
@@ -2858,7 +2862,7 @@
     "text": "2006年の合併で生まれた東吾妻町の名前は、住民公募で決まりました。合併協議会だよりによれば、公募された名称の中から「東吾妻町」が選ばれ、その名付け親賞に輝いたのは、東村の箱島に住む当時9歳の大塚翔太君でした。東村の「東」と吾妻町の「吾妻」をつなぐという、言われてみれば明快な合成です。もっとも、その「吾妻」をたどると、原町が1956年に郡名を名乗り、郡名の由来はさらに日本武尊の妻恋いの伝説にまで遡ります。9歳の子どもが付けた名前の底には、千年を超える地名の層が重なっていたことになります。",
     "sources": [
      "w8-higashiagatsuma-gappei-dayori",
-     "w8-higashiagatsuma-gunma-hensen1"
+     "upg-aa4-gunma-hayami1"
     ]
    },
    "relations": [
@@ -3059,12 +3063,12 @@
      ]
     },
     {
-     "text": "Wikipediaは「桐が多く自生する土地」から「桐生」、「霧が多く発生する土地」から「霧生」とする説も挙げるが、どちらも決め手は無いとしている。",
+     "text": "地名「桐生」の語源を論じた工藤進の論文は、その漢字から「桐の木の自生地」とする説と、「キリュウ（古くはキリフ）」という音から「霧生」（霧の発生地）とする説があるが、両方とも民間語源の域を出ないとする。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "contested",
      "sources": [
-      "m3-kiryu-wiki"
+      "upg-aa4-kiryu-kudo"
      ]
     },
     {
@@ -3211,10 +3215,10 @@
     {
      "text": "改称前の「桃井村」は1889年（明治22年）の町村制で成立した村で、郡の所属は西群馬郡・群馬郡を経て1949年に北群馬郡となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "w8-shinto-wiki"
+      "w8-chiyoda-gunma-hensen"
      ]
     }
    ],
@@ -3851,7 +3855,7 @@
     {
      "text": "新町名は公募で集まった案から選ばれ、応募の上位には「神流」「万中」「神流川」「奥多野」などがあり、最終候補にも「神流」「かんな」「神流川」が残った",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
       "w9-kanna-uub"
@@ -4481,7 +4485,7 @@
      ]
     },
     {
-     "text": "「館林」の語源については、市公式の定説はなく、も確定できなかった。",
+     "text": "「館林」の語源については、市公式の定説はなく、確定できていない。",
      "kind": "fact",
      "level": "E2",
      "status": "indeterminate",
@@ -4553,12 +4557,12 @@
      ]
     },
     {
-     "text": "合成地名の一覧資料でも、群馬県吾妻郡高山村は「尻高村＋中山村」の合成地名として挙げられている",
+     "text": "北川和秀の分類資料では、群馬県吾妻郡高山村は尻高村と中山村の合成地名の例として挙げられている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "h6-takayama-gosei-list"
+      "h6-takayama-gosei-kitagawa"
      ]
     },
     {
@@ -4677,10 +4681,10 @@
     {
      "text": "明治33年（1900）4月1日、群馬郡高崎町が市制を施行して高崎市が誕生した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "l2-gunma-hensei"
+      "upg-aa4-gunma-hayami1"
      ]
     },
     {

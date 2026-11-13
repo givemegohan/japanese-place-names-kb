@@ -21,7 +21,7 @@
    "url": "http://www.library-archives.pref.fukui.lg.jp/fukui/07/kenshi/T2/T2-3-01-03-03-01.htm"
   },
   "h2-hidaka-wakayama-manabi": {
-   "label": "和歌山県教育センター学びの丘「わかやま発見」日高町（1954年の合併と町名の由来）",
+   "label": "和歌山県教育センター学びの丘「わかやま発見」資料編238ページ（日高町・有田川町・美浜町・日高川町・印南町など複数自治体の「町名の由来」を収載。日高町については1954年の合併と町名の由来、有田川町については3町の合併にあたり公募し投票により決定された名称であることを記す）",
    "url": "https://www.manabi.wakayama-c.ed.jp/wakayama_hakken/pdf/section/03/238.pdf"
   },
   "h2-kotobank-ikeda": {
@@ -100,10 +100,6 @@
    "label": "敦賀市「敦賀市文化財保存活用地域計画」（日本書紀の都怒我阿羅斯等伝承と角鹿から敦賀への表記転換、延喜式の敦賀津、氣比神宮の神宮号宣下）",
    "url": "https://www.city.tsuruga.lg.jp/uploaded/attachment/11037.pdf"
   },
-  "n3-uub-fukui-cities": {
-   "label": "都道府県市区町村「福井県の市の変遷」（敦賀市・鯖江市の市制施行日と合併構成）",
-   "url": "https://uub.jp/trc/p18.html"
-  },
   "u6-awara-chimei": {
    "label": "地名の由来資料「『あわら』の地名」（「あわら」は北陸地方で「低湿地」を意味し「芦原」「粟原」などの字をあてたこと、舟津に阿原と呼ばれる地があり、そこで掘られた湯を中心に形成された集落を葦原と呼ぶようになり、その後芦原となったとする説明を記す）",
    "url": "http://folklore2017.com/timei/049.htm"
@@ -156,6 +152,118 @@
    "label": "坂井市「歴史的風致形成の背景」（坂井市公式）（1955年に東十郷村・大関村・兵庫村が合併して坂井村が誕生し1961年に坂井町となったこと、平成18年（2006年）に三国町・丸岡町・春江町・坂井町の4町が合併して坂井市が誕生したこと、合併後も4町の名を残し住所に町名を使用していることを記す）",
    "url": "https://www.city.fukui-sakai.lg.jp/kikakuseisaku/shisei/keikaku/kakushu/documents/03-1rekimachi.pdf"
   },
+  "upg-ae4-ooi-uub": {
+   "label": "市区町村変遷情報「おおい町」（2006年3月3日に遠敷郡名田庄村と大飯郡大飯町が合併して大飯郡おおい町が発足した変遷を記す）",
+   "url": "https://uub.jp/upd/c/1181.html"
+  },
+  "upg-ae4-ooi-yomiuri": {
+   "label": "読売新聞オンライン「合併から20年を迎えたおおい町を伝える記事」（2026年1月3日。名田庄の名を残すため大飯町との対等合併が選ばれた経緯、2005年の意向調査で名田庄の名を字名として残す希望が多数を占めたこと、現在の住所が「おおい町名田庄○○」と表記されることを伝える）",
+   "url": "https://www.yomiuri.co.jp/local/kansai/news/20260103-GYO1T00074"
+  },
+  "upg-x1-echizen-chunichi": {
+   "label": "中日新聞「劔神社 社務所全焼 越前町 初詣の縁起物焼失」（2021年12月15日。越前町織田の劔神社は戦国武将織田信長の先祖が神官を務めていたとされ、織田一族発祥の地と言われていることを報じる）",
+   "url": "https://www.chunichi.co.jp/article/383875"
+  },
+  "upg-x1-echizen-dmo": {
+   "label": "一般社団法人越前町観光連盟のプレスリリース（マピオンニュース掲載。越前町の紹介として、織田信長一族発祥の地である越前町織田の「越前二の宮劔神社」を挙げる）",
+   "url": "https://www.mapion.co.jp/news/release/000000242.000017744-all/"
+  },
+  "upg-x1-echizen-geoshape": {
+   "label": "国立情報学研究所（CODH）「歴史的行政区域データセットβ版」越前町（行政区域コード18423。越前町の有効期間は1955年3月1日からとされ、近隣の市区町村として朝日町・宮崎村・織田町はいずれも2005年2月1日までと記録され、隣接行政区域に越前市が挙がる）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18423A1968.html"
+  },
+  "upg-x1-echizenyaki-mlit": {
+   "label": "国土交通省北陸地方整備局福井河川国道事務所「ふくいの川」伝統産業（越前焼は平安時代末期に始まり日本六古窯の一つに数えられる宮崎村の焼き物であること、宮崎村を中心に古窯跡が広がること、福井県と宮崎村により陶芸村の建設が始まったことを記す）",
+   "url": "https://www-2.kkr.mlit.go.jp/fukui/kasen/siryou/hen1/1syou3/3sangyou7.html"
+  },
+  "upg-x1-eiheiji-geoshape": {
+   "label": "国立情報学研究所（CODH）「歴史的行政区域データセットβ版」永平寺町（行政区域コード18322。永平寺町の有効期間は1962年9月1日からとされ、近隣の市区町村として志比谷村・下志比村・浄法寺村はいずれも1954年3月31日まで、志比村は1962年9月1日まで、松岡町は2006年2月13日までと記録される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18322A1968.html"
+  },
+  "upg-x1-fukui-nenkan": {
+   "label": "福井県『福井県統計年鑑』平成23年版「1 土地」（福井県公式サイト掲載。『図説福井県史』『角川地名大辞典』に基づく沿革として、若狭国では天長2年（825年）に遠敷郡から分かれて大飯郡が置かれたこと、若狭三郡は三方・遠敷・大飯郡であることを記す）",
+   "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/nenkanh23_d/fil/002.pdf"
+  },
+  "upg-x1-imajosyuku-bunka": {
+   "label": "文化遺産オンライン「南越前町今庄宿」（文化庁・国立情報学研究所。今庄宿は17世紀初めに北陸道の宿場町として成立したこと、国の重要伝統的建造物群保存地区に選定されていることを記す）",
+   "url": "https://bunka.nii.ac.jp/heritages/detail/585183"
+  },
+  "upg-x1-japanpost-fukui-merge": {
+   "label": "日本郵便「市町村変更情報（福井県）」（吉田郡松岡町・永平寺町・上志比村が平成18年2月13日に吉田郡永平寺町となったこと、丹生郡朝日町・宮崎村・越前町・織田町が平成17年2月1日に丹生郡越前町となったことなど、県内の市町村合併について変更前の市町村・変更後の市町村・実施日を公表するページ）",
+   "url": "https://www.post.japanpost.jp/zipcode/merge/fukui.html"
+  },
+  "upg-x1-kitamae-kobe": {
+   "label": "神戸市「日本遺産『荒波を越えた男たちの夢が紡いだ異空間～北前船寄港地・船主集落～』」（神戸市公式サイト。構成自治体として福井県の敦賀市・南越前町・坂井市・小浜市を挙げる）",
+   "url": "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkazai/estate/oshirase/h30_nihonisan_kitamebune.html"
+  },
+  "upg-x1-kono-fukue": {
+   "label": "福井県観光連盟「福井県観光素材集」河野北前船主通りガイドツアー（福井県観光公式サイト掲載。河野地区は日本海有数の北前船主を輩出した船主集落で、日本遺産に認定された北前船の歴史を伝える地であることを記す）",
+   "url": "https://www.fuku-e.com/lsc/upfile/articleDetail/0000/2264/2264_d021_file.pdf"
+  },
+  "upg-x1-minamiechizen-305": {
+   "label": "福井県「一般国道305号 赤萩〜河内バイパス」（福井県公式サイト掲載の道路開通資料。国道305号について、ホノケ山付近の交通不能区間の解消により、合併した南越前町内の連携強化が期待されることを記す）",
+   "url": "https://www.pref.fukui.lg.jp/doc/douken/kaituu/dourokaituu__d/fil/kokudou305_akahagikouchi.pdf"
+  },
+  "upg-x1-minamiechizen-kouhou": {
+   "label": "南越前町広報2013年12月号（南越前町公式サイト掲載。2013年11月4日に国道305号ホノケ山トンネルが開通したこと、開通前は今庄地区から河野地区まで越前市を回るルートだったことを所要時間の比較とともに記す）",
+   "url": "http://cms.town.minamiechizen.lg.jp/kouhou/h25/p001587_d/fil/p2-3.pdf"
+  },
+  "upg-x1-nanjo-geoshape": {
+   "label": "国立情報学研究所（CODH）「歴史的行政区域データセットβ版」南条町（行政区域コード18401。南条町の有効期間は1964年9月1日から2005年1月1日までとされ、近隣の市区町村として南条村は1954年1月1日から1964年9月1日まで、南日野村・北杣山村・南杣山村はいずれも1954年1月1日までと記録される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18401A1968.html"
+  },
+  "upg-x1-ooi-geoshape": {
+   "label": "国立情報学研究所（CODH）「歴史的行政区域データセットβ版」おおい町（行政区域コード18483。市区町村名は平仮名の「おおい」で有効期間は2006年3月3日からとされ、近隣の市区町村として大飯町は1955年1月15日から2006年3月3日まで、佐分利村・本郷村・大島村はいずれも1955年1月15日までと記録される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18483A2006.html"
+  },
+  "upg-x1-shikaura-geoshape": {
+   "label": "国立情報学研究所（CODH）「歴史的行政区域データセットβ版」四ケ浦町（有効期間は1946年8月1日から1955年3月1日までとされ、近隣の城崎村も1955年3月1日まで、終了時点の主要な市区町村は越前町と記録される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18B0100007.html"
+  },
+  "upg-x1-takahama-geoshape": {
+   "label": "国立情報学研究所（CODH）「歴史的行政区域データセットβ版」高浜町（行政区域コード18481。高浜町の有効期間は1912年4月1日からと記録される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18481A1968.html"
+  },
+  "upg-x1-wakasa-japanheritage": {
+   "label": "福井県報道発表資料「日本遺産『海と都をつなぐ若狭の往来文化遺産群 ～御食国若狭と鯖街道～』」（福井県公式サイト掲載。申請者は福井県・小浜市・若狭町で、概要として「古代、若狭は海産物や塩など豊富な食材を都に送り朝廷の食を支えた御食国であった」と記す）",
+   "url": "http://www2.pref.fukui.lg.jp/press/atfiles/paNb14297524586f.pdf"
+  },
+  "upg-x1-wakasa-japanpost-kaminaka": {
+   "label": "日本郵便「住所等の変更情報」遠敷郡上中町（上中町は合併により2005年3月31日から三方上中郡若狭町になったこと、旧上中町の字「黒田」は若狭町「上黒田」に住所変更されたことを公表するページ）",
+   "url": "https://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=18&city=1184611&cmp=1"
+  },
+  "upg-x1-wakasa-japanpost-mikata": {
+   "label": "日本郵便「住所等の変更情報」三方郡三方町（三方町は合併により2005年3月31日から三方上中郡若狭町になったこと、旧三方町の字「黒田」は若狭町「東黒田」に住所変更されたことを公表するページ）",
+   "url": "https://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=18&city=1184411&cmp=1"
+  },
+  "upg-x1-wakasa-mlit-tagengo": {
+   "label": "国土交通省「地域観光資源の多言語解説文データベース」若狭の解説文（若狭が朝廷に食材を納めた御食国（みけつくに）であったことを公的機関の解説として記す）",
+   "url": "https://www.mlit.go.jp/tagengo-db/R4-00076.html"
+  },
+  "upg-x1-wakasa-nara": {
+   "label": "舘野和己「『古事記』と木簡に見える国名表記」（奈良女子大学学術情報リポジトリ掲載の学術論文。7世紀には「若侠」「若佐」の2種の国名表記が藤原宮跡出土の木簡に見えること、「若狭」の表記は8世紀の木簡に見えることを記す）",
+   "url": "https://nara-wu.repo.nii.ac.jp/record/2000978/files/AA12405683V4pp17-25.pdf"
+  },
+  "upg-x6-geoshape-kawawada": {
+   "label": "歴史的行政区域データセットβ版（CODH）「今立郡河和田村」（年次別の境界データで1956年12月31日時点では河和田村、1957年12月31日時点では鯖江市として記録され、河和田村が1957年に鯖江市へ編入されたことを示す）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18B0040005.html"
+  },
+  "upg-x6-geoshape-sabae": {
+   "label": "歴史的行政区域データセットβ版（CODH）「鯖江市」（有効期間は1955-01-15〜。近隣市区町村一覧で鯖江町・神明町・中河村・片上村・立待村・吉川村・豊村の有効期間がいずれも1955-01-15までと示される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18207A1968.html"
+  },
+  "upg-x6-geoshape-tsuruga": {
+   "label": "歴史的行政区域データセットβ版（CODH）「敦賀市」（有効期間は1937-04-01〜。近隣市区町村一覧で敦賀町・松原村の有効期間が1937-04-01まで、愛発村・粟野村・東郷村・中郷村・東浦村の有効期間が1955-01-15までと示される）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/18202A1968.html"
+  },
+  "upg-x6-tsuruga-keikaku": {
+   "label": "敦賀市「敦賀市立地適正化計画」第1章「敦賀市のまちづくりの変遷」（昭和12（1937）年に敦賀町と松原村が合併して市制を施行し、昭和30（1955）年に愛発村・粟野村・東郷村・中郷村・東浦村を編入合併して現在の敦賀市になったこと）",
+   "url": "https://www.city.tsuruga.lg.jp/uploaded/attachment/4993.pdf"
+  },
+  "upg-x7-mihama-koho": {
+   "label": "美浜町「広報みはま」2022年4月号（昭和29年2月11日に北西郷村・南西郷村・耳村・山東村の4村が合併して美浜町が誕生したこと。かつてこの地域は「弥美庄」と呼ばれていたことから「美」の字を、4村とも海に接し美しい浜辺があることから「浜」の字を使い、美浜町と名付けられたこと）",
+   "url": "https://www.town.fukui-mihama.lg.jp/uploaded/attachment/4440.pdf"
+  },
   "v8-echizen-wiki": {
    "label": "Wikipedia「越前町」（市町村コード18423-3、1955年3月1日に四ヶ浦町・城崎村が合併して越前町が発足したこと、2005年2月1日に朝日町・越前町・宮崎村・織田町が合併して改めて越前町が発足したこと、丹生郡を当町のみで構成すること、越前焼の産地であること、織田信長は織田氏（織田一族）発祥の地のゆかりの人物であること、町内に越前二宮の劔神社と越前陶芸村があることを記す）",
    "url": "https://ja.wikipedia.org/wiki/越前町"
@@ -184,17 +292,9 @@
    "label": "Wikipedia「南越前町」（市町村コード18404-7、2005年1月1日に南条町・今庄町・河野村が合併して発足したこと、南条郡を構成する唯一の町村であること、2013年の国道305号全通以前は河野地区が実質的な飛地であったこと、今庄宿と北前船寄港地・船主集落が日本遺産であることを記す）",
    "url": "https://ja.wikipedia.org/wiki/南越前町"
   },
-  "v8-nanjo-wiki": {
-   "label": "Wikipedia「南条町」（1954年1月1日に南日野村・北杣山村・南杣山村が合併して南条村が発足し、1964年9月1日に町制施行して南条町となったこと、2005年1月1日に今庄町・河野村と合併して南越前町が発足したことを記す）",
-   "url": "http://ja.wikipedia.org/wiki/南条町"
-  },
   "v8-natasho-tango": {
    "label": "丹後の地名・若狭版「旧・名田庄村（福井県大飯郡おおい町名田庄）」（地名研究サイト。村名は平安時代に設けられた名田荘にちなむこと、「名田」の名称は永暦2年（1161年）11月20日の文書に左衛門尉盛信の私領「名田村」とあるのが初見であること、1955年に奥名田村・知三村が合併して名田庄村となったことを記す）",
    "url": "https://www.tangonotimei.com/wakasa/ooi/natasyov.html"
-  },
-  "v8-ooi-gun-wiki": {
-   "label": "Wikipedia「大飯郡」（天長2年（825年）に若狭国遠敷郡を割いて大飯郡が建てられ、当初は「おほいた」と読まれたこと、郡名は統治を管轄していた役所「大炊寮」の諸司田に由来すると言われること、1955年1月15日に佐分利村・本郷村・大島村が合併して大飯町が発足したことを記す）",
-   "url": "http://ja.wikipedia.org/wiki/大飯郡"
   },
   "v8-ooi-ndlna": {
    "label": "国立国会図書館「Web NDL Authorities」おおい町 (福井県)（「2006年3月, 大飯町と名田庄村が合併し, おおい町となる」と注記する典拠データ）",
@@ -203,10 +303,6 @@
   "v8-ooi-wiki": {
    "label": "Wikipedia「おおい町」（市町村コード18483-7、2006年3月3日に大飯町と名田庄村が合併しておおい町が発足し遠敷郡が消滅したこと、名田庄地区に土御門家が応仁の乱を避けて移り住んだこと、おおい町暦会館があることなどを記す）",
    "url": "https://ja.wikipedia.org/wiki/おおい町"
-  },
-  "v8-ooimachi-wiki": {
-   "label": "Wikipedia「大飯町」（2006年3月3日に名田庄村と合併し、読みは同じだが漢字から平仮名に変更した「おおい町」が新設されたことを記す）",
-   "url": "https://ja.wikipedia.org/wiki/大飯町"
   },
   "v8-takahama-tango": {
    "label": "丹後の地名・若狭版「高浜町（福井県大飯郡高浜町）」（地名研究サイト。町名の由来は中世以来の地名によること、1889年に塩土・若宮・三明・事代・宮崎の5町と9か村が合併して高浜村となり1955年に現在高浜町となったこと、逸見氏が高浜城を本拠としたこと、石川県志賀町の能登高浜は若狭高浜に由来し『志賀町史史料編第二巻』所引の小浜神社文書によれば寛永9年（1632年）に大念寺村の砂浜に新村が立てられたこと、『若狭高浜のむかしばなし』所収の漁師・介左衛門と助五郎の漂着伝説を記す）",
@@ -361,7 +457,7 @@
    "formation": "合併新設",
    "prefecture": "福井県",
    "homonyms": [],
-   "summary": "福井県南西部、若狭地方の大飯郡の町。平成18年（2006年）に大飯町と遠敷郡名田庄村が合併して発足し、この合併で遠敷郡は消滅した。新町名は大飯町の名の読み「おおい」をそのまま受け継ぎ、表記の漢字「大飯」を平仮名に改めたもの。もとの郡名・大飯は天長2年（825年）に遠敷郡を割いて置かれた古い名で、大炊寮の諸司田に由来すると言われる。合併した名田庄村の名は、平安時代の荘園「名田荘」にちなんでいた。",
+   "summary": "福井県南西部、若狭地方の大飯郡の町。平成18年（2006年）に大飯町と遠敷郡名田庄村が合併して発足し、この合併で遠敷郡は消滅した。新町名は大飯町の名の読み「おおい」をそのまま受け継ぎ、表記の漢字「大飯」を平仮名に改めたもの。もとの郡名・大飯は天長2年（825年）に遠敷郡を割いて置かれた古い名である。合併した名田庄村の名は、平安時代の荘園「名田荘」にちなんでいた。",
    "first_attestation": {
     "era": "平成18年",
     "year_western": 2006,
@@ -392,28 +488,30 @@
     {
      "text": "新町名は、大飯町の読み「おおいちょう」をそのままに、漢字の「大飯」から平仮名の「おおい」へ表記を変更したものである",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-ooimachi-wiki"
+      "v8-ooi-ndlna",
+      "v8-fukui-houmu-gappei",
+      "upg-x1-ooi-geoshape"
      ]
     },
     {
      "text": "前身の大飯町は、昭和30年（1955年）1月15日に佐分利村・本郷村・大島村が合併して発足した町である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-ooi-gun-wiki"
+      "upg-x1-ooi-geoshape"
      ]
     },
     {
-     "text": "町が属する大飯郡は、天長2年（825年）に若狭国遠敷郡を割いて建てられた郡で、当初は「おほいた」と読まれた。郡名は、統治を管轄していた役所「大炊寮」の諸司田に由来すると言われる",
+     "text": "町が属する大飯郡は、天長2年（825年）に若狭国遠敷郡を割いて建てられた郡である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-ooi-gun-wiki"
+      "upg-x1-fukui-nenkan"
      ]
     },
     {
@@ -426,12 +524,13 @@
      ]
     },
     {
-     "text": "合併の際、郡の所属をめぐっては名田庄村側に新郡を設ける構想もあったが実現せず大飯郡に属することとなり、名田庄村の各地区の地名には頭に「名田庄」がつけられた",
+     "text": "合併に際し、旧名田庄村の各地区の地名には頭に「名田庄」がつけられ、住所は「おおい町名田庄○○」と表記されるようになった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "v8-ooi-wiki"
+      "upg-ae4-ooi-uub",
+      "upg-ae4-ooi-yomiuri"
      ]
     }
    ],
@@ -449,7 +548,9 @@
    "unknowns": [
     "漢字の「大飯」から平仮名の「おおい」に表記を改めた理由を記した、合併協議会資料等の公式な説明は未確認",
     "大飯郡名の由来とされる「大炊寮の諸司田」説の典拠となる資料は未確認",
-    "荘園「名田荘」の成立経緯や領家の詳細は未確認"
+    "大飯郡の当初の読みとされる「おほいた」の典拠となる資料は未確認",
+    "荘園「名田荘」の成立経緯や領家の詳細は未確認",
+    "合併の際、名田庄村側に新郡を設ける構想があったとする話は、公的資料では確認できなかった"
    ],
    "updated": "2026-11-13"
   },
@@ -621,19 +722,19 @@
     {
      "text": "南越前町は南条郡を構成する唯一の町村である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-minamiechizen-wiki"
+      "b-cap-chiba-soumu-code"
      ]
     },
     {
      "text": "前身の南条町は、昭和29年（1954年）1月1日に南日野村・北杣山村・南杣山村が合併して南条村として発足し、昭和39年（1964年）9月1日に町制を施行して南条町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-nanjo-wiki"
+      "upg-x1-nanjo-geoshape"
      ]
     },
     {
@@ -646,21 +747,24 @@
      ]
     },
     {
-     "text": "若狭湾に面する河野地区は、2013年（平成25年）に国道305号が全通する以前は、役場のある内陸側の南条・今庄地区と直接連絡する車道がなく、実質的な飛び地であった",
+     "text": "若狭湾に面する河野地区は、国道305号のホノケ山付近に交通不能区間があったため、2013年（平成25年）11月にホノケ山トンネルが開通して国道305号が全通する以前は、役場のある内陸側の南条・今庄地区と直接連絡する車道がなく、実質的な飛び地であった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-minamiechizen-wiki"
+      "upg-x1-minamiechizen-305",
+      "upg-x1-minamiechizen-kouhou"
      ]
     },
     {
-     "text": "今庄地区は北陸道の宿場町・今庄宿として栄えた地で、河野地区は北前船の寄港地・船主集落として知られ、いずれも日本遺産に認定されている",
+     "text": "今庄地区は北陸道の宿場町・今庄宿として栄えた地で、その町並みは国の重要伝統的建造物群保存地区に選定されている。河野地区は北前船の寄港地・船主集落として知られ、南越前町は日本遺産「荒波を越えた男たちの夢が紡いだ異空間 ～北前船寄港地・船主集落～」の構成自治体となっている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-minamiechizen-wiki"
+      "upg-x1-imajosyuku-bunka",
+      "upg-x1-kono-fukue",
+      "upg-x1-kitamae-kobe"
      ]
     }
    ],
@@ -1123,10 +1227,11 @@
     {
      "text": "昭和12年（1937年）4月1日に敦賀町と松原村が合併して敦賀市が誕生し、昭和30年（1955年）には東浦村・東郷村・中郷村・愛発村・粟野村の5村が編入された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "n3-uub-fukui-cities"
+      "upg-x6-tsuruga-keikaku",
+      "upg-x6-geoshape-tsuruga"
      ]
     },
     {
@@ -1198,28 +1303,29 @@
     {
      "text": "昭和29年（1954年）3月31日、吉田郡志比谷村・下志比村・浄法寺村が合併して志比村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-eiheiji-wiki"
+      "upg-x1-eiheiji-geoshape"
      ]
     },
     {
      "text": "昭和37年（1962年）9月1日、志比村が改称・町制施行して永平寺町となった。村の名を、村内にある曹洞宗大本山・永平寺の寺名に改めたものである",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-eiheiji-wiki"
+      "upg-x1-eiheiji-geoshape",
+      "v8-eiheiji-mlit"
      ]
     },
     {
      "text": "平成18年（2006年）2月13日、松岡町・永平寺町・上志比村が合併して、改めて永平寺町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-eiheiji-wiki"
+      "upg-x1-japanpost-fukui-merge"
      ]
     },
     {
@@ -1242,12 +1348,12 @@
      ]
     },
     {
-     "text": "永平寺町は吉田郡を構成する唯一の町であり、永平寺の門前町として知られる",
+     "text": "永平寺町は吉田郡を構成する唯一の町である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-eiheiji-wiki"
+      "b-cap-chiba-soumu-code"
      ]
     }
    ],
@@ -1553,12 +1659,12 @@
      ]
     },
     {
-     "text": "一方で、町名は「弥美（みみ）の『美』と砂浜の『浜』を合成した」とする説明もあり、命名の由来は資料によって説明が分かれる",
+     "text": "一方で美浜町は、かつてこの地域が「弥美庄（みみのしょう）」と呼ばれていたことから「美」の字を、合併した4村とも海に接して美しい浜辺があることから「浜」の字を取って名付けたと町の広報で説明しており、命名の由来は資料によって説明が分かれる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "h5-fukui-mihama-wiki"
+      "upg-x7-mihama-koho"
      ]
     },
     {
@@ -1604,8 +1710,8 @@
     "muni/30-美浜町"
    ],
    "unknowns": [
-    "町名の命名理由について町の公式サイト・町勢要覧は明記しておらず、「美しい浜」説と「弥美＋砂浜」合成説のどちらが『美浜町誌』等の町史の記述かは未確認",
-    "合成説の「弥美（みみ）」が何を指す地名か（合併村の一つ耳村（みみ）との関係を含む）は未確認",
+    "町名の命名理由は町の広報（2022年4月号）に公式の説明がある一方、地名資料には「各村に美しい浜があることから」とする説明もあり、『美浜町誌』等の町史がどちらの系統の記述かは未確認",
+    "広報の説明する「弥美」は旧庄名「弥美庄」を指すが、弥美庄の範囲や文献上の裏づけ（合併村の一つ耳村（みみ）との関係を含む）は未確認",
     "命名が公募だったかどうかなど、1954年当時の選定過程の記録は未確認"
    ],
    "updated": "2026-11-13"
@@ -1636,7 +1742,7 @@
     "era": "平成17年",
     "year_western": 2005,
     "document": "若狭町の設置（三方町・上中町の新設合併）",
-    "note": "町名としての初出は命名そのもの。地名「若狭」は7世紀後半の若狭国の設置に遡り、「若狭」の表記は大宝4年（704年）の国印鋳造の頃からとされる"
+    "note": "町名としての初出は命名そのもの。地名「若狭」は7世紀後半の若狭国の設置に遡り、「若狭」の表記は8世紀の木簡に見える"
    },
    "claims": [
     {
@@ -1662,48 +1768,49 @@
     {
      "text": "合併した三方町・上中町はいずれも旧若狭国の郡（それぞれ三方郡・遠敷郡）に属した町であり、新町名にはその国名「若狭」が採用された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-wakasa-wiki",
-      "v8-wakasakuni-wiki"
+      "v8-fukui-houmu-gappei",
+      "upg-x1-fukui-nenkan"
      ]
     },
     {
-     "text": "「若狭」の表記が定まる以前、設置当初の7世紀後半には若侠国・若佐国の2通りの表記があったことが、藤原宮跡出土の木簡から分かっている。「若狭」と書かれるようになったのは8世紀に入ってからで、おそらく国印が鋳造された大宝4年（704年）からとされる",
+     "text": "「若狭」の表記が定まる以前、設置当初の7世紀後半には若侠国・若佐国の2通りの表記があったことが、藤原宮跡出土の木簡から分かっている。「若狭」と書かれるようになったのは8世紀に入ってからである",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v8-wakasakuni-wiki"
+      "upg-x1-wakasa-nara"
      ]
     },
     {
-     "text": "若狭国は当初、遠敷郡と三方郡から成り、天長2年（825年）に遠敷郡の西部が大飯郡として分立して3郡となった",
+     "text": "若狭国は当初、遠敷郡と三方郡から成り、天長2年（825年）に遠敷郡から大飯郡が分かれて3郡となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-wakasakuni-wiki"
+      "upg-x1-fukui-nenkan"
      ]
     },
     {
      "text": "合併の際、旧三方町と旧上中町の双方にあった字「黒田」が重なるため、旧三方町側は東黒田に、旧上中町側は上黒田に変更された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-wakasa-wiki"
+      "upg-x1-wakasa-japanpost-mikata",
+      "upg-x1-wakasa-japanpost-kaminaka"
      ]
     },
     {
-     "text": "若狭は奈良時代に海産物を朝廷に多く献上したことから「御食国」に該当すると推定されており、若狭町は小浜市とともに日本遺産「海と都をつなぐ若狭の往来文化遺産群 ―御食国若狭と鯖街道―」に認定されている",
+     "text": "若狭は古代に海産物や塩など豊富な食材を都に送り、朝廷の食を支えた「御食国」であったとされ、若狭町は小浜市とともに日本遺産「海と都をつなぐ若狭の往来文化遺産群 ―御食国若狭と鯖街道―」に認定されている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-wakasa-wiki",
-      "v8-wakasakuni-wiki"
+      "upg-x1-wakasa-japanheritage",
+      "upg-x1-wakasa-mlit-tagengo"
      ]
     },
     {
@@ -1892,64 +1999,69 @@
     {
      "text": "昭和30年（1955年）3月1日、丹生郡四ヶ浦町と城崎村が合併して、丹生郡越前町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "upg-x1-echizen-geoshape",
+      "upg-x1-shikaura-geoshape"
      ]
     },
     {
      "text": "平成17年（2005年）2月1日、丹生郡朝日町・越前町・宮崎村・織田町が合併して、改めて丹生郡越前町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "upg-x1-japanpost-fukui-merge",
+      "upg-x1-echizen-geoshape"
      ]
     },
     {
      "text": "新町名は、合併した4町村のうち旧越前町の名がそのまま残ったもので、旧国名「越前」を名乗り続けている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "upg-x1-japanpost-fukui-merge",
+      "upg-x1-echizen-geoshape"
      ]
     },
     {
      "text": "越前町は丹生郡を構成する唯一の町である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "b-cap-chiba-soumu-code"
      ]
     },
     {
      "text": "隣接する越前市も同じ旧国名「越前」を名乗る自治体であり、越前町とは別の自治体である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "b-cap-chiba-soumu-code",
+      "upg-x1-echizen-geoshape"
      ]
     },
     {
-     "text": "町内の織田地区は、戦国大名・織田信長の氏族である織田氏の発祥の地とされ、町は織田信長ゆかりの自治体が集まる「織田信長サミット」に旧織田町から引き続いて参加している。町内には越前二宮の劔神社がある",
+     "text": "町内の織田地区は、戦国大名・織田信長の氏族である織田氏の発祥の地とされ、織田氏の先祖が神官を務めていたとされる越前二宮の劔神社がある",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "upg-x1-echizen-chunichi",
+      "upg-x1-echizen-dmo"
      ]
     },
     {
      "text": "越前町は古くから越前焼の産地として知られ、宮崎地区には越前陶芸村がある",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-echizen-wiki"
+      "upg-x1-echizenyaki-mlit"
      ]
     }
    ],
@@ -2027,10 +2139,10 @@
     {
      "text": "明治45年（1912年）4月1日、高浜村が町制を施行して高浜町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v8-takahama-wiki"
+      "upg-x1-takahama-geoshape"
      ]
     },
     {
@@ -2095,7 +2207,8 @@
    "unknowns": [
     "「高浜」という地名そのものの語源（地形に由来する命名と考えられるが、本町について典拠のある説明は未確認。愛知県高浜市では地形由来と説明されるが、同じ語源かどうかは別に確認が必要）",
     "中世における「高浜」の文書上の初出は未確認",
-    "能登高浜への移住について、『高浜町誌』側の記述の詳細は未確認"
+    "能登高浜への移住について、『高浜町誌』側の記述の詳細は未確認",
+    "石川県志賀町との友好都市提携について、締結日を記した自治体公式等の資料は未確認"
    ],
    "updated": "2026-11-13"
   },
@@ -2177,10 +2290,11 @@
     {
      "text": "昭和30年（1955年）1月15日に鯖江町・神明町・中河村・片上村・立待村・吉川村・豊村が合併して鯖江市が誕生し、昭和32年（1957年）には河和田村が編入された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "n3-uub-fukui-cities"
+      "upg-x6-geoshape-sabae",
+      "upg-x6-geoshape-kawawada"
      ]
     },
     {
