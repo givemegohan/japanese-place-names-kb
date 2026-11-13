@@ -53,18 +53,18 @@ records:
     status: established
     sources:
     - q7-kumenan-town-youran
-  - text: 「久米（来目）」は、古代に軍事を担った久米部（来目部）の名に由来するとされる地名が全国に分布するが、美作国久米郡の郡名の直接の由来を伝える確実な資料は確認できていない
+  - text: 『日本歴史地名大系』は、美作を含む諸国の同名の久米郷はいずれも久米部（来目部）の居住地と考えられるとし、伯耆の久米郷についても久米部とよばれた人々が居住した地と考えられると紹介する。一方で美作国久米郡の久米郷の項は郷域の比定にとどまり、郡名の直接の由来を伝える確実な資料は確認できていない
     kind: fact
-    level: E5
+    level: E3
     status: indeterminate
     sources:
-    - q7-wiki-kumeuji
-  - text: 洗濯する女性の白い脹脛に見とれて空から落ちた「久米仙人」の伝説は、大和国（現在の奈良県）の久米寺にまつわる説話であり、岡山県の久米郡・久米南町の地名とは直接の関係が確認されていない
+    - upg-v4-kotobank-kumego
+  - text: 洗濯する女性の白い脹脛に見とれて空から落ちた「久米仙人」の伝説は、『今昔物語集』などに収められた、大和国吉野の竜門寺で修行した仙人が久米寺（現在の奈良県橿原市）を建立したという説話であり、岡山県の久米郡・久米南町の地名とは直接の関係が確認されていない
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q7-wiki-kumeuji
+    - upg-v4-kotobank-kumesennin
   column:
     title: 「南」の一文字に託した、郡の半分の名乗り
     text: 久米南町という名は、久米郡の南半分であることを告げるだけの、きわめて実直な名である。ところがこの町の内側には、名前からは想像できない二つの看板がある。一つは浄土宗の開祖・法然が生まれた誕生寺。旧村名「誕生寺村」が示すとおり、村の名そのものが聖地だった。もう一つは「川柳の町」という文化の看板である。合併で失われた「誕生寺」という個性的な旧名に代わり、町は位置だけを示す無色の名を選んだが、その無色さの上に、信仰と文芸の色を重ねてきた町である。
@@ -372,12 +372,12 @@ records:
     status: established
     sources:
     - q7-wiki-shoo
-  - text: 勝田郡は1900年（明治33年）に勝北郡と勝南郡が合併して成立した郡で、郡役所は勝間田に置かれた
+  - text: 勝田郡は、中世末に勝北郡・勝南郡の二郡に分かれていたものが、1900年（明治33年）に両郡の合併で再び一つの郡となったものであると『精選版 日本国語大辞典』は解説する
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q7-wiki-katsuta
+    - upg-v4-kotobank-katsuta
   - text: 町の中心地・勝間田は、出雲街道（出雲往来）の宿場町として発展し、美作七宿の一つに数えられた
     kind: fact
     level: E4
@@ -392,10 +392,10 @@ records:
     - q7-shoo-machinami
   - text: 町域は、坂田金時（金太郎）の終焉の地として知られる
     kind: legend
-    level: E5
+    level: E2
     status: established
     sources:
-    - q7-wiki-shoo
+    - upg-v4-okayama-ninaite-shoo
   - text: 町は、郡名の「勝田」、中心地の「勝間田」、町名の「勝央」と「勝」の字が重なる縁起のいい地名として、地域ブランド「勝ブランド」を展開している
     kind: fact
     level: E2
@@ -456,24 +456,25 @@ records:
     status: established
     sources:
     - q7-wiki-kibichuo
-  - text: 町域には岡山県の中心点（北緯34度54分35秒・東経133度49分58秒）が含まれ、町は「岡山県のど真ん中」に位置する
+  - text: 町域の岩倉山（岩倉公園）には岡山県の中心点を表現したモニュメントが置かれており、町は県の「ど真ん中」を掲げる
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q7-wiki-kibichuo
-  - text: 旧・賀陽町は1955年（昭和30年）に上房郡の大和村・上竹荘村・豊野村・下竹荘村・吉川村の合併で、旧・加茂川町は同年に御津郡の長田村・豊岡村・新山村・円城村・津賀村の合併で、それぞれ生まれた町である
+    - upg-v4-okayama-kanko-iwakura
+  - text: 旧・賀陽町は1955年（昭和30年）に上房郡の上竹荘村・豊野村・下竹荘村・吉川村と吉備郡大和村の5か村の合併で、旧・加茂川町は同年に御津郡の津賀村・円城村・長田村・豊岡村・新山村の5か村の合併で、それぞれ生まれた町であると、吉備高原中央地域合併協議会の新町建設計画は沿革として記す
     kind: fact
-    level: E5
+    level: E1
     status: established
     sources:
-    - q7-uub-kibichuo
-  - text: 合併前の2町は、旧国でいえば備中国側の上房郡と美作国側の御津郡に分かれており、吉備中央町は旧吉備国の東西を結ぶ位置にある
+    - upg-v4-kibichuo-kenkei
+  - text: 合併前の2町は、旧国でいえば旧・賀陽町が備中国、旧・加茂川町が備前国（一部は備中国）に属しており、吉備中央町は旧吉備国の備前・備中の境に位置する
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q7-uub-kibichuo
+    - upg-v4-kotobank-kayagun
+    - upg-v4-kotobank-kamogawacho
   column:
     title: 岡山に「加賀郡」が生まれた日
     text: 吉備中央町の発足と同時に、岡山県に「加賀郡」という聞き慣れない郡が新設された。石川県の加賀とは無関係で、加茂川町の「加」と賀陽町の「賀」をつないだ、平成の合併が生んだ造語の郡名である。全国でも、合併に伴って郡そのものが新造される例は珍しい。町名の「吉備中央」が旧国名と県の中心点という大きな物語を掲げる一方で、郡名のほうは2町の頭文字という小さな記念碑になっている。一つの合併が、大小二つの新しい名前を残した。
@@ -529,24 +530,25 @@ records:
     status: established
     sources:
     - q7-wake-town-history
-  - text: 『和名類聚抄』では和気郡に坂長・藤野・益原・新田・香登の5郷が記される一方、「和気郷」は磐梨郡に所属していたと紹介される
+  - text: 『日本歴史地名大系』によれば、『和名類聚抄』東急本は和気郡の郷として坂長・藤野・益原・新田・香止（香登）の5郷を挙げる（高山寺本は香止郷を欠く）一方、同書にみえる「和気郷」は磐梨郡に所属する郷として記される
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q7-wiki-wakegun
+    - upg-v4-kotobank-wakegun
+    - upg-v4-kotobank-wakego
   - text: 町は和気氏の祖・和気清麻呂（733〜799年）の生地と伝えられており、清麻呂は天平5年（733年）に備前国藤野郡（現在の和気町）に生まれたと町公式サイトは紹介する
     kind: fact
     level: E2
     status: established
     sources:
     - q7-wake-town-history
-  - text: 地名「和気」と豪族・和気氏の名のどちらが先か（氏が本拠の地名を名乗ったのか、地名が氏に由来するのか）は、確認した資料の範囲では確定していない
+  - text: 地名「和気」と豪族・和気氏の名のどちらが先か（氏が本拠の地名を名乗ったのか、地名が氏に由来するのか）は確定していない。『日本歴史地名大系』も、磐梨郡の和気郷について「郷名から和気氏と関係の深い地域であった可能性を考えることができる」と述べるにとどまる
     kind: fact
-    level: E5
+    level: E3
     status: indeterminate
     sources:
-    - q7-wiki-wakegun
+    - upg-v4-kotobank-wakego
   - text: 町域には3世紀から7世紀にかけての古墳が100基余りあり、製鉄跡も多く残る。古代より官道に沿う要衝の地であった
     kind: fact
     level: E2
@@ -625,12 +627,13 @@ records:
     status: established
     sources:
     - q7-ndl-nagi
-  - text: 那岐山は町の北部に位置する町のシンボルであり、町はその南麓に広がる
+  - text: 那岐山は町の北部にそびえ、町はその南麓に広がる
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q7-wiki-nagi
+    - upg-v4-zck-nagi
+    - upg-v4-kotobank-nagi
   - text: 1889年（明治22年）の町村制では、区域の19の村が豊並村・豊田村・北吉野村の3村に統合された
     kind: fact
     level: E2
@@ -773,12 +776,12 @@ records:
     status: established
     sources:
     - q7-shinjo-vill-plan
-  - text: 村は1889年の町村制施行以来、合併が一切行われていない。2005年（平成17年）に真庭郡の他の町村が合併して真庭市となった際も、新庄村は単独で存続することを選択した（地方公共団体コードは335860）
+  - text: 村は1889年（明治22年）の町村制施行以来、明治・大正・昭和・平成の大合併を乗り越え、合併することなく今日に至っていると新庄村の公式資料は記す（地方公共団体コードは335860）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q7-wiki-shinjo
+    - q7-shinjo-vill-plan
     - b-cap-chiba-soumu-code
   - text: 村の中心は出雲街道の宿場町・新庄宿として栄えた地で、日露戦争の凱旋を記念して1904〜1905年頃に植えられた桜並木は「がいせん桜」として知られる
     kind: fact
@@ -886,6 +889,7 @@ records:
   unknowns:
   - 「新見」の語源（新漢部説）は、市史系の説としてWikipedia経由でしか確認できておらず、専門辞典での裏付けは未確認。
   - 元禄10年の下市から新見への改称についても、一次史料・市公式資料での直接確認はできていない。
+  - 『日本歴史地名大系』の「新見村」の項は、正保郷帳の段階で哲多郡西方村の枝郷に新見村があり、三日市を中心とする町場が新見町と呼ばれていたとするなど、下市からの改称説とは異なる経緯を示しており、両者の関係は未解明である。
   updated: '2026-11-13'
 - id: muni/33-早島町
   code: '334235'
@@ -1120,7 +1124,7 @@ records:
   - pref/33
   - muni/33-笠岡市
   unknowns:
-  - 浅口郡の語源は諸説あり（遠浅の干潟説・波区芸県変形説のほか、入江の浅い出入口に由来する伝承もある）、いずれも決定的な裏付けは確認できなかった。
+  - 浅口郡の語源は諸説あり（遠浅の干潟説・波区芸県変形説のほか、入江の浅い出入口に由来する伝承もある）、いずれも決定的な裏付けは確認できなかった。波区芸県変形説について、Wikipediaの脚注は永山卯三郎『岡山県通史』を出典として示しているが、同書の本文はWebでは確認できず、『日本歴史地名大系』の公開本文にも同説の記載はなかった。
   - 2006年の合併協議会が市名「浅口市」を正式決定した過程の一次資料は確認できなかった。
   updated: '2026-11-13'
 - id: muni/33-瀬戸内市
@@ -1210,12 +1214,12 @@ records:
   formation: 分村・分立
   prefecture: 岡山県
   homonyms: []
-  summary: 1940年（昭和15年）8月3日に児島郡宇野町と日比町が合併して市制を施行した際に生まれた合成地名。市名は、日比町の中心地区だった「玉」と宇野町の「野」を組み合わせて命名されたと説明されている。市の中心港・宇野港は四国への玄関口として栄え、市域には三井造船の創業以来の造船業が集積する。もとは1889年に宇野村と玉村が合併して玉野村が発足しており、「玉野」の名自体はこの村名にさかのぼる。
+  summary: 1940年（昭和15年）8月3日に児島郡宇野町と日比町が合併して市制を施行した際に生まれた合成地名。市名は、日比町玉の「玉」と宇野町の「野」の合成であると説明されている。市の中心港・宇野港は四国への玄関口として栄え、市域には三井造船の創業以来の造船業が集積する。「玉野」の名自体は1889年当時の玉野村にさかのぼり、市名はこの村名にちなむとされる。
   first_attestation:
     era: 明治22年
     year_western: 1889
-    document: 町村制施行時の玉野村の発足（宇野村と玉村の合併）
-    note: 「玉野」の名の初出は行政地名としての玉野村。玉野村は1906年に分村して消滅したが、1940年の市制施行で市名として復活した。
+    document: 町村制施行時の玉野村
+    note: 「玉野」の名の初出は行政地名としての玉野村。1940年の市制施行の際、市名はこの玉野村にちなんで付けられた。
   claims:
   - text: 1940年（昭和15年）に宇野町と日比町が合併して玉野市が誕生したと、玉野市の公式資料は沿革を説明している。
     kind: fact
@@ -1223,18 +1227,18 @@ records:
     status: established
     sources:
     - q1-tamano-city
-  - text: 市名「玉野」は、日比町の人口的・経済的中心地となっていた地区名の「玉」と、宇野町の「野」を組み合わせて命名されたと説明されている。
+  - text: 市名「玉野」は、日比町玉の「玉」と宇野町の「野」の合成であると、ブリタニカ国際大百科事典は説明している。
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q1-tamano-wiki
-  - text: 「玉野」の名は市制より古く、1889年（明治22年）の町村制施行時に宇野村と玉村が合併して玉野村が発足したことにさかのぼるが、この玉野村は1906年（明治39年）に宇野と玉に分村して消滅した。
+    - upg-v8-tamano-britannica
+  - text: 「玉野」の名は市制より古く、市名は1889年（明治22年）当時の玉野村にちなむと、日本大百科全書（ニッポニカ）は説明している。
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q1-tamano-wiki
+    - upg-v8-tamano-nipponica
   - text: 1909年（明治42年）に宇野港が竣工し、1910年（明治43年）に宇野線の開通と宇高連絡船の就航があって、宇野は四国への玄関口となった。
     kind: fact
     level: E2
@@ -1262,7 +1266,8 @@ records:
   relations:
   - pref/33
   unknowns:
-  - 市名の命名理由（「玉」と「野」の組み合わせ）を記した市公式・市史の一次資料は確認できず、Wikipediaの説明に拠った
+  - 市名の命名理由（「玉」と「野」の組み合わせ）は百科事典で確認できたが、それを記した市公式・市史の資料は確認できなかった
+  - 玉野村が宇野村と玉村の合併で発足したことと、1906年（明治39年）に分村して消滅した経緯は、『岡山地名事典』（1974年）を引くWikipediaでしか確認できず、同書の本文は未確認である
   - 大字「玉」そのものの地名の由来は確認できなかった
   updated: '2026-11-13'
 - id: muni/33-真庭市
@@ -1324,10 +1329,12 @@ records:
     - q2-maniwa-wiki-gun
   - text: 郡名「真庭」は、真島郡の「真」と大庭郡の「庭」を組み合わせた合成地名である。
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q2-maniwa-wiki-gun
+    - q2-okayama-pref-furoku
+    - upg-v6-maniwa-city-kaso
+    - upg-v6-maniwa-kotobank-gun
   - text: 真庭市は岡山県下で最大の面積を持つ自治体であり、市域北部には蒜山高原が広がる。
     kind: fact
     level: E2
@@ -1351,7 +1358,7 @@ records:
   - pref/33
   - muni/33-高梁市
   unknowns:
-  - 「真庭」が真島・大庭の合成地名であることの明文の根拠は専門辞典（角川日本地名大辞典・日本歴史地名大系）で直接確認できておらず、Wikipediaの記述に基づく。
+  - 真庭郡の命名の経緯（なぜ真島・大庭の両郡名を組み合わせたか）を記した明治33年当時の資料は確認できていない。
   - 真島郡・大庭郡それぞれの語源は本レコードでは追っていない。
   updated: '2026-11-13'
 - id: muni/33-矢掛町
@@ -1399,13 +1406,12 @@ records:
     status: established
     sources:
     - q8-yakage-oaza-wiki
-  - text: 江戸時代に参勤交代の制度が整うと矢掛は西国街道の宿場に選ばれ、本陣・脇本陣・問屋場などの施設が整備された。本陣（旧矢掛本陣石井家）と脇本陣（旧矢掛脇本陣高草家）の両方が現存する点が矢掛宿の特徴である
+  - text: 矢掛は山陽道（西国街道）の宿場町として栄えた。江戸時代の旧本陣（旧矢掛本陣石井家住宅）と旧脇本陣（旧矢掛脇本陣高草家住宅）が、国の重要文化財に指定されたまま揃って残るのは全国で唯一である、と文化庁の資料が紹介する
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-yakage-zh-wiki
-    - q8-yakage-kasoplan
+    - upg-v5-yakage-bunka
   - text: 町の公式計画書の沿革によれば、1889年に矢掛村など7村が発足し、1896年に矢掛が町制を施行、1954年5月1日に矢掛町と美川・三谷・山田・中川・川面の5村が合併し、1961年に小田町を編入して現在の町域となった
     kind: fact
     level: E2
@@ -1617,11 +1623,12 @@ records:
     - q2-uub-mimasaka
   - text: 市名「美作」は旧国名「美作国」に由来し、合併した6町村はいずれも旧美作国を構成した英田郡・勝田郡に属していた。
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q2-folklore-mimasaka
     - q2-mimasaka-city-keikaku
+    - upg-v6-mimasaka-toshi
+    - upg-v6-mimasaka-kotobank-kuni
   - text: 美作国は和銅6年（713年）に備前国から分かれて成立した国である。
     kind: fact
     level: E2
@@ -1630,10 +1637,11 @@ records:
     - q2-mimasaka-city-keikaku
   - text: 旧美作国の国府は現在の津山市に置かれており、美作市は旧国域の東部の一部にすぎない。市名が指す範囲と現在の市域には大きなずれがある。
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q2-folklore-mimasaka
+    - upg-v6-mimasaka-kotobank-kuni
+    - q2-mimasaka-city-keikaku
   - text: 中心となった旧美作町は、1953年に林野町・湯郷町などが合併して成立した時点で、すでに国名「美作」を町名として採用していた。
     kind: fact
     level: E4
@@ -1655,7 +1663,7 @@ records:
   - pref/33
   - muni/33-備前市
   unknowns:
-  - 市名「美作」の選定過程（公募の有無・候補名・決定理由）を市の一次資料では確認できなかった。
+  - 市名「美作」の選定過程は、日本都市センターの合併協議会資料で、一般公募のうえ選定小委員会が5点に絞り協議会の投票で決定し、選定理由は「古来より備前・備中・美作として県内外に広く知られている地名である」等であったことまで確認できた。候補となった残りの名称自体は確認できていない。
   - 国名「美作」の語源は諸説の確認に至らず未詳のままである。
   - 宮本武蔵の生誕地については播磨国を出生地とする説もあり、美作生誕説の真偽は本レコードでは判定していない。
   updated: '2026-11-13'
@@ -1707,18 +1715,18 @@ records:
     status: established
     sources:
     - q8-misaki-wiki
-  - text: 合併前の旭町の町名は、町の南部を流れる旭川に由来するとされる。合併した3町のうち、川の名を継いだ町名は旭町だけだった
+  - text: 合併前の旭町の町名は旭川に由来する。日本大百科全書（ニッポニカ）は、旧旭町が旭川の中流にあり「旧町名はこれをとった」と記す。合併した3町のうち、川の名を継いだ町名は旭町だけだった
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q8-asahi-wiki
-  - text: 合併前の柵原町は硫化鉄鉱の鉱山として栄えた町で、鉱山の遺構は現在「柵原ふれあい鉱山公園」として残り、「柵原」の名は地区名・施設名として存続している
+    - upg-v5-misaki-asahi-kotobank
+  - text: 合併前の柵原町は、東洋一の硫化鉄鉱山として栄えた柵原鉱山の鉱山町だった。鉱山の歴史は現在「柵原ふれあい鉱山公園」（柵原鉱山資料館）として残され、「柵原」の名は地区名・施設名として存続している、と美咲町公式サイトが紹介する
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-misaki-wiki
+    - upg-v5-misaki-yanahara
   - text: 美咲町の地方公共団体コードは336661である
     kind: fact
     level: E2
@@ -1761,24 +1769,27 @@ records:
     document: 町村制による西粟倉村の発足（1889年6月1日）
     note: 自治体名としての初出。「粟倉」という地域名自体の文献上の初出は確認できなかった
   claims:
-  - text: 1889年（明治22年）6月1日、町村制の施行により筏津村・大茅村・影石村・坂根村・知社村・長尾村の区域をもって吉野郡西粟倉村が発足し、1900年（明治33年）に英田郡へ移った。以後、西粟倉村は自治体合併を一度も経験していない
+  - text: 1889年（明治22年）6月1日、町村制の施行により筏津村・大茅村・影石村・坂根村・知社村・長尾村が合併して吉野郡西粟倉村が発足した。以後、西粟倉村は昭和・平成の合併にも参加せず、現在の英田郡で単独自治体として続いている、と村の公式計画書が記す
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-nishiawakura-wiki
+    - upg-v5-nishiawakura-kaso
+    - upg-v5-nishiawakura-furusato
+    - upg-v5-okayama-nenpo
   - text: 環境省の資料は、西粟倉村が江戸時代から参勤交代に使われた因幡街道沿いにあり、明治22年に現在の村が形づくられてからは単独自治体として現在に至ると紹介する
     kind: fact
     level: E2
     status: established
     sources:
     - q8-nishiawakura-env
-  - text: 東隣の東粟倉村も1889年に後山・中谷・青野・太田・野原・吉田・川東の7村が合併して発足し、西粟倉村と「粟倉」の東西の対をなしていたが、2005年3月31日の合併で美作市の一部となった
+  - text: 東隣の東粟倉村も1889年6月1日に発足し、西粟倉村と「粟倉」の東西の対をなしていたが、2005年3月31日に勝田町・大原町・美作町・作東町・英田町と合併して美作市の一部となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-higashiawakura-wiki
+    - upg-v5-higashiawakura-geoshape
+    - upg-v5-okayama-nenpo
   - text: 「西粟倉」の名は、古くからの地域名「粟倉」の西側を占めることに由来すると考えられる。ただし「粟倉」自体の語源と文献上の初出は未確認であり、断定できない
     kind: fact
     level: H
@@ -1786,12 +1797,13 @@ records:
     sources:
     - q8-nishiawakura-wiki
     - q8-higashiawakura-wiki
-  - text: 平成の大合併では勝田町・大原町・東粟倉村・美作町・作東町との勝英地域合併協議会に加わり美作市に加わる方向で話が進んだが、住民アンケートで約58パーセントが合併に反対したため、2004年に合併協議会を脱会して単独存続を決めた
+  - text: 平成の大合併では勝英地域合併協議会に加わり美作市に加わる方向で話が進んだが、2004年8月に実施された住民アンケートで「合併しない」「できれば合併しない」が合わせて約58パーセントを占めたため、村長が合併協議会からの離脱を表明し、単独存続を決めた、と学術論文が報告する
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q8-nishiawakura-wiki
+    - upg-v5-nishiawakura-jichiken
+    - upg-v5-nishiawakura-furusato
   - text: 単独存続後の2008年に「百年の森林構想」が掲げられ、私有林を村が一括して管理・活用する「百年の森林」事業を軸とした地域再生で知られるようになった、と環境省の資料が紹介する
     kind: fact
     level: E2
@@ -1868,10 +1880,11 @@ records:
     - q2-uub-akaiwa
   - text: 市名の由来となった赤磐郡は、1900（明治33）年4月1日に赤坂郡と磐梨郡の区域をもって発足した郡である。
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q2-akaiwa-wiki-gun
+    - upg-v6-akaiwa-kotobank-gun
+    - q2-okayama-pref-furoku
   - text: 「赤磐」は、赤坂郡の「赤」と磐梨郡の「磐」を組み合わせた合成地名である。
     kind: fact
     level: E5
@@ -1880,10 +1893,10 @@ records:
     - q2-akaiwa-wiki
   - text: 赤磐郡は、2007年1月22日に残っていた瀬戸町が岡山市へ編入されたことで消滅した。市名の由来となった郡は現存しない。
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q2-akaiwa-wiki-gun
+    - upg-v6-akaiwa-kokudo
   column:
     title: ひらがなの「あかいわ市」になりかけた
     text: 新市名の公募は2度行われた形になった。瀬戸町を含む5町の協議会では、公募の候補から漢字でない「あかいわ市」が一度は選定された。しかし瀬戸町が離脱して4町の枠組みに変わると市名は再検討され、最終候補「あかいわ」「赤磐」「山陽」の中から漢字の「赤磐市」が選ばれた。あと一歩で、岡山県にはひらがな名の市が誕生するところだった。
@@ -1893,7 +1906,7 @@ records:
   - pref/33
   - muni/33-備前市
   unknowns:
-  - 「赤磐」が赤坂・磐梨の合成地名であることの明文の根拠は、専門辞典（角川日本地名大辞典など）では直接確認できておらず、Wikipediaの記述（出典付き）に基づく。
+  - 「赤磐」が赤坂・磐梨の合成地名であることの明文は、Wikipediaの脚注が赤磐市広報『広報あかいわ』2005年5月号の連載「故郷の史跡探訪」を出典として示しているが、同号PDFの当該ページはテキスト抽出が文字化けし本文を直接確認できなかった。『日本歴史地名大系』の「赤磐郡」にも合成の明文はない。
   - 赤坂郡・磐梨郡それぞれの語源は本レコードでは追っていない。
   updated: '2026-11-13'
 - id: muni/33-里庄町
@@ -1920,36 +1933,40 @@ records:
     document: 里庄村の発足（1905年4月1日）
     note: 合成名「里庄」としての初出は1905年の合併時。構成要素の「里見」「新庄」はそれ以前からの村名だが、それぞれの語源は未確認
   claims:
-  - text: 町の名前は、合併した里見村と新庄村の名から一文字ずつ取られたもので、里見の「里」と新庄の「庄」を合わせた合成名である
+  - text: 町の名前は、合併した里見村と新庄村の名から一文字ずつ取られたもので、里見の「里」と新庄の「庄」を合わせた合成名である。ブリタニカ国際大百科事典は、町名は1905年の合体に際して両村名の合成によると記す
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q8-satosho-wiki
+    - upg-v5-satosho-kotobank
   - text: 1889年（明治22年）6月1日に浅口郡里見村と新庄村が発足し、1905年（明治38年）4月1日に両村が合併して里庄村となり、1950年（昭和25年）6月1日に町制を施行して里庄町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-satosho-wiki
-  - text: 合成前の村名は現在も大字・里見と大字・新庄として町内に残り、町役場も大字里見に置かれている
+    - upg-v5-satosho-town-gaiyo
+    - upg-v5-satosho-handbook
+  - text: 合成前の村名は現在も大字・里見と大字・新庄として町内に残る。町役場は大字里見に、町立里庄西小学校は大字新庄に置かれている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-satosho-wiki
+    - upg-v5-satosho-yakuba
+    - upg-v5-satosho-nishi-school
   - text: 里庄町は浅口郡に属する唯一の自治体で、同郡の鴨方町・金光町・寄島町が合併して浅口市となった後も、里庄町は単独の町として残っている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-satosho-wiki
-  - text: 町域は面積12.23平方キロメートルと小さく、倉敷市や広島県福山市に近いベッドタウンとして発展してきた
+    - upg-v5-okayama-gappei
+    - upg-v5-okayama-nenpo
+  - text: 町域の面積は12.23平方キロメートルと小さい
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q8-satosho-wiki
+    - upg-v5-satosho-kotobank
+    - upg-v5-satosho-handbook
   - text: 里庄町の地方公共団体コードは334456である
     kind: fact
     level: E2
@@ -1993,10 +2010,11 @@ records:
   claims:
   - text: 1952年（昭和27年）11月10日、芳野村・大野村・小田村・中谷村・香々美南村・香々美北村の6村が合併し、村ではなく最初から町として（旧）鏡野町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-kagamino-wiki
+    - upg-v5-kagamino-kotobank
+    - upg-v5-okayama-nenpo
   - text: 町の広報の地名連載によれば、「鏡野」という名は1952年の合併の際に新たに作られた名であり、合併資料の中にその由来を明記した記録は残っていない
     kind: fact
     level: E2
@@ -2024,10 +2042,11 @@ records:
     - q8-kagamino-koho
   - text: 2005年（平成17年）3月1日、奥津町・富村・上齋原村と新設合併して新しい鏡野町が発足し、旧鏡野町の名がそのまま新町名に継承された
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q8-kagamino-wiki
+    - upg-v5-kagamino-kotobank
+    - upg-v5-okayama-nenpo
   - text: 鏡野町の地方公共団体コードは336068である
     kind: fact
     level: E2
@@ -2203,9 +2222,6 @@ sources:
   q2-akaiwa-wiki:
     label: Wikipedia「赤磐市」（地名の由来として、赤磐は1900年に赤坂郡・磐梨郡の区域をもって発足した赤磐郡に由来する合成地名であること）
     url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A3%90%E5%B8%82
-  q2-akaiwa-wiki-gun:
-    label: Wikipedia「赤磐郡」（1900年4月1日に赤坂郡・磐梨郡の区域をもって発足したこと、2007年1月22日に瀬戸町の岡山市編入で赤磐郡が消滅したこと）
-    url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A3%90%E9%83%A1
   q2-asakuchi-chimeiko:
     label: 玉島地名考「番外編：浅口市」（郷土史サイト。神功皇后が沖合の小島に立ち寄ったことから寄島と呼ばれるようになったという伝承）
     url: http://www.tamatele.ne.jp/~mizukawa-y/asakuti.htm
@@ -2224,9 +2240,6 @@ sources:
   q2-estat-takahashi:
     label: 政府統計の総合窓口（e-Stat）「廃置分合等情報 岡山県高梁市」（2004年10月1日に高梁市・有漢町・成羽町・川上町・備中町が合併して高梁市を新設し、川上郡が廃止されたこと）
     url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/33209
-  q2-folklore-mimasaka:
-    label: 地名の由来「美作市」（市名は旧国名に由来すること、美作国の国府は現在の津山市にあったこと）
-    url: https://www.folklore2017.com/70000/shi/00035.htm
   q2-ibara-city-tokusanhin:
     label: 井原市公式「特産品―市のプロフィール」（1600年代初頭からの綿花・藍栽培、1960年頃に日本で初めてデニム地の生産を開始し「日本のデニムの聖地」と呼ばれること）
     url: https://www.city.ibara.okayama.jp/site/city-profile/9567.html
@@ -2365,24 +2378,12 @@ sources:
   q7-tottori-u-nagi:
     label: 鳥取大学の論文「ボランティアによるまちづくり」（奈義町の合併の歴史の記述）
     url: https://repository.lib.tottori-u.ac.jp/record/454/files/rs013_03.pdf
-  q7-uub-kibichuo:
-    label: 市区町村変遷情報データベース「吉備中央町」（賀陽町・加茂川町の系譜）
-    url: https://uub.jp/upd/c/476.html
   q7-wake-town-history:
     label: 和気町公式サイト「沿革・歴史・和気清麻呂・和気広虫・道鏡事件」
     url: https://www.town.wake.lg.jp/gyoseijoho/gaiyo/1113.html
-  q7-wiki-katsuta:
-    label: Wikipedia「勝田郡」（1900年の勝北郡・勝南郡の合併による成立）
-    url: https://ja.wikipedia.org/wiki/%E5%8B%9D%E7%94%B0%E9%83%A1
   q7-wiki-kibichuo:
     label: Wikipedia「吉備中央町」（町名の由来・加賀郡名の由来・県の中心点の紹介）
     url: https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E4%B8%AD%E5%A4%AE%E7%94%BA
-  q7-wiki-kumeuji:
-    label: Wikipedia「久米氏」（久米部・来目部と「久米」の地名分布の解説）
-    url: http://ja.wikipedia.org/wiki/%E4%B9%85%E7%B1%B3%E6%B0%8F
-  q7-wiki-nagi:
-    label: Wikipedia「奈義町」（那岐山が町名の由来であることの紹介）
-    url: https://ja.wikipedia.org/wiki/%E5%A5%88%E7%BE%A9%E7%94%BA
   q7-wiki-shinjo:
     label: Wikipedia「新庄村」（1872年の自然村成立・合併歴なしの紹介）
     url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E6%9D%91
@@ -2392,9 +2393,6 @@ sources:
   q7-wiki-wakegun:
     label: Wikipedia「和気郡」（『和名類聚抄』の郷・和気氏の勢力圏の解説）
     url: https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B0%97%E9%83%A1
-  q8-asahi-wiki:
-    label: Wikipedia「旭町 (岡山県)」（旧旭町の町名は、町の南部を流れる旭川に由来すると記す）
-    url: http://ja.wikipedia.org/wiki/旭町_(岡山県)
   q8-higashiawakura-wiki:
     label: Wikipedia「東粟倉村」（1889年に後山村・中谷村・青野村・太田村・野原村・吉田村・川東村の7村が合併して東粟倉村となり、2005年3月31日の合併で美作市の一部となったことを記す）
     url: http://ja.wikipedia.org/wiki/東粟倉村
@@ -2425,6 +2423,108 @@ sources:
   q8-yakage-oaza-wiki:
     label: Wikipedia「矢掛」（大字。巌津政右衛門『岡山地名事典』（1974年）を出典として、旧表記「屋影」「屋蔭」、今川貞世『道ゆきぶり』の「屋蔭といふ里」の記載と歌、「矢掛」の表記はこの歌から用いだしたという説があるが詳細不明であること、古代は『和名類聚抄』に載る小田郡実成（美奈利）郷の一部とされることを記す）
     url: http://ja.wikipedia.org/wiki/%E7%9F%A2%E6%8E%9B
-  q8-yakage-zh-wiki:
-    label: 中国語版Wikipedia「矢掛町」（17世紀に参勤交代の制度化で矢掛が西国街道の宿場に選ばれ、本陣・脇本陣・問屋場が整備されたこと、旧矢掛本陣石井家と旧矢掛脇本陣高草家が現存することを記す）
-    url: https://zh.wikipedia.org/wiki/%E7%9F%A2%E6%8E%9B%E7%94%BA
+  upg-v4-kibichuo-kenkei:
+    label: 吉備高原中央地域合併協議会「新町建設計画」（平成16年3月、吉備中央町公式サイト掲載。沿革として旧・賀陽町と旧・加茂川町がいずれも1955年（昭和30年）の5か村の合併で生まれたことを記す）
+    url: https://www.town.kibichuo.lg.jp/uploaded/attachment/81.pdf
+  upg-v4-kotobank-kamogawacho:
+    label: コトバンク「加茂川町」（平凡社『日本歴史地名大系』。町域が備前国津高郡と備中国賀陽郡の村々からなるとする解説）
+    url: https://kotobank.jp/word/%E5%8A%A0%E8%8C%82%E5%B7%9D%E7%94%BA-3088259
+  upg-v4-kotobank-katsuta:
+    label: コトバンク「勝田」（小学館『精選版 日本国語大辞典』。勝北・勝南の二郡に分かれたのち明治33年（1900年）に合併して再び勝田郡となったとする解説）
+    url: https://kotobank.jp/word/%E5%8B%9D%E7%94%B0-45277
+  upg-v4-kotobank-kayagun:
+    label: コトバンク「賀陽郡」（平凡社『日本歴史地名大系』。備中国賀陽郡と、その北西部が上方（上房）郡として分かれたとする解説）
+    url: https://kotobank.jp/word/%E8%B3%80%E9%99%BD%E9%83%A1-3088578
+  upg-v4-kotobank-kumego:
+    label: コトバンク「久米郷」（平凡社『日本歴史地名大系』。美作を含む諸国の久米郷はいずれも久米部の居住地と考えられるとする解説）
+    url: https://kotobank.jp/word/%E4%B9%85%E7%B1%B3%E9%83%B7-3031970
+  upg-v4-kotobank-kumesennin:
+    label: コトバンク「久米仙人」（小学館『日本大百科全書（ニッポニカ）』・平凡社『改訂新版 世界大百科事典』。大和の竜門寺と久米寺にまつわる伝承の解説）
+    url: https://kotobank.jp/word/%E4%B9%85%E7%B1%B3%E4%BB%99%E4%BA%BA-56070
+  upg-v4-kotobank-nagi:
+    label: コトバンク「奈義」（小学館『日本大百科全書（ニッポニカ）』。北部に那岐山があるとする解説）
+    url: https://kotobank.jp/word/%E5%A5%88%E7%BE%A9%5B%E7%94%BA%5D-857341
+  upg-v4-kotobank-wakego:
+    label: コトバンク「和気郷」（平凡社『日本歴史地名大系』。磐梨郡の和気郷について、郷名から和気氏と関係の深い地域であった可能性を考えうるとする解説）
+    url: https://kotobank.jp/word/%E5%92%8C%E6%B0%97%E9%83%B7-3087481
+  upg-v4-kotobank-wakegun:
+    label: コトバンク「和気郡」（平凡社『日本歴史地名大系』。『和名類聚抄』東急本が坂長・藤野・益原・新田・香止の5郷を挙げるとする解説）
+    url: https://kotobank.jp/word/%E5%92%8C%E6%B0%97%E9%83%A1-3088014
+  upg-v4-okayama-kanko-iwakura:
+    label: 岡山観光WEB（岡山県観光連盟）「岩倉公園」（岡山県の中心点を表現したモニュメントの紹介）
+    url: https://www.okayama-kanko.jp/spot/detail_11923.html
+  upg-v4-okayama-ninaite-shoo:
+    label: 岡山県移住ポータル「おかやま生活」市町村紹介・勝央町（坂田金時の終焉の地とする紹介）
+    url: https://www.okayama-ninaite.com/wp-content/uploads/2022/08/46_47_%E5%8B%9D%E5%A4%AE%E7%94%BA.pdf
+  upg-v4-zck-nagi:
+    label: 全国町村会「岡山県奈義町」（町長寄稿。那岐山の南麓に広がる町とする紹介）
+    url: https://www.zck.or.jp/site/forum/1194.html
+  upg-v5-higashiawakura-geoshape:
+    label: 歴史的行政区域データセットβ版「岡山県英田郡東粟倉村」（東粟倉村の有効期間は1889年6月1日から2005年3月31日までであることを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/33642A1968.html
+  upg-v5-kagamino-kotobank:
+    label: コトバンク「鏡野町」ブリタニカ国際大百科事典小項目事典（1952年に芳野村・大野村・小田村・中谷村・香々美南村・香々美北村の6村が合体して町制、1955年に郷村を編入、2005年に富村・奥津町・上齋原村と合体したと記す）と日本歴史地名大系の合併情報（2005年3月1日に苫田郡上齋原村・奥津町・鏡野町・富村が合併したと記す）
+    url: https://kotobank.jp/word/%E9%8F%A1%E9%87%8E%E7%94%BA-43399
+  upg-v5-misaki-asahi-kotobank:
+    label: コトバンク「旭」日本大百科全書（ニッポニカ）「旭（岡山県）」（旧旭町は1953年に西川・垪和・倭文西の3村が合併して町制施行し、旭川の中流にあり旧町名はこれをとったと記す）とブリタニカ国際大百科事典小項目事典「旭」（地名は旭川に臨むことに由来すると記す）
+    url: https://kotobank.jp/word/%E6%97%AD%5B%E5%8C%BA%5D-814896
+  upg-v5-misaki-yanahara:
+    label: 美咲町公式サイト「柵原ルート」（町のサイクリング案内。柵原ふれあい鉱山公園と柵原鉱山資料館を紹介し、柵原鉱山は東洋一の硫化鉄鉱山として栄えたと記す）
+    url: https://www.town.okayama-misaki.lg.jp/section/cycling/yanahararoute/
+  upg-v5-nishiawakura-furusato:
+    label: 西粟倉村ふるさと納税特設サイト「西粟倉村について」（村の沿革として、明治22年に筏津村・大茅村・影石村・坂根村・知社村・長尾村が合併し吉野郡西粟倉村となったこと、平成16年に住民アンケートを経て勝英地域合併協議会から離脱したことを記す）
+    url: https://www.24h-life.jp/about
+  upg-v5-nishiawakura-jichiken:
+    label: 井内尚樹「西粟倉村の地域資源の利活用と循環型地域経済」（月刊『住民と自治』2021年7月号、自治体問題研究所。2004年8月の住民アンケートで「合併する」21.7パーセント・「やむを得ず合併する」18.8パーセント・「できれば合併しない」17.5パーセント・「合併しない」40.9パーセントとなり、村民の58パーセントの意向を尊重して村長が合併協議会からの離脱を表明したことを報告する）
+    url: https://www.jichiken.jp/article/0242/
+  upg-v5-nishiawakura-kaso:
+    label: 西粟倉村「過疎地域持続的発展市町村計画（令和8年度～令和12年度）」（村の公式計画書。明治22年の町村制の施行に伴い大茅・坂根・影石・長尾・筏津・知社の各村が合併して西粟倉村となり今日に至っていること、昭和及び平成の合併には参加せず単独自治体として自主・自立の道を選択したことを記す）
+    url: https://www.vill.nishiawakura.okayama.jp/wp/wp-content/uploads/2024/08/bd2f262e76e1d1992201c44214955804.pdf
+  upg-v5-okayama-gappei:
+    label: 岡山県「岡山県における市町村合併の状況（平成17年8月1日現在）」（金光町・鴨方町・寄島町合併協議会について新設合併・平成18年3月21日・新市名「浅口市」の決定内容と、里庄町が合併市町村にも合併協議会設置地域にも入っていない配置を県が公式に示す資料）
+    url: https://www.pref.okayama.jp/uploaded/life/57560_196813_misc.pdf
+  upg-v5-okayama-nenpo:
+    label: 岡山県「市町村の沿革」（令和5年度岡山県市町村年報・付録、令和6年3月31日現在。西粟倉村は明治22年6月1日、鏡野町は昭和27年11月10日に芳野村・大野村・小田村・中谷村・香々美南村・香々美北村の合併で発足し平成17年3月1日に富村・奥津町・上齋原村・鏡野町が合併したこと、美咲町は平成17年3月22日に中央町・旭町・柵原町の合併、美作市は平成17年3月31日に勝田町・大原町・東粟倉村・美作町・作東町・英田町の合併、浅口市は平成18年3月21日に金光町・鴨方町・寄島町の合併であることを公式に記録する）
+    url: https://www.pref.okayama.jp/uploaded/attachment/411031.pdf
+  upg-v5-satosho-handbook:
+    label: 岡山県市町村振興協会「岡山県市町村ハンドブック令和6年版・里庄町」（沿革として浅口郡里見村・新庄村が合併して里庄村となったのは明治38年4月1日であること、総面積12.23平方キロメートルを記す）
+    url: http://shinko-okayama.jp/handbook/r06/18satosyou.pdf
+  upg-v5-satosho-kotobank:
+    label: コトバンク「里庄」日本大百科全書（ニッポニカ）「里庄（町）」（1905年に里見村と新庄村が合併して里庄村となり1950年に町制施行、面積は12.23平方キロメートルと記す）とブリタニカ国際大百科事典小項目事典「里庄〔町〕」（町名は1905年里見村と新庄村の合体に際して両村名の合成によると記す）
+    url: https://kotobank.jp/word/%E9%87%8C%E5%BA%84-3133691
+  upg-v5-satosho-nishi-school:
+    label: 里庄町立里庄西小学校「学校案内」（所在地を岡山県浅口郡里庄町大字新庄5534番地とする町立学校の公式案内）
+    url: http://www.satonishi.town.satosho.okayama.jp/annai.html
+  upg-v5-satosho-town-gaiyo:
+    label: 里庄町公式サイト「里庄町の概要」（沿革として、1889年の町村制施行で発足した里見村と新庄村が1905年に合併して里庄村となり、1950年6月1日の町制施行によって里庄町となったことを町が公式に記す）
+    url: https://www.town.satosho.okayama.jp/soshiki/3/1100.html
+  upg-v5-satosho-yakuba:
+    label: 里庄町公式サイト「町役場の紹介」（里庄町役場の所在地を岡山県浅口郡里庄町大字里見1107番地2と町が公式に示す）
+    url: https://www.town.satosho.okayama.jp/life/4/19/64/
+  upg-v5-yakage-bunka:
+    label: 文化庁「矢掛町矢掛宿（岡山県）」（重要伝統的建造物群保存地区の資料。令和3年6月25日矢掛町作成。山陽道の宿場町として栄え、江戸時代の旧本陣と旧脇本陣が国の重要文化財に指定され揃って残るのは全国唯一であることを記す）
+    url: https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/pdf/93224901_02.pdf
+  upg-v6-akaiwa-kokudo:
+    label: 公益財団法人国土地理協会「市町村変更情報・岡山県」（2007年1月22日に御津郡建部町・赤磐郡瀬戸町が岡山市へ編入され、両郡が消滅したこと）
+    url: https://www.kokudo.or.jp/marge/tdfk.php?tdfk_cd=33
+  upg-v6-akaiwa-kotobank-gun:
+    label: コトバンク「赤磐郡」（日本歴史地名大系。明治33年（1900）に赤坂郡と磐梨郡が合併して成立した郡であること）
+    url: https://kotobank.jp/word/%E8%B5%A4%E7%A3%90%E9%83%A1-3088141
+  upg-v6-maniwa-city-kaso:
+    label: 真庭市「真庭市過疎地域持続的発展市町村計画（令和8年度〜令和12年度）」（「真庭の名称は、明治33年（1900年）大庭郡、真島郡のそれぞれの郡役所を廃止して、勝山地域に真庭郡役所が置かれたことに由来する」と記すこと）
+    url: https://www.city.maniwa.lg.jp/uploaded/life/51842_487814_misc.pdf
+  upg-v6-maniwa-kotobank-gun:
+    label: コトバンク「真庭郡」（日本歴史地名大系。明治33年（1900）に旭川左岸の大庭郡と右岸の真島郡が合併して成立した郡であること）
+    url: https://kotobank.jp/word/%E7%9C%9F%E5%BA%AD%E9%83%A1-3087890
+  upg-v6-mimasaka-kotobank-kuni:
+    label: コトバンク「美作国」（日本歴史地名大系が、和銅6年（713）に備前国から英多・勝田など6郡を分けて成立した国と記し、改訂新版世界大百科事典が、国府は苫田郡内（現在の津山市総社）に置かれたと記すこと）
+    url: https://kotobank.jp/word/%E7%BE%8E%E4%BD%9C%E5%9B%BD-139433
+  upg-v6-mimasaka-toshi:
+    label: 日本都市センター「美作市（岡山県）」（合併協議会資料。新市の名称は一般公募し、選定小委員会で5点に絞り、合併協議会の投票で1点に決定したこと、選定理由は「古来より備前・備中・美作として県内外に広く知られている地名である」等の理由であること）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/mimasaka060511.pdf
+  upg-v8-tamano-britannica:
+    label: コトバンク『ブリタニカ国際大百科事典 小項目事典』「玉野〔市〕」（1940年に日比町と宇野町が合体して市制を施行し、市名は日比町玉の「玉」と宇野町の「野」の合成であるとする百科事典の解説）
+    url: https://kotobank.jp/word/%E7%8E%89%E9%87%8E%E5%B8%82-94339
+  upg-v8-tamano-nipponica:
+    label: コトバンク『日本大百科全書（ニッポニカ）』「玉野（市）」（1940年に日比・宇野の2町が合併して成立した市で、市名は1889年（明治22年）当時の玉野村にちなむとする百科事典の解説）
+    url: https://kotobank.jp/word/%E7%8E%89%E9%87%8E-562844
