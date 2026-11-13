@@ -114,18 +114,19 @@ records:
     status: established
     sources:
     - q12-kumakogen-wiki
-  - text: 「くま」は本来、山の奥や山と山に挟まれた土地を指す言葉であるとされる
+  - text: 地名語源の専門辞典では、「くま（隈）」は湾曲したものの曲がり目や奥まったところ、奥まった谷のある土地を指す言葉と説明されている
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - q12-kumakogen-wiki
-  - text: 2004年の合併に際して、古い総称「久万」に「高原」を付して「久万高原町」と命名された
+    - upg-ab3-crd-kuma
+  - text: 2004年の合併で発足した新町の名は、旧久万町の名「久万」に「高原」を付した「久万高原町」とされた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q12-kumakogen-wiki
+    - q12-kumakogen-chisou
+    - upg-ab3-soumu-hensen-ehime
   - text: 「久万高原」という名称は、旧久万町が観光レクリエーションのPRに用いてきた名称でもあった
     kind: fact
     level: E5
@@ -338,10 +339,10 @@ records:
     - q12-ikata-ehime
   - text: 旧伊方町は1955年3月31日に伊方村と町見村が合併して発足した町で、2005年の合併ではこの「伊方町」の名がそのまま新町の名に継承された
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q12-ikata-uub
+    - upg-ab3-geoshape-ikata
   - text: 「伊方」という名の起源がいつに遡るかははっきりしていないと、愛媛県の市町村要覧は明記している
     kind: fact
     level: E2
@@ -505,10 +506,10 @@ records:
     - q12-uchiko-town-plan
   - text: 旧内子町は1889年の町村制施行で発足した町で、1955年1月1日に五城村・大瀬村・立川村・満穂村と合併して町域を広げた
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q12-uchiko-uub
+    - upg-ab3-geoshape-uchiko
   - text: 藩政時代、内子は大洲藩ならびに新谷藩に属し、木蝋や和紙などの生産地として名声を高めた在郷町であった
     kind: fact
     level: E2
@@ -558,7 +559,7 @@ records:
     era: 平成16年
     year_western: 2004
     document: 四国中央市の市制施行（2004年4月1日）
-    note: 合併により新設された市名であるため、名前の初出は市制施行そのもの。市名自体の決定は2003年2月14日の第7回合併協議会における投票による
+    note: 合併により新設された市名であるため、名前の初出は市制施行そのもの。市名自体の決定は、公募候補を候補選定小委員会が5候補に絞り込んだうえでの合併協議会の投票による
   claims:
   - text: 四国中央市の地方公共団体コードは382132である（総務省「地方公共団体コード一覧」による）
     kind: fact
@@ -578,12 +579,12 @@ records:
     status: established
     sources:
     - q5-ehime-youran-shikokuchuo
-  - text: 新市名は2002年9月から10月に全国公募され、2003年2月14日の第7回合併協議会において、5つの候補の中から投票により過半数を得て「四国中央市」と決定した
+  - text: 新市名は公募され、公募候補の中から新市名候補選定小委員会が5つの候補に絞り込み、合併協議会の投票で最も投票数が多かった「四国中央市」に決定したと、日本都市センターの合併調査データは記録する
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-shikokuchuo-wiki
+    - upg-ae6-shikokuchuo-toshi
   - text: 公募の応募数では、旧宇摩郡の郡名による「宇摩市」が1位、「うま市」が2位、「法皇市」が3位、「ひうち市」が4位で、「四国中央市」は5位だったとされる。決定後には再考を求める署名が1万名を超えて集まるなど、命名をめぐる議論が続いた
     kind: fact
     level: E5
@@ -1212,10 +1213,11 @@ records:
     - q12-matsuno-town
   - text: 松野町は平成の大合併で他市町村との合併に加わらず、その結果、愛媛県内で最も人口の少ない自治体となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q12-matsuno-wiki
+    - upg-ae4-matsuno-ehime-kensho
+    - upg-ae4-matsuno-kokudo
   column:
     title: 投票で決まった、一字ずつの合体名
     text: 「松野」は典型的な合成地名だが、その決め方が記録に残っている。1955年3月18日、合併促進協議会の委員が投票し、松丸の「松」と吉野生の「野」を一字ずつ取る案が選ばれた。吉野生側は「吉野町」を推して譲らず、松丸側は財政と議員定数で譲歩する代わりに名前では中立を取ったという。合併の駆け引きが、そのまま町名の字面に刻まれている。
@@ -1274,18 +1276,18 @@ records:
     status: indeterminate
     sources:
     - r1-tobe-wiki
-  - text: 正倉院文書には天平宝字4年（760年）に伊予砥3顆が課せられた記録があり、『延喜式』にも伊予砥5顆の納入が見えることから、伊予砥は奈良・平安時代に朝廷へ納める名産の砥石だったとWikipediaは紹介している
+  - text: 天平宝字4年（760年）の東大寺・正倉院文書には、伊予砥が観世音菩薩像を造る際に研磨剤として用いられたことが記され、平安時代の『延喜式』にも伊予砥が税の対象とされた記録が残っており、伊予砥は奈良・平安時代から知られた砥石だったと毎日新聞は報じている
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r1-tobe-wiki
-  - text: 1889年の町村制施行で下浮穴郡砥部村が成立し、1928年に町制を施行して砥部町となり、1955年には原町村と合併したとWikipediaは紹介している
+    - upg-ab3-mainichi-iyoto
+  - text: 1889年の町村制施行で砥部村が成立し、1928年に町制を施行して砥部町となり、1955年には原町村と合併した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r1-tobe-wiki
+    - upg-ab3-geoshape-tobe
   - text: 2005年1月1日に（旧）砥部町と広田村が合併して新しい砥部町が発足したと、愛媛県の市町要覧は記録している
     kind: fact
     level: E2
@@ -1589,9 +1591,6 @@ sources:
   q12-ikata-ehime:
     label: 愛媛県「市町村要覧」伊方町のページ（県公式資料。2005年4月1日に伊方町・瀬戸町・三崎町が合併。〈由来〉として「『伊方』という名の起源はいつの時代からかはっきりしていない」とし、『日本地名語源事典』の「イヘカタ（家方）」「イホカタ（庵方）」説と、「イカ」は後方に山を負う地を指し「タ」は土地とする一説を紹介）
     url: https://www.pref.ehime.jp/uploaded/attachment/89137.pdf
-  q12-ikata-uub:
-    label: 市区町村変遷情報データベース（旧伊方町は1955年3月31日に伊方村・町見村の合併で発足し、2005年4月1日に三崎町・瀬戸町と合併して現伊方町の一部となった変遷）
-    url: https://uub.jp/upd/c/12440.html
   q12-kamijima-ehime:
     label: 愛媛県「市町村要覧」上島町のページ（県公式資料。2004年10月1日に弓削町・生名村・岩城村・魚島村が合併。昔から当地域を伊予松山藩の「上島諸島」と呼んでいたこともあり、新町名称の公募により「上島町」に決定されたと明記。上島諸島と魚島群島の25島で構成）
     url: https://www.pref.ehime.jp/uploaded/attachment/77681.pdf
@@ -1619,9 +1618,6 @@ sources:
   q12-uchiko-town-plan:
     label: 内子町「内子町歴史的風致維持向上計画」第1章（町公式計画。「内子の地名は暦応3年（1340）の『清谷寺旦那譲り状』にある『内之子忠太夫』に因むといわれている」と記す。2005年1月1日に小田川流域の小田町・内子町・五十崎町が合併した経緯も記載）
     url: https://www.town.uchiko.ehime.jp/uploaded/attachment/105513.pdf
-  q12-uchiko-uub:
-    label: 市区町村変遷情報データベース（旧内子町は1889年に発足し、1955年1月1日に五城村・大瀬村・立川村・満穂村と合併して拡大、2005年1月1日に五十崎町・小田町と合併して現内子町となった変遷）
-    url: https://uub.jp/upd/c/4917.html
   q5-ehime-youran-shikokuchuo:
     label: 愛媛県「市町要覧 四国中央市」（県公式資料。四国中央市は新市の位置を地理的にイメージしやすい名称で、四国の交流拠点として発展する希望・気概が込められた名称とする。1954年の川之江市・伊予三島市の市制と2004年の合併も記す）
     url: https://www.pref.ehime.jp/uploaded/attachment/89124.pdf
@@ -1709,3 +1705,30 @@ sources:
   r1-tobe-wiki:
     label: Wikipedia「砥部町」（747年の法隆寺文書に砥部荘の名が見られること、正倉院文書・延喜式への伊予砥の納入、1889年の砥部村成立・1928年の町制・1955年の原町村との合併などの沿革）
     url: https://ja.wikipedia.org/wiki/%E7%A0%A5%E9%83%A8%E7%94%BA
+  upg-ab3-crd-kuma:
+    label: レファレンス協同データベース（国立国会図書館）の事例「島熊山の地名の由来について知りたい」（豊中市立図書館の回答。『古代地名語源辞典』の「くま」は「湾曲しているものの曲がり目、奥まったところ、暗く陰になっているところ（山かげ）」、『日本古代地名事典』の「くま」は「奥まって隠れた土地、奥まった谷のあるところ」との説明を引用）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000137648
+  upg-ab3-geoshape-ikata:
+    label: 歴史的行政区域データセットβ版「愛媛県西宇和郡伊方町」（国立情報学研究所Geoshape。伊方町の有効期間は1955年3月31日からとされ、伊方村・町見村はいずれも1955年3月31日まで存続したことが示される）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/38442A1968.html
+  upg-ab3-geoshape-tobe:
+    label: 歴史的行政区域データセットβ版「愛媛県伊予郡砥部町」（国立情報学研究所Geoshape。砥部町の有効期間は1928年11月10日からとされ、原町村は1889年12月15日から1955年3月31日まで存続したことが示される）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/38402A1968.html
+  upg-ab3-geoshape-uchiko:
+    label: 歴史的行政区域データセットβ版「愛媛県喜多郡内子町」（国立情報学研究所Geoshape。内子町の有効期間は1889年12月15日からとされ、五城村・大瀬村・立川村・満穂村はいずれも1954年12月31日まで存続したことが示される）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/38422A1968.html
+  upg-ab3-mainichi-iyoto:
+    label: 毎日新聞2025年5月26日付記事（伊予砥に関する報道。天平宝字4年（760年）の東大寺・正倉院文書には伊予砥が観世音菩薩像を造る際に研磨剤として用いられたことが記され、平安時代の『延喜式』にも税の対象とされた記録が残ると報じる。StartHome転載で本文を確認）
+    url: https://home.kingsoft.jp:443/news/news/mainichi/20250525k0000m040170000c.html?from=recent_v2_%3F%3F
+  upg-ab3-soumu-hensen-ehime:
+    label: 総務省「市町村合併資料集 市町村名逆引き一覧（愛媛県）」（久万町・面河村・美川村・柳谷村が平成16年8月1日に上浮穴郡久万高原町となった変遷）
+    url: https://www.soumu.go.jp/gapei/hensen_ehime.html
+  upg-ae4-matsuno-ehime-kensho:
+    label: 愛媛県「愛媛県における平成の市町村合併の検証」（松野町が平成の大合併で合併せず存続したこと、平成17年国勢調査の人口4,690人が県内20市町の中で最も少なかったことを記す）
+    url: https://www.pref.ehime.jp/uploaded/attachment/77092.pdf
+  upg-ae4-matsuno-kokudo:
+    label: 国土地理協会「市町村別人口データ（愛媛県）」（2025年時点で松野町の人口が愛媛県内の市町の中で最も少ないことを示す）
+    url: https://www.kokudo.or.jp/service/data/map/ehime.pdf
+  upg-ae6-shikokuchuo-toshi:
+    label: 日本都市センター「合併調査データ 四国中央市」（新市名は公募され、公募候補の中から新市名候補選定小委員会が5候補に絞り込み、合併協議会の投票で最も投票数が多かったため決定したと記録）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/shikokucyuuou041213.pdf

@@ -2020,7 +2020,7 @@ records:
   formation: 合併新設
   prefecture: 鹿児島県
   homonyms: []
-  summary: 平成18年（2006年）1月1日、曽於郡の志布志町・有明町・松山町が新設合併して発足した市。市名は中心町だった旧志布志町の名を継承した。「志布志」は「志」の字を重ねた名で、天智天皇が布を献上した里人の厚い志に感激して名付けたという伝承で知られるが、文献上の初出は鎌倉末期（1316年）の寄進文書とされる。市役所のある大字は「志布志町志布志」で、「志」が何重にも連なる住所表記でも有名である。
+  summary: 平成18年（2006年）1月1日、曽於郡の志布志町・有明町・松山町が新設合併して発足した市。市名は合併した3町のうち旧志布志町の名を継承した。「志布志」は「志」の字を重ねた名で、天智天皇が布を献上した里人の厚い志に感激して名付けたという伝承で知られるが、文献上の初出は鎌倉末期（1316年）の寄進文書とされる。市役所のある大字は「志布志町志布志」で、「志」が何重にも連なる住所表記でも有名である。
   first_attestation:
     era: 鎌倉時代
     year_western: 1316
@@ -2040,12 +2040,13 @@ records:
     sources:
     - s4-shibushi-city
     - s4-shibushi-kotobank
-  - text: 市名は合併前の中心町であった志布志町の名を引き継いだものである
+  - text: 市名は、合併した志布志町・有明町・松山町のうち、志布志町の名を引き継いだものである
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - s4-shibushi-wiki
+    - upg-ae6-shibushi-kagoshima
+    - upg-ae6-shibushi-honchosha
   - text: 「志布志」の文献上の初出は鎌倉末期の1316年、宝満寺再興の折に志布志津の一角を宝満寺に寄進した文書であると志布志市観光特産品協会は紹介している
     kind: fact
     level: E4
@@ -2780,12 +2781,13 @@ records:
     status: established
     sources:
     - upg-s3-kimotsuki-museum
-  - text: 肝属山地には、神武天皇の父母らを葬ったと伝える神代三陵（可愛山陵・高屋山上陵・吾平山上陵）があり、明治7年に宮内省によって皇族の陵墓と治定されたとWikipediaは紹介している
+  - text: 神代三陵の一つである吾平山上陵は、神武天皇の祖父母にあたるウガヤフキアエズノミコトとタマヨリヒメを葬ったと伝える陵で、現在の鹿屋市吾平町上名にある。鹿児島県内の三陵（可愛山陵・高屋山上陵・吾平山上陵）は明治7年（1874年）7月10日に治定されたと、大隅地域の観光案内資料は伝えている
     kind: legend
-    level: E5
+    level: E2
     status: established
     sources:
-    - s2-kimotsuki-shi-wiki
+    - upg-ag3-kagoshima-aira
+    - upg-ag3-oosumi-aira
   - text: 1889年の町村制で高山村・内之浦村が発足し、1932年に高山村は高山町（4月1日）に、内之浦村は内之浦町（10月1日）になったと、市区町村変遷情報データベースは記録している
     kind: fact
     level: E4
@@ -3980,6 +3982,18 @@ sources:
   s5-wadomari-wiki:
     label: Wikipedia「和泊町」（沖永良部島方言でワドゥマイと呼ばれること、島の東半分を町域とし知名町と2町で島を構成すること、1908年の和泊村発足と1941年5月1日の町制施行）
     url: https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B3%8A%E7%94%BA
+  upg-ae6-shibushi-honchosha:
+    label: 志布志市「志布志市本庁舎移転基本方針」（志布志市は平成18年1月1日、曽於郡松山町・志布志町・有明町の新設合併により誕生したと記す市公式資料）
+    url: https://www.city.shibushi.lg.jp/uploaded/attachment/4065.pdf
+  upg-ae6-shibushi-kagoshima:
+    label: 鹿児島県「平成18年度 鹿児島県における市町村合併の実態調査」参考資料（志布志市は平成18年1月1日に松山町・志布志町・有明町の新設合併で発足したと記録）
+    url: https://www.pref.kagoshima.jp/ab08/kensei/shityoson/gappei/gappei/documents/chousa18siryou.pdf
+  upg-ag3-kagoshima-aira:
+    label: 鹿児島県公式サイト「吾平山上陵」（所在地は鹿児島県鹿屋市吾平町上名であり、県下の神代三山陵の一つであることを紹介）
+    url: https://www.pref.kagoshima.jp/suisuinavi/29067.html
+  upg-ag3-oosumi-aira:
+    label: 大隅地域の観光案内サイト掲載「吾平山上陵の概要説明文」（平成30年10月21日、美里吾平コミュニティ協議会作成。吾平山上陵はウガヤフキアエズノミコトとタマヨリヒメの御陵で、二人の子が神武天皇であること、可愛山陵・高屋山上陵とともに鹿児島の三つの御陵は明治7年7月10日に天皇の裁可をもって治定されたことを記す）
+    url: https://www.gurutto-oosumi.com/db_img/cl_img/127/free/images/08eb0c92a2a34cbf6e99e2ac32436c92.pdf
   upg-s10-koniya-port:
     label: 鹿児島県「古仁屋港」（県公式の港湾紹介。古仁屋港の定期航路として、鹿児島・名瀬方面へのフェリーのほか、町営の加計呂麻島行きフェリー「かけろま」と請島・与路島行き貨客船「せとなみ」を挙げる）
     url: https://www.pref.kagoshima.jp/ah09/infra/port/minato/cruising/index_7.html

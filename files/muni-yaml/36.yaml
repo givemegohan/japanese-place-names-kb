@@ -279,12 +279,13 @@ records:
     sources:
     - q4-tokushima-enkaku
     - q10-nii-kamiita
-  - text: 1889年の町村制施行で、松島村は七条村・鍛冶屋原村・引野村・泉谷村から、大山村は西分村・神宅村・椎本村から、高志村は瀬部村・高瀬村・高磯村・上六条村・下六条村・佐藤塚村・第十新田から、それぞれ成立した
+  - text: 1889年（明治22年）10月1日に、松島村・大山村・高志村が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q10-wiki-kamiita
+    - upg-ae2-tokushima-hensen
+    - q10-nii-kamiita
   - text: 板野郡はかつて板東郡と板西郡に分割されていた時期があり、『日本歴史地名大系』は、鎌倉時代前期までに両郡に分割され、寛文4年（1664年）に合併して板野郡が再置されたとする。一方、分割を902年、再合併を1644年とする紹介もあり、年次には資料間で食い違いがある
     kind: fact
     level: E3
@@ -425,7 +426,7 @@ records:
     era: 中世（古くは「かつら」）
     year_western: null
     document: 『精選版日本国語大辞典』「勝浦」
-    note: 郡名「勝浦」は古くは「かつら」と読まれたと辞典が記す。『平家物語』『源平盛衰記』に「かつら」と読んで見えるとWikipedia「勝浦郡」が紹介しているが、本文の直接確認は未了。自治体名としての初出は1955年の合併
+    note: 郡名「勝浦」は古くは「かつら」と読まれたと辞典が記す。『平家物語』『源平盛衰記』に「かつら」と読んで見えるとWikipedia「勝浦郡」が紹介しており、長門本『平家物語』については同記事が引用する本文で起源譚を確認した。自治体名としての初出は1955年の合併
   claims:
   - text: 総務省の地方公共団体コード一覧で、勝浦町の団体コードは363014と定められている
     kind: fact
@@ -441,27 +442,27 @@ records:
     - q4-tokushima-enkaku
     - q10-wiki-katsuura
     - q10-nii-katsuura
-  - text: 横瀬町は、1889年に三渓村・久国村・棚野村・坂本村の区域で発足した棚野村が、1926年2月11日に町制施行と同時に改称して生まれた町である
+  - text: 横瀬町は、1889年（明治22年）に発足した棚野村が、1926年（大正15年）2月11日に町制施行と同時に改称して生まれた町である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q10-wiki-katsuura
-  - text: 生比奈村は1889年に沼江村・中角村・生名村・星谷村の区域をもって発足した
+    - upg-ae2-tokushima-hensen
+  - text: 生比奈村は1889年（明治22年）に発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q10-wiki-katsuura
+    - upg-ae2-tokushima-hensen
   - text: 郡名「勝浦」は古くは「かつら」と読まれた（『精選版日本国語大辞典』は、勝浦郡について「古くは『かつら』」と記す）
     kind: fact
     level: E3
     status: established
     sources:
     - upg-s1-katsuura-nikokugo
-  - text: 舎人親王がこの浦で敵に勝ったことから「勝浦」と名付けられた、という起源譚が『平家物語』『源平盛衰記』に結びつけて紹介されている
+  - text: 『平家物語』（長門本）には、崇道尽敬天皇（舎人親王）が異賊を平らげて軍に勝ったことから、この地を勝浦と呼ぶようになったという起源譚が見える（Wikipedia「勝浦郡」が長門本の本文を引用して紹介している）
     kind: legend
-    level: E5
+    level: E2
     status: established
     sources:
     - q10-wiki-katsuura-gun
@@ -487,7 +488,7 @@ records:
   - muni/36-上勝町
   unknowns:
   - 1955年の合併日（3月1日か3月31日か）は町公式の沿革での確定が未了
-  - 『平家物語』『源平盛衰記』本文における「勝浦」の用例の直接確認は未了
+  - 『源平盛衰記』本文における「勝浦」の用例の直接確認は未了（『平家物語』長門本については、Wikipediaが引用する本文で起源譚を確認した）
   - 「勝浦」という地名そのものの実際の語源は未確認
   updated: '2026-11-13'
 - id: muni/36-北島町
@@ -505,7 +506,7 @@ records:
   formation: 合併新設
   prefecture: 徳島県
   homonyms: []
-  summary: 徳島県北東部、板野郡の町。吉野川河口の三角州にあり、旧吉野川と今切川に挟まれた「ひょうたん島」と呼ばれる中州の西半を占める。1889年に7村の区域で北島村が発足し、1940年に町制を施行した。徳島県で最も面積の小さい自治体である。「北島」の命名理由を示す公式記録は確認できていない。
+  summary: 徳島県北東部、板野郡の町。吉野川河口の三角州にあり、旧吉野川と今切川に挟まれた「ひょうたん島」と呼ばれる中州の西半を占める。1889年に北島村が発足し、1940年に町制を施行した。徳島県で最も面積の小さい自治体である。「北島」の命名理由を示す公式記録は確認できていない。
   first_attestation:
     era: 明治22年
     year_western: 1889
@@ -518,12 +519,13 @@ records:
     status: established
     sources:
     - b-cap-chiba-soumu-code
-  - text: 1889年10月1日、鯛浜村・高房村・江尻村・中村・北村・新喜来村・太郎八須村の7つの区域をもって北島村が発足した
+  - text: 1889年（明治22年）10月1日に北島村が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q10-wiki-kitajima
+    - upg-ae2-tokushima-hensen
+    - q10-nii-kitajima
   - text: 1940年2月11日、北島村が町制を施行して北島町となった
     kind: fact
     level: E2
@@ -538,7 +540,13 @@ records:
     sources:
     - q10-tokushima-iju-kitajima
     - q10-wiki-kitajima
-  - text: 北島町は徳島県内で最も面積が小さい自治体で、四国の町村では人口密度が最も高い
+  - text: 徳島県の市町村別指標（県企画総務部統計課、2022年版）では、北島町の総面積8.74km2は県内24市町村の中で最も小さく、人口密度は県内1位（2,609.0人/km2）とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-af8-tokushima-shihyo
+  - text: 四国の町村では人口密度が最も高いとされる
     kind: fact
     level: E5
     status: established
@@ -886,7 +894,7 @@ records:
   formation: 合併新設
   prefecture: 徳島県
   homonyms: []
-  summary: 徳島県北東部、板野郡の町。吉野川河口の三角州の低地にあり、徳島空港を擁する。1889年に新田や浦を含む10の区域をもって松茂村が発足し、1961年に町制を施行した。町名「松茂」は、江戸時代以降の新田開発で築いた堤防に松を多く植えたことに由来するとされる、干拓の歴史を映す名である。
+  summary: 徳島県北東部、板野郡の町。吉野川河口の三角州の低地にあり、徳島空港を擁する。1889年に松茂村が発足し、1961年に町制を施行した。町名「松茂」は、江戸時代以降の新田開発で築いた堤防に松を多く植えたことに由来するとされる、干拓の歴史を映す名である。
   first_attestation:
     era: 明治22年
     year_western: 1889
@@ -899,12 +907,13 @@ records:
     status: established
     sources:
     - b-cap-chiba-soumu-code
-  - text: 1889年10月1日、中喜来浦・長岸村・広島浦・笹木野村・豊中新田・豊岡新田・長原浦・住吉新田・満穂新田・豊久新田の区域をもって松茂村が発足した
+  - text: 1889年（明治22年）10月1日に松茂村が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q10-wiki-matsushige
+    - upg-ae2-tokushima-hensen
+    - q10-nii-matsushige
   - text: 1961年8月1日、松茂村が町制を施行して松茂町となった
     kind: fact
     level: E2
@@ -1115,7 +1124,7 @@ records:
   formation: 合併新設
   prefecture: 徳島県
   homonyms: []
-  summary: 徳島県南部、海部郡の町。太平洋に面し、1889年に牟岐浦など8つの区域をもって牟岐村が発足、1915年に町制を施行して以来、合併を経験していない。町名は構成区域の一つ牟岐浦の名を継いだもので、「牟岐」は戦国期の牟岐城・牟岐氏の名にも見える古い地名である。1946年の昭和南海地震では津波で大きな被害を受けた。
+  summary: 徳島県南部、海部郡の町。太平洋に面し、1889年に牟岐村が発足、1915年に町制を施行して以来、合併を経験していない。町名は構成区域の一つ牟岐浦の名を継いだもので、「牟岐」は戦国期の牟岐城・牟岐氏の名にも見える古い地名である。1946年の昭和南海地震では津波で大きな被害を受けた。
   first_attestation:
     era: 大正4年
     year_western: 1915
@@ -1128,12 +1137,12 @@ records:
     status: established
     sources:
     - b-cap-chiba-soumu-code
-  - text: 1889年10月1日、河内村・辺川村・橘村・牟岐浦・灘村・川長村・中村・内妻村の区域をもって牟岐村が発足した
+  - text: 1889年（明治22年）の町村制施行で牟岐村が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q10-wiki-mugi
+    - upg-ae2-tokushima-hensen
   - text: 1915年11月10日、牟岐村が町制を施行して牟岐町となり、以後合併を経験していない
     kind: fact
     level: E2
@@ -1216,10 +1225,11 @@ records:
     - q11-ishii-pref
   - text: 1889年10月1日に石井村・城ノ内村・重松村・白鳥村・尼寺村・内谷村の区域をもって石井村が発足し、1907年11月1日に町制施行して石井町となった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q11-ishii-wiki
+    - upg-ae4-uub-tokushima
+    - q11-ishii-geoshape
   - text: 歴史的行政区域データセットでも石井町の有効期間は1907年11月1日からとされており、町制施行の年次と一致する
     kind: fact
     level: E2
@@ -1995,9 +2005,6 @@ sources:
   q11-ishii-pref:
     label: 徳島県「事業継続力強化支援計画に係る認定申請書」（石井町商工会。1955年の1町4村合併と「石井町石井字石井」の住所表記を記す）
     url: https://www.pref.tokushima.lg.jp/man/file/attachment/976672.pdf
-  q11-ishii-wiki:
-    label: Wikipedia「石井町」（沿革・第十堰の所在を記す）
-    url: https://ja.wikipedia.org/wiki/石井町
   q11-kamiyama-town:
     label: 神山町公式サイト「位置・地勢、歴史・沿革について」（1955年の5村合併と上一宮大粟神社・粟生の里の紹介）
     url: https://www.town.kamiyama.lg.jp/docs/2025111200062
@@ -2097,6 +2104,15 @@ sources:
   q9-tsurugi-zck:
     label: 全国町村会 町村長随想「来し方の記」（つるぎ町長。西日本第二位の高峰「剣山」を借景にしてつるぎ町があること、旧半田町・貞光町・一宇村の3町村が合併し平成17年（2005）3月1日に美馬郡つるぎ町として誕生したこと）
     url: http://www.zck.or.jp/site/essay/5842.html
+  upg-ae2-tokushima-hensen:
+    label: 徳島県「市町村変遷一覧表」（明治22年（1889年）の町村制施行時に置かれた村々と、その後の町制施行・改称・合併による変遷を日付つきで示す県公式の樹形図）
+    url: https://www.pref.tokushima.lg.jp/file/attachment/981428.pdf
+  upg-ae4-uub-tokushima:
+    label: 市区町村変遷情報「法的根拠等に基づく変遷（徳島県）」（町村制施行時の新設一覧で、石井村が石井村・城ノ内村・重松村・白鳥村・尼寺村・内谷村の区域をもって1889年10月1日に発足したことを示す）
+    url: https://uub.jp/upd/s_tokushima.html
+  upg-af8-tokushima-shihyo:
+    label: 徳島県企画総務部統計課『市町村別指標2022』（県内24市町村の総面積・人口密度などを順位付きで示す県公式統計。総面積は国土地理院「全国都道府県市区町村別面積調」、人口は県人口移動調査等に基づく。北島町の総面積8.74km2は県内最小で、人口密度2,609.0人/km2は県内1位）
+    url: https://www.pref.tokushima.lg.jp/file/attachment/1078500.pdf
   upg-s1-ai-heritage:
     label: 文化庁「日本遺産」ポータル『藍のふるさと阿波』認定申請書（ストーリーの対象地域は徳島市・吉野川市・阿波市・美馬市・石井町・北島町・藍住町・板野町・上板町の9市町で、吉野川流域が藍染料の日本一の産地であること、構成文化財「阿波藍製造」（国選定保存技術）の所在地に上板町が含まれることを記す）
     url: https://www.japan-heritage.bunka.go.jp/ja/datas/files/2022/09/08/0b8ea0d8704e9bd4217546b6d12fd35863bebe4b.pdf

@@ -16,7 +16,7 @@ records:
   formation: 合併新設
   prefecture: 佐賀県
   homonyms: []
-  summary: 三養基郡の町で、佐賀県で最初の平仮名名の市町村である。「みやき」は郡名「三養基」の読みそのもので、三養基は1896年に合併した三根（み）・養父（や）・基肄（き）3郡の頭字を並べた合成名。2005年に中原町・北茂安町・三根町が合併して発足し、町名は公募で決まった。ただし現在の町域は旧三根郡と旧養父郡の部分だけで、「基」の旧基肄郡は町域に含まれない。
+  summary: 三養基郡の町で、佐賀県で唯一の平仮名名の市町村である。「みやき」は郡名「三養基」の読みそのもので、三養基は1896年に合併した三根（み）・養父（や）・基肄（き）3郡の頭字を並べた合成名。2005年に中原町・北茂安町・三根町が合併して発足し、町名は公募で決まった。ただし現在の町域は旧三根郡と旧養父郡の部分だけで、「基」の旧基肄郡は町域に含まれない。
   first_attestation:
     era: 明治時代
     year_western: 1896
@@ -43,10 +43,10 @@ records:
     - r6-miyaki-plan
   - text: 「三養基」という郡名は、三根郡（みねぐん）・養父郡（やぶぐん）・基肄郡（きいぐん）の頭文字を並べた合成名である
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r6-miyaki-wiki
+    - upg-af4-miyaki-taikei
   - text: 2005年（平成17年）3月1日に中原町・北茂安町・三根町が合併して、みやき町が発足した
     kind: fact
     level: E2
@@ -60,12 +60,12 @@ records:
     status: established
     sources:
     - r6-miyaki-wiki
-  - text: みやき町は佐賀県で最初の平仮名名の市町村であり、現在も県内で唯一の平仮名の自治体名である
+  - text: みやき町は現在、佐賀県の市町村で唯一の平仮名名である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r6-miyaki-wiki
+    - upg-aa2-gsi-menseki2022
   - text: 現在のみやき町の町域は、旧三根郡と旧養父郡だった部分のみで構成され、郡名の三文字目「基」にあたる旧基肄郡の地域は町域に含まれない
     kind: fact
     level: E5
@@ -74,7 +74,7 @@ records:
     - r6-miyaki-wiki
   column:
     title: 「基」の付かない、みやき
-    text: 「みやき」は三養基郡の読みで、三養基は三根・養父・基肄の頭文字だ。ところが2005年に合併した中原町・北茂安町・三根町は、旧三根郡と旧養父郡の地であり、旧基肄郡（今の基山町や鳥栖市方面）は入っていない。つまり町名の三文字のうち「基」だけが、地図の上では町域の外にある。公募の最終候補には、旧3町の頭文字を取った「なみき町」もあったが、選ばれたのは郡の名の平仮名化だった。佐賀県で最初の平仮名の自治体名は、こうして生まれた。
+    text: 「みやき」は三養基郡の読みで、三養基は三根・養父・基肄の頭文字だ。ところが2005年に合併した中原町・北茂安町・三根町は、旧三根郡と旧養父郡の地であり、旧基肄郡（今の基山町や鳥栖市方面）は入っていない。つまり町名の三文字のうち「基」だけが、地図の上では町域の外にある。公募の最終候補には、旧3町の頭文字を取った「なみき町」もあったが、選ばれたのは郡の名の平仮名化だった。佐賀県で唯一の平仮名の自治体名は、こうして生まれた。
     sources:
     - r6-miyaki-wiki
     - r6-miyaki-plan
@@ -84,6 +84,7 @@ records:
   - muni/41-基山町
   unknowns:
   - 公募の応募総数や「みやき」が選ばれた具体的な理由は、町公式資料では確認できなかった
+  - 佐賀県で最初の平仮名名の市町村であるとされるが、「最初」であることは公的資料では確認できなかった（現在は県内唯一であることは国土地理院の面積調の市町村一覧で確認できる）
   updated: '2026-11-13'
 - id: muni/41-上峰町
   code: '413453'
@@ -119,12 +120,14 @@ records:
     status: established
     sources:
     - r6-kamimine-town
-  - text: 発足時の上峰村は三根郡に属し、1896年（明治29年）4月1日の郡統合により、三根郡・養父郡・基肄郡の区域をもって三養基郡が発足したことに伴い、三養基郡の所属となった
+  - text: 発足時の上峰村は三根郡に属し、1896年（明治29年）の郡統合で三根郡・養父郡・基肄郡が合わさって三養基郡が発足したことに伴い、三養基郡の所属となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r6-kamimine-wiki
+    - upg-aa2-kamimine-nabunken
+    - r6-miyaki-plan
+    - r6-kamimine-town
   - text: 1989年（平成元年）に町制を施行し、上峰町となった
     kind: fact
     level: E2
@@ -329,11 +332,11 @@ records:
   - よしのがり
   - 吉野ヶ里遺跡
   naming_type: 新規命名
-  naming_note: 2006年の三田川町・東脊振村の合併に際し、両町村にまたがる吉野ヶ里遺跡の名を新町名に採用した
+  naming_note: 2006年の三田川町・東脊振村の合併に際し、吉野ヶ里遺跡の名を新町名に採用した
   formation: 合併新設
   prefecture: 佐賀県
   homonyms: []
-  summary: 神埼郡の町で、町名は弥生時代の大遺跡「吉野ヶ里遺跡」に由来する。遺跡は1986年の発掘開始以来、邪馬台国を想起させる環壕集落として全国に知られ、1991年に国の特別史跡となった。2006年に三田川町と東脊振村が合併する際、両町村にまたがるこの遺跡の名が、そのまま新町の名に選ばれた。遺跡名のもとになった地名「吉野ヶ里」自体の語源は未確認である。
+  summary: 神埼郡の町で、町名は弥生時代の大遺跡「吉野ヶ里遺跡」に由来する。遺跡は1986年の発掘開始以来、邪馬台国を想起させる環壕集落として全国に知られ、1991年に国の特別史跡となった。2006年に三田川町と東脊振村が合併する際、この遺跡の名が、そのまま新町の名に選ばれた。遺跡名のもとになった地名「吉野ヶ里」自体の語源は未確認である。
   first_attestation:
     era: 平成時代
     year_western: 2006
@@ -348,16 +351,16 @@ records:
     - b-cap-chiba-soumu-code
   - text: 2006年（平成18年）3月1日、三田川町と東脊振村が新設合併して吉野ヶ里町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r6-yoshinogari-wiki
+    - upg-aa2-yoshinogari-mlit-suigen
   - text: 町名は吉野ヶ里遺跡に由来する
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r6-yoshinogari-wiki
+    - upg-aa2-yoshinogari-saga-shimbun
   - text: 吉野ヶ里遺跡は佐賀県神埼市と吉野ヶ里町にまたがって位置する弥生時代の大規模な遺跡で、1986年に佐賀県が発掘調査を開始した
     kind: fact
     level: E2
@@ -378,16 +381,16 @@ records:
     sources:
     - r6-yoshinogari-saga
     - r6-yoshinogari-mlit
-  - text: 吉野ヶ里遺跡は旧三田川町と旧東脊振村にまたがっており、合併した両町村のどちらか一方の名ではなく、両者に共通する遺跡の名が新町名となった
+  - text: 吉野ヶ里遺跡は吉野ヶ里町と隣接する神埼市にまたがって位置しており、合併した三田川町・東脊振村のいずれか一方の固有の名ではなく、この遺跡の名が新町名となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r6-yoshinogari-wiki
     - r6-yoshinogari-saga
+    - upg-aa2-yoshinogari-saga-shimbun
   column:
     title: 遺跡が町になった
-    text: 合併で新しい自治体名が必要になるとき、旧町村の名前の争いを避けて、第三の名が選ばれることがある。吉野ヶ里町の場合は、それが発掘されたばかりの遺跡の名だった。1986年に調査が始まり、邪馬台国論争で一躍全国区になった吉野ヶ里遺跡は、三田川町と東脊振村の両方にまたがる。どちらの町の名でもないこの遺跡名は、対等合併の象徴として申し分なかった。弥生時代の「クニ」の中心集落の名が、平成の町の名になったのである。
+    text: 合併で新しい自治体名が必要になるとき、旧町村の名前の争いを避けて、第三の名が選ばれることがある。吉野ヶ里町の場合は、それが発掘されたばかりの遺跡の名だった。1986年に調査が始まり、邪馬台国論争で一躍全国区になった吉野ヶ里遺跡は、合併した三田川町・東脊振村のどちらの固有の名でもない。遺跡そのものは町の領域を越えて、隣の神埼市側にも広がっている。どちらの町の名でもないこの遺跡名は、対等合併の象徴として申し分なかった。弥生時代の「クニ」の中心集落の名が、平成の町の名になったのである。
     sources:
     - r6-yoshinogari-wiki
     - r6-yoshinogari-saga
@@ -677,23 +680,26 @@ records:
     - b-cap-chiba-soumu-code
   - text: 1889年（明治22年）4月1日、町村制の施行により、大町村および福母村の区域をもって、大町村が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r6-omachi-wiki
+    - upg-ae6-saga-gappei
+    - upg-ae6-omachi-geoshape
+    - upg-ae6-omachi-uub
   - text: 1936年（昭和11年）1月1日に町制を施行して、大町町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r6-omachi-wiki
+    - upg-aa2-omachi-geoshape
     - r6-omachi-pr
-  - text: 大町町は佐賀県のほぼ中心に位置し、現存する佐賀県の市町村で最も面積が小さく、町内には大字大町と大字福母がある
+  - text: 大町町は佐賀県のほぼ中心に位置し、面積11.50平方キロメートルで、現存する佐賀県の市町村の中で最も小さい
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r6-omachi-wiki
+    - upg-aa2-omachi-saga-plan
+    - upg-aa2-gsi-menseki2022
   - text: 「大町」は読みの同じ長野県大町市とは別の自治体で、「大きな町場」を意味する普通名詞的地名として各地に分布する名の一つである
     kind: fact
     level: E5
@@ -716,6 +722,7 @@ records:
   unknowns:
   - 「大町」の語源・命名経緯を記した公的・専門資料は確認できなかった
   - 近世の大町村の成立時期と、村名の初出文献は確認できなかった
+  - 町内の大字構成（大町・福母の2大字）は、公的資料では確認できなかった
   updated: '2026-11-13'
 - id: muni/41-太良町
   code: '414417'
@@ -815,7 +822,7 @@ records:
   formation: 合併新設
   prefecture: 佐賀県
   homonyms: []
-  summary: 市名は旧嬉野町の地名「嬉野」に由来する。「うれしの」の初現は鎌倉時代の「宇礼志野」氏とされ、語源には「末（うれ）し野」説がある一方、神功皇后が「あな、うれしの」と言ったという有名な伝承は、表記が定まった後の類推とされる。2006年に嬉野町と塩田町が合併して嬉野市が発足し、本庁舎は旧塩田町側に置かれた。
+  summary: 市名は旧嬉野町の地名「嬉野」に由来する。「うれしの」の初現は鎌倉時代の「宇礼志野」氏とされ、語源には「末（うれ）し野」説がある一方、神功皇后が「あな、うれしの」と言ったという有名な伝承は、表記が定まった後の類推とされる。2006年に嬉野町と塩田町が合併して嬉野市が発足し、本庁舎は旧塩田町側に置かれた（2026年に旧嬉野町側の新庁舎へ移転）。
   first_attestation:
     era: 鎌倉時代
     year_western: null
@@ -852,28 +859,36 @@ records:
     status: contested
     sources:
     - r5-ureshino-wikipedia
-  - text: 合併にあたって新市の名称は「嬉野」とする代わりに本庁舎を旧塩田町に置くことが協議の条件とされ、現在の市役所は旧塩田町側にある
+  - text: 合併協議会の協定項目では、新市の名称は「嬉野市（うれしのし）」、新市の事務所の位置は当時の塩田町役場庁舎の位置と定められた（平成17年1月12日に確認）
     kind: fact
-    level: E5
+    level: E1
     status: established
     sources:
-    - r5-ureshino-wikipedia
+    - upg-aa5-ureshino-kyotei
   - text: 地方公共団体コードは412091である
     kind: fact
     level: E2
     status: established
     sources:
     - b-cap-chiba-soumu-code
+  - text: 本庁舎は合併後も旧塩田町役場の庁舎（塩田庁舎）に置かれてきたが、令和8年（2026年）10月13日に旧嬉野町側の新庁舎で業務が始まって本庁舎はそちらへ移り、塩田庁舎は残されて総合窓口が設置された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - upg-aa5-ureshino-shinchousha
   column:
     title: 名前は嬉野、本庁は塩田
-    text: 2006年の合併は、温泉と茶で名高い嬉野町と、塩田津の町並みで知られる塩田町の対等合併だった。新市の名前は知名度のある「嬉野」に決まったが、その代わり市役所の本庁舎は旧塩田町に置くことが合併の条件になったという。人口の多かった旧嬉野町ではなく旧塩田町に本庁があるのはそのためで、旧塩田町役場が新しく防災面でも有利だったことも後押しした。市名の由来とされる神功皇后の「あな、うれしの」は後世の類推とされるが、名前をめぐる駆け引きのほうは平成の合併協議にしっかり残っている。
+    text: 2006年の合併は、温泉と茶で名高い嬉野町と、塩田津の町並みで知られる塩田町の対等合併だった。新市の名前は知名度のある「嬉野」に決まり、市役所の本庁舎は旧塩田町に置くことが合併協議会の協定項目で定められた。人口の多かった旧嬉野町ではなく旧塩田町に本庁が置かれたのはそのためで、旧塩田町役場が新しく防災面でも有利だったことも後押しした。もっとも本庁舎は2026年、旧嬉野町側の新庁舎へ移っている。市名の由来とされる神功皇后の「あな、うれしの」は後世の類推とされるが、名前をめぐる駆け引きのほうは平成の合併協議にしっかり残っている。
     sources:
     - r5-ureshino-wikipedia
+    - upg-aa5-ureshino-kyotei
+    - upg-aa5-ureshino-shinchousha
   relations:
   - pref/41
   unknowns:
   - 「うれしの」の語源は確定しておらず、「宇礼志野」氏の初出とされる原典は確認できなかった
-  - 合併協議会で市名が正式に決定された過程（公募の有無など）は協議会の一次資料を確認できなかった
+  - 合併協議会の協定項目で新市の名称と事務所の位置が定められたことは確認できたが、市名の選定過程（公募の有無など）の詳細は確認できなかった
   updated: '2026-11-13'
 - id: muni/41-小城市
   code: '412082'
@@ -923,10 +938,11 @@ records:
     - r5-ogi-city-history
   - text: 2005年の合併では新市名が公募され、「小城」「おぎ」「天有」「豊成」「そよかぜ」の最終候補から「小城」が選ばれた
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
     - r5-ogi-uub-hensen
+    - upg-ae5-ogi-uub-detail
   - text: 地方公共団体コードは412082である
     kind: fact
     level: E2
@@ -1165,10 +1181,11 @@ records:
     - r7-kouhoku-kaso
   - text: 佐賀県の現存する町の中で、江北町だけが「ちょう」ではなく「まち」と読む
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r7-kouhoku-wiki
+    - upg-aa5-kouhoku-soumu-code
+    - upg-aa5-kouhoku-gsi
   column:
     title: 109年遅れで町名に追いついた江北駅
     text: 町の中心駅は1895年に旧山口村の名を取って「山口駅」として開業した。1913年には山口県の山口駅ができたため重複を避けて「肥前山口駅」に改称され、1932年に村が江北町になっても駅名は山口のまま残り続けた。ようやく2022年9月23日、西九州新幹線の開業と同日に、町の要望を受けたJR九州が駅名を「江北駅」に改称した。旧村名の駅名が109年間生き残り、最後は消えたはずの「山口」でなく「江北」に落ち着いたことになる。
@@ -1286,10 +1303,11 @@ records:
     - b-cap-chiba-soumu-code
   - text: 明治22年（1889年）の町村制施行により、現在の町域には福治村・六角村・須古村・橋下村・北有明村・福富村・錦江村・竜王村・南有明村の9村が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r7-shiroishi-wiki
+    - upg-ae6-saga-gappei
+    - upg-ae6-shiroishi-kyogikai
   - text: 昭和11年（1936年）4月1日に福治村が町制を施行し、同時に白石町と改称した
     kind: fact
     level: E4
@@ -1381,10 +1399,11 @@ records:
     - r5-kanzaki-kotobank-shi
   - text: 合併時の新市名の最終候補は「神埼」「城原（じょうばる）」「東佐賀（ひがしさが）」の3点で、「神埼」が選ばれた
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
     - r5-kanzaki-uub-hensen
+    - upg-ae5-kanzaki-uub-detail
   - text: 市域の東部から隣の吉野ヶ里町にまたがって弥生時代の大環濠集落である吉野ヶ里遺跡がある
     kind: fact
     level: E3
@@ -1714,6 +1733,54 @@ sources:
   r7-shiroishi-uub-1955:
     label: 市区町村変遷情報データベース「白石町（佐賀県杵島郡）1955〜2005年」（1955年7月20日に須古村・六角村・白石町が合併して白石町が生まれ、1956年に橋下村の一部と北有明村を編入した系譜）
     url: https://uub.jp/upd/c/3623.html
-  r7-shiroishi-wiki:
-    label: Wikipedia「白石町」（1889年の町村制で福治村・六角村・須古村・橋下村・北有明村・福富村・錦江村・竜王村・南有明村が発足した沿革の記述）
-    url: https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E7%94%BA
+  upg-aa2-gsi-menseki2022:
+    label: 国土地理院「令和4年全国都道府県市区町村別面積調（7月1日時点）」（佐賀県内全20市町村の面積と名称を掲載。大町町は11.50平方キロメートルで県内最小であり、県内の市町村名で平仮名表記はみやき町のみであることが一覧から確認できる）
+    url: https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20220701.pdf
+  upg-aa2-kamimine-nabunken:
+    label: 上峰町教育委員会『三上遺跡9区』発掘調査報告書（奈良文化財研究所「全国遺跡報告総覧」掲載。上峰町を旧三根郡に所属する町として記す）
+    url: https://sitereports.nabunken.go.jp/files/attach/52/52557/130891_1_%E4%B8%89%E4%B8%8A%E9%81%BA%E8%B7%A19%E5%8C%BA.pdf
+  upg-aa2-omachi-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」大町町（市区町村ID 41423A1968。有効期間は1936年1月1日からとされ、大町村の有効期間は1936年1月1日までとされる）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/41423A1968.html
+  upg-aa2-omachi-saga-plan:
+    label: 佐賀県公式サイト掲載「事業継続力強化支援計画」（大町町商工会・大町町。大町町は佐賀県のほぼ中央部に位置し、総面積は11.50平方キロメートルと記す）
+    url: https://www.pref.saga.lg.jp/kiji00373492/3_73492_up_waspei4g.pdf
+  upg-aa2-yoshinogari-mlit-suigen:
+    label: 国土交通省「水源地域対策アドバイザー派遣制度報告書」（平成18年〈2006年〉3月1日に神埼郡三田川町と東脊振村が合併して吉野ヶ里町が誕生したと記す）
+    url: https://www.mlit.go.jp/common/000213752.pdf
+  upg-aa2-yoshinogari-saga-shimbun:
+    label: 佐賀新聞「吉野ヶ里町合併20周年記念式典」記事（2026年11月7日掲載。町名は吉野ヶ里遺跡に由来すると記す）
+    url: https://www.saga-s.co.jp/articles/-/1825519
+  upg-aa5-kouhoku-gsi:
+    label: 国土地理院「佐賀県（市町村合併関連図）」（合併後の各市町村名に読みを併記。有田町は「ありたちょう」、江北町は「こうほくまち」）
+    url: https://web2.gsi.go.jp/common/000049772.pdf
+  upg-aa5-kouhoku-soumu-code:
+    label: 総務省「全国地方公共団体コード一覧」（佐賀県の全市町の名称と読みを併記。現存する町のうち大町町・白石町・太良町などは「ちょう」、江北町だけが「こうほくまち」）
+    url: https://www.soumu.go.jp/main_content/000323624.pdf
+  upg-aa5-ureshino-kyotei:
+    label: 嬉野町・塩田町合併協議会「協定項目の確認内容」（嬉野市公式サイト内の協議会アーカイブ。協定項目3で新市の名称は「嬉野市（うれしのし）」、項目4で新市の事務所の位置は当時の塩田町役場庁舎の位置とされ、両項目とも平成17年1月12日に確認された）
+    url: https://www.city.ureshino.lg.jp/other/keii/kyoutei/kakuninnaiyou.html
+  upg-aa5-ureshino-shinchousha:
+    label: 朝日新聞佐賀版（2026年10月17日付）記事の要約（平凡社地図出版ニュース掲載。嬉野市の新庁舎が旧嬉野町側に完成して2026年10月13日に業務を開始し、塩田庁舎は残して総合窓口を設置）
+    url: http://hcpc.co.jp/news/%EF%BD%A2%E5%AC%89%E9%87%8E%E5%B8%82%EF%BD%A3%E6%96%B0%E5%BA%81%E8%88%8E%E5%AC%89%E9%87%8E%E5%B8%82%E5%AC%89%E9%87%8E%E7%94%BA%E3%80%81%E5%AC%89%E9%87%8E%E5%BA%81%E8%88%8E%E9%9A%A3%E6%8E%A5%E3%80%81.html
+  upg-ae5-kanzaki-uub-detail:
+    label: 市区町村変遷情報「神埼市（詳細）」（新市名最終候補3点「神埼・城原（じょうばる）・東佐賀（ひがしさが）」と新市名「神埼市」の記録）
+    url: https://uub.jp/upd/u/u1196.html
+  upg-ae5-ogi-uub-detail:
+    label: 市区町村変遷情報「小城市（詳細）」（新市名最終候補5点「小城・おぎ・天有・豊成・そよかぜ」と新市名「小城市」の記録）
+    url: https://uub.jp/upd/u/u606.html
+  upg-ae6-omachi-geoshape:
+    label: 歴史的行政区域データセットβ版（Geoshape）「大町村」（有効期間は1889年4月1日から1936年1月1日）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/41B0020013.html
+  upg-ae6-omachi-uub:
+    label: 市区町村変遷情報「大町村の新設/村制（1889年4月1日）」（変更対象の自治体として大町村・福母村を挙げる）
+    url: https://uub.jp/upd/u/u16231.html
+  upg-ae6-saga-gappei:
+    label: 佐賀県「県内市町村の合併の経緯」（市町村ごとに明治22年4月1日の町村制施行で発足した村々を記録。白石町については須古村・六角村・福治村・北有明村、福富村、錦江村・竜王村・南有明村の発足を記す）
+    url: https://www.pref.saga.lg.jp/kiji00329259/3_29259_4_gappei-keii.pdf
+  upg-ae6-shiroishi-kyogikai:
+    label: 白石・福富・有明3町合併協議会「3町の現況と概要」（白石町は明治22年4月1日の町村制により福治・六角・須古・橋下・北有明・南有明の6つの村が誕生したと記す）
+    url: http://gatsupei.town.shiroishi.lg.jp/3data/main2.html
+  upg-af4-miyaki-taikei:
+    label: コトバンク『日本歴史地名大系』「三養基郡」（明治29年（1896年）に、古代律令制以来の基肄（きい）・養父（やぶ）・三根（みね）の三郡を廃し、その旧域をもって当郡を設置し、旧三郡の頭文字を組み合わせて郡名としたこと）
+    url: https://kotobank.jp/word/%E4%B8%89%E9%A4%8A%E5%9F%BA%E9%83%A1

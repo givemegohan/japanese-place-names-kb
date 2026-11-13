@@ -219,13 +219,12 @@ records:
     status: indeterminate
     sources:
     - s12-wiki-yonaguni-island
-  - text: 15世紀末の与那国島は女首長サンアイ・イソバが治めていたと伝わるが、その実在は確認されていない。島仲村跡遺跡はイソバの生まれた村と伝わる
+  - text: 沖縄県立博物館・美術館の総合調査報告書は、サンアイ・イソバを15世紀末に与那国島に君臨したとされる人物とし、伝承では四人の男兄弟を村々に配置して自ら島を統治したと言われていると記す。字島仲には「女首長サンアイ・イソバ出生の地」が町指定史跡として存在し、イソバの生まれた地と伝わるが、イソバの実在は確認されていない
     kind: legend
-    level: E5
+    level: E2
     status: indeterminate
     sources:
-    - s12-wiki-yonaguni-island
-    - s12-wiki-yonaguni-town
+    - upg-ag4-yonaguni-okimu-report
   - text: 1908年（明治41年）の島嶼町村制で石垣・大浜・宮良の3間切と与那国島を合わせて八重山村となり、1914年（大正3年）に八重山村が分村して与那国村が成立した
     kind: fact
     level: E3
@@ -384,12 +383,13 @@ records:
     status: established
     sources:
     - s10-kume-okimu
-  - text: 「球美」の「クミ」は琉球方言で「米」を意味し、水に恵まれた米どころの久米島を指すと考えられるという解釈が示されているが、語源を確定する専門資料の記述は確認できていない
+  - text: 「球美」の「クミ」は琉球方言で「米」を意味し、水に恵まれた米どころの久米島を指すと考えられるという解釈が学術論文（『上智経済論集』）でも示されているが、語源として確定した定説にはなっていない
     kind: fact
-    level: E5
+    level: E3
     status: indeterminate
     sources:
     - s10-kume-wiki
+    - upg-ag7-kume-sophia
   - text: 日本歴史地名大系によれば島の方音は「クミジマ」で、精選版日本国語大辞典は古名として球美・玖美を挙げる
     kind: fact
     level: E3
@@ -905,10 +905,11 @@ records:
   claims:
   - text: 1908年（明治41年）4月1日に中城村が誕生し、終戦後、米軍施設により南北に分断され行政運営に支障をきたした
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - s8-kitanakagusuku-wiki
+    - upg-af8-nakagusuku-geoshape
+    - upg-af8-kitanaka-machidukuri
   - text: 1946年（昭和21年）5月20日に中城村北部の12行政区が分離して北中城村が誕生した（歴史的行政区域データセットβ版も北中城村の有効期間を1946年5月20日からとする）
     kind: fact
     level: E2
@@ -3151,9 +3152,10 @@ records:
     - upg-t6-nishihara-kotobank
   - text: 一方、沖縄語で方位の「西」は「イリ」といい、「西原」を「イリバル」と読む地名はうるま市西原など他所にある。西原町の「ニシハラ」とは、読みも成り立ちも異なる
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-ag6-nishihara-japanpost-uruma
     - s9-nishihara-disambig
   - text: 西原は王府時代には稲作地帯として知られ、1906年に政府の糖業改良事務局が我謝に置かれると、糖業が町の主要産業となった
     kind: fact
@@ -3985,6 +3987,21 @@ sources:
   s9-yonabaru-navi:
     label: 与那原町観光ポータル「与那原ナビ」与那原町の概要（町公式系ポータル）
     url: https://www.yonabaru.okinawa/about
+  upg-af8-kitanaka-machidukuri:
+    label: 北中城村公式『北中城村まちづくり基本構想［概要版］』（平成24年12月。中城村の一部であったが、戦後の米軍施設設置に伴う村域の分断により昭和21年に分村して北中城村が誕生したことを記す）
+    url: https://www.vill.kitanakagusuku.lg.jp/material/files/group/38/kihonkousoukeikakugaiyou.pdf
+  upg-af8-nakagusuku-geoshape:
+    label: 歴史的行政区域データセットβ版「沖縄県中頭郡中城村」（国立情報学研究所・筑波大学。中城村の有効期間を1908年4月1日からとする）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/47328A1968.html
+  upg-ag4-yonaguni-okimu-report:
+    label: 沖縄県立博物館・美術館『与那国島総合調査報告書』（崎原恭子執筆分。サンアイ・イソバは15世紀末に与那国島に君臨したとされる人物で、伝承では四人の男兄弟を村々に配置し自ら島を統治したと言われていること、字島仲に町指定史跡「女首長サンアイ・イソバ出生の地」があることを記す）
+    url: https://okimu.jp/sp/userfiles/files/page/museum/issue/report/yonaguni5.pdf
+  upg-ag6-nishihara-japanpost-uruma:
+    label: 日本郵便「郵便番号検索 沖縄県うるま市」（大字「西原」の読みを「イリバル」と掲載する日本郵便公式の郵便番号データ）
+    url: https://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=47&city=1472130&mode=list
+  upg-ag7-kume-sophia:
+    label: 『上智経済論集』掲載の論文「久米島の持続可能な社会構築に向けた将来戦略試案」（球美とは琉球方言で米を指し、久米島の人々は古くから米作りをしていたと考えられている、と述べる）
+    url: https://fe.sophia.ac.jp/wp/wp-content/uploads/2024/02/63-3.pdf
   upg-parent-nanjo-okinawa-gappei:
     label: 沖縄県「市町村合併過去の動き」（県公式の合併経過記録。2004年10月26日に佐敷町・知念村・玉城村・与那原町合併協議会の第20回で新市名「東方市（あがりかたし）」が確認されたこと、新市の事務所の位置をめぐる対立で与那原町が離脱し同年12月28日に同協議会が廃止されたこと、大里村を加えた新たな協議会が2005年2月に市名の公募を行い、同年3月22日の第2回法定協議会で新市名「南城市」が確認されたことを直接確認）
     url: https://www.pref.okinawa.jp/site/kikaku/shichoson/7685.html

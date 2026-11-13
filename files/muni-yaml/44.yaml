@@ -130,18 +130,18 @@ records:
     status: established
     sources:
     - r11-kuju-kotobank-chimei
-  - text: 山麓に開かれた2つの寺院の山号に結びつき、北麓の九重町では「九重山」、南麓の旧久住町では「久住山」という表記がそれぞれ用いられてきた
+  - text: 山の総称の表記をめぐっては、北麓の九重（ここのえ）町側が「九重山」を、南麓の竹田市都野地区側が「久住山」を主張するなど、議論がかわされてきたと『日本大百科全書（ニッポニカ）』は説明する
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r11-kuju-wiki
-  - text: 表記の混乱を避けるため山々の総称は「くじゅう連山」のひらがな表記とすることになり、国立公園の名称も1986年以降「阿蘇くじゅう国立公園」となった
+    - r11-kuju-kotobank-chimei
+  - text: 火山群全体をさす場合は「九重山」「九重連山」「くじゅう連山」が用いられ、その主峰である単独の山は「久住山」とされる。混乱を避けるため観光宣伝では平仮名の「くじゅう」が用いられることが多く、国立公園の名称も「阿蘇くじゅう国立公園」と平仮名で表記されると『日本大百科全書（ニッポニカ）』は説明する
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r11-kuju-wiki
+    - r11-kuju-kotobank-chimei
   - text: 「くじゅう」の語源を『古事記』や『日本書紀』にみえる「クシフル」「クシヒ」などの地名に求める説があるが、確定していない
     kind: fact
     level: E5
@@ -160,6 +160,7 @@ records:
   unknowns:
   - 1955年の合併時に「九重」の名がどのような候補・手続きの中から選ばれたかは、公的資料で確認できていない
   - 「くじゅう」という山名自体の語源は諸説あり、確定していない
+  - 国立公園が「阿蘇くじゅう国立公園」に改称された年（1986年とされる）は、環境省等の公的資料での確認が未了
   updated: '2026-11-13'
 - id: muni/44-佐伯市
   code: '442054'
@@ -529,10 +530,10 @@ records:
     - r11-himeshima-zck
   - text: 1889年4月1日、町村制の施行により東国東郡姫島の区域をもって姫島村が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r11-himeshima-wiki
+    - upg-ac3-himeshima-geoshape
   - text: 村公式サイトは、『古事記』の国生みで大島の次に生まれた女島が姫島であり、別名を「天一根（あまのひとつね）」というと紹介している
     kind: legend
     level: E2
@@ -547,10 +548,11 @@ records:
     - r11-himeshima-town-yurai
   - text: 島には比売語曽を祀る比売語曽社があり、姫島の名前のルーツとなった神社として春の大祭が行われている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r11-himeshima-wiki
+    - r11-himeshima-town-yurai
+    - upg-ac3-himeshima-spot
   - text: 「姫島の盆踊」は2012年に、国の記録作成等の措置を講ずべき無形の民俗文化財に選択された
     kind: fact
     level: E2
@@ -692,10 +694,10 @@ records:
     - r11-hiji-kotobank-nipponica
   - text: 1889年4月1日、町村制の施行により、近世村である速見郡日出村の区域をもって日出町が成立した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r11-hiji-wiki
+    - upg-ac3-hiji-geoshape
   - text: 1954年に豊岡町と藤原・大神・川崎の3村と合併し、1956年に南端村の大部分を編入した
     kind: fact
     level: E3
@@ -708,12 +710,12 @@ records:
     status: established
     sources:
     - r11-hiji-town-history
-  - text: 日出町はかつて同じ速見郡に属した別府市・杵築市とともに「別杵速見（べっきはやみ）」と呼ばれ、結びつきが強い
+  - text: 大分県の地域区分では、日出町は別府市・杵築市などとともに「別杵速見（べっきはやみ）地域」に区分されている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r11-hiji-wiki
+    - upg-ac3-oita-bekki
   column:
     title: 地名は「日出」、城の名は「暘谷城」
     text: 町の名は古代の荘名をそのまま受け継いだ素朴な「日出」だが、藩の城には凝った別名があった。3代藩主木下俊長が、中国の古典『書経』あるいは『淮南子』の一節にある「暘谷（ようこく）」――太陽が昇ってくるという谷の名――から採って「暘谷城」と名付けたと伝えられる。いまも最寄り駅は日出駅ではなく「暘谷駅」で、地名より城の別名のほうが駅名として生き残っている。
@@ -751,7 +753,7 @@ records:
     era: 天平5年頃
     year_western: 733
     document: 豊後国風土記
-    note: 現存する5つの風土記のひとつ。日田市公式資料が「日田の名前がはじめて文献で確認される」ものとして紹介する。成立は天平5年（733年）頃から天平12年（740年）頃までとされ、原文は未読のため紹介形で記録する
+    note: 現存する5つの風土記のひとつ。日田市公式資料が「日田の名前がはじめて文献で確認される」ものとして紹介する。成立は天平5年（733年）頃から天平12年（740年）頃までとされ、日田郡条の本文はWeb公開の転写テキストで確認した（写本・刊本の原典そのものは未読）
   claims:
   - text: 日田市の地方公共団体コードは442046である
     kind: fact
@@ -767,10 +769,10 @@ records:
     - s1-hita-city-gaiyo
   - text: 『豊後国風土記』日田郡の条は、景行天皇が巡幸の途中でこの郡を通った際、久津媛という神が人の姿に化して迎え、国の消息を告げたため「久津媛之郡」と名付けられ、今の「日田郡」はその訛音である、と伝える
     kind: legend
-    level: E5
+    level: E2
     status: established
     sources:
-    - s1-hita-wiki-gun
+    - upg-ac3-hita-fudoki
   - text: 平安時代の『和名類聚抄』では、郡名は「日高郡」と書かれながら読みは「比多（ひた）」とされており、漢字表記とは別に、和語の「ひた」という名が古くから呼ばれていたことが分かる
     kind: fact
     level: E4
@@ -786,10 +788,11 @@ records:
     - s1-hita-local
   - text: 昭和15年（1940年）12月11日、日田郡日田町と西有田村・三花村・光岡村・朝日村・三芳村・高瀬村が合併して日田市が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - s1-hita-uub
+    - upg-ac3-hita-geoshape
+    - s1-hita-city-gaiyo
   - text: 日田は江戸時代後期に幕府直轄の天領となり西国筋郡代が置かれて九州の幕府領の中心となり、花月川南岸の豆田町は、江戸初期の城下町建設時の町割を残す商家町として発展した
     kind: fact
     level: E2
@@ -806,9 +809,9 @@ records:
   - pref/44
   - muni/43-山鹿市
   unknowns:
-  - 『豊後国風土記』日田郡条の原文は未読のため、久津媛の説話は二次資料による紹介形にとどめた
+  - 『豊後国風土記』日田郡条の本文はWeb公開の転写テキストで確認したが、写本・刊本の原典そのものは未読
   - 「ひた」の本来の意味（語源）は未解明で、日高説・隈（くま）説などの裏付けは得られなかった
-  - 1940年の市制施行の構成町村は市区町村変遷情報（E5）で確認したもので、市公式の沿革資料での裏付けは未了
+  - 1940年の市制施行について、市公式資料で確認できるのは昭和15年の市制施行までで、構成町村を明記した市公式の沿革資料での裏付けは未了（構成町村は歴史的行政区域データセットで各村の有効期間が1940年12月11日に終わることを確認）
   updated: '2026-11-13'
 - id: muni/44-杵築市
   code: '442101'
@@ -1072,12 +1075,12 @@ records:
     sources:
     - k6-yufu-city-textbook
     - b-cap-chiba-soumu-code
-  - text: 市名「由布市」は、合併に際して行われた一般公募で圧倒的に最多の票を得て、そのまま選出されたとWikipediaは合併協議会資料等に基づいて紹介する
+  - text: 市名「由布市」は、合併に際して行われた新市名の公募で「由布」が第1位となり、最終候補5点を経て、そのまま選出された
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - k6-yufu-wikipedia
+    - upg-ac3-yufu-uub
   - text: 「由布（ゆふ）」の語源は『豊後国風土記』の大分郡柚富郷に遡り、同郷の条には、郷内に栲（こうぞ）の木が多く生え、その皮を取って木綿（ゆう）を作ったので「柚富郷」と名づけた、という地名由来の記事があることが知られる
     kind: fact
     level: E3
@@ -1117,7 +1120,7 @@ records:
   relations:
   - pref/44
   unknowns:
-  - 市名公募の得票数や次点候補などの詳細は、合併協議会資料の原本での直接確認が未了
+  - 市名公募の得票数そのものは、合併協議会資料の原本での直接確認が未了（公募の上位候補と最終候補は市区町村変遷情報で確認）
   - 古代の柚富郷の範囲と現市域の関係は、一般的な比定の範囲を超えては確認できていない
   updated: '2026-11-13'
 - id: muni/44-竹田市
@@ -1489,9 +1492,6 @@ sources:
   r11-hiji-town-history:
     label: 日出町公式サイト「日出町の歴史」（慶長6年に日出藩木下家が誕生し、16代270年にわたり速見郡内日出3万石（後に2万5千石）を統治したこと、藩祖延俊が日出城を築いたこと）
     url: https://www.town.hiji.lg.jp/gyoseijoho/shisetsuannai/shiryokan_kinenkan/1636.html
-  r11-hiji-wiki:
-    label: Wikipedia「日出町」（1889年4月1日に速見郡日出村の区域をもって日出町が成立したこと、別府・杵築とともに「別杵速見」と呼ばれること）
-    url: https://ja.wikipedia.org/wiki/%E6%97%A5%E5%87%BA%E7%94%BA
   r11-himeshima-bunka:
     label: 文化庁「国指定文化財等データベース」姫島の盆踊の項（2012年3月8日に記録作成等の措置を講ずべき無形の民俗文化財に選択されたこと、キツネ踊り・アヤ踊りなどの演目と踊りの特色を解説）
     url: https://kunishitei.bunka.go.jp/bsys/maindetails/312/00000914
@@ -1504,9 +1504,6 @@ sources:
   r11-himeshima-visit-oita:
     label: 大分県観光情報公式サイト「気になる七不思議の島【姫島】上陸レポート」（姫島七不思議＝千人堂・阿弥陀牡蠣・拍子水・かねつけ石・浮田・逆柳等の紹介。参考資料として姫島村公式サイトを挙げる）
     url: https://www.visit-oita.jp/magazines/detail/577
-  r11-himeshima-wiki:
-    label: Wikipedia「姫島村」（1889年4月1日に東国東郡姫島の区域をもって姫島村が発足した沿革、比売語曽社の春の大祭）
-    url: https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%B3%B6%E6%9D%91
   r11-himeshima-zck:
     label: 全国町村会「町村の取組」姫島村の項（大分県唯一の村・一島一村であること、『古事記』に国生みで12番目の島として姫島が登場し、『日本書紀』に姫島の名前の由来である比売語曽の神のことが記載されていると紹介）
     url: https://www.zck.or.jp/site/forum/23053.html
@@ -1520,7 +1517,7 @@ sources:
     label: 山岳ガイドサイト「九重山」（くじゅうの山名は『古事記』や『日本書紀』に記述のある「クシフル」「クシヒ」などの地名が語源とされ、『万葉集』や『豊後国風土記』には「クタミ」の呼名もあると紹介）
     url: http://www.y-urc.com/yama/guide/yama_kuju.html
   r11-kuju-kotobank-chimei:
-    label: コトバンク『日本歴史地名大系』「九重山」の項（『豊後国風土記』にみえる「球覃（くたみ）峯」、「万葉集」に詠じられた「朽網山」は当山のこととされる、と紹介）
+    label: コトバンク『日本歴史地名大系』『日本大百科全書（ニッポニカ）』「九重山」の項（大系は『豊後国風土記』にみえる「球覃（くたみ）峯」、『万葉集』に詠じられた「朽網山」は当山のこととされる、と紹介。ニッポニカは、九重町側が「九重山」を、竹田市都野地区側が「久住山」を主張する表記をめぐる議論と、総称には「九重山」「九重連山」「くじゅう連山」が用いられ、混乱を避けるため観光宣伝では平仮名の「くじゅう」が用いられることを説明）
     url: http://kotobank.jp/word/%E4%B9%9D%E9%87%8D%E5%B1%B1-55263
   r11-kuju-wiki:
     label: Wikipedia「九重山」（山麓の2寺院の山号に結びつき九重町では「九重山」、旧久住町では「久住山」の表記が用いられたこと、山々の総称を「くじゅう連山」とし国立公園名も「阿蘇くじゅう国立公園」に改められたこと）
@@ -1543,9 +1540,6 @@ sources:
   s1-hita-local:
     label: 郷土資料「日田の散歩道」（『和名類聚抄』では日高郡とされるが「比多」の読みが付され古くから「ひた」と呼ばれたこと、由来は諸説あり未解明であることを記す）
     url: http://inakade-ho.pya.jp/kisetu/hita3po/220401/000.html
-  s1-hita-uub:
-    label: 都道府県市区町村「日田市（1940年〜）市区町村変遷情報」（昭和15年12月11日に日田町と6村が合併して市制を施行した記録）
-    url: https://uub.jp/upd/c/7238.html
   s1-hita-wiki-gun:
     label: Wikipedia「日田郡」（『豊後国風土記』の久津媛の説話と『和名類聚抄』の「日高郡・比多」の訓を紹介）
     url: https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%B0%E9%83%A1
@@ -1633,3 +1627,24 @@ sources:
   s2-usuki-uub:
     label: 都道府県市区町村「臼杵市（2005年〜）市区町村変遷情報」（2005年1月1日に野津町と新設合併、新市名の公募1位は「臼杵」）
     url: https://uub.jp/upd/c/653.html
+  upg-ac3-hiji-geoshape:
+    label: 歴史的行政区域データセットβ版（国立情報学研究所CODH）「大分県速見郡日出町」（有効期間は1889年4月1日からで、町村制施行時に村を経ず町として発足したことを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/44341A1968.html
+  upg-ac3-himeshima-geoshape:
+    label: 歴史的行政区域データセットβ版（国立情報学研究所CODH）「大分県東国東郡姫島村」（有効期間は1889年4月1日から）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/44322A1968.html
+  upg-ac3-himeshima-spot:
+    label: 大分県観光情報公式サイト「比売語曽社」の項（比売語曽神を祀る社で島最古の社とされ、毎年4月3日に春の大祭が開かれると紹介）
+    url: https://www.visit-oita.jp/spots/detail/4818
+  upg-ac3-hita-fudoki:
+    label: 『豊後国風土記』日田郡の条（Web公開の転写テキストで本文を確認。「有神、名曰久津媛。化而為人參迎、辨申國消息。因斯曰久津媛之郡。今謂日田郡者、訛也」とある）
+    url: https://miko.org/~uraki/kuon/furu/text/fuudo/bungo/bungo01.htm
+  upg-ac3-hita-geoshape:
+    label: 歴史的行政区域データセットβ版（国立情報学研究所CODH）「大分県日田市」（有効期間は1940年12月11日から。日田町と西有田村・三花村・光岡村・朝日村・三芳村・高瀬村の有効期間はいずれも同日まで）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/44204A1968.html
+  upg-ac3-oita-bekki:
+    label: 大分県公式サイト「用語の説明」（県の地域区分として「別杵速見地域（別府市・杵築市・日出町・山香町）」を定義する。平成17年5月1日現在の区分）
+    url: https://www.pref.oita.jp/10800/chosakekka/shinki/h17/gakkoyogo.html
+  upg-ac3-yufu-uub:
+    label: 都道府県市区町村「由布市の新設/市制（2005年10月1日）市区町村変遷情報」（挾間・庄内・湯布院合併協議会の経過として、新市名公募の上位10点で「由布」が筆頭に挙がり、最終候補5点（あらかし・碩南・豊後・ぶんご富士・由布）を経て新市名が「由布市」に決定した記録）
+    url: https://uub.jp/upd/u/u659.html

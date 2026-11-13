@@ -1469,10 +1469,11 @@ records:
     - x11-tadaoka-nankai
   - text: 2003年（平成15年）に岸和田市との合併協議会が設置されたが、住民投票で否決され、合併は実現しなかった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - x11-tadaoka-wiki
+    - upg-ae4-tadaoka-oskjichi
+    - upg-ae4-tadaoka-jcphannan
   - text: 地方公共団体コードは273414である
     kind: fact
     level: E2
@@ -2099,9 +2100,9 @@ records:
     status: inferred
     sources:
     - x11-kanan-uub
-  - text: 宮城県にも河南町（かなんちょう）が1955年から2005年まで存在したが（現・石巻市河南地区）、そちらの「河南」は北上川を境として南北を区別する仙台藩政期以来の広域呼称に由来し、大阪の河南町とは別の成立である（異なる層）
+  - text: 宮城県にも河南町（かなんちょう）が1955年から2005年まで存在した（現・石巻市河南地区）。Wikipedia「河南町 (宮城県)」は、『角川日本地名大辞典 4 宮城県』の記載として、そちらの「河南」は北上川を境界として南北を区別する仙台藩政期以来の広域呼称によるものと紹介しており、大阪の河南町とは別の成立である（異なる層）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
     - x11-kanan-miyagi-wiki
@@ -3802,6 +3803,12 @@ sources:
   p3-tondabayashi-kotobank:
     label: コトバンク「富田林市」（平凡社『日本歴史地名大系』。市名は当地域の中心であった富田林村・富田林町に由来する）
     url: http://kotobank.jp/word/%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82-107133
+  upg-ae4-tadaoka-jcphannan:
+    label: 日本共産党阪南地区委員会「住民投票の結果」（2004年8月22日に行われた忠岡町の岸和田市との合併を問う住民投票で、賛成2,797票・反対6,804票となったことを記す）
+    url: http://jcp-hannan.net/old/jumintohyokekka.html
+  upg-ae4-tadaoka-oskjichi:
+    label: 大阪自治体問題研究所「岸和田市・忠岡町の合併協議をめぐる経過」（2003年6月30日に岸和田市・忠岡町の両議会が法定合併協議会の設置を可決したことを記す）
+    url: http://www.oskjichi.or.jp/modules/readingroom/200409deguchi.html
   upg-parent-misaki-kinenshi:
     label: 岬町公式『岬町町制施行70周年記念誌 統計資料編』（「本町のあゆみと地理」に、1955年4月1日に淡輪村・深日町・多奈川町・孝子村が合併して誕生し、海岸に数本の岬が突出していることや町全体が半島状に大阪湾へ突出していることから「岬町」と名付けられたと明記）
     url: https://www.town.misaki.osaka.jp/material/files/group/7/toukeishiryouhen.pdf
@@ -4010,7 +4017,7 @@ sources:
     label: 河南町公式「町の概要」（町の位置・地勢と面積25.26km²、町章の図案が「カ・ナ・ン」の文字と合併した旧4村（石川村・白木村・河内村・中村）を表すこと）
     url: https://www.town.kanan.osaka.jp/gyoseijoho/gaiyo/3856.html
   x11-kanan-miyagi-wiki:
-    label: Wikipedia「河南町 (宮城県)」（1955年から2005年まで宮城県桃生郡にあった河南町で、「河南」は北上川を境界として南北を区別する仙台藩政期以来の広域呼称によるという由来を収録）
+    label: Wikipedia「河南町 (宮城県)」（1955年から2005年まで宮城県桃生郡にあった河南町で、「河南」は北上川を境界として南北を区別する仙台藩政期以来の広域呼称によるという由来を、典拠として『角川日本地名大辞典 4 宮城県』（842〜845頁）を明示して収録）
     url: https://ja.wikipedia.org/wiki/%E6%B2%B3%E5%8D%97%E7%94%BA_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
   x11-kanan-uub:
     label: 都道府県市区町村「河南町（1956年〜）市区町村変遷情報」（1956年9月30日に南河内郡の石川村・白木村・河内村・中村が合併し、同時に町制を施行して河南町が誕生した新設合併を収録）

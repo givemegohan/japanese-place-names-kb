@@ -938,18 +938,24 @@ records:
     status: established
     sources:
     - q9-hirao-kotobank
-  - text: 1889年（明治22年）に平生村・竪ヶ浜村・平生町・宇佐木村の区域をもって平生村が発足し、1903年（明治36年）4月1日に町制を施行して平生町となった
+  - text: 1889年（明治22年）に平生村・竪ヶ浜村・平生町・宇佐木村の区域をもって平生村が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q9-hirao-wiki
+    - upg-ae4-uub-yamaguchi
+  - text: 1903年（明治36年）4月1日に町制を施行して平生町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - upg-ac4-hirao-geoshape
   - text: 1955年（昭和30年）1月1日に大野村・佐賀村・曽根村と合併し、改めて平生町が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q9-hirao-wiki
+    - upg-ac4-hirao-geoshape
   - text: 「平生」という名そのものの語源については、確認できた専門資料（日本歴史地名大系）・町公式資料に明示的な説明がなく、確定できなかった。干拓以前からの地名なのか、開作に際して付けられた名なのかも含めて未確定である
     kind: fact
     level: E5
@@ -1095,18 +1101,25 @@ records:
     sources:
     - q9-tabuse-kotobank
     - q9-tabuse-wiki
-  - text: 1889年（明治22年）に下田布施村・上田布施村・波野村・大波野村の区域をもって田布施村が発足し、1921年（大正10年）2月11日に町制を施行して田布施町となった
+  - text: 1889年（明治22年）に下田布施村・上田布施村・波野村・大波野村の区域をもって田布施村が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q9-tabuse-wiki
+    - upg-ae4-uub-yamaguchi
+  - text: 1921年（大正10年）2月11日に町制を施行して田布施町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - upg-ac4-tabuse-geoshape
   - text: 1955年（昭和30年）1月1日に麻郷村・麻里府村・城南村と合併し、新しい田布施町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q9-tabuse-wiki
+    - upg-ac4-tabuse-koho
+    - upg-ac4-tabuse-geoshape
   - text: 「田布施」の語源については、「田伏せ（柴や藁などを敷いて田を造成した土地）」といった解釈が一般に流布しているが、専門資料・公式資料による裏付けは確認できず、語源は未確定である
     kind: fact
     level: E5
@@ -1721,9 +1734,6 @@ sources:
   q9-hirao-kotobank:
     label: コトバンク「平生村」（日本歴史地名大系：当村一帯は古くは内海であり田布施川等の土砂の堆積で低地が形成されたこと、「注進案」に平生は大野毛利氏の毛利就頼が慶安4年（1651）より万治2年（1659）まで開作し築き立てたとあること）
     url: https://kotobank.jp/word/%E5%B9%B3%E7%94%9F%E6%9D%91-3068294
-  q9-hirao-wiki:
-    label: Wikipedia「平生町」（1889年に平生村・竪ヶ浜村・平生町・宇佐木村の区域で平生村が発足し1903年4月1日に町制施行、1955年1月1日に大野村・佐賀村・曽根村と合併したこと）
-    url: https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%94%9F%E7%94%BA
   q9-kamadozeki-kotobank:
     label: コトバンク「竈戸関」（日本歴史地名大系：長島の古代・中世における呼称で地形が竈に似ていたところから名付けられたという「注進案」の説、寿永3年（1184）4月24日付の源頼朝下文案（賀茂別雷神社文書）に「竈戸関」とみえるのが早い例で賀茂別雷神社の荘園の一つであったこと）
     url: https://kotobank.jp/word/%E7%AB%88%E6%88%B8%E9%96%A2-1155558
@@ -1754,3 +1764,15 @@ sources:
   q9-waki-uub:
     label: 市区町村変遷情報「和木村（山口県玖珂郡）1899〜1973年」（1899年4月1日に小瀬川村の一部が分かれて和木村が成立し、1973年4月1日に町制により和木町になったこと）
     url: https://uub.jp/upd/c/10392.html
+  upg-ac4-hirao-geoshape:
+    label: 歴史的行政区域データセットβ版（CODH）「山口県熊毛郡平生町」（平生町の有効期間は1903年4月1日〜と記録されること。現在の町域と重なる過去の市区町村として旧平生町25%・佐賀村42%・大野村21%・曽根村11%が挙げられ、佐賀村・大野村・曽根村の有効期間はいずれも1889年4月1日〜1955年1月1日と記録されること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/35344A1968.html
+  upg-ac4-tabuse-geoshape:
+    label: 歴史的行政区域データセットβ版（CODH）「山口県熊毛郡田布施町」（田布施町の有効期間は1921年2月11日〜と記録されること。現在の町域と重なる過去の市区町村として田布施村51%・城南村約20%・麻郷村16%・麻里府村12%が挙げられること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/35343A1968.html
+  upg-ac4-tabuse-koho:
+    label: 田布施町公式「広報たぶせ」合併70年記念記事（昭和30年（1955）1月1日に旧田布施町・麻郷村・城南村・麻里府村が合併して新しい田布施町が誕生したこと）
+    url: https://www.town.tabuse.lg.jp/uploaded/attachment/1598.pdf
+  upg-ae4-uub-yamaguchi:
+    label: 市区町村変遷情報「法的根拠等に基づく変遷（山口県）」（町村制施行時の新設一覧で、平生村は平生村・竪ヶ浜村・平生町・宇佐木村の区域をもって、田布施村は下田布施村・上田布施村・波野村・大波野村の区域をもって、それぞれ1889年4月1日に発足したことを示す）
+    url: https://uub.jp/upd/s_yamaguchi.html

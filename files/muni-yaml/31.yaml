@@ -27,10 +27,11 @@ records:
   claims:
   - text: 1889年（明治22年）10月1日、河村郡の大瀬村・横手村・山田村・三朝村・砂原村が合併して三朝村が発足し、1953年（昭和28年）11月1日に三朝村・三徳村・小鹿村・旭村・竹田村が合併して町制を施行し、三朝町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-misasa-wiki
+    - q5-hiezu-pref-tokei
+    - upg-y2-misasa-geoshape
   - text: Wikipedia「三朝村 (鳥取県)」の項目は、『角川日本地名大辞典 31 鳥取県』（729-730頁）の記述として、三朝村の地名の由来は「郷名の三朝庄にちなむ」と紹介している。町名「三朝」は温泉の言い伝えではなく、中世以来の郷名・荘園名を継いだものである
     kind: fact
     level: E5
@@ -63,10 +64,11 @@ records:
     - q5-misasa-ndl
   - text: 三朝町は2003年に天神川流域の合併協議会から離脱して単独町制の継続を選択し、その後も合併していない
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - q5-misasa-wiki
+    - upg-ae4-uub-sekikane
+    - upg-ae4-uub-hojo
   - text: 三朝町の地方公共団体コードは313645である
     kind: fact
     level: E2
@@ -281,7 +283,7 @@ records:
     - q5-yazu-town-origin
   - text: 市区町村変遷情報（uub.jp）によれば、住民アンケートの結果は八頭53.1％、因幡21.2％、扇野10.6％、八頭東9.2％、須賀野5.9％であった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
     - q5-yazu-uub
@@ -291,12 +293,12 @@ records:
     status: established
     sources:
     - q5-yazu-town-origin
-  - text: 八頭郡は1896年（明治29年）4月1日、郡制の施行のため八上郡・八東郡・智頭郡の区域をもって発足した郡で、もとは因幡国の東部を占めた
+  - text: 八頭郡は1896年（明治29年）4月1日、郡制の施行のため八上郡・八東郡・智頭郡の区域をもって発足した郡である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-yazu-gun-wiki
+    - q5-hiezu-pref-tokei
   - text: 合併した3町のうち郡家町は旧・八上郡の郡家（郡庁）の地にちなむ名をもち、八東町は旧・八東郡の名を受け継いだ町であり、新町名「八頭」はこれら旧郡名の上位の郡名に統一した形になっている
     kind: fact
     level: E5
@@ -356,7 +358,7 @@ records:
     - q5-hokuei-uub
   - text: 新町名は公募され、上位候補10点には「北栄（ほくえい）」「中央」「大北（だいほく）」のほか、同じ漢字で読みの異なる「北栄（ほうえい）」、さらに「コナン」も含まれていた
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
     - q5-hokuei-uub
@@ -368,11 +370,10 @@ records:
     - q5-hokuei-uub
   - text: 前身の大栄町は1955年（昭和30年）5月1日に大誠村・栄村の合併で発足し、1959年（昭和34年）4月1日に由良町と合併した。北条町は1954年（昭和29年）6月1日に中北条村・下北条村の合併で発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-daiei-wiki
-    - q5-hojo-wiki
+    - q5-hiezu-pref-tokei
   - text: 『名探偵コナン』の作者・青山剛昌は北栄町（旧大栄町、由良）の出身であり、町内には青山剛昌ふるさと館がある。JR由良駅は「コナン駅」の愛称をもち、駅から館までオブジェの並ぶ「コナン通り」が続く
     kind: fact
     level: E2
@@ -572,7 +573,7 @@ records:
     era: 天平5年
     year_western: 733
     document: 『出雲国風土記』
-    note: 同書ではこの山は「大神岳（おおがみたけ）」と呼ばれていたと英語版Wikipedia「Daisen」が紹介している。「大山」の表記と「だいせん」の読みの文献上の初出は未確認
+    note: 同書におけるこの山の表記は、環境省のポケットガイドでは「大神嶽」、鳥取県公式サイトでは「火神岳（ひのかみたけ）」とされ、資料により異なる。「大山」の表記と「だいせん」の読みの文献上の初出は未確認
   claims:
   - text: 2005年（平成17年）3月28日、西伯郡の大山町・名和町・中山町が合併して、新しい大山町が新設された
     kind: fact
@@ -582,28 +583,30 @@ records:
     - q5-daisen-estat
   - text: 旧・大山町は1955年（昭和30年）11月3日に大山村と大山町が合併して発足しており、2005年の合併でも「大山町」の名がそのまま継承された
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-daisen-uub
+    - q5-hiezu-pref-tokei
+    - q5-daisen-estat
   - text: 環境省の資料は、733年に編纂された『出雲国風土記』では大山は神々が住む山と記されていること、718年に金蓮上人がこの山に地蔵権現を祀り大山寺を創建したことを紹介している
     kind: fact
     level: E2
     status: established
     sources:
     - q5-daisen-env
-  - text: 英語版Wikipedia「Daisen」は、『出雲国風土記』（733年）でこの山が「大神岳（Ōgami-take、大いなる神の山）」と呼ばれていたこと、これが和語の古名であり、「大山（だいせん）」は漢字の漢語系の読みによる名であることを記す。古名は山麓の大神山神社の社名に今も残っている
+  - text: 大山は『出雲国風土記』の国引き神話で、国を引く綱を繋ぎ止めた杭の山とされる。その山の名について、環境省の大山隠岐国立公園ポケットガイドは「大神嶽」と記す一方、鳥取県の公式サイトは同書における大山の表記を「火神岳（ひのかみたけ）」としており、古名の表記は資料により異なる。「大神」の名は、山麓の大神山神社の社名に今も残っている
     kind: fact
-    level: E5
-    status: established
+    level: E2
+    status: contested
     sources:
-    - q5-daisen-enwiki
-  - text: 大山寺の開創縁起として、養老2年（718年）に俊方（のちの金蓮上人）が大山で鹿を弓で射たところ、その正体は地蔵菩薩であったと知り、殺生の罪を悟って出家し、草庵を結んで地蔵菩薩を祀ったことが大山寺の起源と『大山寺縁起』などに伝えられる
+    - upg-y2-daisen-env-guide
+    - upg-y2-daisen-pref-yumehiroba
+  - text: 大山寺の開創縁起として、養老2年（718年）に出雲国玉造の猟師・依道が金色の狼を追って大山に入り、一矢で射ようとした矢の前方に地蔵菩薩が現れたため、殺生を悔いて出家し、金蓮と名を改めて地蔵権現を祀ったことが大山寺の起源と『大山寺縁起』に伝えられる（大山寺公式サイトの沿革による）
     kind: legend
-    level: E5
+    level: E3
     status: established
     sources:
-    - q5-daisenji-wiki
+    - upg-af3-daisenji-official
   - text: 大山は仏教伝来以前から強力な神が住む山として崇められた信仰の地で、大山寺は山岳信仰の中心として栄え、平安時代には牛馬の安全を祈願する「牛馬信仰」が広まって多くの参詣者を集めた
     kind: fact
     level: E2
@@ -613,10 +616,10 @@ records:
     - q5-daisenji-wiki
   - text: 大山は見る方向によって、伯耆側からは「伯耆富士（伯耆大山）」、出雲側からは「出雲富士」とも呼ばれてきた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-daisen-enwiki
+    - upg-y2-daisen-env-guide
   - text: 大山町の地方公共団体コードは313866である
     kind: fact
     level: E2
@@ -624,10 +627,11 @@ records:
     sources:
     - b-cap-chiba-soumu-code
   column:
-    title: 「大神岳」から「だいせん」へ
-    text: 大山の古い名は「大神岳（おおがみたけ）」――大いなる神の山である。『出雲国風土記』の時代から神の住む山とされ、その名残は今も山麓の大神山神社（奥宮は日本最大級の権現造り）の社名に残る。現在の「大山（だいせん）」は漢字の音読みの名で、読みの上では後から来た名前である。町名はその音読みの山名を継いでいる。山頂の神を祀る大神山神社と、中腹で地蔵を祀る大山寺とが同居する神仏習合の山の姿も、この地名の重なりと重なっている。
+    title: 「大神」か「火神」か、二つの古名
+    text: 大山の古名の表記は、資料によって異なる。『出雲国風土記』の国引き神話に登場する、国を引く綱を繋ぎ止めた杭の山について、環境省のポケットガイドは「大神嶽」、鳥取県の公式サイトは「火神岳（ひのかみたけ）」と記す。「大神」の名は、今も山麓の大神山神社の社名に残っている。現在の「大山（だいせん）」という表記と読みの初出は未確認だが、町名はこの山名を継いでいる。山の神を祀る大神山神社と、中腹で地蔵を祀る大山寺とが同居する神仏習合の山の姿も、この地名の重なりと重なっている。
     sources:
-    - q5-daisen-enwiki
+    - upg-y2-daisen-env-guide
+    - upg-y2-daisen-pref-yumehiroba
     - q5-daisen-env
   relations:
   - pref/31
@@ -657,20 +661,21 @@ records:
     era: 明治29年
     year_western: 1896
     document: 岩美郡の設置（郡制施行）
-    note: 町名の源泉である郡名「岩美」の使用開始として1896年4月1日の岩美郡発足を挙げる。「岩美」という地名のそれ以前の用例は未確認
+    note: 町名の源泉である郡名「岩美」の使用開始として1896年（明治29年）の岩美郡発足を挙げる。発足の日は資料により異なり、Wikipediaは4月1日、鳥取県統計課「市町村の変遷」は9月1日とする。「岩美」という地名のそれ以前の用例は未確認
   claims:
   - text: 1954年（昭和29年）7月1日、岩美郡の田後村・東村・浦富町・蒲生村・岩井町・小田村・本庄村・大岩村・網代村の9町村が合併して岩美町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-iwami-wiki
-  - text: 岩美郡は1896年（明治29年）4月1日、郡制の施行のため邑美郡・法美郡・岩井郡の区域をもって発足した郡である
+    - q5-hiezu-pref-tokei
+    - upg-y2-iwami-geoshape
+  - text: 岩美郡は1896年（明治29年）に、郡制の施行のため邑美郡・法美郡・岩井郡の区域をもって発足した郡である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-iwami-gun-wiki
+    - q5-hiezu-pref-tokei
   - text: 郡名「岩美」は、合併した岩井郡の「岩」と、邑美郡・法美郡の「美」を合わせた合成の郡名と解される。同じ1896年の郡再編で生まれた八頭郡（八上・八東・智頭）と同じ造られ方である
     kind: fact
     level: H
@@ -679,22 +684,23 @@ records:
     - q5-iwami-gun-wiki
   - text: 現在の岩美郡は岩美町のみで構成されており、郡の区域と町の区域が一致している
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-iwami-gun-wiki
+    - b-cap-chiba-soumu-code
   - text: 岩美町は鳥取県の最東端に位置して日本海に面し、浦富海岸は山陰海岸国立公園および山陰海岸ジオパークの一部となっている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-iwami-wiki
-  - text: 読みの「いわみ」は島根県側の旧国名・石見（いわみ）と同音だが、岩美は因幡国の3郡を合わせた郡名に由来するもので、石見とは無関係である
+    - upg-y2-iwami-town-pr
+    - upg-y2-iwami-geopark-guide
+  - text: 読みの「いわみ」は島根県側の旧国名・石見（いわみ）と同音だが、岩美郡は邑美郡・法美郡・岩井郡の区域をもって発足した郡の名であり、石見とは関係がない
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-iwami-gun-wiki
+    - q5-hiezu-pref-tokei
   - text: 岩美町の地方公共団体コードは313025である
     kind: fact
     level: E2
@@ -711,6 +717,7 @@ records:
   - pref/31
   unknowns:
   - 「岩美」が岩井の「岩」と邑美・法美の「美」の合成であることを明記した公的・専門資料は確認できなかった
+  - 岩美郡の発足日は資料により異なり（Wikipediaは4月1日、鳥取県統計課「市町村の変遷」は9月1日）、確定できなかった
   - 岩井・浦富など旧町村名それぞれの由来は未調査
   updated: '2026-11-13'
 - id: muni/31-日南町
@@ -750,16 +757,17 @@ records:
     - q5-nichinan-wiki
   - text: 日南町は鳥取県南西部の内陸にあり、一級河川・日野川の源流域にあたる。たたら製鉄の歴史をもち、孝霊天皇の伝承なども伝えられる地域である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-nichinan-wiki
+    - upg-y2-nichinan-kaso-plan
+    - upg-y2-nichinan-pref-sasafuku
   - text: 日南町は島根県・岡山県・広島県と接する県境の町で、合併した相手には1955年に生まれた伯南町が含まれていた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q5-nichinan-wiki
+    - upg-y2-nichinan-kaso-plan
   - text: 宮崎県の日南市とは読みが同じ「にちなん」だが、別の自治体であり、日南町の名は日野郡南部の位置に由来するもので、日南市とは由来を異にする
     kind: fact
     level: E5
@@ -880,16 +888,17 @@ records:
   claims:
   - text: 「日野」の地名の史料上の初見は『出雲国風土記』（733年）とされ、仁多郡の条で言及されている。その後『倭名類聚抄』には、日野郡の一郷として記載されている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - h6-hino-tottori-wiki
+    - upg-y5-hino-gaiyo
   - text: 昭和34年（1959年）5月1日、日野郡根雨町・黒坂町が合併して日野町が発足した。町名は郡名「日野」をそのまま自治体名にした形である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - h6-hino-tottori-wiki
+    - upg-y5-hino-gaiyo
+    - upg-y5-hino-geoshape
   - text: 日野川の語源は定説がなく、『出雲国風土記』大原郡斐伊郷条にある樋速日子命の故事から、国境の鳥髪山（船通山）を境に、出雲国を流れるのが斐伊川、伯耆国を流れるのが日野川だとする説がある。日野川は「簸之川」とも書かれた
     kind: fact
     level: E5
@@ -904,17 +913,17 @@ records:
     - h6-hinogawa-wiki
   - text: 滋賀県日野町は中世の「日野御牧」以来の地名を町名として継承してきたのに対し、鳥取県日野町は1959年に郡名を採用して命名された町であり、「日野」の名の継承経路が異なる（異なる層）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - h6-hino-tottori-wiki
+    - upg-y5-hino-gaiyo
     - h6-hino-shiga-keikaku
-  - text: ヤマタノオロチが住む「ひの川」は、島根県の斐伊川ではなく鳥取県の日野川だという説が伝えられている
+  - text: 『古事記』の天照大神と須佐之男命の段に「出雲国の肥上の河上、名は鳥髪といふ地」と見える「肥上の河上」を、鳥取県の日野川と関連づけて考える説があり、『日本歴史地名大系』が『伯耆志』によるとして紹介している
     kind: legend
-    level: E5
+    level: E3
     status: established
     sources:
-    - h6-hinogawa-wiki
+    - upg-y5-hinogawa-kotobank-taikei
   column:
     title: 二つの「ヒの川」と一つの郡名
     text: 鳥髪山（船通山）という国境の山を挟んで、西へ流れれば「斐伊川」、東へ流れれば「日野川」。どちらも読みの頭は「ヒ」で、語源をたどると『出雲国風土記』の樋速日子命の故事に行き着くという説があります。日野町という町名は1959年の合併で生まれた新しい名ですが、その材料になった郡名「日野」は、風土記の時代からこの地域に貼りついてきた古い名です。新しく作られた町名と、千年以上続く地名の、二層構造になっています。
@@ -1317,7 +1326,7 @@ records:
   - 若桜鬼ヶ城
   naming_type: 旧行政区画名の継承
   naming_note: 古代の郷名「若桜郷」の継承
-  formation: 不明
+  formation: 合併新設
   prefecture: 鳥取県
   homonyms: []
   summary: 鳥取県八頭郡の町。名は平安時代の『和名類聚抄』に見える八上郡若桜郷に遡る古い地名である。由来については、履中天皇の「伊波礼若桜宮」に奉仕した集団「若桜部（わかさくらべ）」がこの地に住んだことに因むという説が最も有力と町の観光サイトが紹介し、町公式も地名は古姓・若桜から出たものとする。読みは「わかさ」で、福井県の若狭町と同じ読みだが、字も由来も異なる別の自治体である。
@@ -1360,10 +1369,10 @@ records:
     - q6-wakasa-town-intro
   - text: 現在の若桜町は、1909年（明治42年）に若桜村・赤松村・菅野村が合併して発足し、1954年（昭和29年）に池田村と合併した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - q6-wakasa-wiki
+    - upg-y5-wakasa-shiryouhen
   - text: 若桜町の読み「わかさ」は福井県若狭町と同じだが、若桜町は「桜」の字を用いる別の自治体で、両者の名の由来は関係しない
     kind: fact
     level: E2
@@ -1541,33 +1550,21 @@ sources:
   q5-chizu-town-history:
     label: 智頭町公式「まちの歴史」（『日本後紀』（808年）に智頭郡の駅馬の記録があり交通の要衝だったこと、『時範記』に志戸坂峠での「境迎え」の記録が残ること、戦国時代に最前線となり27の山城跡が確認されていること、江戸時代に宿場町として栄え関屋の番所跡があることなど）
     url: https://www1.town.chizu.tottori.jp/chizu/kikaku/about_chizu/history
-  q5-daiei-wiki:
-    label: Wikipedia「大栄町 (鳥取県)」（1955年5月1日に大誠村・栄村が合併して大栄町が発足したこと、1959年4月1日に由良町と合併して改めて大栄町が発足したこと、2005年10月1日に北条町と合併して北栄町が発足したことなど）
-    url: http://ja.wikipedia.org/wiki/大栄町_(鳥取県)
   q5-daisen-env:
     label: 環境省 大山隠岐国立公園「大山寺と大神山神社」（733年に編纂された『出雲国風土記』では大山は神々が住む山と記されていること、718年に金蓮上人が地蔵権現を祀り大山寺を創建したこと、平安時代に牛馬信仰が広まったこと、大神山神社奥宮への自然石の石畳の参道は700mで日本最長であること）
     url: http://chushikoku.env.go.jp/park/daisen/viewpoint/daisenji_temple/index.html
-  q5-daisen-enwiki:
-    label: 英語版Wikipedia「Daisen (mountain)」（733年の『出雲国風土記』ではこの山は「大神岳（Ōgami-take）」と呼ばれていたこと、「Daisen」は漢字「大山」の漢語系の読みであること、見る側の旧国により伯耆富士・出雲富士とも呼ばれること、大山寺は718年に創建されたとされることなど）
-    url: https://en.wikipedia.org/wiki/Daisen_(mountain)
   q5-daisen-estat:
     label: 政府統計の総合窓口（e-Stat）廃置分合等情報「鳥取県 大山町」（2005年3月28日に大山町・名和町・中山町が合併し、大山町を新設したこと）
     url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/31386
-  q5-daisen-uub:
-    label: 市区町村変遷情報（uub.jp）「大山町（1955〜2005年）」（1955年11月3日に大山村・大山町が合併して大山町が生まれたこと、2005年3月28日に名和町・中山町と合併して大山町になったことなど）
-    url: https://uub.jp/upd/c/3556.html
   q5-daisenji-wiki:
     label: Wikipedia「大山寺 (鳥取県大山町)」（養老2年（718年）に金蓮上人によって開かれたとされること、『大山寺縁起』によれば俊方が大山で射た鹿が実は地蔵尊であったと知って出家したという開創縁起、大山は仏教伝来以前から強力な神が住む山として崇められたことなど）
     url: http://ja.wikipedia.org/wiki/大山寺_(鳥取県大山町)
   q5-hiezu-pref-tokei:
-    label: 鳥取県統計課「市町村の変遷」（日吉津村は明治22年10月1日に会見郡の日吉津村・富吉村・今吉村をもって村制を施行して発足したこと、その後の廃置分合の記録がないことなど）
+    label: 鳥取県統計課「市町村の変遷」（県内市町村・郡の廃置分合の変遷表。日吉津村は明治22年10月1日に会見郡の日吉津村・富吉村・今吉村をもって村制を施行して発足し、その後の廃置分合の記録がないこと、岩美郡は明治29年9月1日に邑美郡・法美郡・岩井郡が統合して発足したこと、八頭郡は明治29年4月1日に八上郡・八東郡・智頭郡が統合して発足したこと、三朝町は昭和28年11月1日に三朝村・三徳村・小鹿村・旭村・竹田村の合併・町制で発足したこと、北条町は昭和29年6月1日に中北条村・下北条村の合併で発足したこと、大栄町は昭和30年5月1日に大誠村・栄村の合併で発足し昭和34年4月1日に由良町と合併したこと、旧大山町は昭和30年11月3日の合併で発足したこと、岩美町は田後村・東村・浦富町・蒲生村・岩井町・小田村・本庄村・大岩村・網代村の合併で発足したことなどを記す）
     url: https://www.pref.tottori.lg.jp/secure/1200845/000001201910107.pdf
   q5-hiezu-wiki:
     label: Wikipedia「日吉津村」（近世に今吉・富吉の地域が開拓されたこと、農民の多くは日吉津村大神宮（日吉津伊勢宮）の神田を耕したこと、江戸時代は川越場でありマスやサケが特産品として知られたことなど）
     url: https://ja.wikipedia.org/wiki/日吉津村
-  q5-hojo-wiki:
-    label: Wikipedia「北条町 (鳥取県)」（1954年6月1日に中北条村・下北条村が合併して北条町が発足したこと、2005年10月1日に大栄町と合併して北栄町が発足したことなど）
-    url: http://ja.wikipedia.org/wiki/北条町_(鳥取県)
   q5-hokuei-gamf:
     label: 青山剛昌ふるさと館 公式チラシ（「名探偵コナンの作者・青山剛昌の出身地 鳥取県北栄町」と明記し、コナン駅（JR由良駅）、コナン通り、青山剛昌ふるさと館（北栄町由良宿）を紹介）
     url: https://www.gamf.jp/files/W025_2024050313015256779.pdf
@@ -1604,9 +1601,6 @@ sources:
   q5-misasa-town-pdf:
     label: 三朝町「三朝小唄 三朝慕情」（三朝温泉の由来として「三たび朝を迎えるころには病が消える」という言い伝えと、大久保左馬之祐が白い狼を助けて株湯を発見したという発祥伝説を紹介する町公式資料）
     url: http://www.town.misasa.tottori.jp/files/31015.pdf
-  q5-misasa-wiki:
-    label: Wikipedia「三朝町」（1889年に河村郡5村の合併で三朝村が発足したこと、1953年に三朝村・三徳村・小鹿村・旭村・竹田村の合併で三朝町が発足したこと、2003年に合併協議会から離脱したことなど）
-    url: https://ja.wikipedia.org/wiki/三朝町
   q5-misasamura-wiki:
     label: Wikipedia「三朝村 (鳥取県)」（『角川日本地名大辞典 31 鳥取県』729-730頁を典拠に「地名の由来：郷名の三朝庄にちなむ」と記す）
     url: https://ja.wikipedia.org/wiki/三朝村_(鳥取県)
@@ -1643,9 +1637,6 @@ sources:
   q6-wakasa-town-intro:
     label: 若桜町公式「若桜町の紹介」（若桜の名は姓氏録にみえること、『郡郷考』は若桜を和加佐（わかさ）と読み古姓・若桜部に因むとし、地名若桜は姓の若桜から出たものと思われること、『和名抄』に八上郡若桜郷とあり東大寺への進上記録から奈良時代に若桜氏がいたこと、若桜は27か村からなる郷の名で現在の中心街は山田村・溝見村などと呼ばれていたこと、正治2年（1200年）に矢部氏が鶴尾山に城を築いたのが若桜鬼ヶ城の始めであること、元和3年（1617年）に一国一城令で若桜城が廃城となり以来は宿場として発展したこと）
     url: https://www.town.wakasa.tottori.jp/gyoseijoho/wakasachonogaiyo/662.html
-  q6-wakasa-wiki:
-    label: Wikipedia「若桜町」（1909年（明治42年）4月1日に八頭郡赤松村・若桜村・菅野村が合併して若桜町が発足したこと、1954年（昭和29年）3月1日に池田村と合併し改めて若桜町が発足したこと）
-    url: https://ja.wikipedia.org/wiki/若桜町
   q6-yurihama-kankou-gaiyo:
     label: 湯梨浜町観光協会「まちの紹介・概要」（湯梨浜という名前は「東郷湖から湧き出る温泉、大地がはぐくむ二十世紀梨、そして日本海に広がる白い砂浜」という新しい町の特色をイメージして名づけたものであること）
     url: https://www.yurihama-kankou.jp/まちの紹介/概要
@@ -1655,3 +1646,48 @@ sources:
   q6-yurihama-seiyoran:
     label: 湯梨浜町公式「町勢要覧」（平成16年10月1日に羽合町・泊村・東郷町の3町村が合併して湯梨浜町が誕生したこと、平成14年12月に新町の名前が「湯梨浜」に決定したこと、泊村は大正7年（1918年）に久津賀村・三橋村・泊村の3か村が合併して誕生したこと、グラウンドゴルフは昭和57年（1982年）に旧泊村教育委員会が中心となって考案された競技であること）
     url: https://www.yurihama.jp/uploaded/attachment/4682.pdf
+  upg-ae4-uub-hojo:
+    label: 市区町村変遷情報「北条町」（備考に、天神川流域合併協議会の設置（2002年10月1日）と三朝町の離脱表明（2003年10月8日）が記録されている）
+    url: https://uub.jp/upd/c/5480.html
+  upg-ae4-uub-sekikane:
+    label: 市区町村変遷情報「関金町」（備考に、天神川流域合併協議会が2002年10月1日に法定協議会として設置され、三朝町が2003年10月8日に合併協議からの離脱を表明したことが記録されている）
+    url: https://uub.jp/upd/c/5993.html
+  upg-af3-daisenji-official:
+    label: 大山寺公式サイト「沿革」（『大山寺縁起』によると、養老2年（718年）に出雲国玉造の人・依道が金色の狼を追って大山に入り、一矢で射ようとした矢の前方に地蔵菩薩が現れたため信心の心が起こって弓矢を捨て、出家して地蔵権現を祀り、金蓮と名を改めたと記されていること、『選集抄』にもほぼ同じ説話が載ることを記す）
+    url: https://daisenji.jp/pages/9
+  upg-y2-daisen-env-guide:
+    label: 環境省「大山隠岐国立公園ポケットガイド 大山・蒜山地域」（『出雲国風土記』によると、国引きの綱を繋ぎ止めた杭が「大神嶽」だとされ、それが今の大山であること、米子や松江方面から望む姿が富士山に似ていることから「伯耆富士」あるいは「出雲富士」とも呼ばれること、大山寺集落の一帯に大神山神社があることなどを記す）
+    url: https://www.env.go.jp/park/daisen/park/daisen/data/daisen_hiruzen_pocket_guide_jp.pdf
+  upg-y2-daisen-pref-yumehiroba:
+    label: 鳥取県公式「とっとり夢ひろば」第28回「大山開山1300年祭―神の山『大山』―」（『出雲国風土記』では大山は「火神岳（ひのかみたけ）」と書かれていること、大山が「伯耆富士」と呼ばれることなどを記す）
+    url: https://www.pref.tottori.lg.jp/dd.aspx?menuid=282525
+  upg-y2-iwami-geopark-guide:
+    label: 山陰海岸ジオパーク推進協議会「山陰海岸ジオパークガイドブック（浦富海岸・駟馳山・岩井温泉）」（浦富海岸を山陰海岸ジオパークのジオサイトとして紹介し、鳥取県の東端に位置するエリアであること、国の名勝・天然記念物に指定されていることなどを記す）
+    url: https://sanin-geo.jp/images/P78_P84.pdf
+  upg-y2-iwami-geoshape:
+    label: 歴史的行政区域データセットβ版「鳥取県岩美郡岩美町」（国立情報学研究所。有効期間が1954年7月1日からであることなどを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/31302A1968.html
+  upg-y2-iwami-town-pr:
+    label: 岩美町「いわみ暮らしパンフレット」（2019年度版。岩美町は鳥取県の最東端に位置し、東は兵庫県、北は日本海に接すること、山陰海岸国立公園の浦富海岸を擁することなどを記す）
+    url: https://www.iwami.gr.jp/secure/8865/H31%E3%80%80%E3%81%84%E3%82%8F%E3%81%BF%E6%9A%AE%E3%82%89%E3%81%97%E3%83%91%E3%83%B3%E3%83%95%20%E5%9C%A7%E7%B8%AE%E6%B8%88%E3%81%BF.pdf
+  upg-y2-misasa-geoshape:
+    label: 歴史的行政区域データセットβ版「鳥取県東伯郡三朝町」（国立情報学研究所。有効期間が1953年11月1日からであることなどを示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/31364A1968.html
+  upg-y2-nichinan-kaso-plan:
+    label: 日南町「日南町過疎地域自立促進計画」（日南町は西に島根県、南に岡山県、南西に広島県と3県に接すること、一級河川・日野川は源流を本町に発すること、たたら製鉄に由来する地名が町内の随所に見られること、昭和30年に伯南町が誕生し、昭和34年に5町村の合併で日南町が誕生したことなどを記す）
+    url: https://www.town.nichinan.lg.jp/material/files/group/12/atc_1456494130.pdf
+  upg-y2-nichinan-pref-sasafuku:
+    label: 鳥取県公式 とりネット「開運！歴史さんぽ～日南町宮内『樂樂福神社』～」（日南町宮内の樂樂福神社に祀られる孝霊天皇には、鬼住山にすむ鬼を退治したという伝説があることを紹介する県公式ブログ記事）
+    url: https://www.pref.tottori.lg.jp/item/636055.htm
+  upg-y5-hino-gaiyo:
+    label: 日野町公式「第1章 日野町の概要」（日野町の地名と沿革の公式解説。天平5年（733年）成立とされる『出雲国風土記』仁多郡条に「日野」の初見があるとされること、『和名類聚抄』（10世紀前半）に日野郡の六郷（葉路・阿太・神戸・武庫・日野・野上）が記されること、昭和34年に根雨町と黒坂町が合併して現在の日野町となったこと）
+    url: https://www.town.hino.tottori.jp/secure/41487/%E7%AC%AC%EF%BC%91%E7%AB%A0%E3%80%80%E6%97%A5%E9%87%8E%E7%94%BA%E3%81%AE%E6%A6%82%E8%A6%81.pdf
+  upg-y5-hino-geoshape:
+    label: 歴史的行政区域データセットβ版「日野町（鳥取県日野郡）」（日野町の有効期間は1959年5月1日から。根雨町・黒坂町はいずれも1959年5月1日に終了）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/31402A1968.html
+  upg-y5-hinogawa-kotobank-taikei:
+    label: コトバンク「日野川」（日本歴史地名大系・鳥取県）。川名の起りは日野郡内に発し郡内を流れる大河であることから郡名にちなむと考えられること、『古事記』の「肥上の河上」を日野川と関連づけて考える説もあることを「伯耆志」によるとして紹介すること
+    url: https://kotobank.jp/word/%E6%97%A5%E9%87%8E%E5%B7%9D
+  upg-y5-wakasa-shiryouhen:
+    label: 若桜町「2025 WAKASA 資料編」（町公式の町勢資料）「若桜町の歴史的沿革」。明治42年4月に若桜村・赤松村・菅野村が合併して町制を実施したこと、昭和29年3月に若桜町と池田村が合併して現在の若桜町が誕生したこと
+    url: https://www.town.wakasa.tottori.jp/material/files/group/5/shiryouhen2025.pdf

@@ -15,7 +15,7 @@ records:
   formation: 合併新設
   prefecture: 宮崎県
   homonyms: []
-  summary: 昭和41年（1966年）11月3日、飯野町・加久藤町・真幸町が合併して「えびの町」が生まれ、昭和45年（1970年）12月1日に市制を施行した。「えびの」は3町いずれの名でもない新しい名で、市域南東部の霧島山麓に広がる観光地「えびの高原」の名にちなむとみられる。その「えびの」の語源は、秋にススキ野が葡萄（えび）色に染まる景色に由来する説が一般的とされるが、江火野（えびの）説もあり、正確な由来は分かっていない。
+  summary: 昭和41年（1966年）11月3日、飯野町・加久藤町・真幸町が合併して「えびの町」が生まれ、昭和45年（1970年）12月1日に市制を施行した。「えびの」は3町いずれの名でもない新しい名で、市域南東部の霧島山麓に広がる観光地「えびの高原」の名にちなむとみられる。その「えびの」の語源については、市の公式資料が、秋にススキ野が葡萄（えび）色に染まる景色が地名の由来とも伝えられると紹介しているが、江火野（えびの）説もあり、正確な由来は分かっていない。
   first_attestation:
     era: null
     year_western: null
@@ -47,7 +47,13 @@ records:
     status: inferred
     sources:
     - s3-ebino-wiki-kogen
-  - text: 「えびの」の語源は、秋になるとススキ野が一面葡萄（えび）色に変わる景色から名付けられたとする説が一般的とされる一方、入り江を望む火山の裾野すなわち江火野を語源とする説もあり、正確な由来は分かっていない
+  - text: えびの市公式の市勢要覧は、えびの高原辺り一面のススキが原がえび色に染まる風景について、「えびのを象徴する風景でもあり地名の由来とも伝えられています」と記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-ag6-ebino-shisei-yoran
+  - text: 一方、入り江を望む火山の裾野すなわち江火野を語源とする説もあり、正確な由来は分かっていない
     kind: fact
     level: E5
     status: contested
@@ -701,12 +707,14 @@ records:
     status: inferred
     sources:
     - r11-shintomi-town
-  - text: 新田村は「にゅうた」と読み、1889年5月1日に新田村と伊倉村が合併して発足した村であった
+  - text: 新田村は「にゅうた」と読み、明治22年（1889年）に伊倉地区を併せて発足した村であった（歴史的行政区域データセットでは、有効期間は1889年5月1日から1959年3月31日までとされる）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r11-shintomi-niuta-wiki
+    - r11-shintomi-town
+    - upg-aa5-shintomi-geoshape
+    - upg-aa5-shintomi-japanpost
   - text: 富田村は1889年に、上富田村・下富田村・日置村・三納代村の4か村が合併して発足した
     kind: fact
     level: E2
@@ -1078,12 +1086,12 @@ records:
     status: established
     sources:
     - r12-shiiba-vill-memory
-  - text: 1873年（明治6年）に椎葉山中の84か村が向山村（のち不土野村）・大河内村・松尾村・下福良村の4か村に統合された
+  - text: 1873年（明治6年）に、人吉藩支配下の椎葉山は下福良村・向山村・大河内村・松尾村の4か村に分けられた
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r12-shiiba-wiki
+    - r12-shiiba-kanko-history
   - text: 1889年（明治22年）5月1日、不土野村・大河内村・松尾村・下福良村が合併して椎葉村が発足した
     kind: fact
     level: E2
@@ -1129,6 +1137,7 @@ records:
   - 「椎葉」の語源について、専門資料による確定した説明は確認できなかった（伝説内の「椎の葉」説は伝説として分離して記録した）
   - 『椎葉山根元記』『椎葉山由来記』の成立年は村公式も推定としており、確定していない
   - 中世以前の史料に「椎葉」の名が見えるかは確認できなかった
+  - 1873年（明治6年）の再編で統合された村の数（84か村と伝える資料がある）は、強い出典では確認できなかった
   updated: '2026-11-13'
 - id: muni/45-綾町
   code: '453838'
@@ -1148,7 +1157,7 @@ records:
   formation: 合併新設
   prefecture: 宮崎県
   homonyms: []
-  summary: 東諸県郡の町で、国内最大級の照葉樹林で知られる。古くは「阿陀能奈珂椰」と呼ばれた地が「阿椰」を経て「綾」になったと伝えられ、近世には薩摩藩の外城「綾郷」が置かれた。1889年に3村が合併して綾村が発足し、1932年に町制を施行した。発足以来、一度も市町村合併を行っていない。
+  summary: 東諸県郡の町で、国内最大級の照葉樹林で知られる。古くは「阿陀能奈珂椰」と呼ばれた地が「阿椰」を経て「綾」になったと伝えられ、近世には薩摩藩の外城「綾郷」が置かれた。1889年に綾村が発足し、1932年に町制を施行した。発足以来、一度も市町村合併を行っていない。
   first_attestation:
     era: 江戸時代
     year_western: null
@@ -1167,30 +1176,33 @@ records:
     status: established
     sources:
     - r12-aya-wiki
-  - text: 1889年（明治22年）5月1日、南俣村・北俣村・入野村が合併して綾村が発足し、1932年（昭和7年）10月1日に町制を施行して綾町となった
+  - text: 1889年（明治22年）5月1日に綾村が発足し、1932年（昭和7年）10月1日に町制を施行して綾町となった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r12-aya-wiki
+    - upg-aa1-aya-geoshape
+    - r12-tsuno-uub
   - text: 綾町は1889年の発足以後、他の市町村との合併を一度も行っていない
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r12-aya-wiki
+    - upg-aa1-aya-geoshape
+    - r12-tsuno-uub
   - text: 町域には国内最大級の規模の照葉樹林が広がり、2012年（平成24年）7月に町全域がユネスコエコパークに登録された
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r12-aya-wiki
-  - text: 1967年（昭和42年）に林野庁による照葉樹林の伐採提案を当時の町長が拒否し、以後、照葉樹林の保護と有機農業を結びつけた町づくりが進められた
+    - upg-aa1-aya-ecopark-paper
+  - text: 1967年（昭和42年）に営林署から国有林の交換伐採計画が持ち込まれたが、当時の町長・郷田實が反対運動を主導して計画は撤回され、以後、照葉樹林の保護と有機農業を結びつけた町づくりが進められた
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r12-aya-wiki
+    - upg-aa1-aya-hara-paper
+    - upg-aa1-aya-ecopark-paper
   - text: 綾町の地方公共団体コードは453838である
     kind: fact
     level: E2
@@ -1208,6 +1220,7 @@ records:
   - 「阿陀能奈珂椰」という古称がどの文献に記されるかは確認できなかった
   - 「綾」の表記が文献に現れる時期は確認できなかった
   - 織物の「綾」と地名の関係を裏付ける資料は確認できなかった（町内で知られる綾の手紬などの織物は後世の産業であり、地名が先行する）
+  - 1889年の綾村発足時の構成（南俣村・北俣村・入野村の合併とされる）は、強い出典では確認できなかった
   updated: '2026-11-13'
 - id: muni/45-美郷町
   code: '454311'
@@ -1295,7 +1308,7 @@ records:
   formation: 分村・分立
   prefecture: 宮崎県
   homonyms: []
-  summary: 児湯郡の山村。一ツ瀬川上流の山域は中世から「米良（山）」と呼ばれ、肥後菊池氏の後裔と伝わる米良氏が支配した。江戸時代は人吉藩の属地として肥後国球磨郡に属するなど日向・肥後の境に揺れた地域で、1889年に米良山の村々が西米良村と東米良村に分かれ、西側が西米良村となった。
+  summary: 児湯郡の山村。一ツ瀬川上流の山域は中世から「米良（山）」と呼ばれ、肥後菊池氏の後裔と伝わる米良氏が支配した。江戸時代は人吉藩の属領のもとで領主米良家が支配し、1889年に米良山の村々が西米良村と東米良村に分かれ、西側が西米良村となった。
   first_attestation:
     era: 中世
     year_western: null
@@ -1314,18 +1327,18 @@ records:
     status: established
     sources:
     - r12-nishimera-ndl-ref
-  - text: 15世紀初頭に菊池氏の末裔とされる米良氏が米良に移り住み、米良山14か村の領主として明治維新までこの地を支配したとされる
+  - text: 中世末に肥後菊池氏の末裔が米良に来住して米良氏を名乗り、米良山14か村の領主として江戸時代を通じてこの地を支配した
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r12-nishimera-wiki
-  - text: 米良山は元和年間に人吉藩の属地とされ、江戸時代を通じて制度上は肥後国球磨郡に属したため、この地域は日向国側より球磨地方との結びつきが強かった
+    - upg-aa1-mera-matsuo-paper
+  - text: 米良山は江戸時代を通じて人吉藩（相良氏）の属領とされ、領主米良家が旗本に相当する交代寄合としてその支配を続けた
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - r12-nishimera-wiki
+    - upg-aa1-mera-matsuo-paper
   - text: 1872年（明治5年）、米良山の住民が八代県あてに、水の流れが日向側へ下ることなどを理由として美々津県（宮崎県の前身）への管轄替えを求める嘆願書を出し、認められて宮崎県側に移った
     kind: fact
     level: E4
@@ -1358,6 +1371,7 @@ records:
   - 「米良」という地名そのものの語源は確認できなかった
   - 米良荘の荘園としての成立時期や領家は確認できなかった
   - 中世史料における「米良」の具体的な初出文書は確認できなかった
+  - 米良山が人吉藩の属地となった時期（元和年間とされる）や、江戸時代の制度上の郡所属（肥後国球磨郡とされる）は、強い出典では確認できなかった
   updated: '2026-11-13'
 - id: muni/45-西都市
   code: '452084'
@@ -1418,12 +1432,13 @@ records:
     status: established
     sources:
     - s3-saitobaru-hidaka
-  - text: 律令期には現在の市の中心部である妻地区に日向国府・国分寺・国分尼寺が置かれ、日向国の中心地として栄えたとWikipediaは紹介する
+  - text: 律令期には現在の市の中心部一帯に日向国府が置かれ、近傍に国分寺・国分尼寺も建立されて、日向国の中心地であった（国府跡・国分寺跡は国の史跡）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - s3-saito-wiki
+    - upg-aa5-saito-kokufu
+    - upg-aa5-saito-kokubunji
   - text: 日向国府跡は平成17年（2005年）に国の史跡に指定され、西都原古墳群は昭和27年（1952年）に特別史跡に指定された
     kind: fact
     level: E2
@@ -1496,18 +1511,19 @@ records:
     status: established
     sources:
     - r12-morotsuka-kanko-history
-  - text: 1949年（昭和24年）4月1日、日向方面との道路の開通で交流が深まったことから、所属郡が西臼杵郡から東臼杵郡に変更された
+  - text: 1949年（昭和24年）4月1日、所属郡が西臼杵郡から東臼杵郡に変更された
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r12-morotsuka-wiki
-  - text: 1947年（昭和22年）4月3日に第1回の成人祭が開かれたとされ、諸塚村は成人式発祥の地と呼ばれる（村観光協会の村史年表は初回を1946年とする）
+    - r12-tsuno-uub
+    - upg-aa1-morotsuka-geoshape
+  - text: 諸塚村は成人式発祥の地と呼ばれ、『諸塚村史』は1947年（昭和22年）4月3日に第1回の成人祭が行われ「全国最初のものと思われ」と記していると、宮崎県立図書館がレファレンス協同データベースで紹介している。一方、村観光協会の村史年表は初回を1946年（昭和21年）としており、年次には資料による差がある
     kind: fact
-    level: E5
+    level: E2
     status: contested
     sources:
-    - r12-morotsuka-wiki
+    - upg-aa1-morotsuka-ndl-ref
     - r12-morotsuka-kanko-history
   - text: 諸塚村の地方公共団体コードは454290である
     kind: fact
@@ -1529,6 +1545,7 @@ records:
   - 「諸塚」の名が文献に初めて現れる時期は確認できなかった
   - 山頂に円墳が十数基あるという伝えについて、考古学的な調査結果は確認できなかった
   - 1889年の合併時に村名として諸塚山の名を採るまでの経緯を示す資料は確認できなかった
+  - 1949年の所属郡変更の理由（日向方面との道路開通で交流が深まったためとされる）は、強い出典では確認できなかった
   updated: '2026-11-13'
 - id: muni/45-都城市
   code: '452025'
@@ -1633,14 +1650,14 @@ records:
     era: 承和4年
     year_western: 837
     document: 『続日本後紀』
-    note: 都農神社が官社に列せられ神階を授けられた記事として紹介される「都濃神」の名（神社史の紹介形で確認）。地名としての「都農」の初出は別途未確認
+    note: 都農神社が官社に列せられた『続日本後紀』の記事に現れる「都濃神」の名（神社公式年表の紹介形で確認）。地名としての「都農」の初出は別途未確認
   claims:
-  - text: 都農神社は承和4年（837年）に官社に列せられて神階の宣授を受け、そのことが『続日本後紀』に記され、天安2年（858年）には従四位上への昇叙が『日本三代実録』に記されると紹介されている
+  - text: 都農神社の公式年表によれば、承和4年（837年）に都農神が官社に列せられたことが『続日本後紀』に記され、天安2年（858年）には従五位上から従四位上への昇叙が『日本三代実録』に記される
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r12-tsuno-jinja-wiki
+    - upg-aa1-tsuno-jinja-history
   - text: 都農神社は『延喜式』神名帳に日向国児湯郡の神社として記載された式内社であり、日向国の一宮とされる
     kind: fact
     level: E2
@@ -1892,10 +1909,10 @@ records:
     - r12-takaharu-town-history
   - text: 1889年（明治22年）5月1日、町村制の施行により高原村が発足した
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r12-takaharu-wiki
+    - upg-aa1-takaharu-geoshape
   - text: 1934年（昭和9年）10月5日に町制を施行して高原町となった
     kind: fact
     level: E2
@@ -1972,12 +1989,13 @@ records:
     sources:
     - r12-takanabe-town-history
     - r12-takanabe-wiki
-  - text: 1889年（明治22年）5月1日、北高鍋村・南高鍋村・蚊口浦村と高鍋町（旧）が合併して高鍋村が発足し、1901年（明治34年）2月7日に町制を施行して高鍋町となった
+  - text: 1889年（明治22年）5月1日、町村制の施行により高鍋村が発足し、1901年（明治34年）2月7日に町制を施行して高鍋町となった
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r12-takanabe-wiki
+    - r12-tsuno-uub
+    - upg-aa1-takanabe-geoshape
   - text: 1938年（昭和13年）10月1日に上江村を合併した。上江は児童福祉の父・石井十次の生まれ故郷である
     kind: fact
     level: E2
@@ -2010,6 +2028,7 @@ records:
   unknowns:
   - 秀吉の朱印状がなぜ城の名を「高鍋」と記したのか、その理由は確認できなかった
   - 旧名「財部（たからべ）」の語源（古代の職制である財部との関係を含む）は確認できなかった
+  - 1889年の高鍋村発足時の構成（北高鍋村・南高鍋村・蚊口浦村と旧高鍋町の合併とされる）は、強い出典では確認できなかった
   updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
@@ -2147,7 +2166,7 @@ sources:
     label: Wikipedia「西米良村」（15世紀初頭に菊池氏の末裔とされる米良氏が米良に移り住み米良山14か村を支配したこと、元和年間に人吉藩の属地とされ江戸時代を通じて肥後国球磨郡に属したこと、日向側より球磨地方との結びつきが強いこと、1889年に米良山14か村が西米良村と東米良村にまとめられたこと、東米良村は1962年に西都市へ合併されたこと）
     url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%B1%B3%E8%89%AF%E6%9D%91
   r12-shiiba-kanko-history:
-    label: 椎葉村観光協会「椎葉村を知るエピソード」（『椎葉山根元記』は平家滅亡から書き起こされること、椎葉では焼畑・狩猟・神楽などの伝承文化が今に受け継がれていること）
+    label: 椎葉村観光協会「椎葉村を知るエピソード」（『椎葉山根元記』は平家滅亡から書き起こされること、人吉藩支配下の椎葉山四掛かりが明治6年に下福良村・向山村・大河内村・松尾村の四村となったこと、椎葉では焼畑・狩猟・神楽などの伝承文化が今に受け継がれていること）
     url: https://www.shiibakanko.jp/history
   r12-shiiba-vill-chronology:
     label: 椎葉村公式サイト「椎葉村を知る 村の年表」（明治22年〈1889年〉5月1日に現在の椎葉村が発足したこと、明治41年〈1908年〉に柳田國男が滞在したこと）
@@ -2176,9 +2195,6 @@ sources:
   r12-takaharu-town-koho:
     label: 高原町広報「広報たかはる」町制施行記念座談会（1934年〈昭和9年〉10月5日に町制を施行したこと、「高原」の地名は神々が住まう「高天原」が転じたものと言い伝えられていると町が紹介すること）
     url: https://www.town.takaharu.lg.jp/uploaded/attachment/4105.pdf
-  r12-takaharu-wiki:
-    label: Wikipedia「高原町」（1889年5月1日に町村制施行により高原村が発足したこと、「高原」の地名は神々が住まう高天原に由来するとする伝承を記すこと）
-    url: https://ja.wikipedia.org/wiki/%E9%AB%98%E5%8E%9F%E7%94%BA
   r12-takanabe-gakko-youran:
     label: 宮崎県立高鍋高等学校・高鍋農業高等学校「県立学校要覧」（1938年〈昭和13年〉10月に隣村の上江村を合併したこと）
     url: https://cms.miyazaki-c.ed.jp/4514/wysiwyg/file/download/1/6
@@ -2201,7 +2217,7 @@ sources:
     label: 上田市議会会派調査研究事業報告書「宮崎県児湯郡都農町の調査研究について」（都農町は1889年に旧都農村と川北村が合併して発足し、1920年に町制を施行して都農町となったこと）
     url: https://www.city.ueda.nagano.jp/uploaded/attachment/58965.pdf
   r12-tsuno-uub:
-    label: 市区町村変遷情報「宮崎県 市区町村変遷」（都農町は1920年8月1日に町制を施行したとする変遷表）
+    label: 市区町村変遷情報「宮崎県 市区町村変遷」（都農町が1920年8月1日に、高鍋町が1901年2月7日に、綾町が1932年10月1日にそれぞれ町制を施行したこと、1949年4月1日に諸塚村・椎葉村の所属郡が西臼杵郡から東臼杵郡へ変更されたことなどを記す変遷表）
     url: https://uub.jp/upd/miyazaki.html
   s2-nobeoka-city-history:
     label: 延岡市公式「延岡市の歴史」（『和名類聚抄』の英多郷・氷上郷、『日向国建久図田帳』の県庄、昭和8年の市制施行）
@@ -2257,3 +2273,45 @@ sources:
   s3-saitobaru-hidaka:
     label: 日高正晴（西都原古墳研究所所長）「西都原という地名について」（台地は古く笠狭と呼ばれたこと、永禄元年の「妻宮縁起書」に「児湯郡斉殿原笠狭崎」と見えること、児玉実満『笠狭大略記』の斎殿原「サイトノハル」の読み、「西都原」の用例が文化14年（1817年）の石碑に確認できること）
     url: https://hyenanopapa.obunko.com/saitobaru_no_chimei.html
+  upg-aa1-aya-ecopark-paper:
+    label: 朱宮丈晴ほか「ユネスコエコパーク登録後の宮崎県綾町の動向」（日本生態学会誌66巻1号、2016年。2012年7月11日に町の全域がユネスコエコパークに登録されたこと、綾の照葉樹自然林は日本に残る最大規模のものであったこと、綾町は1967年の伐採計画から照葉樹林を守り1973年から資源循環型農業を推進してきたこと）
+    url: https://agriknowledge.affrc.go.jp/RN/2010903453.pdf
+  upg-aa1-aya-geoshape:
+    label: 歴史的行政区域データセットβ版「宮崎県東諸県郡綾町」（綾町の有効期間は1932年10月1日から、前身の綾村の有効期間は1889年5月1日から1932年10月1日までとされ、綾村が現在の綾町の区域の全体を占めること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/45383A1968.html
+  upg-aa1-aya-hara-paper:
+    label: 原真志「宮崎県綾町の地域振興の取り組みから」（香川大学生涯学習教育研究センター研究報告第8号。1967年に営林署から綾町の国有林の交換伐採計画が持ち込まれ、当時の町長・郷田實が反対運動を主導した結果、照葉樹林は伐採を免れたこと）
+    url: https://kagawa-u.repo.nii.ac.jp/record/87/files/AN10552667_008_L75.pdf
+  upg-aa1-mera-matsuo-paper:
+    label: 松尾容孝「焼畑、狩猟、信仰からみた米良地域の生活」（専修大学リポジトリ収録論文。中世末に肥後菊池氏の末裔が米良に来住して米良氏を名乗ったこと、米良山14か村の一帯は江戸時代を通じて人吉藩〈相良氏〉の属領のもとで領主米良家が旗本に相当する交代寄合として支配した一円領域であったこと）
+    url: https://senshu-u.repo.nii.ac.jp/record/7097/files/3061_0277_04.pdf
+  upg-aa1-morotsuka-geoshape:
+    label: 歴史的行政区域データセットβ版「宮崎県東臼杵郡諸塚村／西臼杵郡諸塚村」（諸塚村は1889年5月1日から存続する単一の自治体で、西臼杵郡と東臼杵郡の双方に属した記録を持つこと）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/45429A1968.html
+  upg-aa1-morotsuka-ndl-ref:
+    label: レファレンス協同データベース事例「成人式（成人の日）の起源を知りたい。宮崎の諸塚村がその発祥と聞いたのだが。」（宮崎県立図書館の回答。『諸塚村史』に昭和22年4月3日に成人祭が行われたことと「全国最初のものと思われ」という記述があることを紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000022305&page=ref_view
+  upg-aa1-takaharu-geoshape:
+    label: 歴史的行政区域データセットβ版「宮崎県西諸県郡高原町」（前身の高原村の有効期間は1889年5月1日から1934年10月5日までとされること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/45361A1968.html
+  upg-aa1-takanabe-geoshape:
+    label: 歴史的行政区域データセットβ版「宮崎県児湯郡高鍋町」（高鍋町の有効期間は1901年2月7日からとされること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/45401A1968.html
+  upg-aa1-tsuno-jinja-history:
+    label: 都農神社公式サイト「都農神社年表」（承和4年〈837年〉に都農神が官社に列せられたことが『続日本後紀』に記されること、天安2年〈858年〉に都農神が従五位上から従四位上へ昇叙されたことが『日本三代実録』に記されること）
+    url: http://w01.tp1.jp/~sr09697901/picturepage/tunojinjyahistory.pdf
+  upg-aa5-saito-kokubunji:
+    label: 文化遺産オンライン（文化庁）「日向国分寺跡」（西都市に所在する国の史跡。日向国府跡や国分尼寺跡と合わせて古代日向の中心地の構成要素）
+    url: https://bunka.nii.ac.jp/heritages/detail/207095
+  upg-aa5-saito-kokufu:
+    label: 文化遺産オンライン（文化庁）「日向国府跡」（西都市三宅に所在する奈良・平安時代の官衙遺跡。周辺に日向国分寺跡・国分尼寺跡や特別史跡の西都原古墳群が所在）
+    url: https://bunka.nii.ac.jp/heritages/detail/218369
+  upg-aa5-shintomi-geoshape:
+    label: 歴史的行政区域データセットβ版（国立情報学研究所CODH）「宮崎県児湯郡新田村」（有効期間は1889年5月1日から1959年3月31日までで、現在の新富町の区域と重なる）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/45B0030007.html
+  upg-aa5-shintomi-japanpost:
+    label: 日本郵政グループ「郵便局・ATM案内 新田郵便局（にゅうたゆうびんきょく）」（宮崎県児湯郡新富町新田所在。「新田」の読みは「にゅうた」）
+    url: https://map.japanpost.jp/p/search/dtl/300173117000/
+  upg-ag6-ebino-shisei-yoran:
+    label: えびの市『えびの市市勢要覧』（市公式サイト掲載。えびの高原辺り一面のススキが原がえび色に染まる風景について「えびのを象徴する風景でもあり地名の由来とも伝えられています」と記す）
+    url: https://www.city.ebino.lg.jp/material/files/group/3/1099_01.pdf

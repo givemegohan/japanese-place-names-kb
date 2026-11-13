@@ -288,12 +288,12 @@ records:
     status: established
     sources:
     - upg-p8-koge-youran2024
-  - text: 合併は当初、吉富町を含む3町村で進められ、新町名は「大富町」（おおとみまち）に決まっていたが、新町役場の位置や大平村で起きた不祥事をめぐって協議が難航し、吉富町を除く2村で合併することとなった
+  - text: 合併は当初、吉富町・新吉富村・大平村の3町村で進められ、新町名は「大富町」（おおとみまち）に決まっていたが、管理部門の位置などをめぐって合意に至らず3町村の協議会は解散し、吉富町を除く新吉富村・大平村の2村で合併することとなった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r3-koge-wiki
+    - upg-ae2-fukuoka-gappeishi3
   - text: 総務省の地方公共団体コードは406465である
     kind: fact
     level: E2
@@ -433,10 +433,11 @@ records:
     - r3-hisayama-wiki
   - text: 町名は、久原村の「久」と山田村の「山」の頭文字を合わせた合成地名である
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r3-hisayama-wiki
+    - upg-af6-uub-gousei
+    - upg-p8-hisayama-gaiyo
   - text: 久原村は1889年（明治22年）に単独で村制を施行し、山田村は同年に山田村と猪野村の合併によって成立した
     kind: fact
     level: E2
@@ -838,12 +839,12 @@ records:
     status: established
     sources:
     - r3-yoshitomi-town-sdgs
-  - text: 平成の合併協議では新吉富村・大平村と新町名「大富町」でいったん合意したが、対立により破談し、吉富町は単独存続を選んだ
+  - text: 平成の合併協議では、新吉富村・大平村との3町村協議で新町名「大富町」を含む38項目が合意されたが、管理部門の位置などをめぐって合意に至らず、2004年（平成16年）11月に協議会が解散して合併は破談となり、吉富町は単独で存続した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r3-yoshitomi-wiki
+    - upg-ae2-fukuoka-gappeishi3
   - text: 総務省の地方公共団体コードは406422である
     kind: fact
     level: E2
@@ -970,10 +971,11 @@ records:
     - r3-oto-kobunsyokan
   - text: 村名「大任」は、大行事村の「大」と今任原村の「任」を一字ずつ取った合成地名である
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r3-oto-wiki
+    - upg-af6-uub-gousei
+    - r3-oto-kobunsyokan
   - text: 昭和35年（1960年）1月1日、大任村が町制を施行して大任町となった
     kind: fact
     level: E2
@@ -1691,7 +1693,7 @@ records:
   formation: 合併新設
   prefecture: 福岡県
   homonyms: []
-  summary: 平成18年（2006年）2月11日、鞍手郡の宮田町と若宮町が合併して発足した市。市名「宮若」は宮田の「宮」と若宮の「若」を合わせた合成地名で、公募では「宮田」との一騎打ちの末に選ばれたと伝えられる。若宮の名は中世の荘園「若宮荘」に遡り、その起こりは若宮八幡宮と推定されている。
+  summary: 平成18年（2006年）2月11日、鞍手郡の宮田町と若宮町が合併して発足した市。市名「宮若」は宮田の「宮」と若宮の「若」を合わせた合成地名で、公募の上位10候補への3回の投票を経て選ばれた。若宮の名は中世の荘園「若宮荘」に遡り、その起こりは若宮八幡宮と推定されている。
   first_attestation:
     era: 平成17年
     year_western: 2005
@@ -1722,18 +1724,18 @@ records:
     status: established
     sources:
     - r4-miyawaka-bunkazai-plan
-  - text: 新市名は公募され、「若宮田」「宮田」「宮若」「犬鳴」など候補10点が挙がり、最終候補2点（宮田・宮若）の中から「宮若」が選ばれたと市区町村変遷のデータベースは伝える
+  - text: 新市名は公募され、応募数の上位10点までの候補について3回にわたる投票（10点から3点、さらに2点へと絞り込み）が行われて「宮若」が選定されたと、日本都市センターの合併要覧は伝える
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r4-miyawaka-hensen-db
+    - upg-ag4-miyawaka-gappei-yoran
   - text: 市名「宮若」は、合併した宮田町と若宮町の名から一字ずつを取った合成地名である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r4-miyawaka-hensen-db
+    - upg-ag4-miyawaka-gappei-yoran
   column:
     title: 大きな合併からこぼれて生まれた市
     text: 宮若市の合併は、最初から2町の合併だったわけではない。当初は直方市を中心とする「直鞍合併協議会」が平成15年（2003年）に設置され、5市町での大合併が目指された。しかし若宮町が協議から離脱を表明し、宮田町もこれに続いて、結局は2町だけの法定協議会が作り直された。平成18年（2006年）2月11日、宮田の「宮」と若宮の「若」を編んだ「宮若市」が誕生した。大きな枠組みからこぼれた2町が、自分たちの頭文字で新しい市の名を作ったのである。
@@ -1744,7 +1746,7 @@ records:
   - pref/40
   unknowns:
   - 宮田の「宮」がどの宮（神社）に由来するかは、確認した市の資料では説明されていなかった
-  - 新市名の最終決定が投票によるものか等の具体的な手続きは、公表資料では確認できなかった
+  - 公募候補の具体的な名称（「若宮田」「犬鳴」など）は市区町村変遷情報が伝えるのみで、日本都市センターの合併要覧には候補名の列挙がない
   updated: '2026-11-13'
 - id: muni/40-小竹町
   code: '404012'
@@ -2275,7 +2277,13 @@ records:
     status: contested
     sources:
     - r4-shingu-town-yurai
-  - text: 古代の町域は宗像郡席内郷に属していたが、奈良・平安時代頃に糟屋郡へ郡代えされ、戦国時代は立花氏の領土で、立花山には立花山城が築かれた。1955年に合併した旧立花村の名は、この立花山・立花氏ゆかりの地域名である
+  - text: 『日本歴史地名大系』「立花城跡」によれば、立花山の山頂部には大友貞載が築いたとされる山城・立花山城があり、立花氏の拠点となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - upg-ae5-shingu-kotobank-tachibanajo
+  - text: 古代の町域は宗像郡席内郷に属していたが、奈良・平安時代頃に糟屋郡へ郡代えされたとされ、1955年に合併した旧立花村の名は、立花山・立花氏ゆかりの地域名である
     kind: fact
     level: E5
     status: established
@@ -2517,7 +2525,13 @@ records:
     status: established
     sources:
     - r4-toho-uub
-  - text: 合併に先立つ1986年（昭和61年）に、両村の組合立で設置された中学校は「東峰中学校」と名付けられていた。学校名と新村名が同じになったが、合併とは直接の関係はないとされる
+  - text: 合併に先立つ1985年（昭和60年）4月1日、宝珠山村・小石原村の組合立中学校として「東峰中学校」が誕生していた（東峰学園公式サイトの沿革）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-ae5-toho-gakuen-enkaku
+  - text: 学校名と新村名が同じ「東峰」になったが、両者に直接の関係はないとされる
     kind: fact
     level: E5
     status: established
@@ -2555,7 +2569,7 @@ records:
     - b-cap-chiba-soumu-code
   column:
     title: 落ちた候補名「宝石」と「陶宝」
-    text: 新村名の最終候補には、宝珠山の「宝」と小石原焼の「陶」をめぐる案が並んだ。「宝石（ほうせき）」は宝珠山の宝珠石と小石原の石を、「陶宝（とうほう）」は陶器の里と宝珠山を組み合わせた案と読める。選ばれた「東峰」は両村の名を直接には含まない第三の名だった。面白いことに「東峰」は1986年から両村の組合立中学校の名として先に存在しており、生徒たちには馴染みのある言葉でもあった。
+    text: 新村名の最終候補には、宝珠山の「宝」と小石原焼の「陶」をめぐる案が並んだ。「宝石（ほうせき）」は宝珠山の宝珠石と小石原の石を、「陶宝（とうほう）」は陶器の里と宝珠山を組み合わせた案と読める。選ばれた「東峰」は両村の名を直接には含まない第三の名だった。面白いことに「東峰」は1985年から両村の組合立中学校の名として先に存在しており、生徒たちには馴染みのある言葉でもあった。
     sources:
     - r4-toho-uub
     - r4-toho-wiki
@@ -3589,7 +3603,13 @@ records:
     status: established
     sources:
     - r5-chikujo-wiki
-  - text: 築上郡は1896年に築城郡と上毛郡が合併してできた郡であり、「築城」の「築」と「上毛」の「上」の頭文字を合成した名前である
+  - text: 築上郡は1896年（明治29年）に、築城郡と上毛郡の区域をもって設置された郡である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - upg-ae5-uub-fukuoka
+  - text: 「築上」の名は、「築城」の「築」と「上毛」の「上」の頭文字を合成した名前であるとされる
     kind: fact
     level: E5
     status: established
@@ -3826,12 +3846,12 @@ records:
     status: established
     sources:
     - upg-p12-itoshima-city-sousetsu
-  - text: 郡名「糸島」は、怡土（いと）の「糸」と志摩（しま）の「島」から一字ずつを取った合成地名とされる
+  - text: 郡名「糸島」は、合併前の怡土（いと）と志摩（しま）の名をつなげて「糸島」という字を当てたものである
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r2-itoshima-gun-wikipedia
+    - r2-itoshima-kobunsyokan
   - text: 糸島市の市域は『魏志倭人伝』に記される伊都国があった地とされ、平原遺跡から出土した内行花文鏡は国宝に指定されている
     kind: fact
     level: E2
@@ -3844,13 +3864,13 @@ records:
     status: established
     sources:
     - r2-itoshima-uub
-  - text: 合併前の前原市・二丈町・志摩町はいずれも糸島郡に属しており、旧郡域と新市域はほぼ一致する
+  - text: 糸島市を構成した前原市・二丈町・志摩町はいずれも、もとは糸島郡に属した市町である（前原市は1992年の市制施行で糸島郡を離れた）
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - r2-itoshima-gun-wikipedia
     - r2-itoshima-uub
+    - upg-ae5-uub-fukuoka
   column:
     title: 「伊都」と「糸島」のあいだ
     text: 糸島市が生まれるとき、新しい市の名前の公募には、古代の「伊都国」にちなむ案が数多く寄せられた。「伊都」「伊都国」「伊都の国」――市域が『魏志倭人伝』の伊都国の地とされるだけに、古代の名への期待は大きかった。しかし最終的に選ばれたのは、明治29年（1896年）に怡土郡と志摩郡の合併で生まれた郡名「糸島」だった。古代の王国の名よりも、百年余り地域の住所として使われてきた郡名のほうが、住民にとっての「自分たちの名前」だったということなのだろう。糸島郡は市の誕生と同時に消滅し、郡名は市名として生き続けることになった。
@@ -4898,11 +4918,8 @@ sources:
   r2-fukutsu-city-gaikyo:
     label: 福津市公式資料「第1章 概況・沿革」
     url: https://www.city.fukutsu.lg.jp/material/files/group/21/gaikyo.pdf
-  r2-itoshima-gun-wikipedia:
-    label: Wikipedia「糸島郡」
-    url: https://ja.wikipedia.org/wiki/%E7%B3%B8%E5%B3%B6%E9%83%A1
   r2-itoshima-kobunsyokan:
-    label: 福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 〜糸島市〜」
+    label: 福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 〜糸島市〜」（2010年1月に前原市・志摩町・二丈町が合併して糸島市が誕生したこと、市域が『魏志倭人伝』の伊都国の地とされること、市名の由来となった郡名「糸島」は合併前の怡土（いと）と志摩（しま）の名をつなげて「糸島」の字を当てたものであること）
     url: https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=1045
   r2-itoshima-uub:
     label: 市区町村変遷情報「糸島市」
@@ -5342,6 +5359,24 @@ sources:
   r6-sueki-wiki:
     label: Wikipedia「須恵器」（「須恵器」という呼称は、平安時代には「陶器」と書いて「すえもの」「すえうつわもの」と読まれていたものに、考古学用語として当て字が考案され一般化したものであること。福岡県糟屋郡の須恵という地名および須恵焼と、古代の須恵器とは直接的には無関係であるとすること）
     url: https://ja.wikipedia.org/wiki/%E9%A0%88%E6%81%B5%E5%99%A8
+  upg-ae2-fukuoka-gappeishi3:
+    label: 福岡県「福岡県の市町村合併に関する資料集」III 県内各地域における合併協議の状況（築上東部三町村合併協議会について、構成は吉富町・新吉富村・大平村で、新町名「大富町」を含む38項目が合意された一方、管理部門の位置などをめぐって合意に至らず、平成16年（2004年）11月に協議会が解散したことを記す）
+    url: https://www.pref.fukuoka.lg.jp/uploaded/life/654737_61464984_misc.pdf
+  upg-ae5-shingu-kotobank-tachibanajo:
+    label: コトバンク「立花城跡」（『日本歴史地名大系』。立花山の山頂部に大友貞載が築いた山城があり、立花氏の拠点となったこと）
+    url: https://kotobank.jp/word/%E7%AB%8B%E8%8A%B1%E5%9F%8E%E8%B7%A1-1989389
+  upg-ae5-toho-gakuen-enkaku:
+    label: 東峰学園公式サイト「沿革」（昭和60年（1985年）4月1日に宝珠山小石原中学校組合立東峰中学校が誕生したこと）
+    url: https://touhou.ed.jp/about.html
+  upg-ae5-uub-fukuoka:
+    label: 市区町村変遷情報「履歴情報 福岡県」（郡設置の項で築城郡・上毛郡の区域をもって築上郡を設置したとあること、2010年1月1日に前原市・糸島郡二丈町・志摩町が新設合併して糸島市となった記録）
+    url: https://uub.jp/upd/fukuoka.html
+  upg-af6-uub-gousei:
+    label: 市区町村変遷情報（uub.jp）「合成地名の町村一覧」（久山町＝久原＋山田、大任町＝大行事＋今任原（今任原自体も今泉＋永原＋鶴ヶ原の合成）と、合併前の村名への分解を示す一覧）
+    url: https://uub.jp/nam/gousei.html
+  upg-ag4-miyawaka-gappei-yoran:
+    label: 日本都市センター「合併要覧 宮若市」（2006年9月28日現在。新市名は公募され、応募数の上位10点までの候補を3回にわたる投票で決定したこと、選定理由として宮田町の「宮」と若宮町の「若」を使用することで合併後も旧自治体名の予測が容易なことが挙げられたことを記す）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/miyawaka060928.pdf
   upg-b-kotake-town:
     label: 小竹町公式「商工業」（昭和31年（1956年）に有馬御徳炭鉱を皮切りに閉山が相次ぎ、昭和44年（1969年）に主力であった古河目尾炭鉱が閉山したことを記す）
     url: https://town.kotake.lg.jp/hpkiji/pub/detail.aspx?c_id=3&class_id=3&class_set_id=2&id=635
