@@ -148,10 +148,6 @@
    "label": "瀬戸陶磁器卸商業協同組合「せとものの歴史」（平安時代中期の広久手古窯跡群に始まる施釉陶器、陶磁器の総称としての「せともの」と「からつもの」）",
    "url": "https://seto-tosyo.jp/history"
   },
-  "n5-seto-wiki": {
-   "label": "Wikipedia「瀬戸（瀬戸市）」（大字瀬戸の地名の由来諸説。出典は『角川日本地名大辞典 23 愛知県』743頁）",
-   "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8_(%E7%80%AC%E6%88%B8%E5%B8%82)"
-  },
   "n5-tokoname-city": {
    "label": "常滑市公式「市の概略」（『万葉集』に詠まれた「常滑」、地名のルーツ＝常は床・滑は滑らかで粘土層の露出した滑らかな土地、読みの紛糾、六古窯、1954年の合併市制）",
    "url": "http://www.city.tokoname.aichi.jp/shisei/guide/1001281/1001282/1001283.html"
@@ -208,9 +204,209 @@
    "label": "愛知県「とよがわびより（豊川水源地域交流広報Webサイト）」（「豊川という名前には、いつまでも豊かな川であってほしいという人々の願いが込められている」）",
    "url": "http://www.pref.aichi.jp/site/toyogawabiyori/"
   },
-  "n6-toyokawa-river-wiki": {
-   "label": "Wikipedia「豊川（河川）」（古名の飽海川・吉田川、「ほの川」転訛説、河川名の読み「とよがわ」と市名の読み「とよかわ」の違い）",
-   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B7%9D"
+  "upg-q11-gamagori-museum-gappei": {
+   "label": "蒲郡市博物館「合併までのあゆみ」（蒲郡市公式。昭和29年4月1日に三谷町・蒲郡町・塩津村の3町村が合併して蒲郡市が生まれたことなど、昭和の大合併に至る経緯）",
+   "url": "https://www.city.gamagori.lg.jp/site/museum/rekibun-gappei.html"
+  },
+  "upg-q11-gamagori-museum-shunzei": {
+   "label": "蒲郡市公式「藤原俊成顕彰会」（蒲郡市博物館。藤原俊成が三河国司在任中（久安元年（1145年）から同5年（1149年））に「竹谷荘」「蒲形荘」を開発し蒲郡の礎を築いたこと、『吾妻鑑』に竹谷・蒲形荘を開発した人物として俊成の名が記されること、竹島の八百富神社の祭神・市杵島姫命は俊成が三河国司のころに琵琶湖の竹生島から勧請されたものであること）",
+   "url": "https://www.city.gamagori.lg.jp/unit/museum/shunzei.html"
+  },
+  "upg-q11-kasugai-britannica": {
+   "label": "ブリタニカ国際大百科事典 小項目事典「春日井市」（コトバンク掲載。南西部の勝川付近一帯はもと春日井原と呼ばれるカヤ原であったが、寛文4年（1664年）に新木津用水が引かれてしだいに開田されたこと）",
+   "url": "https://kotobank.jp/word/%E6%98%A5%E6%97%A5%E4%BA%95%E5%B8%82-187555"
+  },
+  "upg-q11-nishio-matcha": {
+   "label": "西尾市公式「西尾の抹茶・お茶」（西尾の抹茶（てん茶）は全国トップクラスの生産量を誇る全国有数の産地であること、稲荷山茶園をはじめとする市内の茶園の広がり）",
+   "url": "https://www.city.nishio.aichi.jp/sportskanko/kanko/1005620/1001475/1002604.html"
+  },
+  "upg-q11-nishio-naritachi": {
+   "label": "西尾市公式資料「西尾市の成り立ち」（西尾町が1952年に福地村の一部を、1953年に平坂町の一部（田貫・中畑・国森・新在家）を合併して市制を施行し県下14番目の市となった経緯。その後1954年に平坂町・寺津町・福地村・室場村、1955年に三和村と明治村の一部を合併）",
+   "url": "https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/008/112/030203.pdf"
+  },
+  "upg-q11-nishio-tokei2023": {
+   "label": "西尾市『西尾の統計 2023年刊』（西尾市公式の統計書。市章の説明に、昭和28年12月15日に市制を施行した後も旧西尾町の市章を引き続き使用した旨を明記）",
+   "url": "https://www.city.nishio.aichi.jp/_res/projects/default_project/_page_/001/003/745/2023.pdf"
+  },
+  "upg-q11-toyoake-chimei-taikei": {
+   "label": "『日本歴史地名大系』「豊明市」（平凡社、コトバンク掲載。「豊明」の由来は、明治22年当時の酒造家の屋号「豊倉」の一字と元号「明治」の一字をとったとも、宮中の年中行事「豊明（とよのあかり）節会」にちなんだとも伝えると記す）",
+   "url": "https://kotobank.jp/word/%E8%B1%8A%E6%98%8E%E5%B8%82-187574"
+  },
+  "upg-q11-toyoake-crd-zengo": {
+   "label": "レファレンス協同データベース事例「『前後』の地名のいわれ」（名古屋市鶴舞中央図書館の回答。『豊明市史 総集編』pp.121-122に基づき、間米村の南にあった枝郷・五軒屋が寛文年中以後「前郷」と呼ばれるようになり、後に「前後村」と表記されるようになった経緯と、『角川日本地名大辞典 23 愛知県』の説明を紹介）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000221120&page=ref_view"
+  },
+  "upg-q11-toyoake-shoko": {
+   "label": "豊明市公式資料（商工業の概要、平成25年。昭和32年1月1日に町制、昭和47年8月1日に人口37,038人で市制を施行したこと、「豊明」の地名は酒造の屋号「豊倉屋」の「豊」と明治の「明」よりできたものとする市の説明）",
+   "url": "http://www.city.toyoake.lg.jp/secure/4042/25shokougyousei.pdf"
+  },
+  "upg-q11-toyokawa-city-chimei": {
+   "label": "豊川市防災センター「地名に隠された災害情報」（令和4年3月。「とよかわ」の地名の由来として、かつて豊川（飽海川とも呼ばれた）の流れをかかえていたところから「豊かな川」・「ほの川」として「豊川」と呼んだのではないかと考察し、豊川市の名称は近代の豊川町、近世の豊川村、古代の豊川郷にまで遡ることができるとする）",
+   "url": "https://www.city.toyokawa.lg.jp/material/files/group/2/zenpen.pdf"
+  },
+  "upg-q11-toyokawa-mlit": {
+   "label": "国土交通省「豊川水系河川整備計画」第1章「流域の自然条件」（豊川の古名として美和川・穂の川・飽海川・飽海河・安久美川を挙げ、飽海の地が「吉田」と呼ばれるようになってからは主に「吉田川」と呼ばれたこと、地名が吉田から豊橋に変わってから「豊川」と呼ばれるようになったという説や、「住民をうるおす豊かな川であるように」という願いをこめて「豊川」と呼ばれるようになったという説などを紹介）",
+   "url": "https://www.mlit.go.jp/river/basic_info/jigyo_keikaku/gaiyou/seibi/pdf/toyokawa-4-1.pdf"
+  },
+  "upg-q11-toyokawa-mlit-toyohashi": {
+   "label": "国土交通省中部地方整備局豊橋河川事務所「豊川水系河川整備計画」1.1「流域及び河川の概要」（河川名「豊川」の読みを「とよがわ」と明記）",
+   "url": "https://www.cbr.mlit.go.jp/toyohashi/jigyou/toyogawa/seibi-keikaku/pdf/1-1.pdf"
+  },
+  "upg-q12-fuso-enkaku": {
+   "label": "扶桑町公式「沿革」（明治39年に高雄村・山名村・豊国村・柏森村が合併して扶桑村となったこと、昭和27年の町制施行）",
+   "url": "https://www.town.fuso.lg.jp/chousei/1002199/1002226/1002297.html"
+  },
+  "upg-q12-kota-jr": {
+   "label": "JR東海公式「駅名読み仮名一覧」（幸田駅の読みを「こうだ」とする）",
+   "url": "https://railway.jr-central.co.jp/business-hours/st_name.pdf"
+  },
+  "upg-q12-oguchi-koho": {
+   "label": "大口町公式「広報大口」2006年10月号（No.572・大口誕生100年特集。「大口」という名前の由来は実はよく分かっておらず、太田村の「太」と小口村の「口」で「太口村」にするつもりが「太」の点が抜けたという説と、戦国時代の文章にこの辺りの地名が「大久地」と書かれていたことに由来するという説とを紹介し、いまだ謎に包まれているとする）",
+   "url": "https://www.town.oguchi.lg.jp/secure/3489/0610.pdf"
+  },
+  "upg-q12-oharu-ama100": {
+   "label": "大治町公式「近代海部郡誕生100年記念事業」（大正2年（1913年）に海東郡・海西郡の合併により海部郡が誕生したこと、大治町が海部郡管内の町として記念事業に参加したこと）",
+   "url": "https://www.town.oharu.aichi.jp/secure/1764/15.pdf"
+  },
+  "upg-q12-oharu-geoshape": {
+   "label": "歴史的行政区域データセットβ版（Geoshapeリポジトリ）「愛知県海部郡大治村」（大治村の有効期間を1889年10月1日から1975年4月1日とし、所属郡を海部郡とする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/23424A1968.html"
+  },
+  "upg-q12-seto-rokkoyo": {
+   "label": "日本六古窯公式Webサイト（日本遺産「六古窯」）「瀬戸焼の概要と歴史」（陸地の通路が狭く谷と谷が向かい合わせの土地「背戸」が「瀬戸」の由来と言われること、「陶所（すえと）」が転じて「瀬戸」になったという俗説もあること）",
+   "url": "https://sixancientkilns.jp/seto/"
+  },
+  "upg-q12-toei-geoshape": {
+   "label": "歴史的行政区域データセットβ版（Geoshapeリポジトリ）「愛知県北設楽郡本郷町」（本郷町の有効期間を1921年10月1日から1955年4月1日とする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/23B0180013.html"
+  },
+  "upg-q12-tsushima-aichi": {
+   "label": "愛知県「川筋の変遷とその痕跡－愛知県の河川の歴史－」（県作成パンフレット「天王川の川跡と日光川の付替え」。天王川が天王川公園の丸池のルーツであること）",
+   "url": "https://www.pref.aichi.jp/soshiki/kasen/kasen-history.html"
+  },
+  "upg-q12-tsushima-kotobank": {
+   "label": "コトバンク「天王川」（平凡社『日本歴史地名大系』。天明5年（1785年）に天王川の築留工事が行われたこと、築留前は上流を足立川・萩原川といい、12世紀半ばから津島の渡として尾張国から伊勢国への要津であったこと）",
+   "url": "https://kotobank.jp/word/%E5%A4%A9%E7%8E%8B%E5%B7%9D-3065952"
+  },
+  "upg-q3-aichi-hekai": {
+   "label": "愛知県「碧海地域の紹介」（愛知県公式サイト掲載。碧海とは、碧南市・刈谷市・安城市・知立市・高浜市の5市からなる地域で、市制が施行される前の郡の名前であると記す）",
+   "url": "https://www.pref.aichi.jp/uploaded/attachment/472692.pdf"
+  },
+  "upg-q3-aichi-henkaku": {
+   "label": "愛知県統計年鑑「市町村の廃置分合等の沿革」（愛知県公式サイト掲載。昭和30年1月1日に渥美郡田原町・神戸村・野田村が新設合併して田原町となったこと、碧海郡が昭和45年12月1日に消滅したことなどを、平成3年4月1日現在の表として記す）",
+   "url": "https://www.pref.aichi.jp/uploaded/attachment/553005.pdf"
+  },
+  "upg-q3-aisai-midori": {
+   "label": "愛西市「緑の基本計画」第2章「現況調査」（愛西市公式サイト掲載。本市は愛知県の西部に位置し、西は木曽川・長良川を挟んで三重県桑名市、岐阜県海津市に接していると記す）",
+   "url": "https://www.city.aisai.lg.jp/cmsfiles/contents/0000002/2876/h2.pdf"
+  },
+  "upg-q3-aisai-tayori": {
+   "label": "愛西市「合併協議会だより」（平成16年5月1日号、愛西市公式サイト掲載。第11回協議会（平成16年4月21日）で新市名称の候補10点について委員投票を行い、過半数を得た名称がなかったため、比較上位の「愛西市」と「海西市（かいせいし）」による決選投票となり、愛西市15票・海西市13票で「愛西市」に決定した経緯を記す）",
+   "url": "https://www.city.aisai.lg.jp/gappeikyougikai/pdf/tayori/160501_gai.pdf"
+  },
+  "upg-q3-chiryu-masterplan": {
+   "label": "知立市都市計画マスタープラン資料「市街地の形成過程」（知立市公式サイト掲載。町村制施行により現市域に知立町・牛橋村・上重原村・長崎村が発足し、明治39年にこれら1町3村が合併して知立町が誕生したことを記す）",
+   "url": "https://www.city.chiryu.aichi.jp/material/files/group/19/02_sigaitinokeiseikatei.pdf"
+  },
+  "upg-q3-chiryu-taikei": {
+   "label": "コトバンク「知立市」（『日本歴史地名大系』の解説。地名の由来には諸説があり、知立神社の祭神といわれる伊知理生命の知理生からきたとする説が従来最も有力であること、「知立」の文字は『文徳実録』仁寿元年（851年）10月7日条の「知立神」が初見であること、『和名抄』には「智立」郷の文字を使用することを記す）",
+   "url": "https://kotobank.jp/word/%E7%9F%A5%E7%AB%8B%E5%B8%82-98538"
+  },
+  "upg-q3-chita-gun-taikei": {
+   "label": "コトバンク「知多郡」（『日本歴史地名大系』の解説。平城宮跡から発掘された木簡に「尾張国智多郡」とあることなど、古代の知多郡について記す）",
+   "url": "https://kotobank.jp/word/%E7%9F%A5%E5%A4%9A%E9%83%A1-3065985"
+  },
+  "upg-q3-chita-shi-taikei": {
+   "label": "コトバンク「知多市」（『日本歴史地名大系』の解説。知多の名は、知多半島（郡）の名をとって三町合併の昭和30年（1955年）に付けられたと記す）",
+   "url": "http://kotobank.jp/word/%E7%9F%A5%E5%A4%9A%E5%B8%82-96196"
+  },
+  "upg-q3-hekinan-taikei": {
+   "label": "コトバンク「碧南市」（『日本歴史地名大系』の解説。旧碧海郡の南端に位置し、古くから碧南と称呼され、市名となったこと、『和名抄』の大浜郷はこの地に比定され、大浜郷は海上交通が早くから開けた土地であったことを記す）",
+   "url": "https://kotobank.jp/word/%E7%A2%A7%E5%8D%97%E5%B8%82-129195"
+  },
+  "upg-q3-hekinan-tokei": {
+   "label": "碧南市「碧南市統計書（令和2年版）1 土地・気象」（碧南市公式サイト掲載。「市の沿革」に、昭和30年4月1日に碧海郡明治村大字西端地区を編入したことを記す）",
+   "url": "https://www.city.hekinan.lg.jp/material/files/group/4/R2tochikisyo.pdf"
+  },
+  "upg-q3-mofa-nisshin": {
+   "label": "外務省「外交史料Q&A 明治期」（明治36年（1903年）12月にアルゼンチン政府がイタリアで建設中だった軍艦「モレノ」「リヴァダヴィア」の売却を決めて日本が購入し、「モレノ」が「日進」と改名されたこと、明治37年（1904年）1月9日に日本へ出航し翌月16日に横須賀へ入港したこと、日露戦争で旅順攻略や日本海海戦に参加したことを記す）",
+   "url": "https://www.mofa.go.jp/mofaj/annai/honsho/shiryo/qa/meiji_05.html"
+  },
+  "upg-q3-mokkanko": {
+   "label": "奈良文化財研究所「木簡庫」（木簡の釈文データベース。藤原宮跡出土の荷札木簡に「辛卯年十月尾治国知多評」とあるもの（辛卯年は持統5年・691年）、大宝2年（702年）の「尾治国知多郡」の木簡などを収録する）",
+   "url": "https://mokkanko.nabunken.go.jp/ja/"
+  },
+  "upg-q3-okazaki-machi": {
+   "label": "岡崎市『岡崎まちものがたり』「碧海郡の歴史」（岡崎市制100周年記念事業の刊行物。『和名抄』によれば碧海郡は智立など15の郷を有したこと、古代木簡には「知利布」または「知立」などの郷の名が書かれていることを記す）",
+   "url": "https://cms.oklab.ed.jp/el/nanbu/index.cfm/7,239,c,html/239/20190304-161642.pdf"
+  },
+  "upg-q3-saya-taikei": {
+   "label": "コトバンク「佐屋町」（『日本歴史地名大系』の解説。古くは佐屋路（佐屋海道）の主駅として佐屋湊をひかえ、桑名への「三里の渡」の起点でもあったこと、海東・海西両郡中の一〇九ヵ村を所管した佐屋代官所の所在地であったことを記す）",
+   "url": "http://kotobank.jp/word/%E4%BD%90%E5%B1%8B%E7%94%BA-3065877"
+  },
+  "upg-q3-tahara-gikai": {
+   "label": "田原市議会「令和7年度田原市議会概要」（田原市議会公式サイト掲載。平成15年（2003年）8月20日に田原町が赤羽根町を編入合併するとともに市制を施行したこと、平成17年（2005年）10月1日に渥美町を編入合併し「新田原市」が誕生したことを記す）",
+   "url": "https://www2.city.tahara.aichi.jp/gikai/annai/3/pdf/R07_gikai_gaiyou.pdf"
+  },
+  "upg-q4-aichi-gappei": {
+   "label": "愛知県「愛知県内の市町村合併を巡る動き」（平成23年4月1日更新。あま市については、平成21年7月24日の第8回七宝・美和・甚目寺町合併協議会において新市の名称を「あま市」と決定したことなど、合併協議の経過を時系列で記す県の公式資料）",
+   "url": "https://www.pref.aichi.jp/uploaded/attachment/2124.pdf"
+  },
+  "upg-q4-anjo-apec": {
+   "label": "愛知県教育委員会「あいちの歴史・文化ポータルサイト『安祥城址』」（文明3年（1471年）に松平信光が奇策を使って安祥城を攻略し、その子親忠に与え、以後安城松平の居城だったことを記す）",
+   "url": "https://apec.aichi-c.ed.jp/kyouka/shakai/kyouzai/2018/syakai/seisan/sei049.htm"
+  },
+  "upg-q4-anjo-zuroku": {
+   "label": "安城市歴史博物館「安城市文化財図録Web版『紙本著色 親鸞聖人像』」（安城御影は法眼朝円に描かせたものといい、建長7年（1255年）の一幅が専信房専海に与えられ、文和4年（1355年）の存覚の日記に三河国安城の照空が持つと記されたことから「安城御影」と呼ばれることとなったと解説する）",
+   "url": "http://www.katch.ne.jp/~anjomuse/bunkazai_zuroku/shinran_shounin_zou/index.html"
+  },
+  "upg-q4-iwakura-kazutoyo": {
+   "label": "岩倉市「山内一豊公と岩倉の歴史」（市の公式ページ。永禄2年（1559年）春に岩倉城が清洲城主・織田信長に攻められ落城し、山内盛豊が岩倉方の武将として戦い城と運命を共にしたこと、一豊が岩倉で誕生したと言われることを記す）",
+   "url": "https://www.city.iwakura.aichi.jp/0000000322.html"
+  },
+  "upg-q4-iwakura-kouhou": {
+   "label": "岩倉市「広報いわくら」2016年12月号（市制45周年特集で、岩倉市は昭和46年（1971年）12月1日に全国で601番目・愛知県下で29番目の市として市制を施行したことを記す）",
+   "url": "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000000/105/201612.pdf"
+  },
+  "upg-q4-iwakura-shinkiso": {
+   "label": "岩倉市「岩倉市地震対策基礎調査報告書 第I部 調査背景と地域特性」（戦国時代に岩倉城が織田伊勢守の居城となり尾張北部の主な町の一つだったこと、1889年に岩倉村・豊秋村・島野村・幼村の4村に統廃合され、1892年に岩倉村が岩倉町となり、1906年に豊秋村・島野村と幼村の一部が合併して岩倉町をなしたこと、1971年に市制が施行されたことを記す市の公式報告書）",
+   "url": "https://www.city.iwakura.aichi.jp/cmsfiles/contents/0000001/1988/dai1bu.pdf"
+  },
+  "upg-q4-miyoshi-daijisen": {
+   "label": "コトバンク「三好」（小学館『デジタル大辞泉』の「みよし」の項の補説。市名決定に際し、総務省は既存の市名と同名を容認したが、先に市となっていた徳島県三好市が拒否したため平仮名表記となったことを記す）",
+   "url": "https://kotobank.jp/word/%E4%B8%89%E5%A5%BD-139805"
+  },
+  "upg-q4-owariasahi-50th": {
+   "label": "尾張旭市「尾張旭市制50周年記念事業実績報告書」（昭和45年（1970年）12月1日に東春日井郡旭町から愛知県内で27番目の市として尾張旭市が誕生したことを記す市の公式報告書）",
+   "url": "https://www.city.owariasahi.lg.jp/uploaded/attachment/13845.pdf"
+  },
+  "upg-q4-owariasahi-enkaku": {
+   "label": "尾張旭市「沿革」（市の統計書の沿革章。明治39年（1906年）に八白村・印場村・新居村が合併して旭村となり、昭和23年（1948年）に町制を施行して旭町となり、昭和45年（1970年）に市制を施行して尾張旭市となった経過を日付つきで記す）",
+   "url": "https://www.city.owariasahi.lg.jp/uploaded/attachment/24467.pdf"
+  },
+  "upg-q5-toyota-kotobank": {
+   "label": "コトバンク「豊田」（改訂新版世界大百科事典「1959年トヨタ自動車の会社名をとって現名に改称」、ブリタニカ国際大百科事典小項目事典「トヨタ自動車工業株式会社にちなんで豊田市と改称」、日本大百科全書のトヨタ自動車の項における創業者・豊田喜一郎と父佐吉の記述）",
+   "url": "https://kotobank.jp/word/%E8%B1%8A%E7%94%B0-106034"
+  },
+  "upg-q9-kanie-geoshape": {
+   "label": "歴史的行政区域データセットβ版『愛知県海部郡蟹江町』（国立情報学研究所。有効期間は1889年10月1日から、永和村は1906年7月1日〜1956年4月1日に存続したこと）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/23425A1968.html"
+  },
+  "upg-q9-kanie-koho": {
+   "label": "蟹江町『まちから 広報かにえ』2019年10月号・町制130周年特集（明治22年に蟹江本町村・蟹江新町村・今村・西福田村の一部が合併して町制で蟹江町が誕生したこと、その後明治39年・昭和31年に合併・編入があったこと）",
+   "url": "https://www.town.kanie.aichi.jp/uploaded/attachment/9425.pdf"
+  },
+  "upg-q9-kanie-museum13": {
+   "label": "蟹江町歴史民俗資料館『おうちミュージアム第13回 源義朝と源氏島』（『蟹江町制100年記念 蟹江むかしものがたり』に基づく。平治の乱に敗れた源義朝が小島に立ち寄り漁師にもてなされたこと、その島が源氏島と呼ばれたこと）",
+   "url": "https://www.town.kanie.aichi.jp/uploaded/attachment/14931.pdf"
+  },
+  "upg-q9-taketoyo-urashima": {
+   "label": "武豊町観光協会『浦島太郎伝説』（富貴の地に浦島太郎に関する地名が多く残り、浦島川・浦島橋・竜宮神社・乙姫橋・浦島神社などが挙げられること）",
+   "url": "https://taketoyo.info/story/%E6%B5%A6%E5%B3%B6%E5%A4%AA%E9%83%8E%E4%BC%9D%E8%AA%AC"
+  },
+  "upg-q9-toyone-jinko": {
+   "label": "愛知県『あいちの人口 愛知県人口動向調査結果 年報（2025年）』第5表・市町村別年齢3区分別人口（2025年10月1日現在の推計。豊根村は年少・生産年齢・老年人口の合計857人で県内最少、次に少ない東栄町は2,490人）",
+   "url": "https://www.pref.aichi.jp/press-release/toukei202512240000077337.html"
   },
   "v5-ama-city-enkaku": {
    "label": "あま市公式「あま市の沿革」（あま市は平成22年（2010年）3月22日に旧七宝町・旧美和町・旧甚目寺町の3町合併により県内37番目の市として誕生したこと、海部東部地域で平成14年から合併の議論が始まり一旦白紙となった経緯を記す）",
@@ -396,10 +592,6 @@
    "label": "西尾市公式「西尾城跡」（西尾城は承久年間、足利（のち吉良氏）義氏によって築かれたと伝えられる城で、江戸時代には歴代西尾藩主の居城となったことを記す）",
    "url": "https://www.city.nishio.aichi.jp/sportskanko/bunkazai/1001485/1001610/1001685/1002901.html"
   },
-  "x1-nishio-wikipedia": {
-   "label": "Wikipedia「西尾市」（市町村コード232131。1953年（昭和28年）12月15日に西尾町・平坂町・寺津町・福地村・室場村・三和村の合併により市制を施行したことなどを記す）",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E5%B8%82"
-  },
   "x1-nishiojo-wikipedia": {
    "label": "Wikipedia「西尾城」（別名に西条城があり、承久3年（1221）に足利義氏が幡豆郡吉良庄西条に西条城を築き、永禄4年（1561）に酒井正親が西条を西尾に改名したという言伝えがある一方、徳川氏が奪取する以前から「西尾の城」と呼ばれていた可能性もあることを記す）",
    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E5%9F%8E"
@@ -487,10 +679,6 @@
   "x6-toei-hanamatsuri": {
    "label": "東栄町観光サイト「東栄町のじかん」（東栄町観光協会。花祭は700年以上続く伝統神事で1976年に国の重要無形民俗文化財に指定）",
    "url": "https://www.toeinavi.jp/column/detail/72"
-  },
-  "x6-toei-hongo-wiki": {
-   "label": "Wikipedia「本郷町（愛知県）」（1889年の本郷村成立、1921年の町制、1955年の東栄町への合併）",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E9%83%B7%E7%94%BA_(%E6%84%9B%E7%9F%A5%E7%9C%8C)"
   },
   "x6-toei-kotobank": {
    "label": "コトバンク「東栄」（小学館『日本大百科全書（ニッポニカ）』の解説。1955年に本郷町と下川・御殿・園の3村が合併改称）",
@@ -612,10 +800,6 @@
    "label": "市区町村変遷情報『豊根村』（uub.jp）",
    "url": "https://uub.jp/upd/c/12792.html"
   },
-  "x7-toyone-wiki": {
-   "label": "Wikipedia『豊根村』",
-   "url": "https://ja.wikipedia.org/wiki/豊根村"
-  },
   "x7-toyoyama-50th": {
    "label": "豊山町『町制施行50周年記念事業実施計画書』",
    "url": "https://www.town.toyoyama.lg.jp/_res/projects/default_project/_page_/001/003/775/zigyoukeikaku.pdf"
@@ -687,10 +871,10 @@
     {
      "text": "新市の名称は平成21年（2009年）7月24日の第8回七宝・美和・甚目寺町合併協議会で、平仮名表記の「あま市」に決定した。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-ama-uub"
+      "upg-q4-aichi-gappei"
      ]
     },
     {
@@ -787,12 +971,12 @@
      ]
     },
     {
-     "text": "漢字の「三好市」は、平成18年（2006年）に発足していた徳島県三好市と同一の名称になることから、既存の市と同一名称を避けるよう求めた昭和45年（1970年）の自治省通知の趣旨に反するとして検討され、平成19年（2007年）には徳島県三好市側から反対が伝えられたため、平仮名の「みよし市」が選ばれた。",
+     "text": "漢字の「三好市」は、平成18年（2006年）に発足していた徳島県三好市と同一の名称になる。市名の決定に際しては、総務省は既存の市名と同名を容認したものの、先に市となっていた徳島県三好市が拒否したため、平仮名の「みよし市」が選ばれた。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v5-miyoshi-wiki"
+      "upg-q4-miyoshi-daijisen"
      ]
     },
     {
@@ -838,7 +1022,8 @@
    ],
    "unknowns": [
     "「三吉」から「三好」への改称の経緯（寛文年間とされる時期や理由）は、伝承として伝えられるのみで一次資料では確認できなかった。",
-    "市制施行名称等検討委員会が平仮名を答申した理由の公式な文面は、総合計画の要約以上の内容を確認できなかった。"
+    "市制施行名称等検討委員会が平仮名を答申した理由の公式な文面は、総合計画の要約以上の内容を確認できなかった。",
+    "市名決定の過程では昭和45年（1970年）の自治事務次官通知も町議会で取り上げられたが、徳島県三好市側の意向が伝えられた時期など経緯の細部は、資料によって説明が異なり確定できなかった。"
    ],
    "updated": "2026-11-13"
   },
@@ -1533,12 +1718,12 @@
      ]
     },
     {
-     "text": "元々の漢字表記は太田と小口から一文字ずつ取った「太口村」であったが、後に「太」の点部分が抜け落ちて相応しくないとされ、現在の「大口」の表記になったと伝えられる",
+     "text": "「大口」という名の由来ははっきりしていない。町の公式広報は、太田村の「太」と小口村の「口」を合わせた「太口村」にするつもりが、「太」の点が抜けたために「大口」になったという説と、戦国時代の文書にこの辺りの地名が「大久地」と書かれていたことに由来するという説とを紹介し、なぜ「大口」になったのかは実はよく分かっていないとしている",
      "kind": "fact",
-     "level": "E5",
-     "status": "established",
+     "level": "E2",
+     "status": "contested",
      "sources": [
-      "x6-oguchi-wiki"
+      "upg-q12-oguchi-koho"
      ]
     },
     {
@@ -1769,10 +1954,11 @@
     {
      "text": "1913年（大正2年）に海東郡と海西郡の区域が海部郡となり、大治村は海部郡に属することになった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x6-oharu-wiki"
+      "upg-q12-oharu-ama100",
+      "upg-q12-oharu-geoshape"
      ]
     },
     {
@@ -1845,12 +2031,12 @@
      ]
     },
     {
-     "text": "存覚の『袖日記』によれば、建長7年（1255年）に朝円が親鸞の肖像画を描き、それを「参河国安城照空房」が所蔵していたとされ、この肖像は「安静御影（安城御影）」と呼ばれることから、鎌倉時代初頭にはすでに安静（安城・安祥）の名が使われていたことが分かるという。",
+     "text": "親鸞の肖像画「安城御影」は法眼朝円に描かせたものといい、その一幅は建長7年（1255年）に専信房専海に与えられた。文和4年（1355年）の存覚の日記には、これを三河国安城の照空が持つと記され、このことから「安城御影」と呼ばれることとなった。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-anjo-wiki"
+      "upg-q4-anjo-zuroku"
      ]
     },
     {
@@ -1863,13 +2049,13 @@
      ]
     },
     {
-     "text": "安祥城は嘉吉元年（1440年）に畠山一族の和田親平によって築城され、文明3年（1471年）に松平信光が攻め取って三男の親忠を置き、以後は安祥松平家（徳川本家）の本拠となった。",
+     "text": "文明3年（1471年）に松平信光が安祥城を攻略し、子の親忠に与えた。以後は安祥松平家の本拠となった。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-anjo-wiki",
-      "v5-anjo-city-history"
+      "v5-anjo-city-history",
+      "upg-q4-anjo-apec"
      ]
     },
     {
@@ -1913,7 +2099,9 @@
    ],
    "unknowns": [
     "「安祥」の語源（安祥寺の荘園説）は一説の域を出ず、専門辞典での確認はできなかった。",
-    "『袖日記』の該当記述は二次資料経由の確認にとどまり、原典は未読である。"
+    "『袖日記』の該当記述は二次資料経由の確認にとどまり、原典は未読である。",
+    "安祥城の築城時期と築城主（嘉吉元年（1440年）・和田親平とされる）については、安城市の公式説明でも築城時期は明らかでないとされており、確定できなかった。",
+    "城の名称について、安城市の公式説明ではもとは安城城と呼ばれたとされ、「安祥」の地名から城名が採られたとする説明は強い出典では確認できなかった。"
    ],
    "updated": "2026-11-13"
   },
@@ -2052,10 +2240,10 @@
     {
      "text": "尾張旭市は昭和45年（1970年）12月1日、東春日井郡旭町が市制を施行し、愛知県下27番目の市として発足した。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-owariasahi-wiki"
+      "upg-q4-owariasahi-50th"
      ]
     },
     {
@@ -2070,10 +2258,10 @@
     {
      "text": "前身の旭村は明治39年（1906年）に印場村・新居村・八白村が合併して成立し、昭和23年（1948年）に町制を施行して旭町となった。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-owariasahi-wiki"
+      "upg-q4-owariasahi-enkaku"
      ]
     },
     {
@@ -2279,37 +2467,38 @@
     {
      "text": "戦国時代、岩倉城は織田伊勢守家の居城として尾張北部の中心であったが、永禄2年（1559年）に織田信長に攻められて落城した。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-iwakura-wiki"
+      "upg-q4-iwakura-shinkiso",
+      "upg-q4-iwakura-kazutoyo"
      ]
     },
     {
      "text": "岩倉城の落城の際、後に土佐藩主となった山内一豊の父・盛豊が落命したと言われており、岩倉は山内一豊ゆかりの地とされる。",
      "kind": "legend",
-     "level": "E5",
+     "level": "E2",
      "status": "indeterminate",
      "sources": [
-      "v5-iwakura-wiki"
+      "upg-q4-iwakura-kazutoyo"
      ]
     },
     {
      "text": "岩倉町は明治25年（1892年）に岩倉村が町制を施行して発足し、明治39年（1906年）に豊秋村・島野村・幼村（一部を除く）と合併して改めて岩倉町となった。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-iwakura-wiki"
+      "upg-q4-iwakura-shinkiso"
      ]
     },
     {
      "text": "岩倉町は昭和46年（1971年）12月1日に単独で市制を施行し、岩倉市が発足した。",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v5-iwakura-wiki"
+      "upg-q4-iwakura-kouhou"
      ]
     },
     {
@@ -2522,10 +2711,11 @@
     {
      "text": "読みの変更後もJR東海道本線の幸田駅の駅名は「こうだ」のままであり、町名と駅名で読みが食い違う状態が続いている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x6-kota-wiki"
+      "upg-q12-kota-jr",
+      "x6-kota-nenpyo"
      ]
     },
     {
@@ -2597,12 +2787,12 @@
      ]
     },
     {
-     "text": "明治22年（1889年）の町村制施行で、富島新田・富崎新田など多数の新田を合わせて海西郡彌富村が発足した",
+     "text": "明治22年（1889年）の町村制施行で、海西郡彌富村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-yatomi-wiki"
+      "v6-yatomi-city"
      ]
     },
     {
@@ -2706,12 +2896,12 @@
      ]
     },
     {
-     "text": "市名は公募により、「愛知県の西部に位置する」ことから「愛西市」となったと説明される",
+     "text": "市名は公募により選ばれたもので、合併協議会の資料では、候補「愛西市」の名称の理由として「愛知県の海部郡の西部に位置する」ことが挙げられている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E1",
      "status": "established",
      "sources": [
-      "v6-aisai-wiki"
+      "v6-aisai-kyogi13"
      ]
     },
     {
@@ -2726,10 +2916,10 @@
     {
      "text": "候補10作品の投票では過半数を得たものがなく、比較上位の「愛西市」と「海西市」による決選投票の結果、「愛西市」に決定した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E1",
      "status": "established",
      "sources": [
-      "v6-aisai-wiki"
+      "upg-q3-aisai-tayori"
      ]
     },
     {
@@ -2742,21 +2932,21 @@
      ]
     },
     {
-     "text": "旧佐屋町一帯は、江戸時代に三里の渡しの湊があり、佐屋街道と佐屋代官所が置かれて交通の要衝だった",
+     "text": "旧佐屋町一帯は、古くは佐屋路（佐屋海道）の主駅として佐屋湊をひかえ、桑名への「三里の渡し」の起点でもあり、海東・海西両郡を所管した佐屋代官所が置かれて交通の要衝だった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v6-aisai-wiki"
+      "upg-q3-saya-taikei"
      ]
     },
     {
-     "text": "愛西市は愛知県の西端に位置し、市域の一部は木曽川の西岸にも及んでいる",
+     "text": "愛西市は愛知県の西部に位置し、西は木曽川・長良川を挟んで岐阜県・三重県に接している",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-aisai-wiki"
+      "upg-q3-aisai-midori"
      ]
     },
     {
@@ -2835,12 +3025,12 @@
      ]
     },
     {
-     "text": "1889年（明治22年）の町村制では高雄村・山名村・豊国村・柏森村の4村に分かれており、1906年にこれらが合併して扶桑村となった",
+     "text": "1906年（明治39年）に高雄村・山名村・豊国村・柏森村の4村が合併して扶桑村となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x6-fuso-wiki"
+      "upg-q12-fuso-enkaku"
      ]
     },
     {
@@ -3044,13 +3234,12 @@
      ]
     },
     {
-     "text": "軍艦「日進」は、アルゼンチンが発注してイタリアで建造された装甲巡洋艦を日本が購入したもので、1903年に進水し、翌1904年に日本へ廻航されて日露戦争で活躍し、名古屋にも来港したとされる",
+     "text": "軍艦「日進」は、イタリアで建造中だったアルゼンチンの軍艦「モレノ」を日本が購入して改名したもので、1904年に日本へ回航され、日露戦争に参加した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-nisshin-wiki",
-      "v6-nisshin-cruiser-wiki"
+      "upg-q3-mofa-nisshin"
      ]
     },
     {
@@ -3146,12 +3335,12 @@
      ]
     },
     {
-     "text": "江戸時代の初め、現在の市域の西半分にあたる一帯は「春日井原」と呼ばれる荒野だった",
+     "text": "江戸時代の初めごろまで、現在の勝川付近一帯には「春日井原」と呼ばれる茅（カヤ）の原野が広がっていた。寛文4年（1664年）に新木津用水が引かれて以降、しだいに開田されていった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "l3-kasugai-weblio"
+      "upg-q11-kasugai-britannica"
      ]
     },
     {
@@ -3266,12 +3455,12 @@
      ]
     },
     {
-     "text": "本郷村は1921年（大正10年）に町制を施行して本郷町となり、1955年の合併まで大千瀬川沿いの地域の中心であった",
+     "text": "本郷村は1921年（大正10年）に町制を施行して本郷町となり、1955年の合併まで続いた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x6-toei-hongo-wiki"
+      "upg-q12-toei-geoshape"
      ]
     },
     {
@@ -3734,10 +3923,10 @@
     {
      "text": "町内には浦島太郎伝説が伝わり、「浦島」「竜宮」「乙姫橋」などの地名が残っている",
      "kind": "legend",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "x7-taketoyo-wiki"
+      "upg-q9-taketoyo-urashima"
      ]
     },
     {
@@ -3928,12 +4117,13 @@
      ]
     },
     {
-     "text": "津島湊は天明5年（1785）に天王川が築留められたことで埋め立てられ、湊町としての機能を失った",
+     "text": "津島湊のあった天王川は、天明5年（1785年）の築留工事で上流の萩原川（足立川）から切り離され、津島湊は湊町としての機能を失った",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "n5-tsushima-wiki"
+      "upg-q12-tsushima-kotobank",
+      "upg-q12-tsushima-aichi"
      ]
     },
     {
@@ -4121,7 +4311,7 @@
    "formation": "単独発足",
    "prefecture": "愛知県",
    "homonyms": [],
-   "summary": "市名は旧瀬戸村・瀬戸町以来の地名「瀬戸」を継ぐ。「瀬戸」は応永6年（1399）の文書に初見する中世以来の地名で、語源は定まっておらず、山間の狭い場所をいう「迫所（せと）」とする説、陶器の産地「陶所（すえどころ）」が転じたとする説などが専門辞典に併記される。瀬戸は鎌倉時代に日本で唯一の施釉陶器の本格的な産地として知られ、その製品「瀬戸物」はやがて陶磁器一般を指す「せともの」という言葉になった。1929年に瀬戸町が市制を施行して瀬戸市となった。",
+   "summary": "市名は旧瀬戸村・瀬戸町以来の地名「瀬戸」を継ぐ。「瀬戸」は応永6年（1399）の文書に初見する中世以来の地名で、語源は定まっておらず、山間の狭い場所をいう「背戸（せと）」とする説、陶器の産地「陶所（すえどころ）」が転じたとする説などが伝えられる。瀬戸は鎌倉時代に日本で唯一の施釉陶器の本格的な産地として知られ、その製品「瀬戸物」はやがて陶磁器一般を指す「せともの」という言葉になった。1929年に瀬戸町が市制を施行して瀬戸市となった。",
    "first_attestation": {
     "era": "室町時代",
     "year_western": 1399,
@@ -4139,12 +4329,12 @@
      ]
     },
     {
-     "text": "『角川日本地名大辞典 23 愛知県』は「瀬戸」の由来として、海路で磯近くの山島の間をいうとする説、陶所（すえどころ）が転じたとする説、山間の狭い所を迫所（せと）というとする説などを挙げており、語源は定まっていない",
+     "text": "「瀬戸」の語源は定まっておらず、陸地の通路が狭く谷と谷が向かい合わせた土地をいう「背戸」に由来するとする説や、「陶所（すえと）」が転じたとする説などが伝えられる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "n5-seto-wiki"
+      "upg-q12-seto-rokkoyo"
      ]
     },
     {
@@ -4407,29 +4597,28 @@
     {
      "text": "昭和30年（1955年）1月1日に、田原町・神戸村・野田村が合併して田原町が生まれた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-tahara-uub"
+      "upg-q3-aichi-henkaku"
      ]
     },
     {
-     "text": "平成15年（2003年）8月20日に、田原町が赤羽根町を編入して市制を施行し、田原市が発足した（愛知県32番目の市）",
+     "text": "平成15年（2003年）8月20日に、田原町が赤羽根町を編入して市制を施行し、田原市が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-tahara-uub",
-      "v6-tahara-wiki"
+      "upg-q3-tahara-gikai"
      ]
     },
     {
-     "text": "平成17年（2005年）10月1日に渥美町を編入し、渥美半島のほぼ全域が田原市となった",
+     "text": "平成17年（2005年）10月1日に渥美町を編入合併し、「新田原市」が誕生した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-tahara-uub"
+      "upg-q3-tahara-gikai"
      ]
     },
     {
@@ -4489,19 +4678,20 @@
     {
      "text": "藤原宮から出土した木簡に「辛卯年（691年）十月 尾治国知多評」とあり、7世紀末の段階で「知多」の名と知多評の存在が確認できる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-chita-gun-wiki"
+      "upg-q3-mokkanko"
      ]
     },
     {
-     "text": "大宝元年（701年）に評が郡へ移行して知多郡となり、『延喜式』には「知多郡」、『和名類聚抄』には「智多郡」と表記される",
+     "text": "大宝元年（701年）に評が郡へ移行して知多郡となり、大宝2年（702年）の木簡にはすでに「尾治国知多郡」とある。なお「智多郡」の表記も木簡に見える",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v6-chita-gun-wiki"
+      "upg-q3-mokkanko",
+      "upg-q3-chita-gun-taikei"
      ]
     },
     {
@@ -4523,12 +4713,12 @@
      ]
     },
     {
-     "text": "市名は、律令制下で知多郡に所属した地域であることに由来する",
+     "text": "市名は、知多半島（知多郡）の名をとって、昭和30年（1955年）の三町合併の際に付けられた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v6-chita-wiki"
+      "upg-q3-chita-shi-taikei"
      ]
     },
     {
@@ -4606,30 +4796,30 @@
    },
    "claims": [
     {
-     "text": "7世紀後半の木簡に「知利布（ちりふ）」とあり、8世紀の木簡には「知立」とあることが紹介されている",
+     "text": "古代の木簡には、「知利布（ちりふ）」または「知立」の表記が見える",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-chiryu-wiki"
+      "upg-q3-okazaki-machi"
      ]
     },
     {
      "text": "平安時代の『和名類聚抄』には、碧海郡の「智立」郷が見える",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v6-chiryu-wiki"
+      "upg-q3-chiryu-taikei"
      ]
     },
     {
-     "text": "地名は、知立神社を建てた伊知理生命（いちりゅうのみこと）にちなむという説がある",
+     "text": "地名は、知立神社の祭神といわれる伊知理生命（いちりゅうのみこと）の「知理生」からきたとする説があり、従来最も有力とされる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "indeterminate",
      "sources": [
-      "v6-chiryu-wiki"
+      "upg-q3-chiryu-taikei"
      ]
     },
     {
@@ -4651,12 +4841,12 @@
      ]
     },
     {
-     "text": "明治22年（1889年）に碧海郡知立町が発足し、明治39年（1906年）に上重原村・牛橋村・長崎村の一部と合併して改めて知立町となった",
+     "text": "明治22年（1889年）の町村制施行で碧海郡知立町が発足し、明治39年（1906年）に牛橋村・上重原村・長崎村と合併して改めて知立町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-chiryu-wiki"
+      "upg-q3-chiryu-masterplan"
      ]
     },
     {
@@ -4732,12 +4922,12 @@
      ]
     },
     {
-     "text": "市名「碧南」は、碧海郡の南部にあったことに由来する",
+     "text": "市名「碧南」は、旧碧海郡の南端に位置したことに由来し、古くから「碧南」と称呼されていた名が市名となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v6-hekinan-wiki"
+      "upg-q3-hekinan-taikei"
      ]
     },
     {
@@ -4750,30 +4940,32 @@
      ]
     },
     {
-     "text": "中心となった旧大浜町一帯は、古くは大浜郷と呼ばれ、海上交通の要衝として栄えた",
+     "text": "中心となった旧大浜町一帯は、『和名抄』の大浜郷に比定される地で、海上交通が早くから開けた土地だった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "v6-hekinan-wiki"
+      "upg-q3-hekinan-taikei"
      ]
     },
     {
-     "text": "碧海郡は昭和の市制施行とその後の合併で消滅し、旧郡域は碧南市・刈谷市・安城市・知立市・高浜市の5市（碧海5市）となっている",
+     "text": "碧海郡は、昭和の市制施行などで所属町村が順次離脱し、昭和45年（1970年）12月1日に知立町・高浜町が市制を施行して消滅した。郡の名は、碧南市・刈谷市・安城市・知立市・高浜市の5市を指す「碧海5市」の呼び名に残っている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-hekinan-wiki"
+      "v6-hekinan-koho",
+      "upg-q3-aichi-hekai",
+      "upg-q3-aichi-henkaku"
      ]
     },
     {
-     "text": "昭和30年（1955年）4月1日に、碧海郡明治村の一部を編入した",
+     "text": "昭和30年（1955年）4月1日に、碧海郡明治村大字西端地区を編入した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "v6-hekinan-uub"
+      "upg-q3-hekinan-tokei"
      ]
     },
     {
@@ -5109,30 +5301,30 @@
      ]
     },
     {
-     "text": "昭和29年（1954年）4月1日、蒲郡町・三谷町・塩津村が合併して蒲郡市が市制を施行した（愛知県で15番目の市）",
+     "text": "昭和29年（1954年）4月1日、蒲郡町・三谷町・塩津村が合併して蒲郡市が市制を施行した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "n6-gamagori-wiki"
+      "upg-q11-gamagori-museum-gappei"
      ]
     },
     {
      "text": "蒲郡の「蒲」のもとになった蒲形は、中世に蒲形荘として見える荘園名であり、歌人・藤原俊成が三河国司在任の頃に開発したとされる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "n6-gamagori-wiki"
+      "upg-q11-gamagori-museum-shunzei"
      ]
     },
     {
      "text": "藤原俊成が竹島に八百富神社を創建したという話は、当地に伝わる伝承として語られている",
      "kind": "legend",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "n6-gamagori-wiki"
+      "upg-q11-gamagori-museum-shunzei"
      ]
     },
     {
@@ -5176,7 +5368,6 @@
    ],
    "unknowns": [
     "「蒲形（かまがた）」という地名そのものの語源（蒲＝ガマの生える潟地に由来するという説など）は、『角川日本地名大辞典』『日本歴史地名大系』の該当項目で直接確認できなかった",
-    "蒲郡市の市制施行（1954年）の経緯について、市の公式サイトの沿革ページでの裏づけは取れていない（Wikipediaに拠った）",
     "蒲形荘の初出文献（何の文書にいつ見えるか）は未確認"
    ],
    "updated": "2026-11-13"
@@ -5223,28 +5414,30 @@
     {
      "text": "歴史上「カニエ」という地名が初めて文献に登場したのは1215年（建保3年）の「水野家文書」とされ、当時の蟹江は「蟹江郷」「富吉荘」と呼ばれていた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "indeterminate",
      "sources": [
-      "x7-kanie-wiki"
+      "x7-kanie-gaiyou"
      ]
     },
     {
      "text": "1889年（明治22年）10月1日、蟹江本町村・蟹江新町村・今村・西福田村の一部が合併して、最初から町制で蟹江町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x7-kanie-wiki"
+      "upg-q9-kanie-koho",
+      "upg-q9-kanie-geoshape"
      ]
     },
     {
-     "text": "1906年（明治39年）に須成村・西之森村・新蟹江村と合併し、1961年の永和村一部の編入で現在の町域がほぼ固まった",
+     "text": "1906年（明治39年）に須成村・西之森村・新蟹江村と合併し、1956年（昭和31年）の永和村一部の編入で現在の町域がほぼ固まった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x7-kanie-wiki"
+      "upg-q9-kanie-koho",
+      "upg-q9-kanie-geoshape"
      ]
     },
     {
@@ -5269,10 +5462,10 @@
     {
      "text": "平治の乱（1159年）で敗れた源義朝一行が東国へ落ち延びる途中この地に立ち寄り、漁民のもてなしを受けた島を「源氏島」と呼ぶようになったと伝えられる",
      "kind": "legend",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x7-kanie-wiki"
+      "upg-q9-kanie-museum13"
      ]
     },
     {
@@ -5379,19 +5572,20 @@
     {
      "text": "1953年（昭和28年）12月15日、西尾町を中心とする町村の合併により西尾市が発足し、市名は中心地の西尾町の名を受け継いだ",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x1-nishio-wikipedia"
+      "upg-q11-nishio-tokei2023",
+      "upg-q11-nishio-naritachi"
      ]
     },
     {
-     "text": "市制後、西尾は抹茶（西尾茶）の産地として全国的に知られるようになり、「西尾」の名は城下町の名であると同時に茶の産地名としても知られる",
+     "text": "西尾は抹茶（西尾茶）の産地として知られ、その生産量は全国トップクラスとされる。「西尾」の名は城下町の名であると同時に、茶の産地名としても知られる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x1-nishio-wikipedia"
+      "upg-q11-nishio-matcha"
      ]
     }
    ],
@@ -5698,10 +5892,10 @@
     {
      "text": "河川の豊川は古くは飽海川・吉田川とも呼ばれ、「住民を潤す豊かな川であるように」という願いから豊川と呼ばれるようになったと伝わる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "n6-toyokawa-river-wiki"
+      "upg-q11-toyokawa-mlit"
      ]
     },
     {
@@ -5714,21 +5908,23 @@
      ]
     },
     {
-     "text": "豊川の名は、旧国名の穂国（ほのくに）にちなむ「ほの川」が「ほうかわ」を経て転じたとする説もある",
+     "text": "豊川の名は、古名の穂の川（ほの川）がもとになったとする説もある",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "n6-toyokawa-river-wiki"
+      "upg-q11-toyokawa-mlit",
+      "upg-q11-toyokawa-city-chimei"
      ]
     },
     {
      "text": "河川名の公式の読みは「とよがわ」であるのに対し、市名・郷名の読みは清音の「とよかわ」で、宝飯郡豊川郷の読みを継承している",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "n6-toyokawa-river-wiki"
+      "upg-q11-toyokawa-mlit-toyohashi",
+      "upg-q11-toyokawa-city-chimei"
      ]
     },
     {
@@ -5826,30 +6022,31 @@
      ]
     },
     {
-     "text": "「豊明」の由来について、『豊明町誌』は宮中の年中行事「豊明節会（とよのあかりのせちえ）」から嘉字である「豊」と「明」の2文字を採って付けられたとする",
+     "text": "「豊明」の由来について、宮中の年中行事「豊明節会（とよのあかりのせちえ）」にちなんだ名であるとする説が伝えられる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "contested",
      "sources": [
-      "x1-toyoake-wikipedia"
+      "upg-q11-toyoake-chimei-taikei"
      ]
     },
     {
-     "text": "一方で、「豊明」は現在の名鉄前後駅付近にあった酒造業の屋号「豊倉」と、元号の「明治」から採られたとも伝えられており、町誌の説と併存している",
+     "text": "一方で、「豊明」は当時の酒造家の屋号「豊倉（豊倉屋）」の「豊」と、元号の「明治」の「明」から採られたとも伝えられており、豊明節会の説と併存している。豊明市の公式資料はこちらの説で地名を説明する",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "x1-toyoake-wikipedia"
+      "upg-q11-toyoake-shoko",
+      "upg-q11-toyoake-chimei-taikei"
      ]
     },
     {
      "text": "1972年（昭和47年）8月1日に市制を施行して豊明市となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x1-toyoake-wikipedia"
+      "upg-q11-toyoake-shoko"
      ]
     },
     {
@@ -5862,12 +6059,12 @@
      ]
     },
     {
-     "text": "市西部の地名「前後」は「ぜんご」と読み、江戸時代はじめに親村の間米（まごめ）から見て南（前）に位置したため「前郷」と呼ばれたものが転じたと、市生涯学習課は説明する",
+     "text": "市西部の地名「前後」は「ぜんご」と読み、『豊明市史』によれば、寛文年間のころ、親村・間米村の南にあった枝郷の五軒屋が「前郷」と呼ばれるようになり、のちに「前後」と表記されるようになったものが転じたとされる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "x1-toyoake-wikipedia"
+      "upg-q11-toyoake-crd-zengo"
      ]
     }
    ],
@@ -5962,12 +6159,12 @@
      ]
     },
     {
-     "text": "人口は愛知県の自治体の中で最も少なく、1,000人を下回る県内唯一の自治体である",
+     "text": "人口は愛知県の自治体の中で最も少なく、1,000人を下回る県内唯一の自治体である（愛知県人口動向調査の2025年10月1日現在の推計で857人）",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x7-toyone-wiki"
+      "upg-q9-toyone-jinko"
      ]
     },
     {
@@ -6198,12 +6395,12 @@
      ]
     },
     {
-     "text": "新市名「豊田」は、市内に本社を置くトヨタ自動車と、同社の創業者一族の姓「豊田（とよだ）」に由来するとされる。古代以来の「挙母」に愛着を持つ市民も多く、改称の賛否で一時は市を二分するほどの論議があった",
+     "text": "新市名「豊田」は、市内に本社を置くトヨタ自動車（当時はトヨタ自動車工業）の会社名をとったもので、同社の名は創業者一族の姓「豊田（とよだ）」に由来する",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "k3-toyota-wikipedia"
+      "upg-q5-toyota-kotobank"
      ]
     },
     {
@@ -6547,10 +6744,10 @@
     {
      "text": "1889年（明治22年）に飛島新田・服岡新田・政成新田が合併して、現在の飛島村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x7-tobishima-wiki"
+      "x7-tobishima-gaiyo"
      ]
     },
     {

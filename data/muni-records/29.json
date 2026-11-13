@@ -308,10 +308,6 @@
    "label": "広陵町公式「広陵町 地名の由来」（『広陵町史』参照。「広」は広陵町及び河合町一帯がかつて広瀬郡だったため、「陵」は馬見丘陵地帯であることに由来すること、「広陵」の地名は馬見町・瀬南村・百済村の組合立中学校「広陵中学校」の名称として初めて登場し、昭和30年4月15日に3町村が合併して広陵町となったこと）",
    "url": "https://www.town.koryo.nara.jp/0000005275.html"
   },
-  "q2-koryo-wiki": {
-   "label": "Wikipedia「広陵町」（1955年4月15日に馬見町・瀬南村・百済村が合併して発足し、1956年9月1日に箸尾町を編入した沿革、町名は広瀬郡の「広」と丘陵地帯の「陵」による広陵中学校の校名に由来すること）",
-   "url": "https://ja.wikipedia.org/wiki/広陵町"
-  },
   "q2-mitsue-green": {
    "label": "国立研究開発法人森林研究・整備機構 森林整備センター「奈良県御杖村」（村名は古書『日本書紀』に出てくる倭姫命が天照大神の鎮座地を探す御杖代として旅をし、この地を候補地の証として自らの杖を残した伝説に由来すること、明治22年に旧桃俣・土屋原・菅野・神末の4か村が合併したこと）",
    "url": "https://www.green.go.jp/suigenrin_jigyo/jirei50sen/jirei50_30"
@@ -363,6 +359,246 @@
   "q3-takatori-wiki": {
    "label": "Wikipedia「高取町」（『日本書紀』天武天皇5年（676年）に高取山周辺の森林伐採を禁止する記述が見られると紹介すること、古代に高市郡波多郷があったこと、1889年の高取村発足・1891年の町制施行・1954年の合併の沿革、高取城が日本三大山城の一つに数えられること）",
    "url": "http://ja.wikipedia.org/wiki/高取町"
+  },
+  "upg-q1-ando-akunami": {
+   "label": "『日本歴史地名大系』「飽波郷・飽波郡」（コトバンク。飽波郷は大和国平群郡の郷で、『和名類聚抄』に「阿久奈美」と訓じられること）",
+   "url": "https://kotobank.jp/word/%E9%A3%BD%E6%B3%A2%E9%83%B7%E9%A3%BD%E6%B3%A2%E9%83%A1-3081172"
+  },
+  "upg-q1-ando-mie-guide": {
+   "label": "三重県「ウォーキングガイド」安堵町コース（安堵町歴史民俗資料館の資料に基づき、奈良時代に安堵町域が「飽波郷」とよばれたこと）",
+   "url": "https://www.pref.mie.lg.jp/common/content/001155902.pdf"
+  },
+  "upg-q1-ando-sankei": {
+   "label": "産経新聞「全国で『3番目に小さい町』40周年記念式典」（2026年6月15日。大阪府忠岡町、奈良県三宅町に続いて全国3番目に小さい町（約4.31平方キロ）として知られること）",
+   "url": "https://www.sankei.com/article/20260615-NCX25U7C45NNZNRW4ZP5EHPUFU/"
+  },
+  "upg-q1-kamikitayama-geoshape": {
+   "label": "歴史的行政区域データセットβ版「奈良県吉野郡上北山村」（上北山村の有効期間が1889年4月1日からであること）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/29451A1968.html"
+  },
+  "upg-q1-kamikitayama-history": {
+   "label": "上北山村公式サイト「上北山村の歴史」（歴史年表に、明治8年12月に小瀬・橡本の両村を合併して小橡となったこと、明治15年2月に西野を西原、川合を河合に改めたこと、明治22年4月に北山郷上組4ヶ村をもって上北山村を設置したことが記される）",
+   "url": "https://www.vill.kamikitayama.nara.jp/kanko/shiru_rekishi_shizenn/rekishi/130.html"
+  },
+  "upg-q1-kanmaki-chimei": {
+   "label": "コトバンク『日本歴史地名大系』「上牧町」（明治22年〈1889年〉4月1日の町村制施行により葛下郡上牧村が成立し、昭和47年〈1972年〉12月1日に町制施行したこと）",
+   "url": "https://kotobank.jp/word/%E4%B8%8A%E7%89%A7%E7%94%BA-49655"
+  },
+  "upg-q1-kanmaki-geoshape": {
+   "label": "歴史的行政区域データセットβ版「奈良県北葛城郡上牧村」（上牧村の有効期間が1889年4月1日から1972年12月1日までであること）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/29424A1968.html"
+  },
+  "upg-q1-kanmaki-kataoka": {
+   "label": "上牧町片岡城跡活用検討委員会「町内に在する片岡城跡の活用に向けての答申」（上牧町、令和7年1月27日。片岡城跡は町北西部の下牧地区に所在し、片岡城は16世紀初めに片岡国春によって築城されたと伝えられること）",
+   "url": "https://www.town.kanmaki.nara.jp/material/files/group/16/tousin.pdf"
+  },
+  "upg-q1-kanmaki-zck": {
+   "label": "全国町村会サイト 上牧町長寄稿「奈良県上牧町」（町の公式紹介として、「上牧」の地名の起こりは、この地一帯がゆるやかな丘陵に抱かれ放牧に適しており、上の牧・下の牧があったところからと推測されると述べる）",
+   "url": "https://www.zck.or.jp/site/forum/16082.html"
+  },
+  "upg-q1-nara-haichi": {
+   "label": "奈良県統計年鑑「市町村の廃置分合・境界変更」（明治22年4月1日に町村制が施行されたこと、大正10年2月11日に吉野郡大淀村を大淀町としたこと、昭和27年7月1日に宇智郡大阿太村大字佐名伝を吉野郡大淀町に編入したこと、明治23年6月19日に吉野郡の東十津川村・西十津川村・南十津川村・北十津川村・十津川花園村・中十津川村を合併して十津川村としたこと、昭和31年9月30日に添上郡東山村・山辺郡波多野村・豊原村を廃して山辺郡山添村を置いたこと、昭和32年8月31日に山辺郡山添村大字水間・別所を添上郡田原村に編入したこと）",
+   "url": "https://www.pref.nara.lg.jp/documents/12717/n220103.pdf"
+  },
+  "upg-q1-nara-muni-data": {
+   "label": "奈良県「奈良県市町村データ」（令和7年度版付録。全39市町村の総面積を国土地理院「全国都道府県市区町村別面積調」により掲載し、十津川村672.38平方キロメートル、上北山村274.22平方キロメートル、川上村269.26平方キロメートルなど村の面積が全数確認できる）",
+   "url": "https://www.pref.nara.lg.jp/documents/12396/d-00-4hurokuokuduke.pdf"
+  },
+  "upg-q1-nara-suikei-r2": {
+   "label": "奈良県総務部知事公室統計分析課「奈良県推計人口年報」（令和2年10月1日現在。人口密度の低い市町村の上位として上北山村1.6人／平方キロメートルが最も低いことが示される）",
+   "url": "https://www.pref.nara.jp/secure/291787/r2-gaiyou01.pdf"
+  },
+  "upg-q1-oyodo-kouhou": {
+   "label": "大淀町広報「広報おおよど」2021年1月号 町制施行100周年企画特集（明治22年の町村制で桧垣本・土田・越部・畑屋・芦原・持尾・矢走・岩壺・鉾立・下渕・今木・薬水・大岩・増口・北六田・新野・馬佐・比曽・西増・中増の20村が合併して大淀村が発足したこと）",
+   "url": "http://www.town.oyodo.lg.jp/cmsfiles/contents/0000001/1171/kouhou_202101.pdf"
+  },
+  "upg-q1-shimoichi-kotobank": {
+   "label": "コトバンク 小学館『日本大百科全書（ニッポニカ）』・小学館『デジタル大辞泉』「下市」（下市は吉野川と秋野川の合流点付近に発達した市場町で、地名は吉野川上流の吉野町上市に対するものであること）",
+   "url": "http://kotobank.jp/word/%E4%B8%8B%E5%B8%82-524106"
+  },
+  "upg-q1-shimoichi-kotobank-machi": {
+   "label": "コトバンク ブリタニカ国際大百科事典小項目事典「下市〔町〕」（1890年町制、1956年に秋野・丹生の2村を編入したこと、古くから吉野地方の市場町として発展したこと）",
+   "url": "https://kotobank.jp/word/%E4%B8%8B%E5%B8%82%E7%94%BA-75329"
+  },
+  "upg-q1-shimokitayama-geoshape": {
+   "label": "歴史的行政区域データセットβ版「奈良県吉野郡下北山村」（下北山村の有効期間が1889年4月1日から現在まで一つの自治体として継続していること）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/29450A1968.html"
+  },
+  "upg-q1-shimokitayama-naraedu": {
+   "label": "西田和夫・菊地一郎・淡野明彦「小学校社会科学習指導のための山村地域の実態研究」（奈良教育大学紀要。北山川の谷は古来紀伊国牟婁郡に属し、その北部の山里であるところから北山郷と称せられ、北半の上流地域が上組、南半の下流地域が下組に分かれていたこと、1889年の町村制施行で上組は上北山村、下組は下北山村となったこと）",
+   "url": "https://nara-edu.repo.nii.ac.jp/record/9728/files/ier17_139-154.pdf"
+  },
+  "upg-q1-shimokitayama-sekaiisan": {
+   "label": "下北山村公式サイト「世界遺産1 前鬼の里」（2004年にユネスコ世界遺産に登録された「紀伊山地の霊場と参詣道」の大峯奥駈道が村内を通り、村内に18番目から42番目まで計25ヵ所の「靡」があること）",
+   "url": "https://www.vill.shimokitayama.nara.jp/kankou/sekaiisan1.html"
+  },
+  "upg-q1-tenkawa-kaso": {
+   "label": "天川村「天川村過疎地域持続的発展計画」（令和3年度〜令和7年度。明治22年の町村制施行と同時に、天川郷・三名郷の合体によって現在の天川村となったこと）",
+   "url": "https://www.vill.tenkawa.nara.jp/office/wp-content/uploads/2021/08/351ebbe1718a467f6e3accda3a98afc9.pdf"
+  },
+  "upg-q1-yamazoe-enkaku": {
+   "label": "山添村公式サイト「沿革」（昭和31年9月30日に添上郡東山村・山辺郡波多野村・豊原村の3村が合併して山添村が発足したこと）",
+   "url": "https://www.vill.yamazoe.nara.jp/life/about/enkaku"
+  },
+  "upg-q1-yoshino-kamiichi": {
+   "label": "コトバンク『日本歴史地名大系』「上市村」（中世、対岸の飯貝本善寺の門前にあたる吉野川の中州に市場が発生して吉野地方の重要交易地となったこと、『石山本願寺日記』天文5年〈1536年〉の条に「大和吉野上市・下市」とあるのが文献上の初見であること）",
+   "url": "https://kotobank.jp/word/%E4%B8%8A%E5%B8%82%E6%9D%91-3050938"
+  },
+  "upg-q1-yoshino-kotobank": {
+   "label": "コトバンク 小学館『日本大百科全書（ニッポニカ）』「吉野」（吉野町は1928年〈昭和3年〉に町制施行し、1956年〈昭和31年〉に上市町と中竜門・竜門・中荘・国樔の4村と合併したこと、吉野川北岸の上市地区は市場町として発達した商業中心地で町役場があること）",
+   "url": "https://kotobank.jp/word/%E5%90%89%E9%87%8E-146196"
+  },
+  "upg-q10-azumino-yuko": {
+   "label": "安曇野市公式ホームページ「（友好都市）奈良県三郷町」（旧三郷村において同じ「三郷」という自治体名が縁で交流がはじまり、昭和61年10月18日に友好都市提携を結び、埼玉県三郷市を含めた3市町村による交流が行われてきたこと）",
+   "url": "https://www.city.azumino.nagano.jp/soshiki/6/199.html"
+  },
+  "upg-q10-gsi-menseki": {
+   "label": "国土地理院「全国都道府県市区町村別面積調」（2026年7月1日現在。三宅町の面積は4.06平方キロメートルであり、町の中では忠岡町（3.97平方キロメートル）に次いで小さく、奈良県内の市町村では最も小さいこと）",
+   "url": "https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20260701.pdf"
+  },
+  "upg-q10-heguri-kotobank": {
+   "label": "『日本歴史地名大系』「平群郡」（コトバンク。大和国の平群郡は現生駒郡を中心に生駒市・大和郡山市などにまたがって存在した郡であること）",
+   "url": "https://kotobank.jp/word/平群郡-118571"
+  },
+  "upg-q10-misato-yuko": {
+   "label": "三郷市公式サイト「三郷の友好都市」（奈良県三郷町とは昭和61年10月18日に友好都市提携を調印したこと、長野県三郷村（現安曇野市）と三郷町を迎えた3市町村で締結したこと）",
+   "url": "https://www.city.misato.lg.jp/shiseijoho/koryu_koikirenkei/yukotoshi/6730.html"
+  },
+  "upg-q10-miyake-guide": {
+   "label": "三宅町ガイドブック「歴史と愛の町」（旧国名がついた地名を「国号地名」といい、三宅町内には石見・三河・但馬の3つの国号地名が残っていること）",
+   "url": "https://www.town.miyake.lg.jp/uploaded/attachment/1399.pdf"
+  },
+  "upg-q10-miyake-koho": {
+   "label": "三宅町広報誌「みやけ」2024年10月号・町制施行50周年特集（三宅町は古墳時代から大和朝廷の直轄地「屯倉（みやけ）」として栄えたこと、1889年に式下郡の伴堂村・但馬村・上但馬村・小柳村・屏風村・三河村・石見村の区域を統合して三宅村が発足し、1974年4月1日に町制が施行され三宅町が誕生したこと）",
+   "url": "https://www.town.miyake.lg.jp/uploaded/attachment/3807.pdf"
+  },
+  "upg-q10-miyake-plan": {
+   "label": "三宅町「三宅町総合計画」（2018年3月。4世紀頃に町域がヤマト王権の直轄領である屯倉（みやけ）となり、町の「みやけ」はこの屯倉を指すといわれること、明治22（1889）年4月1日に三宅村が成立し、昭和49（1974）年4月1日に町制が施行され三宅町となったこと、面積4.06平方キロメートルで奈良県内で最も小さなまちであり全国でも2番目に小さいこと）",
+   "url": "https://www.town.miyake.lg.jp/uploaded/attachment/1813.pdf"
+  },
+  "upg-q10-nara-henko": {
+   "label": "奈良県「市町村の廃置分合・境界変更」（昭和41年4月1日に生駒郡三郷村を三郷町としたこと、昭和49年4月1日に磯城郡三宅村を三宅町としたこと）",
+   "url": "https://www.pref.nara.lg.jp/documents/12643/n250103.pdf"
+  },
+  "upg-q10-sango-kotobank": {
+   "label": "『日本歴史地名大系』「三郷町」（コトバンク。明治22年4月1日の町村制施行により平群郡の三ヵ村が合併して三郷（みさと）村が成立したこと、明治30年4月1日に平群郡と添上郡が合併し生駒郡となったため生駒郡三郷村となったこと、「さんごう」と呼ばれるようになり昭和41年4月1日に三郷（さんごう）町として町制を施行したこと）",
+   "url": "https://kotobank.jp/word/三郷町-183876"
+  },
+  "upg-q10-sango-rekishi": {
+   "label": "三郷町公式ホームページ「三郷町の歴史」（明治22年に立野・勢野・南畑の三村で三郷村となったこと、昭和41年に三郷村が三郷町になったこと）",
+   "url": "https://www.town.sango.nara.jp/soshiki/3/2290.html"
+  },
+  "upg-q10-sango-tatsuta": {
+   "label": "三郷町公式ホームページ「龍田大社」（祭神の別名を龍田風神といい、延喜の制では名神大社に列したこと、所在地は三郷町立野南であること）",
+   "url": "https://www.town.sango.nara.jp/site/kanko/1381.html"
+  },
+  "upg-q12-nosegawa-estat": {
+   "label": "総務省「e-Stat」社会・人口統計体系 市区町村データ（統計表ID 0000020201、令和2年国勢調査人口。全1,741市区町村のうち野迫川村（357人）より人口が少ないのは青ヶ島村・御蔵島村・利島村・渡名喜村・粟島浦村のいずれも離島の村のみであることを全数確認）",
+   "url": "https://www.e-stat.go.jp/dbview?sid=0000020201"
+  },
+  "upg-q12-nosegawa-geoshape": {
+   "label": "歴史的行政区域データセットβ版（Geoshapeリポジトリ）「奈良県吉野郡野迫川村」（野迫川村の有効期間を1889年4月1日から現在までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/29447A1968.html"
+  },
+  "upg-q12-nosegawa-plan": {
+   "label": "野迫川村公式「野迫川村総合計画2020 後期基本計画・第3期総合戦略」（令和2年国勢調査による本村の総人口は357人であること）",
+   "url": "https://www.vill.nosegawa.nara.jp/material/files/group/2/smileplan_2020_2.pdf"
+  },
+  "upg-q12-takatori-jo": {
+   "label": "奈良県公式「高取城」（奈良県いかす・なら「ならの城」。高取城は岡山の備中松山城、岐阜の美濃岩村城とともに日本三大山城の一つに数えられていること）",
+   "url": "https://www.pref.nara.lg.jp/ikasu-nara/naranoshiro/takatorijo/index.html"
+  },
+  "upg-q12-takatori-kotobank": {
+   "label": "コトバンク「高取町」（平凡社『日本歴史地名大系』。明治22年4月1日の町村制施行により高市郡の一町七村が合併して高取村が発足したこと）",
+   "url": "https://kotobank.jp/word/%E9%AB%98%E5%8F%96%E7%94%BA-92655"
+  },
+  "upg-q12-takatori-nara": {
+   "label": "奈良県「市町村の廃置分合・境界変更」（明治24年6月3日に高市郡高取村を高取町としたこと、昭和29年10月1日に高取町・船倉村・越智岡村を廃し高取町を置いたこと）",
+   "url": "https://www.pref.nara.lg.jp/documents/12565/n010103.pdf"
+  },
+  "upg-q12-takatori-ndlref": {
+   "label": "国立国会図書館レファレンス協同データベース事例「波多郷の範囲がどこなのかを詳しく知りたい。」（奈良県立図書情報館。『日本歴史地名大系』「波多郷」は現高市郡高取町南部が郷域と考えられるとし、『角川日本地名大辞典』は高取町上子島・下子島および羽内を含む地域とすること）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000319260"
+  },
+  "upg-q7-asuka-kotobank": {
+   "label": "コトバンク 日本歴史地名大系「飛鳥」・改訂新版世界大百科事典「飛鳥」（語源については賀茂真淵・伴信友らはイスカの鳥名に結び付け、その群棲地と考証したこと、「飛鳥」の表記はアスカにかかる枕詞「飛ぶ鳥の」によるという説があること、大和の飛鳥とは別に河内南部にも飛鳥の地名があり、大和の「遠つ飛鳥」に対して「近つ飛鳥」と呼んだこと）",
+   "url": "https://kotobank.jp/word/%E9%A3%9B%E9%B3%A5-25452"
+  },
+  "upg-q7-heguri-kotobank": {
+   "label": "コトバンク「平群」（精選版日本国語大辞典は平群郡を「古代豪族平群氏の根拠地」とし、明治30年（1897年）に添下郡と合併して生駒郡となったこと、改訂新版世界大百科事典は平群を「古代の豪族平群氏の本拠地」とすること）",
+   "url": "https://kotobank.jp/word/%E5%B9%B3%E7%BE%A4"
+  },
+  "upg-q7-heguri-kotobank-cho": {
+   "label": "コトバンク 日本歴史地名大系「平群町」（明治22年（1889年）4月1日の町村制施行により平群郡の20ヵ村が合併して明治村として発足したが、県内に明治村が二村あったため明治29年9月1日に平群村と改称したこと）",
+   "url": "https://kotobank.jp/word/%E5%B9%B3%E7%BE%A4%E7%94%BA-129266"
+  },
+  "upg-q7-heguri-kotobank-go": {
+   "label": "コトバンク 日本歴史地名大系「平群郷」（大和国の平群郷は『大和志』に「今曰平群谷」とあり、平群川（竜田川）周辺と考えられること）",
+   "url": "https://kotobank.jp/word/%E5%B9%B3%E7%BE%A4%E9%83%B7-3081173"
+  },
+  "upg-q7-ikoma-kotobank-jinja": {
+   "label": "コトバンク 日本歴史地名大系「往馬坐伊古麻都比古神社」（『延喜式』神名帳平群郡の「往馬坐伊古麻都比古神社二座並大、月次新嘗」とされる式内社で、現生駒市壱分町に鎮座すること）",
+   "url": "https://kotobank.jp/word/%E5%BE%80%E9%A6%AC%E5%9D%90%E4%BC%8A%E5%8F%A4%E9%BA%BB%E9%83%BD%E6%AF%94%E5%8F%A4%E7%A5%9E%E7%A4%BE-3081301"
+  },
+  "upg-q7-kashihara-kotobank": {
+   "label": "コトバンク 日本歴史地名大系「橿原」（『古事記』神武天皇段に「畝火の白檮原（かしはら）」とみえること、「畝火山之北方白檮尾（かしのをのへ）」の白檮尾は橿生（かしふ）のことであること（古事記伝））",
+   "url": "https://kotobank.jp/word/%E6%A9%BF%E5%8E%9F-462151"
+  },
+  "upg-q7-kashihara-kotobank-miya": {
+   "label": "コトバンク 山川日本史小辞典 改訂新版「畝傍橿原宮」（宮名は白橿の原野であったことに由来するといわれること、『古事記』では畝火之白檮原宮とあること）",
+   "url": "https://kotobank.jp/word/%E7%95%9D%E5%82%8D%E6%A9%BF%E5%8E%9F%E5%AE%AE-441123"
+  },
+  "upg-q7-koryo-kotsu-plan": {
+   "label": "広陵町公式「広陵町地域公共交通網形成計画」（大都市圏からの市街化の波により昭和49年から真美ヶ丘ニュータウンの開発を進めるなど住宅都市としての一面を持つようになったこと、人口および世帯数は年々増加の状態が続いていること）",
+   "url": "https://www.town.koryo.nara.jp/cmsfiles/contents/0000000/581/13-3.pdf"
+  },
+  "upg-q7-koryo-sdgs-plan": {
+   "label": "広陵町公式「広陵町SDGs未来都市計画」（隣接する香芝市に跨って真美ヶ丘ニュータウンを形成し、大阪市から直線距離で25kmという条件もありベッドタウンとして発展してきたこと）",
+   "url": "https://www.town.koryo.nara.jp/cmsfiles/contents/0000003/3473/SDGskeikaku.pdf"
+  },
+  "upg-q7-koryo-town-profile": {
+   "label": "広陵町公式「広陵町プロフィール」（町村合併は昭和30年4月15日に旧馬見町・瀬南村・百済村で町制施行、編入合併は昭和31年9月1日に旧箸尾町であること）",
+   "url": "https://www.town.koryo.nara.jp/0000000140.html"
+  },
+  "upg-q7-oji-kotobank-cho": {
+   "label": "コトバンク 日本歴史地名大系「王寺町」（明治22年（1889年）4月1日の町村制施行により葛下郡の二村が合併して王寺村となり、明治30年4月1日に北葛城郡王寺村となったこと）",
+   "url": "https://kotobank.jp/word/%E7%8E%8B%E5%AF%BA%E7%94%BA-38678"
+  },
+  "upg-q7-oji-kotobank-homuchi": {
+   "label": "コトバンク 日本歴史地名大系「品治郷」（大和国葛下郡の郷で、『和名抄』刊本に「保無智」と訓じ、『大和志』は現北葛城郡王寺町王寺一―三丁目付近に比定すること）",
+   "url": "https://kotobank.jp/word/%E5%93%81%E6%B2%BB%E9%83%B7-3081186"
+  },
+  "upg-q7-oji-town-plan": {
+   "label": "王寺町公式「王寺町歴史文化基本構想・王寺町文化財保存活用地域計画」（片岡王寺が王寺町の名の由来であると考えられていること、片岡王寺の創建者は敏達天皇の後裔にあたる氏族であるとの説が有力で渡来系の大原氏が創建したとする説もあり、聖徳太子が創建したという寺の一つにも数えられていること、明治9年に王寺村と門前村が合併し明治22年に藤井村と合併して王寺村が生まれたこと）",
+   "url": "https://www.town.oji.nara.jp/material/files/group/11/bunkazaichiikikeikakuHP.pdf"
+  },
+  "upg-q7-soni-kotobank-nuribe": {
+   "label": "コトバンク 日本歴史地名大系「漆部郷」（『和名抄』高山寺本・刊本ともに「奴利倍」と訓じ、『大和志』は「漆部郷今呼曾爾谷」として曾爾川沿いの八村、いずれも現宇陀郡曾爾村に比定すること）",
+   "url": "https://kotobank.jp/word/%E6%BC%86%E9%83%A8%E9%83%B7-3081191"
+  },
+  "upg-q9-katsuragi-glyph": {
+   "label": "葛城市公式サイト「葛の字の取り扱い」（市名の「葛」は官報告示された異体字の字体であること、平成15年の合併協議でパソコン表示の利便性からこの字体の採用が決まったこと）",
+   "url": "https://www.city.katsuragi.nara.jp/soshiki/hisho/20/3215.html"
+  },
+  "upg-q9-katsuragisan-gose": {
+   "label": "御所市公式観光サイト「葛城山」（大和葛城山の所在地を御所市櫛羅とし、葛城山頂を御所市の観光地として案内していること）",
+   "url": "https://www.city.gose.nara.jp/kankou/0000001449.html"
+  },
+  "upg-q9-makura-kcb": {
+   "label": "「古典の日」公式サイト「古典の日絵巻」（『枕草子』「市は」の段の本文「市はたつの市。さとの市。つば市、やまとにあまたあるなかに、長谷に詣づる人の、かならずそこ泊るは、観音の縁のあるにや、と心ことなり」と現代語訳を、小学館『新編日本古典文学全集』に準拠して掲載）",
+   "url": "https://www.hellokcb.or.jp/emaki/emaki14_9.pdf"
+  },
+  "upg-q9-takada-naraweb": {
+   "label": "奈良県立図書情報館「ならweb 奈良県の写真・大和高田市（年代順）」（写真提供：大和高田市。大正14年に高田―八木間が開通し、昭和4年に大軌高田駅、昭和16年に大和高田駅となったこと）",
+   "url": "https://www.library.pref.nara.jp/supporter/naraweb/yamatotakadasi-nendai.html"
+  },
+  "upg-q9-tsubaichi-nara": {
+   "label": "奈良県公式サイト「歩く・なら」記紀ルート09『始まり』を宿す、三輪山の麓へ（初瀬川畔の桜井市金屋の辺り一帯には「海柘榴市（つばいち）」と呼ばれる我が国最初の大きな市があったとされ、難波津からの船の終着地であり陸の交通の要衝でもあったことから多くの物資が集まり交易の中心として栄えたこと）",
+   "url": "https://www.pref.nara.lg.jp/miryoku/aruku/kikimanyo/route_kiki/k09/"
+  },
+  "upg-q9-tsubaichi-taikei": {
+   "label": "コトバンク「海柘榴市」（平凡社『日本歴史地名大系』。現在地名は桜井市大字金屋で、金屋集落北部に所在した古代の市であること、海柘榴市の名は椿が三輪山の代表的な喬木であったことから、その山沿いの市場に椿を植えたことによると考えられること、初見は『日本書紀』武烈天皇即位前紀の「海柘榴市の巷」であること。改訂新版世界大百科事典が、平安中期に長谷寺参詣のために灯明などを買い整えるところとして栄えたことが『枕草子』や『小右記』にみえることも併載）",
+   "url": "https://kotobank.jp/word/%E6%B5%B7%E6%9F%98%E6%A6%B4%E5%B8%82-572176"
   },
   "w1-misato-wiki": {
    "label": "Wikipedia「三郷市」（市名の由来として、「三」は東和村・彦成村・早稲田村の三つの村が合併したこと、「郷」はこの地域が昔から二郷半領と呼ばれていたことによると説明する）",
@@ -433,12 +669,13 @@
    },
    "claims": [
     {
-     "text": "現在の町域は古代の大和国城下郡三宅郷の地であり、倭屯倉（やまとのみやけ）に比定される",
+     "text": "三宅町総合計画は、4世紀頃に現在の町域がヤマト王権の直轄領である屯倉（みやけ）となり、町名の「みやけ」はこの屯倉を指すといわれると記している",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x12-miyake-wiki"
+      "upg-q10-miyake-plan",
+      "upg-q10-miyake-koho"
      ]
     },
     {
@@ -469,31 +706,33 @@
      ]
     },
     {
-     "text": "1889年（明治22年）4月1日、式下郡の伴堂村・但馬村・上但馬村・小柳村・屏風村・三河村・石見村の区域をもって三宅村が発足し、1897年に磯城郡へ移り、1974年（昭和49年）4月1日に町制を施行して三宅町となった",
+     "text": "1889年（明治22年）4月1日、式下郡の伴堂村・但馬村・上但馬村・小柳村・屏風村・三河村・石見村の区域をもって三宅村が発足し、1974年（昭和49年）4月1日に町制を施行して三宅町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x12-miyake-wiki"
+      "upg-q10-miyake-koho",
+      "upg-q10-miyake-plan",
+      "upg-q10-nara-henko"
      ]
     },
     {
-     "text": "町内や周辺には、石見・但馬など旧国名にちなむ地名が多い",
+     "text": "町内には、石見・三河・但馬の3つの国号地名（旧国名がついた地名）が残っている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x12-miyake-wiki"
+      "upg-q10-miyake-guide"
      ]
     },
     {
-     "text": "面積は約4.07平方キロメートルで、奈良県内で最も小さい市町村であり、全国の町の中でも2番目に小さい",
+     "text": "面積は4.06平方キロメートルで、奈良県内で最も小さい市町村であり、全国の町の中でも2番目に小さい",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x12-miyake-wiki",
-      "x12-miyake-mapion"
+      "upg-q10-gsi-menseki",
+      "upg-q10-miyake-plan"
      ]
     },
     {
@@ -556,10 +795,11 @@
     {
      "text": "1889年（明治22年）4月1日、町村制の施行により、平群郡の勢野村・立野村・南畑村の区域をもって三郷村（みさとむら）が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "x12-sango-wiki"
+      "upg-q10-sango-kotobank",
+      "upg-q10-sango-rekishi"
      ]
     },
     {
@@ -574,19 +814,20 @@
     {
      "text": "1897年（明治30年）4月1日、所属郡が平群郡から生駒郡に変更された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "x12-sango-wiki"
+      "upg-q10-sango-kotobank"
      ]
     },
     {
-     "text": "1966年（昭和41年）4月1日、町制を施行して三郷町となった際に、読みを「みさと」から「さんごう」へ変更した。理由は、近隣の磯城郡三宅村（こちらも8年後に町制施行）と聞き間違えられやすかったからであったとされる",
+     "text": "1966年（昭和41年）4月1日、町制を施行して三郷町となった。村の読みはもとは「みさと」だったが「さんごう」と呼ばれるようになっており、町制施行は「三郷（さんごう）町」として行われた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "x12-sango-wiki",
+      "upg-q10-sango-kotobank",
+      "upg-q10-nara-henko",
       "x12-sango-geoshape"
      ]
     },
@@ -603,19 +844,21 @@
     {
      "text": "1986年（昭和61年）10月18日、埼玉県三郷市、長野県三郷村（当時）とともに、「三郷」の地名を縁とする友好都市提携を結んだ",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "x12-sango-nagano-wiki"
+      "upg-q10-azumino-yuko",
+      "upg-q10-misato-yuko"
      ]
     },
     {
      "text": "町域は古代の大和国平群郡の地であり、風神を祀る龍田大社（延喜式名神大社）が鎮座する",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "x12-sango-wiki"
+      "upg-q10-heguri-kotobank",
+      "upg-q10-sango-tatsuta"
      ]
     },
     {
@@ -667,7 +910,7 @@
    "formation": "合併新設",
    "prefecture": "奈良県",
    "homonyms": [],
-   "summary": "吉野郡の村で、北山川の上流域にあたる。近世の広域名「北山郷」の上組（西野・小瀬・橡本・川合・白川）に発し、1889年にその区域をもって上北山村が発足した。下流側の下組から発足した下北山村と対をなす村名である。面積は奈良県の自治体で2番目に広く、人口密度は県内で最も小さい。",
+   "summary": "吉野郡の村で、北山川の上流域にあたる。近世の広域名「北山郷」の上組（西野・小瀬・橡本・川合・白川）に発し、1889年にその区域をもって上北山村が発足した。下流側の下組から発足した下北山村と対をなす村名である。面積は県内の村では十津川村に次いで広く、人口密度は県内で最も小さい。",
    "first_attestation": {
     "era": "江戸時代",
     "year_western": 1868,
@@ -687,19 +930,20 @@
     {
      "text": "1875年（明治8年）に小瀬村と橡本村が合併して小橡村となり、1882年（明治15年）に西野村が西原村、川合村が河合村へそれぞれ改称した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kamikitayama-wiki"
+      "upg-q1-kamikitayama-history"
      ]
     },
     {
      "text": "1889年（明治22年）4月1日、町村制の施行により、西原村・小橡村・河合村・白川村の区域をもって上北山村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kamikitayama-wiki"
+      "upg-q1-kamikitayama-history",
+      "upg-q1-kamikitayama-geoshape"
      ]
     },
     {
@@ -731,12 +975,13 @@
      ]
     },
     {
-     "text": "村の面積は奈良県内の自治体で2番目に広く、人口密度は県内で最も小さい",
+     "text": "村の面積は274.22平方キロメートルで、県内の村では十津川村に次いで広く、人口密度は県内で最も小さい",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kamikitayama-wiki"
+      "upg-q1-nara-muni-data",
+      "upg-q1-nara-suikei-r2"
      ]
     },
     {
@@ -809,10 +1054,10 @@
     {
      "text": "「上牧」の名の由来は、当町が緩やかな丘陵地帯で放牧に適した土地であったことからその名がついたとされている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kanmaki-wiki"
+      "upg-q1-kanmaki-zck"
      ]
     },
     {
@@ -845,19 +1090,20 @@
     {
      "text": "1972年（昭和47年）12月1日、上牧村が町制施行して上牧町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kanmaki-wiki"
+      "upg-q1-kanmaki-chimei",
+      "upg-q1-kanmaki-geoshape"
      ]
     },
     {
      "text": "戦国期には下牧地区に片岡城が築かれた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kanmaki-wiki"
+      "upg-q1-kanmaki-kataoka"
      ]
     },
     {
@@ -919,10 +1165,10 @@
     {
      "text": "現在の村域はもともと紀伊国牟婁郡に属しており、紀伊国北部の山里であることから北山郷と呼ばれ、上組と下組に分かれていた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-shimokitayama-wiki"
+      "upg-q1-shimokitayama-naraedu"
      ]
     },
     {
@@ -956,19 +1202,19 @@
     {
      "text": "村域は世界遺産「紀伊山地の霊場と参詣道」の構成要素を含む地域である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-shimokitayama-wiki"
+      "upg-q1-shimokitayama-sekaiisan"
      ]
     },
     {
      "text": "1889年の発足以来、市町村合併を経験していない",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-shimokitayama-wiki"
+      "upg-q1-shimokitayama-geoshape"
      ]
     },
     {
@@ -1060,11 +1306,10 @@
     {
      "text": "吉野川沿いには上流側に上市（現在の吉野町上市）、下流側に下市と、対になる市場町の名が残る。「下市」は下流に開かれた市にちなむ名と解される",
      "kind": "fact",
-     "level": "E5",
-     "status": "inferred",
+     "level": "E3",
+     "status": "established",
      "sources": [
-      "q1-yoshino-wiki",
-      "q1-shimoichi-wiki"
+      "upg-q1-shimoichi-kotobank"
      ]
     },
     {
@@ -1089,10 +1334,10 @@
     {
      "text": "1956年（昭和31年）に秋野村と丹生村を編入し、現在の町域となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q1-shimoichi-wiki"
+      "upg-q1-shimoichi-kotobank-machi"
      ]
     },
     {
@@ -1277,10 +1522,11 @@
     {
      "text": "1889年（明治22年）の町村制では北十津川村・十津川花園村・中十津川村・西十津川村・南十津川村・東十津川村の6村に分かれていた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-totsukawa-wiki"
+      "upg-q1-nara-haichi",
+      "q1-totsukawa-history"
      ]
     },
     {
@@ -1417,19 +1663,20 @@
     {
      "text": "1928年（昭和3年）に町制施行して吉野町となり、1956年（昭和31年）に上市町・中荘村・国樔村・龍門村・中龍門村と合併して、改めて吉野町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q1-yoshino-wiki"
+      "upg-q1-yoshino-kotobank"
      ]
     },
     {
      "text": "町役場のある上市は、かつて吉野川のほとりで開かれていた市に由来する地名で、下流の下市とともに吉野川沿いの市場町として栄えた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q1-yoshino-wiki"
+      "upg-q1-yoshino-kotobank",
+      "upg-q1-yoshino-kamiichi"
      ]
     },
     {
@@ -1598,7 +1845,7 @@
    ],
    "naming_type": "旧国名・広域地名の採用",
    "naming_note": "高田の地名に旧国名「大和」を冠称",
-   "formation": "分村・分立",
+   "formation": "単独発足",
    "prefecture": "奈良県",
    "homonyms": [],
    "summary": "「高田」は『日本書紀』武烈天皇3年条の「高田丘」の地といわれ、『和名抄』葛下郡蓼田郷にあたるとされる古い地名である。中世には当麻氏から分かれた高田氏が拠り、近世は市場町・宿場町として栄えた。昭和23年（1948年）の市制施行の際、既に市制を施行していた新潟県高田市との混同を避けるため、旧国名「大和」を冠して大和高田市となった。",
@@ -1646,12 +1893,12 @@
      ]
     },
     {
-     "text": "「大和高田」の名称自体は市制に先立ち、近鉄の「高田駅」が「大和高田駅」に改称された昭和16年（1941年）から使われていた",
+     "text": "「大和高田」の名称自体は市制に先立ち、鉄道の駅名として使われていた。大正14年（1925年）に開業した駅は昭和4年に「大軌高田駅」となり、昭和16年（1941年）に「大和高田駅」に改称された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "p5-takada-wiki"
+      "upg-q9-takada-naraweb"
      ]
     },
     {
@@ -1675,7 +1922,7 @@
    ],
    "column": {
     "title": "駅名が先、市名が後",
-    "text": "「大和高田」という名前は、市よりも駅のほうが先だった。1941年、近鉄の駅が「高田駅」から「大和高田駅」に改称され、県外の高田との取り違えを避ける工夫が鉄道で先行していたのである。7年後の1948年に市制を施行する際にも、すでに市だった新潟県高田市が存在したため、「大和」を略さずに付けた「大和高田市」が採用された。全国には陸前高田（岩手県）、豊後高田（大分県）、安芸高田（広島県）など「高田」の付く現行の市が複数あり、いずれも旧国名を冠して名乗る点で共通している。旧国名の冠称は、同名の地名どうしを区別する日本独特の命名法として定番になった。",
+    "text": "「大和高田」という名前は、市よりも駅のほうが先だった。1941年、駅の名前が「大和高田駅」に改称され、県外の高田との取り違えを避ける工夫が鉄道で先行していたのである。7年後の1948年に市制を施行する際にも、すでに市だった新潟県高田市が存在したため、「大和」を略さずに付けた「大和高田市」が採用された。全国には陸前高田（岩手県）、豊後高田（大分県）、安芸高田（広島県）など「高田」の付く現行の市が複数あり、いずれも旧国名を冠して名乗る点で共通している。旧国名の冠称は、同名の地名どうしを区別する日本独特の命名法として定番になった。",
     "sources": [
      "p5-takada-wiki"
     ]
@@ -1719,10 +1966,11 @@
     {
      "text": "1889年（明治22年）4月1日、町村制の施行により、檜垣本村・土田村・越部村・畑屋村・芦原村・持尾村・矢走村・岩壺村・鉾立村・下淵村・今木村・薬水村・大岩村・増口村・北六田村・新野村・馬佐村・比曽村・西増村・中増村の区域をもって大淀村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-oyodo-wiki"
+      "upg-q1-oyodo-kouhou",
+      "upg-q1-nara-haichi"
      ]
     },
     {
@@ -1746,19 +1994,19 @@
     {
      "text": "1921年（大正10年）2月11日、大淀村が町制施行して大淀町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-oyodo-wiki"
+      "upg-q1-nara-haichi"
      ]
     },
     {
      "text": "1952年（昭和27年）7月1日、宇智郡大阿太村の一部（大字佐名伝）を編入した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-oyodo-wiki"
+      "upg-q1-nara-haichi"
      ]
     },
     {
@@ -1818,12 +2066,13 @@
    },
    "claims": [
     {
-     "text": "1889年（明治22年）4月1日、町村制の施行により、旧天川郷・三名郷に属する24集落の区域をもって天川村が発足した",
+     "text": "1889年（明治22年）4月1日、町村制の施行により、旧天川郷・三名郷の区域をもって天川村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-tenkawa-wiki"
+      "upg-q1-tenkawa-kaso",
+      "upg-q1-nara-haichi"
      ]
     },
     {
@@ -2302,10 +2551,11 @@
     {
      "text": "現在の町域は、古代の大和国平群郡飽波郷（あくなみ）の地である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q1-ando-wiki"
+      "upg-q1-ando-akunami",
+      "upg-q1-ando-mie-guide"
      ]
     },
     {
@@ -2339,10 +2589,11 @@
     {
      "text": "町の面積は4.31平方キロメートルで、大阪府泉北郡忠岡町、奈良県磯城郡三宅町に次いで全国で3番目に小さい町である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "q1-ando-wiki"
+      "upg-q1-ando-sankei",
+      "upg-q1-nara-muni-data"
      ]
     },
     {
@@ -2402,10 +2653,11 @@
     {
      "text": "1956年（昭和31年）9月30日、添上郡東山村・山辺郡波多野村・豊原村が合併して山添村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-yamazoe-wiki"
+      "upg-q1-yamazoe-enkaku",
+      "upg-q1-nara-haichi"
      ]
     },
     {
@@ -2438,10 +2690,10 @@
     {
      "text": "1957年（昭和32年）8月31日、大字水間・別所を添上郡田原村に編入した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-yamazoe-wiki"
+      "upg-q1-nara-haichi"
      ]
     },
     {
@@ -2712,30 +2964,32 @@
      ]
     },
     {
-     "text": "現在の町域は古代の大和国平群郡平群郷の地であり、古代豪族・平群氏の本拠地であった",
+     "text": "平群川（竜田川）周辺は古代の大和国平群郡の平群郷に比定され、平群谷は古代豪族・平群氏の本拠地であった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q2-heguri-wiki"
+      "upg-q7-heguri-kotobank-go",
+      "upg-q7-heguri-kotobank"
      ]
     },
     {
      "text": "1889年（明治22年）4月1日、町村制の施行により平群郡の20か村の区域をもって「明治村」が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q2-heguri-wiki"
+      "upg-q7-heguri-kotobank-cho"
      ]
     },
     {
      "text": "1896年（明治29年）9月1日に明治村は「平群村」と改称し、翌1897年（明治30年）に所属郡が平群郡から生駒郡に変更された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q2-heguri-wiki"
+      "upg-q7-heguri-kotobank-cho",
+      "upg-q7-heguri-kotobank"
      ]
     },
     {
@@ -2831,19 +3085,20 @@
     {
      "text": "1956年（昭和31年）9月1日、広陵町は箸尾町を編入した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q2-koryo-wiki"
+      "upg-q7-koryo-town-profile"
      ]
     },
     {
-     "text": "町域の真美ヶ丘ニュータウンの開発により人口が急増し、合併当初の農村から大阪のベッドタウンへと姿を変えた",
+     "text": "大都市圏からの市街化の波を受け、昭和49年（1974年）から真美ヶ丘ニュータウンの開発が進められて人口が増え続け、大阪市から直線距離で約25キロメートルという立地もあって、町はベッドタウンとして発展した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q2-koryo-wiki"
+      "upg-q7-koryo-kotsu-plan",
+      "upg-q7-koryo-sdgs-plan"
      ]
     }
    ],
@@ -3226,12 +3481,12 @@
      ]
     },
     {
-     "text": "村の元の名称は「飛鳥村」であったが、1956年の合併により現在の「明日香村」になった",
+     "text": "合併前の構成村の一つは「飛鳥村」という名称で、1956年（昭和31年）の合併により、読みは「あすか」のまま表記を改めた「明日香村」となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q2-asuka-wiki"
+      "q2-asuka-village-70th"
      ]
     },
     {
@@ -3244,21 +3499,21 @@
      ]
     },
     {
-     "text": "「あすか」という読みの語源については、外来語に由来するという説や地形名称に由来するという説、冬鳥イスカに由来するという説、「スカ」は古語で神聖な意味を持つことから神聖なる土地を意味するという説などがあるが、はっきりしたことはわかっていない",
+     "text": "「あすか」の語源については、賀茂真淵・伴信友らが冬鳥イスカの群棲地に結びつけた説など諸説があり、「飛鳥」の表記はアスカにかかる枕詞「飛ぶ鳥の」によるという説もある",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "contested",
      "sources": [
-      "q2-asuka-chiiki-wiki"
+      "upg-q7-asuka-kotobank"
      ]
     },
     {
      "text": "古代、河内国の飛鳥は「近つ飛鳥（ちかつあすか）」、大和国の飛鳥は「遠つ飛鳥（とおつあすか）」と呼ばれて区別された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q2-asuka-chiiki-wiki"
+      "upg-q7-asuka-kotobank"
      ]
     },
     {
@@ -3347,12 +3602,12 @@
      ]
     },
     {
-     "text": "現在の村域と隣の御杖村の地域は、『和名抄』（和名類聚抄）に「宇陀郡漆部（ぬりべ）郷」として見える",
+     "text": "現在の村域は、『和名抄』（和名類聚抄）に「奴利倍」と訓じて見える大和国宇陀郡の漆部（ぬりべ）郷に比定される",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q2-mitsue-wiki"
+      "upg-q7-soni-kotobank-nuribe"
      ]
     },
     {
@@ -3556,30 +3811,32 @@
      ]
     },
     {
-     "text": "現在の桜井市金屋・粟殿付近には古代の交易市場「海柘榴市（つばいち）」があり、我が国最古の交易市場とされる",
+     "text": "現在の桜井市金屋付近には古代の交易市場「海柘榴市（つばいち）」があり、我が国最古の交易市場とされる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "p5-tsubaichi-blog"
+      "upg-q9-tsubaichi-nara",
+      "upg-q9-tsubaichi-taikei"
      ]
     },
     {
      "text": "海柘榴市の名は、三輪山の代表的な木である椿を市場に植えたために付けられたという",
      "kind": "legend",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "p5-tsubaichi-blog"
+      "upg-q9-tsubaichi-taikei"
      ]
     },
     {
      "text": "『枕草子』は「市は たつの市 さとの市 つば市」と記して海柘榴市を大和の名高い市に数え、長谷詣の人々が必ずそこに泊まったと伝える",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "p5-tsubaichi-blog"
+      "upg-q9-makura-kcb",
+      "upg-q9-tsubaichi-taikei"
      ]
     },
     {
@@ -3604,7 +3861,7 @@
    ],
    "unknowns": [
     "「桜井」の初出の具体的な文献（桜井郷の初見文書）は未確認",
-    "海柘榴市の位置・年代・壊滅の経緯については、郷土ブログ以外の公的・専門資料での裏付けが未了",
+    "海柘榴市の年代と壊滅の経緯（延長4年の土石流）については、公的・専門資料での裏付けが未了",
     "「桜の井」と呼ばれる井戸の現所在地と、伝承が記録された年代は未確認"
    ],
    "updated": "2026-11-13"
@@ -3668,12 +3925,13 @@
      ]
     },
     {
-     "text": "『古事記』の「畝火の白檮原宮」の「白檮」は、堅く白い材のカシの木を意味すると読まれる",
+     "text": "『古事記』の「畝火の白檮原宮」の「白檮（かし）」はカシ（橿）の木を意味し、宮名は白橿の原野であったことに由来するともいわれる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "l4-kashihara-wikipedia"
+      "upg-q7-kashihara-kotobank",
+      "upg-q7-kashihara-kotobank-miya"
      ]
     },
     {
@@ -3850,30 +4108,31 @@
    },
    "claims": [
     {
-     "text": "「王寺」の名は、聖徳太子が建立した放光寺（片岡王寺）に由来するとされる",
+     "text": "「王寺」の名は片岡王寺（中世以降は放光寺と呼ばれる）に由来すると考えられている。片岡王寺は聖徳太子が創建したという寺の一つにも数えられるが、王寺町公式の計画は、創建者は敏達天皇の後裔にあたる氏族であるとの説を有力とし、渡来系の大原氏が創建したとする説も紹介しており、創建者をめぐる説明は資料によって食い違う",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "q2-oji-wiki"
+      "upg-q7-oji-town-plan"
      ]
     },
     {
-     "text": "現在の町域は古代の大和国葛下郡品治（ほむち）郷の地であり、「王寺」は「品治」が転訛したものだという説もある",
+     "text": "現在の王寺町王寺一丁目から三丁目付近は、大和国葛下郡の品治（ほむち）郷に比定される",
      "kind": "fact",
-     "level": "E5",
-     "status": "contested",
+     "level": "E3",
+     "status": "established",
      "sources": [
-      "q2-oji-wiki"
+      "upg-q7-oji-kotobank-homuchi"
      ]
     },
     {
      "text": "1889年（明治22年）4月1日、葛下郡藤井村・王寺村の区域をもって王寺村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q2-oji-wiki"
+      "upg-q7-oji-town-plan",
+      "upg-q7-oji-kotobank-cho"
      ]
     },
     {
@@ -3974,10 +4233,10 @@
     {
      "text": "『延喜式』神名帳には大和国平群郡の式内社として「往馬坐伊古麻都比古神社」が載り、「伊古麻」の読みが神社名に残っている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "l4-ikoma-wikipedia"
+      "upg-q7-ikoma-kotobank-jinja"
      ]
     },
     {
@@ -4166,7 +4425,7 @@
    "formation": "合併新設",
    "prefecture": "奈良県",
    "homonyms": [],
-   "summary": "平成16年（2004年）10月1日、新庄町と當麻町が合併して発足した。市名は両町が属していた北葛城郡に由来する広域地名で、住民アンケートでも1位となった。北葛城郡の名は、古墳時代にこの地を領有していた古代豪族・葛城氏に由来するとされる。なお葛城山の山頂は、葛城市ではなく南隣の御所市にある。",
+   "summary": "平成16年（2004年）10月1日、新庄町と當麻町が合併して発足した。市名は両町が属していた北葛城郡に由来する広域地名で、住民アンケートでも1位となった。北葛城郡の名は、古代からこの地の名である「葛城」を引き継ぐもので、この地は古墳時代の豪族・葛城氏の本拠とされる。なお葛城山の山頂は、葛城市ではなく南隣の御所市にある。",
    "first_attestation": {
     "era": "古代",
     "year_western": null,
@@ -4214,19 +4473,19 @@
     {
      "text": "葛城山の山頂は葛城市ではなく、南隣の御所市にある",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "p5-katsuragi-wiki"
+      "upg-q9-katsuragisan-gose"
      ]
     },
     {
-     "text": "市名の「葛」の字は略字の字体（下の部分が「ヒ」）を採用しており、正字を採用している葛飾区や北葛城郡とは字体が異なる",
+     "text": "市名の「葛」の字は、下の部分が「ヒ」になる字体（異体字）が官報告示で正式に採用されている。平成15年（2003年）の合併協議で、当時のパソコンで表示できる字体として採用が決まった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "p5-katsuragi-wiki"
+      "upg-q9-katsuragi-glyph"
      ]
     },
     {
@@ -4241,7 +4500,7 @@
    ],
    "column": {
     "title": "葛城山の山頂は、隣の市にある",
-    "text": "市名の由来である葛城山だが、その山頂は実は葛城市ではなく南隣の御所市にある。葛城市は葛城山の北西麓に広がる市で、名の直接の由来は山ではなく、両町が属していた郡の名「北葛城郡」であり、その先には古代豪族の葛城氏がいる。2003年の住民アンケートでは「葛城市」が新市名の1位となり、2位は「白鳳市」だった。合併構想の段階では周辺市町を含むより大きな「葛城市」も検討されたが、実現したのは新庄町と當麻町の2町合併である。山の名を直接名乗るのではなく、郡名と古代氏族の名を二重に継いだ市名という点が、このまちの由来の面白さである。",
+    "text": "市名の由来である葛城山だが、その山頂は実は葛城市ではなく南隣の御所市にある。葛城市は葛城山の北西麓に広がる市で、名の直接の由来は山ではなく、両町が属していた郡の名「北葛城郡」であり、その先には古代から続く地名「葛城」がある。2003年の住民アンケートでは「葛城市」が新市名の1位となり、2位は「白鳳市」だった。合併構想の段階では周辺市町を含むより大きな「葛城市」も検討されたが、実現したのは新庄町と當麻町の2町合併である。山の名を直接名乗るのではなく、郡名を通じて古い地名「葛城」を受け継いだ市名という点が、このまちの由来の面白さである。",
     "sources": [
      "p5-katsuragi-wiki"
     ]
@@ -4277,7 +4536,7 @@
    "formation": "合併新設",
    "prefecture": "奈良県",
    "homonyms": [],
-   "summary": "奈良県吉野郡の山村。村名は合成地名で、江戸時代の十二村郷を構成した野川組・迫組・川波組の3組の名から一字ずつ取って「野迫川」とした。1889年の町村制施行で14村の区域をもって発足し、以後一度も合併していない。2020年国勢調査では離島を除いて日本で最も人口が少ない自治体となった。",
+   "summary": "奈良県吉野郡の山村。村名は合成地名で、江戸時代の十二村郷を構成した野川組・迫組・川波組の3組の名から一字ずつ取って「野迫川」とした。1889年の町村制施行で発足し、以後一度も合併していない。2020年国勢調査では離島を除いて日本で最も人口が少ない自治体となった。",
    "first_attestation": {
     "era": "江戸時代",
     "year_western": null,
@@ -4304,12 +4563,12 @@
      ]
     },
     {
-     "text": "1889年4月1日に14村の区域をもって野迫川村が発足し、以後、一度も他の市町村との合併をしていない",
+     "text": "1889年4月1日に野迫川村が発足し、以後、一度も他の市町村との合併をしていない",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-nosegawa-wiki"
+      "upg-q12-nosegawa-geoshape"
      ]
     },
     {
@@ -4324,10 +4583,11 @@
     {
      "text": "2020年国勢調査によれば、野迫川村は離島を除いて日本で最も人口が少ない自治体である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-nosegawa-wiki"
+      "upg-q12-nosegawa-estat",
+      "upg-q12-nosegawa-plan"
      ]
     },
     {
@@ -4351,7 +4611,7 @@
    ],
    "column": {
     "title": "三つの「組」の頭文字が、そのまま村の名になった",
-    "text": "野迫川村の名は、川の名でも山の名でもない。江戸時代、この山地の村々は「十二村郷」というまとまりをなし、野川組・迫組・川波組・一郷組の4組に分かれて治められていた。1889年に14村が一つの村になるとき、野川の「野」、迫の「迫」、川波の「川」をつないで「野迫川」という新しい名が生まれた。選ばれなかった一郷組の名は村名に残らなかったが、村はその後130年以上、一度も合併することなくこの合成の名を使い続けている。いまや離島を除けば日本で最も人口の少ない村であり、谷あいに点在する集落と雲海の村として知られる。",
+    "text": "野迫川村の名は、川の名でも山の名でもない。江戸時代、この山地の村々は「十二村郷」というまとまりをなし、野川組・迫組・川波組・一郷組の4組に分かれて治められていた。1889年に村々が一つの村になるとき、野川の「野」、迫の「迫」、川波の「川」をつないで「野迫川」という新しい名が生まれた。選ばれなかった一郷組の名は村名に残らなかったが、村はその後130年以上、一度も合併することなくこの合成の名を使い続けている。いまや離島を除けば日本で最も人口の少ない村であり、谷あいに点在する集落と雲海の村として知られる。",
     "sources": [
      "q3-nosegawa-tanno",
      "q3-nosegawa-wiki",
@@ -4506,30 +4766,31 @@
      ]
     },
     {
-     "text": "古代の町域には大和国高市郡波多郷があり、『大日本地名辞書』は『和名類聚抄』の波多郷を「今高取村舟倉村」に比定するとWikipediaが紹介している",
+     "text": "古代の町域には大和国高市郡波多郷があり、その郷域については『日本歴史地名大系』が現高取町南部と考えられるとし、『角川日本地名大辞典』も高取町の上子島・下子島および羽内を含む地域とする（国立国会図書館レファレンス協同データベースの奈良県立図書情報館の事例が両書を引く）",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "q3-takatori-wiki"
+      "upg-q12-takatori-ndlref"
      ]
     },
     {
      "text": "1889年（明治22年）に高取村が発足し、1891年（明治24年）に町制を施行して高取町となった。1954年（昭和29年）には船倉村・越智岡村と合併して現在の高取町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-takatori-wiki"
+      "upg-q12-takatori-nara",
+      "upg-q12-takatori-kotobank"
      ]
     },
     {
-     "text": "高取山の山頂に築かれた高取城は、岐阜県の岩村城・岡山県の備中松山城と並ぶ日本三大山城の一つに数えられる。地名「高取」の古層とは別に、戦国期以降の城と城下町の層が町の歴史を形づくっている",
+     "text": "高取山の山頂に築かれた高取城は、岐阜県の岩村城・岡山県の備中松山城と並ぶ日本三大山城の一つに数えられる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-takatori-wiki"
+      "upg-q12-takatori-jo"
      ]
     },
     {
