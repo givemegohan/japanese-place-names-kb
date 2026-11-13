@@ -38,18 +38,18 @@ records:
     status: established
     sources:
     - n4-mishima-jinjacho
-  - text: 社名の「三嶋」は「御島」すなわち伊豆大島・三宅島などからなる伊豆諸島を意味するとされ、三嶋神は伊豆諸島の神として崇敬されてきた
+  - text: 『日本歴史地名大系』は、古代に三嶋大社が所在した三島郷を伊豆諸島に比定しており、三嶋神は伊豆諸島の神として崇敬されてきた
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-mishima-taisha-wiki
+    - upg-r1-kotobank-mishima
   - text: 現在の鎮座地は古代には伊豆国の国府があったことから「国府（こう）」と称され、三嶋神が国府に祀られたのち、13世紀末頃から大社にちなんで地名も「三島」と呼ぶようになったとされる
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-mishima-taisha-wiki
+    - upg-r1-kotobank-mishima
   - text: 地名の由来にはこのほか、三嶋大明神が遷座したときに名が生まれたとする説、三嶋大明神が3つの洲（安志我良・珠流河・賀茂）の神であることから洲が嶋に改められたとする説、清流に挟まれた土地が3つの島のように見えたとする説がある
     kind: fact
     level: E5
@@ -64,10 +64,11 @@ records:
     - n4-mishima-city-history
   - text: 昭和16年（1941年）、三島町と錦田村が新設合併して三島市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-mishima-city-wiki
+    - upg-r1-mishima-masterplan
+    - upg-r1-shizuoka-henkan
   - text: 三島市の地方公共団体コードは222062である
     kind: fact
     level: E2
@@ -125,16 +126,16 @@ records:
     - n4-shimoda-machiisan
   - text: 元和2年（1616年）に下田奉行が置かれ、下田は江戸時代を通じて幕府支配下の港町として栄えた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-shimoda-city-wiki
+    - upg-r1-shimoda-nenpyo
   - text: 嘉永7年（1854年）の日米和親条約により下田港が開港し、了仙寺で付録の下田条約が調印され、安政3年（1856年）には玉泉寺に日本最初の米国総領事館が置かれた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-shimoda-city-wiki
+    - upg-r1-shimoda-nenpyo
   - text: 昭和30年（1955年）3月31日、下田町・稲梓村・稲生沢村・浜崎村・朝日村・白浜村の6か町村が合併して、新たな下田町が発足した
     kind: fact
     level: E2
@@ -200,48 +201,51 @@ records:
     document: 伊東荘（伊豆国田方郡）
     note: 伊東氏の本貫地としての「伊東荘」の初出文献と年は特定できなかった。伊東の名は12世紀の伊東氏関係史料を通じて知られる
   claims:
-  - text: 伊東荘は伊豆国田方郡の荘園で、大見・宇佐見・伊東からなる久須見荘の一部を占めていた
+  - text: 伊東荘は伊豆国田方郡の荘園で、伊東氏の本拠地であった
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-ito-uji-wiki
-  - text: 藤原南家工藤氏の支族は伊東荘を本貫地としたことから伊東氏と称し、伊東祐親・祐清らを輩出した
+    - upg-r1-kotobank-itosho
+    - upg-r1-kotobank-itoshi
+  - text: 藤原南家工藤氏の支族は伊東荘を本貫地としたことから伊東氏と称し、伊東祐親らを輩出した
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-ito-uji-wiki
+    - upg-r1-kotobank-itoshi
   - text: 『曽我物語』などによれば、伊豆に流されていた源頼朝の監視を任された伊東祐親は、上洛中に娘の八重姫が頼朝と通じて子（千鶴）をもうけたことを知って激怒し、千鶴を川に沈め、頼朝をも討とうとしたと伝えられる
     kind: legend
     level: E5
     status: established
     sources:
     - n4-ito-uji-wiki
-  - text: 「伊東」は「伊豆国の東」を意味するという説明が名字由来辞典などにあるが、専門の地名辞典による裏付けは確認できなかった
+  - text: 専門の百科事典は、地名「伊東」は湯いずる国（伊豆）の東にあるという意味から起こったといわれると紹介しているが、定説として確定した説明ではない
     kind: fact
-    level: E5
+    level: E3
     status: indeterminate
     sources:
-    - n4-ito-namedic
+    - upg-r1-kotobank-ito
   - text: 明治22年（1889年）に伊東村が発足し、明治39年（1906年）に町制を施行して伊東町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-ito-city-wiki
+    - upg-r1-ito-toukei
   - text: 昭和22年（1947年）8月10日、伊東町と小室村が合併して市制を施行し、伊東市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-ito-city-wiki
+    - upg-r1-ito-gaiyou
+    - upg-r1-shizuoka-henkan
   - text: 昭和30年（1955年）に対島村・宇佐美村が編入され、現在の市域の骨格ができた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-ito-city-wiki
+    - upg-r1-shizuoka-henkan
+    - upg-r1-ito-toukei
   - text: 伊東市の地方公共団体コードは222089である
     kind: fact
     level: E2
@@ -256,7 +260,7 @@ records:
   relations:
   - pref/22
   unknowns:
-  - 地名「伊東」の語源は、市公式・専門辞典のいずれでも確定した説明を確認できなかった（「伊豆の東」説は名字辞典レベルの説明にとどまる）
+  - 地名「伊東」の語源は確定しておらず、専門の百科事典が伝える「湯いずる国（伊豆）の東」説も「といわれる」の域を出ない
   - 伊東荘の成立時期と「伊東」の初出文献は特定できなかった
   - 伊東市公式の沿革資料（広報いとう市制施行70周年記念号など）は直接確認できなかった
   updated: '2026-11-13'
@@ -311,10 +315,10 @@ records:
     - v4-izunokuni-city-history
   - text: 2005年（平成17年）4月1日に田方郡伊豆長岡町・大仁町・韮山町が合併して伊豆の国市が発足し、市名は一般公募で寄せられた名前をもとに決定した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v4-izunokuni-wiki
+    - upg-r8-izunokuni-toshi
   - text: 合併協議会の公表資料に基づく記録によれば、新市名称は公募の493種類の案から候補7点（伊豆中央市・伊豆の国市・伊豆北条市・狩野川市・北伊豆市・田方市・田方野市）に絞られ、2004年3月24日の第9回合併協議会の無記名投票で「伊豆の国市」12票対「伊豆北条市」10票により決定した
     kind: fact
     level: E4
@@ -327,12 +331,12 @@ records:
     status: established
     sources:
     - v4-izunokuni-meishou
-  - text: 「伊豆の国」の名称の先行例として、1993年に当時の韮山町に誕生したJA伊豆の国（伊豆の国農業協同組合）がある
+  - text: 「伊豆の国」の名称の先行例として、1993年（平成5年）に誕生したJA伊豆の国（伊豆の国農業協同組合）がある
     kind: fact
-    level: E5
+    level: E4
     status: established
     sources:
-    - v4-izunokuni-wiki
+    - upg-r8-izunokuni-jacom
   column:
     title: 12対10で決まった市名
     text: 伊豆の国市の名前は、公募の人気投票では決まりませんでした。応募の多かった「伊豆中央」や「韮山」ではなく、小委員会が候補に残した「伊豆の国市」は、最終投票で「伊豆北条市」に12対10の僅差で勝ちました。しかも市名が言及する伊豆国の国府は、実は隣の三島市にありました。「の国」という響きの柔らかさと、伊豆全体を指す広がりが、2票差を生んだようです。
@@ -381,16 +385,16 @@ records:
     - b-cap-chiba-soumu-code
   - text: 2004年（平成16年）4月1日に田方郡修善寺町・土肥町・天城湯ケ島町・中伊豆町の4町が合併して伊豆市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v4-izu-wiki
+    - upg-r8-izu-gaiyo
   - text: 伊豆市は伊豆半島の中央部に位置し、この半島で最大の面積を占める基礎自治体である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v4-izu-wiki
+    - upg-r8-izu-gaiyo
   - text: 伊豆の国市によれば、天武9年（680年）に駿河国から伊豆国が分置され、伊豆市域を含む地域はその田方郡などに含まれた
     kind: fact
     level: E2
@@ -459,12 +463,13 @@ records:
     status: established
     sources:
     - x5-kannami-iseki
-  - text: Wikipediaによれば、函南村は1889年4月1日、仁田村・畑毛村・肥田村・塚本村・柏谷村・畑村・軽井沢村・桑原村・田代村・大竹村・丹那村・上沢村・平井村・大土肥村・間宮村・日守村ほかの合併で発足した
+  - text: 函南町統計書によれば、明治22年（1889）の町村制施行により、仁田村・畑毛村・肥田村・塚本村・柏谷村・畑村・軽井沢村・桑原村・田代村・大竹村・丹那村・上沢村・平井村・大土肥村・間宮村・日守村の16村の区域をもって函南村が発足し、旧村は16の大字となった。歴史的行政区域データセットでも、函南村の有効期間は1889年4月1日からとされている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-kannami
+    - upg-r7-kannami-toukeisyo
+    - upg-r7-kannami-geoshape
   - text: 「函南遺産」によれば、昭和9年（1934年）の丹那トンネル開通に際して設けられた新駅が、読みやすい「かんなみ駅」と名付けられたことから、「かんなみ」の読みが広まった
     kind: fact
     level: E4
@@ -492,7 +497,6 @@ records:
   - pref/22
   unknowns:
   - 「函南」の地名の文献上の初出は未確認
-  - 1889年の合併の構成村は、Wikipedia以外の公的資料では未確認
   updated: '2026-11-13'
 - id: muni/22-南伊豆町
   code: '223042'
@@ -593,12 +597,12 @@ records:
     status: indeterminate
     sources:
     - x5-yoshida-yurai
-  - text: Wikipediaによれば、明治初期に大幡村が成立し、1876年に住吉新田・下吉田村が合併して吉田村となるなど、後の町域の村々が形作られた
+  - text: 吉田町統計要覧によれば、明治8年（1875）6月に大日村と八幡島新田が合併して大幡村が成立し、明治9年（1876）には住吉新田と下吉田村が合併して吉田村となるなど、後の町域の村々が形作られた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-yoshida
+    - upg-r7-yoshida-youran
   - text: 内閣府の構造改革特区計画書によれば、1879年に吉田村・大幡村・片岡村・川尻村・神戸村の5村で第六組合が結ばれ、1889年4月1日にこの組合がそのまま吉田村として発足した
     kind: fact
     level: E2
@@ -611,12 +615,12 @@ records:
     status: established
     sources:
     - x5-naikakufu-yoshida
-  - text: Wikipediaによれば、町内には条里制の遺構とされる「吉田たんぼ」が残る
+  - text: 吉田町公式サイトによれば、町内には条里制の遺構とされる「吉田たんぼ」が残り、大化改新以来の条里田のあった所として町指定文化財「条里制遺跡」に指定されている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-yoshida
+    - upg-r7-yoshida-jori
   - text: 総務省「地方公共団体コード一覧」によれば、吉田町の地方公共団体コードは224243である
     kind: fact
     level: E2
@@ -819,37 +823,39 @@ records:
     document: 町村制施行時の六合村発足
     note: 旧小山村を含む六合村が発足した年であり、「小山」の地名自体の初出ではない
   claims:
-  - text: Wikipediaによれば、1889年（明治22年）の町村制で六合村・菅沼村・足柄村・北郷村・須走村の5村が発足し、旧小山村は六合村の一部となった
+  - text: 小山町教育委員会の資料によれば、1889年（明治22年）の町村制の施行により、地域の旧村は六合村・菅沼村・足柄村・北郷村・須走村の5村に統合され、旧小山村は六合村を構成する旧村の一つとなった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-oyama
+    - upg-r7-oyama-kyoiku
   - text: 歴史的行政区域データセットによれば、小山町の行政区域は1912年8月1日から存続している
     kind: fact
     level: E2
     status: established
     sources:
     - x5-geoshape-oyama
-  - text: Wikipediaによれば、1912年（大正元年）8月1日に六合村と菅沼村が合併して小山町が発足した
+  - text: 小山町教育委員会の資料および町勢要覧によれば、1912年（大正元年）8月1日に六合村と菅沼村が合併して町制を施行し、小山町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-rokugo
-    - x5-wiki-oyama
-  - text: Wikipediaによれば、1955年に足柄村、1956年に北郷村・須走村を合併して現在の町域となった
+    - upg-r7-oyama-kyoiku
+    - upg-r7-oyama-youran100
+  - text: 小山町勢要覧によれば、1955年（昭和30年）に足柄村、1956年（昭和31年）に北郷村・須走村を合併して現在の町域となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-oyama
-  - text: 読みは「おやまちょう」であり、栃木県の小山市（おやまし）とは別の自治体である
+    - upg-r7-oyama-youran100
+    - upg-r7-oyama-kyoiku
+  - text: 小山町公式ホームページおよび『日本歴史地名大系』によれば、静岡県小山町の読みは「おやまちょう」であり、栃木県の小山市（おやまし）とは別の自治体である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-oyama
+    - upg-r7-oyama-town-hp
+    - upg-r7-oyama-kotobank
   - text: 総務省「地方公共団体コード一覧」によれば、小山町の地方公共団体コードは223441である
     kind: fact
     level: E2
@@ -925,16 +931,16 @@ records:
     - n4-shimada-namedic
   - text: 昭和23年（1948年）1月1日、島田町が市制を施行して島田市となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-shimada-city-wiki
+    - upg-r1-shizuoka-henkan
   - text: 平成17年（2005年）5月5日に金谷町と合併し、平成20年（2008年）4月1日に川根町と合併して現在の島田市となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-shimada-city-wiki
+    - upg-r1-shizuoka-henkan
   - text: 島田市の地方公共団体コードは222097である
     kind: fact
     level: E2
@@ -987,18 +993,18 @@ records:
     sources:
     - x5-soumu-gapei-shizuoka
     - x5-ndl-kawanehon
-  - text: Wikipediaによれば、前身の中川根村は1889年に上長尾村・久野脇村・下長尾村・水川村・藤川村の合併で、上川根村は崎平村・千頭村・奥泉村・大間村の合併で成立した
+  - text: 川根本町公式ホームページによれば、前身の中川根村は1889年3月1日に藤川村・水川村・上長尾村・下長尾村・久野脇村の合併で、上川根村は同年4月1日に崎平村・千頭村・奥泉村・犬間村の合併で成立した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-kawanehon
-  - text: Wikipediaによれば、1956年9月30日に上川根村と東川根村が合併して本川根町となり、中川根村は1962年4月1日に町制して中川根町となった
+    - upg-r7-kawanehon-hensen
+  - text: 川根本町公式ホームページによれば、1956年9月30日に上川根村と東川根村が合併して本川根町となり、中川根村は1962年4月1日に町制して中川根町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-kawanehon
+    - upg-r7-kawanehon-hensen
   - text: 町名「川根本町」は、中川根・本川根の両町に共通する地域名「川根」に、本川根町の「本」を組み合わせた合成名と解されるが、合併協議会による選定経緯を示す公的資料は確認できていない
     kind: fact
     level: H
@@ -1061,10 +1067,10 @@ records:
     - b-cap-chiba-soumu-code
   - text: 2004年（平成16年）4月1日に榛原郡御前崎町と小笠郡浜岡町が合併して御前崎市が発足した
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - v4-omaezaki-wiki
+    - upg-r8-omaezaki-kotobank
   - text: 合併後の新市名は2003年（平成15年）1月15日に浜岡町役場で開催された第5回合併協議会で、全国的にも有名な「御前崎」の案が委員の全会一致により「御前崎市」と決定した
     kind: fact
     level: E5
@@ -1145,12 +1151,12 @@ records:
     status: established
     sources:
     - n4-gotemba-azuma-wiki
-  - text: 当地には平安時代に伊勢神宮の荘園である大沼鮎沢御厨があり、のちの御厨町の名にその名残を留めていた
+  - text: 当地には伊勢神宮の荘園である大沼鮎沢御厨があり、一帯は御厨（みくりや）と呼ばれた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-gotemba-city-wiki
+    - upg-r1-gotemba-history
   - text: 大正3年（1914年）、御厨町が御殿場町に改称した
     kind: fact
     level: E2
@@ -1159,10 +1165,10 @@ records:
     - n4-gotemba-keikan
   - text: 昭和30年（1955年）2月11日、御殿場町・富士岡村・原里村・印野村・玉穂村が対等合併して市制が施行され、御殿場市が誕生した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-gotemba-city-wiki
+    - upg-r1-shizuoka-henkan
   - text: 御殿場市の地方公共団体コードは222151である
     kind: fact
     level: E2
@@ -1214,12 +1220,12 @@ records:
     status: contested
     sources:
     - n4-kakegawa-city-wiki
-  - text: 逆川については、蛇行が激しく堤が欠ける（決壊する）ことから「かけがわ」（欠川から掛川）とも呼ばれ、当地域が「掛川」と呼ばれる由縁になったとも伝えられる
+  - text: 逆川については、川底が深くえぐられていることから「崖川」、川岸の崖がよく崩れることから「欠川」などと呼ばれ、掛川の地名の由来になったともいわれている
     kind: fact
-    level: E5
+    level: E2
     status: contested
     sources:
-    - n4-kakegawa-sakagawa-wiki
+    - upg-r1-kakegawa-fuchi
   - text: 掛川城は室町時代に、駿河の守護大名今川氏が遠江進出を狙い、家臣の朝比奈氏に命じて築かせたのが始まりであると掛川市は紹介している
     kind: fact
     level: E2
@@ -1240,22 +1246,22 @@ records:
     - n4-kakegawa-castle
   - text: 明治22年（1889年）、掛川宿を中心に掛川町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-kakegawa-city-wiki
+    - upg-r1-kakegawa-masterplan
   - text: 昭和29年（1954年）3月31日、掛川町が曽我村・東山口村を編入して市制を施行し、掛川市となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-kakegawa-city-wiki
+    - upg-r1-shizuoka-henkan
   - text: 平成17年（2005年）4月1日、旧掛川市・大東町・大須賀町が合併して現在の掛川市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-kakegawa-city-wiki
+    - upg-r1-shizuoka-henkan
   - text: 掛川市の地方公共団体コードは222135である
     kind: fact
     level: E2
@@ -1272,7 +1278,7 @@ records:
   - muni/22-磐田市
   - muni/22-島田市
   unknowns:
-  - 「掛川」の語源は市公式の地名解説を直接確認できておらず、諸説の典拠（市史等）は特定できなかった
+  - 「掛川」の語源は掛川市公式計画が崖川・欠川説を紹介するが、「懸川」を経たとする説など他の諸説の典拠（市史等）は特定できなかった
   - 「掛川」の文書上の初出（中世の掛川郷などの用例）は特定できなかった
   updated: '2026-11-13'
 - id: muni/22-東伊豆町
@@ -1317,12 +1323,12 @@ records:
     sources:
     - x5-shizuoka-kamo-ryaku
     - x5-ndl-higashiizu
-  - text: Wikipediaによれば、城東村は1889年に大川村・奈良本村・白田村・片瀬村の合併で発足した
+  - text: 『東伊豆町誌』によれば、城東村は1889年（明治22年）の町村制施行の際、白田村・片瀬村・奈良本村・大川村の4か村が合併して発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x5-wiki-higashiizu
+    - upg-r7-higashiizu-choshi
   - text: 町名「東伊豆」は、伊豆半島の東岸に位置することによる合併新設名と解されるが、選定の経緯を明記した公的資料は確認できていない
     kind: fact
     level: H
@@ -1901,10 +1907,11 @@ records:
     - v4-kosai-city-ayumi
   - text: 湖西市は静岡県で最も西に位置し、市の範囲は浜名湖西岸から愛知県との県境に及ぶ
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v4-kosai-wiki
+    - upg-r8-kosai-keikaku
+    - v4-kosai-city-ayumi
   - text: 湖西市によれば、平成22年（2010年）3月23日に120年の歴史を持つ新居町と合併した
     kind: fact
     level: E2
@@ -1949,12 +1956,13 @@ records:
     document: 日本書紀（景行天皇紀の「焼津」）・古事記（「焼遣」）
     note: 地名の起源を説く伝説中の用例として。両書で伝承地の国名が異なり（書紀は駿河国、古事記は相武国）、当地への比定は後世の伝承に基づく
   claims:
-  - text: 『日本書紀』『古事記』の伝える日本武尊の東征伝説では、賊の火攻めに遭った尊が剣で草を薙ぎ払い向かい火を放って難を逃れた地を「焼津」（古事記では「焼遣」）と呼んだとされ、この故事により剣は草薙剣と呼ばれるようになったという
+  - text: 『日本書紀』『古事記』の伝える日本武尊の東征伝説では、賊の火攻めに遭った尊が草薙剣で草を薙ぎ払い向かい火を放って難を逃れた地を「焼津」と呼んだとされる
     kind: legend
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-yaizu-jinja-wiki
+    - upg-r1-kotobank-yaizujinja
+    - upg-r1-kotobank-suruga
   - text: 火難伝説の地について『日本書紀』は駿河国、『古事記』は相武国（相模国か）と記して異同があり、『焼津市史』は書紀の記述に原初的な要素を見て、伝承地が駿河から相模へ移されたのは古事記の編纂過程の影響と推測している
     kind: fact
     level: E5
@@ -1963,28 +1971,29 @@ records:
     - n4-yaizu-jinja-wiki
   - text: 『万葉集』巻3には、駿河国の地名として「焼津辺」を詠んだ歌が知られる
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-yaizu-jinja-wiki
+    - upg-r1-kotobank-yaizu
   - text: 駿河国には益頭（のち益津）と呼ばれる郡・郷があり、これは「ヤキツ」の「焼」の字を忌んで好字の「益」を当てたものが「マシヅ」の読みに転訛したものとされる
     kind: fact
     level: E5
     status: established
     sources:
     - n4-yaizu-jinja-wiki
-  - text: 延長5年（927年）成立の『延喜式』神名帳には、駿河国益頭郡の式内社として焼津神社が記載される
+  - text: 『延喜式』神名帳には、駿河国益頭郡の式内社として焼津神社が記載される
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-yaizu-jinja-wiki
+    - upg-r1-kotobank-yaizujinja
   - text: 明治34年（1901年）6月28日に町制を施行して焼津町となり、昭和26年（1951年）3月1日に市制を施行して焼津市となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-yaizu-city-wiki
+    - upg-r1-yaizu-gikai
+    - upg-r1-shizuoka-henkan
   - text: 焼津市の地方公共団体コードは222127である
     kind: fact
     level: E2
@@ -2065,10 +2074,10 @@ records:
     - k3-atami-city-yurai
   - text: 明治22年（1889）に熱海村が発足して明治24年（1891）に熱海町となり、昭和12年（1937）4月10日に多賀村と合併して熱海市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - k3-atami-wikipedia
+    - upg-r12-atami-kanko
   - text: 総務省の全国地方公共団体コードで、熱海市の団体コードは222054と定められている
     kind: fact
     level: E2
@@ -2199,22 +2208,22 @@ records:
   claims:
   - text: 昭和15年（1940年）11月1日、見付町・中泉町・西貝村・天竜村が合併して、郡名に由来する磐田町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-iwata-gun-wiki
+    - upg-r1-shizuoka-henkan
   - text: 昭和23年（1948年）4月1日に磐田町が市制を施行して磐田市となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-iwata-gun-wiki
+    - upg-r1-shizuoka-henkan
   - text: 平成17年（2005年）4月1日、旧磐田市・福田町・竜洋町・豊田町・豊岡村が合併して、現在の磐田市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-iwata-city-wiki
+    - upg-r1-shizuoka-henkan
   - text: 中心地の見付は、平安時代中頃には遠江国の役所である国府が置かれ、鎌倉時代には守護の館である守護所も置かれた、遠江国の政治・経済の中心地であったと磐田市教育委員会は紹介している
     kind: fact
     level: E2
@@ -2229,10 +2238,11 @@ records:
     - n4-iwata-bunkazai
   - text: 磐田郡は古代からの郡だが、近世には東海道見附宿のみで構成される小さな郡となっていた
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-iwata-gun-wiki
+    - upg-r1-kotobank-mitsuke
+    - upg-r1-kotobank-iwatagun
   - text: 磐田市の地方公共団体コードは222119である
     kind: fact
     level: E2
@@ -2294,24 +2304,25 @@ records:
     status: established
     sources:
     - v5-kikugawa-city-data
-  - text: 菊川は粟ヶ岳周辺に源を発し、菊川市の中心部を縦断して遠州灘に注ぐ一級河川で、昭和42年（1967年）に一級河川に指定された。
+  - text: 菊川は粟ヶ岳周辺に源を発し、菊川市の中心部を縦断して遠州灘に注ぐ一級河川である。
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - v5-kikugawa-river-wiki
-  - text: 河川名「菊川」の語源については、周辺一帯が古くは荘園で放牧が行われていたことから、柵で囲まれた放牧地（城飼）を流れる川という意味の「城飼川（きこうがわ）」が転じて菊川となったとする説が有力とされている。
+    - upg-r4-kikugawa-mlit
+    - v5-kikugawa-city-data
+  - text: 河川名「菊川」の語源については、古くの城飼（キコウ）郡にちなんだ「キコウ川」が変化して、菊川と呼ばれるようになったとする説があると、国土交通省中部地方整備局が紹介している。
     kind: fact
-    level: E5
+    level: E2
     status: contested
     sources:
-    - v5-kikugawa-river-wiki
-  - text: 菊川の名についてはほかに、上流の小夜の中山にある「菊石」あるいは旧菊川町友田にある「菊目石」から付けられたという説や、高天神城の東を流れる川であることから「城東川（きとうがわ）」が転じたとする説がある。
+    - upg-r4-kikugawa-cbr
+  - text: 菊川の名についてはほかに、上流の佐夜の中山にある「菊石」から、また旧菊川町友田にある「菊目石」から付けられたという石説があると、国土交通省中部地方整備局が紹介している。
     kind: fact
-    level: E5
+    level: E2
     status: contested
     sources:
-    - v5-kikugawa-river-wiki
+    - upg-r4-kikugawa-cbr
   - text: 菊川市は深蒸し茶発生の地とされ、市の木にも特産の「茶」が選ばれている。
     kind: fact
     level: E2
@@ -2334,7 +2345,7 @@ records:
   - pref/22
   unknowns:
   - 2005年の合併で新市名「菊川」が選ばれた手続き（公募の有無や候補名）は、合併協議会の公開資料では確認できなかった。
-  - 河川名「菊川」の文献上の初出と語源の定説は、専門辞典では確認できなかった（諸説はWikipediaの河川記事による）。
+  - 河川名「菊川」の文献上の初出は確認できておらず、語源に定説はない（城飼郡にちなむ説と菊石・菊目石の石説が国土交通省中部地方整備局の資料に紹介されている。「城東川」が転じたとする説は、国土交通省・『日本歴史地名大系』の資料では確認できなかった）。
   updated: '2026-11-13'
 - id: muni/22-藤枝市
   code: '222143'
@@ -2373,12 +2384,12 @@ records:
     status: contested
     sources:
     - n4-fujieda-city-wiki
-  - text: 慶長6年（1601年）に東海道の宿場町として藤枝宿が置かれ、田中城の拡張とともに田中藩の城下町としても発展した
+  - text: 慶長6年（1601年）に東海道の宿場町として藤枝宿が置かれ、田中藩の城下町としても発展した
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - n4-fujieda-city-wiki
+    - upg-r1-kotobank-fujieda
   - text: 藤枝は安倍川と大井川に挟まれた志太平野のまちで、江戸時代には藤枝宿と岡部宿の二つの宿場を抱えていた
     kind: fact
     level: E5
@@ -2393,10 +2404,11 @@ records:
     - n4-fujieda-city-wiki
   - text: 昭和29年（1954年）3月31日、藤枝町・青島町・稲葉村・大洲村・高洲村などが合併して藤枝市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - n4-fujieda-city-wiki
+    - upg-r1-fujieda-kyoiku
+    - upg-r1-shizuoka-henkan
   - text: 藤枝市の地方公共団体コードは222143である
     kind: fact
     level: E2
@@ -2611,12 +2623,12 @@ records:
     status: established
     sources:
     - x6-nishiizu-meisyo
-  - text: 1889年（明治22年）の町村制では、浜村・一色村・中村・大沢里村が合併して仁科村となり、田子村は単独で発足し、安良里村・宇久須村が合併して宇久須村となった
+  - text: 西伊豆町過疎地域持続的発展計画によれば、1889年（明治22年）の町村制施行により、浜村・中村・一色村・大沢里村が合併して仁科村となり、田子村は旧名のまま発足し、宇久須村と安良里村が合併して宇久須村となった（安良里村は1896年に再び分離した）
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - x6-nishiizu-wiki
+    - upg-r7-nishiizu-kaso
   - text: 1896年（明治29年）に那賀郡が賀茂郡へ統合され、同年5月14日に宇久須村から安良里村が分立した
     kind: fact
     level: E2
@@ -2857,9 +2869,6 @@ sources:
   k3-atami-roman:
     label: 熱海ロマン紀行「熱海温泉の歴史」（熱海市観光協会。和名類聚抄の直美郷、吾妻鏡の阿多美郷、熱海表記の初出1297年）
     url: https://atamiroman.jp/story-onsen
-  k3-atami-wikipedia:
-    label: Wikipedia「熱海市」（熱海村・熱海町の成立と1937年の市制施行の年表）
-    url: https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B5%B7%E5%B8%82
   k3-hamamatsu-fuchi:
     label: 浜松市「第1章 浜松市の歴史的風致形成の背景」（浜松市歴史的風致維持向上計画。和名類聚抄の写本による浜津から浜松への表記の変化）
     url: https://www.city.hamamatsu.shizuoka.jp/documents/133742/03dai1shou_1.pdf
@@ -2908,18 +2917,9 @@ sources:
   n4-gotemba-azuma-wiki:
     label: Wikipedia「吾妻神社（御殿場市）」（御殿場の地名の由来である徳川家康の御殿跡に鎮座し、「御殿場発祥の地」碑・「徳川家康公御殿土塁跡」碑がある）
     url: https://ja.wikipedia.org/wiki/%E5%90%BE%E5%A6%BB%E7%A5%9E%E7%A4%BE_(%E5%BE%A1%E6%AE%BF%E5%A0%B4%E5%B8%82)
-  n4-gotemba-city-wiki:
-    label: Wikipedia「御殿場市」（平安時代の伊勢神宮荘園・大沼鮎沢御厨、1955年2月11日に御殿場町・富士岡村・原里村・印野村・玉穂村が合併して市制施行）
-    url: https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%AE%BF%E5%A0%B4%E5%B8%82
   n4-gotemba-keikan:
     label: 御殿場市「景観計画 第1編 第1章 御殿場市の景観特性と課題」（沼津代官の命による徳川家康の御殿の造営と御殿新町の成立、「御殿場」の地名はこの御殿に由来すること、家康が実際に休憩所を使用することはなかったこと、大正3年の御厨町から御殿場町への改称）
     url: https://www.city.gotemba.lg.jp/gyousei/kanri/assets/uploads/2016/01/keikan1.pdf
-  n4-ito-city-wiki:
-    label: Wikipedia「伊東市」（沿革：1889年伊東村、1906年伊東町、1947年8月10日に小室村と合併して市制施行、1955年に対島村・宇佐美村を編入）
-    url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E6%9D%B1%E5%B8%82
-  n4-ito-namedic:
-    label: ネムディク「東」という名字（「伊東は伊豆国の東」など地名を受けた名字の例とする名字由来辞典の説明）
-    url: https://myoji.namedic.jp/sei/detail/%E6%9D%B1
   n4-ito-uji-wiki:
     label: Wikipedia「伊東氏」（伊豆国田方郡伊東荘を本貫地とした工藤氏流の氏族。伊東祐親と源頼朝・八重姫の物語）
     url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E6%9D%B1%E6%B0%8F
@@ -2929,18 +2929,12 @@ sources:
   n4-iwata-city-wiki:
     label: Wikipedia「磐田市」（見付と中泉の合併以降は郡名に由来する磐田の自治体名となったこと、2005年の合併、見付天神の裸祭りにまつわる猿神退治の伝承）
     url: https://ja.wikipedia.org/wiki/%E7%A3%90%E7%94%B0%E5%B8%82
-  n4-iwata-gun-wiki:
-    label: Wikipedia「磐田郡」（古代以来の郡で近世には見附宿のみで構成、1940年11月1日に見付町・中泉町・西貝村・天竜村が合併して磐田町発足、1948年4月1日に市制施行）
-    url: https://ja.wikipedia.org/wiki/%E7%A3%90%E7%94%B0%E9%83%A1
   n4-kakegawa-castle:
     label: 掛川市観光サイト「掛川城」（室町時代に今川氏の家臣朝比奈氏が築城、山内一豊による城下町整備、高知城は掛川城を模したと伝えられること、霧吹き井戸の伝説）
     url: https://www.city.kakegawa.shizuoka.jp/kanko/kana/spot-list/kakegawajyo.html
   n4-kakegawa-city-wiki:
     label: Wikipedia「掛川市」（地名の由来：逆川の流れから「缺けた川」「懸川」を経て「掛川」になったとする説、1889年の掛川町発足、1954年3月31日の市制施行、2005年の合併）
     url: https://ja.wikipedia.org/wiki/%E6%8E%9B%E5%B7%9D%E5%B8%82
-  n4-kakegawa-sakagawa-wiki:
-    label: Wikipedia「逆川（太田川水系）」（堤が欠けることから「かけがわ」とも呼ばれ、当地域が掛川と呼ばれる由縁になったと伝えられる）
-    url: https://ja.wikipedia.org/wiki/%E9%80%86%E5%B7%9D_(%E5%A4%AA%E7%94%B0%E5%B7%9D%E6%B0%B4%E7%B3%BB)
   n4-mishima-city-history:
     label: 三島市公式「三島の歴史を紹介します」（郷土資料館。伊豆国の国府・三嶋大社の門前町・東海道三島宿としての三島の歩み）
     url: https://www.city.mishima.shizuoka.jp/page/2702.html
@@ -2974,9 +2968,6 @@ sources:
   n4-shimoda-machiisan:
     label: 下田市「下田まち遺産手帖第23号」（『和名類聚抄』の伊豆国賀茂郡5郷と大社郷の範囲、天平7年の平城京出土木簡に見える「賀茂郡稲梓郷稲梓里」、1889年以降の下田の町村再編）
     url: https://city.shimoda.shizuoka.jp/file/下田まち遺産手帖第23号（５頁～６頁）.pdf
-  n4-yaizu-city-wiki:
-    label: Wikipedia「焼津市」（沿革：1901年町制施行で焼津町、1951年3月1日に市制施行して焼津市）
-    url: https://ja.wikipedia.org/wiki/%E7%84%BC%E6%B4%A5%E5%B8%82
   n4-yaizu-jinja-wiki:
     label: Wikipedia「焼津神社」（記紀の火難伝説と「焼津」の地名起源説話、書紀と古事記の伝承地の異同に対する『焼津市史』の見解、『万葉集』の「焼津辺」、『延喜式』神名帳の焼津神社、和名抄の益頭郡・郷）
     url: https://ja.wikipedia.org/wiki/%E7%84%BC%E6%B4%A5%E7%A5%9E%E7%A4%BE
@@ -2986,6 +2977,123 @@ sources:
   upg-b-fukuroi-gappei:
     label: 袋井市公式「合併へのあゆみ」（明治22年（1889年）4月1日の市町村制施行に伴い誕生した山名町を明治42年（1909年）に袋井町と改称し、昭和33年（1958年）11月3日に市制を施行した沿革と、旧袋井市と浅羽町の合併協議の経緯を記す）
     url: https://www.city.fukuroi.shizuoka.jp/soshiki/4/2/gappeikyougikai/1456904039353.html
+  upg-r1-fujieda-kyoiku:
+    label: 藤枝市「藤枝の教育」（市の沿革：昭和29年3月31日に藤枝町・青島町・葉梨村・大洲村・高洲村・稲葉村の6か町村が合併して藤枝市として市制を施行したとする市公式資料）
+    url: https://www.city.fujieda.shizuoka.jp/material/files/group/69/fujiedanokyouiku2026-2.pdf
+  upg-r1-gotemba-history:
+    label: 御殿場市「御殿場ヒストリー」（御殿場市長名義の市公式紹介資料。中世、御殿場地方は伊勢神宮に食糧を納める荘園の一つであったことから「大沼鮎沢御厨」と呼ばれ、現在でも御厨と呼ばれているとする解説。小田急電鉄との協定資料に収録）
+    url: https://www.odakyu.jp/news/o5oaa10000005rnt-att/8657_4608706_.pdf
+  upg-r1-ito-gaiyou:
+    label: 伊東市『市政の概要』令和7年度版（市制施行日は昭和22年8月10日で、伊東町と小室村が合併し市制を施行したとする市公式資料）
+    url: https://www.city.ito.shizuoka.jp/material/files/group/32/R7_shiseino-gaiyou.pdf
+  upg-r1-ito-toukei:
+    label: 伊東市統計書「自然・土地」（明治22年に伊東・小室・宇佐美・対島の4村が発足し、同39年に伊東村が町制を施行したとする市公式の沿革）
+    url: https://www.city.ito.shizuoka.jp/material/files/group/6/R31shizentochi.pdf
+  upg-r1-kakegawa-fuchi:
+    label: 掛川市「歴史的風致維持向上計画」第4章（逆川は川底が深くえぐられていることから「崖川」、川岸の崖がよく崩れるので「欠川」などと呼ばれ、掛川の地名の由来になったともいわれているとする市公式計画）
+    url: https://www.city.kakegawa.shizuoka.jp/fs/1/7/6/4/6/5/_/06chapter4.pdf
+  upg-r1-kakegawa-masterplan:
+    label: 掛川市「都市計画マスタープラン」第1章（旧掛川市では明治22年の町村制施行により掛川町ほか17村が成立したとする市公式計画）
+    url: https://www.city.kakegawa.shizuoka.jp/fs/6/0/2/8/3/4/_/_1_.pdf
+  upg-r1-kotobank-fujieda:
+    label: コトバンク『改訂新版 世界大百科事典』「藤枝」（1601年に酒井忠利が入封して近世田中藩となり、近世宿駅としては1601年に幕府により設定されたとする解説）
+    url: https://kotobank.jp/word/%E8%97%A4%E6%9E%9D-117170
+  upg-r1-kotobank-ito:
+    label: コトバンク『日本大百科全書（ニッポニカ）』・『改訂新版 世界大百科事典』「伊東（市）」（地名は湯いずる国（伊豆）の東にあるという意味から起こったといわれるとする解説）
+    url: https://kotobank.jp/word/%E4%BC%8A%E6%9D%B1-434820
+  upg-r1-kotobank-itoshi:
+    label: コトバンク『日本大百科全書（ニッポニカ）』「伊東氏」（伊豆国田方郡伊東庄を本貫地とする鎌倉御家人で、藤原南家流の子孫が工藤氏を称し、そのうち伊東庄に土着した一族が伊東氏を称したとする解説）
+    url: https://kotobank.jp/word/%E4%BC%8A%E6%9D%B1%E6%B0%8F-31667
+  upg-r1-kotobank-itosho:
+    label: コトバンク『日本歴史地名大系』「伊東庄・伊東郷」（現在の伊東市中部から中伊豆町にかけて所在した庄（郷）で、狩野一族の伊東氏の本拠地であったとする解説）
+    url: https://kotobank.jp/word/%E4%BC%8A%E6%9D%B1%E5%BA%84%E4%BC%8A%E6%9D%B1%E9%83%B7-3062524
+  upg-r1-kotobank-iwatagun:
+    label: コトバンク『日本歴史地名大系』「磐田郡」（古代の郡域は天竜川東岸の現在の磐田市を中心に広がったとする解説）
+    url: https://kotobank.jp/word/%E7%A3%90%E7%94%B0%E9%83%A1-3063849
+  upg-r1-kotobank-mishima:
+    label: コトバンク『日本歴史地名大系』「三島」（古代の三島郷を伊豆諸島に比定し、当地は伊豆国府を意味する国府と呼ばれ、平安時代中期以降に三嶋大社にちなんで三島と呼ばれるようになったとする解説）
+    url: https://kotobank.jp/word/%E4%B8%89%E5%B3%B6-138521
+  upg-r1-kotobank-mitsuke:
+    label: コトバンク『日本歴史地名大系』「見付宿」（見付町とも称され、一町で磐田郡を構成したとする解説）
+    url: https://kotobank.jp/word/%E8%A6%8B%E4%BB%98%E5%AE%BF-1422624
+  upg-r1-kotobank-suruga:
+    label: コトバンク『日本歴史地名大系』「駿河国」（『日本書紀』景行40年是歳条の、日本武尊が草薙剣で草を切り払って難を逃れ、その場所を「焼津」と名付けたとする地名起源説話の解説）
+    url: https://kotobank.jp/word/%E9%A7%BF%E6%B2%B3%E5%9B%BD-85259
+  upg-r1-kotobank-yaizu:
+    label: コトバンク『改訂新版 世界大百科事典』・『日本大百科全書（ニッポニカ）』「焼津」（確実な文献上の用例として『万葉集』巻3の春日蔵首老の歌に「焼津辺」が見えるとする解説）
+    url: https://kotobank.jp/word/%E7%84%BC%E6%B4%A5-647492
+  upg-r1-kotobank-yaizujinja:
+    label: コトバンク『日本歴史地名大系』「焼津神社」（『延喜式』神名帳に見える益頭郡の「焼津神社」は当社に比定され、景行40年に日本武尊が当地で賊を焼き滅ぼし、この地を焼津と名付けたという解説）
+    url: https://kotobank.jp/word/%E7%84%BC%E6%B4%A5%E7%A5%9E%E7%A4%BE-647494
+  upg-r1-mishima-masterplan:
+    label: 三島市「都市計画マスタープラン」資料（昭和16年4月29日に錦田村と三島町が合併し市制を施行したとする市公式の沿革）
+    url: http://dr.city.mishima.shizuoka.jp/websystem/pubcom/siryou/000111/0327.pdf
+  upg-r1-shimoda-nenpyo:
+    label: 下田市 都市計画マスタープラン現況編「下田の歴史年表」（元和2年に初代下田奉行が置かれたこと、嘉永7年に日米和親条約で下田が開港し了仙寺で付録の下田条約が調印されたこと、安政3年に玉泉寺が日本最初の米国総領事館となったことを記す市公式年表）
+    url: https://www.city.shimoda.shizuoka.jp/file/現況編4（市街地の変遷）.pdf
+  upg-r1-shizuoka-henkan:
+    label: 静岡県統計年鑑「市町村の変遷」（県自治行政課資料。各市町の合併・編入・市制施行を年月日まで記録した県公式の変遷表）
+    url: http://toukei.pref.shizuoka.jp/toukeikikakuhan/page/nenkan/documents/h23_01-02.pdf
+  upg-r1-yaizu-gikai:
+    label: 焼津市「焼津市議会概要」（市の沿革：明治34年6月28日に町制施行、昭和26年3月1日に市制施行とする市公式資料）
+    url: https://www.city.yaizu.lg.jp/documents/8194/20260501104115.pdf
+  upg-r12-atami-kanko:
+    label: 熱海市『熱海市の観光』令和7年版（観光文化部観光商工課、「市域の変遷」：明治22年3月1日に熱海村・伊豆山村・泉村・初島村を合併して熱海村となり、明治24年6月11日に町制を布いて熱海町となり、昭和12年4月10日に田方郡多賀村と合併して熱海市制を施行したとする市公式の統計書）
+    url: https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/001/296/kankou-reiwa7.pdf
+  upg-r4-kikugawa-cbr:
+    label: 国土交通省中部地方整備局「菊川について（川の名前の由来）」（上流の佐夜の中山にある菊石から、また菊川町友田にある菊目石から付けられたという石説、古くの城飼（キコウ）郡にちなんだキコウ川が変化して菊川と呼ばれるようになった説など、たくさんの由来があるとする）
+    url: https://www.cbr.mlit.go.jp/kawatomizu/kasen/kikugawa/kikugawa.html
+  upg-r4-kikugawa-mlit:
+    label: 国土交通省「日本の川 菊川」（その源を掛川市粟ヶ岳（標高532m）に発し、東の牧ノ原台地・西の小笠山丘陵に挟まれた低平地を蛇行しながら南に流下し、遠州灘に注ぐ一級河川。幹川流路延長28km、流域面積158km2）
+    url: https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0504_kikugawa/0504_kikugawa_00.html
+  upg-r7-higashiizu-choshi:
+    label: 『東伊豆町誌』（町制施行30年記念誌、東伊豆町公式サイト掲載。第2章で、城東村はもと白田・片瀬・奈良本・大川の4か村に分かれていたが明治22年の町村制施行の際合併して城東村となったことを記す）
+    url: https://www.town.higashiizu.lg.jp/material/files/group/6/kyo_higashiizutyousi_30mini_1-2.pdf
+  upg-r7-kannami-geoshape:
+    label: 歴史的行政区域データセットβ版「静岡県田方郡函南村」（函南村の有効期間は1889年4月1日から1963年4月1日まで）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/22B0110025.html
+  upg-r7-kannami-toukeisyo:
+    label: 函南町「函南町統計書」（令和3年版。「沿革」で、明治22年4月の町村制施行により函南村が形成され、仁田村以下の旧村が大字となって16大字であったこと、昭和38年4月1日に町制を施行し読みを「かんなみ」と定めたことを記す）
+    url: https://www.town.kannami.shizuoka.jp/material/files/group/3/r3toukeisyo.pdf
+  upg-r7-kawanehon-hensen:
+    label: 川根本町公式ホームページ「町の変遷」（1889年3月1日に藤川・水川・上長尾・下長尾・久野脇の5村が合併して中川根村が誕生したこと、同年4月1日に崎平・千頭・奥泉・犬間の4村が合併して上川根村が誕生したこと、1956年9月30日に上川根村と東川根村が合併して本川根町が誕生したこと、1962年4月1日に中川根村を中川根町としたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%A0%B9%E6%9C%AC%E7%94%BA
+  upg-r7-nishiizu-kaso:
+    label: 西伊豆町「西伊豆町過疎地域持続的発展計画」（令和3年度〜令和7年度。「西伊豆町の概況」で、明治22年の町村制施行により浜村・中村・一色村・大沢里村が合併して仁科村となり、田子村は旧名のまま新しい田子村へ、宇久須村と安良里村が合併して宇久須村となったこと、明治29年5月に宇久須村と安良里村が再び二村に分離したことを記す）
+    url: https://www.town.nishiizu.shizuoka.jp/pdf/kikaku/scheme/kasokeikakuR3-R7.pdf
+  upg-r7-oyama-kotobank:
+    label: コトバンク『日本歴史地名大系』「小山町」項（静岡県駿東郡の小山町の読みを「おやまちよう」とする）
+    url: https://kotobank.jp/word/%E5%B0%8F%E5%B1%B1%E7%94%BA-1160803
+  upg-r7-oyama-kyoiku:
+    label: 小山町教育委員会の町勢資料（令和3年度版。「沿革」で、明治22年の町村制の施行により旧村が六合村（小山・生土・中島・柳島・湯船・藤曲）・菅沼村・足柄村・北郷村・須走村の5か村に統合されたこと、大正元年8月1日に六合村と菅沼村が合併して町制を施行し小山町となったこと、昭和30年4月1日に足柄村を合併したことを記す）
+    url: https://www.fuji-oyama.jp/uploaded/attachment/2782.pdf
+  upg-r7-oyama-town-hp:
+    label: 小山町公式ホームページ「小山町の位置」（公式ホームページの名称に「静岡県小山町（おやまちょう）公式ホームページ」と読みを明示する）
+    url: https://www.fuji-oyama.jp/page/3404.html
+  upg-r7-oyama-youran100:
+    label: 小山町「町勢要覧（町制施行100周年記念誌）」（平成24年。大正元年（1912）8月1日に六合村と菅沼村の合併で小山町が発足してから100年であること、昭和30年に足柄村、翌31年に北郷村・須走村と合併して現在の形となったことを記す）
+    url: https://www.fuji-oyama.jp/uploaded/attachment/3142.pdf
+  upg-r7-yoshida-jori:
+    label: 吉田町公式サイト「条里制遺跡」（町指定文化財。俗称「吉田たんぼ」と呼ばれる片岡横山地先の一帯は大化改新以来の条里田のあった所で、条里特有の坪地名が残ること、昭和39年4月1日に指定されたことを記す）
+    url: https://www.town.yoshida.shizuoka.jp/2258.htm
+  upg-r7-yoshida-youran:
+    label: 吉田町「吉田町統計要覧（平成24年版）」（「町域の変遷」で、明治8年6月に大日村と八幡島新田が合併して大幡村となったこと、明治9年に住吉新田と下吉田村が合併して吉田村となったこと、明治12年10月に第六組合が結ばれ、明治22年4月にこの組合が吉田村となったことを記す）
+    url: https://www.town.yoshida.shizuoka.jp/secure/2755/H24toukeiyouran.pdf
+  upg-r8-izu-gaiyo:
+    label: 伊豆市議会「伊豆市の概要」（令和8年度版。平成16年4月1日に修善寺町・土肥町・天城湯ケ島町・中伊豆町の4町が合併して伊豆市が発足したこと、面積は363.97km²で伊豆半島の中央部に位置することを記す。半島内の他市町の面積はいずれもこれを下回る）
+    url: https://www.city.izu.shizuoka.jp/material/files/group/58/R84gatuizusinohaiyou.pdf
+  upg-r8-izunokuni-jacom:
+    label: 農業協同組合新聞（JAcom）「JAトップアンケート JA伊豆国 鈴木正三代表理事組合長」（JA伊豆の国は平成5年（1993年）の創立であることを組合長本人の回答として記す）
+    url: https://www.jacom.or.jp/noukyo/tokusyu/2015/11/151105-28476.php
+  upg-r8-izunokuni-toshi:
+    label: 全国市長会「伊豆の国市（静岡県）」（合併調査資料。2005年4月1日に伊豆長岡町・韮山町・大仁町が新設合併したこと、新市の名称は公募されたものの中から小委員会が候補7つを選出し、合併協議会の投票により決定したことを記す）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/izunokuni051017.pdf
+  upg-r8-kosai-keikaku:
+    label: 湖西市公式の計画書「第2章 市内の現況とこれまでの取組」（本市は静岡県の最西端、愛知県との境に位置し、浜名湖に囲まれたまちであることを記す）
+    url: https://www.city.kosai.shizuoka.jp/material/files/group/2/suishinkeikaku2.pdf
+  upg-r8-omaezaki-kotobank:
+    label: コトバンク「御前崎市」（平凡社『日本歴史地名大系』の解説。2004年4月1日に榛原郡御前崎町と小笠郡浜岡町が合併・市制施行したことを記す）
+    url: https://kotobank.jp/word/%E5%BE%A1%E5%89%8D%E5%B4%8E%E5%B8%82-176600
   v4-izu-gogen:
     label: 語源由来辞典「伊豆市」（2004年に修善寺町・土肥町・天城湯ケ島町・中伊豆町の4町が合併して発足したこと、伊豆の地名は旧国名として飛鳥期の藤原宮木簡に「伊豆国」で見えるのが古いこと、由来には湯が多く出る国で「ゆづ（湯出）」が変化したとする説もあるが、半島の突出した地形から「いづ（出づ）」が語源と考えられていることを記す）
     url: https://gogen-yurai.jp/izu-shi-shizuoka
@@ -2998,9 +3106,6 @@ sources:
   v4-izunokuni-meishou:
     label: 名称募集応募の履歴「伊豆長岡町・韮山町・大仁町の新市名称」（合併協議会の公表資料に基づく記録。公募で集まった493種類の名称案から小委員会が候補7点（伊豆中央市・伊豆の国市・伊豆北条市・狩野川市・北伊豆市・田方市・田方野市）を選定し、2004年2月25日の第8回合併協議会で「伊豆の国市」「伊豆北条市」の2点に絞り、同年3月24日の第9回合併協議会の無記名投票で「伊豆の国市」12票対「伊豆北条市」10票により新市名称を決定したこと、公募の上位10点に「伊豆の国市」は含まれていなかったことを記す）
     url: http://www3.tokai.or.jp/inou2002/meisyoubosyuu/meisyou-4.htm
-  v4-izunokuni-wiki:
-    label: Wikipedia「伊豆の国市」（2005年4月1日に田方郡伊豆長岡町・大仁町・韮山町が合併して発足したこと、市名は一般公募で寄せられた名前をもとに決定したこと、「伊豆の国」の名称の先行例として1993年に当時の韮山町に誕生したJA伊豆の国があることを記す）
-    url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82
   v4-kosai-city-ayumi:
     label: 湖西市公式「湖西市のあゆみ」（戦後の市域は鷲津町・白須賀町・新所村・入出村・知波田村の2町3村に分かれていたこと、これらが昭和30年（1955年）4月1日に湖西町となったこと、昭和47年（1972年）1月1日に市制を施行して湖西市となったこと、平成22年（2010年）3月23日に新居町と合併したことを記す。市のキャッチコピーは「浜名湖の西岸のまち」）
     url: https://www.city.kosai.shizuoka.jp/shiseijoho/shinoshokai/3187.html
@@ -3067,24 +3172,11 @@ sources:
   x5-soumu-gapei-shizuoka:
     label: 総務省「市町村合併資料集・静岡県」（2005年9月20日に中川根町と本川根町が新設合併して川根本町が発足したこと）
     url: https://www.soumu.go.jp/gapei/hensen_shizuoka.html
-  x5-wiki-higashiizu:
-    label: Wikipedia「東伊豆町」（城東村は1889年に大川村・奈良本村・白田村・片瀬村の合併で発足したこと）
-    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BC%8A%E8%B1%86%E7%94%BA
-  x5-wiki-kannami:
-    label: Wikipedia「函南町」（1889年4月1日に仁田村・畑毛村・肥田村・塚本村・柏谷村・畑村・軽井沢村・桑原村・田代村・大竹村・丹那村・上沢村・平井村・大土肥村・間宮村・日守村ほかが合併して函南村が発足したこと）
-    url: https://ja.wikipedia.org/wiki/%E5%87%BD%E5%8D%97%E7%94%BA
   x5-wiki-kawanehon:
-    label: Wikipedia「川根本町」（1889年に中川根村と上川根村が成立したこと、1956年に上川根村と東川根村が合併して本川根町となり、中川根村が1962年に町制して中川根町となったこと、旧川根町と合わせて「三川根」と呼ばれたこと）
-    url: https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%A0%B9%E6%9C%AC%E7%94%BA
+    label: Wikipedia「川根本町」（旧川根町と合わせて「三川根」と呼ばれたこと）
   x5-wiki-oyama:
     label: Wikipedia「小山町」（1889年に六合村・菅沼村・足柄村・北郷村・須走村が発足したこと、1955年に足柄村、1956年に北郷村・須走村を合併したこと、読みは「おやまちょう」であること）
     url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E7%94%BA
-  x5-wiki-rokugo:
-    label: Wikipedia「六合村（静岡県駿東郡）」（1912年8月1日に六合村と菅沼村が新設合併して小山町となったこと）
-    url: https://ja.wikipedia.org/wiki/%E5%85%AD%E5%90%88%E6%9D%91_(%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1)
-  x5-wiki-yoshida:
-    label: Wikipedia「吉田町（静岡県）」（明治初期の村々の合併の経緯、条里制の遺構とされる吉田たんぼ）
-    url: https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E7%94%BA_(%E9%9D%99%E5%B2%A1%E7%9C%8C)
   x5-yoshida-yurai:
     label: 吉田町公式サイト「吉田町の名前の由来」（吉田という地名は室町初期に生まれたと伝えられること、一面の葦原を開拓した人々が「葦田」と名付けたが「悪し田」に通じるため「葦」を「吉」と呼び替えて「吉田」と決めたのではないかといわれること）
     url: https://www.town.yoshida.shizuoka.jp/2157.htm
@@ -3118,6 +3210,3 @@ sources:
   x6-nishiizu-meisyo:
     label: 西伊豆町・松崎町・南伊豆町「名勝伊豆西南海岸保存活用計画」（令和4年3月。仁科荘の成立と範囲を記す）
     url: https://www.town.nishiizu.shizuoka.jp/pdf/kyoiku/meisyouhozonkatuyoukeikaku.pdf
-  x6-nishiizu-wiki:
-    label: Wikipedia「西伊豆町」（1889年の仁科村成立の構成村等）
-    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%BC%8A%E8%B1%86%E7%94%BA
