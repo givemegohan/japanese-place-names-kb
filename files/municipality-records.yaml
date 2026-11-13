@@ -963,6 +963,590 @@ sources:
   h6-taishi-hyogo-ikaruga:
     label: 兵庫県太子町公式キッズページ「斑鳩寺」（推古14年に聖徳太子が播磨国揖保郡の水田百町を寄進され「鵤荘」と名付け伽藍を建てたのが始まり、のち法隆寺に寄付）
     url: https://www.town.hyogo-taishi.lg.jp/kids/1425542358299.html
+  k1-kawasaki-seisaku:
+    label: 川崎市 政策資料（市制90周年・多摩川と川崎の由来）
+    url: https://www.city.kawasaki.jp/170/cmsfiles/contents/0000062/62799/31seisaku.pdf
+  k1-kawasaki-chimei:
+    label: 日本地名研究所（川崎市委託調査）『川崎市 川崎区・幸区の町名の移り変わり』報告資料（2020年）
+    url: https://www.city.kawasaki.jp/250/cmsfiles/contents/0000005/5013/r1_chimeihoukoku.pdf
+  k1-kawasaki-suido:
+    label: 川崎市上下水道局『川崎市水道百年史』「川崎市の変遷」
+    url: https://www.city.kawasaki.jp/800/cmsfiles/contents/0000139/139012/pageindices/index43.html
+  k1-kawasaki-kusei50:
+    label: 川崎市川崎区『川崎区制50周年記念誌』
+    url: https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000150/150054/kinenshi01.pdf
+  k1-sagamihara-gappei:
+    label: 相模原市「相模原・津久井地域合併協議会資料『新市名称関連資料：「相模原」の歴史的背景』」
+    url: https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/524/05k-material-1.pdf
+  k1-sagamihara-ndlref:
+    label: 国立国会図書館レファレンス協同データベース「相模原市の地名の由来について知りたい。」（回答：相模原市立図書館）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000363632&page=ref_view
+  k1-sagamihara-archive:
+    label: 相模原市「さがみはらデジタルアーカイブ『市制施行70年 さがみはらの歴史』」
+    url: https://digital-sagamihara.jp/special-contents/photos/history
+  k1-yokosuka-shisei110:
+    label: 横須賀市「市制施行110周年」
+    url: https://www.city.yokosuka.kanagawa.jp/0510/hyoushou/siseisekou110.html
+  k1-yokosuka-zaidan:
+    label: 日本財団図書館『美しい都市景観の形成に関する研究』第1章「横須賀市の歩み」
+    url: https://nippon.zaidan.info/seikabutsu/2001/00125/contents/00003.htm
+  k1-yokosuka-kotobank:
+    label: コトバンク『日本歴史地名大系』「横須賀市」
+    url: https://kotobank.jp/word/%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82-146037
+  k1-yokosuka-gogen:
+    label: 語源由来辞典「横須賀市」
+    url: https://gogen-yurai.jp/yokosuka-shi-kanagawa
+  k1-sosa-suka:
+    label: 匝瑳市 公式資料「須賀地区の地名」（千葉県匝瑳市）
+    url: https://www.city.sosa.lg.jp/data/doc/1554691947_doc_8_0.pdf
+  k1-kamakura-yurai:
+    label: 鎌倉市「地名由来」
+    url: https://www.city.kamakura.kanagawa.jp/shisei/gaiyou/yurai.html
+  k1-kamakura-ndlref:
+    label: 国立国会図書館レファレンス協同データベース「『鎌倉』という地名の由来は何か。またいつごろから使われていたのか。」（回答：鎌倉市中央図書館）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000154081&page=ref_view
+  k1-kamakura-intro:
+    label: 鎌倉市「鎌倉市の紹介」
+    url: https://www.city.kamakura.kanagawa.jp/shisei/gaiyou/intro.html
+  k1-kamakura-izakamakura:
+    label: 鎌倉市観光協会「いざ鎌倉『鎌倉の地名』」
+    url: https://izakamakura.jp/?page_id=134
+  k1-funabashi-museum:
+    label: 船橋市デジタルミュージアム『ふるさとの地名（改訂版）』「船橋」
+    url: https://adeac.jp/funabashi-digital-museum/texthtml/d100050/mp012240-100020/ht200010
+  k1-funabashi-lib:
+    label: 船橋市西図書館 郷土資料室「景行天皇と船橋」
+    url: https://www.lib.city.funabashi.lg.jp/viewer/info.html?id=80&idSubTop=2
+  k1-funabashi-natsumi:
+    label: 船橋市「夏見地域の歴史」
+    url: https://www.city.funabashi.lg.jp/shisetsu/toshokankominkan/0002/0023/0002/p009574.html
+  k1-kashiwa-tokatsu:
+    label: 柏市「東葛市 ～柏市誕生ものがたり～」
+    url: https://www.city.kashiwa.lg.jp/bunka/about_kashiwa/culture/rekishi/rekishi/tokatsushi.html
+  k1-kashiwa-shisei:
+    label: 柏市『市勢要覧』第1編 市勢「沿革」
+    url: https://www.city.kashiwa.lg.jp/documents/7799/03shisei.pdf
+  k1-kashiwa-rekishi:
+    label: 柏市「柏市の歴史」
+    url: https://www.city.kashiwa.lg.jp/kohokocho/shiseijoho/about_kashiwa/profile/rekishi.html
+  k1-kawagoe-rekimachi:
+    label: 川越市『歴史的風致維持向上計画』第1章「川越市の歴史的風致形成の背景」
+    url: https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/672/dai1-07.pdf
+  k1-kawagoe-yakata:
+    label: 川越市『史跡河越館跡保存活用計画』
+    url: https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/019/155/kawagoeyakata_keikaku.pdf
+  k1-kawagoe-minzoku:
+    label: 川越の地誌（郷土史料転載サイト）『川越の民俗』『三芳野名所図会』等の地名論
+    url: http://www.maroon.dti.ne.jp/kwg1840/tisi2.html
+  k1-kawaguchi-keikaku:
+    label: 川口市「第6次川口市総合計画 資料『川口市の沿革』」
+    url: https://www.city.kawaguchi.lg.jp/material/files/group/7/20250731_siryou1.pdf
+  k1-koshigaya-bunkazai:
+    label: 越谷市『越谷市の文化財（第12集）』（越谷市デジタルアーカイブ）
+    url: https://adeac.jp/viewitem/koshigaya-city-digital-archives/viewer/viewer/2022-100020-0122/data/%E8%B6%8A%E8%B0%B7%E5%B8%82%E3%81%AE%E6%96%87%E5%8C%96%E8%B2%A1%EF%BC%88%E7%AC%AC12%E9%9B%86%EF%BC%89.pdf
+  k1-koshigaya-tokei:
+    label: 越谷市『統計年報』総説「地勢・沿革」
+    url: https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/data/toukeinenpou/sousetsu/files/r7_01_1_chisei_ennkaku.pdf
+  k1-koshigaya-gogen:
+    label: 語源由来辞典「越谷市」
+    url: https://gogen-yurai.jp/koshigaya-shi-saitama
+  k1-nikko-nenpyo1:
+    label: 日光市「旧日光市歴史年表（古代～鎌倉）」
+    url: https://www.city.nikko.lg.jp/city_nikko/shokai/2/1/6111.html
+  k1-nikko-nenpyo2:
+    label: 日光市「旧日光市歴史年表（昭和・平成）」
+    url: https://www.city.nikko.lg.jp/soshiki/10/1041/3/1/1513.html
+  k1-nikko-shokai:
+    label: 日光市「市の位置・地形・歴史」
+    url: https://www.city.nikko.lg.jp/city_nikko/shokai/6092.html
+  k1-nikko-kanko:
+    label: 日光観光ライブ情報局（日光市観光協会）「日光の歴史 ～二荒（日光）からNIKKOへ～」
+    url: http://nikko.4-seasons.jp/nikko/history.shtml
+  k1-nikko-mct:
+    label: 世界遺産 日光の社寺「『日光』の地名の由来」
+    url: http://www.mct.gr.jp/world_h/nikko1/nikko.shtml
+  k1-jlis-saitama:
+    label: 地方公共団体情報システム機構（J-LIS）「地方公共団体コード住所・埼玉県内市町村」
+    url: https://www.j-lis.go.jp/spd/code-address/kantou/cms_13214181.html
+  k1-jlis-chiba:
+    label: 地方公共団体情報システム機構（J-LIS）「地方公共団体コード住所・千葉県内市町村」
+    url: https://www.j-lis.go.jp/spd/code-address/kantou/cms_13314181.html
+  k2-hakodate-city-gaiyo:
+    label: 函館市「函館市の概要」（享徳3年（1454年）の河野政通の宇須岸館と「箱館」の起こり、明治2年の「函館」への改称）
+    url: https://www.city.hakodate.hokkaido.jp/docs/2014020600063
+  k2-hakodate-zaidan:
+    label: 函館市文化・スポーツ振興財団「河野政通」（函館ゆかりの人物伝。宇須岸河野館の規模と「箱館」由来の有力説、コシャマインの戦い）
+    url: http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kounoma.html
+  k2-hakodate-shishi:
+    label: 函館市史 通説編第3巻「市制の施行」（大正11年の函館区の市制施行に至る経緯。函館市中央図書館デジタル資料館）
+    url: https://archives.c.fun.ac.jp/hakodateshishi/tsuusetsu_03/shishi_05-02/shishi_05-02-01-01-03.htm
+  k2-hokkaido-rrc-origin:
+    label: 北海道マイナビジョン編集（ぐるっと北海道・北海道のふるさと納税特設サイト）「北海道の市町村名の由来」（アイヌ語語源の諸説。民間資料としてE4扱い）
+    url: https://hokkaido-rrc.jp/origin
+  k2-uub-hakodate:
+    label: 市区町村変遷情報「函館市（1922〜2005年）」（大正11年8月1日の市制施行。実務資料としてE4扱い）
+    url: https://uub.jp/upd/c/8600.html
+  k2-asahikawa-city-ayumi:
+    label: 旭川市「旭川市のあゆみ（市の概要）」（チュプ・ペッ語源説と「諸説あって定かではない」との市の見解、1890年の村の設置と1922年の市制）
+    url: https://www.city.asahikawa.hokkaido.jp/700/701/summary/p008252.html
+  k2-asahikawa-crd:
+    label: レファレンス協同データベース「『旭川』の命名者，命名の由来について知りたい」（旭川市中央図書館。新聞『北海』明治23年9月23日記事の引用、アイヌ語解釈の3説、命名者の記録なし）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000242135&page=ref_view
+  k2-kushiro-city-gaiyo:
+    label: 釧路市「釧路市の概要（令和7年度）」（市名の由来はアイヌ語の諸説あり定かではないとの市の見解、明治2年の「釧路」の字の決定、2005年の新設合併）
+    url: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/002/949/r7gaiyou.pdf
+  k2-kushiro-city-machi:
+    label: 釧路市「釧路市の町名の由来」（久寿里場所についての松浦武四郎の言を『釧路郷土史考』経由で伝える）
+    url: https://www.city.kushiro.lg.jp/machi/tkeikaku/1006116/1006187/1006191.html
+  k2-hachinohe-city-gaiyo:
+    label: 八戸市「八戸市の概要」（糠部郡の8番目の「戸」、「戸」の正体についての市の見解、1929年の市制）
+    url: https://www.city.hachinohe.aomori.jp/soshikikarasagasu/kohotokeika/kohokocho/2/1702.html
+  k2-iwate-fudoki-he:
+    label: 岩手の風土記シリーズ（31）「戸（へ）の由来について考える」（九牧説・九ヶ部四門の制・四戸の存在。郷土資料としてE4扱い）
+    url: https://fukura.ne.jp/i-senior/iwate_topography31roots_he.pdf
+  k2-hachinohe-museum-nejo:
+    label: 八戸市博物館「史跡根城の広場開場30周年記念シンポジウム『根城・再考Ⅳ 根城の始まり』資料」（根城は建武元年（1334年）に南部師行が築城したという従来説と近年の見直し）
+    url: https://hachinohe-city-museum.jp/wp-content/themes/hcm/images/goods/20251025nejo-symposium.pdf
+  k2-hirosaki-city-yurai:
+    label: 弘前市「市章・地名の由来」（高岡・鷹岡の由来、弘前への改称理由は明らかでないこと、諸説の併記、寛永5年（1628年）8月20日の記録）
+    url: https://www.city.hirosaki.aomori.jp/jouhou/keikaku/files/yurai.pdf
+  k2-hirosaki-city-gaiyo:
+    label: 弘前市「弘前市の概要」（慶長16年（1611年）の弘前城築城、明治22年の市制、平成18年の合併）
+    url: https://city.hirosaki.aomori.jp/jouhou/keikaku/files/1_gaiyou.pdf
+  k2-akita-gappei-semboku:
+    label: 秋田県「市町村合併資料集・仙北市」（法定合併協議会・総務省市町村合併支援本部の記録。連称案の否決、住民公募、仙北市名の決定過程、2005年9月20日の発足）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/senboku.pdf
+  k2-koriyama-city-yurai:
+    label: 郡山市「地名の由来」（安積郡衙が郡山市清水台に置かれ、その周辺が「郡山」と呼ばれたことに地名のおこりを求める市の説明）
+    url: https://www.city.koriyama.lg.jp/soshiki/23/3568.html
+  k2-koriyama-crd:
+    label: レファレンス協同データベース「『郡山』の地名の由来は」（郡山市中央図書館。『郡山の地名』（郡山市教育委員会2005）が紹介する郡衙説・伊東氏説・芳山説の整理）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000285092&page=ref_view
+  k2-koriyama-shisei:
+    label: 郡山市「市勢概況」（大正13年（1924年）9月の市制施行）
+    url: https://www.city.koriyama.lg.jp/uploaded/attachment/113192.pdf
+  k2-iwaki-city-history:
+    label: いわき市「いわき市の歴史等について」（白雉4年（653年）の石城評、養老2年（718年）の石城国設置を『常陸国風土記』『続日本紀』の記載として紹介、1966年の合併）
+    url: https://www.city.iwaki.lg.jp/www/contents/1001000004062/simple/iwaki-history.pdf
+  k2-iwaki-mlit:
+    label: 国土交通省東北地方整備局磐城国道事務所「日本一広い市『いわき』の誕生」（1966年の14市町村合併、「以和為貴」の音読みによる命名の理念、石城・岩城・磐城の変遷）
+    url: https://www.thr.mlit.go.jp/iwaki///hama-lib/shakai/iwaki.html
+  k2-iwaki-city-50th:
+    label: いわき市「いわき市50周年記念誌」（「磐城」「石城」「岩城」が使われなかった理由と、ひらがな名「いわき」の決定過程）
+    url: https://www.city.iwaki.lg.jp/50syunenkinenshi.pdf
+  k2-iwaki-minpo:
+    label: いわき民報「いわき市誕生から60年 幻の市名案、なぜ『いわき』に」（各市から出された6つの市名案と地域史研究家・小宅幸一氏の証言。地元紙としてE4扱い）
+    url: https://iwaki-minpo.co.jp/news/2026/10/314742
+  k2-aizu-city-gaikyo:
+    label: 会津若松市「市政概況（令和6年度版）」（明治32年の若松市としての市制施行、平成16・17年の編入合併）
+    url: https://www.city.aizuwakamatsu.fukushima.jp/docs/2024073000055/file_contents/shiseigaikyo.pdf
+  k2-aizu-city-shisei1:
+    label: 会津若松市「市政の沿革」（市勢概況第1章資料。昭和30年（1955年）1月1日の合併と会津若松市への改名）
+    url: https://www.city.aizuwakamatsu.fukushima.jp/docs/2022122600027/file_contents/1.pdf
+  k2-aizu-taikei-city:
+    label: コトバンク「会津若松市」（日本歴史地名大系。黒川から若松への改名と『会津旧事雑考』の引用、1955年の会津の冠称）
+    url: https://kotobank.jp/word/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82-23787
+  k2-aizu-taikei-gun:
+    label: コトバンク「会津郡」（日本歴史地名大系。『古事記』の相津の説話、養老2年（718年）の石背国への昇格を『続日本紀』の記載として紹介）
+    url: https://kotobank.jp/word/%E4%BC%9A%E6%B4%A5%E9%83%A1-3029414
+  k2-aizu-wakamatsu-wiki:
+    label: Wikipedia「会津若松市」（1955年の改名理由。福島県総務部地方課『福島県町村合併誌（町村合併の記録）』1958年を引く。原典未読のためE5扱い）
+    url: https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82
+  k2-tsuruoka-city-gaiyo:
+    label: 鶴岡市「鶴岡市の概要（令和7年度）」（慶長8年（1603年）に最上義光が大宝寺城を鶴ヶ岡城と改名して「鶴岡」の地名ができたこと、酒井忠勝の入部と城下の整備、大宝寺の歴史）
+    url: https://www.city.tsuruoka.lg.jp/shisei/gikai/joho/gikai-shisatsu.files/R7gaiyou.pdf
+  k2-tsuruoka-city-enkaku:
+    label: 鶴岡市「鶴岡市の沿革」（最上義光の改名、酒井氏の入部、平成17年（2005年）の6市町村合併による新・鶴岡市の発足）
+    url: https://www.city.tsuruoka.lg.jp/shisei/gaiyo/soumu-gaiyouenkaku.html
+  k2-tsuruoka-fuchi:
+    label: 鶴岡市「歴史的風致維持向上計画（第2期）」（慶長8年（1603年）、酒田浜に上がった大海亀を吉兆として東禅寺城を亀ヶ崎城・大宝寺城を鶴ヶ岡城・尾浦城を大山城と改名したという伝承）
+    url: https://www.city.tsuruoka.lg.jp/seibi/rekishitekifuti/rekisikeikakunintei.files/keikakusyo_henkouR80220.pdf
+  k2-uub-tsuruoka:
+    label: 市区町村変遷情報「鶴岡市（1924〜2005年）」（大正13年（1924年）10月1日の市制施行。実務資料としてE4扱い）
+    url: https://uub.jp/upd/c/8397.html
+  k3-hamamatsu-gaiyo:
+    label: 浜松市「浜松市の概要」第1章（地名と市域の変遷。浜津・引間・浜松城改名・市制施行）
+    url: https://www.city.hamamatsu.shizuoka.jp/documents/105066/honpen_1.pdf
+  k3-hamamatsu-fuchi:
+    label: 浜松市「第1章 浜松市の歴史的風致形成の背景」（浜松市歴史的風致維持向上計画。和名類聚抄の写本による浜津から浜松への表記の変化）
+    url: https://www.city.hamamatsu.shizuoka.jp/documents/133742/03dai1shou_1.pdf
+  k3-atami-city-yurai:
+    label: 熱海市公式ウェブサイト「熱海の由来」（あつうみが崎説と万巻上人の伝承）
+    url: https://www.city.atami.lg.jp/shisei/atamishi/1001244/1001246.html
+  k3-atami-roman:
+    label: 熱海ロマン紀行「熱海温泉の歴史」（熱海市観光協会。和名類聚抄の直美郷、吾妻鏡の阿多美郷、熱海表記の初出1297年）
+    url: https://atamiroman.jp/story-onsen
+  k3-atami-wikipedia:
+    label: Wikipedia「熱海市」（熱海村・熱海町の成立と1937年の市制施行の年表）
+    url: https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B5%B7%E5%B8%82
+  k3-toyohashi-plan:
+    label: 豊橋市「第6次豊橋市総合計画」資料編（まちづくりのあゆみ。今橋城と吉田、1869年の豊橋藩改称、1906年の市制施行）
+    url: https://www.city.toyohashi.lg.jp/secure/69038/rokuzikoki.pdf
+  k3-toyohashi-faq:
+    label: 豊橋市公式「よくある質問」美術・文化財課（吉田藩から豊橋藩への改名の経緯と候補名の由来）
+    url: https://www.city.toyohashi.lg.jp/10973.htm
+  k3-toyota-tokeisho:
+    label: 豊田市統計書（豊田市公式。挙母の沿革、1958年の商工会議所請願、1959年の豊田市への市名変更）
+    url: https://www.city.toyota.aichi.jp/_res/projects/default_project/_page_/001/004/757/tokeisyo.pdf
+  k3-toyota-kobunsho:
+    label: 豊田市公式「歴史公文書の公開」（1951年の挙母市誕生と1959年1月の豊田市への改称）
+    url: https://www.city.toyota.aichi.jp/shisei/joho/kokaihogo/1009184/1023878.html
+  k3-toyota-jtb:
+    label: 公益財団法人日本交通公社「全国観光資源台帳」豊田市（古事記の許呂母別、和名類聚抄の挙母郷、高橋荘衣郷）
+    url: https://tabi.jtb.or.jp/city?opt=%E6%84%9B%E7%9F%A5%E7%9C%8C%2C%E8%B1%8A%E7%94%B0%E5%B8%82&type=city
+  k3-toyota-wikipedia:
+    label: Wikipedia「豊田市」（市名がトヨタ自動車と創業者一族の姓「豊田」に由来すること、改称をめぐる論議、市章と挙母の残り方）
+    url: https://ja.wikipedia.org/wiki/%E8%B1%8A%E7%94%B0%E5%B8%82
+  k3-okazaki-gikai:
+    label: 岡崎市議会要覧（令和7年度版。岡崎の沿革と1916年の市制施行100周年）
+    url: https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/009/797/07.pdf
+  k3-okazaki-fuchi:
+    label: 岡崎市「第1章 岡崎市の歴史的風致形成の背景」（岡崎市の歴史的風致維持向上計画。岡崎の名の由来と範囲の拡大）
+    url: https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/014/630/03-1dai1sho2-20260401.pdf
+  k3-ichinomiya-toshi:
+    label: 一宮市「一宮の都市計画」（沿革。真清田神社の一宮と門前町、1889年の一宮町、1921年の市制施行）
+    url: https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/004/753/ichinomiyanotoshikeikaku.pdf
+  k3-matsumoto-fuchi:
+    label: 松本市「第1章 松本市の歴史的風致形成の背景」（松本市歴史的風致維持向上計画。1582年の深志城から松本城への改名と市制施行・合併の経過）
+    url: https://www.city.matsumoto.nagano.jp/uploaded/attachment/108228.pdf
+  k3-matsumoto-castle:
+    label: 松本市公式「松本城の歴史」（1582年、小笠原貞慶が深志を松本と改めたとする年表）
+    url: https://www.city.matsumoto.nagano.jp/soshiki/135/4121.html
+  k3-matsumoto-shiseki:
+    label: 松本市公式「松本城（史跡）」（深志の地名と深志城の沿革、1582年の松本城への改名）
+    url: https://www.city.matsumoto.nagano.jp/soshiki/134/3775.html
+  k3-karuizawa-kanko:
+    label: 軽井沢観光協会「軽井沢という地名」（かるいさわからかるいざわへの変化と語源の諸説、東長倉村の町制施行）
+    url: https://karuizawa-kankokyokai.jp/about_karuizawa/525
+  k3-karuizawa-era:
+    label: 江良武「軽井沢地名の成立」（『信濃』第65巻第10号、2013年。諸説の検討、1395年の墨書銘、アイヌ語説や柳田国男の背負う説への評価）
+    url: https://www.karuizawagaku.com/wp-content/uploads/2013/11/timei.pdf
+  k3-takayama-chushin:
+    label: 高山市「高山市中心市街地活性化基本計画」（高山市の概況と沿革。高山外記と高山の地名、金森長近の高山城、1936年の市制施行）
+    url: https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/019/514/202403-01-01.pdf
+  k3-shirakawa-whc-rekishi:
+    label: 白川郷・五箇山の合掌造り集落世界遺産センター「歴史・産業」（白山信仰の拠点としての白川郷、明治期の白川村と荘川村への分割）
+    url: https://whc-shirakawa-goandgokayama.jp/background
+  k3-shirakawa-whc-ogimachi:
+    label: 白川郷・五箇山の合掌造り集落世界遺産センター「白川郷荻町集落」（『玉葉』安元2年の飛騨国白川郷の初見と平家落人伝説）
+    url: https://whc-shirakawa-goandgokayama.jp/three_villages/ogimachi
+  k3-shirakawa-mlit:
+    label: 国土交通省（観光庁）地域観光資源の多言語解説文データベース「白川郷の名の由来」（白川村多言語解説協議会作成。白い川の説明と白川郷42集落の範囲）
+    url: https://www.mlit.go.jp/tagengo-db/R2-00148.html
+  k4-sakai-gikai:
+    label: 堺市議会「市勢の概要」（「堺の地名と市章の由来」を含む。さかいの初出は11世紀中頃・3国の境とする）
+    url: https://www.city.sakai.lg.jp/shigikai/jimukyoku/sisatuukeire.files/260630gaiyo.pdf
+  k4-sakai-chukatsu:
+    label: 堺市「堺市中心市街地活性化基本計画」（平安時代に摂津・和泉の2国の境に位置したことから「さかい」と呼ばれるようになったとする）
+    url: https://www.city.sakai.lg.jp/shisei/toshi/machizukuri/chukatsukeikaku.files/1.pdf
+  k4-sakai-kadokawa:
+    label: 角川日本地名大辞典「堺（中世）」（JLogos掲載。中世の堺は住吉郡・大鳥郡にまたがる堺北荘・堺南荘の総称、貞永元年の文書に「泉州堺津」）
+    url: https://jlogos.com/docomosp/word.html?id=7383277
+  k4-sakai-gappei:
+    label: 堺市「堺市の合併の歴史」（1889年市制施行、14次にわたる編入、2005年2月1日美原町編入）
+    url: https://www.city.sakai.lg.jp/shisei/daitoshi_chihobun_koiki/seirei/gappei.html
+  k4-sakai-rekimachi:
+    label: 堺市「堺市歴史的風致維持向上計画」第1章（2005年の美原町合併を契機に2006年に政令指定都市へ移行）
+    url: https://www.city.sakai.lg.jp/kanko/rekishi/bunkazai/bunkazai/rekimachi/rekimachi2_nintei.files/rekimachi2_2.pdf
+  k4-toyonaka-history:
+    label: 豊中市「豊中の歴史と歩み」（豊中村の誕生は1889年、豊島郡の中央にあたることから命名と伝える。1936年市制施行）
+    url: https://www.city.toyonaka.osaka.jp/joho/shoukai/history/history.html
+  k4-toyonaka-youran:
+    label: 豊中市教育委員会「教育要覧」（市章の由来：「ト」を4つ組み合わせて「豊」、全体の形を「中」と見立てた）
+    url: https://www.city.toyonaka.osaka.jp/kosodate/kosodatetorikumi/nenji_hokoku/youran.files/R3_yoran.pdf
+  k4-suita-history:
+    label: 吹田市「吹田市の歴史」（「吹田」の名前の由来：『行基年譜』の「次田（スキタ）」が初見、音便と草書体の字形から「吹田」へ）
+    url: https://www.city.suita.osaka.jp/suitablecity/1016975/1016976/index.html
+  k4-suita-shishi:
+    label: 吹田市史 総説編（『醍醐雑事記』に貞観7年（865年）の吹田庄成立が記されることを紹介）
+    url: https://www.city.suita.osaka.jp/_res/projects/default_project/_page_/001/023/714/sousetsu.pdf
+  k4-suita-enkaku:
+    label: 吹田市「吹田市の沿革」（1940年4月1日に4町村の合併で吹田市が誕生）
+    url: https://www.city.suita.osaka.jp/shisei/1018754/1018755/1012273.html
+  k4-takatsuki-kyodo:
+    label: 高槻市「郷土の沿革」（公式資料。高槻の地名のおこりは「高月」で鎌倉時代から南北朝時代に史上に現れる。1943年市制施行、2003年中核市移行）
+    url: https://www.city.takatsuki.osaka.jp/uploaded/attachment/58620.pdf
+  k4-takatsuki-gogen:
+    label: 語源由来辞典「高槻市」（「高月」から「高槻」への転化は高い槻の木の近くの本陣に由来するという説、「高月」の語源3説）
+    url: https://gogen-yurai.jp/takatsuki-shi-osaka
+  k4-takatsuki-shisho:
+    label: 高槻市「市章・市歌・市民の木・市民の花」（市章は大阪市と京都市の市章を組み合わせ、高槻の「高」をかたどった）
+    url: http://www.city.takatsuki.osaka.jp/soshiki/4/1199.html
+  k4-hirakata-ayumi:
+    label: 枚方市「枚方のあゆみ」（公式PDF。『播磨国風土記』に「河内国茨田郡枚方里」と記されることを紹介。1947年8月1日市制施行）
+    url: https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000000/733/24394.pdf
+  k4-hirakata-fudoki:
+    label: 高田幸夫「枚方の歴史」（郷土史解説。『播磨国風土記』揖保郡条の「枚方の里」の記事と、白肩津転化説を紹介）
+    url: http://v-rise.world.coocan.jp/rekisan/htdocs/oosakaindex/hirakatac/hirakata.html
+  k4-hirakata-kusuha:
+    label: 枚方市「枚方八景 樟葉宮跡の杜」（『日本書紀』により継体天皇が507年に樟葉で即位し5年間樟葉宮を営んだとする）
+    url: https://www.city.hirakata.osaka.jp/0000000636.html
+  k4-yao-library:
+    label: 八尾市立図書館「八尾 地名の起り」（初出は長久2年（1041年）の矢作神社文書。矢負い説・八つ尾の鶯伝説・八百の柵説などを『八尾市史』等の資料で整理）
+    url: http://web-lib.city.yao.osaka.jp/digital/archive/yao_16.html
+  k4-yao-iwaware:
+    label: 八尾市「『八尾』の地名のいわれ」（鶯の尾羽根説・矢負い説・八百の杭説の3つの「いわれ」を紹介）
+    url: https://www.city.yao.osaka.jp/shisei/yaoshinoshoukai/1012611/1012656.html
+  k4-yao-gaiyo:
+    label: 八尾市「八尾市の概要」（市制施行は昭和23年4月1日、当時の人口64,431人・面積18.99平方キロメートル）
+    url: https://www.city.yao.osaka.jp/shisei/yaoshinoshoukai/1012611/1009255.html
+  k4-neyagawa-koho:
+    label: 寝屋川市広報「広報ねやがわ」令和元年10月号特集「あなたは、まだ寝屋川を知らない」（市名の由来は川名、川名は「寝屋」の地区名に由来。1889年に4村合併で寝屋川村）
+    url: https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/kikakusanka/kouhou/koho/kohoneyagwatext/h31/1568788223512.html
+  k4-neyagawa-shisho:
+    label: 寝屋川市「市章のいわれ」（市制施行した昭和26年5月3日に制定。「ネ」と「矢」で「寝屋」を表す）
+    url: https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/hisyo/shishou/index.html
+  k4-neyagawa-chimei:
+    label: 「寝屋」の地名の由来（地名由来解説サイト。星田牧の宿泊所説・布施屋説・「ネ（川岸）＋ヤ（湿地）」説、寝屋長者屋敷跡の伝承地を紹介）
+    url: http://folklore2017.com/timei900/963.htm
+  k4-neyagawa-hachikazuki:
+    label: 寝屋川市「新寝屋川八景を訪ねる散策コース 8 鉢かづき姫伝説コース」（市が鉢かづき姫の伝説をたどるコースを設定）
+    url: https://www.city.neyagawa.osaka.jp/organization_list/shiminkatsudou/bunkasport/bunkazai/sinhakkei/sansaku/23061.html
+  k4-higashiosaka-50nen:
+    label: 東大阪市「市政だより平成29年2月1日号（別紙）東大阪市50年のあゆみ」（「東大阪市」の市名の由来：合併以前からの市民の呼称で、1966年8月に決定）
+    url: https://www.city.higashiosaka.lg.jp/0000018922.html
+  k4-higashiosaka-ayumi:
+    label: 東大阪市「東大阪市の歩み」（1967年2月1日に布施・河内・枚岡の3市合併で誕生、1969年7月に人口50万人突破）
+    url: https://www.city.higashiosaka.lg.jp/0000018494.html
+  k4-higashiosaka-suido:
+    label: 東大阪市「東大阪市水道 通水90周年」（前身の旧布施町で1932年3月に給水開始）
+    url: https://www.city.higashiosaka.lg.jp/0000032398.html
+  k4-himeji-harima:
+    label: 播磨広域連携協議会「はりま風土記紀行 古の播磨を訪ねて 姫路市編」（『播磨国風土記』伊和里の14の丘に「日女道（ひめじ）丘」が挙げられる）
+    url: https://www.harima-united.jp/column/climate/contents000161.html
+  k4-himeji-gogen:
+    label: 語源由来辞典「姫路市」（『播磨風土記』の「日女道」→鎌倉期「姫道」→戦国期「姫路」の変遷、蚕子説と小道説）
+    url: https://gogen-yurai.jp/himeji-shi-hyogo
+  k4-himeji-cci:
+    label: 姫路商工会議所「数字で見る姫路経済2024」（1889年4月に城下町を市域として全国30市とともに初の市制を施行）
+    url: https://www.himeji-cci.or.jp/tokei/pdf/number/suuji_demiru2024.pdf
+  k4-hikone-city:
+    label: 彦根市「彦根市について」（地名は活津彦根命が彦根山に祭られたことに由来するとされる。1937年2月11日に彦根町と5か村の合併で市制施行）
+    url: https://www.city.hikone.lg.jp/shisei/gaiyo/3/7082.html
+  k4-hikone-kankyo:
+    label: 環境省「感覚環境のまちづくり」報告書 彦根編（「彦根」の地名は活津彦根命が活津彦根明神として彦根山に祭られたことに由来するとされている）
+    url: https://www.env.go.jp/content/900405076.pdf
+  k4-ise-gappei:
+    label: 伊勢市「伊勢市・二見町・小俣町・御薗村 合併の記録（概要版）」（1889年宇治山田町誕生、1906年宇治山田市、1955年1月1日に合併とともに伊勢市へ改称、2005年11月1日に新「伊勢市」誕生）
+    url: https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/007/870/gappei01.pdf
+  k4-ise-reiki:
+    label: 伊勢市例規集「市名変更」（昭和29年12月25日条例第18号「本市の名称『宇治山田市』を『伊勢市』に変更する」。昭和30年1月1日施行、三重県告示第1046号で許可）
+    url: http://reikisyu.city.ise.mie.jp/ise/reiki_honbun/r329RG00000599.html
+  k4-ise-fudoki:
+    label: 国際日本文化研究センター「古事類苑」データベース 地部・伊勢國（『伊勢国風土記』逸文：天日別命と伊勢津彦の話を引用）
+    url: https://ys.nichibun.ac.jp/kojiruien?%E5%9C%B0%E9%83%A8%2F%E4%BC%8A%E5%8B%A2%E5%9C%8B
+  k4-ise-jlis:
+    label: J-LIS「三重県内市町」（伊勢市の団体コード242039を掲載）
+    url: https://www.j-lis.go.jp/spd/code-address/kinki/cms_14514183.html
+  k4-ise-weblio:
+    label: Weblio辞書「伊勢市」（宇治は伊勢神宮内宮の鳥居前町、山田は外宮の鳥居前町を指す合成地名とする）
+    url: https://www.weblio.jp/content/%E4%BC%8A%E5%8B%A2%E5%B8%82
+  k5-amagasaki-city-yurai:
+    label: 尼崎市公式サイト「『あまがさき』という地名の由来」
+    level: E2
+    url: https://www.city.amagasaki.hyogo.jp/shisei/sogo_annai/history/022yurai.html
+  k5-amagasaki-ndl-ref:
+    label: レファレンス協同データベース事例「尼崎の地名の由来・表記」（国立国会図書館／回答は尼崎市立歴史博物館地域研究史料室）
+    level: E2
+    url: https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000110793
+  k5-amagasaki-zusetsu:
+    label: 尼崎市立歴史博物館「Web版 図説尼崎の歴史」近代編
+    level: E2
+    url: https://www.archives.city.amagasaki.hyogo.jp/chronicles/visual/04kindai/kindai3-3.html
+  k5-akashi-lib-digital:
+    label: 明石市立図書館「明石 郷土の記憶デジタル版」（明石の地名に関する郷土史資料のデジタル版）
+    level: E2
+    url: https://adeac.jp/akashi-lib/texthtml/d100130/mp000030-100130/ht400780
+  k5-akashi-city-aramashi:
+    label: 明石市公式サイト「市のあらまし」
+    level: E2
+    url: https://www.city.akashi.lg.jp/seisaku/kouhou_ka/shise/gaiyo/aramashi/index.html
+  k5-akashi-kotobank-hyakka:
+    label: コトバンク 日本大百科全書（ニッポニカ）「明石」
+    level: E3
+    url: https://kotobank.jp/word/%E6%98%8E%E7%9F%B3-24303
+  k5-nishinomiya-kotobank-hyakka:
+    label: コトバンク 日本大百科全書（ニッポニカ）「西宮市」
+    level: E3
+    url: https://kotobank.jp/word/%E8%A5%BF%E5%AE%AE%E5%B8%82-109522
+  k5-hirota-jinja-yurai:
+    label: 廣田神社公式サイト「西宮の地名のおこり」
+    level: E2
+    url: https://hirotahonsya.or.jp/pages/27
+  k5-nishinomiya-city-shoshi:
+    label: 西宮市公式サイト「西宮小史」
+    level: E2
+    url: http://www.city.nishinomiya.lg.jp/bunka/rekishitobunkazai/nishinomiyanorekishi/shoshi.html
+  k5-nishinomiya-sakurafm:
+    label: 西宮市公式サイト 広報さくらFM「徹底解剖」（西宮市制の沿革紹介）
+    level: E2
+    url: http://www.city.nishinomiya.lg.jp/shisei/koho/sakuraFM/tetteikaibo/2017/4gatsugo.html
+  k5-kurashiki-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「倉敷村」（備中・美作の両項目）
+    level: E3
+    url: https://kotobank.jp/word/%E5%80%89%E6%95%B7%E6%9D%91-1669106
+  k5-kurashiki-tocotoco:
+    label: 倉敷とことこ「倉敷美観地区の歴史」（倉敷市歴史資料整備室の協力による解説）
+    level: E2
+    url: https://kuratoco.com/kurashiki-bikan-history
+  k5-kurashiki-kibinavi:
+    label: きびナビ「倉敷の地名の由来」
+    level: E4
+    url: https://fuuraiki.com/kurashiki
+  k5-okayama-pref-enkaku:
+    label: 岡山県「市町村の沿革」
+    level: E2
+    url: https://www.pref.okayama.jp/uploaded/attachment/322991.pdf
+  k5-fukuyama-city-ayumi:
+    label: 福山市公式サイト「福山のあゆみ」
+    level: E2
+    url: https://www.city.fukuyama.hiroshima.jp/site/kinenshi/404844.html
+  k5-fukuyama-city-koho:
+    label: 福山市公式サイト「広報ふくやま2022年1月号」（福山城築城400年の特集）
+    level: E2
+    url: https://www.city.fukuyama.hiroshima.jp/site/koho-202201/202201.html
+  k5-fukuyama-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「福山市」
+    level: E3
+    url: https://kotobank.jp/word/%E7%A6%8F%E5%B1%B1%E5%B8%82-124160
+  k5-kure-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「呉市」
+    level: E3
+    url: https://kotobank.jp/word/%E5%91%89%E5%B8%82-57398
+  k5-kure-city-nenpyo:
+    label: 呉市公式サイト「呉市の歴史（年表）」
+    level: E2
+    url: https://www.city.kure.lg.jp/soshiki/106/kurehistory.html
+  k5-kure-blog-chimei:
+    label: 地域史ブログ「戦国日本の津々浦々」呉の初見に関する記事（下向井龍彦「中世の呉」『呉の歴史』2002年を引用）
+    level: E4
+    url: https://kuregure.hatenablog.com/entry/2025/04/09/230300
+  k5-onomichi-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「尾道市」
+    level: E3
+    url: https://kotobank.jp/word/%E5%B0%BE%E9%81%93%E5%B8%82-40943
+  k5-onomichi-kyoii:
+    label: 尾道市教育委員会『尾道の歴史と遺跡 中世編』（2011年、奈良文化財研究所リポジトリ所収）
+    level: E2
+    url: https://sitereports.nabunken.go.jp/files/attach/37/37096/71323_1_%E5%B0%BE%E9%81%93%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%A8%E9%81%BA%E8%B7%A1.pdf
+  k5-onomichi-kibinavi:
+    label: きびナビ「尾道の地名の由来」
+    level: E4
+    url: https://fuuraiki.com/onomichi
+  k5-onomichi-city-gaiyo:
+    label: 尾道市公式サイト「尾道市の概要」
+    level: E2
+    url: https://www.city.onomichi.hiroshima.jp/soshiki/2/2977.html
+  k5-hagi-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「萩市」
+    level: E3
+    url: https://kotobank.jp/word/%E8%90%A9%E5%B8%82-113549
+  k5-hagi-city-gaiyo:
+    label: 萩市公式サイト「萩市の概要（市章・市民憲章等）」
+    level: E2
+    url: https://www.city.hagi.lg.jp/soshiki/100/2798.html
+  k5-hagi-city-rekishi:
+    label: 萩市公式サイト「萩市の概要（歴史）」
+    level: E2
+    url: https://www.city.hagi.lg.jp/soshiki/100/2799.html
+  k5-shimonoseki-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「下関市」
+    level: E3
+    url: https://kotobank.jp/word/%E4%B8%8B%E9%96%A2%E5%B8%82-75400
+  k5-shimonoseki-kotobank-akamagaseki:
+    label: コトバンク 日本歴史地名大系・世界大百科事典「赤間関」
+    level: E3
+    url: https://kotobank.jp/word/%E8%B5%A4%E9%96%93%E9%96%A2-24446
+  k5-shimonoseki-city-gaiyo:
+    label: 下関市公式サイト「市政の概要」（赤間関市からの沿革と略年表）
+    level: E2
+    url: https://www.city.shimonoseki.lg.jp/uploaded/attachment/65102.pdf
+  k5-shimonoseki-mof:
+    label: 財務省「路線価でひもとく街の歴史」第51回（下関・馬関駅の改称）
+    level: E2
+    url: https://www.mof.go.jp/public_relations/finance/202405/202405k.html
+  k5-izumo-kodai-center:
+    label: 平石充（島根県古代文化センター専門研究員）「地名『出雲』の由来」（『いまどき島根の歴史』第一巻、島根県電子書籍）
+    level: E2
+    url: https://imadokishimane.bex.jp/bibi-bookshelf/imadoki_0108/OEBPS/Text/chapter-02.xhtml
+  k5-izumo-kankou-navi:
+    label: 島根県公式観光サイト「しまね観光ナビ／出雲の語源」
+    level: E2
+    url: https://www.kankou-shimane.com/destination/20885
+  k5-izumo-city-koho:
+    label: 出雲市公式サイト 広報いずも2025年5月号「出雲市は市制施行20年を迎えました」
+    level: E2
+    url: https://www.city.izumo.shimane.jp/www/contents/1744074521240/files/kouhouizumo202505_page2-5.pdf
+  k5-izumo-uub:
+    label: 市区町村変遷情報「出雲市（島根県）2005年〜」（自治体沿革の専門データベース）
+    level: E4
+    url: https://uub.jp/upd/c/452.html
+  k6-kitakyushu-city-pr:
+    label: 北九州市「市政だより令和5年4月15日号・連載『市制60周年』」（5市合併と市名公募の経緯）
+    url: https://ssl.city.kitakyushu.lg.jp/page/dayori/230415/topics/series.html
+  k6-kitakyushu-ndl-crd:
+    label: レファレンス協同データベース・北九州市立中央図書館の事例「『北九州市』という市名はどういう経過で決まったのですか」（『北九州五市合併の記録』等に基づく回答）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000058424&page=ref_view
+  k6-kurume-city-history:
+    label: 久留米市「久留米市の誕生」（市公式の歴史ページ。1889年の市制施行・有馬氏の入部・筑後国府）
+    url: https://www.city.kurume.fukuoka.jp/1100keikaku/2010shoukai/3030rekishi/history.html
+  k6-kurume-city-bunkazai:
+    label: 久留米市「久留米市の歴史文化の特徴」（歴史文化基本構想関連資料。2005年の4町編入・2008年の中核市移行）
+    url: https://www.city.kurume.fukuoka.jp/1100keikaku/2060jouhoukoukai/3060kaigiroku/4040shiminbunka/files/fy2019_2nd_meeting_materials_of_regional_planning_council_for_the_conservation_and_utilization_cultural_properties4-2.pdf
+  k6-kurume-wikipedia:
+    label: Wikipedia「久留米市」（地名の初出と語源諸説の整理。原典確認が未了のため低いレベルで扱う）
+    url: https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82
+  k6-sasebo-city-seigaiyou:
+    label: 佐世保市「市政概要」（沿革。1886年の鎮守府設置決定・1902年の市制施行）
+    url: https://www.city.sasebo.lg.jp/documents/22720/12_r8shiseigaiyou.pdf
+  k6-sasebo-ndl-crd:
+    label: レファレンス協同データベース・佐世保市立図書館の事例「佐世保の地名の由来が知りたい」（『佐世保市史』総説篇等に基づく諸説の紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000306124&page=ref_view
+  k6-beppu-city-gaiyo:
+    label: 別府市議会「別府市の紹介（市勢概要・第1編）」（別符から別府へという地名の説明、1906年の町制・1924年の市制）
+    url: https://www.city.beppu.oita.jp/gikai/20sisatu/doc/gaiyo/no1.pdf
+  k6-beppu-ndl-crd:
+    label: レファレンス協同データベース・国立国会図書館の事例「『別府』（地名）の由来」（『別府市誌』『国史大辞典』『日本大百科全書』等の記述の紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000091387&page=ref_view
+  k6-yufu-city-textbook:
+    label: 由布市「由布市について（市公式副読本・第1章）」（2005年の3町合併、湯布院と由布院の表記の違いの説明）
+    url: https://www.city.yufu.oita.jp/wp-content/uploads/2018/11/04_1shou.pdf
+  k6-yufu-kotobank-yufudake:
+    label: コトバンク「由布岳」（日本歴史地名大系。『豊後国風土記』の柚富峯・柚富郷との関係）
+    url: https://kotobank.jp/word/%E7%94%B1%E5%B8%83%E5%B2%B3-145351
+  k6-yufu-wikipedia:
+    label: Wikipedia「由布市」（市名の由来。『豊後国風土記』の柚富郷と、市名公募で最多票を得た経緯）
+    url: https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E5%B8%82
+  k6-ibusuki-city-bunkazai:
+    label: 指宿市「指宿市文化財保存活用地域計画」（地名の初出と小川亥三郎の研究、1954年の市制・2006年の合併）
+    url: https://www.city.ibusuki.lg.jp/main/uploads/syakyo/docs/%E6%8C%87%E5%AE%BF%E5%B8%82%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E5%AD%98%E6%B4%BB%E7%94%A8%E5%9C%B0%E5%9F%9F%E8%A8%88%E7%94%88.pdf
+  k6-hakone-town-ayumi:
+    label: 箱根町「町のあゆみ」（町公式。1889年の1駅6村、1956年の5町村合併、関所と天下の険）
+    url: https://www.town.hakone.kanagawa.jp/www/contents/1100000000353/index.html
+  k6-hakone-town-nenpyo:
+    label: 箱根町「町のあゆみ 年表（1956年〜1965年）」（1956年9月30日の合併と新町発足の人口・面積）
+    url: https://www.town.hakone.kanagawa.jp/www/contents/1100000001054/index.html
+  k6-hakone-jinja:
+    label: 箱根神社公式「箱根神社・九頭龍神社・箱根元宮の由緒並に宝物と文化財」（『筥根山縁起并序』と757年の万巻上人による建立の社伝）
+    url: https://hakonejinja.or.jp/hakone
+  k6-kusatsu-japanknowledge:
+    label: 日本歴史地名大系ジャーナル「歴史地名もう一つの読み方 第74回 草津」（平凡社。古形「くそうづ」と臭い泉説、室町時代の用例、冬住みの慣習）
+    url: https://japanknowledge.com/articles/blogjournal/howtoread/entry.html?entryid=83
+  k6-kusatsu-kanko:
+    label: 草津温泉観光協会「歴史（草津年代記）」（日本武尊・行基・源頼朝の発見伝承）
+    url: https://www.kusatsu-onsen.ne.jp/youkoso/bunka03.php
+  k6-kusatsu-gunma-henssen:
+    label: 群馬県「市町村名変遷早見表」（1900年7月1日に草津村を分割して草津町が発足した記録）
+    url: https://www.pref.gunma.jp/uploaded/attachment/37639.pdf
+  k6-tsuwano-town-keikaku:
+    label: 津和野町「津和野町歴史的風致維持向上計画（序論・第1章）」（沿革。1889年の町発足、1955年・2005年の合併）
+    url: https://www.town.tsuwano.lg.jp/www/contents/1365480453388/files/1-130.pdf
+  k6-tsuwano-town-dai1syou:
+    label: 津和野町「歴史的風致維持向上計画 第1章 津和野町の歴史的風致形成の背景」（吉見氏の入部と築城、亀井氏の城下町、鷺舞の伝来）
+    url: https://www.town.tsuwano.lg.jp/www/contents/1682570698880/simple/dai1syou.pdf
+  k6-tsuwano-kotobank:
+    label: コトバンク「津和野」（日本歴史地名大系。野々郷への比定と1470年の益田家文書の用例）
+    url: https://kotobank.jp/word/%E6%B4%A5%E5%92%8C%E9%87%8E-573067
 records:
 - id: muni/01-伊達市
   code: '012335'
@@ -1051,6 +1635,86 @@ records:
   - 移住以前の地名「紋鼈（もんべつ）」のアイヌ語としての語源の確定は未了
   - 明治2年（1869年）に有珠郡が邦成の支配地とされた経緯の一次資料確認は未了
   updated: '2026-11-13'
+- id: muni/01-函館市
+  code: '012025'
+  names:
+    ja: 函館市
+    reading: はこだてし
+    aliases:
+    - 箱館
+    - 函館区
+    - 宇須岸（ウスケシ）
+  user_terms:
+  - 函館はなぜ箱館と書いたのか
+  - 函館の名前の由来
+  - ウスケシとは何か
+  - 箱の形の館があった街
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 函館の名は、15世紀に津軽の豪族・河野政通がアイヌ語で「湾の端」を意味する宇須岸（ウスケシ）の地に築いた館が、箱の形に似ていたことから「箱館」と呼ばれたことに始まると函館市は説明する。明治2年（1869年）に蝦夷地が北海道と改められた際、「箱館」も同じ音の「函館」に改められた。
+  first_attestation:
+    era: 享徳3年
+    year_western: 1454
+    document: 河野政通による宇須岸館の築館（函館市「函館市の概要」が伝える「箱館」の起こり）
+    note: 市の公式説明が「箱館」の名の起こりとする出来事。「箱館」の文字が文書に現れる初出の一次確認は未実施。
+  claims:
+  - text: 函館市公式「函館市の概要」によれば、室町時代の享徳3年（1454年）、津軽の豪族・河野政通が、宇須岸（ウスケシ。アイヌ語で「湾の端」の意）と呼ばれていた漁村に館を築き、その館が箱に似ていたことから、この地は「箱館」と呼ばれるようになった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hakodate-city-gaiyo
+  - text: 函館市文化・スポーツ振興財団の人物伝によれば、河野政通の館（宇須岸河野館）は東西約64m・南北約51mに土塁と空堀をめぐらせた箱形の館であり、「箱館」の地名はこの館の形に由来するという説が有力とされる。館跡は現在の函館山麓の元町地区にあたる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hakodate-zaidan
+  - text: 一方で、「箱館（函館）」の由来をアイヌ語の「ハㇰチャシ（hak-casi）」（浅い砦の意）に求める説もあり、館の形に由来する説と併存する。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k2-hokkaido-rrc-origin
+  - text: 函館市公式によれば、長禄元年（1457年）のコシャマインの戦いで河野館は一時攻め落とされ、永正9年（1512年）に河野家が滅びて箱館は衰退したが、地名そのものは後の港町に受け継がれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hakodate-city-gaiyo
+    - k2-hakodate-zaidan
+  - text: 明治2年（1869年）、蝦夷地が北海道と改称されたのに伴い、箱館も「函館」と改められた。読みは「はこだて」のまま、漢字の「箱」が「函」に置き換わった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hakodate-city-gaiyo
+  - text: 大正11年（1922年）8月1日、函館区が市制を施行して函館市となり、札幌・小樽・室蘭・旭川・釧路の各区とともに北海道の最初の市の一つとなった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k2-hakodate-shishi
+    - k2-uub-hakodate
+  - text: 総務省「地方公共団体コード一覧」では、函館市のコードは012025とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 建物のかたちが街の名になった
+    text: 地名の由来の多くは川や山などの自然に求められるが、函館の場合は人が建てた一軒の館である。15世紀半ば、河野政通が湾の端の小村に築いた箱形の館の名が、そのまま土地の名になり、館の主人が滅びて館自体が姿を消した後も400年以上生き延びて、港町の名前になった。明治の改称でも音は守られ、「箱」が「函」に変わっただけだった。いま元町地区を歩くと、坂の上に「箱館」の原点である館のあった場所が残る。全国に「館」に由来する地名は多いが、函館のように館の「形」が由来と明示される例は珍しい。
+    sources:
+    - k2-hakodate-city-gaiyo
+    - k2-hakodate-zaidan
+  relations:
+  - pref/01
+  unknowns:
+  - 「箱館」の文字が文書に現れる初出（年と文献名）は未確認。
+  - アイヌ語「ハㇰチャシ」説の典拠となる文献（誰のどの著作か）は本バッチでは特定できていない。
+  updated: '2026-11-13'
 - id: muni/01-日高町
   code: '016012'
   names:
@@ -1134,6 +1798,86 @@ records:
   unknowns:
   - 1943年の改称時に「日高」を選んだ理由の公式記録は未確認（日高山脈の麓という説明は地元の碑の解説等による）
   - 日高国という国名自体の命名理由（日高山脈にちなむとされる）の一次資料は未確認
+  updated: '2026-11-13'
+- id: muni/01-旭川市
+  code: '012041'
+  names:
+    ja: 旭川市
+    reading: あさひかわし
+    aliases:
+    - 旭川村
+    - 旭川町
+    - 旭川区
+  user_terms:
+  - 旭川の名前の由来
+  - チュプペッとは何か
+  - 旭川は誰が名付けたのか
+  - アイヌ語を翻訳して付けた地名
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 旭川は、忠別川のアイヌ語名「チュプ・ペッ」（日・川）を意訳して明治23年（1890年）に北海道庁が命名した名とされる。「日」を「旭」に置き換えた翻訳命名だが、原語の解釈自体に「日・川」「波・川」「秋・川」の3説があり、命名者や経緯の公的記録も残っていないことを旭川市公式と旭川市中央図書館は明示している。
+  first_attestation:
+    era: 明治23年
+    year_western: 1890
+    document: 北海道庁庁令による旭川村の設置・命名（9月20日）
+    note: 村名の由来を伝える最古級の史料は、函館の新聞「北海」の明治23年9月23日記事（旭川市中央図書館のレファレンスが紹介）。
+  claims:
+  - text: 旭川市公式「旭川市のあゆみ」によれば、「旭川」の由来は忠別川のアイヌ語名「チュプ・ペッ」（チュプは「日」、ペッは「川」）を語源とする説がよく知られ、「日」を「旭」に置き換えて意訳して名付けたと言われる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-asahikawa-city-ayumi
+  - text: ただし旭川市公式も「諸説あって定かではない」とし、旭川市中央図書館のレファレンスは、原語の解釈に永田方正『北海道蝦夷語地名解』（1891年）の「日・川（Chup-pet）」、知里真志保（1960年）の「波・川（chiu-pet）」、山田秀三（1984年）の「秋・川（cuk-pet）」の3説があることを整理している。市の公式表記「チュプ・ペッ」は永田説の読みに沿う。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-asahikawa-crd
+    - k2-asahikawa-city-ayumi
+  - text: 旭川村は明治23年（1890年）9月20日、北海道庁庁令により上川郡に永山村・神居村とともに置かれた。命名の経緯や命名者についての公の記録は見つかっていない。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-asahikawa-crd
+    - k2-asahikawa-city-ayumi
+  - text: 命名の理由を伝える最古級の史料として、函館の新聞「北海」明治23年9月23日の記事があり、「土人名チュプペツにて、日月を出だす義なりとて、今訳名を用いて旭川村とす」と記している。旭川市中央図書館のレファレンスが『新旭川市史』等に基づいて紹介する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-asahikawa-crd
+  - text: 第2代北海道庁長官の永山武四郎が命名したとする説も唱えられているが、公的記録による裏づけはない（旭川市中央図書館レファレンスが関連文献の所在を案内するにとどまる）。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-asahikawa-crd
+  - text: 明治33年（1900年）に旭川町、大正11年（1922年）8月に市制を施行して旭川市となり、平成12年（2000年）には北海道で初の中核市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-asahikawa-city-ayumi
+  - text: 総務省「地方公共団体コード一覧」では、旭川市のコードは012041とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 翻訳して作られた名前、記録に残らなかった命名者
+    text: 旭川は北海道の和風地名の中でも珍しく、「翻訳」で生まれた名である。忠別川を指すアイヌ語「チュプ・ペッ」の意味を漢字に置き換えると「旭川」になる、というのが新聞『北海』の報じた命名の瞬間だった。ところが不思議なことに、誰がこの名を決めたのかは公の記録に残っていない。しかも後世の研究では原語の解釈が割れ、「日の川」は「波の川」や「秋の川」だった可能性も出てきた。名前の意味が三通りありうる街というのは面白い。旭川の旭日旗のような朝の光を思い浮かべるか、波立つ川を思い浮かべるかで、風景の見え方が少し変わる。
+    sources:
+    - k2-asahikawa-city-ayumi
+    - k2-asahikawa-crd
+  relations:
+  - pref/01
+  unknowns:
+  - 命名者が誰か（永山武四郎説を含む）は公的記録では未確認。
+  - アイヌ語原語の正しい解釈（日・川／波・川／秋・川）は確定していない。
   updated: '2026-11-13'
 - id: muni/01-札幌市
   code: '011002'
@@ -1528,6 +2272,156 @@ records:
   - ペケレベツの語義について町公式は「明るく清らかな川」とするが、アイヌ語の語構成に基づく学術的な裏付けは未確認
   - 改称前（1927年以前）の自治体名と駅逓との行政上の関係の詳細は未確認
   updated: '2026-11-13'
+- id: muni/01-釧路市
+  code: 012068
+  names:
+    ja: 釧路市
+    reading: くしろし
+    aliases:
+    - 久寿里
+    - クスリ場所
+    - 釧路区
+  user_terms:
+  - 釧路の名前の由来
+  - クスリとは何か
+  - 釧路の語源はなぜ分からないのか
+  - 釧路は昔なんと呼ばれていたか
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 釧路はアイヌ語に由来する地名だが、語源は「クッチャロ（のど）」「クシベツ・クシナイ（通り抜けることのできる川）」「クシュル（通路）」「クスリ（薬・温泉）」の諸説があり、釧路市公式自身が「定かではない」としている。江戸時代には「久寿里」とも書かれ、明治2年（1869年）の太政官布告で「釧路」の字が当てられた。
+  first_attestation:
+    era: 江戸時代初期
+    year_western: null
+    document: 松前藩が置いた「クスリ場所」
+    note: 和人の記録に現れる地名の母体。漢字表記「釧路」は明治2年（1869年）の太政官布告によるもので、「久寿里」の表記も並行して使われた。
+  claims:
+  - text: 釧路市公式「釧路市の概要（令和7年度）」は、市名の由来についてアイヌ語による諸説があり定かではないとし、「クッチャロ（のど）」「クシベツ」「クシナイ（通り抜けることのできる川）」「クシュル（通路）」「クスリ（薬・温泉）」を候補として挙げる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-kushiro-city-gaiyo
+  - text: 江戸時代初期に松前藩はこの地に「クスリ場所」を置いて拠点とし、地名はアイヌ語の「クスリ」に由来すると説明する資料もある。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k2-hokkaido-rrc-origin
+  - text: 江戸時代の釧路は「久寿里」とも表記された。釧路市の町名資料によれば、松浦武四郎は久寿里場所（現在の釧路）が「東蝦夷地で一番の都会になるだろう」と語ったと伝えられる（『釧路郷土史考』経由）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-kushiro-city-machi
+  - text: 明治2年（1869年）、太政官布告により、釧路国の設置と同時期に「釧路」の漢字が正式に当てられた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-kushiro-city-gaiyo
+  - text: 明治33年（1900年）に釧路町、大正11年（1922年）に市制を施行して釧路市となり、平成17年（2005年）10月11日に阿寒町・音別町と新設合併して現在の釧路市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-kushiro-city-gaiyo
+  - text: 総務省「地方公共団体コード一覧」では、釧路市のコードは012068とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 由来が「分からない」と市が公言する名前
+    text: 釧路市の公式資料は、市名の由来を聞かれて「諸説あり定かではない」と4つの説を並べて答える。率直だが、この4説はどれも川と地形に結びつく。「のど」を意味するクッチャロは川の流れが細く絞られる場所、「通り抜ける川」は内陸への水路、「通路」は交通の要衝、「薬」は温泉を指すと読む。和人の交易拠点「クスリ場所」として栄えた歴史を考えると、いずれの説も場所の性格の一面を突いている。結論が出ないまま140年以上使われ続けている名前というのも、釧路らしいたくましさかもしれない。
+    sources:
+    - k2-kushiro-city-gaiyo
+    - k2-hokkaido-rrc-origin
+  relations:
+  - pref/01
+  unknowns:
+  - アイヌ語語源のどの説が正しいかは、釧路市公式の見解でも未確定。
+  - 「釧路」の漢字が選ばれた理由（音の一致以外の選字理由）は本バッチでは確認できていない。
+  updated: '2026-11-13'
+- id: muni/02-八戸市
+  code: 022039
+  names:
+    ja: 八戸市
+    reading: はちのへし
+    aliases:
+    - 八戸町
+    - 根城
+  user_terms:
+  - 八戸の戸とは何か
+  - 一戸から九戸の由来
+  - 消えた四戸はどこか
+  - 糠部とは何か
+  naming_type: その他
+  prefecture: 青森県
+  homonyms: []
+  summary: 八戸は、古代末期から中世に「糠部郡（糠部地方）」と呼ばれた地域に一から九まで並んだ「戸」の地名の8番目。岩手県北から青森県南に一戸・二戸・三戸・五戸・六戸・七戸・八戸・九戸が残る全国でも珍しい連続番号地名で、「戸」の正体は律令制の統治機構に由来するとみる説、牧場（九牧）に由来するとみる説などがあり確定していない。番号のかたちで城下と港を抱える八戸は、その最大の「戸」である。
+  first_attestation:
+    era: 中世（鎌倉時代）
+    year_western: null
+    document: 糠部地方における「戸」の区分（九ヶ部四門の制）
+    note: 郷土史研究は、鎌倉時代初期には一戸から九戸までの区分が存在したとする。「八戸」の個別名が文書に現れる初出の年は未確認。
+  claims:
+  - text: 八戸市公式によれば、岩手県北から青森県南東部にかけての一から九の数字に「戸」の付く地名は、古代末期から中世にかけて「糠部郡」と呼ばれた地域に残るものであり、八戸はその8番目の「戸」を意味する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hachinohe-city-gaiyo
+  - text: 「戸」の正体について八戸市公式は、古代律令制に基づく地方統治機構に由来すると考えられるとした上で、この地域が馬産地だったことから牧場に関連させる考え方と、蝦夷支配のために北進する朝廷側の前進基地とする考え方があると紹介している。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-hachinohe-city-gaiyo
+  - text: 郷土史研究「岩手の風土記」は、中世に南部氏が置いた9か所の牧場「九牧」に由来する説を紹介する一方で、「戸」の地名自体は南部氏の糠部入部以前に成立していたとみられ、鎌倉時代初期には各「戸」に牧場1か所と村7つを置く「九ヶ部四門の制」が存在したとする。つまり牧場説は「戸」の運用の一形態の説明であって、起源の確定には至っていない。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k2-iwate-fudoki-he
+  - text: 現行自治体名に残らない「四戸」もかつて存在し、八戸市西部の櫛引八幡宮は「四戸八幡宮」と呼ばれ、この一帯を支配した櫛引氏は「四戸殿」と呼ばれていた。なぜ四戸の名が消えたのかは明らかでない（「四」が「死」に通じるためとする説も紹介されるが根拠は薄い）。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k2-iwate-fudoki-he
+  - text: 従来説では、建武元年（1334年）に南部師行が根城を築き、八戸は南部氏の城下として発展したとされてきた（八戸市博物館）。近年の発掘調査と研究の進展により、14世紀の根城と南部氏の入部の様相は見直されつつある。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-hachinohe-museum-nejo
+  - text: 昭和4年（1929年）5月1日、八戸町・小中野町・湊町・鮫村の4町村の合併により八戸市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hachinohe-city-gaiyo
+  - text: 総務省「地方公共団体コード一覧」では、八戸市のコードは022039とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一から九まで揃うのに、四だけが欠けている
+    text: 一戸、二戸、三戸、五戸、六戸、七戸、八戸、九戸。国道4号を北上すると、まるで番号札のように「戸」の地名が並ぶ。全国でもここだけという規則正しい連続地名なのに、肝心の「四戸」だけが現在の自治体名にない。実は四戸は実在し、八戸市西部の櫛引八幡宮は四戸八幡宮と呼ばれ、支配者の櫛引氏は「四戸殿」と名乗っていた。名が消えた理由は不明のままだが、1000年近く前の地方区分の番号が、いまも住所として生きていること自体がこの地域の面白さである。八戸はその最大の番号札の街だ。
+    sources:
+    - k2-hachinohe-city-gaiyo
+    - k2-iwate-fudoki-he
+  relations:
+  - pref/02
+  unknowns:
+  - 「戸」の起源（律令制の統治機構か、牧の区分か、その他か）は確定していない。
+  - 「八戸」の名が文書に初めて現れる年と文献は未確認。
+  - 四戸の名が消えた理由は未確認。
+  updated: '2026-11-13'
 - id: muni/02-南部町
   code: '024457'
   names:
@@ -1608,6 +2502,84 @@ records:
   - 「南部」の語が奥州側の地名として文書に現れる最古の用例
   - 建久2年（1191年）の入部を伝える一次史料の特定
   - 2006年の合併で旧町名を新町名とした選定理由の公式文
+  updated: '2026-11-13'
+- id: muni/02-弘前市
+  code: '022021'
+  names:
+    ja: 弘前市
+    reading: ひろさきし
+    aliases:
+    - 高岡
+    - 鷹岡
+    - 鷹ヶ岡
+  user_terms:
+  - 弘前の名前の由来
+  - 弘前は昔なんと呼ばれていたか
+  - 高岡から弘前への改名理由
+  - 弘前城の城下町の名前
+  naming_type: その他
+  prefecture: 青森県
+  homonyms: []
+  summary: 弘前は、津軽信枚が慶長16年（1611年）に城を築いて開いた城下町。地名はそれ以前の「高岡（鷹岡）」を改めたもので、改名した日付（寛永5年（1628年）8月20日）は藩主の日記に残るのに、なぜ「弘前」になったのかは市公式も「はっきりしていない」とし、「広崎」由来説・十三岬由来説・アイヌ語説が併記される。
+  first_attestation:
+    era: 寛永5年
+    year_western: 1628
+    document: 『信枚君一代之自記』
+    note: 弘前市が『弘前市史 藩政編』を引いて紹介する、「弘前」という名称の使用開始（8月20日）の記録。「弘前」の名自体は築城（1611年）当初からの城下町名として扱われることもある。
+  claims:
+  - text: 弘前市公式によれば、弘前は以前「高岡」または「鷹岡（鷹ヶ岡）」と呼ばれていた。城地が高台にあることや、城地の丘には昔鷹が多く生息し営巣していたことに由来があるようだと市は説明する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hirosaki-city-yurai
+  - text: 慶長16年（1611年）、2代藩主・津軽信枚が弘前城を築き、城下町弘前が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hirosaki-city-gaiyo
+  - text: 高岡が弘前に改称された理由ははっきりしておらず、弘前市公式は、北海道への海上交通を控え地勢が広大なところから「広崎」と呼びそれが「弘前」になったとする説、十三岬を「尾閭ヶ崎」と呼んでいたのを取ったとする説、チェンバレンが唱えたアイヌ語起源説を併記し、いずれの説も明らかではないとする。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-hirosaki-city-yurai
+  - text: 『信枚君一代之自記』には「弘前」という名称が用いられたのは寛永5年（1628年）8月20日からと記録されていると、弘前市は『弘前市史 藩政編』を引いて紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hirosaki-city-yurai
+  - text: 明治22年（1889年）4月、市町村制の実施に際して、弘前は全国の最初の市の一つとして市制を施行した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hirosaki-city-gaiyo
+  - text: 平成18年（2006年）2月27日、弘前市・岩木町・相馬村が合併して現在の弘前市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hirosaki-city-gaiyo
+  - text: 総務省「地方公共団体コード一覧」では、弘前市のコードは022021とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 改名の日付は分かるのに、理由が分からない
+    text: 弘前の改名は、記録の残り方が少し皮肉である。寛永5年8月20日という日付は、改名した当の藩主・津軽信枚の日記『信枚君一代之自記』によって日単位で分かる。にもかかわらず、信枚がなぜ「弘前」の二文字を選んだのかは、どこにも書かれていない。「広崎」からの当て字とする説、「尾閭ヶ崎」から取ったとする説、外国人学者の唱えたアイヌ語説まで、後世の推測だけが積み重なってきた。日記に経緯を残さなかった藩主の沈黙が、400年後の市役所に「明らかではありません」という誠実な注意書きを書かせている。
+    sources:
+    - k2-hirosaki-city-yurai
+    - k2-hirosaki-city-gaiyo
+  relations:
+  - pref/02
+  unknowns:
+  - 「弘前」への改称理由は市公式の見解でも未確定（広崎説・尾閭ヶ崎説・アイヌ語説のいずれとも決められない）。
+  - 「高岡」の文書上の初出は本バッチでは確認できていない。
   updated: '2026-11-13'
 - id: muni/02-青森市
   code: '022012'
@@ -1984,6 +2956,83 @@ records:
   unknowns:
   - 「美里」の具体的な選定理由（公募の有無・候補名・理由文）
   - 合併前の両町域に「美里」という字名・小地名があったか
+  updated: '2026-11-13'
+- id: muni/05-仙北市
+  code: 052159
+  names:
+    ja: 仙北市
+    reading: せんぼくし
+    aliases:
+    - 田沢湖町
+    - 角館町
+    - 西木村
+  user_terms:
+  - 仙北市の名前の由来
+  - 仙北市はどうやって決まったか
+  - 田沢湖と角館が合併した市
+  - 秋田の平成の大合併
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 仙北市は平成17年（2005年）9月20日、仙北郡の田沢湖町・角館町・西木村が新設合併して生まれた市。市名の決定は紆余曲折で、「田沢湖」と「角館」を連ねる案は協議会の投票で否決され、住民公募でも最終候補に残らなかった「仙北」が、3町村議会議長連名の提案をきっかけに会長提案として復活し、拍手で決まった。仙北は3町村に共通する郡の名である。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 臨時合併協議会（平成16年6月16日）における新市名称「仙北市」の決定（秋田県「市町村合併資料集・仙北市」）
+    note: 市としての発足は平成17年（2005年）9月20日。名称の決定が発足に先立つ合併新名の典型例。
+  claims:
+  - text: 平成17年（2005年）9月20日、田沢湖町・角館町・西木村の2町1村が新設合併して仙北市が誕生した（秋田県の合併記録）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 合併した3町村はいずれも秋田県仙北郡に属しており（新市設置の告示文は「仙北郡田沢湖町、同郡角館町、同郡西木村を廃し、その区域をもって新しい市を設置する」と記す）、新市名「仙北」は3町村に共通するその郡の名と同じである。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 当初、合併協議会は新市名を公募によらず現町村名を基に協議で決める方針だったが意見が集約できず、3町村長が提案した「田沢湖と角館の名を連ねる」案（連称案）は、平成15年（2003年）11月28日の協議会の投票で賛成16・反対11となり、出席委員の3分の2に達せず否決された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 連称案の否決を受けて住民公募に切り替わり、平成16年（2004年）3月に3町村の中学生以上の住民を対象に募集して応募総数2,315件（有効2,180件）を得た。選定委員会が第1次候補20点、第2次候補10点を選び、協議会の投票で第3次候補は「みちのく市」「角館市」「田沢湖市」「北の都市」に絞られた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 平成16年（2004年）6月16日の臨時合併協議会で、3町村の議会議長が連名で「現町村名を除いて新市の名称を考えたらどうか」と提案し、これを受けて会長が第2次候補に含まれていた「仙北市（せんぼくし）」を提案したところ、全会の拍手をもって新市名に決定した。最終候補に残っていなかった名前が、最後の場面で復活して決まった経緯である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 合併協議には当初、隣接する中仙町も参加していたが、平成15年（2003年）1月に離脱を表明し、最終的に3町村での合併となった（中仙町は大曲市などと合併して大仙市の一部となった）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 総務省「地方公共団体コード一覧」では、仙北市のコードは052159とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 敗者復活で決まった市名
+    text: 仙北市の命名劇は、合併新名の決まり方の見本市のようだ。「田沢湖角館」のような連称案は賛成多数でも特別多数（3分の2）に届かず、2,315件の住民公募を経た最終候補4案の中にも「仙北」はなかった。ところが最終局面で議長たちが「合併前の名前は全部外そう」と提案した途端、第2次候補で落選していた「仙北」が会長提案として戻ってきて、拍手で決まった。残ったのは、角館でも田沢湖でもなく、3町村の誰の故郷でもあり誰の独占でもない郡の名前だった。平成の大合併で生まれた市の名の決着としては、静かで公平な落としどころである。
+    sources:
+    - k2-akita-gappei-semboku
+  relations:
+  - pref/05
+  unknowns:
+  - 会長が「仙北市」を提案した際の理由説明（なぜ郡名がふさわしいとされたか）の文言は、秋田県の合併資料の抜粋範囲では確認できていない。
+  - 「仙北」という郡名自体の語源（仙北郡の名の由来）は本バッチの対象外で未調査。
   updated: '2026-11-13'
 - id: muni/05-秋田市
   code: 052019
@@ -2482,6 +3531,169 @@ records:
   - 「金銀の鉱山が多かった」ことを示す具体的な鉱山の記録（谷口銀山の操業実態を含む一次資料）は未確認
   - 1889年の金山村成立当時の構成村の確認は未実施
   updated: '2026-11-13'
+- id: muni/06-鶴岡市
+  code: '062031'
+  names:
+    ja: 鶴岡市
+    reading: つるおかし
+    aliases:
+    - 鶴ヶ岡
+    - 大宝寺
+    - 鶴岡町
+  user_terms:
+  - 鶴岡の名前の由来
+  - 鶴ヶ岡城とは何か
+  - 鶴岡と海亀の関係
+  - 鶴岡は誰が名付けたか
+  naming_type: その他
+  prefecture: 山形県
+  homonyms: []
+  summary: 「鶴岡」は、慶長8年（1603年）に最上義光が居城・大宝寺城を「鶴ヶ岡城」と改名したときに生まれた地名だと鶴岡市公式は明記する。酒田浜に大きな海亀が上がったことを吉兆として、亀ヶ崎城など3城を同時に改名したうちの一つという。後に庄内藩主となった酒井忠勝は名付け主ではなく、鶴ヶ岡を居城として城下を整えた側である。
+  first_attestation:
+    era: 慶長8年
+    year_western: 1603
+    document: 最上義光による大宝寺城の「鶴ヶ岡城」への改名（鶴岡市公式の概要・沿革）
+    note: 「鶴岡」の地名の成立時点として市公式が示すもの。改名の動機（海亀の上陸）は市の計画書が「といわれる」と伝える伝承的な説明を含む。
+  claims:
+  - text: 鶴岡市公式「鶴岡市の概要（令和7年度）」によれば、「鶴岡」という地名は、慶長8年（1603年）に最上義光が大宝寺城を「鶴ヶ岡城」と改名したときにできたものである。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-tsuruoka-city-gaiyo
+    - k2-tsuruoka-city-enkaku
+  - text: 鶴岡市の歴史的風致維持向上計画によれば、義光は慶長8年（1603年）、酒田浜に巨大な海亀が上がったことをめでたいことの前兆として、東禅寺城を亀ヶ崎城、大宝寺城を鶴ヶ岡城、尾浦城を大山城と改名したといわれる。長寿の象徴である鶴と亀を対にした、瑞祥を願う同時改名だったことがうかがえる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-tsuruoka-fuchi
+  - text: 「鶴ヶ岡」の名付け主は酒井氏ではない。江戸時代に入った元和8年（1622年）に最上氏が領地を没収されると、譜代大名の酒井忠勝が庄内藩主として入部し、既に鶴ヶ岡と名付いていた城を居城として新たに城を築き、城下町を整備して現在の鶴岡の基礎を築いた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-tsuruoka-city-gaiyo
+    - k2-tsuruoka-city-enkaku
+  - text: 鶴ヶ岡城の前身である大宝寺は、平安時代末期には出羽国田川郡の大泉荘の中心地であり、鎌倉時代以降は武藤（大宝寺）氏の拠点として栄えた地である。「大宝寺」の名は現在も鶴岡市内の地名として残る。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-tsuruoka-city-gaiyo
+  - text: 大正13年（1924年）10月1日、鶴岡町が市制を施行して鶴岡市となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k2-uub-tsuruoka
+  - text: 平成17年（2005年）10月1日、鶴岡市・藤島町・羽黒町・櫛引町・朝日村・温海町の1市4町1村が合併して新・鶴岡市が発足し、面積は東北地方で最も広い市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-tsuruoka-city-enkaku
+  - text: 総務省「地方公共団体コード一覧」では、鶴岡市のコードは062031とされる（当初想定された062026ではなく062031であることを一覧で確認した）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 海亀が運んできた「鶴」の字
+    text: 鶴岡に鶴が群れていたから鶴岡なのではない。1603年、庄内の浜に巨大な海亀が上がった。領主の最上義光はこれを吉兆と受け取り、領内の3つの城をいっせいに改名した。酒田の城は亀そのものの「亀ヶ崎城」、尾浦の城は「大山城」、そして大宝寺の城には亀と対になる長寿の瑞獣「鶴」を充てて「鶴ヶ岡城」とした。つまり鶴岡の鶴は、実在の鳥ではなく、海亀への返礼として選ばれた縁起の文字である。亀の相方として呼ばれた鶴の名が、城が消えた後も400年以上、庄内の中心都市の名前として残った。
+    sources:
+    - k2-tsuruoka-city-gaiyo
+    - k2-tsuruoka-fuchi
+  relations:
+  - pref/06
+  unknowns:
+  - 海亀の上陸を吉兆としたという改名の動機は、市の計画書が「といわれる」と記す伝承的な説明であり、当時の一次史料での確認は未了。
+  - 庄内藩の石高について市の資料間で表記が異なる（概要は13万8千石、沿革は14万石）ため、本レコードでは石高の数値を使っていない。
+  updated: '2026-11-13'
+- id: muni/07-いわき市
+  code: '072044'
+  names:
+    ja: いわき市
+    reading: いわきし
+    aliases:
+    - 平市
+    - 磐城市
+    - 内郷市
+    - 常磐市
+    - 勿来市
+  user_terms:
+  - いわき市はなぜひらがななのか
+  - いわきの名前の由来
+  - 14市町村が合併した市
+  - 以和為貴と地名の関係
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: いわき市は昭和41年（1966年）10月1日、5市4町5村の14市町村が対等合併して生まれた、当時日本一広い市。市名には古名の「磐城」「石城」「岩城」も候補になったが、「岩城」は秋田県の岩城町が既に使っていたことなどから使われず、読みは古名を継ぎながら表記は新しいひらがなの「いわき」が選ばれた。ひらがな名の理念には聖徳太子の十七条憲法「以和為貴」の音読み「いわき」が託されたとされる。
+  first_attestation:
+    era: 昭和41年
+    year_western: 1966
+    document: 14市町村の合併による「いわき市」の発足（10月1日）
+    note: ひらがな表記の自治体名としての初出。読み「いわき」自体は養老2年（718年）の石城国の設置に遡る古名の継承である。
+  claims:
+  - text: 昭和41年（1966年）10月1日、平市・磐城市・内郷市・常磐市・勿来市の5市に石城郡・双葉郡の4町5村を加えた14市町村が対等合併して「いわき市」が発足した。当時の人口は約33万人で、面積は平成15年（2003年）まで日本一広い市だった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-mlit
+    - k2-iwaki-city-history
+  - text: 新市名については、古くからの名である「磐城」「石城」「岩城」などが候補となったが、「岩城」は既に秋田県由利郡岩城町（現・由利本荘市の一部）が使っていたため使用できない状態であり、ほかの古名も特定の旧市や地域を連想させた。そこで新しい観点から、読みは古名を継ぐひらがなの「いわき市」が選ばれた（いわき市50周年記念誌）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-city-50th
+  - text: ひらがな名の理念として、聖徳太子の十七条憲法「以和為貴（和を以って貴しとなす）」の音読み「いわき」が掲げられ、新市の一体的な将来の発展への願いが託されたと、国土交通省磐城国道事務所の解説と市の記念誌は伝える。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-mlit
+    - k2-iwaki-city-50th
+  - text: 合併協議の過程では、各市から磐城平市（平市案）・小名浜市（磐城市案）・勿来市（勿来市案）・常磐市（常磐市案）・南東北市（内郷市案）・石城市（田人村案）の6案が出されたが最終的にはまとまらず、地域史研究家の小宅幸一氏は「14市町村が対等で合併する際には『石城』も『磐城』も固定の意識が持たれることになったため市名とはなり得ず、新しい観点で考えられたのがひらがな市名の『いわき市』であった」と証言している（地元紙いわき民報が市制60年の特集で紹介）。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k2-iwaki-minpo
+  - text: 「いわき」の読みの起源は古く、白雉4年（653年）に多珂国の北半分を分けて石城評が置かれ、養老2年（718年）には陸奥国などから石城国が置かれたことがそれぞれ『常陸国風土記』『続日本紀』の記載として伝わると、いわき市の歴史資料は紹介する。石城・岩城・磐城はいずれも「いわき」と読まれてきた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-city-history
+  - text: 慶長7年（1602年）に磐城平藩が成立して以降、「磐城」の名は国・郡・藩の名として使われ続け、明治元年（1868年）には陸奥国から分かれて磐城国も置かれた。1966年の合併市が漢字の「磐城」を名乗らなかったのは、由緒のなさではなく、対等合併の事情による。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-mlit
+    - k2-iwaki-city-50th
+  - text: 総務省「地方公共団体コード一覧」では、いわき市のコードは072044とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 由緒ある漢字を、あえて選ばなかった市
+    text: いわきには「磐城」「石城」「岩城」という、奈良時代に遡る立派な漢字の候補があった。ところが5つの市を含む14市町村の対等合併では、どの漢字を選んでも、どこかの旧市や郡の「本家」の名になってしまう。「岩城」に至っては秋田県の岩城町が先に使っていた。そこで残った答えが、音だけを古名から受け継ぐひらがなの「いわき」だった。結果として「以和為貴」の音読みと重なる偶然も手に入れ、ひらがなの市は青森県むつ市に次ぐ全国2番目となった。由緒を捨てたのではなく、対等であるために表記を脱いだ名前である。
+    sources:
+    - k2-iwaki-city-50th
+    - k2-iwaki-mlit
+  relations:
+  - pref/07
+  unknowns:
+  - 6つの候補案がどの段階でどう絞られたかの協議会の議事詳細は、地元紙の要約以上には確認できていない。
+  - 「以和為貴」の音読みを市名の理念として正式に公表した主体と時期（合併協議会か新市か）は、資料により表現が異なり確定できていない。
+  updated: '2026-11-13'
 - id: muni/07-伊達市
   code: '072133'
   names:
@@ -2566,6 +3778,86 @@ records:
   - 伊達郡の名そのものの初出（古代の郡の設置時期や和名類聚抄での確認）は未了
   - 高子岡の朝宗居館伝承の考古学的な裏づけは未確認
   - 合併協議会での名称決定の詳細な議事（市公式は協議会だより・議事録への参照を示すが、本バッチでは未読）
+  updated: '2026-11-13'
+- id: muni/07-会津若松市
+  code: 072028
+  names:
+    ja: 会津若松市
+    reading: あいづわかまつし
+    aliases:
+    - 若松市
+    - 若松町
+    - 黒川
+  user_terms:
+  - 若松の名前の由来は蒲生氏郷
+  - 会津若松はなぜ市名を変えたのか
+  - 会津とは何か
+  - 福岡の若松との混同
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 若松の名は、豊臣大名・蒲生氏郷が郷里の近江国蒲生郡にあった若松森にちなんで、もとの地名「黒川」を改めたものと日本歴史地名大系が『会津旧事雑考』を引いて伝える。明治32年（1899年）に福島県初の市として「若松市」が発足したが、昭和30年（1955年）の合併の際に「会津」を冠して会津若松市となった。「会津」の読みは『古事記』の「相津」の説話に遡ると伝える。
+  first_attestation:
+    era: 文禄元年
+    year_western: 1592
+    document: 『会津旧事雑考』文禄元年条（日本歴史地名大系が引用）
+    note: 「若松」の名の初出として地名大系が引く記録で、「江州蒲生郡有若松森、氏郷恋郷為名也」とある。自治体名「会津若松市」としての成立は昭和30年（1955年）。
+  claims:
+  - text: 日本歴史地名大系によれば、「若松」の地名のもととなった地は、蒲生氏郷の移封以前は「黒川」と呼ばれていた。同大系は『会津旧事雑考』文禄元年（1592年）条の「六月朔日黒川築於城郭、改於市井、自茲始曰若松、江州蒲生郡有若松森、氏郷恋郷為名也」という記述を引き、新領主・氏郷の郷里である近江国蒲生郡の若松森にちなんで名付けられたと伝える。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-city
+  - text: 明治32年（1899年）4月1日、若松町が市制を施行して「若松市」となり、福島県内で初めての市となった。昭和30年（1955年）1月1日に北会津郡の7村と合併した際、市名も「若松市」から「会津若松市」に改められた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-aizu-city-gaikyo
+    - k2-aizu-city-shisei1
+  - text: 1955年の改名は、福岡県の若松市（現在の北九州市若松区）との混同を避けるためだったとされ、改名前は郵便物が日平均50通、多い日には100通も誤配されたという。先に市制を敷いた側の市が改名した唯一の例ともいわれる。ただしこの説明はWikipediaが福島県総務部地方課『町村合併の記録』（1958年）を引いて紹介するものとして確認したもので、原典の直接確認は未了である。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k2-aizu-wakamatsu-wiki
+  - text: 「会津」の名の起源として、日本歴史地名大系は『古事記』崇神天皇段の説話を初見として挙げる。大毘古命が高志道を進み、その子・建沼河別命が東方十二道を進んで、互いに行合ったので、その地を「相津」と呼んだというものである。会津は相津のほか安比豆・藍津とも書かれ、『和名抄』は「阿比豆」の訓を付す。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 郡名としての「会津」の史料上の初見は養老2年（718年）で、陸奥国の白河・石背・会津・安積・信夫の五郡を割いて石背国に昇格させたことが『続日本紀』にみえると日本歴史地名大系は紹介する。石背国は10年足らずで廃され、会津郡は陸奥国に復帰した。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 平成16年（2004年）11月1日に北会津村、平成17年（2005年）11月1日に河東町を編入し、現在の会津若松市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-aizu-city-gaikyo
+  - text: 総務省「地方公共団体コード一覧」では、会津若松市のコードは072028とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 先に名乗った方が、名前を譲った
+    text: 若松市の市制は福島が1899年、福岡が1914年。先に「若松」を名乗ったのは福島の方が15年早い。ところが二つの若松市の間で郵便の誤配が絶えず、1955年に改名したのは先輩の方の福島だった。先に市制を敷いた市が改名した唯一の例ともいわれる。そして皮肉なことに、相手の福岡の若松市は1963年に北九州市へ合併されて消滅した。いま残る「会津若松」の「会津」は、もう存在しない同名の市から身を分けるためにつけた冠である。それでも地元ではすっかり定着し、鶴ヶ城の城下町は現在この長い名前で知られている。
+    sources:
+    - k2-aizu-city-shisei1
+    - k2-aizu-wakamatsu-wiki
+  relations:
+  - pref/07
+  unknowns:
+  - 1955年の改名理由（誤配の実数を含む）は、原典『町村合併の記録』（1958年）の直接確認が未了で、E5として記録している。
+  - 「会津」の語源について、相津＝川の合流する場所とする説明以上の学術的な確定は本バッチでは得られていない。
+  - 蒲生氏郷が若松森にちなんだという記録は『会津旧事雑考』の引用経由であり、当時の一次史料での確認は未了。
   updated: '2026-11-13'
 - id: muni/07-昭和村
   code: '074462'
@@ -2740,6 +4032,77 @@ records:
   - 「福島」の名付けの正確な理由（県公式に「詳細な由来は不明」。縁起担ぎ説も伝承の域を出ない）
   - 県庁所在地でありながら市制施行が1907年まで遅れた理由についての公式説明は未確認
   - 『信夫伊達風土記』自体の成立・書誌の確定は未確認（県レコードと同じ）
+  updated: '2026-11-13'
+- id: muni/07-郡山市
+  code: '072036'
+  names:
+    ja: 郡山市
+    reading: こおりやまし
+    aliases:
+    - 郡山町
+    - 安積郡衙跡（清水台遺跡）
+  user_terms:
+  - 郡山の名前の由来
+  - 福島の郡山と奈良の大和郡山の関係
+  - 安積郡衙とは何か
+  - 郡の役所があったから郡山か
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 郡山市公式の説明では、律令制の陸奥国安積郡の郡衙（郡の役所）が現在の郡山市清水台に置かれ、その周辺が「郡山」と呼ばれていたことが地名のおこりとされる。一方で、安積郡を与えられた伊東氏が本国の大和国郡山の名を移したという説や、歌に詠まれた「芳山（かほる山）」に由来する古説も『郡山の地名』が紹介として伝え、郡衙説が本命と整理されている。
+  first_attestation:
+    era: 律令期
+    year_western: null
+    document: 陸奥国安積郡衙（郡山市清水台）の設置
+    note: 名前そのものの文書初出ではなく、郡山市公式が地名の由来とする安積郡衙の存在を示すもの。「郡山」の文字の文書初出は未確認。
+  claims:
+  - text: 郡山市公式「地名の由来」によれば、陸奥国安積郡の郡衙は現在の郡山市清水台に設置されたことが遺跡等の調査で分かっており、この安積郡衙があった周辺が「郡山」と呼ばれていた時期があり、それが現在の「郡山」の地名のおこりと思われる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-koriyama-city-yurai
+  - text: 郡山市公式によれば、律令制の国郡制のもとでは現在の郡山市・田村市・田村郡・安達郡を含む一帯が「安積郡」と呼ばれており、その郡の役所（郡衙）の所在地が地名の核となったという説明である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-koriyama-city-yurai
+  - text: 一方、郡山市中央図書館のレファレンスは、『郡山の地名』（郡山市教育委員会、2005年）が紹介する別説として、文治5年（1189年）に安積郡を与えられた伊東氏が、もとの領地である大和国郡山の郷名を取って郡山と号したという説と、陸奥守・橘為仲の歌に詠まれた「かほる山（芳山）」を名の起こりとする古説を挙げ、同書は郡衙による語義を正しいものと整理している。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-koriyama-crd
+  - text: 大正13年（1924年）9月に郡山町が市制を施行して郡山市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-koriyama-shisei
+  - text: 奈良県大和郡山市の「郡山」は柳澤氏の城下町に由来する別個の地名であり、福島の郡山とは市の名称そのものは異なる（「大和」を冠する）。両者に命名上の直接の関係があるかどうかは、伊東氏説を採るかどうかによって変わる。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-koriyama-crd
+  - text: 総務省「地方公共団体コード一覧」では、郡山市のコードは072036とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 奈良の分家か、郡の役所の跡かで変わる二つの郡山
+    text: 福島県郡山市と奈良県大和郡山市。地図の上では無関係に見える二つの「郡山」だが、由来の説次第では親戚になる。文治5年（1189年）、奥州藤原氏を滅ぼした源頼朝から安積郡を与えられた伊東氏が、本国の大和郡山の名を持ち込んだという説が正しければ、福島の郡山は奈良の郡山の分家ということになる。しかし郡山市の公式見解はもっと古く、律令時代の安積郡衙の所在地がそのまま「郡山」と呼ばれるようになったという郡衙説である。説が一つ決まれば、二つの市の関係まで書き換わってしまう。地名の由来は、しばしば都市と都市の系譜の話でもある。
+    sources:
+    - k2-koriyama-city-yurai
+    - k2-koriyama-crd
+  relations:
+  - pref/07
+  unknowns:
+  - 「郡山」の文字が文書に現れる初出（年と文献名）は未確認。
+  - 郡衙説と伊東氏による大和郡山転用説のどちらが正しいかは、現時点の出典では確定できない。
   updated: '2026-11-13'
 - id: muni/07-金山町
   code: '074454'
@@ -2980,6 +4343,92 @@ records:
   - 「宇都宮」の文字列が現れる最古の文書は本バッチでは特定できなかった
   - 藤原宗円が宇都宮を称した正確な時期と、その根拠となる文書は本バッチでは未確認
   - 一宮転訛説について、音韻変化を裏付ける学術的な検証は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-日光市
+  code: 092061
+  names:
+    ja: 日光市
+    reading: にっこうし
+    aliases:
+    - 日光町
+    - 日光山
+    - 二荒山
+  user_terms:
+  - 日光市の名前の由来
+  - 日光はなぜ日光というのか
+  - 二荒山と日光の関係
+  - 日光東照宮のあるまち
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 市名は霊山・日光山の門前町だった日光町の名を受け継いだものである。「日光」は、男体山の古称「二荒山」の読み「ふたら」を「ニコウ」と音読みして「日光」の字をあてたものと伝えられる。奈良時代の勝道上人による開山以来の山岳信仰の地で、昭和29年（1954年）に旧日光市が発足し、平成18年（2006年）の5市町村合併でも「日光市」の名が継承された。
+  first_attestation:
+    era: 延長5年
+    year_western: 927
+    document: 『延喜式』神名帳（下野国二荒山神社）
+    note: 山の神名「二荒」の確実な文献例。「日光」の表記そのものの初出は本バッチでは特定できなかった
+  claims:
+  - text: 日光市の歴史年表によれば、天平神護2年（766年）に勝道上人が大谷川を渡って四本竜寺を創建したのが日光山の起源で、延暦元年（782年）には男体山（＝二荒山）への3度目の登攀で初登頂に成功した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-nenpyo1
+  - text: 二荒山神社は延長5年（927年）完成の『延喜式』神名帳に載る式内社で、男体山の神「二荒」は遅くとも平安時代前期には文献に記録されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-nenpyo1
+    - k1-nikko-kanko
+  - text: 「日光」という地名の由来は、男体山の古称「二荒山」の「フタラ」を「ニコウ」と音読みし、「日光」という文字をあてたことによるとされている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k1-nikko-kanko
+  - text: 「二荒（ふたら）」自体の語源については、観音菩薩の浄土「補陀洛（ふだらく）」に由来し補陀洛山からフタラ山の名が生まれたという説が有力とされる一方、熊笹を意味するアイヌ語の「フトラ」に由来するという説、風神が吹き荒れる土地だからという説もあり、確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k1-nikko-kanko
+    - k1-nikko-mct
+  - text: 勝道上人が大谷川を渡る際の伝説として、山菅の蛇が橋となって上人を渡したという「山菅の蛇橋」の伝承が伝わっており、現在の神橋の由来とされる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - k1-nikko-kanko
+  - text: 昭和29年（1954年）2月11日、日光町が小来川村を編入して市制を施行し、日光市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-nenpyo2
+  - text: 平成18年（2006年）3月20日、旧日光市・今市市・藤原町・足尾町・栗山村の2市2町1村が合併して新しい日光市が誕生し、市名は旧日光市の名が継承された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-shokai
+  - text: 総務省の全国地方公共団体コードで、日光市のコードは092061と定められている（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: 「ふたら」が「にっこう」になるまで
+    text: 男体山はもともと「二荒山（ふたらさん）」と呼ばれた。「二荒」を訓読みすれば「ふたら」だが、音読みすると「ニコウ」と読める。そこへ「日光」という縁起のよい字をあてたのが「日光」の始まりだと伝えられる。日光市の年表によれば、弘仁5年（814年）には空海が勝道上人の功績を称える「二荒山碑」を著したとあり、この頃には山の名が広く知られていたことがうかがえる。読みの転換ひとつで、土地の名が山の信仰とともに全国に広まる名前に変わった例である。
+    sources:
+    - k1-nikko-kanko
+    - k1-nikko-nenpyo1
+  relations:
+  - pref/09
+  unknowns:
+  - 「日光」の表記そのものが文献に現れる確実な初出は、本バッチでは特定できなかった
+  - 「日光」の命名を空海の手になるとする説は広く語られるが、本バッチでは公的資料による裏付けが取れなかったため、伝承として主張には含めなかった
   updated: '2026-11-13'
 - id: muni/10-前橋市
   code: '102016'
@@ -3299,6 +4748,85 @@ records:
   - 村名「昭和」の命名理由・発案者・選定過程は公表資料で未確認であり、『昭和村誌』など村史の直接確認が今後の課題
   - 同名の福島県昭和村との交流事業の有無など、2つの昭和村の関係史は未確認
   updated: '2026-11-13'
+- id: muni/10-草津町
+  code: '104264'
+  names:
+    ja: 草津町
+    reading: くさつまち
+    aliases:
+    - 草生津
+    - 九草津
+    - 九相津
+  user_terms:
+  - 草津の名前の由来
+  - くそうづとは何か
+  - 草津温泉は誰が発見したの
+  - 草津町はいつできたの
+  naming_type: その他（温泉地の地名「草津」を継承し、草津村の分割で町制を施行）
+  prefecture: 群馬県
+  homonyms: []
+  summary: 草津の古い呼び名は「くそうづ」で、「草津」のほか「九草津」「草生津」「九相津」とも書かれた。地名研究では、硫化水素の強い臭気を持つ泉、すなわち「臭い泉」の意味とする説が有力である。温泉の発見については源頼朝・行基・日本武尊の三つの伝承が並び立つ。町としては1900年、草津村の分割によって大字草津・前口が草津町となった。
+  first_attestation:
+    era: 文明18年
+    year_western: 1486
+    document: 堯恵「北国紀行」
+    note: 「草津の温泉」という記述がみえる用例を日本歴史地名大系ジャーナルが紹介するもの。現在も現地では温泉地を「くさづ」と呼ぶ
+  claims:
+  - text: 地名「草津」の古い形は「くそうづ」で、「草津」のほか「九草津」「草生津」「九相津」とも記され、現在も現地では温泉地を「くさづ」と呼ぶと日本歴史地名大系ジャーナルは紹介する（地方公共団体コードは104264）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+    - b-cap-chiba-soumu-code
+  - text: 語源については、萩原進『草津温泉史』が湯の硫化水素の臭気によるものとし、谷川健一編『地名の話』も湧水を指す「そうず」の語から「くそうず」すなわち「臭い泉」の意味であるとするなど、「臭い泉」説が地名研究では有力である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+  - text: 同じ「草生津」の表記は全国各地にみられ、石油や炭化水素の臭気に結びついた地名が多いことも、「臭い泉」説を補強すると同ジャーナルは指摘する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+  - text: 文献の上では、文明18年（1486年）の堯恵『北国紀行』に「草津の温泉」がみえ、明応4年（1495年）の『松陰私語』にも用例がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+  - text: 温泉の発見をめぐっては、行基菩薩が発見したとする光泉寺の縁起や、文治元年（1185年）に源頼朝が発見したとする『草津温泉来由記』の伝承が伝えられている
+    kind: legend
+    level: E3
+    status: contested
+    sources:
+    - k6-kusatsu-japanknowledge
+    - k6-kusatsu-kanko
+  - text: 草津温泉観光協会は、日本武尊が病を癒すために温泉を発見したという伝承を紹介している
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - k6-kusatsu-kanko
+  - text: 1900年（明治33年）7月1日、草津村が分割され、大字草津・大字前口の区域をもって草津町が発足した（残りの区域は六合村となった）と群馬県の変遷表は記録する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kusatsu-gunma-henssen
+  column:
+    title: 冬は村を捨てて下山した温泉町——「冬住み」の慣習
+    text: 海抜1,200メートル。草津の冬はあまりに厳しく、江戸から明治にかけての温泉場の人々は、冬になると麓の小雨村へ移り住む「冬住み」を続けた。この慣習が終わったのは1897年（明治30年）のことだという。硫黄の臭いのする湯の恵みと、暮らしを町ごと引っ越しさせるほどの寒さ。その両方が「くそうづ（臭い泉）」という名の土地の素顔だった。
+    sources:
+    - k6-kusatsu-japanknowledge
+  relations:
+  - pref/10
+  unknowns:
+  - 「くそうづ」の初出とされる中世以前の文献用例は、今回確認できた範囲では室町時代が最古であり、それ以前は未確認
+  - 草津温泉が「日本三名泉」に数えられる典拠（林羅山の選定）の一次確認は未了のため主張に含めていない
+  updated: '2026-11-13'
 - id: muni/10-高山村
   code: '104281'
   names:
@@ -3451,6 +4979,162 @@ records:
   - 新市名の候補5案がどのような選定過程（合併協議会での審議等）を経て1案に絞られたかの詳細は、本バッチでは公式資料で確認できなかった
   - 県庁所在地だった浦和市の名が新市名に残らなかった経緯についての公式説明は、本バッチでは確認できなかった
   updated: '2026-11-13'
+- id: muni/11-川口市
+  code: '112038'
+  names:
+    ja: 川口市
+    reading: かわぐちし
+    aliases:
+    - 川口町
+    - 川口宿
+    - 小川口
+  user_terms:
+  - 川口市の名前の由来
+  - 川口はなぜ川口というのか
+  - 鋳物の町川口
+  - 川口と鳩ヶ谷の合併
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 市名は古くからの地名「川口」を受け継いだもので、川口市は、旧入間川（現在の荒川）と芝川が合流する場所であったことに由来すると説明する。鎌倉時代の『とはずがたり』などに記された「小川口」が現在の川口にあたるとされる。昭和8年（1933年）に川口町など1町3村の合併で市制を施行した。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 『とはずがたり』（「小川口」）
+    note: 川口市は、鎌倉時代の作とされる『とはずがたり』と室町時代の『義経記』に記された「小川口」が現在の川口にあたるとしている（比定は市の説明による）
+  claims:
+  - text: 川口市は、「川口」という地名は旧入間川（現在の荒川）と芝川が合流する場所であったことに由来するといわれている、と説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawaguchi-keikaku
+  - text: 川口市によれば、鎌倉時代の作とされる「とはずがたり」、室町時代の作とされる「義経記」に記された「小川口」という地名が、現在の川口にあたるとされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawaguchi-keikaku
+  - text: 江戸時代には「川口宿」が日光御成道の宿場町の一つとしてにぎわい、現在と同じ「川口」の名が使われていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawaguchi-keikaku
+  - text: 昭和8年（1933年）に川口町・横曽根村・南平柳村・青木村の1町3村が合併し、川口市として市制が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawaguchi-keikaku
+  - text: 川口の植木・苗木の栽培は、明暦3年（1657年）の江戸の大火で焼け野原となった江戸へ植木や草花を供給して以来発展したと市は説明し、安行地区の植木は川口を代表する産業の一つとなった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawaguchi-keikaku
+  - text: 昭和15年（1940年）に合併した鳩ヶ谷は昭和25年（1950年）に町として分離したが、平成23年（2011年）10月11日に鳩ヶ谷市と川口市が合併し、現在の川口市が形成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawaguchi-keikaku
+  - text: 総務省の全国地方公共団体コードで、川口市のコードは112038と定められている（J-LISの埼玉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-saitama
+  column:
+    title: 分かれて61年、鳩ヶ谷との再合併
+    text: 川口市と鳩ヶ谷は、1940年に一度合併しながら、1950年に鳩ヶ谷が町として分離するという道を選んだ。その後鳩ヶ谷は市となり、川口とは別の自治体として61年間を歩んだ末、2011年10月11日に再び合併した。江戸時代には川口宿と鳩ヶ谷宿という、日光御成道に並ぶ二つの宿場だった土地が、離合集散を経て一つの市に戻ったことになる。川口の「川口」という名は、この間ずっと市の名として存続し続けた。
+    sources:
+    - k1-kawaguchi-keikaku
+  relations:
+  - pref/11
+  unknowns:
+  - 「小川口」を現在の川口に比定するのは市の説明によるもので、学術的な検討は本バッチでは確認できなかった
+  - 合流地点説以外の語源説は、市の公式資料には見当たらなかった
+  updated: '2026-11-13'
+- id: muni/11-川越市
+  code: '112011'
+  names:
+    ja: 川越市
+    reading: かわごえし
+    aliases:
+    - 河越
+    - 河肥
+    - 川越町
+    - 河越荘
+  user_terms:
+  - 川越市の名前の由来
+  - 川越はなぜ川越というのか
+  - 小江戸川越
+  - 河越と川越の違い
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 市名は中世の荘園・河越荘と、その領主だった河越氏の名に由来する古い地名を受け継いだもので、古くは「河越」と書かれ、「河肥」の表記もあった。語源には、入間川を越える地点に由来するという説と、「河肥」の字から肥沃な土地に由来するという説があり、定説はない。大正11年（1922年）に埼玉県内で初めて市制を施行した。
+  first_attestation:
+    era: 平安時代後期
+    year_western: null
+    document: 河越荘（入間川流域の荘園）の成立
+    note: 平安時代後期に河越荘が成立し、その管理者（荘司）が河越氏を称した。文応元年（1260年）の養寿院銅鐘銘では「武蔵国河肥庄」と記される
+  claims:
+  - text: 現在の川越市域北西部の上戸には河越氏の館（河越館跡）があり、平安時代末期から鎌倉時代にかけて河越荘を領した河越氏は、鎌倉幕府でも重鎮の位置を占めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawagoe-yakata
+  - text: 川越の語源には二つの対立する説がある。一つは入間川を越える地点に由来するという説、もう一つは文献に現れた当時の表記「河肥」から、入間川・小畔川などによって肥沃な土地であることに由来するという説で、郷土史料は「必ずしも定説があるとはいえない」と述べる
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k1-kawagoe-minzoku
+  - text: 川越市内南町の養寿院にある文応元年（1260年）の銅鐘の銘には「武蔵国河肥庄新日吉山王宮」とあり、鎌倉時代には「河肥」の表記が実際に使われていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k1-kawagoe-minzoku
+  - text: 河越荘は後白河上皇が永暦元年（1160年）に京都東山に創建した新日吉社に寄進された荘園で、「河肥」の表記は寄進の文書で嘉字（縁起のよい字）が選ばれたためではないかという推測がある
+    kind: fact
+    level: E4
+    status: inferred
+    sources:
+    - k1-kawagoe-minzoku
+  - text: 江戸時代、川越は川越藩の城下町として栄え、新河岸川の舟運によって江戸と結ばれ、「小江戸」と呼ばれる繁栄を見せた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawagoe-rekimachi
+  - text: 明治22年（1889年）に川越町として成立し、大正11年（1922年）12月1日に埼玉県内で初めて市制が施行され、人口約31,000人の川越市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawagoe-rekimachi
+  - text: 総務省の全国地方公共団体コードで、川越市のコードは112011と定められている（J-LISの埼玉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-saitama
+  column:
+    title: 「河肥」という一文字の謎
+    text: 川越の古い表記は「河越」だが、1260年の銅鐘には「河肥庄」と刻まれている。なぜ「肥」なのか。郷土の研究者は、河越荘が1160年創建の新日吉社へ寄進された際、中央の文書で「越」の代わりに嘉字の「肥」が選ばれたのではないかと推測する。ただし『吾妻鏡』では地名も河越氏の姓も常に「越」で書かれ、「肥」は見えないとも指摘されており、この一字は今も決着がついていない。なお、同じ「かわごえ」という読みの自治体に三重県の川越町があるが、別の土地の別の歴史を持つ地名である。
+    sources:
+    - k1-kawagoe-minzoku
+  relations:
+  - pref/11
+  - muni/24-川越町
+  unknowns:
+  - 語源の定説はない（川を越える地点説／肥沃な土地説の両論を併記した）
+  - 「河越」の名の確実な初出文書（平安時代の記録）は本バッチでは特定できなかった
+  updated: '2026-11-13'
 - id: muni/11-美里町
   code: '113816'
   names:
@@ -3517,6 +5201,90 @@ records:
   unknowns:
   - 公募の応募総数と各候補の得票数
   - 1954年以前に「美里」という小地名が域内にあったか
+  updated: '2026-11-13'
+- id: muni/11-越谷市
+  code: '112224'
+  names:
+    ja: 越谷市
+    reading: こしがやし
+    aliases:
+    - 越ヶ谷町
+    - 越ヶ谷宿
+    - 越ヶ谷郷
+  user_terms:
+  - 越谷市の名前の由来
+  - 越谷と越ヶ谷の違い
+  - 越ヶ谷宿のあったまち
+  naming_type: 合併新設
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 市名は、昭和29年（1954年）の合併で発足した越谷町の名を受け継いだものである。その際、合併前の越ヶ谷町と区別するため「ヶ」を取って「越谷」とした。「越ヶ谷」はもと広い地域を指した越ヶ谷郷の名で、語源は「越（腰）＝山や丘のふもと」「谷＝低地」とされ、台地のふもとの低地を指す名だと市の資料は説明する。
+  first_attestation:
+    era: 永禄5年
+    year_western: 1562
+    document: 小田原北条氏が葛西の本田氏に宛てた印判状（「越谷・舎人」）
+    note: 『越谷市の文化財』が紹介する用例。「越ヶ谷」はもと越ヶ谷郷と称され広い地域を指した。戦国期には「越谷」と書かれ、江戸期に「越ヶ谷」と記すようになった
+  claims:
+  - text: 『越谷市の文化財』によれば、「越ヶ谷」はもと「越ヶ谷郷」と称され、市内の出羽地区や荻島地区、それに現在のさいたま市岩槻区の一部などを含めた広い地域を指していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-koshigaya-bunkazai
+  - text: 永禄5年（1562年）の小田原北条氏が葛西の本田氏に宛てた印判状には、「越谷・舎人」は大郷であると記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-koshigaya-bunkazai
+  - text: 『越谷市の文化財』は地名の由来について、「越」は「腰」とも書かれ山や丘のふもとを、「谷」は低地を指すといわれ、越ヶ谷は川口から大門にかけての台地のふもとの低地であることによる名だと説明している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k1-koshigaya-bunkazai
+  - text: 一方、語源由来辞典は別の説として、旧荒川の川谷を越える地を意味するという説や、「コシ」は崩壊地形を意味するという説も挙げており、語源は確定していない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k1-koshigaya-gogen
+  - text: 明治22年（1889年）の町村制施行では「越ヶ谷町」として成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k1-koshigaya-gogen
+  - text: 昭和29年（1954年）11月3日、越ヶ谷町・大沢町の2町と桜井村・新方村・増林村・大袋村・荻島村・出羽村・蒲生村・大相模村の8村が合併して越谷町が発足した。その際、合併前の越ヶ谷町と区別するために「ヶ」を取って「越谷町」とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-koshigaya-tokei
+    - k1-koshigaya-gogen
+  - text: 昭和33年（1958年）11月3日、市制を施行して越谷市となった。埼玉県下で22番目の市だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-koshigaya-tokei
+  - text: 総務省の全国地方公共団体コードで、越谷市のコードは112224と定められている（J-LISの埼玉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-saitama
+  column:
+    title: 「ヶ」があるかないかで分かる新旧
+    text: 越谷の中心部にある旧来の土地は今も「越ヶ谷」と「ヶ」を付けて書き、越ヶ谷高校や越ヶ谷宿の表記にも「ヶ」が残る。一方、1954年の合併後に生まれた地名は「ヶ」なしで、南越谷・北越谷・東越谷のほか越谷北高校・越谷南高校にも「ヶ」は入らない。これは1954年に、新しい町を合併前の越ヶ谷町と区別するために「ヶ」を外した名残である。市内で「ヶ」のある地名とない地名を見比べると、合併前の町の範囲と、その後に広がった市街地の輪郭が浮かび上がる。
+    sources:
+    - k1-koshigaya-gogen
+    - k1-koshigaya-tokei
+  relations:
+  - pref/11
+  unknowns:
+  - 語源は台地のふもとの低地とする説と、川谷を越える地とする説などがあり確定していない
+  - 越ヶ谷郷の成立時期を示す中世以前の確実な用例は、本バッチでは確認できなかった
   updated: '2026-11-13'
 - id: muni/12-千葉市
   code: '121002'
@@ -3595,6 +5363,164 @@ records:
   - 「千葉」の語源について、市のいう好字説以外の説の具体的内容は、本バッチでは専門文献（『角川日本地名大辞典』等）で確認できなかった
   - 『万葉集』の千葉郡防人の歌の正確な巻・歌番号は、本バッチでは特定できなかった
   - 千葉市が市制を施行した正確な月日は、本バッチで確認した市公式資料の範囲では明記されていなかった
+  updated: '2026-11-13'
+- id: muni/12-柏市
+  code: '122173'
+  names:
+    ja: 柏市
+    reading: かしわし
+    aliases:
+    - 東葛市
+    - 柏町
+    - 千代田村
+    - 柏村
+  user_terms:
+  - 柏市の名前の由来
+  - 柏はなぜ柏というのか
+  - 東葛市だった柏市
+  - 柏駅のまち
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は2段階で決まった。昭和29年（1954年）9月の合併では、構成町村の名を避けて「東葛市」と命名されたが、旧小金町の分離を契機に名称への疑問が広がり、市民の要望に応えて同年11月15日、中心地として定着していた「柏」の名に改称された。「柏」は江戸時代の柏村に遡る地名だが、その語源は市の公式資料では説明されていない。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 柏村（水戸街道沿いの村）
+    note: 市名の直接の由来である柏町は大正15年（1926年）に千代田村が町制を施行して成立した。「柏」という地名自体はそれ以前の柏村に遡るが、初出の文献と語源は本バッチでは確認できなかった
+  claims:
+  - text: 江戸時代の柏村は、明治22年（1889年）の町村制施行で新たに設けられた千代田村の一部となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-shisei
+  - text: 明治29年（1896年）に鉄道（現在のJR常磐線）が敷設されて柏駅が開業すると、柏駅を中心に市街地が形成され始めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-shisei
+  - text: 大正15年（1926年）に千代田村は町制を施行し、「柏町」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-shisei
+  - text: 昭和29年（1954年）9月1日、柏町・小金町・田中村・土村の4町村が合併して東葛市が発足した。市名は、四か町村の名称を受け継ぐことが市民の融和の妨げになると予想されたため、この地区が東葛飾郡の中央部に位置することにちなんで「東葛市」と決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+  - text: 同年10月15日に旧小金町の大部分が松戸市へ編入され、11月1日には富勢村の一部が東葛市に編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+    - k1-kashiwa-rekishi
+  - text: 旧小金町の分離を契機に住民の間から東葛市という名称に疑問がつけられ、当時の市の広報は「市民の要望に応え市の名称を柏市と変更」と伝えた。昭和29年（1954年）11月15日、市の名称変更に関する条例により、東葛市は柏市に改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+  - text: 柏市は、柏駅の設置とともに交通の要衝として市街地が形成される中で、「柏」という名前はもはや旧村名ではなく、新市にふさわしい名称として周囲から認められる存在になっていたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+  - text: 総務省の全国地方公共団体コードで、柏市のコードは122173と定められている（J-LISの千葉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-chiba
+  column:
+    title: 75日だけ存在した市「東葛市」
+    text: 柏市の前身「東葛市」が存在したのは、昭和29年（1954年）9月1日から11月15日までの約75日間にすぎない。融和を考えて付けたはずの新市名は、合併の枠組みが崩れた（小金町の大半が松戸市へ移った）途端に存在意義を問われ、住民の要望で中心地の旧名「柏」に取って代わられた。市の名前がこれほど短期間で覆る例は珍しく、東葛市の役所看板の写真が市の公式サイトに残されている。現在の「東葛」という言葉は、高校名（県立東葛飾高校）などに生き続けている。
+    sources:
+    - k1-kashiwa-tokatsu
+  relations:
+  - pref/12
+  unknowns:
+  - 「柏」という地名自体の語源（柏の木に因む説など）は、本バッチで参照した市の公式資料では説明されておらず、専門文献での確認が今後の課題
+  - 柏村の初出文献は未確認
+  updated: '2026-11-13'
+- id: muni/12-船橋市
+  code: '122041'
+  names:
+    ja: 船橋市
+    reading: ふなばしし
+    aliases:
+    - 船橋町
+    - 船橋御厨
+    - 船橋宿
+  user_terms:
+  - 船橋市の名前の由来
+  - 船橋は本当に船の橋があったのか
+  - 船橋大神宮のあるまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は中世以来の地名「船橋」を受け継いだものである。「船橋」は『吾妻鏡』文治2年（1186年）の記事に「船橋御厨」として現れる。語源については、海老川に船を並べて板を渡した橋が地名になったという説が通説とされる一方、船の停泊用の桟橋に由来するという説もあり、市の資料でも「どちらとも決めがたい」とされている。
+  first_attestation:
+    era: 文治2年
+    year_western: 1186
+    document: 『吾妻鏡』（「船橋御厨」）
+    note: 船橋市デジタルミュージアム『ふるさとの地名（改訂版）』が紹介する初出。伊勢神宮領の御厨（みくりや）の名として記された。一次文献そのものは未読のため二次資料経由の記録として扱う
+  claims:
+  - text: 船橋市デジタルミュージアム『ふるさとの地名（改訂版）』によれば、「船橋」の名が初めて見える文献は鎌倉幕府の公式記録『吾妻鏡』で、文治2年（1186年）の記事の中に「船橋御厨（みくりや）」として記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-museum
+  - text: 同書は語源の通説として、宮本の台地から海神方面へ渡る道が海老川を越える場所に、船を並べて上に板等を渡した橋が設けられ、それが地名になったとする説を挙げる。一方で地名辞典類には「船の停泊のために桟橋を設けた所」と説くものもあり、同書は「どちらとも決めがたいが、現時点では通説をやや優位としておく」としている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k1-funabashi-museum
+  - text: 船橋市西図書館の郷土資料は由来伝説として、景行天皇が東国を巡って当地に着いた帰路、大勢の行列を渡すために夏見から対岸まで船が並び、まるで船の橋のように見えたため「船橋」の名が起こったという話を伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-lib
+  - text: 江戸時代の船橋は五日市村・九日市村・海神村に分かれていたが、三村を総称して船橋村とか船橋宿とも称し、明治22年（1889年）にその地域が船橋町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-museum
+  - text: 昭和12年（1937年）、船橋町が葛飾町・八栄村・塚田村・法典村と合併して船橋市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-museum
+    - k1-funabashi-natsumi
+  - text: 総務省の全国地方公共団体コードで、船橋市のコードは122041と定められている（J-LISの千葉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-chiba
+  column:
+    title: 御厨（みくりや）という名の船橋
+    text: 文治2年（1186年）の『吾妻鏡』に現れる「船橋御厨」とは、伊勢神宮に年貢を納める荘園「御厨」のことである。船橋は中世、伊勢神宮領として知られた土地で、その中心にあったのが意富比神社（船橋大神宮）だとされる。隣の夏見にも「夏見御厨」があり、夏見の西夏見日枝神社の大鳥居には今も伊勢神宮の方角を向いた「わらへび」が毎年奉納されているという。船橋の名が文献に初めて現れた時、それは橋の名である前に、神宮に属する土地の名だった。
+    sources:
+    - k1-funabashi-museum
+    - k1-funabashi-natsumi
+  relations:
+  - pref/12
+  unknowns:
+  - 語源は「船を並べた橋」説（通説）と「桟橋」説が併存し、市の資料でも確定していない
+  - 『吾妻鏡』文治2年条の原文は未読で、市デジタルミュージアムの紹介による記録にとどまる
+  - 日本武尊に結びつける由来伝説も市の図書館資料にあるが、本バッチでは景行天皇伝説のみを記録した
   updated: '2026-11-13'
 - id: muni/13-府中市
   code: '132063'
@@ -3766,6 +5692,85 @@ records:
   - 東京都は「都庁所在地」という概念自体に公式の定義を置いておらず、都公式FAQも「都庁の所在地」（住所）に答える形のため、「新宿区が都庁所在地である」と断定する一次的な根拠は存在しない。本レコードでは都庁の物理的所在地をもって扱った
   - 内藤新宿の開設が元禄11年（1698年）か元禄12年（1699年）かは資料により表記の揺れがあり（新宿区広報は1699年開設とする）、本バッチでは区の概要資料の1698年を採用したが、設置認可と開設の段階差の可能性がある
   updated: '2026-11-13'
+- id: muni/14-川崎市
+  code: '141305'
+  names:
+    ja: 川崎市
+    reading: かわさきし
+    aliases:
+    - 川崎町
+    - 川崎宿
+    - 河崎
+  user_terms:
+  - 川崎市の名前の由来
+  - 川崎はなぜ川崎というのか
+  - 川崎大師の川崎
+  - 川崎宿のあったまち
+  naming_type: 一部の地名
+  prefecture: 神奈川県
+  homonyms: []
+  summary: 市名は東海道の宿場町・川崎宿に発達した川崎町の名を受け継いだものである。「川崎」は平安時代後期の文献に「河崎」と現れる古い地名で、川崎市は「川の先」、すなわち多摩川の河口近くに位置していたことに由来すると説明する。大正13年（1924年）に川崎町・大師町・御幸村が合併して川崎市が誕生した。
+  first_attestation:
+    era: 平安時代後期
+    year_western: null
+    document: 「河崎冠者基家」の名乗り（『川崎市水道百年史』が紹介）
+    note: この地に移って荘園を開いた秩父基家が地名をとって「河崎冠者」と名乗ったのが文献上の初めと市は伝える。当時は「河崎」と書かれた
+  claims:
+  - text: 『川崎市水道百年史』によれば、「川崎」という地名が文献に登場するのは平安時代後期のことで、この地に移って荘園を開いた秩父基家が地名をとって「河崎冠者基家」と名乗ったことに始まるといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawasaki-suido
+  - text: 「川崎」の由来について、川崎市は「川の先」、すなわち多摩川の河口近くに位置していたことによる名であると説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawasaki-seisaku
+  - text: 元和9年（1623年）、久根崎・砂子・小土呂・新宿の各地区をもって川崎宿が東海道の宿駅の一つに加えられ、多摩川の六郷の渡しを控える宿場として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawasaki-suido
+    - k1-kawasaki-chimei
+  - text: 明治22年（1889年）の町村制施行の際、新宿・砂子・小土呂・久根崎と堀之内を合わせて川崎町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawasaki-suido
+  - text: 大正13年（1924年）7月1日、川崎町・大師町・御幸村が合併して川崎市が誕生した。当時の人口は約4万8,000人だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawasaki-seisaku
+  - text: 市制の発足は当初大正12年（1923年）に目指されたが、関東大震災の発生と、大師河原村が町制を施行してから合併したいという事情のため、翌大正13年にずれ込んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kawasaki-kusei50
+  - text: 総務省の全国地方公共団体コードで、川崎市のコードは141305と定められている（J-LISの神奈川県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-yoko-jlis
+  column:
+    title: 市制は震災で1年延びた
+    text: 川崎の市制は、本来なら大正12年（1923年）に始まるはずだった。ところが同年9月に関東大震災が発生し、さらに合併相手の大師河原村が「まず町になってから合流したい」と望んだため、発足は大正13年7月1日にずれ込んだ。川崎大師の門前町である大師町と、東海道の宿場町だった川崎町、多摩川沿いの農村だった御幸村という、性格の違う3町村の合併で生まれた市である。誕生時の人口は約4万8,000人で、その後の100年で30倍を超える大都市に成長した。
+    sources:
+    - k1-kawasaki-kusei50
+    - k1-kawasaki-seisaku
+  relations:
+  - pref/14
+  unknowns:
+  - 「川の先」説以外の語源説（「川の崎」など）については、本バッチでは専門文献の裏付けが取れなかった
+  - 平安時代後期の「河崎」の一次資料そのものは未読で、市史の紹介による記録にとどまる
+  updated: '2026-11-13'
 - id: muni/14-横浜市
   code: '141003'
   names:
@@ -3845,6 +5850,317 @@ records:
   - 「横浜」の名が現れる最古の文書は本バッチでは特定できなかった。室町時代の用例が指摘されることがあるが、一次資料で確認できていない
   - 「横に長い浜」説以外の語源説は、本バッチでは専門文献で確認できなかった
   - 開港場を神奈川から横浜に置いた幕府の判断理由については諸説があり、本バッチでは市の公式資料の範囲を超えて断定していない
+  updated: '2026-11-13'
+- id: muni/14-横須賀市
+  code: '142018'
+  names:
+    ja: 横須賀市
+    reading: よこすかし
+    aliases:
+    - 横須賀町
+    - 横須賀村
+  user_terms:
+  - 横須賀市の名前の由来
+  - 横須賀はなぜ横須賀というのか
+  - 軍港のまち横須賀
+  - ペリーが来た横須賀
+  naming_type: 一部の地名
+  prefecture: 神奈川県
+  homonyms: []
+  summary: 市名は三浦半島の漁村だった横須賀村・横須賀町の名を受け継いだものである。「横須賀」は鎌倉時代の『吾妻鏡』に「三浦横須賀」と見える古い地名で、「須賀」は砂州を意味し、横に長く伸びた砂州を指す名と考えられている。慶応元年（1865年）の横須賀製鉄所設立を機に軍港都市となり、明治40年（1907年）に横浜市に次ぐ県内2番目の市として発足した。
+  first_attestation:
+    era: 建保3年
+    year_western: 1215
+    document: 『吾妻鏡』建保3年3月5日条（「三浦横須賀」）
+    note: 『日本歴史地名大系』が引く用例で、将軍家の花見の地として記される。一次文献そのものは未読のため、二次資料経由の記録として扱う
+  claims:
+  - text: 『日本歴史地名大系』によれば、「横須賀」の地名は『吾妻鏡』建保3年（1215年）3月5日条に「将軍家為覧花、御出于三浦横須賀」と見える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k1-yokosuka-kotobank
+  - text: 語源由来辞典は、「スカ（須賀）」は砂州（砂処・州処）を意味し、横須賀は横に長く伸びた砂州のことと考えられるとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k1-yokosuka-gogen
+  - text: 「須賀」という地名要素が砂州・砂地を意味することは、千葉県匝瑳市の須賀地区について同市の公式資料も「須賀という地名は、全国各地に存在する。その語源は須が砂州を意味する」と説明しており、各地の「須賀」に共通する語義とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sosa-suka
+  - text: 明治9年（1876年）に横須賀村が横須賀町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-yokosuka-zaidan
+  - text: 慶応元年（1865年）、江戸幕府が横須賀村（現在の本町一帯）に横須賀製鉄所を設立した。以後、横須賀は漁村・農村集落から軍港都市へと変貌していった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-yokosuka-zaidan
+  - text: 明治39年（1906年）12月15日に横須賀町と豊島町が合併し、明治40年（1907年）2月15日に市制を施行して横須賀市が誕生した。横浜市に次いで神奈川県内2番目の市だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-yokosuka-shisei110
+  - text: 総務省の全国地方公共団体コードで、横須賀市のコードは142018と定められている（J-LISの神奈川県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-yoko-jlis
+  column:
+    title: 黒船が来たのは「横須賀」ではなかった
+    text: 嘉永6年（1853年）にペリーが来航したのは浦賀沖で、上陸したのは久里浜である。どちらも現在の横須賀市域だが、当時は横須賀とは別の村々だった。横須賀の名が表舞台に出るのはその12年後、幕府が横須賀村に製鉄所（後の横須賀造船所）を造ってからである。軍港として急成長した横須賀は、明治40年（1907年）に県内2番目の市となり、やがて浦賀や久里浜も市域に取り込んだ。黒船の舞台と軍港の名が同居する現在の市域は、この合併の結果である。
+    sources:
+    - k1-yokosuka-zaidan
+    - k1-yokosuka-shisei110
+  relations:
+  - pref/14
+  unknowns:
+  - 『吾妻鏡』建保3年条の原文は未読で、『日本歴史地名大系』の引用による記録にとどまる
+  - 「横に長い砂州」説について、『角川日本地名大辞典』の見解は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/14-相模原市
+  code: '141500'
+  names:
+    ja: 相模原市
+    reading: さがみはらし
+    aliases:
+    - 相模原町
+  user_terms:
+  - 相模原市の名前の由来
+  - 相模原はなぜ相模原というのか
+  - 軍都だった相模原
+  - 日本一大きな町だった相模原町
+  naming_type: 合併新設
+  prefecture: 神奈川県
+  homonyms: []
+  summary: 「相模原」は昭和16年（1941年）の8町村合併で生まれた新しい町名で、構成町村のどの名でもなく、相模国に広がる原野「相模野」・相模原台地を指す地域の名を採用したものとされる。町名の決定には神奈川県が関与した。相模原町は昭和29年（1954年）に市制を施行して相模原市となった。
+  first_attestation:
+    era: 昭和16年
+    year_western: 1941
+    document: 高座郡相模原町の成立（8町村の合併）
+    note: 「相模原」という自治体名の初出。それ以前、この一帯の原野は「相模野」と呼ばれ、台地は相模原台地と呼ばれていた
+  claims:
+  - text: 江戸時代、現在の相模原市域の中央部は「相模野」と呼ばれる雑草や雑木の茂る広大な原野で、江戸期を通じて新田開発が進められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sagamihara-gappei
+  - text: 昭和16年（1941年）4月29日、上溝町・座間町の2町と相原・大野・大沢・田名・麻溝・新磯の6村が合併し、人口45,482人・面積108.71平方キロで当時「日本一大きな町」とされた高座郡相模原町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sagamihara-gappei
+    - k1-sagamihara-archive
+  - text: 「相模原」という町名は合併する8町村のいずれの名でもなく、相模原市立図書館のレファレンス記録によれば、町名は神奈川県の側から提示されて「相模原町」に決められたという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sagamihara-ndlref
+  - text: 合併を進めた相模原市（合併協議会）の資料は、「相模原」の歴史的背景として、相模野と呼ばれた原野の開発の歴史を位置づけており、市名は相模国の名と台地の原野を指す「原」を組み合わせた地域名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sagamihara-gappei
+  - text: 昭和10年代には陸軍士官学校や相模陸軍造兵廠などの軍施設が次々に置かれて「軍都」と呼ばれるようになり、県による相模原都市建設区画整理事業が進められたことが、8町村合併の背景にあった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sagamihara-gappei
+  - text: 昭和29年（1954年）11月20日、相模原町が市制を施行して相模原市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-sagamihara-archive
+  - text: 総務省の全国地方公共団体コードで、相模原市のコードは141500と定められている（J-LISの神奈川県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-yoko-jlis
+  column:
+    title: 「日本一大きな町」の名は県が決めた
+    text: 1941年に生まれた相模原町は、面積108.71平方キロ・人口45,482人で「日本一大きな町」だった。だが、その名は合併する8町村の住民が選んだものではない。相模原市立図書館の調べでは、町名は神奈川県の側から一方的に「相模原町」と決められたという。軍都建設を進める県にとって、相模野の大台地全体を指す大きな名前が必要だったのだろう。「相模原」という地名が世に出たのはこの時が初めてで、それ以前に「相模原」という町や村は存在しなかった。
+    sources:
+    - k1-sagamihara-gappei
+    - k1-sagamihara-ndlref
+    - k1-sagamihara-archive
+  relations:
+  - pref/14
+  unknowns:
+  - 神奈川県が「相模原」の名を選んだ具体的な理由を記した一次資料は、本バッチでは確認できなかった（図書館レファレンスが引く『相模原市史』第4巻等は未読）
+  - 「相模原」の語が1941年以前に地域名としてどう使われていたかは、台地名（相模原台地）としての用例以上の確認ができていない
+  updated: '2026-11-13'
+- id: muni/14-箱根町
+  code: '143821'
+  names:
+    ja: 箱根町
+    reading: はこねまち
+    aliases:
+    - 筥根
+  user_terms:
+  - 箱根の名前の由来
+  - 箱根町はいつできたの
+  - 箱根関所と天下の険
+  - 筥根とは何か
+  naming_type: 合併新設
+  prefecture: 神奈川県
+  homonyms: []
+  summary: 現在の箱根町は、1956年に湯本町・温泉村・宮城野村・仙石原村・箱根町の5町村が合併して生まれた町で、合併前の構成町村の一つだった旧箱根町（関所の町）の名が全体の名となった。「箱根」の語源については確定した説明を確認できておらず、中世の縁起では「筥根」とも表記された。万巻上人が757年に社殿を建立したという箱根神社の社伝など、山岳信仰の伝承がこの名と深く結びついている。
+  first_attestation:
+    era: 建久2年
+    year_western: 1191
+    document: 筥根山縁起并序
+    note: 箱根神社の縁起。「筥根」と表記され、箱根山と箱根権現の名を伝える中世の資料。より古い用例の有無は未確認
+  claims:
+  - text: 1956年（昭和31年）9月30日、湯本町・温泉村・宮城野村・仙石原村・箱根町の5町村が合併して現在の箱根町が誕生した。発足当時の人口は16,491人だった（地方公共団体コードは143821）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-hakone-town-nenpyo
+    - k6-hakone-town-ayumi
+    - b-cap-chiba-soumu-code
+  - text: 1889年（明治22年）の町村制では、のちの箱根町域は湯本村・温泉村・宮城野村・仙石原村・箱根駅・元箱根村・芦之湯村の1駅6村に分かれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-hakone-town-ayumi
+  - text: 中世の縁起『筥根山縁起并序』（1191年成立）では地名が「筥根」と表記され、箱根神社はこの縁起を伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-hakone-jinja
+  - text: 箱根神社の社伝では、天平宝字元年（757年）に万巻上人が芦ノ湖畔に社殿を建立し、箱根山の三神を祀って「箱根三所権現」と号したと伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-hakone-jinja
+  - text: 縁起には、聖占仙人が孝昭天皇の御代に駒ヶ岳の山頂に神仙宮を開いたという開山の伝承が記される
+    kind: legend
+    level: E2
+    status: contested
+    sources:
+    - k6-hakone-jinja
+  - text: 箱根は東海道の要衝で、深い谷と急な坂路から「天下の険」と呼ばれ、江戸時代には幕府が芦ノ湖畔に関所を置いて往来を取り締まったと箱根町は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-hakone-town-ayumi
+  column:
+    title: 関所の町の名前が、山全体の名前になった
+    text: 1956年の合併で新しい町の名になった「箱根」は、もとは芦ノ湖畔の関所を中心に栄えた一町村の名だった。江戸時代、東海道最大の難所とされたこの地には関所が置かれ、「入り鉄砲に出女」の取り締まりで知られた。その宿場町の名が、湯本・宮城野・仙石原といった温泉地を含む町全体の名となり、今日では温泉地群全体を指す広域ブランドとして定着している。町の名は、関所の町の名の「格上げ」だったのである。
+    sources:
+    - k6-hakone-town-ayumi
+    - k6-hakone-town-nenpyo
+  relations:
+  - pref/14
+  unknowns:
+  - 「箱根」の語源（カルデラの形状に由来するという俗説等）については、専門辞典による確定した説明を本調査では確認できなかった
+  - 『万葉集』に箱根の歌があるとする紹介も見られるが、本調査では原典・専門資料での確認が取れていないため主張に含めていない
+  updated: '2026-11-13'
+- id: muni/14-鎌倉市
+  code: '142042'
+  names:
+    ja: 鎌倉市
+    reading: かまくらし
+    aliases:
+    - 鎌倉町
+    - 鎌倉郷
+    - 可麻久良
+  user_terms:
+  - 鎌倉の名前の由来
+  - 鎌倉はなぜ鎌倉というのか
+  - 藤原鎌足の鎌の話は本当か
+  - 鎌倉幕府の鎌倉
+  naming_type: 一部の地名
+  prefecture: 神奈川県
+  homonyms: []
+  summary: 市名は相模国鎌倉郡の郷名以来の古い地名を受け継いだものである。「鎌倉」は奈良時代には確実に使われており、天平5年（733年）の木簡に「鎌倉郡鎌倉里」とある。語源は確定しておらず、三方を山に囲まれた地形に由来する説が有力とされるほか、藤原鎌足が鎌を埋めたという伝説などが市の公式ページに併記されている。
+  first_attestation:
+    era: 和銅5年
+    year_western: 712
+    document: 『古事記』中巻・景行天皇条（「鎌倉之別」）
+    note: 氏族名としての「鎌倉」の初出とされる。地名としての確実な初期例は天平5年（733年）の宮久保遺跡出土木簡「鎌倉郡鎌倉里」で、『万葉集』には「可麻久良」と詠まれている
+  claims:
+  - text: 「鎌倉」の名が文書に登場するのは、和銅5年（712年）成立の『古事記』の中で、日本武尊の子・足鏡別王を「鎌倉之別の祖」と記しているのが最初とされる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k1-kamakura-izakamakura
+  - text: 神奈川県綾瀬市の宮久保遺跡から出土した天平5年（733年）銘の木簡に「鎌倉郡鎌倉里」と記されており、奈良時代には鎌倉郡・鎌倉郷（里）の名が実際に使われていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k1-kamakura-izakamakura
+  - text: 鎌倉市公式は、「鎌倉」の由来には諸説あるとした上で、地形的な説として「鎌はもともと『かまど』のことで、倉は『谷』のこと。三方を山に囲まれ南が海に開けた地形が、かまどのようで倉のように一方が開いていることによる」という説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k1-kamakura-yurai
+  - text: 鎌倉市中央図書館のレファレンス記録は、地形に由来を求める説が有力だとしつつ、『角川日本地名大辞典』が「カマは洞穴、クラは岩の意ともいう」と説くことなど、複数の地形説が併存することを示している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k1-kamakura-ndlref
+  - text: 藤原鎌足が神宮参拝の途中、由井里（今の由比ガ浜）に泊まった夜に不思議な夢を見て、いつも持っていた鎌（鎌槍）を大蔵の松ヶ岡に埋めた。そこから「鎌倉」になったといわれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k1-kamakura-yurai
+  - text: 神武天皇が東国を征服しようとした際、毒矢に当たって死んだ人々の屍が山となり今の鎌倉の山ができた。「屍（かばね）が蔵をつくった」ので「屍蔵（かばねくら）」となり、それがなまって「かまくら」になったといわれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k1-kamakura-yurai
+  - text: 昭和14年（1939年）11月3日、鎌倉郡鎌倉町と腰越町の区域を合わせて市制を施行し、鎌倉市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kamakura-intro
+  - text: 総務省の全国地方公共団体コードで、鎌倉市のコードは142042と定められている（J-LISの神奈川県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-yoko-jlis
+  column:
+    title: 幕府より500年以上古い名前
+    text: 「鎌倉」は源頼朝の幕府で有名になったが、地名自体はそれよりはるか前からあった。奈良時代の木簡には「鎌倉郡鎌倉里」とあり、『万葉集』にも「可麻久良」と詠まれている。つまり頼朝は新しい名前を作ったのではなく、三方を山に囲まれた天然の要害に、少なくとも450年以上の歴史を持つ古い地名の土地を選んだことになる。幕府の所在地として選ばれた理由の一つが地形だとすれば、「かまど」のように囲まれた地形を指すという語源説とも響き合う。
+    sources:
+    - k1-kamakura-izakamakura
+    - k1-kamakura-yurai
+  relations:
+  - pref/14
+  unknowns:
+  - 語源の定説はなく、地形説が有力とされるが確定していない。アイヌ語説・蒲（がま）説・神倉（かみくら）説なども市公式が併記する
+  - 『古事記』の「鎌倉之別」を地名そのものの初出とみなしてよいかは議論の余地があり、本レコードでは氏族名としての初出と位置づけた
   updated: '2026-11-13'
 - id: muni/15-新潟市
   code: '151009'
@@ -4705,6 +7021,86 @@ records:
   - 「川上郷」の範囲と現在の村域がどの程度一致するかは未確認
   - 重仁親王伝承について、村公式資料（村史・村勢要覧）がどう扱っているかは未確認
   updated: '2026-11-13'
+- id: muni/20-松本市
+  code: '202029'
+  names:
+    ja: 松本市
+    reading: まつもとし
+    aliases:
+    - 深志
+    - 府中
+    - 松本町
+  user_terms:
+  - 松本市の名前の由来
+  - 深志から松本への改称
+  - 松本城の名前の由来
+  naming_type: その他（城の改称に由来する名の継承）
+  prefecture: 長野県
+  homonyms: []
+  summary: 市名は城下町「松本」の継承で、その松本は天正10年（1582）に小笠原貞慶が深志城を松本城と改めたことに始まると松本市は説明する。この地は古くは深志と呼ばれ、国府が置かれてからは府中とも呼ばれた。貞慶がなぜ「松本」の名を選んだのかは同時代の記録では確認できていない。明治40年（1907）に市制を施行した。
+  first_attestation:
+    era: 天正10年
+    year_western: 1582
+    document: 小笠原貞慶による深志城の松本城への改称（松本市公式「松本城の歴史」）
+    note: 「松本」の公称としての初出は1582年の城の改称。これ以前に地名としての用例があったかは確認できていない
+  claims:
+  - text: 松本の地は古くは深志と呼ばれ、平安時代初期に上田から国府が移されてからは府中とも呼ばれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-matsumoto-shiseki
+  - text: 深志城は永正元年（1504）に小笠原氏の一族・島立貞永により平城として構築され、天文19年（1550）以降は武田氏の信濃支配の拠点となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-matsumoto-shiseki
+  - text: 天正10年（1582年）、武田氏の滅亡後に小笠原貞慶が深志城を回復して名を松本城と改め、これ以降、松本の地名が用いられるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-matsumoto-fuchi
+    - k3-matsumoto-castle
+  - text: 貞慶が「松本」という名を選んだ理由について、松本市公式の資料は説明しておらず、「松本」の語源は確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - k3-matsumoto-castle
+    - k3-matsumoto-shiseki
+  - text: 明治40年（1907）5月1日に市制を施行して松本市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-matsumoto-fuchi
+  - text: 平成17年（2005）と平成22年（2010）の合併を経て、現在の松本市の市域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-matsumoto-fuchi
+  - text: 総務省の全国地方公共団体コードで、松本市の団体コードは202029と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 名前を付けた人は、天守を見ていない
+    text: 1582年に城を「松本」と名付けた小笠原貞慶は、父の代に武田氏に追われた旧領を取り返したばかりでした。深志という旧名を捨てて新しい名を掲げることは、支配の再出発の宣言でもあったはずです。ところが貞慶は1590年に移封され、いま私たちが見ている国宝の天守を実際に築いたのは、次の城主・石川康長の代（1593年から）です。名前を付けた人は天守を見ず、天守を建てた人は名前を変えなかった。その後400年以上、「松本」の名だけが城とまちの顔として残りました。
+    sources:
+    - k3-matsumoto-castle
+    - k3-matsumoto-fuchi
+  relations:
+  - pref/20
+  unknowns:
+  - 貞慶が「松本」の名を選んだ理由を示す同時代史料は確認できていない
+  - 1582年の改称以前に「松本」という地名の用例があったかは未確認
+  - 「深志」の語源については本バッチでは確認できていない
+  updated: '2026-11-13'
 - id: muni/20-池田町
   code: '204811'
   names:
@@ -4788,6 +7184,93 @@ records:
   unknowns:
   - 「池田」の語源（池と田の地形名に由来するか等）は、確認した資料の範囲では説明がなく未確認
   - 池田郷の成立時期（1465年より前の記録）は未確認
+  updated: '2026-11-13'
+- id: muni/20-軽井沢町
+  code: '203211'
+  names:
+    ja: 軽井沢町
+    reading: かるいざわまち
+    aliases:
+    - 軽井沢宿
+    - 東長倉村
+    - かるいさわ
+  user_terms:
+  - 軽井沢の名前の由来
+  - 軽井沢のアイヌ語説は本当か
+  - かるいさわ と かるいざわ の違い
+  - 軽井沢の語源の諸説
+  naming_type: 一部の地名
+  prefecture: 長野県
+  homonyms: []
+  summary: 町名は碓氷峠のふもとの集落・宿場の名「軽井沢」の継承である。古くは「かるいさわ」と読まれ、明治以降に避暑地として知られるようになると「かるいざわ」に変化したとされる。語源は今日でもはっきりしておらず、渇れた沢とする説、柳田国男の「背負う」説、アイヌ語説など諸説が対立したままで、専門の論文も定説なしと評価している。大正時代に東長倉村が町制を施行して軽井沢町となった。
+  first_attestation:
+    era: 応永2年
+    year_western: 1395
+    document: 真楽寺金剛力士像の墨書銘（『信濃史料』第7巻収録）
+    note: 北佐久郡軽井沢の文献上の初出として地名研究の江良武の論文が紹介するもの。「軽井沢」の名の成立は中世とみるのが妥当と論文は論じる
+  claims:
+  - text: 軽井沢は古くは「かるいさわ」と呼ばれ、明治以降に避暑地として広まり外国人の往来が盛んになると、発音しやすい「かるいざわ」へ変化していったといわれている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k3-karuizawa-kanko
+  - text: この地名がいつ何から起こったのかは今日でもはっきりしていないと軽井沢観光協会は述べ、「凍り冷わ（こおりさわ）」から転じたという説、「軽石沢」から来たという説、水が枯れた「かれ沢」から来たという説などを挙げている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k3-karuizawa-kanko
+  - text: 地名研究者の江良武は、北佐久郡軽井沢の文献上の初出として応永2年（1395）の真楽寺金剛力士像後頭部の墨書銘に旦那名として見える例を挙げ、軽井沢地名の成立は中世とみてよいと論じている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k3-karuizawa-era
+  - text: 「karuはアイヌ語で軽石、iは大いなる、sawaは沢であるから『軽石の大沢』の意である」とするアイヌ語説が辞典類に紹介されているが、江良は、こうした音の類似性という直感に基づく諸説は論理に乏しいと評している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k3-karuizawa-era
+  - text: 柳田国男は、峠では荷物を馬からおろして自分で背負って登らねばならず、中古時代に背負うことを「かるう」といったことから「かるう沢」が「かるい沢」に転じたとする説を唱えた。この説は論議の中心となって批判も受け、今日では水の枯れた沢に由来する渇沢説が有力になっているように思われると江良は述べる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k3-karuizawa-era
+    - k3-karuizawa-kanko
+  - text: 江戸時代には五街道の一つである中山道に軽井沢宿が設置され、宿場として栄えた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k3-karuizawa-kanko
+  - text: 大正時代に東長倉村が町制を施行し、軽井沢町と改称して現在に至っている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k3-karuizawa-kanko
+  - text: 総務省の全国地方公共団体コードで、軽井沢町の団体コードは203211と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 荷物を背負って越えた峠のふもと
+    text: 碓氷峠は中山道最大の難所で、馬の背に荷を載せたままでは越えられず、ふもとで荷をおろし、人が背負って登ったといいます。柳田国男はここに目をつけ、背負うことを意味した古い言葉「かるう」から「かるう沢」、やがて「軽井沢」になったと考えました。地名研究の江良武はこの説への批判を整理したうえで、軽井沢型の地名の多くが街道沿いの居住地名であることは、命名が農業ではなく交通に関係したことを暗示すると指摘しています。語源の決着はついていませんが、「峠の交通が生んだ名前」という見立て自体は、軽井沢が宿場として育った歴史とよく響き合います。
+    sources:
+    - k3-karuizawa-era
+    - k3-karuizawa-kanko
+  relations:
+  - pref/20
+  unknowns:
+  - 語源は諸説が対立したままで、専門の論文も「どれも特に有力な説とはいえない」水準の評価にとどまる
+  - 1395年より前の用例の有無は確認できていない
+  - 東長倉村が町制を施行して軽井沢町となった正確な年月日は、本バッチで確認した観光協会の資料では年次まで示されていない
+  - アイヌ語説を最初に唱えた文献とその根拠の詳細は、論文の要約的な紹介の範囲を超えて確認できていない
   updated: '2026-11-13'
 - id: muni/20-長野市
   code: '202011'
@@ -5170,6 +7653,166 @@ records:
   - 美濃国池田荘の初出文書・成立時期は未確認
   - 1954年の改称を決めた際の公式な理由の記録は未確認（旧村名の復活とする説明は経緯からの類推）
   updated: '2026-11-13'
+- id: muni/21-白川村
+  code: '216046'
+  names:
+    ja: 白川村
+    reading: しらかわむら
+    aliases:
+    - 白川郷
+  user_terms:
+  - 白川村の名前の由来
+  - 白川郷の白川の意味
+  - 白川郷と白川村の違い
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 村名は歴史的な地域名「白川郷」の白川を受け継いだもので、「飛騨国白川郷」の名は平安時代末期の『玉葉』に見える。「白川」は「白い川」の意で、白山の地下から流れ出る温泉の鉱物のために庄川の水がしばしば濁って白く見えることを形容した名と説明される。明治時代に白川郷42集落のうち23集落が白川村となり、残りは荘川村（現在の高山市域）となった。
+  first_attestation:
+    era: 安元2年
+    year_western: 1176
+    document: 『玉葉』（九条兼実の日記）
+    note: 「飛騨国白川郷」の名の初見として白川郷・五箇山の合掌造り集落世界遺産センターが紹介するもの。村名はこの広域の地域名「白川郷」の継承である
+  claims:
+  - text: 平安時代末期、九条兼実の日記『玉葉』の安元2年（1176）の条に「飛騨国白川郷」の名が初めて見えると白川郷・五箇山の合掌造り集落世界遺産センターは紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-ogimachi
+  - text: 「白川」は「白い川」を意味し、休火山である白山の下から流れ出る温泉の鉱物が支流に流れ込むため、しばしば濁って白く見える庄川の水を形容した言葉であると、国土交通省の多言語解説文データベース（白川村多言語解説協議会作成）は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-mlit
+  - text: 白川郷は8世紀以来の白山信仰の修験の行場として開かれ、飛騨側からの白山登拝路の拠点であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-rekishi
+  - text: 江戸時代、白川郷には42の集落があり、大名の領地ではなく江戸幕府の直轄地（天領）であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-mlit
+    - k3-shirakawa-whc-rekishi
+  - text: 寿永2年（1183）に倶利伽羅峠の戦いで敗れた平家の残党が白川郷に落ちのびたとする伝説が、村人の間に語り継がれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-ogimachi
+  - text: 明治時代になると、白川郷の42集落のうち23集落が岐阜県白川村となり、残りの集落は荘川村（現在の高山市の一部）となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-rekishi
+  - text: 平成7年（1995）、白川村の荻町集落は富山県五箇山の集落とともに「白川郷・五箇山の合掌造り集落」として世界遺産に登録された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-ogimachi
+  - text: 総務省の全国地方公共団体コードで、白川村の団体コードは216046と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 白川郷は、白川村より大きい
+    text: 「白川郷」と「白川村」は同じ範囲を指す言葉ではありません。白川郷は庄川流域の42集落全体を指した歴史的な広域の名前で、いまの白川村はそのうち下流側の23集落です。残りの集落は荘川村となり、2005年の合併で高山市の一部になりました。国土交通省の解説文も「白川郷の名は歴史上の全体を指すので、小さい方の白川村と混同しないように」とわざわざ注意しています。世界遺産の名前にある「白川郷」は広い方の白川郷で、村の名前はその一部を受け継いだものなのです。
+    sources:
+    - k3-shirakawa-mlit
+    - k3-shirakawa-whc-rekishi
+  relations:
+  - pref/21
+  - muni/21-高山市
+  unknowns:
+  - 白川村が成立した正確な年次（明治何年か）は、本バッチで確認した公的資料では特定できていない
+  - 「白い川」説の原典にあたる村史・地名辞典の記述は本バッチでは直接確認できていない
+  - 『玉葉』の該当記事の原文確認は行っておらず、世界遺産センターの紹介に基づく
+  updated: '2026-11-13'
+- id: muni/21-高山市
+  code: '212032'
+  names:
+    ja: 高山市
+    reading: たかやまし
+    aliases:
+    - 高山町
+  user_terms:
+  - 高山市の名前の由来
+  - 飛騨高山の名前の理由
+  - 高山は人名なのか
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は城下町「高山」の継承で、その地名は永正年間（1504〜21）に守護代多賀氏の一族・高山外記が現在の城山に城砦を築いた頃にさかのぼると高山市は説明する。城内に多賀天神を祀って天神山・多賀山と称したことに由来するともいわれており、由来は確定していない。天正14年（1586）に金森長近が高山城を築いて城下町を形成し、昭和11年（1936）に市制を施行した。
+  first_attestation:
+    era: 永正年間（1504〜21年）
+    year_western: null
+    document: 高山市公式資料（高山市中心市街地活性化基本計画）
+    note: 「高山」の地名は高山外記が城山に城砦を築いた頃にさかのぼると市の公式計画が説明するもので、同時代文書による初出の特定ではない
+  claims:
+  - text: 「高山」の地名は、永正年間（1504〜21）に守護代多賀氏の一族である高山外記が、現在の城山に城砦を築いた頃にさかのぼると高山市の公式資料は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 城内に近江の多賀天神を祀り、天神山・多賀山と称したことに由来するともいわれている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k3-takayama-chushin
+  - text: 天正13年（1585）に飛騨を平定した金森長近は、翌天正14年に飛騨に入り、天神山に高山城の築城を始めて城下町を形成した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 明治8年（1875）に高山一之町村・二之町村・三之町村が合併して高山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 昭和11年（1936）11月1日、大名田町を合併して市制を施行し、高山市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 平成17年（2005）2月1日に丹生川村・清見村・荘川村など周辺9町村と合併し、日本一広大な面積を有する市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 総務省の全国地方公共団体コードで、高山市の団体コードは212032と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「高山」は人名だったのか、山の名か
+    text: 高山という地名の候補は2つあります。ひとつは永正年間に城砦を築いた武将・高山外記という人名。もうひとつは、城内に多賀天神を祀った山が天神山・多賀山と呼ばれたという山の名の系譜です。高山市の公式資料は前者を本筋として書きながら、後者も「由来するともいわれている」と併記していて、決着はついていません。はっきりしているのは、どちらの話でも出発点が同じ城山（いまの高山城跡）だということ、そして金森長近がこの名を受け継いで城下町を完成させ、名前が飛騨の中心地の呼び名として定着したことです。
+    sources:
+    - k3-takayama-chushin
+  relations:
+  - pref/21
+  - muni/21-白川村
+  unknowns:
+  - 高山外記の人名に由来するのか、天神山・多賀山の称に由来するのかは、市の公式資料でも確定していない
+  - 「高山」の同時代文書における初出は本バッチでは特定できていない
+  - 高山外記という人物の実在性と事績の検証は本バッチでは行えていない
+  updated: '2026-11-13'
 - id: muni/22-森町
   code: '224618'
   names:
@@ -5245,6 +7888,93 @@ records:
   - 「森」の村名の具体的な初出文書は未確認（町の説明は鎌倉時代中頃とするが文書名を示していない）
   - 森の名の由来（森林の姿によるか、神社の森によるか等）を特定する資料は未確認
   updated: '2026-11-13'
+- id: muni/22-浜松市
+  code: '221309'
+  names:
+    ja: 浜松市
+    reading: はままつし
+    aliases:
+    - 浜津
+    - 引間
+    - 曳馬
+    - 浜松町
+  user_terms:
+  - 浜松市の名前の由来
+  - 浜松はなぜ浜松というのか
+  - 曳馬と浜松の関係
+  - 浜松城の名前の由来
+  naming_type: 一部の地名
+  prefecture: 静岡県
+  homonyms: []
+  summary: 市名は古代の郷名「浜松（はまつ）」を受け継いだものである。古くは「浜津」と書かれ、市の中心域は中世には引間（引馬）と呼ばれていたが、元亀元年（1570）に徳川家康が引間城を浜松城と改めてから、城下町の名として浜松が定着した。明治44年（1911）に市制を施行して浜松市となった。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 伊場遺跡出土木簡・『和名類聚抄』高山寺本
+    note: 地名の古形「浜津（はまつ）」としての初出。現在の表記「浜松」は『和名類聚抄』の室町時代の写本に見える
+  claims:
+  - text: 浜松は古代の遠江国敷智郡の郷名で、『和名類聚抄』高山寺本には「浜津（はまつ）」とされ、奈良時代の伊場遺跡出土木簡にも同じ表記が見えると浜松市の概要は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-hamamatsu-gaiyo
+  - text: 『和名類聚抄』の平安時代後期の写本には「浜津」とあるが、室町時代の写本では「浜松」と表記され「波万万都（はまつ）」の読み仮名が添えられており、表記は中世のうちに浜津から浜松へ移った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-hamamatsu-fuchi
+  - text: 中世の市の中心域は引間（引馬とも表記）と呼ばれ、『吾妻鏡』建長4年（1252）に東海道の引間宿の名が見えるなど、引間は当地随一の経済拠点として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-hamamatsu-gaiyo
+  - text: 元亀元年（1570年）、徳川家康が引間城を改修して浜松城と改め、近世には城下町の名称として浜松が定着した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-hamamatsu-gaiyo
+  - text: 読みが「はまつ」のまま「浜津」から「浜松」へ字が置き換わった理由は、確認できた市の公式資料では説明されておらず、確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - k3-hamamatsu-fuchi
+    - k3-hamamatsu-gaiyo
+  - text: 明治22年（1889）に浜松町が誕生し、明治44年（1911）7月1日の市制施行により、静岡県では静岡市に次いで2番目の市となる浜松市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-hamamatsu-gaiyo
+  - text: 平成17年（2005）に浜松市・浜北市・天竜市など12市町村が合併して現在の浜松市となり、平成19年（2007）に政令指定都市へ移行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-hamamatsu-gaiyo
+  - text: 総務省の全国地方公共団体コードで、浜松市の団体コードは221309と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読みはそのまま、字だけが変わった
+    text: 奈良時代の伊場遺跡の木簡に残るこの地の名は「浜津」でした。読みは今と同じ「はまつ」です。ところが室町時代の『和名類聚抄』の写本では、読み仮名「波万万都（はまつ）」を添えながら、字の方はもう「浜松」に置き換わっています。なぜ「津」が「松」になったのか、市の資料は教えてくれません。一方、中世のまちの中心は引間と呼ばれ、浜松はその周辺を指す地名でした。1570年に家康が引間城を浜松城と改めると、周辺地名だったはずの浜松が城と城下町全体の名前に昇格します。読みは奈良時代から不変、主役の地名は中世と近世で入れ替わった、というのが浜松の名前の歩みです。
+    sources:
+    - k3-hamamatsu-fuchi
+    - k3-hamamatsu-gaiyo
+  relations:
+  - pref/22
+  unknowns:
+  - 「浜津」から「浜松」へ表記が変わった理由と正確な時期は、市の公式資料では確定していない
+  - 「浜津」の「津」が浜名湖の港を指すのかなど、語源そのものの検証は専門の地名辞典まで確認できていない
+  - 引間（ひくま）の語源については本バッチでは確認できていない
+  updated: '2026-11-13'
 - id: muni/22-清水町
   code: '223417'
   names:
@@ -5317,6 +8047,87 @@ records:
   unknowns:
   - 1889年の合併時に「清水」の名を選んだ経緯を示す議事記録等は未確認
   - 柿田川が「町名の由来ともなった湧水」とする以上の、命名者や選定過程は未確認
+  updated: '2026-11-13'
+- id: muni/22-熱海市
+  code: '222054'
+  names:
+    ja: 熱海市
+    reading: あたみし
+    aliases:
+    - 阿多美
+    - 安多美
+    - 直美
+    - 熱海町
+  user_terms:
+  - 熱海の名前の由来
+  - 熱海はなぜ熱海と書くのか
+  - あつうみが崎とは
+  - 熱海温泉の始まり
+  naming_type: 一部の地名
+  prefecture: 静岡県
+  homonyms: []
+  summary: 市名は古くからの地名「あたみ」を受け継いだもので、古くは直美・阿多美・安多美などの当て字が使われ、「熱海」の表記が確認できる最古の資料は永仁5年（1297）の文書とされる。語源は明らかではなく、海中の温泉で海水が熱くなったという「あつうみ」説は市公式が伝える説明である。昭和12年（1937）に熱海町と多賀村が合併して熱海市が発足した。
+  first_attestation:
+    era: 永仁5年
+    year_western: 1297
+    document: 北条貞時の走湯山宛文書
+    note: 「熱海」の表記が確認できる最古の資料と『熱海温泉誌』が紹介するもの。地名「あたみ」自体は『和名類聚抄』の「直美郷」や『吾妻鏡』建保元年（1213）の「阿多美郷」など、より古い当て字で現れる
+  claims:
+  - text: 10世紀の辞書『和名類聚抄』には「直美郷」とあり、古くは直美・阿多美・安多美などの漢字が「あたみ」に用いられたと熱海ロマン紀行は紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k3-atami-roman
+  - text: 『曾我物語』には建久4年（1193）の「伊豆安多美湯」が見え、『吾妻鏡』には建保元年（1213）に北条泰時が「伊豆国阿多美郷」の地頭職を走湯権現に寄進したとあると熱海ロマン紀行は紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k3-atami-roman
+  - text: 「熱海」の表記が確認できる最古の資料は永仁5年（1297）のもので、鎌倉幕府の執権・北条貞時が走湯山に宛てた文書に「熱海郷」と記されていると『熱海温泉誌』に基づき熱海ロマン紀行は紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k3-atami-roman
+  - text: 熱海市公式は、海中から温泉が沸き上がって海水がことごとく熱湯のようになったため「あつうみが崎」と呼ばれ、それが変じて「あたみ」になったと言われていると説明するが、「あたみ」の語源は明らかではないと熱海ロマン紀行は述べており、語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k3-atami-city-yurai
+    - k3-atami-roman
+  - text: 奈良時代、箱根の万巻上人が、海中に沸く熱湯で魚が死ぬのを哀れんだ漁民の訴えを聞き、祈願によって泉脈を海中から山里へ移したと伝えられ、その源泉が現在の大湯、その社が湯前神社（湯前権現）とされる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k3-atami-city-yurai
+  - text: 明治22年（1889）に熱海村が発足して明治24年（1891）に熱海町となり、昭和12年（1937）4月10日に多賀村と合併して熱海市が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k3-atami-wikipedia
+  - text: 総務省の全国地方公共団体コードで、熱海市の団体コードは222054と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 三つの当て字を経て「熱海」へ
+    text: 「あたみ」という音は古くからありましたが、漢字はずっと定まっていませんでした。『和名類聚抄』では「直美」、鎌倉時代の記録では「阿多美」「安多美」と書かれ、いずれも音を借りた当て字です。いまの「熱海」の字が文書に現れるのは1297年のことで、温泉のまちにふさわしい「熱い海」という意味の字が、ようやく音に追いついた形です。市の公式説明にある「あつうみが崎」の話は、この当て字の成立を後から説明したものとも読めます。音が先、意味のある字は後、という順序は日本の地名では珍しくありませんが、熱海はその過程が文書でたどれる例です。
+    sources:
+    - k3-atami-roman
+    - k3-atami-city-yurai
+  relations:
+  - pref/22
+  unknowns:
+  - 「あたみ」の語源は、確認できた資料のいずれでも明らかではないとされており、確定していない
+  - 阿多美郷の正確な範囲（現在の市域との対応）は本バッチでは確認できていない
+  - 万巻上人の開湯伝説に対応する奈良時代の記録は確認できていない
   updated: '2026-11-13'
 - id: muni/22-静岡市
   code: '221007'
@@ -5411,6 +8222,76 @@ records:
   - 向山黄村の進言説については、向山自身の史料や伝記・墓誌にも言及がないと指摘されており、裏付けは未確認
   - 政令指定都市への移行（2005）の経緯について、市公式の沿革ページでの直接確認は未了
   updated: '2026-11-13'
+- id: muni/23-一宮市
+  code: '232033'
+  names:
+    ja: 一宮市
+    reading: いちのみやし
+    aliases:
+    - 一宮町
+  user_terms:
+  - 一宮市の名前の由来
+  - 一宮とは何か
+  - 真清田神社と一宮市の関係
+  naming_type: 一部の地名
+  prefecture: 愛知県
+  homonyms: []
+  summary: 市名は、真清田神社が尾張国の一宮（いちのみや＝その国で最も格式の高い神社）とされたことに由来する。その門前町であるこの地域が「いちのみや」と呼ばれるようになり、明治22年（1889）に一宮町、大正10年（1921）に一宮市となった。国名・郡名・川の名ではなく、神社の格を示す普通名詞がそのまま市名になった例である。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 真清田神社を尾張国一宮とする社格の成立と門前町の呼称
+    note: 「いちのみや」の呼称は、真清田神社が尾張国の「一の宮」であったことからその門前町を指して広まったもので、単一の文書を初出として特定することはできない（市の沿革の説明による）
+  claims:
+  - text: 平安時代、真清田神社が尾張の国の一の宮であったことから、その門前町であるこの地域がいつしか「いちのみや」と呼ばれるようになったと一宮市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-ichinomiya-toshi
+  - text: 江戸時代には真清田神社の門前で産物や綿織物の売買のため三八市が開かれ、この地方における流通と商品生産の中心地となって中心市街地が形成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-ichinomiya-toshi
+  - text: 明治22年（1889）に一宮村と一色村が合併して一宮町となり、大正10年（1921）9月に市制を施行して、人口30,558人の一宮市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-ichinomiya-toshi
+  - text: 市名は国名・郡名・河川名ではなく、神社の社格である「一宮」という普通名詞的な呼称をそのまま自治体名としたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-ichinomiya-toshi
+  - text: 平成17年（2005）に尾西市・葉栗郡木曽川町と合併し、令和3年（2021）4月1日に愛知県尾張地方で初の中核市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-ichinomiya-toshi
+  - text: 総務省の全国地方公共団体コードで、一宮市の団体コードは232033と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「一宮」は固有名詞ではなく「格」の名前
+    text: 律令制の国ごとに、神社は一宮・二宮・三宮と格付けされていました。「一宮」とは「その国で一番の神社」という地位の名前であって、特定の場所の名前ではありません。尾張国の一宮は真清田神社で、その門前町が地位の名で呼ばれるようになり、やがて町名・市名にまでなりました。同じ仕組みで生まれた自治体名は各地にあり、千葉県には長生郡一宮町があります（上総国の一宮の門前町です）。地位が地名に化けた、珍しいタイプの市名です。
+    sources:
+    - k3-ichinomiya-toshi
+  relations:
+  - pref/23
+  - muni/12-一宮町
+  unknowns:
+  - 「いちのみや」の呼称が門前町を指して使われた最も古い用例は、本バッチでは特定できていない
+  - 真清田神社が尾張国一宮とされた正確な時期については本バッチでは確認できていない
+  - 千葉県一宮町との由来の対比（一宮という呼称の共通性と地域事情の違い）の本格的な横断チェックは未了
+  updated: '2026-11-13'
 - id: muni/23-名古屋市
   code: '231002'
   names:
@@ -5498,6 +8379,82 @@ records:
   - 那古野荘の正確な範囲（現在の市域のどの部分か）の比定は、『新修名古屋市史』の推定の域を出ない
   - 名古屋城下開府の際に「名古屋」の字を選んだ主体と経緯を示す同時代記録は未確認
   updated: '2026-11-13'
+- id: muni/23-岡崎市
+  code: '232025'
+  names:
+    ja: 岡崎市
+    reading: おかざきし
+    aliases:
+    - 菅生郷
+    - 岡崎町
+  user_terms:
+  - 岡崎市の名前の由来
+  - 岡崎という地名の意味
+  - 岡崎城と地名の関係
+  naming_type: 一部の地名
+  prefecture: 愛知県
+  homonyms: []
+  summary: 市名は中世末に定着した地名「岡崎」を受け継いだもので、市の資料は「丘の先」という意味があるといわれていると説明する。当初「岡崎」と呼ばれたのは乙川南岸の明大寺付近で、享禄年間（1530〜31）に松平清康が現在地へ城を移してから、広い範囲が岡崎と呼ばれるようになった。大正5年（1916）に市制を施行した。
+  first_attestation:
+    era: 室町時代（15世紀半ば）
+    year_western: null
+    document: 岡崎市公式資料（岡崎市の歴史的風致形成の背景）
+    note: 15世紀半ばに岡崎城が築かれた当時、乙川南岸の明大寺付近が岡崎と呼ばれていたと市の資料は説明する。江戸時代末期の『三河国名所図会』は「岡崎は享禄以来の名號にして其以前は菅生郷なり」と記す
+  claims:
+  - text: 「岡崎」には、丘の先という意味があるといわれていると岡崎市の資料は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-okazaki-fuchi
+  - text: 15世紀半ばに岡崎城が築かれた当時、岡崎と呼ばれていたのは現在の菅生川（乙川）南岸の明大寺付近であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-okazaki-fuchi
+  - text: 享禄3年（1530）から4年（1531）に松平清康が現在の場所に居城を移してから、広い範囲が岡崎と呼ばれるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-okazaki-fuchi
+  - text: 江戸時代末期の『三河国名所図会』は「岡崎は享禄（1528〜1531）以来の名號にして、其以前は菅生郷なり」と記しており、この時期に岡崎という地名が定着していったと考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-okazaki-fuchi
+  - text: 享徳元年（1452）に西郷稠頼が築城し、大永4年（1524）に松平清康が入城した頃に岡崎は飛躍的に発展し、徳川家康はこの岡崎城で生まれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-okazaki-gikai
+  - text: 大正5年（1916）7月1日に市制を施行して岡崎市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-okazaki-gikai
+  - text: 総務省の全国地方公共団体コードで、岡崎市の団体コードは232025と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「岡崎」の原点は川の南岸にあった
+    text: いま岡崎城が立つのは乙川の北岸ですが、「岡崎」という名前の原点は川の向こう側、南岸の明大寺付近でした。15世紀半ばに最初の城が築かれた頃、岡崎と呼ばれていたのは南岸の一帯で、その前は菅生郷の一部でした。1530年頃に松平清康が北岸の現在地へ城を移すと、「岡崎」の指す範囲は城とともに川を越えて広がっていきます。地名が場所を固定するのではなく、権力の中心について移動する。岡崎はその様子が市の資料ではっきりたどれる例です。
+    sources:
+    - k3-okazaki-fuchi
+  relations:
+  - pref/23
+  unknowns:
+  - 「岡崎」の文書上の確実な初出（中世文書の用例）は本バッチでは特定できていない
+  - 「丘の先」という語源説明の言語学的な検証水準は、専門の地名辞典まで確認できていない
+  - 明大寺付近が「岡崎」と呼ばれ始めた正確な時期は資料からは絞り込めていない
+  updated: '2026-11-13'
 - id: muni/23-美浜町
   code: '234460'
   names:
@@ -5584,6 +8541,250 @@ records:
   unknowns:
   - 命名が公募だったか、命名者や候補名など1955年当時の選定過程を示す町の公式記録は未確認
   - 『角川日本地名大辞典』愛知県の該当記述の原文（直接確認）は未了で、ここではそれを引用する二次資料経由の確認にとどまる
+  updated: '2026-11-13'
+- id: muni/23-豊橋市
+  code: '232017'
+  names:
+    ja: 豊橋市
+    reading: とよはしし
+    aliases:
+    - 吉田
+    - 今橋
+    - 豊橋町
+  user_terms:
+  - 豊橋市の名前の由来
+  - 吉田から豊橋への改名
+  - 豊橋藩の名前の理由
+  naming_type: その他（同名の藩を避けるため政府に命じられた改称で選ばれた名の継承）
+  prefecture: 愛知県
+  homonyms: []
+  summary: 市名は明治2年（1869）に生まれた藩名「豊橋」の継承である。江戸時代のこの地は吉田と呼ばれたが、伊予国にも吉田藩があったため政府に改名を命じられ、藩が提出した「今橋」「関屋」「豊橋」の3案から、豊川に架かる橋の名である「豊橋」が選ばれた。明治39年（1906）に市制を施行して豊橋市となった。
+  first_attestation:
+    era: 明治2年
+    year_western: 1869
+    document: 藩名改称の決定（明治2年6月19日）
+    note: 「豊橋」の公称としての初出は藩名としての命名。橋の名としての豊橋は、豊川に架かる橋を指してそれ以前からあった
+  claims:
+  - text: 江戸時代のこの地域は吉田と呼ばれ、東海道の宿場町であり、松平伊豆守家7万石の吉田城の城下町として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyohashi-plan
+  - text: 吉田城はもと今橋城と呼ばれ、明応6年（1497）頃に牧野古白が築いて、後に吉田城と改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyohashi-plan
+  - text: 明治2年（1869）、伊予国（愛媛県）に同名の吉田藩があったため、明治政府は三河の吉田藩に改名を命じた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyohashi-faq
+  - text: 藩は「今橋」「関屋」「豊橋」の試案を申し出て、同年6月19日に「豊橋」と藩名を変更するよう命じられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyohashi-faq
+  - text: 候補名の由来は、「今橋」は吉田の旧称、「関屋」は吉田城西側の地名、「豊橋」は豊川に架けられた橋であると豊橋市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyohashi-faq
+  - text: 明治22年（1889）に豊橋町となり、明治39年（1906）8月1日、愛知県で2番目（全国で62番目）の市として豊橋市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyohashi-plan
+  - text: 総務省の全国地方公共団体コードで、豊橋市の団体コードは232017と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 改名候補に残らなかった「今橋」と「関屋」
+    text: 1869年の改名では、最終候補が3つありました。「今橋」は吉田の旧称で、城の元の名前でもある由緒ある案。「関屋」は吉田城の西側の地名です。そして選ばれた「豊橋」は、豊川に架かる橋の名前でした。城の名前でも宿場の名前でもなく、川を渡る橋の名前が藩の名前になり、そのまま市の名前になった点が豊橋の面白さです。吉田の名は、いまも市内の吉田方地区や吉田神社などに残っています。
+    sources:
+    - k3-toyohashi-faq
+    - k3-toyohashi-plan
+  relations:
+  - pref/23
+  unknowns:
+  - 橋の名としての「豊橋」がいつ頃から呼ばれていたかは、本バッチでは確認できていない
+  - 「吉田」という地名自体の由来については本バッチでは確認できていない
+  - 3案のうち豊橋が選ばれた理由を示す政府側の記録は確認できていない
+  updated: '2026-11-13'
+- id: muni/23-豊田市
+  code: '232114'
+  names:
+    ja: 豊田市
+    reading: とよたし
+    aliases:
+    - 挙母
+    - 衣
+    - 挙母市
+    - 挙母町
+  user_terms:
+  - 豊田市の名前の由来
+  - 挙母から豊田への改称理由
+  - 豊田市はトヨタから名付けられたのか
+  - 挙母の読み方と意味
+  naming_type: その他（自動車産業の企業城下町としての改称）
+  prefecture: 愛知県
+  homonyms: []
+  summary: 市名は昭和34年（1959）1月1日に挙母市から改称して生まれたもので、市内に本社を置くトヨタ自動車と、その創業者一族の姓「豊田」に由来するとされる。旧名「挙母（ころも）」は『和名類聚抄』の挙母郷に遡る古い地名で、1958年に商工会議所が「クルマのまちに成長したこと」と「挙母が読みにくいこと」を理由に改称を請願し、市を二分する論議を経て変更された。
+  first_attestation:
+    era: 昭和34年
+    year_western: 1959
+    document: 市名変更（挙母市から豊田市へ、1959年1月1日）
+    note: 「豊田」の公称としての初出は1959年の市名変更。旧名「挙母」は平安時代の『和名類聚抄』の挙母郷に見える古い地名である
+  claims:
+  - text: 『古事記』には許呂母別（ころもわけ）が見え、この地には三河之衣君（ころものきみ）という豪族が住んでいたと全国観光資源台帳は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k3-toyota-jtb
+  - text: 平安時代の『和名類聚抄』には加茂郡の挙母郷が見え、鎌倉時代には高橋荘衣郷（ころものごう）があったと全国観光資源台帳は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k3-toyota-jtb
+  - text: 豊田市統計書は、城下町が整えられる中で、地名の「衣」は「挙母」に改められたと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyota-tokeisho
+  - text: 昭和12年（1937）にトヨタ自動車工業株式会社の挙母工場が完成して自動車のまちへの転換が始まり、昭和26年（1951）3月1日に市制を施行して挙母市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyota-tokeisho
+    - k3-toyota-kobunsho
+  - text: 昭和33年（1958）、商工会議所から市に、挙母市が全国有数の「クルマのまち」に成長したこと、地名の「挙母」が読みにくいことなどを理由に、市名を変更したいという請願書が出された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyota-tokeisho
+  - text: 翌・昭和34年（1959）1月、自動車産業とともに発展することを誓って、市名が「豊田市」に変更された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-toyota-tokeisho
+    - k3-toyota-kobunsho
+  - text: 新市名「豊田」は、市内に本社を置くトヨタ自動車と、同社の創業者一族の姓「豊田（とよだ）」に由来するとされる。古代以来の「挙母」に愛着を持つ市民も多く、改称の賛否で一時は市を二分するほどの論議があった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k3-toyota-wikipedia
+  - text: 総務省の全国地方公共団体コードで、豊田市の団体コードは232114と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 会社は「とよだ」、市は「とよた」
+    text: 創業者一族の姓「豊田」は「とよだ」と読みますが、市名は「とよたし」と清音で読みます。会社の名をそのまま市名にしながら、読みだけが少しずれたわけです。改称に反対した人々が守ろうとした「挙母」の名も、消えてはいません。市内には挙母町・上挙母の町名が残り、上挙母駅、挙母神社、挙母小学校にもその名があります。そして市の紋章は、挙母市時代の1951年に制定されたものを、改称後もそのまま使い続けています。新しい名前の市の真ん中に、旧名の紋章が残っているのです。
+    sources:
+    - k3-toyota-wikipedia
+    - k3-toyota-tokeisho
+  relations:
+  - pref/23
+  unknowns:
+  - 「衣（ころも）」の語源について、衣君や衣縫部との関係を示す専門の地名辞典での確認は未了
+  - 改称を決めた市議会の議論の詳細（賛否の数など）は本バッチでは確認できていない
+  - 『和名類聚抄』の挙母郷の表記と、豊田市統計書の「衣から挙母へ改められた」という説明の関係（郷名と城下町名で表記の層が違う可能性）の切り分けは未了
+  updated: '2026-11-13'
+- id: muni/24-伊勢市
+  code: '242039'
+  names:
+    ja: 伊勢市
+    reading: いせし
+    aliases:
+    - 宇治山田市
+    - 宇治山田町
+  user_terms:
+  - いせ
+  - 神都
+  - 宇治山田
+  - お伊勢参りのまち
+  naming_type: その他（1955年に宇治山田市から改称した名を、2005年の新設合併でも継承した）
+  prefecture: 三重県
+  homonyms: []
+  summary: 市名「伊勢」は、古代の国名であり伊勢神宮の名でもある。このまちはもともと内宮の鳥居前町「宇治」と外宮の鳥居前町「山田」を合わせた宇治山田町（1889年）・宇治山田市（1906年）であったが、1955年1月1日に周辺4村の合併とともに「伊勢市」へ改称した。2005年11月1日には二見町・小俣町・御薗村との新設合併で新たな伊勢市が発足し、名はそのまま継承された。つまり2005年は改称の年ではなく、改称は1955年に行われている。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 市名変更条例（昭和29年12月25日条例第18号）による宇治山田市から「伊勢市」への改称
+    note: 市名としての「伊勢市」の初出。地名・国名としての「伊勢」は古代に遡り、『伊勢国風土記』逸文には国名の由来とする伊勢津彦の伝承が残る。2005年の合併はこの名の継承である。
+  claims:
+  - text: 明治22年（1889年）の町村制施行により、宇治と山田を合わせて宇治山田町が誕生した。宇治は伊勢神宮内宮の鳥居前町、山田は外宮の鳥居前町を指し、宇治山田は両町の名を合わせた合成地名である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-ise-gappei
+    - k4-ise-weblio
+  - text: 明治39年（1906年）9月1日、宇治山田町が市制を施行して宇治山田市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-ise-gappei
+  - text: 昭和30年（1955年）1月1日、宇治山田市は度会郡豊浜村・北浜村・城田村・四郷村を合併するとともに、「伊勢市」に改称した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-ise-gappei
+  - text: この改称は、市の条例（昭和29年12月25日条例第18号）で「本市の名称『宇治山田市』を『伊勢市』に変更する」と定められ、三重県知事の許可（昭和29年12月22日、三重県告示第1046号）を得て、昭和30年1月1日から施行された。
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - k4-ise-reiki
+  - text: 『伊勢国風土記』逸文には、神武天皇の勅を受けた天日別命が、この地の神・伊勢津彦と争って国を平定したという話が伝わり、国名「伊勢」の由来とする伝承となっている。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k4-ise-fudoki
+  - text: 平成17年（2005年）11月1日、伊勢市・二見町・小俣町・御薗村の4市町村の合併（新設）が実現し、新たな「伊勢市」が誕生した。2005年の出来事は改称ではなく、1955年以来の市名の継承を伴う合併である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-ise-gappei
+  - text: 伊勢市の地方公共団体コードは242039である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-ise-jlis
+  column:
+    title: 二つの鳥居前町が「神都」の名を名乗るまで
+    text: 宇治山田という市名は、内宮と外宮、二つの鳥居前町の妥協の産物だった。どちらの町の名も捨てずに並べた合成地名は、1889年から66年間使われた。しかし全国の参拝者にとってこのまちはあくまで「伊勢」であり、1955年元日、周辺の村々を合併する節目に、市は条例をもって名を「伊勢市」に改めた。半世紀後の2005年の大合併でも、議論の末に残ったのはやはり「伊勢」だった。二つの町の名の記憶は、今も宇治山田駅の駅名の中に生きている。
+    sources:
+    - k4-ise-gappei
+    - k4-ise-reiki
+  relations:
+  - pref/24
+  unknowns:
+  - 1955年の改称の直接の動機（1953年の神宮式年遷宮との関係や知名度の考慮など）は、今回確認した市の公式資料・例規には明記されておらず、未確認である。
+  - 2005年の合併で新市の名称を「伊勢市」と定めた協議の詳細は、「合併の記録」概要版からは確認できなかった。
   updated: '2026-11-13'
 - id: muni/24-明和町
   code: '244422'
@@ -5939,6 +9140,76 @@ records:
   - 宮号「大津宮」が先にあったのか、港の地名「大津」が先にあったのかは、今回参照した資料では確定できなかった。
   - 『日本紀略』の古津改称記事は百科事典・辞典経由の確認で、原典は未読である。
   updated: '2026-11-13'
+- id: muni/25-彦根市
+  code: '252026'
+  names:
+    ja: 彦根市
+    reading: ひこねし
+    aliases:
+    - 彦根町
+  user_terms:
+  - ひこね
+  - 井伊家の城下町
+  - 彦根藩35万石
+  naming_type: 一部の地名
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は城下町「彦根」の継承である。彦根市公式は、地名の由来を、天照大神の御子とされる活津彦根命が活津彦根明神として彦根山に祀られたことに求める伝承で説明する。関ヶ原後に井伊家が入り彦根城を築いて藩35万石の城下町となり、1937年、彦根町に5か村が合併して市制を施行した。
+  first_attestation:
+    era: 不明
+    year_western: null
+    document: 未確認
+    note: 市公式は地名の由来を彦根山の祭神にまつわる伝承で説明するのみで、「彦根」の文献上の初出は本レコードの調査では確認できなかった。
+  claims:
+  - text: 彦根市公式は、「彦根」の地名は、むかし天照大神の御子に天津彦根命・活津彦根命の二神がおられ、このうち活津彦根命が活津彦根明神として彦根山に祭られたことに由来しているとされていると説明している。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+    - k4-hikone-kankyo
+  - text: 戦国時代には石田三成が佐和山城主となって町は繁栄したが、関ヶ原の戦いの功で井伊直政が彦根の地に封ぜられ、その子直継が彦根城の築城を始め、直孝により完成されて、彦根藩35万石の城下町として発展した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: 明治22年（1889年）4月1日に彦根で町制が施行され、彦根町が置かれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: 昭和12年（1937年）2月11日、彦根町に隣接の松原・北青柳・青波・千本・福満の5か村が合併して彦根市が誕生した（当時の人口39,335人、面積25.08平方キロメートル）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: その後も昭和17年（1942年）の南青柳村・磯田村の合併から昭和43年（1968年）の稲枝町合併まで、周辺町村の編入が続いて現在の市域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: 彦根市の地方公共団体コードは252026である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 神の名をいただいた山のふもとの城下町
+    text: 彦根の由来として市が伝えるのは、山に祀られた神の名前である。天照大神の御子という活津彦根命が「活津彦根明神」として彦根山に祀られたことから、地名「彦根」が生まれたとされる。井伊家は関ヶ原の後、あえて三成の佐和山城を使わず、この彦根山に新しい城を築いた。神の名を持つ山のふもとに35万石の城下町が開かれたことで、「彦根」は近江の東の中心として定着していく。
+    sources:
+    - k4-hikone-city
+    - k4-hikone-kankyo
+  relations:
+  - pref/25
+  unknowns:
+  - 「彦根」の文献上の初出（中世の荘園・地名資料など）は、今回の調査では確認できなかった。
+  - 活津彦根命を彦根山に祀る祭祀がいつ始まったのかは、市公式の説明にも示されておらず未確認である。
+  updated: '2026-11-13'
 - id: muni/25-日野町
   code: '253839'
   names:
@@ -6104,6 +9375,234 @@ records:
   - 『日本後紀』の詔文は散逸した本文の逸文としての引用経由でしか確認しておらず、伝存形態の詳細は未確認である。
   - 平安京の選地にまつわる将軍塚の伝承などは、今回参照した市公式資料では確認できなかったため収録していない。
   - 「京都」が固有名詞として平安京を指すようになった過程の詳細は、都道府県レコード（pref/26）側の調査に委ね、本レコードでは平安京の命名と市制施行以降を中心に記録した。
+  updated: '2026-11-13'
+- id: muni/27-八尾市
+  code: '272124'
+  names:
+    ja: 八尾市
+    reading: やおし
+    aliases:
+    - 矢尾
+    - 八尾庄
+    - 八尾木
+  user_terms:
+  - やお
+  - 鶯の伝説のまち
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は中世以来の地名「八尾」の継承で、文献上の初出は長久2年（1041年）の矢作神社文書とされる。語源は決着しておらず、矢作部の「矢負い」が転訛したという説、尾羽根が8枚ある鶯の伝説、由義宮造営に伴う築堤の「八百の柵」説などが並び立つ。1948年に市制を施行した。
+  first_attestation:
+    era: 長久2年
+    year_western: 1041
+    document: 矢作神社文書（「河内国若江郡八尾八幡掃部別宮」）
+    note: 八尾市立図書館が『八尾市史』等の資料に基づき紹介する初出。古くは「矢尾」とも書かれた。
+  claims:
+  - text: 八尾市立図書館は、「八尾」という地名が初めて文献に登場するのは、長久2年（1041年）の矢作神社文書に見える「河内国若江郡八尾八幡掃部別宮」であるという。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-yao-library
+  - text: 一つ目の説として、古代の八尾の地に大豪族・物部氏の配下で弓矢の生産に従事していた矢作部や弓削部があったことから「矢負い」という語が生まれ、転訛して「やを」になり「八尾」の字があてられるようになったという説が唱えられている。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k4-yao-library
+  - text: 尾羽根が8枚ある鶯が美しい声で鳴いたという「八つ尾の鶯」の話は、天文22年（1553年）に三条西公条の『吉野詣記』に記されたもので、もとは「八尾木」の伝説であったものが八尾の地名伝説に転じていったと『八尾市史』は述べている。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k4-yao-library
+  - text: 宝亀元年（770年）から行われた古大和川（長瀬川）の大築堤工事で打ち込まれた大小の柵（木）の壮観を人々が「八百の木」と呼んだことが、「八尾」に転じたという説もあり、称徳天皇の由義宮（西の京）造営計画と結びつけて語られている。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k4-yao-library
+  - text: このほか、低湿地を意味する古語「矢野」・「谷野」が転訛したという説や、信貴生駒連峰の八つの尾嶺に由来するという説も唱えられている。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k4-yao-library
+  - text: 八尾市公式の「地名のいわれ」のページも、鶯の尾羽根説・矢負い説・八百の杭説の3つを、市の地名の「いわれ」として並べて紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-yao-iwaware
+  - text: 昭和23年（1948年）4月1日に市制を施行した（当時の人口64,431人、面積18.99平方キロメートル）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-yao-gaiyo
+  - text: 八尾市の地方公共団体コードは272124である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: 「八尾木」の鶯が「八尾」の鶯になるまで
+    text: 八尾の鶯伝説は、もともと地名そのものの話ではなかった。『八尾市史』によれば、八つ尾の鶯の話は「八尾木」という木にまつわる伝説として語られていたものが、後に「八尾」の地名伝説へと転じていったという。1553年に吉野詣での途中でこの話を聞いた公卿・三条西公条は、「鶯の八尾のつばさ八千とせの声」と歌まで残した。伝説が地名に取り込まれていく過程を、市史がここまで具体的にたどれる例は珍しい。
+    sources:
+    - k4-yao-library
+  relations:
+  - pref/27
+  unknowns:
+  - 「八尾」の語源は諸説が並立しており、矢負い説・八百の柵説・地形説のいずれにも決着はついていない。
+  - 昭和23年（1948年）の市制施行に至る合併の構成町村は、今回確認した市公式資料には記載がなく、未確認である。
+  updated: '2026-11-13'
+- id: muni/27-吹田市
+  code: '272051'
+  names:
+    ja: 吹田市
+    reading: すいたし
+    aliases:
+    - 次田
+    - 吹田庄
+  user_terms:
+  - すいた
+  - 万博のまち
+  - 千里ニュータウン
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は古代以来の地名「吹田」の継承だが、その出発点は「次田（スキタ）」である。吹田市公式によれば、初見は『行基年譜』の天平13年（741年）の記事で、「スキタ」が音便で「スイタ」に変わり、草書体で「次」に似た「吹」の字があてられて「吹田」になった。1940年に4町村の合併で市制を施行した。
+  first_attestation:
+    era: 天平13年
+    year_western: 741
+    document: 『行基年譜』
+    note: 現在の「吹田」表記ではなく「嶋下郡次田里」「次田堀川」とあり、「次田（スキタ）」としての初見である。「吹田」表記への移行過程は市公式の説明による。
+  claims:
+  - text: 吹田市公式は、吹田の地名の初見は「行基年譜」の天平13年（741年）の記にある「嶋下郡次田里」「次田堀川」で、もとは「次田」と書いて「スキタ」と読んでいたと考えられると説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-suita-history
+  - text: 「スキタ」は音便で「スイタ」に変化し、草書体で「次」の字に似ている「吹」の字が使われるようになったと考えられると市公式は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-suita-history
+  - text: 吹田市史総説編は、『醍醐雑事記』に、貞観7年（865年）に淳和天皇の皇子・基貞親王の領田として吹田庄が成立し、後に清住寺に寄進されたことが記されていると紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-suita-shishi
+  - text: のちの文献では「スイタ」を「水田」と書く例も見られると市公式は記している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-suita-history
+  - text: 昭和15年（1940年）4月1日、三島郡吹田町・千里村・岸部村と豊能郡豊津村の4町村が合併して吹田市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-suita-enkaku
+  - text: 吹田市の地方公共団体コードは272051である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: 「次」が「吹」になったまち
+    text: 地名の漢字が変わる理由は、音の変化や縁起担ぎが多いが、吹田の場合は「字の形」である。「次田（スキタ）」の「次」を草書体で書くと「吹」に似るため、いつしか「吹」の字が使われるようになったというのが市の説明だ。音便で読みが「スイタ」に滑らかになるのと並行して、表記まで隣の字へ滑っていった。読みと字形の両方が少しずつずれて固まった地名は、全国的にも珍しい部類に入るだろう。
+    sources:
+    - k4-suita-history
+  relations:
+  - pref/27
+  unknowns:
+  - 『行基年譜』自体は後世に編まれた年譜であり、天平13年（741年）当時の同時代史料で「次田」を確認できたわけではない。
+  - 「吹田」表記が文献に定着した時期は、市公式の説明でも明確には示されていない。
+  updated: '2026-11-13'
+- id: muni/27-堺市
+  code: '271403'
+  names:
+    ja: 堺市
+    reading: さかいし
+    aliases:
+    - 堺津
+  user_terms:
+  - さかい
+  - 環濠都市
+  - 政令指定都市
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は中世以来の港町「堺」の継承である。「さかい」の名は、この地が摂津・河内・和泉の国の境（あるいは摂津・和泉の2国の境）にあったことに由来すると説明され、文献への初登場は11世紀中頃とされる。中世後期には環濠都市・貿易港として繁栄し、1889年に市制を施行、2006年に政令指定都市となった。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 文献名不詳（堺市議会「市勢の概要」は「さかい」の地名が文献に初めて登場するのは11世紀中頃とするが、書名を示していない）
+    note: 書名を伴う用例としては、角川日本地名大辞典が貞永元年（1232年）の文書に見える「泉州堺津」を紹介している。初出の年には資料間で幅がある。
+  claims:
+  - text: 堺市議会の「市勢の概要」は、「さかい」の地名が初めて文献に登場するのは11世紀中頃で、堺が摂津・河内・和泉の国境にあったことによるものと言われていると記している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-sakai-gikai
+  - text: 一方で堺市の中心市街地活性化基本計画は、平安時代にこの地が摂津・和泉の2国の境に位置していたことから「さかい」と呼ばれるようになったと説明しており、「境」の国の数をめぐっては市公式資料の間でも2国説と3国説が併存する。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k4-sakai-chukatsu
+    - k4-sakai-gikai
+  - text: 角川日本地名大辞典は、中世の堺を摂津国住吉郡と和泉国大鳥郡にまたがる堺北荘・堺南荘の総称とし、貞永元年（1232年）の文書に、鋳物師らが廻船の拠点とした「泉州堺津」が見えることを示している。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k4-sakai-kadokawa
+  - text: 中世後期の堺は、良港を擁して朱印船貿易など海外貿易の物資集散地となり、防衛のため濠を巡らせた環濠都市が形成され、自治都市として繁栄した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-sakai-chukatsu
+  - text: 1889年4月1日に市制が施行されて堺市が発足し、その後、明治27年（1894年）の第1次合併から14次にわたって22町村を編入して現在の市域が形成された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-sakai-gappei
+  - text: 2005年2月1日に南河内郡美原町を編入し、これを契機として2006年4月に政令指定都市へ移行した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-sakai-gappei
+    - k4-sakai-rekimachi
+  - text: 堺市の地方公共団体コードは271403である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: 三つの「市」の字が語る、国境のまち
+    text: 明治28年（1895年）に制定された堺の市章は、「市」の字を三つ組み合わせた形をしている。堺市議会の資料によれば、これは3国の境に発達した都市という意味を込めたものだという。国と国の境目という、行政の周縁にあったはずの場所が、港の地の利を得て中世には会合衆が治める自治都市にまで育った。市章の三つの「市」は、その出自を今も静かに語り続けている。
+    sources:
+    - k4-sakai-gikai
+    - k4-sakai-chukatsu
+  relations:
+  - pref/27
+  - muni/27-大阪市
+  unknowns:
+  - 「さかい」の初出について、堺市議会資料は11世紀中頃とするが具体的な文献名を示しておらず、角川地名大辞典が示す鎌倉期の用例との間で幅があり、一次文献での確定には至らなかった。
+  - 境の国の数が2国（摂津・和泉）か3国（摂津・河内・和泉）かは、市の公式資料の間でも説明が分かれており決着していない。
   updated: '2026-11-13'
 - id: muni/27-大阪市
   code: '271004'
@@ -6271,6 +9770,381 @@ records:
   - 大字「太子」の名がいつ・どのように御廟にちなんで付けられたかの記録は未確認
   - 1956年の合併時に他の候補名があったかどうかは未確認
   updated: '2026-11-13'
+- id: muni/27-寝屋川市
+  code: '272159'
+  names:
+    ja: 寝屋川市
+    reading: ねやがわし
+    aliases:
+    - 寝屋川村
+    - 寝屋川町
+  user_terms:
+  - ねやがわ
+  - 鉢かづき姫のまち
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は川の名「寝屋川」の転用である。寝屋川市広報によれば、川名はその起点付近の集落「寝屋」に由来し、1889年に合併で生まれた村が、域内を流れる川の名を村名に採用した。それが町制を経て1951年の市制施行まで受け継がれた。「寝屋」の語源自体は諸説あり確定していない。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 寝屋川村の成立（町村制による木田・堀溝・河北・萱島流作新田の4村合併）
+    note: 自治体名としての「寝屋川」の初出。川名「寝屋川」は江戸時代初期の記録に初めて登場すると市広報は伝えるが、具体的な書名は示されていない。
+  claims:
+  - text: 寝屋川市広報は、市名の由来である「寝屋川」という名称は、傍示川と北谷川が合流して寝屋川が始まる地にある「寝屋」という地区の地名に由来すると説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-neyagawa-koho
+  - text: 同広報は、寝屋川が記録に初めて登場したのは江戸時代の初期で、それ以前から呼ばれていたようだがはっきりしないと述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-neyagawa-koho
+  - text: 明治22年（1889年）4月、木田・堀溝・河北・萱島流作新田の4村が合併して寝屋川村が誕生し、4村に流れていた川の名が村名に採用され、その後、寝屋川町を経て寝屋川市へと受け継がれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-neyagawa-koho
+  - text: 昭和26年（1951年）5月3日に市制を施行し、同日制定された市章は、中央の部分が「ネ」と「矢」で「寝屋」を、周囲が「川」を表す形で市名を図案化したものである。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-neyagawa-shisho
+  - text: 集落名「寝屋」の語源については、星田牧の従事者の宿泊所が存在したことによるとする説と、東高野街道の旅人のための布施屋の設備があったことによるとする説が紹介されている。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k4-neyagawa-chimei
+  - text: 「寝屋」は「ネ（川岸）」と「ヤ（湿地）」からなる地形名で、川沿いの湿地を指すのではないかという見方もある。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k4-neyagawa-chimei
+  - text: 市内の寝屋地区には、御伽草子で知られる「鉢かづき姫」の舞台となった寝屋長者の屋敷跡と伝えられる場所があり、寝屋川市はこの伝説をたどる散策コースを設けている。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k4-neyagawa-hachikazuki
+    - k4-neyagawa-chimei
+  - text: 寝屋川市の地方公共団体コードは272159である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: お伽草子の姫が眠るまち、寝屋
+    text: 「鉢かづき姫」は、継母に大きな鉢をかぶせられながらも幸せをつかむ姫の物語で、室町時代のお伽草子として知られる。その舞台とされるのが寝屋川市の寝屋地区で、姫の父とされる寝屋長者の屋敷跡と伝えられる場所が残り、市は「鉢かづき姫伝説コース」として散策路に組み入れている。川の名がまちの名になり、そのまちの一角には物語の伝承地が残る。地名と伝説が重なり合う好例である。
+    sources:
+    - k4-neyagawa-hachikazuki
+    - k4-neyagawa-chimei
+  relations:
+  - pref/27
+  unknowns:
+  - 「寝屋」の語源は宿泊所説・布施屋説・地形説が並立し、確定していない。
+  - 川名「寝屋川」の記録上の初出（江戸時代初期）について、市広報は具体的な書名を示しておらず未確認である。
+  updated: '2026-11-13'
+- id: muni/27-東大阪市
+  code: '272272'
+  names:
+    ja: 東大阪市
+    reading: ひがしおおさかし
+    aliases: []
+  user_terms:
+  - ひがしおおさか
+  - 三市合併のまち
+  naming_type: 合併新設
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は1967年の3市合併で生まれた新名である。東大阪市公式によれば、「東大阪市」という呼び名は合併以前から市民に親しみをもって呼称されてきた通称で、新市が地域の中核都市として発展するにふさわしい名称として、合併前の1966年8月に決定された。翌1967年2月1日、布施市・河内市・枚岡市が合併して東大阪市が誕生した。
+  first_attestation:
+    era: 昭和41年
+    year_western: 1966
+    document: 合併に先立つ新市名称の決定（1966年8月）
+    note: 「東大阪」の呼称自体は合併以前からこの地域を指す通称として市民に使われていたもので、1966年8月に正式な市名として決定された。
+  claims:
+  - text: 昭和42年（1967年）2月1日、布施市・河内市・枚岡市の3市が合併して東大阪市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-higashiosaka-ayumi
+  - text: 東大阪市公式は、「東大阪市」という呼び名は三市合併以前から市民に親しみをもって呼称されてきたものであり、将来この新しい市が地域の中核都市として発展するにふさわしい名称であるとして、合併前の昭和41年（1966年）8月に決定したと説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-higashiosaka-50nen
+  - text: 昭和44年（1969年）7月、東大阪市の人口は50万人を突破し、当時、人口50万人以上の都市は全国で15番目であった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-higashiosaka-ayumi
+  - text: 前身の一つである旧布施町では、昭和7年（1932年）3月に給水が開始されており、これは現在の東大阪市水道の起点となっている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-higashiosaka-suido
+  - text: 2017年には市制施行（合併）50周年を迎え、市政だよりは市名の由来を含む特集「東大阪市50年のあゆみ」を組んだ。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-higashiosaka-50nen
+  - text: 東大阪市の地方公共団体コードは272272である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: 通称がそのまま市名になったまち
+    text: 市同士の合併では、どの旧市名を残すかが揉め事の種になりやすい。ところが1967年の布施・河内・枚岡の合併では、3市のどれでもない「東大阪市」が選ばれた。決め手は格付けではなく日常の言葉だった。この一帯は合併前から市民に「東大阪」と呼ばれており、その通称が「地域の中核都市にふさわしい名称」として1966年8月に正式採用されたのである。行政が作った名前が市民に浸透するのではなく、市民の呼び名が行政を追認させた、珍しい順序の命名だった。
+    sources:
+    - k4-higashiosaka-50nen
+  relations:
+  - pref/27
+  - muni/27-大阪市
+  unknowns:
+  - 1966年の市名決定の際、「東大阪市」以外にどのような候補が検討されたかは、今回確認した市の公式資料には記載がなかった。
+  - 前身3市（布施市・河内市・枚岡市）それぞれの市制施行年は、本レコードの調査範囲では公式資料で個別に確認していない。
+  updated: '2026-11-13'
+- id: muni/27-枚方市
+  code: '272108'
+  names:
+    ja: 枚方市
+    reading: ひらかたし
+    aliases:
+    - 枚方里
+    - 枚方宿
+  user_terms:
+  - ひらかた
+  - 京街道の宿場町
+  - 樟葉宮のまち
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は古代の「枚方里」の継承である。奈良時代初頭の『播磨国風土記』は、播磨に同名の里ができた由来として河内国茨田郡の枚方里の存在を伝えており、河内の枚方はそれ以前から知られた地名だった。一方、「ひらかた」の語源そのものは枚方市公式も「わからない」としており、確定していない。1947年に市制を施行した。
+  first_attestation:
+    era: 和銅6年〜霊亀元年
+    year_western: 713
+    document: 『播磨国風土記』揖保郡条
+    note: 播磨国の枚方の里の名の由来を述べる中で「河内の国、茨田の郡の枚方の里」に言及する形で現れる。河内の枚方里の成立はこれ以前に遡るはずだが、年代は未確認である（成立年は713〜715年の幅がある）。
+  claims:
+  - text: 枚方市公式の概説は、いつのころから「ひらかた」と呼ばれるようになったのかは分からないとしながら、『播磨国風土記』に「河内国茨田郡枚方里」と記されていることを紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hirakata-ayumi
+  - text: 郷土史の解説は、『播磨国風土記』揖保郡条に「枚方と名づる所以は、河内の国、茨田の郡の枚方の里の漢人、来たりて初めてこの村に居りき」という記事があり、播磨の枚方の里は河内の枚方里からの移住者にちなむ名であることを紹介している。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k4-hirakata-fudoki
+  - text: 枚方市公式の概説が「いつのころから『ひらかた』と呼ばれるようになったのかはわかりません」と述べるとおり、「ひらかた」の語源は確定していない。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - k4-hirakata-ayumi
+  - text: 一説に、神武東征の説話に現れる「白肩津（しろかたつ）」という地名が転化して「枚方」になったともいわれる。
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - k4-hirakata-fudoki
+  - text: 枚方市公式は、『日本書紀』によれば越前から迎えられた男大迹王（後の継体天皇）が507年に樟葉で即位し、5年にわたり宮を営んだとされ、交野天神社境内が樟葉宮跡の伝承地であると紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hirakata-kusuha
+  - text: 江戸時代には、岡新町・岡・三矢・泥町の4か村が枚方宿に指定されて京街道の宿場町を形成し、淀川を上下する過書船の中継地としても賑わった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hirakata-ayumi
+  - text: 昭和22年（1947年）8月1日に市制を施行し、昭和30年（1955年）に津田町を合併して現在の市域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hirakata-ayumi
+  - text: 枚方市の地方公共団体コードは272108である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: もう一つの枚方は「平方」になった
+    text: 『播磨国風土記』が伝えるもう一つの「枚方」は、播磨国揖保郡（現在の兵庫県たつの市方面）にあった里で、河内の枚方から移り住んだ人々にちなむ名だったとされる。興味深いことに、播磨の枚方は後に「平方」と書かれるようになったという。残った大阪の枚方は、初見の古さに反して読み方が難しく、「まいかた」「まきかた」と読み間違えられることの多い地名として知られる。同じ名前から出発した二つの里は、表記の運命まで分かれたことになる。
+    sources:
+    - k4-hirakata-fudoki
+    - k4-hirakata-ayumi
+  relations:
+  - pref/27
+  unknowns:
+  - 「ひらかた」の語源は枚方市公式も不明としており、白肩津転化説を含め決着はついていない。
+  - 枚方里について『和名類聚抄』での郡・郷の記載と読みは、今回の調査では確認できなかった。
+  updated: '2026-11-13'
+- id: muni/27-豊中市
+  code: '272035'
+  names:
+    ja: 豊中市
+    reading: とよなかし
+    aliases:
+    - 豊中村
+    - 豊中町
+  user_terms:
+  - とよなか
+  - 文教都市
+  naming_type: 合併新設
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は1889年に生まれた「豊中村」の継承である。豊島郡の新免・南轟木・山ノ上・桜塚・岡町の5か村が合併した際、郡の中央にあたることから「豊中」と名付けたと伝えられる。1927年に町制、1936年に近隣3村との合併を伴って市制を施行した。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 豊中村の成立（町村制による5か村の合併）
+    note: 地名「豊中」そのものの初出。もとの郡名「豊島」は『古事記』（712年）にまで遡るが、「豊中」は明治の合併で生まれた新しい地名である。
+  claims:
+  - text: 豊中市公式は、「豊中」の地名は明治22年（1889年）4月に摂津国豊島郡の新免村・南轟木村・山ノ上村・桜塚村・岡町村の5か村が合併して豊中村が置かれたときに生まれ、豊島郡の中央にあたることから名付けたと伝えられると説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-toyonaka-history
+  - text: 豊中市公式は、豊島の名が文献に見えるのは和銅5年（712年）に撰上された『古事記』中巻からで、神護景雲3年（769年）には称徳天皇が豊島の人15人に姓を授けた記録が『続日本紀』に見えると紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-toyonaka-history
+  - text: 明治29年（1896年）4月に豊島郡と能勢郡が合併して豊能郡となったため、豊中村は豊能郡豊中村となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-toyonaka-history
+  - text: 昭和2年（1927年）に町制を施行して豊中町となり、昭和11年（1936年）に豊中町・麻田村・桜井谷村・熊野田村が合併して豊中市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-toyonaka-history
+  - text: 昭和22年（1947年）には中豊島村・南豊島村・小曽根村を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-toyonaka-history
+  - text: 豊中市の地方公共団体コードは272035である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: 市章の中に隠れた「豊中」の文字
+    text: 1939年に公募で制定された豊中市の市章は、一見すると幾何学模様だが、実は文字遊びになっている。豊中（トヨナカ）の頭文字「ト」を4個組み合わせて「トヨ（豊）」ともじり、全体の形を「中」と見立てて「豊中」と読ませるのだという。地名の由来が「郡の真ん中」という位置の説明だったまちは、その名前を図案の中にもう一度「真ん中」の字で閉じ込めたことになる。
+    sources:
+    - k4-toyonaka-youran
+    - k4-toyonaka-history
+  relations:
+  - pref/27
+  unknowns:
+  - 「豊島郡の中央にあたることから名付けた」という命名理由は、市公式が「伝えられています」とする伝承レベルの説明であり、命名当時の公文書での裏付けは確認できなかった。
+  updated: '2026-11-13'
+- id: muni/27-高槻市
+  code: '272078'
+  names:
+    ja: 高槻市
+    reading: たかつきし
+    aliases:
+    - 高月
+    - 高槻庄
+  user_terms:
+  - たかつき
+  - 京と大阪の中間
+  - 高山右近の城下町
+  naming_type: 一部の地名
+  prefecture: 大阪府
+  homonyms: []
+  summary: 市名は中世以来の地名の継承で、そのおこりは「高月」である。高槻市公式資料は「高月」の名が鎌倉時代から南北朝時代にかけて史上に現れるとし、戦国期には「高槻庄」と記された。「高槻」への転化は、高い槻（ケヤキ）の木にまつわるという説が伝えられる。1943年に市制を施行した。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 史料名不詳（高槻市公式資料は「高月」の名が鎌倉時代から南北朝時代に史上に現れるとするが、具体的な書名を示していない）
+    note: 「高槻」の形では戦国期の「高槻庄」が古い用例として語源由来辞典に紹介されている。
+  claims:
+  - text: 高槻市公式の郷土史資料は、高槻の地名のおこりは「高月」で、その名が史上に現れるのは鎌倉時代から南北朝時代であること、南北朝から戦国時代には芥川城や高槻城をめぐる攻防の地であったことを記している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-takatsuki-kyodo
+  - text: 戦国期には「高槻庄」の名が見え、「高月」から「高槻」に転じたのは、高い槻の木（ケヤキの呼称）の近くに本陣が立てられたことからといわれる。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k4-takatsuki-gogen
+  - text: もとの「高月」の由来については、高くなった所を表す「タカ」と「ツキ」を重ねた地形由来説のほか、安満庄の神社名に由来する説、神武東征の説話に軍の旗印の月を結びつける説など、諸説が並立している。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k4-takatsuki-gogen
+  - text: 江戸時代には慶安年間に封じられた永井直清以来、高槻藩永井家の城下町として発展し、高槻城は明治7年（1874年）に破却された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-takatsuki-kyodo
+  - text: 昭和18年（1943年）1月1日、大阪府下で9番目の市として高槻市が市制を施行した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-takatsuki-kyodo
+  - text: 平成15年（2003年）4月1日、大阪府内で2番目の中核市へ移行した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-takatsuki-kyodo
+  - text: 高槻市の地方公共団体コードは272078である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-osaka
+  column:
+    title: 市章が宣言する「京と大阪の真ん中」
+    text: 高槻市の市章は、大阪市の市章と京都市の市章を組み合わせ、その形で高槻の「高」をかたどったものだと市は説明する。淀川を挟んで両都のちょうど中間に位置するこのまちは、古来、京と大坂を結ぶ交通の要衝だった。地名の由来には確かな決着がついていない一方で、市章のほうは「両都の真ん中」という自己認識をはっきりと図案に刻んでいる。
+    sources:
+    - k4-takatsuki-shisho
+    - k4-takatsuki-kyodo
+  relations:
+  - pref/27
+  unknowns:
+  - 「高月」の初出の具体的な史料名・年は、市公式資料にも示されておらず未確認である。
+  - 「高槻」表記が定着した時期と経緯は、槻の木にまつわる伝承的説明以外に確認できなかった。
+  updated: '2026-11-13'
 - id: muni/28-太子町
   code: '284645'
   names:
@@ -6342,6 +10216,229 @@ records:
   unknowns:
   - 1951年の合併時に「太子町」の名を選んだ協議の記録（候補名の有無など）は未確認
   - 鵤荘の範囲と現在の町域がどの程度一致するかは資料により幅がある
+  updated: '2026-11-13'
+- id: muni/28-姫路市
+  code: '282014'
+  names:
+    ja: 姫路市
+    reading: ひめじし
+    aliases:
+    - 日女道
+    - 姫道
+  user_terms:
+  - ひめじ
+  - 白鷺城のまち
+  - 姫路城の城下町
+  naming_type: 一部の地名
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 市名は奈良時代の『播磨国風土記』に見える「日女道（ひめじ）」に由来する。風土記の日女道丘の記事は流れ着いた蚕（蚕子）に由来すると伝えるが、「姫道＝丘に登る小道」と解する説もあり、語源の決着はついていない。表記は鎌倉期に「姫道」、戦国期に「姫路」となり、姫路城の城下町名を経て、1889年の市制施行で市名となった。
+  first_attestation:
+    era: 霊亀元年ごろ
+    year_western: 715
+    document: 『播磨国風土記』飾磨郡伊和里条（「日女道丘」）
+    note: 和銅6年（713年）の風土記編纂の詔に基づき霊亀元年（715年）ごろまでに成立したとされる。表記は「日女道」で読みは「ひめじ」。「姫路」の表記は戦国期からのものである。
+  claims:
+  - text: 『播磨国風土記』には、飾磨郡伊和里の14の丘の一つとして「日女道（ひめじ）丘」が挙げられており、「姫路」の名はこの「日女道」に由来するとされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-himeji-harima
+    - k4-himeji-gogen
+  - text: 風土記には「蚕子（ひめこ）落ちし処は、即ち日女道丘と号す」という記事があり、流れ着いた蚕にちなんで日女道丘と名付けられたという話が伝えられている。
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - k4-himeji-gogen
+  - text: 一方、「日女道」は「姫道」の意味で、丘（姫山）に登る小道に由来する地名であるという解釈もあり、蚕子説については、風土記の説話は由来を知るための資料としては弱いという指摘もある。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k4-himeji-gogen
+  - text: 「日女道」の表記は鎌倉期に「姫道」、戦国期に「姫路」と記されるようになり、近世には姫路城の城下町名となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k4-himeji-gogen
+  - text: 明治22年（1889年）4月、江戸時代の城下町とその外縁部を市域として、全国30市とともに我が国初の市制が施行され、姫路市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-himeji-cci
+  - text: 姫路市の地方公共団体コードは282014である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-hyogo
+  column:
+    title: 白鷺の城が立つ丘の名は「日女道」
+    text: 姫路城が立つ姫山は、『播磨国風土記』に「日女道丘」として現れる丘に重なるとされる。風土記はこの丘の名を、流れ着いた蚕（蚕子＝ひめこ）の話で説明した。「ひめこ」が「ひめじ」に転じたと読むか、「姫の道」と読むかは今も決着していないが、少なくとも1300年以上前から、この丘のあたりは「ひめじ」の音で呼ばれていたことになる。白鷺城の白さが目立つ城下町の名は、奈良時代の地名の音をそのまま引き継いでいる。
+    sources:
+    - k4-himeji-gogen
+    - k4-himeji-harima
+  relations:
+  - pref/28
+  unknowns:
+  - 「日女道」の本来の意味は蚕子説と小道（姫道）説が対立しており、決着していない。
+  - 姫路市公式サイトには市名の由来を解説する専用ページが見当たらず、本レコードは県・広域協議会・商工会議所等の資料に依拠した。
+  updated: '2026-11-13'
+- id: muni/28-尼崎市
+  code: '282022'
+  names:
+    ja: 尼崎市
+    reading: あまがさきし
+    aliases:
+    - 尼ヶ崎
+    - 海士崎
+    - 海人崎
+  user_terms:
+  - 尼崎の名前の由来
+  - あまがさきの語源
+  - 尼ヶ崎と尼崎はどっちが本来の表記なの
+  - 漁民の町から来た地名
+  naming_type: 一部の地名
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 市名は中世以来の港町「尼崎」の継承。久安年間（1145〜1151年）以後に新しくできた土地と古文書に記され、漁民を意味する「アマ」と海に突き出た土地「サキ」の結合と説明される。中世には「海士崎」「海人崎」とも書かれた。大正5年（1916年）に市制を施行した。
+  first_attestation:
+    era: 久安年間（1145〜1151年）
+    year_western: null
+    document: 大物浜・長洲浜請文（真福寺文書）
+    note: 尼崎市公式が「尼崎」の最古の用例として挙げる文書で、成立は平安時代末〜鎌倉時代初期とされる。文中に「久安以後の新出地」とあることから、地名の成立自体は久安年間ごろにさかのぼるとみられる
+  claims:
+  - text: 尼崎市の地方公共団体コードは282022である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「尼崎」の最古の用例は平安時代末〜鎌倉時代初期の「大物浜・長洲浜請文」（真福寺文書）で、尼崎浜は久安年間（1145〜1151年）以後に新しくできた土地と記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-amagasaki-city-yurai
+  - text: もとの「尼崎」は現在の阪神尼崎駅から大物駅の南側あたりにあった土地で、現在の市中心部とは位置がずれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-amagasaki-city-yurai
+  - text: 尼崎市公式の由来説明では、「尼崎」は漁民・海民を意味する「アマ」と、海に突き出た土地を意味する「サキ」が結びついた地名とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-amagasaki-city-yurai
+  - text: 中世の史料には「尼崎」のほかに「海士崎」「海人崎」「海ヶ崎」「尼カ崎」などの表記が見られ、このうち「海士崎」「海人崎」は海士・海人（あま）が住む崎という地名本来の由来を表す表記であろうと考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-amagasaki-ndl-ref
+  - text: 町制時代の正式な表記は「尼ヶ崎町」だったが、大正5年（1916年）の市制施行にあたり、町当局は古文書に「尼崎」とあることを根拠に「尼崎」が本来の表記であるとして市名に「尼崎市」を希望し、そのとおりに定められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-amagasaki-ndl-ref
+  - text: 大正5年（1916年）4月1日、尼崎町と立花村の一部（東難波・西難波）が合併して市制を施行し、尼崎市が発足した（当時の人口は32,013人で、兵庫県内では3番目、全国では66番目の市制施行）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-amagasaki-zusetsu
+  column:
+    title: 「尼ヶ崎」と書くか「尼崎」と書くか
+    text: 中世以来、「尼崎」の表記は一つではなかった。「海士崎」「海人崎」という由来を思わせる書き方から、近世の「尼ヶ崎」までが混用され、町制時代の正式表記は「尼ヶ崎町」だった。ところが町の公文書はほぼ例外なく「尼崎町」と書かれていた。1916年の市制施行の際、町当局は信長・秀吉時代の古文書に「尼崎」とある例を引いて、これが本来の表記であると国に上申し、市名は「尼崎市」に決まった。それでも「尼ヶ崎」の表記は慣例として長く残り、平成の直木賞受賞小説『赤目四十八瀧心中未遂』（車谷長吉）は、作中の地名をすべて「尼ヶ崎」で統一している。
+    sources:
+    - k5-amagasaki-ndl-ref
+  relations:
+  - pref/28
+  unknowns:
+  - 「大物浜・長洲浜請文」自体の正確な成立年代（平安末か鎌倉初期か）には幅がある
+  - 久安年間の「新出地」の記述以前に、この地が何と呼ばれていたかは不明
+  updated: '2026-11-13'
+- id: muni/28-明石市
+  code: '282031'
+  names:
+    ja: 明石市
+    reading: あかしし
+    aliases:
+    - 赤石
+  user_terms:
+  - 明石の名前の由来
+  - 赤石と明石はどっちが古いの
+  - 明るい土地という意味の地名なの
+  - 子午線のまちの名前の由来
+  naming_type: 一部の地名
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 市名は古代の明石郡・明石の地名の継承。『播磨国風土記』『日本書紀』では「赤石」と書かれ、『続日本紀』以降に「明石」の表記となった。語源には赤石の岩・明るい土地・赤磯（あかし）などの諸説があり定説はない。大正8年（1919年）に市制を施行した。
+  first_attestation:
+    era: 和銅6年ごろ
+    year_western: 713
+    document: 播磨国風土記
+    note: 明石市立図書館の資料によれば、『播磨国風土記』と『日本書紀』は「赤石」の表記を用い、『続日本紀』以降は「明石」と表記する。風土記の成立は和銅6年（713年）ごろとされる
+  claims:
+  - text: 明石市の地方公共団体コードは282031である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『播磨国風土記』と『日本書紀』では「赤石」と書かれ、『続日本紀』以降は「明石」の表記が用いられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-akashi-lib-digital
+  - text: 明石市立図書館の郷土史資料の検討では、「赤石」は風土記の編纂にあたって好字を著けるよう命じられたことによる表記であり、「赤い石」に地名の由来を求めるのは無理があるとされる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k5-akashi-lib-digital
+  - text: 明石市公式は地名の由来の諸説として、林崎松江海岸の沖に沈む「赤石」という岩の名から変化したとする説と、西の方から見ると明るい土地だったためとする説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k5-akashi-city-aramashi
+  - text: 日本大百科全書は、『明石市史』が赤みがかった土を指す「赤磯（あかし）」に由来するとしていることを紹介している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-akashi-kotobank-hyakka
+  - text: 林崎松江海岸の沖に沈むという「赤石」には、男が鹿に乗って海を渡り、矢で射られた鹿が血で赤い岩になったという伝説が伝わっている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k5-akashi-city-aramashi
+  - text: 大正8年（1919年）11月1日に市制を施行して明石市が発足した（兵庫県内では4番目、当時の人口は約32,000人）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-akashi-city-aramashi
+  column:
+    title: 歌枕であり、子午線の通るまち
+    text: 「あかし」は早くから都の人々に知られた地名だった。『日本書紀』には大化の改新（645年）の際に畿内の西端を「赤石の櫛淵」と定めたとあり、柿本人麻呂をはじめとする歌人に詠まれ、『源氏物語』では明石巻の舞台となった。近代になると東経135度の日本標準時子午線が市内を通ることが知られるようになり、「子午線のまち」がもう一つの顔になった。古代の歌枕と近代の標準時とが、同じ地名の上に重なっている。
+    sources:
+    - k5-akashi-city-aramashi
+  relations:
+  - pref/28
+  unknowns:
+  - 語源は確定していない（赤石の岩・明るい土地・赤磯のいずれの説も決め手を欠く）
+  - 林崎松江海岸沖で1987年に海底の石が確認されたと資料は伝えるが、その石と地名との関係は証明されていない
   updated: '2026-11-13'
 - id: muni/28-神戸市
   code: '281000'
@@ -6432,6 +10529,82 @@ records:
   unknowns:
   - 地名「神戸」が文書に現れる初出の年代は、今回参照した市公式・辞典資料では特定できなかった。
   - 生田神社の神戸がどの程度の規模の集落をなし、いつ「神戸村」として定着したかなど、成立過程の詳細は未確認である。
+  updated: '2026-11-13'
+- id: muni/28-西宮市
+  code: '282049'
+  names:
+    ja: 西宮市
+    reading: にしのみやし
+    aliases:
+    - 西宮町
+  user_terms:
+  - 西宮の名前の由来
+  - えべっさんの神社から来た地名
+  - 広田神社と西宮の関係
+  - 西宮はなぜ「西」の宮なのか
+  naming_type: その他（神社名「西宮」の継承）
+  prefecture: 兵庫県
+  homonyms: []
+  summary: 市名は西宮神社にちなむ。「西宮」はもともと式内社・広田神社とその摂社（戎社）を指す言葉で、最古の史料は元永2年（1119年）の『長秋記』に見える「西宮社」。神社を指した名が荘園・門前町へと広がり、やがて市名になった。大正14年（1925年）に市制を施行した。
+  first_attestation:
+    era: 元永2年
+    year_western: 1119
+    document: 長秋記（源師時）
+    note: 広田社への参詣の際に「西宮社」に奉幣したとあるのが最古の史料で、この時点では地名ではなく神社（西宮神社）を指す。平安時代には広田神社そのものの別称としても「西宮」が使われた
+  claims:
+  - text: 西宮市の地方公共団体コードは282049である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 地名「西宮」は西宮神社にちなみ、その最古の史料は元永2年（1119年）の源師時『長秋記』で、広田社参詣の際に「西宮社」に奉幣した記事である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-nishinomiya-kotobank-hyakka
+  - text: 西宮社はもと式内社・広田神社の摂社（戎社）で、鎌倉時代以降に独立して発展した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-nishinomiya-kotobank-hyakka
+  - text: 『伊呂波字類抄』や『簾中抄』の段階では広田神社そのものが「西宮」と呼ばれるに至っており、「西宮」は当初は神社を指す言葉だった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-nishinomiya-kotobank-hyakka
+  - text: 廣田神社公式によれば、都から見て西方にある重要な神社であったため中世の貴族が広田神社を「西宮」と別称し、呼称が広田神郷（荘園）全体を指す地名となり、近世には戎社のある浜南宮周辺、すなわち旧西宮町の地名となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-hirota-jinja-yurai
+  - text: 西宮神社の祭神は、鳴尾の沖で漁師の網にかかって引き上げられた神を祀ったことに始まるという伝承がある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k5-nishinomiya-city-shoshi
+  - text: 大正14年（1925年）4月1日に市制を施行して西宮市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-nishinomiya-sakurafm
+  column:
+    title: 神社の名前がまちの名前になるまで
+    text: 「西宮」が指す範囲は、時代とともに一段ずつ広がっていった。はじめは広田神社の摂社である戎社（西宮社）を指し、やがて広田神社そのものの別称として使われ、荘園である広田神郷全体の名となり、近世には戎社の門前にできた町の名になった。1925年に市制が施行されると、その町名がそのまま市名になる。神社の一社の名が、千年かけて一つの市の名に育った例である。
+    sources:
+    - k5-hirota-jinja-yurai
+    - k5-nishinomiya-kotobank-hyakka
+  relations:
+  - pref/28
+  unknowns:
+  - 「西宮」の呼称が地名として定着した正確な時期は特定できない
+  - 西宮社（戎社）の創建年代は不明
   updated: '2026-11-13'
 - id: muni/29-奈良市
   code: '292010'
@@ -7227,6 +11400,83 @@ records:
   - 鳥取郷の正確な範囲（久松山麓一帯の平野部とされるが、郷域を特定できる一次文書は確認していない）
   - 『日本書紀』の白鳥説話と因幡国鳥取郷の成立を直接結ぶ同時代資料は確認できておらず、両者の関係は未確認（県レコード pref/31 と同じ論点）
   updated: '2026-11-13'
+- id: muni/32-出雲市
+  code: '322032'
+  names:
+    ja: 出雲市
+    reading: いずもし
+    aliases:
+    - 出雲町
+  user_terms:
+  - 出雲の名前の由来
+  - 八雲立つってどういう意味
+  - 出雲の名付け親はスサノオなの
+  - 出る雲という意味の地名なの
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は古代の国名・郡名「出雲」の継承。年代の分かる初見は持統天皇6年（692年）の鰐淵寺の造像銘に見える「出雲国」で、由来そのものは記されていない。『出雲国風土記』は八束水臣津野命の「八雲立つ」を、記紀はスサノオの歌を命名と結びつけるが、語源は未確定。昭和16年（1941年）に市制を施行した。
+  first_attestation:
+    era: 持統天皇6年
+    year_western: 692
+    document: 鰐淵寺銅造観音菩薩立像台座銘
+    note: 島根県古代文化センターの研究員が、年代の分かる「出雲」の初見として挙げる壬辰年（692年）の造像銘で、「出雲国」とある。藤原宮跡出土の木簡にも「出雲評」と見える。いずれも由来そのものは記されていない
+  claims:
+  - text: 出雲市の地方公共団体コードは322032である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 年代の分かる「出雲」の初見は、壬辰年（692年）造立の鰐淵寺銅造観音菩薩立像の台座銘に見える「出雲国」で、藤原宮跡出土の木簡にも「出雲評」とある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-izumo-kodai-center
+  - text: 『出雲国風土記』（天平5年・733年成立）の総記は、国引きの神である八束水臣津野命が「八雲立つ出雲」と言ったことが国名の由来であるとする
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-fudoki
+    - k5-izumo-kodai-center
+  - text: 一方、『古事記』『日本書紀』では、スサノオが須我の地で雲の立つのを見て「八雲立つ 出雲八重垣」の歌を詠んだことが命名と結びつけられており、古典の間でも命名の主が異なる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k5-izumo-kodai-center
+  - text: 「出る雲」の意とする解釈は江戸時代以来の通説だが研究者には異論もあり、島根県の観光案内は夕つ方説・五面（いつも）説・アイヌ語説・外国地名説・厳藻（いつも）説などの諸説を列挙している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - k5-izumo-kodai-center
+    - k5-izumo-kankou-navi
+  - text: 昭和16年（1941年）2月11日に今市町など9町村が合併して出雲町が発足し、同年11月3日に出雲町が市制を施行して出雲市となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k5-izumo-uub
+  - text: 平成17年（2005年）3月22日に旧出雲市・平田市・大社町・佐田町・多伎町・湖陵町が新設合併して現在の出雲市が発足し、平成23年（2011年）10月1日に斐川町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-izumo-city-koho
+  column:
+    title: 名付け親が本によって違う
+    text: 「出雲」の名付け親は、読む本によって違う。中央で編まれた『古事記』『日本書紀』では須我の地に立ったスサノオ、その地の国造が編んだ『出雲国風土記』では国引きの神・八束水臣津野命である。ただし、どちらの物語も核にあるのは「八雲立つ」という言葉で、雲の立つ土地というイメージは共通している。島根県古代文化センターの研究員は、この食い違い自体が、出雲という名の古さと重みを物語るとみている。
+    sources:
+    - k5-izumo-kodai-center
+  relations:
+  - pref/32
+  unknowns:
+  - 語源は確定していない（「出る雲」説が通説だが異論があり、実証されていない）
+  - 692年の造像銘以前に「出雲」の名がいつ成立したかは不明
+  updated: '2026-11-13'
 - id: muni/32-松江市
   code: '322016'
   names:
@@ -7323,6 +11573,84 @@ records:
   - 開府以前の「松江」の用例（『太平記』『大江広元日記』とされるもの）が地名を指すかどうかは未確認で、大江広元日記については市の調査でも確認できていない
   - コラムの材料は市の調査コラムに依拠しており、近世史料そのものは未読である
   updated: '2026-11-13'
+- id: muni/32-津和野町
+  code: '325015'
+  names:
+    ja: 津和野町
+    reading: つわのちょう
+    aliases: []
+  user_terms:
+  - 津和野の名前の由来
+  - なぜ山陰の小京都というの
+  - 津和野城と吉見氏 亀井氏
+  - 津和野町はいつ合併したの
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 現在の津和野町は2005年に旧津和野町と日原町が合併して生まれ、町名は旧津和野町の名を継承した。津和野は中世に吉見氏の城下として開け、江戸時代は亀井氏の城下町として「山陰の小京都」と呼ばれる町並みを育んだ。「津和野」の語源については、専門辞典・町の資料のいずれでも確定した説明を確認できず、語源未詳として記録する。
+  first_attestation:
+    era: 文明2年
+    year_western: 1470
+    document: 弘中武長書状（益田家文書）
+    note: 「津和野」の用例を日本歴史地名大系が紹介するもの。津和野は中世の吉賀郡野々郷の範囲に比定される
+  claims:
+  - text: 2005年（平成17年）9月25日、旧津和野町と日原町が合併して現在の津和野町が誕生し、町名は旧津和野町の名を継承した。町役場は旧日原町役場に置かれた（地方公共団体コードは325015）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-keikaku
+    - b-cap-chiba-soumu-code
+  - text: 1955年（昭和30年）1月10日、津和野町・畑迫村・木部村と小川村の一部が合併して、新しい津和野町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+    - k6-tsuwano-town-keikaku
+  - text: 1889年（明治22年）の町村制施行により、鹿足郡津和野町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-keikaku
+  - text: 津和野は中世の吉賀郡野々郷の範囲に比定され、「津和野」の用例として文明2年（1470年）の益田家文書（弘中武長書状）が確認できると日本歴史地名大系は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-tsuwano-kotobank
+  - text: 鎌倉時代、弘安5年（1282年）に吉見頼行が下って館を構え、永仁3年（1295年）から城（三本松城、のちの津和野城）の築城を始めた。吉見氏は14代・319年にわたってこの地を治めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-dai1syou
+  - text: 江戸時代には元和3年（1617年）に亀井氏が入城し、山あいの盆地に城下町が整備された。津和野は森鷗外・西周らを輩出し、「山陰の小京都」と呼ばれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-dai1syou
+  - text: 「津和野」という地名の語源については、町の計画資料・島根県の地名鑑・日本歴史地名大系のいずれにおいても確定した説明を確認できず、現時点では語源未詳とする
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - k6-tsuwano-kotobank
+    - e-shimane-pref-chimeikan
+  column:
+    title: 京都から山口を経て、山あいの城下へ——鷺舞が運んだ都の文化
+    text: 津和野の初夏を彩る鷺舞は、京都・祇園祭の舞楽が山口へ伝わり、さらに戦国時代の当主・吉見正頼の頃に津和野へ移されたものと町は伝える。都の祭りの芸能が二段階の伝播を経て、中国山地の小さな城下に根づいた。その町並みと文化の蓄積が「山陰の小京都」の呼び名を生み、近代には森鷗外や西周のような人材を送り出した。語源は謎のままでも、町の名が背負った文化の履歴ははっきりしている。
+    sources:
+    - k6-tsuwano-town-dai1syou
+  relations:
+  - pref/32
+  unknowns:
+  - 「津和野」の語源（津＋和野等の字面解釈を含む）は専門資料で確認できず未詳。和名類聚抄など古代の郡郷名との対応も未確認
+  - 1470年より古い「津和野」の用例の有無は未確認
+  - 1889年発足時の町域と中世の城下の範囲の正確な対応は未確認
+  updated: '2026-11-13'
 - id: muni/32-美郷町
   code: '324485'
   names:
@@ -7389,6 +11717,80 @@ records:
   unknowns:
   - 合併協議会での名称選定過程（公募の有無・対抗候補など）の公表資料は未確認
   - 旧邑智町・大和村それぞれの地名の由来は本バッチの対象外で未確認
+  updated: '2026-11-13'
+- id: muni/33-倉敷市
+  code: '332020'
+  names:
+    ja: 倉敷市
+    reading: くらしきし
+    aliases:
+    - 倉鋪
+    - 蔵鋪
+    - 蔵敷
+  user_terms:
+  - 倉敷の名前の由来
+  - 倉敷地って何
+  - 倉庫の集まる町から来た地名
+  - 倉敷は岡山にしかない地名なの
+  naming_type: その他（物資集積地を意味する普通名詞「倉敷地」の固有地名化）
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は、年貢米などの物資の集積地を意味する一般語「倉敷地」が固有地名化したものとされる。地名としての初出は永禄9年（1566年）の日記に見える「くらしき」で、当時すでに瀬戸内の湊だった。現在の倉敷市は昭和42年（1967年）に旧倉敷市・児島市・玉島市が合併して発足した。
+  first_attestation:
+    era: 永禄9年
+    year_western: 1566
+    document: 新見庄庄使入足日記（教王護国寺文書）
+    note: 『日本歴史地名大系』が紹介する用例で、9月29日の条に「くらしき」より塩飽（しわく）までの舟賃150文が見え、この頃には瀬戸内航路の湊として存在していたとされる
+  claims:
+  - text: 倉敷市の地方公共団体コードは332020である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「倉敷」の語源は、物資の集積地を意味する一般語「倉敷地」の略称が固有地名化したものとする説が有力で、「倉敷地」とは荘園の年貢などを集めて積み出すために蔵が建ち並んだ土地を指した
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k5-kurashiki-tocotoco
+    - k5-kurashiki-kibinavi
+  - text: 中世末期の史料には「倉鋪」「蔵鋪（敷）」などの表記が見え、天正8年（1580年）と推定される小早川隆景の書状には「蔵敷在番之儀」とある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kurashiki-kotobank-chimei
+  - text: 倉敷の中心にある鶴形山は、古くは内倉島・亀居島・東亀島と呼ばれる海中の島だったと『日本歴史地名大系』は伝える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kurashiki-kotobank-chimei
+  - text: 備後国尾道の大田庄の倉敷地のように、荘園の年貢の積み出しのために「倉敷」が置かれた港は各地にあり、「倉敷」がもとは普通名詞だったことを裏づけている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-onomichi-kotobank-chimei
+  - text: 昭和3年（1928年）4月1日に旧倉敷市が市制を施行し、昭和42年（1967年）2月1日に旧倉敷市・児島市・玉島市が新設合併して現在の倉敷市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-okayama-pref-enkaku
+  column:
+    title: もう一つの「倉敷」は名を譲った
+    text: 「倉敷」という地名は備中だけのものではなかった。美作国英田郡（現在の美作市林野）にも、吉野川の川舟による物資の集散地として栄えた倉敷地があり、古代の林野郷の地に倉敷村、やがて倉敷町が生まれた。同名の町が並立し、郵便の誤配など混同も伝えられるなか、美作の倉敷町は大正時代に古代の郷名だった「林野」へ町名を改めた。こうして「倉敷」の名は備中に残り、美作の倉敷は「林野」として今に伝わる。
+    sources:
+    - k5-kurashiki-kotobank-chimei
+    - k5-kurashiki-kibinavi
+  relations:
+  - pref/33
+  - muni/34-尾道市
+  unknowns:
+  - 「倉敷地」という普通名詞がいつ固有地名「倉敷」として定着したかの正確な時期は定かでない
+  - 美作の倉敷町が林野町へ改称した正確な年月日（1918年4月1日と伝える資料はあるが、専門資料での裏付けは未確認）
   updated: '2026-11-13'
 - id: muni/33-岡山市
   code: '331007'
@@ -7465,6 +11867,155 @@ records:
   unknowns:
   - 丘の名としての「岡山」の文書上の初出は今回特定できていない
   - 「岡山」が城下町名として使われ始めた時期を文禄3年（1594年）ごろとする推測は、秀家の書状に基づくとされるが、書状そのものは未確認
+  updated: '2026-11-13'
+- id: muni/34-呉市
+  code: '342025'
+  names:
+    ja: 呉市
+    reading: くれし
+    aliases:
+    - 呉浦
+    - 呉保
+  user_terms:
+  - 呉の名前の由来
+  - くれの語源
+  - 九つの嶺という意味の地名なの
+  - 軍港のまちの名前はいつからあるの
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は中世の港「呉浦」「呉保」の継承。初見は永暦元年（1160年）の文書に見える「安摩庄呉浦」とされるが、1158年の「呉別符」を挙げる紹介もある。語源には九嶺説・榑（くれ）木説・呉人説があるがいずれも確証はない。明治35年（1902年）に市制を施行した。
+  first_attestation:
+    era: 永暦元年
+    year_western: 1160
+    document: 美福門院令旨（高野山文書）
+    note: 6月28日付の令旨に「安摩庄呉浦事」と見えるのが『日本歴史地名大系』の挙げる初見。ただし保元3年（1158年）の官宣旨に石清水八幡宮寺領「呉別符」が見えるとして、より早い初見を挙げる紹介もある
+  claims:
+  - text: 呉市の地方公共団体コードは342025である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によれば、「呉」の初見は永暦元年（1160年）6月28日付の美福門院令旨（高野山文書）に見える「安摩庄呉浦」である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 一方、下向井龍彦「中世の呉」（『呉の歴史』2002年）は、保元3年（1158年）12月3日の官宣旨に石清水八幡宮寺領の「呉別符」が見えることを挙げ、地名大系の挙げる1160年より早い初見とする
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k5-kure-blog-chimei
+  - text: 元暦2年（1185年）正月9日付の源頼朝下文（石清水文書）には「安芸国呉保」とあり、中世の呉は浦・保として荘園の記録に残された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 語源には、灰ヶ峰を中心とする九つの嶺に囲まれるため「九嶺（くれ）」とする説、灰ヶ峰から切り出された船材の榑（くれ）木に由来する説、渡来人の呉人に起因する説があるが、いずれも確証はない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 読み「くれ」は康応元年（1389年）の『鹿苑院殿厳島詣記』に確認できる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 明治35年（1902年）10月1日に市制を施行して呉市が発足した（呉市は2002年10月1日に市制施行100周年を迎えた）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-kure-city-nenpyo
+  column:
+    title: 浦から保へ、港から軍港へ
+    text: 平安時代末の文書に現れる「呉浦」は、安芸の海に面した小さな浦だった。やがて石清水八幡宮の荘園「呉保」となり、中世を通じて港として記録され続ける。明治に入って海軍鎮守府が置かれると、この港は軍港都市へと一変し、1902年に市制を施行した。まちの姿は激変したが、「呉」という地名そのものは800年以上、同じ読みのまま受け継がれている。
+    sources:
+    - k5-kure-kotobank-chimei
+    - k5-kure-city-nenpyo
+  relations:
+  - pref/34
+  unknowns:
+  - 初見が1158年（呉別符）か1160年（呉浦）かは、依拠する資料により異なる
+  - 語源は確定していない（九嶺・榑木・呉人のいずれの説も確証を欠く）
+  updated: '2026-11-13'
+- id: muni/34-尾道市
+  code: '342050'
+  names:
+    ja: 尾道市
+    reading: おのみちし
+    aliases:
+    - 尾道浦
+    - 尾道村
+  user_terms:
+  - 尾道の名前の由来
+  - 山の尾の道という意味なの
+  - 倉敷地があった港町の名前
+  - 尾道という町は昔からあったの
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は中世の港「尾道浦」の継承。初出は永保元年（1081年）の西国寺文書に見える「尾道浦」で、12世紀後半に大田庄の倉敷地が置かれて港町として発展した。語源は「山の尾の道」説など諸説あるが定説はない。明治31年（1898年）に広島県内で2番目に市制を施行した。
+  first_attestation:
+    era: 永保元年
+    year_western: 1081
+    document: 西国寺文書（備後州御調郡尾道浦摩尼山西国寺由来之記）
+    note: 『日本歴史地名大系』と尾道市教育委員会『尾道の歴史と遺跡 中世編』が一致して挙げる初出で、「尾道浦」と見える
+  claims:
+  - text: 尾道市の地方公共団体コードは342050である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「尾道」の初出は永保元年（1081年）の西国寺文書に見える「尾道浦」である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-onomichi-kyoii
+    - k5-onomichi-kotobank-chimei
+  - text: 仁安3年（1168年）の高野山文書には御調南条庄内の尾道村が見え、この頃に大田庄の倉敷（倉敷地）が尾道に設置されて港町として発展した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-onomichi-kotobank-chimei
+  - text: 尾道市公式は、嘉応元年（1169年）に備後大田荘の公認の船津倉敷地となり、荘園米の積み出し港となって以来、港町として繁栄したと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-onomichi-city-gaiyo
+  - text: 語源は定説がなく、「山の尾の道」とする説、入り江の水路である澪（みお）の道とする説（司馬遼太郎が唱えたとされる比較的新しい説）、尾道水道に由来する説などが紹介されている
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - k5-onomichi-kibinavi
+  - text: 明治31年（1898年）4月1日に市制を施行して尾道市が発足した（広島県内では広島市に次いで2番目）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-onomichi-city-gaiyo
+  column:
+    title: 町なのに実在しなかった「尾道」
+    text: 江戸時代の尾道は、久保町・十四日町・土堂町などに分かれた港町の総称で、「尾道」という単独の町や大字は存在しなかった。呼び名だけが港町全体を指す言葉として生き続け、明治になって自治体名としてよみがえる。1889年に尾道町が置かれ、1898年には市名となった。地図の上に単独の町としてはなくても、人々の口の上では何百年も実在し続けた地名である。
+    sources:
+    - k5-onomichi-kibinavi
+  relations:
+  - pref/34
+  - muni/33-倉敷市
+  unknowns:
+  - 語源は確定していない（諸説を裏づける中世史料はない）
+  - 「尾道浦」の「尾道」がもともと何を指したのか（陸の道か海の水道か）は不明
   updated: '2026-11-13'
 - id: muni/34-広島市
   code: '341002'
@@ -7716,6 +12267,161 @@ records:
   - 町制施行の年（昭和12年・1937年とする紹介が多い）について、町公式資料での一次確認は未了
   - 安芸駅（駅家）の正確な位置は未確認
   updated: '2026-11-13'
+- id: muni/34-福山市
+  code: '342076'
+  names:
+    ja: 福山市
+    reading: ふくやまし
+    aliases: []
+  user_terms:
+  - 福山の名前の由来
+  - 水野勝成が名付けた城下町
+  - 蝙蝠山と福山の関係
+  - 福山という地名はいつできたの
+  naming_type: 新規命名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は元和年間に水野勝成が築いた福山城の城下町名に由来する新規の命名。勝成は元和5年（1619年）に備後へ入封し、福山城とともに「福山」の町を興した。命名の由来には蝙蝠山の「蝠」が「福」に通じるとする説などがあり、地名大系は「寿山福海」の嘉名によるものとみる。大正5年（1916年）に市制を施行した。
+  first_attestation:
+    era: 元和5年
+    year_western: 1619
+    document: 水野勝成による命名（『日本歴史地名大系』「福山市」の解説による）
+    note: 福山市公式の広報は、元和8年（1622年）に福山城を築き「この地を福山と名付けました」と説明する。命名の年次は、入封・築城着手の1619年と城の完成した1622年とで資料により見かけ上ずれる
+  claims:
+  - text: 福山市の地方公共団体コードは342076である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 元和5年（1619年）に水野勝成が備後10万石の領主として入封し、その後福山城を築いて城下町を形成し、この地を「福山」と名付けた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-fukuyama-city-ayumi
+    - k5-fukuyama-kotobank-chimei
+  - text: 福山市公式の広報は、元和8年（1622年）に福山城を築き「この地を福山と名付けました」と説明し、2022年を「『福山』というまちが誕生して400年」と位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-fukuyama-city-koho
+  - text: 命名の由来の一説として、城を築いた蝙蝠山（常興寺山）の「蝠」の字が「福」に通じるためとする説が紹介されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-fukuyama-kotobank-chimei
+  - text: 別の説として、筋鉄御門の西内堀側に老松が叢生した小丘を福山と称していたためとする説や、城下の南の水呑村の宝山に対した称とする説があり、『日本歴史地名大系』は総じて「寿山福海」の嘉名による命名であろうと結んでいる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-fukuyama-kotobank-chimei
+  - text: 大正5年（1916年）7月1日に市制を施行して福山市が発足した（全国73番目・広島県内4番目、当時の人口は32,356人）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-fukuyama-city-ayumi
+  column:
+    title: 蝙蝠山が「福山」になった
+    text: 福山城が建つ山は、もとは蝙蝠山（こうもりやま、常興寺山）と呼ばれた。『日本歴史地名大系』が伝える命名諸説の一つは、この「蝠」の字が「福」に通じることに目をつけた名づけとするものだ。決め手となる史料はないが、老松の小丘説や宝山対称説も含め、諸説に共通するのは「福山」がめでたい名として意識的に選ばれたという点である。新しい城下町には、新しい嘉名が必要だった。
+    sources:
+    - k5-fukuyama-kotobank-chimei
+  relations:
+  - pref/34
+  unknowns:
+  - 命名の年次を1619年とするか1622年とするかは資料により異なり、どちらとも決められない
+  - 蝙蝠山という山名自体の由来は未確認
+  updated: '2026-11-13'
+- id: muni/35-下関市
+  code: '352012'
+  names:
+    ja: 下関市
+    reading: しものせきし
+    aliases:
+    - 赤間関
+    - 赤馬関
+    - 馬関
+    - 赤目関
+  user_terms:
+  - 下関の名前の由来
+  - 赤間関と下関はどっちが古いの
+  - 馬関って何のこと
+  - 赤間関市から下関市に名前が変わったのはなぜ
+  naming_type: その他（旧称「赤間関」から、古代以来の地名「下関」への改称）
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は古代以来の地名「下関」による。貞観11年（869年）の太政官符にすでに「下関」と見え、「赤間関」の名より古い。中世以降は赤間関・赤馬関・馬関とも呼ばれ、明治22年（1889年）の市制では「赤間関市」として発足したが、明治35年（1902年）に「下関市」へ改称した。
+  first_attestation:
+    era: 貞観11年
+    year_western: 869
+    document: 太政官符
+    note: 『日本歴史地名大系』が紹介する「下関」表記の初出で、9月27日付の太政官符に見える。「赤間関」の名より「下関」の名の方が、文書の上では古くから現れる
+  claims:
+  - text: 下関市の地方公共団体コードは352012である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によれば、貞観11年（869年）9月27日付の太政官符にはすでに「下関」と見え、「下関」の表記は「赤間関」より古くから文書に現れる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-shimonoseki-kotobank-chimei
+  - text: この地は古くは赤間（赤目）と呼ばれ、『旧事本紀』に「赤間物部」、『大同類聚方』に「赤間稲置」とあり、赤間関・赤馬関・赤目関・関・馬関などとも称されてきた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-shimonoseki-kotobank-chimei
+  - text: 世界大百科事典は、古代の長門関・下関は現在の下関の地を指すと思われるとし、潮流の静まるのを待たなければ渡れない地理条件によって関が置かれ、港として発展したと解説している
+    kind: fact
+    level: E3
+    status: inferred
+    sources:
+    - k5-shimonoseki-kotobank-akamagaseki
+  - text: 「赤間関」の名の由来には、舟の異名を「赤馬」ということからとする赤馬説、「赤間」は「開間（あきま）」で長門・豊前二国の間の海峡になったためとする開間説などがある
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-shimonoseki-kotobank-akamagaseki
+  - text: 『注進案』は、赤目竜が国の中を蹴り破って水を通したという伝承を、「赤間」の名の由来として伝えている
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k5-shimonoseki-kotobank-akamagaseki
+  - text: 明治22年（1889年）の市制施行の際、山口県内では唯一の市として「赤間関市」が発足し、明治35年（1902年）6月に「下関市」へ改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-shimonoseki-city-gaiyo
+  - text: 「赤馬関」の後ろ2字を取った「馬関（ばかん）」も通称として使われ、明治34年（1901年）に開業した山陽鉄道の駅は当初「馬関駅」と称し、翌年の市名改称に伴って下関駅に改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-shimonoseki-mof
+  column:
+    title: 「下関」の方が「赤間関」より古かった
+    text: ふつう「赤間関」が古名で「下関」が新しい名だと思われがちだが、文書の上では逆である。869年の太政官符にすでに「下関」とあるのに対し、「赤間関」が広く使われるようになるのは中世以降のこととされる。ところが1889年の市制施行では、あえて中世以来の「赤間関市」が市名に選ばれた。それが1902年、古代以来の「下関」に改められる。いまの市名は、千年以上前の文書に現れる名への回帰だった。
+    sources:
+    - k5-shimonoseki-kotobank-chimei
+    - k5-shimonoseki-city-gaiyo
+  relations:
+  - pref/35
+  unknowns:
+  - 明治35年（1902年）の改称の理由（「下関の名が海外に知られていたため」と伝える資料はあるが、その原典は未確認）
+  - 貞観11年の太政官符に見える「下関」が現在の市中心部を指すかどうかは推定の域を出ない
+  - 「赤間関」の初見を『吾妻鏡』元暦2年（1185年）の記事とする話は、二次的な紹介でのみ確認している
+  updated: '2026-11-13'
 - id: muni/35-山口市
   code: '352039'
   names:
@@ -7805,6 +12511,89 @@ records:
   - 「山口」の語源は専門辞典でも諸説が「想像に過ぎない」とされており、定説は確認できていない
   - 大内弘世が山口へ移った正確な年次は当時の文献には伝えられておらず、延文5年（1360年）の町割は山口古図（江戸時代の復元図）の記述による
   - 円政寺金鼓銘そのものは未読で、初見の情報は『日本歴史地名大系』の記述経由である
+  updated: '2026-11-13'
+- id: muni/35-萩市
+  code: '352047'
+  names:
+    ja: 萩市
+    reading: はぎし
+    aliases:
+    - 萩浦
+    - 萩町
+  user_terms:
+  - 萩の名前の由来
+  - ハギの花から来た地名なの
+  - 椿浦と萩浦って何
+  - 毛利の城下町の名前の由来
+  naming_type: 一部の地名
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は阿武川三角州東側の浦の名「萩浦」の継承。初見は天文19年（1550年）の大内義隆寄進状とされ、三角州の西側は椿浦と呼ばれた。語源は植物のハギに求める説などを市が紹介するが、専門資料も断定していない。慶長9年（1604年）に毛利輝元の城下町となり、昭和7年（1932年）に市制を施行した。
+  first_attestation:
+    era: 天文19年
+    year_western: 1550
+    document: 大内義隆寄進状（善福寺文書）
+    note: 『日本歴史地名大系』の挙げる「萩」の初見。ただし「注進案」によれば永享3年（1431年）の文書に「萩浦」と記されていたという二次引用も伝わる
+  claims:
+  - text: 萩市の地方公共団体コードは352047である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によれば、「萩」の初見は天文19年（1550年）の大内義隆寄進状（善福寺文書）である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 阿武川の三角州では、西の橋本川左岸（現在の椿から玉江浦）の一帯を椿浦と呼び、東の松本川右岸は室町時代以降に萩浦と呼ばれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 『日本歴史地名大系』は、もとの地が「古萩」と呼ばれたことから「萩」の総名が生まれたと紹介しており、中心の移り変わりとともに「萩」が一帯の総称になったとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 萩市公式は地名の由来として、近くにハギがたくさん生い茂った山があったことに由来するとする説と、ツバキがつまって「ハギ」になったとする説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k5-hagi-city-gaiyo
+  - text: 慶長9年（1604年）に毛利輝元が居城を広島から萩へ移し、阿武川の三角州に城下町を建設した。以後、萩は毛利36万石の城下町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-hagi-city-rekishi
+  - text: 昭和7年（1932年）に萩町が市制を施行して旧萩市が発足した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 平成17年（2005年）3月6日に旧萩市と2町4村が合併して現在の萩市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-hagi-city-rekishi
+  column:
+    title: 椿浦と萩浦、二つの浦のある三角州
+    text: 阿武川が日本海に注ぐ三角州は、川の流れに隔てられて、もとは東西で別の名を持っていた。西は椿浦、東は萩浦。1604年に毛利輝元が東の萩浦側に城下町を築くと、「萩」が三角州全体の名として定着し、元の中心だった地は「古萩」と呼ばれるようになった。萩市公式サイトが「市の花」ハギの紹介の中で、ツバキに由来するという説まで併せて紹介しているのは、この東西二つの浦の名の名残といえる。
+    sources:
+    - k5-hagi-kotobank-chimei
+    - k5-hagi-city-gaiyo
+  relations:
+  - pref/35
+  unknowns:
+  - 語源は確定していない（植物のハギに由来するかは市公式・地名大系とも断定していない）
+  - 永享3年（1431年）の文書に「萩浦」とあったとする伝聞は「注進案」経由の二次引用で、文書そのものは未確認
   updated: '2026-11-13'
 - id: muni/36-徳島市
   code: '362018'
@@ -8200,6 +12989,147 @@ records:
   - 「高智」の「智」が「知」に置き換わった正確な時期と経緯は今回特定できていない（県レコード pref/39 と同じ論点）
   - 「高智」が文殊菩薩の浄土にちなむとする説明は伝承的な色彩が強く、同時代資料での裏付けは確認できていない
   updated: '2026-11-13'
+- id: muni/40-久留米市
+  code: '402036'
+  names:
+    ja: 久留米市
+    reading: くるめし
+    aliases:
+    - 久留目
+  user_terms:
+  - 久留米の名前の由来
+  - 久留米藩と有馬氏
+  - クルメクって何
+  - 久留米市はいつできたの
+  naming_type: その他（城下町・郡の名「久留米」を継承して市制を施行）
+  prefecture: 福岡県
+  homonyms: []
+  summary: 市名は、筑後国府の置かれた地に育ち、有馬氏21万石の城下町となった「久留米」の名をそのまま継いだもの。地名の確実な用例は室町時代に遡るが、語源については玖留目神説・機織りの工人に由来する説・来目皇子説・筑後川の蛇行をいう「クルメク」説などが併記され、定説はない。
+  first_attestation:
+    era: 応永25年
+    year_western: 1418
+    document: 報恩寺坪付帳
+    note: 「久留目」という表記での用例。Wikipediaが紹介するもので、原典の直接確認は未了
+  claims:
+  - text: 1889年（明治22年）4月1日、市制施行により久留米市が誕生した。当時の人口は24,750人で、福岡市とともに福岡県で最初の市の一つであった（地方公共団体コードは402036）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kurume-city-history
+    - b-cap-chiba-soumu-code
+  - text: 古代には筑後国府がこの地に置かれ、北部九州の行政・交通の要衝として栄えたと久留米市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kurume-city-history
+  - text: 江戸時代には有馬氏が丹波国福知山から入部し（1621年）、明治まで11代の城主が治める21万石の城下町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kurume-city-history
+  - text: 「久留米」という地名は室町時代から文献に見られ、応永25年（1418年）の「報恩寺坪付帳」には「久留目」と記されているとWikipediaは紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k6-kurume-wikipedia
+  - text: 語源には、天慶7年（944年）の「筑後国神名帳」にみえる「玖留目神」に由来するとする説、大陸から渡来した機織りの工人の「呉姫（くれひめ）」「繰女（くりめ）」が転訛したとする説、用明天皇の皇子・来目皇子に由来する説、筑後川の大きな蛇行を意味する「クルメク（転く）」を語源とする説などがあり、定説はない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - k6-kurume-wikipedia
+  - text: 2005年（平成17年）2月に田主丸町・北野町・城島町・三潴町の4町を編入して市域が拡大し、2008年（平成20年）4月には九州では県庁所在地以外で唯一の中核市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kurume-city-bunkazai
+  column:
+    title: 市制の年に襲った大洪水——筑後川との戦いの始まり
+    text: 久留米市が生まれた1889年、その年の7月に筑後川が氾濫し、流域は泥土と化して流失家屋は1,262戸に及んだと記録にある。市はこの後も大正10年、昭和28年と大洪水に見舞われ続けた。久留米市自身が「本市の歴史は、筑後川との戦いの歴史であったということができます」と書くほどで、城下町の繁栄も軍都の発展も、つねにこの大河の恵みと脅威の裏表だった。
+    sources:
+    - k6-kurume-city-history
+  relations:
+  - pref/40
+  unknowns:
+  - 語源諸説と1418年の用例は、現時点ではWikipediaの整理に依拠しており、『筑後国神名帳』『報恩寺坪付帳』の原典や角川日本地名大辞典での直接確認が未了
+  - 筑後国府の所在地が現在の市街地とどう重なるか（位置のずれ）の精密な検討は未了
+  updated: '2026-11-13'
+- id: muni/40-北九州市
+  code: '401005'
+  names:
+    ja: 北九州市
+    reading: きたきゅうしゅうし
+    aliases: []
+  user_terms:
+  - 北九州市はどうやってできたの
+  - 西京市って何
+  - 門司 小倉 八幡の合併
+  - 九州で最初の100万都市
+  naming_type: 合併新設
+  prefecture: 福岡県
+  homonyms: []
+  summary: 1963年2月10日、門司・小倉・若松・八幡・戸畑の5市が対等合併して誕生した市で、市名は全国公募を経て「北九州市」に決まった。公募の最多票は「西京市」だったが、合併促進協議会が「呼び慣れていて身近に感じる」として、次点の「北九州市」を選んだという経緯が残る。
+  first_attestation:
+    era: 昭和37年
+    year_western: 1962
+    document: 新市名の全国公募と北九州五市合併促進協議会による「北九州」の決定
+    note: 市名としての成立。翌1963年2月10日に市が発足した。「北九州」という地域名自体は、合併前から五市一帯を指す呼び名として定着していた
+  claims:
+  - text: 1963年（昭和38年）2月10日、門司市・小倉市・若松市・八幡市・戸畑市の5市が対等合併して北九州市が誕生し、九州初の100万都市となった（地方公共団体コードは401005）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kitakyushu-city-pr
+    - b-cap-chiba-soumu-code
+  - text: 新市名は全国に募集され、約13万7,000通の応募があった。最多は「西京市」の約1万2,100通で、「北九州市」は約6,600通で次点だったと北九州市政だよりは伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kitakyushu-city-pr
+  - text: 最終的には北九州五市合併促進協議会で、「呼び慣れていて、身近に感じる」などの理由から「北九州市」に決まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kitakyushu-city-pr
+  - text: 国立国会図書館のレファレンス事例によれば、公募は1962年（昭和37年）4月1日から5月10日まで行われ、応募総数137,142通・市名の種類は19,292種に上り、同年6月10日に「北九州」と決定したと当日の夕刊が報じた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kitakyushu-ndl-crd
+  - text: 合併前の五市一帯はすでに「北九州」と呼ばれており、その呼び慣れた広域地名が新しい市の名として採用された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kitakyushu-city-pr
+  - text: 旧5市の区域は現在の門司区・小倉北区・小倉南区・若松区・八幡東区・八幡西区・戸畑区の7区のおおむねのもとになっており、北九州市は政令指定都市である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kitakyushu-city-pr
+    - b-cap-chiba-soumu-code
+  column:
+    title: 公募1位は「西京市」だった
+    text: 新しい市の名前を全国から募ったところ、集まったのは約13万7,000通。いちばん多かったのは「西京市」で、「北九州市」はその半分ほどしかなかった。それでも最終的に選ばれたのは「北九州市」だった。合併協議会の理由は「呼び慣れていて、身近に感じる」から。応募作の中には「八小門若戸」「19635」「NKC」のような珍名も並んでいたと『北九州五市合併の記録』は伝える。人気投票ではなく「日常の呼び名」を採った判断が、そのまま定着した市名を決めた。
+    sources:
+    - k6-kitakyushu-city-pr
+    - k6-kitakyushu-ndl-crd
+  relations:
+  - pref/40
+  unknowns:
+  - 「北九州」という広域地名がいつ頃から五市一帯を指して使われ始めたか（北九州工業地帯の呼称の定着過程）は、本調査では確認できなかった
+  - 政令指定都市への移行日（1963年4月1日とされる）については、市の公式年表での直接確認が未了のため主張に含めていない
+  updated: '2026-11-13'
 - id: muni/40-川崎町
   code: '406058'
   names:
@@ -8539,6 +13469,76 @@ records:
   - 「佐嘉」から「佐賀」への表記統一の正確な年月は資料間で一致せず、本調査では特定できなかった
   - 風土記の2つの由来譚のうち、どちらが実際の郡名成立に近いかは資料上判断できない
   - 「さが」の語源は確定していない
+  updated: '2026-11-13'
+- id: muni/42-佐世保市
+  code: '422029'
+  names:
+    ja: 佐世保市
+    reading: させぼし
+    aliases: []
+  user_terms:
+  - 佐世保の名前の由来
+  - 佐世保の軍港はいつできた
+  - 村から一足とびに市になった
+  - サセブの木って何
+  naming_type: その他（旧村名「佐世保」を継承し、村から直接市制を施行）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 明治初期までは大村湾の奥の村にすぎなかった佐世保が、海軍鎮守府の設置で軍港都市として急成長し、1902年に村から一足とびに市制を施行した。「佐世保」という地名の由来には定説がなく、木の名に由来する説と、「狭瀬＋保（中世の行政単位）」とする説などが市史に併記されている。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 「佐世保」という地名（「保」は中世の行政単位に由来するとの説がある）
+    note: 地名の確実な初出年は本調査では確認できなかった。1902年の市制施行時点では佐世保村の村名として定着していた
+  claims:
+  - text: 1902年（明治35年）4月、佐世保村は村から一足とびに市制を施行して佐世保市となった。当時は7,700世帯・人口約45,800人に達していた（地方公共団体コードは422029）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-city-seigaiyou
+    - b-cap-chiba-soumu-code
+  - text: 急成長の契機は1886年（明治19年）の海軍鎮守府の設置決定と1889年（明治22年）の鎮守府開庁で、それまで佐世保は大村湾口よりさらに深奥の村にすぎなかったと佐世保市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-city-seigaiyou
+  - text: 地名「佐世保」の由来については定説と呼ばれるものがなく、佐世保市立図書館は『佐世保市史』総説篇などに基づいて諸説を紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-ndl-crd
+  - text: 由来の一説として、この地に「サセブ」と呼ばれる木（和名シャシャンボ、古名サシブノキ）が繁茂していたからとする説が市史に記されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k6-sasebo-ndl-crd
+  - text: もう一つの説として、「佐世（サセ）」は狭い川瀬を意味する「狭瀬（サセ）」で、「保」は中世の行政単位の一つであるとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k6-sasebo-ndl-crd
+  - text: 1945年（昭和20年）の空襲と終戦で軍港としての機能を失った後は、旧軍港の遺産を活用する平和産業港湾都市への転換が進められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-city-seigaiyou
+  column:
+    title: 村から一足とびに市へ——軍港が作った都市
+    text: 普通、市になるにはまず町になる段階を踏む。ところが佐世保は、1902年に村から直接、市になった。理由は単純で、海軍鎮守府が置かれてから十数年の間に、湾奥の寒村へ人が殺到したからである。地名の由来が定まらないのも、この都市の性格を映している。城下町のように長い時間をかけて名が育ったのではなく、軍港という国家事業が先に来て、まちが後から膨らんだ。その出発点の古い地名の記憶は、市史にも諸説併記の形でしか残らなかった。
+    sources:
+    - k6-sasebo-city-seigaiyou
+    - k6-sasebo-ndl-crd
+  relations:
+  - pref/42
+  unknowns:
+  - 「佐世保」の文献上の確実な初出（中世文書での用例）は本調査では確認できなかった
+  - 「佐世」という小字・人名との関係（佐世氏説の有無）は市史総説篇の直接確認が未了
   updated: '2026-11-13'
 - id: muni/42-長崎市
   code: '422011'
@@ -8948,6 +13948,82 @@ records:
   - 「高森」の語源を確定する中世の文書（高森郷・高森村などの記載）の確認は未了であり、伝承以外の定説は本調査で確認できなかった
   - 高森手永の設置年など、江戸時代初期の行政区画としての「高森」の詳細は未確認
   updated: '2026-11-13'
+- id: muni/44-別府市
+  code: '442020'
+  names:
+    ja: 別府市
+    reading: べっぷし
+    aliases:
+    - 別符
+  user_terms:
+  - 別府の名前の由来
+  - 別符とは何か
+  - 別府は別荘の意味なの
+  - 別府市はいつできたの
+  naming_type: その他（中世の荘園「石垣別符」に由来する地名を継承）
+  prefecture: 大分県
+  homonyms: []
+  summary: 「別府」は温泉の町の名前である前に、中世の土地制度の名前だった。豊後国速見郡朝見郷に成立した宇佐宮領の荘園「石垣別符（別府）」がその核で、「別符」とは国衙領などに特別の符宣で設けられた特別区域を指す。温泉地としての繁栄はずっと後のことである。
+  first_attestation:
+    era: 平安時代末期
+    year_western: null
+    document: 宇佐宮領「石垣別符（別府）」の成立（『国史大辞典』の説明による）
+    note: 別符という制度そのものの成立期。地名としての確実な初出年は未確認
+  claims:
+  - text: 市名「別府」は、豊後国速見郡朝見郷の内に成立した宇佐宮領「石垣別符」に由来すると『国史大辞典』は説明し、国立国会図書館のレファレンス事例が紹介している（地方公共団体コードは442020）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-beppu-ndl-crd
+    - b-cap-chiba-soumu-code
+  - text: 「別符（別府）」とは、平安末期に国衙領などを中心として特別の符宣により成立した特別区域を指す土地制度の名で、その地名化した代表例が大分県の別府であると『日本大百科全書』は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-beppu-ndl-crd
+  - text: 『別府市誌』は「別府の地名は朝見弁分（別符）から」とし、石垣荘が宇佐宮に寄進されて石垣別符となり、その行政の中心地がやがて別府と呼ばれるようになったと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-beppu-ndl-crd
+  - text: 別府市の公式資料も、荘園時代に新しく開かれた区域を指す「別符」がのちに「別府」と書かれるようになり、地名となったと伝えられていると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-beppu-city-gaiyo
+  - text: 別府温泉についての最古の記録は『豊後国風土記』とされ、現在の鉄輪地区には古代から「地獄」が存在したことが記されていると別府市は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-beppu-city-gaiyo
+  - text: 1906年（明治39年）に別府町が誕生し、1924年（大正13年）4月1日に人口36,276人をもって別府市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-beppu-city-gaiyo
+  - text: 少数説として、『日本国語大辞典』は「ベップ」をアイヌ語の川の意とするバチェラーの説を紹介しているが、主流の説明は別符由来説である
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k6-beppu-ndl-crd
+  column:
+    title: 温泉の前に荘園があった——「別荘」ではない別府
+    text: 「別府」と聞くと、貴人の別荘が集まった土地を思い浮かべる人が多い。だがこの言葉の正体は、平安末期の土地制度である。荘園や国衙領の中で、特別な命令文書（符宣）によって切り離された区域を「別符」と呼んだ。その地名化の代表例がこの別府で、「符」の字が「府」に書き換わり、制度の名が町の名になった。温泉で名高い現在の別府は、その中世の土地区画の名を、今もそのまま背負っている。
+    sources:
+    - k6-beppu-ndl-crd
+  relations:
+  - pref/44
+  unknowns:
+  - 石垣別符の成立年と、文書上「別府」と書かれた最初の年は、本調査では確認できなかった
+  - 現在の市街地と中世の別符の範囲との具体的な重なりは未確認
+  updated: '2026-11-13'
 - id: muni/44-大分市
   code: '442011'
   names:
@@ -9033,6 +14109,83 @@ records:
   - 「碩田」から「大分」への表記変更がいつ、どの文書で確認できるかは本調査では特定できなかった
   - 「府内」の呼称が文献に現れる初出は本調査では確認できなかった
   - 1963年の合併で市名を「大分市」とすることに決まった経緯（候補名の有無など）は本調査では確認できなかった
+  updated: '2026-11-13'
+- id: muni/44-由布市
+  code: '442135'
+  names:
+    ja: 由布市
+    reading: ゆふし
+    aliases:
+    - 柚富
+  user_terms:
+  - 由布市の名前の由来
+  - 湯布院と由布院の違い
+  - 由布市はいつできたの
+  - 柚富郷とは何か
+  naming_type: 合併新設
+  prefecture: 大分県
+  homonyms: []
+  summary: 2005年10月1日、挾間町・庄内町・湯布院町の3町が合併して誕生した市。市名「由布」は合併時の一般公募で最多票を得てそのまま選ばれたとされ、その語源はさらに古く、『豊後国風土記』に記される「柚富（ゆふ）」郷に遡る。旧湯布院町の「湯布院」とJRの駅名「由布院駅」の表記の違いでも知られる。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 豊後国風土記・大分郡柚富郷条
+    note: 「柚富（ゆふ）」の初出級の資料。市名としての「由布市」は2005年に成立した
+  claims:
+  - text: 2005年（平成17年）10月1日、由布院町と湯平村の合併で生まれた湯布院町を含む挾間町・庄内町・湯布院町の3町が新設合併して、由布市が誕生した（地方公共団体コードは442135）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-yufu-city-textbook
+    - b-cap-chiba-soumu-code
+  - text: 市名「由布市」は、合併に際して行われた一般公募で圧倒的に最多の票を得て、そのまま選出されたとWikipediaは合併協議会資料等に基づいて紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k6-yufu-wikipedia
+  - text: 「由布（ゆふ）」の語源は『豊後国風土記』の大分郡柚富郷に遡り、同郷の条には、郷内に栲（こうぞ）の木が多く生え、その皮を取って木綿（ゆう）を作ったので「柚富郷」と名づけた、という地名由来の記事があることが知られる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-yufu-kotobank-yufudake
+    - k6-yufu-wikipedia
+  - text: 由布岳は『豊後国風土記』に「柚富峯」と記され、近くに柚富郷があったことからその名がついたと『日本歴史地名大系』は説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-yufu-kotobank-yufudake
+  - text: 旧湯布院町は1955年（昭和30年）に由布院町と湯平村が合併して生まれた町で、「湯平」の「湯」と「由布院」の「布院」を合わせた合成地名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-yufu-city-textbook
+  - text: JR久大本線の駅名は「由布院駅」で、町名として生まれた「湯布院」とは表記が異なると由布市の副読本は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-yufu-city-textbook
+  - text: 由布川は旧湯布院町・旧庄内町・旧挾間町にまたがって流れ、「由布」は3町に共通する地域の名でもあった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k6-yufu-wikipedia
+  column:
+    title: 「湯布院」と「由布院」——同じ温泉地の二つの漢字
+    text: 由布市の観光地はふつう「湯布院」と書くが、JRの駅の看板は「由布院駅」である。理由は名前の作られ方にある。1955年、由布院町と湯平村が合併したとき、新しい町の名は「湯平」の湯と「由布院」の布院を組み合わせて「湯布院」となった。ところが駅の名は旧来の「由布院」のまま残った。地名の表記が合併で一度組み替えられた痕跡が、駅名と町名の食い違いとして今も残っているのである。
+    sources:
+    - k6-yufu-city-textbook
+  relations:
+  - pref/44
+  unknowns:
+  - 市名公募の得票数や次点候補などの詳細は、合併協議会資料の原本での直接確認が未了
+  - 古代の柚富郷の範囲と現市域の関係は、一般的な比定の範囲を超えては確認できていない
   updated: '2026-11-13'
 - id: muni/45-宮崎市
   code: '452017'
@@ -9177,6 +14330,76 @@ records:
   unknowns:
   - 新町名「美郷」の選定過程と命名理由を明示した公表資料は未確認（合併協議会の記録や町史の確認が必要）
   - 旧3村の名（南郷・西郷・北郷）の由来そのものは未確認
+  updated: '2026-11-13'
+- id: muni/46-指宿市
+  code: '462101'
+  names:
+    ja: 指宿市
+    reading: いぶすきし
+    aliases:
+    - 湯豊宿
+  user_terms:
+  - 指宿の読み方と由来
+  - なぜ指宿と書くの
+  - 指宿市はいつできたの
+  - 指宿の温泉と地名
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 「指宿（いぶすき）」は難読地名として知られるが、その読みの核は「湯」を含む古い形にある。指宿市の文化財計画によれば、地名の初出は927年編纂の『延喜式』とされ、郷土史家・小川亥三郎は本来の意味を「湯生村（ユフスキ）」とし、713年の好字令の影響で好字の「指宿」に書き換えられたとする説を唱えた。1954年に指宿町と今和泉村の合併で市となり、2006年に山川町・開聞町と合併して現在の市になった。
+  first_attestation:
+    era: 延長5年
+    year_western: 927
+    document: 延喜式
+    note: 指宿市の文化財保存活用地域計画が、小川亥三郎の研究として紹介する初出。『和名類聚抄』には読みが「以夫須岐（イフスキ）」と記されるという
+  claims:
+  - text: 指宿の地名の初出は927年（延長5年）に編纂された『延喜式』とされ、『和名類聚抄』には読みが「以夫須岐（イフスキ）」と記されていると、指宿市の文化財保存活用地域計画は紹介する（地方公共団体コードは462101）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-ibusuki-city-bunkazai
+    - b-cap-chiba-soumu-code
+  - text: 郷土史家の小川亥三郎は、「指宿」の本来の意味は「湯生村（ユフスキ）」であり、713年（和銅6年）の諸国郡郷名著好字令の影響で好字の「指宿」になったとする説を唱えた
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k6-ibusuki-city-bunkazai
+  - text: 1543年（天文12年）に津曲兼任が建立した板碑には「湯豊宿（ユブスキ）」の表記があり、本来の意味に近い書き方が中世まで残っていたことがうかがえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-ibusuki-city-bunkazai
+  - text: 市域には「湯」を含む小字が周辺に比べて圧倒的に多く、地名群の上からも温泉と結びついた土地であることがうかがえると同計画は指摘する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-ibusuki-city-bunkazai
+  - text: 1954年（昭和29年）4月、指宿町と今和泉村が合併して指宿市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-ibusuki-city-bunkazai
+  - text: 2006年（平成18年）1月1日、山川町・開聞町と合併して、新しい指宿市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-ibusuki-city-bunkazai
+  column:
+    title: 好字令で書き換えられた名前——「湯」から「指」へ
+    text: 奈良時代の713年、政府は「郡や郷の名には良い字を二つ使え」という令を出した（諸国郡郷名著好字令）。小川亥三郎の研究によれば、「指宿」もこの波に洗われた名の一つで、もとは「湯生村（ユフスキ）」、つまり温泉の湧く里をそのまま表す名だったという。ところが16世紀の板碑には「湯豊宿」の字が残っており、公式の書き換えの後も、土地の人々の記憶の中では「湯」の名が生き続けていたことがわかる。難読地名「指宿」の半分は、千年以上前の漢字政策の名残なのである。
+    sources:
+    - k6-ibusuki-city-bunkazai
+  relations:
+  - pref/46
+  unknowns:
+  - 『延喜式』における「指宿」の具体的な表記字形は、市の計画PDFの抽出で欠けた部分があり、原典での直接確認が未了
+  - 小川亥三郎の説に対する学界の評価や、対抗する語源説の有無は本調査では確認できなかった
   updated: '2026-11-13'
 - id: muni/46-鹿児島市
   code: '462012'

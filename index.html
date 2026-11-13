@@ -392,7 +392,7 @@ document.getElementById("q").addEventListener("input",applyFilter);
     const mFact=muniRecords.reduce((a,r)=>a+r.claims.filter(c=>c.kind!=="legend").length,0);
     const mLeg=muniRecords.reduce((a,r)=>a+r.claims.filter(c=>c.kind==="legend").length,0);
     const totalMuni=Object.values(muniIndex.municipalities).reduce((a,v)=>a+v.length,0);
-    document.getElementById("stats").innerHTML=`現在収載：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件）。市区町村は母集団 ${totalMuni} 件を地図に収載し、由来レコードは ${muniRecords.length} 件作成済み（主張 ${mFact+mLeg} 件＝歴史的事実 ${mFact} 件・民間伝説 ${mLeg} 件）で、県庁所在地と同名地名の組から着手し、順次作成中です。出典は合計 ${Object.keys(sources).length} 件。`;
+    document.getElementById("stats").innerHTML=`現在収載：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件）。市区町村は母集団 ${totalMuni} 件を地図に収載し、由来レコードは ${muniRecords.length} 件作成済み（主張 ${mFact+mLeg} 件＝歴史的事実 ${mFact} 件・民間伝説 ${mLeg} 件）で、県庁所在地・同名地名・大都市から着手し、順次作成中です。出典は合計 ${Object.keys(sources).length} 件。`;
   }catch(e){
     document.getElementById("status").textContent="データの読み込みに失敗しました。";
   }
