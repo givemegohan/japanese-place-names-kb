@@ -263,6 +263,318 @@
   "u5-numata-sanada": {
    "label": "沼田市公式サイト「真田の里・沼田城」（天文元年に沼田顕泰が蔵内城として築城、天正8年に真田昌幸が入城、天正18年に信幸が初代城主、慶長年間の五層天守、天和元年の改易と破却）",
    "url": "https://www.city.numata.gunma.jp/kanko/1004186/1004286/sanada/1001156.html"
+  },
+  "w7-minakami-env": {
+   "label": "環境省「みなかみ町国民保養温泉地計画書」（令和6年3月。みなかみ町は平成17年（2005年）10月に月夜野町・水上町・新治村の2町1村が合併した町で、町名は若山牧水の「みなかみ紀行」に由来すること、町内の温泉地は「みなかみ18湯」と総称されることを記す）",
+   "url": "https://www.env.go.jp/nature/onsen/area/pdf/hoyo_023.pdf"
+  },
+  "w7-minakami-jomo": {
+   "label": "上毛新聞「ゆかりの地、若者に発信 牧水とみなかみ」（みなかみ町牧水会副会長の寄稿。若山牧水が1924（大正13）年に発行した『みなかみ紀行』の一節「私は河の水上といふものに不思議な愛着を感ずる」を引き、牧水は本県を8度訪れ、みなかみへの2度の旅で『利根の奥へ』『みなかみ紀行』を著したこと、2005年に水上町と月夜野町・新治村が合併してみなかみ町となり、平仮名表記で名付けられたのは牧水の『みなかみ紀行』に由来することを記す）",
+   "url": "https://www.jomo-news.co.jp/articles/-/394447"
+  },
+  "w7-minakami-notahotel": {
+   "label": "NOT A HOTEL「History of MINAKAMI」（みなかみ町観光協会の木村崇利への取材。平成17年に旧月夜野町・水上町・新治村が合併した際に若山牧水の紀行文が由来の一つとなって「みなかみ町」が誕生したこと、「町名は公募で決まりましたが、最も多かった案がこの”平仮名の”みなかみでした」と観光協会担当者が語ることを記す）",
+   "url": "https://notahotel.com/stories/minakami/003"
+  },
+  "w7-minakami-water": {
+   "label": "水資源機構広報誌「水のひろば」みなかみ町紹介（みなか町役場職員の寄稿。群馬県みなかみ町は平成17年10月1日に旧新治村・旧水上町・旧月夜野町の3町村が合併して誕生したこと、「みなかみ」という町名は何度も当地を訪れた若山牧水の紀行文「みなかみ紀行」に由来していること、町の北端の大水上山の三角雪渓からの一滴が利根川の源であると言われ「利根川源流の町」と言われる所以であることを記す）",
+   "url": "https://www.water.go.jp/honsya/honsya/pamphlet/kouhoushi/topics/pdf/05mizunohiroba/1403-07.pdf"
+  },
+  "w7-minakami-wiki": {
+   "label": "Wikipedia「みなかみ町」（2005年（平成17年）10月1日に月夜野町・水上町・新治村が対等合併してみなかみ町が発足し、町名の由来は若山牧水の『みなかみ紀行』からとすること、旧水上町は1889年に水上村として発足し1947年10月10日に町制施行して水上町（みなかみまち）となったことを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA"
+  },
+  "w7-shimonita-kotobank": {
+   "label": "コトバンク「下仁田」（小学館『日本大百科全書（ニッポニカ）』ほかの解説を収録。下仁田は群馬県南西部・甘楽郡西部の町で1889年（明治22年）に町制施行、1955年（昭和30年）に馬山・青倉・西牧・小坂の4村と合併したこと、中心集落の下仁田は西牧川と南牧川の合流点近くに位置する谷口集落で、近世以来2・5・9の日を市日とする市場町、信州方面への交通の要地として発達したことを記す）",
+   "url": "https://kotobank.jp/word/%E4%B8%8B%E4%BB%81%E7%94%B0-524232"
+  },
+  "w7-shimonita-kotobank-village": {
+   "label": "コトバンク「下仁田村」（平凡社『日本歴史地名大系』の解説を収録。現下仁田町下仁田は南牧川と西牧川が合して鏑川となる地にあり、下仁田道より南牧道が分岐し河岸・市場も設けられ町場を形成していたこと、寛文郷帳では幕府領で高338石余はすべて畑方であったこと、文化2年（1805年）には江戸旗本から葱200本の急送を命じられていること（「御用ねぎ急送方達」桜井文書）を記す）",
+   "url": "https://kotobank.jp/word/%E4%B8%8B%E4%BB%81%E7%94%B0%E6%9D%91-3036284"
+  },
+  "w7-shimonita-town-enkaku": {
+   "label": "下仁田町公式サイト「下仁田町の沿革」（町の変遷表。下仁田地区は下仁田村・栗山村・吉崎村・川合村からなり、明治5年に下仁田村が町になったこと、明治22年4月1日の町村大合併でも下仁田町として存続したこと、昭和30年3月10日の町村合併で現在の下仁田町となったことを記す）",
+   "url": "https://www.town.shimonita.lg.jp/kyouiku/m02/m06/20141210115950.html"
+  },
+  "w7-shimonita-town-negi": {
+   "label": "下仁田町公式サイト「『下仁田ネギ』について」（下仁田ネギの由来は明らかではないが、江戸文化2年11月8日付で「ネギ200本至急送れ、運送代はいくらかかってもよい」という趣旨の江戸大名・旗本からのものと思われる名主宛の手紙が残されており当時すでに栽培され珍重されていたこと、下仁田ネギは別名「殿様ネギ」と呼ばれること、昭和に入って皇室への献上や上毛カルタに「ねぎとこんにゃく下仁田名産」と詠まれたこと、群馬・長野の両県農事試験場が栽培試験を手がけたが長野では育ちが悪く前橋では育ちすぎて結局「下仁田ネギは下仁田におけ」という結果に終わったとのいわれがあることを記す）",
+   "url": "https://www.town.shimonita.lg.jp/nourin-kensetu/m02/m01/m01/04.html"
+  },
+  "w7-shimonita-yoran": {
+   "label": "下仁田町「令和7年町勢要覧」（町のあゆみとして、昭和30年3月10日に旧下仁田町・馬山村・西牧村・小坂村・青倉村が合併し下仁田町が誕生したことを記す）",
+   "url": "https://www.town.shimonita.lg.jp/shoko-kanko/R7Shimonitamain.pdf"
+  },
+  "w7-ueno-gogen": {
+   "label": "語源由来辞典「上野村／うえのむら」（群馬県多野郡に属する村で成立は明治22年。上野村は現在の群馬県（ほぼ全域）を指した国名「上野国（こうずけのくに）」に関係するといわれるが不明で、中世の上山荘の名にちなむという説もあることを記す）",
+   "url": "https://gogen-yurai.jp/ueno-mura-gumma/"
+  },
+  "w7-ueno-village-about": {
+   "label": "上野村公式サイト「村の概要」（沿革として、上野村の人の歴史は古く、神話の中では日本武尊が軍勢を率いてこの地を通過したなどの伝説が残っていること、明治22年（1889年）の町村制の施行により7郷村が統括され、明治29年の郡の統廃合により現在の「上野村」の形となったことを記す）",
+   "url": "https://www.uenomura.jp/admin/politics/about/about.html"
+  },
+  "w7-ueno-wiki": {
+   "label": "Wikipedia「上野村」（群馬県多野郡の村で市町村コードは10366-7。かつての上野（こうずけ）国にあるが当村の読みは「こうずけ」でなく「うえの」であること、1889年4月1日に町村制施行に伴い上野村が発足したこと、大字として乙母・野栗沢・新羽・勝山・川和・乙父・楢原があること、「平成の大合併」に対して「合併しない宣言」を出したこと、村域南部の御巣鷹の尾根は1985年8月12日の日本航空123便墜落事故の現場で、当時は無名だった尾根を「御巣鷹の尾根」と命名したのは元村長の黒澤丈夫であることを記す）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E6%9D%91"
+  },
+  "w8-chiyoda-cbc": {
+   "label": "CBCラジオ発のニュース記事「『じゃない方の千代田』が話題。自虐PRで注目の群馬県千代田町」（dメニューニュース掲載。町職員が町名の由来を「千代に八千代に栄える町であるようにという願い」と説明）",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/radichubu/trend/radichubu-62590"
+  },
+  "w8-chiyoda-gunma-hensen": {
+   "label": "群馬県公式「市町村名変遷一覧表（早見表）」（千代田村の成立と変遷、県内市町村の合併史の確認に使用）",
+   "url": "https://www.pref.gunma.jp/page/14429.html"
+  },
+  "w8-chiyoda-sogokeikaku": {
+   "label": "千代田町「千代田町第六次総合計画」（赤岩渡船を「利根川沿いでも唯一残っている橋のない県道」と位置づける）",
+   "url": "https://www.town.chiyoda.gunma.jp/files/f4db9677f274f49b5711cd4f853541a1.pdf"
+  },
+  "w8-chiyoda-town-history": {
+   "label": "千代田町公式「千代田の歴史」（年表。1889年の富永村・永楽村の成立、1955年の合併、1926年の赤岩渡船の県営化など）",
+   "url": "https://www.town.chiyoda.gunma.jp/kikakuzaisei/kikaku/chiyoda/kikaku015.html"
+  },
+  "w8-chiyoda-town-intro": {
+   "label": "千代田町公式「千代田町の紹介」（1955年の3村合併による千代田村誕生、1956年の旧長柄村区域の離脱、1982年の町制施行、江戸時代の利根川水運）",
+   "url": "https://www.town.chiyoda.gunma.jp/kikakuzaisei/kikaku/chiyoda/kikaku041.html"
+  },
+  "w8-higashiagatsuma-gappei-dayori": {
+   "label": "東村・吾妻町合併協議会「合併協議会だより No.1」（新町の名称を「東吾妻町」とすること、新町名の公募で「名付け親賞」に東村大字箱島の大塚翔太君（9歳）が選ばれたこと）",
+   "url": "https://www.town.higashiagatsuma.gunma.jp/www/contents/1204199222881/files/1.pdf"
+  },
+  "w8-higashiagatsuma-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 25．東吾妻町」（団体コード104299、平成18年3月に東村と吾妻町が合併し東吾妻町となったこと、岩櫃城と吾妻渓谷）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/38114.pdf"
+  },
+  "w8-higashiagatsuma-gunma-hensen1": {
+   "label": "群馬県公式「市町村名変遷一覧表その1」（昭和31年2月1日に原町が改称して吾妻町となったこと、平成18年3月27日に東村と合併して東吾妻町となったこと）",
+   "url": "https://www.pref.gunma.jp/page/14541.html"
+  },
+  "w8-higashiagatsuma-uub-azuma": {
+   "label": "市区町村変遷情報「東村（群馬県吾妻郡）」（1889年に五町田村・箱島村・岡崎新田・奥田村・新巻村の区域をもって東村が成立し、2006年に東吾妻町の一部となった）",
+   "url": "https://uub.jp/upd/c/23404.html"
+  },
+  "w8-itakura-ryomo-walker": {
+   "label": "地域文「りょうもうWalker・板倉町、初秋の田園を歩く」（町名「板倉」はかつて町のほぼ中央に存在した板倉沼に由来すると紹介、水塚の風景）",
+   "url": "https://www.chiikibun.com/ryomo/20_itakura/itakura.html"
+  },
+  "w8-itakura-town-70th": {
+   "label": "板倉町公式「板倉町は町制施行70周年を迎えました」（昭和30年2月1日に西谷田村・海老瀬村・大箇野村・伊奈良村の四村が合併し板倉町が誕生したこと）",
+   "url": "https://www.town.itakura.gunma.jp/cont/s005000/d005010/202412241558.html"
+  },
+  "w8-itakura-town-raiden": {
+   "label": "板倉町公式「雷電神社」（関東の雷電神社の総本宮、創建は推古天皇6年（598年）と伝えること、徳川綱吉の命による社殿改修）",
+   "url": "https://www.town.itakura.gunma.jp/cont/s021000/d021010/raiden_kankou.htm"
+  },
+  "w8-itakura-wiki": {
+   "label": "Wikipedia「板倉町」（1889年に4村が成立したこと、かつての板倉沼と雷電神社の位置関係）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%80%89%E7%94%BA"
+  },
+  "w8-katashina-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 26．片品村」（団体コード104434、村制施行日は明治22年4月1日）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/39830.pdf"
+  },
+  "w8-katashina-shokokai": {
+   "label": "片品村商工会「ようこそ片品村へ（歴史・文化）」（片品村の歴史 ― 笠科郷から片品村へ：『和名抄』に利根郡笠科郷の記載があり、笠科が転訛して現在の片品になったと伝えられること、戸倉の関所）",
+   "url": "http://www.katashina-s.com/%E8%A6%B3%E5%85%89%E6%A1%88%E5%86%85/%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E7%89%87%E5%93%81%E6%9D%91%E3%81%B8"
+  },
+  "w8-katashina-sogokeikaku": {
+   "label": "片品村「第5次片品村総合計画」（尾瀬国立公園の玄関口として知られる山村、関東で唯一の特別豪雪地帯）",
+   "url": "https://www.vill.katashina.gunma.jp/gaiyou/keikaku/files/sougoukeikaku.pdf"
+  },
+  "w8-katashina-vill-enkaku": {
+   "label": "片品村公式「村の沿革」（明治21年に須賀川組と越本組の12村が合併して片品村となり、明治22年に村役場を須賀川に置いたこと、平安時代には集落が形成されていたこと）",
+   "url": "https://www.vill.katashina.gunma.jp/syoukai/2016-0308-1600-1.html"
+  },
+  "w8-kawaba-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 27．川場村」（団体コード104442、村制施行日は明治22年4月1日、「川の多い場所であることが村名の由来」、1981年の世田谷区との縁組協定）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/681819.pdf"
+  },
+  "w8-kawaba-mod-kikou": {
+   "label": "防衛省・自衛隊群馬地方協力本部「本部長の群馬紀行 第32回」（平安時代の利根庄、大友能直と利根姫、1339年の吉祥寺建立）",
+   "url": "https://www.mod.go.jp/pco/gunma/honbucho/gunmakikou/gunmakikou_32.html"
+  },
+  "w8-kawaba-vill-about": {
+   "label": "川場村公式「川場村について」（村名の由来となる薄根川をはじめ四本の一級河川が流れること、田園プラザや雪ほたかの紹介）",
+   "url": "https://www.vill.kawaba.gunma.jp/kurashi/sonsei/gaiyou/about.html"
+  },
+  "w8-kawaba-wiki": {
+   "label": "Wikipedia「川場村」（1889年4月1日に町村制施行に伴い川場村が誕生したこと）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%A0%B4%E6%9D%91"
+  },
+  "w8-nakanojo-kotobank-nipponica": {
+   "label": "『日本大百科全書（ニッポニカ）』「中之条（町）」項（コトバンク掲載。1889年町制、1955年合併、2010年六合村編入、六斎市の市場町としての発展）",
+   "url": "https://kotobank.jp/word/%E4%B8%AD%E4%B9%8B%E6%9D%A1-3133924"
+  },
+  "w8-nakanojo-kotobank-taikei": {
+   "label": "『日本歴史地名大系』「中之条町」項（コトバンク掲載。天正期の「中条」表記、河原町から中之条新町への移転、郷帳の「中野条」表記）",
+   "url": "https://kotobank.jp/word/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA-107812"
+  },
+  "w8-nakanojo-shima-jtb": {
+   "label": "（公財）日本交通公社「全国観光資源台帳・四万温泉」（四万の病を癒す伝説、坂上田村麻呂説と碓氷貞光の夢告説）",
+   "url": "https://tabi.jtb.or.jp/res/100201-"
+  },
+  "w8-nakanojo-town-history": {
+   "label": "中之条町公式「中之条町の歴史」（古代の吾妻郡と中之条駅南の遺物、郡衙との関わり）",
+   "url": "https://www.town.nakanojo.gunma.jp/soshiki/15/1292.html"
+  },
+  "w8-nakanojo-wiki": {
+   "label": "Wikipedia「中之条町」（1889年の合併による町発足、1955年の4町村合併、2010年の六合村編入の経緯）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA"
+  },
+  "w8-oizumi-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 34．大泉町」（団体コード105244、町制施行日は昭和32年3月31日）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/681826.pdf"
+  },
+  "w8-oizumi-kotobank-nipponica": {
+   "label": "『日本大百科全書（ニッポニカ）』「大泉（町）」項（コトバンク掲載。1957年に大川村と小泉町が合併して改称、中心の小泉は例幣使街道脇往還の宿場町・市場町だった）",
+   "url": "https://kotobank.jp/word/%E5%A4%A7%E6%B3%89-38999"
+  },
+  "w8-oizumi-town-handbook": {
+   "label": "大泉町公式「大泉町ハンドブック」（昭和32年3月に大川村と小泉町が合併して誕生、面積18.03平方キロで群馬県で一番小さな町）",
+   "url": "https://www.town.oizumi.gunma.jp/s005/gyosei/010/010/140/R8handbook.pdf"
+  },
+  "w8-oizumi-town-history": {
+   "label": "大泉町公式「大泉町の歴史」（年表。1489年に富岡直光が小泉城を築いたこと、1889年に小泉村・大川村が成立、1902年に小泉町が町制施行、1957年の合併）",
+   "url": "https://www.town.oizumi.gunma.jp/s032/kanko/020/040/20200819114831.html"
+  },
+  "w8-shinto-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 13．榛東村」（団体コード103446、村制施行日は昭和34年8月1日、榛名山の東麓に広がる村）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/681804.pdf"
+  },
+  "w8-shinto-kotobank": {
+   "label": "『ブリタニカ国際大百科事典 小項目事典』「榛東村」項（コトバンク掲載。1959年に桃井村から現村名に改称）",
+   "url": "http://kotobank.jp/word/%E6%A6%9B%E6%9D%B1%E6%9D%91-82303"
+  },
+  "w8-shinto-shokokai-keikaku": {
+   "label": "中小企業庁「経営発達支援計画の概要（実施者：榛東村商工会）」（1957年に桃井村と群馬郡相馬村大字広馬場が合併して桃井村が誕生し、村名を公募して1959年8月1日に現在の村名となった）",
+   "url": "https://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/10-15.pdf"
+  },
+  "w8-shinto-vill-kyoiku": {
+   "label": "榛東村教育委員会「榛東村の教育 ―令和7年度榛東村教育行政方針―」（村のあらまし：藤原京出土木簡「上毛野国車評桃井里大贄鮎」、『和名類聚抄』にも見える「桃井」の地名、鎌倉時代の桃井氏）",
+   "url": "http://160.16.67.235/manage/contents/upload/68357a5555cd8.pdf"
+  },
+  "w8-shinto-wiki": {
+   "label": "Wikipedia「榛東村」（桃井村の沿革：1889年の成立、郡の変遷、1957年の合併と1959年の改称、相馬原駐屯地）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A6%9B%E6%9D%B1%E6%9D%91"
+  },
+  "w8-tsumagoi-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 22．嬬恋村」（団体コード104256、村制施行日は明治22年4月1日）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/681814.pdf"
+  },
+  "w8-tsumagoi-kankou": {
+   "label": "嬬恋村観光協会「嬬恋村について」（伝説の詳細：四阿山から雲海を見て亡き妻を偲んだこと、鎌原の家族の再結成による復興、鎌原観音堂石段の埋没）",
+   "url": "https://www.tsumagoi-kankou.jp/tsumagoi"
+  },
+  "w8-tsumagoi-ueda-sanada": {
+   "label": "上田市「真田街道ガイド・嬬恋村」（日本武尊が碓日坂＝鳥居峠に立ち「吾嬬者耶」と嘆いた故事にちなんで名づけられたとする説明）",
+   "url": "https://www.city.ueda.nagano.jp/contents/sanadakaidou/tsumagoi-vill.html"
+  },
+  "w8-tsumagoi-vill-intro": {
+   "label": "嬬恋村公式「嬬恋村紹介」（沿革：中世に三原庄・吾妻庄と呼ばれ海野氏・鎌原氏の支配下にあった、天明3年の浅間山噴火）",
+   "url": "https://www.vill.tsumagoi.gunma.jp/www/contents/1000000000249/index.html"
+  },
+  "w8-tsumagoi-vill-kouhou": {
+   "label": "嬬恋村広報（日本武尊が亡き妻を想い「吾妻者耶（あづまはや）」と叫んだことが転じて村名となり、「愛妻家の聖地」を掲げる村の取り組み）",
+   "url": "https://www.vill.tsumagoi.gunma.jp/www/contents/1660625896329/simple/R5kouhou2.pdf"
+  },
+  "w8-tsumagoi-vill-youran": {
+   "label": "嬬恋村公式「2010年 村勢要覧」（沿革：明治22年に11か村が合併して嬬恋村が誕生、村名は日本武尊と愛妻弟橘媛の伝説に由来、天明3年の噴火で鎌原村は犠牲者477名）",
+   "url": "https://www.vill.tsumagoi.gunma.jp/www/contents/1000000000249/simple/file_12977452837.pdf"
+  },
+  "w8-yoshioka-gunma-arabashi": {
+   "label": "群馬県「市町村のあらまし 14．吉岡町」（団体コード103454、町制施行日は平成3年4月1日）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/681805.pdf"
+  },
+  "w8-yoshioka-town-enkaku": {
+   "label": "吉岡町公式「吉岡町の沿革・歴史」（明治22年の町村制で明治村・駒寄村が成立した経緯）",
+   "url": "https://www.town.yoshioka.gunma.jp/chousei/gaiyo/enkaku.html"
+  },
+  "w8-yoshioka-town-gaiyo": {
+   "label": "吉岡町公式「吉岡町の概要」（1955年4月に明治・駒寄両村を合併し、2つの村を結ぶ河川の名にちなみ吉岡村と命名。1991年4月に町制施行）",
+   "url": "https://www.town.yoshioka.lg.jp/chousei/gaiyo/gaiyo.html"
+  },
+  "w8-yoshioka-town-keikaku": {
+   "label": "吉岡町公式資料（町の概況。古墳の宝庫で、昭和初期には420基を超える古墳があったとも言われること、天皇陵と同じ八角墳の三津屋古墳、中世の桃井氏・近世の大久保宿と野田宿）",
+   "url": "https://www.town.yoshioka.lg.jp/chousei/pdf/31943e05ab68e1551a5780050c65928b_1.pdf"
+  },
+  "w9-kanna-kotobank-taikei": {
+   "label": "『日本歴史地名大系』「神流川」項（コトバンク掲載。神名川・神野川の別表記、日本武尊が弟橘姫の遺髪を流した髪流川の伝承、カンナは鉄穴の意とする一説、上里町黛の北方で烏川に合流）",
+   "url": "http://kotobank.jp/word/%E7%A5%9E%E6%B5%81%E5%B7%9D-49409"
+  },
+  "w9-kanna-mlit-kanto": {
+   "label": "国土交通省関東地方整備局「鏑川・碓氷川」流域紹介パンフレット（神流川の名は「神（カム）の川」から転じたとされる、感納川・甘奈とも綴られる）",
+   "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000802520.pdf"
+  },
+  "w9-kanna-mlit-river": {
+   "label": "国土交通省水管理・国土保全局「日本の川 神流川 川の歴史」（天正10年の神流川合戦、上里町に開かれた神流川の渡し場）",
+   "url": "https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0308_kanna/0308_kanna_01.html"
+  },
+  "w9-kanna-town-plan": {
+   "label": "神流町「第2次神流町総合計画」（平成15年4月1日に旧万場町と旧中里村の合併により神流町が誕生、町の沿革と地勢）",
+   "url": "https://www.town.kanna.gunma.jp/material/files/group/2/14_01.pdf"
+  },
+  "w9-kanna-uub": {
+   "label": "市区町村変遷情報データベース「群馬県多野郡神流町の新設」（新町名公募の上位案と最終候補に「神流」「神流川」「かんな」など）",
+   "url": "https://uub.jp/upd/u/u168.html"
+  },
+  "w9-kanra-town-fukei": {
+   "label": "甘楽町「歴史的風致維持向上計画」（本町の変遷：1889年の4町村成立、1955年の合併、1959年の甘楽町誕生）",
+   "url": "https://www.town.kanra.lg.jp/kensetu/tosikei/news/1.pdf"
+  },
+  "w9-kanra-town-rekishi": {
+   "label": "甘楽町公式「甘楽町の歴史をたどる」（小幡氏の進出、織田氏による小幡領の支配）",
+   "url": "https://www.town.kanra.lg.jp/kyouiku/bunkazai/news/07.html"
+  },
+  "w9-kanra-town-sha": {
+   "label": "甘楽町公式「甘楽社小幡組由来碑」（碑文「邑ニ養蚕セザルノ家ナク製絲セザルノ婦ナシ」、甘楽社の製糸の歴史）",
+   "url": "https://www.town.kanra.lg.jp/kyouiku/bunkazai/bunkazai/kanra/20180822175924.html"
+  },
+  "w9-kanra-wiki-gun": {
+   "label": "Wikipedia「甘楽郡」（古代には「甘良郡」として『続日本紀』和銅4年に登場し、韓からの渡来人が多く住んだことから「から」が変化したと考えられる、とする記述）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%94%98%E6%A5%BD%E9%83%A1"
+  },
+  "w9-kitagawa-gunma-chimei": {
+   "label": "北川和秀（群馬県立女子大学教授）講演資料「群馬の古代地名」（『和名類聚抄』の上野国郡郷名と訓み、明治22年の新地名の分類。甘楽郡「加牟良」、邑楽郡「於波良岐」、玉村町は9か村合併で江戸期の宿場名を採用）",
+   "url": "https://kitagawa.la.coocan.jp/koza/h22shibukawa.pdf"
+  },
+  "w9-mahora-gunma-nandoku": {
+   "label": "地名解説ブログ「まほらにふく風に乗って」群馬県の難読地名（甘楽・邑楽編）（甘楽は渡来人を表す「から」が始まりとする説、邑楽の古名「大荒木」と和名抄の訓「於波良岐」、1592年の検地帳に残る「大荒木郡」）",
+   "url": "http://mahoranokaze.com/blog-entry-4323.html"
+  },
+  "w9-naganohara-jinja-suwa": {
+   "label": "神社仏閣図鑑「諏訪神社（長野原町）」（「長野原」という地名の由来の諸説：河岸段丘説、長野業盛の一族の隠棲伝承、在原業重の伝承。永禄6年の長野原合戦の古戦場）",
+   "url": "https://jinja.sakura.ne.jp/10_gunma/je_10_720-000-suwa.htm"
+  },
+  "w9-naganohara-kusatsu-kaido": {
+   "label": "草津温泉への道「長野原宿」（草津街道と信濃支道の分岐点として発展した宿場町、六歳市）",
+   "url": "https://www.kusatuyu.com/kaidou/nagano.html"
+  },
+  "w9-naganohara-town-about": {
+   "label": "長野原町公式「長野原町について」（明治22年の町村制施行により近隣の1町9村が合併して長野原町が誕生、草津温泉・川原湯温泉への湯治客や善光寺参詣者が行き交う交通の要衝）",
+   "url": "https://www.town.naganohara.gunma.jp/administration?content=182"
+  },
+  "w9-ora-gunma-aramashi": {
+   "label": "群馬県「市町村のあらまし 邑楽町」（昭和30年に中野村と高島村が合併して中島村、昭和32年1月に邑楽村が誕生、昭和43年4月に町制施行）",
+   "url": "https://www.pref.gunma.jp/uploaded/attachment/39839.pdf"
+  },
+  "w9-ora-kotobank-taikei": {
+   "label": "『日本歴史地名大系』「邑楽郡」項（コトバンク掲載。藤原京出土木簡の「大荒木評」が邑楽郡の古名、邑楽郡の初出は『続日本紀』神護景雲3年4月27日条、和名抄の訓は「於波良岐」、郷名に低地を意味するものが多い）",
+   "url": "https://kotobank.jp/word/%E9%82%91%E6%A5%BD%E9%83%A1-3037215"
+  },
+  "w9-tamamura-town-ayumi": {
+   "label": "玉村町公式「玉村町のあゆみ（昭和30年から昭和50年）」（1955年に芝根村と合併、1957年に上陽村等と合併）",
+   "url": "https://www.town.tamamura.lg.jp/docs/2014091808061"
+  },
+  "w9-tamamura-town-densetsu": {
+   "label": "玉村町公式「玉村町の地名伝説」（龍の玉伝説と原話『玉村之故実』、角渕・上之手、飯塚の伝説）",
+   "url": "https://www.town.tamamura.lg.jp/docs/2014091808023"
+  },
+  "w9-tamamura-town-kinsei": {
+   "label": "玉村町公式「近世」（伊奈忠次による新田開発と代官堀、日光例幣使道の玉村宿・五料宿）",
+   "url": "https://www.town.tamamura.lg.jp/docs/2014092400035"
+  },
+  "w9-tamamura-wiki": {
+   "label": "Wikipedia「玉村町」（町名の語源は水が溜まり易い場所に由来すると思われるとする記述）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%8E%89%E6%9D%91%E7%94%BA"
   }
  },
  "records": [
@@ -384,6 +696,484 @@
    "unknowns": [
     "公募の応募総数や、「みどり」以外の最終候補の市名案は市公式ページで確認できなかった",
     "「大間々」の地名の初出文書は特定できなかった。「まま」が崖を指す地形語であることは市公式と専門辞典で一致するが、「大」が付いた成り立ちの詳細は未確認である"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-みなかみ町",
+   "code": "104493",
+   "names": {
+    "ja": "みなかみ町",
+    "reading": "みなかみまち",
+    "aliases": [
+     "水上町",
+     "月夜野町",
+     "新治村"
+    ]
+   },
+   "user_terms": [
+    "みなかみ",
+    "利根川源流の町",
+    "みなかみ18湯",
+    "水上の温泉郷"
+   ],
+   "naming_type": "文献から命名",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県最北部、利根郡の町。2005年10月1日に月夜野町・水上町・新治村が合併して生まれた。町名は若山牧水の紀行文『みなかみ紀行』（1924年）に由来し、公募で最も多かった平仮名の「みなかみ」が選ばれたと観光協会は伝える。最大の旧町だった水上町も読みは「みなかみまち」であり、新町名はその読みを残しながら漢字表記を捨てた命名だった。町は利根川の源流域にあり、大水上山の雪渓の一滴が利根川の源とされる。",
+   "first_attestation": {
+    "era": "大正13年",
+    "year_western": 1924,
+    "document": "若山牧水『みなかみ紀行』",
+    "note": "町名の典拠としての現れ。町名としての使用は2005年から"
+   },
+   "claims": [
+    {
+     "text": "市町村コードは総務省の全国地方公共団体コード一覧で「104493」とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）10月1日に月夜野町・水上町・新治村が合併してみなかみ町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-minakami-env",
+      "w7-minakami-water"
+     ]
+    },
+    {
+     "text": "町名は、当地を何度も訪れた歌人・若山牧水の紀行文『みなかみ紀行』（1924年・大正13年刊）に由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-minakami-water",
+      "w7-minakami-env"
+     ]
+    },
+    {
+     "text": "新町名は公募で決まり、最も多かった案が平仮名の「みなかみ」だったと、みなかみ町観光協会の担当者は語る",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w7-minakami-notahotel"
+     ]
+    },
+    {
+     "text": "最大の旧町であった水上町の読みも「みなかみまち」であり、新町名はその読みを引き継ぎながら漢字表記を捨てて平仮名にしたものだった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w7-minakami-wiki"
+     ]
+    },
+    {
+     "text": "牧水は『みなかみ紀行』に「私は河の水上（みなかみ）といふものに不思議な愛着を感ずる」と書いた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w7-minakami-jomo"
+     ]
+    },
+    {
+     "text": "町の北端の大水上山にある三角雪渓からの一滴が利根川の源であると言われ、町は「利根川源流の町」を掲げる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-minakami-water"
+     ]
+    },
+    {
+     "text": "町内の温泉地は「みなかみ18湯」と総称される",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-minakami-env"
+     ]
+    }
+   ],
+   "column": {
+    "title": "漢字を捨てた町名",
+    "text": "2005年の合併で生まれた「みなかみ町」という名には、ちょっとした仕掛けがある。合併した3町村のうち最大の水上町は、漢字こそ「水上」だが読みは「みなかみまち」だった。新町名の公募で最も多かったのは、平仮名の「みなかみ」。つまり新町名は、音の上では旧・水上町の名をそのまま引き継ぎながら、見た目には全く新しい名になったのである。その典拠は若山牧水の『みなかみ紀行』（1924年）。牧水は群馬を8度訪れ、この地への2度の旅から『利根の奥へ』『みなかみ紀行』を著した。「河の水上（みなかみ）」への愛着を綴った歌人の言葉が、80年余りを経て、漢字を捨てた町名として残った。",
+    "sources": [
+     "w7-minakami-jomo",
+     "w7-minakami-notahotel",
+     "w7-minakami-water"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "公募の応募総数や、「みなかみ」以外の候補名の詳細",
+    "旧水上町の「水上」を「みなかみ」と読む慣習が成立した経緯と時期"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-上野村",
+   "code": "103667",
+   "names": {
+    "ja": "上野村",
+    "reading": "うえのむら",
+    "aliases": []
+   },
+   "user_terms": [
+    "うえのむら",
+    "御巣鷹の村",
+    "合併しない宣言の村",
+    "神流川源流の村",
+    "群馬県で一番人口の少ない村"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県南西部、多野郡の村。1889年の町村制施行で乙母・野栗沢・新羽・勝山・川和・乙父・楢原の7つの郷村が統括されて発足し、それ以前に「上野」を名乗る村はなかった。「うえの」の由来は旧国名「上野国（こうずけ）」に関係するといわれるが不明で、中世の上山荘の名にちなむ説もある。読みは国名の「こうずけ」ではなく「うえの」である。日本武尊の通過伝説を村公式サイトは伝えるが、それは伝説の層であって命名の経緯とは分けて記録する。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行時の村名",
+    "note": "7郷村の統括により1889年に命名された。それ以前の「上野村」は存在しない"
+   },
+   "claims": [
+    {
+     "text": "市町村コードは総務省の全国地方公共団体コード一覧で「103667」とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）の町村制施行により、乙母・野栗沢・新羽・勝山・川和・乙父・楢原の7つの郷村が統括されて上野村が発足し、現在の大字はこの7つの旧村名を残す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-ueno-village-about",
+      "w7-ueno-wiki"
+     ]
+    },
+    {
+     "text": "「上野」の名は、旧国名「上野国」に関係するといわれるが確かではなく、中世の上山荘の名にちなむという説もある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "w7-ueno-gogen"
+     ]
+    },
+    {
+     "text": "村名の読みは、国名「上野（こうずけ）」と同じ漢字でありながら「こうずけ」ではなく「うえの」である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w7-ueno-wiki"
+     ]
+    },
+    {
+     "text": "村には、日本武尊が軍勢を率いてこの地を通過したという伝説が残ると、村公式サイトは伝える",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-ueno-village-about"
+     ]
+    },
+    {
+     "text": "上野村は平成の大合併の際に「合併しない宣言」を出し、単独での存続を選んだ",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w7-ueno-wiki"
+     ]
+    },
+    {
+     "text": "村域南部の「御巣鷹の尾根」は1985年8月12日の日本航空123便墜落事故の現場で、当時無名だったこの尾根に「御巣鷹の尾根」と命名したのは元村長の黒澤丈夫とされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w7-ueno-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「こうずけ」と読まない上野",
+    "text": "群馬県の旧国名は「上野国（こうずけのくに）」。ところが多野郡の上野村は、同じ「上野」と書いて「うえのむら」と読む。村の名の由来ははっきりしない。国名に関係するといわれる一方、中世の「上山荘」の名にちなむという説もある。名づけの舞台となったのは1889年、町村制の施行である。それまで別々だった7つの郷村が一つの村にまとめられ、新しい村の名として「上野」が選ばれた。つまり「上野村」は、明治に新しく付けられた村名でありながら、読みは国名とは違う。漢字は由緒ありげで、村は新しい。そのねじれが、この村の名の面白さである。",
+    "sources": [
+     "w7-ueno-gogen",
+     "w7-ueno-village-about"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「上野」の命名理由（国名由来説と上山荘由来説があり、村公式にも定説の提示はない）",
+    "読みが「こうずけ」でなく「うえの」となった経緯"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-下仁田町",
+   "code": "103829",
+   "names": {
+    "ja": "下仁田町",
+    "reading": "しもにたまち",
+    "aliases": [
+     "下仁田村"
+    ]
+   },
+   "user_terms": [
+    "しもにた",
+    "下仁田ネギの町",
+    "こんにゃくの町",
+    "ねぎとこんにゃく下仁田名産"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県南西部、甘楽郡の町。町名は中心集落の下仁田に由来し、寛文郷帳に「下仁田村（幕府領）」と見える。南牧川と西牧川の合流点の谷口集落として、近世以来2・5・9の日を市日とする市場町、信州方面への交通の要地として発達した。「仁田」の語源は、町公式の沿革・要覧、群馬県の市町村資料、専門辞典のいずれにも説明が確認できず、未詳として記録する。下仁田村は明治5年（1872年）に町となり、1955年3月10日に周辺4村と合併して現在の町となった。",
+   "first_attestation": {
+    "era": "寛文年間",
+    "year_western": null,
+    "document": "寛文郷帳（『日本歴史地名大系』が「下仁田村」に幕府領・高338石余と紹介）",
+    "note": "寛文年間（1661〜1673年）の郷帳における現れ"
+   },
+   "claims": [
+    {
+     "text": "市町村コードは総務省の全国地方公共団体コード一覧で「103829」とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "寛文郷帳に「下仁田村」と見え、当時は幕府領で、高338石余はすべて畑方であったことが『日本歴史地名大系』によって紹介されている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w7-shimonita-kotobank-village"
+     ]
+    },
+    {
+     "text": "下仁田は南牧川と西牧川が合流して鏑川となる地にあり、河岸や市場が設けられて町場を形成した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w7-shimonita-kotobank-village"
+     ]
+    },
+    {
+     "text": "中心集落の下仁田は、近世以来2・5・9の日を市日とする市場町で、信州方面への交通の要地として発達した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w7-shimonita-kotobank"
+     ]
+    },
+    {
+     "text": "「仁田」の語源については、町公式の沿革・町勢要覧、『日本歴史地名大系』『日本大百科全書』のいずれにも説明が確認できず、未詳である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "w7-shimonita-kotobank-village",
+      "w7-shimonita-kotobank"
+     ]
+    },
+    {
+     "text": "下仁田村は明治5年（1872年）に町となり、1889年の町村制施行後も下仁田町として存続した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-shimonita-town-enkaku"
+     ]
+    },
+    {
+     "text": "1955年（昭和30年）3月10日に旧下仁田町・馬山村・西牧村・小坂村・青倉村が合併して、現在の下仁田町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-shimonita-yoran"
+     ]
+    },
+    {
+     "text": "文化2年（1805年）の江戸旗本から名主宛の手紙に「ネギ200本至急送れ」とあり、当時すでに下仁田のネギが栽培され珍重されていたことが分かる。下仁田ネギは別名「殿様ネギ」と呼ばれ、上毛かるたには「ねぎとこんにゃく下仁田名産」と詠まれる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w7-shimonita-town-negi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "ネギが運んだ町名",
+    "text": "「下仁田」という名を全国に運んだのはネギである。文化2年（1805年）、江戸の旗本から下仁田の名主のもとへ、「ネギ200本至急送れ、運送代はいくらかかってもよい」という趣旨の手紙が届いた。江戸から遠く離れた山あいの町のネギが、江戸の武家にまで求められていたことが分かる。下仁田ネギは「殿様ネギ」とも呼ばれ、昭和には皇室への献上も行われたという。上毛かるたの札は「ねぎとこんにゃく下仁田名産」。一方で、下仁田ネギには「下仁田ネギは下仁田におけ」という言い伝えがある。他の土地の試験場で育てても同じ品質にはならなかったという話で、ネギの名声とともに、地名そのものが「ここでしか育たない土地」の名として記憶されるようになった。",
+    "sources": [
+     "w7-shimonita-town-negi",
+     "w7-shimonita-kotobank-village"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「仁田」「下仁田」の語源（対応する「上仁田」の有無を含め、公的資料・専門辞典に説明が見当たらない）",
+    "「下仁田」の名の初出文献（寛文郷帳より前の用例の有無）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-中之条町",
+   "code": "104213",
+   "names": {
+    "ja": "中之条町",
+    "reading": "なかのじょうまち",
+    "aliases": [
+     "中条（戦国期の文書表記）",
+     "中野条（近世郷帳の表記）",
+     "中之条新町（文禄4年の移転後の称）",
+     "河原町（移転前の集落の称）"
+    ]
+   },
+   "user_terms": [
+    "なかのじょう",
+    "四万温泉の町",
+    "中之条ビエンナーレ",
+    "吾妻郡の中心"
+   ],
+   "naming_type": "その他（中世以来の地名「中条」を継承する在郷町名。1889年に町制、1955年・2010年の合併でも名が継承された）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "吾妻川中流の中之条盆地に位置し、四万温泉・沢渡温泉を擁する吾妻郡の中心町。中世末の文書では「中条」と記され、近世の郷帳では「中野条」の表記が多い。集落はもと吾妻川と名久田川の合流点付近にあって河原町といったが、文禄4年（1595年）に段丘上へ移って中之条新町となり、六斎市の立つ市場町・街道の要地として発展した。「条」の語源そのものは、確認した専門資料では明示されていない。",
+   "first_attestation": {
+    "era": "天正11年",
+    "year_western": 1583,
+    "document": "真田昌幸朱印状写（一場文書）",
+    "note": "『日本歴史地名大系』が紹介する記載で、「中之条」ではなく「中条」の表記で現れる。「中之条」の表記での初出は未確認"
+   },
+   "claims": [
+    {
+     "text": "中之条町の地方公共団体コードは104213である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "戦国期の文書ではこの地は「中条」と記されており、『日本歴史地名大系』は天正11年（1583年）3月26日の真田昌幸朱印状写（一場文書）と天正18年（1590年）閏12月10日の真田信幸朱印状写（『吾妻記』所収）に「中条」の宛行の記事が見えることを紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "近世の郷帳では「中野条」と記すものが多かった（『日本歴史地名大系』による）",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "集落は古くは名久田川が吾妻川に合流する付近にあって河原町といったが、文禄4年（1595年）には河川から離れた一段上の下ノ町（長岡）に移り、中之条新町となった（『日本歴史地名大系』が「吾妻郡略記」「伊勢町覚書」を引いて紹介）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "戦国時代には真田氏の居城沼田城と信州上田城を結ぶ道の要地であり、近世には吾妻川・四万川・名久田川流域の諸村を後背地として1と6の日を市日とする六斎市が開かれ、米・生糸・薪炭の取引で繁栄した市場町だった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-kotobank-taikei",
+      "w8-nakanojo-kotobank-nipponica"
+     ]
+    },
+    {
+     "text": "古代にはJR吾妻線中之条駅南の地域から銅印・墨書土器・奈良三彩陶器片が出土しており、町公式の歴史解説は、この地域が吾妻郡の郡衙や郡政治と密接な関わりを持っていたことを想定させる、と紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-town-history"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）に町制が施行され、1955年（昭和30年）に沢田村・伊参村・名久田村と合併、2010年（平成22年）に六合村を編入して現在の町域となったが、「中之条」の名は一貫して継承された",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-kotobank-nipponica",
+      "w8-nakanojo-wiki"
+     ]
+    },
+    {
+     "text": "「中之条」の「条」が何に由来するか（条里制や荘園の区画との関係を含む）は、確認した『日本歴史地名大系』等の専門資料では明示されておらず、語源は未確定である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "w8-nakanojo-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "町内の四万温泉の名は「四万（よんまん）の病を癒す霊泉」であることに由来するという伝説があり、温泉の始まりについては坂上田村麻呂が入浴したとする説と、源頼光の家臣・日向守碓氷貞光が夢のお告げで湧出を見つけたとする説が伝えられる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-shima-jtb"
+     ]
+    }
+   ],
+   "column": {
+    "title": "川に追われて引っ越した町 ― 河原町から「中之条新町」へ",
+    "text": "いまの中之条の市街地は、吾妻川北岸の河岸段丘の上にあります。ところが古く、この町の集落は名久田川が吾妻川に合流する河原の近くにあり、「河原町」と呼ばれていました。水に近すぎる立地は洪水と隣り合わせで、文禄4年（1595年）、集落は川から離れた一段高い下ノ町（長岡）へ移り、「中之条新町」と名を改めます。さらに寛永9年（1632年）には一部が王子原へ移って町割が引かれました。川辺の「河原町」が高台の「新町」になる ― 町の名前の歴史は、そのまま水害と折り合いをつけてきた移転の歴史でもあるのです。",
+    "sources": [
+     "w8-nakanojo-kotobank-taikei"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「中之条」の「条」の語源（条里制・荘園の区画との関係など）は専門資料で確認できなかった",
+    "「中之条」の表記（之を含む形）の文献上の初出は未確認（戦国期の文書は「中条」、近世郷帳は「中野条」が多い）"
    ],
    "updated": "2026-11-13"
   },
@@ -609,6 +1399,135 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/10-千代田町",
+   "code": "105236",
+   "names": {
+    "ja": "千代田町",
+    "reading": "ちよだまち",
+    "aliases": [
+     "千代田村（1955年〜1982年の名称）"
+    ]
+   },
+   "user_terms": [
+    "ちよだまち",
+    "じゃない方の千代田",
+    "利根川沿いの千代田町",
+    "赤岩渡船の町"
+   ],
+   "naming_type": "合併新設（1955年の3村合併に際して新しく命名された村名を、1982年の町制施行後も継承）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "利根川中流の左岸に東西に細長く広がる、山のない平坦な田園の町。昭和30年（1955年）3月31日に永楽村・富永村・長柄村が合併して千代田村が生まれ、昭和57年（1982年）に町制を施行した。「千代田」は合併時の新名で、「千代に八千代に栄える町であるように」という願いを込めた命名と町職員が説明している。江戸時代は利根川水運の拠点で、現在も橋のない県道として赤岩渡船が残る。",
+   "first_attestation": {
+    "era": "昭和30年",
+    "year_western": 1955,
+    "document": "永楽村・富永村・長柄村の新設合併による千代田村の発足（1955年3月31日）",
+    "note": "自治体名としての初出であり、命名そのもの。旧3村のいずれの名とも異なる新名である"
+   },
+   "claims": [
+    {
+     "text": "千代田町の地方公共団体コードは105236である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）3月31日、邑楽郡の永楽村・富永村・長柄村が合併して千代田村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-town-intro",
+      "w8-chiyoda-gunma-hensen"
+     ]
+    },
+    {
+     "text": "翌昭和31年（1956年）9月30日、旧長柄村の区域（大字赤堀・狸塚・篠塚）が千代田村から離れて中島村（のちの邑楽町）へ編入され、現在の町域の骨格が定まった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-town-intro",
+      "w8-chiyoda-gunma-hensen"
+     ]
+    },
+    {
+     "text": "昭和57年（1982年）4月1日に町制を施行して千代田町となり、合併時の村名「千代田」がそのまま町名に継承された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-town-intro",
+      "w8-chiyoda-town-history"
+     ]
+    },
+    {
+     "text": "町名「千代田」は、合併にあたって「千代に八千代に栄える町であるように（いつまでも永遠に）」という願いを込めて名付けられた、と町職員が紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-cbc"
+     ]
+    },
+    {
+     "text": "「千代田」は旧3村（永楽・富永・長柄）のいずれの名からも取られておらず、合併に際して新しく作られた名称である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-town-intro",
+      "w8-chiyoda-gunma-hensen"
+     ]
+    },
+    {
+     "text": "町域は中世から近世にかけて佐貫氏・赤井氏の中心的な地域であり、江戸時代には利根川を利用した江戸への水運の拠点として繁栄した、と町公式の紹介は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-town-intro"
+     ]
+    },
+    {
+     "text": "町内には山がなく全体が平坦で、利根川を挟んで埼玉県熊谷市・行田市に接する。赤岩渡船は利根川を渡る「橋のない県道」として町内に残る",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-town-intro",
+      "w8-chiyoda-sogokeikaku"
+     ]
+    },
+    {
+     "text": "町は東京都千代田区と混同されやすいことを逆手に取り、「じゃない方の千代田」という自虐的なキャッチコピーで町のPRを行っている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-chiyoda-cbc"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「じゃない方の千代田」という名乗り",
+    "text": "「千代田」と言えば、皇居と国会議事堂のある東京都千代田区が圧倒的に有名です。群馬県の千代田町は、「千代田町です」と言うと「東京都千代田区ですか？」と聞き返されることも少なくありません。そこで町は発想を逆転させ、「#じゃない方の千代田」と自ら名乗るPRを始めました。鉄道駅のない人口約1万人の田園の町が、名前の知名度の差そのものを笑いに変えて売り込む ― 合併の願いを込めて名付けられた「千代田」という名が、いまは町の広報戦略の主役になっています。",
+    "sources": [
+     "w8-chiyoda-cbc"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "1955年の合併時に「千代田」の名が選ばれた経緯（候補名や選定手続き）を記した公的記録は確認できなかった（命名の願いは町職員のメディアでの説明による）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/10-南牧村",
    "code": "103837",
    "names": {
@@ -699,6 +1618,254 @@
    "unknowns": [
     "南牧川および地域名「南牧」の初出と語源（公式資料・地名辞典で確認できず）",
     "昭和30年の合併時に「南牧」の名を選んだ経緯の記録は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-吉岡町",
+   "code": "103454",
+   "names": {
+    "ja": "吉岡町",
+    "reading": "よしおかまち",
+    "aliases": [
+     "吉岡村（1955年〜1991年の名称）"
+    ]
+   },
+   "user_terms": [
+    "よしおかまち",
+    "吉岡温泉 リバートピア吉岡",
+    "道の駅よしおか温泉",
+    "榛名山の麓の吉岡"
+   ],
+   "naming_type": "合併新設（1955年の2村合併に際し、両村を結ぶ川（吉岡川）の名を取った命名。1991年の町制施行後も継承）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "榛名山南東麓と利根川の間の台地に広がる町。昭和30年（1955年）4月に明治村と駒寄村が合併した際、2つの村を結ぶ河川（吉岡川）の名にちなんで吉岡村と命名され、平成3年（1991年）4月に町制を施行した。「吉岡」は人名由来ではなく川の名に由来する合併新名であり、川名そのものの語源は公式資料では示されていない。町内は古墳の密集地として知られる。",
+   "first_attestation": {
+    "era": "昭和30年",
+    "year_western": 1955,
+    "document": "明治村・駒寄村の合併による吉岡村の発足（1955年4月）",
+    "note": "自治体名としての初出であり、命名そのもの。川名「吉岡川」の名の初出・語源は未確認"
+   },
+   "claims": [
+    {
+     "text": "吉岡町の地方公共団体コードは103454である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）4月、明治村と駒寄村が合併し、2つの村を結ぶ河川の名にちなんで吉岡村と命名された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-gaiyo",
+      "w8-yoshioka-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "村名の由来となった川は吉岡川で、合併した両村の間を流れる川の名が、そのまま新しい自治体の名に採用された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-gaiyo"
+     ]
+    },
+    {
+     "text": "平成3年（1991年）4月1日に町制が施行され、吉岡村は吉岡町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-gaiyo",
+      "w8-yoshioka-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "前身の明治村と駒寄村は、明治22年（1889年）の町村制実施の際に、明治17年の連合村組織をそのままの形で継承して生まれた村だった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-enkaku"
+     ]
+    },
+    {
+     "text": "町は県のほぼ中央、榛名山の南東山麓と利根川地域に位置し、西半分は榛名山の裾野の傾斜地、東半分は洪積台地である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-gaiyo"
+     ]
+    },
+    {
+     "text": "町内は「古墳の宝庫」とされ、昭和初期には町全体で420基を超える古墳があったとも言われ、天皇陵と同じ八角墳である三津屋古墳が残る",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-keikaku"
+     ]
+    },
+    {
+     "text": "中世には桃井氏がこの一帯を治め、近世には佐渡街道の大久保宿、伊香保街道の野田宿が置かれて宿場町として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-yoshioka-town-keikaku"
+     ]
+    },
+    {
+     "text": "川名「吉岡川」の「吉岡」そのものの語源は、確認した町・県の公式資料では説明されておらず、未確定である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "w8-yoshioka-town-gaiyo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "村と村を結ぶ川の名が、そのまま町の名になった",
+    "text": "合併で生まれる自治体の名前は、旧町村の名前の奪い合いになりがちです。1955年の吉岡村は、その争いを避けるような命名でした。明治村と駒寄村、どちらの名前でもなく、2つの村を結ぶように流れる吉岡川の名を取ったのです。川は両村の共有物だから、どちらにも肩入れしない中立の名になりました。町名の由来をたどると「川の名前」に行き着き、そこで記録が止まる ― その川の名の由来は今も資料に残っていません。",
+    "sources": [
+     "w8-yoshioka-town-gaiyo"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "川名「吉岡川」の語源・初出は公式資料で確認できなかった",
+    "1955年の命名に際して他の候補名があったかどうかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-大泉町",
+   "code": "105244",
+   "names": {
+    "ja": "大泉町",
+    "reading": "おおいずみまち",
+    "aliases": [
+     "小泉町（1957年まで存在した前身の町）",
+     "大川村（1957年まで存在した前身の村）"
+    ]
+   },
+   "user_terms": [
+    "おおいずみまち",
+    "ブラジルタウン",
+    "大泉カルナバル",
+    "群馬で一番小さい町"
+   ],
+   "naming_type": "合併新設（1957年に小泉町と大川村が合併。大川の「大」と小泉の「泉」を合わせた合成地名と解される）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "利根川北岸に広がる、群馬県で最も面積の小さい町で、日系ブラジル人の多い国際色豊かな工業町として知られる。昭和32年（1957年）3月31日に小泉町と大川村が合併して生まれ、「大泉」は大川村の「大」と小泉町の「泉」を合わせた合成地名と解される。中心地の小泉は中世の小泉城の城下で、近世には日光例幣使街道脇往還の宿場町・市場町だった。「泉」を「大きな泉」と読む語源説は確認できず、地名「小泉」そのものの語源も公式資料では示されていない。",
+   "first_attestation": {
+    "era": "昭和32年",
+    "year_western": 1957,
+    "document": "小泉町・大川村の新設合併による大泉町の発足（1957年3月31日）",
+    "note": "自治体名としての初出であり、命名そのもの。前身の地名「小泉」は中世の佐貫庄の時代から続く古い地名である"
+   },
+   "claims": [
+    {
+     "text": "大泉町の地方公共団体コードは105244である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和32年（1957年）3月31日、小泉町と大川村が合併して大泉町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-oizumi-town-history",
+      "w8-oizumi-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "町名「大泉」は、大川村の「大」と小泉町の「泉」を1字ずつ取って合わせた合成地名と解されるが、町・県の公式資料に命名理由の明記は確認できなかった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "w8-oizumi-kotobank-nipponica"
+     ]
+    },
+    {
+     "text": "前身の小泉町は、明治22年（1889年）に成立した小泉村が明治35年（1902年）7月25日に町制を施行したもので、大川村も同じ1889年に成立した村だった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-oizumi-town-history"
+     ]
+    },
+    {
+     "text": "中心地の小泉は、延徳元年（1489年）に富岡直光が小泉城を築いて以来の城下であり、近世には日光例幣使街道脇往還の宿場町であり、1と6の日を市日とする市場町でもあった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w8-oizumi-town-history",
+      "w8-oizumi-kotobank-nipponica"
+     ]
+    },
+    {
+     "text": "町域は中世には佐貫庄に属し、文治元年（1185年）に佐貫広綱が佐貫庄の地頭となった、と町の歴史年表は記す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-oizumi-town-history"
+     ]
+    },
+    {
+     "text": "町の面積は18.03平方キロメートルで群馬県で一番小さく、戦中の中島飛行機小泉製作所以来の工業都市で、現在は外国籍住民の割合が約2割に達する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-oizumi-town-handbook",
+      "w8-oizumi-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "地名「小泉」の語源（泉の湧く地であったとする説を含む）は、確認した町・県の公式資料と百科事典では明示されておらず、未確定である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "w8-oizumi-kotobank-nipponica"
+     ]
+    }
+   ],
+   "column": {
+    "title": "合併で生まれた「泉」の字が、町のブランドになった",
+    "text": "大泉町は群馬県でいちばん小さな町ですが、人口の約2割が外国籍で、その多くが日系ブラジル人です。毎年開かれる「大泉カルナバル」ではサンバが町を練り歩き、ポルトガル語の看板が並ぶ通りは「ブラジルタウン」と呼ばれます。面白いのは、合併で生まれた「大泉」の「泉」の字が、いつの間にか町のイメージそのものになったことです。「いずみ緑道」「いずみ総合公園」「いずみの杜」と、町の施設には次々に「いずみ」の名が付けられました。1字ずつの寄せ集めだったはずの合成地名が、半世紀をかけて町の顔になっていった例です。",
+    "sources": [
+     "w8-oizumi-town-handbook",
+     "w8-oizumi-gunma-arabashi"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「大泉」の合成（大＋泉）の命名経緯を記した公式記録は確認できなかった",
+    "地名「小泉」の語源と文献上の初出は未確認"
    ],
    "updated": "2026-11-13"
   },
@@ -813,6 +1980,143 @@
    "unknowns": [
     "太田郷の初出史料と年代は未確認",
     "「太田」の語源の定説は未確認（「大きな田」などの一般的な解釈を裏づける地元資料は取得できなかった）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-嬬恋村",
+   "code": "104256",
+   "names": {
+    "ja": "嬬恋村",
+    "reading": "つまごいむら",
+    "aliases": []
+   },
+   "user_terms": [
+    "つまごい",
+    "愛妻家の聖地",
+    "嬬恋キャベツ",
+    "万座温泉の村",
+    "鎌原観音堂"
+   ],
+   "naming_type": "合併新設（1889年の11か村合併に際し、日本武尊と弟橘媛の伝説にちなんで命名された新村名）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "浅間山北麓の高原に広がり、夏秋キャベツの出荷量日本一で知られる村。明治22年（1889年）に田代・大笹・鎌原など11か村が合併して生まれた際、村名は日本武尊が亡き妻・弟橘媛を偲んで「吾嬬者耶（あづまはや）」と嘆いたという伝説に由来すると村公式が説明する、「伝説から名付けられた地名」の代表例。文献で確認できるのは1889年の命名の事実であり、伝説そのものは事実の層と分けて記録する。天明3年（1783年）の浅間山大噴火では鎌原村が壊滅的な被害を受けた。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行による嬬恋村の成立（1889年4月1日）",
+    "note": "自治体名としての初出であり、命名そのもの。命名の典拠とされる日本武尊の故事は古代の文献に遡る伝承だが、「嬬恋」の地名自体は1889年に作られた"
+   },
+   "claims": [
+    {
+     "text": "嬬恋村の地方公共団体コードは104256である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の市町村制施行に伴い、田代・大笹・干俣・大前・門貝・西窪・鎌原・芦生田・今井・袋倉・三原の11か村が合併して嬬恋村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-vill-youran",
+      "w8-tsumagoi-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "村名「嬬恋」は、日本武尊と愛妻・弟橘媛との間の伝説に由来する、と村公式の村勢要覧は明記する。すなわち命名の典拠は歴史的事実ではなく伝説の層にある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-vill-youran"
+     ]
+    },
+    {
+     "text": "日本武尊は東征の帰路、鳥居峠（碓日坂）に立ち、海神の怒りを鎮めるために海に身を投じた愛妻・弟橘媛を偲んで「吾嬬者耶（あづまはや）＝ああ、わが妻よ、恋しい」と嘆いたという。この故事にちなんで村名が付けられたと伝えられる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-ueda-sanada",
+      "w8-tsumagoi-vill-kouhou"
+     ]
+    },
+    {
+     "text": "伝説の語られ方には揺れがあり、村観光協会は日本武尊が四阿山（吾妻山）から眼下の雲海を見て荒れる海を思い出し、亡き妻を偲んだとする形で紹介する",
+     "kind": "legend",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "w8-tsumagoi-kankou"
+     ]
+    },
+    {
+     "text": "「吾妻者耶」の故事は郡名「吾妻」の由来ともされるもので、村名と郡名は同じ伝説の層を共有すると紹介される",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-kankou"
+     ]
+    },
+    {
+     "text": "村域は中世に「三原庄」「吾妻庄」と呼ばれ、信濃源氏の末裔とされる海野氏、その一族の鎌原氏の支配下にあった、と村公式の沿革は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-vill-intro"
+     ]
+    },
+    {
+     "text": "天明3年（1783年）の浅間山大噴火では土石なだれが浅間山北麓を襲い、村内の鎌原村は犠牲者477名を出すなど壊滅的な被害を受けた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-vill-youran",
+      "w8-tsumagoi-vill-intro"
+     ]
+    },
+    {
+     "text": "噴火後の鎌原では、妻を亡くした男と夫を亡くした女が新しい家族を結んで復興を図ったと語り継がれ、高台の鎌原観音堂では50段あった石段のうち35段が噴火で埋まったと伝えられる",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-kankou"
+     ]
+    },
+    {
+     "text": "村は「嬬恋」の名を「愛妻家の聖地」として観光に生かし、1月31日の「愛妻の日」に合わせたキャンペーンなどを行っている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-vill-kouhou"
+     ]
+    }
+   ],
+   "column": {
+    "title": "名前の典拠が「伝説」だと、村自身が言い切る地名",
+    "text": "地名の由来を調べると、自治体が伝説をあたかも事実のように紹介している例は少なくありません。嬬恋村は逆で、村の公式要覧が「村名は、日本武尊と愛妻弟橘媛との間のロマンに満ちた伝説に由来するものです」とはっきり書いています。1889年、11の村が合併するにあたって人々が選んだのは、どの旧村の名前でもなく、この土地を日本武尊の妻恋いの物語と結びつける新しい名でした。伝説を根拠に名付けられた名だからこそ、村はいま「愛妻家の聖地」を名乗り、「あづまはや」と嘆いたという物語そのものを観光資源にしています。事実と伝説を分けてこそ見える、この村らしい名前の使い方です。",
+    "sources": [
+     "w8-tsumagoi-vill-youran",
+     "w8-tsumagoi-vill-kouhou"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "日本武尊の故事を伝える『日本書紀』景行天皇条の原文は、今回の調査では二次資料経由の紹介にとどまり直接確認していない",
+    "1889年の命名に際して他の候補名があったか、命名者が誰かは未確認"
    ],
    "updated": "2026-11-13"
   },
@@ -1051,6 +2355,133 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/10-川場村",
+   "code": "104442",
+   "names": {
+    "ja": "川場村",
+    "reading": "かわばむら",
+    "aliases": []
+   },
+   "user_terms": [
+    "かわば",
+    "川場田園プラザ",
+    "雪ほたかの村",
+    "世田谷区民健康村",
+    "田園理想郷"
+   ],
+   "naming_type": "その他（「川の多い場所」であることに由来すると県の市町村要覧が説明する地名。1889年の村制以来、一度も合併せず名が続く）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "武尊山南麓の盆地に広がる農山村で、道の駅「川場田園プラザ」とブランド米「雪ほたか」で知られる。村名の由来について、群馬県の市町村要覧は「村内には源を有する一級河川が4本流れ、川の多い場所であることが村名の由来」と説明し、村公式は薄根川を「村名の由来となる川」とする。明治22年（1889年）の町村制で成立して以来、合併を経験せず今日に至る。中世には利根庄が置かれ、相模の大友氏の発祥の地とされる。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行による川場村の成立（1889年4月1日）",
+    "note": "自治体名としての初出。地名「川場」そのものの文献上の初出は未確認"
+   },
+   "claims": [
+    {
+     "text": "川場村の地方公共団体コードは104442である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "「川場」の名は、村内に源を有する一級河川が4本あり、各地区の山裾から武尊山の伏流水が湧き出る「川の多い場所」であることに由来する、と群馬県の市町村要覧は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "村公式の紹介は、村内を流れる薄根川を「村名の由来となる川」と位置づける",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-vill-about"
+     ]
+    },
+    {
+     "text": "村は明治22年（1889年）4月1日の町村制施行に伴い成立し、その後合併を経験することなく現在に至っている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-gunma-arabashi",
+      "w8-kawaba-wiki"
+     ]
+    },
+    {
+     "text": "村は武尊山の南麓に広がり、総面積の86パーセントを森林が占める。川場温泉など五つの温泉が村を潤す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-gunma-arabashi",
+      "w8-kawaba-vill-about"
+     ]
+    },
+    {
+     "text": "平安時代にはこの地に「利根庄」が成立し、鎌倉時代にはこの地で生まれた利根姫を母に持つ相模国の大友能直の領地となったと紹介される",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-mod-kikou"
+     ]
+    },
+    {
+     "text": "村内の吉祥寺は1339年に大友氏7代氏泰が先祖発祥の地に建立した臨済宗の寺で、建長寺派の寺院の中で最も北に位置することから「建長寺の北の門」とも称される",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-mod-kikou"
+     ]
+    },
+    {
+     "text": "村は1981年に東京都世田谷区と「縁組協定」を締結し、世田谷区民健康村を受け入れるなど、都市と農村の交流の先進的な取り組みを行ってきた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-kawaba-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "「川場」という地名の文献上の初出や、1889年以前にこの名が地域名としてどう使われていたかは、確認した公式資料では示されていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "w8-kawaba-gunma-arabashi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「川の多い場所」という名前が、都会の区を呼び寄せた",
+    "text": "川場村の名前の説明は、ひどく素直です。「川の多い場所であることが村名の由来」。村内には薄根川をはじめ4本の一級河川が流れ、武尊山の伏流水があちこちから湧きます。その「水の豊かさ」が、1981年には東京都世田谷区との「縁組協定」を結ぶ決め手にもなりました。都会の区と山村が「結婚」の言葉で結ばれるという当時としては珍しい協定で、世田谷区民健康村が村内に置かれ、区民が川場の川と田んぼに通う関係が40年以上続いています。村の名前そのものが、村の一番の資源を正確に言い当てていた例です。",
+    "sources": [
+     "w8-kawaba-gunma-arabashi",
+     "w8-kawaba-vill-about"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "地名「川場」の文献上の初出は未確認",
+    "村公式が薄根川を「村名の由来となる川」とする根拠の詳細（川場という地名と薄根川の結びつき）は公式資料に明記されていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/10-明和町",
    "code": "105228",
    "names": {
@@ -1284,6 +2715,261 @@
    "updated": "2026-11-13"
   },
   {
+   "id": "muni/10-東吾妻町",
+   "code": "104299",
+   "names": {
+    "ja": "東吾妻町",
+    "reading": "ひがしあがつままち",
+    "aliases": [
+     "吾妻町（2006年まで存在した前身の町）",
+     "東村（2006年まで存在した前身の村）",
+     "原町（1956年に吾妻町へ改称した前身の町）"
+    ]
+   },
+   "user_terms": [
+    "ひがしあがつま",
+    "あがつま峡 道の駅",
+    "岩櫃城の町",
+    "箱島湧水"
+   ],
+   "naming_type": "合併新設（2006年の合併に際し公募で選ばれた、東村の「東」と吾妻町の「吾妻」を合わせた合成名）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "吾妻川中流の渓谷と岩櫃山に抱かれた町。平成18年（2006年）3月27日に吾妻町と東村が合併して生まれ、新町名は公募によって、東村の「東」と吾妻町の「吾妻」を合わせた「東吾妻町」に決まった。「吾妻」の層はさらに古く、吾妻町は昭和31年（1956年）に原町が郡名「吾妻」を取って改称したもので、郡名そのものは日本武尊の「吾嬬者耶」の故事に由来するとされる伝説の層を持つ。古代の吾妻郡衙は町内の大宮・厳鼓神社付近に推定されている。",
+   "first_attestation": {
+    "era": "平成18年",
+    "year_western": 2006,
+    "document": "東村・吾妻町の新設合併による東吾妻町の発足（2006年3月27日）",
+    "note": "自治体名としての初出であり、命名そのもの。要素である「吾妻」は古代の郡名に遡る"
+   },
+   "claims": [
+    {
+     "text": "東吾妻町の地方公共団体コードは104299である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "平成18年（2006年）3月27日、吾妻郡の吾妻町と東村が新設合併して東吾妻町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-higashiagatsuma-gunma-arabashi",
+      "w8-higashiagatsuma-gunma-hensen1"
+     ]
+    },
+    {
+     "text": "新町の名称は公募され、合併協議会で「東吾妻町」とすることが決まった。公募の「名付け親賞」には東村大字箱島の当時9歳の児童が抽選で選ばれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-higashiagatsuma-gappei-dayori"
+     ]
+    },
+    {
+     "text": "「東吾妻」は、東村の「東」と吾妻町の「吾妻」を合わせた合成の名であり、合併した両町村の名の要素をともに残す形になっている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-higashiagatsuma-gappei-dayori",
+      "w8-higashiagatsuma-gunma-hensen1"
+     ]
+    },
+    {
+     "text": "前身の吾妻町は、昭和30年（1955年）に合併で生まれた原町が、昭和31年（1956年）2月1日に郡名を取って「吾妻町」へ改称したもので、「吾妻」の名はこの改称で自治体名に取り込まれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-higashiagatsuma-gunma-hensen1"
+     ]
+    },
+    {
+     "text": "前身の東村は明治22年（1889年）に五町田村・箱島村・岡崎新田・奥田村・新巻村の区域をもって成立し、116年間続いた村だった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w8-higashiagatsuma-uub-azuma"
+     ]
+    },
+    {
+     "text": "古代の律令制下ではこの一帯は上野国吾妻郡に属し、郡の役所である郡衙は町内の大宮巖鼓神社（東吾妻町）付近に存在したと推定されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-nakanojo-town-history"
+     ]
+    },
+    {
+     "text": "町域には戦国時代に真田氏の吾妻地方統治の拠点だった岩櫃城のあった岩櫃山がそびえ、吾妻川には国の名勝・吾妻渓谷がある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-higashiagatsuma-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "郡名「吾妻」は、日本武尊が亡き妻を偲んで「吾嬬者耶」と嘆いた故事に由来すると伝えられ、隣接する嬬恋村の村名と同じ伝説の層を共有する",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-tsumagoi-kankou"
+     ]
+    }
+   ],
+   "column": {
+    "title": "新しい町の名前を付けたのは、9歳の「名付け親」だった",
+    "text": "2006年の合併で生まれた東吾妻町の名前は、住民公募で決まりました。合併協議会だよりによれば、公募された名称の中から「東吾妻町」が選ばれ、その名付け親賞に輝いたのは、東村の箱島に住む当時9歳の大塚翔太君でした。東村の「東」と吾妻町の「吾妻」をつなぐという、言われてみれば明快な合成です。もっとも、その「吾妻」をたどると、原町が1956年に郡名を名乗り、郡名の由来はさらに日本武尊の妻恋いの伝説にまで遡ります。9歳の子どもが付けた名前の底には、千年を超える地名の層が重なっていたことになります。",
+    "sources": [
+     "w8-higashiagatsuma-gappei-dayori",
+     "w8-higashiagatsuma-gunma-hensen1"
+    ]
+   },
+   "relations": [
+    "pref/10",
+    "muni/10-嬬恋村"
+   ],
+   "unknowns": [
+    "公募に寄せられた他の候補名の一覧は未確認",
+    "1956年に原町が「吾妻町」へ改称した際の理由の公式記録は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-板倉町",
+   "code": "105210",
+   "names": {
+    "ja": "板倉町",
+    "reading": "いたくらまち",
+    "aliases": [
+     "板倉村（伊奈良村の大字となった旧村。現在の大字板倉）"
+    ]
+   },
+   "user_terms": [
+    "いたくらまち",
+    "雷電神社の町",
+    "渡良瀬遊水地の町",
+    "群馬の水郷",
+    "なまずの町"
+   ],
+   "naming_type": "合併新設（1955年の4村合併・町制施行に際し、中心地である旧板倉村（伊奈良村の大字）の名を採用）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "利根川と渡良瀬川に挟まれた低湿地の町で、関東の雷電神社の総本宮とされる雷電神社と、渡良瀬遊水地で知られる。昭和30年（1955年）2月1日に西谷田村・海老瀬村・大箇野村・伊奈良村が合併し、同時に町制を施行して板倉町となった。町名は4村のいずれでもなく、伊奈良村の大字で雷電神社の鎮座する旧板倉村の名による。「板倉」の語源については、かつて町の中央にあった板倉沼に由来すると紹介する資料がある一方、確実な説明はなく、戦国大名の板倉氏との関係を示す資料も確認できない。",
+   "first_attestation": {
+    "era": "昭和30年",
+    "year_western": 1955,
+    "document": "西谷田村・海老瀬村・大箇野村・伊奈良村の合併・町制施行による板倉町の発足（1955年2月1日）",
+    "note": "自治体名としての初出。地名「板倉」（旧板倉村・板倉沼）の文献上の初出は未確認"
+   },
+   "claims": [
+    {
+     "text": "板倉町の地方公共団体コードは105210である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）2月1日、西谷田村・海老瀬村・大箇野村・伊奈良村の四村が合併し、同時に町制を施行して板倉町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-itakura-town-70th",
+      "w8-chiyoda-gunma-hensen"
+     ]
+    },
+    {
+     "text": "町名「板倉」は合併した4村のいずれの名でもなく、伊奈良村を構成した旧村の一つ・板倉村（現在の大字板倉）の名を引き継いだもので、町役場も大字板倉に置かれる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-itakura-wiki",
+      "w8-chiyoda-gunma-hensen"
+     ]
+    },
+    {
+     "text": "大字板倉には雷電神社が鎮座し、関東一円に点在する雷電神社の総本宮とされ、地元では「雷電さま」と親しまれる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-itakura-town-raiden",
+      "w8-itakura-wiki"
+     ]
+    },
+    {
+     "text": "雷電神社の創建は、社伝では推古天皇6年（598年）に聖徳太子によると伝えられ、かつては板倉沼・伊奈良の沼に突き出す半島や小島の上に社があった",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-itakura-town-raiden",
+      "w8-itakura-wiki"
+     ]
+    },
+    {
+     "text": "町名「板倉」は、かつて町のほぼ中央に存在した板倉沼に由来する、と紹介する地域案内がある。ただし沼と地名のどちらが先かを含め、裏づけのある語源説は確認できていない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "w8-itakura-ryomo-walker"
+     ]
+    },
+    {
+     "text": "町は利根川と渡良瀬川の合流域の低湿地にあり、洪水に備えて主屋より高く築かれた避難所兼倉庫「水塚」が集落に残る水郷の景観で知られる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-itakura-ryomo-walker"
+     ]
+    },
+    {
+     "text": "「板倉」の語源が戦国大名の板倉氏（京都所司代を務めた家）に由来することを示す資料は、確認した範囲では見当たらず、両者の関係は確認できない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "w8-itakura-ryomo-walker",
+      "w8-itakura-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "沼に浮かぶ島の神社が、町の名前の中心になった",
+    "text": "板倉町の中心、大字板倉に鎮座する雷電神社は、関東各地の雷電神社の総本宮とされる古社です。今でこそ陸続きの境内ですが、かつて雷電神社は板倉沼と亥の子沼に突き出す半島の上にあり、近くの伊奈良の沼に浮かぶ小島の社だった時代の姿が伝えられます。周囲は利根川と渡良瀬川に挟まれた低湿地で、人々は洪水のたびに水に浸かりながら、水塚（みつか）と呼ばれる高台の倉庫に逃れて暮らしてきました。1955年に4つの村が合併したとき、新しい町の名前として残ったのは、この沼と神社の地「板倉」でした。水と格闘してきた土地の記憶が、そのまま町名になっています。",
+    "sources": [
+     "w8-itakura-town-raiden",
+     "w8-itakura-wiki",
+     "w8-itakura-ryomo-walker"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "地名「板倉」の文献上の初出と確実な語源（板倉沼由来説の裏づけを含む）は未確認",
+    "1955年の合併時に他の町名候補があったかどうかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
    "id": "muni/10-桐生市",
    "code": "102032",
    "names": {
@@ -1393,6 +3079,129 @@
    "unknowns": [
     "語源は「きり＝開墾地・う＝峡谷」説、桐の自生説、霧生説などが併存し、定説は確認できなかった",
     "中世の桐生郷の範囲と成立時期の詳細は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-榛東村",
+   "code": "103446",
+   "names": {
+    "ja": "榛東村",
+    "reading": "しんとうむら",
+    "aliases": [
+     "桃井村（1959年まで存在した前身の村名）"
+    ]
+   },
+   "user_terms": [
+    "しんとう",
+    "榛名山の東の村",
+    "相馬原駐屯地の村",
+    "県内で一番人口の多い村",
+    "しんとうワイナリー"
+   ],
+   "naming_type": "新規命名（1959年に村名を公募し、榛名山の東という位置を表す「榛東」を採用して桃井村から改称）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "榛名山東麓に広がり、陸上自衛隊相馬原駐屯地を擁する、群馬県で最も人口の多い村。現在の村名は古くからの地名ではなく、昭和34年（1959年）8月1日に村名を公募して採用された「榛名山の東」を意味する新しい名で、それまでは古代に遡る地名「桃井」を継ぐ桃井村だった。昭和32年（1957年）に桃井村と群馬郡相馬村大字広馬場が合併した後の改称で、位置を表す名が歴史地名に取って代わった事例である。",
+   "first_attestation": {
+    "era": "昭和34年",
+    "year_western": 1959,
+    "document": "桃井村の村名公募による「榛東村」への改称（1959年8月1日）",
+    "note": "自治体名としての初出であり、命名そのもの。前身の地名「桃井」は藤原京出土木簡や『和名類聚抄』に見える古代の地名である"
+   },
+   "claims": [
+    {
+     "text": "榛東村の地方公共団体コードは103446である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和32年（1957年）、北群馬郡桃井村と群馬郡相馬村大字広馬場が合併して桃井村が誕生し、その後村名を公募して、昭和34年（1959年）8月1日に現在の村名「榛東村」となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-shinto-shokokai-keikaku",
+      "w8-shinto-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "「榛東」の名は、村が榛名山の東に位置することに由来する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w8-shinto-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "1959年の改称まで村の名だった「桃井」は古代に遡る地名で、藤原京出土木簡には「上毛野国車評桃井里」から鮎が献上されたことを示す墨書があり、『和名類聚抄』にも「桃井」の地名が見える、と村教育委員会の資料は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-shinto-vill-kyoiku"
+     ]
+    },
+    {
+     "text": "鎌倉時代には承久の乱（1221年）を契機に足利系の桃井氏が桃井郷（現在の榛東村一帯）を治め、桃井城址や柳沢寺にその名残を伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-shinto-vill-kyoiku",
+      "w8-shinto-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "村は榛名山の東麓に広がる都市近郊農村で、村内には陸上自衛隊の相馬原駐屯地（第12旅団司令部）があり、旅団司令部が置かれる自治体としては全国で唯一の村である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w8-shinto-gunma-arabashi",
+      "w8-shinto-kotobank"
+     ]
+    },
+    {
+     "text": "村域には茅野遺跡（国指定史跡）や高塚古墳（県指定史跡）をはじめ古墳が多く残り、『上毛古墳綜覧』編纂時には168基の古墳が確認された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-shinto-vill-kyoiku",
+      "w8-shinto-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "改称前の「桃井村」は1889年（明治22年）の町村制で成立した村で、郡の所属は西群馬郡・群馬郡を経て1949年に北群馬郡となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w8-shinto-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "千年続いた「桃井」を捨てて、「榛名山の東」を選んだ村",
+    "text": "榛東村の前身・桃井村の「桃井」は、藤原京の木簡に「上毛野国車評桃井里」と記され、都へ鮎を献上した記録が残るほど古い地名でした。鎌倉時代には桃井氏の本拠となり、その名は千年以上この土地に付いてきたのです。ところが1959年、村は名前を公募し、「榛東」という全く新しい名を選びました。由来は単純で、榛名山の東にあるから。歴史の重みのある旧名を置いて、誰にでも位置が分かる名を取る ― 合併と改称が相次いだ昭和の大合併期らしい、実用を選んだ命名です。いま「桃井」の名は、桃井城址や桃井小学校の名に静かに残っています。",
+    "sources": [
+     "w8-shinto-vill-kyoiku",
+     "w8-shinto-shokokai-keikaku"
+    ]
+   },
+   "relations": [
+    "pref/10",
+    "muni/10-吉岡町"
+   ],
+   "unknowns": [
+    "1959年の村名公募に寄せられた候補名や、「榛東」の名付け親は未確認",
+    "「桃井」の語源そのものは未確認"
    ],
    "updated": "2026-11-13"
   },
@@ -1606,6 +3415,472 @@
    "unknowns": [
     "「渋川」の語源は未確定で、市内を流れる渋川（川の名）との先後関係も出典で確認できていない",
     "貞和4年（1348）の懸仏の現物と所蔵先の確認は未実施"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-片品村",
+   "code": "104434",
+   "names": {
+    "ja": "片品村",
+    "reading": "かたしなむら",
+    "aliases": [
+     "笠科（古代の郷名「笠科郷」と目される旧称）"
+    ]
+   },
+   "user_terms": [
+    "かたしな",
+    "尾瀬の郷",
+    "尾瀬の玄関口",
+    "道の駅尾瀬かたしな",
+    "特別豪雪地帯の村"
+   ],
+   "naming_type": "その他（古代の郷名「笠科（かさしな）」の転訛と伝えられる古い地名を、1888年の合併村名として継承）",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "尾瀬の群馬県側の玄関口にあたる山村で、県の北東端、新潟・福島・栃木の3県に接する。「片品」の名は、平安時代の『和名類聚抄』に上野国利根郡の郷として見える「笠科（かさしな）」が転訛したものと村では伝えられる。明治21年（1888年）に須賀川組と越本組の12村が合併して片品村となり、以来この名が続く。村内を片品川が流れ、関東唯一の特別豪雪地帯に指定されている。",
+   "first_attestation": {
+    "era": "承平年間",
+    "year_western": null,
+    "document": "『和名類聚抄』上野国利根郡「笠科郷」",
+    "note": "村商工会の歴史紹介が伝える記載で、原典は未読のため紹介として扱う。「笠科（かさしな）」が「片品（かたしな）」の前身とされる層であり、「片品」の表記での初出は未確認"
+   },
+   "claims": [
+    {
+     "text": "片品村の地方公共団体コードは104434である",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』には上野国利根郡に「笠科郷」の記載があり、「笠科（かさしな）」が転訛して現在の「片品（かたしな）」になったと伝えられている、と片品村商工会の村史紹介は述べる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-katashina-shokokai"
+     ]
+    },
+    {
+     "text": "明治21年（1888年）、町村制の公布に伴い、連合戸長の須賀川組と越本組の12村が合併して片品村となり、明治22年（1889年）に村役場が須賀川に置かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-katashina-vill-enkaku",
+      "w8-katashina-gunma-arabashi"
+     ]
+    },
+    {
+     "text": "村は平安時代には中央に知られた集落が形成されていたと公式の沿革が述べ、平治年間（1159年）に沼田氏の所領となり、天正年間には真田氏の所領となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-katashina-vill-enkaku"
+     ]
+    },
+    {
+     "text": "江戸時代には村内の戸倉に関所が置かれ、「入り鉄砲に出女」を取り締まる要所だったと村史紹介は伝える",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w8-katashina-shokokai"
+     ]
+    },
+    {
+     "text": "村は群馬県の北東端に位置して新潟・福島・栃木の各県に接し、尾瀬国立公園の玄関口として知られる。主な居住地域の標高は約700〜1,000メートルで、関東で唯一の特別豪雪地帯である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-katashina-sogokeikaku",
+      "w8-katashina-vill-enkaku"
+     ]
+    },
+    {
+     "text": "村内を流れる片品川は尾瀬ヶ原を源流域とし、村名と同じ「片品（かたしな）」の読みを持つ。川名と地名のどちらが先かは、確認した資料では示されていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "w8-katashina-vill-enkaku"
+     ]
+    },
+    {
+     "text": "村は「尾瀬の郷・かたしな」を将来像に掲げ、尾瀬（特別天然記念物）や片品の猿追い祭り（国重要無形民俗文化財）を村の象徴とする",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w8-katashina-sogokeikaku"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「かさしな」が「かたしな」になるまで ― 尾瀬の玄関の古い名前",
+    "text": "片品村の名前の奥には、平安時代の辞書に載る郷の名前が隠れています。『和名類聚抄』に記された上野国利根郡の「笠科郷（かさしなごう）」が、この地の古い姿だと村では伝えられます。「かさしな」の音が長い年月の中で「かたしな」へとずれ、当てる漢字も「笠科」から「片品」へ付け替えられた、というわけです。いま「片品」の名は、尾瀬へ向かう登山者が鳩待峠や大清水へ入る玄関の名として全国に知られますが、その音の底には千年以上前の郷の名が静かに残っています。",
+    "sources": [
+     "w8-katashina-shokokai",
+     "w8-katashina-sogokeikaku"
+    ]
+   },
+   "relations": [
+    "pref/10",
+    "muni/10-川場村"
+   ],
+   "unknowns": [
+    "『和名類聚抄』の「笠科郷」の原文は直接確認しておらず、村商工会の紹介による",
+    "「笠科」から「片品」への転訛の過程や、「片品」の表記の初出は未確認",
+    "片品川の川名と地名「片品」の先後関係は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-玉村町",
+   "code": "104647",
+   "names": {
+    "ja": "玉村町",
+    "reading": "たまむらまち",
+    "aliases": [
+     "玉村宿"
+    ]
+   },
+   "user_terms": [
+    "玉村町の名前の由来",
+    "龍の玉伝説の町",
+    "日光例幣使道の宿場の町",
+    "群馬県立女子大学のある町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県佐波郡の町。町名は、江戸時代に日光例幣使道の宿場として栄えた中心地「玉村」の名を受け継ぎ、明治22年（1889年）の合併でそのまま町名になった。町には龍の落とした碧玉にちなむという「龍の玉伝説」が伝わるが、語源の確証はなく、水の溜まりやすい低地に由来するとする説もある。江戸初期には幕府の代官・伊奈忠次による新田開発が行われた土地でもある。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "玉村町公式「近世」にみえる日光例幣使道の宿場「玉村宿」",
+    "note": "宿場名としての使用例の確認範囲。地名そのものの初出文書（中世以前の記録）は今回未確認"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、玉村町の団体コードは104647と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "w9-tamamura-town-kinsei"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村制施行により、那波郡の福島・南玉・上飯島・上之手・角淵・下新田・上新田・与六分・斎田の9か村が合併して玉村町が成立し、新町名には江戸時代の宿場名「玉村」が採用された（地名研究の講演資料による分類）",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w9-kitagawa-gunma-chimei"
+     ]
+    },
+    {
+     "text": "近世の玉村は、日光東照宮へ幣帛を奉納する勅使が通る日光例幣使道の宿場（玉村宿・五料宿）として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-tamamura-town-kinsei"
+     ]
+    },
+    {
+     "text": "江戸時代の初め、幕府の代官伊奈備前守忠次は家臣の協力を得て荒野に用水（代官堀＝滝川用水）を引き、新田を開発して「新田」の村を誕生させた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-tamamura-town-kinsei"
+     ]
+    },
+    {
+     "text": "町に伝わる「龍の玉伝説」では、矢川に身を投げた娘の化身である龍の玉（碧玉）を村人が拾って祀り、「龍の玉によりできた村であるため、玉村と呼ぶようになった」と語られる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-tamamura-town-densetsu"
+     ]
+    },
+    {
+     "text": "町名の語源については、利根川や烏川などの水が溜まり易い場所であったことに由来すると思われる、とする説もあるが、裏づけとなる資料は確認できていない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "w9-tamamura-wiki"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）に玉村町と芝根村が合併し、昭和32年（1957年）に上陽村および群南村の一部と合併して、現在の玉村町のかたちになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-tamamura-town-ayumi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "見ると失明する、龍の玉の箱",
+    "text": "玉村町の満福寺には、黒塗りの二重の箱が伝わっています。中には龍の玉伝説の碧玉が入っているといわれますが、「見ると失明する」といわれ、誰も開けたことがないそうです。伝説の原話とみられる文書『玉村之故実』は玉村小学校に寄託されており、町はこの伝説を公式サイトで町の地名伝説として紹介しています。玉という字の由来を、実在するかどうか確かめられない宝物に結びつける語り方は、宿場町として栄えた玉村の人々が自分たちの名前に寄せた愛着の表れと言えるでしょう。",
+    "sources": [
+     "w9-tamamura-town-densetsu"
+    ]
+   },
+   "relations": [
+    "pref/10",
+    "muni/11-伊奈町"
+   ],
+   "unknowns": [
+    "「玉村」という地名そのものの初出文書（中世の記録）は未確認",
+    "語源についての専門辞典（『角川日本地名大辞典』等）の見解は今回未確認",
+    "伝説の原話『玉村之故実』の成立年は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-甘楽町",
+   "code": "103845",
+   "names": {
+    "ja": "甘楽町",
+    "reading": "かんらまち",
+    "aliases": [
+     "小幡町"
+    ]
+   },
+   "user_terms": [
+    "甘楽町の名前の由来",
+    "小幡の城下町",
+    "郡名がそのまま町名になった町",
+    "楽山園のある町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県甘楽郡の町。町名は古代上野国の郡名「甘楽」をそのまま受け継いだもので、郡は8世紀初めに「甘良郡」として現れ、『和名類聚抄』では「加牟良（かむら）」と読まれた。語源は朝鮮半島からの渡来人を指す「から」の転訛とする説があるが確証はない。昭和34年（1959年）、小幡町・新屋村・福島町の一部の合併に際して郡名が町名になった。",
+   "first_attestation": {
+    "era": "和銅4年",
+    "year_western": 711,
+    "document": "『続日本紀』和銅4年条および多胡碑の碑文（「甘良郡」として）",
+    "note": "郡名としての初出であり、町名としての初出ではない。表記は現在の「甘楽」ではなく「甘良」"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、甘楽町の団体コードは103845と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "w9-kanra-town-fukei"
+     ]
+    },
+    {
+     "text": "和銅4年（711年）に建てられた多胡碑の碑文には「甘良郡」の名が見え、甘良郡・片岡郡・緑野郡の三郡から三百戸を割いて多胡郡が置かれたことが刻まれている（地名研究の講演資料が碑文を紹介）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-kitagawa-gunma-chimei"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』は上野国甘楽郡の訓を「加牟良（かむら）」と示しており、現在の「かんら」とは異なる古い読みが伝えられている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w9-kitagawa-gunma-chimei"
+     ]
+    },
+    {
+     "text": "「甘良（かんら）」の語源については、韓からの渡来人が多く住んだことから渡来人を指す「から」が変化したとする説があり、鏑川流域に織物職人ら渡来系の人々が住んだことと結びつけて語られるが、確証はない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "w9-mahora-gunma-nandoku",
+      "w9-kanra-wiki-gun"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に北甘楽郡へ小幡町・秋畑村・福島町・新屋村が成立し、昭和25年（1950年）に北甘楽郡は甘楽郡と改称された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-kanra-town-fukei",
+      "k6-kusatsu-gunma-henssen"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）に小幡町と秋畑村が合併し、昭和34年（1959年）2月1日に小幡町・新屋村・福島町の一部が新設合併して、郡名をそのまま町名とする甘楽町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kusatsu-gunma-henssen",
+      "w9-kanra-town-fukei"
+     ]
+    },
+    {
+     "text": "町域の中心だった小幡は、元和元年（1615年）以降、織田信長の二男信雄の子孫が治めた小幡領の中心で、福島に御殿、小幡に城が置かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-kanra-town-rekishi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「家に養蚕せざるなく、婦に製糸せざるなし」",
+    "text": "甘楽町の農協支所には、大正6年（1917年）に建てられた甘楽社小幡組の由来碑があります。碑文の一節は「邑ニ養蚕セザルノ家ナク製絲セザルノ婦ナシ」――村中で養蚕をしない家はなく、製糸をしない女性はいなかった、という意味です。渡来人が多く住んで織物の技術を伝えたとされる甘楽の地は、近代には生糸の品質で全国に知られた「甘楽社」の産地になりました。古代の郡名に結びつく「から」の語源説が語られ続ける背景には、この織物の土地という記憶があるのかもしれません。",
+    "sources": [
+     "w9-kanra-town-sha",
+     "w9-mahora-gunma-nandoku"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「甘良」から「甘楽」への表記の定着時期は未確認",
+    "「から」説以外の語源説の学術的検討は今回未確認",
+    "1959年の合併時に郡名以外の町名候補があったかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-神流町",
+   "code": "103675",
+   "names": {
+    "ja": "神流町",
+    "reading": "かんなまち",
+    "aliases": [
+     "万場町",
+     "中里村"
+    ]
+   },
+   "user_terms": [
+    "神流町の名前の由来",
+    "神流川の町",
+    "恐竜の足跡の化石の町",
+    "かんなの鯉のぼりの町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県多野郡の山間の町。平成15年（2003年）に万場町と中里村が合併して誕生し、町名は両町村を貫いて流れる神流川から採られた。川名は「神（カム）の川」から転じたとされ、感納川・甘奈とも綴られた。川には日本武尊が弟橘姫の遺髪を流したという「髪流川」の伝承も残る。",
+   "first_attestation": {
+    "era": "平成15年",
+    "year_western": 2003,
+    "document": "万場町・中里村合併協議会による新町名の決定（官報告示は平成15年2月3日）",
+    "note": "町名としての初出（命名そのもの）。川名「神流川」自体の初出文書は今回未確認"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、神流町の団体コードは103675と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "w9-kanna-town-plan"
+     ]
+    },
+    {
+     "text": "平成15年（2003年）4月1日に多野郡万場町と中里村が新設合併して神流町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-kanna-town-plan"
+     ]
+    },
+    {
+     "text": "新町名は公募で集まった案から選ばれ、応募の上位には「神流」「万中」「神流川」「奥多野」などがあり、最終候補にも「神流」「かんな」「神流川」が残った",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "w9-kanna-uub"
+     ]
+    },
+    {
+     "text": "町名の直接の由来である神流川は、三国山に源を発し、町域を貫流して烏川に注ぐ利根川水系の川である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-kanna-mlit-kanto",
+      "w9-kanna-town-plan"
+     ]
+    },
+    {
+     "text": "神流川の名は「神（カム）の川」から転じたとされ、感納川・甘奈とも綴られたと、国土交通省関東地方整備局の流域資料は紹介する。また武蔵の北の果て「上」の国から流れる川の意で「カミノ川」といわれたともいう",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "w9-kanna-mlit-kanto"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は神流川の別表記として神奈川・神名川・神野川を挙げ、一説に「カンナ」は砂鉄を採る「鉄穴（かんな）」の意ともいう",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "w9-kanna-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "伝承によると、日本武尊が神流川の上流で弟橘姫の遺髪を流したことから「髪流川」と呼ばれるようになったという",
+     "kind": "legend",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w9-kanna-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "前身の一つ万場町は、明治22年（1889年）に成立した神川村が大正15年（1926年）に町制を施行する際に改称したものである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kusatsu-gunma-henssen"
+     ]
+    }
+   ],
+   "column": {
+    "title": "本能寺の変の知らせが届いた戦場",
+    "text": "天正10年（1582年）、本能寺の変で信長が倒れた直後、上州を制圧していた滝川一益と小田原北条氏の軍勢が、現在の神流川の付近で激突しました。「神流川合戦」と呼ばれるこの戦いは北条軍の勝利に終わり、一益は上州から駆逐されます。川の名を冠した戦いとして記録されるほど、この川は既に戦国時代には土地の顔でした。また下流の上里町には江戸時代に神流川の渡し場が開かれ、上州と武蔵を結ぶ交通の節目でもありました。",
+    "sources": [
+     "w9-kanna-mlit-river"
+    ]
+   },
+   "relations": [
+    "pref/10",
+    "muni/11-上里町"
+   ],
+   "unknowns": [
+    "神流川の川名の初出文書は未確認",
+    "旧町名「万場」の由来は未確認",
+    "神川村の村名と神流川の関係（川名からの命名か）は未確認"
    ],
    "updated": "2026-11-13"
   },
@@ -1844,6 +4119,231 @@
    "unknowns": [
     "「藤岡」の語源は富士浅間神社由来説が有力とされるが、市公式の見解としては確認できていない",
     "常が岡から富士岡への改称の時期は、縁起書の伝承に基づくもので史料的な裏づけは弱い"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-邑楽町",
+   "code": "105252",
+   "names": {
+    "ja": "邑楽町",
+    "reading": "おうらまち",
+    "aliases": [
+     "中島村",
+     "中野村",
+     "高島村"
+    ]
+   },
+   "user_terms": [
+    "邑楽町の名前の由来",
+    "おうらと読む難読の町",
+    "多々良沼に白鳥が来る町",
+    "郡名がそのまま町名になった町"
+   ],
+   "naming_type": "その他",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県邑楽郡の町。町名は古代上野国の郡名「邑楽」を、昭和32年（1957年）の改称で受け継いだ。郡の古名は藤原京出土木簡に残る「大荒木」で、『和名類聚抄』の訓は「於波良岐（おはらき）」――現在の「おうら」はその音が転じたものと考えられる。郡名としては神護景雲3年（769年）の『続日本紀』に見える古い地名である。",
+   "first_attestation": {
+    "era": "神護景雲3年",
+    "year_western": 769,
+    "document": "『続日本紀』神護景雲3年4月27日条（「邑楽郡」の初出として『日本歴史地名大系』が紹介）",
+    "note": "郡名としての初出。ただし藤原京出土木簡には古名「大荒木評」が見え、郡の成立自体はこれより遡る"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、邑楽町の団体コードは105252と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "w9-ora-gunma-aramashi"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』によれば、「邑楽郡」という地名の初出は『続日本紀』神護景雲3年（769年）4月27日条である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-ora-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "藤原京出土の木簡に「大荒木評」と記されたものがあり、これが邑楽郡の古名であり、同時に古代の読みをも示唆していると『日本歴史地名大系』は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-ora-kotobank-taikei"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』が邑楽郡の訓として示すのは「於波良岐（おはらき）」で、現在の「おうら」という読みは後世の転訛と考えられる。「邑楽」の二字自体は和銅6年（713年）の好字二字令で整えられた郡名とされる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "inferred",
+     "sources": [
+      "w9-kitagawa-gunma-chimei",
+      "w9-mahora-gunma-nandoku"
+     ]
+    },
+    {
+     "text": "天正20年（1592年）の検地帳にはなお「大荒木郡」と記されたものが残されており、「おおあらき／おはらき」の読みが近世初頭まで生きていたと地名解説資料は伝える",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w9-mahora-gunma-nandoku"
+     ]
+    },
+    {
+     "text": "現在の町域は、昭和30年（1955年）に中野村と高島村が合併して中島村となり、昭和31年（1956年）に旧長柄村の区域を編入、昭和32年（1957年）1月1日に中島村が郡名を採って邑楽村と改称し、昭和43年（1968年）4月1日に町制を施行して邑楽町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kusatsu-gunma-henssen",
+      "w9-ora-gunma-aramashi"
+     ]
+    },
+    {
+     "text": "郡域は利根川と渡良瀬川の合流部にあたる低湿地で、『和名類聚抄』の郷名にも池田・疋太・八田など低地を意味するものが多く、古くから池沼が散在していたと『日本歴史地名大系』は指摘する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "w9-ora-kotobank-taikei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「おうら」と読めるようになるまで、1300年",
+    "text": "邑楽という字面を見て「おうら」と読める人は、地元の人以外にはまずいません。古代、この郡は「大荒木（おおあらき）」と呼ばれ、藤原京の木簡にその名が残ります。平安時代の『和名類聚抄』では「おはらき」と読まれ、戦国時代の検地帳にもまだ「大荒木郡」の文字がありました。それがいつしか音が縮まって「おうら」になり、漢字のほうは713年の好字二字令で整えられた「邑楽」が残った――つまりこの町名は、音のほうが1300年かけて旅をし、字のほうが古代に固定された、珍しい組み合わせなのです。",
+    "sources": [
+     "w9-ora-kotobank-taikei",
+     "w9-mahora-gunma-nandoku",
+     "w9-kitagawa-gunma-chimei"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「大荒木」の語源（荒木＝未開墾地の意か等）は未確認",
+    "おはらきから「おうら」への音変化がいつ頃起きたかは未確認",
+    "1957年の改称時に郡名以外の候補があったかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/10-長野原町",
+   "code": "104248",
+   "names": {
+    "ja": "長野原町",
+    "reading": "ながのはらまち",
+    "aliases": [
+     "長野原宿"
+    ]
+   },
+   "user_terms": [
+    "長野原町の名前の由来",
+    "長野県の長野とは別の町",
+    "八ッ場ダムの町",
+    "草津温泉への入口の町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "群馬県",
+   "homonyms": [],
+   "summary": "群馬県吾妻郡の町。名は草津街道の宿場町だった中心集落「長野原」を受け継ぎ、明治22年（1889年）の町村制以来、町域はほぼ変わっていない。長野県・長野市とは無関係で、「長野」の部分をめぐっては河岸段丘の地形に由来する説のほか、戦国時代の箕輪城主・長野業盛の一族が落ち延びたという伝承などがあり、語源は定まっていない。",
+   "first_attestation": {
+    "era": "永禄6年",
+    "year_western": 1563,
+    "document": "長野原合戦の記録（町内諏訪神社の由緒として伝わる）",
+    "note": "戦いの名としての使用例であり、地名の命名文書ではない。地名そのものの初出は今回未確認"
+   },
+   "claims": [
+    {
+     "text": "総務省の全国地方公共団体コードで、長野原町の団体コードは104248と定められている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code",
+      "w9-naganohara-town-about"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村制施行により、近隣の1町9村が合併して現在の長野原町が誕生した。その後、平成16年（2004年）の合併協議会は解散となり、町は単独存続の道を選んだ",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-naganohara-town-about"
+     ]
+    },
+    {
+     "text": "中心集落の長野原は、草津温泉・川原湯温泉への湯治客や善光寺への参詣者が行き交う交通の要衝で、草津街道と信濃支道（上田街道）の分岐点の宿場町として発展し、六歳市が開かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "w9-naganohara-town-about",
+      "w9-naganohara-kusatsu-kaido"
+     ]
+    },
+    {
+     "text": "「長野原」の語源については、吾妻川と白砂川の合流部にできた河岸段丘が横長だったことに由来するとする説があるが、出典の裏づけは弱い",
+     "kind": "fact",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "w9-naganohara-jinja-suwa"
+     ]
+    },
+    {
+     "text": "戦国時代、上野国箕輪城を支配した長野業盛が武田信玄に攻められて落城したのち、その一族が落ち延びてこの地に隠棲したので「長野原」の地名になったという伝承がある",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w9-naganohara-jinja-suwa"
+     ]
+    },
+    {
+     "text": "逆に、平安時代に長野氏一族の先祖である在原業重が上野国司に任じられて赴任する際に長野原に住んだことから、長野氏を名乗るようになったという、名の生まれる向きが逆の伝承も伝えられている",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w9-naganohara-jinja-suwa"
+     ]
+    },
+    {
+     "text": "永禄6年（1563年）には長野原合戦が行われ、町内の諏訪神社の境内はその古戦場跡とされる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "w9-naganohara-jinja-suwa"
+     ]
+    }
+   ],
+   "column": {
+    "title": "名が先か、人が先か",
+    "text": "長野原の「長野」をめぐる二つの伝承は、面白いことに矢印の向きが正反対です。一つは、箕輪城の長野業盛の一族が落ち延びてきたから、この地が長野原と呼ばれるようになったという話。もう一つは、在原業重がこの地に住んだからこそ、子孫が「長野」を名乗るようになったという話。地名が人を名付けたのか、人が地名を名付けたのか。どちらの伝承も史料の裏づけは乏しいものの、「長野」という名がこの土地と古く結びついていたことを、人々が物語で説明しようとした跡として読むことができます。",
+    "sources": [
+     "w9-naganohara-jinja-suwa"
+    ]
+   },
+   "relations": [
+    "pref/10"
+   ],
+   "unknowns": [
+    "「長野原」の地名そのものの初出文書は未確認",
+    "河岸段丘の地形説を述べる町史等の資料は今回未確認",
+    "1889年合併時の旧1町9村の内訳と、町名決定の経緯は未確認"
    ],
    "updated": "2026-11-13"
   },
