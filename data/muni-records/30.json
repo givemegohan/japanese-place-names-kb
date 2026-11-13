@@ -37,7 +37,7 @@
    "url": "https://shioya.sunnyday.jp/kumanokodo/hidakatimei"
   },
   "h2-hidaka-wakayama-manabi": {
-   "label": "和歌山県教育センター学びの丘「わかやま発見」日高町（1954年の合併と町名の由来）",
+   "label": "和歌山県教育センター学びの丘「わかやま発見」資料編238ページ（日高町・有田川町・美浜町・日高川町・印南町など複数自治体の「町名の由来」を収載。日高町については1954年の合併と町名の由来、有田川町については3町の合併にあたり公募し投票により決定された名称であることを記す）",
    "url": "https://www.manabi.wakayama-c.ed.jp/wakayama_hakken/pdf/section/03/238.pdf"
   },
   "h2-kotobank-hidakagawa": {
@@ -204,10 +204,6 @@
    "label": "Wikipedia「九度山町」（地名の由来として、慈尊院に空海の母が暮らし、空海は月に9度母に会いに来ていたことから九度山の地名が付いたと伝わると記すこと。1889年に九度山村が発足し1910年に町制施行した沿革、真田昌幸・信繁父子が配流され昌幸が1611年に没したこと、慈尊院などが世界遺産の構成資産であること）",
    "url": "https://ja.wikipedia.org/wiki/九度山町"
   },
-  "q3-kushimoto-my10": {
-   "label": "地域情報サイトmy10.jp「串本町（和歌山県）」（橋杭岩は約850メートルにわたって大小40以上の岩柱が海に並ぶ国の天然記念物で、弘法大師にまつわる伝説が残されていること）",
-   "url": "https://my10.jp/kansai/wakayama/kushimoto-town-wakayama-prefecture.php"
-  },
   "q3-kushimoto-wiki": {
    "label": "Wikipedia「串本町」（1889年に近世以来の串本浦が単独で串本村となり1907年に町制施行したこと、1955年7月2日に5町村の新設合併で改めて串本町が発足したこと、2005年4月1日に西牟婁郡串本町と東牟婁郡古座町が新設合併して東牟婁郡串本町が発足し所属郡が変更されたこと、本州最南端の潮岬を有し市街地が陸繋砂州の上にあること、1890年のエルトゥールル号遭難事件）",
    "url": "https://ja.wikipedia.org/wiki/串本町"
@@ -355,6 +351,142 @@
   "q5-koya-town-plan": {
    "label": "高野町「歴史的風致維持向上計画」第1章（高野町の歴史的風致を形成する歴史の概要。弘仁7年＝816年に空海が下賜を受けたこと、『性霊集』の「名づけて高野と曰ふ」の記載を「高野」の初出として紹介すること、丹生明神・狩場明神の説話は平安時代中頃の唱導説話とする位置づけ、1889年の高野村成立・1928年の町制施行・1958年の富貴村合併、2005年の住民投票による単独町制選択などを記す）",
    "url": "https://www.town.koya.wakayama.jp/img_data/2019/09/d84db393801f4f844ef3cbb0fb903429-1.pdf"
+  },
+  "upg-y1-kamitonda-britannica": {
+   "label": "コトバンク「上富田町」（ブリタニカ国際大百科事典小項目事典。1956年に岩田村と市ノ瀬村が合体して町制を施行したこと、1958年に富田川町と合体したこと、町名はこの旧富田川町の上流にあったことによること、富田川中・下流域の町であること）",
+   "url": "https://kotobank.jp/word/%E4%B8%8A%E5%AF%8C%E7%94%B0%E7%94%BA"
+  },
+  "upg-y1-kamitonda-geoshape-ichinose": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡市ノ瀬村」（市ノ瀬村の有効期間を1889年4月1日から1956年9月30日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050013.html"
+  },
+  "upg-y1-kamitonda-geoshape-iwata": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡岩田村」（岩田村の有効期間を1889年4月1日から1956年9月30日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050005.html"
+  },
+  "upg-y1-kamitonda-geoshape-tomitagawa": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡富田川町」（富田川町の有効期間を1956年9月30日から1958年3月31日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30C0030001.html"
+  },
+  "upg-y1-kitayama-about": {
+   "label": "北山村公式観光サイト「北山村って？」（村役場公式サイト内。明治22年に七色・竹原・大沼・下尾井・小松の5つの村が合併し、現在の北山村と改称・施行されたこと、当時は人口の大半を筏師が占め新宮の木材業者と切っても切れない関係であったこと）",
+   "url": "https://www.vill.kitayama.wakayama.jp/kanko/about/index.html"
+  },
+  "upg-y1-kitayama-geoshape": {
+   "label": "歴史的行政区域データセットβ版「和歌山県東牟婁郡北山村」（北山村の有効期間を1889年4月1日から現在までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30427A1968.html"
+  },
+  "upg-y1-kitayama-rekishi": {
+   "label": "北山村公式観光サイト「筏トリビア（筏師の歴史・筏文化の年表）」（村役場公式サイト内。1604年（慶長9年）に池原から新宮まで北山川筏流しを始めたこと、1963年（昭和38年）に大沼よりの筏下しが完全に止まり木材はトラック輸送となったこと、1979年（昭和54年）8月に村営観光筏の認可を受け北山川観光筏下りとして復活したこと）",
+   "url": "https://www.vill.kitayama.wakayama.jp/kanko/ikada/rekishi.html"
+  },
+  "upg-y1-kudoyama-britannica": {
+   "label": "コトバンク「九度山町」（ブリタニカ国際大百科事典小項目事典。1910年に町制を施行したこと、1955年に河根村と合体したこと、慈尊院は女人禁制の高野山に対して女人結縁の寺で女人高野として知られること）",
+   "url": "https://kotobank.jp/word/%E4%B9%9D%E5%BA%A6%E5%B1%B1%E7%94%BA"
+  },
+  "upg-y1-kudoyama-env": {
+   "label": "環境省「紀伊山地の霊場と参詣道」（世界遺産の構成として、霊場「高野山」に丹生都比売神社・金剛峯寺・慈尊院・丹生官省符神社が、参詣道に高野山町石道が含まれることを示す資料）",
+   "url": "https://www.env.go.jp/press/files/jp/5714.html"
+  },
+  "upg-y1-kudoyama-geoshape": {
+   "label": "歴史的行政区域データセットβ版「和歌山県伊都郡九度山町」（九度山町の有効期間を1910年9月1日から現在までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30343A1968.html"
+  },
+  "upg-y1-kudoyama-sanada-m": {
+   "label": "コトバンク「真田昌幸」（日本大百科全書・デジタル大辞泉等。関ヶ原の戦いで西軍に与し、戦後は長男信之の取りなしで死罪を免れ高野山麓九度山に蟄居し、この地で没したこと。生没年1547〜1611年）",
+   "url": "https://kotobank.jp/word/%E7%9C%9F%E7%94%B0%E6%98%8C%E5%B9%B8"
+  },
+  "upg-y1-kudoyama-sanada-n": {
+   "label": "コトバンク「真田信繁」（ブリタニカ国際大百科事典小項目事典。関ヶ原の戦いの後、父とともに紀州九度山に幽居したが、慶長19年（1614年）に豊臣秀頼に召されて大坂城に入り冬の陣に活躍したこと）",
+   "url": "https://kotobank.jp/word/%E7%9C%9F%E7%94%B0%E4%BF%A1%E7%B9%81"
+  },
+  "upg-y1-kushimoto-britannica": {
+   "label": "コトバンク「串本町」（ブリタニカ国際大百科事典小項目事典。和歌山県最南端の町であること、1897年に町制を施行したこと、1955年に潮岬村・有田村・田並村・和深村の4村と合体したこと、2005年に古座町と合体したこと、潮岬は長さ約900メートルの砂州で紀伊半島と結ばれた陸繋島で、中心集落の串本は砂州上に位置すること）",
+   "url": "https://kotobank.jp/word/%E4%B8%B2%E6%9C%AC%E7%94%BA"
+  },
+  "upg-y1-kushimoto-env": {
+   "label": "環境省近畿地方環境事務所「猛暑の夏こそ、本州最南端『潮岬』へ行ってみよう」（吉野熊野国立公園には本州最南端の潮岬（串本町）があること。2025年8月25日掲載）",
+   "url": "https://kinki.env.go.jp/blog/2025/08/page_00016.html"
+  },
+  "upg-y1-kushimoto-geoshape-new": {
+   "label": "歴史的行政区域データセットβ版「和歌山県東牟婁郡串本町」（東牟婁郡串本町の有効期間を2005年4月1日から現在までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30428A2005.html"
+  },
+  "upg-y1-kushimoto-geoshape-old": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡串本町」（旧串本町の有効期間を1897年11月12日から2005年4月1日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30407A1968.html"
+  },
+  "upg-y1-kushimoto-geoshape-shionomisaki": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡潮岬村」（潮岬村の有効期間を1889年4月1日から1955年7月2日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050028.html"
+  },
+  "upg-y1-kushimoto-hashikui": {
+   "label": "串本町公式サイト「橋杭岩」（串本から大島に向かい約850メートルの列を成して大小40余りの岩柱がそそり立っていること、この奇岩にはその昔、弘法大師と天の邪鬼が賭をして一夜にして立てたという伝説が伝わっていること、国の名勝天然記念物であること）",
+   "url": "https://www.town.kushimoto.wakayama.jp/kanko/kushimoto/hashikui-iwa.html"
+  },
+  "upg-y1-kushimoto-japanpost": {
+   "label": "日本郵便「郵便番号検索 和歌山県西牟婁郡串本町」（住所等の変更情報として「西牟婁郡串本町は合併により2005.04.01から東牟婁郡串本町になりました」と明記すること）",
+   "url": "https://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=30&city=1304071&cmp=1&mode=list&addr="
+  },
+  "upg-y1-kushimoto-mofa": {
+   "label": "外務省「和歌山県とトルコ共和国との友好交流」（日本とトルコの友好のきっかけとなったエルトゥールル号海難事故が串本町で発生したこと、1890年9月16日に串本町沖合で沈没し、串本の住民による献身的な救護により69名が生還したこと、串本町とメルシン市の姉妹都市縁組が2025年に50周年を迎えたこと）",
+   "url": "https://www.mofa.go.jp/mofaj/gaiko/local/pagew_000001_01974.html"
+  },
+  "upg-y1-kushimoto-ndlref": {
+   "label": "国立国会図書館レファレンス協同データベース事例「明治時代にトルコの船が和歌山沖で沈没した際、明治政府が負傷者をトルコまで送り届けたというのは本当ですか？」（外務省外交史料館提供。1890年9月16日深夜にトルコ軍艦エルトゥールル号が和歌山県大島村（現在の串本町）沖で座礁・沈没し600名近くが犠牲となったこと、生存者69名を軍艦でトルコへ送り届けたこと）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000075562"
+  },
+  "upg-y1-minabe-gappei": {
+   "label": "南部町・南部川村合併協議会「合併協定調印式会議録」（みなべ町公式サイト内の合併協議会アーカイブ。新町の名称は名称専門委員会の5回の会議と全戸配布の住民アンケートを経て選定され、平仮名の「みなべ町」で確認されたこと。2003年12月7日調印）",
+   "url": "http://gappei-minabego.town.minabe.lg.jp/kaigisiryo/chouin/kaigiroku.pdf"
+  },
+  "upg-y1-minabe-geoshape-nambu": {
+   "label": "歴史的行政区域データセットβ版「和歌山県日高郡南部町」（南部町の有効期間を1897年9月11日から2004年10月1日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30389A1968.html"
+  },
+  "upg-y1-minabe-giahs": {
+   "label": "みなべ・田辺地域世界農業遺産推進協議会パンフレット「GIAHS Minabe-Tanabe Ume System」（みなべ・田辺地域は日本の梅生産の5割以上を占め「日本一の梅産地」として知られること、南高梅は和歌山県みなべ町で育成・選抜された梅であること）",
+   "url": "https://www.giahs-minabetanabe.jp/giahs/wp-content/uploads/6361cff610bd9248ef2c7fb8db1877a4.pdf"
+  },
+  "upg-y1-minabe-maff": {
+   "label": "農林水産省「世界農業遺産 みなべ・田辺の梅システム」パンフレット（「里山が育み、人がつなぐ日本一の梅づくり」とし、みなべ町・田辺市で生産される南高梅は日本の最高級（トップブランド）であること、地域の連携が南高梅というトップブランドを生み出したこと）",
+   "url": "https://www.maff.go.jp/j/nousin/kantai/attach/pdf/giahs_1_1-59.pdf"
+  },
+  "upg-y1-susami-britannica": {
+   "label": "コトバンク「すさみ町」（ブリタニカ国際大百科事典小項目事典。1924年に周参見町として町制を施行したこと、1955年に佐本村・大都河村と合体してかな書きに改称したこと、1959年に江住村を編入したこと、町名は荒れすさむ海岸と中世の荘園名・周参見荘に由来すること）",
+   "url": "https://kotobank.jp/word/%E3%81%99%E3%81%95%E3%81%BF%E7%94%BA"
+  },
+  "upg-y1-susami-chisou": {
+   "label": "内閣府地方創生ポータル「すさみ町まち・ひと・しごと創生推進計画」（すさみ町提出の地域再生計画。昭和30年3月に周参見町・佐本村・大都河村の1町2村が合併して新しい「すさみ町」が発足したこと、昭和34年3月に江住村をすさみ町へ編入合併したこと）",
+   "url": "https://www.chisou.go.jp/tiiki/tiikisaisei/dai55nintei_furusato/plan/b349.pdf"
+  },
+  "upg-y1-susami-geoshape": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡すさみ町」（すさみ町の有効期間を1955年3月31日から現在までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30406A1968.html"
+  },
+  "upg-y1-susami-geoshape-ezumi": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡江住村」（江住村の有効期間を1889年4月1日から1959年3月25日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050008.html"
+  },
+  "upg-y1-susami-geoshape-machi": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡周参見町」（周参見町の有効期間を1924年2月11日から1955年3月31日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050015.html"
+  },
+  "upg-y1-susami-geoshape-mura": {
+   "label": "歴史的行政区域データセットβ版「和歌山県西牟婁郡周参見村」（周参見村の有効期間を1889年4月1日から1924年2月11日までとする）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050014.html"
+  },
+  "upg-y5-kimino-shokai": {
+   "label": "紀美野町公式サイト掲載の町紹介資料（PDF）。「町名の由来（平成18年1月1日に旧野上町と旧美里町が合併して誕生）。紀州の『紀』、美里町の『美』、野上町の『野』を取り、『君の町』の意味とかけたもの」と明記する",
+   "url": "https://www.town.kimino.wakayama.jp/material/files/group/4/michinoekikentoshien_kiminochoshokai.pdf"
+  },
+  "upg-y5-minamitonda-geoshape": {
+   "label": "歴史的行政区域データセットβ版「南富田村（和歌山県西牟婁郡）」（南富田村の有効期間は1889年4月1日〜1955年3月15日。終了後の区域は白浜町に属する）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30B0050033.html"
+  },
+  "upg-y5-shimizu-geoshape": {
+   "label": "歴史的行政区域データセットβ版「清水町（和歌山県有田郡）」（清水町の有効期間は1955年5月10日〜2006年1月1日。安諦村・八幡村・城山村はいずれも1955年5月10日に終了し、その区域は清水町を経て現在の有田川町に属する）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/30365A1968.html"
   }
  },
  "records": [
@@ -490,30 +622,33 @@
    },
    "claims": [
     {
-     "text": "1889年（明治22年）に周参見浦・口和深村・和深川村の区域をもって周参見村が発足し、1924年（大正13年）に町制を施行して周参見町となった",
+     "text": "1889年（明治22年）に周参見村が発足し、1924年（大正13年）2月11日に町制を施行して周参見町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-susami-old"
+      "upg-y1-susami-geoshape-mura",
+      "upg-y1-susami-geoshape-machi"
      ]
     },
     {
-     "text": "村名「周参見」の由来について、Wikipedia「周参見町」は「海を波風が激しく吹きすさんでいたことより」と記す（参考文献は角川日本地名大辞典30和歌山県）。動詞「すさむ（荒すさむ）」に由来する説だが、専門資料の直接確認は未了である",
+     "text": "町名の由来について、『ブリタニカ国際大百科事典』は、荒れすさむ海岸と、中世の荘園名であった周参見荘に由来すると解説している",
      "kind": "fact",
-     "level": "E5",
-     "status": "indeterminate",
+     "level": "E3",
+     "status": "established",
      "sources": [
-      "q3-susami-old"
+      "upg-y1-susami-britannica"
      ]
     },
     {
      "text": "1955年（昭和30年）3月31日、周参見町・大都河村・佐本村が合併してすさみ町が発足し、町名の表記は漢字の「周参見」から平仮名の「すさみ」に改められた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-susami-wiki"
+      "upg-y1-susami-chisou",
+      "upg-y1-susami-britannica",
+      "upg-y1-susami-geoshape"
      ]
     },
     {
@@ -528,10 +663,11 @@
     {
      "text": "1959年（昭和34年）3月25日に江住村を編入し、現在の町域がほぼ確定した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-susami-wiki"
+      "upg-y1-susami-chisou",
+      "upg-y1-susami-geoshape-ezumi"
      ]
     },
     {
@@ -619,31 +755,32 @@
      ]
     },
     {
-     "text": "「南部」は古くは三鍋と表記されていたとされ、「なんぶ」ではなく「みなべ」と読む。1889年（明治22年）に8村の区域をもって南部村が発足し、1897年（明治30年）に町制を施行して南部町となった",
+     "text": "1889年（明治22年）の町村制施行に伴う明治の大合併で南部村が発足し、1897年（明治30年）9月11日に町制を施行して南部町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-minabe-old"
+      "q3-minabe-genjo",
+      "upg-y1-minabe-geoshape-nambu"
      ]
     },
     {
-     "text": "合併した南部町と南部川村は、ともに読みの前半が「みなべ」であり、新町名「みなべ町」はその共通の読みを平仮名で表記したものとみられる",
+     "text": "合併した南部町（みなべちょう）と南部川村（みなべがわむら）はともに「みなべ」の読みを持ち、新町名は南部町・南部川村合併協議会の名称専門委員会の検討と全戸配布の住民アンケートを経て、平仮名の「みなべ町」に決定された",
      "kind": "fact",
-     "level": "E5",
-     "status": "inferred",
+     "level": "E2",
+     "status": "established",
      "sources": [
-      "q3-minabe-wiki",
-      "q3-minabe-old"
+      "upg-y1-minabe-gappei"
      ]
     },
     {
      "text": "みなべ町は梅の生産量が日本一の産地であり、梅の代表品種として知られる南高梅の発祥の地である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-minabe-wiki"
+      "upg-y1-minabe-maff",
+      "upg-y1-minabe-giahs"
      ]
     },
     {
@@ -669,7 +806,6 @@
    ],
    "unknowns": [
     "「三鍋」表記の初出文献と、「みなべ」という読みの語源は確認できなかった",
-    "2004年の合併協議で「みなべ町」の名と平仮名表記が決まった経緯を示す一次資料は未確認",
     "南高梅の命名由来（南部の「南」と南部高校の「高」）は広く紹介されるが、町公式資料での直接確認は未了"
    ],
    "updated": "2026-11-13"
@@ -695,7 +831,7 @@
    "formation": "合併新設",
    "prefecture": "和歌山県",
    "homonyms": [],
-   "summary": "和歌山県西牟婁郡の町。富田川の中上流域に位置する。1956年に市ノ瀬村・岩田村が合併して「上富田町」が村を経ずに町として発足し、1958年に生馬村・朝来村からなる富田川町と合併して現在の上富田町となった。熊野古道・中辺路の入り口にあたり「口熊野」と呼ばれる地域である。町名の公式な命名理由は確認できておらず、「富田」の語源も未解明の点が多い。",
+   "summary": "和歌山県西牟婁郡の町。富田川の中上流域に位置する。1956年に市ノ瀬村・岩田村が合併して「上富田町」が村を経ずに町として発足し、1958年に生馬村・朝来村からなる富田川町と合併して現在の上富田町となった。熊野古道・中辺路の入り口にあたり「口熊野」と呼ばれる地域である。町名は旧富田川町の上流に位置したことによると専門の百科事典は解説するが、命名を示す公式記録は確認できておらず、「富田」の語源も未解明の点が多い。",
    "first_attestation": {
     "era": "",
     "year_western": null,
@@ -706,19 +842,21 @@
     {
      "text": "1956年（昭和31年）9月30日、市ノ瀬村・岩田村が合併して上富田町が発足した。合併と同時に町制が施行され、村を経ずに町として誕生した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kamitonda-wiki"
+      "q3-kamitonda-geoshape",
+      "upg-y1-kamitonda-britannica"
      ]
     },
     {
-     "text": "1958年（昭和33年）3月31日、上富田町は富田川町（生馬村・朝来村の合併町）と合併し、改めて上富田町が発足した",
+     "text": "1958年（昭和33年）3月31日、上富田町は富田川町と合併し、改めて上富田町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kamitonda-wiki"
+      "upg-y1-kamitonda-britannica",
+      "upg-y1-kamitonda-geoshape-tomitagawa"
      ]
     },
     {
@@ -731,22 +869,23 @@
      ]
     },
     {
-     "text": "町を富田川が縦貫し、1889年（明治22年）の町村制施行当時、現在の町域は生馬村・朝来村・市ノ瀬村・岩田村などに分かれていた",
+     "text": "富田川が町域を流れる。1889年（明治22年）の町村制施行当時、現在の町域には市ノ瀬村・岩田村などが置かれていた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kamitonda-wiki"
+      "upg-y1-kamitonda-britannica",
+      "upg-y1-kamitonda-geoshape-ichinose",
+      "upg-y1-kamitonda-geoshape-iwata"
      ]
     },
     {
-     "text": "「上富田」という町名の公式な命名理由は確認できなかった。富田川の下流側の2村が「富田川町」を称したのに対し、上流側の合併町が「上富田」と名乗ったという構図は読み取れるが、命名の記録資料は未確認である",
+     "text": "町名「上富田」について、『ブリタニカ国際大百科事典』は旧富田川町の上流に位置したことによると解説している。ただし、命名を示す自治体公式の記録資料は未確認である",
      "kind": "fact",
-     "level": "E5",
-     "status": "indeterminate",
+     "level": "E3",
+     "status": "established",
      "sources": [
-      "q3-kamitonda-wiki",
-      "q3-kamitonda-geoshape"
+      "upg-y1-kamitonda-britannica"
      ]
     },
     {
@@ -771,7 +910,7 @@
     "pref/30"
    ],
    "unknowns": [
-    "「上富田」の命名理由を示す公式資料・合併記録は確認できなかった",
+    "「上富田」の命名理由を示す自治体公式資料・合併記録は未確認（『ブリタニカ国際大百科事典』は旧富田川町の上流に位置したことによると解説する）",
     "「富田」という地名の語源（中世の荘園名との関係を含む）は未確認",
     "『上富田町史』における地名由来の記述は未確認"
    ],
@@ -807,57 +946,63 @@
    },
    "claims": [
     {
-     "text": "1889年（明治22年）4月1日、近世以来の串本浦が単独で自治体を形成して西牟婁郡串本村が発足し、1907年（明治40年）に町制を施行して串本町となった",
+     "text": "1897年（明治30年）11月12日、串本村が町制を施行して西牟婁郡串本町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kushimoto-wiki"
+      "upg-y1-kushimoto-britannica",
+      "upg-y1-kushimoto-geoshape-old"
      ]
     },
     {
      "text": "1955年（昭和30年）7月2日、串本町・田並村・有田村・潮岬村・和深村が新設合併し、改めて西牟婁郡串本町が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kushimoto-wiki"
+      "upg-y1-kushimoto-britannica",
+      "upg-y1-kushimoto-geoshape-shionomisaki"
      ]
     },
     {
-     "text": "2005年（平成17年）4月1日、西牟婁郡串本町が東牟婁郡古座町と新設合併して東牟婁郡串本町が発足した。旧串本町は西牟婁郡に属していたが、新宮市および東牟婁郡との結びつきが強かった歴史的経緯から、合併にあわせて所属郡が東牟婁郡に変更された",
+     "text": "2005年（平成17年）4月1日、西牟婁郡串本町が東牟婁郡古座町と新設合併して東牟婁郡串本町が発足し、所属する郡が西牟婁郡から東牟婁郡に変更された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kushimoto-wiki"
+      "upg-y1-kushimoto-britannica",
+      "upg-y1-kushimoto-geoshape-new",
+      "upg-y1-kushimoto-japanpost"
      ]
     },
     {
      "text": "串本町は本州最南端の潮岬を有し、串本の市街地は潮岬側と元来の陸地をつなぐ陸繋砂州（トンボロ）の上に発達している",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kushimoto-wiki"
+      "upg-y1-kushimoto-env",
+      "upg-y1-kushimoto-britannica"
      ]
     },
     {
      "text": "1890年（明治23年）9月16日、紀伊大島沖でオスマン帝国の軍艦エルトゥールル号が遭難し、地元住民による献身的な救助活動が行われた。この出来事は日本とトルコの友好の礎となり、串本町はトルコの都市と姉妹都市提携を結んでいる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kushimoto-wiki"
+      "upg-y1-kushimoto-mofa",
+      "upg-y1-kushimoto-ndlref"
      ]
     },
     {
      "text": "海岸の奇岩群・橋杭岩には、弘法大師が天の邪鬼と一夜で橋を架ける競争をしたという伝説が残る。岩柱の列は、大師が架けようとした橋の杭の跡だと語り伝えられている",
      "kind": "legend",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kushimoto-my10"
+      "upg-y1-kushimoto-hashikui"
      ]
     },
     {
@@ -935,31 +1080,35 @@
      ]
     },
     {
-     "text": "1889年（明治22年）に九度山村など8村が合併して九度山村が発足し、1910年（明治43年）に町制を施行して九度山町となった",
+     "text": "1910年（明治43年）9月1日に九度山村が町制を施行して九度山町となった。1955年（昭和30年）には河根村と合体した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kudoyama-wiki"
+      "upg-y1-kudoyama-geoshape",
+      "upg-y1-kudoyama-britannica"
      ]
     },
     {
      "text": "1600年の関ヶ原の戦いで西軍に与した真田昌幸・真田信繁（幸村）父子は高野山に配流された後、九度山に移り住んだ。昌幸は1611年に九度山で死去し、信繁は1614年の大坂冬の陣に際して大坂城へ入った",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kudoyama-wiki"
+      "q3-kudoyama-kanko",
+      "upg-y1-kudoyama-sanada-m",
+      "upg-y1-kudoyama-sanada-n"
      ]
     },
     {
      "text": "慈尊院と丹生官省符神社、高野参詣道（町石道）は、世界遺産「紀伊山地の霊場と参詣道」の構成資産である。女人禁制だった高野山に対し、女性が参詣できた慈尊院は「女人高野」と呼ばれる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kudoyama-wiki",
-      "q3-kudoyama-mlit"
+      "q3-kudoyama-mlit",
+      "upg-y1-kudoyama-env",
+      "upg-y1-kudoyama-britannica"
      ]
     },
     {
@@ -1052,10 +1201,11 @@
     {
      "text": "1889年（明治22年）に大沼・下尾井・小松・竹原・七色の5つの村が合併し、北山村と改称して現在に至っている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kitayama-sanson"
+      "upg-y1-kitayama-about",
+      "upg-y1-kitayama-geoshape"
      ]
     },
     {
@@ -1069,12 +1219,13 @@
      ]
     },
     {
-     "text": "北山川の筏流しには600年以上の歴史があるといわれ、人口の大半を筏師が占めた時代もあった。ダム建設などで筏流しが途絶えた後、1979年（昭和54年）に北山川観光筏下りとして復活した",
+     "text": "北山川の筏流しは、村公式の年表によれば1604年（慶長9年）に池原から新宮まで始まったとされ、人口の大半を筏師が占めた時代もあった。木材輸送の筏流しはダム建設などにより1963年（昭和38年）に途絶えたが、1979年（昭和54年）8月に北山川観光筏下りとして復活した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q3-kitayama-sanson"
+      "upg-y1-kitayama-rekishi",
+      "upg-y1-kitayama-about"
      ]
     },
     {
@@ -2335,12 +2486,12 @@
      ]
     },
     {
-     "text": "新町名は公募で「有田川」が上位の支持を集め、候補の絞り込みを経て「有田川町」に決まったと市区町村変遷資料は記録する（合併協議会の一次資料での確認は未了）",
+     "text": "新町名「有田川町」は、2006年1月1日の吉備町・金屋町・清水町の合併にあたり公募し、投票により決定された名称であると、和歌山県教育センター学びの丘の郷土資料『わかやま発見』は紹介する",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q4-uub-aridagawa"
+      "h2-hidaka-wakayama-manabi"
      ]
     },
     {
@@ -2391,10 +2542,10 @@
     {
      "text": "旧清水町は1955年（昭和30年）に安諦村・八幡村・城山村の合併で成立しており、古代の郡名「安諦」は1955年まで村名として残っていた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q4-uub-aridagawa"
+      "upg-y5-shimizu-geoshape"
      ]
     }
    ],
@@ -2412,8 +2563,8 @@
     "muni/30-湯浅町"
    ],
    "unknowns": [
-    "新町名選定の経緯は合併協議会資料（一次資料）での確認が未了",
-    "旧清水町・旧吉備町・旧金屋町の成立系譜は市区町村変遷データベースに基づき、官報告示での直接確認は未了",
+    "新町名の公募における応募数や、候補が「有田川」に絞り込まれるまでの過程は、合併協議会資料（一次資料）での確認が未了",
+    "旧吉備町・旧金屋町の成立系譜は市区町村変遷データベースに基づき、官報告示での直接確認は未了",
     "有田川の全長の公的確定値（河川台帳上の延長）は未確認"
    ],
    "updated": "2026-11-13"
@@ -3174,10 +3325,10 @@
     {
      "text": "1955年（昭和30年）3月15日に南富田村を編入した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q4-wiki-shirahama"
+      "upg-y5-minamitonda-geoshape"
      ]
     },
     {
@@ -3331,7 +3482,7 @@
    "formation": "合併新設",
    "prefecture": "和歌山県",
    "homonyms": [],
-   "summary": "和歌山県海草郡の町。2006年に野上町と美里町が合併して生まれた合成名で、紀州の「紀」に美里の「美」と野上の「野」を組み合わせ、読みの「きみの」を「君の町」にもかけた公募名である。最終候補には北海道の美瑛・富良野を連想させる「美良野（みらの）」も残っていた。要素となった野上・美里はいずれも昭和の大合併で生まれた町名で、「紀美野」は二世代目の合併名にあたる。",
+   "summary": "和歌山県海草郡の町。2006年に野上町と美里町が合併して生まれた合成名で、紀州の「紀」に美里の「美」と野上の「野」を組み合わせ、読みの「きみの」を「君の町」にもかけた名である。最終候補には北海道の美瑛・富良野を連想させる「美良野（みらの）」も残っていた。要素となった野上・美里はいずれも昭和の大合併で生まれた町名で、「紀美野」は二世代目の合併名にあたる。",
    "first_attestation": {
     "era": "21世紀",
     "year_western": 2006,
@@ -3358,18 +3509,18 @@
      ]
     },
     {
-     "text": "町名「紀美野」は公募によるもので、紀州（和歌山県）の「紀」と美里町の「美」、野上町の「野」を取り、読みを「君の町」の意味とかけたものとされる",
+     "text": "町名「紀美野」は、紀州（和歌山県）の「紀」と美里町の「美」、野上町の「野」を取り、「君の町」の意味とかけたものと紀美野町の町紹介資料は説明する",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q4-wiki-kimino"
+      "upg-y5-kimino-shokai"
      ]
     },
     {
      "text": "新町名の選定では候補17点から最終候補が「紀美野」と「美良野（みらの）」の2点に絞られ、「紀美野」が選ばれたと市区町村変遷資料は記録する",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
       "q4-uub-kimino"
@@ -3408,7 +3559,7 @@
     "muni/30-有田川町"
    ],
    "unknowns": [
-    "町名の公式な命名理由は合併協議会資料（アーカイブ）の確認が未了で、現行の説明はWikipediaに基づく",
+    "新町名の選定経緯（公募と候補の絞り込み）は市区町村変遷資料で確認したが、合併協議会資料そのものでは未確認（命名理由そのものは町の町紹介資料で確認済み）",
     "旧町名「野上」「美里」それぞれの命名経緯（1955年）の深追いは未了"
    ],
    "updated": "2026-11-13"

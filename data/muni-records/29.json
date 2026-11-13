@@ -360,6 +360,30 @@
    "label": "Wikipedia「高取町」（『日本書紀』天武天皇5年（676年）に高取山周辺の森林伐採を禁止する記述が見られると紹介すること、古代に高市郡波多郷があったこと、1889年の高取村発足・1891年の町制施行・1954年の合併の沿革、高取城が日本三大山城の一つに数えられること）",
    "url": "http://ja.wikipedia.org/wiki/高取町"
   },
+  "upg-ae1-misato-mlit": {
+   "label": "国土交通省関東地方整備局江戸川河川事務所「三郷出張所だより」第46号（2018年1月。「三郷市」の沿革についてとして、1956年9月30日に東和村・彦成村・早稲田村の3村が合併して三郷村が誕生したこと、「三郷」の名は合併した三つの村の「三」と、古く二郷半領と呼ばれた地域名の「郷」の字を合わせたものであることを記す）",
+   "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000693360.pdf"
+  },
+  "upg-ae4-uub-asuka": {
+   "label": "市区町村変遷情報「飛鳥村」（町村制施行前の町村の一覧に飛鳥村自身が挙げられており、「飛鳥村」の名が1889年の町村制施行以前から存在したことを示す）",
+   "url": "https://uub.jp/upd/c/18207.html"
+  },
+  "upg-ae4-uub-sonimitsue": {
+   "label": "市区町村変遷情報「曽爾御杖合併協議会（不成立）の詳細」（2004年1月1日に法定の合併協議会として設置され、2005年1月31日に解散した経緯）",
+   "url": "https://uub.jp/upd/u/u1022.html"
+  },
+  "upg-ae6-kawakami-geoshape": {
+   "label": "歴史的行政区域データセットβ版（Geoshape）「川上村」（有効期間は1889年4月1日〜）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/29452A1968.html"
+  },
+  "upg-ae6-kawakami-uub": {
+   "label": "市区町村変遷情報「川上村（奈良県吉野郡）」（1889年4月1日の市制町村制施行で構成23村の区域を合わせて川上村が生まれたとする一覧）",
+   "url": "https://uub.jp/upd/c/18262.html"
+  },
+  "upg-ae6-kawakami-vill": {
+   "label": "川上村公式サイト「川上村成長記」（明治22年4月1日に川上郷二十三ケ村を合併し川上村となったと記す村公式の年表）",
+   "url": "https://www.vill.kawakami.nara.jp/life/docs/2017020600330"
+  },
   "upg-q1-ando-akunami": {
    "label": "『日本歴史地名大系』「飽波郷・飽波郡」（コトバンク。飽波郷は大和国平群郡の郷で、『和名類聚抄』に「阿久奈美」と訓じられること）",
    "url": "https://kotobank.jp/word/%E9%A3%BD%E6%B3%A2%E9%83%B7%E9%A3%BD%E6%B3%A2%E9%83%A1-3081172"
@@ -624,10 +648,6 @@
    "label": "歴史的行政区域データセットβ版「奈良県生駒郡三郷町」（三郷町の有効期間は1966年4月1日からで、前身は三郷村であること）",
    "url": "https://geoshape.ex.nii.ac.jp/city/resource/29343A1968.html"
   },
-  "x12-sango-mlit": {
-   "label": "国土交通省関東地方整備局「三郷出張所だより第46号」（埼玉県三郷市の沿革として、1956年に東和村・彦成村・早稲田村の3村が合併して三郷村が誕生し、「三郷」の「三」は三つの村に由来すると説明すること）",
-   "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000693360.pdf"
-  },
   "x12-sango-nagano-wiki": {
    "label": "Wikipedia「三郷村 (長野県)」（1986年10月18日に埼玉県三郷市に奈良県三郷町を加えた3市町村で、「三郷」の地名を縁とする友好都市提携が結ばれたこと）",
    "url": "http://ja.wikipedia.org/wiki/三郷村_(長野県)"
@@ -837,7 +857,7 @@
      "level": "E2",
      "status": "established",
      "sources": [
-      "x12-sango-mlit",
+      "upg-ae1-misato-mlit",
       "w1-misato-wiki"
      ]
     },
@@ -921,10 +941,10 @@
     {
      "text": "町村制の実施以前、現在の村域は西野村・小瀬村・橡本村・川合村・白川村の5村で「北山郷上組」を称していた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kamikitayama-wiki"
+      "upg-q1-kamikitayama-history"
      ]
     },
     {
@@ -949,11 +969,12 @@
     {
      "text": "村名の「北山」は近世の広域名「北山郷」に由来し、「上」はその上組にあたることを示す。下流側の下組からは下北山村が発足しており、両村は北山郷を上下に分けた対の村名である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-kamikitayama-wiki",
-      "q1-shimokitayama-wiki"
+      "upg-q1-kamikitayama-history",
+      "upg-q1-shimokitayama-naraedu",
+      "q1-kitayama-yuisho"
      ]
     },
     {
@@ -1183,11 +1204,12 @@
     {
      "text": "村名の「北山」は近世の広域名「北山郷」に由来し、「下」はその下組にあたることを示す。上流側の上組からは上北山村が発足しており、両村は北山郷を上下に分けた対の村名である",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "q1-shimokitayama-wiki",
-      "q1-kamikitayama-wiki"
+      "upg-q1-shimokitayama-naraedu",
+      "upg-q1-kamikitayama-history",
+      "q1-kitayama-yuisho"
      ]
     },
     {
@@ -1319,6 +1341,15 @@
      "status": "established",
      "sources": [
       "q1-shimoichi-wiki"
+     ]
+    },
+    {
+     "text": "下市町作成の地域再生計画は、明治22年（1889年）に11か村が統合されて下市村が誕生したと記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q1-shimoichi-chisou"
      ]
     },
     {
@@ -2761,10 +2792,12 @@
     {
      "text": "明治22年（1889年）4月1日、東川村・西河村・大滝村・寺尾村・北塩谷村・迫村・高原村・人知村・白屋村・井戸村・武木村・下多古村・上多古村・神之谷村・柏木村・北和田村・中奥村・上谷村・大迫村・伯母谷村・入之波村・白川渡村・碇村の23村の区域をもって川上村が発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "h6-kawakami-nara-wiki"
+      "upg-ae6-kawakami-vill",
+      "upg-ae6-kawakami-uub",
+      "upg-ae6-kawakami-geoshape"
      ]
     },
     {
@@ -3305,10 +3338,10 @@
     {
      "text": "2004年（平成16年）に曽爾村との合併協議会（曽爾御杖合併協議会）が設置されたが、2005年（平成17年）1月に解散し、合併は実現しなかった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "q2-mitsue-wiki"
+      "upg-ae4-uub-sonimitsue"
      ]
     }
    ],
@@ -3492,10 +3525,11 @@
     {
      "text": "旧・飛鳥村が成立する1889年（明治22年）以前から「飛鳥村」という地名は存在し、合併の際には「飛鳥村」が代表地名として残された",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "q2-asuka-wiki"
+      "upg-ae4-uub-asuka",
+      "q2-asuka-village-70th"
      ]
     },
     {

@@ -204,6 +204,22 @@
    "label": "Wikipedia「焼津神社」（記紀の火難伝説と「焼津」の地名起源説話、書紀と古事記の伝承地の異同に対する『焼津市史』の見解、『万葉集』の「焼津辺」、『延喜式』神名帳の焼津神社、和名抄の益頭郡・郷）",
    "url": "https://ja.wikipedia.org/wiki/%E7%84%BC%E6%B4%A5%E7%A5%9E%E7%A4%BE"
   },
+  "upg-ae6-fujieda-geoshape": {
+   "label": "歴史的行政区域データセットβ版（Geoshape）「志太郡藤枝町」（有効期間は1889年4月1日から1954年3月31日）",
+   "url": "https://geoshape.ex.nii.ac.jp/city/resource/22B0060023.html"
+  },
+  "upg-ae6-kawane-sankawane": {
+   "label": "川根広報「『川根ってどこ？川根町と川根本町とは違うの？』というナゾ」（中川根町・本川根町・川根町の3町が「三川根」と呼ばれていたと説明する川根地区の地域情報サイト）",
+   "url": "https://kawane.love/where-is-kawane"
+  },
+  "upg-af1-izunokuni-yaehime": {
+   "label": "伊豆の国市広報「広報いずのくに」2021年12月号（八重姫特集。伊東祐親の三女・八重姫と源頼朝の間に生まれた千鶴丸が、帰郷した祐親に川に沈められたとする伝説を、『曽我物語』『源平盛衰記』などの物語の記述として紹介）",
+   "url": "https://www.city.izunokuni.shizuoka.jp/hisyo/shisei/kouhou/kouhou/documents/211201-12.pdf"
+  },
+  "upg-af1-kojiki-apec": {
+   "label": "愛知県教育委員会『古事記』中つ巻転写テキスト（県教育委員会の学習資料PDF。倭建命の東征で相武国での火攻めに遭うくだりを含む）",
+   "url": "https://apec.aichi-c.ed.jp/kyouka/kokugo/kyouzai/2018/bungakushiryoukan/honbun/kojiki.pdf"
+  },
   "upg-b-fukuroi-20th": {
    "label": "袋井市市政20周年記念サイト（袋井市公式。市長挨拶に「2005年4月1日、袋井市と浅羽町が合併し、現在の袋井市が誕生しました」と記す）",
    "url": "https://www.fukuroi20th.jp/"
@@ -237,7 +253,7 @@
    "url": "https://www.city.kakegawa.shizuoka.jp/fs/6/0/2/8/3/4/_/_1_.pdf"
   },
   "upg-r1-kotobank-fujieda": {
-   "label": "コトバンク『改訂新版 世界大百科事典』「藤枝」（1601年に酒井忠利が入封して近世田中藩となり、近世宿駅としては1601年に幕府により設定されたとする解説）",
+   "label": "コトバンク『改訂新版 世界大百科事典』「藤枝」（旧市は南部が瀬戸川・大井川の扇状地からなる志太平野にあり、藤枝宿は1601年に幕府により設定され、岡部（旧岡部町）も駿河国の宿駅として収載。1601年に酒井忠利が入封して近世田中藩となったとする解説）",
    "url": "https://kotobank.jp/word/%E8%97%A4%E6%9E%9D-117170"
   },
   "upg-r1-kotobank-ito": {
@@ -471,9 +487,6 @@
   "x5-soumu-gapei-shizuoka": {
    "label": "総務省「市町村合併資料集・静岡県」（2005年9月20日に中川根町と本川根町が新設合併して川根本町が発足したこと）",
    "url": "https://www.soumu.go.jp/gapei/hensen_shizuoka.html"
-  },
-  "x5-wiki-kawanehon": {
-   "label": "Wikipedia「川根本町」（旧川根町と合わせて「三川根」と呼ばれたこと）"
   },
   "x5-wiki-oyama": {
    "label": "Wikipedia「小山町」（1889年に六合村・菅沼村・足柄村・北郷村・須走村が発足したこと、1955年に足柄村、1956年に北郷村・須走村を合併したこと、読みは「おやまちょう」であること）",
@@ -821,12 +834,12 @@
      ]
     },
     {
-     "text": "『曽我物語』などによれば、伊豆に流されていた源頼朝の監視を任された伊東祐親は、上洛中に娘の八重姫が頼朝と通じて子（千鶴）をもうけたことを知って激怒し、千鶴を川に沈め、頼朝をも討とうとしたと伝えられる",
+     "text": "『曽我物語』などの物語類では、伊東祐親が大番役で上洛している間に、娘の八重姫が伊豆に流されていた源頼朝と通じて子（千鶴丸）をもうけ、帰郷した祐親が平家への聞こえを恐れて千鶴丸を川に沈めて殺し、八重姫を江間次郎に嫁がせたと伝えられる",
      "kind": "legend",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
-      "n4-ito-uji-wiki"
+      "upg-af1-izunokuni-yaehime"
      ]
     },
     {
@@ -1936,12 +1949,12 @@
      ]
     },
     {
-     "text": "Wikipediaによれば、旧川根町（2008年に島田市へ編入）と合わせて、中川根・本川根・川根の三地域は「三川根」と呼ばれた",
+     "text": "旧川根町（2008年に島田市へ編入）を含め、中川根・本川根・川根の三地域は「三川根」と呼ばれた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "x5-wiki-kawanehon"
+      "upg-ae6-kawane-sankawane"
      ]
     },
     {
@@ -3264,12 +3277,13 @@
      ]
     },
     {
-     "text": "火難伝説の地について『日本書紀』は駿河国、『古事記』は相武国（相模国か）と記して異同があり、『焼津市史』は書紀の記述に原初的な要素を見て、伝承地が駿河から相模へ移されたのは古事記の編纂過程の影響と推測している",
+     "text": "火難伝説の舞台について、『日本書紀』景行40年条は駿河国での出来事として「焼津」の名の起こりを説くのに対し、『古事記』は相武国（相模国）での出来事としており、両書で伝承地の国名が異なる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "contested",
      "sources": [
-      "n4-yaizu-jinja-wiki"
+      "upg-r1-kotobank-suruga",
+      "upg-af1-kojiki-apec"
      ]
     },
     {
@@ -3861,21 +3875,21 @@
      ]
     },
     {
-     "text": "藤枝は安倍川と大井川に挟まれた志太平野のまちで、江戸時代には藤枝宿と岡部宿の二つの宿場を抱えていた",
+     "text": "藤枝市の南部は瀬戸川・大井川の扇状地からなる志太平野にあり、江戸時代には藤枝宿と、現在の岡部地区にあたる岡部宿の二つの東海道の宿場が置かれていた",
      "kind": "fact",
-     "level": "E5",
+     "level": "E3",
      "status": "established",
      "sources": [
-      "n4-fujieda-city-wiki"
+      "upg-r1-kotobank-fujieda"
      ]
     },
     {
      "text": "明治22年（1889年）に町制を施行して藤枝町となった",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "n4-fujieda-city-wiki"
+      "upg-ae6-fujieda-geoshape"
      ]
     },
     {
