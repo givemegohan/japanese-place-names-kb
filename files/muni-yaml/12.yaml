@@ -1,0 +1,3206 @@
+prefecture_code: '12'
+records:
+- id: muni/12-いすみ市
+  code: '122386'
+  names:
+    ja: いすみ市
+    reading: いすみし
+    aliases:
+    - 夷隅町
+    - 大原町
+    - 岬町
+    - 夷隅郡
+    - 伊甚
+  user_terms:
+  - いすみ
+  - 夷隅
+  - 千葉県で唯一の平仮名の市
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 房総半島南東部、太平洋に面する市。2005年12月5日に夷隅町・大原町・岬町の3町が合併して発足した。市名は旧郡名「夷隅」の読みを平仮名で表記したもので、千葉県内で平仮名を用いる自治体名は同市が初めてで唯一である。「夷隅」の地名は『古事記』の「伊自牟」、『日本書紀』の「伊甚」に遡る古い名で、漢字表記は江戸時代初期に定着したとされる。
+  first_attestation:
+    era: null
+    year_western: 712
+    document: 『古事記』（「伊自牟（いじむ）」の表記として紹介される）
+    note: 地域の古名の初出とされるもの。読みは「いじむ／いじみ」で現在の「いすみ」とは異なり、「夷隅」の漢字表記が定着したのは江戸時代初期とされる。いずれもWikipedia「夷隅郡」の紹介による。
+  claims:
+  - text: 2005年（平成17年）12月5日に夷隅郡夷隅町・大原町・岬町が合併して、いすみ市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-isumi-city-plan
+  - text: 市名「いすみ市」は、当初検討された大多喜町・御宿町を含む5町の合併枠組みの段階で、合併期日とともに既に合意されていた名称であり、枠組みが3町に縮小して再出発した後も引き継がれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-isumi-chiba-keii
+  - text: 市名は旧郡名「夷隅」の読みを平仮名で表記したもので、千葉県内において名前に平仮名を用いた市町村はいすみ市が初めてで、唯一の存在である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-isumi-wiki
+  - text: 「夷隅」の地名は古くは『古事記』に「伊自牟（いじむ）」、『日本書紀』に「伊甚（いじみ）」として登場し、朝廷の直轄地である伊甚屯倉の分割によって夷隅郡が成立したとみられると紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-isumi-wiki-gun
+  - text: 郡名には「夷灊」など様々な当て字が用いられてきたが、「夷隅」の字は江戸時代初期に当てられ、定着したとされている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-isumi-wiki-gun
+  - text: 合併した旧町の一つである夷隅町は、1954年（昭和29年）4月に国吉町・中川村・千町村が合併して生まれた町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-isumi-ndl
+  - text: 総務省の全国地方公共団体コードで、いすみ市の団体コードは122386と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた合併枠組みから残った名前
+    text: 「いすみ市」という名前は、2度の合併協議の崩壊を生き延びた。最初は勝浦市を含む1市5町の大きな枠組みが2003年に解散し、次に大多喜町・御宿町を加えた5町の枠組みで「名称はいすみ市」と合意まで漕ぎ着けながら、大多喜町議会の反対で2004年に崩れた。それでも2005年3月に夷隅町・大原町・岬町の3町で協議が再出発したとき、新市の名前には合意済みの「いすみ市」がそのまま残された。旧郡名「夷隅」は難読のためか漢字では書かれず、千葉県で初めての平仮名の自治体名として発足した。「夷隅」の読み自体は『古事記』の「伊自牟（いじむ）」に遡る古い音であり、平仮名の新しさと音の古さが同居している。
+    sources:
+    - w3-isumi-chiba-keii
+    - w3-isumi-wiki
+    - w3-isumi-wiki-gun
+  relations:
+  - pref/12
+  unknowns:
+  - 「夷隅（いじむ／いすみ）」という音自体の語源は未確認（夷隅川の蛇行に結びつける説などがあるが、いずれも裏付けのある専門資料では確認できなかった）
+  - 市名を漢字の「夷隅市」でなく平仮名の「いすみ市」とした理由を明記した合併協議会の公式資料は未確認（難読への配慮と推測されるが、断定できる資料は見つからなかった）
+  - 『古事記』『日本書紀』の「伊自牟」「伊甚」の記載は原本未読で、Wikipediaの紹介による
+  updated: '2026-11-13'
+- id: muni/12-佐倉市
+  code: '122122'
+  names:
+    ja: 佐倉市
+    reading: さくらし
+    aliases:
+    - 佐倉町
+  user_terms:
+  - 佐倉ってどういう意味
+  - 老中の城のまち
+  - 佐倉順天堂のまち
+  - さくらの語源
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は佐倉町以来の地名「佐倉」を継いだもの。語源は、麻布を納めた倉「アサクラ」が転じたとする説と、清い倉の意の「さ＋倉」とする説が市公式に紹介されるが、確定していない。江戸時代は佐倉藩の城下町として栄え、1954年に佐倉町など6町村が合併して市制を施行した。
+  first_attestation:
+    era: 慶長15年
+    year_western: 1610
+    document: 土井利勝の佐倉入封（佐倉市公式資料）
+    note: 城下町としての佐倉の画期。地名「佐倉」自体の文書上の初出は本調査で特定できなかった
+  claims:
+  - text: 佐倉市公式は、「佐倉」の由来として、この地で生産された麻布を朝廷に献上するための貯蔵庫があったことから「アサクラ」が転じて「サクラ」になったという説を紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-sakura-city-profile
+  - text: 同公式はもう一つの説として、清い倉があったことから、すがすがしい語感をもつ「さ」という言葉をつけて「さくら」と呼ぶようになったという説を併記する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-sakura-city-profile
+  - text: 1610年（慶長15年）に老中・土井利勝が徳川家康の命により佐倉に配され、翌年から7年をかけて佐倉城を築城し、城下町が形成された（佐倉市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-sakura-city-jokamachi
+  - text: 佐倉城には幕府の老中職についた大名が徳川諸藩中最多を数えたことから、俗に「老中の城」とも呼ばれた（佐倉市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-sakura-city-jokamachi
+  - text: 佐倉藩は千葉県における最大の藩で、その石高は概ね11万石、藩の歴史の6割弱を堀田家が治めた（佐倉市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-sakura-city-jokamachi
+  - text: 幕末の藩主・堀田正睦は洋学を積極的に取り入れ、蘭方医・佐藤泰然を招いて医学塾兼診療所の佐倉順天堂（順天堂大学の前身）を開かせた（佐倉市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-sakura-city-jokamachi
+  - text: 1954年（昭和29年）3月31日、佐倉町・臼井町・志津村・根郷村・和田村・弥富村が合併して市制を施行し、佐倉市が発足した（地方公共団体コードは122122）
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m5-uub-chiba-cities
+    - k1-jlis-chiba
+  column:
+    title: 老中の城と蘭学のまち
+    text: 佐倉の城下町は、江戸の東を守る要衝として幕府の重臣が代々治めた。老中職についた城主が諸藩で最も多かったことから「老中の城」と呼ばれ、幕末には藩主・堀田正睦が蘭方医の佐藤泰然を招いて佐倉順天堂を開いた。のちの順天堂大学につながる学びの場が、城下町の名とともに今も語り継がれている。
+    sources:
+    - m5-sakura-city-jokamachi
+  relations:
+  - pref/12
+  unknowns:
+  - 地名「佐倉」の文書上の初出と語源の確定は未了（市公式の2説はいずれも「説」の提示にとどまる）
+  - 中世の佐倉郷や千葉氏との関係についての専門辞典の記述確認が未了
+  updated: '2026-11-13'
+- id: muni/12-八千代市
+  code: '122211'
+  names:
+    ja: 八千代市
+    reading: やちよし
+    aliases:
+    - 八千代町
+    - 大和田町
+  user_terms:
+  - 八千代ってどういう意味
+  - やちよの由来
+  - 八千代台団地のまち
+  - 公募で決まった市名
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms:
+  - muni/08-八千代町
+  summary: 市名は1954年の合併の際に公募で採用された瑞祥地名「八千代」を継いだもの。「幾千年も幾万年も終わりを知らない、無限の発展の可能性」という意味を込めた命名で、旧来の地名には由来しない。1967年1月1日に市制を施行した。茨城県には同名の八千代町がある。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 八千代市市政概要（八千代市議会事務局）
+    note: 1954年1月15日の合併に際し町名を公募して「八千代」を採用したことを市政概要が記す。命名そのものの初出
+  claims:
+  - text: 八千代市市政概要によれば、1954年（昭和29年）1月15日、千葉郡大和田町と睦村が合併のさい町名を公募し、たくさんの応募の中から「八千代」を採用した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-gaiyo
+  - text: 同概要は「八千代」について、めでたく喜ばしいときに使われ、幾千年も幾万年も終わりを知らない、無限の発展の可能性を秘めているという意味があると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-gaiyo
+  - text: 八千代市制施行50周年記念誌は、「千代に八千代に」という想いから、永遠に栄えるように祈って付けられた名であると記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-50th
+  - text: 1954年（昭和29年）9月1日に印旛郡阿蘇村を合併し、おおむね現在の市域が形成された（市政概要の市域変遷）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-gaiyo
+  - text: 1967年（昭和42年）1月1日、人口4万1,574人で市制を施行して八千代市となった（市政概要。地方公共団体コードは122211）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-gaiyo
+    - k1-jlis-chiba
+  - text: 八千代市と流山市の市制施行により、千葉郡は消滅した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-yachiyo-wikipedia
+  - text: 1957年（昭和32年）に完成した八千代台団地は日本初の大規模住宅団地とされ、これをきっかけに市の人口増加が始まった（市政概要の沿革）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-gaiyo
+  - text: 合併前の中心地・大和田は、江戸時代に佐倉・成田へ通じる街道の宿場町（大和田宿）として繁栄した地である（八千代市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-yachiyo-city-keisei
+  column:
+    title: 公募で生まれた「永遠」の名
+    text: 八千代は、土地の古い名ではない。1954年、大和田町と睦村の合併にあたって町名を公募し、「千代に八千代に」と末永く栄える願いを込めた瑞祥の名が選ばれた。その願いどおりかどうか、まちは八千代台団地の開発とともに急速に成長し、13年後に市制を施行した。公募の瑞祥地名は、合併新設の名づけの典型例でもある。
+    sources:
+    - m5-yachiyo-city-gaiyo
+    - m5-yachiyo-city-50th
+  relations:
+  - pref/12
+  - muni/08-八千代町
+  unknowns:
+  - 公募の応募総数や次点候補など選定過程の詳細は市政概要に記されておらず未確認
+  - 茨城県八千代町との由来の異同の本格的な横断確認は未了（同名自治体として相互参照のみ）
+  updated: '2026-11-13'
+- id: muni/12-八街市
+  code: '122301'
+  names:
+    ja: 八街市
+    reading: やちまたし
+    aliases:
+    - 八街町
+    - 八街村
+  user_terms:
+  - やちまた
+  - 落花生のまち
+  naming_type: 新規命名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 「やちまた」という難読の読みで知られる、北総の開拓地に生まれた市。市名は明治2年（1869年）に始まった下総牧の開墾事業で、入植の順番に基づいて「漢数字＋好字」で命名された一連の開墾地名の一つで、8番目の「八」に、集落の繁栄を願う「街」の字を組み合わせたものである。名付け親は開墾事業の担当者だった東京府権大参事の北島秀朝とされる。1992年4月1日に市制を施行した。
+  first_attestation:
+    era: 明治2年
+    year_western: 1869
+    document: 北島秀朝が東京府知事・大木喬任に宛てた書簡（明治2年8月15日付）
+    note: 書簡に「開墾名前明日参館之節持参」とあり、この頃に各開墾地の地名とともに「八街」が名付けられたと市が推測するもの。命名そのものを示す史料として市が紹介している。
+  claims:
+  - text: 「八街」の地名は、江戸時代の御用馬の放牧地であった下総牧（小金牧・佐倉牧）の開墾事業が開始された時期に命名され、名付け親は開墾事業の担当者だった東京府権大参事の北島秀朝である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yachimata-city-meiji
+  - text: 開墾地の地名は、開墾に従事する人々を受け入れていった地域の順番に基づき、漢数字と好字（こうじ）を組み合わせて付けられていったもので、「八街」はその8番目に当たる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yachimata-city-meiji
+  - text: 「街」という字には住宅や商店の集まる場所という意味があり、開墾後に豊かに、賑やかに、栄えていくよう願いが込められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yachimata-city-meiji
+  - text: 同じ命名の系列には、初富、二和、三咲、豊四季、五香、六実、七栄、八街、九美上、十倉などがあり、二和・三咲は現在の船橋市域、豊四季は現在の柏市域に当たる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-yachimata-wiki
+  - text: 1872年（明治5年）に八街村が誕生し、1919年（大正8年）に町制を施行して八街町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-yachimata-wiki
+  - text: 1992年（平成4年）4月1日に八街町が市制を施行し、千葉県下30番目の市として八街市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yachimata-city-gaiyo
+  - text: 総務省の全国地方公共団体コードで、八街市の団体コードは122301と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 数字で数えられた開拓地の名前
+    text: 北総の台地には、明治の開墾で生まれた「数字の地名」が並んでいる。幕府の放牧地だった下総牧を切り開く事業で、入植を受け入れた順に初富、二和、三咲、豊四季、五香、六実、七栄、八街、九美上、十倉……と、漢数字に縁起のよい字を組み合わせた名が付けられていった。八街の「街」にも、住宅や商店の集まる場所という意味で、開墾地の繁栄への願いが込められている。姉妹地名の多くは今、船橋市や柏市など周辺市の町名として残るが、「八街」だけは1872年の村から町を経て1992年に市となり、地名の系列の中で唯一、自治体の名前として残った。「やちまた」という読みの難しさも、この命名が漢字の音読みの組み合わせではなく、開墾計画の中で作られた人工の地名であることの名残である。
+    sources:
+    - w3-yachimata-city-meiji
+    - w3-yachimata-wiki
+    - w3-yachimata-city-gaiyo
+  relations:
+  - pref/12
+  unknowns:
+  - 「八街」の読み「やちまた」が命名当初からこの読みだったのかを示す当時の記録は未確認（読みの由来について市の公式資料には明記がなかった）
+  - 開墾地名の命名順序の全体像（一街から十街以降までの確定リスト）は、市の資料とWikipediaで一部しか確認できていない
+  updated: '2026-11-13'
+- id: muni/12-勝浦市
+  code: '122181'
+  names:
+    ja: 勝浦市
+    reading: かつうらし
+    aliases:
+    - 桂浦
+    - 葛浦
+    - 勝占
+    - 浜勝浦
+  user_terms:
+  - 勝浦ってどういう意味
+  - かつうらの由来
+  - 朝市のまち
+  - お万の方のまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms:
+  - muni/36-勝浦町
+  summary: 市名は勝浦町以来の港町の名「勝浦」を継いだもの。古くは桂浦・葛浦・勝占とも表記され、語源には勝占の忌部氏に由来する説、紀伊勝浦や土佐の桂との関係をいう説、「勝れた浦」の意とする説など諸説がある。1955年の合併で勝浦町が発足し、1958年に市制を施行した。徳島県には同名の勝浦町がある。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 桂浦・葛浦・勝占などの旧表記（勝浦市公式資料）
+    note: 「勝浦」の表記の確実な初出は本調査で特定できなかった。中世には浜勝浦の八幡岬に勝浦城が築かれていたことが『日本歴史地名大系』にみえる
+  claims:
+  - text: 勝浦市公式によれば、勝浦は古くは桂浦、葛浦、勝占とも表記されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-katsuura-city-promotion
+  - text: 市公式は語源の説の一つとして、紀伊勝浦や土佐の桂（桂浜）との関係からという説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-katsuura-city-promotion
+  - text: 市公式は、房総半島開拓の祖とされる「勝占の忌部（いんべ）」の名に由来するという説も挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-katsuura-city-promotion
+  - text: 市公式はさらに、天然の良港であること、すなわち「勝れた浦」に由来するという説も併記し、語源には諸説あるとする
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-katsuura-city-promotion
+  - text: 天富命とともに阿波国から房総半島に移住した勝占の忌部氏の名が由来になったとする説があり、紀伊半島の勝浦も同じく忌部氏に由来すると紹介される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-katsuura-wikipedia
+  - text: 『日本歴史地名大系』によれば、浜勝浦の八幡岬の要害には勝浦城が築かれ、16世紀初めには真里谷武田氏の拠点であったとされる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-katsuura-kotobank
+  - text: 1955年（昭和30年）に勝浦町・興津町・上野村・総野村が合併して勝浦町が発足し、1958年（昭和33年）に市制を施行して勝浦市となった（勝浦市公式。地方公共団体コードは122181）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-katsuura-city-promotion
+    - k1-jlis-chiba
+  - text: 勝浦城主・正木頼忠の娘で徳川家康の側室となったお万の方が、勝浦城落城の際に40メートルの断崖に白い布を垂らして海へ逃れたという「お万の布ざらし」伝説が残されている（勝浦市公式）
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - m5-katsuura-city-promotion
+  column:
+    title: 断崖に垂れた白い布
+    text: 勝浦城のあった八幡岬には、「お万の布ざらし」と呼ばれる伝説が残る。城主・正木頼忠の娘で、のちに徳川家康の側室となったお万の方が、落城の際に40メートルの断崖へ白い布を垂らし、それを伝って海へ降りて逃れたという。布をさらした跡とされる岩肌は、今も岬の名所として語り継がれている。
+    sources:
+    - m5-katsuura-city-promotion
+  relations:
+  - pref/12
+  - muni/36-勝浦町
+  unknowns:
+  - 「勝浦」の表記の文書上の初出は本調査で特定できなかった
+  - 語源は忌部説・他地名との関係説・「勝れた浦」説のいずれとも決められず、確定していない
+  - 徳島県勝浦町・和歌山県那智勝浦町との由来の異同の本格的な横断確認は未了（同名自治体として相互参照のみ）
+  updated: '2026-11-13'
+- id: muni/12-匝瑳市
+  code: '122351'
+  names:
+    ja: 匝瑳市
+    reading: そうさし
+    aliases:
+    - 八日市場市
+    - 野栄町
+    - 匝瑳郡
+    - 狭布佐
+  user_terms:
+  - そうさ
+  - 読めない市名
+  - 植木のまち
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 「そうさ」という難読の市名で知られる市で、植木の産地でもある。2006年1月23日に八日市場市と匝瑳郡野栄町が合併して発足し、市名は両市町の旧郡名「匝瑳」を住民アンケートの結果で採用した。「匝瑳」の地名は741年の正倉院の記録に遡るとされ、もとの音「さふさ」に縁起のよい漢字を当てたものと考えられている。語源には「美しい麻のとれる土地」とする説などがある。
+  first_attestation:
+    era: 天平13年
+    year_western: 741
+    document: 正倉院に伝わる庸調（朝廷に納めた特産物）の記録
+    note: 「匝瑳」の現存最古の記録と市が紹介するもの。文書そのものは未読で、市の公式説明による。
+  claims:
+  - text: 匝瑳市は2006年（平成18年）1月23日に、八日市場市と匝瑳郡野栄町が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-sosa-city-name
+  - text: 市の名称は、八日市場市・野栄町合併協議会が15歳以上の住民を対象に両市町の名称を除いて行ったアンケート調査で1位であったこと、また両市町の旧郡名でもあり住民が共有して一体感の持てる名称であったことから決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-sosa-city-name
+  - text: 「匝瑳」という地名の現存最古の記録は、奈良・東大寺正倉院に伝わる庸調に見られる天平13年（741年）の記録であるとされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-sosa-city-name
+  - text: 『続日本後紀』によれば、5世紀の終わり頃から6世紀のはじめにかけて物部小事が坂東を征した勲功によって朝廷から下総国の一部を与えられ匝瑳郡（さふさごおり）とし、小事の子孫は物部匝瑳氏を名乗るようになったと伝えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-sosa-city-name
+  - text: 「匝瑳」の語源については諸説あって定まっていないが、「さふさ」の「さ」は狭で美しい、「ふさ」は布佐で麻の意であり、「美しい麻のとれる土地」であったとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w3-sosa-city-name
+  - text: 「ふさ」は下総国11郡中で最大の郡であったことに由来するという説もある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w3-sosa-city-name
+  - text: 「匝瑳」という表記は、もとの音「さふさ」に縁起のよい漢字を充てたものと考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-sosa-city-name
+  - text: 総務省の全国地方公共団体コードで、匝瑳市の団体コードは122351と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読めない市名を、住民が選んだ
+    text: 初めて見て「そうさ」と読める人はまずいない。2006年の合併で新市の名前を決める際、合併協議会は旧来の八日市場市と野栄町の名前を候補から外し、15歳以上の住民にアンケートを取った。その結果、1位になったのが旧郡名の「匝瑳」だった。難読であることよりも、両市町に共通し、一体感を持てる名前であることが優先されたのである。この「匝瑳」という字自体、もとは「さふさ」という音に縁起のよい漢字を当てたものと考えられている。「匝」は一巡りして帰る、「瑳」は鮮やかで美しいという意味を持つ。地名の最古の記録は741年、正倉院に納められた特産物の記録にまで遡るというから、住民の選んだ名前は奈良時代からの由緒を持つ名前でもあった。
+    sources:
+    - w3-sosa-city-name
+  relations:
+  - pref/12
+  unknowns:
+  - 「さふさ」の語源は市公式も「諸説あって定まっていない」としており、狭布佐（麻）説と最大郡説のどちらが有力かは未確認。なお調査指示にあった「五穀豊穣の瑞祥」による命名説は、市の公式説明では確認できなかった
+  - 741年の正倉院文書の記録内容そのものは未読で、市の公式説明による紹介である
+  updated: '2026-11-13'
+- id: muni/12-千葉市
+  code: '121002'
+  names:
+    ja: 千葉市
+    reading: ちばし
+    aliases:
+    - 千葉郡
+  user_terms:
+  - 千葉市の名前の由来
+  - 千葉はなぜ千葉と書く
+  - 千葉開府900年とは
+  - 千葉常重と千葉市
+  - 千葉氏のまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 千葉は古代の下総国千葉郡の郡名で、『万葉集』の防人の歌や墨書土器に約1,300年前の用例が見える。大治元年（1126年）に千葉常重がこの地に本拠を移し、地名を名字として千葉を名乗って城下の基礎を作り、明治に県庁が置かれ、大正10年（1921年）の市制施行で地名がそのまま市名に継承された。語源は、草木の生い茂る豊かな土地に好字を当てたとする市の説明があるが、諸説あるとされる。
+  first_attestation:
+    era: 奈良時代（8世紀）
+    year_western: null
+    document: 万葉集
+    note: 千葉郡の防人が詠んだ歌に地名「千葉」が登場すると千葉市が紹介する、使用例の初出級資料。あわせて発掘された墨書土器の用例も市が紹介し、約1,300年の歴史が確認できるという
+  claims:
+  - text: 千葉市公式によれば、「千葉」という地名は古代からあり、『万葉集』で千葉郡の防人が詠んだ歌に登場するほか、発掘された墨書土器によっても、「千葉」という地名が約1,300年の歴史をもつことが確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-chiba-city-900
+  - text: 千葉市公式によれば、千葉の地名の由来は諸説あるが、草木の生い茂る豊かな土地であったことから、その意味を表す好字（たくさんを意味する「千」と、草木を意味する「葉」）を当てて「千葉」と表記したのだと考えられている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-chiba-city-900
+  - text: 千葉市公式によれば、平安時代後期の大治元年（1126年）6月1日、千葉常重が大椎（現在の緑区大椎町）から現在の中央区亥鼻付近に本拠を移し、千葉を名乗ったことにより、千葉の都市としての歴史が始まったと言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-shi-portal
+  - text: 千葉市広報によれば、この1126年の本拠移転は中世の史料『千学集抜粋』の記述によるもので、大治元年6月1日に千葉常重が現在の中央区亥鼻付近に本拠を定めてまちが成立したとされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-kaifu-dayori
+  - text: 千葉市公式によれば、常重の子・千葉常胤は1180年に房総へ逃れてきた源頼朝をいち早く助けて鎌倉幕府の成立に大きく貢献し、千葉氏は東北から九州に至る広大な所領を持つ屈指の御家人に成長した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-shi-portal
+  - text: 千葉市議会の市政概要によれば、千葉市の市章は開祖・千葉氏の月星の紋章に千葉の「千」を入れたもので、大正10年（1921年）に市制施行を記念して制定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-sisei
+  - text: 総務省の全国地方公共団体コードで、千葉市のコードは121002と定められている（総務省の地方公共団体コード一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: まちを作った一族と、同じ名前の市
+    text: 千葉市は2026年に「千葉開府900年」を迎えた。大治元年（1126年）に千葉常重が本拠を移して以来、都市の名と支配した一族の名が同じ「千葉」であり続けている。千葉市の担当者は「都市を作った人物である『千葉氏』と、現在の都市の名前である『千葉市』が同じであることは、大都市としては非常に珍しい」と書いている。市の紋章にも千葉氏の月星紋に「千」の字を入れたものが使われており、市名・市章・開府の記念年まで、一族の名がまちのアイデンティティとして生き続けている。
+    sources:
+    - b-cap-chiba-kyokucho
+    - b-cap-chiba-sisei
+  relations:
+  - pref/12
+  unknowns:
+  - 「千葉」の語源について、市のいう好字説以外の説の具体的内容は、本バッチでは専門文献（『角川日本地名大辞典』等）で確認できなかった
+  - 『万葉集』の千葉郡防人の歌の正確な巻・歌番号は、本バッチでは特定できなかった
+  - 千葉市が市制を施行した正確な月日は、本バッチで確認した市公式資料の範囲では明記されていなかった
+  updated: '2026-11-13'
+- id: muni/12-南房総市
+  code: '122343'
+  names:
+    ja: 南房総市
+    reading: みなみぼうそうし
+    aliases:
+    - 富浦町
+    - 富山町
+    - 白浜町
+    - 千倉町
+    - 丸山町
+    - 和田町
+    - 三芳村
+  user_terms:
+  - みなみぼうそう
+  - 房総半島の南の市
+  - 南房総
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 南房総市は平成18年（2006年）3月20日に安房郡の富浦町・富山町・三芳村・白浜町・千倉町・丸山町・和田町の7町村が合併して発足した。「南房総」は房総半島の南部という位置を表す新市名で、合併協議では古代国名に由来する「安房（あわ）」と最終候補に残り、「南房総」が選ばれたと変遷資料に記される。当初は館山市を含む11市町村での広域合併が検討されたが実現しなかった。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 南房総市の発足（安房7町村の新設合併）
+    note: 市名「南房総」の初出。「房総」の名自体は安房・上総・下総の総称として古くから使われてきた地域名である。
+  claims:
+  - text: 平成18年（2006年）3月20日に安房7町村（富浦町・富山町・三芳村・白浜町・千倉町・丸山町・和田町）による合併が行われ、南房総市が誕生した（南房総市公式「歴史」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-minamiboso-city-history
+  - text: 合併協議会は平成16年（2004年）12月15日に安房7町村合併協議会として設置され、平成17年（2005年）2月8日に合併協定の調印式が行われた（南房総市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-minamiboso-city-history
+  - text: 新市名の最終候補は「南房総」と「安房（あわ）」の2点であり、「南房総市」に決定したと市区町村変遷情報に記される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-minamiboso-uub
+  - text: 当初は館山市・鴨川市・鋸南町・天津小湊町を含む11市町村での合併が検討されたが、館山市議会の脱退決議などを経て協議が難航し、鋸南町の離脱ののち最終的に7町村での合併となった（市区町村変遷情報）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-minamiboso-uub
+  - text: この地域は718年に上総国から分かれて安房国となり、一度は廃されたものの757年に再び安房国として独立した土地であり、市名の最終候補に残った「安房」はこの国名の名である（南房総市公式「歴史」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-minamiboso-city-history
+  - text: 南房総市の地方公共団体コードは122343である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: あと一歩で「安房市」だった
+    text: 南房総市の名が決まる過程で、最後まで残った対抗馬は「安房（あわ）」だった。718年に国として分かれた安房国の名であり、由緒という点では申し分ない。選ばれたのは、方角と地域の総称を重ねた「南房総」の方だった。もし「安房市」が選ばれていれば、「あわし」という読みをいちいち説明しなければならない市名になっていたかもしれない。なお当初は館山市を含む11市町村の大合併が目指されたが、館山の離脱などで規模が縮み、最終的に7町村の市として出発した。
+    sources:
+    - w4-minamiboso-uub
+    - w4-minamiboso-city-history
+  relations:
+  - pref/12
+  unknowns:
+  - 「南房総」が選ばれた理由や公募の得票数など、市名決定の詳細を示す合併協議会の一次資料は確認できていない
+  - 「房総」という総称がいつ成立したか（安房・上総・下総の頭字を連ねた用例の初出）は本レコードでは確認していない
+  updated: '2026-11-13'
+- id: muni/12-印西市
+  code: '122319'
+  names:
+    ja: 印西市
+    reading: いんざいし
+    aliases:
+    - 印西町
+  user_terms:
+  - いんざい
+  - 千葉ニュータウンの市
+  - 印西
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 「印西」は印旛郡の西部という位置を表す名で、この一帯は従来「印西地方」と呼ばれていた。昭和29年（1954年）に木下町・大森町・船穂村・永治村の一部が合併する際、新町名を住民公募し、最も希望の多かった「印西町」に決定した。平成8年（1996年）に市制を施行し、平成22年（2010年）に印旛村・本埜村を編入した。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 印西町の成立（合併時の住民公募による命名、印西市広報による紹介）
+    note: 自治体名「印西」の初出。「印西地方」という地域の呼び名はそれ以前からあったと市の広報は説明するが、その使用開始時期は示されていない。
+  claims:
+  - text: 昭和29年（1954年）12月1日に木下町・大森町・船穂村・永治村の一部が合併して印西町が誕生した（印西市広報「合併特別号」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inzai-city-gappei-pdf
+  - text: 新町名「印西町」は住民から公募して決定され、この地区が印旛郡の西部に当たることから従来より「印西地方」と呼ばれ親しみ深い名称であったこと、公募の結果も「印西町」を希望するものが最も多かったことが理由として市の広報に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inzai-city-gappei-pdf
+  - text: 平成8年（1996年）4月1日に市制を施行して印西市が誕生し、県内で31番目、全国で666番目の市となった（印西市広報）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inzai-city-gappei-pdf
+  - text: 平成22年（2010年）3月23日に印旛村・本埜村を編入し、新「印西市」が誕生した（印西市広報「合併特別号」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inzai-city-gappei-pdf
+  - text: 昭和41年（1966年）に千葉県が首都圏の宅地需要に対応するため千葉ニュータウン計画を立て、市域はその開発の中核となった（印西市広報）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inzai-city-gappei-pdf
+  - text: 印西市の地方公共団体コードは122319である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 公募で「方角の名前」が勝った町
+    text: 1954年の合併で新町名を公募したとき、候補には木下や大森といった由緒ある旧町名もあったはずだが、選ばれたのは「印旛郡の西」という方角を示すだけの「印西」だった。市の広報によれば、もともと一帯が「印西地方」と呼ばれて親しまれていたうえ、公募でも希望が最も多かったという。2010年に印旛村・本埜村を編入したときも市名は変わらず、今度は「印旛」の名を持つ村が「印西」の市に吸収される形になった。
+    sources:
+    - w4-inzai-city-gappei-pdf
+  relations:
+  - pref/12
+  unknowns:
+  - 「印西地方」という呼び名がいつ頃から使われていたのか（明治期の文書等での用例）は確認できていない
+  - 「印旛」自体の語源（印旛沼・印旛郡の名の由来）は本レコードの範囲では確認していない
+  updated: '2026-11-13'
+- id: muni/12-君津市
+  code: '122254'
+  names:
+    ja: 君津市
+    reading: きみつし
+    aliases:
+    - 君津町
+    - 君津郡
+  user_terms:
+  - きみつ
+  - 君津
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は郡名「君津郡」に由来する。君津郡は明治に生まれた郡名で、当初は「木更津郡」と提案されていたと君津市公式は紹介する。自治体名の「君津町」は昭和18年（1943年）に周西村と八重原村の合併で初めて現れ、昭和の合併でも「君津地域の中心」であることが理由に選ばれ、昭和46年（1971年）の市制で君津市となった。郡名自体の語源は確定していない。
+  first_attestation:
+    era: 明治
+    year_western: null
+    document: 君津郡の設置（君津市公式「名前のひみつ」による紹介）
+    note: 「君津」という名は郡名として明治に現れたものと市公式資料は説明する。これより古い地名としての用例は今回確認できなかったため、年は null とした。
+  claims:
+  - text: 君津市公式サイト「名前のひみつ」は、明治に生まれた「君津郡」の名は、当初は「木更津郡」と提案されていたと紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-kimitsu-city-namae
+  - text: 自治体名としての「君津町」は、昭和18年（1943年）に周西村と八重原村が合併したときに初めて登場した（君津市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-kimitsu-city-namae
+  - text: 1943年の「君津町」の命名理由を書いた公文書は残っておらず、「君津郡の中央を占める位置にある」と「必ず君津郡の中核に発展する」という二説が伝えられている（君津市公式。『君津町誌』（1962年）は前者の趣旨を記すと紹介される）
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-kimitsu-city-namae
+  - text: 昭和45年（1970年）6月には、木更津市を含めた合併後の新市名として「君津木更津市」が提案されたが、庁舎の位置と市名が折り合わず合併協議会は解散した（君津市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-kimitsu-city-namae
+  - text: 現在の君津市のもとになった君津町は、合併関係五町村の位置が従来「君津地域」と呼ばれてきた地域の中心部にあたることを理由に「君津町」と称することとされ、市制施行後も名前が引き継がれて君津市となった（君津市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-kimitsu-city-namae
+  - text: 君津郡は明治30年（1897年）4月1日の郡再編で、天羽郡・周淮郡・望陀郡が統合した郡として再編された（郡の変遷を一覧する資料による）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-gunmei-chiba
+  - text: 君津市の地方公共団体コードは122254である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 幻の「君津木更津市」
+    text: 1970年、君津と木更津を含む広域合併の協議で、新しい市の名前として「君津木更津市」が提案されたことがある。両市の名を連ねた妥協案だったが、庁舎の位置と市名をめぐって折り合いがつかず、協議会自体が解散してしまった。もし実現していれば、日本でも有数の長い市名が生まれていたことになる。なお君津市公式によれば、そもそも明治に君津郡が生まれるときも当初案は「木更津郡」で、君津と木更津は郡名の段階から競い合ってきた間柄である。
+    sources:
+    - w4-kimitsu-city-namae
+  relations:
+  - pref/12
+  - muni/12-木更津市
+  unknowns:
+  - 「君津」という語自体の語源（なぜこの字と読みが郡名に選ばれたのか）は市公式資料でも明示されておらず未確認である
+  - 君津郡の発足・再編の時期については資料により表記の揺れがあり、郡区町村編制法下での郡の扱いまで遡った確認はできていない
+  - 小糸川など市域の河川名と「君津」の語源的な関係は確認できなかった
+  updated: '2026-11-13'
+- id: muni/12-四街道市
+  code: '122289'
+  names:
+    ja: 四街道市
+    reading: よつかいどうし
+    aliases:
+    - 四街道町
+    - 四ツ街道
+    - 千代田町
+    - 旭町（印旛郡）
+  user_terms:
+  - よつかいどう
+  - 四街道
+  - 四街道十字路
+  naming_type: その他
+  prefecture: 千葉県
+  homonyms: []
+  summary: 四街道は、成田山道・千葉町道・東金道・船橋道と四方向へ街道が分かれる十字路の呼び名に由来する。その十字路には明治14年（1881年）建立の道標石塔が現存し、市は「四街道地名発祥の地」とする。同じ1881年に郵便局名として「四街道」が認可されたのが公的な名の始まりとされ、昭和30年（1955年）に千代田町と旭町が合併して四街道町となり、昭和56年（1981年）に市制を施行した。
+  first_attestation:
+    era: 明治14年
+    year_western: 1881
+    document: 四街道十字路の道標石塔の建立と四街道郵便局の開設
+    note: 十字路の呼び名としての「四つ角」「四ツ街道」はそれ以前からあったとされるが、石塔の建立と郵便局名の認可という形で「四街道」の名が公に現れるのは1881年である。
+  claims:
+  - text: 四街道市は、JR四街道駅の南西約500メートルにある四街道十字路を「四街道地名発祥の地」とし、文字通り4方向への道が伸びていることを公式サイトで紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yotsukaido-city-chimei
+  - text: 四街道十字路の傍らには明治14年（1881年）2月に建てられた駒形方形の道標石塔があり、各面に船橋道方面・千葉町道方面・東金道・馬渡道方面・成田山道方面と4つの街道の名が書き記されている（四街道市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yotsukaido-city-chimei
+  - text: 呼び名は「四つ角」から「四ツ街道」を経て「四街道」になったとされ、1881年に四つ角に私設郵便局が開設した際、初代局長の福島和吉が局名を「四街道」とするよう県に懇願し認可されたのが始まりとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yotsukaido-wiki
+  - text: 古くから現在の千葉市寒川（南西）、船橋市（西）、佐倉市（北西）、千葉市中台（南東）へと4方向の街道が交わる交通の要衝であったことが「四街道」の名の背景である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yotsukaido-wiki
+  - text: 昭和30年（1955年）に印旛郡千代田町と旭町が合併して四街道町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yotsukaido-wiki
+  - text: 昭和56年（1981年）4月1日に市制を施行して四街道市となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yotsukaido-wiki
+  - text: 四街道市の地方公共団体コードは122289である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郵便局が地名を決めた町
+    text: 四街道の名は、もともと原野の中の十字路の呼び名にすぎなかった。1881年、その四つ角に私設郵便局が開かれるとき、初代局長の福島和吉が局名を「四街道」としてほしいと県に懇願し、認可されたという。郵便局の名前として公に認められたことが、土地の呼び名を公式の地名へと押し上げた。市が「地名発祥の地」とする十字路には、今も同じ年（1881年）に建てられた道標石塔が立っている。
+    sources:
+    - w4-yotsukaido-wiki
+    - w4-yotsukaido-city-chimei
+  relations:
+  - pref/12
+  unknowns:
+  - 「四つ角」の呼び名がいつ頃からあったのか、江戸期の文書での用例は確認できていない
+  - 1955年の合併の相手である印旛郡旭町は千葉県旭市とは別の自治体（同名だが無関係）であり、旭町側の町村史での確認はできていない
+  updated: '2026-11-13'
+- id: muni/12-大網白里市
+  code: '122394'
+  names:
+    ja: 大網白里市
+    reading: おおあみしらさとし
+    aliases:
+    - 大網白里町
+    - 大網町
+    - 白里町
+    - 大網郷
+  user_terms:
+  - おおあみしらさと
+  - 大網
+  - 白里海岸
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 大網白里市は、昭和29年（1954年）に大網町・増穂村・白里町が合併して生まれた大網白里町が、平成25年（2013年）に市制を施行したもので、市名は旧町名「大網」と「白里」を連ねた合成名である。大網は中世以来の大網郷の名で、文禄元年（1592年）の『家忠日記』に「大あミ」と見える。白里は九十九里浜にちなむ名で、「百」から「一」を取ると「白」になるという命名の説明が伝えられる。
+  first_attestation:
+    era: 文禄元年
+    year_western: 1592
+    document: 『家忠日記』文禄元年12月6日条「大あミ」（『日本歴史地名大系』が紹介）
+    note: 「大網」の用例として専門辞典が紹介するもので、文書そのものは二次資料経由の確認である。なお「白里」の名は明治22年（1889年）の白里村発足に始まる。
+  claims:
+  - text: 昭和29年（1954年）に大網町・増穂村・白里町が合併して大網白里町が誕生し、平成25年（2013年）1月1日に市制を施行して大網白里市となった（大網白里市公式統計書「データ大網白里」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-oami-city-data
+  - text: 『日本歴史地名大系』は、文禄元年（1592年）の『家忠日記』に「大あミ」とあること、文禄3年の上総国村高帳に大網村の村名が見えることを紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w4-kotobank-oami
+  - text: 中世の天正19年（1591年）には「山野辺之庄大網郷」が見え、正保国絵図には大網町、寛文5年（1665年）の朱印状には大網郷とあるなど、大網は近世を通じてこの地の中心的な地名であった（『日本歴史地名大系』の紹介）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w4-kotobank-oami
+  - text: 白里の名は九十九里浜に由来し、漢字の「百」から「一」を取ると「白」となるからであると説明される（大網白里町の市制施行名称検討委員会の資料を引く紹介による）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-shirasato-wiki
+  - text: 白里村は明治22年（1889年）4月1日に四天木村・細草村・北今泉村・南今泉村が合併して山辺郡白里村として発足し、昭和10年（1935年）に町制を施行して白里町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-shirasato-wiki
+  - text: 明治2年（1869年）から明治4年（1871年）までの間、宮谷県の県庁が本国寺に置かれ、この地が県政の中心地となった時期がある（大網白里市公式統計書）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-oami-city-data
+  - text: 大網白里市の地方公共団体コードは122394である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「百」から「一」を引くと「白」
+    text: 白里という名の説明は、ちょっとした文字遊びである。東に広がる九十九里浜の「九十九里」から「里」を取り、「百」の字から「一」を引くと「白」になる。だから白里。九十九里そのものを名乗る隣の九十九里町とは対照的に、数字を分解して作られた地名である。この説明は、大網白里町が市制を施行する際に名称を検討した委員会の資料でも紹介されていたという。1889年に白里村が生まれたとき、すでにこの理屈で名が付けられたと伝えられる。
+    sources:
+    - w4-shirasato-wiki
+  relations:
+  - pref/12
+  unknowns:
+  - 「大網」の語源（大きな漁網や網代に由来するのか等）は、確認した『日本歴史地名大系』の抜粋範囲では明示されておらず未確認である
+  - 「百から一を取って白」という白里の命名説は名称検討委員会資料を引く二次的な紹介に依拠しており、明治22年当時の記録そのものは確認できていない
+  - 増穂村など合併した他の旧村名の由来は本レコードでは扱っていない
+  updated: '2026-11-13'
+- id: muni/12-富津市
+  code: '122262'
+  names:
+    ja: 富津市
+    reading: ふっつし
+    aliases:
+    - 富津町
+    - 布流津
+    - 古津
+  user_terms:
+  - ふっつ
+  - 富津岬のある市
+  - 富津
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 富津は富津岬を擁する東京湾岸の地名で、語源には4説あると富津市史は紹介する。古い港の意の「古津（ふるつ）」、古語で突き出た所をいう「ほと」、日本武尊と弟橘媛の伝説に由来する「布流津（ふるつ）」、刀を振る音「ふつ」である。昭和46年（1971年）に富津町・大佐和町・天羽町が合併して富津町ができ、同年に市制を施行した。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: 中世の文書に見える「ふんと」（富津市公式「地名の由来」が『富津市のあゆみ』の記述として紹介）
+    note: 「富津」の音につながる記録として市公式が紹介するものだが、具体的な文書名・年代は示されていないため、年は null とした。
+  claims:
+  - text: 富津市公式サイトは『富津市のあゆみ』（富津市史編さん委員会編、1983年）に基づき、「ふっつ」の地名の由来には4つの説があると紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-futtsu-city-yurai
+  - text: 第1の説は「古津（ふるつ）」で、古い港という意味であり、中世の文書に出てくる「ふんと」もこの意味といわれ、今津に対するものであるという
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-futtsu-city-yurai
+  - text: 第2の説は「ほと」で、古語で突き出た所のことをいい、富津岬の地形から考えられるという
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-futtsu-city-yurai
+  - text: 第4の説は「ふつ」で、刀を振った際に発する音であり、富津岬を刀と見て霊力と結びつけたものという
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-futtsu-city-yurai
+  - text: 弟橘媛が海神の怒りを鎮めるため海に身を捧げた後、その衣の布が富津の海岸に流れ着いたことから、「布が流れてきた津」すなわち「布流津（ふるつ）」が「富津」になったという伝説が市内に伝わり、富津市は紙芝居風の動画でこの伝説を紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w4-futtsu-city-furutsu
+    - w4-futtsu-city-yurai
+  - text: 昭和46年（1971年）4月25日に富津町・大佐和町・天羽町の3町が合併して富津町となり、同年9月1日に市制を施行して富津市が誕生した（富津市公式「市の紹介」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-futtsu-city-intro
+  - text: 富津市の地方公共団体コードは122262である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「布流津」伝説と、もう一つの「津」の物語
+    text: 『古事記』『日本書紀』に記される日本武尊の東征では、妃の弟橘媛が走水の海（今の浦賀水道）に身を投げて嵐を鎮めたとされる。富津に伝わる話はその続きで、上陸した武尊のあとに媛の衣の布が富津の岸に流れ着き、「布流津（ふるつ）」の名が残ったという。同じ伝説圏には、対岸の木更津の「君去らず」の物語もある。一つの伝説が、東京湾の両岸に別々の地名の物語を生んだことになる。ただしこれはあくまで伝説であり、富津市史自身は古津説・ほと説などと並ぶ4説の一つとして扱っている。
+    sources:
+    - w4-futtsu-city-furutsu
+    - w4-futtsu-city-yurai
+  relations:
+  - pref/12
+  - muni/12-木更津市
+  unknowns:
+  - 中世の文書に見えるという「ふんと」の具体的な文書名と年代は、富津市公式ページに示されていない
+  - 「富津」の漢字表記がいつ定着したかは確認できていない
+  - 4説のうちどれが有力かは『富津市のあゆみ』でも決着しておらず、市の紹介でも併記にとどまる
+  updated: '2026-11-13'
+- id: muni/12-富里市
+  code: '122335'
+  names:
+    ja: 富里市
+    reading: とみさとし
+    aliases:
+    - 富里村
+    - 富里町
+  user_terms:
+  - とみさと
+  - 富里スイカの市
+  - 七栄・十倉
+  naming_type: 新規命名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 「富里」は明治22年（1889年）に13の集落が合併して村を作った際、「十三の里」（里は村の意）ということから名付けられたと富里市公式の歴史は説明する、明治の開拓地らしい名である。市域の七栄・十倉などの地名は、開拓の入植順序と美称を組み合わせた字名に由来する。村は後に町となり、平成14年（2002年）に市制を施行した。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 富里村の成立（富里市公式「とみさとの歴史（近現代）」による紹介）
+    note: 自治体名「富里」の初出。
+  claims:
+  - text: 明治22年（1889年）に日吉倉・久能・大和・根木名・七栄・新橋・中沢・新中沢・立沢・立沢新田・高野・高松・十倉の13集落が合併して村を形成し、その名を「十三の里」（里はむらの意味）ということから「富里村」が誕生したと富里市公式の歴史は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tomisato-city-history
+  - text: 市域の七栄という地名は開墾が七番目に行われた所、十倉は十番目に行われた所であることから付いた名であると富里市公式の歴史は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tomisato-city-history
+  - text: 開拓地の字名は入植の順序と美称を組み合わせて付けられ、明治5年（1872年）11月2日付で正式の村名に採用されたもので、初富・二和・三咲・豊四季・五香・六実・七栄・八街・九美上・十倉・十余一・十余二・十余三という名が各地に残っている（富里市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tomisato-city-history
+  - text: 明治2年（1869年）に東京府内の豪商が政府から依頼され、多くの窮民を集めて開拓民としてこの地に送り込み、七栄の原野の開墾から富里一帯の開拓が始まった（富里市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tomisato-city-history
+  - text: 富里市は広報とみさと号外「市制20周年記念号」（2022年）を刊行しており、市制施行は平成14年（2002年）である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tomisato-city-history
+  - text: 富里市の地方公共団体コードは122335である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 番号で名付けられた開拓地の村々
+    text: 明治の初め、下総の原野に入植した開拓地では、入植の順番とめでたい言葉を組み合わせて集落に名が付けられた。1番目の初富に始まり、二和、三咲、豊四季、五香、六実、七栄、八街、九美上、十倉、そして十余一・十余二・十余三。現在の富里市にある七栄は7番目、十倉は10番目の開拓地だった。そして富里という市名自体も、13の集落が合わさった「十三の里」に由来するという。番号と数にちなむ命名が二重に重なった、開拓地ならではの地名である。
+    sources:
+    - w4-tomisato-city-history
+  relations:
+  - pref/12
+  unknowns:
+  - 「十三の里」がなぜ「富里」の字に置き換えられたのか（「富」の字を選んだ理由）は、富里市公式の歴史では明示されていない
+  - 富里村が町制を施行した年次など、村から市への中間の沿革の詳細は市公式ページの抜粋範囲では確認できなかった
+  - 合併した13集落それぞれの古い地名の語源は未調査である
+  updated: '2026-11-13'
+- id: muni/12-山武市
+  code: '122378'
+  names:
+    ja: 山武市
+    reading: さんむし
+    aliases:
+    - 山武町（さんぶ）
+    - 山武郡（さんぶぐん）
+    - 成東町
+  user_terms:
+  - さんむ
+  - さんぶ（旧い読み）
+  - 山武杉の産地
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 山武市は平成18年（2006年）に山武郡の成東町・山武町・蓮沼村・松尾町が合併して発足した。市名は郡名「山武」を継承したが、読みは合併前の郡・町で使われていた「さんぶ」ではなく、武射郡の「むさ」に連なる古い読み「さんむ」を採用した。山武郡は明治30年（1897年）に山辺郡と武射郡の統合で生まれた合成郡名であり、現在も郡の読みは「さんぶぐん」のままである。
+  first_attestation:
+    era: 明治30年
+    year_western: 1897
+    document: 山武郡の発足（山辺郡・武射郡の統合）
+    note: 郡名「山武」の初出。山辺郡の「山」と武射郡の「武」を取った合成郡名である。読みは長く「さんぶ」とされてきたが、市は古い読みという「さんむ」を採用した。
+  claims:
+  - text: 平成18年（2006年）3月27日に山武郡成東町・山武町・蓮沼村・松尾町が合併して山武市が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-sanmu-wiki
+  - text: 合併以前は山武郡・山武町とも読みは「さんぶ」であったが、現在の山武市の読みは「さんむ」である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-sanmu-wiki
+  - text: 「さんむ」は武社国造や武射郡の読み方「むさ」を受け継いだ古い歴史的な読み方であり、1975年あたりからいつの間にか「さんぶ」に変わってしまったため、重い歴史を持った「さんむ」の方が新しい市に相応しいとして市の読みに採用されたという
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-sanmu-wiki
+  - text: 「山武郡」は現在も「さんぶぐん」が正式な読みであり、市と郡とで「山武」の読みが異なっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-sanmu-wiki
+  - text: 山武郡は明治30年（1897年）4月1日に山辺郡（やまべ）と武射郡（むさ）が統合して発足した郡で、郡名は両郡の名から一字ずつを取った合成名である（郡の変遷を一覧する資料による）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-gunmei-chiba
+  - text: 当初の合併計画は東金市・九十九里町を含むもので、平成15年（2003年）12月25日に山武地域合併協議会が新市名を「九十九里市」と決定していたが、この計画は実現しなかった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-sanmu-wiki
+  - text: 山武市の地方公共団体コードは122378であり、総務省の一覧でも読みは「サンムシ」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 失われた読みを「復活」させた市名
+    text: 平成の大合併で生まれた市の多くは新しい市名を作ったが、山武市は郡の名をそのまま受け継ぎながら、読みの方を変えた。長く「さんぶ」と読まれてきた「山武」を、武射郡の古い読み「むさ」に連なる「さんむ」に戻したのである。ところが合併後も山武郡は残り、その読みは「さんぶぐん」のままである。同じ「山武」という字が、市では「さんむ」、郡では「さんぶ」と読み分けられる珍しい状態が続いている。
+    sources:
+    - w4-sanmu-wiki
+  relations:
+  - pref/12
+  unknowns:
+  - 「さんむ」の読みを新市の正式な読みに採用した経緯を示す合併協議会の公式資料は今回確認できず、Wikipedia の記述に依拠した
+  - 武射（むさ）という郡名自体の語源、山辺（やまべ）の語源は確認できていない
+  - 「さんぶ」への読みの変化が1975年頃という年代の根拠も未確認である
+  updated: '2026-11-13'
+- id: muni/12-市原市
+  code: '122190'
+  names:
+    ja: 市原市
+    reading: いちはらし
+    aliases:
+    - 市原郡
+    - 市原町
+  user_terms:
+  - 市原市の名前の由来
+  - 市原は郡の名前だったのか
+  - 五井や姉崎との合併
+  - 一郡一市とは
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は、合併した5町が属していた旧・上総国市原郡の郡名を受け継いだもの。1963年に五井町・姉崎町・市原町・市津町・三和町が合併して市制を施行し、1967年には郡の残り全域を編入して「一郡一市」となった。「市原」の地名自体は『万葉集』に見えると市の広報は紹介し、由来にはイチイガシの木が茂っていたとする説と、原に市場が立ったとする説がある。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『万葉集』
+    note: 市原市の広報特集が、「市原」という地名はすでに万葉集に見ることができると地方史研究の成果として紹介する。具体的な歌・巻数は未確認
+  claims:
+  - text: 市原市の広報特集は「市原」の由来として、イチイガシ（櫟）の木がこの地によく合って生い茂っていたためとする説と、昔、原に市場（市）が立ったことからとする説の2つを紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l2-ichihara-koho
+  - text: 同じ特集は、「市原」という地名がすでに『万葉集』に見ることができると、地方史研究の成果として紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-ichihara-koho
+  - text: 五井については、刀鍛冶が名刀を鍛える水を求めて井戸を掘り続け、5つ目の井戸水でようやく名刀を鍛えることができたので「五井」と名付けたという伝説が、地名辞典の説として市の広報に紹介されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - l2-ichihara-koho
+  - text: 昭和38年（1963）5月1日、市原郡五井町・姉崎町・市原町・市津町・三和町の5町が合併して市制を施行し、市原市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-ichihara-kyoiku
+  - text: 昭和42年（1967）10月には南総町・加茂村を合併し、旧市原郡の全域を市域とする「一郡一市」の広域市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-ichihara-kyoiku
+  - text: 合併した5町はいずれも市原郡に属しており、新市の名にはその郡名「市原」が用いられた。合併の前年には、千葉市の大千葉市構想に対抗して五井町と姉崎町が「南葉町」を発足させる計画もあったが中止されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-ichihara-kyoiku
+  - text: 総務省の全国地方公共団体コードで、市原市の団体コードは122190と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一郡一市という大きな市
+    text: 市原市は、千葉県で最も広い市の一つです。その広さは、旧市原郡のほぼ全域をそのまま市域にしたことに由来します。1963年、五井・姉崎・市原・市津・三和の5町が合併して市原市が発足し、1967年には残りの南総町・加茂村も合併して、郡と市が一対一で重なる「一郡一市」が実現しました。発足の前年には、千葉市が周辺を取り込む「大千葉市」構想への対抗から、五井町と姉崎町が「南葉町」という別の市を作る計画まで浮上しています。幻の南葉町と、郡名をそのまま名乗る市原市。合併の駆け引きの末に選ばれたのが、奈良時代から続く郡の名前でした。
+    sources:
+    - l2-ichihara-kyoiku
+  relations:
+  - pref/12
+  unknowns:
+  - 『万葉集』に見えるという「市原」の歌の特定（巻・歌番号）は、本バッチでは確認できていない
+  - 郡名「市原」自体の成立時期や、律令期の市原郡の初出文献は確認できていない
+  updated: '2026-11-13'
+- id: muni/12-市川市
+  code: '122033'
+  names:
+    ja: 市川市
+    reading: いちかわし
+    aliases:
+    - 市河
+    - 市川町
+  user_terms:
+  - 市川市の名前の由来
+  - 市川の語源は一の川か市場か
+  - 下総国府はどこにあったのか
+  - 真間の手児奈伝説
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 「市川」の語源には、江戸川が東国一の川だったことから「一の川」が訛ったとする説と、河岸に市が開かれていたことに由来する説の2つが有力とされる。1934年の市制施行では、新市名に旧町村名を使わない原則のもとで江東市・総府市など5候補が検討されたが、結局もっとも発展していた市川町の名が採用された。
+  first_attestation:
+    era: 室町時代
+    year_western: null
+    document: 『義経記』
+    note: 「松戸庄市河」としての初出。作中の出来事は治承4年（1180）の源頼朝の進軍である
+  claims:
+  - text: 市川の名称の由来には、市西端に流れる江戸川が当時東国一の川であったことから「一の川」が訛ったとする説と、江戸川の河岸に川舟が集まり定期的に市が開かれていたことに由来するという説の2つが有力である
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 市川の地名が初めて登場するのは『義経記』で、石橋山の戦いに敗れ安房で再起した源頼朝が、軍勢を率いて下総の松戸庄市河に達するという記述である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 律令制のもとでは、市域の国府台に下総国の国府（国庁）と国分寺・国分尼寺が置かれ、現在の市川市域は下総国の中心地であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 真間には、国造の娘とされる絶世の美女・手児奈の伝説があり、『万葉集』にも真間を詠んだ歌が収められる。行基が手児奈の霊を慰めるために弘法寺を開いたと伝えられる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 1934年の合併協議では当初、新市名に旧町村名を使用しないことが原則とされ、協議案に「江東市」「東葛市」「下総市」「北総市」「総府市」の5候補が挙がったが、いずれも新興都市の金字塔にはふさわしくないとして退けられた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 江戸川水運の中継地として最も発展していた市川町は、地名が人々に馴染み深いことや、縦と横に書いてどちらから読んでも「市川市」と読める語呂の良さを理由に「市川市」を提案し、中山町が庁舎位置などで譲歩する形で市名が「市川市」に決定した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 昭和9年（1934）11月3日、市川町・八幡町・中山町・国分村が合併して市川市が発足した。千葉県内では千葉市、銚子市に次いで3番目の市制施行である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-ichikawa-wikipedia
+  - text: 市川市立図書館は市内の町名の由来をまとめた地域資料として、『市川市の町名』（1987年）や広報連載「市川のまち 地名の由来」などの索引を公開している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-ichikawa-library
+  - text: 総務省の全国地方公共団体コードで、市川市の団体コードは122033と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた候補「総府市」たち
+    text: 1934年、市川町・八幡町・中山町・国分村の合併で新市を作る際、名前は難航しました。当初の原則は「旧町村名を使わない」ことで、候補には江東市・東葛市・下総市・北総市・総府市の5つが並びます。しかし市川町はこれらを「田臭味百パーセント」と切り捨てました。総武線の案内表示で「市川」の名は既に人々に馴染んでいること、縦書きでも横書きでも「市川市」と読める語呂の良さを掲げて「市川市」を主張し、最終的に中山町が庁舎の位置などで譲歩して決着しました。下総国府の「総府」を名乗る案があったこと自体、この土地の古さを物語っています。
+    sources:
+    - l2-ichikawa-wikipedia
+  relations:
+  - pref/12
+  unknowns:
+  - 市川市立図書館が公開する『市川市の町名』所収の「市川」の語源説は、スキャンPDFの本文を本バッチでは読み取れなかったため未確認である
+  - 語源の2説（一の川説・市場説）について、専門の地名辞典での検証は今後の課題である
+  updated: '2026-11-13'
+- id: muni/12-成田市
+  code: '122114'
+  names:
+    ja: 成田市
+    reading: なりたし
+    aliases:
+    - 成田町
+    - 成田村
+    - 成田郷
+  user_terms:
+  - なりた
+  - 成田山のある市
+  - 成田空港の市
+  - 新勝寺の門前町
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は中世以来の地名「成田」を受け継ぐ。成田は下総国埴生郡の成田郷の名で、応永15年（1408年）の仏像の胎内銘が地名の初見と成田市立図書館は紹介する。成田山新勝寺の門前町として発展し、昭和29年（1954年）に成田町など7町村が合併して成田市が発足した。語源は『成田市史』が鳴田説と熟田説を併記し、決着はしていない。
+  first_attestation:
+    era: 応永15年
+    year_western: 1408
+    document: 安養寺聖観音菩薩坐像胎内銘「成田郷 応永十五年」
+    note: 成田市立図書館「成田のあゆみ」が「成田の地名の初見」として紹介する像内銘。郷名としての使用例の初出であり、銘そのものを直接確認したものではないため二次資料経由の紹介として扱う。
+  claims:
+  - text: 成田市立図書館の年表は、応永15年（1408年）に成田村安養寺の聖観音菩薩坐像の胎内に「成田郷 応永十五年」の銘が見えることを「成田の地名の初見」として紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-narita-library-history
+  - text: 『成田市史 民俗編』は「成田」の語源として、昔から雷鳴が多いので雷の鳴る田の意から鳴田（ナルタ）が成田に転じたという説と、稲のできがよい土地なので熟田（ナリタ）とつけたという説の2説を記している（成田市立図書館のレファレンス回答による紹介）
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-narita-ndl-reference
+  - text: 『成田市史 民俗編』の当該項目の著者は、上記2説よりも、田を開発した「田に成る」こと、または生業（なりわい）に由来すると考えたいと記している（成田市立図書館のレファレンス回答による紹介）
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-narita-ndl-reference
+  - text: 成田市立図書館の年表によれば、明治22年（1889年）に成田町が発足し、成田は成田山新勝寺の門前町として近世から参詣客で賑わった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-narita-library-history
+  - text: 昭和29年（1954年）に成田町・公津村・八生村・中郷村・久住村・豊住村・遠山村の7町村が合併して成田市が誕生した（成田市立図書館の年表）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-narita-library-history
+  - text: 昭和53年（1978年）に市内三里塚に成田空港が開港した（成田市立図書館の年表）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-narita-library-history
+  - text: 成田市の地方公共団体コードは122114である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県内にもう一つの「成田」があった
+    text: 千葉県内には、かつて成田という名の村がもう一つあった。現在の旭市の一部で、明治22年（1889年）に網戸村・成田村・十日市場村・太田村が合併して旭町が生まれている。こちらの成田村は海上郡に属した村で、下総国埴生郡の成田郷に由来する成田市の「成田」とは無関係の同名地名である。同じ県の中に、空港と門前町で知られる大きな成田と、旭町に吸収されて消えた小さな成田があったことになる。
+    sources:
+    - w4-asahi-city-yurai-pdf
+  relations:
+  - pref/12
+  - muni/12-旭市
+  unknowns:
+  - 「成田郷」が『和名類聚抄』などの古代の文献に見えるかどうかは今回確認できなかった
+  - 語源は成田市史でも鳴田説・熟田説・「田に成る」説が併記されたままで決着していない
+  - 応永15年の胎内銘は成田市立図書館の年表による紹介であり、銘文そのものを直接確認したものではない
+  updated: '2026-11-13'
+- id: muni/12-我孫子市
+  code: '122220'
+  names:
+    ja: 我孫子市
+    reading: あびこし
+    aliases:
+    - 我孫子町
+    - 安孫子
+  user_terms:
+  - 我孫子ってどういう意味
+  - あびこの由来
+  - 難読地名あびこ
+  - 手賀沼のまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は我孫子町以来の地名「我孫子（あびこ）」を継いだもの。資料上の最古の用例は鎌倉時代末・正和2年（1313年）の譲状の「あひこのむら」と市公式は説明する。古代には「我孫子」は氏（うじ）や姓の名であり、大和政権が直轄地やその住民にこの名を付けたことが地名の起こりと考えられている。1955年の合併を経て1970年に市制を施行した。
+  first_attestation:
+    era: 正和2年
+    year_western: 1313
+    document: 尼しんねん譲状
+    note: 我孫子市公式が市域を指す「アビコ」の資料的に最古のものとする（「しもつさのくにあひこのむら」とある）。文書そのものの直接確認は未了のため市公式経由で記録する
+  claims:
+  - text: 我孫子市公式によれば、市域をさす「アビコ」として資料的に最古のものは、鎌倉時代末の正和2年（1313年）の「尼しんねん譲状」に「しもつさのくにあひこのむら」（下総国我孫子村）とあるものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-abiko-city-chisei
+  - text: 同公式によれば、奈良・平安時代の公式文書では市域周辺は「下総国相馬郡」と呼ばれていて、我孫子という地名は確認されていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-abiko-city-chisei
+  - text: 古代において「我孫子」は氏（ウジ）や姓（カバネ）にかかわる名で人名として使われており、「阿毘古」「我孫公」という人の記録が残されている（我孫子市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-abiko-city-chisei
+  - text: 大王や大和地方の有力豪族が地方豪族を支配下に置く際、豊かな土地を直轄地とし、土地やそこに住む人々に「我孫子」という名前を付けたと考えられ、全国各地に「我孫子」「安孫子」「吾孫子」の地名や人名が認められる（我孫子市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-abiko-city-chisei
+  - text: 市内には4世紀後半の前方後円墳・水神山古墳（全長69メートル、千葉県北西部地区最大）があり、古墳時代の早い時期から大和政権とつながった人物がいたと考えられる（我孫子市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-abiko-city-chisei
+  - text: 1955年（昭和30年）4月に我孫子町・布佐町・湖北村が合併して我孫子町となり、1970年（昭和45年）7月に市制を施行した（我孫子市公式。地方公共団体コードは122220）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-abiko-city-chisei
+    - k1-jlis-chiba
+  - text: 市制施行日は1970年7月1日である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m5-uub-chiba-cities
+  column:
+    title: 人の名が土地の名になった
+    text: 「あびこ」は難読地名として知られるが、その正体は地名である前に人の名だった。古代、「我孫子」は氏や姓として人名に使われ、大和政権が直轄地とした土地と住民にこの名を付けたと考えられている。だから我孫子・安孫子・吾孫子の名は全国に散らばっている。1313年の譲状に「あひこのむら」と現れるこの土地の名も、その広がりの一つである。
+    sources:
+    - m5-abiko-city-chisei
+  relations:
+  - pref/12
+  unknowns:
+  - 「我孫子」の名がこの土地に付けられた具体的な経緯は市公式も推測の形で述べており、確定資料はない
+  - 正和2年の「尼しんねん譲状」原文の直接確認は未了
+  updated: '2026-11-13'
+- id: muni/12-旭市
+  code: '122157'
+  names:
+    ja: 旭市
+    reading: あさひし
+    aliases:
+    - 旭町
+    - 網戸村
+  user_terms:
+  - あさひ
+  - 千葉の旭
+  - 干潟八万石のある市
+  naming_type: 新規命名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 「旭」は明治22年（1889年）に網戸村など4村の合併で旭町が発足した際の新名で、旭市は、木曽義昌の旧跡を訪れた国学者野々口隆正の歌「信濃より いづる旭を…」を由来として説明する。旧旭市は昭和29年（1954年）に市制を施行し、平成17年（2005年）に海上町・飯岡町・干潟町と合併して現在の旭市になった。昭和45年（1970年）に愛知県旭町が市制を施行する際、この旭市との同名を避けて「尾張旭市」と改称している。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 旭町の成立（町村制施行時の合併命名、旭市公式資料）
+    note: 自治体名「旭」の初出。合併前の中心地・網戸の名は、戦国期に木曽義昌が拠った地としてそれ以前から見える。
+  claims:
+  - text: 旭市公式資料によれば、明治22年（1889年）4月1日に網戸村・成田村・十日市場村・太田村が合併して旭町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-asahi-city-yurai-pdf
+  - text: 旭市は「旭の由来」として、国学者の野々口隆正が嘉永5年（1852年）に木曽義昌の旧跡を訪れて詠んだ歌「信濃より いづる旭をしたひ来て 東のくにに 跡とどめけむ」を挙げ、これを由来に明治22年（1889年）に旭という地名が誕生したと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-asahi-city-yurai-pdf
+  - text: 旭市の人物誌『あさひ 輝いた人々』は、この歌が「旭市の地名の由来とも言われている」と留保付きで紹介しており、歌の背景には、信濃の木曽氏（木曽義仲の子孫とされる木曽義昌）が東国に移って網戸の地に跡をとどめたという物語がある
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - w4-asahi-city-shishi-pdf
+  - text: 昭和29年（1954年）に旭町は矢指村・富浦村・豊畑村・共和村などと合併したうえで市制を施行し、旧旭市が発足した（旭市公式資料の廃置分合の記録）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-asahi-city-yurai-pdf
+    - w4-asahi-city-shishi-pdf
+  - text: 平成17年（2005年）7月1日に旭市・海上町・飯岡町・干潟町が合併して新しい旭市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-asahi-city-shishi-pdf
+  - text: 昭和45年（1970年）に愛知県の旭町が市制を施行する際、そのまま「旭市」とすると千葉県旭市と同名になるため、同名回避のために旧国名の「尾張」を冠して「尾張旭市」となったと記録される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v5-owariasahi-wiki
+  - text: 旭市の市の花ツバキは、干潟八万石がかつて「椿の海」と呼ばれたことにちなむと市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-asahi-city-yurai-pdf
+  - text: 旭市の地方公共団体コードは122157である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 千葉の市名が、愛知の市の名前を変えた
+    text: 1970年、愛知県の旭町が市制を施行するとき、そのままでは「旭市」となって千葉県の旭市と同名になってしまう。そこで旧国名の「尾張」を頭に付けて「尾張旭市」が誕生した。千葉の旭市から見れば、自分たちの市名が、遠く離れた愛知県の新しい市の名前の形を決めたことになる。同名回避のために改名した側の事情は尾張旭市のレコードに詳しいが、その「相手」はこの旭市である。
+    sources:
+    - v5-owariasahi-wiki
+    - w4-asahi-city-yurai-pdf
+  relations:
+  - pref/12
+  - muni/23-尾張旭市
+  - muni/12-成田市
+  unknowns:
+  - 明治22年の旭町命名に際して野々口隆正の歌が実際に参照されたことを示す当時の公文書は確認できておらず、歌と命名を結ぶ説明は市の公式資料の紹介による
+  - 合併前の網戸・十日市場・太田などの個別の地名の語源は未調査である
+  updated: '2026-11-13'
+- id: muni/12-木更津市
+  code: '122068'
+  names:
+    ja: 木更津市
+    reading: きさらづし
+    aliases:
+    - 木佐良津
+    - 木更津町
+    - 木更津県
+  user_terms:
+  - 木更津ってどういう意味
+  - 君さらずのまち
+  - きさらづの由来
+  - 証城寺の狸ばやしのまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は中世以来の港町の名「木更津」を継いだもの。語源は日本武尊と弟橘媛の「君さらず」伝説に結びつける説が通説として紹介されるが、「如月の津」「木足らず」などの諸説もあり確定していない。最古級の表記は1353年の文献の「木佐良津」とされる。1942年に木更津町など4町村が合併して市制を施行した。
+  first_attestation:
+    era: 文和2年
+    year_western: 1353
+    document: 木佐良津と記された文献
+    note: Wikipediaが紹介する最古の文章用例で、文書名の特定は未了。一方、木更津市教育委員会の資料は「『きさらづ』の名が文献に現れてきたのは鎌倉時代に入ってから」とする
+  claims:
+  - text: 木更津市教育委員会の資料は、「きさらづ」の名が文献に現れてきたのは鎌倉時代に入ってからであると記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-kisarazu-city-edu
+  - text: 木更津の名が使われ始めた最も古い文章は1353年（文和2年）の文献で、「木佐良津」と記されていると紹介される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-kisarazu-wikipedia
+  - text: 語源については「君不去（きみさらず）」が元になったという説が通説とされる一方、「如月の津」が転じたとする説や「木足らず」が訛ったとする説もあり、定説は確定していない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - m5-kisarazu-wikipedia
+  - text: 日本武尊が相模の走水から上総へ渡ろうとした際、妃の弟橘媛が海神を鎮めるために海に身を投じ、尊がこの地を去りがたく思ったことから「君さらず」と呼ばれたという伝説が、木更津市教育委員会の資料に記される
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - m5-kisarazu-city-edu
+  - text: 木更津市の中心市街地活性化基本計画は、「きさらづ」の語源は日本武尊と弟橘媛の悲話の「きみさらず伝説」にあるという説があると紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-kisarazu-city-plan
+  - text: 1871年（明治4年）に木更津県が誕生し、木更津はその県庁所在地となった（木更津市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-kisarazu-city-history
+  - text: 1942年（昭和17年）11月3日、木更津町・巖根村・清川村・波岡村が合併して市制を施行し、木更津市が発足した（地方公共団体コードは122068）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-kisarazu-city-edu
+    - m5-uub-chiba-cities
+    - k1-jlis-chiba
+  column:
+    title: 県名になった港町
+    text: 木更津は一度だけ「県の名前」になったことがある。明治4年（1871年）に木更津県が置かれ、その県庁所在地となった。しかし明治6年（1873年）に印旛県と合併して千葉県ができると、木更津県は姿を消した。いま千葉県の中央部に残る「木更津」の名は、県名の座を譲った港町の名である。
+    sources:
+    - m5-kisarazu-city-history
+    - m5-kisarazu-wikipedia
+  relations:
+  - pref/12
+  unknowns:
+  - 語源の確定には至らず、「君さらず」説は伝説の域を出ないとされる
+  - 1353年の「木佐良津」と記された文献の文書名の特定が未了
+  - 鎌倉時代の用例（市教育委員会資料のいう文献）の具体的な文書名も未確認
+  updated: '2026-11-13'
+- id: muni/12-東金市
+  code: '122131'
+  names:
+    ja: 東金市
+    reading: とうがねし
+    aliases:
+    - 東金町
+    - 辺田方
+    - 岡山
+  user_terms:
+  - 東金ってどういう意味
+  - とうがねの由来
+  - 東金城のまち
+  - 上総の黄金町
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は東金町以来の地名「東金」を継いだもの。その名は中世の城名「鴇カ峰・鴇ヶ根（ときがね）」の転化によるといわれ、町の古称には岡山・辺田方がある。1953年に東金町と5村が合併し、翌1954年に源村・福岡村の各一部を編入して市制を施行した。
+  first_attestation:
+    era: 文禄3年
+    year_western: 1594
+    document: 上総国村高帳
+    note: 『日本歴史地名大系』が「東金町」の名の文書上の早い例として挙げるもの。地名そのものは中世の城名「鴇ヶ根（ときがね）」に由来するとされる
+  claims:
+  - text: 『日本大百科全書』によれば、東金の地名は中世に築かれた千葉氏の城名「鴇カ峰・鴇ヶ根（ときがね）」の転化によるといわれる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-togane-kotobank
+  - text: 『東金町誌』に基づく伝承として、最福寺境内の山嶺が鴇（とき）の頭に似ていることから鴇ヶ峯と称され、「トウガネ」に転訛して東金と言うようになったと伝えられる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - m5-togane-wikipedia
+  - text: 町の古称については諸説があり、『日本歴史地名大系』は古くは岡山（古代の山辺郡岡山郷の遺称地とする説）と称し、また辺田方ともいったとし、大永期に酒井氏が東金城に居城してから東金町と称したという説（『上総国誌』）と、慶長19年に東金御殿が造営されてから東金町としたという所伝を併記する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - m5-togane-kotobank-machi
+  - text: 東金市公式によれば、東金城は東金酒井氏の本城として天正18年（1590年）まで機能し、本城の初見は『鎌倉大草紙』にみえる享徳の乱初期の東常縁の家臣・浜春利が拠ったとする記事である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-togane-city-castle
+  - text: 1953年（昭和28年）に東金町と公平・丘山・大和・正気・豊成の5村が合併し、翌1954年に源村・福岡村の各一部を編入して市制を施行し、東金市となった（日本大百科全書。地方公共団体コードは122131）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-togane-kotobank
+    - k1-jlis-chiba
+  - text: 江戸時代の東金は、徳川家康の鷹狩りのための東金御殿と船橋までを結ぶ御成街道が整備され、九十九里の海産物が集まる問屋町として発展し、「上総の黄金町」とうたわれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m5-togane-kanko
+  column:
+    title: 鴇の頭の山と城の名
+    text: 東金の名の出発点は、城のあった山の名「鴇ヶ根（ときがね）」とされる。その山嶺が鴇（とき）の頭に似ていたことから名づいたという伝えが残る。城は鴇ヶ嶺城・東鐘城・鴇ヶ根城と呼ばれたのち東金城となり、戦国期には酒井氏が5代にわたって治めた。城下の町の名も「ときがね」の音を残して「とうがね」となった。
+    sources:
+    - m5-togane-kotobank
+    - m5-togane-wikipedia
+    - m5-togane-kanko
+  relations:
+  - pref/12
+  unknowns:
+  - 「東金町」と称し始めた時期については大永期説と慶長19年説が併存し、確定していない
+  - 『東金町誌』そのものの直接確認は未了（Wikipedia経由の紹介として記録）
+  - 語源の「鴇ヶ根」は城名の転化とする辞典の説明があるが、山の名自体の由来は伝承の域を出ない
+  updated: '2026-11-13'
+- id: muni/12-松戸市
+  code: '122076'
+  names:
+    ja: 松戸市
+    reading: まつどし
+    aliases:
+    - 松里
+    - 馬津
+    - 松戸町
+    - 松戸宿
+  user_terms:
+  - 松戸市の名前の由来
+  - 松戸はなぜ松戸というのか
+  - 更級日記のまつさとの渡り
+  - 松戸宿と水戸街道
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 松戸は太日川（現在の江戸川）の渡し場の集落として生まれた地名と考えられる。市の公式説明では、渡し場を意味する「馬津（うまつ）」「馬津郷（うまつさと）」が「まつさと」を経て「まつど」になったという説を紹介する。平安時代の『更級日記』の「まつさとの渡り」が最古級の用例とされる。
+  first_attestation:
+    era: 平安時代（11世紀中頃）
+    year_western: null
+    document: 『更級日記』
+    note: 「まつさとの渡り（松里の渡しの津）」と記され、現在の松戸を指す最古級の用例と考えられている
+  claims:
+  - text: 松戸市の公式サイトは地名の由来の一つとして、この地域が太日川（現在の江戸川）の津（渡し場）でもあったことから「馬津（うまつ）」とか「馬津郷（うまつさと）」と呼ばれており、それが「まつさと」になり、やがて「まつど」になったという説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l2-matsudo-yurai
+  - text: 松戸神社の伝承では、東国を巡ったヤマトタケルが従者とこの地で待ち合わせ、そこに祠を祀ったという故事から「待つ里」「まつど」「松戸」と称されたとも伝えられる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - l2-matsudo-taiyo
+  - text: 松戸市デジタルミュージアムは、平安時代に書かれた『更級日記』に描かれた「まつさとのわたりのつ」が、松戸の地名の起こりかともいわれると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-matsudo-museum
+  - text: 江戸時代には松戸・小金・馬橋が水戸街道の宿場町となり、明治11年（1878）には東葛飾郡役所が松戸に置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-matsudo-nenpyo
+  - text: 昭和18年（1943）、松戸町・高木村・馬橋村が合併し、県下7番目の市として松戸市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-matsudo-nenpyo
+  - text: 総務省の全国地方公共団体コードで、松戸市の団体コードは122076と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 旅日記に残った渡し場
+    text: 『更級日記』の作者・菅原孝標女は、少女時代を父の下総国司としての任国で過ごし、寛仁4年（1020）頃に帰京の旅へ出ました。その旅の記録に「まつさとの渡り」という渡し場が現れます。太日川（今の江戸川）の浅瀬を人や馬が渡る津が、松戸という地名の出発点だったと考えられています。川を渡る場所には人が集まり、やがて宿場ができ、松戸は水戸街道の宿場町として江戸と水戸を結ぶ要所になりました。平安の旅日記に一行だけ残る渡し場の名が、今も50万人都市の名前として生きています。
+    sources:
+    - l2-matsudo-museum
+    - l2-matsudo-yurai
+  relations:
+  - pref/12
+  unknowns:
+  - 市公式も「諸説あります」とするとおり、馬津説が定説かどうかは専門の地名辞典では本バッチで確認できていない
+  - 『更級日記』の「まつさと」が現松戸市域の渡しを指すことは比定に基づくもので、確定はしていない
+  updated: '2026-11-13'
+- id: muni/12-柏市
+  code: '122173'
+  names:
+    ja: 柏市
+    reading: かしわし
+    aliases:
+    - 東葛市
+    - 柏町
+    - 千代田村
+    - 柏村
+  user_terms:
+  - 柏市の名前の由来
+  - 柏はなぜ柏というのか
+  - 東葛市だった柏市
+  - 柏駅のまち
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は2段階で決まった。昭和29年（1954年）9月の合併では、構成町村の名を避けて「東葛市」と命名されたが、旧小金町の分離を契機に名称への疑問が広がり、市民の要望に応えて同年11月15日、中心地として定着していた「柏」の名に改称された。「柏」は江戸時代の柏村に遡る地名だが、その語源は市の公式資料では説明されていない。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 柏村（水戸街道沿いの村）
+    note: 市名の直接の由来である柏町は大正15年（1926年）に千代田村が町制を施行して成立した。「柏」という地名自体はそれ以前の柏村に遡るが、初出の文献と語源は本バッチでは確認できなかった
+  claims:
+  - text: 江戸時代の柏村は、明治22年（1889年）の町村制施行で新たに設けられた千代田村の一部となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-shisei
+  - text: 明治29年（1896年）に鉄道（現在のJR常磐線）が敷設されて柏駅が開業すると、柏駅を中心に市街地が形成され始めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-shisei
+  - text: 大正15年（1926年）に千代田村は町制を施行し、「柏町」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-shisei
+  - text: 昭和29年（1954年）9月1日、柏町・小金町・田中村・土村の4町村が合併して東葛市が発足した。市名は、四か町村の名称を受け継ぐことが市民の融和の妨げになると予想されたため、この地区が東葛飾郡の中央部に位置することにちなんで「東葛市」と決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+  - text: 同年10月15日に旧小金町の大部分が松戸市へ編入され、11月1日には富勢村の一部が東葛市に編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+    - k1-kashiwa-rekishi
+  - text: 旧小金町の分離を契機に住民の間から東葛市という名称に疑問がつけられ、当時の市の広報は「市民の要望に応え市の名称を柏市と変更」と伝えた。昭和29年（1954年）11月15日、市の名称変更に関する条例により、東葛市は柏市に改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+  - text: 柏市は、柏駅の設置とともに交通の要衝として市街地が形成される中で、「柏」という名前はもはや旧村名ではなく、新市にふさわしい名称として周囲から認められる存在になっていたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-kashiwa-tokatsu
+  - text: 総務省の全国地方公共団体コードで、柏市のコードは122173と定められている（J-LISの千葉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-chiba
+  column:
+    title: 75日だけ存在した市「東葛市」
+    text: 柏市の前身「東葛市」が存在したのは、昭和29年（1954年）9月1日から11月15日までの約75日間にすぎない。融和を考えて付けたはずの新市名は、合併の枠組みが崩れた（小金町の大半が松戸市へ移った）途端に存在意義を問われ、住民の要望で中心地の旧名「柏」に取って代わられた。市の名前がこれほど短期間で覆る例は珍しく、東葛市の役所看板の写真が市の公式サイトに残されている。現在の「東葛」という言葉は、高校名（県立東葛飾高校）などに生き続けている。
+    sources:
+    - k1-kashiwa-tokatsu
+  relations:
+  - pref/12
+  unknowns:
+  - 「柏」という地名自体の語源（柏の木に因む説など）は、本バッチで参照した市の公式資料では説明されておらず、専門文献での確認が今後の課題
+  - 柏村の初出文献は未確認
+  updated: '2026-11-13'
+- id: muni/12-流山市
+  code: '122203'
+  names:
+    ja: 流山市
+    reading: ながれやまし
+    aliases:
+    - 流山町
+  user_terms:
+  - 流山ってどういう意味
+  - ながれやまの由来
+  - みりんのまち
+  - 赤城山伝説のまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は流山町以来の地名「流山」を継いだもの。「流山」の記録上の初出は慶長19年（1614年）の文書とされ、由来ははっきりしない。市内の赤城山には上州赤城山の一部が流れ着いたという伝説が残る。1967年に流山町が市制を施行して流山市となった。
+  first_attestation:
+    era: 慶長19年
+    year_western: 1614
+    document: 小金之領野馬売付之帳
+    note: 流山市公式資料が「流山」の地名の記録上最初の確認とするもの（「流山喜左衛門尉」とある）。文書そのものの直接確認は未了のため市公式資料経由で記録する
+  claims:
+  - text: 流山市公式資料によれば、「流山」の地名が記録上確認されるのは慶長19年（1614年）の「小金之領野馬売付之帳」に「流山喜左衛門尉」とあるのが最初である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-nagareyama-city-gaiyo
+  - text: 同資料は、はっきりとした地名の由来はわかっていないとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-nagareyama-city-gaiyo
+  - text: 流山6丁目の赤城山の山頂にある「赤城祠碑」の碑文には、建長年間（1249〜1256年）に上州（群馬県）赤城山の一角が崩れて小山が流れ着いたとあり、「流山」の地名発祥の地と言われている（流山市公式資料）
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - m5-nagareyama-city-gaiyo
+  - text: 同資料は、建長年間に赤城山が噴火した記録はなく、この流れ着いた山の伝説に史実としての裏付けはないとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-nagareyama-city-gaiyo
+  - text: 言い伝えの諸説として、上州赤城山に生い茂っていた熊笹が流山の赤城山と同種のものであるとか、洪水の際に上州赤城神社のお札が赤城山に流れ着いて祀ったとの伝えがあることが同資料に紹介される
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - m5-nagareyama-city-gaiyo
+  - text: 1967年（昭和42年）1月1日、東葛飾郡流山町が市制を施行して流山市となった（地方公共団体コードは122203）
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m5-uub-chiba-cities
+    - k1-jlis-chiba
+  - text: 市北部の旧新川村の名は、享保年間の江戸川の改修でできた直線的な流路を新川と呼んだことに由来すると市公式資料は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-nagareyama-city-gaiyo
+  column:
+    title: 流れてきた山の伝説
+    text: 流山の地名の由来は、公式資料でも「わかっていない」とされる。その代わりに語り継がれてきたのが、赤城山の伝説である。建長年間に上州の赤城山の一角が崩れて流れ着き、小さな山になったという話で、流山6丁目の赤城山の山頂には「流山の地名発祥の地」とする碑が立つ。市公式資料は噴火の記録がないことも正直に記しており、伝説と史実の線引きがはっきりした例といえる。
+    sources:
+    - m5-nagareyama-city-gaiyo
+  relations:
+  - pref/12
+  unknowns:
+  - 「流山」の語源は市公式資料でも「わかっていない」とされ、確定できなかった
+  - 1614年以前の村名・郷名としての「流山」の用例の確認が未了
+  updated: '2026-11-13'
+- id: muni/12-浦安市
+  code: '122271'
+  names:
+    ja: 浦安市
+    reading: うらやすし
+    aliases:
+    - 浦安村
+    - 浦安町
+  user_terms:
+  - 東京ディズニーリゾートのある市
+  - ディズニーランドのまち
+  - うらやす
+  naming_type: 新規命名（明治22年（1889年）の町村制施行に伴う3村合併の際に新たに命名された）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 東京湾岸の漁師町を起源とする市。「浦安」は明治22年（1889年）に堀江・猫実・当代島の3村が合併した際に新たに名付けられた名前で、漁浦の安泰を祈る意味を込めて初代村長が命名したといわれる。昭和39年（1964年）以降は海面埋立で市域が大きく広がり、現在の市域の多くは埋立地で、埋立地の舞浜には東京ディズニーランドが開園した。旧来の漁師町の地名（堀江・猫実・当代島）と埋立地の新しい地名が同居する市である。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行に伴う浦安村の発足（浦安市公式「浦安村の誕生」が伝える）
+    note: 市名としての「浦安」の初出は命名そのもの。なお「浦安」の語自体は『日本書紀』に日本国の美称として現れる古典的な語彙で、別説ではこれにちなむともいわれる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、浦安市の団体コードは122271と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 浦安市公式サイトによれば、明治22年（1889年）の町村制施行に伴い、堀江村・猫実村・当代島村の3村が合併して浦安村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-urayasu-city-tanjou
+  - text: 浦安市公式サイトによれば、「浦安」の命名は、当時漁村であった当地の漁浦の安泰を祈願する意味で、初代村長・新井甚左衛門によって名付けられたといわれている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w5-urayasu-city-tanjou
+  - text: 浦安市公式サイトによれば、一説には、日本国は昔「浦安の国」と称したことからこの名を採用したともいわれている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w5-urayasu-city-tanjou
+  - text: 浦安市公式サイトによれば、浦安村は明治42年（1909年）に町制を施行して浦安町となり、昭和56年（1981年）4月1日に市制を施行して浦安市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-urayasu-city-tanjou
+  - text: 浦安市公式サイトによれば、昭和39年（1964年）秋から海面埋立事業が本格化し、漁民は段階的に漁業権を放棄して昭和46年（1971年）に全面放棄に至り、昭和58年（1983年）4月には埋立地の舞浜に東京ディズニーランドが開園した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-urayasu-city-tanjou
+  - text: 浦安市公式サイトの大字解説によれば、猫実の名は、大津波の被害を受けた集落の人々が堤防に松を植え「この松の根を波が越さないように」と願った「根越さね」が転じたものといわれている
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - w5-urayasu-city-chimei
+  - text: 浦安市公式サイトの大字解説によれば、当代島の名は、鎌倉時代に開墾されて人々が住みついた土地を「当代（現代の意）にできた島」であるからと名付けたといわれている
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - w5-urayasu-city-chimei
+  column:
+    title: 「浦安の国」か、漁浦の安泰か
+    text: 浦安という名には二つの由来说が並んで伝わります。一つは実務的な祈りの名で、明治22年（1889年）に3村が合併した際、初代村長が漁浦の安泰を祈って付けたというもの。もう一つは、日本の国そのものが古く「浦安の国」と呼ばれたことにちなむという格調高い説です。市公式サイトは両説を併記しています。面白いのは、その後の市の姿です。もとの陸地は堀江・猫実・当代島の漁師町だけでしたが、昭和の海面埋立で市域は大きく広がり、埋立地には「明るい海」にちなむ明海、「東京ディズニーランド」のある舞浜など、由来のまったく違う新しい地名が並ぶようになりました。古い漁師町の地名と埋立地の地名が同居するのが、今の浦安の地図です。
+    sources:
+    - w5-urayasu-city-tanjou
+    - w5-urayasu-city-chimei
+  relations:
+  - pref/12
+  unknowns:
+  - 「浦安」が県知事によって命名されたとする俗説が広く流布しているが、浦安市公式サイトの説明は初代村長・新井甚左衛門による命名としており、県知事命名説を裏付ける公的資料は確認できなかった
+  - 「浦安の国」の原典である『日本書紀』の該当箇所の原文は未読のため、記載内容の直接確認はできていない
+  updated: '2026-11-13'
+- id: muni/12-白井市
+  code: '122327'
+  names:
+    ja: 白井市
+    reading: しろいし
+    aliases:
+    - 白井郷
+    - 白井村
+    - 白井町
+  user_terms:
+  - 梨のまち
+  - しろい
+  - なし坊のまち
+  naming_type: 一部の地名（中世の郷名「白井郷」に由来し、町村制施行時に白井橋本村の通称「白井」を村名として踏襲した）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 千葉県北西部の内陸都市で、全国有数の日本梨の産地として知られる。「白井」の起源は中世の郷名「白井郷」で、慶長7年（1602年）の水帳にその名が確認できる。明治22年（1889年）に白井橋本村の通称「白井」を踏襲して白井村が置かれ、昭和39年（1964年）の町制を経て、千葉ニュータウン開発による人口増を受け平成13年（2001年）に市制を施行した。
+  first_attestation:
+    era: 慶長7年
+    year_western: 1602
+    document: 『下総国印西庄外郷白井郷之内橋本之郷水帳』（船橋市西図書館蔵。白井市郷土資料館が「白井郷」の確実な史料として紹介）
+    note: 「白井郷」の名が確認できる確実な最古の史料（郷土資料館の紹介による。原文は未読）。郷そのものの成立は室町時代当初から天正10年（1582年）までの間と推定されている
+  claims:
+  - text: 総務省の全国地方公共団体コードで、白井市の団体コードは122327と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 白井市郷土資料館によれば、白井という地名の起源は郷名「白井郷」であり、確実に遡れる史料は慶長7年（1602年）の『下総国印西庄外郷白井郷之内橋本之郷水帳』である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shiroi-museum-chimei
+  - text: 白井市郷土資料館によれば、「白井郷」は早ければ室町時代当初から、遅くとも戦国期の天正10年（1582年）までに成立していたと考えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shiroi-museum-chimei
+  - text: 白井市郷土資料館は、白井郷がかつての埴生西冨谷郷の範囲と重なることに着目し、富んだ谷津に囲まれた場所に村が開かれ、谷津田の開発が進んで苗代に囲まれるようになった結果、「冨谷」から「代囲」を経て「白井」へと地名が成立・変化した過程を想像できるとしている
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - w5-shiroi-museum-chimei
+  - text: 白井市公式サイトによれば、明治22年（1889年）の市制町村制施行時に白井村谷清村組合村が誕生し、白井村の村名は、当時この地域で最も知られていた白井橋本村の通称「白井」を踏襲したといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shiroi-city-rekishi
+  - text: 白井市公式サイトによれば、大正2年（1913年）に組合村が廃止されて単独の白井村が誕生し、昭和39年（1964年）9月1日に町制を施行して白井町となり、平成13年（2001年）4月に市制を施行して白井市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shiroi-city-rekishi
+  - text: 白井市郷土資料館によれば、白井は全国有数の日本梨の産地であり、梨の栽培は明治38年（1905年）頃に白井木戸新田の浅海久太郎らによって始められたと伝えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shiroi-museum-chimei
+  column:
+    title: 苗代の白さから生まれた名か――冨谷・代囲・白井
+    text: 「白井」という名の語源は、はっきりとは分かっていません。白井市郷土資料館が示すのは一つの想像です。白井郷は、もとの「冨谷郷」（富んだ谷津の郷）の範囲と重なる。谷津田の開発が進むと集落は苗代に囲まれるようになり、「冨谷」から「代囲（しろい）」へ、やがて「白井」と書かれるようになったのではないか、というのです。田植え前の水田の情景から生まれた名だとすれば、水の乏しい台地の新田地帯だった白井らしい成り立ちといえます。もっとも、これは資料館自身が「想像」と断る推測の域の話です。今の白井を象徴するのは梨で、明治38年（1905年）頃に始まった栽培は、戦時中も梨業組合を結成して守り抜かれ、全国有数の産地になりました。
+    sources:
+    - w5-shiroi-museum-chimei
+  relations:
+  - pref/12
+  unknowns:
+  - 『下総国印西庄外郷白井郷之内橋本之郷水帳』（1602年）の原文は未読であり、白井郷の記載は郷土資料館の紹介による
+  - 「白井」の語源は郷土資料館の推測（冨谷→代囲→白井）以外に公的資料で確認できる説がなく、確定していない
+  updated: '2026-11-13'
+- id: muni/12-習志野市
+  code: '122165'
+  names:
+    ja: 習志野市
+    reading: ならしのし
+    aliases:
+    - 津田沼町
+    - 津田沼村
+  user_terms:
+  - 習志野ってどういう意味
+  - ならしのの由来
+  - 習志野演習場のまち
+  - 津田沼から習志野になった理由
+  naming_type: その他（明治天皇の命名による広域地名「習志野原」にちなむ）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は、明治6年（1873年）に明治天皇が陸軍大演習の地（大和田原）を「習志野原」と命名したことに由来する広域地名「習志野」を採用したもの。1954年8月1日、千葉郡津田沼町が市制施行と同時に習志野市と改称して発足した。なお命名の地である習志野原の中心は現在の船橋市域にあり、市名の由来地は市域の外にある。
+  first_attestation:
+    era: 明治6年
+    year_western: 1873
+    document: 明治天皇による「習志野原」の命名（習志野市公式資料）
+    note: 命名そのものの初出。同年5月17日の太政官達でこの一帯が習志野原となったことが紹介される
+  claims:
+  - text: 習志野市公式によれば、「習志野」の名称は陸軍大演習の際に明治天皇が命名されたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-narashino-city-yurai
+  - text: 明治6年（1873年）、現在の習志野市・船橋市・八千代市にまたがる小金牧の一部が陸軍の演習場となり、明治天皇が「習志野原」と命名した（習志野市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-narashino-city-rekishi
+  - text: 市公式は命名の由来の一説として、大演習で全体指揮をとった篠原国幹陸軍少将の活躍を称えた「篠原を見習うように」とのお言葉から「見習篠原」が転じて「習志野原」になったという説を紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-narashino-city-yurai
+  - text: 一方、市公式の郷土解説は篠原説には問題もあることを指摘し、命名の由来には諸説あるとしている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - m5-narashino-city-sansaku98
+  - text: 新市名「習志野市」は、津田沼町・幕張町・犢橋村の合併協議会が1953年（昭和28年）12月17日に決定したもので、その後の協議の離脱・変更を経て、最終的には津田沼町が単独で市制施行しこの名を採用した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-narashino-wikipedia
+  - text: 1954年（昭和29年）8月1日、千葉郡津田沼町は千葉県下で16番目、全国で415番目の市として習志野市として発足した（習志野市公式。地方公共団体コードは122165）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-narashino-city-yurai
+    - k1-jlis-chiba
+  - text: 元来の習志野原（旧・習志野演習場）は現在の船橋市域を中心とし、もともと習志野原の区域内に含まれなかった旧津田沼町が市制施行時に市名に取り入れた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-narashino-wikipedia
+  - text: 前身の津田沼という名は、1889年（明治22年）の村制施行時に谷津の「津」・久々田の「田」・鷺沼の「沼」の三字を取った合成地名である（習志野市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-narashino-city-yurai
+  column:
+    title: 市の外にある「地名の原点」
+    text: 習志野という名前の原点は、じつは習志野市の中にない。明治天皇が「習志野原」と名づけた演習場の中心は現在の船橋市域（習志野台周辺）で、旧津田沼町はその区域の外にあった。それでも1954年の市制施行の際、津田沼町は由緒ある広域地名を市名に迎えた。名づけの地と名を受け継いだまちがずれている、珍しい命名の例である。
+    sources:
+    - m5-narashino-city-rekishi
+    - m5-narashino-wikipedia
+  relations:
+  - pref/12
+  unknowns:
+  - 命名の正確な経緯（「篠原に習え」説の真偽）は資料上確定していない
+  - 1951年に改称があったとする一部資料の記述は市公式資料では確認できず、改称は1954年の市制施行時であることを市公式で確認した
+  updated: '2026-11-13'
+- id: muni/12-船橋市
+  code: '122041'
+  names:
+    ja: 船橋市
+    reading: ふなばしし
+    aliases:
+    - 船橋町
+    - 船橋御厨
+    - 船橋宿
+  user_terms:
+  - 船橋市の名前の由来
+  - 船橋は本当に船の橋があったのか
+  - 船橋大神宮のあるまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は中世以来の地名「船橋」を受け継いだものである。「船橋」は『吾妻鏡』文治2年（1186年）の記事に「船橋御厨」として現れる。語源については、海老川に船を並べて板を渡した橋が地名になったという説が通説とされる一方、船の停泊用の桟橋に由来するという説もあり、市の資料でも「どちらとも決めがたい」とされている。
+  first_attestation:
+    era: 文治2年
+    year_western: 1186
+    document: 『吾妻鏡』（「船橋御厨」）
+    note: 船橋市デジタルミュージアム『ふるさとの地名（改訂版）』が紹介する初出。伊勢神宮領の御厨（みくりや）の名として記された。一次文献そのものは未読のため二次資料経由の記録として扱う
+  claims:
+  - text: 船橋市デジタルミュージアム『ふるさとの地名（改訂版）』によれば、「船橋」の名が初めて見える文献は鎌倉幕府の公式記録『吾妻鏡』で、文治2年（1186年）の記事の中に「船橋御厨（みくりや）」として記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-museum
+  - text: 同書は語源の通説として、宮本の台地から海神方面へ渡る道が海老川を越える場所に、船を並べて上に板等を渡した橋が設けられ、それが地名になったとする説を挙げる。一方で地名辞典類には「船の停泊のために桟橋を設けた所」と説くものもあり、同書は「どちらとも決めがたいが、現時点では通説をやや優位としておく」としている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k1-funabashi-museum
+  - text: 船橋市西図書館の郷土資料は由来伝説として、景行天皇が東国を巡って当地に着いた帰路、大勢の行列を渡すために夏見から対岸まで船が並び、まるで船の橋のように見えたため「船橋」の名が起こったという話を伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-lib
+  - text: 江戸時代の船橋は五日市村・九日市村・海神村に分かれていたが、三村を総称して船橋村とか船橋宿とも称し、明治22年（1889年）にその地域が船橋町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-museum
+  - text: 昭和12年（1937年）、船橋町が葛飾町・八栄村・塚田村・法典村と合併して船橋市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-funabashi-museum
+    - k1-funabashi-natsumi
+  - text: 総務省の全国地方公共団体コードで、船橋市のコードは122041と定められている（J-LISの千葉県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-jlis-chiba
+  column:
+    title: 御厨（みくりや）という名の船橋
+    text: 文治2年（1186年）の『吾妻鏡』に現れる「船橋御厨」とは、伊勢神宮に年貢を納める荘園「御厨」のことである。船橋は中世、伊勢神宮領として知られた土地で、その中心にあったのが意富比神社（船橋大神宮）だとされる。隣の夏見にも「夏見御厨」があり、夏見の西夏見日枝神社の大鳥居には今も伊勢神宮の方角を向いた「わらへび」が毎年奉納されているという。船橋の名が文献に初めて現れた時、それは橋の名である前に、神宮に属する土地の名だった。
+    sources:
+    - k1-funabashi-museum
+    - k1-funabashi-natsumi
+  relations:
+  - pref/12
+  unknowns:
+  - 語源は「船を並べた橋」説（通説）と「桟橋」説が併存し、市の資料でも確定していない
+  - 『吾妻鏡』文治2年条の原文は未読で、市デジタルミュージアムの紹介による記録にとどまる
+  - 日本武尊に結びつける由来伝説も市の図書館資料にあるが、本バッチでは景行天皇伝説のみを記録した
+  updated: '2026-11-13'
+- id: muni/12-茂原市
+  code: '122106'
+  names:
+    ja: 茂原市
+    reading: もばらし
+    aliases:
+    - 藻原
+    - 藻原荘
+    - 茂原町
+  user_terms:
+  - もばら
+  - 茂原七夕まつりのまち
+  - 天然ガスのまち
+  naming_type: 一部の地名（中心地名「藻原」の継承。表記は後に「茂原」へ改められた）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 九十九里平野南部の商工業都市。「茂原」はもと「藻原」と書き、語源は藻が茂る湿地の原野を開拓して作られた荘園「藻原荘」とされる。表記は江戸時代に「茂原」へ変わったといわれ、旧表記の「藻原」は市内の名刹・藻原寺の名に今も残る。昭和27年（1952年）に茂原町ほか6町村の合併で市制を施行し、昭和47年（1972年）に本納町と合併して現在の市域となった。
+  first_attestation:
+    era: 宝亀5年
+    year_western: 774
+    document: 藻原荘の開拓（藤原黒麻呂による開拓とされる荘園。二次資料の紹介による）
+    note: 「藻原」の文献上の確実な初出は未確認。藻原荘の開拓については、市総合計画が「平安時代に藤原黒麻呂」と記す一方、宝亀5年（774年）とする紹介もあり、年次・時代区分の表記が資料により揺れている
+  claims:
+  - text: 総務省の全国地方公共団体コードで、茂原市の団体コードは122106と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 茂原市の総合計画によれば、茂原市の名称は、藤原黒麻呂が藻が茂る湿地帯の原野を開拓して私有地（荘園）とした「藻原の荘」に由来している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-mobara-city-plan
+  - text: 「藻原」という表記は湿地の多い土地柄を表したもので、江戸時代に現在の「茂原」という文字に変わったといわれている
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w5-mobara-wikipedia
+  - text: 茂原市公式サイトによれば、市内の藻原寺はもと妙光寺と称したが、天正19年（1591年）の徳川家康による寺領朱印状の写に「埴生郡藻原寺」とあったことから、明治時代以降「藻原寺」と改めたという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-mobara-city-sougenji
+  - text: 茂原市の総合計画によれば、江戸時代には茂原で「六斎市」が開かれ、商都として繁栄した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-mobara-city-plan
+  - text: 茂原市の総合計画によれば、昭和27年（1952年）に茂原町・東郷村・豊田村・二宮本郷村・五郷村・鶴枝村の6町村が合併して市制が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-mobara-city-plan
+  - text: 茂原市の総合計画によれば、昭和47年（1972年）に本納町と合併して現在の市域が形成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-mobara-city-plan
+  column:
+    title: 「藻原」の名を残したのはお寺だった
+    text: 茂原のもとの書き方は「藻原」でした。九十九里平野の低湿地に藻や葦が茂る原野――地名はその土地の姿そのものだったと、市は説明します。やがて表記は「茂原」へと改められましたが、古い「藻原」の字は思わぬところに残りました。市内の日蓮宗の名刹は、もと妙光寺と称していたのに、天正19年（1591年）の朱印状の写しに「埴生郡藻原寺」とあるのを見て、明治になって「藻原寺」と改めたというのです。地名の側が新しい字に移った後も、寺の名が古い字を守り続けたわけです。今の茂原の地図には、「茂原」の市街地と「藻原寺」の境内の間で、同じ地名の二つの時代の表記が向かい合っています。
+    sources:
+    - w5-mobara-city-plan
+    - w5-mobara-city-sougenji
+  relations:
+  - pref/12
+  unknowns:
+  - 「藻原」の文献上の確実な初出は確認できていない。藻原荘の開拓年次についても、宝亀5年（774年）とする紹介と、市の総合計画の「平安時代」という記述とで表記が揺れている
+  - 「藻原」から「茂原」への表記の変更時期は「江戸時代」とする一般的な紹介しか確認できず、専門辞典（『角川日本地名大辞典』等）での裏付けは未確認
+  updated: '2026-11-13'
+- id: muni/12-袖ケ浦市
+  code: '122297'
+  names:
+    ja: 袖ケ浦市
+    reading: そでがうらし
+    aliases:
+    - 袖ヶ浦
+    - 袖ヶ浦町
+  user_terms:
+  - そでがうら
+  - 袖ヶ浦
+  - アクアラインに近い工業のまち
+  naming_type: 合併新設（弟橘姫の袖の伝説に由来するとされる地域名「袖ケ浦」を、1955年の合併で誕生した新町の名として採用した）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 東京湾に面する京葉工業地域の市。「袖ケ浦」の名は、日本武尊の東征の際に海に身を投じた弟橘姫の袖が流れ着いたという伝説に由来するとされ、昭和30年（1955年）に合併で袖ヶ浦町が誕生した際に町名として採用された。昭和46年（1971年）に平川町と合併し、平成3年（1991年）に市制を施行した。臨海部は埋立造成された石油化学・エネルギーのコンビナートが広がる。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 袖ヶ浦町の発足に伴う町名の採用（袖ケ浦市総合計画が伝える）
+    note: 市名としての「袖ケ浦」の初出は1955年の町名採用。由来とされる弟橘姫の袖の伝説は『古事記』の日本武尊東征譚に結びつけて市が紹介するもので、袖の漂着そのものを記す一次文献の記載は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、袖ケ浦市の団体コードは122297と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 袖ケ浦市の総合計画によれば、「袖ケ浦」の名は、『古事記』の日本武尊が東征の折に走水（現在の東京湾）を渡る際に大時化に遭い、海神の怒りを鎮めるため海に身を投じた妃・弟橘姫の袖が、この地方の海岸に流れ着いたという伝説に由来している
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - w5-sodegaura-city-plan
+  - text: 袖ケ浦市の総合計画によれば、「袖ケ浦」の名は昭和30年（1955年）に旧袖ヶ浦町が誕生した際に、町名として採用されたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-sodegaura-city-plan
+  - text: 袖ケ浦市の総合計画によれば、この地域には室町時代に「横田郷」と呼ばれる大きな村ができていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-sodegaura-city-plan
+  - text: 袖ケ浦市の総合計画によれば、昭和46年（1971年）11月3日に旧袖ヶ浦町と旧平川町が合併して新たな袖ヶ浦町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-sodegaura-city-plan
+  - text: 袖ケ浦市の総合計画によれば、平成3年（1991年）4月1日に市制を施行し、袖ケ浦市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-sodegaura-city-plan
+  - text: 袖ケ浦市の総合計画によれば、高度経済成長期に入ると海岸の埋め立て造成により石油化学やエネルギー関連のコンビナートが形成され、市は京葉工業地域の一翼を担う地域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-sodegaura-city-plan
+  column:
+    title: 海に身を投げた姫の「袖」が、町の名前になった
+    text: 袖ケ浦の名は、古代の悲しい伝説に結びつけられてきました。日本武尊が走水の海を渡ろうとして嵐に遭ったとき、妃の弟橘姫が海神の怒りを鎮めるために身を投じ、その袖がこの浦に流れ着いた――市はこの伝説を地名の由来として紹介し、昭和30年（1955年）の合併で新しい町が生まれたとき、この伝説の名が町名に選ばれました。弟橘姫の入水自体は『古事記』『日本書紀』に記される東征譚ですが、袖の漂着がこの地のことだという結びつきは、文献で裏付けられるものではなく伝承の世界です。今ではその海岸は埋め立てられ、石油化学コンビナートと発電所が並ぶ京葉工業地域になりました。伝説の「浦」の面影は、名前にだけ残っているといえます。
+    sources:
+    - w5-sodegaura-city-plan
+  relations:
+  - pref/12
+  unknowns:
+  - 弟橘姫の袖の漂着を現在の袖ケ浦の地に結びつける一次文献の記載は確認できていない（市の総合計画も伝説として紹介している）
+  - 1955年に発足した旧袖ヶ浦町の構成町村の詳細は、市総合計画では確認できなかった
+  - 「袖ケ浦」が伝説以外に、袖のように入り組んだ浦辺の地形に由来するとする地形語源説について、公的資料での確認はできていない
+  updated: '2026-11-13'
+- id: muni/12-野田市
+  code: '122084'
+  names:
+    ja: 野田市
+    reading: のだし
+    aliases:
+    - 野田町
+    - 関宿町
+  user_terms:
+  - 醤油のまち
+  - キッコーマンのまち
+  - のだ
+  naming_type: その他（「野の中にある田」という普通名詞的な地名の継承）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 利根川と江戸川に挟まれた台地の市で、江戸時代以来の醤油醸造の中心地。「野田」は広い原野の中に水田が開かれた土地を表す名と説明され、「野の中にある田」という普通名詞に由来する。醤油は江戸川の水運で江戸へ送られ、大正6年（1917年）には野田醤油株式会社（後のキッコーマン）が生まれた。昭和25年（1950年）に市制を施行し、平成15年（2003年）に城下町・関宿の町を編入して現在の市域となった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「野田」という地名の文献上の確実な初出は確認できていない。語としては「野の中にある田」を意味する普通名詞で、中世にはこの一帯が関宿城主・簗田氏の支配下にあったことが辞典類に紹介されるにとどまる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、野田市の団体コードは122084と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本大百科全書（ニッポニカ）』は、野田の地名は広い原野に水田が開かれたことに由来すると説明している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-noda-kotobank
+  - text: 『デジタル大辞泉』は、「野田」を「野の中にある田」と解する普通名詞として立項している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-noda-kotobank
+  - text: 『日本大百科全書（ニッポニカ）』によれば、野田の地は平安時代末に下河辺荘に属し、中世には関宿城主・簗田氏に支配された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-noda-kotobank
+  - text: 野田市公式サイトによれば、野田の近世の醤油醸造は寛文元年（1661年）に髙梨兵左衛門が醸造を開始してから商品化が進んだと考えられ、大正6年（1917年）には茂木・髙梨両一族の八家合同で野田醤油株式会社（キッコーマン株式会社の前身）が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-noda-city-shoyu
+  - text: 『日本大百科全書（ニッポニカ）』によれば、昭和25年（1950年）に野田町と旭村・七福村・梅郷村が合併して市制を施行し、野田市となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-noda-kotobank
+  - text: 野田市公式サイトによれば、平成15年（2003年）6月に旧野田市が旧関宿町を編入合併し、現在の野田市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-noda-city-enkaku
+  column:
+    title: 原野の田んぼが、世界の醤油の名になった
+    text: 「野田」は、野の中に開かれた田という、ごく素朴な農村の呼び名でした。その小さな地名が世界に知られるようになったのは醤油のおかげです。利根川と江戸川の水運に恵まれた野田では、江戸時代に醤油醸造が本格化し、江戸市中の需要を関西の醤油から奪うほどに成長しました。大正6年（1917年）には醸造家の茂木・髙梨両一族が合同して野田醤油株式会社を設立し、これが後のキッコーマンとなります。キッコーマンの本社が今も野田市にあるのは、この地名あってのことです。ちなみに現在の野田市には、北端に関宿城の城下町だった旧関宿町が含まれます。2003年の編入で、「野田」の市域は城下町まで広がりました。
+    sources:
+    - w5-noda-city-shoyu
+    - w5-noda-kotobank
+  relations:
+  - pref/12
+  unknowns:
+  - 「野田」の文献上の確実な初出（中世文書での用例）は、専門辞典のオンライン公開範囲では確認できなかった
+  - 野田市公式サイトに「野田」という地名そのものの由来を解説するページは確認できず、語源は辞典類の説明に拠った
+  updated: '2026-11-13'
+- id: muni/12-銚子市
+  code: '122025'
+  names:
+    ja: 銚子市
+    reading: ちょうしし
+    aliases:
+    - 鳥子
+    - 銚子町
+    - 本銚子町
+  user_terms:
+  - 銚子ってどういう意味
+  - 犬吠埼のまち
+  - 醤油のまち銚子
+  - 日本一早い初日の出
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は利根川河口一帯の広域通称名「銚子」を継いだもの。河口の地形が酒器の銚子の口に似ていたことが名の由来とされ、古くは「鳥子」と記されたが、江戸時代初期に「銚子」の表記が当てられたという。1933年に銚子町など3町1村が合併して市制を施行した。
+  first_attestation:
+    era: 江戸時代初期
+    year_western: null
+    document: 「先代集」（田中家文書）に基づく『日本歴史地名大系』の記述
+    note: 銚子という町村名はもともとなく、河口付近一帯の呼称として近世初期ごろから呼ばれだした。旧記「鳥子」から「銚子」表記への転換を伝えるもので、一次資料そのものの直接確認は未了
+  claims:
+  - text: 『精選版日本国語大辞典』は「銚子」の地名について、利根川の河口が銚子（酒器）に似て口の部分が狭いところから呼ばれたと説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-choshi-kotobank
+  - text: 『日本歴史地名大系』によれば、銚子は江戸時代以来、海上郡の利根川河口部一帯をいう広域通称名で、行政単位ではなく通称であったと考えられる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-choshi-kotobank
+  - text: 旧くは「鳥子」と記されていたが、松平伊昌の時代に河口部の潮の出入りが銚子の出口に似ているとして「銚子」の表記を当てたという（『日本歴史地名大系』が「先代集」田中家文書に基づく記述として紹介）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-choshi-kotobank
+  - text: 江戸時代の銚子は銚子湊・銚子領として知られ、飯沼には高崎藩の陣屋（銚子役所）が置かれたと銚子市公式の歴史文化資料は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-choshi-city-history
+  - text: 1889年（明治22年）の町村制施行で本銚子町・銚子町などが成立したと銚子市公式の歴史文化資料は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-choshi-city-history
+  - text: 1933年（昭和8年）2月11日、海上郡銚子町・本銚子町・西銚子町・豊浦村が合併して市制を施行し、銚子市が発足した（地方公共団体コードは122025）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m5-choshi-kotobank
+    - m5-uub-chiba-cities
+    - k1-jlis-chiba
+  - text: 市制後も周辺町村の編入を重ね、1956年までにおおむね現在の市域が形成された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m5-uub-chiba-cities
+  column:
+    title: 酒器の名を持つ港町
+    text: 銚子という名は、もともと町村の名ではなく、利根川の河口一帯を指す通称だった。川の口が酒器の銚子に似て狭いところから呼ばれたといい、最初は「鳥子」と書かれていたが、江戸時代の初めごろ、潮の出入りが銚子の口に似ているとして「銚子」の字が当てられたという。港町として栄えた土地が、やがて酒器の名をまちの名として受け継いだ。
+    sources:
+    - m5-choshi-kotobank
+  relations:
+  - pref/12
+  unknowns:
+  - 銚子の語源（河口形状説）については辞典類の説明があるが、一次資料による裏づけの確認は未了
+  - 「鳥子」表記の文書上の初出の特定が未了
+  - 利根川の旧称（銚子口）との関係についての専門辞典の記述確認が未了
+  updated: '2026-11-13'
+- id: muni/12-鎌ケ谷市
+  code: '122246'
+  names:
+    ja: 鎌ケ谷市
+    reading: かまがやし
+    aliases:
+    - 鎌ヶ谷
+    - 蒲萱
+    - 鎌ケ谷村
+    - 鎌ケ谷町
+  user_terms:
+  - かまがや
+  - 鎌ヶ谷
+  - 鎌ヶ谷大仏のあるまち
+  naming_type: 一部の地名（江戸時代に宿場として成立した中心集落・鎌ケ谷村の名の継承）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 下総台地の谷あいの市で、鎌ヶ谷大仏で知られる。「かまがや」はもともと市域の一部を指す古い地名だが、正確な由来は分かっておらず、市立図書館は釜形の谷・蒲の群生する谷など複数の語源説を示している。中心集落の鎌ケ谷村は江戸時代に木下街道の宿場として成立し、明治22年（1889年）の合併で生まれた鎌ケ谷村は以後一度も合併せず、昭和46年（1971年）に単独で市制を施行した。表記は「ヶ」と「ケ」が混在したが、平成11年（1999年）に公文書では「鎌ケ谷」に統一された。
+  first_attestation:
+    era: 室町時代
+    year_western: null
+    document: 室町時代の記録に見える「蒲萱」（鎌ケ谷市立図書館が「鎌ケ谷ではないか」と紹介するもの）
+    note: 初出は未確定。「蒲萱」が鎌ケ谷を指すかどうかも断定されておらず、市立図書館は「もともとの『かまがや』がどの地域をさしたものかわからないため正確な由来はわかりません」としている。市域で最も遡れる地名は文永9年（1272年）の幕府文書に見える佐津間・粟野である
+  claims:
+  - text: 総務省の全国地方公共団体コードで、鎌ケ谷市の団体コードは122246と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 鎌ケ谷市立図書館によれば、「かまがや」はもともと現在の市域より狭い地域を指した地名で、室町時代の記録に見える「蒲萱」が「鎌ケ谷」ではないかともいわれている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w5-kamagaya-library-chimei
+  - text: 鎌ケ谷市立図書館によれば、「かまがや」の正確な由来は分からないが、語源としては、台地に挟まれた釜形の谷、大量に水の湧くカマ（穴）のある谷、蒲（ガマ）の群生している谷、えぐったような崖のある谷などが考えられている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w5-kamagaya-library-chimei
+  - text: 鎌ケ谷市立図書館によれば、鎌ケ谷村は江戸時代の寛永6年（1629年）に、木下街道の宿場町として成立した村である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kamagaya-library-chimei
+  - text: 鎌ケ谷市立図書館によれば、明治22年（1889年）に佐津間・粟野・初富・鎌ケ谷・道野辺・中沢・軽井沢新田の7か村と串崎新田飛地が合併して鎌ケ谷村が誕生し、同村は以後どの市町村とも合併せずに現在まで至っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kamagaya-library-chimei
+  - text: 鎌ケ谷市は昭和33年（1958年）8月1日に町制を施行して鎌ケ谷町となり、昭和46年（1971年）9月1日に市制を施行した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-kamagaya-wikipedia
+  - text: 安永5年（1776年）に大国屋文右衛門（福田文右衛門）が鎌ヶ谷大仏を建立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-kamagaya-wikipedia
+  - text: 地名の表記については小文字の「鎌ヶ谷」と大文字の「鎌ケ谷」が混在していたが、平成11年（1999年）6月30日に、市制施行時の千葉県指令文書に「鎌ケ谷」と記されていたことを理由として、市は公文書については大文字の「鎌ケ谷」表記に統一する方針を定めた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-kamagaya-wikipedia
+  column:
+    title: 「ヶ」か「ケ」か――一文字をめぐる表記の決着
+    text: 鎌ケ谷の名でもう一つ有名なのが、「ヶ」と「ケ」の書き分けです。駅名や古い地図では小文字の「鎌ヶ谷」、市役所の公文書では大文字の「鎌ケ谷」と、同じ市の中で表記が揺れてきました。市は平成11年（1999年）、市制施行の際に県が出した指令文書に「鎌ケ谷」と大文字で記されていたことを根拠に、公文書では大文字に統一する方針を決めました。いっぽう安永5年（1776年）に建立された名物の大仏は今も「鎌ヶ谷大仏」と小文字で呼ばれ、駅名も「鎌ヶ谷大仏駅」のままです。語源のほうはさらに決着がついていません。市立図書館は正直に「正確な由来はわかりません」と書いたうえで、釜形の谷、湧き水の穴のある谷、蒲の群生する谷など、四つの考えを示しています。
+    sources:
+    - w5-kamagaya-wikipedia
+    - w5-kamagaya-library-chimei
+  relations:
+  - pref/12
+  unknowns:
+  - 「かまがや」の語源は市立図書館が示す複数の考えのいずれとも確定しておらず、『角川日本地名大辞典』等の専門辞典での見解は未確認
+  - 室町時代の記録の「蒲萱」が鎌ケ谷を指すという見方は、市立図書館の紹介によるもので、原典の直接確認はできていない
+  updated: '2026-11-13'
+- id: muni/12-館山市
+  code: '122050'
+  names:
+    ja: 館山市
+    reading: たてやまし
+    aliases:
+    - 館山町
+    - 館山北条町
+  user_terms:
+  - 館山ってどういう意味
+  - 里見八犬伝のまち
+  - 城山のあるまち
+  - 南房総のまち
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 市名は館山町以来の地名「館山」を継いだもの。館山城が築かれた丘（城山）が「館山」の名の由来とされ、里見氏の築城以前から城館の構えられた山の名として呼ばれていたようである。1939年に館山北条町・那古町・船形町が合併して市制を施行した。
+  first_attestation:
+    era: 天正19年
+    year_western: 1591
+    document: 里見義康の館山城への移城（館山市公式資料）
+    note: 「館山」の名自体は里見氏の築城（天正8年・1580年）以前から城館のあった丘の名として呼ばれていたとされるが、文書上の初出は特定できなかった
+  claims:
+  - text: 館山市立博物館は、館山城跡のある丘（城山）が「館山」の地名の由来になっていると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-tateyama-museum-shiroyama
+  - text: 現在の城山と呼ばれる独立丘には、里見氏の築城以前にも城館が構えられ、ここから館山という名で呼ばれていたようであると紹介される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-tateyama-wikipedia
+  - text: 天正19年（1591年）に里見義康が居城を館山城に移し、その間に整備された城下町が現在の館山市の基礎となった（館山市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-tateyama-city-joseki
+  - text: 1889年（明治22年）に館山町・上真倉村・下真倉村が合併して館山町となり、1914年（大正3年）に豊津村と合併して館山町となった（館山市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-tateyama-city-history
+  - text: 1939年（昭和14年）11月3日、館山北条町・那古町・船形町の3町を廃止して市制を施行し、館山市が誕生した（館山市の統計資料の沿革。地方公共団体コードは122050）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-tateyama-city-enkaku
+    - k1-jlis-chiba
+  - text: 1954年（昭和29年）5月3日、西岬・神戸・富崎・豊房・館野・九重の6か村を合併し、おおむね現在の館山市の市域が形成された（館山市の統計資料の沿革）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m5-tateyama-city-enkaku
+  - text: 館山城は曲亭馬琴の『南総里見八犬伝』の舞台として知られる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m5-tateyama-wikipedia
+  column:
+    title: 名前の由来になった山
+    text: 館山という名は、市街地の南にそびえる城山（館山城跡）から来ていると博物館は説明する。里見氏が館山城を築く前から、この丘には城館があり、「館のある山」として呼ばれていたという。城下町として整備された港町が、そのまま山の名をまちの名に受け継ぎ、やがて里見氏の物語『南総里見八犬伝』の舞台として広く知られるようになった。
+    sources:
+    - m5-tateyama-museum-shiroyama
+    - m5-tateyama-city-joseki
+  relations:
+  - pref/12
+  unknowns:
+  - 「館山」の文書上の初出（中世文書における用例）は本調査で特定できなかった
+  - 語源については「館（城館）のある山」と解する博物館資料の説明があるが、専門辞典（角川日本地名大辞典・日本歴史地名大系）における語源記述の直接確認は未了
+  updated: '2026-11-13'
+- id: muni/12-香取市
+  code: '122360'
+  names:
+    ja: 香取市
+    reading: かとりし
+    aliases:
+    - 香取郡
+    - 佐原市
+    - 加止里
+  user_terms:
+  - かとり
+  - 香取神宮のまち
+  - 水郷のまち
+  - 小江戸・佐原
+  naming_type: 合併新設（古代の下総国香取郡の郡名であり香取神宮の名でもある「香取」を、2006年の合併新市の名として採用した）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 利根川下流・水郷地帯の市で、下総国一宮の香取神宮を擁する。市名「香取」は古代の郡名に由来し、平成18年（2006年）に佐原市と香取郡3町が合併した際に公募を経て採用された。核となる香取神宮は経津主大神を祭り、伊勢・鹿島と並んで「神宮」と称された古社である。旧中心地の佐原は水運で栄えた「小江戸」で、市名とは別の語源の層を持つ。
+  first_attestation:
+    era: 平安時代（10世紀）
+    year_western: null
+    document: 『和名類聚抄』の下総国香取郡に付けられた訓「加止里」（地名研究サイトの紹介による）
+    note: 確認できる古い用例として『和名類聚抄』の訓を地名研究が紹介するもの（原文は未読）。香取郡の設置自体はそれ以前に遡るとされるが、設置年次の直接確認はできていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、香取市の団体コードは122360と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 香取神宮の公式サイトによれば、平成18年（2006年）3月27日に佐原市・小見川町・栗源町・山田町が合併して「香取市」が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-katori-jingu
+  - text: 合併時の新市名公募では「香取」のほか「かとり」「水郷」「北総」「大利根」「水郷香取」「あやめ」「利根」「小江戸」などが上位候補となり、新市名は「香取市」に決まった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w5-katori-uub
+  - text: 香取神宮の公式サイトによれば、神宮は経津主大神を祭神とし、中世以降は下総国の一宮とされ、「神宮」の称号は明治以前には伊勢神宮・香取神宮・鹿島神宮のみに許された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-katori-jingu
+  - text: 地名研究サイトによれば、「香取」は古代の下総国香取郡の郡名で、郡は古く香取神宮の神郡として設置され、郡内には神宮周辺の香取郷があった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w5-katori-chimei-kenkyu
+  - text: 地名研究サイトによれば、「香取」の名称には「鹿取」「紆托」「楫取」などの文字があてられた時期があり、『和名類聚抄』では「加止里」と訓じられ、郡名の由来には「かた糸（堅織）説」と「舟輯取説」があった
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - w5-katori-chimei-kenkyu
+  - text: 地名研究サイトによれば、旧中心地「佐原」の名は、香取神宮の神職が祭事に用いる土器を現地で「オサハラ」と呼んだことが転じたものという説がある
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - w5-katori-chimei-kenkyu
+  column:
+    title: 市の名は神宮から、町の名は土器から？
+    text: 2006年の合併で「香取市」が生まれたとき、市名の候補には「水郷」「北総」「小江戸」なども並びましたが、選ばれたのは古代の郡名であり神宮の名でもある「香取」でした。ところが、市の中心市街である佐原の名は、それとはまったく違う由来が語られています。香取神宮の祭事に使う土器を、土地の人々が「オサハラ」と呼んだのが転じて「サワラ（佐原）」になったというのです。真偽はともかく、同じ市の中で、壮大な神話の神の名をいただく市名と、祭りの道具の呼び名に由来するという町名が重なっているのが面白いところです。佐原は利根川の水運で栄えた商家の町で、「小江戸」と呼ばれる町並みが残ります。
+    sources:
+    - w5-katori-chimei-kenkyu
+    - w5-katori-jingu
+  relations:
+  - pref/12
+  unknowns:
+  - 香取郡の設置年次と「香取」の語源は、専門辞典（『角川日本地名大辞典』等）での直接確認ができておらず、地名研究サイトの紹介に拠っている
+  - 『和名類聚抄』の「加止里」の訓は原文未読であり、紹介形で記録した
+  updated: '2026-11-13'
+- id: muni/12-鴨川市
+  code: '122238'
+  names:
+    ja: 鴨川市
+    reading: かもがわし
+    aliases:
+    - 加茂川
+    - 鴨川町
+    - 加茂郷
+  user_terms:
+  - かもがわ
+  - 鯛の浦と日蓮生誕地のまち
+  - 南房総の拠点都市
+  naming_type: 一部の地名（川名「加茂川」の継承。明治22年（1889年）の合併時に「加茂」を「鴨」に改めて町名とした）
+  prefecture: 千葉県
+  homonyms: []
+  summary: 南房総の太平洋岸の市。市名の起源は、市域を貫く川「加茂川」で、その名は古代の長狭郡加茂郷に遡ると推定される。明治22年（1889年）の合併で新町の名を決める際、「加茂」の字を「鴨」に改めて鴨川町とし、昭和46年（1971年）に3町の合併で市制を施行した。平成17年（2005年）には日蓮生誕の地・天津小湊町を合併した。市自身が「諸説があり確かなことは分からない」と断る、由来の層が重なった地名である。
+  first_attestation:
+    era: 平安時代（10世紀）
+    year_western: null
+    document: 『倭名類聚抄（和名類聚抄）』の安房国長狭郡「加茂郷」（鴨川市公式「市史ミニ講座」が『千葉県町村合併史』の記述として紹介）
+    note: 「鴨川」の直接の初出ではなく、起源と推定される郷名の用例（原文は未読、紹介形）。市名としての「鴨川」は明治22年（1889年）の鴨川町成立に始まる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、鴨川市の団体コードは122238と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 鴨川市公式サイトが引く『千葉県町村合併史』によれば、明治22年（1889年）の合併に当たり新町の名称は鴨川町と決定したが、これは新町内を加茂川が貫流し、また『倭名類聚抄』に長狭郡に加茂郷の郷名が見え、それが当地区であったと推定されることによる、史的所伝に基づく命名であった
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w5-kamogawa-city-shishi
+  - text: 鴨川市公式サイトが引く『鴨川沿革史』（昭和39年）によれば、この地方は古く賀茂（加茂）郷と称し、貫流する川は京都の鴨川に似ているというので加茂川と称したものを、明治22年4月の町村合併の時に「加茂」を「鴨」に作って鴨川町と名付けた
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w5-kamogawa-city-shishi
+  - text: 鴨川市公式サイトは、鴨川の由来について「諸説がありますが確かなことは分かりかねます」と結論づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kamogawa-city-shishi
+  - text: 鴨川市統計書によれば、「長狭」の地名は『古事記』神武天皇の条に神八井耳命を長狭国造の祖とする記述があり、『古語拾遺』には長狭の地名伝承が載せられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kamogawa-city-toukei
+  - text: 鴨川市統計書によれば、昭和46年（1971年）3月31日に鴨川町・長狭町・江見町の3町が合併して市制を施行し、鴨川市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kamogawa-city-toukei
+  - text: 鴨川市統計書によれば、平成17年（2005年）2月11日に鴨川市と天津小湊町が合併し、新しい鴨川市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kamogawa-city-toukei
+  column:
+    title: 京都の鴨川に「似ている」から、加茂川になった？
+    text: 鴨川市の名の由来には、二つの話が重なっています。一つは学問的な話で、平安時代の辞書『和名類聚抄』に安房国長狭郡の「加茂郷」が見え、この地がその加茂郷だったと推定されることから、川も郷も「加茂」と呼ばれたというもの。もう一つは『鴨川沿革史』の語る話で、市域を流れる川が京都の鴨川に似ているので「加茂川」と呼ばれるようになった、というものです。どちらにしても、明治22年（1889年）に新しい町の名を決めた人々は、「加茂」の字を「鴨」に替えて「鴨川町」としました。鴨の字を選んだ理由も含め、市は正直に「確かなことは分かりかねます」と書いています。なお、2005年に合併した天津小湊は日蓮の生誕地として知られる別の歴史を持つ町で、現在の鴨川市は由来の異なる二つの中心を持つ市になっています。
+    sources:
+    - w5-kamogawa-city-shishi
+    - w5-kamogawa-city-toukei
+  relations:
+  - pref/12
+  unknowns:
+  - 「加茂川」の名が京都の鴨川に似ることから付いたという『鴨川沿革史』の説と、加茂郷に由来するという説のどちらが正しいかは、市の公式資料でも確定していない
+  - 『倭名類聚抄』の長狭郡加茂郷の原文は未読であり、市の紹介する『千葉県町村合併史』の記述による
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-kaifu-dayori:
+    label: 千葉市広報紙「千葉開府の日」（千葉市公式）
+    url: https://www.city.chiba.jp/sogoseisaku/shichokoshitsu/kohokocho/dayori24/documents/0601-23.pdf
+  b-cap-chiba-kyokucho:
+    label: 千葉市総合政策局長ブログ「6月1日は、千葉開府の日」（千葉市公式）
+    url: https://www.city.chiba.jp/sogoseisaku/sogoseisaku/kikaku/kyokuchou28-03.html
+  b-cap-chiba-shi-portal:
+    label: 千葉市公式「千葉氏について」（千葉氏ポータル）
+    url: https://www.city.chiba.jp/sogoseisaku/sogoseisaku/identitysuishin/chiba-shi.html
+  b-cap-chiba-sisei:
+    label: 千葉市議会事務局「市政概要（令和5年度版）」
+    url: https://www.city.chiba.jp/shigikai/documents/r5siseigaiyou.pdf
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  k1-funabashi-lib:
+    label: 船橋市西図書館 郷土資料室「景行天皇と船橋」
+    url: https://www.lib.city.funabashi.lg.jp/viewer/info.html?id=80&idSubTop=2
+  k1-funabashi-museum:
+    label: 船橋市デジタルミュージアム『ふるさとの地名（改訂版）』「船橋」
+    url: https://adeac.jp/funabashi-digital-museum/texthtml/d100050/mp012240-100020/ht200010
+  k1-funabashi-natsumi:
+    label: 船橋市「夏見地域の歴史」
+    url: https://www.city.funabashi.lg.jp/shisetsu/toshokankominkan/0002/0023/0002/p009574.html
+  k1-jlis-chiba:
+    label: 地方公共団体情報システム機構（J-LIS）「地方公共団体コード住所・千葉県内市町村」
+    url: https://www.j-lis.go.jp/spd/code-address/kantou/cms_13314181.html
+  k1-kashiwa-rekishi:
+    label: 柏市「柏市の歴史」
+    url: https://www.city.kashiwa.lg.jp/kohokocho/shiseijoho/about_kashiwa/profile/rekishi.html
+  k1-kashiwa-shisei:
+    label: 柏市『市勢要覧』第1編 市勢「沿革」
+    url: https://www.city.kashiwa.lg.jp/documents/7799/03shisei.pdf
+  k1-kashiwa-tokatsu:
+    label: 柏市「東葛市 ～柏市誕生ものがたり～」
+    url: https://www.city.kashiwa.lg.jp/bunka/about_kashiwa/culture/rekishi/rekishi/tokatsushi.html
+  l2-ichihara-koho:
+    label: 市原市「広報いちはら」特集「地名の由来で見る市原」（市原の由来の2説と万葉集、五井の名刀伝説。出典として市原郡誌・角川日本地名大辞典等を明記）
+    url: https://prdurbanosichapp1.blob.core.windows.net/common-article/6023746dece4651c88c18361/230301-1.pdf
+  l2-ichihara-kyoiku:
+    label: 市原市教育委員会「教育要覧」平成28年度版・市の概要（1963年5月1日の5町合併による市制施行、1967年の南総町・加茂村合併による一郡一市）
+    url: https://prdurbanosichapp1.blob.core.windows.net/common-article/60237b49ece4651c88c18c21/kyouikuyouran_H28.pdf
+  l2-ichikawa-library:
+    label: 市川市公式Webサイト（図書館課）「市川の地名」（町名の由来をまとめた『市川市の町名』と広報連載「市川のまち 地名の由来」の索引）
+    url: https://www.city.ichikawa.lg.jp/library/db/1069.html
+  l2-ichikawa-wikipedia:
+    label: Wikipedia「市川市」（市名の由来。1934年の合併交渉と候補名、一の川説と市場の説、義経記の市河、下総国府、手児奈伝説）
+    url: https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E5%B8%82
+  l2-matsudo-museum:
+    label: 松戸市デジタルミュージアム「松戸市の歴史」（更級日記の「まつさとのわたりのつ」が松戸の地名の起こりかともいわれること）
+    url: https://matsudo-digital-museum.jp/history/
+  l2-matsudo-nenpyo:
+    label: 松戸市公式ウェブサイト「年表で見る松戸の歩み」（1878年の東葛飾郡役所設置、1943年の松戸町・高木村・馬橋村の合併による松戸市誕生）
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/rekisi-bunka/rekishi/nenpyou/nenpyoudemiru.html
+  l2-matsudo-taiyo:
+    label: とうか通（太陽ハウス）「松戸市の歴史」（松戸神社のヤマトタケル待ち合わせ伝承など地名の由来の諸説）
+    url: https://www.taiyo-house.co.jp/toukatsuu/article?id=matsudo_history
+  l2-matsudo-yurai:
+    label: 松戸市公式ウェブサイト「松戸市の位置・交通・地形・地名の由来」（馬津・馬津郷からまつさと・まつどへという説）
+    url: https://www.city.matsudo.chiba.jp/profile/ichi_chikei_yurai.html
+  m5-abiko-city-chisei:
+    label: 我孫子市公式「地勢・市名の由来」（最古の用例は正和2年・1313年の「尼しんねん譲状」の「あひこのむら」、「我孫子」は古代の氏・姓の名であること、1955年の合併と1970年の市制）
+    url: https://www.city.abiko.chiba.jp/shisei/gaiyou/chisei.html
+  m5-choshi-city-history:
+    label: 銚子市「第4章 銚子市の歴史文化の特徴」（銚子市公式の歴史文化資料。銚子湊・銚子領の成立、1889年の本銚子町等の成立）
+    url: https://www.city.choshi.chiba.jp/content/000054840.pdf
+  m5-choshi-kotobank:
+    label: コトバンク「銚子」（精選版日本国語大辞典・日本歴史地名大系・日本大百科全書。利根川河口が酒器の銚子に似ていたことが由来、旧記「鳥子」から「銚子」表記への転換、1933年の合併市制）
+    url: https://kotobank.jp/word/%E9%8A%9A%E5%AD%90-97847
+  m5-katsuura-city-promotion:
+    label: 勝浦市公式シティプロモーション資料（旧表記は桂浦・葛浦・勝占、語源の諸説、1955年の合併と1958年の市制、「お万の布ざらし」伝説）
+    url: https://www.city.katsuura.lg.jp/site/city-promotion/3877.html
+  m5-katsuura-kotobank:
+    label: コトバンク「勝浦市」（日本歴史地名大系。浜勝浦の八幡岬に勝浦城が築かれ16世紀初めには真里谷武田氏の拠点であったこと）
+    url: https://kotobank.jp/word/%E5%8B%9D%E6%B5%A6%E5%B8%82-45114
+  m5-katsuura-wikipedia:
+    label: Wikipedia「勝浦市」（天富命とともに阿波国から移住した勝占の忌部氏の名に由来する説、紀伊の勝浦も同じく忌部氏に由来すること）
+    url: https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B5%A6%E5%B8%82
+  m5-kisarazu-city-edu:
+    label: 木更津市教育委員会「令和7年度木更津市の教育」（「きさらづ」の名は鎌倉時代に文献に現れたこと、日本武尊と弟橘媛の伝説、1942年11月3日の市制施行）
+    url: https://www.city.kisarazu.lg.jp/material/files/group/49/reiwa7nenndokisarazusinokyouiku_.pdf
+  m5-kisarazu-city-history:
+    label: 木更津市公式プロフィール（明治4年・1871年に木更津県が誕生し県庁所在地となったこと）
+    url: https://www.city.kisarazu.lg.jp/soshiki/kikaku/citypromotion/1/2432.html
+  m5-kisarazu-city-plan:
+    label: 木更津市「中心市街地活性化基本計画」（「きさらづ」の語源は「きみさらず伝説」にあるという説の紹介）
+    url: https://www.city.kisarazu.lg.jp/material/files/group/11/tyuusinnsigaitikasseikakihonnkeikakudai1ki.pdf
+  m5-kisarazu-wikipedia:
+    label: Wikipedia「木更津市」（最古の用例は1353年の文献の「木佐良津」、語源諸説＝君不去・如月の津・木足らず、1942年の合併市制、1873年の千葉県成立）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9B%B4%E6%B4%A5%E5%B8%82
+  m5-nagareyama-city-gaiyo:
+    label: 流山市市勢要覧資料（流山市公式。「流山」の記録上の初出は慶長19年・1614年の「小金之領野馬売付之帳」、由来は不明であること、赤城山の流れ着いた山の伝説）
+    url: https://www.city.nagareyama.chiba.jp/_res/projects/default_project/_page_/001/047/390/isshou3.pdf
+  m5-narashino-city-rekishi:
+    label: 習志野市公式「習志野市の歴史」（明治6年・1873年に小金牧の一部が陸軍演習場となり明治天皇が「習志野原」と命名）
+    url: https://www.city.narashino.lg.jp/citypromotion/kanko/bunkahistory/rekishi.html
+  m5-narashino-city-sansaku98:
+    label: 習志野市公式「ならしの散策 No.98 諸説ある習志野の由来」（篠原説の問題点など命名由来の諸説の検討）
+    url: https://www.city.narashino.lg.jp/citypromotion/shizen/walk/sansaku/h19/sansaku098.html
+  m5-narashino-city-yurai:
+    label: 習志野市公式「習志野市の由来」（明治天皇による「習志野原」の命名、篠原説、1954年8月1日の市制施行と改称、津田沼の合成地名）
+    url: https://www.city.narashino.lg.jp/joho/shokai/yurai.html
+  m5-narashino-wikipedia:
+    label: Wikipedia「習志野」（1953年12月17日の合併協議会による新市名「習志野市」の決定、習志野原の中心は現在の船橋市域であること）
+    url: https://ja.wikipedia.org/wiki/%E7%BF%92%E5%BF%97%E9%87%8E
+  m5-sakura-city-jokamachi:
+    label: 佐倉市公式「城下町佐倉」（慶長15年・1610年の土井利勝入封と佐倉城築城、「老中の城」、佐倉順天堂）
+    url: https://www.city.sakura.lg.jp/soshiki/sakuranomiryoku/7/3461.html
+  m5-sakura-city-profile:
+    label: 佐倉市公式プロフィール（「佐倉」の由来の2説＝麻布の貯蔵庫「アサクラ」の転化、清い倉の意の「さ＋倉」）
+    url: https://www.city.sakura.lg.jp/soshiki/kohoka/profile/4613.html
+  m5-tateyama-city-enkaku:
+    label: 館山市統計資料「沿革」（1939年11月3日の市制施行、1954年の6か村合併）
+    url: https://www.city.tateyama.chiba.jp/files/300001398.pdf
+  m5-tateyama-city-history:
+    label: 館山市公式「館山の歴史」（館山城の城下町としての整備、1889年の館山町成立、1914年の豊津村合併）
+    url: https://www.city.tateyama.chiba.jp/syougaigaku/page100073.html
+  m5-tateyama-city-joseki:
+    label: 館山市公式「館山城跡」（天正19年・1591年に里見義康が居城を館山城に移し城下町が市の基礎となったこと）
+    url: https://www.city.tateyama.chiba.jp/syougaigaku/page100184.html
+  m5-tateyama-museum-shiroyama:
+    label: 館山市立博物館（たてやまフィールドミュージアム）「城山」（城山が「館山」の地名の由来になっていること）
+    url: http://tateyama-field-museum.jp/archives/3911
+  m5-tateyama-wikipedia:
+    label: Wikipedia「館山市」（里見氏の築城以前から城館のあった山が「館山」と呼ばれていたようであること、『南総里見八犬伝』の舞台）
+    url: https://ja.wikipedia.org/wiki/%E9%A4%A8%E5%B1%B1%E5%B8%82
+  m5-togane-city-castle:
+    label: 東金市公式「市指定文化財 東金城址」（東金城は東金酒井氏の本城として天正18年・1590年まで機能、本城の初見は『鎌倉大草紙』の浜春利の拠点）
+    url: https://www.city.togane.chiba.jp/0000000463.html
+  m5-togane-kanko:
+    label: 東金観光協会「東金の歴史」（大永元年・1521年に酒井定隆が東金城へ移ったこと、江戸時代の問屋町としての発展、1954年の市制）
+    url: https://www.toganekanko.jp/sightseeing-spot-guide/togane_rekishi
+  m5-togane-kotobank:
+    label: コトバンク「東金」（日本大百科全書・精選版日本国語大辞典。地名は城名「鴇カ峰・鴇ヶ根（ときがね）」の転化、1953年の合併と1954年の部分編入・市制）
+    url: https://kotobank.jp/word/%E6%9D%B1%E9%87%91-579766
+  m5-togane-kotobank-machi:
+    label: コトバンク「東金町」（日本歴史地名大系。古称は岡山・辺田方、「東金町」の名は文禄3年・1594年の上総国村高帳に見えること、東金町と称した時期の諸説）
+    url: https://kotobank.jp/word/%E6%9D%B1%E9%87%91%E7%94%BA-3040981
+  m5-togane-wikipedia:
+    label: Wikipedia「東金市」（『東金町誌』に基づく「鴇が根」由来の伝承と城名の変遷）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%87%91%E5%B8%82
+  m5-uub-chiba-cities:
+    label: 都道府県市区町村「千葉県の市の変遷」（実務資料としてE4扱い。市制施行・合併・編入の日付）
+    url: https://uub.jp/trc/p12.html
+  m5-yachiyo-city-50th:
+    label: 八千代市制施行50周年記念誌（八千代市公式。「千代に八千代に」という想いから永遠に栄えるように祈って付けられた名であること）
+    url: https://www.city.yachiyo.lg.jp/uploaded/attachment/7156.pdf
+  m5-yachiyo-city-gaiyo:
+    label: 八千代市市政概要（八千代市議会事務局。1954年1月15日の合併時の町名公募で「八千代」を採用、1967年1月1日の市制施行、市域の変遷、八千代台団地）
+    url: https://www.city.yachiyo.lg.jp/uploaded/attachment/49849.pdf
+  m5-yachiyo-city-keisei:
+    label: 八千代市公式「京成本線沿線の歴史・まちなみ」（江戸時代の市域の中心は大和田で佐倉・成田に通じる街道の宿場町として繁栄したこと）
+    url: https://www.city.yachiyo.lg.jp/uploaded/attachment/26357.pdf
+  m5-yachiyo-wikipedia:
+    label: Wikipedia「八千代市」（八千代市と流山市の市制施行により千葉郡が消滅したこと）
+    url: https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82
+  v5-owariasahi-wiki:
+    label: Wikipedia「尾張旭市」（明治39年（1906年）に印場村・新居村・八白村が合併して旭村が成立したこと、県が提案した「瀬戸口村」は字数の多さや瀬戸町との錯誤の懸念で却下され、旧村名も避けて日露戦争後という時勢から「旭村」としたこと、昭和23年（1948年）に旭町となったこと、昭和45年（1970年）12月1日の市制施行の際、千葉県旭市との同名回避のため同時に改称して尾張旭市となったことを、市史等の出典に基づき記す）
+    url: https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%97%AD%E5%B8%82
+  w3-isumi-chiba-keii:
+    label: 千葉県公式「千葉県における平成の合併の記録 第3章」（夷隅地域の合併経緯として、勝浦市を含む夷隅郡市合併協議会が2003年10月に廃止されたこと、大多喜町・夷隅町・御宿町・大原町・岬町の5町の枠組みでは新設合併で名称を「いすみ市」とし合併期日を平成17年12月1日目標とすることが合意されたが大多喜町議会で反対が多数を占めて枠組みが崩れたこと、その後夷隅町・大原町・岬町の3町の枠組みへ移行したことを記す）
+    url: https://www.pref.chiba.lg.jp/shichou/kouiki/gappei/documents/3syou.pdf
+  w3-isumi-city-plan:
+    label: いすみ市公式「いすみ市第2次総合計画」（いすみ市は平成の合併に伴い2005年（平成17年）12月5日に旧夷隅町・旧大原町・旧岬町の3町が合併して誕生したこと、第1次総合計画の将来像「人と自然の輝く 健康・文化都市 いすみ」などを記す）
+    url: https://www.city.isumi.lg.jp/material/files/group/17/c8febed5ae9f99380fc26978a0f75a07.pdf
+  w3-isumi-ndl:
+    label: 国立国会図書館典拠データ「夷隅町（千葉県）」（1954年4月に国吉町・中川村・千町村が合併して夷隅町となり、2005年12月に夷隅町・大原町・岬町が合併していすみ市となったことを記す）
+    url: https://id.ndl.go.jp/auth/ndlna/00367281
+  w3-isumi-wiki:
+    label: Wikipedia「いすみ市」（2005年12月5日に夷隅郡夷隅町・大原町・岬町が合併し千葉県内34番目の市として誕生したこと、千葉県内において名前に平仮名を用いた市町村はいすみ市が初めてで唯一の存在であること、市町村コード12238-6を記す）
+    url: https://ja.wikipedia.org/wiki/いすみ市
+  w3-isumi-wiki-gun:
+    label: Wikipedia「夷隅郡」（夷隅郡は伊甚屯倉の分割によって成立したとみられること、地名は古くは『古事記』に「伊自牟（いじむ）」、『日本書紀』に「伊甚（いじみ）」として登場し、郡名には「夷灊」など様々な当て字が用いられてきたが、江戸時代初期に「夷隅」の字が当てられ定着したとされていることを記す）
+    url: http://ja.wikipedia.org/wiki/夷隅郡
+  w3-sosa-city-name:
+    label: 匝瑳市公式「匝瑳市の名称について」（匝瑳市は平成18年（2006年）1月23日に八日市場市と匝瑳郡野栄町が合併して誕生したこと、市の名称は合併協議会が15歳以上の住民を対象に行ったアンケート調査（両市町の名称を除く）で1位であったこと、また両市町の旧郡名でもあり住民が共有して一体感の持てる名称であったことから決定したこと、匝瑳という地名の現存最古の記録は正倉院に伝わる庸調に見られる天平13年（741年）の記録とされること、『続日本後紀』によれば物部小事が坂東を征した勲功で下総国の一部を与えられ匝瑳郡（さふさごおり）とし子孫が物部匝瑳氏を名乗ったと伝えられること、語源は定まっていないが「さ」は狭で美しい、「ふさ」は布佐で麻の意として「美しい麻のとれる土地」とする説や、「ふさ」は下総国11郡中で最大の郡であったことに由来するという説があり、「匝瑳」は「さふさ」に縁起のよい漢字を充てたものと考えられていることを記す）
+    url: https://www.city.sosa.lg.jp/sp/page/page000740.html
+  w3-yachimata-city-gaiyo:
+    label: 八街市公式「市の概要」（明治初期の開墾以来のふるさと「八街」は明治・昭和の合併を経て、平成4年（1992年）4月1日に県下30番目の市として新たなスタートをしたこと、落花生をはじめ野菜中心の都市近郊型農業が行われていることを記す）
+    url: https://www.city.yachimata.lg.jp/soshiki/1/1542.html
+  w3-yachimata-city-meiji:
+    label: 八街市公式「明治時代の八街」（「八街」という地名は江戸時代の御用馬の放牧地であった下総牧（小金牧・佐倉牧）の開墾事業が開始された時期に命名されたこと、名付け親は東京府権大参事で下総開墾事業の担当者だった北島秀朝であること、明治2年8月15日付で東京府知事大木喬任に宛てた手紙に「開墾名前明日参館之節持参」とあり、この頃に各開墾地の地名とともに「八街」が名付けられたと推測されること、開墾地の地名は開墾に従事する人々を受け入れていった地域の順番に基づき漢数字と好字を組み合わせて付けられたこと、「街」には住宅や商店の集まる場所という意味があり開墾後に豊かに栄えていくよう願いが込められていることを記す）
+    url: https://www.city.yachimata.lg.jp/soshiki/39/39650.html
+  w3-yachimata-wiki:
+    label: Wikipedia「八街市」（明治初期の開墾で開墾着手の順序によって一連の地名が命名され、八街は8番目に予定されていた入植地として命名されたこと、この系列の地名として二和・三咲（現船橋市域）、豊四季（現柏市域）などがあること、1872年（明治5年）に八街村が誕生し、1919年（大正8年）に町制を施行したこと、市町村コード12230-1を記す）
+    url: https://ja.wikipedia.org/wiki/八街市
+  w4-asahi-city-shishi-pdf:
+    label: 旭市「あさひ 輝いた人々」（旭市公式サイト掲載の人物誌。平成17年7月1日に旭市・海上町・飯岡町・干潟町が合併して新旭市が誕生したこと、野々口隆正が1852年に木曽義昌の旧跡を訪ねて詠んだ「信濃よりいづる旭をしたいきて東の国にあととどめけむ」という歌が旭市の地名の由来とも言われていること、木曽義昌が木曽義仲の19代目で網戸の地に関係する人物であること、鈴木三九一が旭町と嚶鳴村の一部・矢指村・富浦村・豊畑村・共和村の五村を合併して旧旭市を誕生させたことなどを記す）
+    url: https://www.city.asahi.lg.jp/uploaded/attachment/2928.pdf
+  w4-asahi-city-yurai-pdf:
+    label: 旭市公式資料（市史関係PDF。市の花ツバキが干潟八万石がかつて「椿の海」と呼ばれたことにちなむこと、「旭の由来」として国学者の野々口隆正が嘉永5年（1852年）に木曽義昌の旧跡を訪れて詠んだ歌「信濃より いづる旭をしたひ来て 東のくにに 跡とどめけむ」を挙げ、これを由来に明治22年に旭という地名が誕生したこと、旧旭市については明治22年4月1日に網戸村・成田村・十日市場村・太田村が合併して旭町となったこと、昭和29年2月11日に旭町・矢指村・富浦村の合併、6月1日に共和村・豊畑村の編入を経て市制を施行したことなどの廃置分合の記録を記す）
+    url: https://www.city.asahi.lg.jp/uploaded/attachment/1949.pdf
+  w4-futtsu-city-furutsu:
+    label: 富津市公式「布流津のお話－日本武尊と弟橘媛伝説－」（富津市の名前の由来の一つである「布流津（ふるつ）」伝説を紙芝居風の動画で紹介するページ。もとになる話は古事記・日本書紀に記された日本武尊の東征と弟橘媛の入水の話であり、市内に伝わる続きとして、日本武尊が上陸した後に弟橘媛の衣の布が富津の海岸に流れ着いたことから「布が流れてきた津」→「布流津」→「富津」になったと言われていることを記す）
+    url: https://www.city.futtsu.lg.jp/0000003376.html
+  w4-futtsu-city-intro:
+    label: 富津市公式「市の紹介」（房総半島の中西部東京湾側に位置し東京湾に突出した富津岬があること、沿革として明治22年（1889年）に青堀村・富津村・飯野村が誕生したこと、昭和30年（1955年）に富津町・青堀町・飯野村が合併して富津町となったこと、昭和46年（1971年）4月25日に富津町・大佐和町・天羽町の3町合併により富津町となり、同年9月1日に市制施行による富津市が誕生したことを記す）
+    url: https://www.city.futtsu.lg.jp/0000000526.html
+  w4-futtsu-city-yurai:
+    label: 富津市公式「地名の由来」（出典として『富津市のあゆみ』（富津市史編さん委員会編、富津市、昭和58年3月31日発行）を明示し、「ふっつ」地名の由来には4つの説があるとして、1.古津（ふるつ）＝古い港という意味で中世の文書に出てくる「ふんと」もこの意味といわれ今津に対するものである、2.ほと＝古語で突き出た所のことであり富津岬の地形から考えられる、3.布流津（ふるつ）＝日本武尊と弟橘媛の伝説に由来し媛の入水の際に布を流したというもの、4.ふつ＝刀を振った際に発する音で富津岬を刀と見て霊力と結びつけたもの、を紹介する）
+    url: https://www.city.futtsu.lg.jp/0000000531.html
+  w4-gunmei-chiba:
+    label: 郡名一覧表・千葉県の部（個人の郡史資料サイト。武射郡（読みは「むさ」、上総国）は山辺郡と統合して1897年（明治30年）4月1日に発足した山武郡に移行したこと、山辺郡（読みは「やまべ」）も同日に武射郡と統合して山武郡に移行したこと、1897年4月1日に君津・山武・長生の各郡が発足したことなどの千葉県の郡の変遷を一覧する）
+    url: http://fukatsuyasuna.sakura.ne.jp/county-chiba.html
+  w4-inzai-city-gappei-pdf:
+    label: 印西市広報「合併特別号」（2010年3月。昭和29年（1954年）12月1日に木下町・大森町・船穂村・永治村の一部が合併して印西町が誕生したこと、新町名は住民から公募し、この地区が印旛郡の西部に当たることから従来より印西地方と呼ばれ親しみ深い名称であったことと、公募の結果も印西町を希望するものが最も多かったため「印西町」に決定されたこと、平成8年（1996年）4月1日に市制を施行し県内で31番目・全国で666番目の市になったこと、平成22年（2010年）3月23日の印旛村・本埜村との合併で新「印西市」が誕生したこと、昭和41年に千葉県が千葉ニュータウン計画を立てたことなどを記す）
+    url: https://www.city.inzai.lg.jp/cmsfiles/contents/0000000/545/pmag220307_all.pdf
+  w4-kimitsu-city-namae:
+    label: 君津市公式「名前のひみつ（後編）」（君津市教育委員会。最初の「君津町」は1943年（昭和18年）に周西村と八重原村の合併で自治体名として初めて登場し、命名理由の公文書は残っておらず「君津郡の中央を占める」「必ず君津郡の中核に発展する」の二説が伝えられること、1970年（昭和45年）には木更津を含めた合併協議で新市名「君津木更津市」が提案されたが庁舎位置と市名が折り合わず協議会が解散したこと、後の君津町は合併関係五町村が従来「君津地域」と呼ばれた地域の中心部にあたることを理由に「君津町」と称することとし市制施行後も引き継がれたこと、明治に生まれた「君津郡」の名は当初「木更津郡」と提案されていたこと、『君津町誌』（1962年）が「君津郡の中央を占める町」と記すことなどを紹介する）
+    url: https://www.city.kimitsu.lg.jp/site/kyoiku/41462.html
+  w4-kotobank-oami:
+    label: コトバンク「大網村」（『日本歴史地名大系』の解説。千葉県山武郡の大網村について、永禄2年（1559年）の鎌倉本興寺の棟札に村名に関わる記述があること、「家忠日記」の文禄元年（1592年）12月6日条に「大あミ」とあること、文禄3年の上総国村高帳に村名が見えること、天正19年（1591年）に「山野辺之庄大網郷」は三浦重成の知行となったこと、正保国絵図に大網町とあること、寛文5年（1665年）の朱印状に大網郷とあることなどを記す）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%B6%B2%E6%9D%91-3025492
+  w4-minamiboso-city-history:
+    label: 南房総市公式「歴史」（安房地域は718年に上総国から分かれ安房国となり757年に再び安房国として独立したこと、明治30年（1897年）に安房郡・平郡・朝夷郡・長狭郡の四郡が合併して現在の安房郡の前身が形成されたこと、平成18年（2006年）3月20日に安房7町村による合併が行われ南房総市が誕生したこと、平成の大合併の経緯として平成16年12月15日に安房7町村合併協議会（富浦町・富山町・三芳村・白浜町・千倉町・丸山町・和田町）が設置され、平成17年2月8日に合併協定調印式が行われたことを記す）
+    url: https://www.city.minamiboso.chiba.jp/0000001221.html
+  w4-minamiboso-uub:
+    label: 市区町村変遷情報「南房総市」（2006年3月20日に三芳村・白浜町・千倉町・富山町・丸山町・富浦町・和田町が合併して南房総市が生まれたこと、当初は館山市・鴨川市・鋸南町・天津小湊町を含む11市町村で合併が検討されたが館山市議会の脱退決議などを経て難航し、鋸南町の離脱ののち7町村で法定協議会が設置された経過、新市名の最終候補が「南房総」と「安房（あわ）」の2点で新市名は南房総市に決まったこと、市役所は富浦町役場とされたことを記す）
+    url: https://uub.jp/upd/c/1132.html
+  w4-narita-library-history:
+    label: 成田市立図書館「成田のあゆみ」（応永15年（1408年）の安養寺聖観音菩薩坐像の胎内銘に「成田郷 応永十五年」と見えることを「成田の地名の初見」と紹介し、明治22年（1889年）の成田町発足、昭和29年（1954年）に成田・公津・八生・中郷・久住・豊住・遠山の7町村が合併して成田市が誕生したこと、昭和53年（1978年）に成田空港が開港したことなどの年表を記す）
+    url: https://www.library.city.narita.lg.jp/history_narita.html
+  w4-narita-ndl-reference:
+    label: レファレンス協同データベース「『成田』という地名の由来を知りたい」（国立国会図書館。提供館は成田市立図書館。『成田市史 民俗編』（1982年）p.9以降に地名の由来として2説、すなわち雷鳴が多いので雷の鳴る田の意から鳴田（ナルタ）が成田に転じたという説と、稲のできがよい土地なので熟田（ナリタ）とつけたという説が記述されていること、さらに同書の当該項目の著者はこの2説よりも田を開発した「田に成る」や生業（なりわい）に由来すると考えたいと記していることを回答し、『角川日本地名大辞典12 千葉県』なども併せて紹介する）
+    url: https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&fi=2_2%205_%E4%B8%80%E8%88%AC%204_%E5%9C%B0%E5%9F%9F(%E6%88%90%E7%94%B0)&id=1000257958&lsmp=1&mcmd=25&page=ref_view&rnk=1&st=ref_cnt_all&type=reference
+  w4-oami-city-data:
+    label: 大網白里市公式「令和4年度版 データ大網白里」（大網白里市の統計書。沿革として、明治2年2月から明治4年11月までの間、宮谷県の県庁が本国寺に置かれ県政の中心地となったこと、昭和29年（1954年）に大網町・増穂村・白里町が合併し大網白里町が誕生したこと、平成25年（2013年）1月1日に市制施行し大網白里市が誕生したことを記す）
+    url: https://www.city.oamishirasato.lg.jp/cmsfiles/contents/0000000/354/R4.pdf
+  w4-sanmu-wiki:
+    label: Wikipedia「山武市」（2006年（平成18年）3月27日に山武郡成東町・山武町・蓮沼村・松尾町が合併して山武市が発足したこと、合併以前は山武郡・山武町とも読みは「さんぶ」であったが現在の山武市の読みは「さんむ」であること、武社国造や武射郡の読み方「むさ」を受け継いだ「さんむ」の方が古い歴史的な読み方であり1975年あたりからいつの間にか「さんぶ」に変わってしまったので重い歴史を持った「さんむ」の方が新しい市に相応しいためであるということ、なお「山武郡」は現在も「さんぶぐん」が正式な読みであること、当初は東金市・九十九里町を含む計画で2003年（平成15年）12月25日に山武地域合併協議会が新市名を九十九里市と決定していたが実現しなかったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%AD%A6%E5%B8%82
+  w4-shirasato-wiki:
+    label: Wikipedia「白里町」（白里町は現在の大網白里市の東部に位置し東部に九十九里浜があり、町名もこの「九十九里浜」に由来し、漢字の「百」から「一」を取ると「白」となるからであるとし、出典として大網白里町市制施行名称検討委員会の「市の名称に関するアンケート」を挙げる。沿革として1889年（明治22年）4月1日に四天木村・細草村・北今泉村・南今泉村が合併して山辺郡白里村が発足したこと、1897年（明治30年）4月1日に山辺郡・武射郡が統合して山武郡が発足したこと、1935年（昭和10年）8月10日に町制を施行して白里町となったこと、1954年（昭和29年）12月1日に大網町・増穂村と合併して大網白里町を新設したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E7%99%BD%E9%87%8C%E7%94%BA
+  w4-tomisato-city-history:
+    label: 富里市公式「とみさとの歴史（近現代）」（明治2年（1869年）に東京府内の豪商が政府の依頼で窮民を集め開拓民として送り込み七栄の原野の開墾が始まったこと、七栄は開墾が七番目に行われた所、十倉は十番目の所であることから地名が付いたこと、開墾地の字名は入植の順序と美称を組み合わせて付けられ明治5年（1872年）11月2日付で正式の村名に採用されたもので初富・二和・三咲・豊四季・五香・六実・七栄・八街・九美上・十倉・十余一・十余二・十余三が各地に残ること、明治22年（1889年）に日吉倉・久能・大和・根木名・七栄・新橋・中沢・新中沢・立沢・立沢新田・高野・高松・十倉が合併して村を形成し、その名を「十三の里」（里はむらの意味）ということから「富里村」が誕生したこと、広報とみさと号外「市制20周年記念号」に基づく年表を掲載することを記す）
+    url: https://www.city.tomisato.lg.jp/0000002393.html
+  w4-yotsukaido-city-chimei:
+    label: 四街道市公式「四街道地名発祥の地」（JR四街道駅から南西へ約500メートルの四街道十字路が「四街道の地名発祥の地」で文字通り4方向への道が伸びていること、傍らに立つ道標石塔の各面に船橋道方面・千葉町道方面・東金道・馬渡道方面・成田山道方面と4つの街道の名が書き記されていること、石塔は明治14年（1881年）2月に建てられたこと、江戸時代には一里塚が作られていたことを記す）
+    url: https://www.city.yotsukaido.chiba.jp/smph/miryoku/smile/rekishi_bunkazai/history/yotsuchimei.html
+  w4-yotsukaido-wiki:
+    label: Wikipedia「四街道市」（古くから交通の要衝として現在の千葉市寒川・船橋市・佐倉市・千葉市中台へ4方向の街道が交わることから四ツ街道という名が付いたこと、地名の由来として「四つ角」→「四ツ街道」→「四街道」という呼び名の推移、1881年（明治14年）に四つ角に私設郵便局が開設した際、初代局長の福島和吉が局名を「四街道」とするよう県に懇願し認可されたのが始まりとされること、1955年（昭和30年）に千代田町と旭町が合併して四街道町が発足したこと、1981年（昭和56年）に市制を施行したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%9B%9B%E8%A1%97%E9%81%93%E5%B8%82
+  w5-kamagaya-library-chimei:
+    label: 鎌ケ谷市立図書館「郷土の資料 ～鎌ケ谷の地名の由来～」（「かまがや」はもともと現在より狭い地域を指した地名で、室町時代の記録にみえる「蒲萱」が鎌ケ谷ではないかともいわれていること、正確な由来は分からないが語源として①台地に挟まれた釜形の谷、②大量に水の湧くカマ（穴）のある谷、③蒲の群生している谷、④えぐったような崖のある谷などが考えられていること、鎌ケ谷村は寛永6年（1629年）に木下街道の宿場として成立した村であること、明治22年（1889年）に佐津間・粟野・初富・鎌ケ谷・道野辺・中沢・軽井沢新田の7か村と串崎新田飛地が合併して鎌ケ谷村が誕生し以後どの市町村とも合併していないこと、市内で最も遡れる地名は文永9年（1272年）の幕府文書にみえる佐津間・粟野であることを記す）
+    url: https://www.library-kamagaya-chiba.jp/TOSHOW/html/arekore201903.html
+  w5-kamagaya-wikipedia:
+    label: Wikipedia「鎌ケ谷市」（昭和33年（1958年）8月1日に町制を施行し、昭和46年（1971年）9月1日に市制を施行したこと、安永5年（1776年）に大国屋文右衛門（福田文右衛門）が鎌ヶ谷大仏を建立したこと、地名表記については小文字の「鎌ヶ谷」と大文字の「鎌ケ谷」が混在していたが、平成11年（1999年）6月30日に市が公文書については市制施行時の千葉県指令文書の表記に基づき大文字の「鎌ケ谷」に統一する方針を定めたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%8E%8C%E3%82%B1%E8%B0%B7%E5%B8%82
+  w5-kamogawa-city-shishi:
+    label: 鴨川市公式「市史ミニ講座～市史ってなあに～」（「鴨川市の由来」として、『千葉県町村合併史』の「明治22年の合併に当り新町の名称は鴨川町と決定したが、それは新町内を加茂川が貫流し、且つまた『倭名類聚抄』に長狭郡に加茂郷の郷名がみえ、それが当地区で在ったと推定されるので、そうした史的所伝に基づくものである」という記述と、『鴨川沿革史』（昭和39年・鴨川図書館）の「この地方を賀茂（加茂）郷と称し、貫流する川は京都の鴨川に似ているというので加茂川と称したのを、明治22年4月の町村合併の時、町名に『加茂』を『鴨』に作り鴨川町と名付けた」という記述を併せて紹介し、「諸説がありますが確かなことは分かりかねます」と結ぶ）
+    url: https://www.city.kamogawa.lg.jp/soshiki/44/1028.html
+  w5-kamogawa-city-toukei:
+    label: 鴨川市統計書「沿革」（鴨川市公式。「長狭」という地名は『古事記』神武天皇の条に神八井耳命を長狭国造の祖とする記述があり、『古語拾遺』に長狭の地名伝承が載ること、昭和29年（1954年）7月に鴨川・東条・西条・田原が合併して鴨川町となったこと、昭和46年（1971年）3月31日に鴨川町・長狭町・江見町の3町が合併して市制を施行し鴨川市が発足したこと、平成17年（2005年）2月11日に天津小湊町と合併して新しい鴨川市が誕生したことを記す）
+    url: https://www.city.kamogawa.lg.jp/uploaded/attachment/21348.pdf
+  w5-katori-chimei-kenkyu:
+    label: 地名研究サイト「信仰と地名」（川島孝一。香取の名称には「鹿取」「紆托」「楫取」などの文字があてられ、『和名類聚抄』では「加止里」と訓じられたこと、郡名の由来には「かた糸堅織説」と「舟輯取説」があったこと、香取郡は古く神郡として設置され郡内に香取郷があったこと、佐原の名は香取神宮の祭事で用いる土器を現地で「オサハラ」と呼んだことが転じたという説があることを記す）
+    url: https://kousin242.sakura.ne.jp/nakamata/ggg/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%90%8D/%E5%9C%B0%E5%90%8D%E3%81%AE%E7%94%B1%E6%9D%A5/252-2
+  w5-katori-jingu:
+    label: 香取神宮公式「御由緒」（神宮は経津主大神を祭神とし、古くから国家鎮護の神として崇敬され、「神宮」の称号は明治以前には伊勢・香取・鹿島のみに許されたこと、中世以降は下総国の一宮とされたこと、鎮座地が現在の千葉県香取市香取であること、平成18年（2006年）3月27日に佐原市・小見川町・栗源町・山田町が合併して「香取市」が誕生したことを記す）
+    url: https://katori-jingu.or.jp/about/history
+  w5-katori-uub:
+    label: 市区町村変遷情報「香取市」（個人運営の変遷データベース。平成18年（2006年）3月27日に佐原市・小見川町・山田町・栗源町が新設合併して香取市が生まれたこと、新市名公募の上位10点が「香取、かとり、水郷、北総、大利根、水郷香取、あやめ、利根、すいごう、小江戸」で、新市名は「香取市」に決まったことを合併協議の記録に基づき記す）
+    url: https://uub.jp/upd/c/1115.html
+  w5-mobara-city-plan:
+    label: 茂原市総合計画後期基本計画（答申）（茂原市公式。沿革として、茂原市の名称は藤原黒麻呂が藻が茂る湿地帯の原野を開拓して私有地（荘園）とした「藻原の荘」に由来すること、江戸時代には「六斎市」が開かれ商都として繁栄したこと、昭和27年（1952年）に茂原町・東郷村・豊田村・二宮本郷村・五郷村・鶴枝村の6町村が合併して市制が施行されたこと、昭和47年（1972年）に本納町と合併して現在の市域が形成されたことを記す）
+    url: https://www.city.mobara.chiba.jp/cmsfiles/contents/0000009/9304/toushinnsyo.pdf
+  w5-mobara-city-sougenji:
+    label: 茂原市公式「藻原寺文書」（市指定文化財の解説。藻原寺は日蓮宗の寺院で後に常在山妙光寺と称したこと、天正19年（1591年）の徳川家康の寺領朱印状の写に「埴生郡藻原寺」とあったので明治時代以降「藻原寺」と改めたということを記す）
+    url: https://www.city.mobara.chiba.jp/promotion/0000001128.html
+  w5-mobara-wikipedia:
+    label: Wikipedia「茂原市」（地名の由来として、宝亀5年（774年）に藤原黒麻呂が拓いた荘園「藻原荘」に由来するとされていること、湿地が多く「藻原」と書いたものが江戸時代に現在の「茂原」という文字に変わったといわれていること、昭和27年（1952年）4月1日に茂原市が誕生し昭和47年（1972年）5月1日に本納町と新設合併したことを記す）
+    url: https://ja.wikipedia.org/wiki/茂原市
+  w5-noda-city-enkaku:
+    label: 野田市公式「市の沿革」（平成15年（2003年）6月に旧野田市と旧関宿町が合併して新しい野田市が誕生したこと、律令期には下総国葛飾郡に属したこと、鎌倉時代には市域の大部分が下河辺荘に属したことを記す）
+    url: https://www.city.noda.chiba.jp/_res/projects/default_project/_page_/001/000/843/01_1507.pdf
+  w5-noda-city-shoyu:
+    label: 野田市公式「野田の醤油発祥地」（市指定史跡の解説。野田の近世の醤油醸造は寛文元年（1661年）に髙梨兵左衛門が醸造を開始してから商品化が進んだと考えられること、明治20年（1887年）に野田醤油醸造組合が結成されたこと、大正6年（1917年）に茂木・髙梨両一族の八家合同で野田醤油株式会社（キッコーマン株式会社の前身）が誕生したことを記す）
+    url: https://www.city.noda.chiba.jp/kurashi/kyoiku/bunka/1000550/1003454/1000567.html
+  w5-noda-kotobank:
+    label: コトバンク「野田」（『日本大百科全書（ニッポニカ）』の「野田（市）」解説と『デジタル大辞泉』の「野田」の語釈を収載。ニッポニカは、地名は広い原野に水田が開かれたことに由来すること、昭和25年（1950年）に野田町と旭・七福・梅郷の3村が合併して市制を施行し、平成15年（2003年）に関宿町を編入したこと、平安時代末に下河辺荘に属し中世には関宿城主簗田氏に支配されたことを記す。大辞泉は「野田」を「野の中にある田」と解する）
+    url: https://kotobank.jp/word/%E9%87%8E%E7%94%B0-112248
+  w5-shiroi-city-rekishi:
+    label: 白井市公式「白井市誕生までの軌跡」（明治22年（1889年）に白井村谷清村組合村が誕生し、村名は当時最も知られていた白井橋本村の通称「白井」を踏襲したといわれること、大正2年（1913年）に単独の白井村となったこと、昭和39年（1964年）9月1日に町制を施行して白井町となったこと、平成13年（2001年）4月に市制を施行して白井市が誕生したことを記す）
+    url: https://www.city.shiroi.chiba.jp/manabu/rekishi/r02/1421654504129.html
+  w5-shiroi-museum-chimei:
+    label: 白井市郷土資料館「白井市の地名」（白井市郷土資料館2005『白井の地名‐ニュータウン開発以前の字地名‐』に基づく解説。白井の名の起源は郷名「白井郷」で、確実に遡れる史料は慶長7年（1602年）『下総国印西庄外郷白井郷之内橋本之郷水帳』であること、白井郷は室町時代当初から天正10年（1582年）までの間に成立したと考えられること、語源として旧・埴生西冨谷郷の範囲と重なることから冨谷→代囲→白井という変化の過程を想像できるとすること、白井が全国有数の日本梨の産地で梨栽培は明治38年（1905年）頃に始まったと伝えられることを記す）
+    url: https://www.center.shiroi.chiba.jp/kyoudo/knowledge.html
+  w5-sodegaura-city-plan:
+    label: 袖ケ浦市総合計画（袖ケ浦市公式。沿革として、「袖ケ浦」の名は『古事記』の日本武尊が相模国からの東征の折に走水を渡る際に大時化に遭い、海神の怒りを鎮めるため海中に身を投じた妃・弟橘姫の袖がこの地方の海岸に流れ着いたという伝説に由来し、昭和30年（1955年）に旧袖ヶ浦町の誕生の際に町名として採用されたものであること、室町時代には「横田郷」と呼ばれる大きな村ができていたこと、高度経済成長期に海岸の埋め立て造成により石油化学やエネルギー関連のコンビナートが形成され京葉工業地域の一翼を担ったこと、昭和46年（1971年）11月3日に旧袖ヶ浦町と旧平川町が合併して新たな袖ヶ浦町が発足したこと、平成3年（1991年）4月1日に市制を施行して袖ケ浦市が誕生したことを記す）
+    url: http://www.city.sodegaura.lg.jp/uploaded/attachment/22268.pdf
+  w5-urayasu-city-chimei:
+    label: 浦安市公式「地域名の由来」（市内19大字の由来を解説。猫実は「根越さね」の転訛という言い伝え、当代島は「当代にできた島」から名付けられたという言い伝え、堀江は鎌倉時代に小さな港が作られたことからという言い伝え、埋立地の大字は漁場名などにちなむ命名であることを記す）
+    url: https://www.city.urayasu.lg.jp/shisei/profile/profile/1000021.html
+  w5-urayasu-city-tanjou:
+    label: 浦安市公式「浦安村の誕生」（明治22年（1889年）に堀江・猫実・当代島の3村が合併して浦安村が誕生したこと、命名は初代村長・新井甚左衛門が漁浦の安泰を祈願して名付けたといわれること、別説として日本国が昔「浦安の国」と称したことにちなむともいわれること、明治42年（1909年）の町制、昭和39年（1964年）からの海面埋立の本格化、昭和56年（1981年）の市制施行、昭和58年（1983年）の東京ディズニーランド開園を記す）
+    url: https://www.city.urayasu.lg.jp/shisei/profile/rekishi/1001461.html

@@ -1,0 +1,1153 @@
+prefecture_code: '19'
+records:
+- id: muni/19-上野原市
+  code: '192121'
+  names:
+    ja: 上野原市
+    reading: うえのはらし
+    aliases:
+    - 上野原町
+    - 秋山村
+  user_terms:
+  - うえのはら
+  - 山梨県の東の玄関口
+  - 上野原ICのある市
+  naming_type: 一部の地名
+  prefecture: 山梨県
+  homonyms: []
+  summary: 2005年（平成17年）に上野原町と秋山村が新設合併して誕生した市で、県の最東部に位置し首都圏への玄関口となっている。市名は旧上野原町の名をそのまま継承した。「上野原」は桂川の河岸段丘上に広がる地形を思わせる名だが、その語源を確定する公的資料は本調査では確認できなかった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 地名「上野原」の史料上の初出は未確認。自治体名としては1955年（昭和30年）の上野原町が直接の前身で、その前身上野原村は1889年（明治22年）の町村制施行時に遡るとされるが、一次確認は未了
+  claims:
+  - text: 総務省の全国地方公共団体コードで、上野原市の団体コードは192121と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 上野原市によれば、上野原町と秋山村は古代・律令制では甲斐国の都留郡に属していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-uenohara-city-profile
+  - text: 上野原市によれば、昭和30年（1955年）に8町村が合併して上野原町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-uenohara-city-profile
+  - text: 上野原市によれば、上野原町と秋山村は平成15年（2003年）4月に合併協議会を設置し、平成17年（2005年）2月13日に新設（対等）合併して上野原市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-uenohara-city-profile
+  - text: 新市名は新たな造語ではなく、合併した2町村のうち中心であった上野原町の名をそのまま継承した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-uenohara-city-profile
+  - text: 上野原市によれば、市内を流れる桂川・秋山川などが形成した河岸段丘が住民の生活基盤となっており、市街地は段丘上の台地に広がる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-uenohara-city-profile
+  column:
+    title: 段丘の上の町、用水が変えた暮らし
+    text: 上野原の市街地は桂川が刻んだ河岸段丘の上にあります。川に近いのに水が引けない台地の暮らしは長く水利に恵まれず、地元の郷土資料は「用水ができる前の上野原町は河岸段丘上の台地のため水利に恵まれなかった」と伝えています。上野原用水の完成で台地は水田地帯へと変わりました。「上の原」という名は、この段丘の地形そのものを写した名と読めますが、語源として確定した資料はまだ確認できていません。
+    sources:
+    - v1-uenohara-city-profile
+    - v1-uenohara-yuzuriha-guide
+  relations:
+  - pref/19
+  unknowns:
+  - 「上野原」の地名の語源（段丘上の原野に由来するという地形説など）を、自治体公式・専門辞典で裏付けることは本調査ではできなかった
+  - 1889年（明治22年）町村制施行時の上野原村の成立経緯の一次確認は未了
+  updated: '2026-11-13'
+- id: muni/19-中央市
+  code: '192147'
+  names:
+    ja: 中央市
+    reading: ちゅうおうし
+    aliases:
+    - 玉穂町
+    - 田富町
+    - 豊富村
+  user_terms:
+  - ちゅうおう
+  - 県のまんなかの市
+  - 玉穂・田富・豊富
+  - 中央市の名前の由来
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 2006年（平成18年）に玉穂町・田富町・豊富村の2町1村が合併して誕生した市。市名は合併協議会の新市名称公募で選ばれたもので、市が山梨県の中央南部に位置することに対応する位置の名である。旧町村の名はいずれも継承されなかった。なお東京都中央区とは別の自治体で、こちらは県内の市である。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: null
+    note: 市名としての初出は命名そのもの。2005年1月の新市名称公募を経て選定され、2006年2月20日の合併で中央市が発足した
+  claims:
+  - text: 総務省の全国地方公共団体コードで、中央市の団体コードは192147と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 中央市によれば、平成18年（2006年）2月20日に玉穂町・田富町・豊富村の2町1村が合併して中央市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chuo-city-20th
+  - text: 中央市によれば、合併に先立ち平成16年（2004年）9月27日に玉穂町・田富町・豊富村合併協議会が発足し、新市名称選考委員会が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chuo-city-keii
+  - text: 中央市によれば、平成17年（2005年）1月5日から20日にかけて新市名称の公募が行われ、その後、県知事による合併の決定（7月11日）と総務大臣告示（10月5日）を経て合併に至った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chuo-city-keii
+  - text: 中央市によれば、中央市は山梨県の中央南部に位置し、東は甲府市、西は南アルプス市に接するなど、県のほぼ中央部にある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chuo-city-profile
+  - text: 新市名「中央」は旧2町1村のいずれの名でもなく、位置を表す新名称として選ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chuo-city-keii
+    - v1-chuo-city-20th
+  column:
+    title: 県の真ん中を、そのまま市名にした
+    text: 「中央市」は全国でも珍しい、位置そのものを名乗る市です。山梨県の市名は山梨・甲斐・笛吹・都留など歴史ある地名を引き継ぐものが多い中で、中央市は2006年の合併で生まれた新しい市らしく、県の中央南部という立地を率直に名前にしました。似た響きの自治体に東京都中央区がありますが、あちらは特別区、こちらは山梨県の市で、成り立ちも場所も全く別です。県内で「中央」と言えばまずこの市を指す、という割り切りの良さが命名の個性になっています。
+    sources:
+    - v1-chuo-city-profile
+    - v1-chuo-city-20th
+  relations:
+  - pref/19
+  unknowns:
+  - 新市名称公募の応募総数と、「中央市」が選ばれた公式の理由文（県の中央に位置すること等）は、市の合併経緯ページの記述範囲では確認できなかった
+  - 公募の他候補名は未確認
+  updated: '2026-11-13'
+- id: muni/19-北杜市
+  code: '192091'
+  names:
+    ja: 北杜市
+    reading: ほくとし
+    aliases:
+    - 北杜
+  user_terms:
+  - ほくと
+  - 北杜
+  - 八ヶ岳のふもとの市
+  - 清里・白州のある市
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 2004年（平成16年）に北巨摩郡の7町村が合併して誕生した市。市名「北杜」は合併に際して一般公募で選ばれた新しい造語で、市によれば「杜」は山野に自生する果樹「やまなし」と「森」を意味し、「北杜」で山梨県の北部を表すという。旧来の自治体名の継承ではなく、地域の位置と自然を重ねた命名である。
+  first_attestation:
+    era: 平成15年
+    year_western: 2003
+    document: null
+    note: 市名としての初出は命名そのもの。市公式によれば2003年8月に一般公募の中から「北杜」が選ばれ、2004年11月1日の合併で市名となった。決定文書の名称は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、北杜市の団体コードは192091と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 北杜市によれば、平成16年（2004年）11月1日に北巨摩郡の明野村・須玉町・高根町・長坂町・大泉村・白州町・武川村の7町村が合併して北杜市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-hokuto-city-gappei
+  - text: 北杜市によれば、平成18年（2006年）3月15日に北巨摩郡小淵沢町と合併し、新・北杜市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-hokuto-city-gappei
+  - text: 北杜市によれば、市の名称「北杜」は平成15年（2003年）8月に一般公募の中から決まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-hokuto-city-enkaku
+  - text: 北杜市によれば、「北杜」の「杜」は「と」または「もり」と読み、山野に自生するバラ科の果樹「やまなし」と「森」という意味があり、「北杜」は山梨県の北部を意味する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-hokuto-city-enkaku
+  - text: 合併前の7町村はいずれも「北杜」という名ではなく、市名は合併に際して新規に公募で選ばれた造語である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-hokuto-city-enkaku
+    - v1-hokuto-city-gappei
+  column:
+    title: 「杜」に「やまなし」を忍ばせた市名
+    text: 「北杜」という市名は一見すると「北の森」という意味ですが、市の説明では「杜」にはもう一つ、山野に自生するバラ科の果樹「やまなし」の意味が重ねられています。つまり「北杜」は「山梨県の北の地」という位置表示であると同時に、「やまなしの森」という県名にも通じる意味を忍ばせた、二重の意味を持つ命名です。合併した7町村のどの名も引き継がず、公募で新しい造語を選んだ平成の大合併らしい市名といえます。
+    sources:
+    - v1-hokuto-city-enkaku
+  relations:
+  - pref/19
+  unknowns:
+  - 市名公募の応募総数や、「北杜」以外の最終候補名は市公式の沿革ページでは確認できなかった
+  - 「杜」に「やまなし」の意味を重ねたとする説明は市の公式説明によるもので、合併協議会の一次資料（議事録等）での裏付けは未確認
+  updated: '2026-11-13'
+- id: muni/19-南アルプス市
+  code: '192082'
+  names:
+    ja: 南アルプス市
+    reading: みなみあるぷすし
+    aliases: []
+  user_terms:
+  - 南アルプス市の名前の由来
+  - みなみあるぷすし
+  - カタカナの市名
+  - 南アルプスのふもとの市
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 南アルプス市は、平成15年（2003年）4月1日に中巨摩郡の八田村・白根町・芦安村・若草町・櫛形町・甲西町の6町村が合併して誕生した。市名は、西にそびえる南アルプス（赤石山脈）の名をそのまま市名にしたもので、公募で集まった候補から小委員会が絞り込み、協議会の投票で決められた。カタカナを含む市名として誕生当時は多くの報道で取り上げられた。
+  first_attestation:
+    era: 平成15年
+    year_western: 2003
+    document: 南アルプス市誕生の記録
+    note: 市名そのものは平成15年（2003年）の合併による新設命名。山脈の通称としての「南アルプス」の初出は本バッチでは確認していない
+  claims:
+  - text: 平成15年（2003年）4月1日、山梨県中巨摩郡の八田村・白根町・芦安村・若草町・櫛形町・甲西町の合併が実現し、新市「南アルプス市」が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-minamialps-ayumi
+  - text: 新市の名称は、公募された名称のうちから小委員会が3点に絞り、合併協議会委員の投票数により最も多い名称を選ぶ方法で決められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-minamialps-date
+  - text: 合併した町の一つである白根町の名は、住民になじみ深い南アルプスの白根三山に由来するものであり、「南アルプス」の名は合併前から地域で親しまれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-minamialps-ayumi
+  - text: 昭和39年（1964年）には南アルプス国立公園が誕生し、芦安村など山麓の村々では森林資源の開発が制限される一方、観光への取り組みが進められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-minamialps-ayumi
+  - text: 南アルプス市の誕生は、カタカナ名ということで多くの報道機関が紹介し、中には「日本最初のカタカナ市」と紹介した報道機関もあったが、過去に沖縄県のコザ市（1956年〜1974年）が存在したため、厳密にはそれは誤りであると指摘されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n3-kana-uub
+  - text: 南アルプス市の地方公共団体コードは192082である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「日本初のカタカナ市」は、正しくなかった
+    text: 平成15年（2003年）4月1日、平成の大合併の幕開けとなったこの日、全国で11市町の合併があった中でもっとも報道を集めたのが南アルプス市だった。「カタカナの市名は日本初」と紹介する報道もあったが、実はそうではない。昭和31年（1956年）から昭和49年（1974年）まで、沖縄県にはカタカナだけの市名「コザ市」が存在したのである（現在の沖縄市の一部）。半世紀前の先例を忘れた「全国初」の見出しは、新しい名前の誕生そのものよりも、名前をめぐる記憶の薄れを物語っている。
+    sources:
+    - n3-kana-uub
+  relations:
+  - pref/19
+  unknowns:
+  - 新市名の公募に集まった具体的な候補名と得票数は、市の公式な公開資料では本バッチで確認できなかった
+  - 山脈の通称としての「南アルプス」の初出（大正期の登山関係の用語とされることがある）は、本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/19-南部町
+  code: '193666'
+  names:
+    ja: 南部町
+    reading: なんぶちょう
+    aliases:
+    - 南部郷
+    - 南部村
+  user_terms:
+  - 南部町の名前の由来
+  - 南部氏発祥の地
+  - 南部三郎光行の地名
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms:
+  - muni/02-南部町
+  - muni/31-南部町
+  summary: 甲斐国南部郷の地で、南部三郎光行がこの地を与えられて「南部の地名を姓とした」ことが町の説明する南部氏の始まり。現在の町は1955年に発足した旧南部町と富沢町が2003年に合併して生まれ、旧南部町の名を継いだ。青森県南部町とは発祥地と移転先の関係にあり、鳥取県南部町とは由来を共有しない。
+  first_attestation:
+    era: 鎌倉時代初期
+    year_western: null
+    document: 南部郷（甲斐国巨摩郡。光行が領して南部氏を称した地と町公式が説明する）
+    note: 郷名としての文書上の初出年は未確認。明治初年の町村再編では、旧南部町の区域を構成した11村の中に南部村があったことが町の概要に見える
+  claims:
+  - text: 町の観光サイトは、本町が南部氏発祥の地であり、加賀美遠光の三男・南部三郎光行がこの地を領して「南部の地名を姓とした」ことに始まると説明する。町の総合計画も、南部氏の名称の由来は光行がこの地を与えられて南部氏と称したことに始まると記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h3-yamanashi-yukari
+    - h3-yamanashi-plan
+  - text: 町の概要は、源頼朝に従い戦功のあった光行が南部を与えられてこの地を領し、その後奥州に移って糠部五郡を与えられ南部藩を築いたと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h3-yamanashi-gaiyou
+  - text: 昭和30年（1955年）に南部町と富沢町が誕生し、平成15年（2003年）3月1日に両町が合併して新「南部町」が発足した。現在の町名は旧南部町の名の継承である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h3-yamanashi-gaiyou
+  - text: 青森県南部町とは同じ南部氏を介する共通の層を持つが、こちらは姓の由来となった地そのものであり、青森側は一族の移転先である点で異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h3-yamanashi-yukari
+    - h3-yamanashi-gaiyou
+  - text: 鳥取県南部町の「南部」は南部氏と関係のない地域名の採用であり、本町の「南部」とは由来を共有しない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h3-tottori-gikai
+  - text: 総務省「地方公共団体コード一覧」では本町のコードは193666とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 姓になった地名
+    text: 地名がそのまま大名の姓になった例は少なくありませんが、南部町の場合、その姓が後に奥州の大藩の名となり、発祥地と移転先の両方に同じ「南部町」が残りました。町は「南部氏発祥の地」を掲げ、光行ゆかりの地を観光資源として紹介しています。
+    sources:
+    - h3-yamanashi-yukari
+    - h3-yamanashi-gaiyou
+  relations:
+  - pref/19
+  - muni/02-南部町
+  - muni/31-南部町
+  unknowns:
+  - 南部郷の文書上の初出
+  - 光行が南部を与えられた正確な年
+  - 2003年の合併時に旧町名「南部」を新町名とした選定理由の公式文
+  updated: '2026-11-13'
+- id: muni/19-大月市
+  code: '192066'
+  names:
+    ja: 大月市
+    reading: おおつきし
+    aliases:
+    - 大槻
+    - 大月町
+  user_terms:
+  - おおつき
+  - 猿橋のある市
+  - 富士急行線の分岐の市
+  - 大月の名前の由来
+  naming_type: 一部の地名
+  prefecture: 山梨県
+  homonyms: []
+  summary: 1954年（昭和29年）に北都留郡の3町4村が合併して誕生した市で、市名は中心地であった旧大月町の名を継承した。「大月」はもと「大槻（おおつき）」で、ケヤキの群生地に由来する名が、寛文検地の際に大きく見えた月から「大月」に転じたと言い伝えられている。甲州街道の宿場町として栄え、今も中央本線と富士急行線の分岐の交通の要衝である。
+  first_attestation:
+    era: 寛文年間
+    year_western: null
+    document: null
+    note: 市公式の由来説明による。「大槻」の呼称は寛永10年（1633年）の五ヶ堰完成の頃に始まったとされ、それが「大月」に転じたのは寛文年間の検地の際と伝えられる。いずれも言い伝えの層で、一次史料の確認は未了のため西暦年は null とした
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大月市の団体コードは192066と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 大月市によれば、昭和29年（1954年）8月に北都留郡の大月町・猿橋町・七保町・梁川村・初狩村・笹子村・賑岡村の3町4村が合併して大月市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-otsuki-city-masterplan
+  - text: 大月市によれば、旧大月町は合併自治体の中心に位置し、中央線と富士急行線の分岐点にあたるため「大月」の名称が全国的に広く知れ渡っており、これを市名とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-otsuki-city-yurai
+  - text: 大月は甲州街道の宿場町として、また養蚕・絹織物の特産地として発展してきた町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-otsuki-city-masterplan
+  - text: 寛永10年（1633年）に谷村城主の秋元但馬守秦朝が農業振興のため完成した水路「五ヶ堰」の付近に、大槻（ケヤキの別名）が群生していたことから、地区名が「大槻」と呼ばれるようになったと伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-otsuki-city-yurai
+  - text: その後、寛文検地の際、駒橋（現在の大月橋）から見た月がひときわ大きく見えたことから「大槻」が「大月」になったというのが、大月の由来と言われている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-otsuki-city-yurai
+  column:
+    title: ケヤキの「大槻」から月の「大月」へ
+    text: 大月の名は、もともと「大槻」——ケヤキの大木が群生する地を指す名でした。それが「大月」に変わったのは、検地の役人が橋の上から見た月があまりに大きかったから、という言い伝えが市の公式説明に残っています。読みは「おおつき」のまま、字だけが槻から月に替わった珍しい改字です。同じ読みで字が変わる地名は各地にありますが、理由が「月の見え方」というのは情緒のある事例です。
+    sources:
+    - v1-otsuki-city-yurai
+  relations:
+  - pref/19
+  unknowns:
+  - 「大槻」から「大月」への改字を一次史料（検地帳等）で確認することは未了で、市公式説明も言い伝えとしての紹介である
+  - 大月町の成立経緯（1933年（昭和8年）に広里村が町制を施行し大月町と改称したとされる）は、市公式資料での確認が未了
+  updated: '2026-11-13'
+- id: muni/19-富士吉田市
+  code: '192023'
+  names:
+    ja: 富士吉田市
+    reading: ふじよしだし
+    aliases:
+    - 富士上吉田町
+    - 下吉田町
+    - 明見町
+    - 上吉田村
+    - 吉田町
+  user_terms:
+  - 富士吉田の名前の由来
+  - ふじよしだ
+  - 御師のまち
+  - 吉田のうどんの市
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 市名は、古くからの地名「吉田」に「富士」を冠したものである。「吉田」は中世の『勝山記』にみえる古い地名で、富士山北麓の登拝拠点として御師の集住する町場を成した。昭和26年（1951年）に富士上吉田町・下吉田町・明見町の3町が合併して市になる際、協議会で「昔からの呼び名であった吉田に富士を冠し富士吉田」として市名が決められた。
+  first_attestation:
+    era: 文明12年
+    year_western: 1480
+    document: 勝山記
+    note: 富士吉田市歴史民俗博物館が、『勝山記』文明12年の条に「富士山吉田鳥井立」と記されていることを紹介するもの（原典そのものの確認はしていない）
+  claims:
+  - text: 「吉田」という地名は古くは『勝山記』の文明12年（1480年）の条に「富士山吉田鳥井立」と記されており、中世の段階には既に「吉田」という地名が使われていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-fujiyoshida-marubi
+  - text: 『勝山記』の天文14年（1545年）の雪代（ゆきしろ、雪解け水の洪水）の記録には「下吉田」の地名もみられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-fujiyoshida-marubi
+  - text: 吉田は富士山の北麓に形成された中世からの町場で、山体を遙拝する鳥居の前方に展開した登拝拠点の集落であり、富士御師や神職たちが集住した。御師の活動は16世紀から確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-fujiyoshida-whc
+  - text: 現在の上吉田の町は、元亀3年（1572年）に古吉田と呼ばれる旧地から移転し、再編されたことに起源をもつ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-fujiyoshida-whc
+  - text: 江戸時代に入ると、公には「上吉田村」といい、「吉田町」と通称され、町の入口には道者（登拝者）を改める登山改役所が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-fujiyoshida-whc
+  - text: 昭和26年（1951年）に富士上吉田町・下吉田町・明見町の3町が合併して市制が施行された。新しい市の名称については当時議論がなされ、三町合同議会協議会では「昔からの呼び名であった吉田に富士を冠し富士吉田として、最も適切な名称として富士吉田市とした」と記録されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-fujiyoshida-marubi
+  - text: 富士吉田市の地方公共団体コードは192023である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 道者を泊めた御師の町並み
+    text: 富士山に登る人々（道者）を自宅に泊め、登拝の世話をしたのが吉田の御師（おし）である。上吉田には御師の住宅が軒を連ね、その一つ旧外川家住宅は平成20年（2008年）に一般公開された。主屋の手前や奥に御神前を構える造りは、宿泊と祈祷を一体にした御師の暮らしを物語る。「吉田」という地名が市の名に残ったのは、単に古いからではなく、富士講の人々にとって「吉田」が登拝の入口として全国に知られた名だったからでもある。
+    sources:
+    - n3-fujiyoshida-marubi
+    - n3-fujiyoshida-whc
+  relations:
+  - pref/19
+  unknowns:
+  - 「吉田」の語源（なぜこの地が吉田と呼ばれるようになったか）は、本バッチでは確認できなかった
+  - 『勝山記』原文の直接確認はしていない
+  updated: '2026-11-13'
+- id: muni/19-山梨市
+  code: '192058'
+  names:
+    ja: 山梨市
+    reading: やまなしし
+    aliases:
+    - 山梨村
+    - 山梨郡
+  user_terms:
+  - やまなし
+  - 山梨県と同じ名前の市
+  - フルーツ公園のある市
+  - 山梨市の名前の由来
+  naming_type: 一部の地名
+  prefecture: 山梨県
+  homonyms: []
+  summary: 市名は古代甲斐国の郡名「山梨郡」に由来する。現在の市域は旧東山梨郡にあたり、昭和17年（1942年）に成立した山梨村の名を継いで、昭和29年（1954年）の合併で山梨市となった。県名「山梨県」も同じ山梨郡に由来し、県名（1871年）の方が市名（1954年）より先に成立している点で、市が県名のもとになったのではなく、郡名が共通の源泉である。
+  first_attestation:
+    era: 承平年間
+    year_western: null
+    document: 和名類聚抄
+    note: 地名「やまなし」の初出とされるもの。県の整理によれば、『和名類聚抄』（931〜938年頃成立）が甲斐国の筆頭に山梨郡を挙げ、読みを「夜萬奈之（やまなし）」と注している。二次資料の紹介による確認のため西暦年は特定せず null とした
+  claims:
+  - text: 総務省の全国地方公共団体コードで、山梨市の団体コードは192058と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 山梨県立図書館のレファレンス整理によれば、「山梨」は甲斐国の郡名「山梨郡」に由来する古い地名で、『和名類聚抄』が読みを「夜萬奈之（やまなし）」と注している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ndl-yamanashi
+  - text: 山梨県によれば、甲斐国は山梨・八代・巨摩・都留の4郡からなり、明治4年（1871年）11月の廃藩置県で、県庁の置かれた甲府が属する山梨郡の名をとって山梨県となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-yamanashi-ken
+  - text: 「やまなし」の語源については、果物のヤマナシがたくさんとれたからとする説と、山をならして平地にした「山ならし」によるとする説など、たくさんの説があり確定していないと山梨県が説明している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-yamanashi-ken
+  - text: この地には、山にヤマナシ（梨の原種）の実がたくさん実ったことから「やまなし」と呼ばれるようになったという言い伝えが語り継がれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - c-yamanashi-ken
+  - text: 山梨市によれば、昭和17年（1942年）7月1日に平等村と上万力村が合併して山梨村が成立し、その名がのちの市名の直接の前身となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-yamanashi-city-hensen
+  - text: 山梨市によれば、昭和29年（1954年）7月1日に山梨村・八幡村・岩手村・日下部町・加納岩町・後屋敷村・日川村の7町村が合併して山梨市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-yamanashi-city-hensen
+  - text: 山梨市によれば、平成17年（2005年）3月22日に旧山梨市・牧丘町・三富村が合併し、新「山梨市」が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-yamanashi-city-gaiyou
+  column:
+    title: 県名と市名、どちらが先か
+    text: 「山梨市」という名前を見ると、県名にちなんで付けられた市名のように思えます。しかし実際は逆で、両者の源泉は古代の郡名「山梨郡」です。県名は明治4年（1871年）に郡名をとって成立しましたが、市名が成立したのは昭和29年（1954年）で、80年以上も県名の方が先でした。日本で県名と完全に同じ名前の市は珍しく、郡名という共通の祖先を持つ「兄弟」のような関係です。
+    sources:
+    - c-yamanashi-ken
+    - v1-yamanashi-city-hensen
+  relations:
+  - pref/19
+  unknowns:
+  - 1954年の市制時に「山梨市」という名称が選ばれた経緯（合併協議の記録）は、市公式の変遷資料では確認できなかった
+  - 「やまなし」の語源はヤマナシ説・山ならし説など諸説が対立したままで、専門辞典による決着は未確認
+  updated: '2026-11-13'
+- id: muni/19-甲州市
+  code: '192139'
+  names:
+    ja: 甲州市
+    reading: こうしゅうし
+    aliases:
+    - 塩山市
+    - 勝沼町
+    - 大和村
+  user_terms:
+  - 甲州市の名前の由来
+  - こうしゅうし
+  - 甲州ワインの市
+  - 塩山・勝沼の合併市
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 甲州市は、平成17年（2005年）11月1日に塩山市・勝沼町・大和村の3市町村が合併して誕生した。市名の「甲州」は、律令制の国名・甲斐国の別称であり、甲州街道、甲州葡萄、甲州ワインなど「甲州」を冠する歴史と特産に恵まれた地域の名として、公募によって新市名に選ばれた。市域は武田信玄・勝頼父子ゆかりの「武田家終焉の地」でもある。
+  first_attestation:
+    era: 近世
+    year_western: null
+    document: 甲州街道関係史料ほか
+    note: 「甲州」は甲斐国の別称として近世には甲州街道・甲州葡萄などの用例に広く現れるが、別称としての初出の特定は本バッチでは行っていない
+  claims:
+  - text: 甲州市は、平成17年（2005年）11月1日に旧塩山市・旧勝沼町・旧大和村の3市町村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-koshu-mlit
+  - text: 新市名は公募によって決められ、公募の上位候補には「甲州」のほか「武田」「峡東」「東山梨」「フルーツ」「大菩薩」などが並んだ中から「甲州市」が選ばれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n3-koshu-uub
+    - n3-koshu-mytabi
+  - text: 「甲州」が選ばれた理由の一つとして、市域が甲州葡萄や甲州ワイン、甲州百目柿など、甲州を冠する特産物に恵まれていることが挙げられている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n3-koshu-mytabi
+  - text: 合併前の中心市であった塩山市は、昭和29年（1954年）4月5日に市制を施行していた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n3-koshu-uub
+  - text: 旧勝沼町は近世に整備された甲州街道の宿場町・勝沼宿として栄え、旅人に提供したブドウは街道を通って江戸にも運ばれ、勝沼の名産品として広く知れ渡った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-koshu-mlit
+  - text: 市内には武田信玄の菩提寺である恵林寺と、子の勝頼の菩提寺を支える景徳院があり、甲州市は武田家終焉の地として知られている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n3-koshu-mlit
+  - text: 甲州市の地方公共団体コードは192139である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「甲州」の名がつなぐ、武田家終焉の地
+    text: 新市名の公募では「武田」も有力な候補だった。信玄の菩提寺・恵林寺、勝頼の菩提寺・景徳院を擁し、武田家が滅んだ天目山を抱えるこの地にとって、「武田」は強い名である。それでも選ばれたのは「甲州」だった。甲州は一つの家ではなく国全体の別称であり、街道の名であり、ブドウとワインの名でもある。3市町村のどこか一つの歴史に寄らず、地域全体を包む名を選んだことが、この合併の性格をよく表している。
+    sources:
+    - n3-koshu-mlit
+    - n3-koshu-uub
+  relations:
+  - pref/19
+  unknowns:
+  - 新市名の公募件数や最終選考の経過の詳細は、市の公式資料では本バッチで確認できなかった
+  - 甲斐国の別称としての「甲州」の初出は、本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/19-甲府市
+  code: '192015'
+  names:
+    ja: 甲府市
+    reading: こうふし
+    aliases:
+    - 甲府町
+    - 甲斐府中
+  user_terms:
+  - 甲府市の名前の由来
+  - 甲府はなぜ甲府というのか
+  - 甲斐府中の略とは
+  - 武田信虎と甲府の関係
+  naming_type: 一部の地名
+  prefecture: 山梨県
+  homonyms: []
+  summary: 市名は城下町「甲府」の名を受け継いだもので、甲府市公式は「甲府とは『甲斐の府中』の略」と説明する。永正16年（1519）に武田信虎が躑躅ヶ崎に居館を移して城下町をつくったときに名付けたといわれ、名称が広く定着したのは近世になってからとされる。明治22年（1889）に市制が施行された。
+  first_attestation:
+    era: 永正16年
+    year_western: 1519
+    document: 躑躅ヶ崎の城下町建設に伴う命名（甲府市公式解説）
+    note: 市公式は1519年の信虎の城下町建設時に名付けたと伝えるが、「甲府」表記の同時代の初出文書は特定できていない。名称の定着は近世以降と市公式も述べる
+  claims:
+  - text: 甲府市公式は「甲府とは『甲斐の府中』の略です」と説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kofu-city
+  - text: 府中とは国の政治・経済・文化の中心地を意味する言葉であり、「甲府」の名は甲斐国の中心地という位置づけを負っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kofu-city
+  - text: 永正16年（1519）、武田信虎が躑躅ヶ崎（現在の武田神社境内）に居館を移し城下町をつくったときに「甲府」と名付けたといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kofu-city
+  - text: 「甲府」という名称が定着したのは近世になってからのようだと、市公式も留保している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kofu-city
+  - text: 市制は明治22年（1889）7月1日に施行され、当時の人口は3万1,128人だった。市役所の開庁は10月になってからだった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kofu-city
+  - text: 現在の市制施行記念日は施行日（7月1日）ではなく、開庁や当時の祝祭日にちなんで10月17日とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kofu-city
+  - text: 総務省の全国地方公共団体コードで、甲府市の団体コードは192015と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 市の誕生日が2回ある
+    text: 甲府市の市制施行記念日は10月17日です。ところが実際に市制が施行されたのは、明治22年（1889）7月1日でした。事務手続きや諸機関の整備のため市役所の開庁が10月にずれ込んだうえ、7月は農繁期で人出も見込めず、10月17日は当時の祝祭日「神嘗祭」にあたる吉日でもあったため、この日が記念日になったのだと市は説明します。初の市制祭は3日間にわたって盛大に行われたそうです。「市の誕生日」が施行日と記念日でずれているのは、制度と実際の暮らしの時間のずれが記念日に刻まれた例と言えます。
+    sources:
+    - c-cap-kofu-city
+  relations:
+  - pref/19
+  unknowns:
+  - 「甲府」表記の同時代（戦国期）の初出文書は特定できておらず、1519年の命名は市の伝承的な説明にとどまる
+  - 律令期の甲斐国府は現在の甲府市ではなく笛吹市付近に比定されており、「甲斐の府中」という名が指す中心地は時代とともに移動している。この位置のずれの検証は本バッチでは未了
+  - 武田信玄自身が「甲府」の名を用いた同時代史料の有無は未確認
+  updated: '2026-11-13'
+- id: muni/19-甲斐市
+  code: '192104'
+  names:
+    ja: 甲斐市
+    reading: かいし
+    aliases:
+    - 竜王町
+    - 敷島町
+    - 双葉町
+  user_terms:
+  - かい
+  - 甲斐の国の一部の市
+  - 竜王・敷島・双葉
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 2004年（平成16年）に竜王町・敷島町・双葉町の3町が合併して誕生した市。市名「甲斐」は合併に際して公募で選ばれ、律令制以来の旧国名「甲斐国」に由来する。合併した3町の名はいずれも継承されず、県全域を指してきた広域地名が一つの市の名になった。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: null
+    note: 市名としての初出は命名そのもの。2004年9月1日の合併発足に先立ち、公募により「甲斐」が新市名に決定した。地名としての「甲斐」自体は律令制の国名に遡る古い名である
+  claims:
+  - text: 総務省の全国地方公共団体コードで、甲斐市の団体コードは192104と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 甲斐市によれば、平成16年（2004年）9月1日に旧竜王町・旧敷島町・旧双葉町の3町が合併して甲斐市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kai-city-keikaku
+  - text: 甲斐市によれば、市の名前「甲斐」は合併前に皆様から公募して決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kai-city-keikaku
+  - text: 甲斐市によれば、「甲斐」は古くから山梨の名称として使われてきた文字で、郷土意識の原点として強く染み付いている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kai-city-keikaku
+  - text: 山梨県の県勢資料によれば、律令体制の甲斐国は山梨・八代・巨摩・都留の4郡31郷から成っており、「甲斐」は現在の山梨県全域を指す国名であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kai-pref-sugata
+  - text: 合併した竜王町・敷島町・双葉町はいずれも旧町名を市名に継承せず、新市名は旧3町の名とは別の広域地名「甲斐」が選ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kai-city-keikaku
+  column:
+    title: 県全域の国名を一つの市が引き受けた
+    text: 「甲斐」はもともと律令制の国名で、現在の山梨県全域を指す言葉でした。ところが2004年の合併で、甲府市の西隣の3町が作る新市の名前として公募で選ばれました。武田信玄の「甲斐の国」のイメージが強い土地だけに、県内では反響もあった命名ですが、市は「郷土意識の原点として染み付いている文字」と説明しています。国名がそのまま市名になった例は全国でも珍しく、音の響きの良さと知名度が決め手になったと考えられます。
+    sources:
+    - v1-kai-city-keikaku
+    - v1-kai-pref-sugata
+  relations:
+  - pref/19
+  unknowns:
+  - 公募の応募総数と他候補の内訳は、市総合計画の抜粋範囲では確認できなかった
+  - 国名「甲斐」の語源そのもの（甲斐国の名の由来）は諸説があり、本レコードでは未確認
+  updated: '2026-11-13'
+- id: muni/19-笛吹市
+  code: '192112'
+  names:
+    ja: 笛吹市
+    reading: ふえふきし
+    aliases:
+    - 石和町
+    - 御坂町
+    - 一宮町
+    - 八代町
+    - 境川村
+    - 春日居町
+  user_terms:
+  - ふえふき
+  - 笛吹川の市
+  - 石和温泉の市
+  - 桃とぶどう日本一の市
+  naming_type: 合併新設
+  prefecture: 山梨県
+  homonyms: []
+  summary: 2004年（平成16年）に石和町など東八代郡・東山梨郡の6町村が合併して誕生した市。市名は全国公募から選ばれ、市域を流れる笛吹川に由来する。川の名には、洪水で母を失った青年が笛を吹きながら母を探し歩いたという「笛吹権三郎」の民話が結びついている。2006年には芦川村を編入して現在の市域となった。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: null
+    note: 市名としての初出は命名そのもの。2004年10月12日の合併に先立つ公募で「笛吹市」に決定した。川名「笛吹川」自体はそれ以前からある地名だが、その名が史料に現れる初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、笛吹市の団体コードは192112と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 笛吹市によれば、平成16年（2004年）10月12日に石和町・御坂町・一宮町・八代町・境川村・春日居町の6町村が合併して笛吹市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-fuefuki-city-profile
+  - text: 笛吹市によれば、新市の名前は全国公募され、954種類4,442件の応募の中から「笛吹市」と「峡東市」の2点に絞り込まれ、決選投票の結果、笛吹市に決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-fuefuki-city-profile
+  - text: 笛吹市によれば、市名には、合併した6町村を流れる水が笛吹川に集まってくるように、幾筋もの流れが大きな流れとなり山梨の中心的な存在として大海（全国）に飛躍するようにとの願いが込められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-fuefuki-city-profile
+  - text: 笛吹市によれば、合併した6町村は笛吹川の流域にあり、市域の中央を笛吹川が流れている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-fuefuki-city-profile
+  - text: 笛吹市によれば、平成18年（2006年）8月1日に芦川村と編入合併し、現在の笛吹市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-fuefuki-city-profile
+  - text: 笛吹川の名前の由来は、水害で流された母親を笛を吹きながら探し歩いたという「笛吹権三郎」の民話によって語り継がれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-fuefuki-city-isawa
+  column:
+    title: 決選投票で敗れた「峡東市」
+    text: 笛吹市の市名選びは、全国公募4,442件から「笛吹市」と「峡東市」の2候補に絞られ、決選投票で決まりました。峡東（きょうとう）は甲府盆地の東側を指す地域名で、地理的には有力な候補でしたが、川の名が勝ちました。決め手になったのは、市を流れる笛吹川が6町村すべてに共通する存在だったこと。どの町村の名前も残さない「中立の名前」として、川の名は最も公平だったのです。
+    sources:
+    - v1-fuefuki-city-profile
+  relations:
+  - pref/19
+  unknowns:
+  - 笛吹川という川名自体の成立時期・史料上の初出は未確認で、笛吹権三郎の民話が川名の実際の語源かどうかは検証できない
+  - 決選投票の票数など合併協議会の一次資料での詳細は未確認
+  updated: '2026-11-13'
+- id: muni/19-都留市
+  code: '192040'
+  names:
+    ja: 都留市
+    reading: つるし
+    aliases:
+    - 連葛
+    - 豆留
+    - 谷村町
+    - 都留郡
+  user_terms:
+  - つる
+  - 鶴の名前の市
+  - 都留文科大学のある市
+  - 郡内地方の中心
+  naming_type: 一部の地名
+  prefecture: 山梨県
+  homonyms: []
+  summary: 市名は古代甲斐国の郡名「都留郡」に由来する。1954年（昭和29年）に谷村町など5町村が合併して市制を施行した際、中心地の町名ではなく郡全体の名が市名に選ばれた。「つる」の語源については、富士の裾野が蔓のように延びる地形から「連葛（つる）」「豆留」と書かれたとする市の説明と、長寿の鳥・鶴にあやかったとする言い伝えが重なっている。
+  first_attestation:
+    era: 大宝年間
+    year_western: null
+    document: null
+    note: 市公式白書によれば、大宝元年（701年）の大宝律令で甲斐国に都留郡が設置され、郡内に都留郷を含む7郷が置かれた。「都留」の地名表記の初出を一次史料で確認することは未了のため、西暦年は律令制定年ではなく null とした
+  claims:
+  - text: 総務省の全国地方公共団体コードで、都留市の団体コードは192040と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 都留市によれば、大宝元年（701年）の大宝律令の制定により甲斐国には都留・山梨・八代・巨摩の4郡が設置され、現在の市域は都留郡に属し、郡内には都留郷を含む7郷が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-tsuru-city-hakusyo
+  - text: 都留市によれば、昭和29年（1954年）4月に谷村町・宝村・禾生村・盛里村・東桂村が合併し、市制を施行して都留市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-tsuru-city-hakusyo
+  - text: 市名は合併した町村のいずれの名でもなく、古代以来の郡名「都留郡」の名が採用され、郡の中心にあった谷村町の名は継承されなかった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-tsuru-city-hakusyo
+  - text: 「都留」の名は、富士山の裾野が蔓のように延びており、この地域がその様子から「連葛」「豆留」（いずれも「つる」）と呼ばれていたことに由来すると言われている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-tsuru-city-hakusyo
+  - text: 音の「ツル」から長寿の鳥である鶴を連想し、長寿の里として万葉集にも詠われたこのめでたい地名にちなんで「都留」と名付けたと、市は説明している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-tsuru-city-shisho
+  - text: 都留市によれば、「つる」という名前には、この地に多く生息していたとされる鶴の名にあやかったという言い伝えもある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-tsuru-city-hakusyo
+  column:
+    title: 蔓の「つる」が鶴の「都留」になるまで
+    text: 都留の「つる」は、もともと植物の蔓（つる）を指す地形の名だったと市は説明します。富士の裾野が蔓のように長く延びる姿に由来し、「連葛」「豆留」といった当て字で書かれていました。ところが音が同じ「鶴」は長寿の象徴で、都留は「長寿の里」として万葉集にも詠われたと伝えられます。最終的に選ばれた「都留」の字は、都（みやこ）の都を含むめでたい字面で、郡の名として千年以上受け継がれてきました。植物の名が鳥の名に読み替えられ、さらに佳字が選ばれる——地名の表記が時代ごとに磨かれていく様子がよく分かる事例です。
+    sources:
+    - v1-tsuru-city-hakusyo
+    - v1-tsuru-city-shisho
+  relations:
+  - pref/19
+  unknowns:
+  - 「連葛」「豆留」という古表記が実際にどの史料に現れるか、一次確認は未了
+  - 万葉集に都留が「長寿の里」として詠われたとする市の説明について、具体的な歌と番号の確認は未了
+  updated: '2026-11-13'
+- id: muni/19-韮崎市
+  code: '192074'
+  names:
+    ja: 韮崎市
+    reading: にらさきし
+    aliases:
+    - 韮崎町
+    - 韮崎宿
+  user_terms:
+  - にらさき
+  - 七里岩のある市
+  - 新府城のある市
+  - 韮崎の名前の由来
+  naming_type: 一部の地名
+  prefecture: 山梨県
+  homonyms: []
+  summary: 1954年（昭和29年）に韮崎町など1町10村が合併して誕生した市で、市名は旧韮崎町の名を継承した。「韮崎」は、市域を二分する長大な台地・七里岩の先端（崎）を指す地名とされ、その先端がニラ（韮）の葉のように尖って見えたことによると言い伝えられる。近世には甲州街道の宿場・韮崎宿として栄えた。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 地名「韮崎」の史料上の初出は未確認。近世には甲州街道の宿場町「韮崎宿」として知られ、江戸時代の宿駅の名が町名・市名の直接の前身である
+  claims:
+  - text: 総務省の全国地方公共団体コードで、韮崎市の団体コードは192074と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 韮崎市によれば、昭和29年（1954年）10月10日に韮崎町・穂坂村・藤井村・中田村・穴山村・円野村・清哲村・神山村・旭村・大草村・竜岡村の1町10村が合併して韮崎市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nirasaki-city-youran
+  - text: 市名は合併の中心であった旧韮崎町の名をそのまま継承した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nirasaki-city-youran
+  - text: 韮崎市によれば、七里岩は約20万年前の八ヶ岳の山崩れによって生じた大規模な台地で、釜無川の浸食による断崖の総延長が約30kmに及ぶことから「七里岩」と呼ばれるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nirasaki-city-shichiriiwa
+  - text: 韮崎市観光協会によれば、七里岩の西側には韮崎宿から諏訪へ結ぶ甲州街道があり、韮崎は近世の宿場町として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nirasaki-kankou-shichiriiwa
+  - text: 七里岩の先端がニラ（韮）の葉のように尖っていることから、その先端の地が「韮崎」と呼ばれるようになったと言われている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-nirasaki-kankou-shichiriiwa
+  column:
+    title: ニラの葉の形をした台地の先端
+    text: 韮崎市の真ん中を、長さ約30kmにも及ぶ断崖「七里岩」が貫いています。韮崎観光協会の説明では、この台地の先端がニラの細長い葉のように尖って見えたことが「韮崎」の名の起こりとされています。野菜の名前が市名になっている自治体は全国でも珍しく、初めて聞く人には強烈な印象を残します。なお、七里岩の断崖は武田勝頼が最後の居城・新府城を築いた地でもあり、名勝地として国の登録記念物になっています。
+    sources:
+    - v1-nirasaki-kankou-shichiriiwa
+    - v1-nirasaki-city-shichiriiwa
+  relations:
+  - pref/19
+  unknowns:
+  - 「韮崎」の地名の初出文献と、七里岩の形状説を記した専門辞典（角川日本地名大辞典等）の記述は未確認
+  - ニラの群生地説については公的資料での裏付けが取れていない
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  c-cap-kofu-city:
+    label: 甲府市「『甲府』の地名の由来は？」（市公式広報ページ。甲斐府中の略・信虎の命名・市制施行を収録）
+    url: https://www.city.kofu.yamanashi.jp/senior/kamejii/013.html
+  h3-tottori-gikai:
+    label: 南部町（鳥取県）・南部町議会「南部町及び南部町議会の概要（令和8年4月版）」（新町名の理由を含む）
+    url: https://www.town.nanbu.tottori.jp/user/filer_public/c1/0e/c10e77bf-f699-4aaa-bb48-b762ae8861c5/reiwa-8-nen-4-gatuban-_-nanbu-mati-oyobi-nanbu-tyougikai-no-gaiyou-26-04-01ver.pdf
+  h3-yamanashi-gaiyou:
+    label: 南部町（山梨県）「町の概要」（歴史・沿革）
+    url: https://www.town.nanbu.yamanashi.jp/syoukai/gaiyou.html
+  h3-yamanashi-plan:
+    label: 南部町（山梨県）「第2次南部町総合計画」（南部氏の名称の由来を含む）
+    url: https://www.town.nanbu.yamanashi.jp/syoukai/files/sougoukeikaku-st2_01.pdf
+  h3-yamanashi-yukari:
+    label: 南部町（山梨県）観光サイト「南部氏ゆかりの地」
+    url: https://www.town.nanbu.yamanashi.jp/kankou/rekishi/nanbushi/yukari.html
+  n3-fujiyoshida-marubi:
+    label: 富士吉田市歴史民俗博物館 MARUBI 36「富士吉田あれこれ」（勝山記にみえる吉田・下吉田の地名、昭和26年の市制と三町協議会による富士吉田の命名、御師の外川家）
+    url: https://www.fy-museum.jp/div/fujisan-museum/pdf/marubi/marubi36.pdf
+  n3-fujiyoshida-whc:
+    label: 山梨県立富士山世界遺産センター「吉田口」（中世からの町場としての吉田、16世紀から確認できる御師の活動、元亀3年の古吉田からの移転、上吉田村と吉田町の通称）
+    url: https://www.fujisan-whc.jp/archive/documents/h30-1.pdf
+  n3-kana-uub:
+    label: 都道府県市区町村「ひらがな・カタカナの市区町村」（南アルプス市誕生時のカタカナ市名をめぐる報道と、過去のコザ市の存在）
+    url: https://uub.jp/cpf/kana.html
+  n3-koshu-mlit:
+    label: 国土交通省「甲州市歴史的風致維持向上計画の概要」（平成17年に塩山市・勝沼町・大和村が合併して甲州市が誕生、甲州街道の勝沼宿、恵林寺と景徳院・武田家終焉の地）
+    url: https://www.mlit.go.jp/common/001260067.pdf
+  n3-koshu-mytabi:
+    label: 山梨県観光情報サイト「甲州市」（市名は公募で決定され、甲州を冠する特産品が多いことが理由の一つ）
+    url: https://yamanashi.mytabi.net/koshu-city.php
+  n3-koshu-uub:
+    label: 都道府県市区町村「山梨県 甲州市の新設（2005年11月1日）」（東山梨地域合併協議会の経過、新市名公募の上位候補、塩山市の市制は1954年4月5日）
+    url: https://uub.jp/upd/u/u271.html
+  n3-minamialps-ayumi:
+    label: 南アルプス市「南アルプス市誕生までの歩み（南アルプス市誕生の記録）」（平成15年4月1日に八田村・白根町・芦安村・若草町・櫛形町・甲西町が合併、白根町の名は白根三山に由来、昭和39年の南アルプス国立公園誕生）
+    url: https://www.city.minami-alps.yamanashi.jp/fs/2/5/1/1/2/_/file04_2.pdf
+  n3-minamialps-date:
+    label: 福島県伊達市 伊達7町合併協議会資料「新市の名称について」（先進地事例として南アルプス市の名称決定方法：小委員会が公募から3点に絞り協議会委員の投票で最多の名称を選んだ）
+    url: https://www.city.fukushima-date.lg.jp/uploaded/attachment/3319.pdf
+  v1-chuo-city-20th:
+    label: 中央市公式「中央市 市制施行20周年」（平成18年（2006年）2月20日に玉穂町・田富町・豊富村の2町1村の合併によって中央市が誕生したことを記す）
+    url: https://www.city.chuo.yamanashi.jp/soshiki/seisaku/hisho/14368.html
+  v1-chuo-city-keii:
+    label: 中央市公式「合併の経緯」（平成16年（2004年）9月27日に第1回玉穂町・田富町・豊富村合併協議会が開かれたこと、新市名称選考委員会が設置され平成17年（2005年）1月5日から20日に新市名称公募が行われたこと、平成17年7月11日に県知事による合併の決定、10月5日に総務大臣告示があったことを記す）
+    url: https://www.city.chuo.yamanashi.jp/soshiki/seisaku/siseisenryaku/keii/450.html
+  v1-chuo-city-profile:
+    label: 中央市公式「中央市プロフィール」（中央市は山梨県の中央南部に位置し、東は甲府市、北は昭和町、西は南アルプス市、南は市川三郷町に接すること、平坦部の玉穂・田富地区と山間部の豊富地区からなることを記す）
+    url: https://www.city.chuo.yamanashi.jp/soshiki/seisaku/hisho/653.html
+  v1-fuefuki-city-isawa:
+    label: 笛吹市公式「明治40年の大水害・小松導平・石和温泉」（笛吹川の名前の由来は、水害で流された母親を笛を吹きながら探したという「笛吹権三郎」の民話に語られていることを記す）
+    url: https://www.city.fuefuki.yamanashi.jp/documents/607/3isawaonnsen.pdf
+  v1-fuefuki-city-profile:
+    label: 笛吹市公式「笛吹市のプロフィール」の「由来」（平成16年（2004年）10月12日に石和町・御坂町・一宮町・八代町・境川村・春日居町の6町村が合併する際、新市の名前を全国公募し954種類4,442件の応募から「笛吹市」と「峡東市」の2点に絞り、決選投票で笛吹市に決定したこと、6町村を流れる水が笛吹川に集まるような願いを込めた名称であること、平成18年（2006年）8月1日に芦川村と編入合併したことを記す）
+    url: https://www.city.fuefuki.yamanashi.jp/kikaku/shisejoho/shinogaiyo/profile/index.html
+  v1-hokuto-city-enkaku:
+    label: 北杜市公式「北杜市の沿革」（「杜」は山野に自生するバラ科の果樹「やまなし」と「森」という意味があり、「北杜」は山梨県の北部を意味すること、市の名称は平成15年（2003年）8月に一般公募の中から決まったこと、平成16年（2004年）11月1日に7町村が合併して北杜市が誕生したことを記す）
+    url: https://www.city.hokuto.yamanashi.jp/docs/1498.html
+  v1-hokuto-city-gappei:
+    label: 北杜市公式「合併の経緯」（平成16年（2004年）11月1日に北巨摩郡の明野村・須玉町・高根町・長坂町・大泉村・白州町・武川村の7町村が合併して北杜市が誕生したこと、平成18年（2006年）3月15日に小淵沢町と合併して新・北杜市となったことを記す）
+    url: http://www.city.hokuto.yamanashi.jp/docs/1052.html
+  v1-kai-city-keikaku:
+    label: 甲斐市「第3次甲斐市総合計画 第1編総論・第2編基本構想」（平成16年（2004年）9月1日に旧竜王町・旧敷島町・旧双葉町の3町が合併して甲斐市が誕生したこと、合併前に皆様から公募し決定した市の名前「甲斐」は、古くから山梨の名称として使われ、郷土意識の原点として強く染み付いている文字であることを記す）
+    url: https://www.city.kai.yamanashi.jp/uploaded/attachment/1647.pdf
+  v1-kai-pref-sugata:
+    label: 山梨県「山梨県のすがた（県勢）」沿革（律令体制の甲斐国は山梨・八代・巨摩・都留の4郡31郷から成っていたことを記す）
+    url: https://www.pref.yamanashi.jp/toukei_2/book/DATA/22dai_1.pdf
+  v1-nirasaki-city-shichiriiwa:
+    label: 韮崎市公式「七里岩が国の登録記念物《名勝地》に」（七里岩台地は約20万年前の八ヶ岳の山崩れによって生じた大規模な台地で、釜無川の浸食による断崖の総延長が約30kmに及ぶことから「七里岩」と呼ばれるようになったこと、断崖を利用して武田勝頼が新府城を築いたことを記す）
+    url: https://www.city.nirasaki.lg.jp/material/files/group/4/sitiriiwa.pdf
+  v1-nirasaki-city-youran:
+    label: 韮崎市公式「韮崎要覧2015・韮崎市60年のあゆみ」（昭和29年（1954年）10月10日に韮崎町・穂坂村・藤井村・中田村・穴山村・円野村・清哲村・神山村・旭村・大草村・竜岡村の1町10ヵ村が合併して韮崎市が誕生したことを記す）
+    url: https://www.city.nirasaki.lg.jp/material/files/group/4/26-37.pdf
+  v1-nirasaki-kankou-shichiriiwa:
+    label: 韮崎市観光協会「七里岩」（七里岩は八ヶ岳の噴火による岩屑流が釜無川と塩川に浸食されてできたこと、七里岩の先端がニラの葉のように尖っていることから「韮崎」の市名となったとも言われていること、西側には韮崎宿から諏訪を結ぶ甲州街道があったことを記す）
+    url: https://www.nirasaki-kankou.jp/kankou_spot/shizen/shizen_dousyokubutsu/7612.html
+  v1-otsuki-city-masterplan:
+    label: 大月市「おおつき創生 都市計画マスタープラン」第1編（昭和29年（1954年）8月に北都留郡の大月町・猿橋町・七保町・梁川村・初狩村・笹子村・賑岡村の3町4村が合併して大月市となったこと、甲州街道の宿場町として発展したことを記す）
+    url: http://www.city.otsuki.yamanashi.jp/gyoumu/12chiikiseibi/files/01%20souseiplan1pen%201shou.pdf
+  v1-otsuki-city-yurai:
+    label: 大月市公式「大月市名の由来」（旧大月町が合併する3町4村の中心に位置し、中央線と富士急行線の分岐点で「大月」の名が全国的に広く知れ渡っていたことから市名としたこと、寛永10年（1633年）に谷村城主・秋元但馬守秦朝が完成した水路「五ヶ堰」付近に大槻（ケヤキの別名）が群生して地区名が「大槻」と呼ばれたこと、その後、寛文検地の際に駒橋から見た月がひときわ大きく見えたことから「大槻」が「大月」になったという由来が伝えられていることを記す）
+    url: https://www.city.otsuki.yamanashi.jp/profile/otsukishi_yurai.html
+  v1-tsuru-city-hakusyo:
+    label: 都留市「都留市自治体経営白書（令和4年度版）」の「都留市について」（「都留」という名前は、富士山の裾野が蔓のように延びており、その様子から「連葛」「豆留」（いずれも「つる」）と呼ばれていたこと、またこの地に多く生息していたとされる長寿の鳥「鶴」の名にあやかったと言われていること、大宝元年（701年）の大宝律令で甲斐国に都留・山梨・八代・巨摩の4郡が設置され都留郡に都留郷を含む7郷が置かれたこと、昭和29年（1954年）4月に谷村町・宝村・禾生村・盛里村・東桂村が合併し市制を施行したことを記す）
+    url: https://www.city.tsuru.yamanashi.jp/material/files/group/3/R4hakusyo.pdf
+  v1-tsuru-city-shisho:
+    label: 都留市公式「市章・憲章・木・花・鳥」（「都留」の起源はむかし、富士の裾野を蔓ののびた様子に想像し「連葛」「豆留」などと書かれていたこと、音の「ツル」から鶴を連想し長寿の里として万葉集にも詠われたこと、このめでたい地名にちなんで町は「都留」と名付けたことを記す）
+    url: https://www.city.tsuru.yamanashi.jp/shigai/tsurushinoshokai/tsurushinoprofile/7529.html
+  v1-uenohara-city-profile:
+    label: 上野原市公式「上野原市の紹介」（秋山村と上野原町は古代・律令制では甲斐国の都留郡に属していたこと、昭和30年（1955年）に8町村が合併して上野原町が誕生したこと、平成15年（2003年）4月に合併協議会を設置し平成17年（2005年）2月13日に新設（対等）合併で上野原市が誕生したこと、桂川などが形成した河岸段丘が住民の生活基盤となっていることを記す）
+    url: https://www.city.uenohara.yamanashi.jp/site/profile
+  v1-uenohara-yuzuriha-guide:
+    label: 郷土資料「長寿の里・棡原ガイド」（上野原市棡原地区）（用水ができる前の上野原町は河岸段丘上の台地のため水利に恵まれず苦労が多かったこと、上野原用水の完成で台地が水田地帯に変わったことを記す）
+    url: https://sd64e04692056d47a.jimcontent.com/download/version/0/module/13809262789/name/%E9%95%B7%E5%AF%BF%E3%81%AE%E9%87%8C%E3%83%BB%E6%A3%A1%E5%8E%9F%E3%82%AC%E3%82%A4%E3%83%89.docx.pdf
+  v1-yamanashi-city-gaiyou:
+    label: 山梨市公式「市の概要」（平成17年（2005年）3月22日に山梨市・牧丘町・三富村が合併し、新「山梨市」が誕生したことを記す）
+    url: https://www.city.yamanashi.yamanashi.jp/soshiki/5/7213.html
+  v1-yamanashi-city-hensen:
+    label: 山梨市公式「新『山梨市』が誕生するまでの変遷」（昭和17年（1942年）7月1日に平等村と上万力村が合併して山梨村となったこと、昭和29年（1954年）7月1日に山梨村・八幡村・岩手村・日下部町・加納岩町・後屋敷村・日川村の7町村が合併して山梨市が誕生したこと、平成17年（2005年）3月22日に新・山梨市となったことを記す）
+    url: https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/5802.pdf

@@ -1,0 +1,936 @@
+prefecture_code: '17'
+records:
+- id: muni/17-かほく市
+  code: '172090'
+  names:
+    ja: かほく市
+    reading: かほくし
+    aliases:
+    - 高松町
+    - 七塚町
+    - 宇ノ気町
+  user_terms:
+  - かほく
+  - 河北郡の市
+  - ひらがなの市名
+  - かほく市の名前の由来
+  naming_type: 合併新設
+  prefecture: 石川県
+  homonyms: []
+  summary: かほく市は2004年（平成16年）3月1日、河北郡の高松町・七塚町・宇ノ気町の3町が新設合併して生まれた市で、石川県内の平成の市町村合併の第1号である。市名は3町の属した郡名「河北（かほく）」を平仮名で表記したもので、公募をもとに合併協議会で決定された。漢字でなく平仮名を選んだ公式の理由は確認できていない。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: null
+    note: 市名「かほく」としての初出は2004年3月1日の市設置。もとになった郡名「河北」の成立はこれより古いが、その初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、かほく市の団体コードは172090と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: かほく市は、河北郡高松町・七塚町・宇ノ気町が2004年3月1日に新設合併して設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-kahoku-gappei-case
+  - text: かほく市によれば、同市は石川県内の市町村合併の第1号として誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-kahoku-mayor
+  - text: 合併事例資料によれば、新市の名称は公募（応募総数1,772通）から「新市の名称候補選定小委員会」が5作品を選定し、その後合併協議会で決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-kahoku-gappei-case
+  - text: 合併事例資料によれば、名称の選定にあたっては各町で取りまとめた意見が「かほく市」で一致していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-kahoku-gappei-case
+  - text: 合併事例資料によれば、合併の方式は、3町が人口・財政規模等について同規模であったことから新設合併とされた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-kahoku-gappei-case
+  column:
+    title: 郡の名を残して、漢字を手放した
+    text: かほく市の3町は、合併しても河北郡から完全には離れませんでした。郡には津幡町と内灘町が残り、「河北」という由緒ある郡名はそちらに残ったためか、新市の名は音だけを引き継いで平仮名の「かほく」になりました。公募で集まった1,772通の中から選ばれたこの名には、3町の住民の意見が見事に一致したといいます。なお、平仮名を選んだ理由について公式の説明は残されておらず、「郡名に遠慮したのではないか」という見方は外部の推測にとどまります。
+    sources:
+    - u6-kahoku-gappei-case
+  relations:
+  - pref/17
+  unknowns:
+  - 「河北市」でなく平仮名の「かほく市」とした公式の理由は、合併協議会資料・市公式サイトでは確認できなかった（郡名が津幡町・内灘町に残ることへの配慮とする説は推測の域を出ない）
+  - 公募で選定された他の4候補の名称は未確認
+  - 郡名「河北」の語源（加賀国の北に由来する説、浅野川の北に由来する説）は郷土史レベルの併記にとどまり、専門辞典での確認は未了
+  updated: '2026-11-13'
+- id: muni/17-七尾市
+  code: '172022'
+  names:
+    ja: 七尾市
+    reading: ななおし
+    aliases:
+    - 七つ尾
+  user_terms:
+  - ななお
+  - 七尾城
+  - 和倉温泉
+  - 能登の玄関口
+  naming_type: 一部の地名
+  prefecture: 石川県
+  homonyms: []
+  summary: 七尾市は、昭和14年（1939）に七尾町などが合併して市制を施行し、平成16年（2004）に田鶴浜町・中島町・能登島町と合併して現在の市となった。市名の由来について市公式は、能登畠山氏の居城・七尾城が築かれた城山に、松尾・竹尾・梅尾など七つの尾根があったことによると説明する。城の名がそのまま城下町と港町の名となり、市名に受け継がれた。
+  first_attestation:
+    era: 室町時代
+    year_western: null
+    document: 七尾城の名として伝わる（七尾市公式「ななおの由来」）
+    note: 「七尾」という地名の文献上の初出は未確認。市公式の説明は七尾城（15世紀末から16世紀初めの築城とされる）の七つの尾根を由来とするもので、地名が城に先行したかどうかは分かっていない
+  claims:
+  - text: 七尾市公式は、「七尾」の名の由来について、日本最大規模の山城「七尾城」が築かれていた城山に、松尾・竹尾・梅尾・鶴尾（菊尾）・亀尾・竜尾・虎尾の七つの尾根があったことによるとしている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n2-nanao-city
+  - text: 七尾城史資料館によれば、七尾城は能登畠山氏3代義統が能登へ入国した文明9年（1477）以降、永正年間に築かれたと考えられている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n2-nanao-castle
+  - text: 七尾城には、七つの尾根のうち松尾に築かれたことから「松尾城」、また「末尾城」と記した資料も残されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n2-nanao-castle-wiki
+  - text: 昭和14年（1939）7月20日に、鹿島郡七尾町・東湊村・矢田郷村・徳田村・西湊村・石崎村と和倉町の一部が合併して七尾市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n2-ishikawa-uub-cities
+  - text: 七尾市公式によれば、平成16年（2004）10月1日に旧七尾市・田鶴浜町・中島町・能登島町の1市3町が合併し、現在の七尾市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n2-nanao-city
+  - text: 総務省の全国地方公共団体コードで、七尾市の団体コードは172022と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 城の名前が、そのまま市の名前になった
+    text: 市の名が城の名に由来する例は珍しくありませんが、七尾の場合は城の地形そのものが名前になっています。城山から枝分かれする7本の尾根には、松尾・竹尾・梅尾・鶴尾（菊尾）・亀尾・竜尾・虎尾と、それぞれ名が付けられていました。もっとも城が松尾に築かれたため、同じ城は「松尾城」とも呼ばれています。天然の良港の町は、山の上の城の名をいただいて「七尾」と呼ばれるようになりました。
+    sources:
+    - n2-nanao-city
+    - n2-nanao-castle-wiki
+  relations:
+  - pref/17
+  unknowns:
+  - 「七尾」の地名が七尾城に先行したかどうか（七尾湾など自然地名としての用例の初出）は未確認
+  - 市公式の由来説明の典拠とされる『七つ尾』（七尾城址文化事業団）の直接確認は未了
+  - 七尾城の正確な築城年は定説がなく未確認
+  updated: '2026-11-13'
+- id: muni/17-加賀市
+  code: '172065'
+  names:
+    ja: 加賀市
+    reading: かがし
+    aliases:
+    - 大聖寺
+  user_terms:
+  - かが
+  - 加賀温泉郷
+  - 山代温泉
+  - 山中温泉
+  - 片山津温泉
+  naming_type: その他
+  prefecture: 石川県
+  homonyms: []
+  summary: 加賀市は、昭和33年（1958）に大聖寺町・山代町など9町村の合併で発足し、平成17年（2005）に山中町を合併した。市名は旧国名「加賀」から採られた。その国名は、弘仁14年（823）に越前国から分かれて加賀国が立てられたときに、管内の加賀郡の郡名を好字として採用したものとされる。ただし郡名「加賀」自体の語源は確定していない。
+  first_attestation:
+    era: 弘仁14年
+    year_western: 823
+    document: 『日本紀略』弘仁14年3月条（加賀国設置の記事）
+    note: 国名としての「加賀」の成立を示す記事。郡名としての「加賀」は、越前国の加賀郡としてこれ以前から存在した
+  claims:
+  - text: 弘仁14年（823）3月1日、越前国から江沼郡と加賀郡を割いて加賀国が立てられ、令制国としては最後の立国となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-nihon-kiryaku
+    - n2-kaga-city-plan
+  - text: 日本歴史地名大系によれば、加賀国の国名は、管内の加賀郡の郡名が好字として採用されたものである
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n2-kaga-kotobank
+  - text: 「加賀」という郡名・地名の語源については、専門辞典にも確定的な説明が見当たらず、定説は確認できていない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - n2-kaga-kotobank
+  - text: 昭和33年（1958）1月1日に、大聖寺町・山代町・片山津町・橋立町・動橋町・三木村・三谷村・南郷村・塩屋村の9町村が合併して加賀市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n2-kaga-uub
+  - text: 加賀市『歴史的風致維持向上計画』も、昭和33年（1958）1月に大聖寺町・山代町をはじめ9か町村が合併して旧加賀市となった経緯を記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n2-kaga-city-plan
+  - text: 平成17年（2005）10月1日に山中町と合併し、現在の加賀市となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n2-kaga-uub
+  - text: 総務省の全国地方公共団体コードで、加賀市の団体コードは172065と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 1,100年以上前の「国」の名前を受け継いだ市
+    text: 加賀国は823年、令制国の中で最後に立てられた国です。その名はもともと郡の名前でした。昭和33年（1958）に9町村が合併して新しい市を作ったとき、中心の大聖寺は大聖寺藩の城下町として知られた地名でしたが、市名には選ばれず、千年以上前に消えたはずの国の名前「加賀」が復活しました。山代・山中・片山津の温泉郷を束ねるには、どの町名でもない広域の名前が必要だったことがうかがえます。
+    sources:
+    - n2-kaga-kotobank
+    - n2-kaga-uub
+  relations:
+  - pref/17
+  unknowns:
+  - 1958年の合併で市名に「加賀」が選ばれた理由の公式記録（合併協議の文書）は未確認
+  - 加賀郡の語源と、『和名類聚抄』以前の「加賀」の用例は未確認
+  - 山代・山中・片山津など加賀温泉郷の各温泉地名の由来は、本レコードでは扱っていない
+  updated: '2026-11-13'
+- id: muni/17-小松市
+  code: '172031'
+  names:
+    ja: 小松市
+    reading: こまつし
+    aliases:
+    - 小松町
+  user_terms:
+  - 小松市の名前の由来
+  - 小松はなぜ小松というのか
+  - 花山法皇が小松を植えたまち
+  - 前田利常の小松城のまち
+  naming_type: 一部の地名
+  prefecture: 石川県
+  homonyms: []
+  summary: 市名は近世の城下町・小松町の名を受け継いだものである。「小松」の地名の起こりについて市は、約1000年前、花山法皇が北陸に巡幸した際、梯川のほとりに花園をつくって小松を植えたという故事を伝えており、市の木も「松」である。昭和15年（1940年）12月1日、2町6か村の合併により市制が施行された。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 花山法皇巡幸の伝承（小松市統計書が「地名の起こり」として紹介）
+    note: 文献上の初出ではなく、市が地名の起源として伝える伝承上の起点
+  claims:
+  - text: 小松市の統計書によれば、約1000年前、花山法皇が北陸に巡幸され、梯川のほとりに花園をつくり、小松を植えたというのが地名の起こりとされる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - l3-komatsu-toukei
+  - text: 市はこの由来から、市制40周年（1980年）を記念して市の木に「松」を選んでおり、市章の外周も松の枝を図案化したものと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-komatsu-toukei
+  - text: 江戸時代には、前田利常が隠居城として小松城を構築し、町の整備・寺社の造営・産業振興に尽くした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-komatsu-shiryo
+  - text: 昭和15年（1940年）12月1日、小松町・安宅町・牧村・板津村・白江村・苗代村・御幸村・粟津村の2町6か村が合併して市制が敷かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-komatsu-shisei
+  - text: 昭和30年（1955年）と昭和31年（1956年）の2次にわたる編入合併で市域が大きく広がり、面積は372平方キロメートル余りとなった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-komatsu-shisei
+  - text: 令和5年（2023年）には「加賀立国1200年記念 全国国府サミット」が小松市で開催されるなど、市域は古代の加賀国府ゆかりの地と位置づけられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-komatsu-shiryo
+  - text: 総務省「地方公共団体コード一覧」では、小松市のコードは172031とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 市の木も市章も「松」
+    text: 花山法皇が小松を植えたという伝承は、現代の市のシンボルにまで生きている。市制40周年を記念して市の木に選ばれたのは「松」で、市章も中央の「小」の図案を、松の枝を図案化した外周が囲む形である。地名の起こりの物語が、木と紋章の両方に刻まれているまちである。
+    sources:
+    - l3-komatsu-toukei
+  relations:
+  - pref/17
+  unknowns:
+  - 花山法皇の故事は伝承であり、「小松」の文献上の確実な初出（中世の荘園・郷名としての記録など）は本バッチでは特定できなかった
+  - 前田利常の小松城構築の正確な年次は、本バッチで用いた市の年表では年次を特定する形では確認できなかった
+  updated: '2026-11-13'
+- id: muni/17-珠洲市
+  code: '172057'
+  names:
+    ja: 珠洲市
+    reading: すずし
+    aliases:
+    - 珠洲郡
+    - 須須
+    - 飯田町
+  user_terms:
+  - すず
+  - 能登半島の先端の市
+  - 見附島のある市
+  - 珠洲市の名前の由来
+  naming_type: 一部の地名
+  prefecture: 石川県
+  homonyms: []
+  summary: 珠洲は能登半島の突端を指す古い地名で、初出は平城京出土木簡（713年）とされる。「スズ」には都都・須須・鈴などさまざまな字が当てられ、「珠洲」は地名に選ばれた佳字と考えられている。養老2年（718年）に珠洲郡が能登国の一郡となり、その郡域の大部分が1954年（昭和29年）合併して珠洲市となった。
+  first_attestation:
+    era: 和銅6年
+    year_western: 713
+    document: 平城京出土木簡
+    note: 珠洲市公式が紹介する、「珠洲」の表記の初出とされる木簡。原典そのものではなく市公式の紹介による
+  claims:
+  - text: 総務省の全国地方公共団体コードで、珠洲市の団体コードは172057と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 珠洲市によれば、「珠洲」について最初に表記されているのは平城京出土木簡（713年）である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-suzu-city-intro
+  - text: 珠洲市によれば、『出雲国風土記』（733年）の国造り神話にみえる高志の「都都（つつ）」の三埼は能登の「スス」の岬を指すと考えられ、当時は都都・須須・鈴など色々な字が当てられていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-suzu-city-intro
+  - text: 珠洲市によれば、「須須」は「鈴」の読みであり、「珠洲」は特に地名に選ばれた字ではないかと考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-suzu-city-intro
+  - text: 珠洲市によれば、「スズ」の由来には、収穫祭に神楽鈴を振る鈴の音に由来するという説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u6-suzu-city-intro
+  - text: 珠洲市によれば、天平20年（748年）に能登を旅した大伴家持が、都の妻に贈るため真珠を願った長歌を詠んでおり、「珠洲」は真珠のように美しい洲であったとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u6-suzu-city-intro
+  - text: 珠洲市によれば、養老2年（718年）に越前国を割いて羽咋・能登・鳳至・珠洲の四郡からなる能登国が置かれ、当時の珠洲郡の地域の大部分が今の珠洲市の区域である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-suzu-city-enkaku
+  - text: 珠洲市によれば、昭和29年（1954年）7月15日に宝立・飯田・正院の3町と上戸・若山・直・蛸島・三崎・西海の6村が合して珠洲市が新設された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-suzu-city-enkaku
+  - text: 珠洲市は2024年1月1日に発生した能登半島地震で大きな被害を受けた被災地の一つである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u6-suzu-wiki
+  column:
+    title: 真珠のように美しい洲か、鈴の音か
+    text: 「珠洲」の字面は「真珠の洲」という美しい読みを誘います。実際、大伴家持は748年、都に残した妻へ真珠を贈りたいと願う長歌を詠み、「珠洲の海人」が潜って採る真珠に思いを寄せました。一方で市は、「スズ」は本来「稲」を意味し、収穫祭で振る神楽鈴の音に由来するという、まったく別の説も紹介しています。どちらの説が正しいかは決着しておらず、1300年以上前の木簡に始まる名の謎として残っています。
+    sources:
+    - u6-suzu-city-intro
+  relations:
+  - pref/17
+  unknowns:
+  - 平城京出土木簡（713年）の「珠洲」表記は市公式の紹介によるもので、木簡そのものの釈文は未確認
+  - 「スズ」の語源は鈴の音説・真珠のような洲説などが併記されるにとどまり、定説は確認できなかった
+  - 「珠洲」の表記がいつ・誰によって郡名として定着したかは未確認
+  updated: '2026-11-13'
+- id: muni/17-白山市
+  code: '172103'
+  names:
+    ja: 白山市
+    reading: はくさんし
+    aliases:
+    - 松任市
+    - 松任
+  user_terms:
+  - はくさん
+  - 松任（まっとう）
+  - 鶴来
+  - 白山比咩神社
+  naming_type: 合併新設
+  prefecture: 石川県
+  homonyms: []
+  summary: 白山市は、平成17年（2005）に松任市・美川町・鶴来町など1市2町5村が合併して生まれた自治体で、市名は公募を経て合併協議会で「白山市」と決定された。名前の由来は霊峰・白山で、市内鶴来には白山信仰の総本宮・白山比咩神社が鎮座する。前身の中心市・松任市の名「松任（まっとう）」には、命名を国司の松木氏に一任したことから付いたという伝えがある。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 白山市の発足（1市2町5村の新設合併）
+    note: 市名「白山市」は2005年の合併に際して新たに採用された名称。山の名としての「白山」は古く、『古今和歌集』に「しら山」と詠まれたとされるが、本レコードでは未検証
+  claims:
+  - text: 平成17年（2005）2月1日に、松任市・美川町・鶴来町・河内村・吉野谷村・鳥越村・尾口村・白峰村の1市2町5村が合併して白山市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n2-hakusan-city
+  - text: 白山市公式の合併経過によれば、新市の名称は平成15年（2003）6月1日から30日まで公募され、同年9月19日の第7回合併協議会で「白山市」とすることが承認された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n2-hakusan-city
+  - text: 白山比咩神社の公式サイトによれば、同社は白山比咩大神を祭神とする全国三千余社の白山神社の総本宮で、白山市鶴来に鎮座している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n2-hakusan-shrine
+  - text: 明治5年（1872）に金沢県庁が石川郡美川町（現在の白山市美川地域）へ移された際、その郡名によって県名が石川県と改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-ishikawa-enkaku
+  - text: 旧松任市の「松任（まっとう）」の名は、承平5年（935）に3つの村が合併する際、新しい町の命名を国司であった松木氏に一任したことから、「松木氏に任せる」という意味で名付けられたと伝えられている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - n2-hakusan-matto-wiki
+  - text: 総務省の全国地方公共団体コードで、白山市の団体コードは172103と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県庁が1年だけ置かれた町と、山の名をもらった市
+    text: 白山市の美川は、明治5年（1872）に県庁が移され、その所在地の郡名から「石川県」という県名が生まれた場所です。県庁は翌年には金沢へ戻りましたが、県名だけが残りました。それから130年余り後の合併で生まれた新しい市は、旧松任市の名でも美川の名でもなく、地域を見守る霊峰の名「白山」を名乗りました。県名の出生地でありながら、市名は山に譲ったまちです。
+    sources:
+    - c-ishikawa-enkaku
+    - n2-hakusan-city
+  relations:
+  - pref/17
+  - muni/16-南砺市
+  unknowns:
+  - 公募で「白山市」がどの程度の支持を集めたかなど、選定理由の詳細は市公式の経過記録では確認できていない
+  - 山の名「白山」の語源（雪に覆われる姿に由来するなど諸説）と『古今和歌集』の用例は、本レコードでは未検証
+  - 「松任」の由来の伝えについて、自治体史など公的資料での裏づけは未確認
+  updated: '2026-11-13'
+- id: muni/17-羽咋市
+  code: '172073'
+  names:
+    ja: 羽咋市
+    reading: はくいし
+    aliases:
+    - 羽喰
+    - 羽咋郡
+    - 羽咋町
+  user_terms:
+  - はくい
+  - 羽喰
+  - 千里浜のある市
+  - 羽咋市の名前の由来
+  naming_type: 一部の地名
+  prefecture: 石川県
+  homonyms: []
+  summary: 羽咋は古代の能登国羽咋郡に遡る地名で、『古事記』などの史料にも現在と同じ「羽咋」の表記が用いられたとされる。「羽咋」の名の起こりは、羽咋神社の祭神・磐衝別命が怪鳥を退治し、連れてきた犬がその羽を喰ったことによるとの伝承で語られる。江戸時代には「羽喰」とも記された。1958年（昭和33年）に羽咋町が市制を施行して羽咋市となった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 『古事記』
+    note: 羽咋市の都市計画資料が「古事記などの史料には、現在と同じ『羽咋』が用いられ」と紹介するもので、原典の該当箇所そのものは未確認。年次は特定できない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、羽咋市の団体コードは172073と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 羽咋市の資料によれば、『古事記』などの史料には現在と同じ「羽咋」の表記が用いられ、江戸時代には「羽喰」とも記された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-hakui-city-plan
+  - text: 羽咋市によれば、かつて毒の羽をもつ怪鳥が民を苦しめていたとき、垂仁天皇の皇子・磐衝別命と3匹の飼い犬がその怪鳥を倒したという伝説がある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - u6-hakui-city-jinja
+  - text: 羽咋市によれば、飼い犬が怪鳥の羽を喰ったことから「はくい」の名が付いたと伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - u6-hakui-city-jinja
+  - text: 羽咋市によれば、羽咋神社はこの伝説の主人公である磐衝別命（石衝別命）を祀る神社である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-hakui-city-jinja
+  - text: 羽咋市の資料によれば、昭和29年（1954年）に羽咋町・千里浜村・粟ノ保村・富永村などが合併して新しい羽咋町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-hakui-city-plan
+  column:
+    title: 「羽喰」が「羽咋」になったわけ
+    text: 伝説どおりなら、この地の名はもともと「羽喰（はくい）」――鳥の羽を喰う、という生々しい字だったはずです。ところが現存する古い史料ではすでに「羽咋」と書かれ、江戸時代にも「羽喰」の表記が併用されていました。「喰」の字を避けて「咋」に落ち着いたのか、伝説の方が字に合わせて後付けされたのかは分かりません。なお、よく似た話として「大蛇の羽」と紹介されることがありますが、市公式の伝説は毒の羽をもつ「怪鳥」を退治する話です。市内には命と犬たちにゆかりの「羽咋七塚」と呼ばれる古墳群が残ります。
+    sources:
+    - u6-hakui-city-jinja
+    - u6-hakui-city-plan
+  relations:
+  - pref/17
+  unknowns:
+  - 『古事記』における「羽咋」表記の該当箇所は原典未確認で、市資料の紹介による
+  - 「羽咋」の名が伝説以前に何を意味したのか（本来の語源）は、専門辞典での確認が未了
+  - 1958年の市制施行の正確な月日は未確認（年次は市史系資料の一般的記述による）
+  updated: '2026-11-13'
+- id: muni/17-能美市
+  code: '172111'
+  names:
+    ja: 能美市
+    reading: のみし
+    aliases:
+    - 能美郡
+    - 根上町
+    - 寺井町
+    - 辰口町
+  user_terms:
+  - のみ
+  - 能美郡だったところ
+  - 九谷焼の里
+  - 能美市の名前の由来
+  naming_type: 合併新設
+  prefecture: 石川県
+  homonyms: []
+  summary: 能美市は2005年（平成17年）2月1日、能美郡の根上町・寺井町・辰口町の3町が合併して生まれた市で、石川県内の平成の市町村合併の第3号である。市名「能美」は、弘仁14年（823年）に加賀国が置かれた際に設けられた能美郡の名を継いだものと市は説明する。能美郡そのものは合併後も川北町1町を擁して存続している。
+  first_attestation:
+    era: 弘仁14年
+    year_western: 823
+    document: null
+    note: 市統計書が、加賀国の立国（823年）の際に新しい行政区画として生まれた「能美郡」を市の名の由来として紹介するもの。郡名の文献上の初出そのものは未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、能美市の団体コードは172111と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 能美市によれば、同市は平成17年（2005年）2月1日に根上町・寺井町・辰口町の3町が合併し、平成の大合併として石川県内第3号、10番目の市として誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nomi-toukei-mokuji
+  - text: 能美市によれば、「能美」の名は、平安時代前期の弘仁14年（823年）に加賀国が立国した際、新しい行政区画として生まれた加賀国能美郡に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nomi-toukei-mokuji
+  - text: 能美市によれば、国の役所である国府及び国分寺は能美郡内の野身郷（能美郷）に置かれ、その政治・経済の拠点として発展してきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nomi-toukei-mokuji
+  - text: 能美市は合併した3町のいずれの名も継がず、3町が属していた能美郡の郡名をそのまま市名とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nomi-toukei-mokuji
+  - text: 総務省のコード一覧では、能美郡は川北町1町からなる郡として現在も記載されており、市名となった郡名は郡としても存続している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 能美市によれば、市は九谷焼や古墳群などの多様な歴史・文化を有する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nomi-toukei-mokuji
+  column:
+    title: 郡の名は市になり、郡は一つの町に残った
+    text: 2005年の合併で能美郡の3町は「能美市」になりましたが、能美郡そのものは消えていません。川北町だけが郡に残り、今も「石川県能美郡川北町」という住所が使われています。823年に加賀国の郡として生まれたとされる「能美」の名は、市になった名と、町に残った郡名とに分かれて、二重に生き続けています。
+    sources:
+    - u6-nomi-toukei-mokuji
+    - b-cap-chiba-soumu-code
+  relations:
+  - pref/17
+  unknowns:
+  - 能美郡の文献上の初出（『和名類聚抄』における能美郡の記載など原典）は未確認
+  - 「能美」の語源そのもの（野身郷の「野身」との関係を含む）は、市統計書の説明の範囲を超えて確認できなかった
+  - 市名選定の手続き（公募の有無・他の候補）は未確認
+  updated: '2026-11-13'
+- id: muni/17-輪島市
+  code: '172049'
+  names:
+    ja: 輪島市
+    reading: わじまし
+    aliases:
+    - 輪島崎
+  user_terms:
+  - わじま
+  - 輪島塗
+  - 輪島朝市
+  - 奥能登
+  naming_type: 一部の地名
+  prefecture: 石川県
+  homonyms: []
+  summary: 輪島市は、昭和29年（1954）に輪島町と周辺6村の合併で市制を施行し、平成18年（2006）に門前町と合併した。市名は港町として栄えた輪島町の名を受け継ぐ。「輪島」の語源は確定しておらず、古墳時代に大陸の人々から「倭島」と呼ばれたことに由来するという説が紹介されるにとどまる。史料に「輪島」の名が現れるのは室町時代中頃以降とされる。
+  first_attestation:
+    era: 室町時代
+    year_western: null
+    document: 不明（都市データパックは、史料に現れるのは足利時代中頃以降とする）
+    note: 「輪島」の文献上の初出とされる具体的な文書は未確認。中世のこの一帯は大屋荘の地で、大屋湊が栄えたとされる
+  claims:
+  - text: 「輪島」の語源については、古墳時代に大陸人に「倭島」と呼ばれたことが語源であるという説が紹介されているが、裏づける史料は示されておらず、定説はない
+    kind: legend
+    level: E5
+    status: contested
+    sources:
+    - n2-wajima-jlogos
+  - text: 都市データパックは、「輪島」の名が史料に現れるのは足利時代（室町時代）の中頃以降であるとしている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n2-wajima-jlogos
+  - text: 日本大百科全書によれば、中世の輪島一帯は大屋荘の地であり、大屋湊（現在の輪島港）が栄えた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n2-wajima-kotobank
+  - text: 昭和29年（1954）3月31日に、鳳至郡輪島町と西保村・大屋村・河原田村・鵠ノ巣村・南志見村・三井村の6村が合併して輪島市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n2-ishikawa-uub-cities
+  - text: 平成18年（2006）2月1日に、旧輪島市と鳳珠郡門前町が合併して現在の輪島市となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n2-ishikawa-uub-cities
+  - text: 日本大百科全書によれば、輪島市の市域には日本海上の七ツ島と、沖合約50キロメートルにある舳倉島も含まれている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n2-wajima-kotobank
+  - text: 総務省の全国地方公共団体コードで、輪島市の団体コードは172049と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「島」ではないのに、島の名を持つ港町
+    text: 輪島市は能登半島の北西部に突き出た陸地の町で、島ではありません。それでも市域には本物の島が2つ含まれています。北方の海上にある七ツ島と、沖合およそ50キロメートルの舳倉島です。舳倉島へは、海士町の漁民が季節ごとに移り住んで漁をすることで知られてきました。「島」の名を持つ町が、沖の島々までを市域に抱えているのは、能登の海の暮らしを象徴するようです。
+    sources:
+    - n2-wajima-kotobank
+  relations:
+  - pref/17
+  unknowns:
+  - 「輪島」の語源について『輪島市史』など自治体史での検討は未確認で、定説はない
+  - 史料に現れるという室町時代中頃の具体的な文書名は未確認
+  - 「輪島崎」などの表記から「輪島」へ定着した時期と経緯は未確認
+  updated: '2026-11-13'
+- id: muni/17-野々市市
+  code: '172120'
+  names:
+    ja: 野々市市
+    reading: ののいちし
+    aliases:
+    - 野市
+    - 野々市町
+    - 石川郡野々市町
+  user_terms:
+  - ののいち
+  - 野市
+  - 金沢のベッドタウン
+  - 野々市市の名前の由来
+  naming_type: その他
+  prefecture: 石川県
+  homonyms: []
+  summary: 野々市市は2011年（平成23年）11月11日、石川郡野々市町が単独で市制を施行して生まれた市である。「野々市」の最古の文字史料は、1312年に記されたとされる白山比咩神社所蔵の古文書にみえる「野市（ののいち）」とされ、鎌倉時代後期にはこの地に「市（いち）」が形成されていたことがうかがえる。市制にあたって設置された名称検討委員会は、地名の由来を検証したうえで「野々市市」が適当であると答申した。
+  first_attestation:
+    era: 正和元年
+    year_western: 1312
+    document: 白山比咩神社所蔵の古文書（市の概要は『三宮古記』とする）
+    note: 名称検討委員会の答申書が「野市（ののいち）」の記述を「野々市」の最古の文字史料として紹介するもの。古文書そのものは未読のため紹介形で記録する
+  claims:
+  - text: 総務省の全国地方公共団体コードで、野々市市の団体コードは172120と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 野々市市によれば、2021年11月11日に市制施行10周年を迎えており、野々市町の単独市制施行は2011年11月11日である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nonoichi-city10
+  - text: 野々市町新市名称検討委員会の答申書によれば、1312年に記されたとされる白山比咩神社に伝わる古文書に、水引と呼ばれる人たちが「野市（ののいち）」に住んでいたという記述があり、これが「野々市」という地名の最古の文字史料であると思われる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nonoichi-toushin
+  - text: 同答申書によれば、鎌倉時代後期には「市（いち）」が形成されていたという史料も残されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nonoichi-toushin
+  - text: 同答申書によれば、1486年に京都・聖護院の道興がこの地に立ち寄って「風おくる 一村雨に 虹きえて のゝ市人は たちもをやます」と詠んでおり、「市」で活発な商業活動を行っていた当時の野々市の賑わいを知ることができる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nonoichi-toushin
+  - text: 同答申書によれば、委員会は3回の会議で本町の歴史や地名の由来などを検証し、単独市制であることからこれまでの地名を継承することが適当であるなどとして、2010年5月11日に新市の名称を「野々市市」とすることが適当であると答申した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u6-nonoichi-toushin
+  column:
+    title: 「市」のつく地名は、市場の記憶
+    text: 野々市の「市」は、定期市の「いち」です。1312年の古文書に「野市」と現れるこの地には、鎌倉時代の末には市が立っていたとされ、1486年に立ち寄った聖護院の道興は、にわか雨の中でも立ち働き続ける野々市の人々を歌に詠みました。合併ではなく単独で市になった野々市市は、名称検討委員会の検証を経て、この中世以来の名をそのまま市の名に引き継ぎました。
+    sources:
+    - u6-nonoichi-toushin
+  relations:
+  - pref/17
+  unknowns:
+  - 「野市」の記述がある古文書（市概要は『三宮古記』とする）の原文は未読で、答申書・市概要の紹介による
+  - 「野」が何を指したか（野に立つ市とする解釈の原典）は、今回確認した資料では特定できなかった
+  - 市制前の野々市村・町の成立過程（富奥村との合併等）の詳細は未精査
+  updated: '2026-11-13'
+- id: muni/17-金沢市
+  code: '172014'
+  names:
+    ja: 金沢市
+    reading: かなざわし
+    aliases:
+    - 金沢
+    - 金沢御坊
+    - 金沢町
+    - 尾山
+  user_terms:
+  - 金沢市の名前の由来
+  - 金沢は芋掘り藤五郎の話は本当か
+  - 金洗いの沢とは
+  - 金沢御坊と金沢の関係
+  naming_type: 一部の地名
+  prefecture: 石川県
+  homonyms: []
+  summary: 市名は城下町「金沢」の名を受け継いだもので、その初見は天文15年（1546）の『天文日記』に見える「金沢坊舎（金沢御堂）」とされる。まちは一向一揆の拠点・金沢御坊の門前から起こり、前田利家の入城後は加賀藩の城下町として発展した。砂金を洗った沢に由来するという芋掘り藤五郎の話は伝説として伝えられる。
+  first_attestation:
+    era: 天文15年
+    year_western: 1546
+    document: 天文日記
+    note: 天文15年10月条の「加州金澤坊舎（金沢御堂）」が地名「金沢」の早い例とされる（『日本歴史地名大系』の説明を金沢市立図書館のレファレンス回答が紹介）。日付を10月25日とする資料と10月29日とする資料がある
+  claims:
+  - text: 『日本歴史地名大系』は、『天文日記』天文15年（1546）10月条に見える「金沢坊舎（金沢御堂）」を地名「金沢」の早い例として挙げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kanazawa-ndl
+  - text: 天文15年（1546）に金沢御堂（金沢御坊）が建立され、一向一揆の拠点とそのまわりのまちが金沢の起こりとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kanazawa-plan
+  - text: 金沢御堂の廃絶後も「金沢」の名は城名や城下町の総名として引き継がれたと『日本歴史地名大系』は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kanazawa-ndl
+  - text: 芋掘り藤五郎が小立野台地の沢で芋の泥を洗ったら砂金が出たという物語が伝わり、『角川日本地名大辞典』は地名の由来を「小立野台地で砂金採掘を行った『金洗沢』によるといわれる」と記す
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - c-cap-kanazawa-ndl
+  - text: 城下の総名については、前田利家の時代に「尾山」と称され、文禄元年（1592）頃から再び「金沢」を号したとする記録（『金沢古蹟志』『越登賀三州志』等）があり、金沢の名が一時「尾山」に置き換わった時期があったと伝えられる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-cap-kanazawa-ndl
+  - text: 天正11年（1583）に前田利家が金沢城へ入城し、以後、金沢は加賀藩前田家の城下町として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kanazawa-plan
+  - text: 明治22年（1889）の市制施行以来、金沢市は近隣町村との編入・合併を重ねて市域を拡大してきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-kanazawa-city
+  - text: 総務省の全国地方公共団体コードで、金沢市の団体コードは172014と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 金を洗った沢と、芋を掘る藤五郎
+    text: 金沢の由来として一番有名なのは、芋掘り藤五郎の話でしょう。貧しい藤五郎が小立野の沢で芋についた土を洗っていると、きらきら光る砂金が混じっていて、その沢は「金洗いの沢」と呼ばれるようになり、金沢の名になった――という筋書きです。この話は江戸時代の『藤五物語』などに伝わり、『石川県史』にも収められています。ただし、史料で確かめられる「金沢」の初めは、天文15年（1546）の金沢御坊の記録です。伝説は伝説として面白く、でも地名の歴史は御坊の門前町から始まる。その両方を並べて眺めるのが、この地名の正しい楽しみ方だと思います。
+    sources:
+    - c-cap-kanazawa-ndl
+  relations:
+  - pref/17
+  unknowns:
+  - 『天文日記』天文15年10月条の日付は資料により25日・29日の両説があり、原本での確定は未了
+  - 「金洗沢」の実在した地点（小立野台地のどの沢か）の特定はできていない
+  - 「尾山」から「金沢」へ戻した正確な時期と経緯は、後世の地誌類の記述に依る部分が大きい
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  c-cap-kanazawa-city:
+    label: 金沢市「金沢市の紹介」
+    url: https://www4.city.kanazawa.lg.jp/shiseijoho/kanazawashinoshokai/kanazawashinitsuite/9982.html
+  c-cap-kanazawa-ndl:
+    label: レファレンス協同データベース「金沢の由来について」（金沢市立玉川図書館回答、『日本歴史地名大系』『角川日本地名大辞典』『石川県史』等に基づく）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000225450&page=ref_view
+  c-cap-kanazawa-plan:
+    label: 金沢市『中心市街地活性化基本計画』（金沢御坊・前田利家入城等の沿革を収録）
+    url: https://www4.city.kanazawa.lg.jp/material/files/group/2/4_1_2026.pdf
+  l3-komatsu-shiryo:
+    label: 小松市『市勢要覧 資料編（令和7年度）』「こまつの歴史」年表
+    url: https://www.city.komatsu.lg.jp/material/files/group/6/R7shiseiyouran-siryou.pdf
+  l3-komatsu-shisei:
+    label: 小松市『市勢要覧（令和5年）』（市域・編入合併の歴史）
+    url: https://www.city.komatsu.lg.jp/material/files/group/6/R5shiseiyouran.pdf
+  l3-komatsu-toukei:
+    label: 小松市『統計書（令和5年版）』（市の木・市章と地名の起こり）
+    url: https://www.city.komatsu.lg.jp/material/files/group/7/R5toukeisyo.pdf
+  n2-hakusan-city:
+    label: 白山市「市町村合併（白山市誕生までの歩み）」（2005年2月1日に1市2町5村が合併。新市名称は2003年に公募され第7回合併協議会で「白山市」を承認）
+    url: https://www.city.hakusan.lg.jp/shisei/profile/1003536.html
+  n2-hakusan-matto-wiki:
+    label: Wikipedia「松任市」（「松任」の由来として、命名を国司の松木氏に一任したことから「松木氏に任せる」の意味で名付けられたという伝え）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%BB%BB%E5%B8%82
+  n2-hakusan-shrine:
+    label: 白山比咩神社「白山比咩神社について」（全国三千余社の白山神社の総本宮で、白山市鶴来に鎮座すること）
+    url: http://shirayama.or.jp/about
+  n2-ishikawa-uub-cities:
+    label: 都道府県市区町村「石川県の市の変遷」（七尾市の市制施行日1939年7月20日と合併構成、輪島市の市制施行日1954年3月31日と2006年の門前町との合併）
+    url: https://uub.jp/trc/p17.html
+  n2-kaga-city-plan:
+    label: 加賀市『加賀市歴史的風致維持向上計画』第1章（1958年1月に大聖寺町・山代町など9か町村が合併して旧加賀市が発足した経緯、加賀国の独立）
+    url: https://www.city.kaga.ishikawa.jp/material/files/group/82/1_rekimachi_dai1syou_.pdf
+  n2-kaga-kotobank:
+    label: コトバンク「加賀国」（平凡社『日本歴史地名大系』。加賀国の国名は管内加賀郡の郡名が好字として採用されたもの）
+    url: https://kotobank.jp/word/%E5%8A%A0%E8%B3%80%E5%9B%BD-43381
+  n2-kaga-uub:
+    label: 都道府県市区町村「加賀市（1958〜2005年）市区町村変遷情報」（1958年1月1日の9町村の新設合併・市制、2005年10月1日の山中町との合併）
+    url: https://uub.jp/upd/c/2710.html
+  n2-nanao-castle:
+    label: 七尾城史資料館「七尾城について」（能登畠山氏3代義統の入国した1477年以降、永正年間の築城と考えられること）
+    url: https://www.nanaojyou.com/%E4%B8%83%E5%B0%BE%E5%9F%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+  n2-nanao-castle-wiki:
+    label: Wikipedia「七尾城」（七つの尾根からの命名、「松尾城」「末尾城」の別名を記す資料）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E5%9F%8E
+  n2-nanao-city:
+    label: 七尾市「七尾市の概要」（「ななおの由来」として七尾城の城山の七つの尾根を挙げ、2004年の1市3町の合併を記す）
+    url: https://www.city.nanao.lg.jp/koho/aramashi/profile/gaiyo.html
+  n2-wajima-jlogos:
+    label: JLogos「都市データパック 輪島市」（由来として古墳時代に大陸人に「倭島」と呼ばれたことが語源という説、史料に現れるのは足利時代中頃以降）
+    url: http://s.jlogos.com/d026/8509306.html
+  n2-wajima-kotobank:
+    label: コトバンク「輪島」（小学館『日本大百科全書』。中世は大屋荘の地で大屋湊が栄えたこと、1954年の市制構成、舳倉島・七ツ島を含む市域）
+    url: https://kotobank.jp/word/%E8%BC%AA%E5%B3%B6-665078
+  u6-hakui-city-jinja:
+    label: 羽咋市公式「羽咋神社」（毒の羽をもつ怪鳥が民を苦しめていたとき、磐衝別命と3匹の飼い犬が怪鳥を倒し、犬が怪鳥の羽を喰ったことから「はくい」の名が付いたという伝説を紹介。祭神は石衝別命（磐衝別命））
+    url: https://www.city.hakui.lg.jp/kankou/kankoushisetsu/3167.html
+  u6-hakui-city-plan:
+    label: 羽咋市「都市の現況と課題」（羽咋の地名の由来は磐衝別命と犬の怪鳥退治の伝承によること、『古事記』などの史料には現在と同じ「羽咋」が用いられ、江戸時代には「羽喰」とも記されたこと、昭和29年（1954年）に羽咋町ほかが合併したことを記す）
+    url: https://www.city.hakui.lg.jp/material/files/group/16/genkyou_kadai.pdf
+  u6-kahoku-gappei-case:
+    label: 日本都市センター「合併事例 かほく市（石川県）」（河北郡の高松町・七塚町・宇ノ気町が2004年3月1日に新設合併したこと、新市の名称は公募（応募総数1,772通）から小委員会が5作品を選定し、各町の意見が「かほく市」で一致していたため合併協議会で決定したことを記す）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/kahoku041213.pdf
+  u6-kahoku-mayor:
+    label: かほく市公式「令和2年 市長年頭挨拶」（かほく市は県内の市町村合併第1号として誕生したことを記す）
+    url: https://www.city.kahoku.lg.jp/006/647/649/d001028.html
+  u6-nomi-toukei-mokuji:
+    label: 能美市統計書（目次・市の沿革）（平成17年（2005年）2月1日に根上町・寺井町・辰口町が合併し県内第3号・10番目の市として誕生したこと、「能美」の名は弘仁14年（823年）に加賀国が立国した際の能美郡に由来し、国府・国分寺は郡内の野身郷（能美郷）に置かれたこと、九谷焼や古墳群を市の特色として挙げることを記す）
+    url: https://www.city.nomi.lg.jp/fs/3/5/3/_/mokuji.pdf
+  u6-nonoichi-city10:
+    label: 野々市市公式「市制施行10周年」ページ（令和3年（2021年）11月11日に市制施行10周年を迎えたことを伝え、2011年11月11日の単独市制施行が分かる）
+    url: https://www.city.nonoichi.lg.jp/soshiki/4/1026.html
+  u6-nonoichi-toushin:
+    label: 野々市町新市名称検討委員会答申書（平成22年（2010年）5月11日、野々市町公式）（1312年に記されたとされる白山比咩神社所蔵の古文書に「野市（ののいち）」の記述があり「野々市」の最古の文字史料と考えられること、1486年の聖護院・道興の句「のゝ市人は たちもをやます」、単独市制であることや地名の由緒を理由に「野々市市」が適当と答申したことを記す）
+    url: https://www.city.nonoichi.lg.jp/uploaded/attachment/5431.pdf
+  u6-suzu-city-enkaku:
+    label: 珠洲市公式「沿革」（養老2年（718年）に羽咋・能登・鳳至・珠洲の四郡をもって能登国が置かれたこと、昭和29年（1954年）7月15日に宝立・飯田・正院の3町と6村が合して珠洲市を新設したことを記す）
+    url: https://www.city.suzu.lg.jp/soshiki/1/1159.html
+  u6-suzu-city-intro:
+    label: 珠洲市公式「珠洲市の紹介」（「珠洲」の名の初出は平城京出土木簡（713年）であること、『出雲国風土記』（733年）の国造り神話の「都都」との関係、「須須」は鈴の読みで「珠洲」は地名に選ばれた佳字ではないかとされること、語源には神楽鈴の音に由来する説と、大伴家持が真珠のように美しい洲と詠んだとする説があることを紹介）
+    url: https://www.city.suzu.lg.jp/site/kankou/1401.html
+  u6-suzu-wiki:
+    label: Wikipedia「珠洲市」（2024年1月1日の能登半島地震で大きな被害を受けたこと等を記す）
+    url: https://ja.wikipedia.org/wiki/%E7%8F%A0%E6%B4%B2%E5%B8%82

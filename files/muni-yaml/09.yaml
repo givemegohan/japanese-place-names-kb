@@ -1,0 +1,1322 @@
+prefecture_code: 09
+records:
+- id: muni/09-さくら市
+  code: 092142
+  names:
+    ja: さくら市
+    reading: さくらし
+    aliases:
+    - 氏家町
+    - 喜連川町
+  user_terms:
+  - 氏家（旧町名で現在の中心市街地）
+  - 喜連川温泉と道の駅きつれがわのまち
+  - 勝山城の桜のまち
+  naming_type: 合併新設
+  prefecture: 栃木県
+  homonyms: []
+  summary: 2005年3月28日に塩谷郡氏家町と喜連川町が合併して生まれた市で、市名は市民公募で選ばれた「さくら」である。両町にとって桜は勝山城址や鬼怒川の桜堤、喜連川の桜並木など長年親しまれてきた花で、平仮名の柔らかさと「桜の花のように美しいまちに」という願いが込められた。中心地の氏家は平安時代の『和名類聚抄』に見える古い地名で、喜連川は足利氏ゆかりの城下町として知られる。
+  first_attestation:
+    era: 平安時代中期
+    year_western: 938
+    document: 『和名類聚抄』
+    note: 市名「さくら」自体の命名は2005年。ここに挙げたのは旧中心地「氏家」の地名の初出で、さくら市公式資料が『和名類聚抄』に氏家の地名が書かれていると紹介するもの。『和名類聚抄』の成立は承平年間（930年代）とされる
+  claims:
+  - text: 2005年（平成17年）3月28日、塩谷郡氏家町と喜連川町が新設合併してさくら市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-sakura-city-gappei
+  - text: 新市名「さくら」は市民からの公募によって選ばれ、さくら市公式資料は「桜の花のように美しいまちに」と願いを込めてつけられたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-sakura-city-manabi
+  - text: 合併協議会による選定理由として、氏家町の勝山城址の桜と鬼怒川堤防の桜堤、喜連川町の桜並木とお丸山公園の桜など、桜が両町民にとって長年親しまれてきた花であることと、平仮名にすることで表現が柔らかくなることが挙げられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-sakura-city-gappei
+  - text: 氏家の地名は古く、さくら市公式資料は平安時代中期に編さんされた『和名類聚抄』に氏家の地名が書かれていると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-sakura-city-manabi
+  - text: 氏家の語源について、さくら市公式資料は、たくさんの川や湧水のある氏家が川に挟まれた中州のように見えることから、川の内にある中州を意味する「内江（うちえ）」がなまって「氏家」になったと推測されると紹介している
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - u4-sakura-city-manabi
+  - text: さくら市公式「旧氏家町の紹介」によれば、鎌倉時代初期に宇都宮朝綱の三男・氏家公頼が氏家郷を領して御前城を築き、この地名をとって氏家氏を称した。名字は地名に由来し、江戸時代には奥州街道の宿場町・氏家宿として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-sakura-city-ujiie
+  - text: 喜連川の地名について、さくら市公式は「地名に関する正確な記録はありません」としつつ、中世の文書には荒川を示すと考えられる「狐河」「喜連川」や、川の分岐する様子をあてた「来烈川」などの表記が見られると紹介している。市の学び資料は、地元で荒川を呼んだ「狐川（きつねがわ）」が後年「喜連川」になったと伝わるとする
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u4-sakura-city-kitsuregawa
+    - u4-sakura-city-manabi
+  - text: 喜連川は、足利氏の流れを汲む喜連川氏が近世にこの地を治めた城下町であり、喜連川氏の名は地名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-sakura-city-kitsuregawa
+  - text: さくら市の総務省地方公共団体コードは092142である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 新しい市名と響き合う古名「櫻野」
+    text: 「さくら市」は2005年生まれの新しい名前だが、土地の側には古くから桜にまつわる呼び名があった。明治22年（1889年）に氏家町を構成した村の一つは「桜野村」といい、さくら市の学び資料も市内に「古くから『櫻野』と呼ばれ歴史と文化の数多く残る地」があると紹介する。もちろん、合併協議会が公式に挙げた選定理由は、勝山城址や鬼怒川の桜堤、お丸山公園といった両町の桜の名所と、平仮名の柔らかさへの願いである。「櫻野」が選定に影響したという記録はない。それでも、公募で選ばれた現代の市名が、土地の古名と偶然に響き合っているのは、この市の名づけの面白い余韻である。
+    sources:
+    - u4-sakura-city-manabi
+    - u4-sakura-city-gappei
+  relations:
+  - pref/09
+  unknowns:
+  - 公募の応募総数や最終候補に残った他の市名案は、市の公式ページでは確認できなかった
+  - 「氏家」の語源は市の公式資料の「内江」説も推測の域を出ず、専門辞典による確定は今回確認できなかった
+  - 「喜連川」の初出の文書と年代は特定できなかった（市公式も「正確な記録はない」とする）
+  updated: '2026-11-13'
+- id: muni/09-下野市
+  code: 092169
+  names:
+    ja: 下野市
+    reading: しもつけし
+    aliases:
+    - 南河内町
+    - 石橋町
+    - 国分寺町
+  user_terms:
+  - 下野国分寺跡のある市
+  - 自治医大のある市
+  - ゆうがお（かんぴょう）の産地
+  naming_type: 合併新設
+  prefecture: 栃木県
+  homonyms: []
+  summary: 2006年1月10日に南河内町・石橋町・国分寺町が合併して生まれた市で、市名は旧国名「下野」を公募を経て採用したもの。「下野」は古代の毛野国が上毛野・下毛野に分かれた下毛野に由来し、読み「しもつけ」は「しもつけぬ」の「ぬ」が落ちた形とされる。市内には下野国分寺跡・国分尼寺跡や日本三戒壇の下野薬師寺跡があり、旧国分寺町の名は国分寺にちなむ。
+  first_attestation:
+    era: 霊亀元年
+    year_western: 715
+    document: 『デジタル大辞泉』「毛野」の解説（国名二字化の記事）
+    note: 国名表記「下野」の成立時期について。『デジタル大辞泉』は、毛野を上毛野・下毛野に分けた後、霊亀元年（715）に国名を2字と定めてから上野・下野と記すようになったとする。一方で和銅6年（713年）の好字化に結びつける説明もあり、年に幅がある。「下毛野」という形自体はそれ以前に遡る
+  claims:
+  - text: 2006年（平成18年）1月10日、河内郡南河内町と下都賀郡石橋町・国分寺町が合併して下野市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-shimotsuke-city-tanjo
+  - text: 新市名は公募され、上位には「下野」「しもつけ」のほか、特産の「ゆうがお」、古代寺院にちなむ「天平」「白鳳」「薬師寺」、「自治医大」などが挙がり、最終候補5点（下野・しもつけ・天平・白鳳・ゆうがお）の中から「下野市」に決まったことが、市区町村変遷情報に記録されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u4-shimotsuke-uub-shosai
+  - text: 市名のもとになった「下野」は令制国の名で、『デジタル大辞泉』は、はじめ毛野（けの）を上毛野（かみつけの）・下毛野（しもつけの）の2国に分け、霊亀元年（715）に国名を2字と定めてから上野・下野と記すようになったと解説している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-shimotsuke-kotobank-kenu
+  - text: 『歴史民俗用語辞典』は下野国の別名を「下毛野国（しもつけぬのくに）」としており、「しもつけ」という読みは「しもつけぬ」から「ぬ」が落ちた形だと説明される
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-shimotsuke-weblio-rekimin
+  - text: 下野市公式資料によれば、市域には白鳳時代に建立され日本三戒壇の一つが置かれた下野薬師寺があり、8世紀には聖武天皇の詔により下野国分寺・国分尼寺が建立された。旧国分寺町の町名はこの下野国分寺に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-shimotsuke-city-machizukuri
+  - text: 下野市公式資料は、日光街道沿いの小金井と石橋を旧宿場町として紹介しており、旧石橋町の中心は日光街道の石橋宿だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-shimotsuke-city-machizukuri
+  - text: 下野市の総務省地方公共団体コードは092169である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 落選した候補が語る市の個性
+    text: 下野市の新市名公募で惜しくも選ばれなかった候補は、この市の性格をよく物語っている。「天平」と「白鳳」は、下野薬師寺と下野国分寺が花開かせた古代の仏教文化への目配せ。「ゆうがお」と「夕顔」は、かんぴょうの原料ユウガオの産地であることへの誇り。「薬師寺」「自治医大」に至っては、市内の寺院と大学病院そのものが候補になった。歴史の深さと特産と現在の顔ぶれが並んだ最終候補5点の中で、最終的に選ばれたのは千年以上前の国名「下野」だった。3町のどれかの名でも新造の名でもなく、土地の最も古い広域の名を採るという選択は、平成の大合併では比較的珍しい決着である。
+    sources:
+    - u4-shimotsuke-uub-shosai
+    - u4-shimotsuke-city-machizukuri
+  relations:
+  - pref/09
+  unknowns:
+  - 国名二字化の年について、『デジタル大辞泉』は霊亀元年（715）とする一方、和銅6年（713）の好字化の詔に結びつける説明も見られ、今回は特定しなかった
+  - 「毛野」という名自体の語源（毛の野の意か等）は専門資料で確定を確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-佐野市
+  code: 092045
+  names:
+    ja: 佐野市
+    reading: さのし
+    aliases: []
+  user_terms:
+  - 佐野の名前の由来
+  - 佐野氏の城下町
+  - 唐沢山城のある市
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 「佐野」の名は平安時代の荘園「佐野庄」に現れる古い地名で、藤姓足利氏の流れをくむ佐野氏の本拠だった。1943年の合併による市制、2005年の田沼町・葛生町との新設合併を経て現在の佐野市となった。語源には左野説など諸説がある。
+  first_attestation:
+    era: 平安時代後期
+    year_western: null
+    document: 『兵範記』
+    note: 佐野市公式が、荘園「佐野庄」が『兵範記』にみえることを記録上の初登場として紹介する（市公式の紹介として記録し、原典の直接確認はしていない）。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、佐野市の団体コードは092045とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 佐野市公式によれば、平安時代の荘園「佐野庄」が佐野の記録上の初登場であり、『兵範記』には左大臣藤原頼長に寄進されていた荘園が保元の乱ののち後白河天皇の所有となった記事があるという。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-sano-history
+  - text: 日本歴史地名大系によれば、律令制下の現市域は安蘇郡・足利郡に属し、『和名類聚抄』にみえる安蘇郡の郷のうち安蘇郷・意部郷と麻続郷の一部が市域に比定される。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-sano
+  - text: 佐野市公式によれば、藤姓足利氏の流れをくむ一族が佐野庄を治めて佐野氏を称し、戦国期には唐沢山城を拠点とした。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-sano-history
+  - text: ブリタニカ国際大百科事典によれば、佐野氏は慶長7年（1602）に春日岡に築城（佐野城）して以来、佐野はその城下町として発達した。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-sano
+  - text: 昭和18年（1943）4月1日に佐野町・植野村・界村・犬伏町・堀米町・旗川村が合併して佐野市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-sano-ayumi
+  - text: 平成17年（2005）2月28日に佐野市・田沼町・葛生町が新設合併して、現在の佐野市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-sano-ayumi
+  - text: 語源について、佐野市の冊子『地名のいわれ』は諸説を挙げており、本調査で確認できたものに、奈良時代に東山道の使道の左側の野であったことから「左野」と呼ばれたとする説がある。
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - m3-sano-chimei
+  column:
+    title: 唐沢山城から佐野城へ
+    text: 戦国期の佐野氏の本拠は、堅固な山城として知られた唐沢山城だった。慶長7年（1602）に佐野信吉が平地の春日岡に佐野城を築いて居城を移し、佐野は城下町として整えられていく。しかし慶長19年（1614）に佐野氏は改易され、城下町としての発展は短い期間で区切りを迎えた。
+    sources:
+    - m3-sano-history
+    - m3-kotobank-sano
+  relations:
+  - pref/09
+  unknowns:
+  - 『地名のいわれ』に挙げられた語源の諸説の全容は未取得で、左野説以外は確認できていない
+  - 佐野庄に関する『兵範記』の記事の原文確認は未実施（市公式の紹介として記録）
+  - 市公式ページは保元の乱を1157年と記すが、乱の年は1156年が通説であり、市の引用形のまま年を特定する主張は避けた
+  updated: '2026-11-13'
+- id: muni/09-大田原市
+  code: 092100
+  names:
+    ja: 大田原市
+    reading: おおたわらし
+    aliases:
+    - 大俵
+    - 大田原町
+  user_terms:
+  - 大田原城の城下町
+  - 奥州街道の宿場町
+  - 那須野が原のまち
+  naming_type: その他（大田原城の城下町として発達した中心地「大田原」の名を継承）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 那須野が原の扇端に開けた大田原城の城下町で、市名は中心地「大田原」による。地名はもと「大俵」と書かれ、大田原氏の来住以前からあったと大田原市史はみる。大田原資清が天文12年（1543）または14年（1545）に築城して城下が成立し、以後廃藩置県まで大田原氏の城下町だった。1954年に合併・市制して大田原市となり、2005年に黒羽町・湯津上村を編入した。
+  first_attestation:
+    era: 文和4年
+    year_western: 1355
+    document: 『大田原氏系譜』（『大田原市史』が紹介）
+    note: 系譜中の感状の文言として「下野那須之内大俵」と見えるのが、市史が挙げる「大俵（おおたわら）」の早い用例。系譜自体の成立は後世であり、一次資料の現物を確認したものではない
+  claims:
+  - text: 『大田原市史』は、大田原の地名は領主大田原氏の居住以前から既に地名としてあったとみるのが妥当だとし、根拠として大田原氏系譜に、文和4年（1355）に足利尊氏から賜った所領として「下野那須之内大俵上下鹿野合五千貫」と「大俵」の名で記されることなどを挙げている。地名が先で、名字は地名に由来するという整理である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-otawara-shishi-chimei
+  - text: 『日本歴史地名大系』によれば、大田原氏は家譜では武蔵七党の丹党に属して阿保を称した家で、康清のとき明応3年（1494）に那須郡の大俵（おおたわら）に移り、これを家名とした
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-otawara-kotobank-jokaseki
+  - text: 地名と名字の古い表記は「大俵」で、後に「大田原」と書くようになった。改まった時期については、大田原城への移転の頃とする伝えや、それより後の代とする伝えがあり、確定していない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - u4-otawara-kotobank-jokaseki
+    - u4-otawara-shishi-chimei
+  - text: 大田原市公式サイトによれば、大田原城は大田原資清が築城し、天文12年（1543）あるいは天文14年（1545）にそれまでの本拠・町島の水口居館から移ったといわれ、明治4年（1871）の廃藩置県まで大田原氏の居城だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-otawara-city-joseki
+  - text: 『改訂新版 世界大百科事典』は、中心集落の大田原が那須扇状地の扇端部の湧水帯に位置し、中世末期に大田原氏の城下町となって周辺の扇端地域の開発拠点になったと解説している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-otawara-kotobank-sekai
+  - text: 1954年（昭和29年）12月1日、大田原町・金田村・親園村が合併して大田原市が発足し、2005年（平成17年）10月1日に黒羽町・湯津上村を編入して現在の市域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-otawara-city-70th
+    - u4-otawara-kotobank-sekai
+  - text: 大田原市の総務省地方公共団体コードは092100である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「大俵」から「大田原」へ――地名が先か、名字が先か
+    text: 城下町の名は、たいてい城主の名字と切り離せない。では大田原では、土地の名が先か、大田原氏という名字が先か。『大田原市史』はこの問いに正面から取り組み、系譜に残る14世紀の所領の記録に既に「大俵」と書かれていることを根拠に、「地名は大田原氏の来住以前からあった」と結論づけた。つまり名字は地名から生まれた。もう一つの面白さは表記である。「おおたわら」はもと「大俵」と書かれた。水田地帯の名に「俵」は素直だが、「大田原」の字はやがて城下町と藩の名として格式を備えていった。音は同じまま、字だけが武家の都合と好みで磨かれていった例である。
+    sources:
+    - u4-otawara-shishi-chimei
+    - u4-otawara-kotobank-jokaseki
+  relations:
+  - pref/09
+  unknowns:
+  - 「大俵」という地名自体の語源（「俵」の字義が何に由来するか）は、専門辞典で確定した説明を確認できなかった
+  - 「大俵」から「大田原」への表記変更の正確な時期と経緯は資料により伝えが異なり、特定できなかった
+  - 大田原城の築城年は天文12年（1543）と14年（1545）の両説が市公式資料でも併記されており、決着はついていない
+  updated: '2026-11-13'
+- id: muni/09-宇都宮市
+  code: 092011
+  names:
+    ja: 宇都宮市
+    reading: うつのみやし
+    aliases:
+    - 池辺郷
+  user_terms:
+  - 宇都宮の名前の由来
+  - うつのみやはなぜ宇都宮と書く
+  - 一宮が訛ったって本当
+  - 餃子の市の名前の由来
+  - 二荒山神社と宇都宮
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 宇都宮は下野国一宮・二荒山神社の門前で育った地名である。宇都宮市公式は、藤原宗円が同社の社号「宇都宮」を氏としたことに由来すると説明し、神社側は「一宮（いちのみや）」の転訛説を一説として伝える。平安末期以降は宇都宮氏の城下町、明治には県庁所在地となり、現在の市名に継承された。
+  first_attestation:
+    era: 平安時代（延長5年）
+    year_western: 927
+    document: 延喜式神名帳
+    note: 下野国河内郡の二荒山神社が名神大社として記載されたもの。地名「宇都宮」そのものの初出ではなく、由来の核となる神社の格式を示す一次文献の記載で、二荒山神社公式が紹介している
+  claims:
+  - text: 宇都宮市公式によれば、「宇都宮」の地名は、藤原宗円が二荒山神社の社号「宇都宮」を氏とし、鎌倉幕府の中枢にあって治政をあげたことに由来するといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-city
+  - text: 二荒山神社公式は、平安から鎌倉時代には各国で最も格式が高い神社が一之宮と呼ばれ、二荒山神社も下野国一之宮と呼ばれたことから、宇都宮という地名はこの「イチノミヤ」が訛って「ウツノミヤ」になったという一説があると伝えている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-cap-utsu-jinja
+  - text: 二荒山神社公式によれば、延長5年（927年）に完成した『延喜式』神名帳には「下野國河内郡一座大 二荒山神社 名神大」と記載があり、同社は栃木県内唯一の名神大社である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jinja
+  - text: 宇都宮市教育委員会の資料によれば、『和名類聚抄』には河内郡内の郷の1つとして池辺郷が書かれており、二荒山神社前の釜川沿いにあった鏡ケ池の周辺に発達した大きな村が池辺郷と考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-city-edu
+  - text: 蝦夷平定のため初めてこの地に足を踏み入れた豊城入彦命が宇都宮の開祖といわれ、これを祀った二荒山神社の門前町として宇都宮が栄えたと、宇都宮市公式が伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-city
+  - text: 仁徳天皇の代に毛野国が上下の二国に分けられ、豊城入彦命の四世孫・奈良別王が下毛野国の国造に任じられたとき、祖神の豊城入彦命を祀ったのが二荒山神社の始まりで、承和5年（838年）に現在の地へ遷座されたと、二荒山神社公式が伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jinja
+  - text: 宇都宮市公式によれば、明治17年（1884年）に栃木県庁が置かれ、明治22年（1889年）に町制、明治29年（1896年）に市制が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-city
+  - text: 総務省の全国地方公共団体コードで、宇都宮市のコードは092011と定められている（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: イチノミヤがウツノミヤに？
+    text: 宇都宮の由来には、市の公式説明と神社の説明で少し違う話が伝わる。市は「藤原宗円が二荒山神社の社号『宇都宮』を自分の氏にしたのが始まり」とし、神社は「下野国一之宮の『イチノミヤ』が訛って『ウツノミヤ』になった一説がある」とする。イチノミヤからウツノミヤへの音の変化は大きく、鵜呑みにはできないが、どちらの話も出発点が「宮＝二荒山神社」である点は一致している。地名の中心に千年以上同じ神社があること自体が、この町の特徴である。
+    sources:
+    - b-cap-utsu-city
+    - b-cap-utsu-jinja
+  relations:
+  - pref/09
+  unknowns:
+  - 「宇都宮」の文字列が現れる最古の文書は本バッチでは特定できなかった
+  - 藤原宗円が宇都宮を称した正確な時期と、その根拠となる文書は本バッチでは未確認
+  - 一宮転訛説について、音韻変化を裏付ける学術的な検証は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-小山市
+  code: 092088
+  names:
+    ja: 小山市
+    reading: おやまし
+    aliases:
+    - 小山郷
+    - 小山町
+  user_terms:
+  - 小山評定のまち
+  - 開運のまち おやま
+  - 小山駅（新幹線停車駅）のある田園都市
+  naming_type: その他（『和名類聚抄』に見える郷名以来の中心地「小山」の名を継承）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 思川中流の台地に開けた中世以来の城下町で、市名は中心地「小山」による。「小山」は『和名類聚抄』に下野国都賀郡の郷名として見える古い地名で、由来は思川西の低地から東の台地が小さな山に見えたことによると市は説明する。鎌倉・戦国時代は下野守護級の武士・小山氏の本拠地だった。1954年3月31日に小山町・大谷村が合体し、同年9月18日に市制を施行した。
+  first_attestation:
+    era: 承平年間
+    year_western: 938
+    document: 『和名類聚抄』下野国都賀郡条
+    note: 小山市公式「小山市のあゆみ」が、「小山」の地名は『和名抄』の中で下野国都賀郡の11郷の1つとして紹介されているのが初めてだとする。『和名類聚抄』の成立は承平年間（930年代）とされる
+  claims:
+  - text: 小山市公式サイトによれば、歴史上「小山」の地名が登場するのは、平安時代に記された『和名抄』の中で下野国都賀郡の11郷の1つとして紹介されているのが初めてである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-oyama-city-ayumi
+  - text: 地名の由来については諸説があるが、思川西部の低地から見ると東部の台地が小さな山の形をしていることからその名がついたというのが有力だと、小山市公式サイトは説明している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u4-oyama-city-ayumi
+  - text: 鎌倉時代から戦国時代にかけて小山は、下野国の守護や鎌倉幕府の評定衆として活躍した小山氏の本拠地となり、市内には鷲城跡や祇園城（小山城）跡など中世城館の遺構が残る。名字「小山」はこの地名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-oyama-city-ayumi
+  - text: 小山氏の初代とされる政光の妻・寒川尼は源頼朝の乳母も務めた女性で、市内には政光・寒川尼の像が立つ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-oyama-city-kanko
+  - text: 江戸時代初期に譜代大名の本多正純が小山城主となったが、本多氏の転封後に城は廃城となり、跡には徳川将軍家の日光社参の際に休憩所となる小山御殿が造営された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-oyama-city-ayumi
+  - text: 1600年の関ヶ原の戦いに際して徳川家康が小山で開いた軍議「小山評定」は市の象徴とされ、市役所の敷地内に小山評定跡の石碑が建つ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-oyama-city-kanko
+  - text: 小山市の郷土伝承集『小山の伝説』には「小山のおこり」として、小山氏の祖とされる太田四郎政光が下野国南部の思川沿岸を知行することになり、家来を率いてこの地へ進んだという物語が収められている。史実の政光の事績とは分けて伝えられる由来譚である
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - u4-oyama-city-densetsu
+  - text: 小山市公式資料によれば、1954年（昭和29年）3月31日に下都賀郡小山町と大谷村が合体し、同年9月18日に市制を施行して小山市となった。小山市の総務省地方公共団体コードは092088である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-oyama-city-gaiyo
+    - b-cap-chiba-soumu-code
+  column:
+    title: 山のない「小山」
+    text: 小山市は関東平野のただ中にあり、市域に山らしい山はない。それでも名は「小山」。市が有力とする由来は、思川の西の低地から東を眺めたとき、川向こうの台地の縁が小さな山の形に見えた、というものである。川沿いの低地に暮らす人々にとって、対岸の台地は日々仰ぎ見る「山」だったのだろう。この名は平安時代の辞書『和名類聚抄』に郷の名として既に記録され、やがて拠を構えた武士団が名字として名乗り、小山氏と呼ばれた。地名→名字→市名と、三段階に受け継がれた名前である。市章も「小」の字を小さな山の形に図案化しており、「山のない小山」は今も市の顔になっている。
+    sources:
+    - u4-oyama-city-ayumi
+    - u4-oyama-city-gaiyo
+  relations:
+  - pref/09
+  unknowns:
+  - 「小山」の語源について、市公式は台地の形に由来する説を「有力」とするが、諸説の全容と専門辞典での確定は確認できなかった
+  - 小山氏の出自（藤原秀郷の後裔と称すること）について、家系の実証的な裏付けは今回の資料では確認していない
+  - 結城氏（政光の子・朝光が祖とされる）との関係は、市の公式資料の今回確認範囲では明示されなかった
+  updated: '2026-11-13'
+- id: muni/09-日光市
+  code: 092061
+  names:
+    ja: 日光市
+    reading: にっこうし
+    aliases:
+    - 日光町
+    - 日光山
+    - 二荒山
+  user_terms:
+  - 日光市の名前の由来
+  - 日光はなぜ日光というのか
+  - 二荒山と日光の関係
+  - 日光東照宮のあるまち
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 市名は霊山・日光山の門前町だった日光町の名を受け継いだものである。「日光」は、男体山の古称「二荒山」の読み「ふたら」を「ニコウ」と音読みして「日光」の字をあてたものと伝えられる。奈良時代の勝道上人による開山以来の山岳信仰の地で、昭和29年（1954年）に旧日光市が発足し、平成18年（2006年）の5市町村合併でも「日光市」の名が継承された。
+  first_attestation:
+    era: 延長5年
+    year_western: 927
+    document: 『延喜式』神名帳（下野国二荒山神社）
+    note: 山の神名「二荒」の確実な文献例。「日光」の表記そのものの初出は本バッチでは特定できなかった
+  claims:
+  - text: 日光市の歴史年表によれば、天平神護2年（766年）に勝道上人が大谷川を渡って四本竜寺を創建したのが日光山の起源で、延暦元年（782年）には男体山（＝二荒山）への3度目の登攀で初登頂に成功した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-nenpyo1
+  - text: 二荒山神社は延長5年（927年）完成の『延喜式』神名帳に載る式内社で、男体山の神「二荒」は遅くとも平安時代前期には文献に記録されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-nenpyo1
+    - k1-nikko-kanko
+  - text: 「日光」という地名の由来は、男体山の古称「二荒山」の「フタラ」を「ニコウ」と音読みし、「日光」という文字をあてたことによるとされている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k1-nikko-kanko
+  - text: 「二荒（ふたら）」自体の語源については、観音菩薩の浄土「補陀洛（ふだらく）」に由来し補陀洛山からフタラ山の名が生まれたという説が有力とされる一方、熊笹を意味するアイヌ語の「フトラ」に由来するという説、風神が吹き荒れる土地だからという説もあり、確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k1-nikko-kanko
+    - k1-nikko-mct
+  - text: 勝道上人が大谷川を渡る際の伝説として、山菅の蛇が橋となって上人を渡したという「山菅の蛇橋」の伝承が伝わっており、現在の神橋の由来とされる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - k1-nikko-kanko
+  - text: 昭和29年（1954年）2月11日、日光町が小来川村を編入して市制を施行し、日光市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-nenpyo2
+  - text: 平成18年（2006年）3月20日、旧日光市・今市市・藤原町・足尾町・栗山村の2市2町1村が合併して新しい日光市が誕生し、市名は旧日光市の名が継承された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k1-nikko-shokai
+  - text: 総務省の全国地方公共団体コードで、日光市のコードは092061と定められている（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: 「ふたら」が「にっこう」になるまで
+    text: 男体山はもともと「二荒山（ふたらさん）」と呼ばれた。「二荒」を訓読みすれば「ふたら」だが、音読みすると「ニコウ」と読める。そこへ「日光」という縁起のよい字をあてたのが「日光」の始まりだと伝えられる。日光市の年表によれば、弘仁5年（814年）には空海が勝道上人の功績を称える「二荒山碑」を著したとあり、この頃には山の名が広く知られていたことがうかがえる。読みの転換ひとつで、土地の名が山の信仰とともに全国に広まる名前に変わった例である。
+    sources:
+    - k1-nikko-kanko
+    - k1-nikko-nenpyo1
+  relations:
+  - pref/09
+  unknowns:
+  - 「日光」の表記そのものが文献に現れる確実な初出は、本バッチでは特定できなかった
+  - 「日光」の命名を空海の手になるとする説は広く語られるが、本バッチでは公的資料による裏付けが取れなかったため、伝承として主張には含めなかった
+  updated: '2026-11-13'
+- id: muni/09-栃木市
+  code: 092037
+  names:
+    ja: 栃木市
+    reading: とちぎし
+    aliases: []
+  user_terms:
+  - 栃木市はなぜ県庁所在地ではないのに栃木という名前なのか
+  - 県名と同じ名前の市
+  - 小江戸とちぎ
+  - 蔵の街
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 県名「栃木」は、最初の県庁が置かれた栃木町（現在の栃木市）に由来する。市名が県名に倣ったのではなく、県名のほうがこの町の名から取られたのである。栃木市は日光例幣使街道の宿場と巴波川の舟運で栄えた「小江戸」で、蔵造りの町並みで知られる。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 日光例幣使街道の栃木宿
+    note: 「栃木」の地名の文献上の初出は本調査では特定できなかった。近世には例幣使街道の宿場・栃木宿、皆川氏の城下町として栃木の名が定着していた。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、栃木市の団体コードは092037とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治4年（1871）の栃木県成立の際、県庁は栃木町（現在の栃木市）に置かれた。県名はこの最初の県庁所在地の町名に由来する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tochigi-kenmin
+    - b-tochigi-150th
+  - text: 1873年に宇都宮県と統合して栃木県となった後も県庁は栃木町に置かれたが、1884年に宇都宮へ移転したため、栃木市は県庁所在地でないのに県名と同じ名を持つ市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-tochigi-150th
+  - text: 県名「栃木」の語源について栃木県公式は「はっきり分かっていない」とし、神明宮の千木に由来する十千木説、トチノキ説、巴波川の氾濫と結ぶ崩壊地名説、豊城入彦命の命名とする遠津木説の4説を併記している。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-tochigi-kenmin
+  - text: 旧・栃木市は昭和12年（1937）4月1日に栃木町が単独で市制を施行して発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tochigi-city-pdf
+  - text: 平成22年（2010）3月29日に栃木市・大平町・藤岡町・都賀町が新設合併して新しい栃木市が発足し、2011年に西方町、2014年に岩舟町を編入して現在の市域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tochigi-city-pdf
+  - text: 栃木県の資料によれば、栃木は日光例幣使街道の宿場町であるとともに巴波川の舟運で物資が集まる商業地として繁栄し、幕末の度重なる大火を契機に土蔵造りの建物が普及した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tochigi-inishie
+  - text: 律令時代の下野国府は現在の栃木市域（国府地区）に置かれ、下野国庁跡は国の史跡に指定されている。1957年には旧国府村が栃木市へ編入された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tochigi-city-pdf
+  column:
+    title: 大火が生んだ蔵の街
+    text: 「小江戸」と呼ばれる栃木の蔵造りの町並みは、幕末の大火の産物である。1846年・1849年・1862年・1864年と大火が相次ぎ、とりわけ元治の大火では天狗党の焼き討ちで237軒が焼けた。焼け跡に防火性の高い土蔵造りが建てられるようになり、巴波川の舟運で財をなした商家の蔵が、今の「蔵の街」の景観をつくった。
+    sources:
+    - m3-tochigi-inishie
+  relations:
+  - pref/09
+  unknowns:
+  - 「栃木」の地名の文献上の初出（中世の栃木郷の用例など）は特定できなかった
+  - 県名の語源の4説はいずれも決め手を欠き、県公式も未確定としている
+  updated: '2026-11-13'
+- id: muni/09-真岡市
+  code: 092096
+  names:
+    ja: 真岡市
+    reading: もおかし
+    aliases:
+    - 真岡町
+    - 芳賀郷
+    - もうか
+  user_terms:
+  - 真岡木綿のまち
+  - SLもおかの走るまち
+  - わたのまち（市の花は「わた」）
+  naming_type: その他（中世末〜近世に定着した中心地「真岡」の名を継承）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 鬼怒川東岸の台地に開けた河港町・城下町で、市名は中心地「真岡」による。この地は古代には『和名類聚抄』の芳賀郷に当たるとされ、「真岡」の名がいつからかは資料が食い違う。市史は中世文書の用例を示して天正以前からの存在を主張し、地名大系は天正年中の改称とする。語源は不明で、アイヌ語「マオカ」説などが併記されている。
+  first_attestation:
+    era: 文和4年
+    year_western: 1355
+    document: 『専修寺文書』如来堂修理料差文
+    note: 『真岡市史』が挙げる早い用例で「まほか空円」とあり、市史はこれをもって真岡の名が天正以前に存在した証拠とする。漢字表記「真岡」は天文18年（1549）の「今宮祭祀録」などに見える。一方『日本歴史地名大系』は中世には用いられていないとしており、初出の評価は分かれる
+  claims:
+  - text: 「真岡」の名の出現時期には資料の対立がある。『日本歴史地名大系』は、真岡の地名は古代中世には用いられておらず、『下野国誌』の説として『和名抄』の芳賀郡芳賀郷を真岡の地とし、天正年中（1573〜92）に真岡と改めたとする。これに対し『真岡市史』は、文和4年（1355）の文書に「まほか」、天文18年（1549）・永禄7年（1564）の文書に「真岡」の用例があることから、天正以前から真岡の名は存在したとしている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - u4-moka-kotobank-chimeitaikei
+    - u4-moka-city-chimei
+  - text: この地の古代の名は『和名類聚抄』に見える芳賀郷で、真岡の市街には芳賀口・芳賀林・芳賀沼などの小字と芳賀氏の古城跡が残ると、『大日本地名辞書』の記述を『真岡市史』が紹介している。天正5年（1577）に芳賀高継が築いた芳賀城は真岡城とも称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-moka-city-chimei
+    - u4-moka-kotobank-chimeitaikei
+  - text: 「真岡」の語源について『真岡市史』は「地名由来については諸説があり、決定的な由来については不明である」と明記する。挙げられる諸説は、アイヌ語の「マオカ」（風の強くあたる所・風の通る道の意）に由来し台町一帯の風土がこれに当たるという説と、「真」は美称で台町一帯の丘（岡）が精美であるからという説である
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u4-moka-city-chimei
+  - text: 江戸時代中期の記録「ふむのあとこと」には、御前の岡の台に鶴が集まって毎日舞うのを郷人が見て「今日も舞ふか舞ふか」と言ったのが真岡郷の始まりだという伝承が記されており、「舞加」「舞丘」という読みもあったとされる。鶴の舞に結びつける由来譚である
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - u4-moka-city-chimei
+  - text: 「真岡」の読みは天正年間頃は「もうか」だったと市史は述べ、明治時代には「まをか（まおか）」という読みも現れたが、真岡市は昭和45年（1970）の『真岡市広報誌発行規定』で広報誌名を「もおか広報」とし、「もおか」の呼称で統一見解を示した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-moka-city-chimei
+  - text: 『デジタル大辞泉』は真岡を、鬼怒川の東岸にあり、江戸時代は代官所が置かれた、真岡木綿の産地として解説している。真岡は「真岡木綿」の略称としても用いられる語になった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-moka-kotobank-daijisen
+  - text: 真岡市公式資料によれば、市制施行は1954年（昭和29年）10月1日であり、2009年（平成21年）に二宮町を編入した。真岡市の総務省地方公共団体コードは092096である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-moka-city-gappei
+    - u4-moka-kotobank-daijisen
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「もうか」「まをか」「もおか」――読み方が三つあった町
+    text: 真岡の読みは、時代によって揺れてきた。戦国期の文書では「もうかのしろ」と仮名で書かれ、町は「もうか」と呼ばれた。明治になると新聞が「まをか」と振り仮名を付け、「まおか」と読む人も現れる。結局、市は昭和45年（1970）に市の広報誌の名を「もおか広報」と定める形で、「もおか」への統一を示した。表記は「真岡」で一貫しているのに、音だけが四百年あまり定まらなかった。市の読みの統一が昭和も後半になってから、というのは珍しい。江戸時代の記録に残る、岡に鶴が舞うのを見て「今日も舞ふか」と言ったという伝承も、「もうか」の音に寄せた語呂合わせの由来譚として読むと面白い。
+    sources:
+    - u4-moka-city-chimei
+  relations:
+  - pref/09
+  unknowns:
+  - 「真岡」の語源は市史自身が「決定的な由来については不明」としており、アイヌ語説・美称説のいずれも裏付けは確認できなかった
+  - 文和4年（1355）の「まほか空円」が地名としての用例か人名かは、市史の読みに依っており、原文の直接確認はできていない
+  - 天正年間に「芳賀」から「真岡」へ改めたという『下野国誌』の説の根拠文書は確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-矢板市
+  code: 092118
+  names:
+    ja: 矢板市
+    reading: やいたし
+    aliases:
+    - 矢板村
+    - 矢板町
+  user_terms:
+  - 塩谷地区の中心のまち
+  - 高原山のふもとのまち
+  - 矢板IC・矢板駅のある交通の要地
+  naming_type: その他（中心地「矢板」の名を継承）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 高原山の東麓、塩谷地区の中心都市で、市名は中心地「矢板」による。「矢板」の由来は確定しておらず、八重田や焼田の転訛説などが推測の域を出ないものとして伝えられる。中世は塩谷氏の城下町、近世は日光北街道の宿駅として栄えた。1889年の矢板村に始まり、1958年に市制を施行した。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 市町村制による矢板村の設置（矢板市公式「矢板市ができるまで」）
+    note: 行政地名としての「矢板」の確認できる起点は1889年の矢板村の設置である。地名としての初出（中世文書の用例）は今回の調査では特定できなかった
+  claims:
+  - text: 「矢板」の地名の由来については確定的なものはなく、諸説が推測の域を出ないとされている。挙げられるのは、美田を意味する「八重田（やえた）」が転じたものという説、田畑を焼く「焼田（やきた）」が転じたものという説、土留めの板という意味の「矢板」が地名になったという説で、いずれも根拠に乏しい。また大字矢板は矢板氏の発祥の地であり、地名が先ではなく矢板氏という一族が支配したことで土地が矢板と呼ばれた可能性も指摘されるが、これも推測の域を出ない。世間で言われる「矢を作る板」に直接結びつける確かな説明は確認できなかった
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - u4-yaita-wikipedia
+  - text: 矢板市公式資料は、矢板市付近は古くは「しほのや」と呼ばれ、平安時代後期に現市街地南方を中心として塩谷氏が興り、豊臣秀吉による改易までの約400年にわたり塩谷荘33郷を制したと沿革を記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-yaita-city-gaiyo
+  - text: 『デジタル大辞泉』は矢板を「中世は塩谷氏の城下町」とし、『精選版 日本国語大辞典』は、那珂川の支流荒川の谷口集落で、江戸時代は日光北街道の宿駅だったと解説している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-yaita-kotobank
+  - text: 市内の木幡神社は、平安時代初頭の延暦14年（795）に坂上田村麻呂が蝦夷征伐の戦勝祈願に建立したと伝えられ、平安末期から周辺を領していた塩谷氏の氏神としても知られる、と矢板市公式サイトは紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - u4-yaita-city-rekishi
+  - text: 矢板市公式サイトによれば、1889年（明治22年）の市町村制実施により矢板村・泉村・片岡村が設置され、矢板村は1895年に町制を施行して矢板町となり、1955年（昭和30年）1月1日に3町村が合併して新しい矢板町が発足、1958年（昭和33年）11月1日に市制を施行して矢板市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-yaita-city-made
+  - text: 矢板市の総務省地方公共団体コードは092118である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 説ばかり多くて、決め手のない名前
+    text: 「矢板」は、由来のはっきりしない地名の代表格かもしれない。八重田がなまった、焼田がなまった、土留めの矢板だ、矢板氏という一族の名だ――候補は四つもあるのに、どれも決め手に欠ける。隣の大田原では市史が「地名が先、名字は後」と決着をつけたのに対し、矢板では「氏族が先だった可能性も推測の域を出ない」と慎重なままである。弓矢の「矢」に「板」と書く字面から、矢作りの職人を連想したくなるが、その筋の確かな言い伝えも残っていない。決められないものは決められない、と正直に並べておくことが、この名前については一番誠実な説明になる。
+    sources:
+    - u4-yaita-wikipedia
+    - u4-yaita-city-gaiyo
+  relations:
+  - pref/09
+  unknowns:
+  - 「矢板」の語源は未確定で、諸説はいずれも典拠の薄い推測にとどまる。専門辞典・市史レベルでの確定した説明は確認できなかった
+  - 「矢板」の地名としての中世以前の用例（初出）は特定できなかった
+  - 矢板氏の発祥と地名の先後関係も推測の域を出ないとされており、未確認である
+  updated: '2026-11-13'
+- id: muni/09-足利市
+  code: 092029
+  names:
+    ja: 足利市
+    reading: あしかがし
+    aliases: []
+  user_terms:
+  - 足利の名前の由来
+  - 足利学校のある市
+  - 足利氏の本拠地
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 「足利」は大宝3年（703）の木簡に下野国足利郡として現れる古い地名で、藤姓・源姓の足利氏の本拠として知られた。1921年に足利郡足利町が市制を施行して足利市となり、郡名・町名をそのまま市名とした。語源については定説が確認されていない。
+  first_attestation:
+    era: 大宝3年
+    year_western: 703
+    document: 藤原宮跡出土木簡
+    note: 日本歴史地名大系「足利郡」が郡名の史料上の初見とする木簡で、「下毛野国足利郡」とある（同書経由の紹介として記録）。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、足利市の団体コードは092029とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系「足利郡」によれば、郡名の史料上の初見は大宝3年（703）のものと判断される藤原宮跡出土木簡で、「下毛野国足利郡波自可里鮎大贄」とある。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-ashikaga-gun
+  - text: 同書によれば、『和名類聚抄』は足利郡に「阿志加々」の訓を付し、郡内の郷として大窪・田部・堤田・土師などを記す。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-ashikaga-gun
+  - text: 足利市観光協会によれば、藤原秀郷の子孫・足利成行が天喜2年（1054）に両崖山に城を築いたのが藤姓足利氏の起こりで、のちに源義家の孫・義康が足利氏を称して源姓足利氏となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-ashikaga-kankou
+  - text: 同協会によれば、源姓足利氏の義兼の居館は堀の内にあり、その地が現在の鑁阿寺にあたる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-ashikaga-kankou
+  - text: 大正10年（1921）1月1日に足利郡足利町が市制を施行して足利市となり、県内では2番目、県南部では初の市制であった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-ashikaga-100th
+  - text: ブリタニカ国際大百科事典によれば、足利市は1954年に三重・山前・北郷・名草の4村、1959年に富田村、1960年に群馬県矢場川村の一部、1962年に御厨・坂西の2町を編入して市域を広げた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-ashikaga-city
+  - text: 「足利」の語源そのものについては、本調査で参照した専門地名辞典・公的資料に定説の明示がなく、未確定である。
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - m3-kotobank-ashikaga-gun
+  column:
+    title: 市章に残る足鏡別王の言い伝え
+    text: 足利市の市章の由来について、市は『古事記』にみえる足鏡別王（倭建命の子）が足利の地を治めたという言い伝えに基づくと説明している。王の名と地名を結びつける話はあくまで言い伝えの層に属するが、地名の古さを王の物語で語る感覚が、今も市の公式の説明に生きている。
+    sources:
+    - m3-ashikaga-100th
+  relations:
+  - pref/09
+  unknowns:
+  - 「足利」の語源の定説は確認できなかった（日本歴史地名大系「足利郡」にも語源説の明示がない）
+  - 足利郡の郡衙の位置は市中心部と推定されるが確定していない（同書による）
+  updated: '2026-11-13'
+- id: muni/09-那須塩原市
+  code: 092134
+  names:
+    ja: 那須塩原市
+    reading: なすしおばらし
+    aliases:
+    - 黒磯市
+    - 西那須野町
+    - 塩原町
+  user_terms:
+  - 塩原温泉のまち
+  - 那須塩原駅（東北新幹線）のある市
+  - 那須野が原の酪農のまち
+  naming_type: 合併新設
+  prefecture: 栃木県
+  homonyms: []
+  summary: 2005年1月1日に黒磯市・西那須野町・塩原町が合併して生まれた市で、市名「那須塩原」は域内にあった東北新幹線の駅名をそのまま採用したものとされる。駅名自体は、1982年の新幹線開業時に東那須野駅を改称して生まれた比較的新しい合成名である。旧中心地の黒磯は天正19年（1591）の文書に「くろいそ」と見える古い地名で、塩原は大同元年（806）発見と伝えられる温泉郷の名である。
+  first_attestation:
+    era: 天正19年
+    year_western: 1591
+    document: 那須与一郎資景知行目録（那須文書）
+    note: 旧中心地「黒磯」の初出。『日本歴史地名大系』が、この知行目録に「くろいそ」とあることを紹介する。市名「那須塩原」自体は、1982年に生まれた駅名を2005年の合併時に市名へ採用したものである
+  claims:
+  - text: 2005年（平成17年）1月1日、黒磯市・那須郡西那須野町・塩原町が新設合併して那須塩原市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-nasushiobara-city-plan
+  - text: 新市名「那須塩原」は、合併当時、市域内にある東北新幹線の駅名として長年使われ、全国的に知られていた名であったことから採用されたとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u4-nasushiobara-wikipedia
+  - text: 駅名「那須塩原」は、東北新幹線開業の1982年（昭和57年）6月に、それまでの東那須野駅を改称して生まれた名である。建設計画の段階での仮称は「新那須駅」だったが、開業が近づいて「塩原」の文字を入れてほしいという動きがあり、「那須塩原」に落ち着いたと駅史の資料は伝えている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u4-nasushiobara-station
+  - text: 旧中心地の黒磯について『日本歴史地名大系』は、天正19年（1591）の那須与一郎資景知行目録（那須文書）に「くろいそ」とあることを紹介し、近世は初め那須藩領、寛永20年（1643）から幕府領だったとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-nasushiobara-kotobank-kuroiso
+  - text: 「黒磯」の由来については、村の草分けとされる黒館五郎の「黒」と、その妻・磯よしの「磯」を合わせて名づけたという人名説と、那珂川の磯（川原）が黒いことによるとする説、那須岳の黒い火山灰に敷き詰められた土地が海浜の磯のようだったことに由来するという説があり、定まっていない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - u4-nasushiobara-folklore-kuroiso
+  - text: 黒磯村の起こりについて「黒磯村創立記録」は、鎌倉時代に落武者が住みついたのが村の始まりだと伝えると、『日本歴史地名大系』が紹介している。集落成立の由来譚である
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - u4-nasushiobara-kotobank-kuroiso
+  - text: 那須塩原市公式資料によれば、塩原温泉は大同元年（806）に発見されたと伝えられ、塩原十一湯と呼ばれる泉質の違う温泉地が連なって、近世初頭より湯治場として栄えてきた
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - u4-nasushiobara-city-onsen
+  - text: 那須塩原市の総務省地方公共団体コードは092134である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 駅名がそのまま市名になった
+    text: 「那須塩原」という名は、もともと土地の名ではない。1982年の東北新幹線開業のとき、計画名「新那須駅」に対して「塩原」の二字を入れてほしいという地元の声が高まり、東那須野駅という小さな在来線の駅が「那須塩原駅」に改称されたのが始まりと伝えられる。那須高原と塩原温泉、二つの観光ブランドを一つの駅名に背負わせる工夫だった。それから23年後の2005年、黒磯市・西那須野町・塩原町が合併する際、新市名に選ばれたのは、どの旧市町の名でもなく、この駅名だった。鉄道の駅名が自治体の名に「出世」した、平成の大合併でも目立つ事例である。
+    sources:
+    - u4-nasushiobara-station
+    - u4-nasushiobara-wikipedia
+  relations:
+  - pref/09
+  unknowns:
+  - 市名選定の具体的な手続き（公募の実施有無や協議会での候補一覧）は、合併協議会の記録資料で直接確認できなかった
+  - 「黒磯」の語源は人名説・景観説が併記されるのみで、専門辞典での確定は確認できなかった
+  - 「塩原」の名そのものの由来（温泉の塩分に由来するか等）は、公的資料で明示を確認できなかった。大同元年（806）の発見も伝承の域を出ない
+  updated: '2026-11-13'
+- id: muni/09-那須烏山市
+  code: 092151
+  names:
+    ja: 那須烏山市
+    reading: なすからすやまし
+    aliases:
+    - 南那須町
+    - 烏山町
+  user_terms:
+  - 烏山城の城下町
+  - 山あげ祭のまち
+  - 龍門の滝のあるまち
+  naming_type: 合併新設
+  prefecture: 栃木県
+  homonyms: []
+  summary: 2005年10月1日に南那須町と烏山町が合併して生まれた市で、市名は旧国名に通じる「那須」に中心地「烏山」を組み合わせたもの。「烏山」は烏山城の城下町の名で、『那須記』では城に因む地名とされ、烏が群れる丘陵を指した呼び名だったという。旧南那須町の名は、那須郡の南部を意味する昭和の行政名である。
+  first_attestation:
+    era: 奈良時代末（8世紀末）
+    year_western: 800
+    document: 『那須記』に伝えられる旧表記「坂主」
+    note: 烏山の地の旧名として『那須記』が伝える形で、後に「酒主」とも書かれたとされる。ただし『那須記』自体は江戸時代の地誌であり、8世紀の一次資料で直接確認したものではない。「烏山」の確実な初出は未特定
+  claims:
+  - text: 2005年（平成17年）10月1日、那須郡南那須町と烏山町が新設合併して那須烏山市が発足した。合併協議会は南那須町・烏山町合併協議会で、当初は馬頭町・小川町を含む4町で合併研究会が設けられていたが、最終的には2町の枠組みになった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u4-nasukarasuyama-uub
+  - text: 那須烏山市公式サイトによれば、烏山城は町の中心の北西にある八高山に築かれた山城で、古記録・系譜等では、沢村五郎資重（下那須氏）が兄の那須資之と不仲になって本拠を追われ、応永25年（1418）に現在の地に城を築いたのが始まりとされる。以後、下那須氏の本拠、那須宗家の居城となり、享保10年（1725）に大久保常春が入封してからは大久保氏が8代140余年にわたり城主となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-nasukarasuyama-city-castle
+  - text: 烏山城跡は山の形が牛の寝ている姿に似ていることから別名「臥牛城」とも呼ばれ、城域が東西約370メートル・南北約510メートルに及ぶ山城で、2022年（令和4年）に国の文化審議会から国史跡指定の答申があった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-nasukarasuyama-city-castle
+  - text: 「烏山」の名の成り立ちについては、『那須記』では烏山城に因む地名とされている。この土地はもともと「坂主」、その後「酒主」と書かれてきた一方、那珂川沿岸の丘陵には群鳥が棲む草叢があり「烏山」と呼ばれていた。そこへ築城した沢村（那須）資重が城を烏山城と名付け、地名も烏山としたと云われる。また読みの音に着目した「川原（カワラ）」「洲（ス）」「山（ヤマ）」の転訛説もあるが、いずれも確定した説明ではない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - u4-nasukarasuyama-wikipedia
+  - text: 烏山に伝わる民話では、権現様のお告げによって那珂川の西側の山に城を築いたことから、その城を烏山城ということになり、「烏山」という名もそこから出てきたと伝えられる。城と名の由来を神の告げに結びつける伝承である
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - u4-nasukarasuyama-wikipedia
+  - text: 旧南那須町は、1954年（昭和29年）に成立した南那須村が1971年（昭和46年）9月1日に町制を施行したもので、「南那須」は那須郡の南部という位置を示す比較的新しい行政名だった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u4-nasukarasuyama-uub
+  - text: 那須烏山市の総務省地方公共団体コードは092151である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 酒の名から烏の山へ
+    text: 烏山の土地は、古くは「坂主」「酒主」と書かれていたという伝承がある。酒造りに関わる名が、なぜ「烏山」に変わったのか。地元の説明では、那珂川沿いの丘陵には多くの鳥が棲む草叢があり、人々はそこを「烏山」と呼んでいた。15世紀に那須氏の分かれ・沢村資重がその山に城を築いて烏山城と名付けたことで、城の名がそのまま土地の名として定着した、という筋書きである。城の名が地名になる例は多いが、ここではさらに、城下に集まる人々にとって「お城山」が日々の目印だったことも想像できる。2022年に国史跡となった城跡は今も市街の北西にあり、市民は親しみを込めて「お城山」と呼ぶ。合併で生まれた市名「那須烏山」の後半は、その山の名である。
+    sources:
+    - u4-nasukarasuyama-wikipedia
+    - u4-nasukarasuyama-city-castle
+  relations:
+  - pref/09
+  unknowns:
+  - 市名「那須烏山」の決定手続き（公募の有無、候補と選定理由）は、合併協議会の一次資料で直接確認できなかった
+  - 旧名「坂主」「酒主」の用例は『那須記』の伝承に依っており、奈良・平安時代の一次資料での確認はできていない
+  - 「烏山」の語源は、群鳥の棲む地とする説明と音の転訛説があり、専門辞典での確定は確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-鹿沼市
+  code: 092053
+  names:
+    ja: 鹿沼市
+    reading: かぬまし
+    aliases: []
+  user_terms:
+  - 鹿沼の名前の由来
+  - 鹿沼土で知られる市
+  - 鹿沼宿のあった市
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 中世には日光山社領の郷の一つに「西鹿沼」の名がみえる。壬生氏の城下町と鹿沼宿を中心に発展し、1948年に市制を施行、1954年の合体合併と2006年の粟野町編入を経て現在の市域となった。「鹿沼」の語源については定説が確認されていない。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: 日光山往古社領六十六郷（日本歴史地名大系『鹿沼市』が紹介）
+    note: 同書は中世の現市域の郷として「西鹿沼」郷などを挙げる。「鹿沼」の名の初出の年は特定できていない。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、鹿沼市の団体コードは092053とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、中世の現市域には日光山往古社領六十六郷の一つである西鹿沼郷をはじめ、那羅部・押原・玉田・花岡などの郷が比定される。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-kanuma
+  - text: 日本歴史地名大系「鹿沼城跡」によれば、鹿沼城は正応5年（1292）に鹿沼権三郎入道教阿が坂田山に館を構えたのが起こりという。その後、天文元年（1532）に壬生綱房が御殿山に城を築いた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-kanuma-castle
+  - text: 鹿沼市公式によれば、室町末期に壬生氏が御殿山に城を築いて城下町を整備し、江戸時代には日光西街道・例幣使街道の鹿沼宿として繁栄し、木工業のまちとして発展した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kanuma-rekishi
+  - text: 昭和23年（1948）10月10日に上都賀郡鹿沼町が単独で市制を施行して、初代の鹿沼市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kanuma-gaiyo
+  - text: 鹿沼市公式の市域変更表によれば、昭和29年（1954）10月1日に鹿沼市と東大芦村・菊沢村・板荷村・北押原村・加蘇村・西大芦村・北犬飼村の1市7村が合体合併し、翌1955年に南摩村（7月28日）と南押原村（8月10日）を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kanuma-gaiyo
+  - text: 平成18年（2006）1月1日に上都賀郡粟野町を編入し、現在の鹿沼市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kanuma-gaiyo
+    - m3-kotobank-kanuma
+  - text: 「鹿沼」の語源については、本調査で参照した市公式資料・専門地名辞典に定説の明示がなく、未確定である。
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - m3-kotobank-kanuma
+  column:
+    title: 江戸の地誌『押原推移録』が伝える鹿沼
+    text: 鹿沼には、江戸後期の地誌『押原推移録』がある。文政13年（1830）に山口安良が著したこの書は、鹿沼の地名の由来や伝説を記した基本資料で、日本歴史地名大系が鹿沼城の規模を述べる際にもその記述を引いている。市のデジタルアーカイブで公開されており、地名の古層をたどる手がかりになっている。
+    sources:
+    - m3-kanuma-archive
+    - m3-kotobank-kanuma-castle
+  relations:
+  - pref/09
+  unknowns:
+  - 「鹿沼」の語源の定説は未確認（鹿と沼の字義による説明は流布しているが、裏づけのある出典を取得できなかった）
+  - 「鹿沼」の名の初出の年は特定できなかった
+  - 南押原村の編入日は市公式資料の1955年8月10日を採用した。Wikipediaには10月1日とする表記があり食い違う
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  b-cap-utsu-city:
+    label: 宇都宮市公式「宇都宮の歩み（宇都宮市の歴史）」
+    url: https://www.city.utsunomiya.lg.jp/shisei/gaiyo/aramashi/1007463.html
+  b-cap-utsu-city-edu:
+    label: 宇都宮市教育委員会「宇都宮の歴史」（池辺郷と二荒山神社）
+    url: https://www.city.utsunomiya.lg.jp/_res/projects/default_project/_page_/001/023/188/chu1rekishi1.pdf
+  b-cap-utsu-jinja:
+    label: 宇都宮二荒山神社公式「由緒・歴史」
+    url: http://futaarayamajinja.jp/yuisyo
+  b-cap-utsu-jlis:
+    label: 地方公共団体情報システム機構（J-LIS）「地方公共団体コード住所・栃木県内市町村」
+    url: https://www.j-lis.go.jp/spd/code-address/kantou/cms_13014181.html
+  k1-nikko-kanko:
+    label: 日光観光ライブ情報局（日光市観光協会）「日光の歴史 ～二荒（日光）からNIKKOへ～」
+    url: http://nikko.4-seasons.jp/nikko/history.shtml
+  k1-nikko-mct:
+    label: 世界遺産 日光の社寺「『日光』の地名の由来」
+    url: http://www.mct.gr.jp/world_h/nikko1/nikko.shtml
+  k1-nikko-nenpyo1:
+    label: 日光市「旧日光市歴史年表（古代～鎌倉）」
+    url: https://www.city.nikko.lg.jp/city_nikko/shokai/2/1/6111.html
+  k1-nikko-nenpyo2:
+    label: 日光市「旧日光市歴史年表（昭和・平成）」
+    url: https://www.city.nikko.lg.jp/soshiki/10/1041/3/1/1513.html
+  k1-nikko-shokai:
+    label: 日光市「市の位置・地形・歴史」
+    url: https://www.city.nikko.lg.jp/city_nikko/shokai/6092.html
+  m3-ashikaga-100th:
+    label: 足利市「市制100周年記念」資料（1921年の市制施行と、市章が足鏡別王の言い伝えに基づくとする市の説明）
+    url: https://www.city.ashikaga.tochigi.jp/manage/contents/upload/633fc471c0987.pdf
+  m3-ashikaga-kankou:
+    label: 足利市観光協会「足利氏の歴史」（藤姓足利氏の起こりと源姓足利氏への交替、鑁阿寺と義兼の居館）
+    url: https://www.ashikaga-kankou.jp/introduce/relation
+  m3-kanuma-archive:
+    label: 鹿沼市公式 デジタルアーカイブ（『押原推移録』は文政13年・1830年に山口安良が著した鹿沼の地誌で地名の由来や伝説を記す）
+    url: https://www.city.kanuma.tochigi.jp/0302/info-0000007823-0.html
+  m3-kanuma-gaiyo:
+    label: 鹿沼市公式「鹿沼市の概要」（1948年の市制施行、1954年の合体合併と1955年の南摩村・南押原村編入の日付）
+    url: https://www.city.kanuma.tochigi.jp/manage/contents/upload/6a1cee2f260eb.pdf
+  m3-kanuma-rekishi:
+    label: 鹿沼市公式「鹿沼歴史探訪」（壬生氏の城下町整備、鹿沼宿の繁栄と木工業）
+    url: https://www.city.kanuma.tochigi.jp/0301/info-0000002058-0.html
+  m3-kotobank-ashikaga-city:
+    label: コトバンク ブリタニカ国際大百科事典「足利〔市〕」（1921年市制と1954〜62年の編入の経過）
+    url: http://kotobank.jp/word/%E8%B6%B3%E5%88%A9%E5%B8%82-25201
+  m3-kotobank-ashikaga-gun:
+    label: コトバンク 日本歴史地名大系「足利郡」（郡名の初見は大宝3年の藤原宮跡出土木簡、和名抄の訓「阿志加々」）
+    url: https://kotobank.jp/word/%E8%B6%B3%E5%88%A9%E9%83%A1-3034405
+  m3-kotobank-kanuma:
+    label: コトバンク 日本歴史地名大系「鹿沼市」（中世の日光山社領六十六郷に西鹿沼郷がみえること、2006年の粟野町編入）
+    url: https://kotobank.jp/word/%E9%B9%BF%E6%B2%BC%E5%B8%82-45901
+  m3-kotobank-kanuma-castle:
+    label: コトバンク 日本歴史地名大系「鹿沼城跡」（1292年に鹿沼権三郎入道教阿が館を構えたのが起こり、1532年に壬生綱房が御殿山に築城）
+    url: https://kotobank.jp/word/%E9%B9%BF%E6%B2%BC%E5%9F%8E%E8%B7%A1-3035279
+  m3-kotobank-sano:
+    label: コトバンク 日本歴史地名大系・ブリタニカ「佐野市」（安蘇郡の郷の比定、1602年の佐野城築城と城下町化）
+    url: https://kotobank.jp/word/%E4%BD%90%E9%87%8E%E5%B8%82-69445
+  m3-sano-ayumi:
+    label: 佐野市公式「佐野市の歩み」（1943年の合併市制、2005年の田沼町・葛生町との新設合併）
+    url: https://www.city.sano.lg.jp/soshikiichiran/sougou/toshibrandsuishin/gyomuannai/koho/5/4738.html
+  m3-sano-chimei:
+    label: 佐野市『地名のいわれ』（平成22年、佐野市産業文化部。佐野の語源の諸説）
+    url: https://www.city.sano.lg.jp/material/files/group/51/chimeinoiware.pdf
+  m3-sano-history:
+    label: 佐野市公式「歴史・伝統」（佐野庄が『兵範記』にみえること、佐野氏と唐沢山城・佐野城）
+    url: https://www.city.sano.lg.jp/kurashi_gyosei/shiseijoho_nyusatsu/sanoshinogaiyo/intro/8599.html
+  m3-tochigi-city-pdf:
+    label: 栃木市公式 市の概要資料（1937年の旧市制施行、2010年の新設合併と2011・2014年の編入）
+    url: https://www.city.tochigi.lg.jp/uploaded/attachment/70726.pdf
+  m3-tochigi-inishie:
+    label: 栃木県「とちぎいにしえの回廊」コラム（栃木宿と巴波川の舟運、幕末の大火と蔵造りの普及）
+    url: https://www.inishie.tochigi.jp/special-season-column.html
+  u4-moka-city-chimei:
+    label: 真岡市公式「真岡の地名について」（『真岡市史』の記述の抜粋：『下野国誌』は天正年間より芳賀を真岡と改めたとするが、文和4年（1355）の『専修寺文書』如来堂修理料差文に「まほか空円」、天文18年（1549）の「今宮祭祀録」に「真岡ノ地」、永禄7年（1564）の芳賀高定充行状写に「真岡へ在城」とあり真岡の名は天正以前に存在したこと、読みは当初「もうか」で明治期に「まをか」が現れ昭和45年（1970）に市が「もおか」に統一したこと、語源は決定的な由来は不明で、アイヌ語「マオカ」説と「真は美称」説が挙げられること、江戸中期の記録に鶴が舞った御前の岡の伝承があること）
+    url: https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/rekishi_bunkazai/6/862.html
+  u4-moka-city-gappei:
+    label: 真岡市公式「合併の記録」（市制施行は昭和29年（1954）10月1日であること、市の花は「わた」、特産品は真岡木綿であること）
+    url: https://www.city.moka.lg.jp/material/files/group/47/gappeinokiroku.pdf
+  u4-moka-kotobank-chimeitaikei:
+    label: コトバンク「真岡市」（『日本歴史地名大系』の解説：真岡の地名は古代中世には用いられておらず、『下野国誌』は『和名抄』の芳賀郡芳賀郷を真岡の地とし天正年中（1573〜92）に真岡と改めたとすること、天正5年に芳賀高継によって築かれた芳賀城が真岡城とも称されたこと）
+    url: https://kotobank.jp/word/%E7%9C%9F%E5%B2%A1%E5%B8%82-142153
+  u4-moka-kotobank-daijisen:
+    label: コトバンク「真岡」（『デジタル大辞泉』・『精選版 日本国語大辞典』の解説：鬼怒川の東岸にあり江戸時代は代官所が置かれた真岡木綿の産地であること、中世以降、河港町・城下町として発達し明治時代まで真岡木綿の集散地として知られたこと、平成21年（2009）に二宮町を編入したこと）
+    url: https://kotobank.jp/word/%E7%9C%9F%E5%B2%A1-135592
+  u4-nasukarasuyama-city-castle:
+    label: 那須烏山市公式「烏山城跡」（烏山城は八高山に築かれた山城で別名・臥牛城とも呼ばれること、古記録・系譜等によれば沢村五郎資重（下那須氏）が応永25年（1418）に現在の地に城を築いたのが始まりで、下那須氏の本拠から那須宗家の居城となり、享保10年（1725）の大久保常春入封後は大久保氏が8代140余年にわたり城主となったこと、令和4年（2022）12月に国史跡指定の答申があったこと）
+    url: https://www.city.nasukarasuyama.lg.jp/board-of-education/culture/page001017.html
+  u4-nasukarasuyama-uub:
+    label: 市区町村変遷情報「栃木県那須烏山市の詳細情報」（2005年10月1日に那須郡南那須町・烏山町が新設合併して那須烏山市となったこと、合併協議会は「南那須町・烏山町合併協議会」で官報告示は2005年7月14日であること、当初は馬頭町・小川町を含む4町で「南那須地区町村合併研究会」が設置されていたこと、南那須町は1971年9月1日に南那須村から町制を施行したこと）
+    url: https://uub.jp/upd/u/u1240.html
+  u4-nasukarasuyama-wikipedia:
+    label: Wikipedia「那須烏山市」（地名の由来の節：『那須記』では烏山城に因む地名とされ、この土地はもともと8世紀末から「坂主」その後「酒主」と書かれてきた一方、那珂川沿岸の丘陵には群鳥が棲む草叢があり「烏山」と呼ばれていたところへ築城した沢村（那須）資重が烏山城と名付け、地名も烏山としたと云われること、読みの音からは「川原（カワラ）」「洲（ス）」「山（ヤマ）」の転訛説があること、烏山に伝わる民話では神のお告げで那珂川の西側の山に城を築いたことから烏山城というようになったと伝えること）
+    url: https://ja.wikipedia.org/wiki/%E9%82%A3%E9%A0%88%E7%83%8F%E5%B1%B1%E5%B8%82
+  u4-nasushiobara-city-onsen:
+    label: 那須塩原市公式「歴史文化基本構想」資料（塩原温泉は大同元年（806）に発見されたと伝えられ、塩原十一湯と呼ばれる泉質の違う温泉地が連なり、近世初頭より湯治場として栄えたこと）
+    url: https://www.city.nasushiobara.tochigi.jp/material/files/group/38/rekibunhonpen05-6.pdf
+  u4-nasushiobara-city-plan:
+    label: 黒磯市・西那須野町・塩原町合併協議会「新市建設計画」（平成16年5月）（新市は栃木県北西部にあり東北新幹線の那須塩原駅があること、黒磯市は昭和30年（1955）1月に合併で黒磯町となった後、昭和45年（1970）11月に市として誕生したことなど合併に至る経緯）
+    url: https://www.city.nasushiobara.tochigi.jp/material/files/group/2/shinshikeikaku.pdf
+  u4-nasushiobara-folklore-kuroiso:
+    label: 地名解説サイト「黒磯の地名の由来」（村の草分けである黒館五郎の「黒」とその妻磯よしの「磯」をとって名付けたという説と、那珂川の磯が黒いことによるとする説、那須岳の黒い火山灰に敷き詰められた土地が海浜の磯のようだったことに由来するという説を紹介）
+    url: https://folklore2017.com/timei700/70079.htm
+  u4-nasushiobara-kotobank-kuroiso:
+    label: コトバンク「黒磯村」（『日本歴史地名大系』の解説：天正19年（1591）の那須与一郎資景知行目録（那須文書）に「くろいそ」とあること、近世は初め那須藩領で寛永20年（1643）から幕府領だったこと、鎌倉時代に落武者が住みついたのが村の起りと伝える「黒磯村創立記録」があること）
+    url: https://kotobank.jp/word/%E9%BB%92%E7%A3%AF%E6%9D%91-3032500
+  u4-nasushiobara-station:
+    label: 鉄道資料ページ「JR東日本・那須塩原駅」（那須塩原駅はかつて東那須野駅と称し、東北新幹線建設計画の仮称は新那須駅だったが、開業近くになり「塩原」の文字を入れてほしいという動きがあり、1982年6月の東北新幹線開業に際して「那須塩原」へ改称されたとする駅史の記録）
+    url: http://www.pcpulab.mydns.jp/main/touhokushinkansen_nasushiobara.htm
+  u4-nasushiobara-wikipedia:
+    label: Wikipedia「那須塩原市役所」（市名の由来の節：市の名称「那須塩原」は、合併当時において市域内で新幹線の駅名として長年使用されており、全国的に知られた名であったとする説明）
+    url: https://ja.wikipedia.org/wiki/%E9%82%A3%E9%A0%88%E5%A1%A9%E5%8E%9F%E5%B8%82%E5%BD%B9%E6%89%80
+  u4-otawara-city-70th:
+    label: 大田原市公式「70年の軌跡」（昭和29年（1954）に大田原町・金田村・親園村が合併して大田原市が誕生したこと）
+    url: https://www.city.ohtawara.tochigi.jp/docs/2024102400023/file_contents/2024_11_03_04.pdf
+  u4-otawara-city-joseki:
+    label: 大田原市公式「大田原城跡（市指定史跡）」（大田原城は大田原資清によって築城され、天文12年（1543）あるいは天文14年（1545）に水口居館から移ったといわれること、明治4年の廃藩置県まで大田原氏の居城だったこと）
+    url: http://www.city.ohtawara.tochigi.jp/docs/2013082778963
+  u4-otawara-kotobank-jokaseki:
+    label: コトバンク「大田原城跡」（『日本歴史地名大系』の解説：大田原氏は家譜によれば武蔵七党の丹党に属して阿保を称し、明応3年（1494）に康清が那須郡大俵に移ったこと、築城者は大田原資清で天文12年（1543）または14年に水口館から移ったとされること）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%9F%8E%E8%B7%A1-3034667
+  u4-otawara-kotobank-sekai:
+    label: コトバンク「大田原」（『改訂新版 世界大百科事典』の解説：中心集落大田原は那須扇状地の扇端部の湧水帯に位置し中世末期に大田原氏の城下町となったこと、2005年10月に旧大田原市が黒羽町・湯津上村を編入したこと）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%94%B0%E5%8E%9F-450206
+  u4-otawara-shishi-chimei:
+    label: 『大田原市史』（ADEACデジタル版）「第一編第一章 大田原の地名を考える」（地名は大田原氏の来住以前からあったとみるのが妥当だとし、大田原氏系譜に文和4年（1355）の記事として「下野那須之内大俵上下鹿野合五千貫」と「大俵」の名が見えることを根拠に挙げる市の見解）
+    url: https://adeac.jp/otawara-city/texthtml/d100010/mp000010-100010/ht010010
+  u4-oyama-city-ayumi:
+    label: 小山市公式「小山市のあゆみ」（「小山」の地名は『和名抄』に下野国都賀郡の11郷の1つとして紹介されているのが初めてであること、地名の由来は諸説あるが思川西部の低地から見ると東部の台地が小さな山の形をしていることから名づいたという説が有力であること、鎌倉時代から戦国時代にかけて小山氏の本拠地となったこと、本多正純の転封後に小山城は廃城となり日光社参の休憩所となる小山御殿が造営されたこと）
+    url: https://www.city.oyama.tochigi.jp/shisei/gaiyo/introduction/page003011.html
+  u4-oyama-city-densetsu:
+    label: 小山市公式『小山市史』・『小山の伝説』の頒布案内（『小山の伝説』抜粋「小山のおこり」を掲載：小山氏の祖とされる太田四郎政光が思川沿岸を知行することになってこの地へ進んだという伝承）
+    url: https://www.city.oyama.tochigi.jp/kankou-bunka/rekishi_bunka/hanpu/page000076.html
+  u4-oyama-city-gaiyo:
+    label: 小山市公式「小山市の概要」（令和7年3月。昭和29年（1954）3月31日に下都賀郡小山町と大谷村が合体合併し、同年9月18日に市制を施行したこと）
+    url: https://www.city.oyama.tochigi.jp/data/doc/1742806497_doc_311_0.pdf
+  u4-oyama-city-kanko:
+    label: 小山市公式「小山市観光情報（歴史・文化スポット）」（小山評定が開かれた地として市役所敷地内に小山評定跡の石碑があること、1622年に日光社参の際の休憩・宿泊所として小山御殿が歴史に登場すること、小山政光・寒川尼像の説明として寒川尼が源頼朝の乳母も務めたこと）
+    url: https://www.city.oyama.tochigi.jp/kankou-bunka/chakuchi/page003733.html
+  u4-sakura-city-gappei:
+    label: さくら市公式「さくら市が誕生するまで」（氏家町・喜連川町の合併経過と、新市名「さくら市」選定の理由：両町民にとって桜は長年親しまれてきた花であり、平仮名にすることで柔らかく、桜の花のように美しいまちになってほしいという願いが込められていること）
+    url: https://www.city.tochigi-sakura.lg.jp/government/000048/000285/p000058.html
+  u4-sakura-city-kitsuregawa:
+    label: さくら市公式「旧喜連川町の紹介」（喜連川の地名に関する正確な記録はないが、中世の文書に荒川を示すと考えられる「狐河」「喜連川」や「来烈川」の表記が見られること、足利氏の流れを汲む喜連川氏がこの地を治め城下町が形成されたこと）
+    url: https://www.city.tochigi-sakura.lg.jp/government/000048/000285/p000049.html
+  u4-sakura-city-manabi:
+    label: さくら市公式資料「さくら市を育んだ学びと歴史」（市名は市民から公募し「桜の花のように美しいまちに」と願いを込めてつけられたこと、氏家の地名は『和名類聚抄』に見え、川に挟まれた中州「内江（うちえ）」がなまって氏家になったと推測されること、喜連川は荒川を地元で呼んだ「狐川」が後年変化したものと伝わること、古くから「櫻野」と呼ばれた地があること）
+    url: https://www.city.tochigi-sakura.lg.jp/manage/contents/upload/61bb3c05764f7.pdf
+  u4-sakura-city-ujiie:
+    label: さくら市公式「旧氏家町の紹介」（鎌倉時代初期に宇都宮朝綱の三男・氏家公頼が氏家郷を領してこの地名を名乗り氏家氏を称したこと、江戸時代に奥州街道の氏家宿が開かれたこと、1889年の町村制で氏家町が発足したこと）
+    url: https://www.city.tochigi-sakura.lg.jp//government/000048/000285/p000050.html
+  u4-shimotsuke-city-machizukuri:
+    label: 下野市公式「下野市まちづくりプラン資料（下野市の概要）」（天武天皇の白鳳時代に下野薬師寺が建立され日本三戒壇の一つである戒壇が設置されたこと、8世紀に聖武天皇の詔により下野国分寺・国分尼寺が建立されたこと、日光街道沿いの小金井や石橋が旧宿場町であること）
+    url: https://www.city.shimotsuke.lg.jp/manage/contents/upload/69a7be7033874.pdf
+  u4-shimotsuke-city-tanjo:
+    label: 下野市公式「下野市の誕生まで」（平成18年1月10日に河内郡南河内町・下都賀郡石橋町・国分寺町が合併して下野市が誕生したこと、3町の昭和期の沿革）
+    url: https://www.city.shimotsuke.lg.jp/0009/info-0000000478-3.html
+  u4-shimotsuke-kotobank-kenu:
+    label: コトバンク「毛野」（『デジタル大辞泉』の解説：はじめ毛野を上毛野（かみつけの）・下毛野（しもつけの）の2国に分け、霊亀元年（715）に国名を2字と定めてから上野・下野と記すようになったこと）
+    url: https://kotobank.jp/word/%E6%AF%9B%E9%87%8E-490877
+  u4-shimotsuke-uub-shosai:
+    label: 市区町村変遷情報「栃木県下野市の詳細情報」（新市名公募の上位10点が「下野・しもつけ・ゆうがお・夕顔・子ほめ・天平・薬師寺・自治医大・みどり・白鳳」で、最終候補5点（下野・しもつけ・天平・白鳳・ゆうがお）から「下野市」に決まった経緯）
+    url: https://uub.jp/upd/u/u872.html
+  u4-shimotsuke-weblio-rekimin:
+    label: Weblio「下野国」（日外アソシエーツ『歴史民俗用語辞典』の項目：下野国の別名は下毛野国（しもつけぬのくに）であること）
+    url: https://www.weblio.jp/content/%E4%B8%8B%E9%87%8E%E5%9B%BD
+  u4-yaita-city-gaiyo:
+    label: 矢板市公式「矢板市の概要（沿革）」（矢板市付近は古くは「しほのや」と呼ばれたこと、平安時代後期に塩谷氏が興り豊臣秀吉による改易まで約400年にわたり塩谷荘33郷を制したこと、日光北街道の問屋・宿場を中心に物資集積の地として発展の基礎を築いたこと）
+    url: https://www.city.yaita.tochigi.jp/uploaded/attachment/3161.pdf
+  u4-yaita-city-made:
+    label: 矢板市公式「矢板市ができるまで」（明治22年（1889）の市町村制実施により矢板村を設置し、同28年に町制を施行して矢板町となったこと、昭和30年（1955）1月1日に矢板町・泉村・片岡村が合併して矢板町を設置し、昭和33年（1958）11月1日に市制を施行して矢板市となったこと）
+    url: https://www.city.yaita.tochigi.jp/soshiki/hishokouhou/sigadekirumade.html
+  u4-yaita-city-rekishi:
+    label: 矢板市公式「矢板市の歴史と文化」（木幡神社は平安時代初頭の795年に坂上田村麻呂が蝦夷征伐の戦勝祈願に建立したと伝えられること、平安末期から周辺を領土としていた塩谷氏の氏神としても知られること）
+    url: https://www.city.yaita.tochigi.jp/soshiki/hishokouhou/rekisitobunka.html
+  u4-yaita-kotobank:
+    label: コトバンク「矢板」（『デジタル大辞泉』の解説：中世は塩谷氏の城下町であること。『精選版 日本国語大辞典』の解説：那珂川の支流荒川の谷口集落で、江戸時代は日光北街道の宿駅であり、昭和33年（1958）に市制を施行したこと）
+    url: https://kotobank.jp/word/%E7%9F%A2%E6%9D%BF-143393
+  u4-yaita-wikipedia:
+    label: Wikipedia「矢板市」（地名の由来の節：「矢板」の由来は確定的なものはなく、美田を意味する「八重田（やえた）」の転訛説、田畑を焼く「焼田（やきた）」の転訛説、土留めの板という意味の「矢板」からという説、矢板氏の発祥の地で一族の支配によって土地が矢板と呼ばれた可能性など、いずれも根拠に乏しく推測の域を出ないとする整理）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%9D%BF%E5%B8%82

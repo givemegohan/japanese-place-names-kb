@@ -1,0 +1,1166 @@
+prefecture_code: '03'
+records:
+- id: muni/03-一関市
+  code: 032093
+  names:
+    ja: 一関市
+    reading: いちのせきし
+    aliases:
+    - 一関町
+  user_terms:
+  - 一関は関所の名前なのか
+  - 一ノ堰とは何か
+  - 一関 二関 三関は本当にあるのか
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 市名は中心地「一関」の地名の継承である。その語源には、北上川の氾濫をせき止める一番目の堰「一ノ堰」から転じたとする説と、市内に残る「一関・二関・三関」の地名が平泉の関所にちなむとする説が並立している。昭和23年（1948年）に市制を施行し、平成17年（2005年）の新設合併で現在の一関市となった。
+  first_attestation:
+    era: 昭和23年
+    year_western: 1948
+    document: 一関市の市制施行
+    note: 市名としての初出。地名「一関」自体はこれより古いが、文書上の初出は未確認
+  claims:
+  - text: 岩手県の「いわての文化情報大事典」は、「一関」の由来の第1説として、北上川の氾濫をせき止めるために作った一番目の「堰」である「一ノ堰」から転じたものだとする説を挙げている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 同大事典の第2説は、市内に「一関」「二関」「三関」があり、平泉の関所にちなむとするもので、2説は併記されており決着していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 一関市議会要覧の沿革によれば、この地域は戦後まもなく36の町村に分かれていたが、昭和23年から33年にかけての合併で合併前の8市町村となり、昭和23年（1948年）に市制を施行した旧一関市がその一つであった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m1-ichinoseki-youran
+  - text: 政府統計の廃置分合情報によれば、平成17年（2005年）9月20日、一関市・花泉町・大東町・千厩町・東山町・室根村・川崎村が合併して一関市が新設された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m1-ichinoseki-estat
+  - text: 平成23年（2011年）9月26日に藤沢町が一関市に編入され、東磐井郡は廃止された、と政府統計の記録および市議会要覧は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m1-ichinoseki-estat
+    - m1-ichinoseki-youran
+  - text: 地方公共団体コードは032093である（総務省「地方公共団体コード一覧」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一・二・三と並ぶ「関」
+    text: 「関所」説の根拠は、市内に「一関」だけでなく「二関」「三関」という地名が実際に並んで残っていることです。一方、「一ノ堰」説は、暴れ川だった北上川を治める堰の記憶に名前の起源を求めます。街道の関か、水をせき止める堰か。「せき」という音に、二つの異なる風景が重なっているのが一関の名前の面白さです。
+    sources:
+    - a-cap-morioka-bunka
+  relations:
+  - pref/03
+  unknowns:
+  - 地名「一関」の文書上の初出（中世文書での用例）の確認は未実施
+  - 「二関」「三関」の地名が関所そのものの跡かどうかは、今回の資料では確認できていない
+  updated: '2026-11-13'
+- id: muni/03-久慈市
+  code: '032077'
+  names:
+    ja: 久慈市
+    reading: くじし
+    aliases:
+    - 久慈町
+    - 久慈郡
+  user_terms:
+  - あまちゃんのまち
+  - 琥珀のまち
+  - 北限の海女のまち
+  - 北三陸の港町
+  naming_type: その他
+  prefecture: 岩手県
+  homonyms: []
+  summary: 「久慈」は南北朝期からの郡名として見られる古い地名で、現在の市名は旧久慈町から受け継がれた。語源は確定しておらず、岩手県の資料は「くびれた地形」「海食でえぐられた地」「口津（河口の船着場）」「口州（河口の砂州）」の4説を併記する。なお『常陸国風土記』のクジラに似た丘の伝承は、茨城県のもう一つの久慈の由来であり、岩手の久慈の話ではない。市は琥珀の産地として知られ、2013年のNHK連続テレビ小説『あまちゃん』のロケ地となった。
+  first_attestation:
+    era: 元弘4年
+    year_western: 1334
+    document: 北畠顕家が南部師行に宛てた書状
+    note: Wikipedia「糠部郡」が、北畠顕家が久慈郡へ代官を入部させるよう命じた記事として紹介する用例で、原典は未確認。岩手県の文化情報大事典は「久慈」を南北朝期からの郡名とする
+  claims:
+  - text: 総務省の全国地方公共団体コードで、久慈市の団体コードは032077と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の文化情報大事典「市名の由来」は、「久慈」は南北朝期からの郡名として見られる地名であると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+  - text: 同じく県の大事典は久慈の語源として、くびれた地形からとする説、海食で陸地がクジ（えぐられ）て崩れたところとする説、「口津」の意味で河口の船着場とする説、「口州」の意味で河口に横たわる長い海砂州とする説の4説を併記しており、定説は示されていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 岩手県内の地名研究家・宍戸敦は、「久慈」は「抉（えぐ）る＝くじる」に由来する可能性が高く、岩が削られた久慈渓流の渓谷がその場所の候補だと説いている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - t4-kuji-menkoi-chimei
+  - text: 『常陸国風土記』に伝わる「鯨鯢（くじら）に似た小さい丘を倭武天皇が久慈と名づけた」という由来譚は、茨城県の久慈郡・久慈川流域の地名についてのもので、岩手県の久慈の語源として県の資料には挙げられていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-kuji-mlit-kujikawa
+    - a-cap-morioka-bunka
+  - text: 久慈市によれば、昭和29年（1954年）に久慈町・長内町など2町5村が合併して久慈市が誕生し、平成18年（2006年）3月6日に山形村と合併して現在の久慈市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-kuji-city-enkaku
+  - text: 久慈は世界有数かつ国内最大の琥珀の採掘産地として知られ、採掘場・加工場・博物館を備える
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-kuji-wiki
+  - text: 2013年放送のNHK連続テレビ小説『あまちゃん』では、架空の市「北三陸市」の場面のロケが久慈市内各所で行われ、放送後に観光客が増加した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-kuji-wiki
+  column:
+    title: クジラの岡は、もう一つの「久慈」の話
+    text: 「久慈」の由来として有名なのは、『常陸国風土記』にある「鯨鯢（くじら）の岡」の話です。小さな丘の形がクジラに似ていたので、倭武天皇が「久慈」と名づけたというこの伝承は、実は茨城県の久慈郡・久慈川の地名についてのものです。岩手県の久慈については、県の資料が挙げるのは地形にまつわる4つの説で、クジラは登場しません。同名の地名どうしで由来が混ざり合うのは珍しくないことで、この二つの久慈は、名前は同じでも由来の層はまったく別々にたどる必要があります。
+    sources:
+    - t4-kuji-mlit-kujikawa
+    - a-cap-morioka-bunka
+  relations:
+  - pref/03
+  unknowns:
+  - 「久慈」の語源は確定しておらず、県の資料が併記する4説のいずれも典拠となる古文書を確認できなかった
+  - 郡名「久慈」の初出について、1334年の書状の記事は二次資料（Wikipedia）経由の確認にとどまり、原典を確認できなかった
+  - 久慈氏がこの地を領した中世の経緯と地名との関係は、市公式の沿革ページでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/03-二戸市
+  code: '032131'
+  names:
+    ja: 二戸市
+    reading: にのへし
+    aliases:
+    - 福岡町
+    - 二戸郡
+  user_terms:
+  - 戸（へ）のつく地名の一つ
+  - 金田一温泉のまち
+  - 漆のまち
+  - カシオペア連邦
+  naming_type: その他
+  prefecture: 岩手県
+  homonyms: []
+  summary: 「二戸」は、古代〜中世に陸奥国糠部郡を一から九までの「戸」に分けた区分の名残とされる地名で、一戸・三戸・五戸〜九戸と並ぶ「戸（へ）」の地名群の一つ。馬の牧場を分けた「九戸四門」の制に由来するという説明が県・市ともに伝えられるが、由来には諸説あり確定していない。「四戸」だけは現行の自治体名として残っていない。現在の二戸市は1972年に福岡町と金田一村が合併して生まれ、2006年に浄法寺町と合併した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「二戸」の名自体の初出となる一次文書は確認できなかった。岩手県の文化情報大事典は、平安時代に採用された「九戸四門」制に由来すると説明する
+  claims:
+  - text: 総務省の全国地方公共団体コードで、二戸市の団体コードは032131と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の文化情報大事典「市名の由来」は、二戸の由来を、平安時代に糠部郡を蝦夷から守るため四方に柵と門を設け、のちにその囲いの中で馬を育てるため門に一から九までの番号をふって一戸に一牧場を置く「九戸四門」制を採用したことによると説明する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 二戸市は、この地方が軍馬の育成に適し「糠部の馬」が中央政府に納められていた土地柄であったと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-ninohe-city-intro
+  - text: 鎌倉時代の文治5年（1189年）、甲斐国の南部三郎光行が軍功により糠部郡を授けられ、官営牧場の馬を経営するためこの地方を九つの牧場（戸）に分け、東西南北に4つの門を設けて「九ヶ戸四門」と呼ばれる制度を敷いたと伝えられ、その行政区分の名残が現在の地名として残った
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - t4-ninohe-city-intro
+  - text: 岩手県立図書館のレファレンス事例によれば、「戸」の由来には諸説があり、南部氏の「九牧」に由来する説、貢馬の「幣（へ）」に関わる説、蝦夷に対する防衛施設（木戸・関所・城柵）に関わる説、糠部開拓経営のためのエリア区分に由来する説などが参考文献に挙げられている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - t4-iwate-lib-ref-he
+  - text: 糠部郡は寛永11年（1634年）に北郡・二戸郡・三戸郡・九戸郡に分割され、四戸を除く一戸から九戸までの名は現在も行政地名として現存している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-nukabe-wiki
+  - text: 現在の二戸市の前身は、昭和47年（1972年）に福岡町と金田一村が合併して市制を施行し二戸市と命名されたもので、平成18年（2006年）1月1日に旧二戸市と旧浄法寺町が合併して新しい二戸市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+    - t4-ninohe-city-intro
+  column:
+    title: 並んでいるのに一つだけない「四戸」
+    text: 岩手県北部から青森県にかけて、一戸・二戸・三戸・五戸・六戸・七戸・八戸・九戸と、「戸（へ）」のつく地名が順に並んでいます。ところが四戸だけは、現在の自治体名としては存在しません。岩手県立図書館のレファレンス事例によれば、四戸は地名としては失われたものの、四戸氏の名を介して四戸城跡（二戸市金田一）などに痕跡を残しているといいます。番号のついた区分の名残とされる一連の地名の中で、欠けた「四」がかえって、この地名群が古い制度の名残であることを物語っています。
+    sources:
+    - t4-iwate-lib-ref-he
+    - t4-nukabe-wiki
+  relations:
+  - pref/03
+  unknowns:
+  - 「戸」の制度の実態（牧場区分か、防衛の柵か、行政区分か）は資料によって説明が分かれ、一次史料で確定できなかった
+  - 「二戸」という区分名の初出となる文書を確認できなかった
+  - 四戸が地名として失われた時期と経緯は、確認した資料では特定できなかった
+  updated: '2026-11-13'
+- id: muni/03-八幡平市
+  code: '032140'
+  names:
+    ja: 八幡平市
+    reading: はちまんたいし
+    aliases:
+    - 西根町
+    - 松尾村
+    - 安代町
+  user_terms:
+  - 八幡平ドラゴンアイ
+  - 雪の回廊
+  - 日本百名山の山の名をもつ市
+  - 安比高原のある市
+  naming_type: 合併新設
+  prefecture: 岩手県
+  homonyms: []
+  summary: 2005年に岩手郡の西根町・松尾村・安代町が合併して生まれた市で、市名は市域の西にそびえる八幡平（標高1,614m）の山名に由来する。八幡平は岩手・秋田両県にまたがる火山性の高原台地で、日本百名山の一つであり、十和田八幡平国立公園に含まれる。山名そのものの由来は確定しておらず、坂上田村麻呂が八幡神を祀って「八幡平」と名付けたという伝承が伝えられるにとどまる。構成した3町村のいずれの名でもない、地域の象徴である山の名を新市名に採った事例である。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 八幡平市の発足（平成17年9月1日）
+    note: 市名としての初出。山名「八幡平」自体の初出となる文書は確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、八幡平市の団体コードは032140と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 八幡平市によれば、市は平成17年（2005年）9月1日に旧西根町・旧松尾村・旧安代町の2町1村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-hachimantai-city-plan
+  - text: 市名の「八幡平」は、市の西にそびえる日本百名山の八幡平（標高1,614m）に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-hachimantai-wiki
+  - text: 八幡平は秋田県と岩手県にまたがる標高1,614mの山およびその周囲の高原台地で、山域は1956年（昭和31年）に十和田八幡平国立公園に指定された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-hachimantai-wiki
+  - text: 桓武天皇の勅命で奥州に下った坂上田村麻呂が、八幡平にたどり着いて景色に感激し、戦の神である八幡神を奉って戦勝を祈り、討伐後にこの地を「八幡平」と名付けたと伝えられるが、史実では田村麻呂はこの地には至っていない
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - t4-hachimantai-wiki
+  - text: 秋田県側にも、同じ山名にちなむ八幡平村（1956〜1972年、現在の鹿角市の一部）が存在した時期がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-hachimantai-wiki
+  column:
+    title: 平らすぎて土を盛られた山頂
+    text: 八幡平の「平」は伊達ではなく、主峰の頂上部はあまりに平らで、どこが山頂か分からないほどでした。1962年には、あまりに平らで山頂らしくないということで、岩手県が山頂に土盛りをして人為的に高くしたという記録が残っています。春には山頂近くの鏡沼の雪どけ模様が竜の目に似る「ドラゴンアイ」で知られるこの山の名は、2005年の合併で3町村のどの名でもない新しい市名として選ばれ、山の両側にかつてあった自治体の名（岩手側の八幡平市と、かつての秋田側の八幡平村）にもなっています。
+    sources:
+    - t4-hachimantai-wiki
+  relations:
+  - pref/03
+  unknowns:
+  - 新市名「八幡平」が合併協議会でどのように選定されたか（公募の有無・候補名など）の詳細は、市の公式資料で確認できなかった
+  - 山名「八幡平」の初出と命名年代は確認できなかった
+  - 市名の由来を八幡平市の公式サイト自身が説明するページを確認できなかった（市公式資料は合併の事実の確認にとどまった）
+  updated: '2026-11-13'
+- id: muni/03-北上市
+  code: 032069
+  names:
+    ja: 北上市
+    reading: きたかみし
+    aliases:
+    - 黒沢尻町
+  user_terms:
+  - 北上は日高見から来た名前か
+  - 黒沢尻はどうなったのか
+  - 北上川の名前の由来
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 市名は、北上川の流域を指す広域名「北上」を採用したものである。その語源は古名「日高見（ヒタカミ）」が変わったものとされ、解釈には諸説がある。昭和29年（1954年）、黒沢尻町・飯豊村など7町村が合併した際に「北上市」と命名された。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 北上市の命名（黒沢尻町ほか7町村の合併・市制施行）
+    note: 市名としての初出。「北上」「日高見」という語自体は古代の記録に遡るが、市名との直接の系譜は合併時の命名による
+  claims:
+  - text: 岩手県の「いわての文化情報大事典」は、「北上」は「日高見（ヒタカミ）」から変わったものだとする
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 「日高見」の解釈には、ヒダ（山ひだ）にカ（処）を結ぶ説、ヒダ（高）にカ（地）を結ぶ説、ヒナ（夷）にカ（処）を結ぶ説、ヒタカミを「辺境」とみる説の4説があり、同大事典に併記されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 昭和29年（1954年）、黒沢尻町・飯豊村・二子村・更木村・福岡村・鬼柳村・相去村が合併して「北上市」と命名された、と同大事典は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+  - text: 地方公共団体コードは032069である（総務省「地方公共団体コード一覧」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「日高見」の面影
+    text: 古代の東北は、朝廷から見て「日高見（ひたかみ）」の地と呼ばれたという伝承的な地理観があります。「ヒタカミ」が「キタカミ」へと音を変えたというのが県の大事典の説明で、山ひだ・高地・夷の地・辺境という4つの解釈が並びます。かつての中心地・黒沢尻の名を捨て、川と地域の大きな名「北上」を選んだ1954年の命名は、広域の名を新しい市の看板にする戦後らしい選択でした。
+    sources:
+    - a-cap-morioka-bunka
+  relations:
+  - pref/03
+  unknowns:
+  - 1954年の合併時に「北上」と命名した理由の明文（川名・北上駅名との関係を含む）は、県の大事典には記されておらず未確認
+  - 「日高見」の語が見える古代の原典（『日本書紀』等）との照合は未実施
+  - 平成3年（1991年）の和賀町・江釣子村との合併など、その後の市域の変遷は本レコードでは未確認
+  updated: '2026-11-13'
+- id: muni/03-大船渡市
+  code: '032034'
+  names:
+    ja: 大船渡市
+    reading: おおふなとし
+    aliases:
+    - 大船渡町
+  user_terms:
+  - 大船渡は大きな船着場という意味か
+  - サン・アンドレス湾と呼ばれた理由
+  - 大船渡の名前はいつからあるのか
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 市名は中世以来の地名「大船渡」の継承で、岩手県の文化情報大事典は「大きな船着場」の意味とする。昭和27年（1952年）に大船渡町・盛町の2町と5村が合併して市制を施行し、平成13年（2001年）に三陸町を編入した。
+  first_attestation:
+    era: 昭和27年
+    year_western: 1952
+    document: 大船渡市の市制施行
+    note: 市名としての初出。地名「大船渡」自体は中世以来とされるが、具体的な初出文書は未確認
+  claims:
+  - text: 岩手県の「いわての文化情報大事典」は、「大船渡」の由来を「大きな船着場」の意味とする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+  - text: ブリタニカ国際大百科事典は、市名は港を意味する中世以来の地名であり、1952年に大船渡町・盛町の2町と赤崎村・日頃市村・猪川村・立根村・末崎村の5村が合体して市制を施行した、と述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m1-ofunato-kotobank
+  - text: 2001年（平成13年）11月15日に東隣の気仙郡三陸町を編入した、と日本歴史地名大系は述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m1-ofunato-kotobank
+  - text: 大船渡市は大船渡港の沿革として、慶長16年（1611年）にスペインの探検家セバスチャン・ビスカイノが当地を探検し、湾を讃えて「サン・アンドレス湾」と名付けたことを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m1-ofunato-city-port
+  - text: 地方公共団体コードは032034である（総務省「地方公共団体コード一覧」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「サン・アンドレス」と名付けられた湾
+    text: 1611年、スペインの探検家ビスカイノは三陸沿岸を測量して大船渡湾に入り、その天然の良港ぶりに感嘆して、聖アンドレの祝日にちなみ「サン・アンドレス」と名付けました。明治に入ると渋沢栄一が「東北における絶好の良港」と絶賛し、横断鉄道と大製鉄所の壮大な計画まで描かれました。「大きな船着場」という地名の意味どおり、この湾は近世・近代を通じて大きな船を迎える場所であり続けたのです。
+    sources:
+    - m1-ofunato-city-port
+    - m1-ofunato-kotobank
+  relations:
+  - pref/03
+  unknowns:
+  - 「大船渡」の名が見える中世文書の具体的な初出は未確認
+  - 大きな船の到来に結びつける命名伝承は、今回確認した公的・専門資料には見当たらなかった
+  updated: '2026-11-13'
+- id: muni/03-奥州市
+  code: 032158
+  names:
+    ja: 奥州市
+    reading: おうしゅうし
+    aliases:
+    - 水沢市
+    - 江刺市
+  user_terms:
+  - 奥州市の名前は大きすぎないか
+  - 奥州市の名前は公募で決まったのか
+  - 奥州とはどこのことか
+  naming_type: 合併新設
+  prefecture: 岩手県
+  homonyms: []
+  summary: 平成18年（2006年）2月20日、水沢市・江刺市・胆沢郡前沢町・胆沢町・衣川村の合併で誕生した。市名「奥州」は陸奥国の別称にあたる広域地名で、住民公募で集まった569案から絞り込まれ、合併協議会の決選投票で「水沢市」を破って決まった。一つの市が東北地方の大半を指す名を名乗ることには、「僭称」との批判も向けられた。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 奥州市の市制施行（5市町村の新設合併）
+    note: 市名としての初出。「奥州」の語自体は陸奥国の別称として古くからある
+  claims:
+  - text: 平成18年（2006年）に水沢市・江刺市・胆沢郡前沢町・胆沢町・衣川村が合併し、奥州市が誕生した、と岩手県の「いわての文化情報大事典」は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+  - text: 合併の期日は2006年2月20日であった、と国土計画協会の研究助成論文は述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m1-oshu-kokudo
+  - text: 新市名は一般公募で決められ、2005年1月24日から2月14日まで5市町村の全住民を対象に募集して569案が集まった。その際、応募数は考慮せず、各案は等価に扱われた、と同論文は述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m1-oshu-kokudo
+  - text: 小委員会の絞り込みで残った5案（みちのく・奥州・北平泉・胆沢城・水沢）について、2005年2月25日の合併協議会で委員40名が無記名投票を行い、奥州21票・水沢9票・胆沢城4票・みちのく4票・北平泉2票となった。過半数ではなく3分の2以上の得票が必要だったため上位2案の決選投票となり、奥州29票・水沢11票で「奥州市」に決定した、と同論文は地元紙の報道を引いて述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m1-oshu-kokudo
+  - text: 決定に際し、協議会会長であった水沢市長は「広い気持ち、広い大地を感じる、将来に期待を持てる名称だと思う」とコメントした、と同論文は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m1-oshu-kokudo
+  - text: 「奥州」は本来、陸奥国全体ないし東北地方を指す広域地名であり、一つの市がこれを名乗ることは「僭称」だという批判（片岡、2005年）もあった、と同論文は論評を整理している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - m1-oshu-kokudo
+  - text: 地方公共団体コードは032158である（総務省「地方公共団体コード一覧」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 決選投票29対11
+    text: 「奥州市」の誕生は、最後は投票で決まりました。公募569案から小委員会が絞った5案を協議会委員が投票し、中心都市の名「水沢」と広域地名「奥州」が決選投票へ。結果は29対11でした。もう一つの候補地だった隣の平泉は、かつて奥州藤原氏の本拠でした。その「奥州」の看板を、平泉を含まない合併が掲げたところに、この名前の野心と論争の両方があります。
+    sources:
+    - m1-oshu-kokudo
+  relations:
+  - pref/03
+  unknowns:
+  - 公募で「奥州」案そのものが何件応募されたかは、応募数を考慮しない方式だったため、論文にも明記がない
+  - 「奥州」の語の最古の用例など、語史そのものの確認は本レコードでは未実施
+  updated: '2026-11-13'
+- id: muni/03-宮古市
+  code: '032026'
+  names:
+    ja: 宮古市
+    reading: みやこし
+    aliases:
+    - 宮古
+    - 宮古町
+    - 閉伊
+  user_terms:
+  - 宮古
+  - みやこ
+  - 浄土ヶ浜
+  - 本州最東端のまち
+  - 三陸の港町
+  naming_type: その他（港町として定着した「宮古」の名を継承）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 三陸海岸のほぼ中央に位置する港町である。名の由来に定説はなく、岩手県の文化情報大事典は「閉伊地方の中心地を意味する『都』から」をはじめ7説を併記する。江戸時代は盛岡藩の代官所が置かれ、宮古港からの交易で領内屈指の繁華地となった。昭和16年（1941年）に宮古町など1町3村が合併して市制を施行し、平成17年（2005年）に田老町・新里村と合併、平成22年（2010年）に川井村を編入した。沖縄県宮古島市とは同名ではないが、宮古島市の側が合併時に「宮古市」との同名回避をした関係にある。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「宮古」の地名の文献上の初出は特定できなかった。中世の閉伊地方の文書には宮古湾周辺の鍬ヶ崎・笠間などの地名が見えるが、「宮古」そのものは本バッチでは確認できていない
+  claims:
+  - text: 岩手県の「いわての文化情報大事典」は、宮古の市名の由来として「閉伊地方の経済・文化の中心地の意味で『都』から」とする説など7つの説を併記しており、定説は定まっていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 同大事典はほかに、「ミヤ（宮）コ（処）で神社があるところ」「『港』からの転化」「ミヤ（野原）コ（土地）」「宮木（神社や仏堂をつくる材木）の意味」「宮子で神社の氏子」などの説を挙げている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 江戸時代の宮古は盛岡藩の代官所が置かれ、宮古湾周辺の海産物を宮古港から江戸へ送る交易により、領内屈指の繁華地として賑わったと宮古市の総合計画は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t3-miyako-city-plan
+  - text: 中世の鎌倉時代には源氏ゆかりの閉伊頼基が閉伊郡を拝領したと言われ、この地域は近世まで閉伊郡（後の下閉伊郡）に属したと市の総合計画は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t3-miyako-city-plan
+  - text: 昭和16年（1941年）2月11日、下閉伊郡の宮古町・磯鶏村・千徳村・山口村が合併して宮古市が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t3-miyako-uub
+  - text: 平成17年（2005年）6月6日に田老町・新里村と合併し、平成22年（2010年）1月1日に川井村を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t3-miyako-city-plan
+  - text: 宮古市の地方公共団体コードは032026である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 決まらない「みやこ」と、もう一つの「みやこ」
+    text: 宮古の語源候補は、県の大事典に7つも並ぶ。「都」か、「宮のある処」か、「港」の転化か。港町らしく交易の都を名乗ったという説もあれば、神社の材木「宮木」に由来するという職人の匂いのする説もある。そして日本にはもう一つ「みやこ」がある。沖縄の宮古島市は、合併のとき一度は「宮古市」に決まりながら、先にある岩手の宮古市と重なることを避けて「宮古島市」と改めた。決まらない語源の町と、同名を譲られた島の町。二つの「みやこ」は、名前の重さと軽さの好対照である。
+    sources:
+    - a-cap-morioka-bunka
+    - t3-miyako-city-plan
+  relations:
+  - pref/03
+  - muni/47-宮古島市
+  unknowns:
+  - 「宮古」の地名の文献上の初出は、本バッチでは確認できなかった
+  - 県の大事典が挙げる7説の中にアイヌ語起源を明示するものはなく、語源の系統そのものが確定していない
+  updated: '2026-11-13'
+- id: muni/03-滝沢市
+  code: '032166'
+  names:
+    ja: 滝沢市
+    reading: たきざわし
+    aliases:
+    - 滝沢村
+  user_terms:
+  - 日本一の村だったところ
+  - チャグチャグ馬コのまち
+  - 盛岡のベッドタウン
+  - 岩手山のふもとの市
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 市名は、1889年の合併で生まれた滝沢村の名をそのまま受け継いだもので、村名は構成地区の中で最も区域の広かった滝沢地区の名。さらにその「滝沢」は、石ケ森と谷地山の間を流れる渓流が滝となって流れる「滝の沢」という流れの名に由来すると市は説明する。滝沢村は長く「日本一人口の多い村」として知られ、2014年1月1日に町制を経ず単独で市制を施行して滝沢市となった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「滝沢」の名の初出となる古文書は確認できなかった。市公式は「滝の沢」という流れの名に由来すると説明する
+  claims:
+  - text: 総務省の全国地方公共団体コードで、滝沢市の団体コードは032166と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 滝沢市は、滝沢の由来について、石ケ森と谷地山の間に渓流があり、それが急流となり浅瀬となり滝となって流れているところが数か所あるので「滝の沢」と名づけられ、この流れの名前から「滝沢」と呼ばれたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-takizawa-city-chimei
+  - text: 明治22年（1889年）の町村制実施に際し、滝沢・鵜飼・大沢・篠木・大釜の5つの地区（村）が合併したが、その中で最も区域の広かった滝沢の名を採って滝沢村となり、平成26年（2014年）の市制施行でも「滝沢」の名が継承された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-takizawa-city-chimei
+    - t4-takizawa-city-gaiyo
+  - text: 総務省の告示により、岩手郡滝沢村を滝沢市とする処分が平成26年（2014年）1月1日に施行され、滝沢村は町制を経ることなく村のまま市制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-takizawa-soumu-press
+  - text: 滝沢村は市制施行以前の10年以上の期間、人口5万人を超える日本一人口の多い村であり、2002年に豊見城村が市制を施行して豊見城市となった後、その地位にあった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-takizawa-wiki
+  - text: 岩手県内での単独市制は、1958年（昭和33年）の江刺市（現在の奥州市）以来55年1か月ぶりのことであった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-takizawa-wiki
+  - text: 大釜地区の名は、前九年の役に源義家がこの地に陣営を設け、大釜を据え付けて兵馬に食糧を与えたことから生まれたという
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - t4-takizawa-city-chimei
+  - text: 篠木地区の名は、803年に坂上田村麻呂が蝦夷征伐の後に家来の斉藤五郎兼光に「この地にとどまり、寒暑を凌（しの）いで鎮撫の任にあたれ」と言い残したことから、「凌ぎ」が「篠木」になったという
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - t4-takizawa-city-chimei
+  column:
+    title: 「日本一の村」の勲章を捨てた決断
+    text: 滝沢村は、人口5万人を超えながら「村」であり続けた、日本一人口の多い村でした。その称号は村民にとって一つの勲章でしたが、2014年1月1日、村はその勲章を捨てて市制を施行しました。町制という段階を経ない、村から市への直接の移行です。移行後は「住民自治日本一の市」を掲げたと報じられています。「日本一の村」の座は沖縄県の読谷村に移りましたが、1889年に最も広い地区の名を採って生まれた「滝沢」という名そのものは、村から市へそのまま受け継がれています。
+    sources:
+    - t4-takizawa-jbpress
+    - t4-takizawa-wiki
+  relations:
+  - pref/03
+  - muni/03-盛岡市
+  unknowns:
+  - 「滝の沢」という流れの名がいつ頃から呼ばれていたかを示す古い記録は確認できなかった
+  - 「滝沢」の地名の文献上の初出は確認できなかった
+  - 村から直接市制を施行した事例が全国で滝沢が何例目にあたるかは、公式資料で確認できなかった（同様の経路として2002年の豊見城市がある）
+  updated: '2026-11-13'
+- id: muni/03-盛岡市
+  code: 032018
+  names:
+    ja: 盛岡市
+    reading: もりおかし
+    aliases:
+    - 不来方
+    - 古志方
+    - 森ヶ岡
+    - 森岡
+    - 盛岡町
+  user_terms:
+  - 盛岡の名前の由来
+  - 不来方って何と読む
+  - 盛岡は誰が名付けた
+  - 森岡から盛岡になった理由
+  naming_type: 新規命名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 市名は南部氏の城下町「盛岡」の継承である。この地の古名は「不来方（こずかた）」で、森ヶ岡・森岡を経て「盛岡」になったとされるが、改名の主体と時期は資料により異なる。岩手県の大事典は藩主・南部氏が「盛り上がり、栄える岡」の願いを込めて命名したとする一方、専門文献は2代藩主・利直が「森ヶ岡」と改め、元禄4年（1691年）に4代・重信の代で「盛岡」になったと伝える。明治22年（1889年）に全国39市の一つとして市制施行した。
+  first_attestation:
+    era: 慶長年間〜元禄4年
+    year_western: null
+    document: 城下町名としての「盛岡」（改称の主体・年は資料により異なる）
+    note: 「盛岡」表記の成立年は、慶長年間に利直が改めたとする説と元禄4年（1691年）とする説が対立し、単年に確定できない
+  claims:
+  - text: 盛岡の古名は「不来方（こずかた）」「古志方」と呼ばれ、はじめ「森ヶ岡」、のちに「森岡」と呼ばれた、と岩手県の文化情報大事典は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+  - text: 同大事典は、藩主・南部氏が「盛り上がり、栄える岡」という意味を込めて「盛岡」と命名したとする説を挙げ、別説として「杜の多い岡から転じた」とする説も併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 専門文献（日本歴史地名大系系の解説）は、盛岡藩2代藩主・南部利直が不来方の用字を嫌い「森ヶ岡」と改称し、いつの頃からか「森岡」となり、4代藩主・重信の代の元禄4年（1691年）に「盛岡」と改められたと伝えられる、とする。改名が慶長年間の利直による一度の命名か、約100年かけての段階的変化かは資料により異なる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - a-cap-morioka-kotobank
+  - text: 旧名「不来方」は現在の盛岡城跡一帯を指す地名で、南部氏の本拠となる以前からこの地の呼び名だった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - a-cap-morioka-kotobank
+  - text: 城下町は2代藩主・利直の時代に建設が大きく進み、その町割りは現在でも盛岡の中心市街地の基本的な骨格になっている、と盛岡市は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-city
+  - text: 明治22年（1889年）の市町村制施行により、全国39都市の一つとして、人口2万9190人・面積4.47平方キロメートルの盛岡市が誕生した、と盛岡市は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-city
+  column:
+    title: 「盛岡」になるまで3回名前が変わった
+    text: 不来方→森ヶ岡→森岡→盛岡。盛岡の名前は、約100年のあいだに少しずつ字を替えて今の形に近づいた可能性があります。「不来方（来ない方）」は城の名としては確かに縁起が悪く、「森」も「盛」に替わって、最後は「盛り上がり栄える岡」という願いを読み込める名前になりました。一度の命名で決まったのではなく、縁起の良い字へ少しずつ寄せていった跡――その過程自体が、この城下町の自己イメージの変化を物語っています（段階的変化とするのは専門文献の説に基づきます）。
+    sources:
+    - a-cap-morioka-bunka
+    - a-cap-morioka-kotobank
+  relations:
+  - pref/03
+  unknowns:
+  - 改称の主体・年の決着（利直が慶長年間に「盛岡」と命名したとする説明と、元禄4年（1691年）に重信の代で盛岡となったとする専門文献の説が対立）
+  - 古名「不来方（こずかた）」自体の語源は未確認
+  - 「杜の多い岡」説の出典の所在は未確認
+  updated: '2026-11-13'
+- id: muni/03-花巻市
+  code: '032051'
+  names:
+    ja: 花巻市
+    reading: はなまきし
+    aliases:
+    - 花巻町
+    - 花巻城下
+  user_terms:
+  - 花巻の名前の由来
+  - 花巻に定説はないのか
+  - 鳥谷ヶ崎城と花巻城
+  naming_type: その他（由来未定の古地名の継承）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 花巻の地名の由来に定説はなく、花巻市は『花巻市史』掲載の3説――「花の牧」と呼ばれる名馬の牧場があったとする説、北上川の渦に花びらが浮かぶ光景によるとする説、アイヌ語「パナマッケ（川下に開けた土地）」によるとする説――を併記している。昭和29年（1954年）に旧花巻市が成立し、平成18年（2006年）に大迫町・石鳥谷町・東和町と合併して現在の市となった。
+  first_attestation:
+    era: 弘仁2年
+    year_western: 811
+    document: 『日本後紀』（花巻市公式FAQが三郡設置の記述として紹介）
+    note: 和我・稗縫（稗貫）・斯波の三郡設置の記載で、郡名「稗縫」の初出。「花巻」の表記そのものの初出は未確認。
+  claims:
+  - text: 花巻の地名の由来についての定説はなく、花巻市は、市教育委員会編『花巻市史』第1巻に掲載された3説を公式FAQで紹介している。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - l1-hanamaki-faq
+  - text: 3説の第1は、この地に「花の牧」といわれる名馬を産する牧場があったとする説である。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l1-hanamaki-faq
+  - text: 第2は、北上川の流れの中にできた渦に花びらが浮かんで美しい光景であったとする説である。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l1-hanamaki-faq
+  - text: 第3は、アイヌ語「パナマッケ」（川下に開けた土地の意）に由来するとする説である。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l1-hanamaki-faq
+  - text: 花巻城の前身は稗貫氏の居城・鳥谷ヶ崎城で、天正18年（1590年）の豊臣秀吉による奥州仕置きで稗貫氏は領地を没収されて南部氏の領有となり、間もなく旧鳥谷ヶ崎城から花巻城へと姿を変えたと考えられている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-hanamaki-castle
+  - text: 花巻市公式FAQは、弘仁2年（811年）の『日本後紀』に和我・稗縫（稗貫）・斯波の三郡設置の記述があることを紹介しており、この地域の郡名は9世紀初頭の文献に現れる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-hanamaki-faq
+  - text: 昭和29年（1954年）4月1日、花巻町・矢沢村・太田村・湯口村・湯本村・宮野目村が合併して旧花巻市が成立し、平成18年（2006年）1月1日、旧花巻市・大迫町・石鳥谷町・東和町が合併して現在の花巻市となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - l1-hanamaki-uub
+  - text: 総務省「地方公共団体コード一覧」では、花巻市のコードは032051とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「花」の正体は藪の中
+    text: 花巻という美しい地名の由来は、専門家にも決められていない。名馬を産した「花の牧」、川の渦に浮かぶ花びら、アイヌ語の「パナマッケ」。市史が挙げる3説は、牧場と川とアイヌ語という全く違う方向を向いている。市の公式FAQはどれか一つを選ばず、「定説はありません」と明記して3説を並べる。分からないことを分からないまま並べて見せる姿勢が、この地名の記録としては最も誠実な形である。
+    sources:
+    - l1-hanamaki-faq
+  relations:
+  - pref/03
+  unknowns:
+  - 「花巻」の表記が文献に現れる初出は未確認。
+  - 3説それぞれについて『花巻市史』第1巻が挙げる原典の確認は未実施。
+  updated: '2026-11-13'
+- id: muni/03-遠野市
+  code: 032085
+  names:
+    ja: 遠野市
+    reading: とおのし
+    aliases:
+    - 遠野町
+    - 遠野郷
+  user_terms:
+  - 遠野物語のふるさと
+  - 民話のまち
+  - 河童のまち
+  - 座敷童子の里
+  naming_type: その他
+  prefecture: 岩手県
+  homonyms: []
+  summary: 「遠野」は岩手県内陸の盆地の地名で、語源は確定していない。岩手県の資料は、閉伊の奥を意味する「遠閉伊」の野原とする説、山間の遠い野とする説、アイヌ語のト（沼）ヌプ（野）とする説など5説を併記する。地名そのものの層とは別に、1910年に柳田國男が遠野出身の佐々木喜善の語りを編んだ『遠野物語』を刊行し、遠野は河童や座敷童子の伝わる「民話のふるさと」として知られるようになった。市は1954年に遠野町と7村の合併で発足し、2005年に宮守村と合併した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「遠野」の名の初出となる文書は確認できなかった。県の文化情報大事典も語源の諸説を併記するにとどまる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、遠野市の団体コードは032085と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の文化情報大事典「市名の由来」は、遠野の語源として、閉伊の先・閉伊の奥を意味する汎称「遠閉伊」の野原とする説、山間の遠い野とする説、アイヌ語のト（沼）ヌプ（野）とする説、東方の野（東野）とする説、撓野（タワノ）の転訛でたわんだ地形の盆地とする説を併記しており、定説は示されていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 遠野は近世、遠野南部家（1万2千5百石）の城下町として、内陸と沿岸を結ぶ町として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-tono-soumu-doc
+  - text: 昭和29年（1954年）12月1日、遠野町・青笹村・上郷村・小友村・綾織村・附馬牛村・松崎村・土淵村が合併して遠野市が生まれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-tono-wiki
+  - text: 平成17年（2005年）10月1日、遠野市と宮守村が合併して新しい遠野市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-tono-soumu-doc
+  - text: 『遠野物語』は柳田國男が明治43年（1910年）に発表した説話集で、遠野地方出身の佐々木喜善が語った伝承を柳田が筆記・編纂したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-tono-chuo-paper
+  - text: 『遠野物語』により、遠野は河童や座敷童子などが登場する民話・伝説のふるさととして広く知られるようになった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-tono-wiki
+  column:
+    title: 地名を全国区にしたのは、一冊の本だった
+    text: 「遠野」という地名の由来は、今もって決着がついていません。ところがこの地名が日本中で知られるようになった理由ははっきりしています。1910年、のちに民俗学の祖と呼ばれる柳田國男が、遠野出身の青年・佐々木喜善から聞いた話を編んで『遠野物語』を出したことです。当初は350部だけの小さな出版でしたが、河童や座敷童子、神隠しの物語は読む人を魅了し、遠野は「民話のふるさと」として知られるようになりました。遠野市は刊行100年の2010年、発行日の6月14日を「遠野物語の日」と定めています。地名の古い層と、近代に本が重ねた新しい層——遠野の知名度は、この二層からできています。
+    sources:
+    - t4-tono-chuo-paper
+    - t4-tono-wiki
+  relations:
+  - pref/03
+  - muni/03-釜石市
+  unknowns:
+  - 「遠野」の語源は県の資料でも5説併記のままで、初出となる古文書も確認できなかった
+  - 『遠野物語』の舞台とされる「遠野郷」の範囲と現在の市域の正確な対応は、確認した資料では特定できなかった
+  updated: '2026-11-13'
+- id: muni/03-釜石市
+  code: '032115'
+  names:
+    ja: 釜石市
+    reading: かまいしし
+    aliases:
+    - 釜石町
+    - 釜石村
+  user_terms:
+  - 鉄と魚のまち
+  - 近代製鉄発祥の地
+  - ラグビーのまち
+  - 橋野高炉のある市
+  naming_type: その他
+  prefecture: 岩手県
+  homonyms: []
+  summary: 「釜石」は、1189年には郷の名として歴史に現れる古い地名で、語源は確定していない。岩手県の資料は、釜をつくる石を多く産する説、アイヌ語に求める2説、釜に似た石の説など6説を併記し、「釜の形の石」説もその一つにすぎない。「釜」の字面から製鉄に結びつけられがちだが、地名は近代製鉄よりはるかに古く、1857年に大島高任が高炉で出銑に成功して釜石が「近代製鉄発祥の地」となったのは近世末の出来事である。市制は1937年で、岩手県下2番目の市だった。
+  first_attestation:
+    era: 文治5年
+    year_western: 1189
+    document: null
+    note: 釜石市の概況が、釜石は文治5年に阿曽沼広綱へ与えられた遠野十二郷の上十六郷の一郷として歴史に登場したと紹介するもので、根拠となった文書名は特定できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、釜石市の団体コードは032115と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の文化情報大事典「市名の由来」は、釜石の語源として、釜をつくる石を多く産することからとする説、アイヌ語の「クマ・ウシ」（魚を干す場所）とする説、同じくアイヌ語の「カマ・ウシ」（平岩のあるところ）とする説、釜に似た石とする説、甲子川の釜状の石とする説、釜渕の釜とする説の6説を併記しており、定説は示されていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 釜石市によれば、釜石が歴史に登場するのは文治5年（1189年）で、源頼朝に功のあった阿曽沼広綱に遠野十二郷が与えられ、釜石はその上十六郷の一郷であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-kamaishi-city-gaikyo
+  - text: 安政4年（1857年）、盛岡藩士の大島高任は大橋地区に洋式高炉を築いて鉄鉱石精練による出銑に成功し、これにより釜石は我が国の近代製鉄業発祥の地となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-kamaishi-city-history
+  - text: 釜石市は、釜石は「鉄と魚のまち」として発展してきたが、とりわけ「鉄」による影響が大きなものであったと位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-kamaishi-city-history
+  - text: 明治22年（1889年）に釜石村と平田村が合併して釜石町となり、昭和12年（1937年）には岩手県下で2番目に市制を施行して釜石市となり、昭和30年（1955年）に隣接の4か村を合併して現在の釜石市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-kamaishi-city-gaikyo
+  column:
+    title: 「釜」の字にだまされてはいけない——地名は鉄より約670年古い
+    text: 「釜石」という字面を見ると、鉄を溶かす釜にちなむ製鉄の地名のように思えます。ところが釜石という名は、1189年にはすでに郷の名として歴史に現れています。大島高任が高炉で出銑に成功して「近代製鉄発祥の地」になるのは1857年で、地名のほうが約670年も先にあったのです。県の資料が挙げる語源は6説あり、「釜に似た石」という説もその一つにすぎません。製鉄のイメージが強いために後から鉄と結びつけて理解されがちな、注意の要る地名です。
+    sources:
+    - t4-kamaishi-city-gaikyo
+    - a-cap-morioka-bunka
+    - t4-kamaishi-city-history
+  relations:
+  - pref/03
+  - muni/03-遠野市
+  unknowns:
+  - 「釜石」の語源は6説併記のままで、1189年の用例の根拠となった文書名も特定できなかった
+  - 「釜石」の表記がいつから現在の漢字で定着したかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/03-陸前高田市
+  code: '032107'
+  names:
+    ja: 陸前高田市
+    reading: りくぜんたかたし
+    aliases:
+    - 高田町
+  user_terms:
+  - 奇跡の一本松のまち
+  - 高田松原
+  - たがだ（地元の発音）
+  - 陸前海岸の市
+  naming_type: その他
+  prefecture: 岩手県
+  homonyms: []
+  summary: 市名は、旧国名「陸前」と中心地名「高田」の二層からなる。「陸前」は明治初年に陸奥国が分割されて成立した陸前国の名で、1955年の合併の際に、中心となった高田町の名に冠して「陸前高田」と命名された。「高田」の由来は確定せず、気仙郡総鎮守・氷上山の神田にちなむ説などが併記される。公式の読みは「りくぜんたかた」だが、地元では鼻濁音化して「たがだ」「たかだ」と発音される。市は2011年の東日本大震災で甚大な被害を受け、「奇跡の一本松」が復興の象徴となった。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 陸前高田市の発足（昭和30年1月1日）
+    note: 市名としての初出。中心地名「高田」自体の初出となる文書は確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、陸前高田市の団体コードは032107と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 市名の「陸前」は旧国名で、市域は旧陸前国気仙郡に属していた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-rikuzen-wiki
+  - text: 岩手県の文化情報大事典「市名の由来」は、昭和30年（1955年）の合併に際し、合併の中心となった高田町の「高田」に「陸前」を冠称として陸前高田と命名されたと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-morioka-bunka
+  - text: 同じく県の大事典は「高田」の由来として、気仙郡総鎮守の氷上山の神田を「高田」と称したことからとする説、あたりの平地より高いところにある田の意味であるとする説、「田方」で田地のことであるとする説を併記しており、定説は示されていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-cap-morioka-bunka
+  - text: 陸前高田市は1955年（昭和30年）1月1日、気仙郡の高田町・気仙町・広田町・小友村・竹駒村・矢作村・横田村・米崎村の3町5村が新設合併して発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t4-rikuzen-mlit
+  - text: 市域の属する気仙郡の名は、弘仁2年（811年）の『続日本紀』に初めて見られると紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - t4-rikuzen-ymif
+  - text: 市の読みは1955年の市制以来「りくぜんたかた」であるが、地元住民や周辺市町村では、か行とた行の音が鼻濁音化した「たがだ」、または最後の「た」だけが濁音化する「たかだ」と発音される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-rikuzen-wiki
+  - text: 2011年の東日本大震災では津波により市街地と高田松原が大きな被害を受け、復興と防災・減災の取り組みが続けられている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-rikuzen-wiki
+  column:
+    title: 公式は「たかた」、地元は「たがだ」
+    text: 陸前高田市の公式の読みは、1955年の市制以来「りくぜんたかた」です。けれど地元では、東北地方の方言の特徴である鼻濁音で「たがだ」と呼ばれ、あるいは最後だけ濁って「たかだ」と発音されます。2011年の東日本大震災では、市街地を見守ってきた高田松原の松林が津波でなぎ倒され、ただ一本だけ残った松が「奇跡の一本松」と呼ばれて復興の象徴になりました。旧国名と中心地名を重ねた市名には、震災と復興の記憶の層もまた重なっています。
+    sources:
+    - t4-rikuzen-wiki
+  relations:
+  - pref/03
+  - muni/03-大船渡市
+  unknowns:
+  - 中心地名「高田」の初出となる文書は確認できなかった
+  - 氷上山の神田にちなむという「高田」の由来説の典拠となる古い記録は確認できなかった
+  - 「陸前」を冠することにした合併協議の具体的な経緯（他の候補名の有無など）は、市公式資料で確認できなかった
+  updated: '2026-11-13'
+sources:
+  a-cap-morioka-bunka:
+    label: いわての文化情報大事典「市名の由来」（岩手県。盛岡：不来方・森ヶ岡・森岡の変遷と命名の意味、別説）
+    url: http://www.bunka.pref.iwate.jp/archive/p1498
+  a-cap-morioka-city:
+    label: 盛岡市「盛岡市の紹介」（利直時代の城下町建設、1889年に全国39市の一つとして市制施行）
+    url: https://www.city.morioka.iwate.jp/shisei/morioka_profile/1009292.html
+  a-cap-morioka-kotobank:
+    label: コトバンク「盛岡市」（日本歴史地名大系系の解説。利直が森ヶ岡と改称し元禄4年（1691年）に盛岡と改められたとする伝承）
+    url: https://kotobank.jp/word/%E7%9B%9B%E5%B2%A1%E5%B8%82-142851
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  l1-hanamaki-castle:
+    label: 花巻市公式「花巻城跡散策」（前身は稗貫氏の鳥谷ヶ崎城。1590年の奥州仕置きで南部氏の領有となり花巻城へ）
+    url: https://www.city.hanamaki.iwate.jp/bunkasports/bunka/1019886/bunkazai/1002095.html
+  l1-hanamaki-faq:
+    label: 花巻市公式FAQ「花巻の地名の由来」（花巻市教育委員会編『花巻市史』第1巻掲載の3説。811年の『日本後紀』の三郡設置の紹介も含む）
+    url: https://www.city.hanamaki.iwate.jp/faq/bunka/1006195/1006825.html
+  l1-hanamaki-uub:
+    label: uub.jp 市町村合併変遷データ「花巻市」（1954年4月1日の旧花巻市成立、2006年1月1日の新設合併）
+    url: https://uub.jp/upd/c/5684.html
+  m1-ichinoseki-estat:
+    label: 政府統計の総合窓口（e-Stat）「岩手県 一関市｜廃置分合等情報」（2005年新設合併・2011年藤沢町編入の公的記録）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/03209
+  m1-ichinoseki-youran:
+    label: 一関市議会事務局「一関市議会要覧（令和7年度）」（市の歴史・沿革。昭和の大合併と平成の合併）
+    url: https://www.city.ichinoseki.iwate.jp/index.cfm/41,187902,c,html/187902/20250421-110145.pdf
+  m1-ofunato-city-port:
+    label: 大船渡市「大船渡港の概要」（市公式。1611年にビスカイノが湾をサン・アンドレスと名付けたこと）
+    url: https://www.city.ofunato.iwate.jp/archive/contents-34240
+  m1-ofunato-kotobank:
+    label: コトバンク「大船渡市」（日本歴史地名大系・ブリタニカ国際大百科事典。1952年の合併市制と「中世以来の地名」）
+    url: https://kotobank.jp/word/%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82-39555
+  m1-oshu-kokudo:
+    label: 国土計画協会研究助成論文「広域地名『奥州』が市町村名となった背景と影響に関する研究」（市名公募569案と決選投票の経緯、「僭称」批判の整理）
+    url: https://www.kokudo.or.jp/grant/pdf/2024/hisai.pdf
+  t3-miyako-city-plan:
+    label: 宮古市総合計画第2章（市公式PDF。盛岡藩の代官所と宮古港の交易、2005年合併・2010年川井村編入）
+    url: https://www.city.miyako.iwate.jp/material/files/group/27/02_dai2shou.pdf
+  t3-miyako-uub:
+    label: 市区町村変遷情報「宮古市（岩手県）1941〜2005年」（1941年2月11日に宮古町・磯鶏村・千徳村・山口村が合併して市制）
+    url: https://uub.jp/upd/c/7214.html
+  t4-hachimantai-city-plan:
+    label: 八幡平市「都市計画マスタープラン」（八幡平市は平成17年9月1日に旧西根町・旧松尾村・旧安代町の2町1村が合併して誕生したこと）
+    url: https://www.city.hachimantai.lg.jp/uploaded/attachment/1750.pdf
+  t4-hachimantai-wiki:
+    label: Wikipedia「八幡平」（秋田・岩手両県にまたがる標高1,614mの山と高原台地で日本百名山の一つ、1956年に十和田八幡平国立公園に指定されたこと、坂上田村麻呂が八幡神を祀り「八幡平」と名付けたという伝承があるが史実では田村麻呂はこの地に至っていないこと、1962年に岩手県が山頂に土盛りをしたこと、秋田県側に八幡平村（1956〜1972年、現・鹿角市）があったこと）
+    url: http://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E5%B9%B3
+  t4-iwate-lib-ref-he:
+    label: レファレンス協同データベース・岩手県立図書館の事例「岩手と青森にある『戸（へ）』のつく地名について」（由来には諸説あり、南部氏の九牧説・貢馬の幣説・防衛施設説・糠部開拓のエリア区分説・九カ部四門の制説などが参考文献に挙げられること、四戸だけが現行自治体名として残っていないこと）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000110220&page=ref_view
+  t4-kamaishi-city-gaikyo:
+    label: 釜石市「釜石市の概況・沿革」（釜石が歴史に登場するのは文治5年（1189年）で阿曽沼広綱に与えられた遠野十二郷の上十六郷の一郷であったこと、明治22年（1889年）に釜石村と平田村が合併して釜石町となり、昭和12年（1937年）に県下2番目に市制を施行し、昭和30年（1955年）に隣接4か村を合併したこと）
+    url: https://www.city.kamaishi.iwate.jp/docs/2025080700051/file_contents/1.pdf
+  t4-kamaishi-city-history:
+    label: 釜石市公式「かまいしの歴史」（安政4年（1857年）に盛岡藩士・大島高任が大橋地区で洋式高炉を築き鉄鉱石精練による出銑に成功し、釜石が近代製鉄業発祥の地となったこと、釜石が「鉄と魚のまち」として発展したこと）
+    url: https://www.city.kamaishi.iwate.jp/docs/2015080300030
+  t4-kuji-city-enkaku:
+    label: 久慈市公式「久慈市の沿革」（明治22年の町村制で久慈町などが誕生したこと、昭和29年に2町5村が合併して久慈市が誕生したこと、平成18年3月6日に山形村と合併したこと）
+    url: https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/10/1/1370.html
+  t4-kuji-menkoi-chimei:
+    label: 岩手めんこいテレビ「『久慈』の地名の由来を探る」（dメニューニュース配信。地名研究家・宍戸敦が「抉（えぐ）る＝くじる」に由来し、久慈渓流の渓谷が候補と説くこと）
+    url: https://topics.smt.docomo.ne.jp/amp/article/menkoi_tv/region/menkoi_tv-24920
+  t4-kuji-mlit-kujikawa:
+    label: 国土交通省関東地方整備局「久慈川の歴史・文化」（『常陸国風土記』に、鯨鯢（くじら）に似た小さい丘を倭武天皇が久慈と名づけたという由来が記されていること。これは茨城県の久慈郡・久慈川の話）
+    url: https://www.ktr.mlit.go.jp/ktr_content/content/000024230.pdf
+  t4-kuji-wiki:
+    label: Wikipedia「久慈市」（国内最大の琥珀の採掘産地であること、2013年のNHK連続テレビ小説『あまちゃん』で架空の「北三陸市」のロケが市内で行われたこと）
+    url: https://ja.wikipedia.org/wiki/%E4%B9%85%E6%85%88%E5%B8%82
+  t4-ninohe-city-intro:
+    label: 二戸市公式「二戸市ってどんなところ」（平成18年1月1日に旧二戸市と旧浄法寺町が合併して誕生したこと、伝説として南部光行が糠部郡を九つの牧場（戸）に分け四門を設けた「九ヶ戸四門」の制度を敷いたと伝えられ、行政区分の名残が地名に残ったこと）
+    url: https://www.city.ninohe.lg.jp/info/print/8
+  t4-nukabe-wiki:
+    label: Wikipedia「糠部郡」（寛永11年（1634年）に糠部郡が北郡・二戸郡・三戸郡・九戸郡に分割されたこと、四戸を除き一戸から九戸が現在も行政地名として現存すること、「戸」は牧場の意ともいわれること）
+    url: https://ja.wikipedia.org/wiki/%E7%B3%A0%E9%83%A8%E9%83%A1
+  t4-rikuzen-mlit:
+    label: 国土交通省東北地方整備局「高田松原津波復興祈念公園」委員会資料（陸前高田市は1955年（昭和30年）に気仙郡高田町・気仙町・広田町・小友村・竹駒村・矢作村・横田村・米崎村の3町5村が合併して成立したこと）
+    url: https://www.thr.mlit.go.jp/bumon/b06111/kenseibup/memorial_park/iwate/file/prev/iwate_committee04_03.pdf
+  t4-rikuzen-wiki:
+    label: Wikipedia「陸前高田市」（旧陸前国気仙郡に属すること、1955年の市制以来の読みは「りくぜんたかた」だが地元では鼻濁音化した「たがだ」「たかだ」と発音されること、東日本大震災の津波で大きな被害を受けたこと）
+    url: https://ja.wikipedia.org/wiki/%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82
+  t4-rikuzen-ymif:
+    label: 吉田記念今泉財団「気仙地域 地名の由来」（気仙郡という郡名は弘仁2年（811年）の『続日本紀』に初めて見られること、文治5年（1189年）に奥州藤原氏が滅亡すると気仙郡は葛西清重の所領になったといわれること）
+    url: http://ymif.jp/kesen_area.html
+  t4-takizawa-city-chimei:
+    label: 滝沢市公式「滝沢市の地名の由来」（滝沢は石ケ森と谷地山の間の渓流「滝の沢」の名に由来すること、明治22年の合併で最も区域の広かった滝沢の名を採り滝沢村となったこと、大釜・篠木など各地区の由来伝承）
+    url: https://www.city.takizawa.iwate.jp/about-takizawa/gaiyo/tiri/contents-1209
+  t4-takizawa-city-gaiyo:
+    label: 滝沢市「滝沢市行財政概要」（市制までの経緯。明治22年4月1日に滝沢村・鵜飼村・大沢村・篠木村・大釜村の5村が合併し、村名を面積の最も大きかった滝沢村としたこと、平成26年1月1日に単独で市制施行したこと）
+    url: https://www.city.takizawa.iwate.jp/about-takizawa/soshiki-gaiyo/zaisei-gaiyo/contents-2268
+  t4-takizawa-jbpress:
+    label: JBpress「日本一の勲章を捨てて改革に走る岩手県滝沢村」（2013年。「人口が日本で最も多い村」の称号を村民の勲章としながら、2014年1月に村から市へ移行する決断をしたこと）
+    url: https://jbpress.ismedia.jp/articles/-/38935
+  t4-takizawa-soumu-press:
+    label: 総務省報道資料「市制施行（岩手県滝沢市）及び市町村合併（栃木県栃木市）」（平成25年8月23日告示、岩手郡滝沢村を滝沢市とする処分が平成26年1月1日に施行されたこと）
+    url: https://www.soumu.go.jp/main_content/000243718.pdf
+  t4-takizawa-wiki:
+    label: Wikipedia「滝沢村」（市制施行前は人口5万人を超える日本一人口の多い村だったこと、2002年に豊見城村が単独市制して豊見城市となって以降その地位にあったこと、岩手県内の単独市制は1958年の江刺市以来55年1か月ぶりだったこと）
+    url: https://ja.wikipedia.org/wiki/%E6%BB%9D%E6%B2%A2%E6%9D%91
+  t4-tono-chuo-paper:
+    label: 中央大学リポジトリ収録の論文（『遠野物語』が柳田國男によって書かれ1910年（明治43年）6月14日に発行されたこと、話者が佐々木喜善であること、2010年に遠野市が6月14日を「遠野物語の日」と定めたこと）
+    url: https://chuo-u.repo.nii.ac.jp/record/12884/files/0529-6803_29_61-71.pdf
+  t4-tono-soumu-doc:
+    label: 総務省提出資料「岩手県遠野市」（遠野南部家1万2千5百石の城下町であったこと、平成17年10月1日に遠野市と宮守村が合併して新「遠野市」が誕生したこと、柳田國男著『遠野物語』が明治43年（1910年）に刊行されたこと）
+    url: https://www.soumu.go.jp/main_content/000100992.pdf
+  t4-tono-wiki:
+    label: Wikipedia「遠野市」（1954年12月1日に遠野町・青笹村・上郷村・小友村・綾織村・附馬牛村・松崎村・土淵村が合併して遠野市が生まれたこと、柳田國男の『遠野物語』の舞台で河童や座敷童子が登場する民話が伝わること）
+    url: https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E5%B8%82

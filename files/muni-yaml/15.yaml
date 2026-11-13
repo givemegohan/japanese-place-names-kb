@@ -1,0 +1,1796 @@
+prefecture_code: '15'
+records:
+- id: muni/15-三条市
+  code: '152048'
+  names:
+    ja: 三条市
+    reading: さんじょうし
+    aliases:
+    - 三条町
+    - 三條町
+    - 三条庄
+  user_terms:
+  - 三条市の名前の由来
+  - 三条はなぜ三条というのか
+  - 燕三条の三条
+  - 金物のまち三条
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は中世の荘園名「三条庄」にまで遡る地名の継承である。「三条」の語源は専門辞典にも説明がなく未確定だが、14世紀には荘園名として、1382年には市場を持つ地名として文書に現れる。近世に金物の商いの町として栄えた三条町が1934年に市制を施行し、2005年の合併でも市名が継承された。
+  first_attestation:
+    era: 延慶2年
+    year_western: 1309
+    document: 大中臣氏略系図（桐村正春家蔵）
+    note: 14世紀初頭に成立したとみられる系図に「越後国三条庄」と見える（日本歴史地名大系の紹介による）。荘園名としての用例であり、中世の「三条」が近世の三条町にそのまま連続するかは大系も留保している
+  claims:
+  - text: 日本歴史地名大系によれば、14世紀初頭に成立したとみられる大中臣氏略系図に「越後国三条庄」と見え、これが「三条」の名の古い確認例である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-sanjo-kotobank-machi
+  - text: 永徳2年（1382）の僧都覚有一跡配分目録には「三条七日市場」とあり、中世の三条には市場が開かれていたことがわかる（日本歴史地名大系の紹介による）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-sanjo-kotobank-machi
+  - text: 日本歴史地名大系は、中世史料にみえる「三条」は近世の三条町に必ずしも連続しないと注意しており、近世の三条町は寛永から正保年間にかけて三条城回りの空屋敷や畑地を開発して町場化し、万治元年（1658）の検地で本村から独立したとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-sanjo-kotobank-machi
+  - text: 「三条」という名の語源については、日本歴史地名大系の三条町・三条市の項にも説明がなく、確認できる範囲では未確定である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - n1-sanjo-kotobank-machi
+  - text: 昭和9年（1934）1月1日、南蒲原郡三条町が市制を施行して三条市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n1-sanjo-uub
+  - text: 平成17年（2005）5月1日、旧三条市・南蒲原郡栄町・下田村が新設合併して現在の三条市が発足し、市名は「三条市」が継承された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-sanjo-pref-gappei
+  - text: 新潟県の市町村等団体コード一覧では、三条市の団体コードは152048とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 七日市場から金物の町へ
+    text: 中世の三条には「七日市場」という定期市がありました。市（いち）の開かれる場所が町の核になるのは各地に共通する姿で、三条もその系譜にあります。近世以降、三条は五十嵐川と信濃川の合流部という水運の立地を生かして金物の商いの町として発展し、隣の燕市と並ぶ金属加工の産地になりました。今も上越新幹線の駅名は両市にまたがる「燕三条駅」で、産地の総称としても「燕三条」の名が定着しています。
+    sources:
+    - n1-sanjo-kotobank-machi
+    - n1-sanjo-wikipedia
+  relations:
+  - pref/15
+  - muni/15-燕市
+  unknowns:
+  - 「三条庄」の名がなぜ「三条」なのか（条里制の区画に由来する可能性など）は、典拠のある資料で確認できなかった
+  - 2005年合併時の市名決定の詳細（公募の有無・候補名）は未確認
+  updated: '2026-11-13'
+- id: muni/15-上越市
+  code: '152226'
+  names:
+    ja: 上越市
+    reading: じょうえつし
+    aliases:
+    - 高田市
+    - 直江津市
+  user_terms:
+  - 上越市の名前の由来
+  - 上越はなぜ上越というのか
+  - 高田と直江津が合併した市
+  - 上杉謙信の春日山城のまち
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 昭和46年（1971年）4月29日、城下町の高田市と港町の直江津市が対等合併して誕生した新設市である。市名「上越」は、越後国のうち都（京都）に近い側を指す広域地名「上越」を採用したもので、合併協議会では新市の名称について関係機関へのアンケートも行われた。平成17年（2005年）には周辺13町村を編入して現在の市域となった。
+  first_attestation:
+    era: 昭和46年
+    year_western: 1971
+    document: 高田市・直江津市の合併に伴う「市の廃置分合に係る処分書」（上越市公文書センター所蔵資料として市が紹介）
+    note: 自治体名としての初出。地域名としての「上越」はそれ以前から使われていた
+  claims:
+  - text: 昭和29年（1954年）11月、高田市・直江津市・春日村の三者は「近き将来において高田市と直江津市を合併して上越中心都市を建設すること」を記した申合書を交換していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-joetsu-koubunsho
+  - text: 昭和45年（1970年）の合併協議会では、町会長・自治会長・市会議員・学校・官公庁・大規模事業所など約500か所を対象に、新市の名称のアンケート調査が実施された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-joetsu-koubunsho
+  - text: 昭和46年（1971年）4月29日、高田市と直江津市が合併し、上越市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-joetsu-koubunsho
+  - text: 新潟県立図書館のレファレンス回答によれば、上越・中越・下越の地域区分の「上」「下」は都（京都）を起点とし、都に近い側が「上」、遠い側が「下」とされたという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-joetsu-pref-lib
+  - text: 合併前の高田市は明治44年（1911年）に市制を施行した城下町であり、直江津市は昭和29年（1954年）に市制を施行した港町であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-joetsu-50th
+  - text: 平成17年（2005年）1月1日、安塚町・浦川原村・大島村・牧村・柿崎町・大潟町・頸城村・吉川町・中郷村・板倉町・清里村・三和村・名立町の13町村を編入し、人口約21万人・面積約973平方キロメートルの新しい上越市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-joetsu-sogokeikaku
+  - text: 総務省「地方公共団体コード一覧」では、上越市のコードは152226とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 上越新幹線は上越市を通らない
+    text: 「上越新幹線は新潟の上越地区を通っていないのに、なぜ上越新幹線というのか」という疑問は、国立国会図書館のレファレンス協同データベースにも登録されている。回答によれば、新幹線や上越線の「上越」は上野国（上州）と越後国の頭文字を取ったもので、上越市の「上越」（都に近い越後という地域区分）とは全く違う由来だという。同じ「じょうえつ」でも、二つの名前は別々に生まれたのである。
+    sources:
+    - l3-joetsu-ndlref
+  relations:
+  - pref/15
+  unknowns:
+  - 昭和45年（1970年）の新市名アンケートで「上越」がどの程度の支持を得たか、候補名の一覧までは本バッチでは確認できなかった
+  - 地域名「上越」の使用例としての確実な初出は特定できなかった
+  updated: '2026-11-13'
+- id: muni/15-五泉市
+  code: '152188'
+  names:
+    ja: 五泉市
+    reading: ごせんし
+    aliases:
+    - 五泉町
+  user_terms:
+  - ごせん
+  - ニットのまち
+  - 五泉ニット
+  - 清水のまち
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県の市で、阿賀野川と早出川に挟まれた平野に広がる。「五泉」の名の由来は確定しておらず、市公式資料も「5つの泉が湧き出ていたから」「5つの川が流れていたから」など諸説が言い伝えられると述べるにとどまる。古くは絹織物、戦後はニットの産地として発展した。1954年に市制施行し、2006年に城下町だった村松町と合併した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「五泉」の文献上の初出は今回の調査では確認できなかった。市公式資料も語源を諸説併記の形で紹介するにとどまる
+  claims:
+  - text: 『五泉』の地名は「その昔、5つの泉が湧き出ていたから」「5つの川が流れていたから」など、さまざまな説が言い伝えられていると五泉市の公式資料が述べ、確定した語源は示されていない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - u5-gosen-kaso
+  - text: かつて五つの泉が湧き出ていたために「五泉」と名付けられたという言い伝えがある
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - u5-gosen-kaso
+  - text: 現在も市内に湧く水として吉清水・どばしっこ清水・どっぱら清水などの清水が知られている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-gosen-kaso
+  - text: 昭和29年（1954）11月3日に五泉町・巣本村・川東村・橋田村が合併して市制施行し五泉市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-gosen-kaso
+  - text: 平成18年（2006）1月1日に村松町と新設合併して現在の五泉市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-gosen-kaso
+  - text: 合併した旧村松町は、村松藩（堀家3万石）の城下町であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-gosen-meti
+    - u5-gosen-kaso
+  - text: 五泉は古くから絹織物の産地であり、戦後はニット工業が発展して全国有数のニット産地となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-gosen-kaso
+    - u5-gosen-meti
+  column:
+    title: 五つの泉はどこへ――残った三つの清水
+    text: 「五泉」の由来とされる五つの泉は、今の市内のどこにあったのかはっきりしない。市が現存する湧水として挙げるのは吉清水・どばしっこ清水・どっぱら清水などである。「どばしっこ」「どっぱら」という方言めいた名も含め、清水は今も生活の水として残る。名の由来が言い伝えの層にとどまるからこそ、残った清水の一つひとつが「五つの泉」の候補として語られ続ける。
+    sources:
+    - u5-gosen-kaso
+  relations:
+  - pref/15
+  unknowns:
+  - 「五泉」の文献上の初出と、語源の確定説（五つの泉説・五つの川説はいずれも言い伝えの域を出ない）
+  - 五泉という地名がいつから現在の地域を指すようになったか
+  updated: '2026-11-13'
+- id: muni/15-佐渡市
+  code: '152242'
+  names:
+    ja: 佐渡市
+    reading: さどし
+    aliases:
+    - 佐度
+    - 佐土
+    - 佐渡国
+    - 佐渡島
+  user_terms:
+  - 佐渡市の名前の由来
+  - 佐渡はなぜ佐渡というのか
+  - 佐渡島の市
+  - 一島一市の佐渡
+  - トキの島
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は島の名「佐渡」そのものである。島名は『古事記』『日本書紀』の国生み神話に「佐度島」「佐度洲」と現れる古い名で、「さど」の意味は狭門説・雑太郷関連説などがあるが確説はない。2004年、島内の全10市町村が合併して島全体を市域とする「一島一市」の佐渡市が誕生した。
+  first_attestation:
+    era: 和銅5年
+    year_western: 712
+    document: 『古事記』上巻（国生み神話）
+    note: 大八島国の第七の島として「佐度島」と表記される（國學院大學の古事記地名データベースによる）。島名の初出として扱う
+  claims:
+  - text: 『古事記』『日本書紀』の国生み物語に「佐度島（さどのしま）」「佐度洲」とあり、佐渡は大八島国の一つとみえる（日本歴史地名大系）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-sado-kotobank-kuni
+    - n1-sado-kokugakuin
+  - text: 漢字表記は記紀の「佐度」のほか、六国史などでは「佐渡」、正倉院文書の天平宝字6年（762）の文書には「佐土」と、時代により揺れている（日本歴史地名大系）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-sado-kotobank-kuni
+  - text: 「さど」の語源については、『日本書紀通証』『古事記伝』などが狭門（海路の狭いところ）の義かと推測し、雑太（さわた）郡雑太郷と関連させる説もあるが、日本歴史地名大系はいずれも確説とはいいがたいとしている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - n1-sado-kotobank-kuni
+  - text: 佐渡は大化改新後に佐渡国となり、天平15年（743）に越後国に合併されたが、天平勝宝4年（752）に再び分立した（改訂新版世界大百科事典）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-sado-kotobank-kuni
+  - text: 平成16年（2004）3月1日、島内の両津市・相川町・佐和田町・金井町・畑野町・真野町・羽茂町・小木町・新穂村・赤泊村の全10市町村が合併し、一島一市の佐渡市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-sado-city-plan
+  - text: 合併前の島内唯一の市だった両津市は、昭和29年（1954）に市制を施行していた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n1-sado-uub
+  - text: 新潟県の市町村等団体コード一覧では、佐渡市の団体コードは152242とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 隠岐と双子だった佐渡
+    text: 国生み神話の中で、佐渡は少し特別な生まれ方をしています。『日本書紀』には、佐度洲（佐渡）は億岐洲（隠岐）と双生（ふたご）であるとする説が見えるのです。イザナギ・イザナミが国々を生んでいく中で、この二島だけが双子として生まれたというわけです。日本海に並んで浮かぶ二つの島の姿が、古代の人々にそう語らせたのかもしれません。なお記紀では「佐度」と書かれ、「佐渡」の表記が一般的になるのは後の時代のことです。
+    sources:
+    - n1-sado-kotobank-kuni
+  relations:
+  - pref/15
+  unknowns:
+  - 「さど」の語源は決着しておらず、狭門説・雑太郷説以外の説の専門資料での検討は未了
+  - 2004年合併時の市名決定の経緯（他の候補名の有無など）は未確認
+  updated: '2026-11-13'
+- id: muni/15-加茂市
+  code: '152099'
+  names:
+    ja: 加茂市
+    reading: かもし
+    aliases:
+    - 加茂町
+    - 青海
+  user_terms:
+  - 加茂市の名前の由来
+  - 加茂はなぜ加茂というのか
+  - 北越の小京都
+  - 桐たんすのまち加茂
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は鎮守・青海神社にまつわる「加茂」の継承である。市公式によれば、794年の平安遷都の折にこの地が京都の賀茂神社の神領となり、上賀茂・下鴨両社の祭神が青海神社に分霊されたことから「加茂」と呼ばれるようになった。三方を山に囲まれ加茂川が流れる地形から「北越の小京都」とも呼ばれる。1954年に加茂町が合併のうえ市制を施行した。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: null
+    note: 「加茂」という地名の文書上の初出は特定できなかった。市公式は延暦13年（794）の平安遷都の折の賀茂神社領化と分霊を名の起こりとする。なお鎮守の青海神社は『延喜式神名帳』（927年）に名が見える
+  claims:
+  - text: 加茂市公式によれば、794年の平安遷都の折、加茂の地が京都の賀茂神社（上賀茂神社・下鴨神社）の神領となり、青海神社の鎮座地に両社の祭神が分霊されたことから、「加茂」と呼ばれるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kamo-city-gaiyo
+    - n1-kamo-city-ijyu
+  - text: 青海神社は『延喜式神名帳』（927年）に名が記された古社で、加茂の鎮守である（長瀬神社も同じく式内社）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kamo-city-gaiyo
+  - text: 青海神社の由緒では、神亀3年（726）に青海郷を開拓した青海首一族が、祖神・椎根津彦命と大国魂命を祀って青海神社を創建したと伝えられている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n1-kamo-jinja
+  - text: 加茂は、三方を山に囲まれ市内を加茂川が流れる地形が京都に似ていることなどから、「北越の小京都」と呼ばれている（北越は越後と越中の総称）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kamo-city-ijyu
+  - text: 明治22年（1889）の町村制施行で市域は6町村となり、加茂町はその後、狭口村・加新村・下条村と合併して昭和29年（1954）に加茂市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kamo-city-kaso
+  - text: 市名「加茂市」は、合併前の中心であった加茂町の名をそのまま継承したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kamo-city-kaso
+  - text: 新潟県の市町村等団体コード一覧では、加茂市の団体コードは152099とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 「加茂」の前の名は「青海」だった
+    text: 加茂の鎮守・青海神社は加茂山に鎮座し、「加茂のお明神さま」と親しまれてきました。神社の由緒によれば、この一帯はもともと「青海郷」と呼ばれ、青海首（あおみのおびと）という一族が開拓した土地で、青海郷は23箇村に及んだと伝えられます。794年に京都の賀茂両社の神領となって分霊が祀られ、「賀茂」の縁から「加茂」の名が生まれました。古い地名「青海」は、神社の名として今も残っています。
+    sources:
+    - n1-kamo-jinja
+    - n1-kamo-city-ijyu
+  relations:
+  - pref/15
+  unknowns:
+  - 「賀茂」がなぜ「加茂」の字に改められたのか、その理由は市公式・神社由緒のいずれにも明記がなく未確認
+  - 794年の神領化・分霊を裏づける同時代史料は確認できなかった（市公式・神社由緒の伝える経緯として記録）
+  - 市制施行の正確な月日（3月10日とされる）は市公式資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/15-十日町市
+  code: '152102'
+  names:
+    ja: 十日町市
+    reading: とおかまちし
+    aliases:
+    - 十日町
+  user_terms:
+  - 十日町市の名前の由来
+  - 十日町はなぜ十日町というのか
+  - きもののまち十日町
+  - 妻有の中心
+  naming_type: その他
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は定期市の開かれた場所にちなむ地名と推測されている。日本歴史地名大系は、北に四日町の地名が続くことから、十日町は中世末に開かれた六斎市の開設場所にちなむものと思われるとする。江戸時代には越後縮の市場町として栄え、1954年に市制を施行、2005年の新設合併でも市名が継承された。
+  first_attestation:
+    era: 中世末
+    year_western: null
+    document: null
+    note: 「十日町」の文書上の初出は本調査では特定できなかった。日本歴史地名大系は、中世末の六斎市にちなむ地名と推測する
+  claims:
+  - text: 日本歴史地名大系は、十日町の地名について、北に四日町の地名が続くことから、中世末に六斎市（定期市）の開設場所にちなむものと思われるとする
+    kind: fact
+    level: E3
+    status: inferred
+    sources:
+    - n1-tokamachi-kotobank
+  - text: 江戸時代の寛文13年（1673）に縮市場が開設され、十日町は小千谷・堀之内とともに越後縮の「三市場」の一つとして繁栄した（十日町市中心市街地活性化基本計画）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tokamachi-city-plan
+  - text: 旧十日町市は昭和29年（1954）に十日町・川治村・中条村・六箇村の合併により誕生し、その市制施行日は3月31日である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tokamachi-city-enkaku
+    - n1-tokamachi-uub
+  - text: 平成17年（2005）4月1日、旧十日町市・川西町・中里村・松代町・松之山町の5市町村が新設合併して現在の十日町市が誕生し、市名は「十日町市」が継承された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tokamachi-city-enkaku
+  - text: 新潟県の市町村等団体コード一覧では、十日町市の団体コードは152102とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 四日町・十日町・六日町――日付の地名たち
+    text: 魚沼のあたりには、市場の開かれる日をそのまま名にした地名が点々と残ります。十日町の北には四日町があり、南魚沼には六日町があります。月に6回、決まった日に開かれる六斎市が各地にあり、その開催日が土地の名前になったのです。「十日町」は、十日・二十日・三十日（月末）に市が立つ場所だったのでしょう。日付が地名になるほど、市（いち）は人々の生活の中心でした。
+    sources:
+    - n1-tokamachi-kotobank
+  relations:
+  - pref/15
+  unknowns:
+  - 六斎市の開催日が具体的に「十日」を含む日だったことを示す同時代史料は確認できなかった（大系の推測にとどまる）
+  - 「十日町」の文書上の初出の年・史料名は未確認
+  updated: '2026-11-13'
+- id: muni/15-南魚沼市
+  code: '152269'
+  names:
+    ja: 南魚沼市
+    reading: みなみうおぬまし
+    aliases:
+    - 南魚沼郡
+  user_terms:
+  - みなみうおぬま
+  - 魚沼産コシヒカリ
+  - 塩沢紬
+  - 六日町
+  - 塩沢
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県南部の市で、魚沼盆地の南半を占める。市名は明治時代初期に名付けられた郡名「南魚沼郡」に由来し、「魚沼」の名そのものは古代の魚沼郡に遡る。2004年に六日町・大和町が合併して発足し、2005年に三国街道の宿場町で織物の産地だった塩沢町を編入した。コシヒカリの産地として知られる。
+  first_attestation:
+    era: 明治時代
+    year_western: null
+    document: 郡名「南魚沼郡」
+    note: 市公式が「旧地名をもとに明治時代初期に名付けられた郡名『南魚沼郡』に由来」と説明するもの。具体的な命名年は未確認。「魚沼」の初出は『和名類聚抄』の魚沼郡（魚沼市のレコード参照）
+  claims:
+  - text: 市の名称「南魚沼市」は、旧地名をもとに明治時代初期に名付けられた郡名「南魚沼郡」に由来する（南魚沼市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-minamiuonuma-gaiyo
+  - text: 市公式は「南」には発展性・明るさがあり、当地が魚沼地域の中核として地域とともに発展し続けたいとの願いを込めた名称であると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-minamiuonuma-gaiyo
+  - text: 2004年11月1日に六日町・大和町が新設合併して南魚沼市が発足し、2005年10月1日に塩沢町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-minamiuonuma-gaiyo
+  - text: 編入した塩沢は三国街道の宿場町であり、越後上布・塩沢紬の織物の産地として知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-minamiuonuma-makino
+  - text: 塩沢の目抜き通り「牧之通り」は、『北越雪譜』の著者で塩沢の織物仲買商の家に生まれた鈴木牧之（1770〜1842）にちなんで名付けられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-minamiuonuma-makino
+  - text: もう一つの旧中心地・六日町は坂戸城を中心とした城下町で、三国街道と清水街道が合流する交通の要所であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-minamiuonuma-toshi
+  column:
+    title: 雪の本を書いた商人の通り――塩沢の牧之通り
+    text: 塩沢の織物仲買商の家に生まれた鈴木牧之は、雪国の暮らしを描いた『北越雪譜』（1837年刊行開始）を著して江戸で評判になった。その名を冠した「牧之通り」は、塩沢の旧宿場の街並みを整えた目抜き通りである。市名の由来は郡名という行政の層にあるが、塩沢という旧中心の名は、雪と織物と一人の商人の記憶を今も運んでいる。
+    sources:
+    - u5-minamiuonuma-makino
+  relations:
+  - pref/15
+  unknowns:
+  - 南魚沼郡という郡名が具体的に何年に定められたか（1879年の郡再編との関係を含む）は未確認
+  - 合併時の市名決定の経緯（公募の有無・候補名）は市公式の概要からは確認できなかった
+  updated: '2026-11-13'
+- id: muni/15-妙高市
+  code: '152170'
+  names:
+    ja: 妙高市
+    reading: みょうこうし
+    aliases:
+    - 新井市
+  user_terms:
+  - みょうこう
+  - 妙高高原
+  - 越後富士のふもと
+  - 新井（旧市名）
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県南西部の市で、市域の約8割を森林が占める。中心地はもと新井市だったが、2005年に妙高高原町・妙高村を編入する際、市名を市域の象徴である妙高山にちなんで「妙高市」に改めた。妙高山は「越後富士」と呼ばれる標高2,454mの信仰の山である。編入合併と同時に中心地とは別の名へ改称した珍しい事例である。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 市名としての「妙高」は2005年の改称による。由来となった妙高山の山名の初出は未確認で、名の成り立ちは「名香山」表記と須弥山の訳語という伝承的な説明による
+  claims:
+  - text: 2005年4月1日、新井市が妙高高原町・妙高村を編入すると同時に市名を「妙高市」に変更した編入合併であった（新潟県の合併資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-myoko-pref
+  - text: 前身の新井市は1954年11月1日に新井町ほか7村の合併で市制施行した市であり、2005年の編入・改称によって「新井市」の名は消えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-myoko-pref
+  - text: 妙高山の名は、古く「越の中山」と呼ばれていた山が「名香山」と表記され、その後、仏教で世界の中心の山とされる須弥山（スメール）の訳語である「妙高」を当てたといわれている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u5-myoko-shizuoka
+  - text: 妙高観光局は妙高山の名称について、「なかやま」に「名香山」の字を当てて音読みしたという説と、須弥山を漢訳して「妙高山」となったという説の二説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u5-myoko-kanko
+  - text: 妙高山は標高2,454mの成層火山で「越後富士」とも呼ばれ、古来、信仰の山として崇められてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-myoko-shizuoka
+    - u5-myoko-kanko
+  - text: 旧妙高村の中心集落・関山は、信濃へ通じる北国街道の宿場町として発達した（『改訂新版世界大百科事典』）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-myoko-kotobank
+  column:
+    title: 消えた市名「新井」と、山の名をもらった市
+    text: 合併で市の名前が変わることは珍しくないが、妙高市の場合は少し違う。編入した側の新井市が、中心地の名を捨てて、山の名を名乗り直したのである。市役所は今も旧新井市の地にあるのに、市名は妙高山に由来する。もっとも「妙高」という山名自体も、須弥山という仏教の聖山の訳語を当てたと考えられる借り物の名で、名の由来が何重にも重なった市である。
+    sources:
+    - u5-myoko-pref
+    - u5-myoko-shizuoka
+  relations:
+  - pref/15
+  unknowns:
+  - 旧中心地「新井」という地名自体の由来（新井宿の成立経緯を含む）は未確認
+  - 妙高山の山名の文献上の初出は未確認
+  - 改称の際に「妙高」が選ばれた協議の詳細（他候補の有無）は県の合併資料からは分からなかった
+  updated: '2026-11-13'
+- id: muni/15-小千谷市
+  code: '152081'
+  names:
+    ja: 小千谷市
+    reading: おぢやし
+    aliases:
+    - 小千谷町
+    - 小地屋
+    - 千屋郷
+  user_terms:
+  - 小千谷市の名前の由来
+  - 小千谷はなぜ「おぢや」と読むのか
+  - 小千谷縮のまち
+  - 錦鯉発祥の地
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名の起こりは、平安時代の『和名類聚抄』に見える魚沼郡の郷「千屋郷（千谷郷）」とされる。戦国期に「小地屋」、江戸期に「小千谷」と記されるようになり、「ちや」の読みが「おぢや」へ転じた。近世には宿場町・河港として発展し、1954年3月10日に市制を施行した。
+  first_attestation:
+    era: 平安時代中期（10世紀）
+    year_western: null
+    document: 『和名類聚抄』魚沼郡の郷名
+    note: 市公式が地名の起こりとして紹介する郷名。表記は資料により「千屋郷」「千谷郷」と揺れ、読みは「ちや」とされる
+  claims:
+  - text: 小千谷市公式は、地名の由来について、平安時代の『和名類聚抄』に見られる古代魚沼郡の4つの郷のひとつ「千屋郷」が起こりと言われるとしている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-ojiya-city-profile
+  - text: 語源由来辞典によれば、この郷は「千谷郷（ちやごう）」と読まれ、戦国期に「小地屋」、江戸期に「小千谷」と記されるようになった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n1-ojiya-gogen
+  - text: 語源については、「ちや」は茅葺き屋根の家屋（茅屋）が多くあったことに由来すると考えられる一方、「おぢ」を「落ち」（沢の落ち合う所・低湿地）とする説もあるが、読みの変遷からは「ちや」で考えるべきだと語源由来辞典は述べている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - n1-ojiya-gogen
+  - text: 近世になると小千谷は、街道が出会う立地から宿場町となり、信濃川水運の船着場、小千谷縮の生産地としても発展した（小千谷市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-ojiya-city-profile
+  - text: 昭和29年（1954）3月10日、小千谷町が城川村・千田村を編入して市制を施行し小千谷市が誕生した。町村合併促進法の適用による新潟県の新市第1号で、県下8番目の市であった（小千谷市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-ojiya-city-ayumi
+    - n1-ojiya-uub
+  - text: 新潟県の市町村等団体コード一覧では、小千谷市の団体コードは152081とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 「県下8番目」なのに「新市第1号」
+    text: 1954年3月10日に誕生した小千谷市は、新潟県で8番目の市でした。ところが同時に「新潟県の新市第1号」でもありました。1953年に町村合併促進法が施行され、全国で合併による新市づくりが始まったとき、その法律の適用を受けて生まれた市としては県内第1号だったのです。小千谷町は早くから合併に積極的で、城川村・千田村との大同団結をまとめ上げました。「8番目の市」と「第1号の新市」という二つの顔が、この市の生まれ方を物語っています。
+    sources:
+    - n1-ojiya-city-ayumi
+  relations:
+  - pref/15
+  unknowns:
+  - 『和名類聚抄』の郷名の正確な表記（「千屋郷」か「千谷郷」か）は、原典での直接確認ができておらず資料間で揺れている
+  - 「小」が付いた時期と理由（大きな「千谷」との区別などの説）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/15-新潟市
+  code: '151009'
+  names:
+    ja: 新潟市
+    reading: にいがたし
+    aliases:
+    - 新潟町
+    - 新潟区
+    - 新潟湊
+  user_terms:
+  - 新潟市の名前の由来
+  - 新潟市はなぜ新潟というのか
+  - 開港5港の新潟
+  - 新潟と沼垂の関係
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は信濃川河口の港町「新潟町」の名をそのまま受け継いだものである。「新潟」は、古くからの湊である蒲原・沼垂に対して新しく開けた湊を意味する名と考えられている。明治22年（1889）の市制施行で新潟区から新潟市が発足し、市名は県名にもなった港町の名がそのまま市名となった。
+  first_attestation:
+    era: 永禄11年
+    year_western: 1568
+    document: 上杉輝虎（謙信）書状
+    note: 市名の元になった港町名「新潟」の表記が確認できる初期の用例（新潟県立図書館の解説が紹介）。さらに古い用例として永正17年（1520）の『越後過去名簿』の「新方」がある
+  claims:
+  - text: 永禄11年（1568）の上杉輝虎（後の謙信）の手紙の中に「新潟」という表記が見え、これが港町名「新潟」の初期の確認例とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+  - text: 「新」は、周辺の蒲原・沼垂という7〜8世紀の文献にも出てくる古い湊に比べて新しい湊であることを示すと考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-niigata-lib
+  - text: 新潟市公式は、延長5年（927）の『延喜式』に載る越後国の国津「蒲原津」を文献に現れる最初の新潟港としており、河口部の湊の歴史は平安時代に遡る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-niigata-port
+  - text: 新潟湊は江戸時代に北前船の日本海側最大級の寄港地として栄え、安政5年（1858）の修好通商条約では函館・横浜・神戸・長崎とともに開港5港の一つに指定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-niigata-shisei
+  - text: 明治12年（1879）に新潟町ほかの区域をもって新潟区が置かれ、明治22年（1889）4月1日の市制施行により新潟区から新潟市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-niigata-kita
+  - text: 信濃川を挟んで対岸にあった沼垂町とは川の中州の帰属をめぐって争いが続き、元禄12年（1699）の幕府裁定（元禄の湊訴訟）で島の支配権は新潟町のものとなった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-cap-niigata-ryusaku
+  - text: 大正3年（1914）4月1日、沼垂町が新潟市に編入され、対岸同士で競い合ってきた二つの湊町が一つの市になった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - c-cap-niigata-uub
+  - text: 総務省の全国地方公共団体コードで、新潟市の団体コードは151009と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 対岸のライバル同士が、一つの市になった
+    text: 信濃川の河口には、左岸の新潟町と右岸の沼垂町という二つの湊町が向かい合っていました。川が運ぶ土砂で中州ができては姿を変える土地で、両町は島の取り合いを繰り返し、元禄12年（1699）には幕府の裁定（元禄の湊訴訟）にまで発展しました。ところが大正3年（1914）、沼垂町は新潟市に編入されます。何世紀も川を挟んで競い合ったライバル同士が、同じ市の住民になったのです。今も信濃川の両岸に古い町並みの名残が残り、二つの湊の記憶を伝えています。
+    sources:
+    - c-cap-niigata-ryusaku
+    - c-cap-niigata-uub
+  relations:
+  - pref/15
+  unknowns:
+  - 「新潟」の「新」が新しい潟そのものを指すのか、新しく作られた港町を指すのかは決着していない（県レコードでも対立として記録）
+  - 蒲原津の正確な所在地は、現在の新潟市域の河口部に比定されるが地点の特定はできていない
+  - 沼垂町編入（1914）の経緯について、市公式年表での直接確認は次回に回した（変遷情報サイトの整理に基づく）
+  updated: '2026-11-13'
+- id: muni/15-新発田市
+  code: '152064'
+  names:
+    ja: 新発田市
+    reading: しばたし
+    aliases:
+    - 新発田町
+    - 新発田城下
+  user_terms:
+  - 新発田市の名前の由来
+  - 新発田はなぜ「しばた」と読むのか
+  - 城下町しばた
+  - あやめ城のまち
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は戦国期の国人・新発田氏の居城の地として知られた「新発田」の継承である。「しばた」という読みの語源には洲端（すばた）説や荒れ地の開墾説などがあり、定説はない。慶長3年（1598）に溝口秀勝が入封して城下町が形成され、以後270年にわたり溝口氏の城下町として栄えた。1947年に市制を施行した。
+  first_attestation:
+    era: 戦国時代
+    year_western: null
+    document: null
+    note: 「新発田」の地名の文書上の初出は本調査では特定できなかった。中世から戦国期にかけて、この地を本拠とした新発田氏の名字として史料に現れる
+  claims:
+  - text: 日本歴史地名大系によれば、新発田氏は加地庄地頭佐々木氏の一族で、戦国期にはこの地の居城をめぐって上杉景勝と6年間に及ぶ新発田合戦を戦った
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-shibata-kotobank-castle
+  - text: 「新発田（しばた）」の地名の由来には、この地方が海岸の洲の近くだったことから「洲端（すばた）」が転じたとする説、荒れ地を開墾してできた土地（田）によるとする説など、いくつかの説が伝えられており、定説はない（新発田市観光協会の紹介による）
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - n1-shibata-kanko
+  - text: 慶長3年（1598）、新発田藩の初代藩主・溝口秀勝が入封し、新発田城の築城と城下町の形成が始まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-shibata-city-castle
+    - n1-shibata-city-plan
+  - text: 以後、廃藩置県まで国替えなく溝口氏12代・約270年にわたり治められ、新発田は城下町として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-shibata-city-plan
+  - text: 昭和22年（1947）に市制を施行して新発田市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-shibata-city-suji
+  - text: 平成15年（2003）に豊浦町、平成17年（2005）に紫雲寺町・加治川村と合併し、市域が広がった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-shibata-city-suji
+  - text: 新潟県の市町村等団体コード一覧では、新発田市の団体コードは152064とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: あやめ城と、屋根の上の3匹の鯱
+    text: 新発田城には別名がいくつもあり、周囲の湿地に菖蒲（あやめ）がたくさん咲いていたことから「菖蒲（あやめ）城」とも呼ばれました。籠城のときには加治川の堤防を切って城の周りを水浸しにする設計だったため「浮舟城」、築城にまつわる話から「狐の尾引城」ともいいます。そして本丸三階櫓の屋根には、全国的に類例のない3匹の鯱が載っています。三階櫓と辰巳櫓は平成16年（2004）に復元され、今も城下町・新発田の象徴です。
+    sources:
+    - n1-shibata-city-ayame
+    - n1-shibata-city-suji
+  relations:
+  - pref/15
+  unknowns:
+  - 「新発田」の文書上の初出（どの史料にいつ現れるか）は特定できなかった
+  - 地名「新発田」と新発田氏の名字のどちらが先か（氏が地名を名乗ったのか、地名が氏に由来するのか）は資料で確認できなかった
+  - 語源の諸説（洲端説・開墾説・アイヌ語説など）のうち、専門辞典が支持する説は確認できなかった
+  updated: '2026-11-13'
+- id: muni/15-村上市
+  code: '152129'
+  names:
+    ja: 村上市
+    reading: むらかみし
+    aliases:
+    - 村上町
+    - 村上本町
+  user_terms:
+  - 村上市の名前の由来
+  - 村上はなぜ村上というのか
+  - 鮭のまち村上
+  - 城下町村上
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は臥牛山の村上城の城下町「村上町」の継承である。「村上」の地名は16世紀初めには見え、1597年の絵図にも「村上町」と記される。城主・村上頼勝が名付けたとする説が流布するが、地名は頼勝の入封以前から存在し、語源そのものは未確定である。1954年に市制を施行し、2008年の合併でも市名が継承された。
+  first_attestation:
+    era: 永正6年
+    year_western: 1509
+    document: 村上市『三面川の鮭文化』の年表
+    note: 市の年表資料が「村上の地名が初めて見える」とする年（原史料名は未確認）。1597年の『越後国瀬波郡絵図』には「村上町、家数252軒」と明記される
+  claims:
+  - text: 村上市の年表資料（『三面川の鮭文化』）では、永正6年（1509）に「村上」の地名が初めて見えるとされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-murakami-city-sake
+  - text: 慶長2年（1597）の『越後国瀬波郡絵図』には、臥牛山の城館とその山麓の町が描かれ、「村上町、家数252軒」と記されている（村上市歴史的風致維持向上計画）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-murakami-city-fuchi
+  - text: 村上城（旧称・本庄城）は16世紀前半には存在し、戦国時代は小泉荘の国人領主・本庄氏の本拠地であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-murakami-city-castle
+    - n1-murakami-jo
+  - text: 慶長3年（1598）に村上頼勝が9万石で入封し、大規模な城普請とともに城下町の整備を行った（村上市歴史的風致維持向上計画）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-murakami-city-fuchi
+  - text: 「慶長3年に村上頼勝が入って名称を村上と改めたのが村上藩の始まり」とする説があるが、村上家の史料が少なく不確かな点が多いうえ、「村上」の地名は頼勝の入封以前（1509年）から見えるため、この説をもって地名の起源とすることはできない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - n1-murakami-wikipedia-han
+    - n1-murakami-city-sake
+  - text: 昭和29年（1954）3月31日、村上町・岩船町・瀬波町・山辺里村・上海府村が合併して村上市が発足した（市の計画資料も昭和29〜30年に村上市が成立したとする）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n1-murakami-wikipedia-han
+    - n1-murakami-city-fuchi1
+  - text: 平成20年（2008）4月1日、旧村上市・荒川町・神林村・朝日村・山北町が合併して現在の村上市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-murakami-city-fuchi2
+  - text: 新潟県の市町村等団体コード一覧では、村上市の団体コードは152129とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 鮭のまちの、世界初の試み
+    text: 村上の三面川は鮭が遡上する川で、この地では鮭を「イヨボヤ」と呼び、塩引き鮭の文化が城下町に根づいています。江戸時代、村上藩士の青砥武平治は、鮭が生まれた川に戻る習性に目をつけ、三面川に人工の分流「種川（たねかわ）」を造ることを考案しました。これは世界で初めて成功した鮭の自然ふ化増殖の試みとされます。武平治は完成を見ることなく亡くなりましたが、その発想は村上の鮭文化の礎になりました。
+    sources:
+    - n1-murakami-city-sake
+  relations:
+  - pref/15
+  unknowns:
+  - 「村上」という地名そのものの語源（何をもって「村上」と名付けたか）は、専門資料で確認できなかった
+  - 永正6年（1509）の「地名初見」の根拠となる原史料名は、市資料の年表の範囲では特定できなかった
+  - 2008年合併時の市名決定の経緯（候補名・公募の有無）は未確認
+  updated: '2026-11-13'
+- id: muni/15-柏崎市
+  code: '152056'
+  names:
+    ja: 柏崎市
+    reading: かしわざきし
+    aliases:
+    - 柏崎町
+    - かしはざき
+  user_terms:
+  - 柏崎市の名前の由来
+  - 柏崎はなぜ柏崎というのか
+  - 柏崎刈羽原発のまち
+  - 謡曲「柏崎」のまち
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は鵜川河口の港町・宿場町として中世から知られた「柏崎」の継承である。名はモチガシワの木が群生した岬の意と伝えられ、12世紀末の史料にも港として現れる。柏崎町は1940年に市制を施行し、県内5番目の市となった。現在の市域は2005年に高柳町・西山町を編入して広がった。
+  first_attestation:
+    era: 平安時代末期（12世紀）
+    year_western: null
+    document: 『准后記』（木曾義仲が「柏崎ノワタリ」への物資輸送を命じた記事）
+    note: 『白川風土記』の引用として日本歴史地名大系が紹介するもので、原典の直接確認はしていない。ほかに建治2年（1276）の日蓮遺文「光日房御書」に、文永11年（1274）に日蓮が大風に流されて「かしはざき」に着いたことが記される
+  claims:
+  - text: 日本歴史地名大系は、柏崎の名はモチガシワの木が群生した岬の意であると伝える、としている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-kashiwazaki-kotobank-machi
+  - text: 『白川風土記』によると『准后記』に、木曾義仲が「柏崎ノワタリ」に物資の輸送を命じたとあり、12世紀末には柏崎が港として中央に知られていた（日本歴史地名大系の紹介による）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-kashiwazaki-kotobank-machi
+  - text: 建治2年（1276）の光日房御書によれば、文永11年（1274）に赦免された日蓮は佐渡を発ち寺泊へ向かう予定が大風に流され、「かしはざき」に着いたという（日本歴史地名大系の紹介による）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n1-kashiwazaki-kotobank-machi
+  - text: 謡曲「柏崎」で知られる領主・柏崎勝長（柏崎殿）の伝説が伝わり、市公式の沿革もこの伝説を、中世の柏崎が日本海有数の港であったことを裏づけるものとして紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - n1-kashiwazaki-city-enkaku
+  - text: 昭和15年（1940）7月1日、刈羽郡柏崎町が市制を施行して柏崎市が発足し、新潟県で5番目の市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kashiwazaki-museum
+    - n1-kashiwazaki-uub
+  - text: 平成17年（2005）の平成の大合併で刈羽郡高柳町・西山町を編入し、市域が広がった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-kashiwazaki-museum
+  - text: 新潟県の市町村等団体コード一覧では、柏崎市の団体コードは152056とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 嵐に流されて柏崎へ――日蓮の漂着
+    text: 文永11年（1274）、赦免された日蓮は佐渡を船出しました。寺泊に着くはずが大風に流され、たどり着いたのが「かしはざき」でした。この出来事は日蓮の書状（光日房御書）に記され、日本歴史地名大系も柏崎の古い用例として引いています。流刑地の佐渡と向かい合う港町・柏崎は、中世には北陸道の宿駅として、また日本海有数の港として中央の人々の紀行文にもたびたび現れる場所でした。
+    sources:
+    - n1-kashiwazaki-kotobank-machi
+  relations:
+  - pref/15
+  unknowns:
+  - 『准后記』の柏崎記事の正確な年と原文は未確認（『白川風土記』経由の紹介にとどまる）
+  - 「モチガシワの群生した岬」という語源は「伝える」とされる言い伝えの域を出ず、裏づける古記録は確認できなかった
+  updated: '2026-11-13'
+- id: muni/15-燕市
+  code: '152137'
+  names:
+    ja: 燕市
+    reading: つばめし
+    aliases:
+    - 燕町
+    - 津波目
+  user_terms:
+  - 燕市の名前の由来
+  - 燕はなぜ「つばめ」と読むのか
+  - 燕三条の燕
+  - 金属洋食器のまち
+  naming_type: その他
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名の元になった地名は、古く「津波目（つばめ）」と書かれた。津は信濃川の河岸の船着場、目は中心地を意味し、米の集積地として栄えた場所だったと市公式は説く。「燕」の字に置き換わった時期と理由は明らかでなく、燕の群れと祠にまつわる言い伝えが伝説として残る。1954年に市制を施行し、2006年の合併でも「燕市」の名が選ばれた。
+  first_attestation:
+    era: 戦国時代
+    year_western: null
+    document: 水原憲家書状
+    note: 燕市公式が「およそ510年前」の書状として紹介するもので、子・景家に「津波目の土地を与える」と記されていたという。書状の正確な年は未確認。「燕」表記の初出も未確認
+  claims:
+  - text: 燕市公式によれば、約510年前の水原憲家の書状に「おまえに津波目の土地を与える」とあり、燕は昔「津波目」と書かれていたことがわかる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tsubame-city-enkaku
+  - text: 市公式の学説は、「津」は港（信濃川の河岸の船着場）、「目」は中心の意で、津波目は舟運の中継地として近くの村々の米が集まる中心地を意味したと解する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tsubame-city-enkaku
+  - text: 約440年前、中ノ口川を流れてきた小さな祠（ほこら）が宮の浦で流れ止まり、その屋根や周囲にたくさんの燕が群れていたため、人々が拾い上げて守り神として祀り、この地が「燕の村」と呼ばれるようになったと伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - n1-tsubame-city-enkaku
+  - text: 「津波目」がいつ頃、どうして「燕」という字に変わったかは、はっきりしていない（燕市公式の学説紹介による）
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - n1-tsubame-city-enkaku
+  - text: 昭和29年（1954）3月31日、西蒲原郡燕町・小池村・小中川村・松長村の合併により燕市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tsubame-city-enkaku
+    - n1-tsubame-uub
+  - text: 平成18年（2006）3月20日、燕市・吉田町・分水町が合併して新しい燕市が誕生し、新市の名称は合併協議会で「燕市」に決定されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-tsubame-city-enkaku
+  - text: 新潟県の市町村等団体コード一覧では、燕市の団体コードは152137とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: 「燕三条」という一つの名前
+    text: 燕市と隣の三条市は、ともに金属加工で栄えた産地で、燕は「職人の町」、三条は「商人の町」と称され、互いに補い合ってきました。上越新幹線の駅名は両市にまたがる「燕三条駅」で、産地の総称も「燕三条」です。一時は両市の合併による「燕三条市」を目指す動きもありましたが、燕市の意向調査で反対が上回り、実現しませんでした。二つの市は今も別々の市のまま、一つの産地ブランドを共有しています。
+    sources:
+    - n1-tsubame-wikipedia
+    - n1-sanjo-wikipedia
+  relations:
+  - pref/15
+  - muni/15-三条市
+  unknowns:
+  - 水原憲家書状の正確な年代と所蔵先は、市公式ページの紹介の範囲を超えて確認できなかった
+  - 「燕」表記への置き換えの時期・経緯は資料がなく未確認
+  updated: '2026-11-13'
+- id: muni/15-糸魚川市
+  code: '152161'
+  names:
+    ja: 糸魚川市
+    reading: いといがわし
+    aliases:
+    - 糸魚川町
+    - 糸井川
+    - 奴奈川
+  user_terms:
+  - 糸魚川市の名前の由来
+  - 糸魚川という川はあるのか
+  - ヒスイのまち糸魚川
+  - 奴奈川姫の里
+  naming_type: その他
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は川の名に由来すると考えられてきたが、現在の市内に「糸魚川」という川は存在しない。古文書の表記は「沼川（奴奈川）」から「糸井川」（1387年）を経て「糸魚川」（1509年）へ移り変わり、語源には糸魚（イトヨ）説、新羅系帰化人の糸井造一族説など諸説あって決着していない。1954年に市制を施行し、2005年に能生町・青海町と合併した。
+  first_attestation:
+    era: 永正6年
+    year_western: 1509
+    document: 長尾為景書状・村山氏系図
+    note: 「糸魚川」表記の用例（糸魚川市公式が『糸魚川市史』の調査として紹介）。より古くは至徳4年（1387）の市川頼房軍忠状に「糸井川」、延元2年（1337）の禰知盛継状などに「沼川（奴奈川）」とある
+  claims:
+  - text: 現在の糸魚川市内に「糸魚川」という名の河川は存在しない（糸魚川市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-itoigawa-city-iwaware
+  - text: 糸魚川市公式が紹介する『糸魚川市史』の調査では、この地名の古文書用例は1337年などの「沼川（奴奈川）」、1387年の「糸井川」、1509年の「糸魚川」と移り変わっている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-itoigawa-city-iwaware
+  - text: 『糸魚川市史』の執筆者・青木重孝は、新羅から渡来して帰化した糸井造の一族がこの地に入ったことが名の起こりとする説を唱え、現在最も有力とされるが、市公式自身が史料のない推測の範囲であり、疑問点も指摘されているとしている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - n1-itoigawa-city-iwaware
+  - text: 糸魚（イトヨ）が市内の河川に多く棲んでいたことから名付けられたとする説があり、旧糸魚川町の町章を引き継いだ市の市章は、名産の糸魚（イトヨ）三尾を図案化したものである（糸魚川市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-itoigawa-city-iwaware
+  - text: 弘法大師（空海）が竹管に糸を巻いて川に投じたところ、たちまち魚となって泳ぎ回ったという言い伝えが、糸魚川の名の由来として伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - n1-itoigawa-city-iwaware
+  - text: 対立する軍がこの地で挑み合った「いどみ川」からの転化、あるいは「淀（よど）み川」「厭（いと）い川」からの転化という言い伝えもある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - n1-itoigawa-city-iwaware
+  - text: 昭和29年（1954）6月1日、糸魚川町・浦本村・大野村・根知村など9町村が合併して糸魚川市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n1-itoigawa-uub
+  - text: 平成17年（2005）3月19日、糸魚川市・能生町・青海町が合併して現在の糸魚川市となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n1-itoigawa-uub
+  - text: 新潟県の市町村等団体コード一覧では、糸魚川市の団体コードは152161とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n1-niigata-code
+  column:
+    title: ヒスイと奴奈川姫の里
+    text: 糸魚川の姫川流域は、縄文時代からヒスイ（硬玉）の産地でした。長者ケ原遺跡ではヒスイの加工や玉作りが行われ、その玉は遠く各地へ運ばれました。そしてこの地は、『古事記』に大国主命との歌謡の掛け合いが残る奴奈川姫（ぬなかわひめ）の国でもあります。「奴奈川」は糸魚川の古い名の一つで、姫の名は古い地名を今に伝えています。地名が糸井川・糸魚川へと姿を変えるはるか前から、この川沿いは物語のある土地でした。
+    sources:
+    - n1-itoigawa-city-nenpyo
+    - n1-itoigawa-city-iwaware
+  relations:
+  - pref/15
+  unknowns:
+  - 「糸井川」の「井」がなぜ「魚」になったのかは、市公式も不明としており未解決
+  - 糸井造一族説を裏づける史料はなく、語源は決着していない
+  - 奴奈川（沼川）と糸魚川の指す範囲の違い（広域地名と狭域地名）の詳細は市史原典の確認が必要
+  updated: '2026-11-13'
+- id: muni/15-胎内市
+  code: '152277'
+  names:
+    ja: 胎内市
+    reading: たいないし
+    aliases: []
+  user_terms:
+  - たいない
+  - 胎内川
+  - 胎内高原
+  - 中条
+  - 黒川
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県北部の市で、2005年に中条町・黒川村が合併して発足した。市名は市域の中心を流れる胎内川にちなみ、合併ガイドブックは胎内川を「母なる川」と呼んで新市のシンボルと説明する。川の名は鎌倉時代の古文書に万葉仮名で見えると紹介され、語源にはアイヌ語起源説もある。旧町村名の中条・黒川は鎌倉時代の地頭の分与に由来する別の層を持つ。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: 1241
+    document: つふらの尼譲状
+    note: 仁治元年（1241）の古文書に胎内川が「堂以乃可八（たいのかハ）」と見えるとWikipedia「胎内川」が紹介するもの。一次資料を直接確認していないため紹介として記録する
+  claims:
+  - text: 2005年9月1日に中条町・黒川村の新設合併で胎内市が発足し、市役所のある旧中条町が中心地となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-tainai-guidebook
+  - text: 市名「胎内」は、市域の中心を流れる清流・胎内川が「正に母なる川『胎内』が新市のシンボルである」として名付けられたと、市の合併ガイドブックが説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-tainai-guidebook
+  - text: 胎内川の名は、仁治元年（1241）の古文書「つふらの尼譲状」に「堂以乃可八（たいのかハ）」と見え、弘長4年（1264）の譲状にも同表記が見えると紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-tainai-wiki
+  - text: 胎内川の語源について、藤井尚治『越佐地名考』（昭和6年、1931）はアイヌ語の「トイナイ」から出たと述べたが、後の研究には否定的な見解もあると紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - u5-tainai-wiki
+  - text: 旧町村名の中条・黒川は、鎌倉時代に地頭・和田氏の財産分与により、地域の中央を「中条（中条氏）」、北側を「北条（黒川氏）」と呼ぶようになったことに由来すると市の新市建設計画が説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-tainai-kensetsu
+  - text: 鎌倉時代の女武将・板額御前にまつわる史跡や逸話が、中条・黒川の両地域に残ると伝えられている
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - u5-tainai-kensetsu
+  column:
+    title: 「たいのかハ」と書かれた川――万葉仮名の胎内川
+    text: 鎌倉時代の譲状の中で、胎内川は「堂以乃可八」と万葉仮名で書かれていたという。「たいのかは」と読むこの表記は、「胎内」という漢字が当てられる前の川の音を伝える。やがて当てられた「胎内」の字は、母の胎内を思わせる字面となり、2005年の合併では市が自ら「母なる川」と呼び直した。音・字・意味が時代ごとに重なっていった川の名である。
+    sources:
+    - u5-tainai-wiki
+    - u5-tainai-guidebook
+  relations:
+  - pref/15
+  unknowns:
+  - 胎内川の語源の確定説（アイヌ語起源説は否定的見解もあり未確定）
+  - 「胎内」の漢字表記が定着した時期は未確認
+  - 市名が公募によるものか協議会の決定によるものか、ガイドブックからは断定できなかった
+  updated: '2026-11-13'
+- id: muni/15-見附市
+  code: '152111'
+  names:
+    ja: 見附市
+    reading: みつけし
+    aliases:
+    - 見付
+  user_terms:
+  - みつけ
+  - 新潟県の重心
+  - 県内最小の市
+  - 今町
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県のほぼ中央にある、県内で最も面積の小さい市。「見附」の名は戦国時代の古文書に「見付条」と見えるのが初出とされるが、城郭用語の「見附（見張り所）」から直接来たかどうかは確定していない。市の公式のあゆみによれば戦国時代には見附城があり、1954年に市制施行した。市内には新潟県の重心がある。
+  first_attestation:
+    era: 戦国時代
+    year_western: 1519
+    document: 山吉政久安堵状（上杉家文書）
+    note: 『日本歴史地名大系』が「見附の名は永正16年（1519）4月19日の山吉政久安堵状（上杉家文書）に『見付条』とみえる」と紹介するもの。原文を直接確認したものではない
+  claims:
+  - text: 見附の名は永正16年（1519）4月19日の山吉政久安堵状（上杉家文書）に「見付条」と見えるのが確認できる初出である（『日本歴史地名大系』）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-mitsuke-kotobank
+  - text: 一般名詞としての「見附（見付）」は、城郭の要所に置かれた見張り所・升形を指す語である（『改訂新版世界大百科事典』）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-mitsuke-imi
+  - text: 地名「見附」が見張り所の意味から直接名付けられたかどうかを示す確定資料は確認できておらず、語源は未確定である
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - u5-mitsuke-kotobank
+    - u5-mitsuke-imi
+  - text: 市公式のあゆみによれば、16世紀に「みつけ」の文字が確認され、戦国時代には「見附城」があった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-mitsuke-city
+  - text: 1954年3月31日に見附町が新潟村・葛巻村と上北谷村の一部を編入して市制施行し、1956年に今町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-mitsuke-city
+    - u5-mitsuke-uub
+  - text: 見附市は新潟県内で面積が最も小さい市であり、県の重心（北緯37度31分19秒・東経138度54分50秒）が市内にある（市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-mitsuke-city
+  column:
+    title: 県のど真ん中にある、由来の分からない名
+    text: 見附市には新潟県の重心点がある。県のほぼ中央という立地は、戦国時代にこの地が見張りの要所だったとしても不思議はない位置ではある。しかし「見附」という名が見張り所に由来するという確かな証拠は残っていない。初出が1519年の古文書という古い名でありながら、意味の層だけが取り残された地名である。県の重心という確かな事実と、名の由来の空白が同居している。
+    sources:
+    - u5-mitsuke-city
+    - u5-mitsuke-kotobank
+  relations:
+  - pref/15
+  unknowns:
+  - 「見附」の語源（見張り所説は一般名詞の意味からの類推にとどまり、直接の裏づけは未確認）
+  - 戦国時代の見附城の所在地と城主の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/15-長岡市
+  code: '152021'
+  names:
+    ja: 長岡市
+    reading: ながおかし
+    aliases:
+    - 長岡町
+  user_terms:
+  - 長岡市の名前の由来
+  - 長岡はなぜ長岡というのか
+  - 長岡藩・河井継之助の長岡
+  - 米百俵のまち
+  - 長岡花火のまち
+  naming_type: 一部の地名
+  prefecture: 新潟県
+  homonyms: []
+  summary: 市名は江戸時代の長岡藩の城下町・長岡町を受け継いだものである。「長岡」の名は慶長年間に文書に現れ、堀直寄が信濃川近くのこの地に長岡城を築いて城下町を開いた。語源は「長い丘陵」に由来する説が有力とされるが、定説はない。明治39年（1906年）に市制を施行し、平成17〜22年（2005〜2010年）の3度の合併で市域が大きく広がった。
+  first_attestation:
+    era: 慶長10年
+    year_western: 1605
+    document: 「長岡渡し」に言及する文書（『日本歴史地名大系』の記述として紹介される）
+    note: 城の完成（1616年）に先立ち、「長岡」の名が文書に現れる最初とされる例。渡し場の名としての使用
+  claims:
+  - text: 「長岡」の名が文書に出てくるのは慶長10年（1605年）のことで、蔵王堂渡しの渡し守に関わる文書に「長岡渡し」が見えるという
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - l3-nagaoka-weblio
+  - text: 蔵王堂城は信濃川のそばでたびたび水害を受けていたため、堀直寄は信濃川からやや離れた長岡に新たな城を築き、城下町を移そうとした
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l3-nagaoka-kotobank-castle
+  - text: 元和2年（1616年）に堀直寄が長岡城を築き、のちに牧野氏が藩主となって、長岡は牧野氏の城下町・信濃川水運の町として発展した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l3-nagaoka-kotobank-castle
+    - l3-nagaoka-kotobank
+  - text: 「長岡」の語源は定かではなく、『長岡市史』は千手・神田表町あたりの地が遠くから長い丘のように見えるからとする説、『越後往古城主付』は長岡京に似ているからとする説、『越後治乱記』は長岡縫殿介にちなんだとする説をそれぞれ伝える
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - l3-nagaoka-weblio
+  - text: 明治39年（1906年）に長岡町が市制を施行して長岡市が誕生した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l3-nagaoka-kotobank
+  - text: 平成17年（2005年）4月1日、中之島町・越路町・三島町・山古志村・小国町の5町村を編入合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-nagaoka-chukatsu
+  - text: 平成18年（2006年）1月1日に栃尾市・与板町・和島村・寺泊町を、平成22年（2010年）3月31日に川口町を編入し、市域は新潟県の中央部を日本海側から福島県境近くまで横断する形となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-nagaoka-chukatsu
+  - text: 総務省「地方公共団体コード一覧」では、長岡市のコードは152021とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 市章は「不死鳥」
+    text: 長岡市の市章は、昭和52年（1977年）の本庁舎完成を機に制定されたもので、限りなく発展する長岡市を「不撓不屈の不死鳥（フェニックス）」の姿に託して表現したという。戦災や震災のたびに復興を重ねてきた長岡にとって、不死鳥はまちの象徴として定着している。市名の由来とは別に、まちのアイデンティティを示す名前ならぬ「姿」の命名である。
+    sources:
+    - l3-nagaoka-shigikai
+  relations:
+  - pref/15
+  unknowns:
+  - 「長岡」の語源は諸説あり、いずれも伝承の域を出ない。本バッチでは『長岡市史』など一次の市史本文そのものは未読で、紹介経由の記録にとどまる
+  - 慶長10年（1605年）の「長岡渡し」の文書そのものは未確認で、二次資料の紹介による
+  updated: '2026-11-13'
+- id: muni/15-阿賀野市
+  code: '152234'
+  names:
+    ja: 阿賀野市
+    reading: あがのし
+    aliases: []
+  user_terms:
+  - あがの
+  - 瓢湖
+  - 白鳥の湖
+  - 水原
+  - 五頭温泉郷
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県北東部の市で、2004年に北蒲原郡の安田町・水原町・京ヶ瀬村・笹神村が新設合併して発足した。市名は市域の南西を流れる阿賀野川に由来するとされる。旧中心地の水原は江戸時代に代官所が置かれた行政の中心で、白鳥の飛来地・瓢湖で知られる。旧町村の名は地区名として残り、その一つ笹神は笹岡と神山の合成地名である。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 市名「阿賀野」は2004年の合併による新名。市名決定の経緯を示す市公式・合併協議会の一次資料は今回確認できなかった
+  claims:
+  - text: 2004年4月1日に北蒲原郡の安田町・水原町・京ヶ瀬村・笹神村が新設合併して阿賀野市が市制施行した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u5-agano-uub
+  - text: 市名「阿賀野」は、市域を流れる阿賀野川の流域にあることに由来すると説明されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u5-agano-wiki
+  - text: 旧中心地の水原には江戸中期の1746年に幕府直轄領の代官所が設置され、明治初頭の水原県設置の頃まで周辺地域の行政の中心地であった（阿賀野市公式資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-agano-bunkatsu
+  - text: 水原の瓢湖は白鳥の飛来地として知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-agano-bunkatsu
+  - text: 旧笹神村は1956年9月30日に笹岡村と神山村が合併してできた合成地名であり、合併した四町村の名は今も地区名として残っている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u5-agano-sasakami-uub
+    - u5-agano-uub
+  - text: 市役所は旧水原町の区域に置かれている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u5-agano-uub
+  column:
+    title: 川の名をもらった市、四つの旧名が残る地区
+    text: 阿賀野市の市名は川の名だが、市の中の暮らしの単位は今も安田・水原・京ヶ瀬・笹神という旧町村の名で呼ばれる。水原には代官所の置かれた行政の中心としての歴史があり、笹神という名自体が笹岡と神山の合成という、もう一回り古い合併の化石である。新市の名は一番大きな川から取り、地区の名は人の暮らしのほうに残ったという二層構造になっている。
+    sources:
+    - u5-agano-uub
+    - u5-agano-bunkatsu
+  relations:
+  - pref/15
+  unknowns:
+  - 市名「阿賀野」の決定経緯（公募の有無・協議会での選定過程）は市公式・協議会資料で一次確認できなかった
+  - 旧町村名の安田・京ヶ瀬それぞれの地名の由来は未確認
+  updated: '2026-11-13'
+- id: muni/15-魚沼市
+  code: '152251'
+  names:
+    ja: 魚沼市
+    reading: うおぬまし
+    aliases:
+    - 北魚沼郡
+  user_terms:
+  - うおぬま
+  - 魚沼産コシヒカリ
+  - 小出
+  - 堀之内
+  naming_type: 合併新設
+  prefecture: 新潟県
+  homonyms: []
+  summary: 新潟県南東部の市で、2004年に北魚沼郡の6町村が合併して発足した。市名の「魚沼」は古代の郡名に遡り、『和名類聚抄』では「伊乎乃」の訓で見える。語源は「イホノ（庵野）」説などがあって確定していない。旧中心地の小出は魚野川水運の河港・三国街道の宿場町として栄えた歴史を持つ。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 和名類聚抄（魚沼郡）
+    note: 『日本歴史地名大系』によれば『和名抄』東急本は魚沼郡に「伊乎乃」の訓を付す。大宝2年（702）に越後国へ編入されたとする『続日本紀』の記載も同書が紹介するが、ここでは紹介として扱う
+  claims:
+  - text: 魚沼郡は『和名類聚抄』に「伊乎乃」と訓を付して見え、『延喜式』民部省には「イヲヌ」、同書神名帳には「イオノ」の訓が見える（『日本歴史地名大系』）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-uonuma-kotobank
+  - text: 魚沼郡は初め越中国に属し、大宝2年（702）3月に他の三郡とともに越後国に編入されたと、『続日本紀』同年3月17日条の記載として『日本歴史地名大系』が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-uonuma-kotobank
+  - text: 『和名類聚抄』は魚沼郡の郷として賀祢・那珂・剌上・千屋の四郷を記す（『日本歴史地名大系』）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-uonuma-kotobank
+  - text: 「魚沼」の語源は、開発途上の原野に仮小屋が多かったことを意味する「イホノ（庵野）」と考えられるという説があり、魚の多い川にちなむ説や沼が多い地とする説も併記されている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - u5-uonuma-gogen
+  - text: 市名は古代以来の魚沼郡の名を引き継ぐもので、2004年11月1日に北魚沼郡の堀之内町・小出町・湯之谷村・広神村・守門村・入広瀬村の6町村が新設合併して魚沼市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u5-uonuma-uub
+    - u5-uonuma-kotobank
+  - text: 旧中心地の小出は鎌倉時代初期から魚野川水運の河港として成り、もとは破間川河口の「小出嶋」と呼ばれた船着場であった（魚沼市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-uonuma-city
+  - text: 江戸時代の小出は魚沼八組の一つ小出嶋組の大割元が置かれ、三国街道の宿場町・縮布の市場として栄えた（魚沼市公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-uonuma-city
+  column:
+    title: 「魚沼」という字が当てられるまで――イホノ・イオノ・イヲヌ
+    text: 古代の文献の中で、この地の名の読みは安定していなかった。『和名類聚抄』は「伊乎乃（いほの／いおの）」、『延喜式』は「イヲヌ」「イオノ」と訓を振る。仮小屋の多い開け途上の原野を意味する「イホノ」だったという説が有力とされるが、のちに「魚沼」の字が定着すると、今度は魚の豊かな水郷という意味で読まれるようになった。現代の「魚沼産コシヒカリ」のブランドは、この後から当てられた字のイメージの上に成り立っている。
+    sources:
+    - u5-uonuma-kotobank
+    - u5-uonuma-gogen
+  relations:
+  - pref/15
+  unknowns:
+  - 「魚沼」の語源の確定説（イホノ説・魚の川説・沼地説のいずれも決着していない）
+  - 「魚沼」の漢字表記が定着した時期は未確認
+  - 合併時に市名として「魚沼」を採用した協議の詳細は未確認
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  c-cap-niigata-kita:
+    label: 新潟市北区「合併のあゆみ」
+    url: https://www.city.niigata.lg.jp/kita/about/rekishi/rekishi_gappei.html
+  c-cap-niigata-port:
+    label: 新潟市「新潟港の歴史」
+    url: https://www.city.niigata.lg.jp/kurashi/doro/port/rekisi.html
+  c-cap-niigata-ryusaku:
+    label: 新潟市「流作場 河口の島と古信濃川の誕生」（市公式資料。元禄の湊訴訟を収録）
+    url: http://www.city.niigata.lg.jp/shisei/tokei/machisai_top/otakarakoji/ryusakuba.files/ryusakuba_1_ver2_140813.pdf
+  c-cap-niigata-shisei:
+    label: 新潟市「市勢概要」
+    url: https://www.city.niigata.lg.jp/shisei/gaiyo/profile/siseigaiyou.html
+  c-cap-niigata-uub:
+    label: 都道府県市区町村「新潟市（1889年〜）市区町村変遷情報」（沼垂町編入等の変遷を収録）
+    url: https://uub.jp/upd/c/19043.html
+  l3-joetsu-50th:
+    label: 上越市『市制施行50周年』（広報じょうえつ令和3年5月号別冊：高田市・直江津市の歩み）
+    url: https://www.city.joetsu.niigata.jp/uploaded/attachment/197080.pdf
+  l3-joetsu-koubunsho:
+    label: 上越市公文書センター「高田・直江津両市の対等合併で発足した上越市」
+    url: https://www.city.joetsu.niigata.jp/soshiki/koubunsho/tenji09.html
+  l3-joetsu-ndlref:
+    label: 国立国会図書館レファレンス協同データベース「上越新幹線は新潟の上越地区を通っていないのになぜ上越新幹線というのか」（回答：宮城県白石高等学校図書館）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000244733&page=ref_view
+  l3-joetsu-pref-lib:
+    label: 新潟県立図書館「新潟県全般に関する相談 Q4：上越・中越・下越の由来」
+    url: https://www.pref-lib.niigata.niigata.jp/1b8446f94c08f7ae67441d7d895601a6/%E6%96%B0%E6%BD%9F%E7%9C%8C%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%85%A8%E8%88%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9B%B8%E8%AB%87/%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%85%A8%E8%88%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9B%B8%E8%AB%87%E3%80%80%EF%BC%B1%EF%BC%94
+  l3-joetsu-sogokeikaku:
+    label: 上越市『第5次総合計画』（平成17年の13町村との合併）
+    url: https://www.city.joetsu.niigata.jp/uploaded/attachment/66080.pdf
+  l3-nagaoka-chukatsu:
+    label: 長岡市『中心市街地活性化基本計画（第3期）』第1章「長岡市の概要」（合併の経緯）
+    url: https://www.city.nagaoka.niigata.jp/shisei/cate01/chukatsu/file/plan3rd-h3104-04.pdf
+  l3-nagaoka-kotobank:
+    label: コトバンク「長岡」（デジタル大辞泉・精選版日本国語大辞典：牧野氏の城下町、明治39年市制）
+    url: https://kotobank.jp/word/%E9%95%B7%E5%B2%A1-587605
+  l3-nagaoka-kotobank-castle:
+    label: コトバンク『日本の城がわかる事典』「長岡城」（堀直寄の築城）
+    url: http://kotobank.jp/word/%E9%95%B7%E5%B2%A1%E5%9F%8E-180178
+  l3-nagaoka-shigikai:
+    label: 長岡市議会事務局『長岡市議会の概要（令和7年度）』（市章・市制施行日など）
+    url: https://www.city.nagaoka.niigata.jp/shigikai/file/shisatsu-01d.pdf
+  l3-nagaoka-weblio:
+    label: Weblio辞書「堀直寄」（『長岡市史』『越後往古城主付』『越後治乱記』の語源諸説と「長岡渡し」の初出を紹介）
+    url: https://www.weblio.jp/content/%E5%A0%80%E7%9B%B4%E5%AF%84
+  n1-itoigawa-city-iwaware:
+    label: 糸魚川市公式「糸魚川市に『糸魚川』という川はありません（市名のいわれ）」（伝説諸説、イトヨ説、『糸魚川市史』による古文書用例＝1387年の糸井川・1509年の糸魚川、青木重孝の糸井造説とその疑問点、イトヨ三尾の市章）
+    url: https://www.city.itoigawa.lg.jp/page/2453.html
+  n1-itoigawa-city-nenpyo:
+    label: 糸魚川市「糸魚川の歴史略年表」（『古事記』に奴奈川姫と大国主命の歌謡が見えること、長者ケ原遺跡でヒスイの加工・玉作りが行われたこと）
+    url: https://www.city.itoigawa.lg.jp/uploaded/attachment/18844.pdf
+  n1-itoigawa-uub:
+    label: 都道府県市区町村「糸魚川市（新潟県）1954〜2005年」（実務資料としてE4扱い。1954年6月1日に糸魚川町ほか8村が合併し市制、2005年3月19日に青海町・能生町と合併）
+    url: https://uub.jp/upd/c/5492.html
+  n1-kamo-city-gaiyo:
+    label: 加茂市公式「加茂市の概要」（青海神社・長瀬神社は延喜式神名帳に名が見えること、加茂の地が京都の賀茂神社の社領となり両社の祭神が分霊されたことから「加茂」と呼ばれるようになったこと）
+    url: https://www.city.kamo.niigata.jp/docs/30191.html
+  n1-kamo-city-ijyu:
+    label: 加茂市公式「加茂ってこんなところ」（794年の平安遷都の折に青海神社へ上賀茂・下鴨両社の神が分霊された縁で「賀茂」が「加茂」となり市名の由来となったこと、三方を山に囲まれ加茂川が流れる地形から「北越の小京都」と呼ばれること）
+    url: https://www.city.kamo.niigata.jp/ijyu/about/index.html
+  n1-kamo-city-kaso:
+    label: 加茂市過疎地域持続的発展計画（明治22年の町村制で市域が6町村になったこと、加茂町は狭口村・加新村・下条村と合併し昭和29年・1954年に加茂市となったこと）
+    url: https://www.city.kamo.niigata.jp/fs/2/0/8/3/5/5/_/%E5%8A%A0%E8%8C%82%E5%B8%82%E9%81%8E%E7%96%8E%E5%9C%B0%E5%9F%9F%E6%8C%81%E7%B6%9A%E7%9A%84%E7%99%BA%E5%B1%95%E8%A8%88%E7%94%BB.pdf
+  n1-kamo-jinja:
+    label: 青海神社公式サイト「由緒・年表」（神亀3年・726年に青海首一族が青海神社を創建したと伝えること、平安遷都に当たり賀茂両社の神領となり分霊をまつったこと、青海郷は23箇村であったと伝えること）
+    url: https://aomi-jinjya.or.jp/history/yuisyo.html
+  n1-kashiwazaki-city-enkaku:
+    label: 柏崎市「柏崎のあゆみ」（市勢概要の沿革。中世の柏崎は謡曲「柏崎」の柏崎勝長の伝説で知られる港だったこと）
+    url: https://www.city.kashiwazaki.lg.jp/material/files/group/5/R3_1.pdf
+  n1-kashiwazaki-kotobank-machi:
+    label: コトバンク「柏崎町」（日本歴史地名大系。柏崎の名はモチガシワの群生した岬の意と伝えること、『准后記』の柏崎ノワタリ、建治2年の光日房御書にみえる日蓮の「かしはざき」漂着）
+    url: https://kotobank.jp/word/%E6%9F%8F%E5%B4%8E%E7%94%BA-3048241
+  n1-kashiwazaki-museum:
+    label: 柏崎市ウェブミュージアム「わたしたちの柏崎・市のうつりかわり」（昭和15年7月1日に県内5番目の市として誕生、平成17年に高柳町・西山町と合併）
+    url: https://kashiwazaki-web-museum.jp/book/chapter05/section03-01.html
+  n1-kashiwazaki-uub:
+    label: 都道府県市区町村「柏崎市（新潟県）1940年〜」（実務資料としてE4扱い。1940年7月1日の柏崎町の市制施行）
+    url: https://uub.jp/upd/c/7315.html
+  n1-murakami-city-castle:
+    label: 村上市公式「国指定史跡 村上城跡」（16世紀前半には城が存在、本庄氏の本拠、享保5年・1720年以後は内藤氏が代々城主）
+    url: https://www.city.murakami.lg.jp/soshiki/80/shiseki-murakami.html
+  n1-murakami-city-fuchi:
+    label: 村上市歴史的風致維持向上計画 第2章（慶長2年の『越後国瀬波郡絵図』に「村上町、家数252軒」、16世紀初期に本庄氏が臥牛山へ本拠を移したこと、慶長3年に村上頼勝が入封し城下町を整備したこと）
+    url: https://www.city.murakami.lg.jp/uploaded/attachment/75615.pdf
+  n1-murakami-city-fuchi1:
+    label: 村上市歴史的風致維持向上計画 第1章（合併経緯。昭和21年に村上本町と村上町が合併、昭和29〜30年に村上市ほかが成立）
+    url: https://www.city.murakami.lg.jp/uploaded/attachment/75587.pdf
+  n1-murakami-city-fuchi2:
+    label: 村上市歴史的風致維持向上計画（第2期）（平成20年の合併で新たな村上市が誕生したこと、旧市町村単位の地域設定）
+    url: https://www.city.murakami.lg.jp/uploaded/attachment/73368.pdf
+  n1-murakami-city-sake:
+    label: 村上市「三面川の鮭文化」（市の年表資料。永正6年・1509年に「村上」の地名が初めて見えるとする年表を含む）
+    url: https://www.city.murakami.lg.jp/uploaded/attachment/37352.pdf
+  n1-murakami-jo:
+    label: 国指定史跡村上城跡公式サイト「歴史と概要」（村上城の旧称は本庄城、16世紀前半には本庄氏の居城が存在したこと）
+    url: https://murakamijo.jp/history
+  n1-murakami-wikipedia-han:
+    label: Wikipedia「村上藩」（本庄家は明応年間頃に村上へ居所を移したこと、慶長3年に村上頼勝が入り「名称を村上と改めたのが村上藩の始まりとされているが不確かなことが多い」とする注記、1954年の村上市成立の構成）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E8%97%A9
+  n1-niigata-code:
+    label: 新潟県「市町村等団体コード一覧」（市町村の団体コードの一覧表）
+    url: https://www.pref.niigata.lg.jp/uploaded/attachment/397957.pdf
+  n1-ojiya-city-ayumi:
+    label: 小千谷市公式「小千谷市のあゆみ：小千谷市の誕生」（昭和29年3月10日に小千谷町が城川村・千田村を編入して市制施行、町村合併促進法による新潟県の新市第1号・県下8番目の市）
+    url: https://www.city.ojiya.niigata.jp/soshiki/kikakuseisaku/ojiya-ayumitanjo.html
+  n1-ojiya-city-profile:
+    label: 小千谷市公式「小千谷市の紹介」（地名の由来は『和名抄』に見える古代魚沼郡の郷の一つ「千屋郷」が起こりと言われること、近世は宿場町・信濃川の船着場・小千谷縮の生産地として発展したこと）
+    url: https://www.city.ojiya.niigata.jp/site/furusato-tax/ojiya-profile.html
+  n1-ojiya-gogen:
+    label: 語源由来辞典「小千谷市」（『和名抄』の「千谷郷（ちやごう）」から戦国期に「小地屋」、江戸期に「小千谷」と記されるようになったこと、「ちや＝茅屋」説と「おぢ＝落ち」説の検討）
+    url: https://gogen-yurai.jp/ojiya-shi-niigata
+  n1-ojiya-uub:
+    label: 都道府県市区町村「小千谷市（新潟県）1954年〜」（実務資料としてE4扱い。1954年3月10日に小千谷町が城川村・千田村を編入し市制施行）
+    url: https://uub.jp/upd/c/5840.html
+  n1-sado-city-plan:
+    label: 佐渡市歴史的風致維持向上計画（序章。平成16年に島内全10市町村が合併し一島一市の佐渡市が誕生したこと）
+    url: https://www.city.sado.niigata.jp/uploaded/attachment/15262.pdf
+  n1-sado-kokugakuin:
+    label: 國學院大學「古事記地名データベース・佐度島」（『古事記』上巻の国生みで大八島国の第七の島とされること）
+    url: https://kojiki.kokugakuin.ac.jp/chimei/sadonoshima
+  n1-sado-kotobank-kuni:
+    label: コトバンク「佐渡国」（日本歴史地名大系・改訂新版世界大百科事典。記紀の国生みの「佐度島」「佐度洲」、表記の変遷、狭門説と雑太郷説はいずれも確説でないこと、大化改新後の佐渡国・天平年間の越後への合併と再分立）
+    url: http://kotobank.jp/word/%E4%BD%90%E6%B8%A1%E5%9B%BD-69362
+  n1-sado-uub:
+    label: 都道府県市区町村「佐渡市（新潟県）2004年〜」（実務資料としてE4扱い。2004年3月1日の新設合併、両津市の市制は1954年）
+    url: https://uub.jp/upd/c/233.html
+  n1-sanjo-kotobank-machi:
+    label: コトバンク「三条町」（日本歴史地名大系。大中臣氏略系図の「越後国三条庄」、永徳2年の「三条七日市場」、近世三条町の成立）
+    url: https://kotobank.jp/word/%E4%B8%89%E6%9D%A1%E7%94%BA-3048821
+  n1-sanjo-pref-gappei:
+    label: 新潟県「三条市の合併経過」（県の市町村合併資料。平成17年5月1日の新設合併＝三条市・栄町・下田村）
+    url: https://www.pref.niigata.lg.jp/uploaded/attachment/92440.pdf
+  n1-sanjo-uub:
+    label: 都道府県市区町村「三条市（新潟県）2005年〜」（実務資料としてE4扱い。1934年1月1日の市制施行、2005年の新設合併）
+    url: https://uub.jp/upd/c/223.html
+  n1-sanjo-wikipedia:
+    label: Wikipedia「三条市」（三条は「商人の町」・燕は「職人の町」との呼称、燕三条地場産業振興センター、「燕三条市」構想の不成立）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E5%B8%82
+  n1-shibata-city-ayame:
+    label: 新発田市公式「新発田城の概要」（別名＝浮舟城・菖蒲（あやめ）城・狐の尾引城とその由来）
+    url: https://www.city.shibata.lg.jp/kanko/bunka/shiro/gaiyo/1005184.html
+  n1-shibata-city-castle:
+    label: 新発田市公式「新発田城の変遷」（慶長3年・1598年の築城開始）
+    url: https://www.city.shibata.lg.jp/kanko/bunka/shiro/gaiyo/1005188.html
+  n1-shibata-city-plan:
+    label: 新発田市都市計画マスタープラン（都市の成り立ち。慶長3年に溝口秀勝が入封し城下町を形成、明治まで溝口氏12代・約270年）
+    url: http://www.city.shibata.lg.jp/_res/projects/default_project/_page_/001/002/245/toshikeikakumasterplan_r3kaitei_bunkatsu3.pdf
+  n1-shibata-city-suji:
+    label: 新発田市「数字で見る新発田市」（昭和22年の市制施行、昭和30〜34年の合併、平成15年に豊浦町・平成17年に紫雲寺町・加治川村と合併、三階櫓・辰巳櫓の復元）
+    url: http://www.city.shibata.lg.jp/_res/projects/default_project/_page_/001/017/231/r03-all.pdf
+  n1-shibata-kanko:
+    label: しばた観光ガイド（新発田市観光協会）「ようこそ新発田へ」（地名の由来＝洲端（すばた）説・荒れ地の開墾説など諸説）
+    url: http://shibata-info.jp/welcome
+  n1-shibata-kotobank-castle:
+    label: コトバンク「新発田城跡」（日本歴史地名大系。新発田氏は加地庄地頭佐々木氏の一族、新発田合戦）
+    url: https://kotobank.jp/word/%E6%96%B0%E7%99%BA%E7%94%B0%E5%9F%8E%E8%B7%A1-3049760
+  n1-tokamachi-city-enkaku:
+    label: 十日町市公式「十日町市の沿革」（平成17年4月1日に5市町村が新設合併、旧十日町市は昭和29年に4町村の合併で誕生）
+    url: https://www.city.tokamachi.lg.jp/soshiki/somubu/kikakuseisakuka/4/gyomu/gi_tokamachi/1450418205999.html
+  n1-tokamachi-city-plan:
+    label: 十日町市中心市街地活性化基本計画（1673年に縮市場が開設され、十日町は小千谷・堀之内とともに「縮の三市場」として繁栄したこと）
+    url: https://www.city.tokamachi.lg.jp/material/files/group/19/000040453.pdf
+  n1-tokamachi-kotobank:
+    label: コトバンク「十日町市」（日本歴史地名大系。十日町の地名は北に四日町が続くことから中世末の六斎市の開設場所にちなむと思われること）
+    url: https://kotobank.jp/word/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82-142969
+  n1-tokamachi-uub:
+    label: 都道府県市区町村「十日町市（新潟県）2005年〜」（実務資料としてE4扱い。旧市の市制は1954年3月31日、2005年の新設合併）
+    url: https://uub.jp/upd/c/228.html
+  n1-tsubame-city-enkaku:
+    label: 燕市公式「沿革」（2006年3月20日の合併と新市名「燕市」の決定、1954年の旧燕市発足、「燕の地名の由来」＝祠と燕の群れの伝説と、津波目とする学説）
+    url: https://www.city.tsubame.niigata.jp/soshiki/somu/1/16/2758.html
+  n1-tsubame-uub:
+    label: 都道府県市区町村「燕市（新潟県）2006年〜」（実務資料としてE4扱い。1954年3月31日の市制、2006年の新設合併）
+    url: https://uub.jp/upd/c/1071.html
+  n1-tsubame-wikipedia:
+    label: Wikipedia「燕市」（金属洋食器の産地、三条は「商人の町」・燕は「職人の町」との補完関係）
+    url: https://ja.wikipedia.org/wiki/%E7%87%95%E5%B8%82
+  u5-agano-bunkatsu:
+    label: 阿賀野市公式資料（水原には1746年に幕府直轄領の代官所が置かれ明治初頭まで周辺の行政の中心だったこと、白鳥の飛来地・瓢湖）
+    url: https://www.city.agano.niigata.jp/material/files/group/19/bunkatsu2.pdf
+  u5-agano-sasakami-uub:
+    label: 市区町村変遷情報「笹神村」（1956年9月30日に笹岡村・神山村が合併して笹神村ができたこと）
+    url: https://uub.jp/upd/c/3205.html
+  u5-agano-uub:
+    label: 市区町村変遷情報「阿賀野市」（2004年4月1日に安田町・水原町・京ヶ瀬村・笹神村が新設合併して発足したこと）
+    url: https://uub.jp/upd/c/235.html
+  u5-agano-wiki:
+    label: Wikipedia「阿賀野市」（市名は阿賀野川の流域にあることに由来するとする説明）
+    url: https://ja.wikipedia.org/wiki/%E9%98%BF%E8%B3%80%E9%87%8E%E5%B8%82
+  u5-gosen-kaso:
+    label: 五泉市「過疎地域持続的発展計画」（『五泉』の名に五つの泉説・五つの川説などの諸説があること、現存する湧水、1954年の市制施行と2006年の村松町との合併、絹織物からニット工業への発展）
+    url: https://www.city.gosen.lg.jp/material/files/group/5/kasokeikaku0503keibihenkou.pdf
+  u5-gosen-meti:
+    label: 経済産業省「基本計画（五泉市）」（旧村松町が村松藩堀家3万石の城下町であったこと、ニット工業の集積）
+    url: https://www.meti.go.jp/policy/sme_chiiki/miraitoushi/kihonkeikaku/2303doui2/honbun/03-42niigatakengosenshihonbun.pdf
+  u5-minamiuonuma-gaiyo:
+    label: 南魚沼市「南魚沼市の概要」（市名は明治時代初期に名付けられた郡名『南魚沼郡』に由来すること、『南』に込めた願い、2004年の発足と2005年の塩沢町編入）
+    url: https://www.city.minamiuonuma.niigata.jp/docs/5936.html
+  u5-minamiuonuma-makino:
+    label: 南魚沼市公式サイト（牧之通り。塩沢は三国街道の宿場町で越後上布・塩沢紬の産地、『北越雪譜』の著者・鈴木牧之は塩沢の織物仲買商の家の出身）
+    url: https://www.city.minamiuonuma.niigata.jp/docs/1053.html
+  u5-minamiuonuma-toshi:
+    label: 南魚沼市 都市計画関連資料（六日町は坂戸城を中心とした城下町で、三国街道と清水街道が合流する要所であったこと）
+    url: https://www.city.minamiuonuma.niigata.jp/fs/1/1/7/4/4/2/_/3279.pdf
+  u5-mitsuke-city:
+    label: 見附市公式サイト（市のあゆみ。16世紀に『みつけ』の文字が確認され戦国時代に見附城があったこと、1954年3月31日の市制施行、県内で最も面積が小さい市で新潟県の重心が市内にあること）
+    url: https://www.city.mitsuke.niigata.jp/soshiki/2/3158.html
+  u5-mitsuke-imi:
+    label: コトバンク「見附」（改訂新版世界大百科事典。一般名詞の見附（見付）は城郭の要所に置かれた見張り所・升形を指す語であること）
+    url: https://kotobank.jp/word/%E8%A6%8B%E9%99%84-638661
+  u5-mitsuke-kotobank:
+    label: コトバンク「見附市」（日本歴史地名大系。見附の名は永正16年4月19日の山吉政久安堵状（上杉家文書）に『見付条』と見えること）
+    url: http://kotobank.jp/word/%E8%A6%8B%E9%99%84%E5%B8%82-138863
+  u5-mitsuke-uub:
+    label: 市区町村変遷情報「見附市」（1954年の市制施行時の編入構成と1956年の今町編入）
+    url: https://uub.jp/upd/c/5773.html
+  u5-myoko-kanko:
+    label: 妙高観光局「妙高山」（山名の由来として名香山の音読み説と須弥山の漢訳説の二説、信仰の山としての歴史）
+    url: https://myokotourism.jp/tourist-spots/%E5%A6%99%E9%AB%98%E5%B1%B1%EF%BC%88%E6%97%A5%E6%9C%AC%E7%99%BE%E5%90%8D%E5%B1%B1%EF%BC%89/
+  u5-myoko-kotobank:
+    label: コトバンク「妙高」（改訂新版世界大百科事典。旧妙高村の中心集落・関山は北国街道の宿場町として発達したこと、新井は妙高市北東部の旧市であること）
+    url: https://kotobank.jp/word/%E5%A6%99%E9%AB%98-139761
+  u5-myoko-pref:
+    label: 新潟県 合併資料（妙高市。2005年4月1日に新井市が妙高高原町・妙高村を編入し同時に『妙高市』へ名称変更したこと、新井市は1954年11月1日に新井町ほか7村の合併で市制施行）
+    url: https://www.pref.niigata.lg.jp/uploaded/attachment/92439.pdf
+  u5-myoko-shizuoka:
+    label: 静岡県公式サイト「越後富士［妙高山］」（山名は古く『越の中山』と呼ばれ『名香山』と表記され、のち須弥山の訳語『妙高』を当てたといわれること、標高2,454m）
+    url: https://www.pref.shizuoka.jp/kankosports/kanko/mtfuji/1040329/1002799/1020100.html
+  u5-tainai-guidebook:
+    label: 胎内市「合併ガイドブック」（2005年9月1日に中条町・黒川村の新設合併で発足したこと、市名は市域の中心を流れる胎内川を新市のシンボルとして名付けられたこと）
+    url: https://www.city.tainai.niigata.jp/archives/gappei/guidebook.pdf
+  u5-tainai-kensetsu:
+    label: 胎内市「新市建設計画」（中条・黒川の名は鎌倉時代の地頭・和田氏の財産分与で中央を『中条』、北側を『北条（黒川）』と呼んだことに由来すること、板額御前の史跡と逸話）
+    url: https://www.city.tainai.niigata.jp/library_documents/shinshikensetsukeikaku_henkouban.pdf
+  u5-tainai-wiki:
+    label: Wikipedia「胎内川」（仁治元年の『つふらの尼譲状』に『堂以乃可八（たいのかハ）』、弘長4年の譲状にも同表記が見えること、藤井尚治『越佐地名考』のアイヌ語起源説と否定的見解の紹介）
+    url: https://ja.wikipedia.org/wiki/%E8%83%8E%E5%86%85%E5%B7%9D
+  u5-uonuma-city:
+    label: 魚沼市公式サイト「結ぶ魚沼」（小出は鎌倉時代初期から魚野川水運の河港として成り、もとは破間川河口の『小出嶋』と呼ばれた船着場で、江戸時代は三国街道の宿場町・縮布の市場として栄えたこと）
+    url: https://www.city.uonuma.lg.jp/site/musubi-uonuma/107557.html
+  u5-uonuma-gogen:
+    label: 語源由来辞典「魚沼市」（語源は仮小屋の多い原野を意味する『イホノ（庵野）』と考えられること、魚の川説・沼が多い地とする説の併記）
+    url: https://gogen-yurai.jp/uonuma-shi-niigata
+  u5-uonuma-kotobank:
+    label: コトバンク「魚沼郡」（日本歴史地名大系。『和名抄』は『伊乎乃』と訓を付し四郷を記すこと、『延喜式』の訓、大宝2年に越後国へ編入されたとする『続日本紀』の記載の紹介）
+    url: https://kotobank.jp/word/%E9%AD%9A%E6%B2%BC%E9%83%A1-3046962
+  u5-uonuma-uub:
+    label: 市区町村変遷情報「魚沼市」（2004年11月1日に北魚沼郡の堀之内町・小出町・湯之谷村・広神村・守門村・入広瀬村が新設合併して発足したこと）
+    url: https://uub.jp/upd/c/240.html

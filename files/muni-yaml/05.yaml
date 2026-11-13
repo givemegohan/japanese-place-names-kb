@@ -1,0 +1,1250 @@
+prefecture_code: '05'
+records:
+- id: muni/05-にかほ市
+  code: '052141'
+  names:
+    ja: にかほ市
+    reading: にかほし
+    aliases:
+    - 仁賀保町
+    - 金浦町
+    - 象潟町
+    - 仁賀保郷
+  user_terms:
+  - にかほ
+  - 仁賀保（にかほ）の読み方をした市
+  - 象潟・九十九島のある市
+  - TDKのまち
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県南西端、日本海に面し鳥海山の北西麓に広がる市。2005年（平成17年）10月1日に由利郡の仁賀保町・金浦町・象潟町が新設合併して発足した。市名は3町のうち旧仁賀保町の名「仁賀保（にかほ）」の読みをそのまま平仮名にしたもので、基層は中世の仁賀保郷に遡る。なお本庁舎は旧象潟町役場に置かれており、市名の由来地（仁賀保）と行政の中心（象潟）は一致していない。「にかほ」という音自体の語源は専門辞典でも解明されていない。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 仁賀保町・金浦町・象潟町合併協定書
+    note: 平仮名市名「にかほ」の初出は合併協定における命名そのもの。基層の「仁賀保」は中世の仁賀保郷に由来すると『日本大百科全書』が述べるが、郷名の初出文書は未確認
+  claims:
+  - text: にかほ市の地方公共団体コードは052141である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年（平成17年）10月1日、由利郡仁賀保町・金浦町・象潟町が新設合併してにかほ市が発足し、新市の事務所は旧象潟町役場（象潟町字浜ノ田1番地）に置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-nikaho-pref
+    - t5-nikaho-city-kyotei
+  - text: 合併協議は、象潟町が新市名や事務所の位置などに難色を示して2003年に協議会を一時離脱し、住民アンケートを経て2004年10月に復帰したことで成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-nikaho-pref
+  - text: 旧仁賀保町は1955年（昭和30年）に平沢町・院内村・小出村が合併して成立し、旧金浦町は1902年（明治35年）の町制施行、旧象潟町は1955年に旧象潟町・上浜村・上郷村の合併による
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-nikaho-pref
+  - text: 『日本大百科全書』は「仁賀保の名は中世の仁賀保郷による」とし、市のデジタルミュージアムも「仁賀保郷と呼ばれ、領地名を名字とした仁賀保氏が治めていた」と説明する一方、『ブリタニカ国際大百科事典小項目事典』は「地名もこの領主（仁賀保氏）に由来する」としており、地名と名字の先後は資料によって説明が分かれる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - t5-nikaho-kotobank
+    - t5-nikaho-museum
+  - text: 元和9年（1623年）10月、由利十二頭の一つ仁賀保氏は1万石の大名（仁賀保藩）として故郷の仁賀保地域に帰ったが、初代藩主・仁賀保挙誠（光誠）が翌1624年2月に死去し、遺領は3人の子に分知されて旗本となり、藩としては短命に終わった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - t5-nikaho-kentei
+  - text: 中世以来、平沢は仁賀保氏の居館のある城下として、象潟は鳥海山の噴火でできた八十八潟・九十九島の景勝地として知られた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t5-nikaho-kotobank
+  column:
+    title: 市名は仁賀保、役所は象潟
+    text: にかほ市の名前は旧仁賀保町から取られたが、市役所本庁舎が置かれたのは旧象潟町である。合併協議では象潟町が市名と庁舎の位置をめぐって一時離脱し、町民アンケートで「単独」が多数を占める局面もあったが、復帰の末に「名称は仁賀保の読み、庁舎は象潟」という折衷で決着した。仁賀保・金浦・象潟の旧3庁舎をそのまま分庁舎として使う方式もその名残である。なお「にかほ」は秋田県内で唯一の平仮名表記の市名でもある。
+    sources:
+    - t5-nikaho-pref
+    - t5-nikaho-city-kyotei
+  relations:
+  - pref/05
+  - muni/05-由利本荘市
+  unknowns:
+  - 「仁賀保（にかほ）」という音の語源（アイヌ語・古代語に求める諸説の当否）は、専門辞典・市公式資料のいずれでも確認できなかった
+  - 新市名に漢字の「仁賀保」でなく平仮名の「にかほ」を採用した公式の理由文は、合併協定書・県資料では確認できなかった
+  - 仁賀保郷の文献上の初出は、今回の調査では特定できなかった
+  updated: '2026-11-13'
+- id: muni/05-仙北市
+  code: 052159
+  names:
+    ja: 仙北市
+    reading: せんぼくし
+    aliases:
+    - 田沢湖町
+    - 角館町
+    - 西木村
+  user_terms:
+  - 仙北市の名前の由来
+  - 仙北市はどうやって決まったか
+  - 田沢湖と角館が合併した市
+  - 秋田の平成の大合併
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 仙北市は平成17年（2005年）9月20日、仙北郡の田沢湖町・角館町・西木村が新設合併して生まれた市。市名の決定は紆余曲折で、「田沢湖」と「角館」を連ねる案は協議会の投票で否決され、住民公募でも最終候補に残らなかった「仙北」が、3町村議会議長連名の提案をきっかけに会長提案として復活し、拍手で決まった。仙北は3町村に共通する郡の名である。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 臨時合併協議会（平成16年6月16日）における新市名称「仙北市」の決定（秋田県「市町村合併資料集・仙北市」）
+    note: 市としての発足は平成17年（2005年）9月20日。名称の決定が発足に先立つ合併新名の典型例。
+  claims:
+  - text: 平成17年（2005年）9月20日、田沢湖町・角館町・西木村の2町1村が新設合併して仙北市が誕生した（秋田県の合併記録）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 合併した3町村はいずれも秋田県仙北郡に属しており（新市設置の告示文は「仙北郡田沢湖町、同郡角館町、同郡西木村を廃し、その区域をもって新しい市を設置する」と記す）、新市名「仙北」は3町村に共通するその郡の名と同じである。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 当初、合併協議会は新市名を公募によらず現町村名を基に協議で決める方針だったが意見が集約できず、3町村長が提案した「田沢湖と角館の名を連ねる」案（連称案）は、平成15年（2003年）11月28日の協議会の投票で賛成16・反対11となり、出席委員の3分の2に達せず否決された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 連称案の否決を受けて住民公募に切り替わり、平成16年（2004年）3月に3町村の中学生以上の住民を対象に募集して応募総数2,315件（有効2,180件）を得た。選定委員会が第1次候補20点、第2次候補10点を選び、協議会の投票で第3次候補は「みちのく市」「角館市」「田沢湖市」「北の都市」に絞られた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 平成16年（2004年）6月16日の臨時合併協議会で、3町村の議会議長が連名で「現町村名を除いて新市の名称を考えたらどうか」と提案し、これを受けて会長が第2次候補に含まれていた「仙北市（せんぼくし）」を提案したところ、全会の拍手をもって新市名に決定した。最終候補に残っていなかった名前が、最後の場面で復活して決まった経緯である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 合併協議には当初、隣接する中仙町も参加していたが、平成15年（2003年）1月に離脱を表明し、最終的に3町村での合併となった（中仙町は大曲市などと合併して大仙市の一部となった）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-akita-gappei-semboku
+  - text: 総務省「地方公共団体コード一覧」では、仙北市のコードは052159とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 敗者復活で決まった市名
+    text: 仙北市の命名劇は、合併新名の決まり方の見本市のようだ。「田沢湖角館」のような連称案は賛成多数でも特別多数（3分の2）に届かず、2,315件の住民公募を経た最終候補4案の中にも「仙北」はなかった。ところが最終局面で議長たちが「合併前の名前は全部外そう」と提案した途端、第2次候補で落選していた「仙北」が会長提案として戻ってきて、拍手で決まった。残ったのは、角館でも田沢湖でもなく、3町村の誰の故郷でもあり誰の独占でもない郡の名前だった。平成の大合併で生まれた市の名の決着としては、静かで公平な落としどころである。
+    sources:
+    - k2-akita-gappei-semboku
+  relations:
+  - pref/05
+  unknowns:
+  - 会長が「仙北市」を提案した際の理由説明（なぜ郡名がふさわしいとされたか）の文言は、秋田県の合併資料の抜粋範囲では確認できていない。
+  - 「仙北」という郡名自体の語源（仙北郡の名の由来）は本バッチの対象外で未調査。
+  updated: '2026-11-13'
+- id: muni/05-北秋田市
+  code: '052132'
+  names:
+    ja: 北秋田市
+    reading: きたあきたし
+    aliases:
+    - 鷹巣町
+    - 合川町
+    - 森吉町
+    - 阿仁町
+  user_terms:
+  - きたあきた
+  - 鷹巣・阿仁のある市
+  - 大館能代空港に近い市
+  - マタギの里・阿仁
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県北部、米代川流域の内陸部にある市。2005年（平成17年）3月22日に北秋田郡の鷹巣町・合川町・森吉町・阿仁町の4町が新設合併して発足した。市名「北秋田」は、4町が属していた郡の名「北秋田郡」をそのまま市名に引き継いだもので、「北」は秋田（旧秋田郡）の北部を指す方角の層である。本庁舎は旧鷹巣町役場に置かれた。なお北秋田郡自体は合併に参加しなかった上小阿仁村の所属郡として今も存続している。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 鷹巣阿仁地域合併協議会（第6回協議会）の確認
+    note: 市名「北秋田市」の決定（2004年6月2日）であり命名の初出。基層の「北秋田郡」は明治11年（1878年）に発足した郡名
+  claims:
+  - text: 北秋田市の地方公共団体コードは052132である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年（平成17年）3月22日、北秋田郡の鷹巣町・合川町・森吉町・阿仁町が新設合併して北秋田市が発足し、本庁舎は旧鷹巣町役場に置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-kitaakita-pref
+    - t5-kitaakita-city
+  - text: 新市の名称は公募と名称選考委員会による選考を経て、平成16年（2004年）6月2日の第6回鷹巣阿仁地域合併協議会で「北秋田市」が確認された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-kitaakita-pref
+  - text: 旧4町は上小阿仁村を含めて「鷹巣阿仁部」と呼ばれ、昭和の合併以前から同一の生活圏を形成し、1971年（昭和46年）には鷹巣阿仁広域市町村圏組合を設立していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-kitaakita-pref
+  - text: 旧4町はいずれも1950年代の合併で成立した町で、鷹巣町は1955年に旧鷹巣町・栄村・坊沢村・七座村・沢口村の合併（翌年に七日市村・綴子村を編入）、合川町は1955年に下小阿仁村・落合村・上大野村・下大野村の合併、森吉町は1956年に米内沢町・前田村の合併、阿仁町は1955年に阿仁合町・大阿仁村の合併による
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-kitaakita-pref
+  - text: 北秋田郡は明治11年（1878年）12月23日、郡区町村編制法の秋田県での施行により、秋田郡のうち鷹巣村など3町120村の区域に発足した郡で、郡役所は鷹巣村（のちの鷹巣町）に置かれたと紹介される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t5-kitaakita-wiki-gun
+  - text: 市名の元になった北秋田郡は現在も上小阿仁村の所属する郡として存続しており、郡と同名の市が並立している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t5-kitaakita-wiki-gun
+  column:
+    title: 郡の名前をそのまま市にした
+    text: 平成の大合併では、どこの町の名も採用しない中立的な新市名が多く生まれた。北秋田市の場合は、4町に共通する上位の地名＝郡名をそのまま市名に転用した。「北秋田郡」という行政区画自体は、合併しなかった上小阿仁村のために今も地図に残っており、「北秋田市」と「北秋田郡上小阿仁村」が隣り合って並ぶ。中心地の鷹巣は、郡役所が置かれた地でもあり、郡名を継ぐ市の中心として歴史的にも自然な位置にある。
+    sources:
+    - t5-kitaakita-pref
+    - t5-kitaakita-wiki-gun
+  relations:
+  - pref/05
+  - muni/05-大館市
+  unknowns:
+  - 新市名の公募件数や「北秋田」が選ばれた具体的な選考理由は、県の合併資料集の協議経過からは確認できなかった
+  - 基層の「秋田」という地名そのものの語源は都道府県レコード側の扱いで、本レコードでは深追いしていない
+  updated: '2026-11-13'
+- id: muni/05-大仙市
+  code: '052124'
+  names:
+    ja: 大仙市
+    reading: だいせんし
+    aliases: []
+  user_terms:
+  - 大仙市の名前の由来
+  - 大曲と仙北を合わせた名前
+  - 大仙市はいつできたのか
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 大仙市は平成17年（2005年）3月22日、大曲市・神岡町・西仙北町・中仙町・協和町・南外村・仙北町・太田町の1市6町1村の新設合併で誕生した合併新名。市名は公募で決められ、応募最多だった「大仙市」が、「大曲市の『大』と仙北郡の『仙』を取った名で平等」という理由とともに、大曲市議会が推した「新大曲市」との調整を経て全会一致で選ばれた。
+  first_attestation:
+    era: 平成15年
+    year_western: 2003
+    document: 大曲仙北合併協議会 第1回臨時協議会（2003年10月10日）の決定
+    note: 「大仙市」という新市名の初出（命名の決定そのもの）。合併協議会の記録に残る。
+  claims:
+  - text: 平成17年（2005年）3月22日、大曲市・神岡町・西仙北町・中仙町・協和町・南外村・仙北町・太田町の1市6町1村が新設合併して大仙市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-daisen-akita
+  - text: 中核となった大曲市は、昭和29年（1954年）5月に大曲町・花館村・内小友村・大川西根村・藤木村・四ツ屋村の合併で市制を施行し、昭和30年（1955年）4月に角間川町を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-daisen-akita
+  - text: 法定の大曲仙北合併協議会は平成15年（2003年）4月1日に設置され、臨時会を含め全28回の協議会が開催された。平成17年（2005年）1月17日に総務大臣の告示が行われている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-daisen-akita
+  - text: 新市の名称については公募を採用することが合併協議会で確認され、平成15年（2003年）7月1日から8月31日の募集に、応募総数2,722件、名称の実数1,487点が寄せられた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-daisen-akita
+  - text: 応募作品は審査会が12作品に絞り込み、さらに市町村長会で「奥羽市」「出羽市」「新大曲市」「大仙市」「姫神市」の5作品が最終候補となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-daisen-akita
+  - text: 平成15年（2003年）10月10日の第1回臨時合併協議会では、「大曲市の『大』と仙北郡の『仙』をとった『大仙市』が平等で良い」「応募数が最多の『大仙市』が良い」などの意見が出され、大曲市議会が全員協議会で全会一致と決めた「新大曲市」を推す大曲市側との調整の末、最終的に全会一致で新市の名称を「大仙市（だいせんし）」とすることが確認された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l1-daisen-akita
+  - text: 総務省「地方公共団体コード一覧」では、大仙市のコードは052124とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 全会一致どうしの衝突――「新大曲市」か「大仙市」か
+    text: 大仙市の命名は、合併協議会の記録に生々しく残っている。公募2,722件から絞られた5候補のうち、大曲市議会は「花火で全国に知られる大曲の名を残すべき」として「新大曲市」を全会一致で決定していた。しかし他の町村からは「対等合併なのに中心の名を冠するのは吸収合併の感がある」との声が上がり、応募数最多でもあった「大仙市」を推す意見が大勢を占める。会議は中断し、市町村長が別室で協議した末、大曲側も大勢を了承して「大仙市」が全会一致で決まった。「大」は大曲、「仙」は仙北郡。一文字ずつ分け合う名前は、対等合併の象徴として選ばれたのである。
+    sources:
+    - l1-daisen-akita
+  relations:
+  - pref/05
+  unknowns:
+  - 公募で「大仙市」を提案した応募者の命名理由文の原文は未確認。
+  - 最終候補に残った他の名称（奥羽市・出羽市・姫神市）の得票や応募状況の詳細は未確認。
+  updated: '2026-11-13'
+- id: muni/05-大館市
+  code: '052043'
+  names:
+    ja: 大館市
+    reading: おおだてし
+    aliases:
+    - 大館村
+    - 大館町
+    - 東大館町
+    - 西大館町
+  user_terms:
+  - おおだて
+  - 秋田犬のふるさと
+  - 忠犬ハチ公の生まれ故郷
+  - 比内地鶏の市
+  - きりたんぽ発祥の地
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県北東部、米代川中流の大館盆地を中心とする市。「大館」の名は中世の豪族の大きな館があったことに由来するとされ、天正19年（1591年）の文書に「大館村」とみえる。戦国期は比内地方を支配した浅利氏の地で、慶長7年（1602年）に佐竹氏が秋田に入封すると大館城は佐竹西家が守る城代の城となり、その城下町として発展した。昭和26年（1951年）4月1日に大館町と釈迦内村の合併で市制し、平成17年（2005年）6月20日に比内町・田代町を編入して現在の市域となった。
+  first_attestation:
+    era: 天正19年
+    year_western: 1591
+    document: 出羽国秋田郡知行目録写（秋田家文書）
+    note: 日本歴史地名大系が「千九拾九石四斗八升五合 大館村」とみえると紹介する。世界大百科事典は同じ記録を豊臣秀吉朱印状写として紹介する
+  claims:
+  - text: 大館市の地方公共団体コードは052043である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』は「大館」の地名の由来を「大規模な館のあったことによるという」と紹介する。「館」は中世の豪族の館（居館）を指すと解されるが、辞典は伝聞の形で記しており断定はされていない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - t5-odate-jtb
+  - text: 天正19年（1591年）の出羽国秋田郡知行目録写（秋田家文書）に「千九拾九石四斗八升五合 大館村」とみえると『日本歴史地名大系』が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-odate-jtb
+  - text: 戦国末期、大館は独鈷（現大館市比内町域）を本拠に比内地方を支配した浅利氏の勢力下にあり、慶長2年（1597年）の浅利頼平領内村数覚書（秋田家文書）には「大たて村 我等屋しき廻」とみえ、当時比内で最大の戸数を持つ村だったと『日本歴史地名大系』が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-odate-jtb
+  - text: 慶長7年（1602年）に佐竹氏が秋田へ転封し、同15年（1610年）に佐竹家臣の小場義成が大館城主として正式に入城した。小場氏はのちに佐竹姓を許され「佐竹西家」と称し、城代として幕末まで大館城を守った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-odate-city-earlymodern
+  - text: 大館は明治10年以降に内町（武家町）側の東大館町と外町（商人町）側の西大館町に分かれていた時期があり、明治22年（1889年）に合併して大館町になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-odate-city-modern
+  - text: 昭和26年（1951年）4月1日、大館町と釈迦内村が合併して大館市が発足した。当時の人口は3万56人で、全国最小の市だったと市公式資料は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-odate-city-modern
+  - text: 平成17年（2005年）6月20日、大館市は比内町・田代町を編入合併し、地名「比内」（比内地鶏の名の由来）を含む市域が現在の形になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-odate-city-modern
+  column:
+    title: 「全国最小の市」として生まれ
+    text: 1951年に大館町と釈迦内村が合併して大館市が誕生したとき、その人口は3万56人だった。市公式の沿革はこれを「人口三万五十六人の全国最小の市」と記録している。当時の市制の人口要件は3万人で、まさに要件ぎりぎりの船出だったことになる。米代川の水運と秋田杉の製材、花岡鉱山の隆盛で県北の中心だった町と、純農村地帯の村の組み合わせが、その小さな市を支えた。
+    sources:
+    - t5-odate-city-modern
+  relations:
+  - pref/05
+  - muni/05-北秋田市
+  unknowns:
+  - 「大規模な館」の主が誰で、いつの館だったのかは特定できていない（浅利氏の館であるという直接の裏付けは確認していない）
+  updated: '2026-11-13'
+- id: muni/05-横手市
+  code: '052035'
+  names:
+    ja: 横手市
+    reading: よこてし
+    aliases:
+    - 横手町
+  user_terms:
+  - 横手の名前の由来
+  - かまくらの町の名前
+  - 横手城のある町
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 1353年の胎内経に「山北平賀横手」と見える古い地名で、1951年に市制、2005年に平鹿郡7町村と合併して現在の市となった。語源には川の氾濫を防ぐ「横土手」の転化説と、横の方面にある集落とする説がある。
+  first_attestation:
+    era: 南北朝時代(文和2年)
+    year_western: 1353
+    document: 箟峯寺十一面観音像胎内経(「山北平賀横手」)
+    note: 日本歴史地名大系が「横手」の初見とする。現在の宮城県遠田郡涌谷町にある箟峯寺の像の胎内に納められた経典で、「平賀」は平鹿郡を指す。
+  claims:
+  - text: 「横手」の地名の初見は、文和2年(1353年)6月17日付の箟峯寺十一面観音像胎内経に記された「山北平賀横手」である(日本歴史地名大系)。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m2-yokote-kotobank
+  - text: 地名の由来には、川の氾濫を防ぐために築いた「横土堤・横土手(よこどて)」が転訛したとする菅江真澄『雪の出羽路』の説と、普通名詞の「横手(横の方面)」から本郷方面に対して横の方向にある集落を意味するとする説があり、定説はない。
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - m2-yokote-wiki
+  - text: 横手城は1550年頃に小野寺氏が築いた朝倉城が前身で、慶長7年(1602年)に佐竹氏が秋田へ入部した後は久保田城の支城となり、城下町として発展した(横手市公式)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-yokote-city-castle
+  - text: 1951年4月1日に横手町が栄村・旭村を編入して市制を施行し、2005年10月1日に旧横手市と平鹿郡の増田町・平鹿町・雄物川町・大森町・十文字町・山内村・大雄村が新設合併して現在の横手市となった(市区町村変遷情報)。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m2-yokote-uub
+  - text: 横手市の地方公共団体コードは052035である(総務省「地方公共団体コード一覧」)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 韮(にら)を植えた城、「韮城」
+    text: 横手城は別名「韮城(にらじょう)」と呼ばれた。城の土壁が崩れないよう、土塁に韮を植えて土止めにしたことが由来と横手市観光協会は伝える。雪国の城に野菜の韮が名を残すという、暮らしに近い逸話である。
+    sources:
+    - m2-yokote-kamakura
+    - m2-yokote-city-castle
+  relations:
+  - pref/05
+  unknowns:
+  - 語源の定説はなく、「横土手」説の原典である菅江真澄『雪の出羽路』平鹿郡編の記述箇所の直接確認は未実施
+  - 『和名類聚抄』の平鹿郡の郷に「横手」にあたる郷名が見えるかは未確認
+  updated: '2026-11-13'
+- id: muni/05-湯沢市
+  code: 052078
+  names:
+    ja: 湯沢市
+    reading: ゆざわし
+    aliases:
+    - 湯沢町
+  user_terms:
+  - 湯沢の名前の由来
+  - 小野小町の里
+  - 秋田の温泉の町
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 戦国時代の文書に年貢納入地として見える地名で、1954年に市制、2005年に雄勝町・稲川町・皆瀬村と合併して現在の市となった。市内には名湯が多いが、「湯沢」という名と温泉を直接結びつける古記録は確認できておらず、語源は未詳として残る。
+  first_attestation:
+    era: 戦国時代(天正18年頃)
+    year_western: 1590
+    document: 「御年貢取り立て等その日記共の写」(色部文書)
+    note: 日本歴史地名大系「湯沢市」の項が示す用例で、最上氏への年貢納入地として「湯沢」が見える。同書は小野寺家系図に、文永10年(1273年)に没した小野寺経道の三男道定が「湯沢三郎」と呼ばれたという記事も紹介する。
+  claims:
+  - text: 天正18年(1590年)頃の「御年貢取り立て等その日記共の写」(色部文書)に、最上氏への年貢納入地として「湯沢」が見える(日本歴史地名大系)。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m2-yuzawa-kotobank
+  - text: 小野寺家系図によれば、文永10年(1273年)に死んだ小野寺経道の三男・道定が「湯沢三郎」と呼ばれたとされ、鎌倉時代末期には湯沢の地に小野寺氏一族が根を下ろしていたとみられる(日本歴史地名大系)。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m2-yuzawa-kotobank
+  - text: 1889年の町村制では湯沢町が単独で町制を施行し、城下町の町場を引き継いだ(秋田県「湯沢市 合併の記録」)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-yuzawa-akita-gappei
+  - text: 1954年3月31日に湯沢町・岩崎町・山田村・三関村・弁天村・幡野村が合併して湯沢市が発足し、1955年3月1日に須川村を編入した(秋田県「湯沢市 合併の記録」、市区町村変遷情報)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-yuzawa-akita-gappei
+    - m2-yuzawa-uub
+  - text: 2005年3月22日に旧湯沢市・雄勝町・稲川町・皆瀬村が合併して現在の湯沢市となった(秋田県「湯沢市 合併の記録」)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-yuzawa-akita-gappei
+  - text: 現在の市域には小安峡温泉・秋の宮温泉郷・泥湯温泉など豊富な温泉がある(秋田県資料による)。ただしこのことが「湯沢」の名の由来であることを示す古記録は、本調査では確認できていない。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - m2-yuzawa-akita-gappei
+  - text: 湯沢市の地方公共団体コードは052078である(総務省「地方公共団体コード一覧」)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 小野小町が生まれた里という伝説
+    text: 湯沢市小野の地は、平安時代の歌人・小野小町の生誕地と伝えられる。小野は小野寺氏発祥の地とされ、小野家と小野小町には親族関係があったとする言い伝えが残る。市は「小町生誕伝説の息づくまち」を掲げ、毎年「小町まつり」が開かれる。伝説ではあるが、市の名を語るうえで欠かせない物語になっている。
+    sources:
+    - m2-yuzawa-akita-gappei
+  relations:
+  - pref/05
+  unknowns:
+  - 「湯沢」の語源を明示した典拠(温泉の「湯」と「沢」の組み合わせとする説明を裏づける古記録)は未確認
+  - 『和名類聚抄』の雄勝郡の郷は雄勝・大津・中村・餘戸の4郷とされ、「湯沢」にあたる郷名は見えない(古代の郷名に由来しない可能性が高いが、原典での直接確認は未実施)
+  updated: '2026-11-13'
+- id: muni/05-潟上市
+  code: '052116'
+  names:
+    ja: 潟上市
+    reading: かたがみし
+    aliases:
+    - 方上
+    - 方上郷
+    - 天王町
+    - 昭和町
+    - 飯田川町
+  user_terms:
+  - かたがみ
+  - 八郎潟の南の市
+  - 湖南3町の合併市
+  - 秋田市のベッドタウン
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県中央部の沿岸にあり、八郎潟（八郎湖）の南岸に位置する市。2005年（平成17年）3月22日に南秋田郡の天王町・昭和町・飯田川町の3町（八郎潟の湖南の3町）が新設合併して発足した。市名「潟上」は新規の造語ではなく、平安時代の史書『日本三代実録』元慶2年（878年）の条に秋田城下の一村として現れ、『和名類聚抄』にも秋田郡の一地域として記された古称「方上（かたがみ）」を復活させたもので、「方」は「潟」を意味すると市公式は説明する。「上」には発展・向上の願いも重ねられた。3町の名称を使わないという合併協定のルールの下で、千年以上前の地名が新市名に選ばれた。
+  first_attestation:
+    era: 元慶2年
+    year_western: 878
+    document: 日本三代実録
+    note: 市公式によれば元慶2年（878年）七月十日条に秋田城下の一村として「方上」が録される。和名類聚抄にも秋田郡の方上郷が見える
+  claims:
+  - text: 潟上市の地方公共団体コードは052116である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年（平成17年）3月22日、南秋田郡の天王町・昭和町・飯田川町が新設合併して潟上市が発足した。3町は八郎潟の湖南に位置することから「湖南3町」と呼ばれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-katagami-pref
+  - text: 新市の名称は、公募を行ったうえで小委員会で候補を絞り込み合併協議会で決定することとされ、旧3町の名称は使用しないことが合併協定で定められていた。平成16年（2004年）3月に「潟上市」が協議会で確認された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-katagami-city-kyotei
+    - t5-katagami-pref
+  - text: 市名「潟上」は『日本三代実録』の記録に由来し、同書の元慶2年（878年）7月10日の条に秋田城下の一村として「方上」が録されていると市公式は説明する。『和名類聚抄』にも秋田郡を構成する一地域として「方上」が記載されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-katagami-city
+  - text: 市公式の説明では、「方上」の「方」は「潟」を意味し、八郎潟に面し、しかも上に位置する3町を含む一帯が「方上」に比定される。新市名では「方」を「潟」に置き換え、「上」にさらなる発展・向上の願いをこめた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-katagami-city
+  - text: 『日本歴史地名大系』は、三代実録の元慶2年条に反乱に蜂起した村々の一つとして挙がる「方上」を大久保（現潟上市昭和大久保）にあて、この方上村が方上郷の起こりとみる。また郷名の読みについては「かたのうへ」と読む説を紹介し、「かたがみ」は現在の通称とする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t5-katagami-jtb
+  - text: 旧3町のうち昭和町と飯田川町は変遷が複雑で、昭和17年（1942年）に大久保町・飯田川町・豊川村が合併して昭和町となった後、昭和25年（1950年）に三つに分離し、昭和31年（1956年）に豊川村を再び合併して昭和町が成立した。天王町は明治22年（1889年）の天王村が昭和26年（1951年）に町制したもの
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-katagami-pref
+  column:
+    title: 千百年前の村の名前が、市になった
+    text: 新市名を決める際、潟上市の合併協定は「3町の名称は使用しない」と定めていた。中立な名前を探した協議会がたどり着いたのは、878年の史書に記された「方上」という村の名だった。反乱の記録に地名として一度だけ現れるような古い名が、八郎潟の「潟」の字を与えられて、21世紀の市名として地図に戻ってきたことになる。しかも現在の市の中心部（昭和大久保）がその「方上」の比定地とされる。本庁舎は旧天王町に置かれたが、市の名前そのものは旧昭和町の地に眠っていた最古の地名だった。
+    sources:
+    - t5-katagami-city
+    - t5-katagami-jtb
+  relations:
+  - pref/05
+  unknowns:
+  - 新市名の公募件数と候補一覧（「潟上」以外の最終候補）は、市の合併記録の公開部分では確認できなかった
+  updated: '2026-11-13'
+- id: muni/05-由利本荘市
+  code: 052108
+  names:
+    ja: 由利本荘市
+    reading: ゆりほんじょうし
+    aliases:
+    - 本荘市
+    - 本荘町
+    - 本城村
+  user_terms:
+  - ゆりほんじょう
+  - 本荘・由利の合併市
+  - 鳥海山のふもとの市
+  - 子吉川の市
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県南西部、日本海に面し鳥海山を南に望む市。2005年（平成17年）3月22日に本荘市と由利郡の7町（矢島町・岩城町・由利町・大内町・東由利町・西目町・鳥海町）が新設合併して発足した、県内でも最大級の合併である。市名は郡名・地域名の「由利」と、中心都市の名「本荘」を連ねた合成で、合併協議会の投票による選定を経て、最終的に全会一致で決まった。「本荘」は近世に本荘城の城下町として整えられた地で、旧本荘市（1954年市制）がその名を継いでいた。合併により由利郡は消滅した。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 本荘由利一市七町合併協議会（第13回協議会）の確認
+    note: 市名「由利本荘市」の決定（2004年1月22日）であり命名の初出。基層の「本荘」「由利」それぞれの初出は本レコードでは未確認
+  claims:
+  - text: 由利本荘市の地方公共団体コードは052108である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年（平成17年）3月22日、本荘市と由利郡の矢島町・岩城町・由利町・大内町・東由利町・西目町・鳥海町の1市7町が新設合併して由利本荘市が発足し、この合併で由利郡は消滅した。新市の事務所は本荘市に置かれ、旧1市7町の庁舎は総合支所とされた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-yurihonjo-pref
+    - t5-yurihonjo-city-kyotei
+  - text: 新市の名称は公募による第1次選定（21名称）を経て協議会委員の投票で絞り込まれ、平成16年（2004年）1月22日の第13回本荘由利一市七町合併協議会で「由利本荘市」が全会一致で確認された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-yurihonjo-city-name
+  - text: 選定過程の投票では、第2次選定（平成15年11月）で「本荘市」が17票で最多、「由利本荘市」は6票の3位だったが、第3次選定（平成16年1月）では「由利本荘市」が32票で最多となり、順位が逆転した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-yurihonjo-city-name
+  - text: 「本荘」の地は、関ヶ原の戦いの後に由利地方が最上氏の所領となり、重臣の本城（ほんじょう）豊前守満茂が入り、慶長18年（1613年）頃に子吉郷本城村（現在の本荘公園を中心とする場所）に城を築いて城下を整えたことに始まり、現在の市中心部の街路の基礎はこの時に整えられたと市公式資料は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-yurihonjo-city-honjo
+  - text: 旧本荘市は明治22年（1889年）の本荘町を継ぎ、昭和29年（1954年）3月に本荘町が子吉村・小友村・石沢村・南内越村・北内越村・松ヶ崎村を編入して市制したもので、本荘由利地域の政治・経済の中心だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-yurihonjo-city-honjo
+  - text: 合併した7町はいずれも由利郡に属しており、市名の前半の「由利」はその郡名・地域名である。後半の「本荘」は中心都市である旧本荘市の名であり、市名は両者の合成である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t5-yurihonjo-pref
+    - t5-yurihonjo-city-name
+  column:
+    title: 投票で逆転した市名
+    text: 由利本荘市の名前は、協議会委員の投票の記録が市公式サイトに今も公開されている珍しい例である。2003年11月の投票では、中心市の名をそのまま使う「本荘市」が17票で1位、「由利本荘市」は6票の3位だった。ところが年明けの投票では「由利本荘市」が32票を集めて首位に躍り出て、最終確認は全会一致だった。1市7町という大きな合併で、「中心の名前」より「地域全体の名前＋中心の名前」が選ばれた転換の過程が、票数まで含めて残されている。
+    sources:
+    - t5-yurihonjo-city-name
+  relations:
+  - pref/05
+  - muni/05-にかほ市
+  unknowns:
+  - 地名「本荘」そのものの語源・初出は確認できなかった。近世の城主は「本城（ほんじょう）」氏で字が異なり、「本城」と「本荘」の関係についても公式資料・専門辞典での裏付けは取れていない
+  - 基層の「由利」の古代における成立（由利郡の設置時期や語源）は、本レコードの調査範囲では確認できなかった
+  updated: '2026-11-13'
+- id: muni/05-男鹿市
+  code: '052060'
+  names:
+    ja: 男鹿市
+    reading: おがし
+    aliases:
+    - 恩荷
+    - 小鹿
+  user_terms:
+  - なまはげの里
+  - 男鹿半島の市
+  - オガ
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 男鹿半島のほぼ全域を占める市で、市名は半島の古名「男鹿（おが）」による。「おが」の名は、蝦夷の人名「恩荷」に由来すると伝えられ、地名としては中世の史料に「小鹿」とも書かれて現れる。現在の男鹿市は1954年に船川港町など1町4村が合体して発足し、2005年に若美町と合体した。なまはげ行事で全国に知られる。
+  first_attestation:
+    era: 文治6年
+    year_western: 1190
+    document: 『吾妻鏡』
+    note: 正月6日条に「小鹿嶋大社」とあるのが地名としての早い用例（『日本歴史地名大系』の紹介による）。『日本書紀』斉明天皇4年（658）条の蝦夷の人名「恩荷」を男鹿にあてる説があるが、これは人名であり地名の初出とはしない
+  claims:
+  - text: 『日本歴史地名大系』は、『日本書紀』斉明天皇4年（658）4月条に現れる蝦夷の人物「恩荷」（齶田蝦夷恩荷）について、「恩荷を男鹿とする説がある」と紹介する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - t6-oga-kotobank
+  - text: 『ブリタニカ国際大百科事典』は、男鹿の地名は蝦夷名の「恩荷（おんが）」に由来すると伝えられる、と解説する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - t6-oga-kotobank
+  - text: 『日本歴史地名大系』によれば、地名「男鹿」の早い用例は『吾妻鏡』文治6年（1190）正月6日条の「小鹿嶋大社」で、当時は「小鹿」とも表記された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-oga-kotobank
+  - text: 現在の男鹿市は1954年3月31日に船川港町・脇本村・五里合村・男鹿中村・戸賀村が合体して発足し、1955年に北浦町・船越町を編入、2005年3月22日に若美町と合体して現在の市域となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-oga-kotobank
+  - text: 男鹿市の総務省地方公共団体コードは052060である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「男鹿のナマハゲ」は1978年（昭和53年）に国の重要無形民俗文化財に指定され、2018年11月29日には「来訪神：仮面・仮装の神々」の一つとしてユネスコの無形文化遺産に登録された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t6-oga-namahage-official
+  - text: 「ナマハゲ」の名は、冬に囲炉裏で長く暖を取ると手足にできる火斑を方言で「ナモミ」と言い、怠け心を戒める「ナモミ剥ぎ」が転じたものだと言われる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - t6-oga-namahage-official
+  - text: 前漢の武帝が5匹のコーモリを従えて男鹿に渡来し、鬼に姿を変えた従者が正月15日に村で乱暴を働いたという伝説が伝わり、鬼が一夜で999段まで石段を積んだところで村人が鶏の鳴き真似をして追い払った、その鬼がナマハゲの起こりだとも言い伝えられる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - t6-oga-jtb-goshado
+  - text: 柳田国男は武帝渡来伝説について、寺の転宗などに伴い解釈が変更された際に生み出された説話で、在来のナマハゲ信仰とは縁の薄い外国文学の応用だと評したことが、全国観光資源台帳に紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - t6-oga-jtb-goshado
+  column:
+    title: 999段で終わった石段
+    text: 男鹿半島の本山の中腹にある赤神神社五社堂へは、999段とされる石段を登る。伝説では、漢の武帝に仕えた5匹の鬼が、村人の願いを受けて一夜で千段の石段を築くことになったが、999段まで積んだところで村人が鶏の鳴き真似をし、夜が明けたと思った鬼は山へ逃げ帰ったという。あと1段のところで未完に終わった石段が、いまも参道として残る。ただし柳田国男は、この物々しい武帝の縁起は後世に作られた説話で、古くからの来訪神信仰とは本来関係が薄いと批判している。伝説の面白さと、その伝説が作られた事情の両方を味わえる話である。
+    sources:
+    - t6-oga-jtb-goshado
+  relations:
+  - pref/05
+  unknowns:
+  - 「オガ」という音自体の語源（蝦夷語起源説など）については、専門辞典で確定した説明を確認できなかった。「恩荷」由来説も「説がある」の域を出ない
+  - 「男鹿」が半島全体を指す呼称として定着した時期・経緯の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/05-秋田市
+  code: 052019
+  names:
+    ja: 秋田市
+    reading: あきたし
+    aliases:
+    - 久保田町
+    - 窪田
+    - 秋田町
+  user_terms:
+  - 秋田市の名前の由来
+  - 秋田市はもと久保田だった
+  - 秋田城と秋田市は場所が違う
+  - 久保田藩が秋田藩になった
+  naming_type: 藩名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 市名は「秋田藩」への藩名改称を介して付けられた。城下町はもともと「窪田（くぼた）」と呼ばれた地に築かれた久保田で、明治4年（1871年）1月13日に久保田藩が秋田藩と改称されると城下町も秋田町となり、明治22年（1889年）に市制施行して秋田市となった。「秋田」自体は天平5年（733年）に秋田城が置かれた高清水岡（現在の秋田市寺内）以来の古い地名で、その原点は城下町（千秋公園周辺）とは市内で数キロずれる。
+  first_attestation:
+    era: 明治4年
+    year_western: 1871
+    document: 秋田市公式年表（秋田郡久保田町が明治4年1月13日に秋田町へ改称）
+    note: 町名としての「秋田」の始まり。地名「秋田」そのものの初出（658年の「齶田」）は pref/05 のレコードに記録
+  claims:
+  - text: 秋田市の公式年表は、秋田郡久保田町が明治4年（1871年）1月13日に「秋田町」へ改称されたことを示している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-akita-nenpyo
+  - text: 秋田市は、明治4年の改称によって久保田から秋田となり県庁所在地となった、と市の広報は述べており、町名の変更は久保田藩から秋田藩への藩名改称と同年の動きである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-akita-koho
+    - a-cap-akita-nenpyo
+  - text: 城下町は、佐竹義宣が国替えで移ってきた当時「窪田（くぼた）」と称した寒村に、慶長9年（1604年）に久保田城を築いて建設された、と市の広報は伝えている。つまり城下町の本来の名は「秋田」ではなく「窪田・久保田」だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-akita-koho
+  - text: 「秋田」の名の起点は、天平5年（733年）に高清水の丘（現在の秋田市寺内）に置かれた出羽柵（のちの秋田城）であり、城下町のあった千秋公園周辺とは市内で数キロ離れている、と市の広報は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-akita-koho
+  - text: 明治22年（1889年）の市制施行当時の秋田市は、人口約2万9000人、面積約6.9平方キロメートルだった、と市の広報は伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-akita-koho
+  - text: その後、秋田市は町村合併を重ねて市域を広げ、平成9年（1997年）4月1日に中核市へ移行した、と市の広報は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-akita-koho
+  column:
+    title: 名前が北から引っ越してきた
+    text: 秋田市の名前の動きは少し変わっています。「秋田」はもともと市の北側・寺内の秋田城の名前でした。城下町は南の窪田（久保田）に別にでき、260年以上「久保田」と呼ばれ続けます。ところが明治4年、藩の名前が「秋田藩」に変わると、町も一夜にして「秋田町」に。古代の城の名前が、藩名という形を経て、近代の市名として城下町に引っ越してきた――秋田市は、名前と町の原点が市の中でずれている代表例です。
+    sources:
+    - a-cap-akita-koho
+    - a-cap-akita-nenpyo
+  relations:
+  - pref/05
+  unknowns:
+  - 藩名改称（久保田藩→秋田藩）の朝命の文書名と、町名変更が藩名改称と連動したことを示す一次文書の確認は未実施
+  - 「窪田」から「久保田」への表記変更がいつ起きたかは未確認
+  updated: '2026-11-13'
+- id: muni/05-美郷町
+  code: 054348
+  names:
+    ja: 美郷町
+    reading: みさとちょう
+    aliases: []
+  user_terms:
+  - 美郷町の名前の由来
+  - 美郷町は合併でできた町
+  - 奥羽町という候補があった町
+  - 美郷町は秋田と島根と宮崎にある
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms:
+  - muni/32-美郷町
+  - muni/45-美郷町
+  summary: 平成16年（2004年）11月1日に千畑町・六郷町・仙南村の新設合併で誕生した新名。公募と合併協議会の選考を経て「奥羽町」と最後まで競い、「奥羽山脈の麓にあって、自然に恵まれ、暮らす人の心もさらに美しい故郷を目指したい」という願いを込めて全会一致で決まった。島根県・宮崎県の美郷町も平成の大合併の新名で「美しい故郷」の願いは共通するが、選定の過程と、願いを託した風景はそれぞれ異なる。
+  first_attestation:
+    era: 平成15年
+    year_western: 2003
+    document: 千畑町・六郷町・仙南村合併協議会における新町名称の決定（第9回合併協議会、2003年10月16日）
+    note: 名称としての初出は合併協議会による決定。自治体としての発足は2004年11月1日
+  claims:
+  - text: 平成16年（2004年）11月1日、仙北郡の千畑町・六郷町・仙南村が新設合併して美郷町が誕生し、「平成の大合併」で秋田県内のトップを切った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-akita-misato-ayumi
+  - text: 新町の名称は公募で募り、応募数を公表しない方針のもとで合併協議会が選考した。第8回合併協議会で31の名称が選ばれ、現町村名を除いて再投票した結果、「美郷町」と「奥羽町」が上位となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-akita-gappei-kiroku
+  - text: 第9回合併協議会において「奥羽山脈の麓にあって、自然に恵まれ、暮らす人の心もさらに美しい故郷を目指したいという願いを込めることのできる『美郷町』がふさわしい」として、話し合いにより全会一致で「美郷町（みさとちょう）」に決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-akita-gappei-kiroku
+  - text: 3町村は古くから産業・行政・交流などの面で密接なつながりがあり、地域への「共通の郷土意識」が培われてきたと町公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-akita-misato-ayumi
+  - text: 【共通する層】島根県・宮崎県の美郷町も平成の大合併で生まれた新名であり、「美しい故郷（ふるさと）でありたい」という願いを名に込めた点は3町に共通する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-shimane-misato-gaiyo
+    - h4-akita-gappei-kiroku
+  - text: 【異なる層】秋田の決定には、公募から投票で絞り込む手続きが記録として残り、「奥羽町」という対抗候補が最後まで残った点に特徴がある。願いを託した風景も、奥羽山脈の麓の仙北平野というこの土地固有のものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-akita-gappei-kiroku
+  column:
+    title: あと一歩で「奥羽町」だった
+    text: 公募で集まった名前は31案まで絞られ、最後に残ったのは「美郷町」と「奥羽町」だった。どちらも奥羽山脈を背にする土地らしい名前だが、協議会が選んだのは、山の名そのものではなく「美しい故郷を目指す」という未来への願いを言葉にした方である。投票の傾きが違えば、秋田県には今も「奥羽町」があったことになる。
+    sources:
+    - h4-akita-gappei-kiroku
+  relations:
+  - pref/05
+  - muni/32-美郷町
+  - muni/45-美郷町
+  unknowns:
+  - 公募で寄せられ第8回合併協議会で選ばれた31案の全容は未確認
+  - 旧3町村（千畑町・六郷町・仙南村）それぞれの地名の由来は本バッチの対象外で未確認
+  updated: '2026-11-13'
+- id: muni/05-能代市
+  code: '052027'
+  names:
+    ja: 能代市
+    reading: のしろし
+    aliases:
+    - 渟代
+    - 野代
+    - 能代港町
+  user_terms:
+  - 木都能代
+  - 東洋一の木都
+  - 能代市の名前の由来
+  naming_type: その他
+  prefecture: 秋田県
+  homonyms: []
+  summary: 米代川河口の港町で、市名は古代の郡名「渟代（ぬしろ）」に遡る。のち「野代（のしろ）」と書かれたが、宝永元年（1704）に大地震を機に「野」の字だけを「能」に改めて「能代」となった。市制は1940年で、2006年に二ツ井町と合体して現在の市域となった。秋田杉の集散地として「木都」と称された。
+  first_attestation:
+    era: 斉明天皇4年
+    year_western: 658
+    document: 『日本書紀』
+    note: 「渟代（ぬしろ）」として現れるのが初見（『日本歴史地名大系』の紹介による）。郡名・地域名としての初出であり、指す範囲は現在の市域と正確には重ならない
+  claims:
+  - text: 『日本歴史地名大系』は、能代の古名「渟代（ぬしろ）」の初見は『日本書紀』斉明天皇4年（658）4月条で、阿倍比羅夫の蝦夷遠征に際して「齶田・渟代、二郡蝦夷、望怖乞降」と記された記事であると紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-noshiro-kotobank
+  - text: 『日本歴史地名大系』によれば、「野代」表記の初見は『続日本紀』宝亀2年（771）6月27日条で、渤海国使一行が「出羽国賊地野代湊」に到着したと記される
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-noshiro-kotobank
+  - text: 元禄7年（1694）と宝永元年（1704）の大地震を機に、「野代は野に代ると読字なる故、度々大変あり」と住民が改名を願い出たが、湊の名が諸国に知れ渡っているとして全面改名は許されず、「野」の字だけを改めて宝永元年より「能代」と諸国へ通達したことが『代邑聞見録』に記される（『日本歴史地名大系』が紹介）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-noshiro-kotobank
+  - text: 国土交通省秋田港湾事務所も、2度の大地震で壊滅的打撃を受けた野代が地名の変更を願い出たものの、「のしろ湊」が全国に知れ渡っていることを理由に藩が許さなかったため、「野代」を「能代」と改めたと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t6-noshiro-mlit-port
+  - text: 「ヌシロ」の語源については、アイヌ語で台地上の草原地を意味する「ヌプシル」の転訛だとする説が郷土資料で伝えられるが、定説は確認できない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - t6-noshiro-local-ainu
+  - text: 古代の渟代・野代が指した地域は正確には特定し難く、米代川下流一帯を指す郡名・地域名であったため、現在の能代市域とは範囲がずれる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-noshiro-kotobank
+    - t6-noshiro-local-ainu
+  - text: 能代市は1940年（昭和15年）に能代港町・榊村・東雲村の合体により市制を施行し、1955年に檜山町・鶴形村・浅内村・常盤村を編入した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-noshiro-kotobank
+  - text: 2006年（平成18年）3月21日に能代市と二ツ井町が新設合併し、現在の能代市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t6-noshiro-pref-gappei
+  - text: 能代は江戸時代から米代川流域の秋田杉の集散地として発展し、製材・木工業のまちとして「木都」と称された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-noshiro-kotobank
+  - text: 能代市の総務省地方公共団体コードは052027である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「野に代る」が怖くて、一字だけ変えた町
+    text: 元禄7年（1694）と宝永元年（1704）、能代は2度の大地震に見舞われた。人々は「野代」という字が「野に代る（野に帰ってしまう）」と読めるせいだと考え、改名を藩に願い出た。ところが藩は、港町「のしろ」の名がすでに諸国に知れ渡っていることを理由に全面改名を認めず、評議の末に「野」の一字だけを「能」に取り替えた。読みは「のしろ」のまま、災いを連想させる字面だけを消したわけである。音を変えず字だけを変える改名は全国にも例が少なく、地名の「音」と「字」が別々に扱われた好例である。
+    sources:
+    - t6-noshiro-kotobank
+    - t6-noshiro-mlit-port
+  relations:
+  - pref/05
+  unknowns:
+  - 「ヌシロ」の語源はアイヌ語「ヌプシル」説が郷土資料に見えるのみで、専門辞典による確定した説明は確認できなかった
+  - 「野代」表記がいつ頃から一般化したか（渟代から野代への移行時期）は未確認
+  updated: '2026-11-13'
+- id: muni/05-鹿角市
+  code: 052094
+  names:
+    ja: 鹿角市
+    reading: かづのし
+    aliases:
+    - 上津野
+  user_terms:
+  - 世界遺産のまち鹿角
+  - 花輪のまち
+  - 鹿角市の名前の由来
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県北東端の盆地の市で、市名は旧郡名「鹿角（かづの）」による。古くは「上津野」と書かれ、『三代実録』に記録上の初見がある。「鹿角」の字は、米代川と小坂川が合流する形が鹿の角に似ることからきたといわれる。古代末に陸奥国の郡として成立し、近世まで盛岡藩領だった異色の地域で、1972年に花輪町など4町村が合体して鹿角市となった。
+  first_attestation:
+    era: 元慶2年
+    year_western: 878
+    document: 『日本三代実録』
+    note: 7月10日条に、元慶の乱の賊地の一つとして「上津野（かづの）」が挙げられるのが記録上の初見（『日本歴史地名大系』の紹介による）。「鹿角」の文字が用いられ始めた時期は不明とされる
+  claims:
+  - text: 『日本歴史地名大系』は、鹿角地方の記録上の初見は『三代実録』元慶2年（878）7月10日条で、元慶の乱の賊地の一つとして「上津野」が挙げられた記事であると紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-kazuno-kotobank
+  - text: 『日本歴史地名大系』は、「鹿角」の文字を用いた時期は不明であるとしたうえで、米代川とその支流小坂川が南北から流れて盆地北部で交わり、その形が鹿の角に似ていることからきたといわれる、と解説する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - t6-kazuno-kotobank
+  - text: 鹿角郡は文保2年（1318）の鎌倉幕府下知状（安保文書）に「陸奥国鹿角郡内柴内村」と見え、おそらく平安末期に新郡の形成される過程で成立したものであろうと『日本歴史地名大系』は述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-kazuno-kotobank
+  - text: 岩手県の文化情報大事典は、奥州藤原氏の時代に閉伊・久慈・糠部といった新たな郡が設けられるなか、出羽国北部は陸奥国の管轄となり、鹿角郡と比内郡が置かれたと説明する。すなわち鹿角郡は糠部郡から分かれたのではなく、糠部などと並んで北方に新設された郡の一つである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t6-kazuno-iwate-bunka
+  - text: 『新編弘前市史』は、鹿角・比内は地形からみれば出羽に属してしかるべき地域だが、平定が海路ではなく南からの陸上交通路沿いに推進されたため、陸奥国に属するという不自然な国郡境ができあがったと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - t6-kazuno-hirosaki-shishi
+  - text: 鹿角市・鹿角郡域は古代から近世を通じ、秋田県内でただ一ヵ所、陸奥国に含まれた地域で、近世は盛岡藩に属し、明治4年（1871）に秋田県へ編入された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-kazuno-kotobank
+    - t6-kazuno-city-keikaku
+  - text: 鹿角市は1972年（昭和47年）に花輪町・十和田町・尾去沢町・八幡平村の4町村が合体して成立し、市名に旧郡名「鹿角」を採った。合併から外れた小坂町が現在の鹿角郡として残る
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - t6-kazuno-kotobank
+  - text: 鹿角市の総務省地方公共団体コードは052094である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 出羽の盆地なのに、明治まで「陸奥」だった
+    text: 鹿角盆地は米代川の最上流にあり、水も道も秋田側へ流れる。ところが古代末、この地は出羽国ではなく陸奥国の郡として置かれた。平定が日本海側の海路からではなく、奥州藤原氏の本拠側から陸路で北上したためだという。その後も鹿角は盛岡藩領であり続け、秋田県に移ったのは明治4年（1871）のことである。県境の内側にありながら言葉も文化も南部寄りと言われる背景には、この「地形は出羽、国は陸奥」というねじれがある。
+    sources:
+    - t6-kazuno-hirosaki-shishi
+    - t6-kazuno-kotobank
+    - t6-kazuno-city-keikaku
+  relations:
+  - pref/05
+  unknowns:
+  - 「カヅノ」の語源は、川の合流の形が鹿の角に似るという説が専門辞典に伝えられるのみで、語源として確定した説明は確認できなかった（「勝野」の転訛とする説は典拠を確認できず）
+  - 「上津野」の読みと表記の成立過程、および「鹿角」への書き換えの時期は未確認
+  updated: '2026-11-13'
+sources:
+  a-cap-akita-koho:
+    label: 秋田市広報「1市2町の歴史を読む―秋田市」（窪田の寒村から久保田城下町、明治4年に秋田へ改称、市制施行時の人口）
+    url: https://www.city.akita.akita.jp/city/pl/pb/koho/htm/20031010/10-10-2.html
+  a-cap-akita-nenpyo:
+    label: 秋田市「秋田市の概要」（年表：秋田郡久保田町が明治4年1月13日に秋田町へ改称）
+    url: https://www.city.akita.lg.jp/_res/projects/default_project/_page_/001/008/836/nenpyo_h29/nennpouh29-gaiyou.pdf
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  h4-akita-gappei-kiroku:
+    label: 秋田県「市町村合併資料集・美郷町」（千畑町・六郷町・仙南村合併協議会の記録。新町名称の選定経過を含む）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/misato.pdf
+  h4-akita-misato-ayumi:
+    label: 秋田県美郷町「合併までの歩み」（町公式の沿革ページ。3町村の共通の郷土意識と合併の経過）
+    url: https://www.town.misato.akita.jp/archive/contents-540
+  h4-shimane-misato-gaiyo:
+    label: 島根県美郷町「美郷町の概要」（町名の由来・町章。町公式）
+    url: https://gov.town.shimane-misato.lg.jp/about/92
+  k2-akita-gappei-semboku:
+    label: 秋田県「市町村合併資料集・仙北市」（法定合併協議会・総務省市町村合併支援本部の記録。連称案の否決、住民公募、仙北市名の決定過程、2005年9月20日の発足）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/senboku.pdf
+  l1-daisen-akita:
+    label: 秋田県「大仙市 合併の記録」（大曲仙北合併協議会の記録。新市名称の公募と決定の経緯、各市町村の沿革）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/daisen.pdf
+  m2-yokote-city-castle:
+    label: 横手市公式「横手公園展望台(横手城)」(1550年頃に小野寺氏が築いた朝倉城が前身)
+    url: https://www.city.yokote.lg.jp/kanko/1004048/1004531.html
+  m2-yokote-kamakura:
+    label: 横手市観光協会「横手公園展望台(横手城)」(別名「韮城」の由来)
+    url: https://www.yokotekamakura.com/watch/yokote-tenbo
+  m2-yokote-kotobank:
+    label: コトバンク 日本歴史地名大系「横手市」(文和2年(1353年)の箟峯寺胎内経の「山北平賀横手」を初見とする)
+    url: https://kotobank.jp/word/%E6%A8%AA%E6%89%8B%E5%B8%82-146055
+  m2-yokote-uub:
+    label: 市区町村変遷情報「横手市(秋田県)2005年〜」(1951年の市制施行と2005年の新設合併の構成)
+    url: https://uub.jp/upd/c/939.html
+  m2-yokote-wiki:
+    label: Wikipedia「横手市」(地名の由来として横土手(よこどて)説と普通名詞「横手」説を紹介)
+    url: https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E5%B8%82
+  m2-yuzawa-akita-gappei:
+    label: 秋田県「湯沢市 合併の記録」(明治〜昭和の町村合併・1954年の市制・2005年の合併の経過と小野小町生誕伝説)
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/yuzawa.pdf
+  m2-yuzawa-kotobank:
+    label: コトバンク 日本歴史地名大系「湯沢市」(天正18年頃の色部文書と小野寺家系図の「湯沢三郎」)
+    url: http://kotobank.jp/word/%E6%B9%AF%E6%B2%A2%E5%B8%82-145069
+  m2-yuzawa-uub:
+    label: 市区町村変遷情報「湯沢市(秋田県)1954〜2005年」(1954年の合併構成)
+    url: https://uub.jp/upd/c/5819.html
+  t5-katagami-city:
+    label: 潟上市公式「市の概要・市名の由来」（市名「潟上」は『日本三代実録』元慶2年（878年）の条に秋田城下の一村として録された「方上」に由来し、「方」は「潟」を意味する、と市公式が説明するページ）
+    url: https://www.city.katagami.lg.jp/gyosei/gyoseijoho/shinogaiyo/index.html
+  t5-katagami-city-kyotei:
+    label: 潟上市公式「合併協定項目」（新市の名称は公募を行ったうえで小委員会で候補を絞り込み協議会で決定し、3町の名称は使用しないと定めた協定内容）
+    url: https://www.city.katagami.lg.jp/soshiki/somu/kikakuseisaku/kikakuseisaku/gappei/3455.html
+  t5-katagami-jtb:
+    label: 平凡社『日本歴史地名大系』「方上郷」（コトバンク収録、三代実録元慶2年七月十日条の「方上」は大久保（現潟上市昭和大久保）にあてられ、郷名の読みは「かたのうへ」系で「かたがみ」は現在の通称とする解説）
+    url: https://kotobank.jp/word/%E6%96%B9%E4%B8%8A%E9%83%B7-3025910
+  t5-katagami-pref:
+    label: 秋田県「市町村合併資料集・潟上市」（県公式。平成17年3月22日に天王町・昭和町・飯田川町が新設合併した経過と旧3町の変遷）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/katagami.pdf
+  t5-kitaakita-city:
+    label: 北秋田市公式「北秋田市が誕生」（本庁舎は旧鷹巣町役場で開庁式を行ったとする市公式の発足記録）
+    url: https://www.city.kitaakita.akita.jp/archive/contents-5287
+  t5-kitaakita-pref:
+    label: 秋田県「市町村合併資料集・北秋田市」（県公式。2005年3月22日に鷹巣町・合川町・森吉町・阿仁町が新設合併、新市名は公募と選考を経て2004年6月2日の第6回協議会で確認された経過）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/kitaakita.pdf
+  t5-kitaakita-wiki-gun:
+    label: Wikipedia「北秋田郡」（明治11年（1878年）に秋田郡のうち鷹巣村など3町120村の区域に北秋田郡が発足し郡役所が鷹巣村に置かれたこと、現在は上小阿仁村のみが属することの紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%8C%97%E7%A7%8B%E7%94%B0%E9%83%A1
+  t5-nikaho-city-kyotei:
+    label: にかほ市公式「にかほ市合併協定書に基づく進捗状況」（新市の名称は「にかほ市」、事務所は旧象潟町役場の位置とする合併協定の確認ページ）
+    url: https://www.city.nikaho.akita.jp/soshikikarasagasu/sogoseisakuka/gyomuannai/1/2/900.html
+  t5-nikaho-kentei:
+    label: 秋田ふるさと検定「仁賀保領」（元和9年（1623年）に仁賀保氏が1万石の大名として故郷に帰り、翌年の藩主死去で遺領が3子に分知され旗本となった経緯）
+    url: https://sotsuken.core-akita.ac.jp/furusato/search/1_history/032_nikahoryou.html
+  t5-nikaho-kotobank:
+    label: コトバンク「仁賀保」（『日本大百科全書』は「仁賀保の名は中世の仁賀保郷による」とし、『ブリタニカ国際大百科事典小項目事典』は「地名もこの領主（仁賀保氏）に由来する」とする、両説を併載）
+    url: https://kotobank.jp/word/%E4%BB%81%E8%B3%80%E4%BF%9D-109151
+  t5-nikaho-museum:
+    label: にかほ市デジタルミュージアム「にかほのキセキ：仁賀保家」（市立デジタル博物館。中世から近世にかけてこの地は仁賀保郷と呼ばれ、領地名を名字とした仁賀保氏が治めていたとする解説）
+    url: https://adeac.jp/nikaho-city/top/kiseki/nikahoke.html
+  t5-nikaho-pref:
+    label: 秋田県「市町村合併資料集・にかほ市」（県公式。2005年10月1日に仁賀保町・金浦町・象潟町が新設合併してにかほ市が誕生、象潟町の協議会離脱と復帰の経過）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/nikaho.pdf
+  t5-odate-city-earlymodern:
+    label: 大館市公式 大館郷土博物館「近世の大館」（慶長15年（1610年）に小場義成が大館城主として入城し、のち佐竹姓を許され佐竹西家として幕末まで守ったこと、戊辰戦争で城と町が焼けたことを紹介）
+    url: https://www.city.odate.lg.jp/museum/virtual/2f/early_modern_period
+  t5-odate-city-modern:
+    label: 大館市公式 大館郷土博物館「近代の大館」（昭和26年（1951年）4月1日に大館町と釈迦内村が合併し人口3万56人の全国最小の市として大館市が誕生したこと、平成17年（2005年）6月20日に比内町・田代町を編入したことを紹介）
+    url: https://www.city.odate.lg.jp/museum/virtual/2f/modern
+  t5-odate-jtb:
+    label: 角川学芸出版『日本歴史地名大系』「大館町」（コトバンク収録、地名の由来は大規模な館のあったことによること、天正19年の知行目録写に「大館村」とみえることを紹介）
+    url: https://kotobank.jp/word/%E5%A4%A7%E9%A4%A8%E7%94%BA-3027184
+  t5-yurihonjo-city-honjo:
+    label: 由利本荘市公式 合併協議資料「旧市町の沿革・本荘市」（慶長18年（1613年）頃に最上氏重臣の本城満茂が子吉郷本城村に城を築いて城下を整えたこと、昭和29年（1954年）に本荘市が誕生したことの紹介）
+    url: https://www.city.yurihonjo.lg.jp/_res/projects/default_project/_page_/001/004/680/1004680_004.pdf
+  t5-yurihonjo-city-kyotei:
+    label: 由利本荘市公式「合併協議事項」（1市7町の新設合併とする方式、新市の事務所を本荘市に置き各旧庁舎を総合支所とすることを確認した協議事項）
+    url: https://www.city.yurihonjo.lg.jp/1001506/1001548/1001562/1004675.html
+  t5-yurihonjo-city-name:
+    label: 由利本荘市公式「新市名称の決定」（公募を経た選定過程と投票結果、第13回協議会（平成16年1月22日）で全会一致で「由利本荘市」に決定した経過を市公式が公開するページ）
+    url: https://www.city.yurihonjo.lg.jp/1001506/1001548/1001562/1004673.html
+  t5-yurihonjo-pref:
+    label: 秋田県「市町村合併資料集・由利本荘市」（県公式。平成17年3月22日に本荘市と由利郡7町が新設合併した経過）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/yurihonjyo.pdf
+  t6-kazuno-city-keikaku:
+    label: 鹿角市「鹿角地域文化財保存活用地域計画 第1章」（鹿角地域が明治4年（1871）に秋田県に編入されたこと、近世は盛岡藩に属したこと、昭和47年（1972）に十和田町・花輪町・尾去沢町・八幡平村の4町村が合併した経緯）
+    url: https://www.city.kazuno.lg.jp/material/files/group/23/kazunochiikibunkazaihozonkatuyouchiikikeikaku_Chapter1_JanuaryChange.pdf
+  t6-kazuno-hirosaki-shishi:
+    label: 『新編弘前市史 通史編1（古代・中世）』（弘前市立弘前図書館デジタルアーカイブ。鹿角・比内は地形からみれば出羽に属してしかるべき地域だが、平定が南からの陸上交通路沿いに推進されたため陸奥国に属する不自然な国郡境ができたこと）
+    url: https://adeac.jp/hirosaki-lib/texthtml/d100010/mp000020-100010/ht020080
+  t6-kazuno-iwate-bunka:
+    label: 岩手県「いわての文化情報大事典 奥州藤原氏の時代」（奥州藤原氏の頃に閉伊・久慈・糠部といった新たな郡が設けられ、出羽国北部は陸奥国の管轄となり、鹿角郡と比内郡が置かれたこと）
+    url: http://www.bunka.pref.iwate.jp/archive/bp13
+  t6-kazuno-kotobank:
+    label: コトバンク「鹿角市」（『日本歴史地名大系』の解説：この地方の記録上の初見は『三代実録』元慶2年条の「上津野」、「鹿角」の字の使用時期は不明だが米代川と小坂川の合流の形が鹿の角に似ることからきたといわれること、文保2年の下知状に「陸奥国鹿角郡」とあり平安末期の成立とみられること、鹿角市・郡域は古代から近世を通じ秋田県内で唯一陸奥国に含まれたこと／『ブリタニカ国際大百科事典 小項目事典』の解説：1972年に花輪町・十和田町・尾去沢町・八幡平村が合体して市制）
+    url: http://kotobank.jp/word/%E9%B9%BF%E8%A7%92%E5%B8%82-45340
+  t6-noshiro-kotobank:
+    label: コトバンク「能代市」（『日本歴史地名大系』の解説：古名「渟代」の初見は『日本書紀』斉明天皇4年条、「野代」の初見は『続日本紀』宝亀2年条の野代湊、元禄7年・宝永元年の地震を機に『代邑聞見録』が伝える野代から能代への改字の経緯、古代の渟代・野代は地域を特定し難いこと／『ブリタニカ国際大百科事典 小項目事典』の解説：1940年の市制、1955年の編入、2006年の二ツ井町との合体、秋田杉の集散地としての発展）
+    url: http://kotobank.jp/word/%E8%83%BD%E4%BB%A3%E5%B8%82-112190
+  t6-noshiro-local-ainu:
+    label: 郷土資料ページ「阿倍比羅夫の北征」（『日本書紀』に「渟代」が郡名として現れること、渟代はアイヌ語で台地上の草原地を意味する「ヌップシル（ヌプシル）」からの転語だという説、地震後に「野に代る」と読まれ縁起が悪いとして「能代」に改められたという説明）
+    url: http://www.shirakami.or.jp/~h-2666/noshiro-kodai/abehirafu.htm
+  t6-noshiro-mlit-port:
+    label: 国土交通省東北地方整備局秋田港湾事務所「野代から能代へ」（元禄7年と宝永元年の大地震で壊滅的打撃を受けた野代が地名の変更を願い出たが、湊の名が全国に知れ渡っているとして藩が許さず、「野代」を「能代」と改めた経緯）
+    url: https://www.pa.thr.mlit.go.jp/akita/020/040/020/060/20200101061000.html
+  t6-noshiro-pref-gappei:
+    label: 秋田県「能代市」（県の合併資料。平成18年3月21日に能代市と二ツ井町が新設合併したこと）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/nosiro.pdf
+  t6-oga-jtb-goshado:
+    label: 全国観光資源台帳（公益財団法人日本交通公社）「赤神神社五社堂」（漢の武帝渡来伝説と鬼が999段の石段を積んだ伝説、その鬼がナマハゲの起こりとも言い伝えられること、柳田国男によるこの伝説への批判の紹介）
+    url: https://tabi.jtb.or.jp/res/050057-
+  t6-oga-kotobank:
+    label: コトバンク「男鹿市」（『日本歴史地名大系』の解説：『吾妻鏡』文治6年条に「小鹿嶋大社」とあること、『日本書紀』斉明天皇4年条の蝦夷「恩荷」を男鹿とする説があること／『ブリタニカ国際大百科事典 小項目事典』の解説：地名は蝦夷名の恩荷（おんが）に由来と伝えられること、1954年の合体市制・1955年の編入・2005年の若美町との合体）
+    url: https://kotobank.jp/word/%E7%94%B7%E9%B9%BF%E5%B8%82-39690
+  t6-oga-namahage-official:
+    label: 「重要無形民俗文化財」男鹿のナマハゲ公式サイト（男鹿のナマハゲ行事の解説、1978年の重要無形民俗文化財指定、2018年のユネスコ無形文化遺産登録、「ナモミ剥ぎ」が「ナマハゲ」になったという語源の紹介）
+    url: https://namahage-oga.akita.jp/index.html

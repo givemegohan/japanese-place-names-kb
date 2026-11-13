@@ -1,0 +1,1324 @@
+prefecture_code: '07'
+records:
+- id: muni/07-いわき市
+  code: '072044'
+  names:
+    ja: いわき市
+    reading: いわきし
+    aliases:
+    - 平市
+    - 磐城市
+    - 内郷市
+    - 常磐市
+    - 勿来市
+  user_terms:
+  - いわき市はなぜひらがななのか
+  - いわきの名前の由来
+  - 14市町村が合併した市
+  - 以和為貴と地名の関係
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: いわき市は昭和41年（1966年）10月1日、5市4町5村の14市町村が対等合併して生まれた、当時日本一広い市。市名には古名の「磐城」「石城」「岩城」も候補になったが、「岩城」は秋田県の岩城町が既に使っていたことなどから使われず、読みは古名を継ぎながら表記は新しいひらがなの「いわき」が選ばれた。ひらがな名の理念には聖徳太子の十七条憲法「以和為貴」の音読み「いわき」が託されたとされる。
+  first_attestation:
+    era: 昭和41年
+    year_western: 1966
+    document: 14市町村の合併による「いわき市」の発足（10月1日）
+    note: ひらがな表記の自治体名としての初出。読み「いわき」自体は養老2年（718年）の石城国の設置に遡る古名の継承である。
+  claims:
+  - text: 昭和41年（1966年）10月1日、平市・磐城市・内郷市・常磐市・勿来市の5市に石城郡・双葉郡の4町5村を加えた14市町村が対等合併して「いわき市」が発足した。当時の人口は約33万人で、面積は平成15年（2003年）まで日本一広い市だった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-mlit
+    - k2-iwaki-city-history
+  - text: 新市名については、古くからの名である「磐城」「石城」「岩城」などが候補となったが、「岩城」は既に秋田県由利郡岩城町（現・由利本荘市の一部）が使っていたため使用できない状態であり、ほかの古名も特定の旧市や地域を連想させた。そこで新しい観点から、読みは古名を継ぐひらがなの「いわき市」が選ばれた（いわき市50周年記念誌）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-city-50th
+  - text: ひらがな名の理念として、聖徳太子の十七条憲法「以和為貴（和を以って貴しとなす）」の音読み「いわき」が掲げられ、新市の一体的な将来の発展への願いが託されたと、国土交通省磐城国道事務所の解説と市の記念誌は伝える。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-mlit
+    - k2-iwaki-city-50th
+  - text: 合併協議の過程では、各市から磐城平市（平市案）・小名浜市（磐城市案）・勿来市（勿来市案）・常磐市（常磐市案）・南東北市（内郷市案）・石城市（田人村案）の6案が出されたが最終的にはまとまらず、地域史研究家の小宅幸一氏は「14市町村が対等で合併する際には『石城』も『磐城』も固定の意識が持たれることになったため市名とはなり得ず、新しい観点で考えられたのがひらがな市名の『いわき市』であった」と証言している（地元紙いわき民報が市制60年の特集で紹介）。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k2-iwaki-minpo
+  - text: 「いわき」の読みの起源は古く、白雉4年（653年）に多珂国の北半分を分けて石城評が置かれ、養老2年（718年）には陸奥国などから石城国が置かれたことがそれぞれ『常陸国風土記』『続日本紀』の記載として伝わると、いわき市の歴史資料は紹介する。石城・岩城・磐城はいずれも「いわき」と読まれてきた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-city-history
+  - text: 慶長7年（1602年）に磐城平藩が成立して以降、「磐城」の名は国・郡・藩の名として使われ続け、明治元年（1868年）には陸奥国から分かれて磐城国も置かれた。1966年の合併市が漢字の「磐城」を名乗らなかったのは、由緒のなさではなく、対等合併の事情による。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-iwaki-mlit
+    - k2-iwaki-city-50th
+  - text: 総務省「地方公共団体コード一覧」では、いわき市のコードは072044とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 由緒ある漢字を、あえて選ばなかった市
+    text: いわきには「磐城」「石城」「岩城」という、奈良時代に遡る立派な漢字の候補があった。ところが5つの市を含む14市町村の対等合併では、どの漢字を選んでも、どこかの旧市や郡の「本家」の名になってしまう。「岩城」に至っては秋田県の岩城町が先に使っていた。そこで残った答えが、音だけを古名から受け継ぐひらがなの「いわき」だった。結果として「以和為貴」の音読みと重なる偶然も手に入れ、ひらがなの市は青森県むつ市に次ぐ全国2番目となった。由緒を捨てたのではなく、対等であるために表記を脱いだ名前である。
+    sources:
+    - k2-iwaki-city-50th
+    - k2-iwaki-mlit
+  relations:
+  - pref/07
+  unknowns:
+  - 6つの候補案がどの段階でどう絞られたかの協議会の議事詳細は、地元紙の要約以上には確認できていない。
+  - 「以和為貴」の音読みを市名の理念として正式に公表した主体と時期（合併協議会か新市か）は、資料により表現が異なり確定できていない。
+  updated: '2026-11-13'
+- id: muni/07-二本松市
+  code: 072109
+  names:
+    ja: 二本松市
+    reading: にほんまつし
+    aliases:
+    - 二本松町
+  user_terms:
+  - 霞ヶ城の城下町
+  - 二本松の菊人形
+  - 二本松少年隊のまち
+  - 智恵子抄の高村智恵子の生誕地
+  naming_type: その他（城名・城下町名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 二本松藩丹羽氏の城下町として知られる市。名は城の名に由来し、その城名の由来は「旅人の目印になった二本の松」があったためとする伝承が伝わる。中世末の応永21年（1414年）頃に畠山満泰が築いた城が二本松城と号したことが市公式年表に残り、江戸時代には丹羽光重の入封で城下町が整備された。昭和33年（1958年）に市制を施行し、平成17年（2005年）の合併で現在の市となった。
+  first_attestation:
+    era: 応永21年
+    year_western: 1414
+    document: 二本松市公式「二本松の歴史年表」（畠山満泰が白旗ヶ峯に城を築き二本松城と号したとする記事）
+    note: 城名としての初出を市の年表が伝えるもの。「二本松」の地名そのものの文献上の初出は未確認で、松に由来するという由来譚も伝承の域を出ない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、二本松市の団体コードは072109と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 二本松市公式の歴史年表によれば、応永21年（1414年）頃に畠山満泰が白旗ヶ峯に城を築き、二本松城と号した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-nihonmatsu-city-nenpyo
+  - text: 二本松の地名の由来は、旅人の目印になった二本の松があったことからとする言い伝えがある
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - u1-nihonmatsu-fujimi-hokoku
+  - text: 二本松の名は、近くの古城・四本松（しおのまつ）城から二本の松を移植したことに由来するとする言い伝えもある
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - u1-nihonmatsu-fujimi-hokoku
+  - text: 二本松市公式の歴史年表によれば、寛永20年（1643年）に白河藩主・丹羽光重が二本松へ移封となり、正保3年（1646年）から城内の修改築や城下町割の整備が進められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-nihonmatsu-city-nenpyo
+  - text: 二本松市公式の歴史年表によれば、二本松城の城跡は霞ヶ城とも呼ばれ、昭和30年（1955年）に霞ケ城公園で菊人形展が始まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-nihonmatsu-city-nenpyo
+  - text: 二本松市公式の歴史年表によれば、昭和33年（1958年）に二本松町が市制を施行して二本松市となり、平成17年（2005年）12月1日に安達町・岩代町・東和町と合併して現在の二本松市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-nihonmatsu-city-nenpyo
+  column:
+    title: 二本松と四本松、松がつないだ城の名前
+    text: 二本松の名の由来として伝わるのは、街道を往く旅人の目印になった二本の松の話です。もう一つの言い伝えでは、近くの四本松（しおのまつ）城から二本の松を移植したからだともいいます。松の本数を手がかりに城と城が結びつけられるあたり、いかにも城下町らしい由来譚です。ただし、これらはあくまで言い伝えで、二本の松が実在したかどうかを確かめる史料は見つかっていません。確かなのは、室町時代の1414年頃にはすでに「二本松城」という名が城の名として使われていたことです。
+    sources:
+    - u1-nihonmatsu-fujimi-hokoku
+    - u1-nihonmatsu-city-nenpyo
+  relations:
+  - pref/07
+  unknowns:
+  - 「二本松」という地名の文献上の確実な初出（1414年以前の文書の用例）は確認できていない
+  - 二本の松の伝承の典拠となる藩政期の地誌（『相生集』等）に同様の記述があるかは未確認
+  updated: '2026-11-13'
+- id: muni/07-伊達市
+  code: '072133'
+  names:
+    ja: 伊達市
+    reading: だてし
+    aliases:
+    - 伊達町
+    - 伊達郡
+  user_terms:
+  - 福島の伊達市の名前の由来
+  - 伊達郡とは何か
+  - 伊達市が2つあるのはなぜ
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms:
+  - muni/01-伊達市
+  summary: 平成18年（2006年）1月1日、伊達郡の伊達町・梁川町・保原町・霊山町・月舘町の5町が合併して誕生した市で、市名は5町が所属していた旧伊達郡の郡名を継承した。伊達郡は文治5年（1189年）に伊達朝宗（常陸入道念西）が恩賞として与えられ、この地に移って伊達氏を名乗った土地であり、仙台藩伊達氏の名字の発祥地である。北海道伊達市とは同名だが、こちらは中世以来の地名の継承であり、移住者の姓にちなんだ北海道側とは経路が異なる。それでも両市は、同じ伊達氏の系譜という点で結びついている。
+  first_attestation:
+    era: 文治5年
+    year_western: 1189
+    document: 奥州合戦後の論功行賞による伊達郡の給与
+    note: 日本歴史地名大系ジャーナルが国史大辞典等を引いて紹介する、伊達朝宗が伊達郡を与えられ伊達氏を名乗った画期。郡名「伊達」自体はこれ以前から存在したが、その初出文書の特定は本バッチでは未了
+  claims:
+  - text: 市名は、合併した5町が所属していた旧伊達郡の郡名を継承したものである
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-62
+  - text: 旧陸奥国伊達郡は文治5年（1189年）の奥州合戦の後、戦功をあげた常陸入道念西に恩賞として与えられ、念西はこの地に移って伊達氏を名乗った。これが仙台藩伊達氏の始祖・伊達朝宗であると、日本歴史地名大系ジャーナルは国史大辞典・日本歴史地名大系を引いて紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-62
+  - text: 伊達市公式の子ども向け解説も、伊達朝宗が信夫郡と伊達郡を治めるようになったことが「伊達市」の名前のルーツであると説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-date-fukushima-kids
+  - text: 平成18年（2006年）1月1日、伊達郡に属していた伊達・梁川・保原・霊山・月舘の5町が合併して市制を施行し、伊達市が誕生した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-62
+  - text: （異なる層）北海道伊達市（1972年市制）とは同名だが、福島側は郡名に由来する中世以来の地名の継承であり、明治の移住者の姓にちなんで命名された北海道側とは由来の経路が異なる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-62
+  - text: （名称決定の経緯）新市名については、従来は既存の市と同一・類似の名称を避けるとされていたため公募から「伊達市」は当初除外されたが、「伊達市」の名称を望む住民の声が多かったことや総務省が柔軟な姿勢を示したことなどから、最終的に「伊達市」に決定したと市公式ページは説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-date-fukushima-name
+  - text: （共通する層）北海道伊達市の由来である亘理伊達家は伊達氏の一門であり、その名字の起源はこの伊達郡にあるため、宗家の始祖の地である福島側が同名の使用を打診した相手は、遠縁の分家筋の市であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-62
+  - text: 伊達朝宗が居館を構えたのは、現在の市役所の西方にある「高子岡」の地であるという言い伝えがある
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-62
+  column:
+    title: 一度は候補から外された名前
+    text: 2006年の合併当初、新市名の本命は郡名を継ぐ「伊達市」でした。ところが「既存市と同一の市名は避ける」という長年の指導のため、公募では「伊達市」が除外され、「だて市」「あぶくま市」などの候補が並びます。その間に総務省の姿勢が軟化し、合併協議会は北海道伊達市の意向も確認。最終的には、まず「だて市」を選び、そこから表記を「伊達市」に改める追加議案を可決するという迂回路で、望みどおりの名前が実現しました。日本歴史地名大系ジャーナルはこの経緯を「かなりアクロバティックな手段」と評しています。
+    sources:
+    - h1-jk-chimei-62
+    - h1-date-fukushima-name
+  relations:
+  - pref/07
+  - muni/01-伊達市
+  unknowns:
+  - 伊達郡の名そのものの初出（古代の郡の設置時期や和名類聚抄での確認）は未了
+  - 高子岡の朝宗居館伝承の考古学的な裏づけは未確認
+  - 合併協議会での名称決定の詳細な議事（市公式は協議会だより・議事録への参照を示すが、本バッチでは未読）
+  updated: '2026-11-13'
+- id: muni/07-会津若松市
+  code: 072028
+  names:
+    ja: 会津若松市
+    reading: あいづわかまつし
+    aliases:
+    - 若松市
+    - 若松町
+    - 黒川
+  user_terms:
+  - 若松の名前の由来は蒲生氏郷
+  - 会津若松はなぜ市名を変えたのか
+  - 会津とは何か
+  - 福岡の若松との混同
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 若松の名は、豊臣大名・蒲生氏郷が郷里の近江国蒲生郡にあった若松森にちなんで、もとの地名「黒川」を改めたものと日本歴史地名大系が『会津旧事雑考』を引いて伝える。明治32年（1899年）に福島県初の市として「若松市」が発足したが、昭和30年（1955年）の合併の際に「会津」を冠して会津若松市となった。「会津」の読みは『古事記』の「相津」の説話に遡ると伝える。
+  first_attestation:
+    era: 文禄元年
+    year_western: 1592
+    document: 『会津旧事雑考』文禄元年条（日本歴史地名大系が引用）
+    note: 「若松」の名の初出として地名大系が引く記録で、「江州蒲生郡有若松森、氏郷恋郷為名也」とある。自治体名「会津若松市」としての成立は昭和30年（1955年）。
+  claims:
+  - text: 日本歴史地名大系によれば、「若松」の地名のもととなった地は、蒲生氏郷の移封以前は「黒川」と呼ばれていた。同大系は『会津旧事雑考』文禄元年（1592年）条の「六月朔日黒川築於城郭、改於市井、自茲始曰若松、江州蒲生郡有若松森、氏郷恋郷為名也」という記述を引き、新領主・氏郷の郷里である近江国蒲生郡の若松森にちなんで名付けられたと伝える。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-city
+  - text: 明治32年（1899年）4月1日、若松町が市制を施行して「若松市」となり、福島県内で初めての市となった。昭和30年（1955年）1月1日に北会津郡の7村と合併した際、市名も「若松市」から「会津若松市」に改められた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-aizu-city-gaikyo
+    - k2-aizu-city-shisei1
+  - text: 1955年の改名は、福岡県の若松市（現在の北九州市若松区）との混同を避けるためだったとされ、改名前は郵便物が日平均50通、多い日には100通も誤配されたという。先に市制を敷いた側の市が改名した唯一の例ともいわれる。ただしこの説明はWikipediaが福島県総務部地方課『町村合併の記録』（1958年）を引いて紹介するものとして確認したもので、原典の直接確認は未了である。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - k2-aizu-wakamatsu-wiki
+  - text: 「会津」の名の起源として、日本歴史地名大系は『古事記』崇神天皇段の説話を初見として挙げる。大毘古命が高志道を進み、その子・建沼河別命が東方十二道を進んで、互いに行合ったので、その地を「相津」と呼んだというものである。会津は相津のほか安比豆・藍津とも書かれ、『和名抄』は「阿比豆」の訓を付す。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 郡名としての「会津」の史料上の初見は養老2年（718年）で、陸奥国の白河・石背・会津・安積・信夫の五郡を割いて石背国に昇格させたことが『続日本紀』にみえると日本歴史地名大系は紹介する。石背国は10年足らずで廃され、会津郡は陸奥国に復帰した。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 平成16年（2004年）11月1日に北会津村、平成17年（2005年）11月1日に河東町を編入し、現在の会津若松市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-aizu-city-gaikyo
+  - text: 総務省「地方公共団体コード一覧」では、会津若松市のコードは072028とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 先に名乗った方が、名前を譲った
+    text: 若松市の市制は福島が1899年、福岡が1914年。先に「若松」を名乗ったのは福島の方が15年早い。ところが二つの若松市の間で郵便の誤配が絶えず、1955年に改名したのは先輩の方の福島だった。先に市制を敷いた市が改名した唯一の例ともいわれる。そして皮肉なことに、相手の福岡の若松市は1963年に北九州市へ合併されて消滅した。いま残る「会津若松」の「会津」は、もう存在しない同名の市から身を分けるためにつけた冠である。それでも地元ではすっかり定着し、鶴ヶ城の城下町は現在この長い名前で知られている。
+    sources:
+    - k2-aizu-city-shisei1
+    - k2-aizu-wakamatsu-wiki
+  relations:
+  - pref/07
+  unknowns:
+  - 1955年の改名理由（誤配の実数を含む）は、原典『町村合併の記録』（1958年）の直接確認が未了で、E5として記録している。
+  - 「会津」の語源について、相津＝川の合流する場所とする説明以上の学術的な確定は本バッチでは得られていない。
+  - 蒲生氏郷が若松森にちなんだという記録は『会津旧事雑考』の引用経由であり、当時の一次史料での確認は未了。
+  updated: '2026-11-13'
+- id: muni/07-南相馬市
+  code: '072125'
+  names:
+    ja: 南相馬市
+    reading: みなみそうまし
+    aliases:
+    - 原町市
+    - 鹿島町
+    - 小高町
+  user_terms:
+  - 相馬野馬追のまち
+  - 原町区・鹿島区・小高区のある市
+  - ひばり野市になりかけた市
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 平成18年（2006年）に原町市・鹿島町・小高町が合併して生まれた市で、市名は相馬地方の南部という位置を示す。新市名は合併協議で当初「ひばり野市」に決まったが、「相馬」の名が入っていないことへの住民の声で再選定され、住民意向調査で最多応募だった「南相馬市」に改められた。旧中心地の原町は、野馬追の「原」のそばの宿場町「原ノ町」に由来する名である。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 原町市・鹿島町・小高町合併協議会における新市名の決定（日本都市センターの合併事例資料）
+    note: 市名としての初出は合併時の命名。旧中心地・原町の名は江戸時代の地誌『奥相志』の「原ノ町」に遡る
+  claims:
+  - text: 総務省の全国地方公共団体コードで、南相馬市の団体コードは072125と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 南相馬市は平成18年（2006年）1月1日に原町市・鹿島町・小高町の1市2町が合併して発足した。当初の協議には飯舘村も加わっていたが、合併前に離脱した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-minamisoma-toshi-center
+  - text: 新市名は合併協議で当初「ひばり野市」に決定したが、「相馬」の名が冠されていないことに対して住民から再検討の声が上がり、住民意向調査を行った結果、最多応募数の名称である「南相馬市」に変更された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-minamisoma-toshi-center
+  - text: 中村藩の地誌『奥相志』には、行方郡中郷の南新田村の宿場を「原ノ町」と呼んだと記されており、南相馬市博物館は、原町とは野馬追の舞台だった「原」のそばにある宿場「町」という意味だったと解説する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-minamisoma-city-haramachi
+  - text: 明治22年（1889年）に南新田村などが合併して原町村となった際、宿場町の「原ノ町」は村名「原町」となり、明治30年（1897年）の町制移行時の諮問への答申では「原ノ町」の「ノ」が削除されていたことが市博物館の資料で分かる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-minamisoma-city-haramachi
+  - text: 「原町」の読みは明治期に「はらのまち」と振り仮名が付く資料もあり、現在も「はらのまち」という呼び方が地元で使われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-minamisoma-city-haramachi
+  - text: 相馬地方の北部には相馬市があり、「南相馬」は旧相馬郡域の南部に位置する新市の名として、方角を示す「南」を冠した名である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-soma-morioka-column
+    - u1-minamisoma-toshi-center
+  column:
+    title: 「ひばり野市」になりかけた南相馬市
+    text: 2006年の合併で生まれた新市の名前は、協議の途中でいったん「ひばり野市」と決まっていました。雲雀ヶ原という野馬追の舞台にちなむ名でしたが、住民からは「相馬の名が入っていない」という再検討の声が上がります。合併協議会は住民意向調査をやり直し、最も応募の多かった「南相馬市」に決め直しました。隣の相馬市と対になる「南」の一字は、公募の支持と地域の名へのこだわりが生んだ名前です。
+    sources:
+    - u1-minamisoma-toshi-center
+  relations:
+  - pref/07
+  - muni/07-相馬市
+  unknowns:
+  - 「南相馬市」を選定した公式な理由文そのもの（方角の意味づけを含む）は合併協議会資料の原文では確認できていない
+  - 「原ノ町」の名の江戸時代以前の用例は確認できていない
+  updated: '2026-11-13'
+- id: muni/07-喜多方市
+  code: 072087
+  names:
+    ja: 喜多方市
+    reading: きたかたし
+    aliases:
+    - 北方
+    - 小田付
+    - 喜多方町
+  user_terms:
+  - 喜多方ラーメンのまち
+  - 蔵のまち喜多方
+  - 北方（きたかた）
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 会津地方北部の市で、喜多方ラーメンと蔵の町並みで知られる。地名のもともとは「北方（きたかた）」で、市公式資料は江戸時代に会津藩内の北部にあることから「北方」と呼ばれたことに由来するとする。明治8年（1875年）に5村が合併して町制を施行した際、「喜びの多い町」という意味を込めて「喜多方」と改められた。平成18年（2006年）には旧喜多方市・熱塩加納村・塩川町・山都町・高郷村が合併して現在の市となった。
+  first_attestation:
+    era: 明治8年
+    year_western: 1875
+    document: 5村合併・町制施行時の改称（喜多方駅に掲示される駅名由来の案内）
+    note: 「喜多方」という表記の初出は1875年の改称とされる。それ以前は「北方」と呼ばれ、中世の中心集落は「小田付」と呼ばれていた
+  claims:
+  - text: 総務省の全国地方公共団体コードで、喜多方市の団体コードは072087と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 喜多方市公式の都市計画マスタープランによれば、喜多方の地名は、江戸時代に会津藩内の北部にあることから「北方（きたかた）」と呼ばれたことに由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-kitakata-city-masterplan
+  - text: 地名資料は『角川日本地名大辞典』の記述として、中世の中心集落である小田付村は、天正10年（1582年）に蘆名氏の重臣佐瀬種常が町割を行って小田付と改め、六斎市を開いたと『新編会津風土記』（『新編会津』）が伝えることを紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u1-kitakata-folklore
+  - text: 明治8年（1875年）に周辺5村が合併して町制を施行した際、「北方」は「喜びの多い町」という意味を込めて「喜多方」に改められた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-kitakata-ekimei
+    - u1-kitakata-folklore
+  - text: 江戸時代の北方は、会津若松と米沢を結ぶ街道の要衝で酒造業や味噌・醤油の醸造業、漆工芸が盛んな商工業の町であり、その蔵造りの営みが現在の「蔵のまち」の基盤となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-kitakata-ekimei
+  - text: 喜多方市公式の都市計画マスタープランによれば、平成18年（2006年）1月4日に旧喜多方市・熱塩加納村・塩川町・山都町・高郷村の1市1町3村が合併して現在の喜多方市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-kitakata-city-masterplan
+  column:
+    title: 小田付、北方、喜多方。三つの名前を持つまち
+    text: 喜多方の中心地は、時代ごとに名前を変えてきました。中世には「小田付（おだつき）」。会津若松の北にあることから江戸時代には「北方（きたかた）」と呼ばれ、明治8年（1875年）の合併では当て字のように「喜多方」と改められます。「喜びの多い町」という願いを込めた改名で、読みはそのまま「きたかた」。北の方角を指す言葉に、めでたい漢字をあてた改名は、全国の地名の中でも分かりやすく前向きな例のひとつです。
+    sources:
+    - u1-kitakata-folklore
+    - u1-kitakata-ekimei
+  relations:
+  - pref/07
+  unknowns:
+  - 「北方」の名の文献上の初出（江戸時代のどの文書に現れるか）は確認できていない
+  - 中世の集落名「小田付」の語源は確認できていない
+  updated: '2026-11-13'
+- id: muni/07-昭和村
+  code: '074462'
+  names:
+    ja: 昭和村
+    reading: しょうわむら
+    aliases:
+    - 野尻村
+    - 大芦村
+  user_terms:
+  - 福島の昭和村の由来
+  - 昭和村はなぜ昭和という名前か
+  - 昭和にできた村 昭和村
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms:
+  - muni/10-昭和村
+  summary: 大沼郡の村で、1927（昭和2）年11月23日に野尻村と大芦村の合併で誕生した。昭和の大合併期（1953〜61年）ではなく、改元の翌年に「昭和時代に入って誕生した村」として元号そのものを村名にした、年号あやかり命名の村である。同名の群馬県昭和村は1958年の合併成立で、成立が31年違い、命名の文脈も異なる。
+  first_attestation:
+    era: 昭和2年
+    year_western: 1927
+    document: 昭和村の発足（野尻村・大芦村の合併）
+    note: 元号「昭和」を村名そのものとした命名が初出。大正から昭和への改元（1926年12月）の約1年後に生まれた村である
+  claims:
+  - text: 1927年（昭和2年）11月23日に野尻村と大芦村が合併し、昭和村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-fk-soka
+  - text: 村名は、昭和時代に入って誕生した村であることから、昭和村という名前になったといわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-fk-soka
+  - text: 村の第6次振興計画も、1927（昭和2）年に野尻村と大芦村が合併して誕生し、2017（平成29）年に90周年を迎えた村であると記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-fk-plan
+  - text: 1889年（明治22年）の町村制では、旧野尻組の13か村が大芦村と野尻村の2村に分かれており、昭和村はこの2村の合併で生まれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - h5-showa-fk-kanko
+  - text: 『日本歴史地名大系』は、村域が野尻川の流域に広がり、近世の野尻は沼田街道の宿駅であったこと、からむし織の原料生産が村の生業の核であったことを記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h5-showa-kotobank
+  - text: 異なる層として、同名の群馬県昭和村は昭和33年（1958）11月1日の合併で誕生しており、福島の昭和村とは成立が31年違いである。福島が改元直後に元号へあやかった命名なのに対し、群馬は昭和の大合併期の成立で、同じ「昭和」でも生まれた文脈が異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-gunma-plan
+  - text: 共通する層として、両村とも合併で旧村名を継承せず、元号と同字の新名「昭和」を採った村である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-fk-soka
+    - h5-showa-gunma-plan
+  - text: 総務省の全国地方公共団体コードで、昭和村の団体コードは074462と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「令和なのに、昭和。」1927年生まれの村はもうすぐ100歳
+    text: 村の観光協会のキャッチコピーは「令和なのに、昭和。」です。村名の「昭和」は単なる懐かしさの記号ではなく、この村が1927年、元号が昭和に改まった翌年に、時代の名前そのものを名乗って生まれたことの証しです。2027年には村の誕生から100年を迎えます。一方で村の暮らしは、苧麻（からむし）を育てて織物の原料を出荷する古い生業が核にあり、名前の新しさと生業の古さの対比が、この村の地名の面白さです。
+    sources:
+    - h5-showa-fk-kanko
+    - h5-showa-fk-plan
+    - h5-showa-kotobank
+  relations:
+  - pref/07
+  - muni/10-昭和村
+  unknowns:
+  - 「昭和村」という村名の発案者や、合併当時の村議会・町村合併記録など命名の一次記録の所在は未確認
+  - 姉妹都市・草加市の説明は「いわれています」という伝聞の形であり、村史における命名理由の公式記述の直接確認は未了
+  updated: '2026-11-13'
+- id: muni/07-本宮市
+  code: '072141'
+  names:
+    ja: 本宮市
+    reading: もとみやし
+    aliases:
+    - 本宮町
+    - 本目村
+  user_terms:
+  - 福島県で一番小さい市
+  - 安達太良神社の門前町
+  - あだたら・あぶくまが候補だった市
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通りの市で、2007年に本宮町と白沢村が合併して生まれた。「本宮」の名の層は古く、市公式によれば久安2年（1146年）に安達太良山と大名倉山の神々を遷して安達一郡の総鎮守（安達太良神社）とした際、村名「本目（もとめ）」が「本宮」に改められた。新市名の公募では最終候補に「あだたら」「あぶくま」「北郡山」「宮沢」「本宮」が残り、「本宮」が選ばれた。
+  first_attestation:
+    era: 久安2年
+    year_western: 1146
+    document: 安達太良神社の遷座に伴う村名の改称（本宮市公式観光ページ）
+    note: 村名が本目から本宮に改められた年として市公式が伝えるもの。「本宮」の名の文書上の初出（中世文書の用例）は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、本宮市の団体コードは072141と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 本宮市公式によれば、久安2年（1146年）に安達太良山と大名倉山の神々をこの地に遷し、安達一郡の総鎮守とした際に、「本目は本宮と村名を改めました」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-motomiya-city-adatara
+  - text: 安達太良神社は各地に点在する安達太良神社の総本宮にあたり、その鎮座地であることが「本宮」という地名の由来になったと、『図説 本宮の歴史』を引いて紹介される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u1-motomiya-wiki-adatara
+  - text: 安達太良神社は式内小社・飯豊和気神社の論社で、創建は久安2年（1146年）と伝えられる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u1-motomiya-wiki-adatara
+  - text: 平成19年（2007年）1月1日に本宮町と白沢村が合併（新設合併）して本宮市が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u1-motomiya-uub
+  - text: 新市の名称は市民等からの公募で選ばれ、最終候補には「あだたら」「あぶくま」「北郡山」「宮沢」「本宮」の5点が残って「本宮」が選ばれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u1-motomiya-uub
+  column:
+    title: 最終候補に「北郡山」があった新市名
+    text: 2007年の合併で新市名を公募したとき、最終候補に残ったのは「あだたら」「あぶくま」「北郡山」「宮沢」「本宮」の5つでした。「北郡山」は隣の郡山市の北という位置を示す案で、もし選ばれていれば、本宮の名は住所から消えていたかもしれません。選ばれた「本宮」は、1146年に安達太良神社が総鎮守として祀られたとき、本目（もとめ）から改められたという、850年以上続く名前です。
+    sources:
+    - u1-motomiya-uub
+    - u1-motomiya-city-adatara
+  relations:
+  - pref/07
+  unknowns:
+  - 旧名「本目（もとめ）」の語源は確認できていない
+  - 「本宮」の名の中世文書における用例（文献上の初出）は確認できていない
+  - 新市名選定の公式記録（合併協議会の資料）の原文は確認できておらず、変遷データベースの整理に拠った
+  updated: '2026-11-13'
+- id: muni/07-田村市
+  code: '072117'
+  names:
+    ja: 田村市
+    reading: たむらし
+    aliases:
+    - 滝根町
+    - 大越町
+    - 都路町
+    - 常葉町
+    - 船引町
+  user_terms:
+  - 田村麻呂伝説のまち
+  - あぶくま鍾乳洞のある市
+  - 田村郡から生まれた市
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 平成17年（2005年）に田村郡の滝根町・大越町・都路町・常葉町・船引町が合併して生まれた市で、市名は旧郡名「田村郡」に由来する。その「田村」の層は古く、中世の荘園・田村庄に遡り、田村庄は坂上田村麻呂の功田として9世紀頃に成立したと考えられている。市公式も「『田村』という地名は、坂上田村麻呂の名が由来しているといわれ」と伝承として紹介し、地域には数多くの田村麻呂伝説が残る。
+  first_attestation:
+    era: 平安時代（9世紀頃）
+    year_western: null
+    document: 田村庄（坂上田村麻呂の功田として成立したと伝えられる荘園）
+    note: 「田村」の名の確実な文献初出は未確認。中世の荘園名「田村庄」に遡ると考えられている
+  claims:
+  - text: 総務省の全国地方公共団体コードで、田村市の団体コードは072117と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 田村市公式によれば、平成17年（2005年）3月に滝根町・大越町・都路町・常葉町・船引町の5町が合併して田村市が誕生し、この5町は三春町・小野町とともに田村郡を形成していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-tamura-city-maro
+  - text: 田村の地名は坂上田村麻呂の名に由来するという伝承があり、田村市公式も「『田村』という地名は、坂上田村麻呂の名が由来しているといわれ」と伝える形で紹介している
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - u1-tamura-city-maro
+  - text: 田村庄は坂上田村麻呂の功田として9世紀頃に成立したと考えられており、中世末まで田村地方の大半は田村庄に含まれていた
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - u1-tamura-wiki-chiho
+  - text: 律令制のもとでは田村地方は安積郡に編入されており、田村の名を持つ独立した郡（田村郡）が古代に置かれていたわけではない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u1-tamura-wiki-chiho
+  - text: 田村市公式は、室町時代から戦国時代にかけてこの地を治めた田村庄司一族や田村三代が、坂上田村麻呂の蝦夷平定にあやかって「田村」と名乗った可能性を記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-tamura-city-maro
+  - text: 田村郡は現在も三春町・小野町を擁して存続しており、田村市は郡名を継いだ市として郡と併存している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-tamura-city-maro
+  column:
+    title: 坂上田村麻呂と大多鬼丸、伝説の残る郡の名
+    text: 田村の地には、征夷大将軍・坂上田村麻呂が蝦夷を平定したという伝説が数多く残ります。敵の大将は大多鬼丸（だいだきまる）と呼ばれ、麻呂と鬼丸の戦いは地域の伝承や民話の題材になってきました。市公式の文化財連載も「田村の地名は田村麻呂の名が由来しているといわれ」と、あくまで言い伝えとして丁寧に紹介しています。麻呂本人が本当にこの地を訪れたかどうかは確かめようがありませんが、伝説の層の厚さそのものが、田村という名の古さを物語っています。
+    sources:
+    - u1-tamura-city-maro
+  relations:
+  - pref/07
+  unknowns:
+  - 「田村」の文献上の確実な初出は確認できていない
+  - 田村郡が郡として成立した時期（古代の郡か中世以後の郡か）は今回の資料では確定できなかった
+  - 田村麻呂の誕生伝説の地とされる木賊田村は現在の郡山市田村町にあり、田村市域の外にある（位置のずれ）
+  updated: '2026-11-13'
+- id: muni/07-白河市
+  code: '072052'
+  names:
+    ja: 白河市
+    reading: しらかわし
+    aliases:
+    - 白河町
+  user_terms:
+  - 白河の名前の由来
+  - 白河の関のある町
+  - みちのくの玄関口
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 奈良時代の『続日本紀』に郡名として現れる古い地名で、白河関の所在地として歌枕にもなった。1949年に市制、2005年に3村と合併して現在の市となった。郡名自体の語源を記した資料は確認できていない。
+  first_attestation:
+    era: 奈良時代(養老2年)
+    year_western: 718
+    document: 『続日本紀』(石背国設置の記事)
+    note: 養老2年(718年)5月2日、陸奥国から白河・石背・会津・安積・信夫の5郡を割いて石背国を置いた記事で、日本歴史地名大系はこれを郡名「白河」の初見とする。先行する『国造本紀』には白河国造が見える。
+  claims:
+  - text: 養老2年(718年)5月2日、陸奥国の白河・石背・会津・安積・信夫の5郡を割いて石背国が置かれたことが『続日本紀』に見え、これが郡名「白河」の初見である(日本歴史地名大系)。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m2-shirakawa-kotobank
+  - text: 『国造本紀』には白河国造が見え、律令制以前から「白河」がこの地の支配者の名として使われていたことがうかがえる(日本歴史地名大系)。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m2-shirakawa-kotobank
+  - text: 白河市公式の歴史は、「白河」の地名は奈良時代の文献に確認でき、大化改新以後は陸奥国白河郡が置かれ、下野国との境には白河関が設置されて奥州の関門となったとする。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-shirakawa-city-history
+  - text: 『類聚三代格』に収める承和2年(835年)の太政官符には、白河の関を置いて以来「400余年」とあり、9世紀前半の時点で関の設置ははるか古代にさかのぼると認識されていた。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - m2-shirakawa-weblio-seki
+  - text: 文治5年(1189年)に白河荘が結城朝光に与えられ、以後約400年間、白河結城氏がこの地を治めた(白河市公式)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-shirakawa-city-history
+  - text: 昭和24年(1949年)に白河町と大沼村が合併して市制を施行し、平成17年(2005年)に白河市・表郷村・大信村・東村が合併して現在の白河市となった(白河市公式)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m2-shirakawa-city-history
+  - text: 白河市の地方公共団体コードは072052である(総務省「地方公共団体コード一覧」)。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 歌枕となった関、白河の関
+    text: 白河の関は古代から奥州への関門であり、歌枕として知られた。能因法師は「都をば霞とともに出でしかど秋風ぞ吹く白河の関」と詠み、松尾芭蕉も『おくのほそ道』でこの関を越えるくだりを旅の節目として記した。「白河」という名が全国に知られるようになったのは、道の名所としての歴史が大きい。
+    sources:
+    - m2-shirakawa-weblio-seki
+    - m2-shirakawa-city-history
+  relations:
+  - pref/07
+  - muni/08-結城市
+  unknowns:
+  - 郡名「白河」自体の語源(清流・白い川にちなむ等)を明示した市公式資料・専門辞典の記述は本調査では確認できていない
+  - 白河郡が「白河」と呼ばれるもとになった川の比定については未確認
+  updated: '2026-11-13'
+- id: muni/07-相馬市
+  code: 072095
+  names:
+    ja: 相馬市
+    reading: そうまし
+    aliases:
+    - 中村町
+    - 中村
+  user_terms:
+  - 相馬中村城の城下町
+  - 相馬野馬追の市
+  - 馬陵城（ばりょうじょう）のまち
+  naming_type: その他（郡名の転用）
+  prefecture: 福島県
+  homonyms: []
+  summary: 相馬中村藩の城下町だった市だが、もともとの地名は「中村」で、「相馬」という市名は昭和29年（1954年）の合併市制の際に相馬郡の郡名からとられた。その相馬郡は明治29年（1896年）に宇多郡と行方郡が合併してできた郡名で、両郡が藩主・相馬氏の所領だったために名づけられた。つまり相馬市の「相馬」は、地名から名字が生まれる通常の順序とは逆に、名字（相馬氏）に因んで生まれた地名である。
+  first_attestation:
+    era: 明治29年
+    year_western: 1896
+    document: 相馬郡の設置（宇多郡と行方郡の合併による新郡名）
+    note: 広域地名としての「相馬」の始まりを郡名の成立に置く。市名としては1954年。旧中心地の名は中世以来の「中村」
+  claims:
+  - text: 総務省の全国地方公共団体コードで、相馬市の団体コードは072095と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 相馬市公式の広報特集によれば、相馬は江戸時代に相馬中村藩の城下町として発展し、初代藩主・相馬利胤が小高城から中村城に拠点を移して城下町を整備した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-soma-city-koho
+  - text: 相馬市公式の広報特集によれば、現在の相馬市は昭和29年（1954年）に中村町と周辺7村（大野・飯豊・八幡・山上・玉野・日立木・磯部）が合併して形成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-soma-city-koho
+  - text: 相馬のもともとの地名は「中村」で、「相馬市」という市名は昭和29年の合併の際に相馬郡の郡名からとって名づけられた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-soma-morioka-column
+  - text: 相馬郡は明治29年（1896年）に宇多郡と行方郡が合併してできた郡名であり、両郡が相馬氏の所領であったことから、それ以前から一帯は相馬と呼ばれていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-soma-morioka-column
+  - text: 相馬氏の名字の地は下総国相馬郡（現在の千葉県北西部から茨城県南部）であり、平将門の子孫とされる相馬師常が源頼朝の奥州征討に従った功により陸奥国行方郡に所領を与えられたのが、陸奥相馬氏の始まりとされる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-soma-morioka-column
+  - text: 姓氏研究家の森岡浩は、相馬市の「相馬」は地名が名字を生む通常のパターンとは逆に、名字（相馬氏）に因んで生まれた地名だと指摘する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u1-soma-morioka-column
+  column:
+    title: 名字が地名になった相馬
+    text: 日本の名字の多くは地名から生まれました。ところが相馬は逆です。藩主の名字「相馬」は下総国の相馬郡に由来しますが、陸奥のこの地にもともと相馬という地名はありませんでした。中心地の名は「中村」。ところが両郡が相馬氏の所領だったため一帯は「相馬」と呼ばれるようになり、1896年には郡名になり、1954年の合併ではついに市名になりました。城下町の名（中村）を捨てて殿様の名字を市の名にした相馬市は、「名字→地名」という逆転の好例です。
+    sources:
+    - u1-soma-morioka-column
+    - u1-soma-city-koho
+  relations:
+  - pref/07
+  - muni/07-南相馬市
+  unknowns:
+  - 旧中心地名「中村」の語源と文献上の初出は確認できていない
+  - 相馬氏の名字の地である下総国相馬郡の「相馬」の語源自体は確認できていない
+  updated: '2026-11-13'
+- id: muni/07-福島市
+  code: '072010'
+  names:
+    ja: 福島市
+    reading: ふくしまし
+    aliases:
+    - 福島町
+    - 杉目郷
+  user_terms:
+  - 福島市の名前の由来
+  - 福島市はなぜ市制が遅かった
+  - 福島城と福島市
+  - 吹島の伝説と福島市
+  naming_type: 藩名
+  prefecture: 福島県
+  homonyms: []
+  summary: 市名は福島城とその城下町・福島町の名の継承である。「福島」は文禄2年（1593年）頃に木村吉清が杉目城を福島城と改めたのが始まりとされ、改名の主体には蒲生氏郷とする伝承も併存する。福島町は明治40年（1907年）に全国59番目の市として市制施行した。県庁所在地としては市制施行が遅い方で、城の改名から市になるまで300年以上を「町」として過ごした。
+  first_attestation:
+    era: 文禄2年頃
+    year_western: 1593
+    document: 福島城への改称（『福島県史』『図説福島市史』が伝える）
+    note: 県レコード（pref/07）と共通の起点。年は「頃」付きで、文禄元年（1592年）説も併存する
+  claims:
+  - text: 「福島」の名は文禄2年（1593年）頃、木村吉清によって福島城として使われたのが初めてだといわれている、と福島県は『福島県史』『図説福島市史』を引いて説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+    - a-fuk-city
+  - text: 木村吉清は大森城から杉目城へ居城と城下の機能を移し、杉目城を福島城と改名したと、福島市は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-city
+  - text: 改称年については文禄元年（1592年）とする説もあり、福島市は文禄2年頃を本説としつつ元年説を併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-fuk-city
+  - text: 改名の主体については、蒲生氏郷が本拠の黒川を若松に改めたのにならい、支城の杉目を縁起の良い「福島」に改めたと伝える資料もあり、木村吉清が改めたとする説明と伝承が併存する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - a-fuk-pref
+    - a-fuk-city
+  - text: 福島の中心街一帯はかつて信夫の里の杉目郷と呼ばれ、応永20年（1413年）頃に伊達持宗が杉目城（大仏城）を築いたことが町になる転機となった、と福島県は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+  - text: 福島市は、明治40年（1907年）に全国で59番目の市制を施行し、人口3万人余りの福島市が誕生したと市勢概要で述べている。信夫郡福島町からの市制施行である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-cap-fukushima-city
+  - text: 昔、信夫郡一帯は見渡す限りの湖で真ん中に信夫山があり、吾妻おろしが吹き付けるその島は「吹島（ふくしま）」と呼ばれた、と伝説集『信夫伊達風土記』は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+    - a-cap-shinobu-fudoki
+  - text: やがて湖が干上がって集落が生まれ、「吹」は風が吹き付けることを嫌って「福」に替えられ、「福島」と呼ぶようになった、と『信夫伊達風土記』の伝説は続ける
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-fuk-pref
+    - a-cap-shinobu-fudoki
+  column:
+    title: 県庁所在地なのに「59番目の市」だった福島
+    text: 福島市が市になったのは明治40年（1907年）、全国で59番目です。1889年に市制が始まってからも、県庁所在地でありながら18年間「福島町」のままでした。城の名前が生まれてから数えると314年、町はゆっくり育ちました。「福島」という名前の格（藩の城の名）と、自治体としての格（市）がそろうまでには、意外な時間差があったのです。
+    sources:
+    - a-cap-fukushima-city
+    - a-fuk-city
+  relations:
+  - pref/07
+  unknowns:
+  - 「福島」の名付けの正確な理由（県公式に「詳細な由来は不明」。縁起担ぎ説も伝承の域を出ない）
+  - 県庁所在地でありながら市制施行が1907年まで遅れた理由についての公式説明は未確認
+  - 『信夫伊達風土記』自体の成立・書誌の確定は未確認（県レコードと同じ）
+  updated: '2026-11-13'
+- id: muni/07-郡山市
+  code: '072036'
+  names:
+    ja: 郡山市
+    reading: こおりやまし
+    aliases:
+    - 郡山町
+    - 安積郡衙跡（清水台遺跡）
+  user_terms:
+  - 郡山の名前の由来
+  - 福島の郡山と奈良の大和郡山の関係
+  - 安積郡衙とは何か
+  - 郡の役所があったから郡山か
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 郡山市公式の説明では、律令制の陸奥国安積郡の郡衙（郡の役所）が現在の郡山市清水台に置かれ、その周辺が「郡山」と呼ばれていたことが地名のおこりとされる。一方で、安積郡を与えられた伊東氏が本国の大和国郡山の名を移したという説や、歌に詠まれた「芳山（かほる山）」に由来する古説も『郡山の地名』が紹介として伝え、郡衙説が本命と整理されている。
+  first_attestation:
+    era: 律令期
+    year_western: null
+    document: 陸奥国安積郡衙（郡山市清水台）の設置
+    note: 名前そのものの文書初出ではなく、郡山市公式が地名の由来とする安積郡衙の存在を示すもの。「郡山」の文字の文書初出は未確認。
+  claims:
+  - text: 郡山市公式「地名の由来」によれば、陸奥国安積郡の郡衙は現在の郡山市清水台に設置されたことが遺跡等の調査で分かっており、この安積郡衙があった周辺が「郡山」と呼ばれていた時期があり、それが現在の「郡山」の地名のおこりと思われる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-koriyama-city-yurai
+  - text: 郡山市公式によれば、律令制の国郡制のもとでは現在の郡山市・田村市・田村郡・安達郡を含む一帯が「安積郡」と呼ばれており、その郡の役所（郡衙）の所在地が地名の核となったという説明である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-koriyama-city-yurai
+  - text: 一方、郡山市中央図書館のレファレンスは、『郡山の地名』（郡山市教育委員会、2005年）が紹介する別説として、文治5年（1189年）に安積郡を与えられた伊東氏が、もとの領地である大和国郡山の郷名を取って郡山と号したという説と、陸奥守・橘為仲の歌に詠まれた「かほる山（芳山）」を名の起こりとする古説を挙げ、同書は郡衙による語義を正しいものと整理している。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-koriyama-crd
+  - text: 大正13年（1924年）9月に郡山町が市制を施行して郡山市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-koriyama-shisei
+  - text: 奈良県大和郡山市の「郡山」は柳澤氏の城下町に由来する別個の地名であり、福島の郡山とは市の名称そのものは異なる（「大和」を冠する）。両者に命名上の直接の関係があるかどうかは、伊東氏説を採るかどうかによって変わる。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-koriyama-crd
+  - text: 総務省「地方公共団体コード一覧」では、郡山市のコードは072036とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 奈良の分家か、郡の役所の跡かで変わる二つの郡山
+    text: 福島県郡山市と奈良県大和郡山市。地図の上では無関係に見える二つの「郡山」だが、由来の説次第では親戚になる。文治5年（1189年）、奥州藤原氏を滅ぼした源頼朝から安積郡を与えられた伊東氏が、本国の大和郡山の名を持ち込んだという説が正しければ、福島の郡山は奈良の郡山の分家ということになる。しかし郡山市の公式見解はもっと古く、律令時代の安積郡衙の所在地がそのまま「郡山」と呼ばれるようになったという郡衙説である。説が一つ決まれば、二つの市の関係まで書き換わってしまう。地名の由来は、しばしば都市と都市の系譜の話でもある。
+    sources:
+    - k2-koriyama-city-yurai
+    - k2-koriyama-crd
+  relations:
+  - pref/07
+  unknowns:
+  - 「郡山」の文字が文書に現れる初出（年と文献名）は未確認。
+  - 郡衙説と伊東氏による大和郡山転用説のどちらが正しいかは、現時点の出典では確定できない。
+  updated: '2026-11-13'
+- id: muni/07-金山町
+  code: '074454'
+  names:
+    ja: 金山町
+    reading: かねやままち
+    aliases:
+    - 金山村
+  user_terms:
+  - 金山町の名前の由来
+  - 福島の金山町は金山谷の町
+  - 沼沢湖の大蛇伝説の町
+  - 金山町は山形と福島にある
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms:
+  - muni/06-金山町
+  summary: 昭和30年（1955年）3月31日に川口村・本名村・沼沢村・横田村が合併して金山村となり、昭和33年（1958年）4月1日に町制を施行した。町域の東部は江戸時代に「金山谷」と呼ばれ、この名は中世から見える広域地域名で、現在の金山町・三島町・昭和村などにまたがっていた。1955年の新村名がこの「金山谷」から採られたと明示する資料は見つかっていないが、4村はすべてその範囲に含まれる。宿場町の集落名を受け継いだ山形県金山町とは成り立ちが異なる。
+  first_attestation:
+    era: 天文13年
+    year_western: 1544
+    document: 『異本塔寺長帳』天文13年条（日本歴史地名大系「金山谷」が用例として紹介）
+    note: 広域名「金山谷」の文献上の用例を二次資料経由の紹介で記録したもの。自治体名としての「金山」は1955年の金山村発足が初出
+  claims:
+  - text: 昭和30年（1955年）3月31日、川口村・本名村・沼沢村・横田村の4村が合併して金山村となり、昭和33年（1958年）4月1日に町制を施行して金山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-fukushima-kaneyama-profile
+    - h4-fukushima-youran
+  - text: 町公式は、江戸時代には町域の東部が「金山谷」、西部が「伊北郷」と呼ばれ、尾瀬を含む広大な幕府直轄地である天領「南山御蔵入」の一角だったと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-fukushima-kaneyama-profile
+  - text: 日本歴史地名大系によれば、「金山谷」は中世から見える広域地域名で、現在の大沼郡昭和村・三島町・金山町と旧西山村の地域を指し、『異本塔寺長帳』天文13年（1544年）条に「会津金山谷川口村烏山ニ築城」とあることが紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h4-kotobank-kaneyamadani
+  - text: 文亀元年（1501年）12月27日の蘆名盛高加判売券（山内文書）では、この地域が「神山」と表記されており、日本歴史地名大系は、「金山」の誤記か、古くは「神山谷」と用いてのちに改めたものか、定かでないとする
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - h4-kotobank-kaneyamadani
+  - text: 1955年に合併した4村はすべて「金山谷」の範囲内にあり、新村名「金山」はこの広域名から採られたと考えられる。根拠は4村の位置と金山谷の範囲の一致だが、村名選定の理由を明示した当時の資料は確認できていないため、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - h4-kotobank-kaneyamadani
+    - h4-fukushima-kaneyama-profile
+  - text: 福島県市町村要覧は、町東部の沼沢湖を「県内で唯一ヒメマスが棲息し、大蛇伝説が残る神秘の湖」と紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - h4-fukushima-youran
+  - text: 【異なる層】山形県金山町の「金山」は羽州街道の宿場町として栄えた中心集落の名の継承であるのに対し、福島県金山町の「金山」は中世以来の広域名「金山谷」を背景に持つ点で、成り立ちが異なる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h4-kotobank-kaneyama
+    - h4-kotobank-kaneyamadani
+  column:
+    title: 村の名前より大きな「金山」
+    text: 1955年に合併した4つの村は、どれも「金山」という名を持っていなかった。採用された「金山」は、村々を包むもっと大きな地域の名前、中世から続く「金山谷」の一部である。自分の村の名ではなく谷全体の名を新しい村の名にする点で、この命名は山形の金山町と好対照をなす。あちらは「集落の名が残った町」、こちらは「地域の名をいただいた町」である。
+    sources:
+    - h4-kotobank-kaneyamadani
+    - h4-fukushima-kaneyama-profile
+  relations:
+  - pref/07
+  - muni/06-金山町
+  unknowns:
+  - 1955年の村名選定理由を明示した当時の資料（合併協議の記録・町史）は未確認
+  - 「金山谷」の「金山」の語源（鉱山との関係など）は、専門文献のオンライン抜粋では未確認
+  updated: '2026-11-13'
+- id: muni/07-須賀川市
+  code: 072079
+  names:
+    ja: 須賀川市
+    reading: すかがわし
+    aliases:
+    - 須賀川町
+    - 須賀川宿
+  user_terms:
+  - 牡丹のまち須賀川
+  - 松明あかしの市
+  - 須賀川城の城下町
+  naming_type: その他（古地名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 須賀川城の城下町であり、奥州街道の宿場町・須賀川宿としても栄えた市。地名の初出は1333年（元弘3年・正慶2年）と世界大百科事典が記す。語源は確定しておらず、川洲の堆積した川辺を意味する「スカ（洲処）」に「カハ（川）」が付いたものとする説がある。鎌倉時代から二階堂氏が支配し、天正17年（1589年）に伊達政宗に落城させられた。その戦死者を悼む行事が「松明あかし」の起源とされる。
+  first_attestation:
+    era: 元弘3年・正慶2年
+    year_western: 1333
+    document: 1333年の史料（改訂新版・世界大百科事典が初出の年とする。用例の具体的な文書名は未確認）
+    note: 地元の資料は同年の着到状に「須賀河」とあるとするものがあるが、原典は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、須賀川市の団体コードは072079と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 世界大百科事典（コトバンク）は、須賀川の地は古代の石背国造の地とされ、『延喜式』にみえる陸奥国磐瀬郡にあたり、地名の初出は1333年（元弘3年・正慶2年）であると記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u1-sukagawa-kotobank
+  - text: 語源由来辞典は、須賀川の由来について、川洲の堆積した川辺の意味で「スカ（洲処）カハ（川）」からきたものと考えられるとする説を紹介する
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - u1-sukagawa-gogen
+  - text: 須賀川市公式によれば、須賀川城は鎌倉時代からこの地を支配していた二階堂氏の居城で、天正17年（1589年）に伊達政宗の攻撃で落城し、二階堂氏は滅亡した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-sukagawa-city-taimatsu
+  - text: 世界大百科事典（コトバンク）は、須賀川が近世には仙台・松前道の宿場町（須賀川宿）であったことを記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u1-sukagawa-kotobank
+  - text: 須賀川市公式によれば、江戸時代に落城の戦いで亡くなった人々の御霊を慰めるため、旧暦10月10日に松明を焚いて城跡の五老山に登る行事が行われ、これが「松明あかし」の起源である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u1-sukagawa-city-taimatsu
+  - text: 須賀川市は昭和29年（1954年）に市制を施行し、市の花はボタン（牡丹）である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u1-sukagawa-kotobank
+    - u1-sukagawa-gogen
+  column:
+    title: 落城を悼む火祭り「松明あかし」
+    text: 1589年、伊達政宗の軍が須賀川城を攻め、鎌倉時代から続いた二階堂氏は滅びました。江戸時代になると、この戦いで亡くなった人々を悼み、旧暦10月10日に松明を焚いて城跡の五老山へ登る行事が生まれます。これが現在の「松明あかし」です。牡丹の町として知られる須賀川のもう一つの顔は、400年以上続く鎮魂の火です。城の名が市の名に残り、落城の記憶が祭りとして残る、二重の歴史の町といえます。
+    sources:
+    - u1-sukagawa-city-taimatsu
+  relations:
+  - pref/07
+  unknowns:
+  - 「須賀川」の語源は確定しておらず、スカ（洲処）＋カハとする説も一説にとどまる
+  - 1333年の初出とされる具体的な文書名（着到状と伝える資料がある）は原典を確認できていない
+  - 須賀川城の築城の正確な年代は確認できていない
+  updated: '2026-11-13'
+sources:
+  a-cap-fukushima-city:
+    label: 福島市「市勢概要」（1907年に全国59番目の市制施行、人口3万人余）
+    url: https://www.city.fukushima.fukushima.jp/soshiki/3/1006/1/826.html
+  a-cap-shinobu-fudoki:
+    label: 伝説集『信夫伊達風土記』（吹島伝説。福島県庁の県名由来ページが伝説として引用するもの）
+    url: null
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  h1-date-fukushima-kids:
+    label: 伊達市（福島県）キッズページ「伊達市の歴史」（伊達朝宗が伊達郡を治めたことが市名のルーツ）
+    url: https://www.city.fukushima-date.lg.jp/site/kids/rekishi.html
+  h1-date-fukushima-name:
+    label: 伊達市（福島県）「伊達市の名称」（公式ページ。北海道伊達市との関連と名称決定の経緯）
+    url: https://www.city.fukushima-date.lg.jp/soshiki/5/571.html
+  h1-jk-chimei-62:
+    label: ジャパンナレッジ 日本歴史地名大系ジャーナル「日本列島『地名』をゆく！ 第62回 同一市名あれこれ（2）」（2つの伊達市の由来と名称決定の経緯。国史大辞典・日本歴史地名大系を引く）
+    url: https://japanknowledge.com/articles/blogjournal/interest_chimei/entry.html?entryid=62
+  h4-fukushima-kaneyama-profile:
+    label: 福島県金山町「町のプロフィール」（江戸時代の金山谷・伊北郷、昭和30年の合併と昭和33年の町制施行。町公式）
+    url: https://www.town.kaneyama.fukushima.jp/soshiki/54/profile.html
+  h4-fukushima-youran:
+    label: 福島県市町村要覧2026「金山町」（福島県市町村振興協会。コード074454、沿革、沼沢湖の大蛇伝説）
+    url: https://www.fksm.jp/youran/074454.html
+  h4-kotobank-kaneyama:
+    label: コトバンク「金山町」（日本歴史地名大系の金山三ヵ村・宿場町の解説と、ブリタニカ国際大百科事典小項目事典の「地名は金銀の鉱山が多かったことに由来するといわれる」「西部には谷口銀山の名残り」）
+    url: http://kotobank.jp/word/%E9%87%91%E5%B1%B1%E7%94%BA-45971
+  h4-kotobank-kaneyamadani:
+    label: コトバンク「金山谷」（日本歴史地名大系。中世からの広域地域名、『異本塔寺長帳』天文13年条の用例、文亀元年の「神山」表記への言及）
+    url: http://kotobank.jp/word/%E9%87%91%E5%B1%B1%E8%B0%B7-3031264
+  h5-showa-fk-kanko:
+    label: 昭和村観光協会「令和なのに、昭和。」（明治22年に野尻組の村々が大芦村・野尻村に分かれ、昭和2年11月の合併で昭和村が誕生した経緯）
+    url: https://showakanko.or.jp/pickup/aboutshowavill
+  h5-showa-fk-plan:
+    label: 福島県昭和村「第6次昭和村振興計画」（村公式。1927年に野尻村と大芦村が合併して誕生、2017年に90周年）
+    url: https://www.vill.showa.fukushima.jp/uploads/2021/04/the_6th_general_plan_temp.pdf
+  h5-showa-fk-soka:
+    label: 草加市「姉妹都市福島県昭和村 姉妹都市提携から10周年を迎えました」（昭和村の名前の由来。1927年11月23日に野尻村と大芦村が合併、昭和時代に入って誕生した村であることから昭和村という名前になった）
+    url: http://www.city.soka.saitama.jp/cont/s1410/010/040/032/PAGE000000000000065546.html
+  h5-showa-gunma-plan:
+    label: 群馬県昭和村「昭和村第6次総合計画 基本構想」（村公式。明治22年に森下村・橡久保村・川額村が合併して久呂保村、糸井村・貝野瀬村が合併して糸之瀬村となり、昭和33年11月1日に両村が合併して昭和村が誕生、昭和36年に大字生越を編入。平成の大合併では自主自立を選択）
+    url: https://www.vill.showa.gunma.jp/kurashi/bosyu/publiccomment/files/01/dai6zi_kihonkousou.pdf
+  h5-showa-kotobank:
+    label: コトバンク「昭和村」（『日本歴史地名大系』の解説。福島県・群馬県両村の地理と沿革、福島側のからむし織にも言及）
+    url: https://kotobank.jp/word/%E6%98%AD%E5%92%8C%E6%9D%91-80021
+  k2-aizu-city-gaikyo:
+    label: 会津若松市「市政概況（令和6年度版）」（明治32年の若松市としての市制施行、平成16・17年の編入合併）
+    url: https://www.city.aizuwakamatsu.fukushima.jp/docs/2024073000055/file_contents/shiseigaikyo.pdf
+  k2-aizu-city-shisei1:
+    label: 会津若松市「市政の沿革」（市勢概況第1章資料。昭和30年（1955年）1月1日の合併と会津若松市への改名）
+    url: https://www.city.aizuwakamatsu.fukushima.jp/docs/2022122600027/file_contents/1.pdf
+  k2-aizu-taikei-city:
+    label: コトバンク「会津若松市」（日本歴史地名大系。黒川から若松への改名と『会津旧事雑考』の引用、1955年の会津の冠称）
+    url: https://kotobank.jp/word/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82-23787
+  k2-aizu-taikei-gun:
+    label: コトバンク「会津郡」（日本歴史地名大系。『古事記』の相津の説話、養老2年（718年）の石背国への昇格を『続日本紀』の記載として紹介）
+    url: https://kotobank.jp/word/%E4%BC%9A%E6%B4%A5%E9%83%A1-3029414
+  k2-aizu-wakamatsu-wiki:
+    label: Wikipedia「会津若松市」（1955年の改名理由。福島県総務部地方課『福島県町村合併誌（町村合併の記録）』1958年を引く。原典未読のためE5扱い）
+    url: https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82
+  k2-iwaki-city-50th:
+    label: いわき市「いわき市50周年記念誌」（「磐城」「石城」「岩城」が使われなかった理由と、ひらがな名「いわき」の決定過程）
+    url: https://www.city.iwaki.lg.jp/50syunenkinenshi.pdf
+  k2-iwaki-city-history:
+    label: いわき市「いわき市の歴史等について」（白雉4年（653年）の石城評、養老2年（718年）の石城国設置を『常陸国風土記』『続日本紀』の記載として紹介、1966年の合併）
+    url: https://www.city.iwaki.lg.jp/www/contents/1001000004062/simple/iwaki-history.pdf
+  k2-iwaki-minpo:
+    label: いわき民報「いわき市誕生から60年 幻の市名案、なぜ『いわき』に」（各市から出された6つの市名案と地域史研究家・小宅幸一氏の証言。地元紙としてE4扱い）
+    url: https://iwaki-minpo.co.jp/news/2026/10/314742
+  k2-iwaki-mlit:
+    label: 国土交通省東北地方整備局磐城国道事務所「日本一広い市『いわき』の誕生」（1966年の14市町村合併、「以和為貴」の音読みによる命名の理念、石城・岩城・磐城の変遷）
+    url: https://www.thr.mlit.go.jp/iwaki///hama-lib/shakai/iwaki.html
+  k2-koriyama-city-yurai:
+    label: 郡山市「地名の由来」（安積郡衙が郡山市清水台に置かれ、その周辺が「郡山」と呼ばれたことに地名のおこりを求める市の説明）
+    url: https://www.city.koriyama.lg.jp/soshiki/23/3568.html
+  k2-koriyama-crd:
+    label: レファレンス協同データベース「『郡山』の地名の由来は」（郡山市中央図書館。『郡山の地名』（郡山市教育委員会2005）が紹介する郡衙説・伊東氏説・芳山説の整理）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000285092&page=ref_view
+  k2-koriyama-shisei:
+    label: 郡山市「市勢概況」（大正13年（1924年）9月の市制施行）
+    url: https://www.city.koriyama.lg.jp/uploaded/attachment/113192.pdf
+  m2-shirakawa-city-history:
+    label: 白河市公式「白河市の歴史」(奈良時代の文献に確認できる地名、白河結城氏、1949年の市制と2005年の合併)
+    url: https://www.city.shirakawa.fukushima.jp/page/page001417.html
+  m2-shirakawa-kotobank:
+    label: コトバンク 日本歴史地名大系「白河郡」(続日本紀の養老2年(718年)条を郡名の初見とする)
+    url: https://kotobank.jp/word/%E7%99%BD%E6%B2%B3%E9%83%A1-3029385
+  m2-shirakawa-weblio-seki:
+    label: Weblio「白河神社」(白河関の歴史、類聚三代格の承和2年(835年)の太政官符に「関を置いて以来400余年」)
+    url: https://www.weblio.jp/content/%E7%99%BD%E6%B2%B3%E7%A5%9E%E7%A4%BE
+  u1-kitakata-city-masterplan:
+    label: 喜多方市都市計画マスタープラン（喜多方市公式。「喜多方の地名は、江戸時代、会津藩内の北部にあることから『北方（きたかた）』と呼ばれたことに由来します」と記し、平成18年（2006年）1月4日に旧喜多方市・熱塩加納村・塩川町・山都町・高郷村の合併で誕生したことも記す）
+    url: https://www.city.kitakata.fukushima.jp/uploaded/attachment/2608.pdf
+  u1-kitakata-ekimei:
+    label: 喜多方駅の駅名由来案内の転載ページ（個人サイト。駅掲示の案内文として「明治八年、五つの村を合併して町制を施行した際、『北方』という名は、喜びの多い町という意味の『喜多方』に改められました」と転載し、江戸時代の北方で酒造・味噌醤油醸造や漆工芸が盛んだったことも伝える）
+    url: http://ringono.nengu.jp/data/st849.html
+  u1-kitakata-folklore:
+    label: 地名・名字資料サイト「『喜多方』の地名の由来」（『角川日本地名大辞典』の記述として、中世の中心集落・小田付村は江戸時代からみられた村名で、天正10年に蘆名氏の重臣佐瀬種常が町割を行い小田付と改めて六斎市を開いたと『新編会津風土記』が伝えること、会津若松の北にあるので北方となり喜多方となったことを引く）
+    url: http://folklore2017.com/timei900/146.htm
+  u1-minamisoma-city-haramachi:
+    label: 南相馬市公式「原町？ それとも 原ノ町？ ～原町の由来～」（中村藩の地誌『奥相志』に南新田村の宿場を「原ノ町」と呼んだとあること、原町とは野馬追の「原」のそばにある宿場「町」という意味だったこと、明治30年（1897年）の町制移行時に「原ノ町」から「原町」となったことを市博物館が解説）
+    url: https://www.city.minamisoma.lg.jp/portal/sections/61/6150/61503/study/1/rekishi/machi/24997.html
+  u1-minamisoma-toshi-center:
+    label: 日本都市センター「合併市町村の基礎情報・南相馬市」（合併協議で新市名は当初「ひばり野市」に決まったが「相馬」の名がないことへの住民の再検討の声を受けて住民意向調査を行い、最多応募の「南相馬市」に変更されたこと、2006年1月1日に原町市・鹿島町・小高町の1市2町で発足したことを記す）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/minamisouma060221.pdf
+  u1-motomiya-city-adatara:
+    label: 本宮市公式観光ページ「安達太良神社」（久安2年（1146年）に安達太良山と大名倉山の神々をここに遷し、安達一郡の総鎮守としたこと、「この時、本目は本宮と村名を改めました」と記す）
+    url: https://www.city.motomiya.lg.jp/site/kanko/226.html
+  u1-motomiya-uub:
+    label: 市区町村変遷情報「本宮市」（個人運営の変遷データベース。2007年1月1日に本宮町・白沢村が合併して本宮市が発足したこと、新市名公募の最終候補5点が「あだたら・あぶくま・北郡山・宮沢・本宮」であったことを合併協議の記録に基づき記す）
+    url: https://uub.jp/upd/c/1029.html
+  u1-motomiya-wiki-adatara:
+    label: Wikipedia「安達太良神社」（安達太良神社は式内小社・飯豊和気神社の論社で創建は久安2年（1146年）と伝えられること、近隣に点在する安達太良神社の総本宮であることから鎮座地の名が「本目村」から本宮村となったとされ「本宮」という地名の由来になったと、『図説 本宮の歴史』を引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E5%AE%89%E9%81%94%E5%A4%AA%E8%89%AF%E7%A5%9E%E7%A4%BE
+  u1-nihonmatsu-city-nenpyo:
+    label: 二本松市公式「二本松の歴史年表」（応永21年（1414年）頃に畠山満泰が白旗ヶ峯に城を築き二本松城と号したこと、寛永20年（1643年）に丹羽光重が二本松へ移封されたこと、昭和33年（1958年）の市制施行、平成17年（2005年）の合併を記す）
+    url: https://www.city.nihonmatsu.lg.jp/bunka_sports_syo/bunka_rekishi/page001304.html
+  u1-nihonmatsu-fujimi-hokoku:
+    label: 富士見市議会総務委員会行政視察報告書（令和6年。二本松市の概要として「地名の由来は旅人の目印になった二本の松があったことからとされる。古城・四本松（しおのまつ）城から二本の松を移植したことからとする説もある」と記す）
+    url: https://www.city.fujimi.saitama.jp/shigikai/iinkai/soumu.files/202407soumu-shokanjimu.pdf
+  u1-soma-city-koho:
+    label: 相馬市広報「広報そうま」令和8年2月1日号・特集「市史と振り返る相馬の歴史」（相馬市公式。江戸時代に相馬中村藩の城下町として発展し初代藩主相馬利胤が小高城から中村城に拠点を移して城下町を整備したこと、昭和29年（1954年）に中村町と周辺7村（大野・飯豊・八幡・山上・玉野・日立木・磯部）が合併して相馬市が形成されたことを記す）
+    url: https://www.city.soma.fukushima.jp/material/files/group/34/20260201_kouhou4-7.pdf
+  u1-soma-morioka-column:
+    label: 森岡浩（姓氏研究家）コラム「相馬藩と相馬氏」（日本実業出版社。もともとの地名は中村で、昭和29年の合併の際に相馬郡の郡名からとって相馬市としたこと、相馬郡は明治29年に宇多郡と行方郡が合併してできた郡名で両郡が相馬氏の所領だったためそれ以前から相馬といわれていたこと、相馬市の「相馬」は通常とは逆に名字に因んで生まれた地名であること、相馬氏の名字の地は下総国相馬郡で初代師常が奥州征討の功により陸奥国行方郡に所領を与えられたことを記す）
+    url: https://www.njg.co.jp/column/column-41937
+  u1-sukagawa-city-taimatsu:
+    label: 須賀川市公式「松明あかしの由来」（天正17年（1589年）に伊達政宗が須賀川城を落城させ鎌倉時代からこの地を支配していた二階堂氏が滅んだこと、江戸時代にこの戦いで亡くなった人々を悼んで旧暦10月10日に松明を焚いたことが松明あかしの起源であることを市が解説）
+    url: https://www.city.sukagawa.fukushima.jp/kanko_sukagawa/kanko_event/taimatsu_akashi/1003837.html
+  u1-sukagawa-gogen:
+    label: 語源由来辞典「須賀川市」（須賀川は南北朝時代から見える地名で、由来は川洲の堆積した川辺の意味で「スカ（洲処）カハ（川）」からと考えられるとし、市の花がボタンであることも記す）
+    url: https://gogen-yurai.jp/sukagawa-shi-fukushima
+  u1-sukagawa-kotobank:
+    label: コトバンク「須賀川」（改訂新版・世界大百科事典および日本大百科全書の解説。須賀川は古代石背国造の地とされ『延喜式』の陸奥国磐瀬郡にあたり、地名の初出は1333年（元弘3年・正慶2年）であること、仙台・松前道の宿場町であったことを記す）
+    url: https://kotobank.jp/word/%E9%A0%88%E8%B3%80%E5%B7%9D-540767
+  u1-tamura-city-maro:
+    label: 田村市公式「坂上田村麻呂①」（市生涯学習課の文化財連載。平成17年（2005年）3月に合併した滝根町・大越町・都路町・常葉町・船引町は三春町・小野町とともに田村郡を形成していたこと、「『田村』という地名は、坂上田村麻呂の名が由来しているといわれ」多くの田村麻呂伝説が地域に残ること、室町から戦国時代にこの地を治めた田村氏が田村麻呂の平定にあやかって「田村」と名乗った可能性を記す）
+    url: https://www.city.tamura.lg.jp/soshiki/30/bunkazai_tamuramaro1.html
+  u1-tamura-wiki-chiho:
+    label: Wikipedia「田村地方」（中世末まで田村地方の大半は田村庄に含まれ、田村庄は坂上田村麻呂の功田として9世紀頃に成立したと考えられていること、律令制のもとでは田村地方は安積郡に編入されていたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E7%94%B0%E6%9D%91%E5%9C%B0%E6%96%B9

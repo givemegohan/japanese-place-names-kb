@@ -1,0 +1,2089 @@
+prefecture_code: '21'
+records:
+- id: muni/21-下呂市
+  code: '212202'
+  names:
+    ja: 下呂市
+    reading: げろし
+    aliases:
+    - 下呂町
+    - 下呂郷
+  user_terms:
+  - げろ
+  - 下呂温泉の市
+  - ゲロと読む地名
+  - 日本三名泉のまち
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 2004年に益田郡の5町村が合併して発足した市で、市名は温泉地として知られた中心地・下呂町の名を引き継いだ。「げろ」の語源は、古代の駅家「下留駅」が転じたものとする説が町史で紹介されており、「下呂郷」の表記は室町時代の史料に確認できる。下呂温泉は白鷺伝説で知られ、江戸時代には湯島とも表記された。
+  first_attestation:
+    era: 応永19年
+    year_western: 1412
+    document: null
+    note: 下呂町史『飛騨下呂』の整理として、応永19年（1412）の史料に「下呂郷」の表記があることが中日新聞で紹介されている。駅家「下留」の設置は776年と同町史は記すが、「下呂」の字の初出はこの1412年が確認できる最古級である
+  claims:
+  - text: 総務省の全国地方公共団体コードで、下呂市の団体コードは212202と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 下呂市および総務省の合併実績によれば、平成16年（2004）3月1日に旧益田郡の萩原町・小坂町・下呂町・金山町・馬瀬村の5町村が合併して下呂市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-gero-shisei-yoran
+    - v3-soumu-hakusyo-r07
+  - text: 市名は、合併した5町村のうち温泉地として知られた下呂町の名を引き継いだもので、新規の造語ではない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-gero-shisei-yoran
+  - text: 下呂町史『飛騨下呂』（1990）の記述として、古代の駅家「下留駅」が776年に設けられたことが中日新聞で紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-chunichi-gero
+  - text: 「下留」が音読みで「げる」と読まれ、転じて「げろ」となり、「下呂」の字が当てられたとする語源説が紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - v3-wiki-gero-onsen
+  - text: 下呂町史の整理として、応永19年（1412）の史料に「下呂郷」の表記が見えることが中日新聞で紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-chunichi-gero
+  - text: 文永2年（1265）、湯ヶ峰の源泉が止まった後、飛騨川の河原で傷を癒す白鷺が新しい湧出を知らせたという「白鷺伝説」が、下呂温泉の開湯伝説として伝わる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-gero-onsen
+  - text: 下呂市によれば、江戸時代の儒学者・林羅山は下呂温泉を有馬・草津と並ぶ天下の三名泉と表した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-gero-shisei-yoran
+  column:
+    title: 白鷺が知らせた湯と、「湯島」という旧名
+    text: 下呂温泉の開湯は、白鷺伝説で語られます。文永2年（1265）、山の源泉が止まった翌日、飛騨川の河原に舞い降りた白鷺が傷を癒しており、その場所から新しい湯が湧いたという伝説で、白鷺は薬師如来の化身とされました。ところで、万里集九や林羅山が三名泉に挙げた当時、この温泉は「下呂」ではなく「湯島」と表記されていました。温泉地の名が「湯島（湯之島）」から土地の名「下呂」に置き換わって定着した点に、温泉の名と地名の結びつきの変遷が見えます。
+    sources:
+    - v3-wiki-gero-onsen
+    - v3-gero-shisei-yoran
+  relations:
+  - pref/21
+  unknowns:
+  - 「下呂」が飛騨川の「下流」に由来するという説は、町史・市の公式資料では確認できなかった（町史が紹介するのは駅家「下留駅」説である）
+  - 『続日本紀』における下留駅設置の記事は原文未読で、776年という年は下呂町史の記述を中日新聞が紹介した形での確認にとどまる
+  - 読みが「げる」から「げろ」へ転じた時期は未確認
+  updated: '2026-11-13'
+- id: muni/21-中津川市
+  code: '212067'
+  names:
+    ja: 中津川市
+    reading: なかつがわし
+    aliases:
+    - 中津町
+    - 中津川町
+    - 中津川宿
+  user_terms:
+  - なかつがわ
+  - 中山道の宿場町の市
+  - 馬籠宿のある市
+  - 恵那山のふもとの市
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 中山道の宿場町・中津川宿を中心に発展した市。もとの地名は「中津」で、「中津川」は市街を流れる川の名であり、宿場の名としても使われた。1897年に合併で一度「中津町」となったが、1951年に苗木町との合併で「中津川町」に戻り、翌1952年の市制施行で中津川市となった。2005年には長野県山口村との越県合併を行っている。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 中山道宿村大概帳
+    note: 二次資料の紹介によれば、『中山道宿村大概帳』に中山道45番目の宿場としての中津川宿の記載がある。「中津川」という地名の初出そのものは未確認のため、西暦年は特定せず null とした
+  claims:
+  - text: 総務省の全国地方公共団体コードで、中津川市の団体コードは212067と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 中津川市によれば、本市の中心市街地は中山道の宿場町「中津川」を起源とし、本町中山道地区を起点として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-nakatsugawa-plan
+  - text: 中津川宿は中山道の江戸から45番目の宿場で、美濃国恵那郡中津川村に置かれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-nakatsugawa-juku
+  - text: 1889年に中津川村が町制施行して中津川町（初代）となり、1897年に駒場村・手賀野村と合併して中津町と改称した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-nakatsu-cho
+  - text: 1951年（昭和26）に中津町と苗木町が合併して中津川町（2代目）が発足し、翌1952年（昭和27）に市制を施行して中津川市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-wiki-nakatsu-cho
+    - v3-nakatsugawa-plan
+  - text: もともとの地名は「中津」であり、「中津川」は川の名前だが、大分県中津市との重複や中津川宿の名から市名は「中津川」となったと紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - v3-weblio-nakatsugawa
+  - text: 中津川市によれば、平成17年（2005）2月に隣接6町村および長野県の山口村と合併して新「中津川市」が発足し、この越県合併は全国で唯一の事例であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-nakatsugawa-plan
+  - text: 市名の由来となった川「中津川」は、恵那山を源流として市街地を流れ、木曽川に注ぐ
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-weblio-nakatsugawa
+  column:
+    title: 「中津」と「中津川」のあいだ
+    text: 中津川市の名は、一度短くなってから元に戻った珍しい経歴を持ちます。1889年に「中津川町」として発足した町は、1897年の合併で「中津町」と改称しました。ところが1951年、苗木町との合併を機に「中津川町」の名に戻り、翌年の市制施行で「中津川市」となりました。もとの地名は「中津」で、「川」を重ねた形が選ばれた背景には、中津川宿の知名度や、大分県の中津市と重ならないようにする配慮があったという説が紹介されています。川の名が宿場の名になり、やがて市の名になった事例です。
+    sources:
+    - v3-wiki-nakatsu-cho
+    - v3-weblio-nakatsugawa
+  relations:
+  - pref/21
+  unknowns:
+  - 「中津」という地名自体の語源（津＝渡し場との関係など）は確認できなかった
+  - 川の名「中津川」の文書上の初出は未確認
+  - 1951年に「中津川町」の名に戻した理由について、中津市との重複回避説以外の公式な説明は未確認
+  updated: '2026-11-13'
+- id: muni/21-可児市
+  code: '212148'
+  names:
+    ja: 可児市
+    reading: かにし
+    aliases:
+    - 可児町
+    - 可児郡
+  user_terms:
+  - かに
+  - カニと読む市
+  - 蟹の字ではない可児
+  - 可児市の名前の由来
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 「かに」という読みの地名は1300年以上前からあり、飛鳥池遺跡の木簡に「加尓」と記された記録が最古級であると市は紹介する。語源は定まっておらず、蟹にまつわる薬師伝説、可児川の流れに由来する説、豪族・和珥氏に結びつける説などが市の公式資料で挙げられるが、いずれも推測と明記されている。1955年に可児郡の町村が合併して可児町ができ、1982年に市制施行、2005年に兼山町と合併した。
+  first_attestation:
+    era: 天武天皇6年
+    year_western: 677
+    document: 飛鳥池遺跡出土木簡
+    note: 可児市公式資料によれば、飛鳥池遺跡（奈良県明日香村）から出土した木簡に「加尓（カニ）」とあり、677年ごろのものとされる。これが現在見つかっている「カニ」の地名の最も古い記録と市は紹介する
+  claims:
+  - text: 総務省の全国地方公共団体コードで、可児市の団体コードは212148と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 可児市によれば、「カニ」という地名の最も古い記録は飛鳥池遺跡出土の木簡で、美濃国から運ばれた荷物に付けられた木簡に「加尓」と書かれており、677年ごろのものとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kani-koho
+  - text: 可児市によれば、「カニ」の語源には複数の説があるが、いずれも推測の域を出ず、結論は出ていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kani-koho
+  - text: 語源説の一つとして、曲がったものを指す古語「カネ」から、くねくねと曲がる川を「カネガワ」と呼んだのがなまって「カニ」になったという可児川起源説が、市の資料で紹介されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - v3-kani-koho
+  - text: この地に和珥氏（ワニ氏）という豪族がいたため、「ワニ」の読みが「カニ」に変化したとする説も、市の資料で紹介されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - v3-kani-koho
+  - text: 御嵩町の願興寺の薬師如来（通称・可児薬師）が蟹の背に乗ってやって来たことから「カニ」と呼ぶようになったという伝説がある。ただし寺の成立より木簡の年代の方が古いため、この伝説では地名の起源を説明できないと市は注記している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v3-kani-koho
+  - text: 可児市の年表によれば、昭和30年（1955）2月に広見町・今渡町・土田村・帷子村・春里村・久々利村・平牧村が合併して可児町が誕生し、昭和57年（1982）4月に可児市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kani-nenpyo
+  - text: 同じ年表によれば、平成17年（2005）5月に可児市と可児郡兼山町が合併して新・可児市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kani-nenpyo
+  column:
+    title: 蟹ではないのに「かに」
+    text: 「可児」と書いて「かに」と読むこの地名は、蟹とは関係がないかもしれません。奈良・飛鳥池遺跡の木簡にはすでに「加尓」と書かれていて、地名の歴史は1300年以上に及びます。市の公式資料は、蟹の背に乗った薬師如来の伝説、曲がる川を「カネガワ」と呼んだという説、豪族・和珥氏（ワニ氏）の名が転じたという説の三つを紹介したうえで、「以上の説は全て推測です」と正直に結論づけています。蟹の伝説については、寺ができた時代より木簡の方が古いという年代の壁まで指摘されていて、伝説と史実を分けて考える良い教材になっています。
+    sources:
+    - v3-kani-koho
+  relations:
+  - pref/21
+  unknowns:
+  - 「加尓」の木簡の正確な釈文と年代については、市の広報記事の範囲を超えた学術資料での確認ができなかった
+  - 「可児」という漢字表記が定着した時期は未確認
+  - 可児郡の成立時期と、郡名と地名「カニ」の関係は未確認
+  updated: '2026-11-13'
+- id: muni/21-各務原市
+  code: '212130'
+  names:
+    ja: 各務原市
+    reading: かかみがはらし
+    aliases:
+    - 各務ヶ原
+    - 各務野
+    - 各務村
+  user_terms:
+  - かかみがはら
+  - かがみがはら（JR各務ヶ原駅の読み）
+  - みっぱら
+  - かかみはら
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は、各務郡南部の台地を指す「各務原（各務ヶ原）」の名を、1963年の4町合併による新市発足時に採用したもの。公式の読みは「かかみがはら」だが、古くは読みが揺れてきた土地で、現在もJRの駅名や県立高校で読みが一致していない。「各務」の語源は鏡作部（かがみつくりべ）に由来する説が知られる一方、渡来系の豪族「各牟」に由来するとの指摘もあり、確定していない。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『和名類聚抄』美濃国各務郡
+    note: 郡名としての「各務」の古い用例。『各務原市史』は律令時代の各牟（かかむ）郡がのち各務郡（かかみ）となったと説明すると、Wikipedia「各務原市」が紹介する。「各務原」という地名自体の初出は未確認
+  claims:
+  - text: 各務原市は昭和38年（1963）4月1日、那加町・稲羽町・鵜沼町・蘇原町の4町が合併して発足し、平成16年（2004）には羽島郡川島町と合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n5-kakamigahara-city-enkaku
+  - text: 『各務原市史』は、律令時代の美濃国各牟郡（かかむ）がのちに各務郡（かかみ）となり、台地は各務野（かがみの）、江戸時代後期には各務ヶ原（かがみがはら）と呼ばれ、昭和初期に「ヶ」が省略されて各務原（かがみがはら）となり、市制施行時に市の読みを「かかみがはら」としたと説明する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n5-kakamigahara-wiki
+  - text: 現在も読みは一貫しておらず、JR各務ヶ原駅は「かがみがはら」、岐阜県立各務原高校は「かかみはら」とするなど、公共機関の間でも読みが分かれている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n5-kakamigahara-wiki
+  - text: 「各務」の由来について、古代に鏡作部（かがみつくりべ）がいたことからとする説が『各務村史』以来伝えられ、日本地名研究所の谷川彰英は「ほぼ定説」とする一方、2022年の岐阜新聞は渡来系の豪族「各牟」を由来とし鏡作部説を俗説とする見方を紹介しており、説は分かれている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - n5-kakamigahara-wiki
+  - text: 若者を中心に、各務原を縮めて「みっぱら」と呼ぶことがある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n5-kakamigahara-wiki
+  - text: 各務原市の地方公共団体コードは212130である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - n5-ecitizen-gifu
+  column:
+    title: 読み方が4つある市名
+    text: 「各務原」の読みほど割れている市名は珍しい。市の公式読みは「かかみがはら」だが、JRの駅は「各務ヶ原（かがみがはら）」、県立各務原高校は「各務原（かかみはら）」と読み、市民の間でも「かかみはら」「かがみはら」「かかみがはら」「かがみがはら」の4通りが使われているという。背景には、各牟（かかむ）、各務（かかみ）、各務野（かがみの）、各務ヶ原（かがみがはら）と、時代ごとに揺れてきた読みの歴史がある。1963年の市制施行のとき市が選んだ「かかみがはら」は、その最も古い層の響き「かかみ」を受け継いだ読みでもある。
+    sources:
+    - n5-kakamigahara-wiki
+  relations:
+  - pref/21
+  - muni/23-犬山市
+  - muni/21-関市
+  unknowns:
+  - 読みの変遷に関する各務原市史の説明は、Wikipedia経由での確認にとどまり、市史そのものは未読である
+  - 「各務原」の表記が文献に現れる初出は確認できなかった
+  updated: '2026-11-13'
+- id: muni/21-土岐市
+  code: '212121'
+  names:
+    ja: 土岐市
+    reading: ときし
+    aliases:
+    - 土岐郡
+    - 礪杵郡
+    - 刀支評
+  user_terms:
+  - 陶磁器のまち土岐
+  - 美濃焼の里
+  - ときし
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は旧郡名「土岐」を継ぐ。「土岐」は飛鳥時代にまで遡る古い地名で、『日本書紀』天武天皇5年（676）の条に「礪杵郡」と現れる。美濃源氏の流れを汲む土岐氏はこの地に移って地名を氏の名とし（地名が先、氏が後）、美濃の守護として栄えた。1955年に土岐郡の5町3村が合併して土岐市が発足し、良質の陶土に恵まれた美濃焼の中心産地となっている。
+  first_attestation:
+    era: 飛鳥時代
+    year_western: 676
+    document: 『日本書紀』天武天皇5年条
+    note: 『日本歴史地名大系』が土岐の地名の初見とするもの。当時は評（こおり）で「礪杵郡」と表記された。原典の直接確認はしておらず、大系の紹介による
+  claims:
+  - text: 『日本歴史地名大系』によれば、土岐の地名の初見は『日本書紀』天武天皇5年（676）の条の「礪杵郡」で、当時は評と呼ばれる行政区画であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n5-toki-kotobank
+  - text: 土岐郡の前身は飛鳥時代の刀支県（ときのあがた）・刀支評とされ、酒船石遺跡や藤原京跡から「刀支県」「三野国刀支評」と墨書された木簡が出土している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - n5-tokigun-wiki
+  - text: 美濃源氏は七代・光信以降に土岐と号し、この頃に土岐郡へ移ったとされることを『日本歴史地名大系』が『尊卑分脈』に基づき紹介しており、氏名「土岐」は地名（郡名）に由来する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n5-toki-kotobank
+  - text: 土岐市観光協会は、約700年前に土岐源氏が現在の土岐市を中心とする地域一帯に勢力を持ち、やがて美濃国の守護となったと紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n5-toki-kanko
+  - text: 昭和30年（1955）に土岐津・妻木・下石・駄知・泉の5町と鶴里・曽木・肥田の3村が合併して土岐市が発足した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n5-toki-kotobank
+  - text: 土岐の地は崩れやすい土岐砂礫層に覆われるが、その下からは良質の陶土を産出し、美濃焼の長い歴史の礎となって日本有数の陶磁器生産地として発展した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - n5-toki-kanko
+  - text: 土岐市の地方公共団体コードは212121である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - n5-ecitizen-gifu
+  column:
+    title: 地名が名字になった — 土岐氏とキキョウ
+    text: 名字は人から地名へ伝わるものと思いがちだが、土岐では逆だった。清和源氏の流れを汲む一族が美濃の土岐郡に移り住み、土地の名「土岐」を自らの氏として名乗り始めたのが土岐氏の起こりとされる。その子孫は美濃守護として栄え、斎藤道三に取って代わられるまでこの地を治めた。いまも土岐市・多治見市・瑞浪市の3市は、そろって土岐氏の家紋に由来するキキョウを市の花としており、飛鳥時代の郡の名が、姿を変えて3つの市の花に生き続けている。
+    sources:
+    - n5-toki-kotobank
+    - n5-tokigun-wiki
+  relations:
+  - pref/21
+  - muni/21-多治見市
+  - muni/23-瀬戸市
+  unknowns:
+  - 「とき（刀支）」という地名そのものの語源・意味は、本バッチでは専門資料で確認できなかった
+  - 刀支県・刀支評の木簡については、発掘機関の一次資料での直接確認ができなかった
+  updated: '2026-11-13'
+- id: muni/21-多治見市
+  code: '212041'
+  names:
+    ja: 多治見市
+    reading: たじみし
+    aliases:
+    - 多治見町
+    - 多治見村
+    - 多治見郷
+    - 田地味
+  user_terms:
+  - 陶都たじみ
+  - モザイクタイルのまち
+  - たじみ
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は中心地の古名「多治見」を継ぐ。多治見は土岐川沿いの盆地に開け、中世には多治見国長の拠点となり、近世以降は美濃焼の集散地として発展、1940年に多治見町が市制を施行した。語源については『和名類聚抄』の異味郷に比定する説、丹治部にちなむ説などが専門辞典に紹介されるが、いずれも根拠が確かではなく、由来は確定していない。
+  first_attestation:
+    era: 室町時代
+    year_western: 1383
+    document: 永保寺文書（室町幕府奉行人封裏寺領目録写）
+    note: 『日本歴史地名大系』が「多治見郷」のみえる文献として挙げるもの。鎌倉時代の多治見国長は「田地味」の表記で名乗ったと同大系は紹介する
+  claims:
+  - text: 「多治見」の語源は確定しておらず、『日本歴史地名大系』は複数の説を紹介しつつ、いずれも根拠がないとしている
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - n5-tajimi-kotobank
+  - text: 『和名類聚抄』の土岐郡異味（いみ）郷の「異」を「田只」の合字とみて「たじみ」と訓み、当地に比定する説が『濃飛両国通史』にあると『日本歴史地名大系』は紹介する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - n5-tajimi-kotobank
+  - text: 丹治部が置かれた土地であることにちなむとする説を『新撰美濃志』が採ると『日本歴史地名大系』は紹介する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - n5-tajimi-kotobank
+  - text: 天火明命の後裔とされる蝮部（たじひべ）犬手の子孫が当地に住んだため「たじひべ」の地名が生じ、さらに「たじみ」に転じたという言い伝えが『多治見風土記』にあり、『日本歴史地名大系』は根拠がないと評する
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - n5-tajimi-kotobank
+  - text: 永徳3年（1383）の室町幕府奉行人封裏寺領目録写（永保寺文書）に「多治見郷」とみえ、郷内の田などが永保寺領であったことが『日本歴史地名大系』に紹介される
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n5-tajimi-kotobank
+  - text: 鎌倉時代末期の武将・多治見国長は当地に館を構えて「多治見（田地味）」を名乗り、その邸跡は県指定史跡となり、付近は明治初年まで「御所屋敷」と称された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - n5-tajimi-kotobank
+  - text: 多治見市公式の沿革によれば、明治22年（1889）に多治見町が町制を施行し、昭和15年（1940）に市制を施行、平成18年（2006）に土岐郡笠原町と合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n5-tajimi-city-enkaku
+  - text: 多治見市の地方公共団体コードは212041である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - n5-ecitizen-gifu
+  column:
+    title: 「田地味」と書いた武将のまち
+    text: 「多治見」という地名が歴史に姿を現す頃、その表記はまだ安定していなかった。鎌倉時代末期、この地に館を構えた多治見国長は、その名を「田地味」とも書かれる形で名乗り、正中の変（1324年）で後醍醐天皇方に参じて命を落とした。館のあった辺りは「御所屋敷」と呼ばれて明治の初めまで名が残り、いまは国長邸跡として県の史跡に指定されている。語源の決め手を欠く地名だが、人は地名を名字として名乗り、地名はその人を長く記憶することになった。
+    sources:
+    - n5-tajimi-kotobank
+  relations:
+  - pref/21
+  - muni/21-土岐市
+  - muni/23-瀬戸市
+  unknowns:
+  - 語源の確定説はなく、異味郷比定説についても原典レベルでの検証は本バッチでは行えなかった
+  - 「多治見」の表記が文献に現れる最古の用例が、永保寺文書（1383年）より前に遡れるかどうかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/21-大垣市
+  code: '212024'
+  names:
+    ja: 大垣市
+    reading: おおがきし
+    aliases:
+    - 大柿
+    - 大垣町
+  user_terms:
+  - 大垣市の名前の由来
+  - 大垣はなぜ大垣というのか
+  - もとは大柿だったまち
+  - 水の都・大垣
+  naming_type: その他
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 低湿地と輪中のまちの名である。その由来について、市の公式資料の間でも説明が分かれる。『大垣市史』によれば、中世に洪水から集落を守るため大きな「垣」（堤）を築いたことが「大垣」の名の起こりで、「大柿」は「オオガキ」の当て字だという。一方、市の中心市街地活性化基本計画は「大きな柿を産するところ」から古くは「大柿」と呼ばれていたと説明する。大正7年（1918年）に市制を施行し、平成18年（2006年）の合併で飛び地を含む現在の市域となった。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: 『大垣市史』の伝える命名の由来（大きな垣＝堤防の築造）
+    note: 文献上の確実な初出は本バッチでは特定できなかった
+  claims:
+  - text: 国土交通省の資料が『大垣市史』に基づいて紹介するところでは、中世に洪水から家屋や集落を守るために大きな垣（堤）を築いたことが「大垣」の地名の起こりとされる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l3-ogaki-mlit
+  - text: 一方、大垣市の中心市街地活性化基本計画の沿革欄は、「大きな柿を産するところ」ということから古くは「大柿」と呼ばれていたと説明しており、大垣市の公式資料の間でも由来说が分かれる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l3-ogaki-chukatsu
+  - text: 『大垣市史』の説では、「大柿」は耳で聞いた「オオガキ」を書く際の当て字であり、ここから大柿にまつわる地名伝説が生まれたという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-ogaki-mlit
+  - text: 大正7年（1918年）4月1日、大垣市は全国で71番目の市として誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-ogaki-90th
+  - text: 平成18年（2006年）3月の合併により市域は上石津町・墨俣町を含む3地域となり、上石津地域が飛び地となる形となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-ogaki-chukatsu
+  - text: 大垣は、輪中の堤防に囲まれた集落と、杭瀬川・水門川などの水路による舟運で栄えた、水都として知られるまちである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l3-ogaki-mlit
+  - text: 総務省「地方公共団体コード一覧」では、大垣市のコードは212024とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「大垣」さん、全国から大集合
+    text: 市制100周年の2018年、名字が「大垣」の人々が全国から大垣市に集まる企画が開かれた。『広報おおがき』によれば、東北や関西など各地から約100人が参加したという。名字としては全国に数百人規模とされる珍しい名字が、地名のまちへ里帰りする形になった。
+    sources:
+    - l3-ogaki-koho
+  relations:
+  - pref/21
+  unknowns:
+  - 「大垣」の文献上の初出と、垣（堤）説・大柿説の決着は本バッチでは確認できなかった。市の公式資料同士で説明が異なるため、両論を併記する
+  updated: '2026-11-13'
+- id: muni/21-山県市
+  code: '212156'
+  names:
+    ja: 山県市
+    reading: やまがたし
+    aliases:
+    - 山県郡
+    - 山方郡
+    - 山方
+  user_terms:
+  - やまがた
+  - 山形市と間違えやすい市
+  - 山県市の名前の由来
+  - 旧山県郡の市
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 2003年に山県郡の高富町・伊自良村・美山町が合併して発足した市で、市名は合併で消滅した山県郡の名をそのまま継承した。「山県」は古く「山方」と表記され、7世紀の山方評や大宝2年（702）の戸籍に残る山方郡に遡る古い郡名である。読みの「やまがた」は山形県山形市と同じだが、別の地名である。
+  first_attestation:
+    era: 大宝2年
+    year_western: 702
+    document: 正倉院文書「御野国山方郡三井田里戸籍」
+    note: 二次資料の紹介によれば、大宝2年（702）の戸籍に「御野国山方郡」とあり、7世紀には藤原宮跡出土木簡に「三野国山方評」とある。「山方」がのちの「山県（山縣）」にあたる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、山県市の団体コードは212156と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 総務省の合併実績によれば、平成15年（2003）4月1日に山県郡高富町・伊自良村・美山町が新設合併して山県市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-soumu-hakusyo-r07
+  - text: 合併協議会だより第13号（平成14年9月1日発行）によれば、新市の名称は合併協議の過程で「山県市」に決定したと報じられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-yamagata-dayori
+  - text: 市名「山県」は、合併した3町村が属し合併で消滅した山県郡の名を継承したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-yamagata
+    - v3-soumu-hakusyo-r07
+  - text: 「山県（山縣）」は古く「山方」と表記され、「山の方（山あいの方面）」を意味する名であったと紹介されている
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - v3-wiki-yamagata
+    - v3-wiki-yamagata-gun
+  - text: 二次資料の紹介によれば、藤原宮跡出土の木簡に「三野国山方評」とあり、7世紀にはこの地に山方評が置かれていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-yamagata-gun
+  - text: 二次資料の紹介によれば、正倉院に伝わる大宝2年（702）の「御野国山方郡三井田里戸籍」に山方郡の名が見え、この戸籍は日本最古級の戸籍の一つである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-yamagata-gun
+  - text: 合併により山県郡は消滅したが、その郡域はおおむねそのまま山県市として継承された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-yamagata
+  column:
+    title: 消えた郡の名を市が引き継いだ
+    text: 山県市は、合併で消えた郡の名前を市名として残したまちです。その歴史は古く、7世紀の木簡に「山方評」、大宝2年（702）の戸籍に「山方郡」とあり、当時は「山方」と書きました。読みは「やまがた」で、山形県の山形市とまったく同じですが、「県」と「形」の一字違いの別の地名です。県名の山梨県・山口県とも無関係で、こちらは美濃国以来の郡名が源泉です。2003年の合併では、高富・伊自良・美山のどの町名でもなく、3町村に共通する郡の名が新しい市の名に選ばれました。
+    sources:
+    - v3-wiki-yamagata-gun
+    - v3-yamagata-dayori
+  relations:
+  - pref/21
+  unknowns:
+  - 「山方」から「山県（山縣）」へ表記が変わった時期と理由は未確認
+  - 山方評の木簡・山方郡戸籍の記載は二次資料経由の確認で、木簡データベース・正倉院文書での原文照合は未実施
+  - 新市名の決定過程（公募の有無や他の候補名）は、合併協議会だより第13号の記述の範囲では確認できなかった
+  updated: '2026-11-13'
+- id: muni/21-岐阜市
+  code: '212016'
+  names:
+    ja: 岐阜市
+    reading: ぎふし
+    aliases:
+    - 岐阜町
+    - 井口
+    - 井ノ口
+  user_terms:
+  - 岐阜市の名前の由来
+  - 岐阜は信長が付けた名前か
+  - 岐山と曲阜の意味
+  - 沢彦の3つの案
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は城下町「岐阜」の名を受け継いだもので、その岐阜は永禄10年（1567）に織田信長が稲葉山城下の井口を改めた名とされる。沢彦宗恩の進言による命名という話は後世の編纂物『安土創業録』に基づいており、信長以前から禅僧の間で「岐阜」の語が使われていた例もあって、命名の経緯には諸説がある（県レコードと同一の記録）。明治22年（1889）に市制が施行されて岐阜市となった。
+  first_attestation:
+    era: 永禄10年
+    year_western: 1567
+    document: 信長公記
+    note: 井口を岐阜と改めた公称としての初出。語そのものは信長以前の禅僧の用例が指摘されている（県レコードと同一の記録）
+  claims:
+  - text: 永禄10年（1567）、織田信長は稲葉山城を攻略して居城を清須から移した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-ken
+  - text: 『信長公記』は、信長が稲葉山の城下の井口（井ノ口）を岐阜と改めたと記しており、改名自体は当事者に近い記録で裏付けられる
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - c-cap-nobunaga-koki
+    - c-gifu-ken
+  - text: 尾張・政秀寺の禅僧沢彦宗恩が「岐山・岐陽・岐阜」の3案を進言し、信長が「岐阜」を選んだとする話は『安土創業録』に基づくもので、同書は後世の編纂物であり同時代の記録ではない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - c-gifu-ken
+    - c-cap-azuchi-sogyoroku
+  - text: 「岐」は、中国で周の文王が岐山より興って天下を定めた故事にちなむと岐阜県公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-ken
+  - text: 「阜」を孔子の生誕地である曲阜にちなむとする説明も広く流布するが、県公式の説明は岐山の故事を中心としており、曲阜説は諸説の一つと位置づけられる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - c-gifu-ken
+    - c-gifu-city-gaiyo
+  - text: 岐阜市の資料は、応仁元年（1467）の瑞龍寺建立に際する賛に「岐阜」の字句が見えることや、快川紹喜が「岐陽」の語を用いたことを挙げ、信長以前から禅僧の間でこの地の雅称が使われていたとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - c-gifu-city-gaiyo
+  - text: 明治22年（1889）7月1日、市制町村制の施行で岐阜の56の町の区域を合わせて岐阜市が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - c-cap-gifu-uub
+  - text: 総務省の全国地方公共団体コードで、岐阜市の団体コードは212016と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 天下統一の出発点に、中国の故事を重ねた男
+    text: 永禄10年、美濃を手に入れた信長は、井ノ口という小さな地名を捨てて「岐阜」と改め、ほどなく「天下布武」の印を使い始めます。沢彦進言説によれば、「岐」は周の文王が岐山から興って天下を平定した故事へのなぞらえで、命名はそのまま天下への宣言でした。もっとも「岐阜」の語自体は、それ以前から金華山周辺を詠む禅僧の雅称として存在したとも言われます。信長の才覚は、無から名前を発明したことではなく、すでにあった由緒ある言葉を拾い上げ、自分の旗印に変えたところにあったのかもしれません。岐阜のまちは、その改名の瞬間から都市としての歩みを始めたと言えます。
+    sources:
+    - c-gifu-ken
+    - c-gifu-city-gaiyo
+  relations:
+  - pref/21
+  unknowns:
+  - 沢彦宗恩の進言を裏付ける同時代史料は確認されておらず、『安土創業録』の記事の信憑性は確定していない（県レコードと同一の未確認事項）
+  - 1467年の賛の「岐阜鐘秀」という字句が地名として使われたのか、単なる美称かは解釈が分かれる
+  - 「阜＝曲阜」説の出典となる初期の文献は特定できていない
+  - 岐阜市の市制施行日（1889年7月1日）について、市公式の概況資料での直接確認は次回に回した
+  updated: '2026-11-13'
+- id: muni/21-恵那市
+  code: '212105'
+  names:
+    ja: 恵那市
+    reading: えなし
+    aliases:
+    - 恵那郡
+    - 恵奈郡
+    - 恵奈
+  user_terms:
+  - えな
+  - 恵那峡のある市
+  - 恵那山のない市
+  - 恵那の名前の由来
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 1954年に恵那郡の2町6村が合併して発足し、2004年に恵那郡の5町村を加えて現在の市域となった。市名は律令制の郡名「恵那郡」の継承で、「恵奈」の表記は677年の出土木簡にまで遡る。語源は定かではなく、「鄙（ひな）」の転訛説や、恵那山にまつわる胞衣（えな）伝説が伝わる。なお恵那山そのものは市域になく、隣の中津川市と長野県阿智村の境にある。
+  first_attestation:
+    era: 天武天皇6年
+    year_western: 677
+    document: 飛鳥池遺跡出土木簡
+    note: 二次資料の紹介によれば、飛鳥池遺跡出土の天武天皇6年（677）の木簡に「土支評恵奈五十戸造阿利麻」とあり、「恵奈」の地名の用例として確認できる最古級のもの。当時はまだ郡ではなく、土支評（のちの土岐郡）の中の五十戸（里）の名だったとされる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、恵那市の団体コードは212105と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 二次資料の紹介によれば、飛鳥池遺跡出土の677年の木簡に「土支評恵奈五十戸」とあり、この時点で「恵奈」は土支評の中の五十戸（里）の名であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-weblio-ena-gun
+  - text: 二次資料の紹介によれば、天平勝宝2年（750）の「美濃国司解」（東南院文書）に「恵奈郡繪下郷」とあり、恵那郡は8世紀初め頃に土岐郡から分かれて成立したと推定される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-weblio-ena-gun
+  - text: 『延喜式』『和名類聚抄』では「恵奈郡」と書かれ、近世の『正保国絵図』では「恵那郡」、元禄以後は再び「恵奈郡」とされるなど表記が揺れ、明治になって「恵那郡」に定まったと紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-weblio-ena-gun
+  - text: 恵那市は、1954年（昭和29）4月1日に恵那郡の大井町・長島町・東野村・三郷村・武並村・笠置村・中野方村・飯地村の合併で発足し、2004年（平成16）10月25日に恵那郡の山岡町・明智町・岩村町・串原村・上矢作町との新設合併で現在の市域となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-ena
+  - text: 語源について、地名研究者の山内和幸は、都から遠く離れたこの地方が「鄙びた処（ひな）」と呼ばれ、「ひな」がなまって「いな」「えな」に変化したとする説を示している
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - v3-wiki-ena
+  - text: 恵那山は、イザナミが天照大神を生んだ際の胞衣（えな）を納めた地とされ、「胞衣」から「恵奈」「恵那」へ変化したという伝説がある
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - v3-weblio-ena-gun
+  - text: 岐阜県図書館の目次情報によれば、『恵那市史 恵那市の地名』（1985年）は地名を専門に扱う巻で、第1編第1章で「恵那」の名そのものを論じている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-gifu-lib-ena-shi
+  column:
+    title: 『古事記』には出てこない「恵奈」
+    text: 「恵那」という名は『古事記』に由来すると思われがちですが、今回の調査で『古事記』の大碓命の条などを確認した範囲では、「恵奈郡」の記載は見当たりませんでした。確実に遡れる初出は、飛鳥池遺跡から出た677年の木簡の「土支評恵奈五十戸」です。郡として分かれる前の「里」の名だった「恵奈」が、750年の文書では「恵奈郡」として現れ、表記が「恵奈」と「恵那」のあいだを行き来しながら、明治に「恵那」に定まりました。記紀の物語ではなく、出土した木簡が地名の年齢を教えてくれる事例です。
+    sources:
+    - v3-weblio-ena-gun
+    - v3-wiki-oosu
+  relations:
+  - pref/21
+  unknowns:
+  - 『古事記』に恵奈（郡）の記載があるかは、大碓命の条などを確認した範囲では見当たらず、記載なしの可能性が高いが断定はできない
+  - 山内和幸の「鄙」説の原典（『恵那市史 恵那市の地名』第1章とみられる）の本文は未読
+  - 677年木簡の釈文は二次資料経由の確認にとどまり、木簡データベースでの原文照合は未実施
+  updated: '2026-11-13'
+- id: muni/21-本巣市
+  code: '212181'
+  names:
+    ja: 本巣市
+    reading: もとすし
+    aliases:
+    - 本巣町
+    - 本巣村
+    - 本巣郡
+  user_terms:
+  - もとす
+  - 淡墨桜のある市
+  - 根尾谷の市
+  - 本巣の名前の由来
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 2004年に本巣郡の本巣町・真正町・糸貫町・根尾村が合併して発足した市。市名は、郡名であり中心町の名でもあった「本巣」を継承した。本巣市教育委員会は地名の由来を古代豪族「本巣国造」に求めており、『古事記』にはその祖とされる大根王の名が見える。郡としての「本巣」は、条里の遺構が推定されるほど古くからこの土地の名であった。
+  first_attestation:
+    era: 古代
+    year_western: null
+    document: null
+    note: 「本巣」の文書上の初出は特定できていない。古代豪族「本巣国造」の名は、『古事記』にその祖とされる大根王の記述や『先代旧事本紀』の国造本紀に伝わるが、本バッチでは二次資料経由の確認にとどまるため、西暦年は特定せず null とした
+  claims:
+  - text: 総務省の全国地方公共団体コードで、本巣市の団体コードは212181と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 本巣市の調査報告によれば、2004年（平成16）2月1日に本巣町・真正町・糸貫町・根尾村が合併して本巣市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-motosu-survey
+  - text: 本巣市教育委員会は市の公式行事の案内で「本巣市の地名の由来となった古代豪族『本巣国造』」と紹介しており、市は地名の由来を古代豪族の本巣国造に求めている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-motosu-event
+  - text: 二次資料の紹介によれば、『古事記』は大碓命の妃の父・大根王を「本巣国造・三野前国造の祖」と記している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-oosu
+  - text: 本巣市の調査報告によれば、市域の山口地区は本巣郡条里の1条目と推定されており、古代の郡としての本巣の土地利用の痕跡がうかがえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-motosu-survey
+  - text: 中心となった本巣町は、1950年（昭和25）に山添村・文殊村が合併して成立した本巣村が、1960年（昭和35）に町制施行して改称したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-motosu-cho
+  - text: 市名「本巣」は、合併した4町村が属した本巣郡の郡名であり、中心町であった本巣町の名でもある「本巣」の継承である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-motosu-survey
+    - v3-wiki-motosu-cho
+  - text: 本巣郡は現在も北方町を残して存続しており、「本巣」の名は市と郡の双方に残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-motosu
+  column:
+    title: 国造の名を残す市
+    text: 本巣市の名の由来として市教育委員会が挙げるのは、古代の豪族「本巣国造」です。『古事記』には、景行天皇の皇子・大碓命の妃の父である大根王が「本巣国造の祖」と記されると紹介されており、国造の本拠とされる船来山には古墳群が残ります。市はこの古墳群を国指定史跡にすることを目指し、子どもたちに本巣国造の歴史を学ぶ行事も開いています。平成の合併で生まれた新しい市が、最も古い層の豪族の名を自らの由来として掲げている点が、この地名の面白さです。
+    sources:
+    - v3-motosu-event
+    - v3-wiki-oosu
+  relations:
+  - pref/21
+  unknowns:
+  - 「本巣」という語そのものの語源（「もと」と「す」の意味）について、専門辞典の説明は未確認
+  - 本巣国造の実在性や本拠地の比定は、市教育委員会の紹介の範囲を超えて学術的には確認できなかった
+  - 『先代旧事本紀』国造本紀における本巣国造の記載は、原文未確認
+  updated: '2026-11-13'
+- id: muni/21-池田町
+  code: '214043'
+  names:
+    ja: 池田町
+    reading: いけだちょう
+    aliases:
+    - 池田村
+    - 温知村
+    - 池田荘
+  user_terms:
+  - 池田町 岐阜
+  - 揖斐郡の池田町
+  - 池田温泉のある町
+  naming_type: その他（旧村名の復活による改称）
+  prefecture: 岐阜県
+  homonyms:
+  - muni/01-池田町
+  - muni/18-池田町
+  - muni/20-池田町
+  summary: 岐阜県揖斐郡の町。町域は古代から中世にかけて美濃国の池田荘に属した。明治の池田村は1950年に本郷村と合併して温知村となったが、1954年5月1日の町制施行と同時に池田町へ改称され、旧村名「池田」が復活した。4つの池田町のうち、合併新名を捨てて旧名に戻した経緯が特徴である。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: 荘園名「池田荘」（美濃国）としての記録
+    note: 室町時代に美濃国守護・土岐頼忠の本拠が置かれた。具体的な初出年は今回の調査では特定できていない
+  claims:
+  - text: 町域は古代から中世にかけて池田荘に属し、室町時代には美濃国守護の土岐頼忠が本拠を置いた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h2-kotobank-ikeda
+    - h2-ikeda-gifu-shiryo
+  - text: 1950年に池田村と本郷村が合併して温知村となり、1954年5月1日に「温知村を池田村とし、池田村を池田町とする」手続きで、町制施行と同時に池田町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h2-ikeda-gifu-kankyo
+  - text: 1954年の改称は、合併でいったん姿を消した旧村名「池田」の復活であり、その名は池田荘の地を指した古い地域名に遡る。ただし改称理由の明文は確認できておらず、この説明は経緯からの類推である
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - h2-ikeda-gifu-kankyo
+    - h2-kotobank-ikeda
+  - text: 同名の比較（共通する層）：福井県池田町も中世の「池田荘」に遡る点で共通する。ただし美濃国と越前国今立郡の池田荘は別の荘園であり、直接の関係はない
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h2-kotobank-ikeda
+    - h2-kotobank-ikedacho
+  - text: 同名の比較（異なる層）：北海道池田町の人名由来、長野県池田町の郷名のまっすぐな継承とは異なり、岐阜県池田町は「合併新名（温知）から旧名への復活改称」という経緯を持つ。読みは「いけだちょう」
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h2-ikeda-gifu-kankyo
+    - b-cap-chiba-soumu-code
+  - text: 中心集落の池野は近世に市場町として発展し、町名のもとになった池田村の中心でもあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h2-kotobank-ikedacho
+  column:
+    title: わずか4年で消えた「温知村」
+    text: 1950年の合併で生まれた温知村は、「温故知新」を思わせる雅な新名だった。だが4年後、町制施行の機会に村は「池田村」を名乗り直し、そのまま池田町になった。合併で新しい名を作っても、土地の古い名のほうがしっくりくる——昭和の合併で全国に生まれた新名が次々に旧名へ戻った現象の、小さく分かりやすい実例である。
+    sources:
+    - h2-ikeda-gifu-kankyo
+    - h2-ikeda-gifu-shiryo
+  relations:
+  - pref/21
+  - muni/01-池田町
+  - muni/18-池田町
+  - muni/20-池田町
+  unknowns:
+  - 美濃国池田荘の初出文書・成立時期は未確認
+  - 1954年の改称を決めた際の公式な理由の記録は未確認（旧村名の復活とする説明は経緯からの類推）
+  updated: '2026-11-13'
+- id: muni/21-海津市
+  code: '212211'
+  names:
+    ja: 海津市
+    reading: かいづし
+    aliases:
+    - 海津町
+    - 海津郡
+    - 海西郡
+  user_terms:
+  - かいづ
+  - 輪中の市
+  - お千代保稲荷のある市
+  - 海津の名前の由来
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 2005年に海津郡の海津町・平田町・南濃町が合併して発足した市。市名は中心町だった海津町の名で、その背景には1897年に成立した海津郡がある。さらに遡ると、郡域の東部は古代・中世に尾張国海西郡に属した時期があり、「海津」の下には「海西」の層がある。市域は木曽三川の輪中の地で、海抜0メートル地帯が広がる。
+  first_attestation:
+    era: 明治30年
+    year_western: 1897
+    document: null
+    note: 郡名「海津」の成立年。1897年の郡制施行に伴い、海西郡・下石津郡・安八郡の一部が合併して海津郡が発足したことが二次資料で紹介されている。地名としての「海津」のそれ以前の用例は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、海津市の団体コードは212211と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 海津市によれば、平成17年（2005）3月28日に海津郡海津町・平田町・南濃町が合併して海津市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kaizu-plan
+  - text: 市名の直接の由来である海津町は、昭和30年（1955）1月15日に高須町・吉里村・東江村・大江村・西江村が合併して成立した町である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-kaizu
+  - text: 二次資料によれば、海津郡は明治30年（1897）4月1日に海西郡・下石津郡・安八郡の一部が合併して成立した郡である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-kaizu
+  - text: 市域の東部はもとは尾張国海西郡に属し、16世紀末の木曽川の河道変更を経て1589年に美濃国へ移され、美濃国海西郡となったと紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-kaizu
+  - text: 海津市によれば、旧海津町・旧平田町の区域は海抜0メートルの水郷地帯であり、全国的に有名な輪中「高須輪中」がある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kaizu-plan
+  - text: 高須輪中は1606年（慶長11）ごろに完成したとされ、集落全体を堤防で囲う輪中の最初期の例と紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-kaizu
+  - text: 海津市の計画資料によれば、市内には江戸時代に薩摩藩士が行った宝暦治水の史跡や、明治時代の三川分流工事に関わる史跡が残る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-kaizu-plan
+  column:
+    title: 「海津」の下にある「海西」
+    text: 海津市の名を遡ると、二つの郡名が重なっています。直接の由来は1897年に新しく作られた郡「海津郡」ですが、その郡域の東部は、もとは尾張国の「海西郡」でした。16世紀末、木曽川が氾濫して流れを変えたことで川の西岸になった土地が美濃国へ移され、郡の所属する国まで変わりました。川が国境を動かし、その郡名の記憶の上に新しい郡名が置かれた土地です。その低さゆえに人々は集落を堤防で囲う輪中を築き、高須輪中や宝暦治水の記憶が今も市の景観を形作っています。
+    sources:
+    - v3-wiki-kaizu
+    - v3-kaizu-plan
+  relations:
+  - pref/21
+  unknowns:
+  - 1897年の新郡名に「海津」が選ばれた理由（命名の経緯）は未確認
+  - 地名「海津」の、郡成立以前の用例は未確認
+  - 海津町の町名が郡名「海津郡」から採られたことの公式な裏付け（町史等）は未確認
+  updated: '2026-11-13'
+- id: muni/21-瑞浪市
+  code: '212083'
+  names:
+    ja: 瑞浪市
+    reading: みずなみし
+    aliases:
+    - 瑞浪町
+    - 瑞浪村
+    - 瑞浪土岐町
+  user_terms:
+  - みずなみ
+  - 化石のまち瑞浪
+  - 美濃焼の産地
+  - 瑞浪の名前の由来
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 1954年に土岐郡瑞浪土岐町と周辺町村、恵那郡陶町が合併して発足した市。市名は旧・瑞浪町の名の継承で、「瑞浪」は1897年に成立した瑞浪村の村名に遡る。村名の由来には「水の南（土岐川の南）」の意味とする説明と、「瑞穂の浪打つ」景色にちなむとする説明が併せて紹介されている。陶磁器（美濃焼）と化石のまちとして知られる。
+  first_attestation:
+    era: 明治30年
+    year_western: 1897
+    document: null
+    note: 歴史的行政区域データセットによれば、土岐郡瑞浪村は1897年4月1日に成立しており、「瑞浪」の名の使用はこの村名が確認できる最古級とみられる。村名命名の一次資料は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、瑞浪市の団体コードは212083と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 歴史的行政区域データセット等によれば、土岐郡瑞浪村は明治30年（1897）4月1日に成立し、大正9年（1920）5月1日に町制施行して瑞浪町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-geoshape-mizunami-son
+    - v3-wiki-mizunami-cho
+  - text: 瑞浪の村名は、「水の南」（土岐川の南）の意味と「瑞穂の浪打つ」という意味で名付けられたと紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - v3-wiki-mizunami-cho
+  - text: 昭和26年（1951）4月1日に瑞浪町と土岐町が合併して、瑞浪土岐町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-mizunami-toki
+  - text: 昭和29年（1954）4月1日に瑞浪土岐町・稲津村・釜戸村・大湫村・日吉村・明世村の一部・恵那郡陶町が合併して、瑞浪市が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-mizunami-toki
+  - text: 市名「瑞浪」は、瑞浪市が合併で新設された市であるため、合併前の中心町だった旧・瑞浪町の名を継承したものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v3-wiki-mizunami-cho
+  - text: 瑞浪市によれば、市は古代の東山道、中世の鎌倉街道、近世の中山道の宿場町として、東西の政治・経済・文化が流入して栄えた歴史のあるまちである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-mizunami-gaiyou
+  - text: 瑞浪市によれば、市は室町時代からの伝統を誇る陶磁器のまちであり、古生物等の化石が発見されるまちでもある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v3-mizunami-kikakusho
+  column:
+    title: 二つの意味を重ねた「瑞浪」
+    text: 「瑞浪」という名には、二つの意味が重ねられていると紹介されています。一つは「水の南」、つまり土岐川の南という位置の表示。もう一つは「瑞穂の浪打つ」、稲穂が波のように揺れる豊かな景色をうたった美称です。実務的な地名と景色の賛美が一つの名に同居しているのが、この村名の面白いところです。その後の歴史にも変わり名があり、1951年には土岐町との合併で「瑞浪土岐町」という、両方の名を連ねた町が3年だけ存在しました。1954年の市制で最終的に残ったのは、川の南の小さな村の名でした。
+    sources:
+    - v3-wiki-mizunami-cho
+    - v3-wiki-mizunami-toki
+  relations:
+  - pref/21
+  unknowns:
+  - 瑞浪村の村名命名の経緯（命名者や一次資料）は未確認で、二つの意味のどちらが命名の主意図だったかは決められない
+  - 1897年の瑞浪村を構成した旧村の範囲は、本バッチでは未確認
+  - 「瑞浪」の名が村の成立以前に使われた例は未確認
+  updated: '2026-11-13'
+- id: muni/21-瑞穂市
+  code: '212164'
+  names:
+    ja: 瑞穂市
+    reading: みずほし
+    aliases:
+    - 穂積町
+    - 巣南町
+  user_terms:
+  - みずほ
+  - 瑞穂市の名前の由来
+  - 豊葦原之瑞穂国
+  - 本巣郡の市
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 瑞穂市は2003年（平成15年）5月1日に本巣郡の穂積町・巣南町が合併して発足した市である。市名「瑞穂」は、古事記・日本書紀に日本の国の美称として現れる「豊葦原之瑞穂国（とよあしはらのみずほのくに）」に由来し、「葦がしげり、稲穂がみずみずしく育って、豊かな国」と解釈される。ブリーフで想定された「瑞（めでたい）＋穂の合成」という新造語ではなく、古典に由来する由緒ある語を合併新市名に採用した事例である。
+  first_attestation:
+    era: 平成15年
+    year_western: 2003
+    document: null
+    note: 「瑞穂市」という市名の初出は2003年5月1日の市発足時。語そのものは古事記・日本書紀の「豊葦原之瑞穂国」に遡るが、地名としての「瑞穂」の当地への適用は合併時の命名である
+  claims:
+  - text: 総務省の全国地方公共団体コードで、瑞穂市の団体コードは212164と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 瑞穂市によれば、「瑞穂」は古事記や日本書紀に日本の国の美称として「豊葦原之瑞穂国（とよあしはらのみずほのくに）」と現れるもので、「葦がしげり、稲穂がみずみずしく育って、豊かな国」と解釈されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-mizuho-city-yurai
+  - text: 瑞穂市によれば、こうした歴史を踏まえて新市の名を「瑞穂市」と決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-mizuho-city-yurai
+  - text: 2003年（平成15年）5月1日に本巣郡穂積町・巣南町が合併して瑞穂市が発足し、市役所は旧穂積町役場に置かれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-mizuho-wiki
+  - text: 新市名は公募で集まった候補から長良・犀川・瑞穂の最終候補3点に絞られ、合併協議会の投票により「瑞穂市」に決定したと、中日新聞2002年11月1日付記事を引いて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-mizuho-wiki
+  - text: 瑞穂市の市章は「M」と稲穂を図案化したもので、2本の稲穂は穂積町と巣南町の合併を意味すると市は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-mizuho-city-yurai
+  - text: 当地にまつわる伝説として、垂仁天皇の命を受けた倭姫命が天照大神を祀る地を求めて美濃国の伊久良河宮（現在の瑞穂市居倉）にとどまり、その後、生津から川を下って伊勢に赴かれた話が伝えられていると瑞穂市は紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v4-mizuho-city-yurai
+  column:
+    title: 国の美称をそのまま市名に
+    text: 合併で生まれる新市名には、旧町名の合成や方角名が多い中で、瑞穂市は古事記・日本書紀が日本国そのものを指して呼んだ「豊葦原之瑞穂国」から二文字を採りました。市役所のある旧穂積町には「穂」の字も通じますが、市が公式に語る由来はあくまで古典の美称です。市章に描かれた2本の稲穂は穂積町と巣南町の合併を表し、「みずみずしい稲穂の国」という名の意味をそのまま図案にしています。
+    sources:
+    - v4-mizuho-city-yurai
+    - v4-mizuho-wiki
+  relations:
+  - pref/21
+  unknowns:
+  - 新市名公募の応募総数と、候補5点から最終候補3点への絞り込みの基準は未確認
+  - 旧巣南町・穂積町それぞれの地名の語源は本バッチでは未調査
+  updated: '2026-11-13'
+- id: muni/21-白川村
+  code: '216046'
+  names:
+    ja: 白川村
+    reading: しらかわむら
+    aliases:
+    - 白川郷
+  user_terms:
+  - 白川村の名前の由来
+  - 白川郷の白川の意味
+  - 白川郷と白川村の違い
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 村名は歴史的な地域名「白川郷」の白川を受け継いだもので、「飛騨国白川郷」の名は平安時代末期の『玉葉』に見える。「白川」は「白い川」の意で、白山の地下から流れ出る温泉の鉱物のために庄川の水がしばしば濁って白く見えることを形容した名と説明される。明治時代に白川郷42集落のうち23集落が白川村となり、残りは荘川村（現在の高山市域）となった。
+  first_attestation:
+    era: 安元2年
+    year_western: 1176
+    document: 『玉葉』（九条兼実の日記）
+    note: 「飛騨国白川郷」の名の初見として白川郷・五箇山の合掌造り集落世界遺産センターが紹介するもの。村名はこの広域の地域名「白川郷」の継承である
+  claims:
+  - text: 平安時代末期、九条兼実の日記『玉葉』の安元2年（1176）の条に「飛騨国白川郷」の名が初めて見えると白川郷・五箇山の合掌造り集落世界遺産センターは紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-ogimachi
+  - text: 「白川」は「白い川」を意味し、休火山である白山の下から流れ出る温泉の鉱物が支流に流れ込むため、しばしば濁って白く見える庄川の水を形容した言葉であると、国土交通省の多言語解説文データベース（白川村多言語解説協議会作成）は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-mlit
+  - text: 白川郷は8世紀以来の白山信仰の修験の行場として開かれ、飛騨側からの白山登拝路の拠点であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-rekishi
+  - text: 江戸時代、白川郷には42の集落があり、大名の領地ではなく江戸幕府の直轄地（天領）であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-mlit
+    - k3-shirakawa-whc-rekishi
+  - text: 寿永2年（1183）に倶利伽羅峠の戦いで敗れた平家の残党が白川郷に落ちのびたとする伝説が、村人の間に語り継がれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-ogimachi
+  - text: 明治時代になると、白川郷の42集落のうち23集落が岐阜県白川村となり、残りの集落は荘川村（現在の高山市の一部）となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-rekishi
+  - text: 平成7年（1995）、白川村の荻町集落は富山県五箇山の集落とともに「白川郷・五箇山の合掌造り集落」として世界遺産に登録された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-shirakawa-whc-ogimachi
+  - text: 総務省の全国地方公共団体コードで、白川村の団体コードは216046と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 白川郷は、白川村より大きい
+    text: 「白川郷」と「白川村」は同じ範囲を指す言葉ではありません。白川郷は庄川流域の42集落全体を指した歴史的な広域の名前で、いまの白川村はそのうち下流側の23集落です。残りの集落は荘川村となり、2005年の合併で高山市の一部になりました。国土交通省の解説文も「白川郷の名は歴史上の全体を指すので、小さい方の白川村と混同しないように」とわざわざ注意しています。世界遺産の名前にある「白川郷」は広い方の白川郷で、村の名前はその一部を受け継いだものなのです。
+    sources:
+    - k3-shirakawa-mlit
+    - k3-shirakawa-whc-rekishi
+  relations:
+  - pref/21
+  - muni/21-高山市
+  unknowns:
+  - 白川村が成立した正確な年次（明治何年か）は、本バッチで確認した公的資料では特定できていない
+  - 「白い川」説の原典にあたる村史・地名辞典の記述は本バッチでは直接確認できていない
+  - 『玉葉』の該当記事の原文確認は行っておらず、世界遺産センターの紹介に基づく
+  updated: '2026-11-13'
+- id: muni/21-美濃加茂市
+  code: '212113'
+  names:
+    ja: 美濃加茂市
+    reading: みのかもし
+    aliases:
+    - 太田町
+    - 古井町
+    - 加茂野村
+  user_terms:
+  - みのかも
+  - 美濃加茂市の名前の由来
+  - 美濃と加茂
+  - 木曽川と飛騨川の合流点
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 美濃加茂市は1954年（昭和29年）4月1日に加茂郡の太田町・古井町ほか7か村（一部を含む）が合併して発足した市である。市名は、旧国名「美濃」と郡名「加茂」を組み合わせた合成地名で、この地が美濃国加茂郡に属していたことに由来する。国名と郡名の頭を連ねた命名は、同じく旧国名「美濃」を名に含む美濃市とは成り立ちが異なる。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: null
+    note: 「美濃加茂市」という地名の初出は1954年4月1日の市発足時。構成要素の「美濃」の表記変遷は美濃市のレコード、「加茂郡」の成立過程は本バッチでは未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、美濃加茂市の団体コードは212113と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 美濃加茂市の名は、この地が美濃国加茂郡に属していたことに由来するとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-minokamo-wiki
+  - text: すなわち市名は旧国名「美濃」と郡名「加茂」の合成であり、合併に参加した町村のいずれの名でもない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-minokamo-wiki
+  - text: 1954年（昭和29年）4月1日に太田町・古井町・山之上村・蜂屋村・加茂野村・伊深村・下米田村および三和村・和知村の一部が合併して美濃加茂市が誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-minokamo-wiki
+  - text: 平成期には美濃加茂市と加茂郡の町村による合併協議会が設けられたが、2004年の住民投票で美濃加茂市側の反対が多数となり協議会は解散した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-minokamo-wiki
+  - text: 市名の前半「美濃」の語は、7世紀に「三野」と書かれた国名が「御野」を経て707年から708年の間に「美濃」と改められたものである（JapanKnowledge「地名の読み方」の解説による）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-mino-japanknowledge
+  column:
+    title: 「国＋郡」の二段合成
+    text: 美濃加茂市の名は、一見すると「美濃」という大きな地名に「加茂」が付いただけに見えますが、実は律令制の行政区画「美濃国・加茂郡」の両方をそのまま引き継いだ二段合成の地名です。中心地だった太田町や古井町の名は残りませんでした。同じ県内に「美濃市」があるため混同されやすい両市ですが、美濃市は和紙にちなむ町名変更が先にあり、美濃加茂市は国名と郡名の合成という、まったく別の生い立ちを持ちます。
+    sources:
+    - v4-minokamo-wiki
+    - v4-mino-japanknowledge
+  relations:
+  - pref/21
+  - muni/21-美濃市
+  unknowns:
+  - 市名「美濃加茂」の決定過程（合併協議での候補名や選定理由）は、自治体公式資料では未確認で、Wikipedia の記述に拠る部分が大きい
+  - 「加茂」という郡名自体の語源は本バッチでは未調査
+  - 美濃加茂市公式サイトに市名の由来を解説するページがあるかは未確認
+  updated: '2026-11-13'
+- id: muni/21-美濃市
+  code: '212075'
+  names:
+    ja: 美濃市
+    reading: みのし
+    aliases:
+    - 美濃町
+    - 上有知町
+    - 上有知
+  user_terms:
+  - みの
+  - 美濃市の名前の由来
+  - 美濃和紙のまち
+  - うだつの上がる町並み
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 美濃市は、1911年（明治44年）に上有知町が美濃和紙にちなんで「美濃町」と改名したことに始まり、1954年（昭和29年）の合併で市となった。町名・市名に採用された「美濃」は旧国名だが、その表記は7世紀の「三野」から「御野」を経て、707年から708年の間に「美濃」と改められたもので、二度の改定を経た国名表記として知られる。「三野」の語源については、国内の三つの野に結びつける江戸時代の地誌の説明があるが、確定していない。
+  first_attestation:
+    era: 天武12年
+    year_western: 683
+    document: 藤原宮跡出土木簡
+    note: 藤原宮跡出土の癸未年（683年）の木簡に「三野大野評」とあるのが、国名としてのミノの古い用例として知られる。ただし木簡そのものを直接確認したわけではなく、JapanKnowledge「地名の読み方」の解説が紹介するものである。「美濃市」という地名の初出は1954年4月1日
+  claims:
+  - text: 総務省の全国地方公共団体コードで、美濃市の団体コードは212075と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: JapanKnowledge「地名の読み方」の解説によれば、ミノの国は7世紀には「三野」と表記され、藤原宮跡出土の683年（癸未年）の木簡に「三野大野評」とある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-mino-japanknowledge
+  - text: 同解説によれば、「三野」から「御野」への表記の改定は702年（大宝2年）11月ごろと推測され、さらに現在通用する「美濃」への再改定は707年（慶雲4年）から708年（和銅元年）の間のことである
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-mino-japanknowledge
+  - text: 同解説によれば、「三野」の内訳について、元文3年（1738年）序の地誌『美濃明細記』は青野・大野・各務野を挙げ、天保14年（1843年）成立の『新撰美濃志』は大野の代わりに加茂野を挙げており、江戸時代の地誌の間でも挙げる三野は一致していない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - v4-mino-japanknowledge
+  - text: 1911年（明治44年）4月1日に上有知町が、特産の美濃和紙にちなんで「美濃町」と改名した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-mino-wiki
+  - text: 1954年（昭和29年）4月1日に美濃町・洲原村・下牧村・上牧村・大矢田村・藍見村・中有知村の1町6村が合併して美濃市が成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-mino-wiki
+  - text: 「うだつの上がる町並み」は1999年に国の重要伝統的建造物群保存地区に選定された、江戸時代以来の美濃和紙商の町並みである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-mino-wiki
+  column:
+    title: 二度も書き換えられた国名
+    text: 「美濃」という美しい字面は、最初からこの字だったわけではありません。7世紀の木簡では「三野」、702年ごろに「御野」、そして707〜708年に「美濃」と、二度にわたって表記が改められました。国名で二度の改定が確認できる例はほかになく、地名研究ではよく知られた事例です。その国名を町名にいただいたのが1911年の上有知町で、理由は全国に名を知られた美濃和紙。紙のブランドが、そのまま町の看板になったのです。
+    sources:
+    - v4-mino-japanknowledge
+    - v4-mino-wiki
+  relations:
+  - pref/21
+  - muni/21-美濃加茂市
+  unknowns:
+  - 「三野」の語源（三つの野に由来するという説明は江戸時代の地誌によるもので、古代の根拠は未確認）
+  - 上有知町の改名に際して「美濃和紙にちなんだ」以外の選定経緯（候補名の有無等）は未確認
+  - 美濃市公式サイトの市名由来の説明は本バッチでは未確認
+  updated: '2026-11-13'
+- id: muni/21-羽島市
+  code: '212091'
+  names:
+    ja: 羽島市
+    reading: はしまし
+    aliases:
+    - 羽島郡
+    - 竹ヶ鼻町
+  user_terms:
+  - はしま
+  - 羽島市の名前の由来
+  - 岐阜羽島
+  - 羽島郡の市
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 羽島市の名は郡名「羽島郡」に由来し、この郡名は1897年（明治30年）に羽栗郡と中島郡が合併した際、両郡の頭文字「羽」と「島」を組み合わせて作られた合成地名である。さらに遡ると、羽栗郡は1586年（天正14年）の木曽川大洪水で分断された尾張国葉栗郡の美濃側部分で、区別のため「葉」を「羽」に改めたものとされる。しばしば言われる「羽の形をした島状の地」という語源は、今回確認した資料では裏付けが取れなかった。
+  first_attestation:
+    era: 明治30年
+    year_western: 1897
+    document: null
+    note: 「羽島」という地名の初出は1897年4月1日の羽島郡発足時。「羽島市」としては1954年4月1日の市発足時
+  claims:
+  - text: 総務省の全国地方公共団体コードで、羽島市の団体コードは212091と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1897年（明治30年）、郡制の施行によって羽栗郡と中島郡が合併した際、それぞれの一文字を使い「羽島郡」となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - v4-hashima-gogen
+  - text: 1954年（昭和29年）に羽島郡南部の竹ヶ鼻町・足近村・小熊村・正木村・福寿村・江吉良村・堀津村・上中島村・下中島村・桑原村の10町村が合併して「羽島市」が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - v4-hashima-gogen
+  - text: 羽島の元となる羽栗郡は尾張国葉栗郡の一部であり、天正14年（1586年）の木曽川の大洪水で流路が変わって葉栗郡が分断されたため、美濃側は美濃国に編入され、尾張側と区別するため「葉」の字が「羽」に変更された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - v4-hashima-gogen
+    - v4-haguri-wiki
+  - text: 一方、『新撰美濃志』および同書を底本とする『古事類苑』では、木曽川沿いの葉栗・中島・海西の三郡のうち百二十余村を分割して美濃国に移したのは天正10年（1582年）とされており、分断・移管の年次には異説がある
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - v4-haguri-wiki
+  - text: もう一方の構成要素「中島」については、川に囲まれた島状の地の意味からと思われると語源資料は説明する
+    kind: fact
+    level: E4
+    status: inferred
+    sources:
+    - v4-hashima-gogen
+  - text: 市内には東海道新幹線の岐阜羽島駅と名神高速道路の岐阜羽島インターチェンジがあり、「岐阜羽島」の呼称が店舗名等で広く使われている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-hashima-wiki
+  column:
+    title: 洪水が書き換えた郡の字
+    text: 「羽島」の「羽」は、もとは「葉栗郡」の「葉」でした。1586年の木曽川大洪水で川筋が変わり、尾張国の葉栗郡が川の両側に分断されると、美濃側は区別のため「羽栗郡」と字を改めました。さらに1897年、中島郡と合併する際に「羽栗」の羽と「中島」の島を取って「羽島郡」が生まれ、それが1954年に市名になりました。大河の氾濫と明治の郡制という、二つの大きな出来事が刻まれた地名です。
+    sources:
+    - v4-hashima-gogen
+    - v4-haguri-wiki
+  relations:
+  - pref/21
+  unknowns:
+  - 「羽の形をした島状の地」という語源説は、今回確認した語源資料・公的資料には見当たらず、裏付け未確認（郡名合成説が資料上の正規の説明）
+  - 葉栗郡の分断・美濃編入の年次は1586年洪水・1589年移管とする説明と、1582年とする『新撰美濃志』系の記述が対立している
+  - 羽島市公式サイトの市名由来の説明は本バッチでは未確認
+  updated: '2026-11-13'
+- id: muni/21-郡上市
+  code: '212199'
+  names:
+    ja: 郡上市
+    reading: ぐじょうし
+    aliases:
+    - 郡上郡
+    - 八幡町
+    - 郡上八幡
+  user_terms:
+  - ぐじょう
+  - 郡上市の名前の由来
+  - 郡上八幡
+  - 郡上おどりのまち
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 郡上市は2004年（平成16年）3月1日に郡上郡の八幡町・大和町・白鳥町・高鷲村・美並村・明宝村・和良村の7町村が合併して発足した市で、市名は郡名「郡上郡」をそのまま継承した。郡上郡は855年（斉衡2年）に美濃国武儀郡から分置された郡で、郡名は武儀郡の上（北方・上流側）に位置することに由来するとされる。市の中心は旧八幡町の郡上八幡で、近世以来の城下町として知られる。
+  first_attestation:
+    era: 斉衡2年
+    year_western: 855
+    document: null
+    note: 郡上郡の成立年（855年、武儀郡から分置）。「郡上」の語の初出の文書そのものは未確認で、成立の事実は郡上市公式の文化財保存活用地域計画が記す。「郡上市」としては2004年3月1日が初出
+  claims:
+  - text: 総務省の全国地方公共団体コードで、郡上市の団体コードは212199と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 郡上市によれば、郡上のはじまりは斉衡2年（855年）に美濃国の郡の一つとして武儀郡から分置されたことである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-gujo-city-bunkazai
+  - text: 郡名「郡上」の由来は、地図で見た場合に「武儀郡の上にある郡」であることからとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-gujo-gun-wiki
+  - text: 郡上市によれば、平成16年（2004年）に「郡上はひとつ」を合言葉として7町村が合併し、岐阜県で19番目の市として郡上市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-gujo-city-bunkazai
+  - text: 合併した7町村は郡上郡の八幡町・大和町・白鳥町・高鷲村・美並村・明宝村・和良村であり、市名は郡の全域を占める合併であったため郡名をそのまま市名とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-gujo-city-bunkazai
+  - text: 市の中心市街地は旧八幡町の郡上八幡で、近世以来の城下町であり、郡上おどりで全国的に知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-gujo-city-bunkazai
+  column:
+    title: 郡がそのまま市になった
+    text: 平成の大合併では、新市名を公募で決める例が目立ちましたが、郡上市は違いました。合併した7町村がちょうど郡上郡の全町村だったため、855年以来1150年近く続いた郡の名を、そのまま市の名に引き継いだのです。「郡上はひとつ」という合言葉どおり、郡という古い枠組みが市という新しい枠組みに姿を変えた稀な事例で、郡名が現行自治体名として残る数少ない例の一つです。
+    sources:
+    - v4-gujo-city-bunkazai
+    - v4-gujo-gun-wiki
+  relations:
+  - pref/21
+  unknowns:
+  - 郡名「郡上」の由来（武儀郡の上とする説明）の典拠となる専門辞典（角川日本地名大辞典等）の記述は未確認
+  - 855年の分置を記す一次史料（『日本文徳天皇実録』等）の直接確認は未実施
+  - 旧八幡町の「八幡」の名の由来（八幡宮との関係）は本バッチでは未調査
+  updated: '2026-11-13'
+- id: muni/21-関市
+  code: '212059'
+  names:
+    ja: 関市
+    reading: せきし
+    aliases:
+    - 関町
+    - 関村
+  user_terms:
+  - 刃物のまち関
+  - 関鍛冶の里
+  - 関の刃物
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は中心地の古名「関」を継ぐ。関は長良川と津保川が合流する交通の要衝で、鎌倉時代以降は関鍛冶を擁する刀鍛冶の町として発展した。地名の由来そのものは確定しておらず、街道の関所に由来する説が関市の公式資料で紹介される。1950年に武儀郡関町が市制を施行して関市となり、2005年に武儀郡の5町村を編入して現在の市域となった。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: （文書上の初出は未確認）
+    note: 関鍛冶の活動が知られる鎌倉時代には「関」の地名が成立していたとみられるが、本バッチでは初出の文書を特定できなかった
+  claims:
+  - text: 「関」の地名の由来は確定しておらず、関市の公式資料は、街道沿いに「関所」が置かれていたことに由来するという説があると紹介するにとどまる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - n5-seki-city-plan
+  - text: 古代の関周辺には武儀郡の郡衙が置かれ、その跡とされる弥勒寺官衙遺跡（国史跡）があり、古くから地域の中心地であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n5-seki-city-plan
+  - text: 鎌倉時代、寛喜元年（1229）に伯耆国檜原から来た刀匠・元重が関で刀を打ち始めたのが関鍛冶の発祥であると、関市公式の文化財解説は伝承として紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - n5-seki-motoju
+  - text: 関市公式の解説によれば、元重の子・金重は鎌倉の五郎入道正宗に弟子入りして志津三郎兼氏を伴い帰郷し、関鍛冶はやがて「関鍛冶七流」を生むまでに発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n5-seki-motoju
+  - text: 市内の古町遺跡からは室町時代後期の鍛冶作業の遺構（炉跡・フイゴの羽口など）が発掘され、中世の関が刀剣や鉄製品を各地に供給する鍛冶の町だったことが考古学的に裏づけられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n5-seki-furumachi
+  - text: 昭和25年（1950）10月15日、武儀郡関町が市制を施行して関市が発足し（全国で238番目、県下で5番目）、平成17年（2005）には武儀郡の洞戸村・板取村・武芸川町・武儀町・上之保村を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - n5-seki-city-plan
+  - text: 関市の地方公共団体コードは212059である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - n5-ecitizen-gifu
+  column:
+    title: 千軒鍛冶屋の謳われた町
+    text: 関鍛冶の最盛期のさまを、関市公式は「関は千軒鍛冶屋が名所、鍛冶屋がなければこりゃ山家」という謳い文句で紹介する。市中心部の古町遺跡の発掘では、室町時代の炉の底（火床）やフイゴの羽口、椀型滓などが見つかり、鍛冶の作業が同じ場所で繰り返し行われていたことが分かった。伝承の刀祖・元重から数えて約800年、関はいまも「刃物の町」として知られる。地名「関」の由来ははっきりしないが、その名を全国に知らしめたのは鍛冶の技だった。
+    sources:
+    - n5-seki-motoju
+    - n5-seki-furumachi
+  relations:
+  - pref/21
+  - muni/21-各務原市
+  - muni/21-岐阜市
+  unknowns:
+  - 「関」の文書上の初出、および関所が実際に置かれた場所・時期は本バッチでは確認できなかった
+  - 「せき」を堰など川の地形に由来するとする説は、公的・専門資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/21-飛騨市
+  code: '212172'
+  names:
+    ja: 飛騨市
+    reading: ひだし
+    aliases:
+    - 飛驒市
+    - 斐太
+    - 斐陀
+    - 古川町
+    - 神岡町
+  user_terms:
+  - ひだ
+  - 飛騨市の名前の由来
+  - 飛騨古川
+  - 旧国名の市
+  naming_type: 合併新設
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 飛騨市は2004年（平成16年）2月1日に吉城郡の古川町・神岡町・河合村・宮川村が合併して発足した市で、市名は旧国名「飛騨」をそのまま採用した。新市名の公募では「飛騨市」が応募の過半数を占めた。「飛騨」の読み「ヒダ」の表記は古くは一定せず、斐太・斐陀などと書かれたが、707年から708年の間に「飛驒（飛騨）」に定まったと推測されている。なお市の正式な表記は旧字の「飛驒市」である。また、ブリーフで言及された『日本書紀』の「飛弾」説は、確認できた範囲では表記の揺れの一つに「飛弾」があるという話であり、語源説として独立した典拠は見つからなかった。
+  first_attestation:
+    era: 和銅年間
+    year_western: 708
+    document: null
+    note: 「飛驒」の表記が定着したと推測される時期（707〜708年）。ヒダという語自体はそれ以前からあり『万葉集』では「斐太」、『国造本紀』『賦役令』では「斐陀」と書かれたが、いずれも二次資料経由の紹介であり原文の直接確認は未実施。「飛騨市」としての初出は2004年2月1日
+  claims:
+  - text: 総務省の全国地方公共団体コードで、飛騨市の団体コードは212172と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 飛騨市によれば、同市は2004年（平成16年）2月1日に旧吉城郡に属する古川町・河合村・宮川村・神岡町の2町2村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-hida-city-20th
+  - text: 飛騨市によれば、新市名の公募の応募総数は2176票で、最多は「飛騨市」の1138票、2位は「吉城市」の225票であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v4-hida-city-20th
+  - text: 合併協議の過程では、飛騨地域の広域合併を目指した高山市・大野郡・吉城郡の10市町村が、吉城郡4町村の新市名「飛騨市」の再検討を申し入れた経緯がある（2003年5月6日）が、合併協定は同年5月8日に調印された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v4-hida-uub
+  - text: 日本歴史地名大系系の解説によれば、ヒダの表記は古くは一定せず、『日本書紀』では「飛驒」、『万葉集』では「斐太」、『国造本紀』や『賦役令』では「斐陀」と書かれ、このほか「卑田」「比太」「飛駄」「飛弾」の表記も存在した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-hidakuni-weblio
+  - text: 同解説によれば、8世紀初頭までは「斐陀」や「斐太」と表記されることが多く、「飛驒」と表記されるようになったのは和銅年間以降と考えられている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-hidakuni-weblio
+  - text: 同解説によれば、『続日本紀』には大宝2年（702年）に飛騨国が神馬を献じた記録があり、『万葉集』巻16には「斐太の大黒」と詠まれたこの神馬の歌がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-hidakuni-weblio
+  - text: 同解説によれば、飛騨市は市の正式名称を本来の字である「驒」を用いた「飛驒市」としている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v4-hidakuni-weblio
+  - text: 『和漢三才図会』が引く飛騨国風土記の逸文は、天智天皇の近江大津宮造営の際、この地から良材を多く出し馬の駄に負わせて運んだ速さが飛ぶようであったため「飛駄の国」と呼んだと伝えるが、日本古典文学大系の脚注はこの話を後代のもの（古代の説話には見られないもの）とする
+    kind: legend
+    level: E3
+    status: contested
+    sources:
+    - v4-hidakuni-weblio
+  column:
+    title: 公募の過半数が選んだ国名
+    text: 飛騨市の新市名公募では、2176票のうち1138票、過半数が「飛騨市」を支持しました。ところが同時期、飛騨地域全体の広域合併を模索していた高山市側も新市名に「飛騨」を考えており、吉城郡4町村に対して「飛騨市」の再検討を求める一幕がありました。結局4町村は「飛騨市」で発足し、翌2005年に発足した新しい高山市は「高山市」の名を守りました。「飛騨」という国名の正統な継承者をめぐる、平成の大合併らしいエピソードです。
+    sources:
+    - v4-hida-city-20th
+    - v4-hida-uub
+  relations:
+  - pref/21
+  unknowns:
+  - 「ヒダ」という語そのものの語源（山の襞・峡を意味するという説など）は、今回確認した専門資料では断定されておらず未確認
+  - ブリーフで言及された『日本書紀』の「飛弾」説は、表記の揺れの一つとして「飛弾」があること以上の典拠は見つからなかった
+  - 飛騨国の成立時期（7世紀後半とする説が紹介される）について、一次史料の直接確認は未実施
+  - 両面宿儺の伝承（『日本書紀』仁徳天皇65年条）など飛騨にまつわる伝説層は本バッチでは未収録
+  updated: '2026-11-13'
+- id: muni/21-高山市
+  code: '212032'
+  names:
+    ja: 高山市
+    reading: たかやまし
+    aliases:
+    - 高山町
+  user_terms:
+  - 高山市の名前の由来
+  - 飛騨高山の名前の理由
+  - 高山は人名なのか
+  naming_type: 一部の地名
+  prefecture: 岐阜県
+  homonyms: []
+  summary: 市名は城下町「高山」の継承で、その地名は永正年間（1504〜21）に守護代多賀氏の一族・高山外記が現在の城山に城砦を築いた頃にさかのぼると高山市は説明する。城内に多賀天神を祀って天神山・多賀山と称したことに由来するともいわれており、由来は確定していない。天正14年（1586）に金森長近が高山城を築いて城下町を形成し、昭和11年（1936）に市制を施行した。
+  first_attestation:
+    era: 永正年間（1504〜21年）
+    year_western: null
+    document: 高山市公式資料（高山市中心市街地活性化基本計画）
+    note: 「高山」の地名は高山外記が城山に城砦を築いた頃にさかのぼると市の公式計画が説明するもので、同時代文書による初出の特定ではない
+  claims:
+  - text: 「高山」の地名は、永正年間（1504〜21）に守護代多賀氏の一族である高山外記が、現在の城山に城砦を築いた頃にさかのぼると高山市の公式資料は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 城内に近江の多賀天神を祀り、天神山・多賀山と称したことに由来するともいわれている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k3-takayama-chushin
+  - text: 天正13年（1585）に飛騨を平定した金森長近は、翌天正14年に飛騨に入り、天神山に高山城の築城を始めて城下町を形成した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 明治8年（1875）に高山一之町村・二之町村・三之町村が合併して高山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 昭和11年（1936）11月1日、大名田町を合併して市制を施行し、高山市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 平成17年（2005）2月1日に丹生川村・清見村・荘川村など周辺9町村と合併し、日本一広大な面積を有する市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k3-takayama-chushin
+  - text: 総務省の全国地方公共団体コードで、高山市の団体コードは212032と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「高山」は人名だったのか、山の名か
+    text: 高山という地名の候補は2つあります。ひとつは永正年間に城砦を築いた武将・高山外記という人名。もうひとつは、城内に多賀天神を祀った山が天神山・多賀山と呼ばれたという山の名の系譜です。高山市の公式資料は前者を本筋として書きながら、後者も「由来するともいわれている」と併記していて、決着はついていません。はっきりしているのは、どちらの話でも出発点が同じ城山（いまの高山城跡）だということ、そして金森長近がこの名を受け継いで城下町を完成させ、名前が飛騨の中心地の呼び名として定着したことです。
+    sources:
+    - k3-takayama-chushin
+  relations:
+  - pref/21
+  - muni/21-白川村
+  unknowns:
+  - 高山外記の人名に由来するのか、天神山・多賀山の称に由来するのかは、市の公式資料でも確定していない
+  - 「高山」の同時代文書における初出は本バッチでは特定できていない
+  - 高山外記という人物の実在性と事績の検証は本バッチでは行えていない
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  c-cap-azuchi-sogyoroku:
+    label: 『安土創業録』（後世の編纂物。沢彦宗恩の3案進言の話の出典とされる）
+  c-cap-gifu-uub:
+    label: 都道府県市区町村「岐阜市（1889年〜）市区町村変遷情報」（1889年7月1日の市制施行を収録）
+    url: https://uub.jp/upd/c/12911.html
+  c-cap-nobunaga-koki:
+    label: 『信長公記』（太田牛一。井口を岐阜と改めたことを記す当事者に近い記録）
+  h2-ikeda-gifu-kankyo:
+    label: 岐阜県池田町「一般廃棄物（ごみ処理）基本計画」（池田町の沿革：温知村から池田町へ）
+    url: https://www.town.gifu-ikeda.lg.jp/cmsfiles/contents/0000002/2241/4kankyo.pdf
+  h2-ikeda-gifu-shiryo:
+    label: 岐阜県池田町公式サイト「ふるさと史料室企画展のお知らせ」（池田町の歴史と池田荘）
+    url: https://www.town.gifu-ikeda.lg.jp/0000003590.html
+  h2-kotobank-ikeda:
+    label: コトバンク「池田」（日本歴史地名大系、美濃国池田荘と土岐頼忠）
+    url: https://kotobank.jp/word/%E6%B1%A0%E7%94%B0-30278
+  h2-kotobank-ikedacho:
+    label: コトバンク「池田町」（日本歴史地名大系・ブリタニカ国際大百科事典 小項目事典）
+    url: https://kotobank.jp/word/%E6%B1%A0%E7%94%B0%E7%94%BA-30274
+  k3-shirakawa-mlit:
+    label: 国土交通省（観光庁）地域観光資源の多言語解説文データベース「白川郷の名の由来」（白川村多言語解説協議会作成。白い川の説明と白川郷42集落の範囲）
+    url: https://www.mlit.go.jp/tagengo-db/R2-00148.html
+  k3-shirakawa-whc-ogimachi:
+    label: 白川郷・五箇山の合掌造り集落世界遺産センター「白川郷荻町集落」（『玉葉』安元2年の飛騨国白川郷の初見と平家落人伝説）
+    url: https://whc-shirakawa-goandgokayama.jp/three_villages/ogimachi
+  k3-shirakawa-whc-rekishi:
+    label: 白川郷・五箇山の合掌造り集落世界遺産センター「歴史・産業」（白山信仰の拠点としての白川郷、明治期の白川村と荘川村への分割）
+    url: https://whc-shirakawa-goandgokayama.jp/background
+  k3-takayama-chushin:
+    label: 高山市「高山市中心市街地活性化基本計画」（高山市の概況と沿革。高山外記と高山の地名、金森長近の高山城、1936年の市制施行）
+    url: https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/019/514/202403-01-01.pdf
+  l3-ogaki-90th:
+    label: 大垣市『大垣市制90周年記録集』（大正7年4月1日の市制）
+    url: https://www.city.ogaki.lg.jp/cmsfiles/contents/0000003/3120/90kiroku.pdf
+  l3-ogaki-chukatsu:
+    label: 大垣市『中心市街地活性化基本計画』（沿革：「大柿」の説明、平成18年の合併）
+    url: https://www.city.ogaki.lg.jp/cmsfiles/contents/0000069/69397/20260317_tyukatu_12.pdf
+  l3-ogaki-koho:
+    label: 大垣市『広報おおがき』平成31年1月1日号（市制100周年「全国の大垣さん大集合」）
+    url: https://www.city.ogaki.lg.jp/cmsfiles/contents/0000043/43581/2019_0101_6.pdf
+  l3-ogaki-mlit:
+    label: 国土交通省中部地方整備局木曽川上流河川事務所『水に関わる町名の由来について【大垣市編】』（『大垣市史』の説を紹介）
+    url: https://www.cbr.mlit.go.jp/kisojyo/understand/data/ibi_02/140310_siryou.pdf
+  n5-ecitizen-gifu:
+    label: 統計LOD「愛知県の市区町村コード一覧」に対応する岐阜県の一覧（統計に用いる標準地域コード。関市212059・多治見市212041・土岐市212121・各務原市212130）
+    url: https://ecitizen.jp/Sac/21
+  n5-kakamigahara-city-enkaku:
+    label: 各務原市公式「沿革」（1963年に那加町・稲羽町・鵜沼町・蘇原町が合併して各務原市誕生、2004年の川島町との合併）
+    url: https://www.city.kakamigahara.lg.jp/shisei/aramashi/1006015.html
+  n5-kakamigahara-wiki:
+    label: Wikipedia「各務原市」（『各務原市史』に基づく読みの変遷＝各牟郡から各務ヶ原を経て市制時に「かかみがはら」、地名の由来諸説＝鏡作部説と各牟氏説、読みの不統一と「みっぱら」）
+    url: https://ja.wikipedia.org/wiki/%E5%90%84%E5%8B%99%E5%8E%9F%E5%B8%82
+  n5-seki-city-plan:
+    label: 関市公式資料「第1章 都市の現況・特性の調査・分析」（関の沿革、関所に由来する説、武儀郡衙・弥勒寺官衙遺跡、1950年の市制と2005年の合併）
+    url: https://www.city.seki.lg.jp/cmsfiles/contents/0000009/9183/011114s.pdf
+  n5-seki-furumachi:
+    label: 関市公式「古町遺跡」（室町時代後期の鍛冶作業遺跡。中世の関が鍛冶の町だったことの発掘による裏づけ）
+    url: http://www.city.seki.lg.jp/kanko/0000016693.html
+  n5-seki-motoju:
+    label: 関市公式「刀祖元重の碑」（関鍛冶の発祥伝承、元重・金重・兼氏と関鍛冶七流、「関は千軒鍛冶屋」の謳い文句）
+    url: http://www.city.seki.lg.jp/kanko/0000001533.html
+  n5-tajimi-city-enkaku:
+    label: 多治見市公式「沿革」（1889年の町制、1940年の市制施行、2006年の笠原町との合併）
+    url: https://www.city.tajimi.lg.jp/_res/projects/default_project/_page_/001/010/224/enkaku.pdf
+  n5-tajimi-kotobank:
+    label: コトバンク「多治見村」（平凡社『日本歴史地名大系』。語源諸説と「いずれも根拠がない」との評、1383年の永保寺文書「多治見郷」、多治見国長と「田地味」表記・国長邸跡）
+    url: https://kotobank.jp/word/%E5%A4%9A%E6%B2%BB%E8%A6%8B%E6%9D%91-3061551
+  n5-toki-kanko:
+    label: 土岐市観光協会「土岐市の紹介」（土岐源氏が基礎をつくったまち、土岐砂礫層と良質な陶土、陶磁器生産地としての発展）
+    url: https://toki-kankou.jp/about-toki-city
+  n5-toki-kotobank:
+    label: コトバンク「土岐市」（平凡社『日本歴史地名大系』＝土岐の初見は『日本書紀』天武5年条の「礪杵郡」、美濃源氏が土岐と号した経緯。ブリタニカ小項目事典＝1955年に5町3村が合併して市制）
+    url: https://kotobank.jp/word/%E5%9C%9F%E5%B2%90%E5%B8%82
+  n5-tokigun-wiki:
+    label: Wikipedia「土岐郡」（刀支県・刀支評と出土木簡、土岐氏発祥の地であること、3市の市の花キキョウ。『角川日本地名大辞典 21 岐阜県』等を参考文献とする記事）
+    url: https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B2%90%E9%83%A1
+  v3-chunichi-gero:
+    label: 中日新聞2022年9月26日記事。下呂町史『飛騨下呂』（1990）の記述として、古代の駅家「下留駅」が776年に設けられたこと、応永19年（1412）の史料に「下呂郷」の表記があることを紹介する
+    url: https://www.chunichi.co.jp/article/551999
+  v3-geoshape-mizunami-son:
+    label: 歴史的行政区域データセットβ版（CODH）「岐阜県土岐郡瑞浪村」。瑞浪村の有効期間が1897年4月1日から1920年5月1日までであることを示す
+    url: https://geoshape.ex.nii.ac.jp/city/resource/21B0160008.html
+  v3-gero-shisei-yoran:
+    label: 下呂市「2016 下呂市データ集（市政要覧）」。下呂市は平成16年（2004）3月1日に旧益田郡の萩原町・小坂町・下呂町・金山町・馬瀬村の5町村が合併して誕生したこと、江戸時代の儒学者・林羅山が下呂温泉を有馬・草津と並ぶ天下の三名泉と表したことを記す下呂市公式資料
+    url: https://www.city.gero.lg.jp/uploaded/attachment/2482.pdf
+  v3-gifu-lib-ena-shi:
+    label: 岐阜県図書館「恵那市史 恵那市の地名」目次ページ。『恵那市史 恵那市の地名』（恵那市史編纂委員会、1985年）が地名を専門に扱う巻であり、第1編第1章で「恵那」の名を扱っていることを示す
+    url: https://www.library.pref.gifu.lg.jp/gifuken-mokuji/ena/ena_enasinotimei.htm
+  v3-kaizu-plan:
+    label: 海津市「都市再生整備計画 海津中央地区」（平成25年3月、海津市公式）。海津市は平成17年（2005）3月28日に海津郡海津町・平田町・南濃町が合併して発足したこと、地区が全国的に有名な輪中「高須輪中」であり海抜0メートルの水郷地帯であること、江戸時代の薩摩藩士による宝暦治水の史跡が残ることを記す
+    url: https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000000/14/keikaku1.pdf
+  v3-kani-koho:
+    label: 可児市「広報かに」2026年3月号「歴史じまん7 可児市のじまんとほこり」（可児市公式）。「カニ」という地名は約1300年以上前からあり、飛鳥池遺跡出土の木簡（677年ごろ）に「加尓」とあるのが現在見つかっている最古の記録であること、語源には蟹薬師の伝説・可児川の「カネガワ」説・和珥氏説があるが市の資料はいずれも推測であると明記していること、蟹薬師説は寺の成立より木簡の方が古いため疑問が残ると注記していることを記す
+    url: https://www.city.kani.lg.jp/secure/29934/11.pdf
+  v3-kani-nenpyo:
+    label: 可児市公式 年表資料。昭和30年（1955）2月に広見町・今渡町・土田村・帷子村・春里村・久々利村・平牧村が合併して可児町が誕生したこと、昭和57年（1982）4月に可児市が誕生したこと、平成17年（2005）5月に可児市と兼山町が合併して新可児市が誕生したことを記す
+    url: https://www.city.kani.lg.jp/secure/26017/p4-6 nennpyou.pdf
+  v3-mizunami-gaiyou:
+    label: 瑞浪市公式「瑞浪市の概況」。瑞浪市は古代は東山道、中世は鎌倉街道、近世は中山道の宿場町として、東西の政治・経済・文化が流入して栄えた歴史のあるまちであることを記す
+    url: https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/001/543/gaiyou.pdf
+  v3-mizunami-kikakusho:
+    label: 瑞浪市公式「みずなみプロモーションによる移住・定住促進プロジェクト」企画書。瑞浪市は室町時代からの伝統を誇る陶磁器のまちであり、古生物等の化石が発見されるまちでもあることを記す
+    url: https://www.city.mizunami.lg.jp/_res/projects/default_project/_page_/001/010/016/kikakusho.pdf
+  v3-motosu-event:
+    label: 本巣市教育委員会「ふるさと学習ロマンプロジェクト」案内（本巣市公式）。「本巣市の地名の由来となった古代豪族『本巣国造（もとすのくにのみやつこ）』」と明記し、本巣国造を地名の由来として市の公式行事で位置付けている
+    url: https://www.city.motosu.lg.jp/cmsfiles/contents/0000001/1077/1nitteihyou.pdf
+  v3-motosu-survey:
+    label: 本巣市「いにしえの本巣 本巣市詳細遺跡分布調査報告」（本巣市公式）。2004年2月1日に本巣町・真正町・糸貫町・根尾村が合併して本巣市が誕生したこと、本巣市山口は本巣郡条里の1条目と推定され古代の本巣郡の肥沃な台地が広がっていたと考えられることを記す
+    url: https://www.city.motosu.lg.jp/cmsfiles/contents/0000001/1143/inishienomotoshu.pdf
+  v3-nakatsugawa-plan:
+    label: 中津川市「中心市街地活性化基本計画」（平成20年7月）。中心市街地は中山道の宿場町「中津川」を起源とすること、明治30年（1897）の合併で中津川町が誕生し昭和26年（1951）に苗木町を合併、翌27年（1952）に市制を施行したこと、平成17年（2005）2月に長野県山口村および隣接6町村との合併で新「中津川市」が発足し、越県合併は全国唯一であったことを記す中津川市公式資料
+    url: https://www.city.nakatsugawa.lg.jp/material/files/group/42/Shougyou_chukatsu_kihonkeikaku_H2007.pdf
+  v3-soumu-hakusyo-r07:
+    label: 総務省「令和7年版 地方財政白書 資料編〔附属資料〕昭和60年度以降の市町村合併の実績」。平成15年（2003）4月1日に山県郡高富町・伊自良村・美山町が新設合併して山県市となったこと、平成16年（2004）3月1日に益田郡萩原町・小坂町・下呂町・金山町・馬瀬村が新設合併して下呂市となったことを記す
+    url: https://www.soumu.go.jp/menu_seisaku/hakusyo/chihou/r07data/2025data/r07czs06-04.html
+  v3-weblio-ena-gun:
+    label: Weblio辞書「恵那郡」（Wikipedia「恵那郡」の転載）。飛鳥池遺跡出土の天武天皇6年（677）の木簡に「土支評恵奈五十戸造阿利麻」とあること、天平勝宝2年（750）の「美濃国司解」（東南院文書）に「恵奈郡繪下郷」とあり恵那郡は8世紀初め頃に土岐郡から分離成立したと推定されること、『延喜式』『和名類聚抄』には「恵奈」と書かれ、『正保国絵図』では「恵那郡」、元禄以後は「恵奈郡」に戻り明治に「恵那郡」に定まったこと、恵那山に胞衣（えな）を納めたとする伝説を記す
+    url: https://www.weblio.jp/content/%E6%81%B5%E9%82%A3%E9%83%A1
+  v3-weblio-nakatsugawa:
+    label: Weblio辞書「中津川市」（Wikipedia「中津川市」の転載）。もともとの地名は「中津」で、市名の「中津川」は川の名前だが、大分の中津市との重複や中津川宿の名から「中津川」となったこと、中津川は恵那山を源流とすることを記す
+    url: https://www.weblio.jp/content/%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82
+  v3-wiki-ena:
+    label: Wikipedia「恵那市」。1954年4月1日に恵那郡の大井町・長島町・東野村・三郷村・武並村・笠置村・中野方村・飯地村が合併して恵那市が発足したこと、2004年10月25日に恵那郡の山岡町・明智町・岩村町・串原村・上矢作町との新設合併で改めて恵那市となったこと、地名の由来について山内和幸の説（「鄙びた処＝ひな」がなまって「えな」に変化した）を紹介する
+    url: https://ja.wikipedia.org/wiki/%E6%81%B5%E9%82%A3%E5%B8%82
+  v3-wiki-gero-onsen:
+    label: Wikipedia「下呂温泉」。「下留」が「げる」→「げろ」と転じて「下呂」の字が当てられたとする語源説、文永2年（1265）に飛騨川の河原への湧出が発見されたことが白鷺伝説として伝わること、当時の泉名は「湯島」と表記されていたことを記す
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%91%82%E6%B8%A9%E6%B3%89
+  v3-wiki-kaizu:
+    label: Wikipedia「海津市」。1897年4月1日に海西郡・下石津郡・安八郡の一部が合併して海津郡となったこと、1955年1月15日に高須町・吉里村・東江村・大江村・西江村が合併して海津町が成立したこと、市域東部はもと尾張国海西郡に属し16世紀末の木曽川の河道変更を経て1589年に美濃国海西郡となったこと、1606年ごろに高須輪中が完成したことを紹介する
+    url: https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%A5%E5%B8%82
+  v3-wiki-mizunami-cho:
+    label: Wikipedia「瑞浪町」。村名は「水の南」（土岐川の南）の意味と「瑞穂の浪打つ」という意味で名付けられたこと、1920年5月1日に町制施行で瑞浪町となったこと、瑞浪市は瑞浪土岐町ほかの合併で成立した市で、市名は旧・瑞浪町の名を継承していることを記す
+    url: https://ja.wikipedia.org/wiki/%E7%91%9E%E6%B5%AA%E7%94%BA
+  v3-wiki-mizunami-toki:
+    label: Wikipedia「瑞浪土岐町」。1951年4月1日に瑞浪町・土岐町が合併して瑞浪土岐町が発足したこと、1954年4月1日に瑞浪土岐町・稲津村・釜戸村・大湫村・日吉村・明世村（山野内・月吉・戸狩）・恵那郡陶町が合併して瑞浪市が発足したことを記す
+    url: http://ja.wikipedia.org/wiki/瑞浪土岐町
+  v3-wiki-motosu:
+    label: Wikipedia「本巣市」。本巣市が本巣郡北方町と隣接することなど、現在も本巣郡が北方町を残して存続していることを示す
+    url: https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B7%A3%E5%B8%82
+  v3-wiki-motosu-cho:
+    label: Wikipedia「本巣町」。本巣町は本巣郡に属したこと、1950年6月1日に山添村と文殊村が合併して本巣村が成立し、1960年4月1日に町制施行で本巣町となったこと、2004年2月1日に本巣市となったことを記す
+    url: http://ja.wikipedia.org/wiki/本巣町
+  v3-wiki-nakatsu-cho:
+    label: Wikipedia「中津町（岐阜県）」。1889年に中津川村が町制施行して中津川町（初代）となり、1897年に駒場村・手賀野村と合併して中津町と改称、1951年に苗木町と合併して中津川町（2代目）が発足し、1952年4月1日に市制施行して中津川市となった変遷を記す
+    url: http://ja.wikipedia.org/wiki/中津町_(岐阜県)
+  v3-wiki-nakatsugawa-juku:
+    label: Wikipedia「中津川宿」。中津川宿は中山道の45番目の宿場で、美濃国恵那郡中津川村に存在したこと、『中山道宿村大概帳』に宿の規模等が記されていることを紹介する
+    url: http://ja.wikipedia.org/wiki/中津川宿
+  v3-wiki-oosu:
+    label: Wikipedia「大碓皇子」。『古事記』が大碓命の妃の父・大根王を「本巣国造・三野前国造の祖」と記していること、『古事記』の同条に恵奈郡への言及はなく舞台は美濃国造の娘をめぐる話であることを紹介する
+    url: http://ja.wikipedia.org/wiki/大碓皇子
+  v3-wiki-yamagata:
+    label: Wikipedia「山県市」。山県市の名は市制施行前の山県郡から採られたものであること、2003年4月1日に高富町・伊自良村・美山町が合併して発足し、山県郡の名は消えたが郡域はそのまま山県市として継承されたことを記す
+    url: http://ja.wikipedia.org/wiki/山県市
+  v3-wiki-yamagata-gun:
+    label: Wikipedia「山県郡（岐阜県）」。「山県（山縣）」は古く「山方」と表記されたこと、7世紀の藤原宮跡出土木簡に「三野国山方評」とあること、大宝2年（702）の正倉院文書「御野国山方郡三井田里戸籍」が伝わることを紹介する
+    url: https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%9C%8C%E9%83%A1_(%E5%B2%90%E9%98%9C%E7%9C%8C)
+  v3-yamagata-dayori:
+    label: 高富町・伊自良村・美山町合併協議会「合併協議会だより第13号」（平成14年9月1日発行）。新市の名称が「山県市」に決定したことを報じる合併協議会の公式資料（山県市公式サイト掲載）
+    url: https://www.city.yamagata.gifu.jp/gappei/pdfdata/dayori13.pdf
+  v4-gujo-city-bunkazai:
+    label: 郡上市「郡上市文化財保存活用地域計画」（郡上のはじまりは斉衡2年（855年）に美濃国の郡の一つとして武儀郡から分置されたことであり、平成16年（2004年）に「郡上はひとつ」を合言葉として7町村が合併し郡上市が誕生したことを記す）
+    url: https://www.city.gujo.gifu.jp/admin/info/docs/c0bb50a1015d60465a4b76123af05ad9a93d1219.pdf
+  v4-gujo-gun-wiki:
+    label: Wikipedia「郡上郡」（855年（斉衡2年）閏4月19日に美濃国武儀郡から分かれて成立したこと、郡名の由来は地図で見た場合に「武儀郡の上にある郡」であることからとする）
+    url: https://ja.wikipedia.org/wiki/%E9%83%A1%E4%B8%8A%E9%83%A1
+  v4-haguri-wiki:
+    label: Wikipedia「羽栗郡」（天正14年（1586年）の木曽川大洪水で流路が変わり葉栗郡が分断されたため、豊臣秀吉の命により天正17年（1589年）に美濃側の部分を美濃国に移し区別のために葉から羽に字を変更したこと、一方『新撰美濃志』等では天正10年（1582年）に三郡の百二十余村を分割して美濃国に移したとすること、1897年4月1日に羽栗郡・中島郡の区域をもって羽島郡が発足したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E7%BE%BD%E6%A0%97%E9%83%A1
+  v4-hashima-gogen:
+    label: 語源由来辞典「羽島市」（1897年に羽栗郡と中島郡が合併した際それぞれの一文字を使って「羽島郡」となったこと、1954年に羽島郡南部の10町村が合併して羽島市が発足したこと、羽栗郡は1586年の木曽川の大洪水で分断された尾張国葉栗郡の一部で、美濃側は区別のため「葉」が「羽」に変更されたこと、中島は川に囲まれた島状の地の意味と思われることを記す）
+    url: https://gogen-yurai.jp/hashima-shi-gifu
+  v4-hashima-wiki:
+    label: Wikipedia「羽島市」（1954年4月1日に羽島郡南部の10町村が合併して羽島市が発足し市名は郡名に因むこと、市内に東海道新幹線岐阜羽島駅・名神高速道路岐阜羽島インターチェンジがあり「岐阜羽島」の呼称が広く使われることを記す）
+    url: https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%B3%B6%E5%B8%82
+  v4-hida-city-20th:
+    label: 飛騨市「飛騨市制20周年記念誌」（2004年2月1日に旧吉城郡の古川町・河合村・宮川村・神岡町の2町2村が合併して飛騨市が誕生したこと、新市名の公募では応募総数2176票のうち最多は「飛騨市」で1138票、2位は「吉城市」で225票であったことを記す）
+    url: https://www.city.hida.gifu.jp/uploaded/attachment/27817.pdf
+  v4-hida-uub:
+    label: 都道府県市区町村「飛騨市 市区町村変遷情報」（新市名公募上位10点に飛騨・吉城・さくら・北飛騨・奥飛騨等が挙がったこと、高山市・大野郡・吉城郡の10市町村が合併後の新市名「飛騨市」の再検討を申し入れた経緯（2003年5月6日）、合併協定調印式が2003年5月8日に行われたことを収録）
+    url: https://uub.jp/upd/c/711.html
+  v4-hidakuni-weblio:
+    label: Weblio「飛騨国」（日本歴史地名大系系の解説。古くは表記が一定せず『日本書紀』では「飛驒」、『万葉集』では「斐太」、『国造本紀』や『賦役令』では「斐陀」と書かれ、このほか「卑田」「比太」「飛駄」「飛弾」の表記も存在したこと、8世紀初頭までは「斐陀」「斐太」が多く「飛驒」と表記されるようになったのは和銅年間以降と考えられること、大宝2年（702年）に飛騨国が神馬を献じた記録が『続日本紀』にあること、『和漢三才図会』所引の飛騨国風土記逸文が駄馬にちなむ「飛駄」説を伝えるが日本古典文学大系の脚注は後代のものとすることを記す）
+    url: https://www.weblio.jp/content/%E9%A3%9B%E9%A8%A8%E5%9B%BD
+  v4-mino-japanknowledge:
+    label: JapanKnowledge「地名の読み方」美濃国の表記の変遷に関する解説（7世紀には「三野」と表記され藤原宮跡出土の683年の木簡に「三野大野評」とあること、『美濃明細記』（1738年序）が三野を青野・大野・各務野とし、『新撰美濃志』（1843年）は加茂野を挙げること、「御野」への改定は702年ごろ、「美濃」への再改定は707年から708年の間と推測されることを記す）
+    url: https://japanknowledge.com/articles/blogjournal/howtoread/entry.html?entryid=68
+  v4-mino-wiki:
+    label: Wikipedia「美濃市」（1911年（明治44年）4月1日に上有知町が美濃和紙にちなんで「美濃町」と改名したこと、1954年4月1日に美濃町・洲原村・下牧村・上牧村・大矢田村・藍見村・中有知村の1町6村が合併して美濃市が成立したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E5%B8%82
+  v4-minokamo-wiki:
+    label: Wikipedia「美濃加茂市」（市名はこの地が美濃国加茂郡に属していたことに由来すること、1954年4月1日に太田町・古井町・山之上村・蜂屋村・加茂野村・伊深村・下米田村および三和村・和知村の一部が合併して誕生したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E5%8A%A0%E8%8C%82%E5%B8%82
+  v4-mizuho-city-yurai:
+    label: 瑞穂市公式「市章・名前の由来」（「瑞穂」は古事記・日本書紀に日本の国の美称として現れる「豊葦原之瑞穂国」に由来し、葦がしげり稲穂がみずみずしく育つ豊かな国の意であること、倭姫命が伊久良河宮（現在の瑞穂市居倉）にとどまったという伝説を踏まえて市名を決定したことを記す）
+    url: https://www.city.mizuho.lg.jp/1426.htm
+  v4-mizuho-wiki:
+    label: Wikipedia「瑞穂市」（2003年5月1日に本巣郡穂積町・巣南町が合併して発足したこと、新市名公募の上位10点・候補5点・最終候補3点（瑞穂・長良・犀川）から合併協議会の投票で「瑞穂市」に決定したことを、中日新聞2002年11月1日付記事を引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E7%91%9E%E7%A9%82%E5%B8%82

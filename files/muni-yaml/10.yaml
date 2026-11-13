@@ -1,0 +1,1541 @@
+prefecture_code: '10'
+records:
+- id: muni/10-みどり市
+  code: '102121'
+  names:
+    ja: みどり市
+    reading: みどりし
+    aliases:
+    - 笠懸町
+    - 大間々町
+    - 東村
+  user_terms:
+  - 群馬県初のひらがな市名のまち
+  - 岩宿遺跡のあるまち
+  - わたらせ渓谷鐡道の通るまち
+  naming_type: 合併新設
+  prefecture: 群馬県
+  homonyms: []
+  summary: 2006年3月27日に笠懸町・大間々町・東村が合併して生まれた、群馬県で48年ぶりの新しい市。市名「みどり」は合併協議の中で公募により候補を募って決められ、緑豊かなふるさとへの思いが込められているという。旧中心の一つ大間々の名は、渡良瀬川の河岸段丘の崖を指す地形語「まま」に由来すると市は説明する。市域は桐生市に東西から挟まれ、くびれた形をしている。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 笠懸町・大間々町・東村合併協議会による市名の決定（みどり市公式「市名・市章」が経緯を説明）
+    note: 市名自体の初出（命名の年）。旧中心地「大間々」の地名としての初出は未特定で、『日本歴史地名大系』は文禄年間（1592〜96）に桐原村から分郷して集落が発達したとする
+  claims:
+  - text: みどり市公式サイトによれば、2006年（平成18年）3月27日に新田郡笠懸町・山田郡大間々町・勢多郡東村が合併してみどり市が誕生した。群馬県では12番目となる、48年ぶりに誕生した新しい市である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-midori-city-gaiyo
+    - u4-midori-city-ayumi
+  - text: 市名「みどり」は、合併協議のなかで公募により候補を募り、話し合いにより決定したもので、緑豊かなふるさとへの思いと、今後の豊かな自然との共存への願いが込められていると、みどり市公式サイトは説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-midori-city-meisho
+  - text: みどり市公式資料は、大間々町が東西を桐生市に挟まれた位置にあり、みどり市の東町と笠懸町を繋ぐ中間にあたることを記している。市域は南北に長く、接点部分が著しくくびれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-midori-city-sogokeikaku
+    - u4-midori-city-gaiyo
+  - text: この市域の形は、桐生広域圏の合併枠組みを巡る調整の結果による。大間々町の西隣の新里村と、大間々町と東村の間にあった黒保根村が桐生市との合併を選択したため、桐生市に挟まれた3町村が「みどり市」として合併することになったとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u4-midori-wikipedia
+  - text: 大間々の町名の由来となった「まま」は、渡良瀬川の河岸段丘が造り出した傾斜地・崖の呼称であり、住民にとって渡良瀬川が生活に深く根ざしてきたことを物語る名であると、みどり市公式サイトは説明している。「大間々」は大きな崖地のある土地の意に通じる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-midori-city-gaiyo
+  - text: 『日本歴史地名大系』も「まま」は急な傾斜地の意味で、大間々には間々根・儘下などの小字があるとする。同書はまた、文禄年間（1592〜96）に「吹払い」と称された地に桐原村から分郷して集落が発達したという『山田郡誌』の記述を紹介し、大間々が銅山（あかがね）街道の通る交通の要衝で、大間々宿とも呼ばれたことを記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u4-midori-kotobank-omama
+  - text: 旧笠懸町の町名の由来は、鎌倉時代に成立した、笠を模した的を馬上から射る武技「笠懸」であると、みどり市公式サイトは紹介している。笠懸地区には日本の旧石器文化の存在を証明した岩宿遺跡がある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u4-midori-city-ayumi
+  - text: みどり市の総務省地方公共団体コードは102121である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 崖の町「大間々」と、公募の「みどり」
+    text: みどり市の三つの旧町村は、それぞれ性格の違う名を持っていた。笠懸は、馬上から笠の的を射る武技の名。大間々は、渡良瀬川が刻んだ河岸段丘の崖――地形語で「まま」――の名。東は、方角そのものの名である。2006年に三つが一つになる際、新しい市の名に選ばれたのは、どの町の名でもなく、公募で募った「みどり」だった。市の説明によれば、緑豊かなふるさとへの思いと、豊かな自然との共存への願いが込められている。間にあった二つの村が桐生市との合併を選んだため、市域は桐生市に挟まれて細くくびれている。その地図の形自体が、平成の大合併の迷走と決着を今に伝えている。
+    sources:
+    - u4-midori-city-meisho
+    - u4-midori-city-gaiyo
+    - u4-midori-wikipedia
+  relations:
+  - pref/10
+  unknowns:
+  - 公募の応募総数や、「みどり」以外の最終候補の市名案は市公式ページで確認できなかった
+  - 「大間々」の地名の初出文書は特定できなかった。「まま」が崖を指す地形語であることは市公式と専門辞典で一致するが、「大」が付いた成り立ちの詳細は未確認である
+  updated: '2026-11-13'
+- id: muni/10-伊勢崎市
+  code: '102041'
+  names:
+    ja: 伊勢崎市
+    reading: いせさきし
+    aliases:
+    - 赤石
+    - 伊勢前
+    - 伊勢崎町
+  user_terms:
+  - 伊勢崎市の名前の由来
+  - 伊勢崎と伊勢神宮の関係
+  - 赤石という古い地名
+  - 伊勢崎銘仙のまち
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: もとは広瀬川の赤土の崖から「赤石」と呼ばれた土地である。1565年に由良成繁が土地を伊勢神宮に寄進して城内に伊勢宮を祀ると、一帯は「伊勢の前」「伊勢の先」と呼ばれるようになり、「伊勢崎」の地名が生まれた。1601年に伊勢崎藩が成立して城下町となり、その名が町名・市名に受け継がれた。
+  first_attestation:
+    era: 天正年間（1573〜1591）
+    year_western: null
+    document: 伊勢崎城（伊勢前城・伊勢崎城）の呼称
+    note: 伊勢宮の建立（1565年）を契機に生まれた「伊勢の前・先」の呼び名が、城名・地名として定着した時期
+  claims:
+  - text: この地域は古来「赤石」と呼ばれ、その名の由来は、広瀬川が侵食して露出した関東ローム層の「赤土」の崖の様子からと言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-isesaki-machinaka
+  - text: 永禄8年（1565）、由良成繁は赤石城を再興するため、土地120貫文を伊勢神宮領に寄進し、城の守護神として城内に伊勢宮を建立した。これによりこの地域が「伊勢の前」や「伊勢の先」と呼ばれるようになり、「伊勢崎」という地名が生まれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-isesaki-machinaka
+  - text: 天正年間までには赤石城も伊勢前（崎）城と名前を変え、慶長6年（1601）の関ヶ原の戦いの後、稲垣長茂が伊勢崎藩主となり、伊勢崎城（陣屋）を藩庁として城下町が形成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-isesaki-machinaka
+  - text: 江戸時代後期から明治時代にかけて伊勢崎は織物の町として発展し、大衆着として人気となった伊勢崎銘仙の生産で知られた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-isesaki-machinaka
+  - text: 昭和15年（1940）9月13日、伊勢崎町・殖蓮村・茂呂村が合併して伊勢崎市が誕生し、平成17年（2005）1月1日に赤堀町・東村・境町との新設合併で現在の伊勢崎市となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-gunma-hensei
+  - text: 総務省の全国地方公共団体コードで、伊勢崎市の団体コードは102041と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 神宮への寄進が生んだ地名
+    text: 伊勢崎の「伊勢」は、三重県の伊勢神宮から来ています。1565年、戦国武将の由良成繁が赤石城を再興するにあたり、土地を伊勢神宮に寄進し、守護神として城の中に伊勢宮を建てました。すると人々はこの辺りを「伊勢の前」「伊勢の先」と呼ぶようになり、やがて城も伊勢崎城と名を変えます。遠く離れた上野国の城下町が、伊勢神宮との縁で名付けられたわけです。元の名「赤石」は、広瀬川の赤い土の崖に由来するとされ、今も赤石の名は地域に残っています。神社の寄進が地名を塗り替えた、珍しい成立の仕方です。
+    sources:
+    - l2-isesaki-machinaka
+  relations:
+  - pref/10
+  unknowns:
+  - 「伊勢崎」の表記が文献に初めて現れる正確な時期は、専門の地名辞典では本バッチで確認できていない
+  - 赤石の名の「赤土の崖」説は市の冊子が「と言われています」とする説明で、検証の余地が残る
+  updated: '2026-11-13'
+- id: muni/10-前橋市
+  code: '102016'
+  names:
+    ja: 前橋市
+    reading: まえばしし
+    aliases:
+    - 厩橋
+    - 駅家郷
+  user_terms:
+  - 前橋の名前の由来
+  - 厩橋って何と読む
+  - 前橋はもともと別の名前だった
+  - 群馬県庁がある市
+  - まやはしと前橋
+  naming_type: その他
+  prefecture: 群馬県
+  homonyms: []
+  summary: 前橋の旧名は「厩橋（まやはし）」で、車川にかかる「駅家（うまや）の橋」が地名になったと前橋市は伝える。「前橋」への改称は江戸時代初期の前橋藩主・酒井忠清の頃（1648〜1652年）というのが市の公式見解で、明治25年（1892年）の市制施行以来、この名が市名として継承されている。
+  first_attestation:
+    era: 平安時代中期（10世紀）
+    year_western: null
+    document: 和名類聚抄
+    note: 群馬郡の駅家（うまや）郷など、前橋の前身と市が見なす地名が現れる時代の資料。前橋市勢要覧が「前橋の地名が出てくるのは10世紀平安中期」と紹介するもので、「厩橋」の文字列そのものの初出ではない
+  claims:
+  - text: 前橋市公式によれば、前橋は古くは「厩橋（まやはし）」と称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-city
+  - text: 前橋市公式によれば、「厩橋」の名は、現在利根川が流れているあたりに車川と称する流れがあり、そこにかかっていた橋を「駅家（うまや）の橋」と呼んだことから、自然に地名になったと伝えられている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - b-cap-mae-city
+    - b-cap-mae-youran
+  - text: 前橋市公式によれば、「厩橋」が「前橋」に改められたのは西暦1648年から1652年、前橋藩第4代藩主の酒井忠清が城主であった頃だと言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-city
+  - text: 前橋市勢要覧によれば、群馬（くるま）の郡、駅家（うまや）の郷、群馬（くるま）の駅など、前橋の地名が出てくるのは10世紀の平安中期である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-sisei
+  - text: 前橋市公式によれば、厩橋城は文明年間（1470年代）に築かれたとされ、この城は戦国時代に上杉・武田・北条の攻防の的となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-city
+    - b-cap-mae-youran
+  - text: 前橋市公式によれば、慶応3年（1867年）に松平氏が再び前橋に迎えられて前橋藩が復活したが、まもなく明治維新となった。これは厩橋から前橋への改名の時期とは別の出来事である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-city
+  - text: 前橋市公式によれば、明治14年（1881年）に県庁が前橋に置かれ、明治22年（1889年）に町制を施行し、明治25年（1892年）には県内最初・関東で4番目・全国で41番目に市制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-city
+  - text: 総務省の全国地方公共団体コードで、前橋市のコードは102016と定められている（J-LISの地方公共団体コード一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mae-jlis
+  column:
+    title: 消えた「厩」の字
+    text: 前橋の旧名「厩橋」は、馬の駅（駅家）に由来する実務的な地名だった。それがなぜ「前橋」に変わったのか、理由は前橋市の公式資料には書かれていない。時期についても、市は1648年から1652年という幅のある言い方をしている。なお、江戸末期の慶応3年（1867年）に松平氏が前橋に戻った出来事は、改名ではなく藩の復活であり、改名とは時代も主も異なる。はっきりしているのは、大老・酒井忠清が藩主だった時代に、城下の名が馬の駅の橋を意味する「厩橋」から「前橋」へ置き換わったということまでである。
+    sources:
+    - b-cap-mae-city
+  relations:
+  - pref/10
+  unknowns:
+  - 厩橋から前橋への改名の理由（「厩」の字を忌んだとする類の説明）は、市の公式資料では確認できなかった
+  - 改名の正確な年は1648〜1652年の幅があり、本バッチでは確定できなかった
+  - 「厩橋」の文字列の文書上の初出は本バッチでは特定できなかった
+  updated: '2026-11-13'
+- id: muni/10-南牧村
+  code: '103837'
+  names:
+    ja: 南牧村
+    reading: なんもくむら
+    aliases: []
+  user_terms:
+  - なんもくむら
+  - 南牧村 群馬 読み方
+  - 南牧村は二つある
+  naming_type: 合併新設
+  prefecture: 群馬県
+  homonyms:
+  - muni/20-南牧村
+  summary: 昭和30年（1955年）に磐戸村・月形村・尾沢村の3村が合併して生まれた村で、村の中央を南牧川が流れる。県境の向こうにある長野県の南牧村とは漢字が同じでも読みが違い、こちらは「なんもく」と読む。村名そのものの語源（南牧川・地域名「南牧」の由来）は、確認した公式資料・地名辞典では明示されていない。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 磐戸村・月形村・尾沢村の合併による南牧村の発足（1955年3月15日村制施行）
+    note: 自治体名としての初出。地域名・川名としての「南牧」の初出は未確認
+  claims:
+  - text: 昭和30年（1955年）3月15日、磐戸村・月形村・尾沢村の3か村の合併により南牧村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-nanmoku-gunma-pref
+  - text: 村のほぼ中央を南牧川が流れ、集落のほとんどは南牧川とその支流に沿って発展している。日本歴史地名大系・ブリタニカ小項目事典もこの村を南牧川流域の村として記述する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-nanmoku-gunma-pref
+    - h6-nanmoku-kotobank
+  - text: 読みは「なんもく」で、県境の向こうにある長野県南佐久郡の南牧村の読み「みなみまき」とは異なる。同じ漢字表記でも読みが違うため、両村はまず読みで区別される（異なる層）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-nanmoku-gunma-pref
+    - h6-minamimaki-official-history
+  - text: 両村は県境を挟んで近接しており、Wikipediaの両村の記事はともに相手の村の読みの違いを注記している（共通する層は「南牧」という漢字表記のみ）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - h6-nanmoku-gunma-wiki
+    - h6-minamimaki-wiki
+  - text: 村名「南牧」が何に由来するか（南牧川の名が先か、地域名が先か、「牧」が放牧とどう関係するか）は、確認した県公式資料・地名辞典では明示されておらず、語源は未確定である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - h6-nanmoku-kotobank
+    - h6-nanmoku-gunma-pref
+  column:
+    title: 県境の両側で読みが分かれた「南牧村」
+    text: 国道254号を下仁田方面へ走ると「南牧村」の標識が見えますが、あれは群馬の「なんもく」です。一方、八ヶ岳の麓にある長野の南牧村は「みなみまき」。県境を挟んで近接する二つの村は漢字が完全に同じで、読みだけが違うため、ドライバーが標識を見て混乱した体験記が残るほどです。郵便や宅配の宛先でも県名の書き添えが欠かせない、全国でも珍しい同名ペアです。
+    sources:
+    - h6-nanmoku-futatsu-essay
+    - h6-nanmoku-gunma-wiki
+  relations:
+  - pref/10
+  - muni/20-南牧村
+  unknowns:
+  - 南牧川および地域名「南牧」の初出と語源（公式資料・地名辞典で確認できず）
+  - 昭和30年の合併時に「南牧」の名を選んだ経緯の記録は未確認
+  updated: '2026-11-13'
+- id: muni/10-太田市
+  code: '102059'
+  names:
+    ja: 太田市
+    reading: おおたし
+    aliases: []
+  user_terms:
+  - 太田の名前の由来
+  - 新田義貞の本拠地
+  - 金山城の城下町
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 中世の太田郷・新田荘の中心地で、金山城の城下町、日光例幣使街道の太田宿として発展した。1948年に新田郡太田町が市制を施行し、2005年に尾島町・新田町・藪塚本町と新設合併して現在の太田市となった。「太田」の語源と太田郷の初出は未確定である。
+  first_attestation:
+    era: 中世
+    year_western: null
+    document: 日本歴史地名大系『太田町』
+    note: 同書は中世の太田が太田郷に属したことを記すが、太田郷の初出史料とその年は特定できなかった。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、太田市の団体コードは102059とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 太田市観光協会の資料によれば、現在の太田市域は中世に新田荘が成立した地であり、新田義貞の本拠地として文化が形成された。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m3-ota-kanko
+  - text: 日本歴史地名大系によれば、中世の太田は太田郷に属し、文明元年（1469）に金山城が築かれたのち、その城下町として発展し町場の基礎が築かれた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-ota-machi
+  - text: 同書によれば、近世の太田は日光例幣使街道の宿駅（太田宿）であり、六斎市の立つ市場町として活況を呈した。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-ota-machi
+  - text: 太田市観光協会によれば、大光院は慶長18年（1613）に徳川家康が先祖と仰ぐ新田義重を弔うために建立した寺で、開山の呑龍上人が貧しい家の子を養育したことから「子育て呑龍さま」と言われるようになった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - m3-ota-kanko
+  - text: 昭和23年（1948）5月3日に新田郡太田町が市制を施行して太田市となり、その後、強戸村・休泊村（1957年）、矢場川村の一部（1960年）、宝泉村（1963年4月）、毛里田村（1963年12月）を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-ota-city-pdf
+    - k6-kusatsu-gunma-henssen
+  - text: 平成17年（2005）3月28日に太田市・尾島町・新田町・藪塚本町の1市3町が新設合併して、新しい太田市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-ota-city-pdf
+  - text: 「太田」の語源と、太田郷の初出の史料・年代は、本調査では特定できなかった。
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - m3-kotobank-ota-machi
+  column:
+    title: 市章に受け継がれた新田氏の旗印「大中黒」
+    text: 2005年の新設合併で生まれた新・太田市の市章は、この地域を治めた新田氏（新田義貞）の旗印「大中黒」をベースに、右下に市名をひらがなで配置したデザインである。太田市は、大中黒に「脈々と受け継がれる伝統と革新の精神」を表現したと説明している。中世の荘園領主の旗印が、平成の合併で生まれた市の紋章に生き続けている。
+    sources:
+    - m3-ota-city-pdf
+  relations:
+  - pref/10
+  unknowns:
+  - 太田郷の初出史料と年代は未確認
+  - 「太田」の語源の定説は未確認（「大きな田」などの一般的な解釈を裏づける地元資料は取得できなかった）
+  updated: '2026-11-13'
+- id: muni/10-安中市
+  code: '102113'
+  names:
+    ja: 安中市
+    reading: あんなかし
+    aliases:
+    - 安中町
+    - 安中宿
+  user_terms:
+  - 安中宿
+  - サムライマラソン
+  - 安政遠足
+  - 碓氷峠のふもと
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 群馬県西部の市で、中山道の安中宿と安中藩の城下町として栄えた。「安中」の名は中世以来この地を治めた安中氏に結びつき、戦国期の安中城の名として同時代文書に現れる。江戸時代末期の安政遠足は「日本マラソン発祥の地」の物語として今も侍マラソンに受け継がれている。1958年に市制施行し、2006年に松井田町と合併して現在の市域となった。
+  first_attestation:
+    era: 戦国時代
+    year_western: 1556
+    document: 足利義氏感状案（武州文書）
+    note: 群馬県立文書館の古文書群概要が、弘治2年（1556）11月16日の感状案に「今度於上州安中城働之所」と見えると紹介するもの。原文を直接確認したものではないため、紹介として記録する
+  claims:
+  - text: 当地は『和名類聚抄』碓氷郡野後郷の故地とされ、『延喜式』にも東山道の駅として野後駅が見えると、群馬県立文書館の古文書群概要が紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-annaka-kenbunsho
+  - text: 地名「安中」は、戦国期に安中忠政が当地に築城して入り、自らの姓をとって安中城としたのが始まりといわれていると『安中志』が伝え、県立文書館がその説を紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - u5-annaka-kenbunsho
+  - text: 弘治2年（1556）11月16日の足利義氏感状案に「今度於上州安中城働之所」と見え、安中城の名は1550年代半ばには同時代文書に現れている（県立文書館の紹介による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-annaka-kenbunsho
+  - text: 近世の記録は永禄2年（1559）に安中氏が野尻の地に城を移して安中と改めたと伝えるが、1556年の文書にすでに安中城の名が見えるため、改名の年次には食い違いがある
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - u5-annaka-localhistoria
+    - u5-annaka-kenbunsho
+  - text: 安中は中山道の宿場町（安中宿）であり、近世を通じて安中藩の城下町であった。藩主は井伊氏に始まり、幕末まで板倉氏が続いた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - u5-annaka-localhistoria
+  - text: 安政2年（1855）、安中藩主・板倉勝明が50歳以下の家臣96人に、安中城内から中山道・碓氷峠頂上の熊野神社までの約29kmを走らせた安政遠足が行われ、その到着記録「安中御城内御諸士御遠足着帳」が残された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-annaka-ansei
+  - text: 1955年3月1日に安中町・原市町・磯部町・東横野村・岩野谷村・板鼻町・秋間村・後閑町が新設合併して安中町となり、1958年11月1日に市制施行して安中市となった。2006年3月18日に松井田町と新設合併して現在の安中市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kusatsu-gunma-henssen
+  - text: 安政遠足は1955年に古文書が発見されて史実が明らかになり、1975年に第1回「侍マラソン」が開催され、現在は「安政遠足侍マラソン」として続いている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-annaka-ansei
+  column:
+    title: 日本マラソン発祥の地――藩士の徒競走「安政遠足」
+    text: 安政2年（1855）、安中藩主の板倉勝明は、心身鍛練のため50歳以下の家臣96人に安中城内から碓氷峠頂上の熊野神社まで約29kmを走らせた。神主が書き残した到着帳が昭和30年（1955）に発見され、この出来事が史実と分かった。市はこれを「日本マラソン発祥の地」とし、1975年から「侍マラソン」（現在の安政遠足侍マラソン）が続いている。城下町の名が武家の姓に由来する一方で、町のもう一つの顔はこの徒競走の記憶である。
+    sources:
+    - u5-annaka-ansei
+  relations:
+  - pref/10
+  unknowns:
+  - 安中氏の姓の由来そのもの（越後国新発田から移ってきたという伝承の裏づけ）は未確認
+  - 地名としての「安中」が安中氏の入部以前から存在したとする新説（木部道金書状の紹介）は郷土研究レベルの確認にとどまる
+  - 安中市公式サイトに市名の由来を直接説明するページは確認できなかった
+  updated: '2026-11-13'
+- id: muni/10-富岡市
+  code: '102105'
+  names:
+    ja: 富岡市
+    reading: とみおかし
+    aliases: []
+  user_terms:
+  - 富岡の名前の由来
+  - 富岡製糸場のある市
+  - 世界遺産の製糸場のまち
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 近世の富岡町は、慶長17年（1612）に幕府代官の計画で宮崎村の住民を移住させて成立した町である。明治5年（1872）に官営富岡製糸場が置かれて名が知られ、1954年に市制、2006年に妙義町との新設合併を経て、2014年には製糸場が世界文化遺産となった。「富岡」の語源は未確定である。
+  first_attestation:
+    era: 慶長17年
+    year_western: 1612
+    document: 角川日本地名大辞典『富岡町（近世）』
+    note: 幕府代官中野七蔵の計画により宮崎村の住民が小幡領瀬下郷へ移住して富岡町が成立した年。元和3年（1617）の検地帳には「小幡領富岡新田」とみえる。「富岡」の名自体がこれより遡るかは確認できていない。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、富岡市の団体コードは102105とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 角川日本地名大辞典によれば、近世の富岡町は慶長17年（1612）に幕府代官中野七蔵が中山道脇往還に新町を作ることを計画し、小幡領瀬下郷へ宮崎村の住民を移住させて成立した町であり、元和3年（1617）の検地帳に「小幡領富岡新田」とみえる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-jlogos-tomioka
+  - text: 同書は言い伝えとして、旧城下町の系譜を持つ宮崎村の中町が富岡の上町を、宮崎村の上町が中町を形成し、瀬下郷の住民が下町を作ったという町の成り立ちを紹介している。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - m3-jlogos-tomioka
+  - text: 群馬県によれば、富岡製糸場は明治5年（1872）に日本で最初の官営器械製糸工場として設立され、フランス人技師ポール・ブリュナの指導のもとで建物の建設と器械製糸技術の導入がはかられた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-gunma-tomioka-wh
+  - text: 富岡市公式によれば、昭和29年（1954）4月に富岡町へ黒岩村・一ノ宮町・高瀬村・額部村・小野村が編入合併して富岡市が誕生し、次いで吉田村や丹生村などが編入された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tomioka-keikaku
+  - text: 富岡市公式によれば、平成18年（2006）3月27日に富岡市と妙義町が新設合併して、現在の富岡市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tomioka-keikaku
+  - text: 富岡市公式によれば、平成26年（2014）6月に「富岡製糸場と絹産業遺産群」が世界文化遺産に登録され、同年12月に繰糸所・東置繭所・西置繭所の3棟が国宝に指定された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tomioka-keikaku
+  - text: 富岡市の景観計画によれば、富岡製糸場で働いた工女の当時の様子は、信州松代藩士の娘・和田英が残した『富岡日記』にみることができる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tomioka-keikan
+  column:
+    title: 工女たちが技術を持ち帰ったまち
+    text: 富岡製糸場は、器械製糸の技術を全国へ広めるための模範工場だった。全国から集まった工女たちはフランス人技術者から技術を学び、伝習を終えて故郷に戻ると、各地に設立された製糸工場で指導者となった。その工女の一人、和田英が残した『富岡日記』は、製糸場の暮らしを伝える貴重な記録である。富岡の名は、製糸場とともに全国へ広がった。
+    sources:
+    - m3-gunma-tomioka-wh
+    - m3-tomioka-keikan
+  relations:
+  - pref/10
+  - muni/10-藤岡市
+  unknowns:
+  - 「富岡」の語源と、1612年の町成立以前の「富岡」の用例は確認できなかった
+  - 古代の甘楽郡の郷（額部・小野など）の多くは現市域に比定されるが、「富岡」の名自体は古代・中世の史料に確認できていない
+  updated: '2026-11-13'
+- id: muni/10-明和町
+  code: '105228'
+  names:
+    ja: 明和町
+    reading: めいわちょう
+    aliases:
+    - 明和村
+  user_terms:
+  - 群馬の明和町の由来
+  - 明和村から明和町になった町
+  - 理想郷という意味の明和
+  naming_type: 合併新設
+  prefecture: 群馬県
+  homonyms:
+  - muni/24-明和町
+  summary: 邑楽郡の町で、昭和30年（1955）に千江田村・梅島村・佐貫村の合併で「明和村」として誕生した。新村名は3か村への公募で決まり、「明朗にして平和なる理想郷の象徴」として選ばれた瑞祥地名である。平成10年（1998）の町制施行では慣れ親しんだ村名を残し「明和町」となった。同名の三重県明和町も公募命名だが、そちらは前身町村名の字の合成で、命名の論理が異なる。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 公募による「明和村」の命名（3村の合併）
+    note: 名前としての初出は1955年の明和村。町としての初出は1998年10月1日の町制施行で、村名をそのまま引き継いだ
+  claims:
+  - text: 昭和30年（1955）、旧千江田村・梅島村・佐貫村が合併して明和村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-meiwa-gunma-koho
+  - text: 新村名は3か村に公募され、応募総数は215通、村名は89種類にのぼった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-meiwa-gunma-yurai
+  - text: 審査の結果、「明朗にして平和なる理想郷の象徴」として「明和村」の名称が決められたと、町は由来を説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-meiwa-gunma-yurai
+  - text: 平成10年（1998）10月1日の町制施行にあたり、43年間慣れ親しんだ村名を廃止するには忍びないとして、新しい町名は「明和町」と決まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-meiwa-gunma-yurai
+  - text: 共通する層として、同名の三重県明和町も1950年代の合併で新町名を公募により決めており、「公募で生まれた明和」という点は両町に共通する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-meiwa-mie-rekimachi
+  - text: 異なる層として、群馬の明和は特定の旧村名の字を採った合成名ではなく「明朗」「平和」という理念そのものを名にした瑞祥地名であり、また1955年から1998年まで43年間は「明和村」だった点で、発足時から町だった三重の明和町と履歴が異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-meiwa-gunma-yurai
+    - h5-meiwa-mie-weblio
+  - text: 総務省の全国地方公共団体コードで、明和町の団体コードは105228と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 89種類の候補から選ばれた「理想郷」の名前
+    text: 1955年の合併で新しい村の名前を決めるとき、群馬の明和は3か村の住民に公募しました。条件は、3か村に共通する感じであること、簡潔で印象が明朗なこと、新鮮味のあること。集まった215通・89種類の中から選ばれたのが「明和」で、その理由は「明朗にして平和なる理想郷の象徴」と記録されています。村名に村の理想そのものを書き込む、昭和の大合併期らしい瑞祥命名です。そして43年後、町になるときも町民はこの名を手放さず、「廃止するには忍びない」と残しました。
+    sources:
+    - h5-meiwa-gunma-yurai
+  relations:
+  - pref/10
+  - muni/24-明和町
+  unknowns:
+  - 公募で「明和」に次ぐ候補だった村名（次点の候補）は未確認
+  - 「明和村」の名称を応募したのが誰か（個人名）は未確認
+  updated: '2026-11-13'
+- id: muni/10-昭和村
+  code: '104485'
+  names:
+    ja: 昭和村
+    reading: しょうわむら
+    aliases:
+    - 久呂保村
+    - 糸之瀬村
+  user_terms:
+  - 群馬の昭和村の由来
+  - 昭和村はなぜ昭和という名前か 群馬
+  - こんにゃくいもの村 昭和村
+  naming_type: 合併新設
+  prefecture: 群馬県
+  homonyms:
+  - muni/07-昭和村
+  summary: 利根郡の村で、昭和33年（1958）11月1日に久呂保村と糸之瀬村の合併で誕生した、昭和の大合併期の村である。村名が元号「昭和」と同字であることは明らかだが、命名理由を明記した村公式・県の公的資料は本調査では確認できず、理由は未詳として残す。同名の福島県昭和村は1927年の成立で改元あやかりの命名が説明されており、対照的である。
+  first_attestation:
+    era: 昭和33年
+    year_western: 1958
+    document: 昭和村の発足（久呂保村・糸之瀬村の合併）
+    note: 村名の初出は1958年の合併による命名そのもの。ただし命名理由の公的記録は本調査で未確認
+  claims:
+  - text: 昭和33年（1958）11月1日に久呂保村と糸之瀬村が合併して昭和村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-gunma-plan
+  - text: 昭和36年（1961）8月1日には、利根村の大字生越が境界変更により昭和村へ編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-gunma-plan
+  - text: 前身の久呂保村は1889年（明治22年）に森下村・橡久保村・川額村の合併で、糸之瀬村は糸井村・貝野瀬村の合併で発足した村である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-gunma-plan
+  - text: 県の市町村要覧は、昭和村の団体コードを104485、村制施行の日を昭和33年11月1日と記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-gunma-youran
+  - text: 村名「昭和」の命名理由は、村公式の総合計画や県の市町村要覧・市町村名変遷表には記されておらず、本調査では命名理由を明記した公的資料を確認できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - h5-showa-gunma-plan
+    - h5-showa-gunma-youran
+  - text: 異なる層として、同名の福島県昭和村は昭和2年（1927）に成立し、「昭和時代に入って誕生した村」という改元あやかりの命名理由が公的資料で説明されるのに対し、群馬の昭和村は昭和の大合併期（1958）の成立で、理由も記録されていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-fk-soka
+    - h5-showa-gunma-plan
+  - text: 共通する層として、両村とも合併で旧村名を継承せず、元号と同字の新名「昭和」を採った村である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-fk-soka
+    - h5-showa-gunma-plan
+  - text: 平成の大合併では、村は「自主自立の道」を選択し、合併せずに単独の村として存続した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h5-showa-gunma-plan
+  column:
+    title: 「昭和の日」が、村の行事になる村
+    text: 群馬の昭和村では、県の市町村要覧の行事一覧に「『昭和の日』記念イベント（4月）」が載っています。村名が元号そのものなので、4月29日の「昭和の日」が、そのまま村のアイデンティティを祝う日になるのです。こんにゃくいもの大鍋が名物のこのイベントも含め、村は「昭和」という名を積極的に使い続けています。ただし、1958年の合併時に誰がなぜこの名を選んだのかは、公表された資料ではまだ分かりません。名の使い方は華やかでも、名の由来の記録は静かです。
+    sources:
+    - h5-showa-gunma-youran
+    - h5-showa-gunma-plan
+  relations:
+  - pref/10
+  - muni/07-昭和村
+  unknowns:
+  - 村名「昭和」の命名理由・発案者・選定過程は公表資料で未確認であり、『昭和村誌』など村史の直接確認が今後の課題
+  - 同名の福島県昭和村との交流事業の有無など、2つの昭和村の関係史は未確認
+  updated: '2026-11-13'
+- id: muni/10-桐生市
+  code: '102032'
+  names:
+    ja: 桐生市
+    reading: きりゅうし
+    aliases: []
+  user_terms:
+  - 桐生の名前の由来
+  - 織物のまち桐生
+  - 西の西陣、東の桐生
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 『吾妻鏡』の養和元年（1181）条に足利氏の郎党「桐生六郎」と現れるのが名の初出とされ、桐生氏の本拠・織物のまちとして発展した。1921年に山田郡桐生町が市制を施行して桐生市となった。語源は「きり＝開墾地、う＝峡谷」とする説などがあり、定説はない。
+  first_attestation:
+    era: 養和元年
+    year_western: 1181
+    document: 『吾妻鏡』
+    note: 養和元年閏2月25日条に足利氏の郎党として「桐生六郎」がみえる（日本歴史地名大系・桐生市公式資料が紹介）。人名としての現れが地名の初出とされる。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、桐生市の団体コードは102032とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、『吾妻鏡』養和元年（1181）閏2月25日条に足利氏の郎党として「桐生六郎」がみえ、これが桐生の名の歴史上の初出とされる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-kiryu
+  - text: 桐生市公式の歴史資料も『吾妻鏡』のこの記事を紹介し、六郎が戦功の恩賞として桐生の地を与えられたことが桐生氏の起こりであると伝える。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kiryu-fuchi
+  - text: 日本歴史地名大系は語源について、「きり」は開墾地、「う」は峡谷の意で、地形から地名が付けられたという説を紹介している。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - m3-kotobank-kiryu
+  - text: Wikipediaは「桐が多く自生する土地」から「桐生」、「霧が多く発生する土地」から「霧生」とする説も挙げるが、どちらも決め手は無いとしている。
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - m3-kiryu-wiki
+  - text: 日本歴史地名大系によれば、市名は近世に当地方の中心であった桐生新町、近代の桐生町に由来する。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-kiryu
+  - text: 大正10年（1921）3月1日に山田郡桐生町が市制を施行して桐生市となり、県内では3番目、県東部では初の市制であった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kiryu-nenpyo
+  - text: 平成17年（2005）6月13日に勢多郡新里村・黒保根村と合併し、市域はおよそ2倍に広がった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-kiryu-nenpyo
+  column:
+    title: 奈良時代から続く絹のまち
+    text: 桐生の織物の古さは、上野国の絹の記録にたどれる。桐生市の歴史資料によれば、『続日本紀』には和銅7年（714）に上野国が絁（あしぎぬ）を朝廷に献上した記録がある。近世に「西の西陣、東の桐生」と並び称される織物の産地になった背景には、こうした古い絹織物の伝統があった。
+    sources:
+    - m3-kiryu-fuchi
+  relations:
+  - pref/10
+  unknowns:
+  - 語源は「きり＝開墾地・う＝峡谷」説、桐の自生説、霧生説などが併存し、定説は確認できなかった
+  - 中世の桐生郷の範囲と成立時期の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/10-沼田市
+  code: '102067'
+  names:
+    ja: 沼田市
+    reading: ぬまたし
+    aliases:
+    - 渭田
+    - 沼田町
+  user_terms:
+  - 真田の城下町
+  - ぬまた
+  - 天空の城下町
+  - 河岸段丘のまち
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 群馬県北部の中心都市で、利根川と片品川がつくった河岸段丘の上に市街地が広がる。「沼田」の名は『和名類聚抄』に見える利根郡渭田（ぬまた）郷の遺称と考えられ、近世の城下町・沼田町がそのまま市名になった。中世以来の沼田氏、戦国末期の真田氏の城下町として知られ、1954年に市制施行した。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 和名類聚抄（利根郡渭田郷）
+    note: 『日本歴史地名大系』が「地名は『和名抄』にみえる利根郡渭田（ぬまた）郷の遺名と考えられる」と紹介するもの。現在と同じ「沼田」の表記の初出は未確認
+  claims:
+  - text: 地名「沼田」は『和名類聚抄』に見える利根郡渭田（ぬまた）郷の遺名と考えられ、市名は近世市域の中心であった城下・沼田町を継承する（『日本歴史地名大系』）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-numata-kotobank
+  - text: 沼田氏は鎌倉時代以来この地方の有力者であり、沼田の地は中世を通じてその本拠であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - u5-numata-kotobank
+  - text: 沼田城は天文元年（1532）に沼田氏12代・万鬼斎顕泰が蔵内（倉内）城として築城したもので、市公式はこれを「沼田市街地発祥のかなめ」とする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-numata-sanada
+  - text: 天正8年（1580）に武田勝頼の武将・真田昌幸が入城し、天正18年（1590）に嫡子信幸が沼田領2万7千石の初代城主となって、以後真田氏5代91年の居城となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-numata-sanada
+  - text: 慶長年間に五層天守が建造されて城下町の形態が完成したが、天和元年（1681）に5代信利が改易され、翌年に城は完全に破却された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - u5-numata-sanada
+  - text: 1954年4月1日に沼田町・利南村・池田村・薄根村・川田村が合併して市制施行し、2005年2月13日に白沢村・利根村を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kusatsu-gunma-henssen
+    - u5-numata-kotobank
+  column:
+    title: 「渭田」から「沼田」へ――読みは同じでも字が変わった
+    text: 平安時代の『和名類聚抄』に利根郡の郷として見えるのは「渭田」で、読みは今と同じ「ぬまた」だった。やがて「沼田」の字が定着するが、いつ、なぜ字が替わったのかははっきりしない。水の多い低地を思わせる「沼」の字は、利根川と片品川に挟まれた段丘の下に広がる地形とも重なる。読みが千年以上変わらない一方で、表記だけが静かに入れ替わった地名である。
+    sources:
+    - u5-numata-kotobank
+  relations:
+  - pref/10
+  unknowns:
+  - 「渭田」から「沼田」への表記の切り替わりの時期と理由は未確認
+  - 渭田郷の語源（「沼の多い田」の意か等）は専門辞典でも確定していない
+  updated: '2026-11-13'
+- id: muni/10-渋川市
+  code: '102083'
+  names:
+    ja: 渋川市
+    reading: しぶかわし
+    aliases: []
+  user_terms:
+  - 渋川の名前の由来
+  - 伊香保温泉のある市
+  - 渋川市は合併でどう変わったか
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 「渋川」の名は貞和4年（1348）の懸仏にみえるのが早い用例とされる。1954年に渋川町ほか3村で市制を施行し、2006年の新設合併で伊香保温泉のある榛名山東麓から赤城山西麓までを含む大きな市域となった。新市名は公募でも「渋川市」が最多の支持を得た。語源は未確定である。
+  first_attestation:
+    era: 貞和4年
+    year_western: 1348
+    document: 懸仏の銘文
+    note: 日本歴史地名大系『渋川市』が「渋川の地名は貞和四年（一三四八）の懸仏にみえるのが早い例である」とする（同書経由の紹介として記録）。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、渋川市の団体コードは102083とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、渋川の地名は貞和4年（1348）の懸仏にみえるのが早い例である。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-shibukawa
+  - text: 日本歴史地名大系によれば、市名は昭和29年（1954）の市制施行の際に中核となった渋川町による。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-shibukawa
+  - text: 昭和29年（1954）4月1日に渋川町・古巻村・豊秋村・金島村が合併して、旧・渋川市が発足した。旧市の市域は利根川と吾妻川に沿う市の南部が中心であった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-shibukawa-hensen
+  - text: 平成18年（2006）2月20日に旧渋川市・伊香保町・小野上村・子持村・赤城村・北橘村の1市1町4村が新設合併して、現在の渋川市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-shibukawa-hensen
+  - text: この合併により市域は旧市の範囲を大きく超え、伊香保温泉のある榛名山東麓から、赤城山西麓・子持山方面までを含むようになった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-shibukawa-hensen
+  - text: 合併協議会の資料によれば、新市の名称は公募され、応募総数2,011件のうち「渋川市」への応募が508人と最多で、そのまま新しい市名に決まった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-shibukawa-gappei
+  - text: 「渋川」の語源については、本調査で参照した専門地名辞典・公的資料に定説の明示がなく、未確定である。
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - m3-kotobank-shibukawa
+  column:
+    title: 公募で選ばれた「渋川市」と名付け親大賞
+    text: 2006年の新設合併では、新しい市の名前が公募された。応募は2,011件にのぼり、最多だったのは508人が寄せた「渋川市」そのものだった。結局、新市名は旧市の名を受け継ぐことに決まり、応募者の中から「名付け親大賞」が表彰された。合併で市域が大きく姿を変えても、名前は変わらなかった珍しい例である。
+    sources:
+    - m3-shibukawa-gappei
+  relations:
+  - pref/10
+  unknowns:
+  - 「渋川」の語源は未確定で、市内を流れる渋川（川の名）との先後関係も出典で確認できていない
+  - 貞和4年（1348）の懸仏の現物と所蔵先の確認は未実施
+  updated: '2026-11-13'
+- id: muni/10-草津町
+  code: '104264'
+  names:
+    ja: 草津町
+    reading: くさつまち
+    aliases:
+    - 草生津
+    - 九草津
+    - 九相津
+  user_terms:
+  - 草津の名前の由来
+  - くそうづとは何か
+  - 草津温泉は誰が発見したの
+  - 草津町はいつできたの
+  naming_type: その他（温泉地の地名「草津」を継承し、草津村の分割で町制を施行）
+  prefecture: 群馬県
+  homonyms: []
+  summary: 草津の古い呼び名は「くそうづ」で、「草津」のほか「九草津」「草生津」「九相津」とも書かれた。地名研究では、硫化水素の強い臭気を持つ泉、すなわち「臭い泉」の意味とする説が有力である。温泉の発見については源頼朝・行基・日本武尊の三つの伝承が並び立つ。町としては1900年、草津村の分割によって大字草津・前口が草津町となった。
+  first_attestation:
+    era: 文明18年
+    year_western: 1486
+    document: 堯恵「北国紀行」
+    note: 「草津の温泉」という記述がみえる用例を日本歴史地名大系ジャーナルが紹介するもの。現在も現地では温泉地を「くさづ」と呼ぶ
+  claims:
+  - text: 地名「草津」の古い形は「くそうづ」で、「草津」のほか「九草津」「草生津」「九相津」とも記され、現在も現地では温泉地を「くさづ」と呼ぶと日本歴史地名大系ジャーナルは紹介する（地方公共団体コードは104264）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+    - b-cap-chiba-soumu-code
+  - text: 語源については、萩原進『草津温泉史』が湯の硫化水素の臭気によるものとし、谷川健一編『地名の話』も湧水を指す「そうず」の語から「くそうず」すなわち「臭い泉」の意味であるとするなど、「臭い泉」説が地名研究では有力である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+  - text: 同じ「草生津」の表記は全国各地にみられ、石油や炭化水素の臭気に結びついた地名が多いことも、「臭い泉」説を補強すると同ジャーナルは指摘する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+  - text: 文献の上では、文明18年（1486年）の堯恵『北国紀行』に「草津の温泉」がみえ、明応4年（1495年）の『松陰私語』にも用例がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-kusatsu-japanknowledge
+  - text: 温泉の発見をめぐっては、行基菩薩が発見したとする光泉寺の縁起や、文治元年（1185年）に源頼朝が発見したとする『草津温泉来由記』の伝承が伝えられている
+    kind: legend
+    level: E3
+    status: contested
+    sources:
+    - k6-kusatsu-japanknowledge
+    - k6-kusatsu-kanko
+  - text: 草津温泉観光協会は、日本武尊が病を癒すために温泉を発見したという伝承を紹介している
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - k6-kusatsu-kanko
+  - text: 1900年（明治33年）7月1日、草津村が分割され、大字草津・大字前口の区域をもって草津町が発足した（残りの区域は六合村となった）と群馬県の変遷表は記録する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-kusatsu-gunma-henssen
+  column:
+    title: 冬は村を捨てて下山した温泉町——「冬住み」の慣習
+    text: 海抜1,200メートル。草津の冬はあまりに厳しく、江戸から明治にかけての温泉場の人々は、冬になると麓の小雨村へ移り住む「冬住み」を続けた。この慣習が終わったのは1897年（明治30年）のことだという。硫黄の臭いのする湯の恵みと、暮らしを町ごと引っ越しさせるほどの寒さ。その両方が「くそうづ（臭い泉）」という名の土地の素顔だった。
+    sources:
+    - k6-kusatsu-japanknowledge
+  relations:
+  - pref/10
+  unknowns:
+  - 「くそうづ」の初出とされる中世以前の文献用例は、今回確認できた範囲では室町時代が最古であり、それ以前は未確認
+  - 草津温泉が「日本三名泉」に数えられる典拠（林羅山の選定）の一次確認は未了のため主張に含めていない
+  updated: '2026-11-13'
+- id: muni/10-藤岡市
+  code: '102091'
+  names:
+    ja: 藤岡市
+    reading: ふじおかし
+    aliases:
+    - 富士岡
+    - 常が岡
+  user_terms:
+  - 藤岡の名前の由来
+  - 高山社跡のある市
+  - 富岡と藤岡はどう違うか
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 中世の藤岡は「常が岡」と呼ばれ、富士浅間神社の創建を機に「富士岡」、のちに「藤岡」になったと伝えられる。1954年の市制施行と2006年の鬼石町との合併を経て現在に至る。近代養蚕法「清温育」の発祥地である高山社跡は、世界遺産「富岡製糸場と絹産業遺産群」の構成資産である。
+  first_attestation:
+    era: 永享年間（15世紀前半）
+    year_western: null
+    document: 『続太平記』
+    note: 日本歴史地名大系『藤岡町』は、永享の乱に際して上杉憲実が藤岡などに陣を張ったと『続太平記』にあることを紹介する。それ以前は「常が岡（常ヶ岡）」と呼ばれたと縁起書が伝える。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、藤岡市の団体コードは102091とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 藤岡市の文化財保存活用地域計画によれば、古代の上野国緑野郡はほぼ現在の藤岡市にあたり、その名は『和名類聚抄』にもみえる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-fujioka-bunkazai
+  - text: 同計画は、「緑野」の由来について、水が集まる平野という意味の「水の処野（みどの）」と呼ばれたところに「緑野」の字が当てられたと伝えられると記している。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - m3-fujioka-bunkazai
+  - text: 日本歴史地名大系によれば、享和3年（1803）の富士浅間神社縁起書には、文応元年（1260）に日蓮が常が岡鮭塚に経を納め、富士山の分霊を勧請して鎮守として以来、この地は「富士岡」と称したという話が記されている。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-fujioka-machi
+  - text: 日本歴史地名大系によれば、『続太平記』には永享の乱で上杉憲実が平井城攻めにあたり藤岡などに陣を張ったとあり、15世紀には「藤岡」の名が用いられていた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - m3-kotobank-fujioka-machi
+  - text: 「富士岡」が隣の「富岡」と紛らわしかったため、「富士」の字を「藤」に改めて「藤岡」になったという説がある。
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - m3-fujioka-gogen
+  - text: 昭和29年（1954）4月1日に藤岡町・神流村・小野村・美土里村・美九里村が合併して市制を施行し、翌1955年3月1日に平井村・日野村を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-fujioka-gaiyo
+  - text: 平成18年（2006）1月1日に鬼石町と合併し、現在の藤岡市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-fujioka-gaiyo
+  - text: 藤岡市公式によれば、高山社跡は「富岡製糸場と絹産業遺産群」の構成資産の一つとして、平成26年（2014）6月25日に世界文化遺産となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-fujioka-kankyou
+  column:
+    title: 清温育と高山長五郎
+    text: 藤岡は、近代養蚕法「清温育」の発祥の地である。高山長五郎は蚕の飼育の温度管理を体系化した清温育を確立したと伝えられ、1884年には養蚕改良高山社を組織して全国に門下を広げた。その拠点だった高山社跡は、富岡製糸場とともに世界遺産に登録されている。製糸場のある富岡市と、蚕種と飼育法の改良を担った藤岡市は、絹産業遺産群の中で対をなす存在である。
+    sources:
+    - m3-fujioka-takayama
+    - m3-fujioka-kankyou
+  relations:
+  - pref/10
+  - muni/10-富岡市
+  unknowns:
+  - 「藤岡」の語源は富士浅間神社由来説が有力とされるが、市公式の見解としては確認できていない
+  - 常が岡から富士岡への改称の時期は、縁起書の伝承に基づくもので史料的な裏づけは弱い
+  updated: '2026-11-13'
+- id: muni/10-館林市
+  code: '102075'
+  names:
+    ja: 館林市
+    reading: たてばやしし
+    aliases:
+    - 立林
+  user_terms:
+  - 館林の名前の由来
+  - 尾曳城の狐の伝説
+  - つつじのまち館林
+  naming_type: 一部の地名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 15世紀の史料に「立林城」などと現れる城下町で、狐が尾を曳いて縄張りを案内したという尾曳城の伝説で知られる。1954年に館林町と7村が合併して市制を施行し、以後は合併を行っていない。「館林」の語源については定説がない。
+  first_attestation:
+    era: 文明3年
+    year_western: 1471
+    document: 館林城に関する最古の史料（市の歴史文化基本構想）
+    note: 市の基本構想は館林城の最古の史料を文明3年（1471）とする。一方で『鎌倉大草紙』応永22年（1415）条に館林の記事があるとする紹介もあり、初出の確定には原典の確認を要する。
+  claims:
+  - text: 総務省の地方公共団体コード一覧では、館林市の団体コードは102075とされている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 館林市公式は、「館林の名が古文書に初めて出てくるのは15世紀の中頃である」としている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tatebayashi-intro
+  - text: 館林市の歴史文化基本構想は、館林城に関する最古の史料を文明3年（1471）のものとし、この頃の城は「立林城」とも書かれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tatebayashi-bunka
+  - text: Wikipediaは、『鎌倉大草紙』の応永22年（1415）条に上杉禅秀が館林を討った記事があるとし、表記には館林・立林、読みには「たてばやし」と「たちばやし」のゆれがあって永禄年間以降に現在の形に定まったとする。
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - m3-tatebayashi-wiki
+  - text: 館林城の築城時期や築城者を明記した当時の記録は発見されておらず、赤井照光による築城は江戸時代になって書かれたものにみえる話が、狐の尾曳伝説と相まって広く知られている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tatebayashi-bunka
+  - text: 伝説では、大袋城主の赤井照光が子狐を助けたところ、親狐が報恩に現れて尾を曳いて城の縄張りを案内し、その通りに築いた城が尾曳城（館林城）であると語られる。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - m3-tatebayashi-satonuma
+  - text: 昭和29年（1954）4月1日に館林町・郷谷村・大島村・赤羽村・六郷村・三野谷村・多々良村・渡瀬村が合併して館林市が発足し、以後、市町村合併は行われていない。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - m3-tatebayashi-shiryo
+  - text: 「館林」の語源については、市公式の定説はなく、本調査でも確定できなかった。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - m3-tatebayashi-intro
+  column:
+    title: 狐が残した三つの稲荷
+    text: 尾曳伝説の舞台には、今も狐にまつわる稲荷社が残る。尾曳稲荷神社のほか、狐が初めて尾を引き出した地とされる初引稲荷（初曳稲荷）、夜明けにまつわる夜明稲荷があり、市は日本遺産「里沼」の物語の一つとしてこの伝説を伝えている。築城の史実とは別に、伝説のほうもまた地名の記憶として生き続けている。
+    sources:
+    - m3-tatebayashi-satonuma
+  relations:
+  - pref/10
+  unknowns:
+  - 初出は『鎌倉大草紙』応永22年（1415）条とする紹介と、城の最古史料を文明3年（1471）とする市の基本構想があり、性格の異なる2つの「初出」を原典で確定するには至っていない
+  - 「館林」の語源の定説は未確認
+  updated: '2026-11-13'
+- id: muni/10-高山村
+  code: '104281'
+  names:
+    ja: 高山村
+    reading: たかやまむら
+    aliases: []
+  user_terms:
+  - 高山村 群馬 合成地名
+  - 中山と尻高の村
+  - 三国街道の宿場の村
+  naming_type: 合併新設
+  prefecture: 群馬県
+  homonyms:
+  - muni/20-高山村
+  summary: 明治22年（1889年）に中山村と尻高村が合併して生まれた村で、村名は尻高の「高」と中山の「山」を合わせた合成地名である。長野県にも高山村があり、そちらも合成地名だが、材料は高井村と山田村で、字面の一致は偶然である。旧村名は現在の大字「中山」「尻高」に残る。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による高山村の誕生（1889年4月1日）
+    note: 自治体名としての初出（合併時の合成地名）
+  claims:
+  - text: 明治22年（1889年）4月1日、西群馬郡の尻高村と中山村が合併して高山村が誕生した（明治29年に吾妻郡へ編入）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-takayama-gunma-official
+    - h6-takayama-gunma-pref
+  - text: 地名研究の講演資料（北川和秀）は、明治22年の群馬県の新地名の分類で高山村を「合併した町村名を合成」した例に挙げ、「尻高と中山の各一字をとって合成したもの」と説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h6-takayama-gosei-kitagawa
+  - text: 合成地名の一覧資料でも、群馬県吾妻郡高山村は「尻高村＋中山村」の合成地名として挙げられている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - h6-takayama-gosei-list
+  - text: 長野県の高山村も合成地名という点は共通するが、材料は高井村の「高」と山田村の「山」で、群馬側の尻高・中山とは無関係である（共通する層＝合成地名という命名方式、異なる層＝元の村名）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - h6-takayama-gosei-list
+    - h6-takayama-nagano-wiki
+  - text: 合併前の旧村名は、現在の大字「中山」「尻高」として村内に残っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-takayama-gunma-pref
+  - text: 村は近世に越後と江戸を結ぶ三国街道の宿場として栄えた土地で、繁栄は街道が廃止される明治初期まで続いた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-takayama-gunma-official
+  column:
+    title: 「足して二で割る」合成地名
+    text: 明治22年の大合併では、新しい村名の付け方にいくつかの型がありました。地名研究者はその一つを「足して二で割る」方式と呼びます。高山村はその典型で、尻高の「高」と中山の「山」を一字ずつ取って「高山」。隣の県の長野県高山村も、高井の「高」と山田の「山」で同じ結果になりました。作り方は同じでも材料が違えば別の村――二つの高山村は、明治の命名の型そのものを比べられる好例です。
+    sources:
+    - h6-takayama-gosei-kitagawa
+    - h6-takayama-gosei-list
+  relations:
+  - pref/10
+  - muni/20-高山村
+  unknowns:
+  - 合成の際に「高山」の字順・読みを決めた経緯の記録は未確認
+  - 「中山」「尻高」という旧村名自体の語源は今回未調査
+  updated: '2026-11-13'
+- id: muni/10-高崎市
+  code: '102024'
+  names:
+    ja: 高崎市
+    reading: たかさきし
+    aliases:
+    - 和田
+    - 高崎町
+    - 高崎城
+  user_terms:
+  - 高崎市の名前の由来
+  - 高崎は誰が名付けたのか
+  - 高崎城と井伊直政
+  - 金井沢碑とは
+  naming_type: 新規命名
+  prefecture: 群馬県
+  homonyms: []
+  summary: 「高崎」は慶長3年（1598）に井伊直政が高崎城を築いたときに生まれた地名である。それまで和田と呼ばれていた土地を、直政は「松カ崎」と改めようとしたが、竜広寺の住職白菴が「成功高大」の意味から「高崎」を進言して採用されたと市は伝える。城下町の名として定着し、1900年に市制を施行した。
+  first_attestation:
+    era: 慶長3年
+    year_western: 1598
+    document: 高崎城の築城に伴う命名（高崎市文化財情報「高崎城址」）
+    note: 和田と呼ばれていた土地への命名そのもの。「成功高大」の字義を込めた命名と市は説明する
+  claims:
+  - text: 慶長3年（1598）、箕輪城主井伊直政は徳川家康の命令により、かつて和田氏の和田城があった地に高崎城を新たに築き、箕輪城より移転した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-takasaki-castle
+  - text: 築城にあたって直政は、当時和田と呼ばれていた地名を「松カ崎」と改めようとして竜広寺の住職白菴に相談した。白菴は諸木には栄枯があることを説き、「成功高大」の意味から「高崎」と名づけるように進言し、これが採用されて「高崎」の地名が誕生したと高崎市は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-takasaki-castle
+  - text: 城下町は箕輪城下から移された寺院や町（連雀町・田町など）とともに整備され、高崎城の完成は元和5年（1619）に入城した安藤重信ら安藤氏3代によるといわれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-takasaki-castle
+  - text: 市域の山名町には、神亀3年（726）に豪族三家氏が建てた金井沢碑があり、碑文には上野国群馬郡下賛郷高田里に住んだ一族の名が刻まれている。上野三碑の一つで特別史跡に指定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l2-takasaki-kanaizawa
+  - text: 明治33年（1900）4月1日、群馬郡高崎町が市制を施行して高崎市が誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l2-gunma-hensei
+  - text: 総務省の全国地方公共団体コードで、高崎市の団体コードは102024と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「松カ崎」になるはずだった城下町
+    text: 高崎城を築いた井伊直政は、松の字を入れた「松カ崎」という名を考えていました。それを止めたのは竜広寺の住職白菴です。木には栄える時も枯れる時もある、というのがその理由で、代わりに勧めたのが「成功高大」の願いを込めた「高崎」でした。松は城下の景観としては魅力的でも、枯れる木に町の将来を託すのは縁起が悪い、というわけです。直政はこの進言を受け入れ、1598年に「高崎」という地名が生まれました。ただしこれは市が文化財解説で伝える命名譚であり、同時代の記録で裏付けられた話ではありません。その断りを含めて、戦国大名と僧侶の問答から生まれた地名として記憶されています。
+    sources:
+    - l2-takasaki-castle
+  relations:
+  - pref/10
+  unknowns:
+  - 白菴の進言による命名は市の文化財情報が伝える話で、同時代史料での裏付けは本バッチでは確認できていない
+  - 1598年以前に「高崎」の用例があったかどうかは、専門の地名辞典まで確認できていない
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  b-cap-mae-city:
+    label: 前橋市公式「前橋市の歴史」
+    url: https://www.city.maebashi.gunma.jp/soshiki/seisaku/kohobrand/gyomu/3/2/3777.html
+  b-cap-mae-jlis:
+    label: 地方公共団体情報システム機構（J-LIS）「地方公共団体コード一覧」
+    url: https://www.j-lis.go.jp/data/open/cnt/3/2000/1/code.pdf
+  b-cap-mae-sisei:
+    label: 前橋市「市勢要覧」第1章 市勢・沿革
+    url: https://www.city.maebashi.gunma.jp/material/files/group/85/r8sisei.pdf
+  b-cap-mae-youran:
+    label: 前橋市議会事務局「議会要覧（令和8年度版）」沿革
+    url: https://www.city.maebashi.gunma.jp/material/files/group/85/r8youran.pdf
+  h5-meiwa-gunma-koho:
+    label: 群馬県明和町「広報 町制施行記念特集号」（1998年。旧千江田村・梅島村・佐貫村が合併して明和村が誕生したのは昭和30年のことと回顧）
+    url: https://www.town.meiwa.gunma.jp/material/files/group/3/44_h10_2.pdf
+  h5-meiwa-gunma-yurai:
+    label: 群馬県明和町「明和の由来」（町公式。1955年の合併時に新村名を公募し、応募215通・村名89種類の中から「明朗にして平和なる理想郷の象徴」として明和村に決定。1998年の町制施行では慣れ親しんだ村名を残して明和町とした）
+    url: https://www.town.meiwa.gunma.jp/life/soshiki/seisaku/7/9/705.html
+  h5-meiwa-mie-rekimachi:
+    label: 三重県明和町「明和町歴史的風致維持向上計画」（町公式。1955年に三和町と斎明村が成立、1958年9月の合併は町名が定まらず仮に「神郷町」として行い、合併決議後に新町名を公募して神郷町発足と同時に明和町と改称した経緯）
+    url: https://www.town.meiwa.mie.jp/material/files/group/11/dainikirekimach.pdf
+  h5-meiwa-mie-weblio:
+    label: Weblio辞書「明和町（三重県）」（町名の由来。斎明村から「明」を、三和町から「和」をとって「明和」と名付けられた）
+    url: https://www.weblio.jp/content/%E6%98%8E%E5%92%8C%E7%94%BA+%28%E4%B8%89%E9%87%8D%E7%9C%8C%29
+  h5-showa-fk-soka:
+    label: 草加市「姉妹都市福島県昭和村 姉妹都市提携から10周年を迎えました」（昭和村の名前の由来。1927年11月23日に野尻村と大芦村が合併、昭和時代に入って誕生した村であることから昭和村という名前になった）
+    url: http://www.city.soka.saitama.jp/cont/s1410/010/040/032/PAGE000000000000065546.html
+  h5-showa-gunma-plan:
+    label: 群馬県昭和村「昭和村第6次総合計画 基本構想」（村公式。明治22年に森下村・橡久保村・川額村が合併して久呂保村、糸井村・貝野瀬村が合併して糸之瀬村となり、昭和33年11月1日に両村が合併して昭和村が誕生、昭和36年に大字生越を編入。平成の大合併では自主自立を選択）
+    url: https://www.vill.showa.gunma.jp/kurashi/bosyu/publiccomment/files/01/dai6zi_kihonkousou.pdf
+  h5-showa-gunma-youran:
+    label: 群馬県「市町村要覧 28．昭和村」（団体コード104485、村制施行日は昭和33年11月1日。行事に「昭和の日」記念イベントを収録）
+    url: https://www.pref.gunma.jp/uploaded/attachment/39832.pdf
+  h6-minamimaki-official-history:
+    label: 長野県南牧村公式サイト「南牧村の歴史」（五か村の合併、大明村の馬産、1886年の馬市場開設の年表）
+    url: https://www.minamimakimura.jp/main/about/history.html
+  h6-minamimaki-wiki:
+    label: Wikipedia「南牧村 (長野県)」（市町村コード20305-0、1889年に海尻・海ノ口・広瀬・平沢と大明村の板橋の区域で発足）
+    url: https://ja.wikipedia.org/wiki/%E5%8D%97%E7%89%A7%E6%9D%91_(%E9%95%B7%E9%87%8E%E7%9C%8C)
+  h6-nanmoku-futatsu-essay:
+    label: 個人サイト「南牧村は二つある！」（県境を挟んで近接する二つの南牧村と、道路標識で迷った体験を記す随筆）
+    url: http://home.r07.itscom.net/miyazaki/zakki/mura.html
+  h6-nanmoku-gunma-pref:
+    label: 群馬県「市町村のあらまし 18.南牧村」（団体コード103837、昭和30年3月15日に磐戸村・月形村・尾沢村の合併で誕生、村の中央を南牧川が流れる）
+    url: https://www.pref.gunma.jp/uploaded/attachment/609680.pdf
+  h6-nanmoku-gunma-wiki:
+    label: Wikipedia「南牧村 (群馬県)」（市町村コード10383-7、1955年の合併、長野県の南牧村は「みなみまきむら」と読む旨の注記）
+    url: https://ja.wikipedia.org/wiki/%E5%8D%97%E7%89%A7%E6%9D%91_(%E7%BE%A4%E9%A6%AC%E7%9C%8C)
+  h6-nanmoku-kotobank:
+    label: コトバンク「南牧村」（日本歴史地名大系・ブリタニカ国際大百科事典小項目事典。甘楽郡南牧村・南佐久郡南牧村の両村を収載）
+    url: http://kotobank.jp/word/%E5%8D%97%E7%89%A7%E6%9D%91-108995
+  h6-takayama-gosei-kitagawa:
+    label: 北川和秀「明治二十二年の新地名の由来（群馬県の場合）」（前橋市東公民館講座資料。高山村は尻高と中山の各一字をとって合成したものと分類）
+    url: https://kitagawa.la.coocan.jp/koza/h26azuma.pdf
+  h6-takayama-gosei-list:
+    label: Wikipedia「日本の合成地名一覧」（群馬県吾妻郡高山村＝尻高村＋中山村、長野県上高井郡高山村＝高井村＋山田村）
+    url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%90%88%E6%88%90%E5%9C%B0%E5%90%8D%E4%B8%80%E8%A6%A7
+  h6-takayama-gunma-official:
+    label: 群馬県高山村公式サイト「高山村の概要」（沿革：明治22年に中山村と尻高村が合併して高山村に）
+    url: https://vill.takayama.gunma.jp/02chiiki/gaiyo/gaiyo.html
+  h6-takayama-gunma-pref:
+    label: 群馬県「市町村のあらまし 24.高山村」（団体コード104281、村制施行日は明治22年4月1日）
+    url: https://www.pref.gunma.jp/uploaded/attachment/681816.pdf
+  h6-takayama-nagano-wiki:
+    label: Wikipedia「高山村 (長野県)」（市町村コード20543-5、1956年に高井村・山田村が合併して発足、御牧に関係する「牧」「駒場」の地名）
+    url: https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E6%9D%91_(%E9%95%B7%E9%87%8E%E7%9C%8C)
+  k6-kusatsu-gunma-henssen:
+    label: 群馬県「市町村名変遷早見表」（1900年7月1日に草津村を分割して草津町が発足した記録）
+    url: https://www.pref.gunma.jp/uploaded/attachment/37639.pdf
+  k6-kusatsu-japanknowledge:
+    label: 日本歴史地名大系ジャーナル「歴史地名もう一つの読み方 第74回 草津」（平凡社。古形「くそうづ」と臭い泉説、室町時代の用例、冬住みの慣習）
+    url: https://japanknowledge.com/articles/blogjournal/howtoread/entry.html?entryid=83
+  k6-kusatsu-kanko:
+    label: 草津温泉観光協会「歴史（草津年代記）」（日本武尊・行基・源頼朝の発見伝承）
+    url: https://www.kusatsu-onsen.ne.jp/youkoso/bunka03.php
+  l2-gunma-hensei:
+    label: 都道府県市区町村「群馬県の市の変遷」（高崎市の1900年市制、伊勢崎市の1940年誕生と2005年新設合併の変遷表）
+    url: https://uub.jp/trc/p10.html
+  l2-isesaki-machinaka:
+    label: 伊勢崎市「いせさきのまちなか〜その歴史と現在」（赤石の古称と赤土の崖、1565年の伊勢神宮への寄進と伊勢宮建立による伊勢崎の地名の発生、伊勢崎藩と銘仙）
+    url: https://www.city.isesaki.lg.jp/material/files/group/43/machinakasassisyuuseibann.pdf
+  l2-takasaki-castle:
+    label: 高崎市公式 文化財情報「高崎城址（三の丸外囲の土居と堀）」（1598年の築城、和田から高崎への命名の経緯、安藤氏3代による完成）
+    url: https://www.city.takasaki.gunma.jp/site/cultural-assets/3512.html
+  l2-takasaki-kanaizawa:
+    label: 高崎市公式 文化財情報「上野三碑：金井沢碑」（726年建立、上野国群馬郡下賛郷高田里、三家氏一族）
+    url: https://www.city.takasaki.gunma.jp/site/cultural-assets/4460.html
+  m3-fujioka-bunkazai:
+    label: 藤岡市公式 文化財保存活用地域計画（古代の上野国緑野郡はほぼ現在の藤岡市にあたる、「緑野」は「水の処野」の意と伝えられる）
+    url: https://www.city.fujioka.gunma.jp/material/files/group/43/honbun.pdf
+  m3-fujioka-gaiyo:
+    label: 藤岡市公式「藤岡市の概要」（1954年4月1日の市制施行、1955年の平井村・日野村編入、2006年1月1日の鬼石町との合併）
+    url: https://www.city.fujioka.gunma.jp/soshiki/99/3/1155.html
+  m3-fujioka-gogen:
+    label: 語源由来辞典「藤岡市」（富士浅間神社由来説を有力とし、隣の富岡と紛らわしいため「富士」を「藤」に改めたという説を紹介）
+    url: https://gogen-yurai.jp/fujioka-shi-gumma
+  m3-fujioka-kankyou:
+    label: 藤岡市公式 環境概要資料（市の沿革と、高山社跡が2014年6月25日に世界文化遺産となったこと）
+    url: https://www.city.fujioka.gunma.jp/material/files/group/21/kankyogaiyou2016-3_1.pdf
+  m3-fujioka-takayama:
+    label: 藤岡市公式「高山社・藤岡の絹のあゆみ（年表）」（高山長五郎が清温育を確立したと伝えられること、1884年の養蚕改良高山社への改称）
+    url: https://www.city.fujioka.gunma.jp/soshiki/kyoikuiinkai/bunkazaihogo/2/2/2-06/1070.html
+  m3-gunma-tomioka-wh:
+    label: 群馬県 世界遺産センター「富岡製糸場」（明治5年・1872年に日本初の官営器械製糸工場として設置、ブリュナの指導と工女の技術伝播）
+    url: http://worldheritage.pref.gunma.jp/pdf/ks003/201205-tomioka.pdf
+  m3-jlogos-tomioka:
+    label: j-logos 角川日本地名大辞典「富岡町（近世）」（慶長17年・1612年に中野七蔵の計画で宮崎村の住民を移して富岡町が成立、元和3年の検地帳に「富岡新田」）
+    url: https://jlogos.com/ausp/word.html?id=7283705
+  m3-kiryu-fuchi:
+    label: 桐生市公式 歴史的風致維持向上計画 第1章（『吾妻鏡』の桐生六郎の紹介、和銅7年に上野国が絁を献上した記録）
+    url: https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/012/273/1syou-3.pdf
+  m3-kiryu-nenpyo:
+    label: 桐生市公式 市勢要覧・年表（1921年3月1日の市制施行、2005年6月13日の新里村・黒保根村との合併）
+    url: https://www.city.kiryu.lg.jp/shisei/profile/1002964.html
+  m3-kiryu-wiki:
+    label: Wikipedia「桐生市」（地名の由来として桐の自生説と霧生説を挙げ「どちらも決め手は無い」とする）
+    url: https://ja.wikipedia.org/wiki/%E6%A1%90%E7%94%9F%E5%B8%82
+  m3-kotobank-fujioka-machi:
+    label: コトバンク 日本歴史地名大系「藤岡町」（富士浅間神社縁起書の「富士岡」の由来、『続太平記』に永享の乱で藤岡に陣を張った記事）
+    url: https://kotobank.jp/word/%E8%97%A4%E5%B2%A1%E7%94%BA-3035506
+  m3-kotobank-kiryu:
+    label: コトバンク 日本歴史地名大系「桐生市」（『吾妻鏡』養和元年条の「桐生六郎」、「きり＝開墾地・う＝峡谷」説、市名は桐生新町・桐生町に由来）
+    url: https://kotobank.jp/word/%E6%A1%90%E7%94%9F%E5%B8%82-53759
+  m3-kotobank-ota-machi:
+    label: コトバンク 日本歴史地名大系「太田町」（中世は太田郷に属し、1469年の金山城築城後に城下町化、太田宿は例幣使街道の宿駅）
+    url: http://kotobank.jp/word/%E5%A4%AA%E7%94%B0%E7%94%BA-3026417
+  m3-kotobank-shibukawa:
+    label: コトバンク 日本歴史地名大系「渋川市」（渋川の地名は貞和4年・1348年の懸仏にみえるのが早い例、市名は渋川町による）
+    url: https://kotobank.jp/word/%E6%B8%8B%E5%B7%9D%E5%B8%82-74872
+  m3-ota-city-pdf:
+    label: 太田市公式 市の概要資料（2005年3月28日の1市3町の新設合併、編入の経過、市章は新田氏の旗印「大中黒」が基）
+    url: https://www.city.ota.gunma.jp/uploaded/attachment/28664.pdf
+  m3-ota-kanko:
+    label: 太田市観光協会「新田義貞ゆかりの地を訪ねて」（中世の新田荘と新田義貞の本拠、大光院は1613年に家康が建立）
+    url: http://www.ota-kanko.jp/cms/wp-content/uploads/2016/07/manyuki.pdf
+  m3-shibukawa-gappei:
+    label: 渋川市公式 合併協議会資料（新市名称の公募で応募2,011件中「渋川市」が508人と最多となり新市名に決定、名付け親大賞の表彰）
+    url: https://www.city.shibukawa.lg.jp/manage/contents/upload/5f6d36b38b902.pdf
+  m3-shibukawa-hensen:
+    label: 渋川市公式「合併の変遷」（1954年の旧市制施行、2006年2月20日の1市1町4村の新設合併）
+    url: https://www.city.shibukawa.lg.jp/shisei/000233/000234/p002432.html
+  m3-tatebayashi-bunka:
+    label: 文化庁 館林市歴史文化基本構想（館林城に関する最古の史料は文明3年・1471年とする）
+    url: https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/93522303_01.pdf
+  m3-tatebayashi-intro:
+    label: 館林市公式「館林市の紹介」（館林の名が古文書に初めて出てくるのは15世紀の中頃とする）
+    url: https://www.city.tatebayashi.gunma.jp/s002/shisei/020/020/20200103231000.html
+  m3-tatebayashi-satonuma:
+    label: 館林市公式 日本遺産「里沼」資料（尾曳城の狐の報恩伝説、尾曳稲荷・初引稲荷・夜明稲荷）
+    url: https://www.city.tatebayashi.gunma.jp/s093/kanko/010/010/03.pdf
+  m3-tatebayashi-shiryo:
+    label: 館林市第一資料館「館林の歴史概要」（1954年4月1日に館林町と7村が合併して市制施行）
+    url: https://www.city.tatebayashi.gunma.jp/sp004/091/091/20250702185205.html
+  m3-tatebayashi-wiki:
+    label: Wikipedia「館林市」（『鎌倉大草紙』応永22年・1415年条の館林の記事、表記と読みのゆれ）
+    url: https://ja.wikipedia.org/wiki/%E9%A4%A8%E6%9E%97%E5%B8%82
+  m3-tomioka-keikaku:
+    label: 富岡市公式 第2次富岡市総合計画（1954年の市制と編入、2006年3月27日の妙義町との新設合併、2014年の世界遺産登録と国宝指定）
+    url: https://www.city.tomioka.lg.jp/www/contents/1459297260160/files/dainijisougoukeikau.pdf
+  m3-tomioka-keikan:
+    label: 富岡市公式 景観計画（姫街道が市街地の基盤をなすこと、工女の様子は和田英『富岡日記』にみえること）
+    url: https://www.city.tomioka.lg.jp/www/contents/1000000000869/files/tomiokasikeikankeikaku.pdf
+  u4-midori-city-ayumi:
+    label: みどり市公式「みどり市誕生にいたる沿革」（2町1村が平成18年3月27日に合併して群馬県で12番目の市「みどり市」が誕生したこと、笠懸町地区の町名の由来は、鎌倉時代に成立した、笠を模した的を馬上から射る武技「笠懸」であること、岩宿遺跡があること）
+    url: https://www.city.midori.gunma.jp/shisei/1001657/1001831/1002864.html
+  u4-midori-city-gaiyo:
+    label: みどり市公式「みどり市の概要」（みどり市は平成18年（2006）3月27日に新田郡笠懸町・山田郡大間々町・勢多郡東村が合併して誕生し、群馬県では12番目となる48年ぶりに誕生した新しい市であること、大間々町地区の町名の由来となった「まま」は渡良瀬川の河岸段丘が造り出した傾斜地崖の呼称であること、この地域は足尾銅山の銅を運ぶあかがね街道の宿場町として発展してきたこと）
+    url: https://www.city.midori.gunma.jp/shisei/1001657/1002891.html
+  u4-midori-city-meisho:
+    label: みどり市公式「市名・市章」（市名は合併協議のなかで公募により候補を募り、話し合いにより決定したもので、緑豊かなふるさとへの思いと今後の豊かな自然との共存への願いが込められていること）
+    url: https://www.city.midori.gunma.jp/shisei/1001657/1001831/1002892.html
+  u4-midori-city-sogokeikaku:
+    label: みどり市公式資料「みどり市の概要」（大間々町は東西を桐生市に挟まれた、みどり市の東町と笠懸町を繋ぐ中間に位置すること、みどり市は平成18年3月27日に3町村が合併して誕生した群馬県で48年ぶりにして第12番目の新しい市であること）
+    url: https://www.city.midori.gunma.jp/_res/projects/default_project/_page_/001/002/871/1002871_001.pdf
+  u4-midori-kotobank-omama:
+    label: コトバンク「大間々村」（『日本歴史地名大系』の解説：「まま」は急な傾斜地の意味で小字に間々根・儘下があること、文禄年間（1592〜96）に「吹払い」と称された地に桐原村から分郷したという『山田郡誌』の記述、銅山街道が延享4年（1747）まで村の中央を通り大間々宿ともよばれた交通の要衝だったこと）
+    url: https://kotobank.jp/word/%E5%A4%A7%E9%96%93%E3%80%85%E6%9D%91-3037043
+  u4-midori-wikipedia:
+    label: Wikipedia「みどり市」（桐生広域圏の合併枠組みを巡る混乱の末、大間々町の西隣の旧新里村と、大間々町と東村の間にあった旧黒保根村が桐生市との合併を選択し、桐生市に挟まれた3町村が「みどり市」としての合併を選択したため、市域が桐生市に挟まれる変則的な行政区域となったこと、群馬県初のひらがな名の市であること）
+    url: https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82
+  u5-annaka-ansei:
+    label: 安中市「第52回安政遠足侍マラソン大会」資料（安政2年の安政遠足の経緯、到着記録『安中御城内御諸士御遠足着帳』、1975年の第1回侍マラソン）
+    url: https://www.city.annaka.lg.jp/uploaded/attachment/19623.pdf
+  u5-annaka-kenbunsho:
+    label: 群馬県立文書館「古文書文書群概要」（安中市域。当地は『和名抄』碓氷郡野後郷の故地で『延喜式』に野後駅が見えること、『安中志』による安中忠政の築城・命名説、弘治2年の足利義氏感状案に『安中城』が見えることを紹介）
+    url: https://archive.keiyou.jp/gpa/komonjo/81/detail
+  u5-annaka-localhistoria:
+    label: ローカルヒストリア「安中市の歴史」（安中氏の初見と入部の伝承、『安中記』による永禄2年の移城・改名説、中山道安中宿と安中藩の城下町）
+    url: https://local-historia.jp/gunma/annaka
+  u5-numata-kotobank:
+    label: コトバンク「沼田市」（日本歴史地名大系。地名は『和名抄』利根郡渭田郷の遺称と考えられ、市名は近世の城下沼田町を継承。2005年の白沢村・利根村編入にも言及）
+    url: https://kotobank.jp/word/%E6%B2%BC%E7%94%B0%E5%B8%82-159168
+  u5-numata-sanada:
+    label: 沼田市公式サイト「真田の里・沼田城」（天文元年に沼田顕泰が蔵内城として築城、天正8年に真田昌幸が入城、天正18年に信幸が初代城主、慶長年間の五層天守、天和元年の改易と破却）
+    url: https://www.city.numata.gunma.jp/kanko/1004186/1004286/sanada/1001156.html
