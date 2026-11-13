@@ -5115,7 +5115,7 @@ entities:
 - id: muni/31-倉吉市
   prefecture: 鳥取県
   name: 倉吉市
-  coverage: planned
+  coverage: recorded
 - id: muni/31-八頭町
   prefecture: 鳥取県
   name: 八頭町
@@ -5131,7 +5131,7 @@ entities:
 - id: muni/31-境港市
   prefecture: 鳥取県
   name: 境港市
-  coverage: planned
+  coverage: recorded
 - id: muni/31-大山町
   prefecture: 鳥取県
   name: 大山町
@@ -5191,7 +5191,7 @@ entities:
 - id: muni/32-大田市
   prefecture: 島根県
   name: 大田市
-  coverage: planned
+  coverage: recorded
 - id: muni/32-奥出雲町
   prefecture: 島根県
   name: 奥出雲町
@@ -5199,7 +5199,7 @@ entities:
 - id: muni/32-安来市
   prefecture: 島根県
   name: 安来市
-  coverage: planned
+  coverage: recorded
 - id: muni/32-川本町
   prefecture: 島根県
   name: 川本町
@@ -5211,7 +5211,7 @@ entities:
 - id: muni/32-江津市
   prefecture: 島根県
   name: 江津市
-  coverage: planned
+  coverage: recorded
 - id: muni/32-津和野町
   prefecture: 島根県
   name: 津和野町
@@ -5219,7 +5219,7 @@ entities:
 - id: muni/32-浜田市
   prefecture: 島根県
   name: 浜田市
-  coverage: planned
+  coverage: recorded
 - id: muni/32-海士町
   prefecture: 島根県
   name: 海士町
@@ -5227,7 +5227,7 @@ entities:
 - id: muni/32-益田市
   prefecture: 島根県
   name: 益田市
-  coverage: planned
+  coverage: recorded
 - id: muni/32-知夫村
   prefecture: 島根県
   name: 知夫村
@@ -5251,7 +5251,7 @@ entities:
 - id: muni/32-雲南市
   prefecture: 島根県
   name: 雲南市
-  coverage: planned
+  coverage: recorded
 - id: muni/32-飯南町
   prefecture: 島根県
   name: 飯南町
@@ -5263,7 +5263,7 @@ entities:
 - id: muni/33-井原市
   prefecture: 岡山県
   name: 井原市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-倉敷市
   prefecture: 岡山県
   name: 倉敷市
@@ -5271,7 +5271,7 @@ entities:
 - id: muni/33-備前市
   prefecture: 岡山県
   name: 備前市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-勝央町
   prefecture: 岡山県
   name: 勝央町
@@ -5299,7 +5299,7 @@ entities:
 - id: muni/33-新見市
   prefecture: 岡山県
   name: 新見市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-早島町
   prefecture: 岡山県
   name: 早島町
@@ -5311,19 +5311,19 @@ entities:
 - id: muni/33-浅口市
   prefecture: 岡山県
   name: 浅口市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-瀬戸内市
   prefecture: 岡山県
   name: 瀬戸内市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-玉野市
   prefecture: 岡山県
   name: 玉野市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-真庭市
   prefecture: 岡山県
   name: 真庭市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-矢掛町
   prefecture: 岡山県
   name: 矢掛町
@@ -5331,15 +5331,15 @@ entities:
 - id: muni/33-笠岡市
   prefecture: 岡山県
   name: 笠岡市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-総社市
   prefecture: 岡山県
   name: 総社市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-美作市
   prefecture: 岡山県
   name: 美作市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-美咲町
   prefecture: 岡山県
   name: 美咲町
@@ -5351,7 +5351,7 @@ entities:
 - id: muni/33-赤磐市
   prefecture: 岡山県
   name: 赤磐市
-  coverage: planned
+  coverage: recorded
 - id: muni/33-里庄町
   prefecture: 岡山県
   name: 里庄町
@@ -5363,15 +5363,15 @@ entities:
 - id: muni/33-高梁市
   prefecture: 岡山県
   name: 高梁市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-三原市
   prefecture: 広島県
   name: 三原市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-三次市
   prefecture: 広島県
   name: 三次市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-世羅町
   prefecture: 広島県
   name: 世羅町
@@ -5395,7 +5395,7 @@ entities:
 - id: muni/34-大竹市
   prefecture: 広島県
   name: 大竹市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-安芸太田町
   prefecture: 広島県
   name: 安芸太田町
@@ -5403,7 +5403,7 @@ entities:
 - id: muni/34-安芸高田市
   prefecture: 広島県
   name: 安芸高田市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-尾道市
   prefecture: 広島県
   name: 尾道市
@@ -5415,7 +5415,7 @@ entities:
 - id: muni/34-庄原市
   prefecture: 広島県
   name: 庄原市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-府中市
   prefecture: 広島県
   name: 府中市
@@ -5435,7 +5435,7 @@ entities:
 - id: muni/34-江田島市
   prefecture: 広島県
   name: 江田島市
-  coverage: planned
+  coverage: recorded
 - id: muni/34-海田町
   prefecture: 広島県
   name: 海田町
@@ -5455,7 +5455,7 @@ entities:
 - id: muni/34-竹原市
   prefecture: 広島県
   name: 竹原市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-上関町
   prefecture: 山口県
   name: 上関町
@@ -5463,7 +5463,7 @@ entities:
 - id: muni/35-下松市
   prefecture: 山口県
   name: 下松市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-下関市
   prefecture: 山口県
   name: 下関市
@@ -5471,7 +5471,7 @@ entities:
 - id: muni/35-光市
   prefecture: 山口県
   name: 光市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-周南市
   prefecture: 山口県
   name: 周南市
@@ -5495,7 +5495,7 @@ entities:
 - id: muni/35-山陽小野田市
   prefecture: 山口県
   name: 山陽小野田市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-岩国市
   prefecture: 山口県
   name: 岩国市
@@ -5507,7 +5507,7 @@ entities:
 - id: muni/35-柳井市
   prefecture: 山口県
   name: 柳井市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-田布施町
   prefecture: 山口県
   name: 田布施町
@@ -5515,7 +5515,7 @@ entities:
 - id: muni/35-美祢市
   prefecture: 山口県
   name: 美祢市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-萩市
   prefecture: 山口県
   name: 萩市
@@ -5523,11 +5523,11 @@ entities:
 - id: muni/35-長門市
   prefecture: 山口県
   name: 長門市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-防府市
   prefecture: 山口県
   name: 防府市
-  coverage: planned
+  coverage: recorded
 - id: muni/35-阿武町
   prefecture: 山口県
   name: 阿武町
@@ -5539,7 +5539,7 @@ entities:
 - id: muni/36-三好市
   prefecture: 徳島県
   name: 三好市
-  coverage: planned
+  coverage: recorded
 - id: muni/36-上勝町
   prefecture: 徳島県
   name: 上勝町
@@ -5563,11 +5563,11 @@ entities:
 - id: muni/36-吉野川市
   prefecture: 徳島県
   name: 吉野川市
-  coverage: planned
+  coverage: recorded
 - id: muni/36-小松島市
   prefecture: 徳島県
   name: 小松島市
-  coverage: planned
+  coverage: recorded
 - id: muni/36-徳島市
   prefecture: 徳島県
   name: 徳島市
@@ -5607,7 +5607,7 @@ entities:
 - id: muni/36-美馬市
   prefecture: 徳島県
   name: 美馬市
-  coverage: planned
+  coverage: recorded
 - id: muni/36-藍住町
   prefecture: 徳島県
   name: 藍住町
@@ -5619,19 +5619,19 @@ entities:
 - id: muni/36-阿南市
   prefecture: 徳島県
   name: 阿南市
-  coverage: planned
+  coverage: recorded
 - id: muni/36-阿波市
   prefecture: 徳島県
   name: 阿波市
-  coverage: planned
+  coverage: recorded
 - id: muni/36-鳴門市
   prefecture: 徳島県
   name: 鳴門市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-さぬき市
   prefecture: 香川県
   name: さぬき市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-まんのう町
   prefecture: 香川県
   name: まんのう町
@@ -5643,15 +5643,15 @@ entities:
 - id: muni/37-三豊市
   prefecture: 香川県
   name: 三豊市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-丸亀市
   prefecture: 香川県
   name: 丸亀市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-善通寺市
   prefecture: 香川県
   name: 善通寺市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-土庄町
   prefecture: 香川県
   name: 土庄町
@@ -5659,7 +5659,7 @@ entities:
 - id: muni/37-坂出市
   prefecture: 香川県
   name: 坂出市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-多度津町
   prefecture: 香川県
   name: 多度津町
@@ -5675,7 +5675,7 @@ entities:
 - id: muni/37-東かがわ市
   prefecture: 香川県
   name: 東かがわ市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-琴平町
   prefecture: 香川県
   name: 琴平町
@@ -5691,7 +5691,7 @@ entities:
 - id: muni/37-観音寺市
   prefecture: 香川県
   name: 観音寺市
-  coverage: planned
+  coverage: recorded
 - id: muni/37-高松市
   prefecture: 香川県
   name: 高松市
@@ -5711,7 +5711,7 @@ entities:
 - id: muni/38-伊予市
   prefecture: 愛媛県
   name: 伊予市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-伊方町
   prefecture: 愛媛県
   name: 伊方町
@@ -5719,7 +5719,7 @@ entities:
 - id: muni/38-八幡浜市
   prefecture: 愛媛県
   name: 八幡浜市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-内子町
   prefecture: 愛媛県
   name: 内子町
@@ -5727,15 +5727,15 @@ entities:
 - id: muni/38-四国中央市
   prefecture: 愛媛県
   name: 四国中央市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-大洲市
   prefecture: 愛媛県
   name: 大洲市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-宇和島市
   prefecture: 愛媛県
   name: 宇和島市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-愛南町
   prefecture: 愛媛県
   name: 愛南町
@@ -5747,7 +5747,7 @@ entities:
 - id: muni/38-東温市
   prefecture: 愛媛県
   name: 東温市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-松前町
   prefecture: 愛媛県
   name: 松前町
@@ -5767,11 +5767,11 @@ entities:
 - id: muni/38-西予市
   prefecture: 愛媛県
   name: 西予市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-西条市
   prefecture: 愛媛県
   name: 西条市
-  coverage: planned
+  coverage: recorded
 - id: muni/38-鬼北町
   prefecture: 愛媛県
   name: 鬼北町
@@ -5803,7 +5803,7 @@ entities:
 - id: muni/39-南国市
   prefecture: 高知県
   name: 南国市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-四万十市
   prefecture: 高知県
   name: 四万十市
@@ -5815,7 +5815,7 @@ entities:
 - id: muni/39-土佐市
   prefecture: 高知県
   name: 土佐市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-土佐清水市
   prefecture: 高知県
   name: 土佐清水市
@@ -5847,11 +5847,11 @@ entities:
 - id: muni/39-安芸市
   prefecture: 高知県
   name: 安芸市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-室戸市
   prefecture: 高知県
   name: 室戸市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-宿毛市
   prefecture: 高知県
   name: 宿毛市
