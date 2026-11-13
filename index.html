@@ -108,6 +108,7 @@ function centerOf(g,b,w,h,m){ // largest polygon bbox center
   if(!best)return{x:w/2,y:h/2};return{x:m+((best[0]-b.minLon)/(b.maxLon-b.minLon))*(w-2*m),y:h-m-((best[1]-b.minLat)/(b.maxLat-b.minLat))*(h-2*m)}}
 
 let view={scale:1,tx:0,ty:0}, lastViewBox={w:960,h:960}, suppressClick=false;
+let currentLabelMode="all";
 function applyView(){
   const vp=document.getElementById("vp");if(!vp)return;
   vp.setAttribute("transform",`translate(${view.tx},${view.ty}) scale(${view.scale})`);
@@ -115,6 +116,11 @@ function applyView(){
     const b=parseFloat(t.dataset.base||"11");
     t.style.fontSize=(b/view.scale)+"px";
     t.style.strokeWidth=(3/view.scale)+"px";
+    if(t.dataset.always==="1"){t.style.display=""}
+    else{
+      const bw=parseFloat(t.dataset.bw||"0")*view.scale, bh=parseFloat(t.dataset.bh||"0")*view.scale;
+      t.style.display=(bw>=26&&bh>=11)?"":"none";
+    }
   });
 }
 function svgPoint(evt){
@@ -204,12 +210,16 @@ function renderMap(features, onClick, labelMode){
       g.appendChild(p);
     });
   });
-  if(labelMode==="all" || (labelMode==="auto" && features.length<=60)){
-    features.forEach(f=>{
-      const c=centerOf(f.geometry,b,w,h,m);const t=document.createElementNS(SVG_NS,"text");
-      t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.dataset.base="11";t.textContent=f.properties.name;g.appendChild(t);
-    });
-  }
+  currentLabelMode=labelMode;
+  features.forEach(f=>{
+    const c=centerOf(f.geometry,b,w,h,m);const t=document.createElementNS(SVG_NS,"text");
+    t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.dataset.base="11";t.textContent=f.properties.name;
+    const fb=getBounds([f]);
+    t.dataset.bw=((fb.maxLon-fb.minLon)/(b.maxLon-b.minLon))*(w-2*m);
+    t.dataset.bh=((fb.maxLat-fb.minLat)/(b.maxLat-b.minLat))*(h-2*m);
+    t.dataset.always=(labelMode==="all")?"1":"0";
+    g.appendChild(t);
+  });
   view={scale:1,tx:0,ty:0};applyView();setupMapGestures();
 }
 function markSelected(name){document.querySelectorAll("path.region").forEach(p=>p.classList.toggle("selected",p.dataset.name===name))}
@@ -255,7 +265,7 @@ async function enterMuni(rec){
     document.getElementById("crumbText").textContent=`${name}の市区町村（クリックで詳細）`;
     renderMap(geo.features,(f,path)=>{markSelected(f.properties.name);showMuni(name,f.properties.name)},"auto");
     document.querySelectorAll("path.region").forEach(p=>{if(muniByKey[`${name}|${p.dataset.name}`])p.classList.add("has-record")});
-    document.getElementById("status").textContent=`${name}の市区町村 ${geo.features.length} 件を表示中。市区町村をクリックしてください。`;
+    document.getElementById("status").textContent=`${name}の市区町村 ${geo.features.length} 件を表示中。市区町村をクリックしてください（拡大すると小さな自治体のラベルも表示されます）。`;
     showPrefRecord(rec);
   }catch(e){
     document.getElementById("status").textContent="市区町村データの読み込みに失敗しました。";

@@ -435,10 +435,20 @@ entities:
   prefecture: 北海道
   name: 沼田町
   coverage: planned
-- id: muni/01-泊村
+- id: muni/01-泊村（古宇郡）
   prefecture: 北海道
-  name: 泊村
+  name: 泊村（古宇郡）
   coverage: planned
+  county: 古宇郡
+  subprefecture: 後志総合振興局
+  note: 北海道内に同名の泊村が2村ある（もう一方は国後郡泊村）。基データでは同名のため1フィーチャに統合されていたものを、郡で区別して分離した。レコード化の際は同名ペアとして横断チェックすること
+- id: muni/01-泊村（国後郡）
+  prefecture: 北海道
+  name: 泊村（国後郡）
+  coverage: planned
+  county: 国後郡
+  subprefecture: 根室振興局
+  note: 北海道内に同名の泊村が2村ある（もう一方は古宇郡泊村）。国後島の村で、現在はロシアが実効支配している。基データでは同名のため1フィーチャに統合されていたものを、郡で区別して分離した。レコード化の際は同名ペアとして横断チェックすること
 - id: muni/01-洞爺湖町
   prefecture: 北海道
   name: 洞爺湖町
