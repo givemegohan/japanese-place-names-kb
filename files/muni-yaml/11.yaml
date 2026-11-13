@@ -3850,9 +3850,10 @@ records:
     - w11-kanna-mlit
   - text: 1954年（昭和29年）5月3日、丹荘村と青柳村が合併して神川村が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
+    - upg-a-kamikawa-history
     - w11-kamikawa-wiki
   - text: 1987年（昭和62年）10月1日に神川村が町制を施行して神川町となり、2006年（平成18年）1月1日に神泉村と合併して新しい神川町が発足した
     kind: fact
@@ -5166,6 +5167,9 @@ sources:
   u6-namerikawa-wiki:
     label: Wikipedia「滑川市」（地名の由来として、市の中央を流れる波入川（現在の中川）に発祥し、中世に「滑河」の漢字が当てられ「滑河」の初見は1186年であること、町村制時の町名選定で「滑川」と「加積」が最終候補に残り富山県知事が「滑川」を選んだことを、滑川市立博物館『市制60周年 なめりかわ昭和今昔写真館』等を引いて記す）
     url: https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E5%B8%82
+  upg-a-kamikawa-history:
+    label: 神川町公式「町の歴史」（昭和29年に丹荘村と青柳村が合併して神川村が誕生したことを明記）
+    url: https://www.town.kamikawa.saitama.jp/soshiki/shogaigakushu/shokai/gaiyou/582.html
   w1-ageo-city:
     label: 上尾市議会事務局「市の概要」（上尾市公式。本市の成り立ちは江戸時代に設置された中山道の上尾宿を起源とする宿場町であること、昭和30年（1955年）1月1日に上尾町・平方町・原市町・大石村・上平村・大谷村の3町3村が合併して上尾町となり、昭和33年（1958年）7月15日に県下19番目の市制を施行して上尾市が誕生したことを記す）
     url: https://www.city.ageo.lg.jp/uploaded/attachment/101403.pdf
