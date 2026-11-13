@@ -144,6 +144,14 @@
    "label": "諏訪市議会「議会要覧（令和8年度版）」（諏訪の由来として太湖の詩語説を紹介、洲羽・須波・諏方の旧表記、昭和16年8月10日の市制施行と昭和30年の合併）",
    "url": "https://www.city.suwa.lg.jp/uploaded/attachment/51481.pdf"
   },
+  "upg-a-shimosuwa-naganoshishi": {
+   "label": "『長野市誌』第二巻 歴史編 原始・古代・中世（ADEACデジタル版。『続日本紀』養老5年（721年）に信濃国を割いて諏方国を置き、天平3年（731年）に廃して信濃国に併せたため、諏方国は約10年間存続したと記す）",
+   "url": "https://adeac.jp/nagano-city/texthtml/d100020/ct00000002/ht001310"
+  },
+  "upg-a-toyooka-tokei2012": {
+   "label": "豊丘村「豊丘村統計書（平成24年版）」（村公式。村役場の所在地を「豊丘村神稲3120番地」と明記）",
+   "url": "https://www.vill.nagano-toyooka.lg.jp/19gyousei/08toukei/files/tokei2012.pdf"
+  },
   "v1-nakano-city-enkaku": {
    "label": "中野市公式「中野市の概要（沿革）」（古代に中野牧・笠原牧が発達したこと、明治初年に中野村に中野県庁が置かれたが中野騒動で焼失し明治4年（1871年）に県庁が長野村へ移り長野県と改称されたこと、昭和29年（1954年）に中野町を中心に近隣8か村が合併して中野市となったこと、平成17年（2005年）4月1日に豊田村と合併し新市「中野市」となったことを記す）",
    "url": "https://www.city.nakano.nagano.jp/docs/2014030900023/"
@@ -1328,9 +1336,10 @@
     {
      "text": "『続日本紀』によれば、奈良時代の一時期、諏訪地域は信濃国から分立して諏方国をなしたが、約10年で信濃国に復されたとされる",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
+      "upg-a-shimosuwa-naganoshishi",
       "v10-shimosuwa-wiki"
      ]
     },
@@ -7422,9 +7431,11 @@
     {
      "text": "1955年4月1日、神稲村と河野村が新設合併して豊丘村が誕生した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
+      "x2-toyooka-yoran1955",
+      "x2-toyooka-kotobank-taikei",
       "x2-toyooka-wiki-kumashiro"
      ]
     },
@@ -7459,9 +7470,11 @@
     {
      "text": "前身の神稲村は「くましろむら」と読む難読の村名で、村役場は現在も旧神稲村域の神稲地区に置かれている",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
+      "upg-a-toyooka-tokei2012",
+      "x2-toyooka-kotobank-taikei",
       "x2-toyooka-wiki-kumashiro"
      ]
     },
