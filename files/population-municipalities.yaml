@@ -4323,7 +4323,7 @@ entities:
 - id: muni/25-守山市
   prefecture: 滋賀県
   name: 守山市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-彦根市
   prefecture: 滋賀県
   name: 彦根市
@@ -4339,15 +4339,15 @@ entities:
 - id: muni/25-東近江市
   prefecture: 滋賀県
   name: 東近江市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-栗東市
   prefecture: 滋賀県
   name: 栗東市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-湖南市
   prefecture: 滋賀県
   name: 湖南市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-甲良町
   prefecture: 滋賀県
   name: 甲良町
@@ -4355,7 +4355,7 @@ entities:
 - id: muni/25-甲賀市
   prefecture: 滋賀県
   name: 甲賀市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-竜王町
   prefecture: 滋賀県
   name: 竜王町
@@ -4363,7 +4363,7 @@ entities:
 - id: muni/25-米原市
   prefecture: 滋賀県
   name: 米原市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-草津市
   prefecture: 滋賀県
   name: 草津市
@@ -4375,19 +4375,19 @@ entities:
 - id: muni/25-近江八幡市
   prefecture: 滋賀県
   name: 近江八幡市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-野洲市
   prefecture: 滋賀県
   name: 野洲市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-長浜市
   prefecture: 滋賀県
   name: 長浜市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-高島市
   prefecture: 滋賀県
   name: 高島市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-与謝野町
   prefecture: 京都府
   name: 与謝野町
@@ -4399,7 +4399,7 @@ entities:
 - id: muni/26-亀岡市
   prefecture: 京都府
   name: 亀岡市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-井手町
   prefecture: 京都府
   name: 井手町
@@ -4407,7 +4407,7 @@ entities:
 - id: muni/26-京丹後市
   prefecture: 京都府
   name: 京丹後市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-京丹波町
   prefecture: 京都府
   name: 京丹波町
@@ -4415,7 +4415,7 @@ entities:
 - id: muni/26-京田辺市
   prefecture: 京都府
   name: 京田辺市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-京都市
   prefecture: 京都府
   name: 京都市
@@ -4427,11 +4427,11 @@ entities:
 - id: muni/26-八幡市
   prefecture: 京都府
   name: 八幡市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-南丹市
   prefecture: 京都府
   name: 南丹市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-南山城村
   prefecture: 京都府
   name: 南山城村
@@ -4439,7 +4439,7 @@ entities:
 - id: muni/26-向日市
   prefecture: 京都府
   name: 向日市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-和束町
   prefecture: 京都府
   name: 和束町
@@ -4447,7 +4447,7 @@ entities:
 - id: muni/26-城陽市
   prefecture: 京都府
   name: 城陽市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-大山崎町
   prefecture: 京都府
   name: 大山崎町
@@ -4463,15 +4463,15 @@ entities:
 - id: muni/26-宮津市
   prefecture: 京都府
   name: 宮津市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-木津川市
   prefecture: 京都府
   name: 木津川市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-福知山市
   prefecture: 京都府
   name: 福知山市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-笠置町
   prefecture: 京都府
   name: 笠置町
@@ -4483,15 +4483,15 @@ entities:
 - id: muni/26-綾部市
   prefecture: 京都府
   name: 綾部市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-舞鶴市
   prefecture: 京都府
   name: 舞鶴市
-  coverage: planned
+  coverage: recorded
 - id: muni/26-長岡京市
   prefecture: 京都府
   name: 長岡京市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-交野市
   prefecture: 大阪府
   name: 交野市
@@ -4511,7 +4511,7 @@ entities:
 - id: muni/27-和泉市
   prefecture: 大阪府
   name: 和泉市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-四條畷市
   prefecture: 大阪府
   name: 四條畷市
@@ -4523,7 +4523,7 @@ entities:
 - id: muni/27-大東市
   prefecture: 大阪府
   name: 大東市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-大阪市
   prefecture: 大阪府
   name: 大阪市
@@ -4539,11 +4539,11 @@ entities:
 - id: muni/27-守口市
   prefecture: 大阪府
   name: 守口市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-富田林市
   prefecture: 大阪府
   name: 富田林市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-寝屋川市
   prefecture: 大阪府
   name: 寝屋川市
@@ -4555,7 +4555,7 @@ entities:
 - id: muni/27-岸和田市
   prefecture: 大阪府
   name: 岸和田市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-島本町
   prefecture: 大阪府
   name: 島本町
@@ -4575,7 +4575,7 @@ entities:
 - id: muni/27-松原市
   prefecture: 大阪府
   name: 松原市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-枚方市
   prefecture: 大阪府
   name: 枚方市
@@ -4587,11 +4587,11 @@ entities:
 - id: muni/27-池田市
   prefecture: 大阪府
   name: 池田市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-河内長野市
   prefecture: 大阪府
   name: 河内長野市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-河南町
   prefecture: 大阪府
   name: 河南町
@@ -4599,7 +4599,7 @@ entities:
 - id: muni/27-泉佐野市
   prefecture: 大阪府
   name: 泉佐野市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-泉南市
   prefecture: 大阪府
   name: 泉南市
@@ -4623,7 +4623,7 @@ entities:
 - id: muni/27-羽曳野市
   prefecture: 大阪府
   name: 羽曳野市
-  coverage: planned
+  coverage: recorded
 - id: muni/27-能勢町
   prefecture: 大阪府
   name: 能勢町
@@ -4675,7 +4675,7 @@ entities:
 - id: muni/28-三田市
   prefecture: 兵庫県
   name: 三田市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-上郡町
   prefecture: 兵庫県
   name: 上郡町
@@ -4687,7 +4687,7 @@ entities:
 - id: muni/28-丹波篠山市
   prefecture: 兵庫県
   name: 丹波篠山市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-伊丹市
   prefecture: 兵庫県
   name: 伊丹市
@@ -4707,11 +4707,11 @@ entities:
 - id: muni/28-加西市
   prefecture: 兵庫県
   name: 加西市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-南あわじ市
   prefecture: 兵庫県
   name: 南あわじ市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-多可町
   prefecture: 兵庫県
   name: 多可町
@@ -4743,7 +4743,7 @@ entities:
 - id: muni/28-川西市
   prefecture: 兵庫県
   name: 川西市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-市川町
   prefecture: 兵庫県
   name: 市川町
@@ -4767,11 +4767,11 @@ entities:
 - id: muni/28-洲本市
   prefecture: 兵庫県
   name: 洲本市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-淡路市
   prefecture: 兵庫県
   name: 淡路市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-猪名川町
   prefecture: 兵庫県
   name: 猪名川町
@@ -4799,7 +4799,7 @@ entities:
 - id: muni/28-芦屋市
   prefecture: 兵庫県
   name: 芦屋市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-西宮市
   prefecture: 兵庫県
   name: 西宮市
@@ -4811,11 +4811,11 @@ entities:
 - id: muni/28-豊岡市
   prefecture: 兵庫県
   name: 豊岡市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-赤穂市
   prefecture: 兵庫県
   name: 赤穂市
-  coverage: planned
+  coverage: recorded
 - id: muni/28-養父市
   prefecture: 兵庫県
   name: 養父市
@@ -4855,7 +4855,7 @@ entities:
 - id: muni/29-五條市
   prefecture: 奈良県
   name: 五條市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-十津川村
   prefecture: 奈良県
   name: 十津川村
@@ -4867,11 +4867,11 @@ entities:
 - id: muni/29-大和郡山市
   prefecture: 奈良県
   name: 大和郡山市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-大和高田市
   prefecture: 奈良県
   name: 大和高田市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-大淀町
   prefecture: 奈良県
   name: 大淀町
@@ -4883,7 +4883,7 @@ entities:
 - id: muni/29-天理市
   prefecture: 奈良県
   name: 天理市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-奈良市
   prefecture: 奈良県
   name: 奈良市
@@ -4891,7 +4891,7 @@ entities:
 - id: muni/29-宇陀市
   prefecture: 奈良県
   name: 宇陀市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-安堵町
   prefecture: 奈良県
   name: 安堵町
@@ -4919,7 +4919,7 @@ entities:
 - id: muni/29-御所市
   prefecture: 奈良県
   name: 御所市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-御杖村
   prefecture: 奈良県
   name: 御杖村
@@ -4943,7 +4943,7 @@ entities:
 - id: muni/29-桜井市
   prefecture: 奈良県
   name: 桜井市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-橿原市
   prefecture: 奈良県
   name: 橿原市
@@ -4967,7 +4967,7 @@ entities:
 - id: muni/29-葛城市
   prefecture: 奈良県
   name: 葛城市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-野迫川村
   prefecture: 奈良県
   name: 野迫川村
@@ -4975,7 +4975,7 @@ entities:
 - id: muni/29-香芝市
   prefecture: 奈良県
   name: 香芝市
-  coverage: planned
+  coverage: recorded
 - id: muni/29-高取町
   prefecture: 奈良県
   name: 高取町
@@ -5031,7 +5031,7 @@ entities:
 - id: muni/30-岩出市
   prefecture: 和歌山県
   name: 岩出市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-広川町
   prefecture: 和歌山県
   name: 広川町
@@ -5039,11 +5039,11 @@ entities:
 - id: muni/30-御坊市
   prefecture: 和歌山県
   name: 御坊市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-新宮市
   prefecture: 和歌山県
   name: 新宮市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-日高川町
   prefecture: 和歌山県
   name: 日高川町
@@ -5059,15 +5059,15 @@ entities:
 - id: muni/30-有田市
   prefecture: 和歌山県
   name: 有田市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-橋本市
   prefecture: 和歌山県
   name: 橋本市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-海南市
   prefecture: 和歌山県
   name: 海南市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-湯浅町
   prefecture: 和歌山県
   name: 湯浅町
@@ -5075,7 +5075,7 @@ entities:
 - id: muni/30-田辺市
   prefecture: 和歌山県
   name: 田辺市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-由良町
   prefecture: 和歌山県
   name: 由良町
@@ -5087,7 +5087,7 @@ entities:
 - id: muni/30-紀の川市
   prefecture: 和歌山県
   name: 紀の川市
-  coverage: planned
+  coverage: recorded
 - id: muni/30-紀美野町
   prefecture: 和歌山県
   name: 紀美野町
