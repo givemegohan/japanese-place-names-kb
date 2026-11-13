@@ -57,6 +57,7 @@ h3.sec.legend{border-left-color:#d99a26}
 .srcs{font-size:.82rem;color:var(--muted);line-height:1.7}
 .srcs a{color:var(--accent2)}
 .unknowns{font-size:.85rem;color:var(--muted);line-height:1.7}
+.typenote{font-size:.85rem;color:var(--muted);line-height:1.6;margin:.1rem 0 .4rem}
 .results{display:flex;flex-direction:column;gap:.4rem}
 .results button{text-align:left;border:1px solid var(--line);background:#fff;border-radius:10px;padding:.55rem .8rem;cursor:pointer;font-size:.92rem}
 .results button:hover{border-color:var(--accent)}
@@ -90,7 +91,7 @@ footer{padding:0 1.25rem 1.5rem;color:var(--muted);font-size:.8rem;line-height:1
   </div>
 </div>
 <div class="stats" id="stats"></div>
-<footer>出典は各レコード内に表示しています。証拠レベル：E1 一次文献／E2 公的・学術の二次資料／E3 専門文献／E4 地域の証言・郷土資料／E5 出典不明の一般情報／H 類推。状態：対立＝信頼できる資料が食い違うため両論併記、判定困難＝調べたが決められないもの。</footer>
+<footer>出典はそれぞれの解説の中に表示しています。証拠レベル：E1 一次文献／E2 公的・学術の二次資料／E3 専門文献／E4 地域の証言・郷土資料／E5 出典不明の一般情報／H 類推。状態：対立＝信頼できる資料が食い違うため両論併記、判定困難＝調べたが決められないもの。</footer>
 
 <script>
 const SVG_NS = "http://www.w3.org/2000/svg";
@@ -293,6 +294,7 @@ function showPrefRecord(rec,opts){
     <div class="reading">${esc(rec.names.reading||"")}${rec.names.aliases&&rec.names.aliases.length?` ／ 旧称・別名：${rec.names.aliases.map(esc).join("、")}`:""}</div>
     <div class="badges"><span class="badge">命名の類型：${esc(rec.naming_type||"")}</span>
     ${fa.document?`<span class="badge">初出：${esc(fa.era||"")}${fa.year_western?`（${fa.year_western}年）`:""}『${esc(fa.document)}』</span>`:""}</div>
+    ${rec.naming_note?`<p class="typenote">類型の補足：${esc(rec.naming_note)}</p>`:""}
     <p class="summary">${esc(rec.summary)}</p>
     ${fa.note?`<p class="unknowns">初出について：${esc(fa.note)}</p>`:""}
     <h3 class="sec">歴史的事実</h3>${facts.map(claimHtml).join("")||"<p class='unknowns'>記録なし</p>"}
@@ -334,10 +336,11 @@ function showMuniRecord(rec){
   panel.innerHTML=`
     <h2>${esc(rec.names.ja)}</h2>
     <div class="reading">${esc(rec.names.reading||"")}（${esc(rec.prefecture||"")}）${rec.names.aliases&&rec.names.aliases.length?` ／ 旧称・別名：${rec.names.aliases.map(esc).join("、")}`:""}</div>
-    <div class="badges"><span class="badge">命名の類型：${esc(rec.naming_type||"")}</span>
+    <div class="badges"><span class="badge">命名の類型：${esc(rec.naming_type||"")}</span>${rec.formation?`<span class="badge">成立：${esc(rec.formation)}</span>`:""}
     ${fa.document?`<span class="badge">初出：${esc(fa.era||"")}${fa.year_western?`（${fa.year_western}年）`:""}『${esc(fa.document)}』</span>`:""}</div>
+    ${rec.naming_note?`<p class="typenote">類型の補足：${esc(rec.naming_note)}</p>`:""}
     <p class="summary">${esc(rec.summary)}</p>
-    ${rec.homonyms&&rec.homonyms.length?`<p class="homonyms">同名の自治体：${rec.homonyms.map(hid=>{const t=muniIdxById[hid];return t?`<button class="homo-link" data-hid="${esc(hid)}">${esc(t.prefecture)}${esc(t.name)}</button>`:esc(hid.replace(/^muni\/\d+-/,""))+"（未収載）"}).join("、")}（同名でも由来はそれぞれ異なります。各レコードで、共通する層と異なる層を分けて記録しています）</p>`:""}
+    ${rec.homonyms&&rec.homonyms.length?`<p class="homonyms">同名の自治体：${rec.homonyms.map(hid=>{const t=muniIdxById[hid];return t?`<button class="homo-link" data-hid="${esc(hid)}">${esc(t.prefecture)}${esc(t.name)}</button>`:esc(hid.replace(/^muni\/\d+-/,""))+"（未掲載）"}).join("、")}（同名でも由来はそれぞれ異なります。それぞれの解説で、共通する層と異なる層を分けて記録しています）</p>`:""}
     ${fa.note?`<p class="unknowns">初出について：${esc(fa.note)}</p>`:""}
     <h3 class="sec">歴史的事実</h3>${facts.map(claimHtml).join("")||"<p class='unknowns'>記録なし</p>"}
     ${legends.length?`<h3 class="sec legend">民間伝説・伝承（事実とは分けて記録）</h3>${legends.map(claimHtml).join("")}`:""}
@@ -365,7 +368,7 @@ function showMuni(prefName, muniName){
   panel.innerHTML=`
     <h2>${esc(muniName)}</h2>
     <div class="reading">${esc(prefName)}</div>
-    <div class="badges"><span class="badge">市区町村レコード：調査中（これから作成）</span></div>
+    <div class="badges"><span class="badge">この自治体の由来はまだ掲載されていません</span></div>
     <p class="summary">この自治体の地名の由来は、市区町村レベルの第2フェーズで、一次文献まで遡って1件ずつ記録していきます。現時点では未調査のため、由来は表示しません（推測で埋めることはしません）。</p>
     ${others.length?`<div class="column-box"><div class="ct">同名の自治体があります</div><div>「${esc(muniName)}」は ${others.map(esc).join("、")} にもあります。同名でも由来が同じとは限らないため、それぞれ別々に調査します。</div></div>`:""}
     <button class="drill" id="backPref">${esc(prefName)}の由来に戻る</button>`;
@@ -444,7 +447,7 @@ document.getElementById("q").addEventListener("input",applyFilter);
     const nFact=records.reduce((a,r)=>a+r.claims.filter(c=>c.kind!=="legend").length,0);
     const nLeg=records.reduce((a,r)=>a+r.claims.filter(c=>c.kind==="legend").length,0);
     const totalMuni=Object.values(muniIndex.municipalities).reduce((a,v)=>a+v.length,0);
-    document.getElementById("stats").innerHTML=`現在収載：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件）。市区町村は母集団 ${totalMuni} 件を地図に収載し、由来レコードは ${muniStats?muniStats.records:muniSearch.length} 件作成済み（主張 ${muniStats?muniStats.fact+muniStats.legend:0} 件＝歴史的事実 ${muniStats?muniStats.fact:0} 件・民間伝説 ${muniStats?muniStats.legend:0} 件）で、県庁所在地・同名地名・大都市から着手し、順次作成中です。出典は合計 ${muniStats?muniStats.sources:Object.keys(sources).length} 件。`;
+    document.getElementById("stats").innerHTML=`現在掲載中：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件）。市区町村は ${muniStats?muniStats.records:muniSearch.length} 件（所属未定地を除くすべて）の由来を掲載しています（主張 ${muniStats?muniStats.fact+muniStats.legend:0} 件＝歴史的事実 ${muniStats?muniStats.fact:0} 件・民間伝説 ${muniStats?muniStats.legend:0} 件）。出典は合計 ${muniStats?muniStats.sources:Object.keys(sources).length} 件。`;
   }catch(e){
     document.getElementById("status").textContent="データの読み込みに失敗しました。";
   }
