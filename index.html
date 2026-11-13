@@ -26,11 +26,15 @@ svg#map path.region.has-record{fill:#f3e2c7}
 svg#map path.region:hover{fill:#f7e3c3}
 svg#map path.region.selected{fill:var(--fill-sel);stroke:var(--accent);stroke-width:1.6}
 svg#map path.region.selected:hover{fill:var(--fill-sel)}
-svg#map text{font-size:11px;fill:#41505a;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:#ffffff;stroke-width:3px;stroke-linejoin:round}
+svg#map text{font-size:13px;fill:#41505a;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:#ffffff;stroke-width:3px;stroke-linejoin:round}
 .map-tools{position:absolute;top:.6rem;right:.6rem;display:flex;gap:.35rem;z-index:5}
 .map-tools button{min-width:36px;height:36px;padding:0 .5rem;border:1px solid var(--line);background:#fff;border-radius:9px;font-size:1rem;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.12)}
 .map-tools button:hover{border-color:var(--accent)}
 .map-hint{position:absolute;left:.8rem;bottom:.55rem;font-size:11px;color:var(--muted);background:rgba(255,255,255,.85);padding:2px 8px;border-radius:10px;pointer-events:none}
+.map-actions{position:absolute;right:.6rem;bottom:.6rem;display:flex;gap:.4rem;z-index:6;flex-wrap:wrap;justify-content:flex-end}
+.map-actions button{border:1px solid var(--accent);background:#fff;color:var(--accent);border-radius:999px;padding:.5rem .95rem;font-size:.9rem;font-weight:600;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.15)}
+.map-actions button.primary{background:var(--accent);color:#fff}
+.map-actions button:hover{opacity:.88}
 .crumb{display:flex;gap:.5rem;align-items:center;margin-bottom:.5rem;font-size:.9rem}
 .crumb button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:.4rem .9rem;cursor:pointer;font-size:.88rem}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:1.1rem 1.2rem;min-height:300px}
@@ -76,11 +80,12 @@ footer{padding:0 1.25rem 1.5rem;color:var(--muted);font-size:.8rem;line-height:1
     <div class="crumb" id="crumb" style="display:none"><button id="backBtn">← 日本全図に戻る</button><span id="crumbText"></span></div>
     <svg id="map" viewBox="0 0 960 960" aria-label="日本地図"></svg>
     <div class="map-tools"><button id="zoomIn" title="拡大">＋</button><button id="zoomOut" title="縮小">−</button><button id="zoomReset" title="全体表示">全体</button></div>
-    <div class="map-hint">ドラッグで移動／ホイール・ピンチで拡大縮小</div>
+    <div class="map-actions" id="mapActions" style="display:none"></div>
+    <div class="map-hint">ドラッグで移動／ピンチ・ホイールで拡大縮小／タップで選択、ダブルタップで詳細</div>
   </div>
   <div class="panel" id="panel">
     <h2>地名を選んでください</h2>
-    <p class="summary">左の地図で都道府県をクリックすると、その名前の由来がここに表示されます。検索欄からも探せます。</p>
+    <p class="summary">左の地図で都道府県をダブルタップすると（または選択して「由来を見る」ボタンを押すと）、その名前の由来がここに表示されます。検索欄からも探せます。</p>
     <div class="results" id="homeList"></div>
   </div>
 </div>
@@ -112,14 +117,16 @@ let currentLabelMode="all";
 function applyView(){
   const vp=document.getElementById("vp");if(!vp)return;
   vp.setAttribute("transform",`translate(${view.tx},${view.ty}) scale(${view.scale})`);
+  const svg=document.getElementById("map");
+  const ratio=lastViewBox.w/Math.max(svg.clientWidth||lastViewBox.w,1); // viewBox units per screen px: keeps labels at a constant on-screen size
   document.querySelectorAll("#map text").forEach(t=>{
-    const b=parseFloat(t.dataset.base||"11");
-    t.style.fontSize=(b/view.scale)+"px";
-    t.style.strokeWidth=(3/view.scale)+"px";
+    const b=parseFloat(t.dataset.base||"13");
+    t.style.fontSize=(b*ratio/view.scale)+"px";
+    t.style.strokeWidth=(3.2*ratio/view.scale)+"px";
     if(t.dataset.always==="1"){t.style.display=""}
     else{
       const bw=parseFloat(t.dataset.bw||"0")*view.scale, bh=parseFloat(t.dataset.bh||"0")*view.scale;
-      t.style.display=(bw>=26&&bh>=11)?"":"none";
+      t.style.display=(bw>=30*ratio&&bh>=13*ratio)?"":"none";
     }
   });
 }
@@ -183,7 +190,6 @@ function setupMapGestures(){
   };
   window.addEventListener("pointerup",e=>end(e,true));window.addEventListener("pointercancel",e=>end(e,false));
   svg.addEventListener("wheel",e=>{e.preventDefault();zoomAt(svgPoint(e),Math.exp(-e.deltaY*0.0016))},{passive:false});
-  svg.addEventListener("dblclick",e=>{zoomAt(svgPoint(e),1.7)});
   document.getElementById("zoomIn").addEventListener("click",()=>zoomAt({x:lastViewBox.w/2,y:lastViewBox.h/2},1.45));
   document.getElementById("zoomOut").addEventListener("click",()=>zoomAt({x:lastViewBox.w/2,y:lastViewBox.h/2},1/1.45));
   document.getElementById("zoomReset").addEventListener("click",resetView);
@@ -213,7 +219,7 @@ function renderMap(features, onClick, labelMode){
   currentLabelMode=labelMode;
   features.forEach(f=>{
     const c=centerOf(f.geometry,b,w,h,m);const t=document.createElementNS(SVG_NS,"text");
-    t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.dataset.base="11";t.textContent=f.properties.name;
+    t.setAttribute("x",c.x);t.setAttribute("y",c.y);t.dataset.base=(labelMode==="all"?"13":"12");t.textContent=f.properties.name;
     const fb=getBounds([f]);
     t.dataset.bw=((fb.maxLon-fb.minLon)/(b.maxLon-b.minLon))*(w-2*m);
     t.dataset.bh=((fb.maxLat-fb.minLat)/(b.maxLat-b.minLat))*(h-2*m);
@@ -223,6 +229,41 @@ function renderMap(features, onClick, labelMode){
   view={scale:1,tx:0,ty:0};applyView();setupMapGestures();
 }
 function markSelected(name){document.querySelectorAll("path.region").forEach(p=>p.classList.toggle("selected",p.dataset.name===name))}
+let selectedPrefName=null, selectedMuniName=null, lastPick={key:null,at:0};
+function isDoublePick(key){const now=Date.now();const dbl=lastPick.key===key&&now-lastPick.at<450;lastPick={key,at:now};return dbl}
+function updateMapActions(){
+  const box=document.getElementById("mapActions");if(!box)return;
+  let html="";
+  if(mode==="pref"){
+    if(selectedPrefName){
+      html=`<button class="primary" id="maOpen">由来を見る</button><button id="maDrill">${esc(selectedPrefName)}の市区町村を見る</button>`;
+    }
+  }else{
+    if(selectedMuniName)html=`<button class="primary" id="maOpen">${esc(selectedMuniName)}の由来を見る</button>`;
+    html+=`<button id="maBack">都道府県マップに戻る</button>`;
+  }
+  box.innerHTML=html;box.style.display=html?"flex":"none";
+  const open=document.getElementById("maOpen");
+  if(open)open.addEventListener("click",()=>{
+    if(mode==="pref"){const rec=records.find(r=>r.names.ja===selectedPrefName);if(rec)showPrefRecord(rec)}
+    else if(selectedMuniName)showMuni(currentPref.name,selectedMuniName);
+  });
+  const drill=document.getElementById("maDrill");
+  if(drill)drill.addEventListener("click",()=>{const rec=records.find(r=>r.names.ja===selectedPrefName);if(rec)enterMuni(rec)});
+  const back=document.getElementById("maBack");
+  if(back)back.addEventListener("click",renderPrefMap);
+}
+function pickPref(f){
+  markSelected(f.properties.name);selectedPrefName=f.properties.name;updateMapActions();
+  const rec=records.find(r=>r.names.ja===f.properties.name);
+  if(isDoublePick("pref:"+f.properties.name)){if(rec)showPrefRecord(rec)}
+  else document.getElementById("status").textContent=`${f.properties.name}を選択中。ダブルタップか「由来を見る」ボタンで由来を表示し、「市区町村を見る」ボタンで市区町村マップに切り替えます。`;
+}
+function pickMuni(prefName,f){
+  markSelected(f.properties.name);selectedMuniName=f.properties.name;updateMapActions();
+  if(isDoublePick("muni:"+prefName+"|"+f.properties.name))showMuni(prefName,f.properties.name);
+  else document.getElementById("status").textContent=`${f.properties.name}を選択中。ダブルタップか「由来を見る」ボタンで詳細を表示します。`;
+}
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function claimHtml(c){
@@ -231,7 +272,7 @@ function claimHtml(c){
 }
 function srcLabel(k){const s=sources[k];if(!s)return k;return s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>`:esc(s.label)}
 
-function showPrefRecord(rec){
+function showPrefRecord(rec,opts){
   const panel=document.getElementById("panel");
   const facts=rec.claims.filter(c=>c.kind!=="legend"), legends=rec.claims.filter(c=>c.kind==="legend");
   const fa=rec.first_attestation||{};
@@ -250,7 +291,7 @@ function showPrefRecord(rec){
     <button class="drill" id="drillBtn">市区町村を深追いする（${esc(rec.names.ja)}の市区町村地図へ）</button>
     <h3 class="sec">出典</h3><p class="srcs">${[...usedKeys].map(srcLabel).join("<br>")}</p>`;
   document.getElementById("drillBtn").addEventListener("click",()=>enterMuni(rec));
-  panel.scrollIntoView({behavior:"smooth",block:"start"});
+  if(!opts||opts.scroll!==false)panel.scrollIntoView({behavior:"smooth",block:"start"});
 }
 
 function decodeRing(str){str=str.replace(/-/g,"");let idx=0,lat=0,lon=0;const ring=[];function dv(){let shift=0,result=0,b;do{b=str.charCodeAt(idx++)-63;result|=(b&0x1f)<<shift;shift+=5}while(b>=0x20);return (result&1)?~(result>>1):(result>>1)}while(idx<str.length){lat+=dv();lon+=dv();ring.push([lon/1e5,lat/1e5])}return ring}
@@ -262,11 +303,13 @@ async function enterMuni(rec){
     const enc=await (await fetch(`data/muni-enc/${code}.json`)).json();
     const geo={features:enc.features.map(f=>({properties:{name:f.n},geometry:{type:"MultiPolygon",coordinates:f.g.map(poly=>poly.map(decodeRing))}}))};
     document.getElementById("crumb").style.display="flex";
-    document.getElementById("crumbText").textContent=`${name}の市区町村（クリックで詳細）`;
-    renderMap(geo.features,(f,path)=>{markSelected(f.properties.name);showMuni(name,f.properties.name)},"auto");
+    document.getElementById("crumbText").textContent=`${name}の市区町村（ダブルタップで詳細）`;
+    selectedMuniName=null;
+    renderMap(geo.features,(f,path)=>pickMuni(name,f),"auto");
+    updateMapActions();
     document.querySelectorAll("path.region").forEach(p=>{if(muniByKey[`${name}|${p.dataset.name}`])p.classList.add("has-record")});
-    document.getElementById("status").textContent=`${name}の市区町村 ${geo.features.length} 件を表示中。市区町村をクリックしてください（拡大すると小さな自治体のラベルも表示されます）。`;
-    showPrefRecord(rec);
+    document.getElementById("status").textContent=`${name}の市区町村 ${geo.features.length} 件を表示中。タップで選択、ダブルタップで詳細を表示します（拡大すると小さな自治体のラベルも表示されます）。`;
+    showPrefRecord(rec,{scroll:false});
   }catch(e){
     document.getElementById("status").textContent="市区町村データの読み込みに失敗しました。";
   }
@@ -316,14 +359,11 @@ function showMuni(prefName, muniName){
 }
 
 function renderPrefMap(){
-  mode="pref";currentPref=null;
+  mode="pref";currentPref=null;selectedPrefName=null;selectedMuniName=null;
   document.getElementById("crumb").style.display="none";
-  renderMap(prefGeo.features,(f,path)=>{
-    markSelected(f.properties.name);
-    const rec=records.find(r=>r.names.ja===f.properties.name);
-    if(rec)showPrefRecord(rec);
-  },"all");
-  document.getElementById("status").textContent="都道府県をクリックすると由来が表示されます。";
+  renderMap(prefGeo.features,(f,path)=>pickPref(f),"all");
+  updateMapActions();
+  document.getElementById("status").textContent="都道府県をタップで選択、ダブルタップで由来を表示します。選択すると地図上に「市区町村を見る」ボタンも出ます。";
 }
 document.getElementById("backBtn").addEventListener("click",renderPrefMap);
 
