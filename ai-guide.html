@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI向け利用案内――「日本の地名の由来」ナレッジベース｜日本の地名の由来</title>
+<style>
+:root{--ink:#22252a;--muted:#6b7280;--line:#e2e0d8;--accent:#7c4a21;--bg:#faf8f3;--card:#ffffff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.9}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px 64px}
+header.site{padding:18px 0 8px;border-bottom:1px solid var(--line);margin-bottom:28px;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+header.site a{color:var(--accent);text-decoration:none}
+header.site .brand{font-weight:700;font-size:.95rem}
+header.site .nav{font-size:.85rem;color:var(--muted)}
+.kicker{color:var(--accent);font-size:.82rem;letter-spacing:.12em;font-weight:700;margin:0 0 6px}
+h1{font-size:1.55rem;line-height:1.5;margin:0 0 10px}
+.lede{color:#3f444b;font-size:1.02rem;margin:0 0 8px}
+.meta{color:var(--muted);font-size:.85rem;margin-bottom:30px}
+article h2{font-size:1.18rem;margin:38px 0 10px;padding-left:10px;border-left:4px solid var(--accent);line-height:1.5}
+article p{margin:0 0 16px;font-size:1rem}
+article ul{margin:0 0 16px;padding-left:1.4em}
+article li{margin-bottom:6px;font-size:.95rem}
+article strong{font-weight:700}
+nav.pager{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:.92rem}
+nav.pager a{color:var(--accent);text-decoration:none}
+footer.site{margin-top:28px;color:var(--muted);font-size:.82rem;border-top:1px solid var(--line);padding-top:14px}
+footer.site a{color:var(--accent);text-decoration:none}
+.essay-list{display:grid;gap:14px;margin-top:22px}
+.essay-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px}
+.essay-card a{color:var(--ink);text-decoration:none}
+.essay-card .no{color:var(--accent);font-weight:700;font-size:.85rem}
+.essay-card h2{font-size:1.12rem;margin:2px 0 6px;line-height:1.55}
+.essay-card p{margin:0;color:#3f444b;font-size:.95rem;line-height:1.75}
+.intro{color:#3f444b}
+figure.chart{margin:26px auto 30px;max-width:640px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 18px 10px}
+figure.chart svg{display:block;width:100%;height:auto}
+figure.chart figcaption{color:var(--muted);font-size:.82rem;line-height:1.6;margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site">
+<a class="brand" href="index.html">日本の地名の由来</a>
+<span class="nav"><a href="index.html">地図で調べる</a>　<a href="essays/index.html">読み物一覧</a></span>
+</header>
+<p class="kicker">AI・機械向け</p>
+<h1>AI向け利用案内――「日本の地名の由来」ナレッジベース</h1>
+<article>
+<p>この文書は、AI（大規模言語モデル）およびプログラムが、本ナレッジベースを正確に利用するための案内です。人間の利用者が自分のAIアシスタントにこの文書のURLを渡して質問させる使い方も想定しています。</p>
+<h2>このナレッジベースについて</h2>
+<p>日本の都道府県47件と市区町村1,747件（所属未定地を除く全自治体）の名前の由来を、出典つきで記録したデータベースです。各自治体について、名前の要約、文献への初出、由来に関する個々の「主張」（出典・証拠レベル・状態つき）、事実と伝説の区別、同名自治体との関係などを構造化データとして公開しています。現在の正確な件数は統計ファイル（後述）で確認できます。</p>
+<h2>データの所在</h2>
+<p>サイト（人間向け）: <a href="https://givemegohan.github.io/japanese-place-names-kb/リポジトリ:">https://givemegohan.github.io/japanese-place-names-kb/リポジトリ:</a> <a href="https://github.com/givemegohan/japanese-place-names-kb">https://github.com/givemegohan/japanese-place-names-kb</a></p>
+<p>以下のURLはすべてサイトのドメインからの相対パスでも、GitHubのrawコンテンツ（<a href="https://raw.githubusercontent.com/givemegohan/japanese-place-names-kb/main/">https://raw.githubusercontent.com/givemegohan/japanese-place-names-kb/main/</a> 以下）でも取得できます。</p>
+<ul><li>統計（レコード数・主張数・出典数の現在値）: data/muni-stats.json</li><li>都道府県レコード（JSON）: data/prefecture-records.json ― {sources, records} 形式</li><li>市区町村の検索索引（JSON）: data/muni-search-index.json ― 全自治体の名称・読み・別名・要約・命名類型など軽量な情報。まずここで対象自治体を特定してください</li><li>市区町村レコード（JSON、県別）: data/muni-records/&lt;県コード2桁&gt;.json ― {sources, records} 形式。県コードはJIS X 0401（01=北海道 … 47=沖縄県）</li><li>正本データ（YAML）: files/prefecture-records.yaml、files/muni-yaml/&lt;県コード2桁&gt;.yaml</li><li>設計文書（分類・証拠レベルの定義の正本）: files/meta-design.md</li><li>読み物（横断的な解説記事、背景理解用）: essays/index.html</li></ul>
+<h2>レコードの構造</h2>
+<ul><li>id: 都道府県は pref/&lt;県コード2桁&gt;、市区町村は muni/&lt;県コード&gt;-&lt;自治体名&gt;</li><li>code: 市区町村は総務省の全国地方公共団体コード（6桁）</li><li>names: {ja, reading, aliases} ― 名称、読み、旧称・別名</li><li>naming_type: 名前の由来の類型。市区町村は16種（中心地名の継承／旧行政区画名の継承／旧国名・広域地名の採用／自然地名から／島名の継承／合成地名／方位・位置による命名／新規命名／文献・故事から命名／人名に由来／藩名・城名から／学校名・駅名などから／アイヌ語地名の当て字・転訛／アイヌ語地名の意訳／表記・読みの変更／その他）、都道府県は5種（一部の地名／藩名／新規命名／文献から命名／島名の採用）</li><li>naming_note: 類型の補足（任意）</li><li>formation: 市区町村の成立形態（合併新設／編入合併／分村・分立／単独発足／改称／不明）</li><li>first_attestation: {era, year_western, document, note} ― その名前が文献に現れる最古の記録。名前の成立年とは限りません</li><li>claims: 主張の配列。各主張は {text, kind, level, status, sources}</li></ul>
+<p>- kind: fact（歴史的事実として記録）／ legend（民間伝説として記録）- level: E1 一次文献そのもの／E2 公的・学術の二次資料／E3 専門文献／E4 郷土資料・地域の証言／E5 出典不明の一般情報／H 類推- status: established（確立）／ contested（信頼できる資料が食い違う）／ inferred（類推）／ indeterminate（判定困難）／ unknown（未確認）- sources: 出典キーの配列。キーの実体（資料名・URLなど）は、同じファイル内の sources（出典レジストリ）にあります</p>
+<ul><li>column: その土地にまつわる短いコラム</li><li>homonyms: 完全同名の現行自治体のid（由来はそれぞれ異なる前提で、混同しないこと）</li><li>relations: 関係する都道府県・自治体のid</li><li>unknowns: 調べても分からなかったことのリスト</li></ul>
+<h2>AIが回答するときのルール</h2>
+<p>本ナレッジベースのデータを使って地名の由来に答えるときは、次のルールを守ってください。</p>
+<p>1. 回答には、根拠にした主張の出典（資料名）を添えること2. kind が legend の内容は、「言い伝えでは」「伝説として」と明示し、事実として述べないこと3. status が contested の主張は、対立する説を両方とも紹介すること。片方だけを正解として選ばないこと4. level が E5 の主張と、status が inferred（類推）の主張は、断定の根拠に使わないこと。使う場合は裏付けが弱い旨を添えること5. レコードに記載がないこと、unknowns に挙がっていることは、「記録がなく、分からない」と答えること。データにない由来を作らないこと6. first_attestation は文献上の最古の記録であり、名前が生まれた年とは限りません。その区別を崩さないこと7. 同名の自治体（例：北海道と静岡県の清水町）は由来が異なります。id と都道府県を確認し、混同しないこと8. 数値（年・件数など）はレコードと統計ファイルの記載どおりに引用し、概数化や推測で置き換えないこと</p>
+<h2>利用の手順（例）</h2>
+<p>1. data/muni-search-index.json を取得し、質問に含まれる地名から対象自治体の id と県コードを特定する2. data/muni-records/&lt;県コード&gt;.json（都道府県の質問なら data/prefecture-records.json）を取得し、該当レコードの claims を読む3. 上記のルールに従い、出典を添えて回答する。背景を深めたい場合は essays/ の読み物も参照できる</p>
+<p>地図データ（自治体の形状）は国土数値情報（行政区域データ・2026年版、国土交通省）を加工したもので、data/muni-enc/ に符号化形式で収められています。地名の由来の調査には通常不要です。</p>
+</article>
+<nav class="pager"><a href="index.html">← 地図のトップへ</a><a href="essays/index.html">読み物一覧</a><span></span></nav>
+<footer class="site">出典つきで地名の由来を記録する「日本の地名の由来」ナレッジベースの読み物です。各自治体の由来は<a href="index.html">地図のページ</a>で調べられます。</footer>
+</div>
+</body>
+</html>

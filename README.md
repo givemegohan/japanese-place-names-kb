@@ -19,6 +19,14 @@
 - `data/muni-records/<県コード>.json` — 市区町村レコードのサイト配信用JSON（都道府県別に分割し、開いた県の分だけ読み込む形）。全件検索用の軽い索引は `data/muni-search-index.json`、統計は `data/muni-stats.json`
 - `scripts/` — 統合・分割などの処理スクリプト
 
+## AI・機械による利用
+
+AI（大規模言語モデル）やプログラムが本ナレッジベースを使うための案内を用意しています。データの所在、レコード構造、証拠レベルと状態の意味、回答時に守るべきルール（出典の提示、伝説と事実の区別、対立する説の両論併記など）をまとめています。
+
+- 案内ページ： https://givemegohan.github.io/japanese-place-names-kb/ai-guide.html
+- 機械可読版（llms.txt）： https://givemegohan.github.io/japanese-place-names-kb/llms.txt
+- 正本： `files/ai-guide.md`
+
 ## 地図データについて
 
 地図データは、国土数値情報（行政区域データ・2026年版）（国土交通省）を加工して使用しています。都道府県データ（47件）は GeoJSON のまま、市区町村データ（都道府県別）は転送量を抑えるため、座標を小数第5位（約1m）の格子で符号化したコンパクト形式（`data/muni-enc/`、GeoJSON から生成・復号でき、格子の範囲では無劣化）で同梱しています。投影は経緯度を線形にSVG座標へ写像する方式です。
