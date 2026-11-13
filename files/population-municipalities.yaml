@@ -4199,11 +4199,11 @@ entities:
 - id: muni/24-いなべ市
   prefecture: 三重県
   name: いなべ市
-  coverage: planned
+  coverage: recorded
 - id: muni/24-亀山市
   prefecture: 三重県
   name: 亀山市
-  coverage: planned
+  coverage: recorded
 - id: muni/24-伊勢市
   prefecture: 三重県
   name: 伊勢市
@@ -4219,7 +4219,7 @@ entities:
 - id: muni/24-名張市
   prefecture: 三重県
   name: 名張市
-  coverage: planned
+  coverage: recorded
 - id: muni/24-四日市市
   prefecture: 三重県
   name: 四日市市
@@ -4239,7 +4239,7 @@ entities:
 - id: muni/24-尾鷲市
   prefecture: 三重県
   name: 尾鷲市
-  coverage: planned
+  coverage: recorded
 - id: muni/24-川越町
   prefecture: 三重県
   name: 川越町
@@ -4255,7 +4255,7 @@ entities:
 - id: muni/24-志摩市
   prefecture: 三重県
   name: 志摩市
-  coverage: planned
+  coverage: recorded
 - id: muni/24-明和町
   prefecture: 三重県
   name: 明和町
@@ -4287,7 +4287,7 @@ entities:
 - id: muni/24-熊野市
   prefecture: 三重県
   name: 熊野市
-  coverage: planned
+  coverage: recorded
 - id: muni/24-玉城町
   prefecture: 三重県
   name: 玉城町
@@ -4311,7 +4311,7 @@ entities:
 - id: muni/24-鳥羽市
   prefecture: 三重県
   name: 鳥羽市
-  coverage: planned
+  coverage: recorded
 - id: muni/25-多賀町
   prefecture: 滋賀県
   name: 多賀町
@@ -5807,7 +5807,7 @@ entities:
 - id: muni/39-四万十市
   prefecture: 高知県
   name: 四万十市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-四万十町
   prefecture: 高知県
   name: 四万十町
@@ -5819,7 +5819,7 @@ entities:
 - id: muni/39-土佐清水市
   prefecture: 高知県
   name: 土佐清水市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-土佐町
   prefecture: 高知県
   name: 土佐町
@@ -5855,7 +5855,7 @@ entities:
 - id: muni/39-宿毛市
   prefecture: 高知県
   name: 宿毛市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-日高村
   prefecture: 高知県
   name: 日高村
@@ -5891,15 +5891,15 @@ entities:
 - id: muni/39-須崎市
   prefecture: 高知県
   name: 須崎市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-香南市
   prefecture: 高知県
   name: 香南市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-香美市
   prefecture: 高知県
   name: 香美市
-  coverage: planned
+  coverage: recorded
 - id: muni/39-馬路村
   prefecture: 高知県
   name: 馬路村
@@ -5915,7 +5915,7 @@ entities:
 - id: muni/40-うきは市
   prefecture: 福岡県
   name: うきは市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-みやこ町
   prefecture: 福岡県
   name: みやこ町
@@ -5923,7 +5923,7 @@ entities:
 - id: muni/40-みやま市
   prefecture: 福岡県
   name: みやま市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-上毛町
   prefecture: 福岡県
   name: 上毛町
@@ -5931,7 +5931,7 @@ entities:
 - id: muni/40-中間市
   prefecture: 福岡県
   name: 中間市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-久山町
   prefecture: 福岡県
   name: 久山町
@@ -5943,7 +5943,7 @@ entities:
 - id: muni/40-八女市
   prefecture: 福岡県
   name: 八女市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-北九州市
   prefecture: 福岡県
   name: 北九州市
@@ -5951,7 +5951,7 @@ entities:
 - id: muni/40-古賀市
   prefecture: 福岡県
   name: 古賀市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-吉富町
   prefecture: 福岡県
   name: 吉富町
@@ -5959,7 +5959,7 @@ entities:
 - id: muni/40-嘉麻市
   prefecture: 福岡県
   name: 嘉麻市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-大任町
   prefecture: 福岡県
   name: 大任町
@@ -5971,7 +5971,7 @@ entities:
 - id: muni/40-大川市
   prefecture: 福岡県
   name: 大川市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-大木町
   prefecture: 福岡県
   name: 大木町
@@ -5983,11 +5983,11 @@ entities:
 - id: muni/40-大野城市
   prefecture: 福岡県
   name: 大野城市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-太宰府市
   prefecture: 福岡県
   name: 太宰府市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-宇美町
   prefecture: 福岡県
   name: 宇美町
@@ -5995,11 +5995,11 @@ entities:
 - id: muni/40-宗像市
   prefecture: 福岡県
   name: 宗像市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-宮若市
   prefecture: 福岡県
   name: 宮若市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-小竹町
   prefecture: 福岡県
   name: 小竹町
@@ -6007,7 +6007,7 @@ entities:
 - id: muni/40-小郡市
   prefecture: 福岡県
   name: 小郡市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-岡垣町
   prefecture: 福岡県
   name: 岡垣町
@@ -6031,11 +6031,11 @@ entities:
 - id: muni/40-春日市
   prefecture: 福岡県
   name: 春日市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-朝倉市
   prefecture: 福岡県
   name: 朝倉市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-東峰村
   prefecture: 福岡県
   name: 東峰村
@@ -6043,7 +6043,7 @@ entities:
 - id: muni/40-柳川市
   prefecture: 福岡県
   name: 柳川市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-桂川町
   prefecture: 福岡県
   name: 桂川町
@@ -6059,11 +6059,11 @@ entities:
 - id: muni/40-田川市
   prefecture: 福岡県
   name: 田川市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-直方市
   prefecture: 福岡県
   name: 直方市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-福岡市
   prefecture: 福岡県
   name: 福岡市
@@ -6075,7 +6075,7 @@ entities:
 - id: muni/40-福津市
   prefecture: 福岡県
   name: 福津市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-筑前町
   prefecture: 福岡県
   name: 筑前町
@@ -6083,11 +6083,11 @@ entities:
 - id: muni/40-筑後市
   prefecture: 福岡県
   name: 筑後市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-筑紫野市
   prefecture: 福岡県
   name: 筑紫野市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-築上町
   prefecture: 福岡県
   name: 築上町
@@ -6103,7 +6103,7 @@ entities:
 - id: muni/40-糸島市
   prefecture: 福岡県
   name: 糸島市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-糸田町
   prefecture: 福岡県
   name: 糸田町
@@ -6119,11 +6119,11 @@ entities:
 - id: muni/40-行橋市
   prefecture: 福岡県
   name: 行橋市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-豊前市
   prefecture: 福岡県
   name: 豊前市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-赤村
   prefecture: 福岡県
   name: 赤村
@@ -6135,7 +6135,7 @@ entities:
 - id: muni/40-那珂川市
   prefecture: 福岡県
   name: 那珂川市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-鞍手町
   prefecture: 福岡県
   name: 鞍手町
@@ -6147,7 +6147,7 @@ entities:
 - id: muni/40-飯塚市
   prefecture: 福岡県
   name: 飯塚市
-  coverage: planned
+  coverage: recorded
 - id: muni/40-香春町
   prefecture: 福岡県
   name: 香春町
@@ -6163,7 +6163,7 @@ entities:
 - id: muni/41-伊万里市
   prefecture: 佐賀県
   name: 伊万里市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-佐賀市
   prefecture: 佐賀県
   name: 佐賀市
@@ -6175,7 +6175,7 @@ entities:
 - id: muni/41-唐津市
   prefecture: 佐賀県
   name: 唐津市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-基山町
   prefecture: 佐賀県
   name: 基山町
@@ -6183,7 +6183,7 @@ entities:
 - id: muni/41-多久市
   prefecture: 佐賀県
   name: 多久市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-大町町
   prefecture: 佐賀県
   name: 大町町
@@ -6195,11 +6195,11 @@ entities:
 - id: muni/41-嬉野市
   prefecture: 佐賀県
   name: 嬉野市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-小城市
   prefecture: 佐賀県
   name: 小城市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-有田町
   prefecture: 佐賀県
   name: 有田町
@@ -6207,7 +6207,7 @@ entities:
 - id: muni/41-武雄市
   prefecture: 佐賀県
   name: 武雄市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-江北町
   prefecture: 佐賀県
   name: 江北町
@@ -6223,19 +6223,19 @@ entities:
 - id: muni/41-神埼市
   prefecture: 佐賀県
   name: 神埼市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-鳥栖市
   prefecture: 佐賀県
   name: 鳥栖市
-  coverage: planned
+  coverage: recorded
 - id: muni/41-鹿島市
   prefecture: 佐賀県
   name: 鹿島市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-五島市
   prefecture: 長崎県
   name: 五島市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-佐々町
   prefecture: 長崎県
   name: 佐々町
@@ -6247,19 +6247,19 @@ entities:
 - id: muni/42-南島原市
   prefecture: 長崎県
   name: 南島原市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-壱岐市
   prefecture: 長崎県
   name: 壱岐市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-大村市
   prefecture: 長崎県
   name: 大村市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-対馬市
   prefecture: 長崎県
   name: 対馬市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-小値賀町
   prefecture: 長崎県
   name: 小値賀町
@@ -6267,7 +6267,7 @@ entities:
 - id: muni/42-島原市
   prefecture: 長崎県
   name: 島原市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-川棚町
   prefecture: 長崎県
   name: 川棚町
@@ -6275,7 +6275,7 @@ entities:
 - id: muni/42-平戸市
   prefecture: 長崎県
   name: 平戸市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-新上五島町
   prefecture: 長崎県
   name: 新上五島町
@@ -6291,7 +6291,7 @@ entities:
 - id: muni/42-松浦市
   prefecture: 長崎県
   name: 松浦市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-波佐見町
   prefecture: 長崎県
   name: 波佐見町
@@ -6299,7 +6299,7 @@ entities:
 - id: muni/42-西海市
   prefecture: 長崎県
   name: 西海市
-  coverage: planned
+  coverage: recorded
 - id: muni/42-諫早市
   prefecture: 長崎県
   name: 諫早市
@@ -6315,7 +6315,7 @@ entities:
 - id: muni/42-雲仙市
   prefecture: 長崎県
   name: 雲仙市
-  coverage: planned
+  coverage: recorded
 - id: muni/43-あさぎり町
   prefecture: 熊本県
   name: あさぎり町
@@ -6331,7 +6331,7 @@ entities:
 - id: muni/43-人吉市
   prefecture: 熊本県
   name: 人吉市
-  coverage: planned
+  coverage: recorded
 - id: muni/43-八代市
   prefecture: 熊本県
   name: 八代市
@@ -6371,7 +6371,7 @@ entities:
 - id: muni/43-天草市
   prefecture: 熊本県
   name: 天草市
-  coverage: planned
+  coverage: recorded
 - id: muni/43-宇土市
   prefecture: 熊本県
   name: 宇土市
@@ -6407,7 +6407,7 @@ entities:
 - id: muni/43-水俣市
   prefecture: 熊本県
   name: 水俣市
-  coverage: planned
+  coverage: recorded
 - id: muni/43-氷川町
   prefecture: 熊本県
   name: 氷川町
