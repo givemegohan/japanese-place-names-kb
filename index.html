@@ -97,7 +97,18 @@ const SVG_NS = "http://www.w3.org/2000/svg";
 const PREF_ORDER = ["北海道","青森県","岩手県","宮城県","秋田県","山形県","福島県","茨城県","栃木県","群馬県","埼玉県","千葉県","東京都","神奈川県","新潟県","富山県","石川県","福井県","山梨県","長野県","岐阜県","静岡県","愛知県","三重県","滋賀県","京都府","大阪府","兵庫県","奈良県","和歌山県","鳥取県","島根県","岡山県","広島県","山口県","徳島県","香川県","愛媛県","高知県","福岡県","佐賀県","長崎県","熊本県","大分県","宮崎県","鹿児島県","沖縄県"];
 const codeOf = name => String(PREF_ORDER.indexOf(name) + 1).padStart(2, "0");
 let records = [], sources = {}, muniIndex = null, prefGeo = null;
-let muniRecords = [], muniByKey = {}; // key: `${prefecture}|${name}`
+let muniRecords = [], muniByKey = {}; // key: `${prefecture}|${name}` — only records of prefectures loaded so far
+let muniSearch = [], muniIdxById = {}, muniStats = null; // light global index over all municipality records
+const loadedPrefs = {}; // prefecture code -> true once its record file has been merged in
+async function ensureMuniRecords(code){
+  if(loadedPrefs[code])return;
+  loadedPrefs[code]=true;
+  try{
+    const d=await (await fetch(`data/muni-records/${code}.json`)).json();
+    Object.assign(sources, d.sources||{});
+    (d.records||[]).forEach(r=>{muniRecords.push(r);muniByKey[`${r.prefecture}|${r.names.ja}`]=r});
+  }catch(e){ delete loadedPrefs[code]; }
+}
 let mode = "pref"; // pref | muni
 let currentPref = null; // {code, name}
 
@@ -301,6 +312,7 @@ async function enterMuni(rec){
   document.getElementById("status").textContent=`${name}の市区町村データを読み込み中…`;
   try{
     const enc=await (await fetch(`data/muni-enc/${code}.json`)).json();
+    await ensureMuniRecords(code);
     const geo={features:enc.features.map(f=>({properties:{name:f.n},geometry:{type:"MultiPolygon",coordinates:f.g.map(poly=>poly.map(decodeRing))}}))};
     document.getElementById("crumb").style.display="flex";
     document.getElementById("crumbText").textContent=`${name}の市区町村（ダブルタップで詳細）`;
@@ -325,7 +337,7 @@ function showMuniRecord(rec){
     <div class="badges"><span class="badge">命名の類型：${esc(rec.naming_type||"")}</span>
     ${fa.document?`<span class="badge">初出：${esc(fa.era||"")}${fa.year_western?`（${fa.year_western}年）`:""}『${esc(fa.document)}』</span>`:""}</div>
     <p class="summary">${esc(rec.summary)}</p>
-    ${rec.homonyms&&rec.homonyms.length?`<p class="homonyms">同名の自治体：${rec.homonyms.map(hid=>{const t=muniRecords.find(r=>r.id===hid);return t?`<button class="homo-link" data-hid="${esc(hid)}">${esc(t.prefecture)}${esc(t.names.ja)}</button>`:esc(hid.replace(/^muni\/\d+-/,""))+"（未収載）"}).join("、")}（同名でも由来はそれぞれ異なります。各レコードで、共通する層と異なる層を分けて記録しています）</p>`:""}
+    ${rec.homonyms&&rec.homonyms.length?`<p class="homonyms">同名の自治体：${rec.homonyms.map(hid=>{const t=muniIdxById[hid];return t?`<button class="homo-link" data-hid="${esc(hid)}">${esc(t.prefecture)}${esc(t.name)}</button>`:esc(hid.replace(/^muni\/\d+-/,""))+"（未収載）"}).join("、")}（同名でも由来はそれぞれ異なります。各レコードで、共通する層と異なる層を分けて記録しています）</p>`:""}
     ${fa.note?`<p class="unknowns">初出について：${esc(fa.note)}</p>`:""}
     <h3 class="sec">歴史的事実</h3>${facts.map(claimHtml).join("")||"<p class='unknowns'>記録なし</p>"}
     ${legends.length?`<h3 class="sec legend">民間伝説・伝承（事実とは分けて記録）</h3>${legends.map(claimHtml).join("")}`:""}
@@ -335,7 +347,9 @@ function showMuniRecord(rec){
     <h3 class="sec">出典</h3><p class="srcs">${[...usedKeys].map(srcLabel).join("<br>")}</p>`;
   document.getElementById("backPref").addEventListener("click",()=>{const rec2=records.find(r=>r.code===currentPref.code);if(rec2)showPrefRecord(rec2)});
   panel.querySelectorAll("button.homo-link").forEach(b=>b.addEventListener("click",async()=>{
-    const t=muniRecords.find(r=>r.id===b.dataset.hid);if(!t)return;
+    const hid=b.dataset.hid;
+    await ensureMuniRecords(hid.slice(5,7));
+    const t=muniRecords.find(r=>r.id===hid);if(!t)return;
     const prec=records.find(r=>r.code===t.id.slice(5,7));if(!prec)return;
     await enterMuni(prec);
     markSelected(t.names.ja);showMuni(t.prefecture,t.names.ja);
@@ -396,19 +410,19 @@ function applyFilter(){
     list=list.filter(r=>JSON.stringify(r).includes(q));
   }
   if(q||activeType){
-    const mlist=q?muniRecords.filter(r=>JSON.stringify(r).includes(q)):[];
+    const mlist=q?muniSearch.filter(e=>[e.name,e.reading,(e.aliases||[]).join(" "),(e.user_terms||[]).join(" "),e.naming_type,e.summary,e.column_title,e.column_text,e.doc,e.prefecture].join(" ").includes(q)):[];
     const panel=document.getElementById("panel");
-    panel.innerHTML=`<h2>検索結果 ${list.length+mlist.length}件</h2><div class="results">${list.map(r=>`<button data-id="${esc(r.id)}">${esc(r.names.ja)}（${esc(r.naming_type||"")}）— ${esc(r.summary.slice(0,70))}…</button>`).join("")}${mlist.map(r=>`<button data-mid="${esc(r.id)}">${esc(r.names.ja)}（${esc(r.prefecture||"")}・${esc(r.naming_type||"")}）— ${esc(r.summary.slice(0,70))}…</button>`).join("")}${list.length+mlist.length===0?"<p class='unknowns'>見つかりませんでした。</p>":""}</div>`;
+    panel.innerHTML=`<h2>検索結果 ${list.length+mlist.length}件</h2><div class="results">${list.map(r=>`<button data-id="${esc(r.id)}">${esc(r.names.ja)}（${esc(r.naming_type||"")}）— ${esc(r.summary.slice(0,70))}…</button>`).join("")}${mlist.map(r=>`<button data-mid="${esc(r.id)}">${esc(r.name)}（${esc(r.prefecture||"")}・${esc(r.naming_type||"")}）— ${esc(r.summary.slice(0,70))}…</button>`).join("")}${list.length+mlist.length===0?"<p class='unknowns'>見つかりませんでした。</p>":""}</div>`;
     panel.querySelectorAll("button[data-id]").forEach(b=>b.addEventListener("click",()=>{
       const rec=records.find(r=>r.id===b.dataset.id);if(!rec)return;
       if(mode!=="pref")renderPrefMap();
       markSelected(rec.names.ja);showPrefRecord(rec);
     }));
     panel.querySelectorAll("button[data-mid]").forEach(b=>b.addEventListener("click",async()=>{
-      const mrec=muniRecords.find(r=>r.id===b.dataset.mid);if(!mrec)return;
-      const prec=records.find(r=>r.code===mrec.id.slice(5,7));if(!prec)return;
+      const e=muniIdxById[b.dataset.mid];if(!e)return;
+      const prec=records.find(r=>r.code===e.code);if(!prec)return;
       await enterMuni(prec);
-      markSelected(mrec.names.ja);showMuni(mrec.prefecture,mrec.names.ja);
+      markSelected(e.name);showMuni(e.prefecture,e.name);
     }));
   }
 }
@@ -416,23 +430,21 @@ document.getElementById("q").addEventListener("input",applyFilter);
 
 (async()=>{
   try{
-    const [recRes, geoRes, muniRes, mrecRes] = await Promise.all([
-      fetch("data/prefecture-records.json"), fetch("data/prefectures.geojson"), fetch("data/municipalities-index.json"), fetch("data/municipality-records.json")
+    const [recRes, geoRes, muniRes, sRes, stRes] = await Promise.all([
+      fetch("data/prefecture-records.json"), fetch("data/prefectures.geojson"), fetch("data/municipalities-index.json"), fetch("data/muni-search-index.json"), fetch("data/muni-stats.json")
     ]);
     const recData=await recRes.json(); records=recData.records; sources=recData.sources;
     prefGeo=await geoRes.json(); muniIndex=await muniRes.json();
-    if(mrecRes.ok){
-      const mData=await mrecRes.json(); muniRecords=mData.records||[];
-      Object.assign(sources, mData.sources||{});
-      muniRecords.forEach(r=>{muniByKey[`${r.prefecture}|${r.names.ja}`]=r});
+    if(sRes.ok){
+      const sData=await sRes.json(); muniSearch=sData.records||[];
+      muniSearch.forEach(e=>{muniIdxById[e.id]=e});
     }
+    if(stRes.ok){ muniStats=await stRes.json(); }
     renderPrefMap(); renderChips(); renderHomeList(records);
     const nFact=records.reduce((a,r)=>a+r.claims.filter(c=>c.kind!=="legend").length,0);
     const nLeg=records.reduce((a,r)=>a+r.claims.filter(c=>c.kind==="legend").length,0);
-    const mFact=muniRecords.reduce((a,r)=>a+r.claims.filter(c=>c.kind!=="legend").length,0);
-    const mLeg=muniRecords.reduce((a,r)=>a+r.claims.filter(c=>c.kind==="legend").length,0);
     const totalMuni=Object.values(muniIndex.municipalities).reduce((a,v)=>a+v.length,0);
-    document.getElementById("stats").innerHTML=`現在収載：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件）。市区町村は母集団 ${totalMuni} 件を地図に収載し、由来レコードは ${muniRecords.length} 件作成済み（主張 ${mFact+mLeg} 件＝歴史的事実 ${mFact} 件・民間伝説 ${mLeg} 件）で、県庁所在地・同名地名・大都市から着手し、順次作成中です。出典は合計 ${Object.keys(sources).length} 件。`;
+    document.getElementById("stats").innerHTML=`現在収載：都道府県 ${records.length} 件（主張 ${nFact+nLeg} 件＝歴史的事実 ${nFact} 件・民間伝説 ${nLeg} 件）。市区町村は母集団 ${totalMuni} 件を地図に収載し、由来レコードは ${muniStats?muniStats.records:muniSearch.length} 件作成済み（主張 ${muniStats?muniStats.fact+muniStats.legend:0} 件＝歴史的事実 ${muniStats?muniStats.fact:0} 件・民間伝説 ${muniStats?muniStats.legend:0} 件）で、県庁所在地・同名地名・大都市から着手し、順次作成中です。出典は合計 ${muniStats?muniStats.sources:Object.keys(sources).length} 件。`;
   }catch(e){
     document.getElementById("status").textContent="データの読み込みに失敗しました。";
   }

@@ -1360,7 +1360,7 @@ entities:
 - id: muni/06-東根市
   prefecture: 山形県
   name: 東根市
-  coverage: planned
+  coverage: recorded
 - id: muni/06-河北町
   prefecture: 山形県
   name: 河北町
@@ -1400,7 +1400,7 @@ entities:
 - id: muni/06-長井市
   prefecture: 山形県
   name: 長井市
-  coverage: planned
+  coverage: recorded
 - id: muni/06-飯豊町
   prefecture: 山形県
   name: 飯豊町
@@ -2080,7 +2080,7 @@ entities:
 - id: muni/11-ふじみ野市
   prefecture: 埼玉県
   name: ふじみ野市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-三芳町
   prefecture: 埼玉県
   name: 三芳町
@@ -2088,11 +2088,11 @@ entities:
 - id: muni/11-三郷市
   prefecture: 埼玉県
   name: 三郷市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-上尾市
   prefecture: 埼玉県
   name: 上尾市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-上里町
   prefecture: 埼玉県
   name: 上里町
@@ -2100,7 +2100,7 @@ entities:
 - id: muni/11-久喜市
   prefecture: 埼玉県
   name: 久喜市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-伊奈町
   prefecture: 埼玉県
   name: 伊奈町
@@ -2108,11 +2108,11 @@ entities:
 - id: muni/11-入間市
   prefecture: 埼玉県
   name: 入間市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-八潮市
   prefecture: 埼玉県
   name: 八潮市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-加須市
   prefecture: 埼玉県
   name: 加須市
@@ -2120,11 +2120,11 @@ entities:
 - id: muni/11-北本市
   prefecture: 埼玉県
   name: 北本市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-吉川市
   prefecture: 埼玉県
   name: 吉川市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-吉見町
   prefecture: 埼玉県
   name: 吉見町
@@ -2132,11 +2132,11 @@ entities:
 - id: muni/11-和光市
   prefecture: 埼玉県
   name: 和光市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-坂戸市
   prefecture: 埼玉県
   name: 坂戸市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-宮代町
   prefecture: 埼玉県
   name: 宮代町
@@ -2148,7 +2148,7 @@ entities:
 - id: muni/11-富士見市
   prefecture: 埼玉県
   name: 富士見市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-小川町
   prefecture: 埼玉県
   name: 小川町
@@ -2176,15 +2176,15 @@ entities:
 - id: muni/11-幸手市
   prefecture: 埼玉県
   name: 幸手市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-志木市
   prefecture: 埼玉県
   name: 志木市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-戸田市
   prefecture: 埼玉県
   name: 戸田市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-所沢市
   prefecture: 埼玉県
   name: 所沢市
@@ -2192,11 +2192,11 @@ entities:
 - id: muni/11-新座市
   prefecture: 埼玉県
   name: 新座市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-日高市
   prefecture: 埼玉県
   name: 日高市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-春日部市
   prefecture: 埼玉県
   name: 春日部市
@@ -2204,7 +2204,7 @@ entities:
 - id: muni/11-朝霞市
   prefecture: 埼玉県
   name: 朝霞市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-本庄市
   prefecture: 埼玉県
   name: 本庄市
@@ -2228,7 +2228,7 @@ entities:
 - id: muni/11-桶川市
   prefecture: 埼玉県
   name: 桶川市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-横瀬町
   prefecture: 埼玉県
   name: 横瀬町
@@ -2240,7 +2240,7 @@ entities:
 - id: muni/11-深谷市
   prefecture: 埼玉県
   name: 深谷市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-滑川町
   prefecture: 埼玉県
   name: 滑川町
@@ -2256,7 +2256,7 @@ entities:
 - id: muni/11-白岡市
   prefecture: 埼玉県
   name: 白岡市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-皆野町
   prefecture: 埼玉県
   name: 皆野町
@@ -2280,15 +2280,15 @@ entities:
 - id: muni/11-草加市
   prefecture: 埼玉県
   name: 草加市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-蓮田市
   prefecture: 埼玉県
   name: 蓮田市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-蕨市
   prefecture: 埼玉県
   name: 蕨市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-行田市
   prefecture: 埼玉県
   name: 行田市
@@ -2316,15 +2316,15 @@ entities:
 - id: muni/11-鴻巣市
   prefecture: 埼玉県
   name: 鴻巣市
-  coverage: planned
+  coverage: recorded
 - id: muni/11-鶴ヶ島市
   prefecture: 埼玉県
   name: 鶴ヶ島市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-いすみ市
   prefecture: 千葉県
   name: いすみ市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-一宮町
   prefecture: 千葉県
   name: 一宮町
@@ -2344,7 +2344,7 @@ entities:
 - id: muni/12-八街市
   prefecture: 千葉県
   name: 八街市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-勝浦市
   prefecture: 千葉県
   name: 勝浦市
@@ -2352,7 +2352,7 @@ entities:
 - id: muni/12-匝瑳市
   prefecture: 千葉県
   name: 匝瑳市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-千葉市
   prefecture: 千葉県
   name: 千葉市
@@ -2360,19 +2360,19 @@ entities:
 - id: muni/12-南房総市
   prefecture: 千葉県
   name: 南房総市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-印西市
   prefecture: 千葉県
   name: 印西市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-君津市
   prefecture: 千葉県
   name: 君津市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-四街道市
   prefecture: 千葉県
   name: 四街道市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-多古町
   prefecture: 千葉県
   name: 多古町
@@ -2384,19 +2384,19 @@ entities:
 - id: muni/12-大網白里市
   prefecture: 千葉県
   name: 大網白里市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-富津市
   prefecture: 千葉県
   name: 富津市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-富里市
   prefecture: 千葉県
   name: 富里市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-山武市
   prefecture: 千葉県
   name: 山武市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-市原市
   prefecture: 千葉県
   name: 市原市
@@ -2412,7 +2412,7 @@ entities:
 - id: muni/12-成田市
   prefecture: 千葉県
   name: 成田市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-我孫子市
   prefecture: 千葉県
   name: 我孫子市
@@ -2425,7 +2425,7 @@ entities:
 - id: muni/12-旭市
   prefecture: 千葉県
   name: 旭市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-木更津市
   prefecture: 千葉県
   name: 木更津市
@@ -2461,11 +2461,11 @@ entities:
 - id: muni/12-浦安市
   prefecture: 千葉県
   name: 浦安市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-白井市
   prefecture: 千葉県
   name: 白井市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-白子町
   prefecture: 千葉県
   name: 白子町
@@ -2493,11 +2493,11 @@ entities:
 - id: muni/12-茂原市
   prefecture: 千葉県
   name: 茂原市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-袖ケ浦市
   prefecture: 千葉県
   name: 袖ケ浦市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-酒々井町
   prefecture: 千葉県
   name: 酒々井町
@@ -2505,7 +2505,7 @@ entities:
 - id: muni/12-野田市
   prefecture: 千葉県
   name: 野田市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-銚子市
   prefecture: 千葉県
   name: 銚子市
@@ -2517,7 +2517,7 @@ entities:
 - id: muni/12-鎌ケ谷市
   prefecture: 千葉県
   name: 鎌ケ谷市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-長南町
   prefecture: 千葉県
   name: 長南町
@@ -2537,15 +2537,15 @@ entities:
 - id: muni/12-香取市
   prefecture: 千葉県
   name: 香取市
-  coverage: planned
+  coverage: recorded
 - id: muni/12-鴨川市
   prefecture: 千葉県
   name: 鴨川市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-あきる野市
   prefecture: 東京都
   name: あきる野市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-三宅村
   prefecture: 東京都
   name: 三宅村
@@ -2553,7 +2553,7 @@ entities:
 - id: muni/13-三鷹市
   prefecture: 東京都
   name: 三鷹市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-世田谷区
   prefecture: 東京都
   name: 世田谷区
@@ -2609,7 +2609,7 @@ entities:
 - id: muni/13-多摩市
   prefecture: 東京都
   name: 多摩市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-大島町
   prefecture: 東京都
   name: 大島町
@@ -2678,11 +2678,11 @@ entities:
 - id: muni/13-東久留米市
   prefecture: 東京都
   name: 東久留米市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-東大和市
   prefecture: 東京都
   name: 東大和市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-東村山市
   prefecture: 東京都
   name: 東村山市
@@ -2698,11 +2698,11 @@ entities:
 - id: muni/13-武蔵村山市
   prefecture: 東京都
   name: 武蔵村山市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-武蔵野市
   prefecture: 東京都
   name: 武蔵野市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-江戸川区
   prefecture: 東京都
   name: 江戸川区
@@ -2714,7 +2714,7 @@ entities:
 - id: muni/13-清瀬市
   prefecture: 東京都
   name: 清瀬市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-渋谷区
   prefecture: 東京都
   name: 渋谷区
@@ -2726,7 +2726,7 @@ entities:
 - id: muni/13-狛江市
   prefecture: 東京都
   name: 狛江市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-瑞穂町
   prefecture: 東京都
   name: 瑞穂町
@@ -2750,11 +2750,11 @@ entities:
 - id: muni/13-稲城市
   prefecture: 東京都
   name: 稲城市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-立川市
   prefecture: 東京都
   name: 立川市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-練馬区
   prefecture: 東京都
   name: 練馬区
@@ -2762,7 +2762,7 @@ entities:
 - id: muni/13-羽村市
   prefecture: 東京都
   name: 羽村市
-  coverage: planned
+  coverage: recorded
 - id: muni/13-荒川区
   prefecture: 東京都
   name: 荒川区
