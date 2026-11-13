@@ -529,15 +529,21 @@ records:
     era: 平安時代
     year_western: 1180
     document: 山槐記
-    note: 治承4年（1180）の『山槐記』の中山忠親の記録に地名「伊多美」が見えるのが古い用例で、「伊丹」の字が現れるのは嘉元元年（1303）の多田神社文書
+    note: 治承4年（1180）11月23日の『山槐記』の中山忠親の記録に「伊多美武者所某」と見えるのが古い用例で、「伊丹」の字が現れるのは嘉元元年（1303）の多田神社文書
   claims:
-  - text: ローカルヒストリアの研究によれば、地名の初見は治承4年（1180）の『山槐記』に記された「伊多美」で、「伊丹」と書かれるようになったのは嘉元元年（1303）の多田神社文書である（地方公共団体コードは282073）
+  - text: 地名の初見は、治承4年（1180）11月23日の『山槐記』（中山忠親の日記）に「伊多美武者所某」と見える用例である
+    kind: fact
+    level: E1
+    status: established
+    sources:
+    - upg-itami-sankaiki
+    - upg-itami-apedia
+  - text: 「伊丹」の表記は、嘉元元年（1303）の多田神社文書に現れる
     kind: fact
     level: E4
     status: established
     sources:
     - l4-itami-localhistoria
-    - b-cap-chiba-soumu-code
   - text: 「伊丹」の語源については諸説があるが、定説は存在しない
     kind: fact
     level: E5
@@ -556,6 +562,19 @@ records:
     status: established
     sources:
     - l4-itami-city-page
+    - upg-itami-apedia
+  - text: 1315年（正和4年）には、伊丹左衛門三郎親盛が六波羅の命を受けて幕府の使者となったことが史料に見える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-itami-apedia
+  - text: 伊丹氏は、1574年（天正2年）に荒木村重に攻められて伊丹城が落城し、滅亡したと伝えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - upg-itami-apedia
   - text: 近世の伊丹は近衛家領の郷町で酒造業が栄え、作られた日本酒は「伊丹酒」「丹醸」として江戸で愛飲されたと伊丹市は紹介する
     kind: fact
     level: E2
@@ -568,12 +587,19 @@ records:
     status: established
     sources:
     - l4-itami-city-chushin
-  - text: 市内にある大阪国際空港は、所在地が伊丹市にもまたがることなどから通称「伊丹空港」と呼ばれることが多い
+  - text: 大阪国際空港は伊丹市・豊中市・池田市にまたがり、空港面積の約7割が伊丹市にある。「伊丹空港」の通称で呼ばれ、運営会社の関西エアポートは英語名を「Osaka Itami Airport」として公式に用いている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - l4-itami-wikipedia
+    - upg-itami2-kotobank
+    - upg-itami2-kansai-airports
+  - text: 市内最大のため池である昆陽池は、天平年間（729〜749年）ごろに僧行基が築造したと伝えられる
+    kind: legend
+    level: E3
+    status: indeterminate
+    sources:
+    - upg-itami2-kotobank
   column:
     title: 「丹醸」と呼ばれた伊丹の酒
     text: 江戸時代、伊丹は近衛家の領地で、酒づくりの町として名を馳せた。伊丹の酒は「伊丹酒」「丹醸（たんじょう）」と称されて江戸へ下り、江戸の人々に愛飲された。酒の都としての繁栄は俳諧文化も育み、上島鬼貫らを輩出した伊丹の文芸の土壌となった。いま「伊丹」の名を最も広く伝えるのは空港の通称だが、もとの伊丹は酒と俳諧の町の名である。
@@ -3567,6 +3593,18 @@ sources:
   p4-toyooka-city-rekishi:
     label: 豊岡市公式サイト「市町合併までの各まちの歴史」（1580年の宮部氏による築城、1668年の京極氏移封、豊岡県の設置と解体、1950年の市制）
     url: https://www.city.toyooka.lg.jp/shisei/shinoshokai/rekishi/1002340.html
+  upg-itami-apedia:
+    label: 尼崎市立歴史博物館 Web版尼崎地域史事典『apedia』「伊丹氏」（『山槐記』治承4年（1180）11月23日条に「伊多美武者所某」と見えること、この人物がのちの伊丹氏の先祖に当たるかは不明であることを記す）
+    url: https://www.archives.city.amagasaki.hyogo.jp/apedia/index.php?key=%E4%BC%8A%E4%B8%B9%E6%B0%8F
+  upg-itami-sankaiki:
+    label: 国立公文書館デジタルアーカイブ『山槐記』（中山忠親の日記。治承4年（1180）11月23日条の画像を直接確認し、「伊多美武者所某」と記されていることを読み取った）
+    url: https://www.digital.archives.go.jp/img/4363958
+  upg-itami2-kansai-airports:
+    label: 関西エアポート公式ニュースリリース「Full renewal of the official websites of KIX, ITAMI and KOBE」（大阪国際空港を英語名 Osaka Itami Airport（ITAMI）として公式に案内することを記す）
+    url: https://www.kansai-airports.co.jp/en/news/e-260128-pressrelease-airportswebsite/
+  upg-itami2-kotobank:
+    label: コトバンク「伊丹」（改訂新版 世界大百科事典が大阪国際空港を通称「伊丹空港」とすることと、昆陽池を行基築造と伝えられる市内最大のため池とすること、日本大百科全書（ニッポニカ）が空港面積の70％が伊丹市にあることを記す）
+    url: http://kotobank.jp/word/%E4%BC%8A%E4%B8%B9-433065
   x11-kamigori-kotobank:
     label: 『日本歴史地名大系』「上郡村」項（コトバンク掲載。慶長国絵図に「上かうり村」と見えること、竹万の住民が移住して開発し当初「上河原村」といったが後に上郡村と改称したという『赤穂郡誌』の伝承を紹介）
     url: https://kotobank.jp/word/%E4%B8%8A%E9%83%A1%E6%9D%91-3024569
