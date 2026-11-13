@@ -83,6 +83,316 @@ records:
   - 6つの候補案がどの段階でどう絞られたかの協議会の議事詳細は、地元紙の要約以上には確認できていない。
   - 「以和為貴」の音読みを市名の理念として正式に公表した主体と時期（合併協議会か新市か）は、資料により表現が異なり確定できていない。
   updated: '2026-11-13'
+- id: muni/07-三島町
+  code: '074446'
+  names:
+    ja: 三島町
+    reading: みしままち
+    aliases:
+    - 三島村
+    - 宮下村
+    - 西方村
+  user_terms:
+  - 奥会津の三島町
+  - 三島神社の町
+  - 日本で最も美しい村の三島
+  - 桐の町三島
+  - 宮下ダムの町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 三島町は、昭和30年（1955年）に宮下村と西方村が合併して生まれた奥会津の山村で、町名は旧宮下村にある三島神社に由来すると伝えられる。静岡県三島市や新潟県三島郡とは別の自治体で、神社の名を村名・町名にいただいた点が特徴である。只見川が町を貫流し、宮下ダムや編み組細工で知られる。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 宮下村・西方村の合併による三島村の成立
+    note: 自治体名としての初出。町名の由来とされる宮下の三島神社自体の創建年代や文書上の初出は確認できていない。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、三島町のコードは074446とされる（大沼郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w1-mishima-wikipedia
+  - text: 三島町の公式振興計画によれば、昭和30年（1955年）に旧宮下村と旧西方村が合併して三島村になり、昭和36年（1961年）4月1日の町制施行により三島町が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-mishima-shinko-plan
+  - text: 合併の日付は昭和30年（1955年）7月20日とされ、町名「三島」は旧宮下村にある三島神社に由来するとWikipediaは説明する。ただし町公式の由来説明による裏づけは本バッチでは確認できていない。
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w1-mishima-wikipedia
+  - text: 宮下村は昭和17年（1942年）に西川村・原谷村・三谷村の組合村が改組されて成立した村であり、西方村は大正6年（1917年）に川西村が改称した村である。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-mishima-wikipedia
+  - text: 三島町は只見川が中心部を東西に貫流する峡谷型の山村で、町域の86パーセントが林野であり、川沿いには宮下ダムがある。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-mishima-shinko-plan
+  - text: 三島町は2012年に「日本で最も美しい村」連合に加盟した。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-mishima-wikipedia
+  column:
+    title: 神社の名前をもらった町
+    text: 全国に「三島」を名乗る自治体は、静岡県三島市、新潟県三島郡（長岡市などを含む郡）、そしてこの福島県三島町がある。静岡の三島が伊豆国一宮・三嶋大社の門前として知られるのに対し、奥会津の三島町の「三島」は、合併した宮下村の鎮守・三島神社から取ったと伝えられる。1955年の合併で、どちらの村の名前も残さず、両村に共通する信仰の中心である神社の名を新しい村の名にした――合併町村の名付けとしては、土地の名前ではなく「まつりの名前」を選んだ珍しい例である。9月の三島神社例大祭は、いまも町の名の由来を目に見える形で伝えている。
+    sources:
+    - w1-mishima-wikipedia
+    - w1-mishima-shinko-plan
+  relations:
+  - pref/07
+  unknowns:
+  - 町名が宮下の三島神社に由来するという説明はWikipediaによるもので、町公式資料での直接の確認は未了。
+  - 宮下の三島神社の創建年代と、祭神・勧請の経緯は確認できていない。
+  - 1955年の合併時に他の町名候補があったかどうかは確認できていない。
+  updated: '2026-11-13'
+- id: muni/07-三春町
+  code: '075213'
+  names:
+    ja: 三春町
+    reading: みはるまち
+    aliases:
+    - 三春城下
+    - 三春藩
+    - 御春
+  user_terms:
+  - みはるの由来
+  - 三つの春の町
+  - 滝桜の町
+  - 三春藩の城下町
+  - 梅桃桜が一度に咲く町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 三春町は三春藩の城下町として栄えた町で、「三春」の名は鎌倉時代以来の古い地名である。語源には梅・桃・桜が一度に咲くためという伝承のほか、参陽の地（御春）説、「見張」の転訛説、三春氏の居住説などがあるが、『日本歴史地名大系』はいずれも確証はないとする。永正元年（1504年）に田村義顕が春を三度重ねて祝って改名したという説話もあるが、それより前の古文書に既に「三春」がみえるため年代が合わない。
+  first_attestation:
+    era: 延元3年頃
+    year_western: 1338
+    document: 沙弥宗心書状・法眼宣宗書状（有造館本結城古文書写）
+    note: 「御春輩」「三春事」といった表記がみえる使用例として『日本歴史地名大系』が紹介するもの。二次資料経由の確認のため、主張のレベルはE3に落としてある。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、三春町のコードは075213とされる（田村郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』「三春城下」によれば、「三春」の語は鎌倉時代以来使われていたとみられ、延元3年（1338年）から同4年頃と推定される沙弥宗心書状に「御春輩」、法眼宣宗書状に「三春事」とみえる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w1-miharu-taikei-jouka
+  - text: 三春では、春に梅・桃・桜の花が一度に咲くことから「三春」と呼ばれるようになったと伝えられている。三春町公式プロフィールも、町の鳥うぐいすを「『三つの春』に由来する町にふさわしい鳥」と紹介している。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - w1-miharu-taikei-jouka
+    - w1-miharu-profile
+  - text: 語源についてはこのほか、水に恵まれ陽当たりの良い所で「参陽の地」と呼ばれた（参春・御春）という説を三春町の公式資料が挙げ、『日本歴史地名大系』は秋田県稲川の三春氏の移住伝承に基づく三春氏居住説や「見張」の転訛説を挙げるが、同大系はいずれの説にも確証はないとする。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w1-miharu-bunkazai-plan
+    - w1-miharu-taikei-jouka
+  - text: 『坂上系図前書』（三春町史所収）は、もと大枝多（おおしだ）村といったが永正元年（1504年）に田村義顕が居城を当地に移した際、春を三度重ねて祝ったため「三春」に改名したと記す。しかし1338年頃の古文書に既に「三春」がみえるため、この改名説は年代のうえで成り立たない。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w1-miharu-taikei-jouka
+  - text: 近世の三春は三春藩の城下町であり、三春町の公式資料によれば、正保元年（1644年）に松下氏が改易された後、正保2年（1645年）に秋田俊季が5万5千石で入部し、慶安2年（1649年）の分知で5万石となって、以後秋田氏11代が明治維新まで治めた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-miharu-bunkazai-plan
+  - text: 昭和30年（1955年）4月1日、三春町・沢石村・要田村・中妻村・御木沢村・中郷村が合併して新しい三春町が発足し、城下町の名がそのまま町名として引き継がれた。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-miharu-nakatsuma-wiki
+  column:
+    title: 春が三ついっぺんに来る町
+    text: 梅、桃、桜。ふつうは順番に咲くはずの三つの花が、この町では一度に咲くから「三春」だという。気候の境目にある阿武隈の山里では、遅い梅と早い桜の季節が重なる年があるのだろう。伝承の真偽は別として、町はこの説を大切にしてきた。町の木はしだれ桜、町の鳥うぐいすは「三つの春に由来する町にふさわしい鳥」として選ばれている。そして樹齢千年を超えると伝わる三春滝桜は国の天然記念物で、春には全国から人を引き寄せる。名の由来が「花の競演」だという物語は、三春という町のいちばんの広告塔であり続けている。
+    sources:
+    - w1-miharu-taikei-jouka
+    - w1-miharu-profile
+  relations:
+  - pref/07
+  unknowns:
+  - 「三春」の確定的な語源は専門文献でも未詳で、本レコードでは諸説併記にとどめた。
+  - 1338年頃の古文書（有造館本結城古文書写）の原文そのものの確認は未了で、『日本歴史地名大系』の引用経由で記録している。
+  - 1889年の町村制施行時に旧城下が「三春町」として発足した経緯の詳細は本バッチでは確認できていない。
+  updated: '2026-11-13'
+- id: muni/07-下郷町
+  code: 073628
+  names:
+    ja: 下郷町
+    reading: しもごうまち
+    aliases:
+    - 楢原町
+    - 江川村
+    - 旭田村
+  user_terms:
+  - しもごうの由来
+  - 大内宿のある町
+  - 塔のへつりの町
+  - 会津の下郷
+  - 上郷と下郷
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 下郷町は、古くから旧田島町（現在の南会津町田島地区）を中心とする地域を「上郷」と呼んだのに対して「下郷」と呼ばれてきた地域であり、昭和30年（1955年）に楢原町・旭田村・江川村が合併した際に、この古くからの地域の呼び名がそのまま町名となった。江戸時代は南山御蔵入（幕府直轄領）で、会津西街道の大内宿や塔のへつりで知られる。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「上郷・下郷」の呼び分けがいつ頃から行われていたかは町の公式資料でも遡れず、文書上の初出は確認できていない。町名としての成立は1955年。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、下郷町のコードは073628とされる（南会津郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 下郷町公式「町の紹介」によれば、町名は、古くから旧田島町（現・南会津町田島地区）を中心とした地域を「上郷」と呼んだのに対して、当地域は「下郷」と呼ばれていたことによる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-shimogo-town-intro
+  - text: 江戸時代初期に当町を含む地域は南山御蔵入と呼ばれて幕府の直轄領となり、下野街道（会津西街道）沿いには大内宿などの宿場が整備された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-shimogo-town-intro
+  - text: 明治22年（1889年）の町村制施行により楢原村・長江村・二川村・旭田村が成立し、長江村と二川村は昭和3年（1928年）に合併して江川村となり、楢原村は昭和21年（1946年）に町制を施行して楢原町となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-shimogo-town-intro
+  - text: 昭和30年（1955年）に楢原町・旭田村・江川村が合併し、現在に続く下郷町が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-shimogo-town-intro
+  - text: 町のほぼ中央を阿賀川（大川）が貫流し、国指定天然記念物「塔のへつり」に代表される渓谷が形成されている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-shimogo-town-intro
+  column:
+    title: 「上」のつく隣と「下」のつく自分
+    text: 下郷の「下」は、どこか低い場所という意味ではない。会津の南山地方では、中心である田島の側を「上郷」、街道を下った側を「下郷」と呼び分けてきた。つまりこの町名は、隣の中心地から見た相対的な位置を、そのまま自分の名前にしてしまったものだ。合併協議では新名を作ることもできたはずだが、1955年の合併では、江戸時代以来の生活圏の呼び名が選ばれた。街道沿いの大内宿は、いまも茅葺きの宿場の姿を残し、「上郷へ向かう旅人」が通った道として町名の物語を伝えている。
+    sources:
+    - w1-shimogo-town-intro
+  relations:
+  - pref/07
+  - muni/07-南会津町
+  unknowns:
+  - 「上郷・下郷」の呼び分けの起源（江戸時代の南山御蔵入の行政区分に由来するか等）は、町の公式資料では明示されておらず確認できていない。
+  - 1955年の合併の正確な日付は町の公式ページでは年までの記載で、日単位では確認できていない。
+  updated: '2026-11-13'
+- id: muni/07-中島村
+  code: 074659
+  names:
+    ja: 中島村
+    reading: なかじまむら
+    aliases:
+    - 滑津村
+    - 吉子川村
+  user_terms:
+  - 福島の中島村
+  - なかじまの名前の由来
+  - 滑津と吉子川の村
+  - 汗かき地蔵の村
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 中島村は、昭和30年（1955年）1月1日に滑津村と吉子川村が合併して発足した西白河郡の村である。「中島」は旧滑津村域の字名として存在し、合併3年前の1952年には両村組合立の中学校が既に「中島中学校」と名付けられていたが、村名の命名理由を明示する公式資料は確認できておらず、命名の経緯は未詳として残す。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 滑津村・吉子川村の合併による中島村の発足
+    note: 村名としての初出。字名としての「中島」の文書上の初出は確認できていない。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、中島村のコードは074659とされる（西白河郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w1-nakajima-wikipedia
+  - text: 明治22年（1889年）、吉岡村・二子塚村・川原田村が合併して吉子川村となり、松崎村と滑津村が合併して滑津村となった。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-nakajima-wikipedia
+  - text: 昭和27年（1952年）5月1日、滑津村と吉子川村の組合立中学校が「中島中学校」の名で創立された。村の合併に先立つこと約3年、「中島」の名は既に両村に共通する公的施設の名として使われていた。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-nakajima-wikipedia
+  - text: 昭和30年（1955年）1月1日、滑津村と吉子川村が合併して中島村が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-nakajima-geoshape
+    - w1-nakajima-wikipedia
+  - text: 中島村役場は大字滑津字中島西に置かれており、「中島」は旧滑津村域の字名として現在も存在する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-nakajima-vill-top
+  - text: 村名「中島」は、役場所在地の字名「中島」に由来する可能性が高い。組合立中学校が同じ名を先に名乗っていたことも、字名が地域の共通の拠り所だったことをうかがわせるが、命名の経緯を示す記録は確認できておらず、これは類推である。
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w1-nakajima-vill-top
+    - w1-nakajima-wikipedia
+  - text: 昭和45年（1970年）には、中島村の一部（滑津の一部）が石川郡石川町に編入された。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-nakajima-wikipedia
+  column:
+    title: 村より先に生まれた「中島」の看板
+    text: 中島村の名前の理由は、公式には語られていない。分かっているのは順番だけである。1952年、合併を控えた滑津村と吉子川村は、共同で中学校を作り、それを「中島中学校」と名付けた。そして1955年、二つの村は合併して「中島村」になった。学校の所在地は滑津の字「中島」。村の名前は、新しい造語でも、どちらの村の名前でもなく、両村の子どもたちが既に通っていた学校の名前と重なっていた。命名理由の記録は残っていないが、この順序自体が、合併町村の名前が「争わない場所」から選ばれる典型を物語っている。
+    sources:
+    - w1-nakajima-wikipedia
+    - w1-nakajima-vill-top
+  relations:
+  - pref/07
+  unknowns:
+  - 1955年の合併時に「中島」を村名とした理由を明示する村公式・合併協議の記録は確認できなかった。村史・郷土読本等での追加確認が課題。
+  - 字名「中島」の語源（阿武隈川・泉川に挟まれた島状の地形に由来するか等）は確認できていない。
+  updated: '2026-11-13'
 - id: muni/07-二本松市
   code: 072109
   names:
@@ -244,6 +554,168 @@ records:
   - 高子岡の朝宗居館伝承の考古学的な裏づけは未確認
   - 合併協議会での名称決定の詳細な議事（市公式は協議会だより・議事録への参照を示すが、本バッチでは未読）
   updated: '2026-11-13'
+- id: muni/07-会津坂下町
+  code: '074217'
+  names:
+    ja: 会津坂下町
+    reading: あいづばんげまち
+    aliases:
+    - 坂下町
+    - 坂下村
+    - 番下村
+  user_terms:
+  - ばんげの由来
+  - 会津坂下はなぜ「ばんげ」と読むのか
+  - 坂下なのにばんげ
+  - 会津の坂下町
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 会津坂下町の「坂下」は会津盆地西縁の古い地名で、町の議会要覧は由来について、アイヌ語の「バッケ（坂の下）」がなまったものとする説のほか諸説があるとし、文明7年（1475年）に栗村と番下村を併せて「坂下村」と改めた記録も紹介する。読みの「ばんげ」は、その番下村の名の読みを受け継ぐ。昭和30年（1955年）に坂下町など1町5村が合併して「会津」を冠し、会津坂下町となった。「会津」の層は郡名としての会津、そして『古事記』の相津の説話に遡る伝承と共通する。
+  first_attestation:
+    era: 文明7年
+    year_western: 1475
+    document: 会津坂下町議会要覧（令和6年）が紹介する室町時代の記録
+    note: 栗村と番下村を併せて「坂下村」と改めたという記録の紹介。二次資料経由の確認のため、主張のレベルはE2に落としてある。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、会津坂下町のコードは074217とされる（河沼郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「会津」の名の起源として、『日本歴史地名大系』は『古事記』崇神天皇段の説話を初見として挙げる。大毘古命と建沼河別命が互いに行合ったので、その地を「相津」と呼んだというもので、会津は相津のほか安比豆・藍津とも書かれた。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 郡名としての「会津」の史料上の初見は養老2年（718年）で、陸奥国の会津など五郡を割いて石背国に昇格させたことが『続日本紀』にみえると『日本歴史地名大系』は紹介する。会津坂下町の「会津」は、この地域名・郡名の層を受け継ぐ冠称である。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 会津坂下町議会の「議会要覧」によれば、町名の由来は、アイヌ語の「バッケ（坂の下）」がなまったものとする説のほか諸説がある。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w1-bange-gikai-yoran
+  - text: 同じく議会要覧によれば、室町時代の文明7年（1475年）に栗村と番下村を併せて「坂下村」と改めた記録がある。現在の町名の読み「ばんげ」は、「坂下」と書きながら、この番下村の名の読みを受け継いだものとみられる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-bange-gikai-yoran
+  - text: 明治10年（1877年）に坂下村は坂下町となり、その後、河沼郡役所が置かれて会津盆地西部の中心となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-bange-town-plan
+  - text: 昭和30年（1955年）、坂下町・若宮村・金上村・広瀬村・川西村・八幡村の1町5村が合併して会津坂下町となり、旧町名「坂下」に地域名「会津」が冠された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-bange-town-plan
+    - w1-bange-gikai-yoran
+  column:
+    title: 「坂下」と書いて、なぜ「ばんげ」
+    text: 初めてこの町名を見る人は、たいてい読み方でつまずく。「さかした」でも「さかもと」でもなく「ばんげ」。手がかりは室町時代の記録にある。1475年、栗村と番下村が合わさって「坂下村」になったという。漢字は新しい村にふさわしく「坂下」に改められたが、読みの方は元の「番下（ばんげ）」が生き残った。文字と音が別々の先祖を持つ、珍しい二重構造の地名である。しかも由来にはアイヌ語「バッケ（坂の下）」がなまったものという説まであり、会津盆地の西の入口という土地の成り立ちを、そのまま名前が物語っている。
+    sources:
+    - w1-bange-gikai-yoran
+  relations:
+  - pref/07
+  - muni/07-会津若松市
+  - muni/07-会津美里町
+  unknowns:
+  - 1955年の合併で「会津」を冠した理由（岐阜県坂下町など同名の町との区別のためか等）は、町の公式資料では明示されておらず確認できていない。
+  - 1475年の「坂下村」改称の記録の原典（文書名）は議会要覧に示されておらず、原典確認は未了。
+  - アイヌ語「バッケ」説の学術的な裏づけは本バッチでは確認できていない。
+  updated: '2026-11-13'
+- id: muni/07-会津美里町
+  code: '074471'
+  names:
+    ja: 会津美里町
+    reading: あいづみさとまち
+    aliases:
+    - 会津高田町
+    - 会津本郷町
+    - 新鶴村
+  user_terms:
+  - 会津美里の美里の意味
+  - 美しい里の町
+  - 伊佐須美神社の町
+  - 会津本郷焼の町
+  - 高田梅の町
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 会津美里町は、平成17年（2005年）10月1日に会津高田町・会津本郷町・新鶴村が合併して生まれた町である。新町名「美里」は「美しい里」を意味する名として最終候補の中から選ばれ、町の総合計画も将来像に「美しきふる里 会津美里町」を掲げる。「会津」の層は郡名としての会津と『古事記』の相津の説話に遡る伝承で、会津若松市や会津坂下町と共通する。高田の伊佐須美神社、本郷の会津本郷焼など、旧町村それぞれの歴史が町内に重なっている。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 会津高田町・会津本郷町・新鶴村の合併による会津美里町の発足
+    note: 町名そのものの成立時点。「美里」の語自体は一般語であり、地名としての初出はこの合併である。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、会津美里町のコードは074471とされる（大沼郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「会津」の名の起源として、『日本歴史地名大系』は『古事記』崇神天皇段の説話を初見として挙げる。大毘古命と建沼河別命が互いに行合ったので、その地を「相津」と呼んだというもので、会津美里町の「会津」はこの地域名の層を受け継ぐ。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 会津美里町は、平成17年（2005年）10月1日に会津高田町・会津本郷町・新鶴村が合併して誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-misato-sogokeikaku
+  - text: 新町名は公募され、上位10点には「会津大沼」「大沼」「伊佐須美（いさすみ）」などが並び「会津美里」は含まれていなかったが、最終候補5点（会津美里・会津大沼・新会津・大沼・会津新）の中から「会津美里」が選ばれた。町役場は旧会津高田町役場に置かれた。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w1-misato-uub
+  - text: 「美里」は美しい里を表す名として掲げられており、会津美里町の第4次総合計画は町の将来像を『もっとつながる ほっと安らぐ ずっと住みたい 美しきふる里 会津美里町』としている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-misato-sogokeikaku
+  - text: 旧本郷町は平成4年（1992年）4月1日に「会津本郷町」と改称していた。つまり2005年の合併前から、3町村のうち2つが「会津」を冠する名を持っており、新町名にも「会津」が引き継がれた。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w1-misato-uub-hongo
+  - text: 町の第4次総合計画は、伊佐須美神社（高田地区）、向羽黒山城跡、法用寺三重塔、中田観音、会津本郷焼（本郷地区）などを、町民が守ってきた歴史・文化として挙げている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-misato-sogokeikaku
+  column:
+    title: 公募の上位にいなかった町名
+    text: 新町名の公募で集まった上位10点は、「会津大沼」「大沼」「伊佐須美」など、郡名や神社の名にちなむものばかりだった。ところが最終候補5点に残り、最後に選ばれたのは、その上位リストに影も形もなかった「会津美里」である。由緒ある固有名ではなく、「美しい里」という誰の土地でもない言葉が、3町村の対等合併の名前として選ばれた。高田の神社名「伊佐須美」も、本郷の焼き物の名も、新鶴の名も、どれか一つを選べば他が脇に回る。その板挟みを、「美里」という願いを込めた普通名詞が解いたのである。
+    sources:
+    - w1-misato-uub
+    - w1-misato-sogokeikaku
+  relations:
+  - pref/07
+  - muni/07-会津若松市
+  - muni/07-会津坂下町
+  unknowns:
+  - 最終候補に「会津美里」が加えられた経緯と、選定理由を記した合併協議会の公式記録そのものの確認は未了（変遷データベースの要約による）。
+  - 新鶴村の村名「新鶴」の由来は本バッチでは確認できていない。
+  updated: '2026-11-13'
 - id: muni/07-会津若松市
   code: 072028
   names:
@@ -324,6 +796,168 @@ records:
   - 「会津」の語源について、相津＝川の合流する場所とする説明以上の学術的な確定は本バッチでは得られていない。
   - 蒲生氏郷が若松森にちなんだという記録は『会津旧事雑考』の引用経由であり、当時の一次史料での確認は未了。
   updated: '2026-11-13'
+- id: muni/07-北塩原村
+  code: '074020'
+  names:
+    ja: 北塩原村
+    reading: きたしおばらむら
+    aliases:
+    - 北山村
+    - 大塩村
+    - 檜原村
+  user_terms:
+  - 北塩原の名前の由来
+  - 裏磐梯の村
+  - 五色沼のある村
+  - 檜原湖の村
+  - 磐梯山噴火の村
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 北塩原村は、昭和29年（1954年）3月31日に北山村・大塩村・檜原村が合併して生まれた村で、村名は3村の名から漢字を1字ずつ取った合成名（北山の「北」・大塩の「塩」・檜原の「原」）である。村域の東部は、明治21年（1888年）の磐梯山噴火で生まれた檜原湖や五色沼を擁する裏磐梯で、旧檜原村は噴火によって集落が湖に沈むなど壊滅的な被害を受けた土地でもある。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 北山村・大塩村・檜原村の合併による北塩原村の発足（村制施行70周年記念誌）
+    note: 村名としての成立時点。構成要素の地名のうち大塩は、戦国時代に既に名付けられていたと考えられると報告書は紹介する。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、北塩原村のコードは074020とされる（耶麻郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 北塩原村の村制施行70周年記念誌によれば、昭和29年（1954年）3月31日、明治22年（1889年）の町村制施行以来続いた北山村・大塩村・檜原村の3村が合併して北塩原村が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-kitashiobara-pamphlet
+  - text: 福島県が掲載する実態調査報告書によれば、村名「北塩原」は、合併した北山村・大塩村・桧原村の3村の名から漢字1文字ずつを取って付けられた名前である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-kitashiobara-pref-report
+  - text: 同じ報告書によれば、北山村の「北山」は漆地区にある北山薬師という薬師堂から名付けられたとされ、大塩村は村の各地に塩井があったことに由来し戦国時代に既に名付けられていたと考えられ、桧原村は檜が多く植生していたことに名付けられたとされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-kitashiobara-pref-report
+  - text: 明治21年（1888年）の磐梯山噴火では水蒸気爆発により小磐梯が崩壊・消滅し、岩なだれが川をせき止めて、檜原湖・秋元湖・小野川湖をはじめとする数百の湖沼が形成された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-kitashiobara-pref-report
+  - text: 噴火の救護には日本赤十字社が医師3名を派遣し、戦争以外では初の救護活動が実現したため、裏磐梯には「平時災害救護発祥の地」の碑が建てられていると村の記念誌は記す。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-kitashiobara-pamphlet
+  - text: 大正9年（1920年）、遠藤現夢が噴火で荒廃した官地の植林に成功して現在の裏磐梯の基礎を築き、「裏磐梯」と命名したと村の記念誌は伝える。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-kitashiobara-pamphlet
+  column:
+    title: 一文字ずつの村と、湖に沈んだ村
+    text: 北塩原という名は、地図帳のどこにもなかった言葉だ。北山の北、大塩の塩、檜原の原。1954年の合併で、三つの村が対等に一文字ずつ出し合って作った、いわば寄せ木細工の村名である。ところが三つの村のうち檜原は、ただの構成員ではなかった。1888年の磐梯山噴火で、旧檜原村の集落は岩なだれに埋まり、生まれたばかりの檜原湖の底に沈んだ。村は高台に移って生き延び、その名の一文字「原」だけが、新しい村の名前の末尾に残った。北塩原の「原」を見るたび、湖底の村の記憶がそこに刻まれている。
+    sources:
+    - w1-kitashiobara-pref-report
+    - w1-kitashiobara-pamphlet
+  relations:
+  - pref/07
+  unknowns:
+  - 噴火で水没・埋没した旧檜原村の集落名と戸数の詳細は、村史等の一次に近い資料での確認が未了。
+  - 「北山薬師」にちなむという北山村名の由来は報告書の紹介によるもので、村公式の由来説明での確認は未了。
+  updated: '2026-11-13'
+- id: muni/07-南会津町
+  code: 073687
+  names:
+    ja: 南会津町
+    reading: みなみあいづまち
+    aliases:
+    - 田島町
+    - 舘岩村
+    - 伊南村
+    - 南郷村
+  user_terms:
+  - 南会津の名前の由来
+  - 会津田島の町
+  - 南山御蔵入の里
+  - 会津高原と迷った町名
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 南会津町は、平成18年（2006年）3月20日に田島町・舘岩村・伊南村・南郷村が合併して生まれた町である。「南会津」は、明治12年（1879年）に置かれた南会津郡以来の地域名で、新町名の公募でも最多の支持を集め、最終候補の「会津高原」との間で選ばれた。中心の田島は長沼氏の鴫山城以来の地で、江戸時代は南山御蔵入の中心・会津西街道の宿場として栄えた。「会津」の層は郡名としての会津と『古事記』の相津の説話に遡る伝承で、会津若松市などと共通する。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 田島町・舘岩村・伊南村・南郷村の合併による南会津町の発足
+    note: 町名としての成立時点。地域名・郡名としての「南会津」は、福島県の資料によれば明治12年（1879年）の郡町村制復活で南会津郡が置かれたことに遡る。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、南会津町のコードは073687とされる（南会津郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「会津」の名の起源として、『日本歴史地名大系』は『古事記』崇神天皇段の説話を初見として挙げる。大毘古命と建沼河別命が互いに行合ったので、その地を「相津」と呼んだというもので、南会津町の「会津」はこの地域名の層を受け継ぐ。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k2-aizu-taikei-gun
+  - text: 福島県の「市町村の歴史的形成過程」によれば、明治12年（1879年）1月の郡町村制復活の際、南会津郡と北会津郡が行政区画として置かれた。「南会津」はこの郡名以来の地域名であり、2006年に合併した4町村はいずれも南会津郡に属していた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-fukushima-formation
+    - w1-minamiaizu-profile
+  - text: 南会津町公式プロフィールによれば、町は平成18年（2006年）3月20日に田島町・舘岩村・伊南村・南郷村が合併して誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-minamiaizu-profile
+  - text: 新町名は公募され、「南会津」は公募の上位10点の筆頭に挙がり、候補は最終的に「会津高原」と「南会津」の2点に絞られたうえで「南会津」が選ばれた。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w1-minamiaizu-uub
+  - text: 合併は当初、下郷町・只見町・檜枝岐村を含む南会津郡7町村の枠組みで研究されたが、下郷町では合併しない意向が住民アンケートで多数を占めるなどし、最終的に4町村の枠組みとなった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w1-minamiaizu-uub
+  - text: 中心の田島地区は、鎌倉時代に長沼氏が鴫山城を築いた地であり、江戸時代には舘岩・伊南・南郷とともに幕府直轄の「天領御蔵入（南山御蔵入）」となり、会津西街道の主要な宿場町として栄えた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-minamiaizu-profile
+  column:
+    title: 郡の名前が、そのまま町の名前になった
+    text: 「南会津」はもともと町の名前ではなく、地域の名前だった。1879年に南会津郡が置かれて以来、田島も舘岩も伊南も南郷も、住所はいつも「南会津郡○○」と書かれてきた。2006年の合併で必要になった新しい町名に、住民の公募でいちばん集まったのが、この慣れ親しんだ郡の名前だった。面白いのは最終候補のもう一つが「会津高原」だったことと、候補の過程で「南山（なんざん）」という江戸時代の御蔵入の古名まで挙がっていたことだ。観光地のような新しさでも、藩政時代の古名でもなく、明治以来の「住所の名前」が選ばれた。合併しても郡は残り、いま南会津町は南会津郡に属する。住所は「南会津郡南会津町」と、二度同じ名を書くことになった。
+    sources:
+    - w1-minamiaizu-uub
+    - w1-fukushima-formation
+    - w1-minamiaizu-profile
+  relations:
+  - pref/07
+  - muni/07-会津若松市
+  - muni/07-下郷町
+  unknowns:
+  - 最終候補2点から「南会津」を選んだ決定理由の公式記録（合併協議会だより等）の直接確認は未了。
+  - 1879年以前に「南会津」の語が地域名として使われた事例があるかは確認できていない。
+  updated: '2026-11-13'
 - id: muni/07-南相馬市
   code: '072125'
   names:
@@ -402,6 +1036,268 @@ records:
   - 「南相馬市」を選定した公式な理由文そのもの（方角の意味づけを含む）は合併協議会資料の原文では確認できていない
   - 「原ノ町」の名の江戸時代以前の用例は確認できていない
   updated: '2026-11-13'
+- id: muni/07-双葉町
+  code: 075469
+  names:
+    ja: 双葉町
+    reading: ふたばまち
+    aliases:
+    - 標葉町
+    - 新山町
+    - 長塚村
+  user_terms:
+  - ふたばの由来
+  - 標葉はなぜ双葉になったのか
+  - しねはの読み方
+  - 原発の町双葉
+  - 双葉郡の双葉町
+  naming_type: その他
+  prefecture: 福島県
+  homonyms: []
+  summary: 双葉町は、昭和26年（1951年）に新山町と長塚村が合併して「標葉町（しねはまち）」として発足し、昭和31年（1956年）に「双葉町」へ改称した町である。標葉は養老2年（718年）に石城国に置かれた古い郡名で、明治29年（1896年）に楢葉郡と合併して双葉郡となり、町名もこの郡名「双葉」にちなんで改められた。福島第一原子力発電所の立地自治体の一つであり、2011年の事故で全町避難を強いられ、2022年に一部区域で避難指示が解除された。
+  first_attestation:
+    era: 養老2年
+    year_western: 718
+    document: 石城国の設置（福島県「市町村の歴史的形成過程」が『続日本紀』の記載として紹介）
+    note: 前身の郡名「標葉」が石城国の5郡の一つとして数えられる時点。二次資料経由の確認のため、主張のレベルはE2に落としてある。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、双葉町のコードは075469とされる（双葉郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w1-futaba-wikipedia
+  - text: 福島県の「市町村の歴史的形成過程」によれば、標葉郡は養老2年（718年）に陸奥国から分置された石城国の5郡（磐城・標葉・行方・宇多・曰理）の一つであり、「標葉（しねは）」は奈良時代に遡る古い郡名である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-fukushima-formation
+  - text: 明治29年（1896年）4月1日、標葉郡は楢葉郡と合併して双葉郡（当時の表記は雙葉郡）となった。二つの郡の「葉」を重ねた郡名である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-fukushima-formation
+    - w1-futaba-wikipedia
+  - text: 双葉町の公式年表によれば、昭和26年（1951年）4月1日に新山町と長塚村が合併し、旧郡名を名乗る標葉町として誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-futaba-nenpyo
+  - text: 昭和31年（1956年）4月1日、町名は標葉町から双葉町に改称された。あわせて町内の学校名も標葉中学校から双葉中学校へなどと改められた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-futaba-nenpyo
+  - text: 「双葉」という町名は、標葉郡（夜ノ森以北）と楢葉郡（夜ノ森以南）の合併で生まれた双葉郡の名にちなんだ名称であるとされる。町自身は旧標葉郡の区域にある。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w1-futaba-wikipedia
+  - text: 福島第一原子力発電所は隣接する大熊町と双葉町にまたがって立地し、2011年（平成23年）3月の東日本大震災に伴う事故で、双葉町は全町避難を強いられた。町の公式年表も「原発事故で町の様相は一変した」と記す。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-futaba-nenpyo
+    - w1-futaba-wikipedia
+  - text: 令和4年（2022年）8月30日、特定復興再生拠点区域の避難指示が解除され、住民の帰還が始まった。同月に町役場の新庁舎が町内に開庁している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-futaba-nenpyo
+  column:
+    title: 消えた「双葉町」から受け取った名前
+    text: 1956年にこの町が「双葉町」と改称したとき、実は「双葉町」という名前は、ほんの少し前まで別の町のものだった。1950年から1955年まで、旧楢葉郡側（現在の富岡町北部）にも「双葉郡双葉町」を名乗る町があり、合併によって消滅していたのである。郡の名前を町名にする先輩が消えた翌年、旧標葉郡側の標葉町が双葉町に改称した。読みにくい「標葉（しねは）」を捨て、郡の名を受け継いだ改称だが、それは同時に、消えた町の名前のリレーでもあった。なお「標葉」の古い名は、いまも町の歴史の中に残り、双葉郡の名の由来をたどる手がかりになっている。
+    sources:
+    - w1-futaba-wikipedia
+    - w1-futaba-nenpyo
+  relations:
+  - pref/07
+  unknowns:
+  - 1956年の改称の決定理由を記した町議会・町公式の一次に近い記録（読みにくさの解消か、郡名への統一か等）の直接確認は未了で、郡名にちなむという説明はWikipediaによる。
+  - 「標葉（しねは）」の語源そのものは確認できていない。
+  - 原発の立地経緯（誘致の過程）は本レコードの範囲外とし、由来の層として立地と事故・避難の事実のみを簡潔に記録した。
+  updated: '2026-11-13'
+- id: muni/07-古殿町
+  code: '075051'
+  names:
+    ja: 古殿町
+    reading: ふるどのまち
+    aliases:
+    - 古殿村
+    - 宮本村
+    - 竹貫村
+  user_terms:
+  - ふるどのの由来
+  - 古殿八幡神社の町
+  - 流鏑馬の町古殿
+  - 古記殿とは
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 古殿町は、昭和30年（1955年）に宮本村と竹貫村が合併して生まれた町で、町名は両村の総鎮守である古殿八幡神社の所在地「古殿」の地名から取られた。「古殿」の名は、代々の領主が隠居して八幡神を守護する際に「古記殿」を館としたことから呼ばれるようになったと町公式は説明する。神社の伝統行事・流鏑馬は町章の意匠にもなっている。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「古殿」の地名自体の文書上の初出は確認できていない。町公式は「古記殿」を館としたという伝承的な説明を紹介する。自治体名としての成立は1955年。
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、古殿町のコードは075051とされる（石川郡）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 古殿町公式「町の紹介」によれば、昭和30年（1955年）3月31日に宮本村と竹貫村が合併して古殿村が誕生し、昭和32年（1957年）4月1日に町制を施行して古殿町となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-furudono-town-intro
+  - text: 同じく町公式によれば、町名は、合併した両村の総鎮守である古殿八幡神社の所在地である「古殿」の地から取ったものである。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-furudono-town-intro
+  - text: 「古殿」という地名については、古より代々の領主が隠居し八幡を守護していた際に「古記殿」を館としていたことから、この地を「古殿」と呼ぶようになったと伝えられ、町公式もその説明を紹介している。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w1-furudono-town-intro
+  - text: 平成6年（1994年）4月1日、古殿町は東白川郡から石川郡へ移った。合併で生まれた町が郡を移る珍しい事例である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-furudono-town-intro
+  - text: 古殿八幡神社の伝統行事「流鏑馬」は町の象徴であり、昭和32年（1957年）に制定された町章は「ふ」の字を図案化し、中央の矢が流鏑馬を象徴している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-furudono-town-intro
+  - text: 町は阿武隈山系の山間にあり、いわき市から太平洋に注ぐ鮫川が町域を東西に横断している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-furudono-town-intro
+  column:
+    title: 総鎮守の「住所」が町の名になった
+    text: 合併で新しい町名を決めるとき、二つの村のどちらにも肩入れしない名前が必要だった。古殿の人々が選んだのは、宮本村と竹貫村の双方が氏子である総鎮守・古殿八幡神社の鎮座地の名前である。神社の住所が、そのまま町の名前になった。しかもその「古殿」自体、領主の隠居の館「古記殿」に由来するという言い伝えを持つ二重の由緒つきだ。町章の真ん中に描かれた矢は、その八幡神社の流鏑馬を表している。町の名前と紋章の両方に、同じ神社が刻まれている自治体はそう多くない。
+    sources:
+    - w1-furudono-town-intro
+  relations:
+  - pref/07
+  unknowns:
+  - 「古記殿」の伝承を裏づける中世・近世の文書の確認は未了で、町公式の紹介として記録した。
+  - 「古殿」の地名の文書上の初出（江戸期の村名としての成立時期）は確認できていない。
+  - 1994年に郡を移った理由（生活圏との整合等）の公式説明は本バッチでは確認できていない。
+  updated: '2026-11-13'
+- id: muni/07-只見町
+  code: 073679
+  names:
+    ja: 只見町
+    reading: ただみまち
+    aliases:
+    - 伊北村
+    - 只見村
+  user_terms:
+  - 只見線の町
+  - 自然首都・只見
+  - 奥会津の豪雪の町
+  - 田子倉ダムの町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県の最西端、奥会津の豪雪地帯にある町で、町名は中心集落「只見」の名を受け継ぐ。「只見」は近世の村名として16世紀末の記録に見え、集落は只見川に伊南川が合流する地点の下流に発達した。明治22年（1889年）に成立した伊北村が昭和27年（1952年）に只見村へ改称し、昭和34年（1959年）に朝日村を編入して町制を施行した。「ただみ」という語そのものの語源には定説がない。
+  first_attestation:
+    era: 文禄3年
+    year_western: 1594
+    document: 蒲生領高目録
+    note: 日本歴史地名大系「只見村」項が「只見 六百九十三石五升」の記載を用例として紹介するもの（二次資料経由の確認）。村名としての文献上の初出
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、只見町のコードは073679とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系「只見村」項によれば、文禄3年（1594年）の蒲生領高目録に「只見 六百九十三石五升」とあり、慶長2年（1597年）の藤三郎倉入在々高物成帳（『福島県史』所収）には「たゝミ」と仮名書きされている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-tadami-kotobank-taikei-mura
+  - text: 現在の只見（旧只見村）の集落は、只見川に伊南川が合流した下流左岸の平坦地にあり、沼田街道に沿って発達し、六十里越の分岐点でもあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-tadami-kotobank-taikei-mura
+  - text: 町域は中世には伊北郷の地で、江戸時代には南山御蔵入と呼ばれる幕府直轄地に編入されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tadami-kotobank-nipponica
+    - w2-tadami-town-summary
+  - text: 明治22年（1889年）の町村制施行で伊北村が成立し、昭和27年（1952年）に只見村と改称した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tadami-wiki
+  - text: 昭和30年（1955年）に只見村と明和村が隣接しないまま飛び地合併し、昭和34年（1959年）に朝日村を編入して飛び地が解消され、同年に町制を施行して只見町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tadami-town-guidebook
+    - w2-tadami-town-summary
+  - text: 現在の町名は、1952年の改称で村名となった中心集落「只見」の名をそのまま受け継いだものである
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-tadami-kotobank-taikei-mura
+    - w2-tadami-wiki
+  - text: 「ただみ」の語源については、町公式の解説にも専門辞典の項目にも特定の語源説が示されておらず、川名（只見川）と集落名のどちらが先かを含めて定説は確認できない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w2-tadami-town-summary
+    - w2-tadami-kotobank-taikei-mura
+  - text: 弘法大師（空海）が川沿いを歩いたとき「只見て帰られた」ことから「只見川」と呼ぶようになったという伝説があり、寛文5年（1665年）の稲河領牛澤組の風俗帳に記載されていると福島県が紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w2-fukushima-tadami-river-history
+  column:
+    title: 飛び地で生まれた只見村
+    text: 昭和30年（1955年）、只見村と明和村は合併した。ところが両村は隣り合っておらず、間に朝日村をはさんだ飛び地合併だった。戦後の只見川電源開発でダム建設に沸く時代の合併である。4年後の昭和34年（1959年）に朝日村を編入してようやく町域がつながり、そのまま町制を施行して只見町になった。町章が「三村合併」を図案化しているのは、この只見・明和・朝日の三地区の成り立ちを今に伝えている。
+    sources:
+    - w2-tadami-town-guidebook
+    - w2-tadami-town-summary
+  relations:
+  - pref/07
+  - muni/07-金山町
+  unknowns:
+  - 「ただみ」の語源の定説は、町公式・専門辞典のいずれでも確認できなかった
+  - 昭和27年（1952年）に伊北村が只見村へ改称した際の理由を明示する当時の資料は未確認
+  - 『只見町史』における地名考の記述はオンラインでは未確認
+  updated: '2026-11-13'
 - id: muni/07-喜多方市
   code: 072087
   names:
@@ -473,6 +1369,1018 @@ records:
   unknowns:
   - 「北方」の名の文献上の初出（江戸時代のどの文書に現れるか）は確認できていない
   - 中世の集落名「小田付」の語源は確認できていない
+  updated: '2026-11-13'
+- id: muni/07-国見町
+  code: '073032'
+  names:
+    ja: 国見町
+    reading: くにみまち
+    aliases: []
+  user_terms:
+  - 阿津賀志山の戦いの町
+  - 国見インターの町
+  - 桃の町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通りの北端、伊達郡の町。町名は阿津賀志山周辺に古くからあった「国見山」「国見峠」「国見」の地名から採られたもので、『吾妻鏡』には「伊達郡阿津賀志山辺国見駅」と見える。昭和29年（1954年）3月31日、藤田町・小坂村・森江野村・大木戸村・大枝村の1町4村が合併して発足した際、「栄えゆく国を眺める」という意味も評価されて新町名に採用された。
+  first_attestation:
+    era: 文治5年
+    year_western: 1189
+    document: 『吾妻鏡』
+    note: 国見町公式資料（歴史的風致維持向上計画）が「伊達郡阿津賀志山辺国見駅」の記述を紹介するもの（二次資料経由の確認）。奥州合戦の記事に関わる駅名としての初出
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、国見町のコードは073032とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 国見町公式資料によれば、『吾妻鏡』には「伊達郡阿津賀志山辺国見駅」という記述があり、「国見」は鎌倉時代に駅（宿）の名として使われていた古い地名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-plan
+  - text: 現在の阿津賀志山の周辺には、「国見山」・「国見峠」・「国見」などの地名が、旧藤田町・旧森江野村・旧大木戸村にまたがって存在していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-plan
+  - text: 昭和29年（1954年）3月31日、藤田町・小坂村・森江野村・大木戸村・大枝村の1町4村が合併して国見町が発足した。同年、旧大枝村の東大枝地区は梁川町（現在の伊達市）へ編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-plan
+    - w2-kunimi-town-history
+  - text: 町名は、古戦場で知られる国見山・国見峠の名をとったものであり、「国見」には栄えゆく国を眺めるという意味もあることから採用されたと町公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-history
+    - w2-kunimi-town-plan
+  - text: 古代のこの地方は陸奥国信夫郡の伊達郷と呼ばれ、11世紀頃に伊達郡が信夫郡から分立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-history
+  - text: 文治5年（1189年）の奥州合戦では阿津賀志山の戦いの舞台となり、奥州藤原氏が国見の宿と阿津賀志山の間に防塁を築いたことが『吾妻鏡』に記されていると町公式資料が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-kousou
+  - text: 松尾芭蕉は『おくのほそ道』に「伊達の大木戸を越す」と記しており、現在の国見町大木戸は近世の奥州街道の要地だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kunimi-town-kanko
+  column:
+    title: 防塁のあった「国見の宿」
+    text: 文治5年（1189年）、奥州藤原氏の泰衡は、押し寄せる源頼朝の軍を阿津賀志山で迎え撃つため、山から阿武隈川まで約3キロメートルに及ぶ防塁を築いた。『吾妻鏡』はその様子を、国見の宿と山の間に堀を構えたと伝える。その「国見」の名は駅・宿の名として中世に残り、山の名・峠の名として近世以降も地図に残った。1954年の合併で新しい町の名が必要になったとき、人々が選んだのは合併するどの町村の名でもなく、800年近く前からこの土地を見晴らしてきた「国見」だった。
+    sources:
+    - w2-kunimi-town-kousou
+    - w2-kunimi-town-plan
+  relations:
+  - pref/07
+  - muni/07-伊達市
+  unknowns:
+  - 『吾妻鏡』の「国見駅」の原文は直接確認しておらず、町公式資料の引用による
+  - 「国見山」の名そのものの語源（眺望に由来するか等）は専門資料で未確認
+  - 1954年の合併時に町名の候補がほかにあったかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/07-塙町
+  code: 074837
+  names:
+    ja: 塙町
+    reading: はなわまち
+    aliases:
+    - 常豊村
+    - 塙笹原町
+  user_terms:
+  - ダリアの町
+  - 道の駅はなわ
+  - 磐城塙駅
+  - 水郡線の町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県の南端、東白川郡の町で、久慈川が中央を流れる。町名は近世の中心村「塙」の名を受け継ぐ。「塙」は地形語で、福島・茨城の方言で台地の端を表す「ハナワ」に「土に高」の字面から当てられた字とされる。明治22年（1889年）に塙村は常豊村に合併されたが、昭和23年（1948年）の町制施行で「塙町」と改称して名が復活し、昭和30年（1955年）の合併を経て現在の塙町となった。
+  first_attestation:
+    era: 寛永21年
+    year_western: 1644
+    document: 免状（『福島県史』所収）
+    note: 日本歴史地名大系「塙村」項が、東白川郡塙村の村高を記す免状を用例として紹介するもの（二次資料経由の確認）。近世村名としての記録
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、塙町のコードは074837とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 塙町公式は、小学館『日本地名大百科 ランドジャポニカ』（1996年）を引いて、「塙」は地形語で本来「かたい土地・石地」の意味があり、福島県や茨城県には台地の端（はな）を表す「ハナワ」という方言があって、これに「塙」の字が当て字として用いられたと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-hanawa-town-yurai
+  - text: 中心集落の塙は久慈川の支流・川上川の谷口にあり、近世には幕府領（天領）の代官所が置かれ、1729年（享保14年）には町域の過半が幕府領となって代官陣屋が置かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-hanawa-kotobank-nipponica
+  - text: 日本歴史地名大系「塙村」項によれば、寛永21年（1644年）の免状（『福島県史』所収）に東白川郡塙村の村高が見え、同村は天正18年（1590年）に蘆名氏領となり、のち天領となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-hanawa-kotobank-taikei
+  - text: 明治22年（1889年）の町村制施行で、旧塙村は下渋井村・上渋井村・堀越村・西河内村・東河内村・常世北野村・常世中野村・竹之内村と合併して常豊村となり、「塙」の名は村名からいったん消えた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-hanawa-wiki
+  - text: 昭和23年（1948年）、常豊村は町制を施行するにあたり、旧中心村の名を復活させて塙町と改称した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-hanawa-kotobank-nipponica
+  - text: 昭和30年（1955年）3月10日に笹原村と合併して塙笹原町となったが、同月31日に石井村・高城村の一部と合併して再び塙町となり、「塙笹原町」は21日間だけの町名となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-hanawa-kotobank-nipponica
+    - w2-hanawa-wiki
+  - text: 塙町公式は、川沿いの低地を表す方言「アクツ」に当てられた「圷」という字は、土偏に「下」を組み合わせて「塙」の反対語として作られたこの地方の創作文字だと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-hanawa-town-yurai
+  column:
+    title: 21日間だけ存在した「塙笹原町」
+    text: 昭和30年（1955年）3月10日、塙町と笹原村が合併して「塙笹原町」が生まれた。ところがわずか21日後の3月31日、今度は石井村・高城村の一部と合併して町名は再び「塙町」に戻った。合併の段取りが生んだ、福島県で最も短命な町名の一つである。最初の「塙」自体も数奇な運命をたどっている。1889年に常豊村へ合併されて名が消え、1948年の町制で復活した。一度消えて戻ってきた名が、もう一度消えかけてもどってきた、というわけである。
+    sources:
+    - w2-hanawa-kotobank-nipponica
+    - w2-hanawa-wiki
+  relations:
+  - pref/07
+  unknowns:
+  - 「塙」の文献上の初出は、専門辞典のオンライン公開範囲では近世（1644年の免状）までしか確認できなかった
+  - 「ハナワ＝台地の端」という方言説以外の語源説（人名・姓に由来する説など）の有無は未確認
+  - 茨城県大子町にも近世の塙村（現・大子町塙）があるが、現行自治体ではないため同名自治体としては扱っていない
+  updated: '2026-11-13'
+- id: muni/07-大熊町
+  code: '075451'
+  names:
+    ja: 大熊町
+    reading: おおくままち
+    aliases: []
+  user_terms:
+  - 福島第一原発の町
+  - 大野駅の町
+  - 梨の町
+  - 学び舎ゆめの森の町
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県浜通り中央部、双葉郡の町で、東京電力福島第一原子力発電所の1〜4号機が立地する。町名は昭和29年（1954年）に大野村と熊町村が合併して生まれたもので、「熊」の層は古く、奈良時代の『常陸国風土記』にみえる多珂国の北境の村「苦麻之村」が、町を流れる熊川の周辺に比定されるという説がある。中世から近世にかけてこの地は熊川と呼ばれ、熊川宿を中心に熊町村が成立していた。
+  first_attestation:
+    era: 和銅6年頃
+    year_western: 713
+    document: 『常陸国風土記』
+    note: 多珂国の北境の村「苦麻之村」が現在の大熊町・熊川周辺に比定されるという説を、大熊町公式の文化財保存活用地域計画と日本歴史地名大系が紹介するもの。比定は説であり、原文の直接確認はしていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、大熊町のコードは075451とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 大熊町公式の文化財保存活用地域計画と日本歴史地名大系は、『常陸国風土記』に記載のある「苦麻之村」（くまのむら）が、江戸時代に熊川宿が営まれた現在の熊川周辺に比定されるという説を紹介している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w2-okuma-town-plan
+    - w2-okuma-kotobank-taikei
+  - text: 日本歴史地名大系によれば、中世・近世を通じて当地の北は標葉郡で相馬領、南は楢葉郡で岩城領であり、近世には全村が相馬藩領で、熊川は浜街道の宿場・熊川宿として栄えた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-okuma-kotobank-taikei
+    - w2-okuma-wiki
+  - text: 領境紛争の名残として、町南端に小良浜（おらはま）、隣接する富岡町の北端に小良ヶ浜（おらがはま）の地名が残っている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-okuma-kotobank-taikei
+  - text: 明治22年（1889年）に、熊川村・熊村・夫沢村・小入野村・小良浜村の5村が合併して熊町村が、野上村・大川原村・下野上村の3村が合併して大野村が発足した。当時は標葉郡に属し、明治29年（1896年）に双葉郡となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-okuma-town-kyodo
+    - w2-okuma-wiki
+  - text: 昭和29年（1954年）11月1日、大野村と熊町村が合併して大熊町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-okuma-town-70th
+    - w2-okuma-town-kyodo
+  - text: 町名「大熊」は、大野村の「大」と熊町村の「熊」を合わせた合成名と解される。合併による発足の事実は公式資料で確認できるが、命名理由を明示した当時の資料は見つかっておらず、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w2-okuma-town-70th
+    - w2-okuma-town-kyodo
+  - text: 平成23年（2011年）の東京電力福島第一原子力発電所事故により全町民が避難し、町役場機能は一時会津若松市へ移った。避難指示は平成31年（2019年）以降、大野駅周辺や特定復興再生拠点区域などで順次解除されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-okuma-town-kyodo
+    - w2-okuma-wiki
+  column:
+    title: 二つの領地の境に残った「小良」の名
+    text: 大熊町の南のはしには小良浜（おらはま）、隣の富岡町の北のはしには小良ヶ浜（おらがはま）という地名が残る。日本歴史地名大系は、これらを相馬領と岩城領の領境紛争の名残とする。北は相馬、南は岩城という境界の緊張が、海岸の小さな地名の対になって今も残っているのである。古代に「苦麻の村」が多珂国の北境だったという比定説と重ねると、この土地は千年以上にわたって「境」の地であり続けたことになる。
+    sources:
+    - w2-okuma-kotobank-taikei
+    - w2-okuma-town-plan
+  relations:
+  - pref/07
+  - muni/07-富岡町
+  - muni/07-川内村
+  unknowns:
+  - 「大熊」が大野と熊町の一字ずつの合成であることを明示した公式資料・当時の記録は未確認（類推として記録）
+  - 『常陸国風土記』の「苦麻之村」の原文は直接確認しておらず、比定も説の段階にとどまる
+  - 福岡県にあった旧「大隈町」（読みは同じだが別字）や横浜市都筑区の大熊町は現行自治体ではないため、同名自治体としては扱っていない
+  updated: '2026-11-13'
+- id: muni/07-大玉村
+  code: 073229
+  names:
+    ja: 大玉村
+    reading: おおたまむら
+    aliases: []
+  user_terms:
+  - 大いなる田舎
+  - 安達太良山麓の村
+  - たまちゃんの村
+  - マチュピチュと友好都市の村
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通り中央部、安達太良山麓の扇状地に広がる村で、安達郡に属する唯一の自治体。村名は昭和30年（1955年）3月31日に大山村と玉井村が新設合併した際に生まれた名で、両村名の一字ずつを合わせた合成名と解される。「玉井」の層は江戸時代の二本松藩・玉井組にまで遡り、村内には源義家にまつわる「織井の清水」などの地名伝説が残る。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 二本松藩の組編成（玉井組）
+    note: 村名「大玉」としての初出は1955年の合併新設時。構成要素の「玉井」は、江戸時代に二本松藩の玉井組として編成された村名に確認できる（村公式「村の沿革」による）
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、大玉村のコードは073229とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和30年（1955年）3月31日、安達郡大山村と玉井村の新設合併により大玉村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-otama-vill-enkaku
+    - w2-otama-wiki
+  - text: 村名「大玉」は、大山村の「大」と玉井村の「玉」を合わせた合成名と解される。合併の事実は公式資料で確認できるが、命名理由を明示した当時の資料は見つかっておらず、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w2-otama-vill-enkaku
+  - text: 明治22年（1889年）の市町村制施行により、大江村と椚山村が合併して大山村が誕生し、玉井村とあわせた2村の体制が昭和30年の合併まで続いた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-otama-vill-enkaku
+  - text: 江戸時代、二本松藩の成立（1643年）後、この地域は玉井・下大江・大江新田・上大江・椚山・箕輪・原瀬・永田・深堀小屋の9ヵ村からなる玉井組に編成されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-otama-vill-enkaku
+  - text: 現在も村内には大山・玉井の両地区が残り、大山小学校・玉井小学校、大山幼稚園・玉井幼稚園の名に合併前の2村の名が生きている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-otama-wiki
+  - text: 玉井字織井（現・馬場）の「織井の清水」には、奥州平定に向かう源頼義・義家の側女であった織井御前が、産湯の水を求めて矢の根で掘ったところ清水が湧き出したという伝説があり、どんな旱にも枯れない清水として利用されてきたと『大玉村史』に基づき村の歴史文化基本構想が伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w2-otama-vill-kousou
+  - text: 同じく源義家にまつわる地名伝説として、軍馬を訓練した場所を「馬場」、義家が矢を放って森に落ちた場所を「矢中」と呼ぶようになったという言い伝えが村内に残る
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w2-otama-vill-kousou
+  column:
+    title: 絹の里に残る、機織りの伝説
+    text: 安達地方は古代から絹の産地で、「安達絹」は税の対象にもなった。『吾妻鏡』には、平泉の藤原氏が仏師に安達絹千疋を贈ったとあるという。この絹の里に残るのが、織井御前の伝説である。源義家の側女が清水を掘り当て、その水で織物を洗ったことから「織井の清水」と呼ばれるようになった、と村史は伝える。地名そのものの語源ではないが、「織」の字を抱く小字が、絹とともに生きた村の記憶を今に運んでいる。
+    sources:
+    - w2-otama-vill-kousou
+  relations:
+  - pref/07
+  unknowns:
+  - 「大玉」が大山と玉井の一字ずつの合成であることを明示した公式資料は未確認（類推として記録）
+  - 「玉井」の地名そのものの語源（「玉井の井戸」との関係を含む）は、専門資料で未確認
+  - 「大山」の語源も未確認
+  updated: '2026-11-13'
+- id: muni/07-天栄村
+  code: '073440'
+  names:
+    ja: 天栄村
+    reading: てんえいむら
+    aliases: []
+  user_terms:
+  - 羽鳥湖の村
+  - 天栄米の里
+  - 分水嶺の村
+  - 二岐温泉の村
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通り南部、岩瀬郡の村で、村域は奥羽山脈の分水嶺を挟んで太平洋側と日本海側にまたがる。村名は昭和30年（1955年）3月31日に湯本村・牧本村・大里村・広戸村（一部）が合併した際、村のほぼ中央に位置する天栄山（標高881メートル）にちなんで名付けられた。どの旧村の名でもない、真ん中の山の名を選んだ合併命名である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 合併による天栄村の発足（総理府告示）
+    note: 村名としての初出は1955年の合併時。由来となった山名「天栄山」の初出・由来は未確認
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、天栄村のコードは073440とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和30年（1955年）3月31日、湯本村・牧本村・大里村と広戸村の一部が合併して天栄村が発足した。広戸村の残りの区域は矢吹町へ編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tenei-pref-report
+    - w2-tenei-wiki
+  - text: 村名は、村のほぼ中央に位置する天栄山にちなんで、合併の際に名付けられたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tenei-vill-mountains
+    - w2-tenei-pref-report
+  - text: 天栄山は標高881メートルの山で、その昔、金山として採掘されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tenei-vill-mountains
+  - text: 村域は奥羽山脈の分水嶺である鳳坂峠を境に、太平洋側（阿武隈川水系）と日本海側（阿賀野川水系）にまたがり、古くは会津地方と中通り地方を結ぶ交通の要衝であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tenei-pref-report
+    - w2-tenei-wiki
+  - text: 合併前の湯本村・牧本村・大里村・広戸村の名は、現在も地区名・大字名などとして村内に残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tenei-wiki
+  - text: 村西部の二岐山（標高1,544メートル）には、昔、大男がこの山をまたいだという伝説が残っている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w2-tenei-vill-mountains
+  column:
+    title: 四つの村の「真ん中の山」の名
+    text: 1955年に四つの村が合併するとき、新しい村の名は、どの村の名からも採られなかった。選ばれたのは、村のほぼ中央に立つ天栄山の名である。合併では中心地の名が残ることが多いが、ここでは「真ん中にある山」という、どの村にも属さない共有のシンボルが選ばれた。天栄山はかつて金が採掘された山でもあり、山の名はそのまま、東西に長い新しい村の重心を示す名前になった。
+    sources:
+    - w2-tenei-vill-mountains
+    - w2-tenei-pref-report
+  relations:
+  - pref/07
+  unknowns:
+  - 「天栄山」という山名そのものの由来と文献上の初出は未確認
+  - 1955年の合併時に村名の候補がほかにあったかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/07-富岡町
+  code: '075434'
+  names:
+    ja: 富岡町
+    reading: とみおかまち
+    aliases:
+    - 富岡村
+  user_terms:
+  - 夜ノ森の桜の町
+  - 福島第二原発の町
+  - 小惑星トミオカマチの町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県浜通り中央部、双葉郡の町で、東京電力福島第二原子力発電所が立地する。この地が「富岡」と呼ばれるようになったのは戦国時代頃と考えられており、江戸時代には浜街道の富岡宿として栄えた。明治22年（1889年）の町村制で6村が合併して富岡村となった際、合併村のいずれの名でもない広域の地名「富岡」が村名に採用され、明治33年（1900年）に町制を施行した。「富」の字が付いた理由は資料では未詳である。
+  first_attestation:
+    era: 戦国時代頃
+    year_western: null
+    document: null
+    note: この地が「富岡」と呼ばれるようになったのは戦国時代頃と考えられている（岩城氏の所領だった時代）。具体的な初出文献は未確認で、江戸時代には浜街道の富岡宿として確認できる
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、富岡町のコードは075434とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: この地が「富岡」と呼ばれるようになったのは戦国時代頃と考えられており、当時は岩城氏の所領であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tomioka-wiki
+  - text: 江戸時代の富岡は浜街道の宿場（富岡宿）とその周辺村落からなる地域で、当初は磐城平藩領だったが、延享4年（1747年）に楢葉郡が幕領に編入された後は、幕領・棚倉藩領・多古藩領などに分割支配されて明治に至った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tomioka-glec
+    - w2-tomioka-wiki
+  - text: 明治22年（1889年）の町村制施行により、小浜村・小良ヶ浜村・毛萱村・上郡山村・下郡山村・仏浜村の6村が合併して富岡村が発足した。合併した村の中に「富岡」を名乗る村はなく、村名は戦国時代以来のこの地の呼称を引き継いだものと考えられる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tomioka-wiki
+    - w2-tomioka-glec
+  - text: 同時に発足した上岡村は、上手岡村・本岡村・大菅村からなり、その名は上手岡と本岡の「岡」を受け継いだものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tomioka-wiki
+  - text: 明治29年（1896年）に双葉郡が発足すると富岡村に郡役所が置かれ、明治33年（1900年）3月8日に富岡村は町制を施行して富岡町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tomioka-wiki
+  - text: 昭和25年（1950年）に上岡村が町制を施行して双葉町と改称し、昭和30年（1955年）3月31日に富岡町とその双葉町が合併して、改めて富岡町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tomioka-wiki
+    - w2-tomioka-futaba-old
+  - text: 現在の双葉町は、昭和31年（1956年）に標葉町が改称した別個の自治体であり、1955年に富岡町へ合併されて消滅した旧双葉町（旧上岡村、現在の富岡町西部）とは異なる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-tomioka-futaba-old
+  - text: 平成23年（2011年）の福島第一原子力発電所事故により町全域に避難指示が出されたが、平成29年（2017年）4月1日に北東部の帰還困難区域を除いて解除された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-tomioka-pref
+    - w2-tomioka-wiki
+  column:
+    title: 消えたはずの「双葉町」が残った理由
+    text: 1950年、上岡村は町制を施行して「双葉町」と名乗った。ところが5年後の1955年、この双葉町は富岡町と合併して地図から消えた。消えたはずの「双葉町」の名が今も残っているのは、翌1956年に、北隣の標葉町が「双葉町」へ改称したからである。つまり双葉町は一度消えて、別の町として生まれ変わった。現在の双葉町は旧標葉郡側にあり、消えた旧双葉町（現在の富岡町西部）は旧楢葉郡側にあった。同じ郡に同名の町が入れ替わった、全国でも珍しい事例である。
+    sources:
+    - w2-tomioka-futaba-old
+    - w2-tomioka-wiki
+  relations:
+  - pref/07
+  - muni/07-大熊町
+  - muni/07-川内村
+  unknowns:
+  - 「富岡」の「富」の字が付けられた理由・語源は、確認できる資料では未詳（戦国時代頃に呼称が成立したと考えられる段階）
+  - 明治22年（1889年）の富岡村発足時に、村名の選定経緯を記した当時の資料は未確認
+  - 群馬県富岡市とは読みが同じだが別の自治体で、地名の成立に直接の関係は確認されていないため同名自治体としては扱っていない
+  updated: '2026-11-13'
+- id: muni/07-小野町
+  code: '075221'
+  names:
+    ja: 小野町
+    reading: おのまち
+    aliases: []
+  user_terms:
+  - 小野小町生誕の地
+  - リカちゃんキャッスルの町
+  - 夏井千本桜の町
+  - 小町温泉の町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通り東部、阿武隈山系の田村郡の町。町名は古代の郷名「小野郷」に遡り、小野町公式によればその名は『和名類聚抄』に見える。一方で、この地を治めた小野篁の名にちなむという言い伝えや、篁の娘とされる小野小町の生誕伝説があり、町自身が「記録は残されていない」と断ったうえで伝説として紹介している。昭和30年（1955年）に小野新町・飯豊村・夏井村が合併して小野町となった。
+  first_attestation:
+    era: 承平年間（10世紀前半）
+    year_western: null
+    document: 『和名類聚抄』
+    note: 町公式が「小野郷の地名は倭名抄（和名類聚抄）にある」と紹介するもの（二次資料経由の確認）。田村郡の郷名としての初出
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、小野町のコードは075221とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 小野町公式によれば、「小野郷」の地名は『和名類聚抄』（倭名抄）に見え、古代の田村郡の郷としてこの地の名が記録されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-ono-town-gaiyou
+  - text: 町公式の歴史解説は、この一帯が以前は「七里ヶ沢」と呼ばれていたことが分かっているとしている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-ono-town-gaiyou
+  - text: 坂上田村麻呂の東征の後、救民撫育使として当地方を治めた小野篁（おののたかむら）の名にちなんで「小野」と名付けられたという言い伝えがあり、この地域を「小野六郷」と呼ぶ呼称も残っている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w2-ono-town-gaiyou
+  - text: 小野篁と、この地の娘・愛子（珍敷御前）との間に生まれた比古姫が、都へ上って後の小野小町になったという生誕伝説を町は「わがまちの説」として紹介している。ただし町自身が、比古姫が生まれ育ったことを示す記録は残されていないと明記している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w2-ono-town-komachi
+  - text: 明治22年（1889年）に飯豊村・小野新町村・夏井村が発足し、明治29年（1896年）に小野新町村が小野新町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-ono-wiki
+  - text: 昭和30年（1955年）2月1日、小野新町・飯豊村・夏井村が合併して小野町が誕生した。町名は古代以来の「小野」の名を継いだもの
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-ono-wiki
+    - w2-ono-town-gaiyou
+  - text: 現在も磐越東線の駅名には合併前の中心町の名「小野新町駅」が残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-ono-wiki
+  column:
+    title: 「記録は残されておりません」と書く町の正直さ
+    text: 小野小町の生誕地を名乗る土地は全国にいくつもある。小野町の公式ページが面白いのは、篁と愛子のロマンスを情感たっぷりに語った直後に、「残念なことに比古姫が生まれ育ったことを示す記録は残されておりません」とはっきり書いていることである。それでも、篁を祀る矢大神社や「たかむら踊り」が今も町に生きているのは事実で、町は伝説を史実と偽らず、「ロマンが生きる土地」として大切にしている。伝説と事実の線引きを自治体自身が引いている好例である。
+    sources:
+    - w2-ono-town-komachi
+    - w2-ono-town-gaiyou
+  relations:
+  - pref/07
+  - muni/28-小野市
+  unknowns:
+  - 『和名類聚抄』の小野郷の原文は直接確認しておらず、町公式の紹介による
+  - 小野篁がこの地を治めたという伝承を裏づける同時代の記録は確認されていない
+  - 小野小町の出生地については秋田県湯沢市小野などにも伝承があり、本町の伝説も史実としては確認できない
+  updated: '2026-11-13'
+- id: muni/07-川俣町
+  code: 073083
+  names:
+    ja: 川俣町
+    reading: かわまたまち
+    aliases:
+    - 川俣村
+  user_terms:
+  - 絹の町かわまた
+  - 川俣シルク
+  - コスキン・エン・ハポネスの町
+  - おてひめ様の町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通り北部、伊達郡の町で、古くから絹織物の産地として栄えた。町名「川俣」は中世から見える地名で、表記は河俣・河股・川股・川又などと揺れた。町公式は由来に2説を紹介する。広瀬川と五十沢川が合流する「川股」の地形にちなむ説と、養蚕の祖・小手子姫の郷里である大和国川俣にちなむ説である。明治22年（1889年）に町制を施行し、昭和30年（1955年）に1町7村の合併で現在の町域となった。
+  first_attestation:
+    era: 文保2年
+    year_western: 1318
+    document: 紀州根来寺関係の記録
+    note: 日本歴史地名大系「川俣」項が、文保2年（1318年）から元亨3年（1323年）にかけての根来寺関係の記録を用例として紹介するもの（二次資料経由の確認）。中世の地名としての用例で、表記は一定しなかった
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、川俣町のコードは073083とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式は地名のおこりの一つとして、町を流れる広瀬川（小手川）と、富田村より流れる五十沢川が合流する地域（川股）の形状から、以来これを川股と称したという説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w2-kawamata-town-naritachi
+  - text: もう一つの説として町公式は、この地域が養蚕・機織りの祖とされる「小手子姫」の伝承を持つ「小手郷」と呼ばれていたことから、小手子姫の郷里である大和国（奈良県）高市郡川俣の里にちなんで名付けられたという説を紹介している
+    kind: legend
+    level: E2
+    status: contested
+    sources:
+    - w2-kawamata-town-naritachi
+  - text: 日本歴史地名大系によれば、「川俣」は中世から登場する地名で、河俣・河股・川股・川又などとさまざまに記され、その範囲も広狭さまざまであった。文保2年（1318年）から元亨3年（1323年）にかけて紀州根来寺との関係の記録に現れる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-kawamata-kotobank
+  - text: 元禄から宝永頃（17世紀末〜18世紀初）の「小手郷村々書上帳」（高橋家文書）には「川又と申儀ハ飯坂、鶴田、小綱木、五十沢、此四ケ村相名に御座候」とあり、「川俣」は4村の総称（相名）として使われる広域地名でもあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w2-kawamata-kotobank
+  - text: 古代末から中世にかけて、川俣地方は「小手保」と呼ばれる奈良・興福寺の荘園として栄え、室町時代の初めには川俣氏がこの地を支配していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawamata-town-naritachi
+  - text: 明治9年（1876年）に町飯坂村と町小綱木村が合併して川俣村となり、明治22年（1889年）に町制を施行して川俣町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawamata-town-itaru
+  - text: 昭和30年（1955年）3月1日、町村合併促進法により、川俣町・富田村・福田村・小島村・飯坂村・小綱木村・大綱木村と安達郡山木屋村の1町7村が合併して、現在の川俣町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawamata-town-naritachi
+  - text: 川俣では慶長年間（1596〜1615年）から生糸や絹織物の市が立ち、江戸城御用の川俣絹を生産する有数の絹織物産地に発展した。元禄16年（1703年）には川俣代官所が創設された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawamata-town-naritachi
+  column:
+    title: 小手姫のふるさとは、大和の川俣か川の股か
+    text: 川俣の名の由来には、土地の形から来たという説と、遠い大和の国から来たという説が並び立つ。後者は、養蚕と機織りの祖とされる小手子姫の伝説に結びつく。この一帯は中世、奈良の興福寺の荘園「小手保」だった土地で、絹の町として栄えた歴史が伝説の背景にある。町の公式キャラクターは今も「おてひめ様」である。川の合流点という地形の名か、絹の姫の郷里の名か。どちらか一方に決められないまま、町は両説を公式に併記している。
+    sources:
+    - w2-kawamata-town-naritachi
+    - w2-kawamata-kotobank
+  relations:
+  - pref/07
+  - muni/07-国見町
+  unknowns:
+  - 2つの語源説のどちらが正しいかは、現行の資料では決められない
+  - 大和国高市郡の「川俣の里」の現在の所在地の特定は未確認
+  - 中世の「川俣」の表記のうち最古の用例の原文は直接確認しておらず、日本歴史地名大系の紹介による
+  updated: '2026-11-13'
+- id: muni/07-川内村
+  code: '075442'
+  names:
+    ja: 川内村
+    reading: かわうちむら
+    aliases:
+    - 上川内村
+    - 下川内村
+  user_terms:
+  - 天山文庫と草野心平の村
+  - モリアオガエルの村
+  - 無税の村だった川内
+  - かえるかわうち
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県浜通り、双葉郡の村で、阿武隈高地の中央部に位置し木戸川が村の中央を貫流する。村名は古く、鎌倉時代にはすでに「かわうち」と呼ばれていたと村公式は述べる。明治22年（1889年）に上川内村と下川内村が合併して川内村となり、その後一度も合併していない。「川内」は川の内側の地を指す地形地名と考えられるが、村公式には語源の直接の説明がない。福島第一原発事故では全村避難を経験し、避難自治体で最初の帰村宣言を行った。
+  first_attestation:
+    era: 文禄4年
+    year_western: 1595
+    document: 豊臣政権下の岩城領検地（文禄検地）
+    note: Wikipediaが村の歴史記述として紹介するもの（二次資料経由・E5）。この検地で楢葉郡上川内村・下川内村が記録されたとされる。村公式は鎌倉時代から「かわうち」と呼ばれていたと述べるが、具体的な文書名は示されていない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」では、川内村のコードは075442とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 村公式の歴史によれば、鎌倉時代の「かわうち」は一寒村にすぎず、源頼朝が奥州平泉の藤原氏を討ったのち、「かわうち」は岩城氏の所領となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawauchi-village-about
+  - text: 文禄4年（1595年）の豊臣政権下の検地によれば、楢葉郡上川内村・下川内村の高数は合わせて八百十石余であった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-kawauchi-wiki
+  - text: 「川内」は川の内側、川に沿った内陸の地を指す地形地名と考えられる。木戸川が大滝根山の北麓に源を発して村の中央平地を南下し、耕地がその流域に開ける村の地形と符合するが、村公式や専門辞典に語源の直接の説明は見当たらない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w2-kawauchi-village-about
+  - text: 明治6年（1873年）になると「川内」は磐前県第二大区第四小区に属し、俗に「山楢葉」と呼ばれるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawauchi-village-about
+  - text: 明治22年（1889年）4月、町村制の実施により上川内村と下川内村が合併し、現在の川内村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w2-kawauchi-village-about
+  - text: 川内村は明治22年の誕生以来、昭和の大合併でも平成の大合併でも一度も他自治体と合併しておらず、村域は130年以上変わっていない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-kawauchi-wiki
+  - text: 村有林の収益が大きかった川内村は、昭和2年（1927年）に全国にもまれな村税の廃止を行い「無税の村」として知られた。また木炭は五十万俵を生産し、日本一の生産量を誇った時期があった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-kawauchi-wiki
+  - text: 福島第一原子力発電所事故により、平成23年（2011年）3月に全村民が避難を余儀なくされた。村は平成24年（2012年）1月に避難した自治体の中で最初の「帰村宣言」を行い、平成28年（2016年）6月14日に村全域の避難指示が解除された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w2-kawauchi-wiki
+  column:
+    title: カエルの詩人が愛した山の村
+    text: 川内村と詩人・草野心平の縁は、平伏沼のモリアオガエルから始まった。長福寺の住職が天然記念物のモリアオガエルを案内したことがきっかけで、心平は昭和28年（1953年）に来村し、村人と深く交わった。心平はカエルを詠んだ詩人として知られ、昭和35年（1960年）に川内村の名誉村民となり、その蔵書を納めた天山文庫が村民の参加で建てられた。毎年7月には文庫の落成を記念する天山祭りが開かれる。木戸川の谷あいの山村の名は、詩人の名とともに全国に知られるようになった。
+    sources:
+    - w2-kawauchi-youran
+    - w2-kawauchi-wiki
+  relations:
+  - pref/07
+  - muni/07-富岡町
+  - muni/07-大熊町
+  unknowns:
+  - 「川内」の語源を直接説明した村公式・専門辞典の資料は確認できておらず、地形地名としての説明は類推の水準にとどまる
+  - 鎌倉時代に「かわうち」と呼ばれていたことを示す具体的な文書名は、村公式にも示されていない
+  - 鹿児島県にあった川内市（現・薩摩川内市）など「川内」を含む他地域の地名との関係はないが、読みの異なる同形地名である点は区別が必要
+  updated: '2026-11-13'
+- id: muni/07-平田村
+  code: '075035'
+  names:
+    ja: 平田村
+    reading: ひらたむら
+    aliases:
+    - 蓬田村
+    - 小平村
+  user_terms:
+  - あぶくま高原の村
+  - ジュピアランドひらた（芝桜の村）
+  - ひらた
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 石川郡の村で、いわき市と郡山市のほぼ中間に位置する。明治22年（1889年）に7か村が合併して蓬田村、6か村が合併して小平村となり、昭和30年（1955年）3月31日に両村が合併して現在の平田村が成立した。村名は小平の「平」と蓬田の「田」の合成と解釈するのが自然だが、命名理由を明示した資料は確認できていない。なお名前に「平」の字を含むものの、村の全域は阿武隈山系の標高500〜700メートルの山間地帯である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 市町村合併促進法に基づく蓬田村・小平村の合併による平田村の成立（村公式統計書『平田村のすがた』の沿革）
+    note: 「平田」は合併に伴う新村名として現れたもの。構成村の旧地名（小平・蓬田）はそれ以前から存在した
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、平田村の団体コードは075035と定められている。福島県市町村要覧2026にも同コードで収載されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+    - w3-hirata-fksm-youran
+  - text: 村公式統計書『平田村のすがた』の沿革によれば、明治22年（1889年）に上蓬田・下蓬田・蓬田新田・九生滝・鴇子・永田・小松原の7か村が合併して蓬田村に、小平・西山・東山・北方・駒形・中倉の6か村が合併して小平村となり、昭和30年（1955年）3月31日に両村が合併して現在の平田村が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirata-vill-sugata
+  - text: 村の沿革は、往古の村域は陸奥国白河郡石川郷に属し、12世紀はじめに石川地方を開発した在地領主・石川氏の支配下にあったと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirata-vill-sugata
+  - text: 江戸時代の村域は領地が入り組み、寛政2年（1790年）には上蓬田・下蓬田・蓬田新田・九生滝・鴇子・駒形・小平・西山・上東山の9か村が土浦領となり、残りは幕府領のまま明治維新を迎えたと、村の沿革は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirata-vill-sugata
+  - text: 村名「平田」は、合併した小平村の「平」と蓬田村の「田」を合わせた合成地名と考えられる。ただし命名の理由を明示した村公式の説明は確認できておらず、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w3-hirata-vill-sugata
+  - text: 村公式統計書の「地勢」は、村の全域が阿武隈山系の中にあり、蓬田岳・芝山をはじめ標高500〜700メートルのなだらかな山間地帯であると記す。村名の「平」は平野を意味しない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirata-vill-sugata
+  column:
+    title: 「平」なのに、山の中の村
+    text: 「平田」と聞くと、平らな田園が広がる村を思い浮かべる。しかし平田村は阿武隈山系の真ん中にあり、村のどこにいても標高は数百メートルある。名の「平」は地形ではなく、1955年に合併した二つの村のうちの一つ、小平村から来ているとみられる。もう一方の蓬田村からは「田」が来たと考えられる、両村の名前を一字ずつ継ぐ合併村の命名である。村のシンボルは、芝山に広がる芝桜の園「ジュピアランドひらた」で、その景色を見れば「平」の字との落差がよく分かる。なお蓬田村の名は、村の北西端にある蓬田岳に今も残っている。
+    sources:
+    - w3-hirata-vill-sugata
+  relations:
+  - pref/07
+  unknowns:
+  - 村名「平田」の命名理由を明示した資料（合併協議の記録等）は未確認。合成地名という解釈は類推にとどまる
+  - 構成村の一つ「蓬田」・「小平」それぞれの地名の語源は未確認
+  updated: '2026-11-13'
+- id: muni/07-広野町
+  code: 075418
+  names:
+    ja: 広野町
+    reading: ひろのまち
+    aliases:
+    - 広野村
+    - 広野宿
+  user_terms:
+  - Jヴィレッジのある町
+  - 東北に春を告げるまち
+  - ひろの
+  naming_type: その他（中心集落名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 双葉郡の南端、太平洋に面する町。明治22年（1889年）4月1日に夕筋・折木・上浅見川・下浅見川・上北迫・下北迫の6か村が合併して広野村となり、昭和15年（1940年）4月1日に町制を施行して広野町となった。村名は、合併当初に「広野村」とも呼ばれていた下北迫村に村役場が置かれたことに由来すると町公式は説明する。地名としての「広野」は天正10年（1582年）の「北迫村に広野立つ」という記録が初見とされ、江戸時代初期には浜街道の宿駅「広野宿」が設けられた。
+  first_attestation:
+    era: 天正10年
+    year_western: 1582
+    document: 岩城常隆の頃の記録「北迫村に広野立つ」（広野町公式「広野町の成り立ち」が初見として紹介）
+    note: 町公式の説明に基づく記録。原資料の書名は未確認
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、広野町の団体コードは075418と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+  - text: 明治22年（1889年）4月1日、夕筋・折木・上浅見川・下浅見川・上北迫・下北迫の6か村が合併して広野村が形成され、昭和15年（1940年）4月1日に町制を施行して広野町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirono-town-origin
+    - w3-hirono-fksm-youran
+  - text: 村名「広野村」の由来について町公式は、合併当初に「広野村」とも呼ばれていた下北迫村に村役場が置かれていたことによると説明する。つまり新村名は、役場所在地の通称にあった「広野」の名を採ったものとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirono-town-origin
+  - text: 地名としての「広野」の初見は、天正10年（1582年）に岩城常隆の頃「北迫村に広野立つ」とあるのが初見とされている（町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirono-town-origin
+  - text: 江戸時代の初期には、南方の岩城平から北方の相馬中村へ至る浜街道（相馬路）の宿駅として「広野宿」が設けられ、「広野」の名が使われた（町公式）。ブリタニカも、中心地区の広野は陸前浜街道の宿駅だったとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirono-town-origin
+    - w3-hirono-kotobank-town
+  - text: 日本歴史地名大系によれば、鎌倉時代のこの一帯は楢葉氏の支配下にあったと思われ、室町時代には岩城氏の家臣・猪狩氏が高倉山に居館を構えて勢力を張った
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-hirono-kotobank-town
+  - text: 福島第一原子力発電所事故により広野町は役場機能の町外移転を余儀なくされ、約5,000人の町民が町外への避難生活を強いられた。町の人口は震災時点で5,490人だったが、2011年12月末時点の町内生活者は242人にとどまった（町復興計画・復興庁資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hirono-reconstruction
+    - w3-hirono-fukko-plan
+  column:
+    title: 役場のあった村の通称が、町の名になった
+    text: 1889年の合併で生まれた村の名は、6か村のどれか一つの正式な村名ではなかった。「広野」は下北迫村の通称であり、たまたまそこに村役場が置かれたために、新しい村全体の名前になったという。もっとも、その通称自体は古く、1582年の記録にすでに「広野」が現れ、江戸時代には浜街道の宿場として「広野宿」を名乗っていた。正式な地名ではなかった「広野」が、宿場の名として育ち、通称として残り、最後に自治体の名に昇格したという三段の経歴は、地名の生まれ方の素朴な一例である。
+    sources:
+    - w3-hirono-town-origin
+  relations:
+  - pref/07
+  unknowns:
+  - 「広野立つ」という1582年の記録の原資料の書名・性格は未確認
+  - 地名「広野」の語源（「広い野」の地形に由来するかどうか）を明示する資料は未確認
+  - 緊急時避難準備区域の指定・解除の正確な日付は、町公式の年表では未確認
+  updated: '2026-11-13'
+- id: muni/07-新地町
+  code: '075612'
+  names:
+    ja: 新地町
+    reading: しんちまち
+    aliases:
+    - 新地村
+    - 新地城
+  user_terms:
+  - 鹿狼山の町
+  - 福島で唯一仙台藩だった町
+  - しんち
+  naming_type: その他（古地名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県の太平洋側最北端、相馬郡の町。明治22年（1889年）に福田・新地・駒ケ嶺の3村が誕生し、昭和29年（1954年）に3村が合併して新地村となり、昭和46年（1971年）に町制を施行して新地町となった。「新地」の名は古く、戦国時代には伊達政宗に攻略された新地城の名として見える。もっとも、名の由来そのものを明示する資料は確認できていない。藩政時代、この一帯は現在の福島県内で唯一の仙台藩領で、方言も仙台弁地域に分類される。
+  first_attestation:
+    era: 戦国時代
+    year_western: null
+    document: 伊達政宗に攻略された「新地城」の名として（新地町長の随想が紹介）
+    note: 地名としての「新地」の古い用例。具体的な年次と史料名は未確認
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、新地町の団体コードは075612と定められている。福島県市町村要覧2026にも同コードで収載されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+    - w3-shinchi-fksm-youran
+  - text: 明治22年（1889年）の町村制で福田・新地・駒ケ嶺の3か村が誕生し、昭和29年（1954年）に3か村が合併して新たに新地村が誕生、昭和46年（1971年）に町制を施行したと、新地町長は全国町村会の随想に記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-shinchi-mayor-essay
+  - text: 1889年の新地村は、谷地小屋村・今泉村・小川村・杉目村・大戸浜の5か村が合併して宇多郡に発足したもので、1896年に宇多郡と行方郡の合併で相馬郡の所属となった。1954年の合併は8月20日、町制施行は1971年8月1日とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-shinchi-wiki
+  - text: ブリタニカ国際大百科事典は新地・福田・駒ヶ嶺の合併を1951年とするが、町長随想とWikipediaはいずれも1954年（昭和29年）としており、本レコードは1954年を採る
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w3-shinchi-kotobank-town
+    - w3-shinchi-mayor-essay
+  - text: 戦国時代、この地は伊達氏と相馬氏の政争の地となり、伊達政宗によって駒ケ嶺・新地の両城が攻略され、以後は伊達領（仙台藩領）となって明治維新を迎えた。「新地」の名はこの新地城の名として戦国期に見える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-shinchi-mayor-essay
+  - text: 藩政時代の当地は、現在の福島県内において唯一の仙台藩領であり、中村藩領だった相馬市とは文化・習俗が異なり、方言学でも仙台弁地域に分類される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-shinchi-wiki
+  - text: 近世の新地は陸前浜街道の宿駅として発展した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-shinchi-kotobank-town
+  - text: 東日本大震災の津波で、町域の約5分の1にあたる9.04平方キロメートルが浸水し、全半壊630戸の被害を受けた。津波で流失したJR新地駅は内陸に移設され、2016年に運転を再開した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-shinchi-mayor-essay
+  column:
+    title: 県境を越えた「仙台の町」
+    text: 新地町は福島県の町でありながら、江戸時代を通じて仙台藩領だった。現在の福島県域で仙台藩領だったのはここだけである。隣の相馬市が相馬中村藩領だったため、両者の間には藩境が走り、今も新地では相馬野馬追に参加せず、方言は仙台弁の地域に入り、仙台のテレビも映る。県境という行政の線と、藩領という歴史の線がずれている好例で、「新地」という名もまた、相馬氏と伊達氏の境目の城の名として戦国期に現れたものだった。
+    sources:
+    - w3-shinchi-wiki
+    - w3-shinchi-mayor-essay
+  relations:
+  - pref/07
+  unknowns:
+  - 「新地」という地名そのものの語源・命名理由（新しく開かれた土地の意かどうかを含む）は、明示する資料が未確認
+  - 新地城の攻略年次と、その史料上の初出は未確認
   updated: '2026-11-13'
 - id: muni/07-昭和村
   code: '074462'
@@ -630,6 +2538,914 @@ records:
   - 旧名「本目（もとめ）」の語源は確認できていない
   - 「本宮」の名の中世文書における用例（文献上の初出）は確認できていない
   - 新市名選定の公式記録（合併協議会の資料）の原文は確認できておらず、変遷データベースの整理に拠った
+  updated: '2026-11-13'
+- id: muni/07-柳津町
+  code: '074233'
+  names:
+    ja: 柳津町
+    reading: やないづまち
+    aliases:
+    - 楊津
+    - 柳津村
+  user_terms:
+  - 赤べこ発祥の地
+  - 円蔵寺の門前町
+  - 会津柳津
+  - やないづ
+  naming_type: その他（古地名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 只見川下流の右岸に開けた、福満虚空蔵菩薩・円蔵寺の門前町。地名の古い表記は「楊津」で、柳津町史が依拠する縁起資料も『楊津秘録』と題する。円蔵寺は大同2年（807年）に徳一が創建したと伝えられ、以後、信仰の町として発達した。近代では明治22年（1889年）の柳津村に始まり、昭和17年（1942年）に町制を施行、昭和30年（1955年）に大沼郡西山村と合併して現在の町域となった。大地震後の虚空蔵堂再建を赤毛の牛が助けたという伝説から「赤べこ発祥の地」を名乗る。
+  first_attestation:
+    era: 大同2年
+    year_western: 807
+    document: 「稲河荘楊津円蔵寺」の創建伝承（『会津旧事雑考』が伝えると日本歴史地名大系「柳津村」項が紹介。用例の表記は「楊津」）
+    note: 寺の創建にまつわる伝承上の初出であり、同時代史料による使用例ではない。二次資料経由の紹介として記録したもの
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、柳津町の団体コードは074233と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+  - text: 明治22年（1889年）に柳津村・大柳村・細八村が合併して柳津村が発足し、大正10年（1921年）に倉戸村・飯谷村と合併したとされる。歴史的行政区域データセットでも、大正期に倉戸村・飯谷村が柳津村側へ取り込まれる変遷が読み取れる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yanaizu-wiki
+    - w3-yanaizu-geoshape
+  - text: 昭和17年（1942年）5月20日に町制を施行して柳津町となり、昭和30年（1955年）3月31日に大沼郡西山村と合併して、郡をまたぐ現在の町域となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-yanaizu-kotobank-taikei
+    - w3-yanaizu-fksm-youran
+  - text: 柳津町史は『楊津秘録』『虚空蔵縁起』などに基づき、大同2年（807年）に法相宗の僧徳一が福満虚空蔵菩薩を祀ったという円蔵寺の縁起を記す。この時代の地名表記は「楊津」であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yanaizu-townshi-kanko
+  - text: 柳津は日本三虚空蔵の一つとされる円蔵寺の門前町として発達し、古くは宿坊が軒を連ね、現在は旅館に姿を変えて柳津温泉街をなしていると、町公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yanaizu-town-profile
+    - w3-yanaizu-kotobank-taikei
+  - text: 柳津町史は『新編会津風土記』を引き、大同年中に虚空蔵堂を造営したとき、この地に小屋を構えて工匠の居所としたのが小柳津村の起こりで、柳津村に対して小柳津と名づけたと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yanaizu-townshi-shuraku
+  - text: 柳津町史は、只見川が山嶺の交通から川沿いの交通へ移る要路にあたることから、柳津を「只見川の玄関的集落」であり、会津藩の蔵入地への関門をなす要衝だったと位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-yanaizu-townshi-fudo
+  - text: 慶長16年（1611年）の大地震で虚空蔵堂をはじめ僧舎・民家が倒壊した。元和3年（1617年）に虚空蔵堂を現在の場所に再建する際、大材の運搬に困り果てていたところ、どこからともなく力強そうな赤毛の牛の群れが現れて、苦労していた黒毛の牛を助けたという。この赤毛の牛が「赤べこ」の由来と伝わり、町は「赤べこ伝説発祥の地」を名乗る
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w3-yanaizu-mayor
+    - w3-yanaizu-kanko-akabeko
+  column:
+    title: 地震のあとに現れた赤い牛
+    text: 1611年の慶長会津地震は、柳津の虚空蔵堂もろとも町を倒壊させた。その6年後の再建工事で、岩の上まで大材を運び上げる難所に、どこからともなく赤毛の牛の群れが現れて力を貸した――これが赤べこ伝説の筋である。一生懸命に働いた赤い牛は、やがて張り子の郷土玩具「赤べこ」になり、首を振る姿が忍耐と福の象徴として会津一円に広がった。伝説は伝説だが、大地震と復興という町の実体験に根ざしている点で、柳津の赤べこは単なる土産物の意匠ではない。円蔵寺の境内には今も「撫牛」が祀られ、伝説の牛は町の中で生き続けている。
+    sources:
+    - w3-yanaizu-kanko-akabeko
+    - w3-yanaizu-mayor
+  relations:
+  - pref/07
+  unknowns:
+  - 「やないづ」という語そのものの語源（古表記「楊津」の「楊」の意味づけ、「津」が只見川の河港・渡しを指すという説明）を明示する専門資料は、今回の調査では未確認
+  - 「楊津」から現在の「柳津」へ表記が改まった時期と経緯は未確認
+  - 1889年の柳津村発足の合併構成（柳津村・大柳村・細八村）は町公式資料では未確認で、Wikipediaの記述と歴史的行政区域データセットの変遷による傍証にとどまる
+  updated: '2026-11-13'
+- id: muni/07-桑折町
+  code: '073016'
+  names:
+    ja: 桑折町
+    reading: こおりまち
+    aliases:
+    - 桑折郷
+    - 桑折宿
+  user_terms:
+  - 献上桃の郷
+  - 桑折宿の町
+  - こおり
+  naming_type: その他（古地名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 奥州街道の宿場町・桑折宿を中心に発達した伊達郡の町。「桑折」の地名は鎌倉時代の永仁5年（1297年）の関東下知状（伊達家文書）に「桑折郷」とみえる。桑折周辺は古代の信夫郡、のちの伊達郡の郡衙の所在地と推定される地域で、東隣には上郡・下郡という郡にちなむ地名も残る。ただし「こおり」の読みの語源を明示する資料は確認できておらず、「郡（こおり）に関連する」という説明は同名の宮城県大崎市三本木の桑折について語られるもので、混同に注意が要る。明治22年（1889年）に町制を施行し、昭和30年（1955年）に睦合村・半田村・伊達崎村と合併して現在の町となった。
+  first_attestation:
+    era: 永仁5年
+    year_western: 1297
+    document: 関東下知状（伊達家文書。伊達郡内「桑折郷田在家」とみえる。日本歴史地名大系が紹介）
+    note: 二次資料（日本歴史地名大系）経由の紹介として記録したもの
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、桑折町の団体コードは073016と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+  - text: 明治22年（1889年）に町制を施行した桑折町は、昭和30年（1955年）1月1日に睦合村・半田村・伊達崎村と合併して現在の桑折町となった。平成の大合併では近隣との合併が模索されたが、結果的に単独立町の道を歩んだと町公式は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-koori-town-rekimachi
+    - w3-koori-fksm-youran
+  - text: 日本歴史地名大系によれば、永仁5年（1297年）9月13日の関東下知状（伊達家文書）に伊達郡内「桑折郷田在家」とみえ、これが桑折の名の文献上の早い用例である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-koori-kotobank-village
+  - text: 日本歴史地名大系は、桑折の町場から桑島にかけての地域について、東隣の上郡・下郡地区と合わせて古代の信夫郡、のちには伊達郡の郡衙の所在地と推定され、『延喜式』兵部省にみえる東山道の「伊達駅」の所在地とする説もあると紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-koori-kotobank-village
+  - text: 桑折氏は伊達氏の庶流で、鎌倉時代から南北朝時代にかけて桑折郷を安堵された記録が伊達家文書などに残る（日本歴史地名大系）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-koori-kotobank-village
+  - text: 近世の桑折は奥州街道の宿場町（桑折宿）として、また日本三大銀山の一つと称された半田銀山を背後に控え、付近の幕府領を管理する陣屋も置かれて繁栄した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-koori-kotobank-town
+  - text: 【異なる層】「桑折の地名は郡（こおり）に関連し、養蚕が盛んで桑が多かったため『桑折』の字を当てた」という説明は、日本歴史地名大系では宮城県大崎市三本木の桑折について『三本木町誌』を引いて記されるものであり、福島県の桑折町の語源として確認された説明ではない
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-koori-kotobank-village
+  - text: 福島の桑折でも、郡衙の推定地であり上郡・下郡の地名が隣接することから、「こおり」の読みが「郡」と無関係ではない可能性がある。ただし読みと郡を直接結びつける資料は確認できていないため、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w3-koori-kotobank-village
+  column:
+    title: 二つの「こおり」桑折
+    text: 「桑折（こおり）」という地名は、宮城県大崎市三本木にもある。そちらの桑折については、「地名は郡（こおり）に関連し、桑が多かったので『桑折』の字を当てた」という説明が町誌に伝わる。一方、福島の桑折は郡衙の推定地で、隣には今も上郡・下郡の地名が残るのに、読みの由来を明示する資料は見つからない。同名の二つの桑折は、語源の説まで一緒に語られがちだが、根拠のある層はそれぞれ別である。福島側の「こおり」の正体は、郡の中心だったという土地の記憶そのものかもしれないが、それはまだ推測の域を出ない。
+    sources:
+    - w3-koori-kotobank-village
+  relations:
+  - pref/07
+  unknowns:
+  - 福島県桑折町の「こおり」の読みの語源を直接説明する資料（町史『桑折町史』の地名考など）は未確認
+  - 永仁5年（1297年）より古い「桑折」の用例の有無は未確認
+  updated: '2026-11-13'
+- id: muni/07-棚倉町
+  code: 074811
+  names:
+    ja: 棚倉町
+    reading: たなぐらまち
+    aliases:
+    - 伊野
+    - 棚倉城下
+  user_terms:
+  - 棚倉城（亀ヶ城）の城下町
+  - 陸奥一宮・都々古別神社の町
+  - たなぐら
+  naming_type: その他（城名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 久慈川の河岸段丘に開けた棚倉城の城下町。地名の由来には二つの説がある。一つは、元和8年（1622年）に入部した丹羽長重が近津明神を遷宮し、その御玉棚をつるした跡地に築いた城を「棚倉城」と称したことに由来するという説。もう一つは、この地は『和名類聚抄』の白河郡入野郷に比定され、古くは「伊野」とも称し、穀を蓄える種倉があったことからの地名ともいう説である。城以前の中心は赤館で、伊達・佐竹・結城の攻防の地だった。明治22年（1889年）に町制を施行し、昭和30年（1955年）に社川村・高野村・近津山岡組合村と合併して現在の町となった。
+  first_attestation:
+    era: 元和8年
+    year_western: 1622
+    document: 丹羽長重の棚倉入部と棚倉城の命名（日本歴史地名大系「棚倉町」項の説明として）
+    note: 町名の初出を城の命名に求める説に基づく記録。もう一方の種倉説では名の成立が古代に遡るとされるが、「棚倉」の古代の用例は未確認
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、棚倉町の団体コードは074811と定められている。福島県市町村要覧2026にも同コードで収載されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+    - w3-tanagura-fksm-youran
+  - text: 明治22年（1889年）に町制を施行した棚倉町は、昭和30年（1955年）に社川村・高野村・近津山岡組合村と合体して現在の町域となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-tanagura-kotobank-town
+  - text: 日本歴史地名大系によれば、町名は、元和8年（1622年）に入部した丹羽長重が近津明神を遷宮して、その跡地（もと同社の御玉棚をつるした所）に築城して棚倉（城）と称したことに由来するという
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w3-tanagura-kotobank-town
+  - text: 一方、日本歴史地名大系は『東白川郡史』を引き、当地は『和名類聚抄』の白河郡入野郷に比定され、古くは伊野（いの）とも称し、穀を蓄える種倉があったことからの地名ともいうと紹介している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w3-tanagura-kotobank-town
+  - text: 棚倉城ができる前は赤館がこの地方の中心で、伊達氏・佐竹氏と白川の結城氏などの攻防が続き、最後は佐竹氏が棚倉地方を支配したと、町公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-tanagura-town-castle
+  - text: 棚倉にはまず北九州の立花宗茂が領主として入り、元和8年（1622年）に丹羽長重が5万石の棚倉領主となり、寛永元年（1624年）の幕府の命令により棚倉城の築城が進められた（町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-tanagura-town-castle
+  - text: 棚倉は河岸段丘上に発達した棚倉城（亀ヶ城）の城下町として発展し、幕末には阿部氏10万石の城下町で、内堀や土塁などが残る
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-tanagura-kotobank-town
+  column:
+    title: 御玉棚と種倉、二つの「棚倉」
+    text: 「棚倉」の名の由来をめぐっては、棚と倉をめぐる二つの物語が並び立つ。一つは江戸初期の城の命名で、丹羽長重が近津明神の御玉棚（神に供える玉を載せる棚）のあった跡地に城を築き、「棚倉城」と呼んだという話。もう一つははるかに古く、この地に穀物を蓄える種倉があったことに由来するという話で、古名は「伊野」だったという。城の命名が先か、倉の地名が先か。立花宗茂が丹羽に先立って棚倉領主だったことを思えば、1622年以前から「棚倉」の名があった可能性も捨てきれず、決着はついていない。ただ、どちらの説も「棚」と「倉」という収納のイメージに収斂する点は、偶然にしても出来すぎている。
+    sources:
+    - w3-tanagura-kotobank-town
+    - w3-tanagura-town-castle
+  relations:
+  - pref/07
+  unknowns:
+  - 1622年以前の「棚倉」の用例（立花宗茂の領地呼称など）の有無は未確認で、二説の先後は決められない
+  - 『東白川郡史』が説く種倉説の根拠となる古文書の用例は未確認
+  updated: '2026-11-13'
+- id: muni/07-楢葉町
+  code: '075426'
+  names:
+    ja: 楢葉町
+    reading: ならはまち
+    aliases:
+    - 楢葉郷
+  user_terms:
+  - 全町避難から最初に避難指示が解除された町
+  - 天神岬のある町
+  - ならは
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 双葉郡の太平洋岸の町。昭和31年（1956年）9月1日に木戸村と竜田村が合併して誕生し、町名には、黄金町・大洋町・天神町などの候補を退けて、平安時代の書物に「楢葉郷」として出てくる古い地名「楢葉」が採用された。楢葉郷は現在の木戸川・井出川周辺の地域といわれる。東日本大震災と原発事故では2011年3月12日に全町民への避難指示が出て全町避難となり、2015年9月5日に避難指示が解除された。これは全域に避難指示が出されていた町村のうち最初の解除だった。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 「楢葉郷」（平安時代の書物に地名として出てくると楢葉町公式が説明。具体的な書名は未特定）
+    note: 町公式の説明に基づく記録。書名と用例そのものの確認は今後の課題
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、楢葉町の団体コードは075426と定められている。福島県市町村要覧2026にも同コードで収載されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+    - w3-naraha-fksm-youran
+  - text: 昭和31年（1956年）9月1日、木戸村と竜田村が合併して楢葉町が誕生した。合併と同時に町制が施行され、当時の町の人口は10,657人だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-naraha-town-history
+    - w3-naraha-kotobank
+  - text: 新町の名には、黄金町・大洋町・天神町・木戸川町・弥生町・日之出町など多くの候補が上がったが、最終的には「楢葉町」が採用されたと、町公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-naraha-town-history
+  - text: 町名の由来について町公式は、「楢葉」という言葉は古くは平安時代の書物に「楢葉郷」という地名として出てくること、その楢葉郷は現在の木戸川・井出川周辺の地域といわれることから、この地方に古くから関わりのある「楢葉」が町名として採用されたと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-naraha-town-history
+  - text: 県の市町村形成史の資料によれば、楢葉郡は平安時代末以前に磐城郡から分置された郡で、「楢葉」の名は郡の名として中世以前にさかのぼる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w1-fukushima-formation
+  - text: 町公式は、人名の層として、この地方をはじめに治めた人物とされる「楢葉太郎たかすけ」の名が『磐城資料』に見えることも、町名採用の背景として挙げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-naraha-town-history
+  - text: 東日本大震災と福島第一原子力発電所事故により、2011年3月12日に全町民への避難指示が出され、町は全町避難となった。避難指示は2015年9月5日午前0時に解除され、全域に避難指示が出されていた町村のうち最初の解除となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-naraha-town-history
+    - w3-naraha-meti-lift
+    - w3-naraha-jstage
+  column:
+    title: 「黄金町」に勝った千年前の名前
+    text: 1956年、木戸村と竜田村の合併で新しい町の名を決めるとき、候補には黄金町・大洋町・天神町・日之出町といった、戦後の出発にふさわしい明るく新しい名が並んだ。しかし選ばれたのは、平安時代の書物に「楢葉郷」と残る、千年近く前の地名だった。新しい名ではなく最も古い名を選ぶという判断は、その55年後に思わぬ意味を持つ。全町避難を経験した町にとって、「楢葉」は帰るべきふるさとの名そのものであり、2015年9月、全域避難の町村で最初に避難指示が解除されたとき、人々はその古い名の町へ戻っていった。
+    sources:
+    - w3-naraha-town-history
+    - w3-naraha-meti-lift
+  relations:
+  - pref/07
+  unknowns:
+  - 町公式がいう「平安時代の書物」が具体的に何を指すのか（『和名類聚抄』等の書名と用例）は未確認
+  - 「楢葉」という言葉そのものの語源（楢の木・葉との関係など）を説明する資料は未確認
+  updated: '2026-11-13'
+- id: muni/07-檜枝岐村
+  code: '073644'
+  names:
+    ja: 檜枝岐村
+    reading: ひのえまたむら
+    aliases:
+    - 檜木亦
+    - ひのへ又
+    - 丙亦
+    - 小屋ノ原
+  user_terms:
+  - 尾瀬の玄関口の村
+  - 檜枝岐歌舞伎の村
+  - 日本一人口密度が低い村
+  - ひのえまた
+  naming_type: その他（古地名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県の西南端、南会津郡の山村で、尾瀬国立公園の福島県側の玄関口にあたる。村名の由来は、江戸時代の『新編会津風土記』が「此辺の山中に黒檜多き故村名とす」と記すように、この地に多かった黒檜（クロベ）に求める説明が伝えられる。古くは「小屋ノ原」とも称し、近世の文書では「檜木亦」「ひのへ又」「丙亦」と記された。明治22年（1889年）に伊南村・大川村との組合村となり、大正6年（1917年）に独立して檜枝岐村となった。
+  first_attestation:
+    era: 文禄3年
+    year_western: 1594
+    document: 蒲生領高目録（「檜木亦」と表記。日本歴史地名大系が用例として紹介）
+    note: 二次資料（日本歴史地名大系）経由の紹介として記録したもの。古名「小屋ノ原」の初出は未確認
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、檜枝岐村の団体コードは073644と定められている。福島県市町村要覧2026にも同コードで収載されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+    - w3-hinoemata-fksm-youran
+  - text: 村公式によれば、明治22年（1889年）の町村制施行により伊南村・大川村・檜枝岐村の組合村となり、大正6年（1917年）に組合村から独立して「檜枝岐村」となった。平成の大合併でも南会津郡内で合併が検討されたが、村は平成14年（2002年）に合併しない道を選んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-hinoemata-vill-gaiyo
+  - text: 日本歴史地名大系は『檜枝岐村史』を引き、この地は古くは「小屋ノ原」と称したという
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-hinoemata-kotobank-taikei
+  - text: 日本歴史地名大系によれば、近世の文書には「檜木亦」（文禄3年・蒲生領高目録）、「ひのへ又」（慶長2年・藤三郎倉入在々高物成帳）、「丙亦」（元和2年・伊南之内丙亦村小打御帳）などの表記が見える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-hinoemata-kotobank-taikei
+  - text: 『新編会津風土記』は「此辺の山中に黒檜多き故村名とす」と記し、村名をこの地に多い黒檜に結びつけて説明している（日本歴史地名大系が引用して紹介）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-hinoemata-kotobank-taikei
+  - text: 福島県公式コラムは「山で採れた良質な黒檜を村名の由来とする村」と紹介し、尾瀬檜枝岐温泉の観光案内も、良質な黒檜（クロベ・地方名ネズコ）の産地であったことからその名を冠したと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-oze-column
+    - w3-hinoemata-oze-info
+  - text: 「丙亦」「ひのへ又」という初期の表記は、「ひのへまた」という音の地名が先にあり、現在の「檜枝岐」の漢字は黒檜の由来説に沿って後から当てられたことをうかがわせる。ただし当て字の経緯を明示する資料は確認できていないため、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w3-hinoemata-kotobank-taikei
+  - text: 村に残る記録には、都が京都へ移された794年に紀州から移り住んだ藤原金晴が邑長になったと記されるという。また県公式コラムは、村民の姓の9割が「星」「平野」「橘」の3姓で、それぞれ藤原氏・源平合戦に敗れた平家・織田信長に追われた伊勢の楠木一統の落人の系譜に結びつけて語られることを紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w3-hinoemata-vill-gaiyo
+    - w3-fukushima-oze-column
+  column:
+    title: 三つの姓の隠れ里
+    text: 檜枝岐の村民の姓は、「星」「平野」「橘」の3つにほぼ限られる。星は794年に移り住んだ藤原金晴ゆかりの「星の里」から、平野は源平合戦に敗れた平家の末裔、橘は織田信長に追われた伊勢の楠木一統の末裔と、それぞれ語り継がれてきた。いずれも敗れた側の人々が、この奥会津の谷に身を寄せたという落人の里の物語である。真偽を確かめる術は乏しいが、江戸時代から村民総出で演じ継がれてきた檜枝岐歌舞伎（舞台は国の重要有形民俗文化財）のような濃密な共同体文化を見ると、閉ざされた谷で支え合って生きてきた里の自己像が、この3姓の伝承に重なって見える。
+    sources:
+    - w3-fukushima-oze-column
+    - w3-hinoemata-vill-gaiyo
+    - w3-hinoemata-bunka-stage
+  relations:
+  - pref/07
+  unknowns:
+  - 「ひのえ」を「干生（ほしう）」に結びつけるなど、読みそのものの語源を説明する専門資料は今回の調査では確認できなかった
+  - 古名「小屋ノ原」の初出文献と年代は未確認
+  - 組合村時代（1889〜1917年）に「檜枝岐」の名が行政上どのように扱われたかは未確認。なおWikipedia等は1889年の単独村制施行と説明しており、村公式の組合村の説明と表現が異なる
+  updated: '2026-11-13'
+- id: muni/07-泉崎村
+  code: '074641'
+  names:
+    ja: 泉崎村
+    reading: いずみざきむら
+    aliases:
+    - 泉崎郷
+    - 新泉崎村
+  user_terms:
+  - 泉崎横穴の村
+  - 泉崎駅のある村
+  - いずみざき
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 西白河郡の村で、村域を泉川が貫流する。「泉崎」は中世の地名で、建武2年（1335年）には泉崎郷の地頭代職が与えられた記録がある。明治22年（1889年）に旧泉崎村は太田川村・踏瀬村と合併して川崎村となり、「泉崎」の名は自治体から消えたが、昭和29年（1954年）10月1日に川崎村と関平村が合併した際、新しい村の名として65年ぶりに復活した。村公式の概要ページはこのとき誕生した村を「新泉崎村」と記す。名の由来そのものは明示する資料がなく、村内を流れる泉川との関係が考えられるにとどまる。
+  first_attestation:
+    era: 建武2年
+    year_western: 1335
+    document: 某下文案（有造館本結城古文書写。日本歴史地名大系「泉崎村」項が紹介）
+    note: 二次資料経由の紹介として記録したもの。同年に泉崎郷の地頭代職が和知重秀に与えられたことが伝えられる
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、泉崎村の団体コードは074641と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+  - text: 村議会概要の沿革によれば、明治22年（1889年）に旧泉崎村・太田川村・踏瀬村が合併して川崎村となり、旧関和久村・北平山村が合併して関平村となった。昭和29年（1954年）10月1日に川崎村と関平村が合併し、現在の泉崎村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-izumizaki-gikai-gaiyo
+  - text: 1954年の合併で誕生した村の名について、村公式の概要ページは「新泉崎村が誕生した」と記す一方、村議会概要は「現在の泉崎村」と記しており、村公式資料の間でも表現が分かれる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w3-izumizaki-vill-gaiyo
+    - w3-izumizaki-gikai-gaiyo
+  - text: 村公式の概要ページは、1954年の合併を「東北本線泉崎駅を中心として南北に位置する川崎、関平両村の合併」と説明する。新村の名は、駅の置かれた地の古名から採られた形である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-izumizaki-vill-gaiyo
+  - text: 泉崎駅は明治29年（1896年）2月25日に開業したとされ、自治体名としての「泉崎」が1889年から1954年まで消えていた間も、駅名が「泉崎」を残していた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-izumizaki-wiki
+  - text: 日本歴史地名大系「泉崎村」項は、建武2年（1335年）10月5日の某下文案（有造館本結城古文書写）に泉崎が見えることを紹介する。また同年、泉崎郷の地頭代職が白河結城氏の重臣・和知重秀に与えられたと伝えられる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-izumizaki-kotobank-village
+    - w3-izumizaki-wiki
+  - text: 村域を北西から南東へ泉川が貫流し、沿岸一帯の灌漑用水に供されている（村議会概要）。日本歴史地名大系も、近世の泉崎村について集落の北から東に泉川が流れると記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-izumizaki-gikai-gaiyo
+    - w3-izumizaki-kotobank-village
+  - text: 「泉崎」の語源は、村域を貫流する泉川の「泉」と、台地の先端部を指す「崎」の組み合わせと考えるのが自然だが、命名の経緯を明示する資料は確認できていないため、類推として区別する
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - w3-izumizaki-gikai-gaiyo
+    - w3-izumizaki-kotobank-village
+  column:
+    title: 65年ぶりに戻ってきた村の名
+    text: 「泉崎」という名は、1889年の合併でいったん地図から消えた。旧泉崎村は川崎村の一部になり、村の名として残ったのは川崎と関平である。ところが1896年に開業した鉄道駅が「泉崎駅」を名乗り続け、名の火種は駅に残った。1954年、川崎村と関平村が合併するとき、新村の名に選ばれたのは構成村のどちらでもなく、65年前に消えたはずの「泉崎」だった。駅名が地名の記憶をつなぎ、合併の場でそれが復活するという経過は、桑折や柳津のような「消えなかった古名」とはまた違う、名の継承のかたちである。
+    sources:
+    - w3-izumizaki-gikai-gaiyo
+    - w3-izumizaki-vill-gaiyo
+  relations:
+  - pref/07
+  unknowns:
+  - 「新泉崎村」から「泉崎村」への改称があったのか、あったとすればその時期は、村公式資料の間でも表現が分かれ未確定
+  - 中世の「泉崎郷」・近世の「泉崎村」の語源を明示する資料は未確認
+  updated: '2026-11-13'
+- id: muni/07-浅川町
+  code: '075043'
+  names:
+    ja: 浅川町
+    reading: あさかわまち
+    aliases:
+    - 浅川村
+  user_terms:
+  - 花火の里あさかわ
+  - 吉田富三の出身地
+  - あさかわ
+  naming_type: その他（古地名の継承）
+  prefecture: 福島県
+  homonyms: []
+  summary: 石川郡の南端の町で、昭和10年（1935年）に町制を施行した。町域は古代には白河郡に属したとされ、中世には石川庄の庄域にほぼ含まれ、近世の初めは浅川氏の城下町だった。昭和29年（1954年）に山白石村、昭和30年（1955年）に小貫・太田輪を合併して現在の町域となった。なお町内を流れる川は社川で、「浅川」という名の川はなく、「浅川」の語源を明示する専門資料は確認できていない。
+  first_attestation:
+    era: 文禄3年
+    year_western: 1594
+    document: 蒲生高目録（浅川村・村高703石余。町並み研究資料が紹介）
+    note: 個人の研究資料経由の紹介として記録したもの。中世の用例は未確認
+  claims:
+  - text: 福島県が公表する地方公共団体コード一覧で、浅川町の団体コードは075043と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-fukushima-code
+  - text: 町公式の「浅川町の歩み」によれば、昭和10年（1935年）に浅川町が誕生し、昭和29年（1954年）10月に山白石村を合併、昭和30年（1955年）8月に小貫・太田輪を合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w3-asakawa-town-history
+  - text: ブリタニカ国際大百科事典は山白石村との合体を1951年とするが、町公式の歩みは1954年（昭和29年）としており、本レコードは町公式に従う
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w3-asakawa-kotobank-town
+    - w3-asakawa-town-history
+  - text: 日本歴史地名大系によれば、町域は古代には白河郡の所属とされ、中世にはほぼ石川庄の庄域に含まれていたとみられる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-asakawa-kotobank-town
+  - text: ブリタニカによれば、近世の初めの浅川は浅川氏の城下町で、のち塙代官所の陣屋が置かれた。寛政9年（1797年）の百姓一揆は浅川騒動として知られる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-asakawa-kotobank-town
+  - text: 文禄3年（1594年）の蒲生高目録では浅川村の村高は703石余とされ、寛保元年（1741年）以降は浅川陣屋が置かれて代官支配が行われた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w3-asakawa-matinami
+  - text: 町域の西部を流れるのは阿武隈川支流の社川で、町内に「浅川」という名の川は存在しない。したがって「浅川」の名を単純に「浅い川」に結びつける説明は、現在の水系とは対応しない
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w3-asakawa-kotobank-town
+  - text: 「浅川」の語源については、日本歴史地名大系・ブリタニカのいずれの項目にも説明が見当たらず、浅川氏という一族名・城名との先後の関係も含めて未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w3-asakawa-kotobank-town
+  column:
+    title: 「浅川」という川のない浅川町
+    text: 町名から当然あると思ってしまう「浅川」という川は、この町にはない。町を流れるのは社川（やしろがわ）で、浅川という名の水系は町域に見当たらない。では名はどこから来たのか。近世の初め、この地は浅川氏の城下町で、浅川城（青葉城）があった。地名が一族を名乗らせたのか、一族が地名を広めたのかは、資料が残っていない。川の名に由来するはずだと思い込むと外れる地名の例として、「浅川」は静かな警告になっている。確かなのは、陣屋が置かれ、寛政9年（1797年）には浅川騒動と呼ばれる一揆の舞台になるほど、この名が地域の中心として定着していたことだけである。
+    sources:
+    - w3-asakawa-kotobank-town
+  relations:
+  - pref/07
+  unknowns:
+  - 「浅川」の語源（浅川氏の名との先後関係を含む）を明示する資料は未確認
+  - 中世における「浅川」の用例（浅川氏の出現時期など）は未確認
+  updated: '2026-11-13'
+- id: muni/07-浪江町
+  code: '075477'
+  names:
+    ja: 浪江町
+    reading: なみえまち
+    aliases:
+    - 浪江村
+  user_terms:
+  - なみえ
+  - 浪江町の由来
+  - なみえ焼そばの町
+  - 双葉郡浪江町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 双葉郡の町で、旧標葉郡の中心地だった。中心地区の「浪江」は陸前浜街道の宿駅として発達した地名で、1889年にその名を継ぐ浪江村が置かれ、1900年に町制を施行した。「浪江」の語源そのものは、町史が冒頭に「町名考」を置いて検討しているものの、オンラインで確認できる公的資料では確定できていない。2011年の東日本大震災と福島第一原子力発電所事故で全町避難となり、その後、避難指示が一部解除されて復興の途上にある。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「浪江」という地名の文献上の初出は未確認。江戸時代には中心地区の浪江が陸前浜街道の宿駅として存在していたことが専門辞典に記されるが、初出の文書と年代は特定できていない
+  claims:
+  - text: 古代、この一帯は染羽（しめは）の国と呼ばれ、足彦命が染羽国造に任じられたと伝わり、8世紀頃に「染羽」は「標葉」に改められたと言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-namie-town-history
+  - text: 中世には標葉氏がこの地を領し、初代の標葉四郎隆義が保元年間（1159年頃）に請戸大平山に館を築いて一帯の統治を始めたと『東奥標葉記』を引いて町公式の歴史が伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-namie-town-history
+  - text: 江戸時代は相馬中村藩領で、中心地区の浪江は陸前浜街道の宿駅として発達した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w4-namie-kotobank
+  - text: 1889年（明治22年）4月1日の町村制施行で、権現堂村・川添村・牛渡村・樋渡村・高瀬村が合併して標葉郡浪江村が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-namie-uub
+  - text: 1900年（明治33年）に浪江村が町制を施行して浪江町となり、1953年に請戸村・幾世橋村、1956年5月1日に大堀村・苅野村・津島村と合併して現在の浪江町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-namie-town-history
+    - w4-namie-kotobank
+  - text: 2011年（平成23年）3月11日の東日本大震災と福島第一原子力発電所事故により町民が避難を余儀なくされ、仮役場が二本松市に置かれた。その後、町の一部で避難指示が解除され、町は2011年から2021年までの震災と復興の記録誌をまとめている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-namie-kirokushi
+  - text: 『浪江町史』（1974年）は第1編の冒頭に「『浪江』の町名考」という節を置いて町名の由来を検討しているが、その内容はオンラインでは確認できず、「浪江」の語源は本調査では確定できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w4-namie-choshi-lib
+  - text: 総務省の全国地方公共団体コードで、浪江町の団体コードは075477と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 波に洗われ続けた請戸と、町名を名乗る焼そば
+    text: 浪江町の東端・請戸（うけど）の苕野（くさの）神社は、和銅年間（715年頃）に社殿が建てられたと伝わる古社ですが、869年の貞観の津波、1611年の慶長の津波で海に没するなど、繰り返し津波に見舞われながら遷座を続けてきました。そして2011年、町は再び津波と原発事故に遭います。震災後、太い麺の「なみえ焼そば」は復興の象徴として町民団体「浪江焼麺太国」の活動とともに広まり、町は模倣品対策にまで取り組むようになりました。語源のはっきりしない「浪江」という名が、いまは食べ物の名として町の再出発を背負っています。
+    sources:
+    - w4-namie-town-history
+    - w4-namie-kirokushi
+  relations:
+  - pref/07
+  - muni/07-葛尾村
+  - muni/07-南相馬市
+  unknowns:
+  - 「浪江」の語源・初出は未確認。『浪江町史』（1974年）の「町名考」の内容を直接確認できていないため、波と入り江に結びつける類の説も本レコードでは採用していない
+  - 1889年の浪江村発足時に、なぜ「浪江」の名が選ばれたのか（中心集落の名の継承とみられるが、命名記録の直接確認は未了）
+  updated: '2026-11-13'
+- id: muni/07-湯川村
+  code: '074225'
+  names:
+    ja: 湯川村
+    reading: ゆがわむら
+    aliases:
+    - 笈川村
+    - 勝常村
+  user_terms:
+  - ゆがわ
+  - 会津のへそ 湯川村
+  - 福島県で一番小さい村
+  - 河沼郡湯川村
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 河沼郡の村で、会津盆地の中央にあり「会津のへそ」と呼ばれる。1889年の町村制では川を境に笈川村と勝常村に分かれたが、1957年3月31日に両村が再び合併した際、その境を流れていた川「湯川」の名にちなんで湯川村と命名された。村名の由来が公式の沿革に明記されている事例である。面積は福島県内で最も小さい自治体である。
+  first_attestation:
+    era: 昭和32年
+    year_western: 1957
+    document: 湯川村の発足（笈川村・勝常村の合併）
+    note: 村名としての「湯川」の初出は1957年の合併時の命名。川の名としての「湯川」はそれ以前から両村の境を流れる川の名として存在した
+  claims:
+  - text: 1957年（昭和32年）3月31日、町村合併促進法に従って笈川村と勝常村が合併し、両村の境を流れていた湯川の名にちなんで「湯川村」と命名されたと、村公式の沿革が明記する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yugawa-vill
+  - text: 1889年（明治22年）の町村制実施では、湯川を境として笈川村と勝常村に分かれて行政が進められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yugawa-vill
+  - text: 中世以来、この地は佐原・芦名・蒲生・上杉・加藤の諸氏の領するところとなり、江戸時代後期には旧笈川・勝常両村と旧堂島村の一部を合わせて笈川組と称し、塩川代官所の支配に属した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yugawa-vill
+  - text: 村は会津盆地のほぼ中央に位置し「会津のへそ」と呼ばれる。面積16.37平方キロで福島県内で一番小さい自治体であり、村内に山がないことも特徴とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yugawa-vill
+  - text: 川の名「湯川」自体がなぜ「湯川」と呼ばれるのかは、村公式の沿革には記されておらず、本調査では確認できなかった
+    kind: fact
+    level: E2
+    status: unknown
+    sources:
+    - w4-yugawa-vill
+  - text: 総務省の全国地方公共団体コードで、湯川村の団体コードは074225と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 分かれて、戻って、川の名になった村
+    text: 湯川村の面白さは、村の名が「川を挟んだ2つの村の、どちらでもない第三の名」として選ばれた点にあります。1889年に湯川を境に笈川村と勝常村へ分かれた2村は、68年後の1957年に再び一つになりました。そのとき新村の名に選ばれたのは、旧村のどちらかの名ではなく、2村を分けてきた川そのものの名でした。村公式サイトはこの村を「会津のへそ」と紹介します。県内で一番小さく、山もない平らな村が、盆地の真ん中で川の名を名乗っています。
+    sources:
+    - w4-yugawa-vill
+  relations:
+  - pref/07
+  - muni/07-会津若松市
+  - muni/07-喜多方市
+  unknowns:
+  - 川の名「湯川」の語源（上流の東山温泉の湯との関係を説く話もあるが、公的資料での確認は未了）
+  - 1957年の合併時に他の村名候補があったかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/07-猪苗代町
+  code: 074080
+  names:
+    ja: 猪苗代町
+    reading: いなわしろまち
+    aliases:
+    - 猪苗代村
+  user_terms:
+  - いなわしろ
+  - 猪苗代湖の町
+  - 野口英世のふるさと
+  - 天鏡湖
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 耶麻郡の町で、猪苗代湖の北岸と磐梯山の南麓に位置する。町名は湖と同じ「猪苗代」の地名によるが、その語源には定説がない。磐椅（いわい）明神が猪に苗代を耕させたという伝説、アイヌ語説、大和ことばで地形を表すとする説などが併存し、観光協会自身が「定説はありません」と明言している。1955年に旧猪苗代町と5村が合併して現在の町になった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「猪苗代」の文献上の確実な初出は本調査では未確認。中世には猪苗代城を拠点とする猪苗代氏がいたことが知られるが、一次史料での初出の直接確認は未了
+  claims:
+  - text: 猪苗代観光協会は「猪苗代」の由来について、磐椅明神が昔、野猪に苗代を耕作させたのでそう呼ぶようになったという説や、イナワシロはアイヌ語だという説などがあるが、定説はないと明言している
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - w4-inawashiro-kanko
+  - text: 磐椅明神が野猪に苗代を耕作させたことから「猪苗代」と呼ぶようになったという言い伝えが、湖畔の磐椅神社にまつわる伝承として語られている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - w4-inawashiro-kanko
+  - text: 郷土研究では、「い」は水（井）、「なわ」は平らな地、「しろ」は高い所を意味し、「高い平らなところにある湖」を表す大和ことばに、読みの通りの文字が当てられたものだとする説も提示されている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - w4-inawashiro-ishida
+  - text: 猪苗代湖は面積約103平方キロで日本で4番目に大きい湖であり、天を映す鏡のように美しいことから「天鏡湖」とも呼ばれ、猪苗代町・会津若松市・郡山市の2市1町にまたがる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inawashiro-pref
+  - text: 1888年（明治21年）の磐梯山の噴火（爆裂）は町の公式年表にも刻まれる大事件であり、現在の猪苗代の景観はこの噴火と深く関わる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inawashiro-town
+  - text: 1941年（昭和16年）に猪苗代町・岩瀬村・岩保村が合併し、1955年（昭和30年）には猪苗代町・翁島村・千里村・月輪村・吾妻村・長瀬村が合併して、現在の猪苗代町が形作られた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-inawashiro-town
+  - text: 細菌学者の野口英世は現在の町域（旧翁島村・三ツ和）に生まれ、その生家が野口英世記念館として保存されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-inawashiro-donnatoko
+  - text: 総務省の全国地方公共団体コードで、猪苗代町の団体コードは074080と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「定説はありません」と言い切る町の正直さ
+    text: 有名な地名ほど由来がはっきりしている——とは限りません。猪苗代観光協会の「地名の由来」ページは、磐椅明神と猪の伝説、アイヌ語説を並べたうえで「定説はありません。しかし、稲作農業と深い関わりがあったことだけは確かです」と結びます。この湖のまわりでは、湖底に沈んだ縄文から古墳時代までの遺跡も確認されており、稲作との関わりは地形と暮らしの側からも裏づけられます。分からないことは分からないと言う。この正直さが、かえって猪苗代という名の古さを感じさせます。
+    sources:
+    - w4-inawashiro-kanko
+  relations:
+  - pref/07
+  - muni/07-磐梯町
+  - muni/07-会津若松市
+  unknowns:
+  - 「猪苗代」の文献上の初出（中世史料における猪苗代氏の記載の直接確認を含む）は未了
+  - アイヌ語説で想定される原語の具体的な形は、確認した公的資料には示されていない
+  - 「猪苗代湖」という湖の呼称がいつから使われたかは未確認
+  updated: '2026-11-13'
+- id: muni/07-玉川村
+  code: '075027'
+  names:
+    ja: 玉川村
+    reading: たまがわむら
+    aliases:
+    - 泉村
+    - 須釜村
+  user_terms:
+  - たまかわ
+  - そらのむら たまかわ
+  - 福島空港の村
+  - 石川郡玉川村
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 石川郡の村で、1955年3月31日に泉村と須釜村が合併して誕生した。村名は、須釜村の村長が提案した2案「玉川村」と「須泉村」のうち、泉村の中央を流れていた川「玉川」の名にちなむ案が選ばれて決まった。川の名そのものの由来としては、小高にある長慶天皇陵墓の伝承地「玉河宮」と、河岸の崖から産出する玉石にちなむという説が専門辞典に記される。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 玉川村の発足（泉村・須釜村の合併）
+    note: 村名としての初出は1955年の合併時の命名。川の名としての「玉川」はそれ以前から泉村を流れる川（現在の泉郷川）の名として存在した
+  claims:
+  - text: 1955年（昭和30年）3月31日、泉村と須釜村が合併して現在の玉川村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tamakawa-vill
+  - text: 村名は、当時の須釜村長が、須釜村の沢の水を水源として泉村の中央を流れる玉川の名にちなむ「玉川村」と、旧村名の頭文字をとった「須泉村」の2案を提案し、協議のうえ「玉川村」に決まったと村の記念資料が伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tamakawa-70th
+  - text: 玉川案が支持された背景には、相馬の妙見神社がかつて「泉の庄・玉川の辺り」に鎮座していたという古事があると泉村側が主張したことや、「泉が須釜と合わさって玉川になる」という象徴的な意味も込められたことが、村の記念資料に記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tamakawa-70th
+  - text: 川の名「玉川」は、現在の泉郷川の旧称で、小高付近で阿武隈川に合流していた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w4-tamakawa-kotobank
+  - text: 『日本歴史地名大系』は村名の由来について、玉河宮と号したという長慶天皇陵墓の伝承地が小高にあることと、同地内の河岸の崖から玉石が産出されることにちなむという説を記す
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w4-tamakawa-kotobank
+  - text: 1889年（明治22年）の町村制で、川辺・蒜生・小高・中・岩法寺・竜崎の各村が合併して泉村が、南須釜・北須釜・吉・山小屋・山新田・四辻新田の各村が合併して須釜村が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tamakawa-vill
+  - text: 中世、この地は源頼義の一族・石川安芸守源有光が領した石川の地66郷の一部であったと村公式の沿革が記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tamakawa-vill
+  - text: 総務省の全国地方公共団体コードで、玉川村の団体コードは075027と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 落選した「須泉村」と、神社の古事が後押しした川の名
+    text: 合併新村の名前決めは、たいてい揉めるものです。玉川村の場合、須釜村長が出した2案のうち「須泉村」は両村の頭文字を並べた無難な案でした。ところが泉村側は、相馬の妙見神社がかつて「泉の庄・玉川の辺り」にあったという古事を持ち出して「玉川村」を後押しし、須釜側も「泉が須釜と合わさって玉川になる」という象徴性に納得した——村の記念資料はそう記録しています。川の名が、2つの村の合併そのものの比喩として選ばれた珍しい事例です。
+    sources:
+    - w4-tamakawa-70th
+  relations:
+  - pref/07
+  - muni/07-石川町
+  - muni/07-矢吹町
+  unknowns:
+  - 川の名「玉川」の名付けの一次記録（玉河宮・玉石説の典拠となる古文書）は未確認
+  - 長慶天皇陵墓伝承地「玉河宮」の伝承の成立時期は未確認
   updated: '2026-11-13'
 - id: muni/07-田村市
   code: '072117'
@@ -863,6 +3679,344 @@ records:
   - 旧中心地名「中村」の語源と文献上の初出は確認できていない
   - 相馬氏の名字の地である下総国相馬郡の「相馬」の語源自体は確認できていない
   updated: '2026-11-13'
+- id: muni/07-矢吹町
+  code: '074667'
+  names:
+    ja: 矢吹町
+    reading: やぶきまち
+    aliases:
+    - 矢吹村
+    - 矢吹宿
+  user_terms:
+  - やぶき
+  - 日本三大開拓地 矢吹
+  - きじの里 矢吹町
+  - 西白河郡矢吹町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 西白河郡の町で、奥州道中の宿場町として発達した。地名の由来は、平安時代に源義家が前九年の役の帰途に神社を建立し、矢の柄（竹の部分）で社の屋根を葺いたことから「矢葺き」が「矢吹」になったとする伝説で語られる。町史には中世の矢吹と矢吹の舘跡、そして「伝説のなかの矢吹」が独立の章として立てられている。1889年に矢吹村、1902年に町制、1955年に中畑村・三神村などと合併して現在の町になった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「矢吹」の文献上の確実な初出は未確認。中世には当地に矢吹の舘があったことが町史の章立てからうかがえるが、一次史料の直接確認は未了
+  claims:
+  - text: 町の名前は、平安時代に源氏の棟梁・源義家が前九年の役に勝利し陣に帰る途中、神社を建立して矢柄で社の屋根を葺いたことが「矢吹（矢葺き）」の地名の由来とされている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - w4-yabuki-furulabo
+  - text: 矢吹は古くから交通の便に恵まれ、江戸時代には奥州道中の宿場として栄えた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-yabuki-furulabo
+  - text: 『矢吹町史』は「中世の矢吹」「矢吹の舘跡」「伝説のなかの矢吹」を独立の章としており、中世の当地に矢吹を名乗る勢力の館があったことと、義家にまつわる伝説が町史編纂の対象として分けて扱われていることが分かる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yabuki-townshi
+  - text: 1889年（明治22年）に矢吹村が成立し、1902年（明治35年）12月22日に町制を施行して矢吹町になった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-yabuki-uub
+  - text: 1955年（昭和30年）3月31日、矢吹町・中畑村・三神村と岩瀬郡広戸村の一部が合併して、現在の矢吹町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-yabuki-uub
+  - text: 矢吹町は、明治期の大規模開拓で知られる「日本三大開拓地」の一つに数えられる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yabuki-wiki
+  - text: 総務省の全国地方公共団体コードで、矢吹町の団体コードは074667と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 矢の柄で葺いた屋根——義家伝説と開拓の町
+    text: 矢吹の伝説の舞台とされる滝八幡地区には、今も祠が残ると町の紹介は伝えます。矢の材料である竹で屋根を葺くという発想は、戦の帰り道らしい即興のものですが、「葺く」が「吹く」に転じて地名になったという筋立ては、音の変化としても自然です。もっともこの町には、もう一つの顔があります。明治の国営開拓で大農場が開かれた「日本三大開拓地」の一つという顔です。平安の伝説と明治の開拓。矢吹という名は、その両方の時代を背負っています。
+    sources:
+    - w4-yabuki-furulabo
+  relations:
+  - pref/07
+  - muni/07-石川町
+  - muni/07-玉川村
+  - muni/07-白河市
+  unknowns:
+  - 「矢吹」の文献上の初出と、義家伝説の最古の記録（町史「伝説のなかの矢吹」の内容の直接確認を含む）は未了
+  - 中世の矢吹氏と地名「矢吹」の先後関係（氏が地名を名乗ったのか、地名が氏を生んだのか）は未確認
+  updated: '2026-11-13'
+- id: muni/07-矢祭町
+  code: 074829
+  names:
+    ja: 矢祭町
+    reading: やまつりまち
+    aliases:
+    - 矢祭村
+  user_terms:
+  - やまつり
+  - 合併しない町 矢祭
+  - 矢祭山の町
+  - 東白川郡矢祭町
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 東白川郡の町で、福島県の最南端に位置する。「やまつり」という独特の読みは「矢祭」の字の通りで、町名は町内にある矢祭山にちなむ。矢祭山の名は、永承6年（1051年）に源義家が凱旋の途中、岩窟に弓矢を納めて戦勝の祭りを行ったことに由来すると伝えられる。1955年に矢祭村として発足し、1963年に町制を施行。2001年には「合併しない矢祭町宣言」を出して全国の注目を集めた。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 矢祭村の発足（豊里村と高城村の一部の合併）
+    note: 町名としての初出は1955年の矢祭村発足時。山の名としての「矢祭山」はそれ以前から内川地区の山の名として存在した
+  claims:
+  - text: 町名「矢祭」は、町内の内川地区にある矢祭山の名にちなんで、1955年の合併の際に新しい自治体名として採られた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yamatsuri-wiki
+  - text: 矢祭山の名は、永承6年（1051年）、源義家が奥州からの凱旋の道中でこの地の景観に心を打たれ、山中の洞穴に自らの弓矢を祀り、未来永劫の勝利を祈ったことに由来して呼ばれるようになったといわれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w4-yamatsuri-pref
+  - text: 1955年（昭和30年）3月31日、豊里村と高城村の一部（茗荷・内川・関岡）が合併して矢祭村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yamatsuri-wiki
+  - text: 1957年（昭和32年）1月10日、塙町の旧・石井村の一部（中石井・下石井・戸塚の各地区）が分離されて矢祭村に編入され、町域が広がった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yamatsuri-wiki
+  - text: 1963年（昭和38年）1月1日に町制を施行して矢祭町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-yamatsuri-wiki
+  - text: 2001年（平成13年）10月31日、町議会が「市町村合併しない矢祭町宣言」を可決し、大胆な行財政改革とともに全国の注目を集めた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-yamatsuri-gakken
+    - w4-yamatsuri-wiki
+  - text: 矢祭山は古くは西行法師や水戸光圀も訪れたと伝わる景勝地で、久慈川とともに「東北の耶馬渓」とも称される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-yamatsuri-pref
+  - text: 総務省の全国地方公共団体コードで、矢祭町の団体コードは074829と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「合併しない」と宣言した町
+    text: 平成の大合併のさなか、2001年に矢祭町議会は「市町村合併しない矢祭町宣言」を可決しました。職員の削減や給与カットなど身を切る行財政改革を自ら進め、単独で生き残る道を選んだ町として全国に知られます。皮肉なことに、この町の名自体は1955年の合併で生まれた新しい名です。合併で生まれた町が、合併しないと宣言する。その名の由来である矢祭山には、義家が弓矢を納めたという岩窟の伝説が残ります。
+    sources:
+    - w4-yamatsuri-gakken
+    - w4-yamatsuri-wiki
+  relations:
+  - pref/07
+  unknowns:
+  - 1955年の矢祭村発足時に、町名の候補として他の案があったかどうかは未確認
+  - 矢祭山の「矢祭」の表記が文献に現れる最古の例は未確認
+  updated: '2026-11-13'
+- id: muni/07-石川町
+  code: 075019
+  names:
+    ja: 石川町
+    reading: いしかわまち
+    aliases:
+    - 石川村
+  user_terms:
+  - いしかわ
+  - 石川氏の町 福島
+  - 鉱物の町 石川町
+  - 石川郡石川町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 石川郡の町で、阿武隈高地の西側に位置する。「石川」は律令期の石川郡に遡る古い地名で、『和名類聚抄』にその名が見えるとされる。中世には源頼義の子孫・石川有光が石川庄に土着して石川氏の祖となり、66郷を領したと伝わる。ただし有光の到来の年代は、町の公式資料の間でも1063年（康平6年）とするものと12世紀とするものがあり、一定しない。1894年に町制、1955年に5村と合併して現在の町になった。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『和名類聚抄』
+    note: 全国観光資源台帳が「石川の地名は『和名抄』にあり」と紹介する二次資料経由の確認のため、レベルは本文の主張側で格下げして扱う。和名抄そのものの直接確認は未了
+  claims:
+  - text: 「石川」の地名は『和名類聚抄』に見える石川郡の名に遡ると、全国観光資源台帳が紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-ishikawa-jtb
+  - text: 713年（和銅6年）には、朝廷に石川産の雲母・白石英が献上されたと町の概要が記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-ishikawa-town-gaiyo
+  - text: 源頼義の一族である石川安芸守源有光が石川の地66郷を領し、石川氏の祖となったと、隣接する玉川村の公式沿革も含め地域の公的資料が伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-tamakawa-vill
+    - w4-ishikawa-town-gaiyo
+  - text: 有光が石川庄に土着した年代については、町の概要資料が1063年（康平6年）とする一方、町の移住ポータルは12世紀前半頃とし、英語版の町概要は12世紀後半としており、町の公式資料の間でも年代が一致していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w4-ishikawa-town-gaiyo
+    - w4-ishikawa-town-portal
+  - text: 江戸時代、石川は海浜と内陸を結ぶ御斎所（ごさいしょ）街道の宿場町として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-ishikawa-bunka
+  - text: 1894年（明治27年）に町制を施行し、1955年（昭和30年）3月31日に旧石川町・沢田村・野木沢村・母畑村・中谷村・山橋村が合併して現在の石川町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-ishikawa-jtb
+    - w4-ishikawa-bunka
+  - text: 石川町は滋賀県田ノ上山、岐阜県苗木地方とともに日本三大ペグマタイト鉱物産地の一つとして知られ、約150種類の鉱物を産出する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-ishikawa-town-gaiyo
+  - text: 総務省の全国地方公共団体コードで、石川町の団体コードは075019と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 1063年か、12世紀か——役場の資料でも揺れる石川氏の到来
+    text: 石川町の物語は「石川有光が移り住んだことから始まる」点では町の資料すべてが一致します。ところが、その年が資料によって違う。町の概要パンフレットは1063年（康平6年）と明記し、移住ポータルは「12世紀前半頃」、英語版の概要は「12世紀後半」と書く。100年以上の幅があるのです。地名の「石川」自体は有光よりずっと古く、律令の郡名に遡ります。つまりこの町では、古い地名の層と、武士の到来という物語の層が重なっていて、物語の層の年代だけが今も定まっていない、ということになります。
+    sources:
+    - w4-ishikawa-town-gaiyo
+    - w4-ishikawa-town-portal
+    - w4-ishikawa-jtb
+  relations:
+  - pref/07
+  - muni/07-玉川村
+  - muni/07-矢吹町
+  unknowns:
+  - 『和名類聚抄』における石川郡・石川郷の記載の直接確認は未了
+  - 「石川」という地名そのものの語源（石の多い川に由来するかどうか等）は、確認した公的資料には明示されていない
+  - 石川有光の土着の正確な年代は未確定（町の公式資料間でも1063年・12世紀前半・12世紀後半と幅がある）
+  updated: '2026-11-13'
+- id: muni/07-磐梯町
+  code: '074071'
+  names:
+    ja: 磐梯町
+    reading: ばんだいまち
+    aliases:
+    - 磐梯村
+    - 大寺
+  user_terms:
+  - ばんだい
+  - 慧日寺の町
+  - 会津磐梯山の町
+  - 耶麻郡磐梯町
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 耶麻郡の町で、磐梯山の南麓に位置する。町名は磐梯山による。山名「磐梯」は「天に掛かる岩の梯子」を意味する「いわはしやま」の転じた名とされ、古くから山岳信仰の山だった。町の中心地は807年創建の慧日寺の門前町で、古くは「大寺」と呼ばれた土地である。1875年に磐梯村が置かれ、1889年の合併で現在の町域となり、1960年に町制を施行した。1888年の磐梯山噴火では北麓が大被害を受けた。
+  first_attestation:
+    era: 明治8年
+    year_western: 1875
+    document: 磐梯村の成立（若松県令による町村の改称分合）
+    note: 自治体名としての「磐梯」の初出。山の名としての「磐梯」はそれ以前からあり、万葉集に「会津嶺」と詠われた山とされる
+  claims:
+  - text: 磐梯山は、その美しく雄大な姿から「天に掛かる岩の梯子」を意味する「いわはしやま」と呼ばれ、古くから山岳信仰の対象とされてきたと、磐梯山を囲む3町村の「磐梯山憲章」が説明する。山名「磐梯」はこの「岩梯（いわはし）」に由来する名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-bandai-kensei
+  - text: 磐梯山は万葉集に「会津嶺」と詠われ、別名「会津富士」とも呼ばれてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-bandai-kensei
+  - text: 大同2年（807年）、奈良の学僧・徳一が慧日寺を創建し、磐梯山頂に磐梯明神を奥の院として祀る会津仏教文化の拠点として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-bandai-town-history
+  - text: 町の行政区域は、1875年（明治8年）に若松県令による町村の改称分合で更科村・磐梯村・大谷村・赤枝村が誕生し、1889年（明治22年）にこの4村が合併して現在の範囲となり、その後昭和・平成の大合併でも合併せずに続いてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-bandai-town-keikaku
+  - text: 1960年（昭和35年）4月1日、磐梯村が町制を施行して磐梯町になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-bandai-town-keikaku
+  - text: 町の中心市街地は慧日寺の門前町を起源とし、古くから「大寺（おおてら）」という地名で呼ばれていた。今日の大字名は「磐梯」だが「大寺」の通称が残り、磐梯町駅も1965年までは大寺駅という名称だった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-bandai-wiki
+  - text: 1888年（明治21年）7月15日の磐梯山噴火では、小磐梯の山体崩壊による岩屑なだれが北麓を流れ下り、旧長瀬川水系沿いの5村11集落が埋没する大災害となった。被害の中心は北麓であり、南麓の現在の磐梯町域は山の反対側にあたる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-bandai-bousai
+  - text: 総務省の全国地方公共団体コードで、磐梯町の団体コードは074071と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 山の名を名乗る町の、元の顔は「大寺」
+    text: 磐梯町という名は山から来ていますが、町の中心地の元の顔は別の名でした。慧日寺の門前町として開けた土地は「大寺（おおてら）」と呼ばれ、駅の名前も1965年まで大寺駅でした。磐梯村が置かれたのは1875年、町制は1960年。つまりこの町は、山の名を自治体の名に掲げながら、足元では寺の名を長く使い続けてきたことになります。1888年の噴火で小磐梯が崩れたとき、岩屑なだれが流れたのは北麓でした。南麓の大寺の門前町は、山の恵みと信仰を受け取る側の土地であり続けたのです。
+    sources:
+    - w4-bandai-wiki
+    - w4-bandai-town-keikaku
+    - w4-bandai-bousai
+  relations:
+  - pref/07
+  - muni/07-猪苗代町
+  - muni/07-会津若松市
+  - muni/07-喜多方市
+  unknowns:
+  - 山名「磐梯」の文字表記が文献に現れる最古の例は未確認
+  - 1875年の分合で「磐梯村」の名が選ばれた経緯の一次記録は未確認
+  updated: '2026-11-13'
 - id: muni/07-福島市
   code: '072010'
   names:
@@ -950,6 +4104,252 @@ records:
   - 「福島」の名付けの正確な理由（県公式に「詳細な由来は不明」。縁起担ぎ説も伝承の域を出ない）
   - 県庁所在地でありながら市制施行が1907年まで遅れた理由についての公式説明は未確認
   - 『信夫伊達風土記』自体の成立・書誌の確定は未確認（県レコードと同じ）
+  updated: '2026-11-13'
+- id: muni/07-葛尾村
+  code: 075485
+  names:
+    ja: 葛尾村
+    reading: かつらおむら
+    aliases: []
+  user_terms:
+  - かつらお
+  - 葛尾城から来た村名
+  - 双葉郡葛尾村
+  - 村制100周年 葛尾村
+  naming_type: 一部の地名
+  prefecture: 福島県
+  homonyms: []
+  summary: 双葉郡の村で、阿武隈山系の中にある。村名の由来は、戦国時代に信州の葛尾城（坂城町、村上義清の居城）から落ち延びた松本家がこの地に土着し、故郷の城の名「葛尾」を名付けたのが始まりと言い伝えられる。1889年に上野川・野川・落合・葛尾の4か村が合併して葛尾村となり、津島村との組合村を経て、1923年3月31日に分離して単独の葛尾村が発足した。2023年に村制100周年を迎えた。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「葛尾」の文献上の初出は未確認。遅くとも1889年の町村制の時点で、合併前の村の一つとして葛尾村の名が存在した
+  claims:
+  - text: 葛尾村の名の由来は、戦国時代に信州の葛尾城から落ち延びた松本家が、まだ地名のなかったこの土地に土着し、故郷の城の名前である「葛尾」と名付けたのが始まりと言われていると、復興庁が村制100周年の紹介で伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w4-katsurao-fukko
+  - text: むらづくり公社の解説では、葛尾城は武田信玄と戦った村上義清の居城で、その家来だった松本勘解由介が相馬に落ち延び、相馬当主から三春領と相馬領の国境警備を頼まれて住み着いた地を「葛尾」と名付けたとされ、「諸説あります」と付記されている
+    kind: legend
+    level: E4
+    status: contested
+    sources:
+    - w4-katsurao-kosya
+  - text: 村の沿革によれば、この地は古くは染羽（しめは）の国と称し、後に陸奥国標葉郡に属して『和名類聚抄』に標葉郡の名が載せられ、中世には標葉氏の領するところとなった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-katsurao-vill
+  - text: 1889年（明治22年）4月、町村制の実施により上野川・野川・落合・葛尾の4か村が合併して葛尾村となり、津島村とともに津島・葛尾組合村を形成して津島村に役場を置いた。合併前の村の一つとして既に「葛尾」の名があった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-katsurao-vill
+  - text: 1923年（大正12年）3月31日、人口増加などを理由に組合村が解消され、現在の葛尾村が単独の村として発足した。2023年には村制施行100周年を迎えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w4-katsurao-vill
+    - w4-katsurao-fukko
+  - text: 2011年（平成23年）の福島第一原子力発電所事故では村全域が避難区域となり、その後、避難指示の解除とともに村の復興と帰村が進められている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-katsurao-iju
+  - text: 総務省の全国地方公共団体コードで、葛尾村の団体コードは075485と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 信州の城の名を背負って——葛尾城と村上義清
+    text: 福島県の山の中の村が、長野県の城の名を名乗る——葛尾村の由来伝説は、その意外さが魅力です。信州・坂城町にあった葛尾城は、武田信玄を2度退けた村上義清の居城でした。3度目の戦いで城が落ちたとき、家来の松本勘解由介が相馬へ逃れ、国境警備を任されて住み着いた地に、故郷の城の名を付けたというのです。真偽は「諸説あります」と地元の公社自身が留保しますが、2023年の村制100周年で復興庁がこの話を村名の由来として紹介しました。逃れた先で故郷の名を名乗り続ける——避難と帰村を経験したこの村に、よく似た物語です。
+    sources:
+    - w4-katsurao-kosya
+    - w4-katsurao-fukko
+  relations:
+  - pref/07
+  - muni/07-浪江町
+  - muni/07-田村市
+  - muni/07-二本松市
+  unknowns:
+  - 葛尾城からの落人伝説の最古の記録と、松本家の実在を裏づける一次史料は未確認
+  - 1889年以前の「葛尾」という村名の初出は未確認
+  updated: '2026-11-13'
+- id: muni/07-西会津町
+  code: '074055'
+  names:
+    ja: 西会津町
+    reading: にしあいづまち
+    aliases:
+    - 野沢町
+  user_terms:
+  - にしあいづ
+  - 野沢の町 西会津
+  - 越後街道 野沢宿
+  - 耶麻郡西会津町
+  naming_type: 合併新設
+  prefecture: 福島県
+  homonyms: []
+  summary: 耶麻郡の町で、会津地方の北西部、新潟県との県境に位置する。町名「西会津」は、会津の西に位置することによる新設合併の新名である。1954年7月1日、耶麻郡と河沼郡にまたがる野沢町など10町村が合併して発足した。中心地の野沢は越後街道の宿場町で、近世には阿賀川の北側が耶麻郡、南側が河沼郡に分かれていた土地を一つに束ねた合併だった。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 西会津町の発足（10町村の新設合併）
+    note: 町名としての初出は1954年の合併時の新名。「会津」の名自体は古代の会津郡に遡る広域地名である
+  claims:
+  - text: 1954年（昭和29年）7月1日、耶麻郡の新郷村・奥川村と、河沼郡の野沢町・尾野本村・登世島村・睦合村・下谷村・群岡村・上野尻村・宝坂村が合併して西会津町が発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w4-nishiaizu-uub
+  - text: 町名「西会津」は、会津地方の西部に位置することにちなんで合併の際に新しく付けられた位置の名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-nishiaizu-wiki
+  - text: 町域は耶麻郡の西端を占め、中央を阿賀川が大きく蛇行しながら流れ、その南岸に野沢盆地が開ける
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w4-nishiaizu-kotobank
+  - text: 近世には、現在の町域は阿賀川の北側が耶麻郡、南側が河沼郡に属しており、1954年の合併は郡の境をまたぐものだった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w4-nishiaizu-kotobank
+  - text: 中心地の野沢は、会津五街道の一つ・越後街道の宿場が置かれた町で、六斎市が行われるなど規模の大きな宿場として発展した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-nishiaizu-wiki
+  - text: 1960年（昭和35年）10月20日、高郷村の一部（束松地区）を編入した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w4-nishiaizu-wiki
+  - text: 総務省の全国地方公共団体コードで、西会津町の団体コードは074055と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 川と郡をまたいで生まれた「西」の町
+    text: 西会津町の発足は、地図の線を2本またぐ合併でした。阿賀川の北は耶麻郡、南は河沼郡。1954年に一つになった10町村は、川の両岸と郡の両側に散らばっていました。中心になったのは越後街道の宿場・野沢ですが、新町の名は野沢でも、どの旧村の名でもなく、「西会津」という方角の名でした。会津若松から見て西の外れ、越後との国境の町。中心の地名を捨てて方角を名乗る選択は、両郡のどちらにも肩入れしない、新しい枠組みの宣言でもあったのでしょう。
+    sources:
+    - w4-nishiaizu-kotobank
+    - w4-nishiaizu-uub
+  relations:
+  - pref/07
+  - muni/07-喜多方市
+  - muni/07-会津若松市
+  unknowns:
+  - 「西会津」の命名理由を町の公式資料で直接確認することは未了（位置による命名であることは地名の形と合併の経緯から明らかだが、命名記録の所在は未確認）
+  - 合併時に他の町名候補があったかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/07-西郷村
+  code: '074616'
+  names:
+    ja: 西郷村
+    reading: にしごうむら
+    aliases:
+    - 西郷
+  user_terms:
+  - にしごう
+  - 新白河駅のある村
+  - 新幹線が停まる村
+  - 阿武隈川源流の村
+  - ニシゴーヌ（村公式キャラクター）
+  naming_type: その他（白河城下の西の村々を指す近世以来の通称「西郷」を、1889年の合併時にそのまま正式な村名とした）
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県南端、西白河郡の村で、東北新幹線の新白河駅と東北自動車道白河インターチェンジを擁し、白河市と一体の市街地を形成する。村名「西郷」は、白河の城下から見て西にあたる村々を指した呼び名に由来し、近世から通称として使われていたものが1889年（明治22年）の町村制でそのまま村名となった。村域は阿武隈川の源流域にあたり、西に那須連峰と甲子高原を抱える。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による西郷村の発足
+    note: 自治体名としての初出。「西郷」という郷の名自体は近世から通称として用いられていたとされるが、一次資料での初出は未確認
+  claims:
+  - text: 村は福島県の南端に位置し、全域が阿武隈川の上流域にあたり、西境に那須連峰の三本槍岳・甲子山が連なって甲子高原をなす
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-nishigo-mlit
+    - w5-nishigo-wiki
+  - text: 村名「西郷」は、白河の城下から見て西にあたる村々であることから「白河の西部にある郷」を意味し、近世からこの一帯の通称として用いられていたとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-nishigo-gogen
+    - w5-nishigo-wiki
+  - text: 村公式の沿革は、明治元年（1868年）の戊辰戦争について「西郷の村々の民家約70パーセントが焼失」と記しており、自治体成立以前から「西郷」が一帯の総称として使われていたことがうかがえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-nishigo-vill-enkaku
+  - text: 1888年（明治21年）12月7日に米・長坂・柏野・羽太・熊倉・鶴生・真船・小田倉の合併が決まり、1889年（明治22年）4月1日に西郷村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-nishigo-vill-enkaku
+  - text: 村内の駅は1957年（昭和32年）に村名を冠した東北本線「磐城西郷駅」として設けられたが、1982年（昭和57年）6月23日の東北新幹線開業時に「新白河駅」へ改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-nishigo-vill-enkaku
+    - w5-nishigo-wiki
+  - text: 新白河駅は隣の白河市ではなく西郷村に所在し、日本の村で唯一、新幹線の停車する駅を持つ村とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-nishigo-wiki
+    - w5-nishigo-chisou
+  - text: 村は阿武隈川の源流の里を掲げ、源流域の清水は1986年（昭和61年）に「ふくしまの水30選」に認定され、1996年（平成8年）には国土庁の「全国水の郷」に認定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-nishigo-mlit
+    - w5-nishigo-vill-enkaku
+  - text: 西郷村の地方公共団体コードは074616である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 新白河駅は白河市にない
+    text: 東北新幹線の「新白河駅」は、その名に反して白河市ではなく西郷村にある。この駅はもともと村の名を取った「磐城西郷駅」で、1982年の新幹線開業のときに、白河の玄関口であることを示す「新白河」へ改められた。村はこの改称で「白河の西の郷」という自らの名の意味どおり、白河の西側の入口になった。駅前には「白河の関」のモニュメントまで建っているが、関の跡そのものは隣の白河市側にある。村名の由来と駅名の由来が、ここでは静かに入れ替わっている。
+    sources:
+    - w5-nishigo-vill-enkaku
+    - w5-nishigo-wiki
+  relations:
+  - pref/07
+  - muni/07-白河市
+  unknowns:
+  - 郷名としての「西郷」が近世の文書（白河藩の記録等）に現れる最古の用例は、本バッチでは確認できなかった
+  - 1889年の合併に際して村名を「西郷」とすることに決めた経緯（命名の議論の有無）は、村公式資料に明記されていない
   updated: '2026-11-13'
 - id: muni/07-郡山市
   code: '072036'
@@ -1103,6 +4503,98 @@ records:
   - 1955年の村名選定理由を明示した当時の資料（合併協議の記録・町史）は未確認
   - 「金山谷」の「金山」の語源（鉱山との関係など）は、専門文献のオンライン抜粋では未確認
   updated: '2026-11-13'
+- id: muni/07-鏡石町
+  code: '073423'
+  names:
+    ja: 鏡石町
+    reading: かがみいしまち
+    aliases:
+    - 鏡石村（1962年の町制施行までの旧称）
+    - 鏡石
+  user_terms:
+  - かがみいし
+  - 牧場の朝の町
+  - 岩瀬牧場のある町
+  - 田んぼアートの町
+  naming_type: 合併新設（1889年の合併時に、鏡田村の「鏡」と久来石・笠石両村の「石」を組み合わせて新しく作った合成名）
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県中通り南部、岩瀬郡の町で、阿武隈川と釈迦堂川に挟まれた台地に広がる。町名「鏡石」は合成地名で、1889年（明治22年）に鏡田・笠石・成田・久来石の4村が合併して鏡石村ができた際、鏡田村の「鏡」と久来石・笠石両村の「石」を取って名付けられたことが、町史に残る命名文書で確認できる。「鏡」の元になった鏡田には、和田平太胤長と妻・天留の悲恋で知られる鏡沼の伝説が伝わる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による鏡石村の発足と命名文書
+    note: 「鏡石」という地名そのものがこの合併で新たに作られた合成名で、それ以前の用例はない。前身の鏡田・鏡沼という地名はそれより古い
+  claims:
+  - text: 町は岩瀬郡の南東部を占め、東は阿武隈川、西は釈迦堂川に挟まれた火山灰の低丘陵・台地に位置する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-kagamiishi-kotobank
+  - text: 1876年（明治9年）に鏡沼・高久田・仁井田の3村が合併して鏡田村となり、1873年（明治6年）には笠石新田・森宿・行方野・細谷の4村が合併して笠石村となっていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-town-rekishi
+  - text: 1889年（明治22年）の町村制実施により、鏡田・笠石・成田・久来石の4村が合併して鏡石村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-town-rekishi
+  - text: 村名「鏡石」の命名理由は『鏡石町史』第1巻（通史編）に残る文書に「旧名称ヲ参互折衷シ鏡田村ノ鏡字ト久来石笠石両村ノ石字トヲ採リ新名称トス」と記されており、旧村名の字を組み合わせた合成地名であることが当時の文書で確認できる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-townshi-blog
+  - text: 1962年（昭和37年）8月1日に町制を施行して鏡石町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-town-rekishi
+  - text: 1969年（昭和44年）制定の町章は、鏡沼の美しい伝説をイメージして「カガミ」の「カ」を図案化したもので、中央の円は「石」を表現していると町公式が説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-town-gaiyou
+  - text: 鏡田の地名のもとになった鏡沼には、鎌倉の武士・和田平太胤長が奥州岩瀬の地へ流罪となり、夫を探してたどり着いた妻・天留が、夫の死を知って鏡を抱いて沼に身を投げ、一緒に沈んだ鏡が沼の底で輝いたため「鏡沼」と呼ばれるようになった、という悲恋の物語が伝わる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-town-pr
+  - text: この鏡沼の物語は天保13年（1842年）に白河藩鏡沼の大庄屋・常松菊畦が『磨光編』にまとめ、元禄2年（1689年）には松尾芭蕉と弟子の曽良も鏡沼（かげ沼）を訪れて心残りを紀行文に記したと、町の広報は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w5-kagamiishi-town-pr
+  - text: 鏡石町の地方公共団体コードは073423である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 悲恋の鏡が、合併の名に残った
+    text: 鏡石という名は、1889年の合併の席で旧村の字を寄せ集めて作られた、いわば事務的な合成名である。ところがその「鏡」は、鏡田村、さらにその前の鏡沼村へと遡る。そして鏡沼の名の奥には、流罪の夫を捜し歩いた天留が鏡を抱いて身を投げ、鏡が沼底で光ったという悲恋の物語があった。合併の実務で選ばれた一文字が、図らずも鎌倉以来の伝説を町の名前の中に封じ込めたことになる。町の紋章もこの伝説をかたどっており、今も鏡沼跡のほとりには芭蕉と曽良の像が立つ。
+    sources:
+    - w5-kagamiishi-town-pr
+    - w5-kagamiishi-town-gaiyou
+    - w5-kagamiishi-townshi-blog
+  relations:
+  - pref/07
+  - muni/07-須賀川市
+  unknowns:
+  - 『鏡石町史』所収の命名文書は町史を調査した紹介記事経由で確認したもので、町史の原文そのものは本バッチでは直接確認できていない
+  - 鏡沼の地名の初出（『磨光編』以前の文献に「鏡沼」「かげ沼」が現れるか）は確認できなかった
+  - 笠石・久来石の「石」の字そのものの由来（宿駅・石材等との関係）は確認できなかった
+  updated: '2026-11-13'
 - id: muni/07-須賀川市
   code: 072079
   names:
@@ -1179,6 +4671,193 @@ records:
   - 「須賀川」の語源は確定しておらず、スカ（洲処）＋カハとする説も一説にとどまる
   - 1333年の初出とされる具体的な文書名（着到状と伝える資料がある）は原典を確認できていない
   - 須賀川城の築城の正確な年代は確認できていない
+  updated: '2026-11-13'
+- id: muni/07-飯舘村
+  code: '075647'
+  names:
+    ja: 飯舘村
+    reading: いいたてむら
+    aliases:
+    - 飯曽村（1956年合併前の旧村名）
+    - 大舘村（1956年合併前の旧村名）
+    - 飯舘
+  user_terms:
+  - いいたて
+  - までいの村
+  - までいライフの村
+  - 日本で最も美しい村
+  naming_type: 合併新設（1956年の合併時に飯曽村の「飯」と大舘村の「舘」を組み合わせた合成名。合成名の繰り返しの末に生まれた名）
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県浜通り、相馬郡の村で、阿武隈山系北部の標高数百メートルの高原に開けた農山村。村名「飯舘」は1956年（昭和31年）に飯曽村と大舘村が合併した際の合成地名で、その前身の村名もまた合成地名という、合併のたびに一字ずつ名をつないできた珍しい系譜を持つ。「手間暇を惜しまず丁寧に」という方言「までい」を理念に据えた村づくりで知られ、2011年の原発事故では全村避難を経験した。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 飯曽村・大舘村の合併による飯舘村の成立
+    note: 合成地名としてこの年に新しく作られた名で、それ以前に「飯舘」という地名はない。前身の地名（飯樋・新舘など）は近世以来の村名に遡る
+  claims:
+  - text: 村は阿武隈山系北部の丘陵地帯に広がり、標高220〜600メートルに生活基盤を持つ高原的な農山村で、村域の約75パーセントを山林が占める
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-iitate-pref
+    - w5-iitate-ana
+  - text: 1956年（昭和31年）9月30日、旧大舘村と旧飯曽村の2村が合併して飯舘村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-iitate-pref
+  - text: 村名「飯舘」は、飯曽村の「飯」と大舘村の「舘」を一字ずつ採って合成した合成地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-iitate-wiki
+  - text: この合成は一度だけではなく、1889年（明治22年）に飯樋村と比曽村から「飯曽村」、大倉村と佐須村から「大須村」が生まれ、1942年（昭和17年）に大須村と新舘村から「大舘村」が生まれるなど、合併のたびに旧村名から字を採る合成が繰り返されてきた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-iitate-wiki
+  - text: その結果、現在の村名に残る「飯」はもとの飯樋村、「舘」はもとの新舘村の字であり、合併を重ねるごとに多くの旧村名が大字としてのみ残ることになった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-iitate-wiki
+  - text: 村名の材料になった「飯樋」は、池の水を田地におくる設備（樋）を指す、東日本によく見られる地名とされる
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w5-iitate-wiki
+  - text: 村が村づくりの理念に据える「までい」は、「手間暇惜しまず、丁寧に、心を込めて、相手を思いやる」という意味で使われてきた方言で、飯舘流のスローライフを「までいライフ」と呼ぶ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-iitate-meti
+  - text: 「までい」の語源は「両手・左右揃った手」を意味する「真手（まて）」とされ、村はこの理念が評価されて2010年（平成22年）に「日本で最も美しい村」連合に加盟した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w5-iitate-ana
+  - text: 2011年（平成23年）の東京電力福島第一原子力発電所事故により村は全村避難となり、2017年（平成29年）に長泥地区を除いて避難指示が解除され、帰村と復興が進められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-iitate-pref
+  - text: 飯舘村の地方公共団体コードは075647である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一字ずつのバトンでつながれた名前
+    text: 飯舘村の名前は、合併のたびに旧村の名から一字ずつ受け継ぐ「合成地名のリレー」の終着点である。飯樋と比曽が「飯曽」に、大倉と佐須が「大須」に、大須と新舘が「大舘」になり、最後に飯曽と大舘が「飯舘」になった。消えていった村の名は大字として地図に残り、今の村名の二文字には、実は飯樋と新舘という、もう表に出ない二つの村の名が生きている。手間を惜しまず一つひとつを丁寧につなぐという意味では、「までい」の村らしい名の継ぎ方でもある。
+    sources:
+    - w5-iitate-wiki
+    - w5-iitate-meti
+  relations:
+  - pref/07
+  - muni/07-南相馬市
+  - muni/07-相馬市
+  unknowns:
+  - 合成地名の連鎖（飯曽・大須・大舘の各命名）はWikipediaの「地名の由来」節に基づくもので、村史・町史級の資料での直接確認は本バッチではできていない
+  - 飯樋・比曽・佐須・大倉・新舘といった旧村名それぞれの語源の学術的な裏付け（専門辞典の記述）は確認できなかった
+  - 行方郡から相馬郡への所属変更（1896年）以前の、中世の村域の地名（飯樋郷等の有無）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/07-鮫川村
+  code: 074845
+  names:
+    ja: 鮫川村
+    reading: さめがわむら
+    aliases:
+    - 鮫川
+    - 赤坂の郷（中世の一帯の呼び名）
+  user_terms:
+  - さめがわ
+  - 鮫池伝説の村
+  - まめな暮らしの村
+  - 黄金の鮫の村
+  naming_type: その他（村域を流れる川「鮫川」の名を、1889年の合併の際に村名とした）
+  prefecture: 福島県
+  homonyms: []
+  summary: 福島県南端、東白川郡の村で、阿武隈高地南部の標高400メートル級の中山間地域にある。村名は村を流れる鮫川に由来し、その川名には、渡瀬地区の大池にまつわる「黄金の鮫」の伝説が結びついている。1889年（明治22年）に7村が合併して以来、平成の大合併でも住民投票で単独存続を選び、村の形を守ってきた。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による鮫川村の発足
+    note: 自治体名としての初出。川名「鮫川」自体の文献上の初出は未確認で、伝説の成立年代も定かでない
+  claims:
+  - text: 村は福島県の南端、阿武隈高地の南部に位置する中山間地域で、村域の大部分が標高400〜650メートルの間にあり、約58パーセントが山林である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-samegawa-vill-youran
+    - w5-samegawa-wiki
+  - text: 村の一帯は中世には「赤坂の郷」と呼ばれ、現在の村の中心は赤坂地区にある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-samegawa-vill-ayumi
+  - text: 1889年（明治22年）、赤坂西野村・西山村・赤坂中野村・赤坂東野村・石井草村・富田村・渡瀬村の7か村が合併して、現在の鮫川村が構成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-samegawa-vill-ayumi
+  - text: 村名のもとになった鮫川は村域を流れ、強滝や江竜田の滝などの景観を作っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-samegawa-vill-youran
+  - text: 川名「鮫川」の由来については、渡瀬地区の鮫池伝説が村名の由来として伝えられており、環境省の村紹介もこの伝説を鮫川村の由来として紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-samegawa-env
+  - text: 渡瀬地区に伝わる鮫池伝説では、子どものできない長者夫婦が氏神に願掛けして授かった娘が16歳で重い病にかかり、渡瀬の大きな池に連れて行くと黄金の鮫に姿を変えて池に飛び込んだ。この娘は池の主である黄金の鮫であり、池は鮫池と呼ばれるようになった。やがて鮫が川を下って海へ出て行くと、その通った川が鮫川と呼ばれるようになったという
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w5-samegawa-env
+  - text: 平成の大合併では棚倉町・塙町との合併協議会が設けられたが、2003年（平成15年）の住民投票で反対が70.6パーセントを占めたため協議会は解散し、村は単独存続を選んだ
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-samegawa-wiki
+  - text: 鮫川村の地方公共団体コードは074845である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 海のない山村に、なぜサメの名が
+    text: 鮫川村は標高400メートルを超える山あいの村で、海からは遠い。それなのに村の名は「鮫」の川である。この謎を解く鍵は渡瀬地区の池にあり、伝説では池の主は黄金の鮫で、病に倒れた長者の娘の正体だったという。鮫が池から川を下って海へ帰った跡が鮫川になった、という筋書きは、山の水がやがて海へつながることを物語の形にしたものでもある。川の名が村の名になり、伝説の鮫は今も村の語り草として残っている。
+    sources:
+    - w5-samegawa-env
+    - w5-samegawa-vill-youran
+  relations:
+  - pref/07
+  - muni/07-塙町
+  - muni/07-棚倉町
+  unknowns:
+  - 川名「鮫川」の文献上の初出や、伝説とは別の語源説（地形・動植物に由来する説等）の有無は確認できなかった
+  - 1889年の合併に際して村名を「鮫川」とした決定の経緯（合併村の中心が赤坂地区でありながら川名が選ばれた理由）は、村公式資料に明記されていない
+  - 鮫池の現在の所在と、伝説が記録された最古の資料（村史・郷土史の類）は確認できなかった
   updated: '2026-11-13'
 sources:
   a-cap-fukushima-city:
@@ -1322,3 +5001,492 @@ sources:
   u1-tamura-wiki-chiho:
     label: Wikipedia「田村地方」（中世末まで田村地方の大半は田村庄に含まれ、田村庄は坂上田村麻呂の功田として9世紀頃に成立したと考えられていること、律令制のもとでは田村地方は安積郡に編入されていたことを記す）
     url: https://ja.wikipedia.org/wiki/%E7%94%B0%E6%9D%91%E5%9C%B0%E6%96%B9
+  w1-bange-gikai-yoran:
+    label: 会津坂下町議会「議会要覧（令和6年）」（町公式。町名の由来はアイヌ語の「バッケ（坂の下）」がなまったものとする説のほか諸説あること、文明7年（1475年）に栗村と番下村を併せ「坂下村」と改めた記録があること、1955年の1町5村合併を記す）
+    url: https://www.town.aizubange.fukushima.jp/uploaded/attachment/8951.pdf
+  w1-bange-town-plan:
+    label: 会津坂下町公式「第2章 会津坂下町の現況」（明治10年（1877年）に坂下村が坂下町となり河沼郡役所が置かれたこと、1955年に坂下町・若宮村・金上村・広瀬村・川西村・八幡村が合併した年表を記す）
+    url: https://www.town.aizubange.fukushima.jp/uploaded/attachment/3463.pdf
+  w1-fukushima-formation:
+    label: 福島県「福島県の市町村の歴史的形成過程」（県公式。養老2年（718年）に石城国の5郡の一つとして標葉郡が置かれたこと、明治12年（1879年）の郡町村制復活で南会津郡・北会津郡が置かれたこと、明治29年（1896年）4月1日に楢葉郡と標葉郡が合併して双葉郡となったことを記す）
+    url: https://www.pref.fukushima.lg.jp/uploaded/attachment/88025.pdf
+  w1-furudono-town-intro:
+    label: 古殿町公式「町の紹介」（町名は総鎮守・古殿八幡神社の所在地「古殿」から取ったこと、「古殿」は領主の隠居の館「古記殿」に由来すると説明すること、1955年3月31日の古殿村誕生・1957年4月1日の町制・1994年4月1日の石川郡への移行、流鏑馬と町章を記す）
+    url: https://www.town.furudono.fukushima.jp/machinoshoukai/furudono/216
+  w1-futaba-nenpyo:
+    label: 双葉町公式「双葉町70年年表」（1951年4月1日に新山町と長塚村が合併して標葉町が誕生したこと、1956年4月1日に双葉町へ改称したこと、2011年の原発事故による全町避難と2022年8月30日の特定復興再生拠点区域の避難指示解除を記す）
+    url: https://www.town.fukushima-futaba.lg.jp/secure/14516/03_1.pdf
+  w1-futaba-wikipedia:
+    label: Wikipedia「双葉町」（市町村コード07546-9、「双葉」の町名は標葉郡と楢葉郡の合併にちなんだ名称であること、1950年から1955年まで旧楢葉郡側に別の双葉町が存在したこと、福島第一原子力発電所事故で全町避難となったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%8F%8C%E8%91%89%E7%94%BA
+  w1-kitashiobara-pamphlet:
+    label: 北塩原村「村制施行70周年記念誌」（昭和29年（1954年）3月31日に北山村・大塩村・檜原村が合併して北塩原村が発足したこと、1888年の磐梯山噴火と日本赤十字社の初の平時救護、1920年に遠藤現夢が「裏磐梯」と命名したことを記す）
+    url: https://aizu-hokuto.com/control/pdf/kitashiobara-pamplet.pdf
+  w1-kitashiobara-pref-report:
+    label: 福島県掲載「北塩原村桧原・裏磐梯地区実態調査報告書」（立教大学・文教大学。村名は北山村・大塩村・桧原村の3村から漢字1字ずつを取った名前であること、各村名の由来、1888年の山体崩壊で檜原湖・秋元湖・小野川湖などが形成されたことを記す）
+    url: http://wwwcms.pref.fukushima.jp/uploaded/attachment/631226.pdf
+  w1-miharu-bunkazai-plan:
+    label: 三春町「文化財保存活用地域計画策定協議会資料」（町公式。地名の由来として参陽の地（参春・御春）説を挙げ、正保2年（1645年）に秋田俊季が5万5千石で入部し秋田氏11代が明治まで治めたことを記す）
+    url: https://www.town.miharu.fukushima.jp/soshiki/19/uploads/%E7%AC%AC8%E5%9B%9E%E4%BC%9A%E8%AD%B0%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F.pdf
+  w1-miharu-nakatsuma-wiki:
+    label: Wikipedia「中妻村 (福島県)」（1955年4月1日に三春町・沢石村・要田村・中妻村・御木沢村・中郷村が合併して新・三春町が発足したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A6%BB%E6%9D%91_(%E7%A6%8F%E5%B3%B6%E7%9C%8C)
+  w1-miharu-profile:
+    label: 三春町公式「三春町のプロフィール」（町の鳥うぐいすは「三つの春」に由来する町にふさわしい鳥であること、町の位置と面積を記す）
+    url: https://www.town.miharu.fukushima.jp/soshiki/2/01-01prof.html
+  w1-miharu-taikei-jouka:
+    label: コトバンク『日本歴史地名大系』「三春城下」（三春の地名の由来の諸説はいずれも確証がないこと、延元3〜4年頃の古文書に「御春」「三春事」とみえること、坂上系図前書の1504年改名説、三春滝桜が国指定天然記念物であることを記す）
+    url: http://kotobank.jp/word/%E4%B8%89%E6%98%A5%E5%9F%8E%E4%B8%8B-1423305
+  w1-minamiaizu-profile:
+    label: 南会津町公式「新町プロフィール」（平成18年（2006年）3月20日に田島町・舘岩村・伊南村・南郷村が合併して誕生したこと、田島の鴫山城と会津西街道の宿場、南山御蔵入の歴史を記す）
+    url: https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/sogoseisakuka/machinitsuite/2/666.html
+  w1-minamiaizu-uub:
+    label: 市区町村変遷情報データベース（uub.jp）「南会津町」（7町村の研究会から4町村の枠組みになった経緯、新町名公募の上位に「南会津」が入り最終候補が「会津高原」と「南会津」の2点に絞られたことを記す）
+    url: https://uub.jp/upd/c/99.html
+  w1-misato-sogokeikaku:
+    label: 会津美里町「第4次総合計画」（町公式。2005年10月1日に会津高田町・会津本郷町・新鶴村が合併して誕生したこと、将来像に『美しきふる里 会津美里町』を掲げ、伊佐須美神社・会津本郷焼などを町の歴史文化として挙げる）
+    url: https://www.town.aizumisato.fukushima.jp/material/files/group/3/daiyozisougoukeikaku.pdf
+  w1-misato-uub:
+    label: 市区町村変遷情報データベース（uub.jp）「会津美里町」（2005年10月1日の新設合併、新町名公募の上位10点と最終候補5点、役場を旧会津高田町役場に置いたことを記す）
+    url: https://uub.jp/upd/c/102.html
+  w1-misato-uub-hongo:
+    label: 市区町村変遷情報データベース（uub.jp）「会津本郷町」（1992年4月1日に本郷町が会津本郷町へ改称したこと、2005年に会津美里町へ合併したことを記す）
+    url: https://uub.jp/upd/c/103.html
+  w1-mishima-shinko-plan:
+    label: 三島町「第五次三島町振興計画」（町公式。昭和30年に宮下村と西方村が合併して三島村となり、昭和36年4月1日の町制施行で三島町が誕生したという沿革、只見川と峡谷型山村の地勢を記す）
+    url: http://www.town.mishima.fukushima.jp/uploaded/attachment/3890.pdf
+  w1-mishima-wikipedia:
+    label: Wikipedia「三島町」（町名は旧宮下村にある三島神社に由来すること、1955年7月20日の合併と市町村コード07444-6、1942年の宮下村成立と1917年の西方村改称、2012年の「日本で最も美しい村」連合加盟を記す）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E7%94%BA
+  w1-nakajima-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」中島村（1955年1月1日に中島村が有効期間を開始した行政区域として記録する）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/07465A1968.html
+  w1-nakajima-vill-top:
+    label: 中島村公式ホームページ（村役場の所在地が西白河郡中島村大字滑津字中島西11番地の1であることを掲げる）
+    url: https://www.vill-nakajima.jp/
+  w1-nakajima-wikipedia:
+    label: Wikipedia「中島村」（市町村コード07465-9、1889年の吉子川村・滑津村の成立、1952年5月1日の滑津・吉子川組合立中島中学校の創立、1955年1月1日の合併による中島村発足を記す）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E6%9D%91
+  w1-shimogo-town-intro:
+    label: 下郷町公式「町の紹介」（町名は旧田島町中心の地域を上郷と呼んだのに対する下郷の呼び名によること、1889年以降の沿革、南山御蔵入と会津西街道・大内宿、阿賀川と塔のへつりを記す）
+    url: https://www.town.shimogo.fukushima.jp/organization/soumu/4/3/207.html
+  w2-fukushima-tadami-river-history:
+    label: 福島県公式「只見川の歴史」（弘法大師が「只見て帰られた」から只見川と呼ぶという伝説を寛文5年の風俗帳の記載として紹介）
+    url: https://www.pref.fukushima.lg.jp/site/tadami-river/rekishi.html
+  w2-hanawa-kotobank-nipponica:
+    label: 『日本大百科全書（ニッポニカ）』・『世界大百科事典』「塙」項（コトバンク掲載。1948年の塙町成立、1955年の塙笹原町、近世の代官所）
+    url: https://kotobank.jp/word/%E5%A1%99-656166
+  w2-hanawa-kotobank-taikei:
+    label: 『日本歴史地名大系』「塙村」項（コトバンク掲載。寛永21年の免状にみる東白川郡塙村の村高）
+    url: https://kotobank.jp/word/%E5%A1%99%E6%9D%91-1136769
+  w2-hanawa-town-yurai:
+    label: 塙町公式「『塙』の由来」（小学館『日本地名大百科 ランドジャポニカ』を引く地形語・方言「ハナワ」の当て字説と「圷」の創作文字）
+    url: https://www.town.hanawa.fukushima.jp/page/page000579.html
+  w2-hanawa-wiki:
+    label: Wikipedia「塙町」（明治22年の常豊村成立など沿革の年次）
+    url: https://ja.wikipedia.org/wiki/%E5%A1%99%E7%94%BA
+  w2-kawamata-kotobank:
+    label: 『日本歴史地名大系』「川俣」項（コトバンク掲載。中世以来の表記の揺れ、文保2年の根来寺関係の記録、小手郷村々書上帳の「四ケ村相名」）
+    url: https://kotobank.jp/word/%E5%B7%9D%E4%BF%A3-702904
+  w2-kawamata-town-itaru:
+    label: 川俣町公式「現在の川俣町に至るまで」（町教育委員会発行「かわまた」に基づく年表。明治9年の川俣村成立、明治22年の町制）
+    url: https://www.town.kawamata.lg.jp/site/chosei-shisetsu/history-itaru.html
+  w2-kawamata-town-naritachi:
+    label: 川俣町公式「町のなりたち・地名のおこり」（地名のおこりの2説：小手子姫の郷里・大和国川俣にちなむ説と、広瀬川と五十沢川の合流する川股の形状にちなむ説。昭和30年の合併構成）
+    url: https://www.town.kawamata.lg.jp/site/chosei-shisetsu/history-naritachi.html
+  w2-kawauchi-village-about:
+    label: 川内村公式「川内村とは」（村の位置と歴史。鎌倉時代の「かわうち」、明治6年の「山楢葉」、明治22年の上川内村・下川内村の合併による川内村誕生）
+    url: https://www.kawauchimura.jp/gyosei/gaiyo-meiyosonmin/page000062.html
+  w2-kawauchi-wiki:
+    label: Wikipedia「川内村」（村史に基づく歴史記述。文禄4年の検地における上・下川内村の高、昭和2年の村税廃止と木炭日本一、原発事故後の帰村宣言と避難指示解除の経緯）
+    url: https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E6%9D%91
+  w2-kawauchi-youran:
+    label: 川内村公式『福島県川内村 村勢要覧』（2017年。村の歴史と名誉村民・草野心平）
+    url: https://www.kawauchimura.jp/data/doc/1516083893_doc_10_0.pdf
+  w2-kunimi-town-history:
+    label: 国見町公式「町の歴史」（昭和29年に国見山・国見峠の名をとり国見町が誕生した経緯、古代の伊達郷）
+    url: https://www.town.kunimi.fukushima.jp/soshiki/1/218.html
+  w2-kunimi-town-kanko:
+    label: 国見町公式「くにみ語り 歴史」（芭蕉『おくのほそ道』の「伊達の大木戸」）
+    url: https://www.town.kunimi.fukushima.jp/site/kanko/2086.html
+  w2-kunimi-town-kousou:
+    label: 国見町「歴史文化基本構想」（『吾妻鏡』に記された阿津賀志山防塁と国見の宿）
+    url: https://www.town.kunimi.fukushima.jp/uploaded/attachment/5448.pdf
+  w2-kunimi-town-plan:
+    label: 国見町「歴史的風致維持向上計画」コラム「『国見町』の町名由来」（『吾妻鏡』の「伊達郡阿津賀志山辺国見駅」、1954年合併の構成町村）
+    url: https://www.town.kunimi.fukushima.jp/uploaded/attachment/13247.pdf
+  w2-okuma-kotobank-taikei:
+    label: 『日本歴史地名大系』「大熊町」項（コトバンク掲載。苦麻の村の比定、標葉郡と楢葉郡の領境、小良浜と小良ヶ浜）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%86%8A%E7%94%BA-39140
+  w2-okuma-town-70th:
+    label: 大熊町公式「大熊町は町制施行70周年を迎えました」（昭和29年11月1日に大野村と熊町村の合併で誕生）
+    url: https://www.town.okuma.fukushima.jp/soshiki/somu/29139.html
+  w2-okuma-town-kyodo:
+    label: 大熊町教育委員会「郷土学習資料集」（年表：明治22年の熊町村・大野村の成立構成、昭和29年の合併、原発事故による全町避難）
+    url: https://www.town.okuma.fukushima.jp/uploaded/attachment/8015.pdf
+  w2-okuma-town-plan:
+    label: 大熊町「文化財保存活用地域計画」（『常陸国風土記』の「苦麻之村」を熊川宿周辺に比定する説の紹介）
+    url: https://www.town.okuma.fukushima.jp/uploaded/attachment/11048.pdf
+  w2-okuma-wiki:
+    label: Wikipedia「大熊町」（熊川時代・大熊時代の歴史地理の整理、1896年の双葉郡成立）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%86%8A%E7%94%BA
+  w2-ono-town-gaiyou:
+    label: 小野町公式「町の概要」（歴史：小野郷の地名は倭名抄にあり、以前は七里ヶ沢と呼ばれ、小野篁の名にちなむという伝承、小野六郷）
+    url: https://www.town.ono.fukushima.jp/soshiki/2/gaiyou.html
+  w2-ono-town-komachi:
+    label: 小野町公式「小野小町生誕伝説」（篁と愛子の間に生まれた比古姫が小野小町だとする「わがまちの説」。記録は残されていないと明記）
+    url: https://www.town.ono.fukushima.jp/soshiki/7/onono-komachi.html
+  w2-ono-wiki:
+    label: Wikipedia「小野町」（明治22年の飯豊村・小野新町村・夏井村の発足、昭和30年2月1日の合併による小野町誕生）
+    url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E7%94%BA
+  w2-otama-vill-enkaku:
+    label: 大玉村公式「村の沿革」（江戸時代の玉井組、明治22年の大山村・玉井村、昭和30年の合併）
+    url: https://www.vill.otama.fukushima.jp/profile/enaku
+  w2-otama-vill-kousou:
+    label: 大玉村「歴史文化基本構想」（『大玉村史』に基づく織井の清水・機織御前の伝説、義家伝説の地名）
+    url: https://www.vill.otama.fukushima.jp/file/contents/1547/14368/honbun.pdf
+  w2-otama-wiki:
+    label: Wikipedia「大玉村」（昭和30年3月31日の新設合併、安達郡唯一の自治体）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%86%8F%E6%9D%91
+  w2-tadami-kotobank-nipponica:
+    label: 『日本大百科全書（ニッポニカ）』「只見」項（コトバンク掲載。中世の伊北郷、近世の口留番所）
+    url: https://kotobank.jp/word/%E5%8F%AA%E8%A6%8B-1691878
+  w2-tadami-kotobank-taikei-mura:
+    label: 『日本歴史地名大系』「只見村」項（コトバンク掲載。文禄3年蒲生領高目録の「只見」、慶長2年の「たゝミ」表記を紹介）
+    url: https://kotobank.jp/word/%E5%8F%AA%E8%A6%8B%E6%9D%91-3031717
+  w2-tadami-town-guidebook:
+    label: 只見町公式「只見町定住ガイドブック（平成30年度版）」（昭和30年の飛び地合併と昭和34年の只見町誕生）
+    url: https://www.town.tadami.lg.jp/File/2018/08/28/guidebook2018.pdf
+  w2-tadami-town-summary:
+    label: 只見町公式「町の概要」（沿革・南山御蔵入・電源開発の歴史）
+    url: https://www.town.tadami.lg.jp/abouttown/summary/index.html
+  w2-tadami-wiki:
+    label: Wikipedia「只見町」（明治22年の伊北村成立、昭和27年の只見村への改称などの年次）
+    url: https://ja.wikipedia.org/wiki/%E5%8F%AA%E8%A6%8B%E7%94%BA
+  w2-tenei-pref-report:
+    label: 福島県「天栄村二岐地区実態調査報告書」（郡山女子大学短期大学部、令和5年。1955年に湯本村・牧本村・大里村・広戸村が合併し、村名は中央部の天栄山に由来）
+    url: http://wwwcms.pref.fukushima.jp/uploaded/attachment/563091.pdf
+  w2-tenei-vill-mountains:
+    label: 天栄村公式「天栄村の主な山々」（天栄山は村のほぼ中央に位置し、合併時にこの山にちなんで村名が付けられた。二岐山の大男伝説）
+    url: http://www.vill.tenei.fukushima.jp/soshiki/6/sangyou-05.html
+  w2-tenei-wiki:
+    label: Wikipedia「天栄村」（1955年3月31日の合併の構成、分水嶺にまたがる村域）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%A0%84%E6%9D%91
+  w2-tomioka-futaba-old:
+    label: Wikipedia「双葉町 (福島県双葉郡旧上岡村)」（1950年に上岡村が改称した旧双葉町は現在の富岡町西部にあたり、現存する双葉町とは別個の自治体）
+    url: https://ja.wikipedia.org/wiki/%E5%8F%8C%E8%91%89%E7%94%BA_(%E7%A6%8F%E5%B3%B6%E7%9C%8C%E5%8F%8C%E8%91%89%E9%83%A1%E6%97%A7%E4%B8%8A%E5%B2%A1%E6%9D%91)
+  w2-tomioka-glec:
+    label: 茨城大学GLEC・国文学研究資料館シンポジウム資料「近世年貢割付状と災害」（近世の浜街道富岡宿、明治22年の富岡村・上岡村成立の整理）
+    url: https://www.glec.ibaraki.ac.jp/admin/wp-content/uploads/2026/03/102e429c911e7c962baaa9d3ef8b5ef3.pdf
+  w2-tomioka-pref:
+    label: 福島県「市町村名 富岡町」（町の概要と平成29年4月1日の避難指示の一部解除）
+    url: http://www.pref.fukushima.lg.jp/uploaded/attachment/326548.pdf
+  w2-tomioka-wiki:
+    label: Wikipedia「富岡町」（戦国時代頃に「富岡」の呼称が成立、明治22年の富岡村・上岡村の発足構成、明治33年の町制、昭和30年の合併）
+    url: https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E7%94%BA
+  w3-asakawa-kotobank-town:
+    label: 『日本歴史地名大系』「浅川町」項・ブリタニカ国際大百科事典「浅川〔町〕」項（コトバンク掲載。町域は古代は白河郡、中世は石川庄の庄域。町を流れるのは社川。1935年町制、近世の初めは浅川氏の城下町で塙代官所の陣屋、寛政9年の浅川騒動。ブリタニカは山白石村との合体を1951年とする）
+    url: https://kotobank.jp/word/%E6%B5%85%E5%B7%9D%E7%94%BA
+  w3-asakawa-matinami:
+    label: 町並み研究資料「浅川町」（文禄3年（1594年）の蒲生高目録に浅川村・村高703石余、寛保元年（1741年）以降に浅川陣屋が置かれたこと）
+    url: http://matinami.o.oo7.jp/hokkaidou-tohoku/asakawa.html
+  w3-asakawa-town-history:
+    label: 浅川町公式「浅川町の歩み」（昭和10年（1935年）に浅川町誕生、昭和29年（1954年）10月に山白石村合併、昭和30年（1955年）8月に小貫・太田輪合併）
+    url: http://www.town.asakawa.fukushima.jp/outline/history
+  w3-fukushima-code:
+    label: 福島県公式「地方公共団体コード」（市町村コード一覧。桑折町073016・檜枝岐村073644・柳津町074233・泉崎村074641・棚倉町074811・平田村075035・浅川町075043・広野町075418・楢葉町075426・新地町075612）
+    url: http://pref.fukushima.lg.jp/sec/01145a/code.html
+  w3-fukushima-oze-column:
+    label: 福島県公式コラム「ふくしま尾瀬のまち＜檜枝岐村 編＞」（黒檜を村名の由来とすること、星・平野・橘の3姓と落人伝承、人口密度日本一）
+    url: https://www.pref.fukushima.lg.jp/w4/oze/column/column026.html
+  w3-hinoemata-bunka-stage:
+    label: 文化庁「国指定文化財等データベース」檜枝岐の舞台（重要有形民俗文化財、1976年8月23日指定）
+    url: https://kunishitei.bunka.go.jp/bsys/maindetails/301/31
+  w3-hinoemata-fksm-youran:
+    label: 福島県市町村要覧2026「檜枝岐村」（コード073644）
+    url: https://www.fksm.jp/youran/073644.html
+  w3-hinoemata-kotobank-taikei:
+    label: 『日本歴史地名大系』「檜枝岐村」項（コトバンク掲載。古名「小屋ノ原」、文禄3年「檜木亦」・慶長2年「ひのへ又」・元和2年「丙亦」の表記、『新編会津風土記』の黒檜説を引用）
+    url: https://kotobank.jp/word/%E6%AA%9C%E6%9E%9D%E5%B2%90%E6%9D%91
+  w3-hinoemata-oze-info:
+    label: 尾瀬檜枝岐温泉観光案内「最後の秘境、檜枝岐村」（良質な黒檜（クロベ・地方名ネズコ）の産地であったことからその名を冠した）
+    url: https://www.oze-info.jp/ozh_story/story_hinoemata
+  w3-hinoemata-vill-gaiyo:
+    label: 檜枝岐村公式「村の概要」（歴史的背景：1889年の組合村成立と大正6年の独立、794年の藤原金晴の記録、平成14年に合併しない道を選んだこと）
+    url: https://www.vill.hinoemata.lg.jp/soumu/gaiyo/000014.html
+  w3-hirata-fksm-youran:
+    label: 福島県市町村要覧2026「平田村」（コード075035、所在地は石川郡平田村大字永田）
+    url: https://www.fksm.jp/youran/075035.html
+  w3-hirata-vill-sugata:
+    label: 『平田村のすがた』平成30年版統計書（平田村公式。平田村の沿革：往古は陸奥国白河郡石川郷、明治22年に7か村の合併で蓬田村・6か村の合併で小平村、昭和30年3月31日に両村が合併し現在の平田村が成立。地勢：全域が阿武隈山系の標高500〜700mの山間地帯）
+    url: https://www.vill.hirata.fukushima.jp/uploaded/attachment/933.pdf
+  w3-hirono-fksm-youran:
+    label: 福島県市町村要覧2025「広野町」（コード075418、沿革：昭15.4.1町制施行）
+    url: https://www.fksm.jp/youran/075418.html
+  w3-hirono-fukko-plan:
+    label: 広野町復興計画（第二次）（福島県サイト掲載。原発事故により役場機能の町外移転と約5,000名の町民の避難を強いられたこと）
+    url: http://pref.fukushima.lg.jp/uploaded/attachment/636906.pdf
+  w3-hirono-kotobank-town:
+    label: 『日本歴史地名大系』「広野町」項・ブリタニカ国際大百科事典「広野〔町〕」項（コトバンク掲載。1889年に6村が合体して広野村、1940年町制。中心地区の広野は陸前浜街道の宿駅、鎌倉時代は楢葉氏の支配下）
+    url: https://kotobank.jp/word/%E5%BA%83%E9%87%8E%E7%94%BA
+  w3-hirono-reconstruction:
+    label: 広野町・復興庁資料「福島復興・創生への災害に強いまちづくり」（人口5,490人（2011年3月11日）が2011年12月末時点で町内生活者242人となったこと）
+    url: https://www.reconstruction.go.jp/files/user/topics/main-cat7/sub-cat7-2/20241121_05.pdf
+  w3-hirono-town-origin:
+    label: 広野町公式「広野町の成り立ち」（1889年に6か村が合併して広野村、1940年町制。村名は広野村とも呼ばれた下北迫村に役場が置かれたことに由来。「広野」の初見は天正10年の「北迫村に広野立つ」、江戸初期に広野宿）
+    url: https://www.town.hirono.fukushima.jp/chousei/introduction/1001622/1002274.html
+  w3-izumizaki-gikai-gaiyo:
+    label: 『泉崎村議会概要』（泉崎村公式。村の沿革：明治22年に旧泉崎村・太田川村・踏瀬村が合併して川崎村、旧関和久村・北平山村が合併して関平村。昭和29年10月1日に両村が合併し現在の泉崎村が発足。村域を泉川が貫流）
+    url: https://www.vill.izumizaki.fukushima.jp/data/doc/1713941132_doc_20_0.pdf
+  w3-izumizaki-kotobank-village:
+    label: 『日本歴史地名大系』「泉崎村」項（コトバンク掲載。集落の北から東に泉川が流れ、建武2年（1335年）10月5日の某下文案（有造館本結城古文書写）に泉崎が見える）
+    url: https://kotobank.jp/word/%E6%B3%89%E5%B4%8E%E6%9D%91-30867
+  w3-izumizaki-vill-gaiyo:
+    label: 泉崎村公式「村の概要」（昭和29年に泉崎駅を中心として南北に位置する川崎・関平両村が合併し、新泉崎村が誕生したとする）
+    url: https://www.vill.izumizaki.fukushima.jp/gyosei/gaiyo/page000261.html
+  w3-izumizaki-wiki:
+    label: Wikipedia「泉崎村」（建武2年（1335年）に泉崎郷の地頭代職が和知重秀に与えられたこと、1889年・1954年の変遷表、泉崎駅は1896年開業）
+    url: https://ja.wikipedia.org/wiki/%E6%B3%89%E5%B4%8E%E6%9D%91
+  w3-koori-fksm-youran:
+    label: 福島県市町村要覧2026「桑折町」（コード073016、沿革：昭30.1.1合併 桑折町・睦合村・半田村・伊達崎村）
+    url: https://www.fksm.jp/youran/073016.html
+  w3-koori-kotobank-town:
+    label: 『日本歴史地名大系』「桑折町」項・ブリタニカ国際大百科事典「桑折〔町〕」項（コトバンク掲載。1889年町制、1955年合体、半田銀山と桑折宿）
+    url: https://kotobank.jp/word/%E6%A1%91%E6%8A%98%E7%94%BA
+  w3-koori-kotobank-village:
+    label: 『日本歴史地名大系』「桑折村」項（コトバンク掲載。福島県桑折：永仁5年の関東下知状に「桑折郷」、郡衙推定地と延喜式の伊達駅説。宮城県桑折：「郡（こおり）に関連する」「桑が多かったため桑折の字をあてた」説は三本木町誌による宮城県側の説明）
+    url: https://kotobank.jp/word/%E6%A1%91%E6%8A%98%E6%9D%91-3025132
+  w3-koori-town-rekimachi:
+    label: 桑折町歴史的風致維持向上計画 第1章（桑折町公式。町の沿革：1889年に11か村が4町村、1955年1月1日に桑折町・睦合村・半田村・伊達崎村が合併）
+    url: https://www.town.koori.fukushima.jp/uploaded/attachment/2135.pdf
+  w3-naraha-fksm-youran:
+    label: 福島県市町村要覧2026「楢葉町」（コード075426、沿革：昭31.9.1合併 龍田村・木戸村）
+    url: https://www.fksm.jp/youran/075426.html
+  w3-naraha-jstage:
+    label: 学会誌『地域安全学会論文集』掲載「復興と原子力防災」（全域に避難指示が出されていた8町村のうち最初に避難指示が解除されたのが楢葉町であること）
+    url: https://www.jstage.jst.go.jp/article/jasdis/14/0/14_71/_pdf/-char/en
+  w3-naraha-kotobank:
+    label: ブリタニカ国際大百科事典 小項目事典「楢葉〔町〕」項（コトバンク掲載。1956年に竜田・木戸の2村が合体して町制）
+    url: https://kotobank.jp/word/%E6%A5%A2%E8%91%89%E7%94%BA
+  w3-naraha-meti-lift:
+    label: 原子力災害対策本部「楢葉町における避難指示解除準備区域の解除について」（平成27年8月7日決定、避難指示は平成27年9月5日午前0時に解除）
+    url: https://www.meti.go.jp/earthquake/nuclear/kinkyu/hinanshiji/2015/pdf/0807_01a.pdf
+  w3-naraha-town-history:
+    label: 楢葉町公式「シンボル・歴史」（町の誕生：1956年に木戸村・竜田村が合併。町名の候補と「楢葉郷」に由来する町名の採用理由。年表：2011年3月12日全町民へ避難指示、2015年9月5日避難指示解除）
+    url: https://www.town.naraha.lg.jp/admin/cat337/005599.html
+  w3-shinchi-fksm-youran:
+    label: 福島県市町村要覧2026「新地町」（コード075612）
+    url: https://www.fksm.jp/youran/075612.html
+  w3-shinchi-kotobank-town:
+    label: 『日本歴史地名大系』「新地町」項・ブリタニカ国際大百科事典「新地〔町〕」項（コトバンク掲載。陸前浜街道の宿駅として発展。ブリタニカは合併を1951年・1971年町制とする）
+    url: https://kotobank.jp/word/%E6%96%B0%E5%9C%B0%E7%94%BA
+  w3-shinchi-mayor-essay:
+    label: 全国町村会「町村の取組」新地町長随想（明治22年に福田・新地・駒ケ嶺の3村が誕生し昭和29年に合併して新地村、昭和46年に町制。伊達政宗が駒ケ嶺・新地の両城を攻略し以後伊達領となったこと、津波で町域の約5分の1が浸水し全半壊630戸）
+    url: https://www.zck.or.jp/site/forum/1377.html
+  w3-shinchi-wiki:
+    label: Wikipedia「新地町」（1889年に谷地小屋村・今泉村・小川村・杉目村・大戸浜の5か村が合併して宇多郡新地村、1896年に相馬郡、1954年8月20日に駒ヶ嶺村・福田村と合併、1971年8月1日に町制。現在の福島県内で唯一の仙台藩領で仙台弁地域）
+    url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%9C%B0%E7%94%BA
+  w3-tanagura-fksm-youran:
+    label: 福島県市町村要覧「棚倉町」（要覧の町番号39＝団体コード074811のページ。自然条件・観光文化・特産品）
+    url: https://www.fksm.jp/youran/074811.html
+  w3-tanagura-kotobank-town:
+    label: 『日本歴史地名大系』「棚倉町」項・ブリタニカ国際大百科事典「棚倉〔町〕」項（コトバンク掲載。棚倉の名は丹羽長重が近津明神の御玉棚の跡地に築城して棚倉城と称したことに由来するという説、古名「伊野」と種倉説は東白川郡史による。1889年町制、1955年合体、寛永元年築城の城下町）
+    url: https://kotobank.jp/word/%E6%A3%9A%E5%80%89%E7%94%BA
+  w3-tanagura-town-castle:
+    label: 棚倉町公式「棚倉城」（棚倉城ができる前は赤館が中心、立花宗茂の棚倉領主、1622年に丹羽長重が5万石の棚倉領主となり寛永元年に築城命令）
+    url: https://www.town.tanagura.fukushima.jp/kasseika-kannkoubussann/kanko/rekishi-bunka/page000304.html
+  w3-yanaizu-fksm-youran:
+    label: 福島県市町村要覧2025「柳津町」（コード074233、沿革：昭30.3.31に西山村と合体、町の木は柳）
+    url: https://www.fksm.jp/youran/074233.html
+  w3-yanaizu-geoshape:
+    label: 歴史的行政区域データセットβ版「福島県河沼郡柳津町」（国立情報学研究所。有効期間1942-05-20〜、大正期に倉戸村・飯谷村が柳津村側へ取り込まれる変遷）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/07423A1968.html
+  w3-yanaizu-kanko-akabeko:
+    label: 会津柳津観光物産協会「赤べこ伝説」（1611年の大地震、1617年の虚空蔵堂再建と赤毛の牛）
+    url: https://aizu-yanaizu.com/feature/akabeko-legend
+  w3-yanaizu-kotobank-taikei:
+    label: 『日本歴史地名大系』「柳津町」項・ブリタニカ国際大百科事典「柳津〔町〕」項（コトバンク掲載。1942年町制、1955年西山村と合体、日本三虚空蔵の円蔵寺の門前町）
+    url: https://kotobank.jp/word/%E6%9F%B3%E6%B4%A5%E7%94%BA
+  w3-yanaizu-mayor:
+    label: 柳津町公式「町長あいさつ」（赤べこ伝説：大地震で倒壊した虚空蔵堂の再建を赤毛の牛の群れが助けた）
+    url: https://www.town.yanaizu.fukushima.jp/docs/2021030300012
+  w3-yanaizu-town-profile:
+    label: 柳津町公式「柳津町プロフィール」（福満虚空蔵菩薩を中心に栄えた門前町、宿坊から柳津温泉街へ）
+    url: http://www.town.yanaizu.fukushima.jp/docs/2015022500078
+  w3-yanaizu-townshi-fudo:
+    label: 『柳津町史』第一章 風土（町公式サイト掲載。只見川の玄関的集落・蔵入りの関門としての柳津の位置）
+    url: https://www.town.yanaizu.fukushima.jp/docs/2022030100015/file_contents/001020.pdf
+  w3-yanaizu-townshi-kanko:
+    label: 『柳津町史』第七章 観光（町公式サイト掲載。『楊津秘録』『虚空蔵縁起』に基づく大同2年・徳一の福満虚空蔵の縁起）
+    url: https://www.town.yanaizu.fukushima.jp/docs/2022030100015/file_contents/409456.pdf
+  w3-yanaizu-townshi-shuraku:
+    label: 『柳津町史』集落編（町公式サイト掲載。『新編会津風土記』による小柳津村の村名の発祥）
+    url: https://www.town.yanaizu.fukushima.jp/docs/2022030100015/file_contents/249287.pdf
+  w3-yanaizu-wiki:
+    label: Wikipedia「柳津町」（1889年に柳津村・大柳村・細八村が合併して柳津村発足、1921年に倉戸村・飯谷村と合併）
+    url: https://ja.wikipedia.org/wiki/%E6%9F%B3%E6%B4%A5%E7%94%BA
+  w4-bandai-bousai:
+    label: 内閣府防災「災害教訓の継承に関する専門調査会報告書 1888年磐梯山噴火」第1章（小磐梯の山体崩壊と岩屑なだれ、5村11集落が埋没）
+    url: https://www.bousai.go.jp/kyoiku/kyokun/kyoukunnokeishou/rep/1888_bandaisan_funka/pdf/1888--bandaisanFUNKA_05_chap1.pdf
+  w4-bandai-kensei:
+    label: 猪苗代町公式「磐梯山憲章」（磐梯山は「天に掛かる岩の梯子」を意味する「いわはしやま」と呼ばれ、万葉集に「会津嶺」と詠われた）
+    url: http://www.town.inawashiro.fukushima.jp/soshiki/7/1141.html
+  w4-bandai-town-history:
+    label: 磐梯町公式「まちの歴史」（807年に徳一が慧日寺を創建、磐梯山頂に磐梯明神を祀った会津仏教文化の拠点）
+    url: https://www.town.bandai.fukushima.jp/site/machizukuri/history.html
+  w4-bandai-town-keikaku:
+    label: 磐梯町「磐梯町歴史的風致維持向上計画」第1章（1875年に磐梯村が誕生、1889年の合併で現在の範囲に、1960年に磐梯村から磐梯町へ移行）
+    url: https://www.town.bandai.fukushima.jp/uploaded/attachment/961.pdf
+  w4-bandai-wiki:
+    label: Wikipedia「磐梯町」（中心市街地は慧日寺の門前町で古くは大寺と呼ばれ、磐梯町駅は1965年まで大寺駅）
+    url: https://ja.wikipedia.org/wiki/%E7%A3%90%E6%A2%AF%E7%94%BA
+  w4-inawashiro-donnatoko:
+    label: どんなとこ「【福島県猪苗代町】ってどんなとこ？」（野口英世の生誕地、磐梯山と1888年の噴火）
+    url: https://donnatoko.jp/fukushima-ken/inawashiro-guide
+  w4-inawashiro-ishida:
+    label: 石田明夫「会津地名町名の由来」（猪苗代をイ＝水、ナワ＝平らな地、シロ＝高い所とする大和ことば説を提示する郷土研究）
+    url: https://www.aidu.server-shared.com/~ishida-a/page005.html
+  w4-inawashiro-kanko:
+    label: 猪苗代観光協会「地名の由来『猪苗代』」（磐椅明神が野猪に苗代を耕作させた説、アイヌ語説を挙げ、定説はないとする）
+    url: https://www.bandaisan.or.jp/other/origin
+  w4-inawashiro-pref:
+    label: 福島県「猪苗代湖」パンフレット（日本で4番目に大きい湖、天鏡湖の別名、会津若松市・郡山市・猪苗代町にまたがる）
+    url: https://www.pref.fukushima.lg.jp/uploaded/attachment/679721.pdf
+  w4-inawashiro-town:
+    label: 猪苗代町公式「町の歴史」（年表：1888年磐梯山爆裂、1941年と1955年の合併）
+    url: https://www.town.inawashiro.fukushima.jp/soshiki/1/1176.html
+  w4-ishikawa-bunka:
+    label: 石川町教育委員会「石川町歴史文化基本構想」（文化庁サイト掲載。1955年3月31日に旧石川町・沢田村・野木沢村・母畑村・中谷村・山橋村が合併、御斎所街道の宿場町）
+    url: https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_117.pdf
+  w4-ishikawa-jtb:
+    label: 全国観光資源台帳「石川町」（日本交通公社。石川の地名は『和名抄』にあり、1894年町制、1955年に5村と合併）
+    url: https://tabi.jtb.or.jp/city?opt=%E7%A6%8F%E5%B3%B6%E7%9C%8C%2C%E7%9F%B3%E5%B7%9D%E7%94%BA&type=city
+  w4-ishikawa-town-gaiyo:
+    label: 石川町公式「石川町の概要」（713年に石川産の雲母・白石英を献上、1063年に源（石川）有光が石川庄に土着、日本三大鉱物産地）
+    url: https://www.town.ishikawa.fukushima.jp/about/pdf/appearance/01.pdf
+  w4-ishikawa-town-portal:
+    label: 石川町移住・定住ポータル「石川町について」（有光の移住を12世紀前半頃とし、1955年3月に6町村が合併して現在の石川町が誕生）
+    url: https://www.town.ishikawa.fukushima.jp/portal/outline.html
+  w4-katsurao-fukko:
+    label: 復興庁「葛尾村村制施行100周年記念式典」（村名の由来は信州の葛尾城から落ち延びた松本家が故郷の城名を名付けたのが始まりと言われている）
+    url: https://www.reconstruction.go.jp/portal/chiiki/2023/20230626171806.html
+  w4-katsurao-iju:
+    label: 葛尾村移住定住ポータル「かつらおのれきし」（1923年に葛尾村が単独で歩みはじめた経緯）
+    url: https://konnichiwa-katsurao.jp/youkoso/rekishi
+  w4-katsurao-kosya:
+    label: 葛尾むらづくり公社「葛尾コラム：葛尾の由来と"葛"の字について」（葛尾城は村上義清の居城、家来の松本勘解由介が相馬に落ち延び国境警備を頼まれて住み着いた地を葛尾と名付けたという。諸説あり）
+    url: https://katsurao-kosya.or.jp/20210325blog
+  w4-katsurao-vill:
+    label: 葛尾村公式「葛尾村の紹介」（村の沿革：染羽の国・和名抄の標葉郡、1889年に4か村合併で葛尾村と津島村の組合村、1923年3月31日に分離して葛尾村が発足）
+    url: https://www.katsurao.org/soshiki/1/101.html
+  w4-namie-choshi-lib:
+    label: 福島県立図書館所蔵目次情報『浪江町史』（浪江町史編集委員会編、1974年。第1編第1章第1節が「浪江」の町名考）
+    url: https://www.library.fcs.ed.jp/assets/pdf/namie-choshi.pdf
+  w4-namie-kirokushi:
+    label: 浪江町「浪江町震災・復興記録誌 2011.3.11-2021.3.31」（町の概要・なみえ焼そばと復興の取組）
+    url: https://www.town.namie.fukushima.jp/uploaded/attachment/14467.pdf
+  w4-namie-kotobank:
+    label: コトバンク「浪江町」（日本歴史地名大系・ブリタニカ国際大百科事典。1900年町制、中心地区の浪江は陸前浜街道の宿駅）
+    url: http://kotobank.jp/word/%E6%B5%AA%E6%B1%9F%E7%94%BA-108480
+  w4-namie-town-history:
+    label: 浪江町公式「浪江町の歴史1（古代から昭和中期）」（染羽国造・標葉氏・1953年と1956年の合併）
+    url: https://www.town.namie.fukushima.jp/site/understand-namie/namie-history-1.html
+  w4-namie-uub:
+    label: 市区町村変遷情報「福島県標葉郡浪江村の新設/村制（1889年4月1日）」（権現堂村・川添村・牛渡村・樋渡村・高瀬村の合併）
+    url: http://uub.jp/upd/u/u24417.html
+  w4-nishiaizu-kotobank:
+    label: コトバンク「西会津町」（日本歴史地名大系。耶麻郡の西端を占め、中央を阿賀川が流れ野沢盆地が開ける。近世は川の北側が耶麻郡、南側が河沼郡）
+    url: https://kotobank.jp/word/%E8%A5%BF%E4%BC%9A%E6%B4%A5%E7%94%BA-109345
+  w4-nishiaizu-uub:
+    label: 市区町村変遷情報「西会津町（1954年〜）」（1954年7月1日に野沢町・新郷村・奥川村・尾野本村・登世島村・下谷村・睦合村・群岡村・上野尻村・宝坂村が合併して西会津町が発足）
+    url: https://uub.jp/upd/c/5463.html
+  w4-nishiaizu-wiki:
+    label: Wikipedia「西会津町」（会津地方北西部に位置し、越後街道の宿場・野沢が中心。1960年に高郷村の一部を編入）
+    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%BC%9A%E6%B4%A5%E7%94%BA
+  w4-tamakawa-70th:
+    label: 玉川村「玉川村の由来」（村制70周年記念資料。須釜村村長が「玉川村」と「須泉村」の2案を提案し、玉川村に決まった経緯）
+    url: https://www.vill.tamakawa.fukushima.jp/Templates/PDF/summary/70th/page22-23.pdf
+  w4-tamakawa-kotobank:
+    label: コトバンク「玉川村」（日本歴史地名大系。泉郷川はかつての玉川、村名の由来は玉河宮の伝承地と玉石の産出にちなむという）
+    url: https://kotobank.jp/word/%E7%8E%89%E5%B7%9D%E6%9D%91-94278
+  w4-tamakawa-vill:
+    label: 玉川村公式「玉川村について」（1889年に泉村・須釜村が成立、1955年3月31日に両村が合併。有光が石川66郷を領し本村はその一部）
+    url: https://www.vill.tamakawa.fukushima.jp/outline/outline.html
+  w4-yabuki-furulabo:
+    label: ふるラボ（朝日新聞）「福島県矢吹町」町の紹介（源義家が矢柄で社の屋根を葺いたことが矢吹の地名の由来とされる、奥州道中の宿場）
+    url: https://furusato.asahi.co.jp/city/detail/07466
+  w4-yabuki-townshi:
+    label: 矢吹町公式「矢吹町史」（目次に「中世の矢吹」「矢吹の舘跡」「伝説のなかの矢吹」の章立てがある）
+    url: https://www.town.yabuki.fukushima.jp/data/doc/1727075623_doc_22_0.pdf
+  w4-yabuki-uub:
+    label: 市区町村変遷情報「矢吹町（1902〜1955年）」（1902年12月22日に矢吹村が町制施行、1955年3月31日に中畑村・三神村等と合併）
+    url: https://uub.jp/upd/c/9850.html
+  w4-yabuki-wiki:
+    label: Wikipedia「矢吹町」（日本三大開拓地の一つ、1955年の合併）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%90%B9%E7%94%BA
+  w4-yamatsuri-gakken:
+    label: 学研キッズネット辞典「やまつり【矢祭（町）】」（2001年に「市町村合併しない矢祭町宣言」を出し行財政改革で注目された）
+    url: https://kids.gakken.co.jp/jiten/dictionary08100166
+  w4-yamatsuri-pref:
+    label: 福島県県南地方振興局「観光情報・矢祭町」（矢祭山：永承6年に源義家が洞穴に弓矢を祀り戦勝を祈ったことに由来するという）
+    url: http://pref.fukushima.lg.jp/sec/01230a/yamatsuri.html
+  w4-yamatsuri-wiki:
+    label: Wikipedia「矢祭町」（1955年に矢祭村発足、1957年の編入、1963年町制、2001年の合併しない宣言）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E7%A5%AD%E7%94%BA
+  w4-yugawa-vill:
+    label: 湯川村公式「湯川村の紹介」（村の沿革：1889年に笈川村・勝常村へ分村、1957年の合併で湯川の名にちなみ湯川村と命名。会津のへそ・県内最小の自治体）
+    url: https://www.vill.yugawa.fukushima.jp/site/gyousei-top/introduction.html
+  w5-iitate-ana:
+    label: ANAふるさと納税「福島県」（飯舘村紹介：「までい」は「両手・左右揃った手」という意味の「真手（まて）」が語源で、大切に・丁寧に・心をこめての意。2010年に「日本で最も美しい村」連合に加盟）
+    url: https://furusato.ana.co.jp/area/tohoku/fukushima/
+  w5-iitate-meti:
+    label: 東北経済産業局「経営発達支援計画の概要（飯舘村商工会）」（「までい」は手間暇惜しまず、丁寧に、心を込めて、相手を思いやるという意味の方言で、「までいライフ」は飯舘流スローライフの村づくりの理念）
+    url: https://www.tohoku.meti.go.jp/s_cyusyo/shienkeikaku/pdf/fukushima/07-89.pdf
+  w5-iitate-pref:
+    label: 福島県公式「市町村の紹介 飯舘村」（阿武隈山系北部の高原の農山村。昭和31年9月30日に旧大舘村・飯曽村の合併で飯舘村が誕生したこと、避難指示解除後の推移）
+    url: https://www.pref.fukushima.lg.jp/uploaded/attachment/764156.pdf
+  w5-iitate-wiki:
+    label: Wikipedia「飯舘村」（地名の由来：1889年に飯樋村と比曽村から飯曽村、大倉村と佐須村から大須村、1942年に大須村と新舘村から大舘村、1956年に飯曽村と大舘村から飯舘村という合成地名の連鎖。「飯樋」は池の水を田に送る設備の意）
+    url: https://ja.wikipedia.org/wiki/%E9%A3%AF%E8%88%98%E6%9D%91
+  w5-kagamiishi-kotobank:
+    label: 『日本歴史地名大系』「鏡石町」項（コトバンク掲載。岩瀬郡南東部、阿武隈川と釈迦堂川に挟まれる地勢）
+    url: http://kotobank.jp/word/%E9%8F%A1%E7%9F%B3%E7%94%BA-43391
+  w5-kagamiishi-town-gaiyou:
+    label: 鏡石町公式「町の概要」（町章の由来：鏡沼の伝説をイメージに「カガミ」の「カ」を図案化し、中央の円は「石」を表現）
+    url: https://www.town.kagamiishi.fukushima.jp/machi/gaiyou.html
+  w5-kagamiishi-town-pr:
+    label: 鏡石町公式「広報かがみいし2022年3月号」（鏡沼に伝わる和田平太胤長と妻・天留の悲恋物語。『磨光編』天保13年、『奥の細道』の旅で芭蕉・曽良も鏡沼を訪れた）
+    url: https://www.town.kagamiishi.fukushima.jp/kouhou/files/2022/02/28/009522_split/2.pdf
+  w5-kagamiishi-town-rekishi:
+    label: 鏡石町公式「町の歴史」（1876年の鏡田村成立、1889年に鏡田・笠石・成田・久来石が合併し鏡石村、1962年町制施行）
+    url: https://www.town.kagamiishi.fukushima.jp/machi/rekishi.html
+  w5-kagamiishi-townshi-blog:
+    label: まちスタ「福島県鏡石町の由来や都市圏の話」（『鏡石町史』第1巻通史編に残る命名文書「旧名称ヲ参互折衷シ鏡田村ノ鏡字ト久来石笠石両村ノ石字トヲ採リ新名称トス」を国立国会図書館資料で調査し紹介）
+    url: https://iwaki-poleshift.jp/kagamiishi-origin-urban-area
+  w5-nishigo-chisou:
+    label: 内閣府地方創生推進室「地域再生計画（西郷村若者定住・雇用促進事業）」（新白河駅周辺の都市的環境と東北の玄関口としての沿革）
+    url: https://www.chisou.go.jp/tiiki/tiikisaisei/portal/pdf/dai4/a001s.pdf
+  w5-nishigo-gogen:
+    label: 語源由来辞典「西郷村」（白河城下から見て西にあたる村々で「白河の西部にある郷」を意味し、近世から通称として見られるとする）
+    url: https://gogen-yurai.jp/nishigo-mura-fukushima
+  w5-nishigo-mlit:
+    label: 国土交通省「水の郷 西郷」（阿武隈川源流の村。松平定信が絶賛したと伝わる楽翁渓など）
+    url: https://www.mlit.go.jp/tochimizushigen/mizsei/mizusato/shichoson/tohoku/nishigou.htm
+  w5-nishigo-vill-enkaku:
+    label: 西郷村公式「西郷村の沿革」（明治21年12月の合併決定・明治22年4月1日の西郷村誕生、昭和57年の東北新幹線開通など）
+    url: https://www.vill.nishigo.fukushima.jp/sonseijoho/1311.html
+  w5-nishigo-wiki:
+    label: Wikipedia「西郷村」（村名は「白河の西に位置する郷」に由来。日本の村で唯一の新幹線停車駅・新白河駅がある）
+    url: http://ja.wikipedia.org/wiki/西郷村
+  w5-samegawa-env:
+    label: 環境省除染情報サイト「福島県鮫川村のレポート」（渡瀬地区に残る鮫池伝説：娘が黄金の鮫に姿を変えて池に飛び込み、その鮫が通った川を鮫川と呼ぶようになったのが鮫川村の由来とされる）
+    url: https://josen.env.go.jp/zone/completion/fukushima_samegawa.html
+  w5-samegawa-vill-ayumi:
+    label: 鮫川村公式「村のあゆみ（沿革）」（中世は「赤坂の郷」。明治22年に赤坂西野村・西山村・赤坂中野村・赤坂東野村・石井草村・富田村・渡瀬村の7か村が合併して現在の鮫川村を構成）
+    url: https://www.vill.samegawa.fukushima.jp/page/page000013.html
+  w5-samegawa-vill-youran:
+    label: 鮫川村公式「村勢要覧2025」（阿武隈高地南部の中山間地域。鮫川の強滝・江竜田の滝。「まめな暮らしが息づく」村づくり）
+    url: https://www.vill.samegawa.fukushima.jp/data/doc/1769411065_doc_67_0.pdf
+  w5-samegawa-wiki:
+    label: Wikipedia「鮫川村」（平成の大合併では2003年の住民投票で反対が70.6％を占め、合併協議会を解散して単独立村を選んだ）
+    url: http://ja.wikipedia.org/wiki/鮫川村

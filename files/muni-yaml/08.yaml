@@ -423,6 +423,271 @@ records:
   - 「つま」の語源(「端」を意味する地形語とする解釈など)の典拠は未確認
   - 『和名抄』の下真郷が現在の下妻中心部に比定できるかの検証は未実施
   updated: '2026-11-13'
+- id: muni/08-五霞町
+  code: 085421
+  names:
+    ja: 五霞町
+    reading: ごかまち
+    aliases:
+    - 五霞村（1996年の町制施行までの旧称）
+    - 五ヶ村島（近世の一帯の呼び名）
+  user_terms:
+  - ごか
+  - 輪中の町
+  - 道の駅ごかの町
+  - 茨城の飛び地
+  - ごかりん（町公式キャラクター）
+  naming_type: その他（川に囲まれた一帯の旧称「五ヶ村（島）」を受け継ぎ、1889年の合併村名とした）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 茨城県西南端、猿島郡の町で、利根川・江戸川・中川・権現堂川の4河川に囲まれた輪中の土地にある。茨城県で唯一、全域が利根川の南側にあり、県内の他市町村とは川で隔てられている。町名「五霞」は、近世にこの一帯が「五ヶ村島」と呼ばれたことに由来すると伝えられ、1857年（安政4年）の『利根川図志』にもその名が見える。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による五霞村の発足
+    note: 自治体名としての初出。前身の地域名「五ヶ村島」は、安政4年（1857年）の赤松宗旦『利根川図志』に「古くは五ヶ村であったものが分かれた」として紹介されている
+  claims:
+  - text: 町は利根川・江戸川・中川・権現堂川の4本の川に四方を囲まれた輪中地帯にあり、茨城県内で唯一、全域が利根川の南側に位置する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w5-goka-donnatoko
+  - text: 近世のこの一帯は川に囲まれた島状の土地で「五ヶ村島」と呼ばれており、安政4年（1857年）の『利根川図志』は、佐伯川を挟んで十一ヶ村があり、古くは五ヶ村であったものが分かれたと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-goka-wiki
+  - text: 町の広報は、1889年の合併に触れて「この地域は、五ヶ村とか霞堤とか呼ばれており、五霞村が誕生」と伝えており、「五霞」の名が一帯の旧称を受け継いだものであることがうかがえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-goka-town-pr
+  - text: 1889年（明治22年）4月1日、元栗橋・幸主・山王山・山王・江川・冬木・新幸谷・川妻・小手指・大福田・小福田の輪中の11か村が合併して五霞村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-goka-town-pr
+    - w5-goka-wiki
+  - text: 「五ヶ村」から「五霞」という表記・名称への転化の経緯や、「霞」の字が選ばれた理由は、町の公式資料にも明記されておらず、確定できない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w5-goka-town-pr
+    - w5-goka-donnatoko
+  - text: 1875年（明治8年）に一帯は茨城県に編入されたが、県内他市町村と陸路で直接結ばれたのは1981年（昭和56年）の新利根川橋の開通以降で、長く「茨城の飛び地」のように扱われてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-goka-town-pr
+    - w5-goka-donnatoko
+  - text: 1996年（平成8年）6月1日に町制を施行して五霞町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-goka-town-30th
+  - text: 五霞町の地方公共団体コードは085421である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 利根川の南に残された茨城
+    text: 五霞町は茨城県でありながら、利根川の南にある。明治8年（1875年）、県境は「利根川本流の北が茨城、南は埼玉・千葉」と決められたが、当時の本流は権現堂川で、川に囲まれた五霞だけが南側に残された。以来この町は、橋が架かる1981年まで県内のどこへも陸路では行けない「飛び地」同然の土地だった。輪中を守る堤防とともに生きてきた町の名「五霞」は、川の中の島だった時代の「五ヶ村島」の記憶を、そのまま現代に運んでいる。
+    sources:
+    - w5-goka-town-pr
+    - w5-goka-donnatoko
+  relations:
+  - pref/08
+  - muni/08-境町
+  - muni/08-古河市
+  unknowns:
+  - 「五ヶ村」から「五霞」への名称転化の具体的経緯（命名者や「霞」の字の選定理由）は、町広報・郷土紹介のいずれでも確認できなかった
+  - 『利根川図志』の「五ヶ村島」の記載はWikipedia経由で確認したもので、原典そのものは直接確認できていない
+  - 中世の五霞地域の地名（五ヶ村の成立時期、古河公方期の村名）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/08-八千代町
+  code: 085219
+  names:
+    ja: 八千代町
+    reading: やちよまち
+    aliases:
+    - 八千代村（1972年の町制施行までの旧称）
+  user_terms:
+  - やちよ
+  - 白菜の町（白菜の生産量日本一として知られる）
+  - 八菜丸（はなまる）の町
+  - 八千代グリーンビレッジの町
+  naming_type: 合併新設（1955年の合併の際、旧5村の名前を一切使わない全く新しい名を投票で選んで命名）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 茨城県県西地域、結城郡に唯一残る町で、鬼怒川の東、関東平野のほぼ中央に位置する。町名「八千代」は1955年（昭和30年）の5村合併の際に生まれた名で、旧村名を一切入れず、全く新しい名前を投票・多数決で決めたという異例の経緯が町の史書に残る。ただし「なぜ八千代か」という命名理由そのものは、史書に明記されていない。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 安静村・下結城村・中結城村・西豊田村・川西村の合併による八千代村の発足
+    note: 旧地名に由来しない新規の命名。それ以前にこの一帯を指す「八千代」という地名はない
+  claims:
+  - text: 町は結城郡に属し、関東平野のほぼ中央、鬼怒川の流域に位置する農業の町で、白菜の生産地として知られる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-yachiyo-wiki
+    - w5-yachiyo-note
+  - text: 1955年（昭和30年）1月1日、安静村・下結城村・中結城村・西豊田村・川西村の5村が合併して八千代村が誕生し、同年、三和村の一部（成田）が加わった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-yachiyo-town-rekishi
+    - w5-yachiyo-wiki
+  - text: 1972年（昭和47年）2月1日に町制を施行して八千代町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-yachiyo-town-rekishi
+    - w5-yachiyo-wiki
+  - text: 新村名「八千代」は、合併する5村の名前を一切入れず、全く新しい名前を用意して投票し、多数決で決めたものであることが、町の史書を辿った歴史民俗資料館での調査で確認されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w5-yachiyo-note
+  - text: 「八千代」という名が選ばれた理由そのものは、町の史書に明記されておらず、確定できない
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - w5-yachiyo-note
+  - text: 町の歴史民俗資料館の職員は、「八千代」という言葉について、国歌にも歌われる「千代に八千代に」のとおり、繁栄や豊かさが子孫まで未来永劫続くという意味の、縁起の良い言葉であると説明している
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - w5-yachiyo-note
+  - text: 町内には仁江戸古墳群をはじめとする遺跡が多く残り、平安時代には栗山・芦ヶ谷・平塚などが平将門の乱の戦場になったと、町公式の歴史紹介は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-yachiyo-town-rekishi
+  - text: 八千代町の地方公共団体コードは085219である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 村の名をすべて捨てて、投票で決めた町
+    text: 合併の新名といえば、旧村の名から一字ずつ取る「合成地名」が定番である。ところが1955年の八千代村は、5つの村の名を一つも残さず、白紙から投票で名を選んだ。安静・下結城・中結城・西豊田・川西という、土地の記憶を刻んだ名前は行政の名から消え、大字としてだけ残った。なぜ「八千代」だったのかは史書に書かれていない。ただ、この言葉が「千代に、八千代に」と末永い繁栄を願う縁起の言葉であることは、名付けた人々の思いを静かに物語っている。
+    sources:
+    - w5-yachiyo-note
+    - w5-yachiyo-town-rekishi
+  relations:
+  - pref/08
+  - muni/08-結城市
+  - muni/08-下妻市
+  unknowns:
+  - 「八千代」の命名理由は町の史書に明記されておらず、投票の候補に挙がった他の名称や得票の経過も、本バッチでは確認できなかった
+  - 投票による命名を記した町の史書の原文は、資料館を訪れた協力隊員の報告経由でのみ確認しており、史書そのものは直接確認できていない
+  - 千葉県八千代市との混同が多いが、両者の名の由来に直接の関係は確認されていない
+  updated: '2026-11-13'
+- id: muni/08-利根町
+  code: 085642
+  names:
+    ja: 利根町
+    reading: とねまち
+    aliases:
+    - 布川町（1955年合併前の中心だった旧町名）
+  user_terms:
+  - とね
+  - 利根川の町
+  - 柳田國男が少年期を過ごした町
+  - 坂東太郎（利根川の異名）の町
+  naming_type: 合併新設（1955年の合併時に、町の南を流れる利根川にちなんで命名した新町名）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 茨城県南部、北相馬郡に唯一残る町で、利根川を挟んで千葉県と接する。町名は1955年（昭和30年）に布川町・文村・文間村・東文間村が合併した際に、利根川にちなんで付けられた。基になった川名「利根（刀祢）」自体は古代の和歌に見える古い名だが、その語源は利根郡由来説・「尖き峰」転化説など諸説あって定まっていない。中心だった布川は、民俗学者・柳田國男が少年期を過ごし、『利根川図志』の著者・赤松宗旦を生んだ河岸の町である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 布川町・文村・文間村・東文間村の合併による利根町の発足
+    note: 町名としての初出。もとの川名「利根」は、古代の和歌に「刀祢（とね）」と見える古い名である
+  claims:
+  - text: 町は北相馬郡の東部、利根川の北岸に位置し、町域の中央を新利根川が東西に貫流して、利根川・小貝川・新利根川の川に囲まれている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-tone-kotobank
+    - w5-tone-town-plan
+  - text: 1889年（明治22年）の町村制で、布川は単独で布川町となり、周辺は文村・文間村・東文間村となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-tone-kotobank
+  - text: 1955年（昭和30年）1月1日、布川町・文村・文間村・東文間村が合併して利根町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-tone-wiki
+  - text: 町名「利根」は、町の南境を流れる利根川にちなんで命名されたものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-tone-wiki
+  - text: 川名「利根」の語源については、和歌に見える「刀祢（とね）」をめぐって利根郡に由来する説や、源流域の尖った峰々をいう「尖き峰（ときみね）」が転化したとする説など諸説が提唱されてきたが、いずれも定説となっておらず、真の意味は不明とされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - w5-tone-river-wiki
+  - text: 合併前の中心だった布川は利根川の河岸の町で、『利根川図志』を著した赤松宗旦の生家と墓が残り、民俗学者の柳田國男も兄を頼って移り住み、少年期の2年間を布川で過ごした
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-tone-wiki
+  - text: 利根町は茨城県内で唯一、国道が一本も通っていない自治体である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-tone-wiki
+  - text: 利根町の地方公共団体コードは085642である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 川の名を町名に、町の記憶は布川に
+    text: 利根町という名は川からもらった借り物だが、その川の名の意味は誰にも分かっていない。「刀祢（とね）」は万葉の歌に現れるほど古く、語源は諸説紛々のままである。一方、町の中心だった布川には、この川を描いた江戸時代の名著『利根川図志』の著者・赤松宗旦が生まれ、少年時代の柳田國男が暮らした。利根川下流の五霞を「五ヶ村島」と記録したのも、その『利根川図志』である。川の名の由来は不明でも、川を見つめた人々の営みは、町の至る所に残っている。
+    sources:
+    - w5-tone-wiki
+    - w5-tone-river-wiki
+  relations:
+  - pref/08
+  - muni/08-取手市
+  - muni/08-龍ケ崎市
+  - muni/08-五霞町
+  unknowns:
+  - 1955年の合併に際して「利根町」の名が選ばれた経緯（他の候補名の有無など）は、町公式資料に明記されておらず確認できなかった
+  - 川名「利根」の語源は専門の地名学でも定説がなく、本バッチではWikipediaの諸説整理以上の確認はできていない
+  - 布川の河岸としての最盛期の規模や、布川城・布川宿の詳細な沿革は確認できなかった
+  updated: '2026-11-13'
 - id: muni/08-北茨城市
   code: 082155
   names:
@@ -809,6 +1074,361 @@ records:
   unknowns:
   - 「坂東」という語の文献上の初出は未確認
   - 岩井の「石井」営所説について、『将門記』など中世の史料との関係は未確認
+  updated: '2026-11-13'
+- id: muni/08-城里町
+  code: 083101
+  names:
+    ja: 城里町
+    reading: しろさとまち
+    aliases:
+    - 常北町・桂村・七会村（2005年合併前の旧町村名）
+  user_terms:
+  - しろさと
+  - 城北の町
+  - ホロルの湯の町
+  - 道の駅かつらの町
+  - ふれあいの里の町
+  naming_type: 合併新設（2005年の合併で新造。「城北」と呼ばれた土地の「城」と、各町村の施設名などに通じる「里」を組み合わせた）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 茨城県県央地域、東茨城郡の町で、県庁所在地・水戸市の北西に隣接する。那珂川とその支流が流れ、西部は八溝山系南縁の丘陵が広がる。町名「城里」は2005年（平成17年）に常北町・桂村・七会村が合併した際の新名で、「城」は水戸城の北＝「城北」地区と呼ばれてきた土地柄から、「里」は各町村にあった「ふれあいの里」「うぐいすの里」「山びこの郷」などの名と、ふるさとのイメージから採られた。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 常北町・桂村・七会村の合併による城里町の発足
+    note: 合併に合わせて新しく作られた町名で、それ以前に「城里」という地名はない
+  claims:
+  - text: 町は水戸市の北西に隣接し、那珂川と藤井川などの支流が流れ、中西部は八溝山系南縁の標高200メートル前後の丘陵地帯である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shirosato-town-plan2
+  - text: 2005年（平成17年）2月1日、常北町・桂村・七会村の1町2村が合併して城里町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shirosato-town-plan
+    - w5-shirosato-wiki
+  - text: 前身の常北町と桂村は1955年（昭和30年）の昭和の大合併で、七会村は1889年（明治22年）の明治の大合併で成立した自治体である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-shirosato-town-plan
+  - text: 町名の「城」は、当地域が水戸城の北に位置し、昔から「城北（じょうほく）地区」と呼ばれていたことに由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-shirosato-wiki
+  - text: 町名の「里」は、合併前の各町村に「ふれあいの里」「うぐいすの里」「山びこの郷」があったことや、日本のふるさとのイメージがあることから採られた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-shirosato-wiki
+    - w5-shirosato-town-plan2
+  - text: 合併前の常北町は、1995年（平成7年）に水戸市との合併を推進する決議と法定協議会の設置を行ったが、協議会は1999年（平成11年）に休止され、最終的に水戸市とは合併せず城里町の一員となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-shirosato-uub
+  - text: 城里町の地方公共団体コードは083101である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「城北」が「城里」になったわけ
+    text: 水戸城の北の土地は、長く「城北」と呼ばれてきた。2005年の合併で生まれた町の名は、その「城」に「里」を合わせた「城里」である。「里」の材料は、各町村にあった「ふれあいの里」「うぐいすの里」「山びこの郷」という、いこいの施設の名前だった。かつて中心の常北町は水戸市との合併を真剣に進めたことがある。それが結局は実らず、城下町の北の里山は「城里」という穏やかな名で独立した町になった。城の名を残しながら「北」を「里」に替えた一文字に、この土地の選択が表れている。
+    sources:
+    - w5-shirosato-wiki
+    - w5-shirosato-uub
+  relations:
+  - pref/08
+  - muni/08-水戸市
+  - muni/08-笠間市
+  unknowns:
+  - 町名の選定過程（公募の有無、応募総数、他の最終候補）については、本バッチでは確認できなかった
+  - 「城北地区」という呼び名がいつ頃から使われていたか（江戸時代の用例の有無）は確認できなかった
+  - 町名の由来説明はWikipediaの記述に基づくもので、合併協議会の公式資料そのものは直接確認できていない
+  updated: '2026-11-13'
+- id: muni/08-境町
+  code: 085464
+  names:
+    ja: 境町
+    reading: さかいまち
+    aliases:
+    - 堺（旧表記の一つ）
+    - 栄井・さか井（旧表記）
+    - 境河岸
+  user_terms:
+  - さかい
+  - 境河岸の町
+  - さしま茶の町
+  - 利根川大花火大会の町
+  - 関宿の向かいの町
+  naming_type: その他（近隣との境界に由来すると伝えられる古い地名「境」をそのまま継承。1889年には単独で町制を施行した）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 茨城県西南部、猿島郡の町で、利根川と江戸川の分岐点、利根川北岸の台地に位置する。地名「境」は、古く新田開発の際に上小橋・下小橋と長井戸との境界となったために起こったと専門辞典に伝えられ、国境ではなく村同士の境にちなむ名である。江戸時代は関宿藩に属し、対岸の関宿城下と一体の河岸・宿場として栄えた。1889年（明治22年）には早くも単独で町制を施行した古い町である。
+  first_attestation:
+    era: 天文23年
+    year_western: 1554
+    document: 『東国闘戦見聞私記』
+    note: 『日本歴史地名大系』が紹介する用例で、「境、関宿を攻む可し」と見える。自治体としての境町は1889年の単独町制に始まる
+  claims:
+  - text: 町は利根川と江戸川の分岐点に位置し、利根川北岸の南北に長い台地に広がり、南は利根川を隔てて関宿城下（現・千葉県野田市関宿）と向かい合う
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-sakai-kotobank
+    - w5-sakai-wiki
+  - text: 『日本歴史地名大系』は、境の地名について、往古の新田開発に際して上小橋・下小橋と長井戸との境界となったため地名が起こったと伝えられ、「栄井」「さか井」「堺」とも記されたとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-sakai-kotobank
+  - text: 天文23年（1554年）の『東国闘戦見聞私記』には「境、関宿を攻む可し」と見え、戦国時代には関宿と並ぶ要地として「境」の名が記録されていたことが、『日本歴史地名大系』によって紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-sakai-kotobank
+  - text: 江戸時代、境は関宿藩に属し、利根川対岸の城下町・関宿と一体とみなされ、河川舟運を活かして発展した。慶長年間に河岸が設置され、安永3年（1774年）には河岸問屋2軒が公認された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-sakai-wiki
+  - text: 1889年（明治22年）、境町は単独で町制を施行して猿島郡境町となり、江戸時代から郡役所が置かれるなど一帯の行政の中心だった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-sakai-wiki
+  - text: 1955年（昭和30年）3月16日、旧境町に長田村・静村・森戸村・猿島村が合併して、現在の境町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-sakai-uub
+    - w5-sakai-wiki
+  - text: 平成期には、後に坂東市となった岩井市や猿島町との合併が検討されたが、住民投票で反対が多数となり、単独町制が継続された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-sakai-wiki
+  - text: 境町の地方公共団体コードは085464である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 国境ではなかった「境」
+    text: 「境」という地名を聞くと、国の境目を思う人が多いだろう。しかし専門辞典が伝えるこの町の「境」は、もっと小さな境界である。新田を開くとき、隣の村々との境になった場所、というのが由来だとされる。川向こうの関宿も同じ下総の城下町で、国境などではなかった。それでも戦国時代の記録に「境、関宿」と並んで現れるほど、この境の地は要所だった。江戸時代には河岸として荷物が集まり、今も堤防の上からは関宿城と、その向こうの富士山を一緒に望むことができる。
+    sources:
+    - w5-sakai-kotobank
+    - w5-sakai-wiki
+  relations:
+  - pref/08
+  - muni/08-五霞町
+  - muni/08-古河市
+  - muni/08-坂東市
+  unknowns:
+  - 「境」の地名の由来について、国境（下総国と他国との境）に結びつける説明は一般に連想されるが、専門辞典を含む本バッチの資料では確認できなかった
+  - 『東国闘戦見聞私記』の1554年の記事は『日本歴史地名大系』経由で確認したもので、原典は直接確認できていない
+  - 「境」の呼称が集落名として定着した時期（中世以前の用例の有無）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/08-大子町
+  code: 083640
+  names:
+    ja: 大子町
+    reading: だいごまち
+    aliases:
+    - 大子村（1891年の町制施行までの旧称）
+    - 大子
+  user_terms:
+  - だいご
+  - 奥久慈の町
+  - 袋田の滝の町
+  - 大子来人（ダイゴライト）
+  naming_type: その他（中世以来の地名「大子」を継承したもの。語源は未詳）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 茨城県の最北西部、久慈郡の町で、中央を久慈川が南流し、県内最大級の面積の約8割を山岳地が占める。日本三名瀑の一つ・袋田の滝で知られる。町域はもと陸奥国白河郡の依上郷・依上保に属し、永禄年間に佐竹領となって常陸国に編入された。「大子」の名は中世には城の名として現れる古い地名だが、その語源は町公式・専門辞典のいずれにも説明がなく、未詳である。
+  first_attestation:
+    era: 永正7年
+    year_western: 1510
+    document: 大子城の攻略記事（大子町公式「大子町の歴史略年表」）
+    note: 地名「大子」の用例として本バッチで確認できた古い例で、白河結城氏の属城・大子城を佐竹義舜が攻略したとされる年。地名そのものの初出はさらに遡る可能性がある
+  claims:
+  - text: 町は茨城県の最北西部に位置し、ほぼ中央を久慈川が南流して、総面積約326平方キロメートルの約8割が八溝山系・阿武隈山系の山岳地である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-daigo-town-gaiyo
+    - w5-daigo-kotobank
+  - text: 町公式の概要は、町域はもと陸奥国白河郡に属し、『和名類聚抄』に見える白河郡17郷の一つ「依上郷」として10世紀前半には成立し、後に「依上保」と呼ばれたと紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-daigo-town-gaiyo
+  - text: 町域は永禄年間（1558〜1570年）に佐竹氏領となってから常陸国に編入され、佐竹氏の秋田移封後は水戸藩領となり、明治4年（1871年）に茨城県に属するようになった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w5-daigo-kotobank
+    - w5-daigo-town-gaiyo
+  - text: 中世の依上保には大子城があり、永正7年（1510年）に佐竹義舜が白河結城氏の属城である大子城を攻略したことが、町公式の歴史略年表に記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w5-daigo-town-nenpyo
+  - text: 1889年（明治22年）に浅川村・上岡村・大子村・山田村の区域をもって大子村が発足し、1891年（明治24年）7月20日に町制を施行して大子町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-daigo-wiki
+    - w5-daigo-town-nenpyo
+  - text: 1955年（昭和30年）3月31日、依上・袋田・宮川・佐原・黒沢・生瀬・上小川の7村と下小川村の一部が合併し、現在の大子町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w5-daigo-wiki
+  - text: 地名「大子」の語源については、町公式の概要・歴史資料にも、『日本歴史地名大系』の「大子町」項にも説明が見当たらず、本バッチの調査範囲では未詳である
+    kind: fact
+    level: E3
+    status: unknown
+    sources:
+    - w5-daigo-town-gaiyo
+    - w5-daigo-kotobank
+  - text: 町内の袋田の滝は久慈川支流の滝川にかかる4段の滝で、国指定の名勝であり、その別名「四度（よど）の滝」は、弘法大師空海が四度にわたって護摩修行を行ったことに由来すると伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w5-daigo-town-fukuroda
+  - text: 大子町の地方公共団体コードは083640である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「四度」の滝の、二つの由来
+    text: 袋田の滝は「四度の滝」とも呼ばれる。その由来には二つの物語がある。一つは、弘法大師空海がこの滝で四度、護摩の修行を行ったという伝説。もう一つは、西行法師が「この滝は四季に一度ずつ来てみなければ、本当の風趣は味わえない」と絶賛したから、という話である。滝そのものが四段に落ちる姿と重なって、どちらの話も長く語り継がれてきた。水戸藩の光圀ら歴代藩主もこの滝を訪れて和歌を詠み、滝は日本三名瀑の一つとして町の顔になった。一方で町の名「大子」の由来は、どの資料にも書かれていない。名瀑の物語の豊かさと、地名の語源の沈黙は、対照的である。
+    sources:
+    - w5-daigo-town-fukuroda
+    - w5-daigo-kanko
+  relations:
+  - pref/08
+  - muni/08-常陸大宮市
+  - muni/08-常陸太田市
+  unknowns:
+  - 地名「大子」の語源は未詳。「久慈川の大きな支流の子」に結びつけるような説明を含め、語源を説く公的・専門資料は本バッチでは一切確認できなかった
+  - 「大子」という地名の文献上の初出（大子城以前の、大子村・大子郷等の用例）は確認できなかった
+  - 大子城の所在地や築城者など、城に関する詳細は町公式年表の攻略記事以上の確認ができていない
+  updated: '2026-11-13'
+- id: muni/08-大洗町
+  code: 083097
+  names:
+    ja: 大洗町
+    reading: おおあらいまち
+    aliases:
+    - 大洗磯前
+    - 磯浜町
+    - 大貫町
+  user_terms:
+  - 大洗海岸
+  - 神磯の鳥居
+  - アクアワールド大洗
+  - ガルパンの聖地
+  - 大洗さま
+  naming_type: 合併新設（1954年の合併に際し、古代以来の地域名「大洗」を新町名に採用）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 太平洋に面した港町で、町名「大洗」は平安時代の史料に現れる古い地名である。斉衡3年（856年）の『日本文徳天皇実録』に「鹿嶋郡大洗磯前」とあり、大洗磯前神社の社地として知られた。1954年（昭和29年）に磯浜町と大貫町が合併した際、どちらの町名でもない「大洗」が新町名に選ばれた。「大洗」の語源そのものについては定説がなく、海岸の岩礁（磯）との結びつきの深い名として伝わる。
+  first_attestation:
+    era: 斉衡3年
+    year_western: 856
+    document: 日本文徳天皇実録
+    note: 町が刊行した磯浜古墳群保存活用計画が紹介する「鹿嶋郡大洗磯前」の記録。地名「大洗」の使用例の初出級資料で、命名の記録ではない
+  claims:
+  - text: 大洗町が刊行した磯浜古墳群保存活用計画によれば、870年代に成立した『日本文徳天皇実録』には斉衡3年（856年）の「鹿嶋郡大洗磯前」の記録があり、町名の「大洗」は1,150年以上前に成立していたことが知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-oarai-town-plan
+  - text: 同計画によれば、10世紀前半に成立した『和名類聚抄』では、町域は古代鹿嶋郡に属する北部の宮田郷と南部の大屋郷に分かれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-oarai-town-plan
+  - text: 同計画によれば、江戸時代前期にイワシ漁などの地先漁業が発達して市街地が整うと、それまでの宮田村は大洗海岸の岩礁に由来する「磯」「磯ノ浜」「磯浜」へと名を変えていった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-oarai-town-plan
+  - text: 1954年（昭和29年）11月3日に磯浜町と大貫町が合併して大洗町が発足し、翌1955年（昭和30年）7月23日には鹿島郡旭村の一部（旧夏海村の神山・成田の一部）が編入された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-oarai-town-plan
+    - w6-oarai-wiki
+  - text: 合併で生まれた新町名「大洗」は、合併した磯浜町・大貫町のどちらの名でもなく、856年以来史料に現れる地域の古名を採用したものである
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - w6-oarai-town-plan
+  - text: 『日本文徳天皇実録』斉衡3年12月条には、海水を煮て塩を作る者が夜に海の光を見、翌日に2つの怪石が現れ、神が人に憑って「我は大奈母知・少比古奈命なり。昔この国を造り終えて東海に去ったが、今民を済うため更に来帰した」と託宣したという神出現の物語が、常陸国からの上言として記録されている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w6-oarai-shrine-wiki
+  - text: 「大洗」という名の語源について、町の公式資料は成立の時期を示すにとどまり、荒波が岩礁を洗う海岸の地形に結びつける説明が流布しているものの、典拠のある定説は確認できない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w6-oarai-town-plan
+  - text: 大洗町の地方公共団体コードは083097である（J-LISの茨城県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  column:
+    title: 神が降りた岩礁と「二つの磯前」
+    text: 大洗磯前神社の沖の岩礁「神磯」には鳥居が立ち、初日の出の名所として知られる。856年の『日本文徳天皇実録』が伝える神出現の舞台がこの磯で、大己貴命は大洗に、少彦名命は北隣の酒列（さかつら、現在のひたちなか市）の酒列磯前神社に祀られたと伝えられ、両社は「二つの磯前」として兄弟神社のように信仰されてきた。『延喜式神名帳』で名神大社に列した格式に加え、民謡の磯節に「大洗さま」と歌われたことが、古名「大洗」を地域の象徴として残し、1954年の合併で町名に選ばれる素地になったと考えられる。
+    sources:
+    - w6-oarai-shrine-wiki
+    - w6-oarai-town-plan
+  relations:
+  - pref/08
+  unknowns:
+  - 「大洗」の語源（荒波が岩礁を洗う様子に由来するという説明の典拠）を確認できなかった
+  - 1954年の合併協議で「大洗」が新町名に選ばれた具体的な経緯（候補名や選定理由の記録）を確認できなかった
   updated: '2026-11-13'
 - id: muni/08-守谷市
   code: 082244
@@ -1290,6 +1910,90 @@ records:
   - 光圀の「領内一」の言葉を記した同時代史料は確認されておらず、故事が文字記録に現れる初出は未特定(郷土史の検討課題とされている)
   - 日立村の命名経緯を記した「長老家の旧書」の現物の確認は未実施(市勢概要の紹介による)
   updated: '2026-11-13'
+- id: muni/08-東海村
+  code: 083411
+  names:
+    ja: 東海村
+    reading: とうかいむら
+    aliases:
+    - 村松村
+    - 石神村
+  user_terms:
+  - 原子力の村
+  - 東海発電所のある村
+  - JCO事故の村
+  - とうかいむら
+  naming_type: 文献から命名（藤田東湖『正気歌』の一節に由来するとされる）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 那珂郡に属する、茨城県で2つだけの村の1つで、日本の原子力研究発祥の地として知られる。村名「東海」は1955年（昭和30年）の村松村・石神村の合併で生まれた新名で、水戸藩士・藤田東湖の『正気歌』の一節に由来すると村は紹介している。合併に先立つ1948年（昭和23年）には、両村の組合立中学校がすでに「東海中学校」を名乗っていた。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 村松村・石神村の合併による東海村の発足
+    note: 自治体名としての初出。「東海」の名自体は1948年開校の村松村石神村組合立東海中学校で先に用いられた
+  claims:
+  - text: 東海村の広報は、村の名前の由来が水戸藩士・藤田東湖の著した『正気歌』であることを、東湖と東海村の歴史を紹介する企画展の案内で明記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-tokai-koho-2026
+  - text: 村名は『正気歌』の「卓立東海浜」の一節によるとされ、1955年（昭和30年）の発足時の新命名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-tokai-wiki
+  - text: 村の広報の発足70周年記念特別企画によれば、合併前の1948年（昭和23年）に村松村・石神村の組合立で東海中学校が開校しており、「東海」の名は村の成立に先立って地域で用いられていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-tokai-koho-2024
+  - text: 1955年（昭和30年）3月31日に村松村と石神村が合併して東海村が発足した。村の発足70周年記念事業の実施方針は、発足時の人口を11,583人と記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-tokai-vill-70th
+    - w6-tokai-wiki
+  - text: 1889年（明治22年）の町村制では、亀下・竹瓦・石神内宿・石神外宿・舟石川の5か村から石神村が、村松・石神白方・石神豊岡・須和間・船場・照沼の6か村から村松村がそれぞれ発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-tokai-wiki
+  - text: 東海村は那珂郡を構成する唯一の町村であり、茨城県内で村は東海村と美浦村の2つだけである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-tokai-wiki
+  - text: 1956年（昭和31年）に日本原子力研究所の設置が決定し、翌1957年（昭和32年）に東海研究所が設置されたことで、「東海」の村名は原子力の地の名として全国に知られるようになった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-tokai-wiki
+  - text: 東海村の地方公共団体コードは083411である（J-LISの茨城県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  column:
+    title: 詩の一節が「原子力の村」の名になった
+    text: 藤田東湖は水戸藩の儒学者で、藩主・徳川斉昭の側近として水戸学を率いた人物である。その長詩『正気歌』は、南宋の忠臣・文天祥の同名の詩に心を寄せて詠まれた。1955年、太平洋に面した2つの村が合併する際、この詩にうたわれた東の海のイメージが新村名に選ばれ、村より7年早く生まれた中学校の名がその先触れになった。翌年には原子力研究所の設置が決まり、「東海」は日本で原子力の火が灯った最初の地の名として知られるようになる。村名の由来が合併の実務ではなく一編の詩だったことが、この村の物語の出発点である。
+    sources:
+    - w6-tokai-koho-2026
+    - w6-tokai-wiki
+  relations:
+  - pref/08
+  unknowns:
+  - 1955年の合併協議で『正気歌』が村名の典拠としてどのように提案・決定されたかを示す当時の記録は確認できなかった
+  - 『正気歌』の「東海浜」が、現在の東海村の海岸を指して詠まれたのかどうかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/08-桜川市
   code: 082317
   names:
@@ -1441,6 +2145,81 @@ records:
   - 水戸市が市制を施行した年月日と当時の経緯は、本バッチでは市公式資料で確認できなかったため主張に含めていない
   - 吉田薬王院文書の原文は未読で、「水戸」の用例の確認は水戸市の歴史文化資料の紹介経由に留まる
   - 室町時代より前の「水戸」の用例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/08-河内町
+  code: 084476
+  names:
+    ja: 河内町
+    reading: かわちまち
+    aliases:
+    - 河内村
+    - 河内郡
+  user_terms:
+  - かわちまち
+  - 利根川沿いの町
+  - 河内郡
+  naming_type: その他（1955年の合併で生まれた村名。旧郡名「河内郡」の継承とみられるが、命名理由を明記した公式資料は未確認）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 利根川下流の北岸に広がる稲敷郡の町で、町のほぼ全域が江戸時代以前に干拓された土地である。1955年（昭和30年）に長竿村・源清田村・生板村が合併して河内村となり、1996年（平成8年）に町制を施行した。村名の「河内」は、合併した村々が属していた明治期の郡名「河内郡」の名を継いだものとみられるが、命名の経緯を示す公式記録は確認できていない。
+  first_attestation:
+    era: 白雉年間（7世紀後半）
+    year_western: null
+    document: 白雉中増為十二評図
+    note: Wikipedia「河内郡（茨城県）」が、7世紀後半に筑波評の南部をもって河内評が設置され、その名が評の図に見えると紹介するもの。原文は確認していないため、「河内」という名の初出は参考値として扱う
+  claims:
+  - text: 茨城県の市町村概況によれば、1955年（昭和30年）5月3日に生板村・源清田村・長竿村が合併して河内村が発足し、1958年（昭和33年）2月15日に金江津村が編入され、1996年（平成8年）6月1日に町制を施行して河内町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-kawachi-pref
+  - text: 合併した長竿村・源清田村・生板村はいずれも1889年（明治22年）の町村制施行時点で河内郡に属しており、河内郡は1896年（明治29年）に信太郡と合併して稲敷郡となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-kawachi-wiki
+  - text: 河内郡の名は古代に遡り、7世紀後半に筑波評の南部を分けて河内評が置かれたと考えられ、評の図に「河内評」の名が見えることが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-kawachi-gun-wiki
+  - text: 1955年の新村名「河内」は旧来の郡名を継いだものとみられるが、命名理由を明記した町や県の公式資料は本調査では確認できなかった
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w6-kawachi-wiki
+  - text: 町内のほぼ全域が江戸時代以前に干拓された干拓地で、利根川をはじめとする河川に囲まれた低地に集落と水田が広がっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-kawachi-wiki
+  - text: 1958年に編入された金江津村の区域はもとは下総国香取郡（現在の千葉県側）に属し、明治中期の利根川改修で流路が変わったことに伴い茨城県へ移ったため、町内には常陸国と下総国の旧国界があり、「大境」という地名がその名残を伝える
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-kawachi-wiki
+  - text: 河内町の地方公共団体コードは084476である（J-LISの茨城県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  column:
+    title: 川が動かしてしまった県境
+    text: 河内町の東部、金江津のあたりは、もとは利根川の南側の下総国香取郡だった。明治中期に利根川の流路がほぼ現在の形に改修されると、川は集落の南を流れるようになり、金江津は川の北側に取り残される形で千葉県から茨城県へ移り、1899年（明治32年）に稲敷郡に編入された。川の付け替えが県境そのものを動かしたのである。いまも残る「大境」という地名が、常陸と下総の国境がこの町の中を走っていたことを伝えている。
+    sources:
+    - w6-kawachi-wiki
+  relations:
+  - pref/08
+  unknowns:
+  - 1955年の合併時に「河内」の名が選ばれた理由・経緯を示す公式記録を確認できなかった
+  - 「河内」の語源（利根川と小貝川・新利根川に挟まれた内側の土地という地形解釈の典拠）を確認できなかった
   updated: '2026-11-13'
 - id: muni/08-潮来市
   code: 082236
@@ -2092,6 +2871,162 @@ records:
   - 結城郡・結城郷の文献上の初出(『和名類聚抄』等での用例)の原典確認は未実施
   - ユウノキ説以外の語源説の有無と、その典拠は未確認
   updated: '2026-11-13'
+- id: muni/08-美浦村
+  code: 084425
+  names:
+    ja: 美浦村
+    reading: みほむら
+    aliases:
+    - 霞村
+    - 木原村
+    - 安中村
+  user_terms:
+  - みほむら
+  - 美浦トレーニング・センターの村
+  - 霞ヶ浦の村
+  - 県内2つだけの村
+  naming_type: 合併新設（1955年の合併で生まれた新名。当初「霞村」とされたが即日改称された）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 霞ヶ浦の南西岸に位置する、茨城県で2つだけの村の1つ。1955年（昭和30年）4月1日、木原村・安中村と舟島村の舟子地区が合併した際、新村は当初「霞村」と命名されたが、その日のうちに「美浦村」へ改称された。わずか1日で終わった霞村と、即日改称で生まれた美浦村という、命名の曲折をそのまま残す村である。「美浦」の命名理由を記した当時の公式記録は確認できていない。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 合併による霞村の発足と同日の美浦村への名称変更
+    note: 茨城県の市町村概況に「名称変更」と記録される、自治体名としての初出
+  claims:
+  - text: 茨城県の市町村概況によれば、1955年（昭和30年）4月1日に木原村・安中村・舟島村大字舟子が合併し、同日に名称変更して美浦村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-miho-pref
+  - text: 合併した新村は当初「霞（かすみ）村」と命名されたが、即日「美浦村」に改称されており、「霞村」は発足当日のみの名だった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-miho-wiki
+  - text: 村名「美浦」の命名理由は本調査では確認できておらず、霞ヶ浦に面した美しい入り江（浦）の意と説明されることがあるが、その典拠は未確認である
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w6-miho-wiki
+  - text: 美浦村は茨城県内で2つしかない村の1つであり、もう1つは東海村である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-miho-wiki
+  - text: 村内には日本中央競馬会（JRA）の美浦トレーニング・センターが1978年（昭和53年）に開設されており、「美浦」の名は競馬を通じて全国に知られている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-miho-wiki
+  - text: 2005年（平成17年）1月30日の住民投票で、西隣の阿見町との合併・市制施行（新市名「霞南市」）の構想は賛成41.9%・反対58.1%で否決され、美浦村は村として存続した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-miho-wiki
+  - text: 美浦村の地方公共団体コードは084425である（J-LISの茨城県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  column:
+    title: 1日だけの「霞村」と、幻の「霞南市」
+    text: 1955年4月1日、この地の新村は「霞村」として発足した。ところが村はその日のうちに「美浦村」へ改称され、霞村は発足当日限りの名前になった。半世紀後の2005年には、阿見町との合併で生まれるはずだった新市の名として、再び「霞」の字が浮上する。「霞南市」である。しかし住民投票は反対多数となり、霞南市もまた幻に終わった。霞ヶ浦に面しながら、2度まで「霞」の名を名乗り損ねた村である。
+    sources:
+    - w6-miho-wiki
+    - w6-miho-pref
+  relations:
+  - pref/08
+  unknowns:
+  - 「霞村」から「美浦村」へ即日改称された理由を示す当時の記録を確認できなかった
+  - 「美浦」の命名理由（提案者・選定経緯）を確認できなかった
+  updated: '2026-11-13'
+- id: muni/08-茨城町
+  code: 083020
+  names:
+    ja: 茨城町
+    reading: いばらきまち
+    aliases:
+    - 茨城郡
+    - 長岡町
+  user_terms:
+  - いばらきまち
+  - 県名と同じ名前の町
+  - 涸沼の町
+  naming_type: 一部の地名（古代以来の郡名「茨城」の継承）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 県名と同じ「茨城」を名乗る東茨城郡の町。ただし町名は県名から取られたのではない。1955年（昭和30年）の合併で新町名に選ばれたのは、古代の茨城郡以来この一帯を指してきた郡名であり、県名（1871年）も同じ郡名に由来する。県名と町名は郡名という共通の源泉を持つ「双子」のような関係にある。古代の茨城郡の中心は現在の石岡市付近とされ、町名の原点は現在の町域の外にある。
+  first_attestation:
+    era: 奈良時代初期（8世紀前半）
+    year_western: null
+    document: 常陸国風土記
+    note: 郡名「茨城」の初出級資料。町名としての採用は1955年であり、初出は郡名の側にある
+  claims:
+  - text: 茨城町は東茨城郡に属し、町名は郡名「茨城」をそのまま自治体名にしたもので、1955年（昭和30年）2月11日に成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ibaraki-geoshape
+    - b-cap-mito-jlis
+  - text: 1955年（昭和30年）2月11日、町制を施行したばかりの長岡町が上野合村・川根村・鹿島郡沼前村と合併して茨城町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-ibaraki-wiki-nagaoka
+  - text: 国立国会図書館のレファレンスによれば、県名「茨城県」も、県庁所在地となった水戸が当時茨城郡に属していたことから、その郡名をそのまま県名にしたものであり、県名と町名はともに郡名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-ndl-ref
+  - text: 茨城郡の名は『常陸国風土記』に見え、同書の茨城郡条には黒坂命が茨で城を築いた話などの地名起源説話が伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - b-ibaraki-ndl-ref
+    - b-hitachi-fudoki
+  - text: 国立国会図書館のレファレンスは、風土記の2つの話は地名起源説話とみなされており、茨城の語源に定説はないと結論づけている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - b-ibaraki-ndl-ref
+  - text: 茨城町は県名と同名の自治体であるが、県庁所在地は隣接する水戸市であり、茨城町ではない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  - text: 茨城町の地方公共団体コードは083020である（J-LISの茨城県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  column:
+    title: 県名と同じ名前なのに、県庁はない
+    text: 「茨城町」と聞いて県庁所在地だと思う人は少なくない。しかし県庁は隣の水戸市にある。このややこしさの理由は、県名も町名も同じ郡名の子どもだからだ。古代の茨城郡は現在の石岡市から水戸市・茨城町の一帯に広がり、1871年にその郡名が県名になり、1955年には合併した新町の名にもなった。なお古代の茨城郡の中心（郡衙）は現在の石岡市付近にあったと考えられており、「茨城」の原点の地も県庁の所在地も、現在の茨城町の中にはない。
+    sources:
+    - b-ibaraki-ndl-ref
+    - w6-ibaraki-geoshape
+  relations:
+  - pref/08
+  unknowns:
+  - 1955年の合併協議で「茨城」が新町名に選定された経緯の記録は確認できなかった
+  - 古代の茨城郡の郡衙の正確な位置は確定していない
+  updated: '2026-11-13'
 - id: muni/08-行方市
   code: 082333
   names:
@@ -2326,6 +3261,84 @@ records:
   - 「鉾田」の語源（鉾にまつわる伝承・地形説など）は公的・専門資料で確認できなかった。『鉾田町史』『角川日本地名大辞典 8 茨城県』等の紙資料での確認が今後の課題
   - 鉾田村の文献上の初出（中世の「鉾田」の用例の有無）は未確認
   - 鉾神社の創建由緒と地名との関係は未確認
+  updated: '2026-11-13'
+- id: muni/08-阿見町
+  code: 084433
+  names:
+    ja: 阿見町
+    reading: あみまち
+    aliases:
+    - 阿見村
+    - 阿祢
+    - 安見
+  user_terms:
+  - あみまち
+  - 予科練の町
+  - 霞ヶ浦海軍航空隊の町
+  - 県で一番人口の多い町
+  naming_type: 一部の地名（古代以来の地名「阿見」を継承し、1955年の合併でも旧町名を存置）
+  prefecture: 茨城県
+  homonyms: []
+  summary: 霞ヶ浦の南岸に位置する、茨城県で最も人口の多い町。「あみ」の名は1,000年以上前に遡り、『延喜式神名帳』の阿弥神社や『和名類聚抄』の「阿祢」に見えるが、語源には漁網の「網」説、海の「ウミ」の訛説などがあり、町の公式資料でも明確にすることは不可能とされている。1955年（昭和30年）の合併では、海軍航空の地として全国に知られた「阿見」の名を残すことが強く希望され、新町名に存置された。
+  first_attestation:
+    era: 延長5年
+    year_western: 927
+    document: 延喜式神名帳
+    note: 阿見町の公式資料が紹介する式内社「阿弥神社」の記載。神社名としての初出級資料で、『和名類聚抄』には地名「阿祢」が見える
+  claims:
+  - text: 阿見町の公式資料によれば、『延喜式神名帳』には常陸国の式内社として阿弥神社の名が見え、『和名類聚抄』（931〜938年成立）には「阿祢」の地名が見えることから、「あみ」の名は1,000年以上前に地名・神社名として存在していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ami-town-doc
+  - text: 同資料によれば、「あみ」の語源については漁網の「網」、海の「ウミ」の訛などの説があるが、明確にすることは不可能であるとされている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w6-ami-town-doc
+  - text: 同資料によれば、「阿見」には「安見」という漢字表記の例もあり、江戸時代以前は漢字表記が一定しないことが多かった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ami-town-doc
+  - text: 同資料によれば、阿見村は1945年（昭和20年）5月27日、海軍記念日に合わせて町制を施行して阿見町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ami-town-doc
+  - text: 1955年（昭和30年）4月1日に阿見町・朝日村・君原村が合併して新しい阿見町となり、同月20日に舟島村（舟子を除く）が編入された。町の公式資料によれば、新町名の選定に際して阿見町は「海の荒鷲の揺籃の地として全国的に其の名を知られた町名である」ことを理由に、町名の存置を強く希望した（『阿見町史』所引の「町村合併に関する調書」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ami-town-doc
+  - text: 1921年（大正10年）に海軍の霞ヶ浦飛行場が開設されて翌年に霞ヶ浦海軍航空隊が開隊し、1939年（昭和14年）には予科練で知られる土浦海軍航空隊が移転して、阿見は海軍航空の一大拠点となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-ami-wiki
+  - text: 阿見町の地方公共団体コードは084433である（J-LISの茨城県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-mito-jlis
+  column:
+    title: 「海の荒鷲」に守られた町名
+    text: 1955年の合併で新しい町の名を決めるとき、阿見町は自らの名の存置を強く希望した。理由は、海軍航空の揺籃の地として「阿見」の名が全国に知られていたからだという。霞ヶ浦海軍航空隊と予科練の町として刻まれた知名度が、合併の実務論の中で町の名を守ったのである。式内社の名に遡る「あみ」という古い音は、海軍の時代を経て町の誇りとなり、そのまま現在の町名に残った。
+    sources:
+    - w6-ami-town-doc
+    - w6-ami-wiki
+  relations:
+  - pref/08
+  unknowns:
+  - 「あみ」の語源は町の公式資料でも「明確にすることは不可能」とされており未確定である
+  - 阿見村の町制施行日について、町の公式資料は1945年5月27日（海軍記念日に合わせた）とする一方、Wikipediaの沿革は5月7日としており、日にちに齟齬がある
   updated: '2026-11-13'
 - id: muni/08-高萩市
   code: 082147
@@ -2943,3 +3956,123 @@ sources:
   u4-kashima-uub-henkan:
     label: 市区町村変遷情報「茨城県鹿嶋市の詳細情報」（1995年9月1日に鹿島町が大野村を編入し、町の名称変更で鹿嶋町となり、同日に市制施行して鹿嶋市となった告示の経緯。当初は新市名「鹿島市」を検討したが自治省が佐賀県鹿島市と同名であることに難色を示し、佐賀県鹿島市からも申入れがあったこと）
     url: https://uub.jp/upd/u/u123.html
+  w5-daigo-kanko:
+    label: 大子町観光協会「袋田の滝」（日本三名瀑の一つ。高さ120メートル・幅73メートル。「四度の滝」の別名には西行法師が「四季に一度ずつ来てみなければ真の風趣は味わえない」と絶賛したためという一説）
+    url: https://www.daigo-kanko.jp/fukuroda-falls.html
+  w5-daigo-kotobank:
+    label: 『日本歴史地名大系』「大子町」項（コトバンク掲載。ほぼ中央を久慈川が南流。町は陸奥国白河郡依上に属したが永禄年間に佐竹氏領となってから常陸国に編入された）
+    url: http://kotobank.jp/word/%E5%A4%A7%E5%AD%90%E7%94%BA-91078
+  w5-daigo-town-fukuroda:
+    label: 大子町公式「袋田の滝及び生瀬滝」（国指定名勝。袋田の滝は4段から成り「四度の滝」の別称を持ち、弘法大師空海が四度護摩修行を行ったことに由来すると伝わる。水戸藩主の光圀らも和歌に詠んだ）
+    url: https://www.town.daigo.ibaraki.jp/page/page008096.html
+  w5-daigo-town-gaiyo:
+    label: 大子町公式「概要」（県最北西端で中央を久慈川が流れる。もと陸奥国白河郡に属し『和名類聚抄』の白河郡17郷の一つ依上郷として10世紀前半に成立、後に依上保。水戸藩領を経て明治4年に茨城県へ）
+    url: https://www.town.daigo.ibaraki.jp/page/page000202.html
+  w5-daigo-town-nenpyo:
+    label: 大子町公式「大子町の歴史略年表」（永正7年に佐竹義舜が白河結城氏の属城・大子城を攻略。明治22年に町村制実施、明治24年に大子村が町制施行）
+    url: https://www.town.daigo.ibaraki.jp/page/page008090.html
+  w5-daigo-wiki:
+    label: Wikipedia「大子町」（1889年に浅川村・上岡村・大子村・山田村の区域をもって大子村が発足、1891年7月20日に町制施行。1955年3月31日に7村と下小川村の一部と新設合併）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%AD%90%E7%94%BA
+  w5-goka-donnatoko:
+    label: どんなどこ茨城「五霞町ガイド」（利根川・江戸川・中川・権現堂川の4河川に囲まれる。「五霞」の名は一帯が「五ヶ村島」と呼ばれたことに由来すると伝えられ、1981年の新利根川橋で県内と陸路で結ばれた）
+    url: https://donnatoko.jp/ibaraki-ken/goka-guide
+  w5-goka-town-30th:
+    label: 五霞町公式「五霞町30周年のあゆみ」（1996年6月1日に町制施行）
+    url: https://www.town.goka.lg.jp/data/doc/1770946946_doc_37_0.pdf
+  w5-goka-town-pr:
+    label: 五霞町公式「広報ごか2026年4月号 現代五霞 第6回」（明治22年に輪中の11ヶ村が合併。この地域は五ヶ村とか霞堤とか呼ばれていた。明治8年に茨城県に編入され、利根川本流以北が茨城・以南が埼玉・千葉と決まった）
+    url: https://www.town.goka.lg.jp/data/doc/1774837720_doc_40_0.pdf
+  w5-goka-wiki:
+    label: Wikipedia「五霞町」（安政4年に赤松宗旦『利根川図志』が現町域を「五ヶ村島」として紹介し、古くは五ヶ村であったものが分かれたとする。1889年に11村が合併し五霞村発足）
+    url: https://ja.wikipedia.org/wiki/%E5%85%83%E6%A0%97%E6%A9%8B
+  w5-sakai-kotobank:
+    label: 『日本歴史地名大系』「境町」項（コトバンク掲載。新田開発に際し上小橋・下小橋と長井戸との境界となったため地名が起こったと伝えられ「栄井」「さか井」「堺」とも記された。天文23年の『東国闘戦見聞私記』に「境、関宿を攻む可し」。江戸時代は宿場・河岸として隆盛）
+    url: https://kotobank.jp/word/%E5%A2%83%E7%94%BA-68427
+  w5-sakai-uub:
+    label: 市区町村変遷情報「境町（1889〜1955年）」（旧境町は1889年の市制町村制施行で成立し、1955年3月16日に静村・長田村・猿島村・森戸村と合併して新・境町となった）
+    url: https://uub.jp/upd/c/24010.html
+  w5-sakai-wiki:
+    label: Wikipedia「境町」（利根川と江戸川の分岐点に位置。江戸時代は関宿藩に属し対岸の関宿城下と一体とみなされ河岸で発展。現在の境町は旧境町・長田村・静村・森戸村・猿島村の合併で誕生）
+    url: https://ja.wikipedia.org/wiki/%E5%A2%83%E7%94%BA
+  w5-shirosato-town-plan:
+    label: 城里町公式「第2次城里町総合計画」（沿革：1889年の明治の大合併で旧七会村、1955年の昭和の大合併で旧常北町と旧桂村が誕生し、2005年に合併して城里町が誕生）
+    url: https://www.town.shirosato.lg.jp/sys/public/data/doc/1464854142_0.pdf
+  w5-shirosato-town-plan2:
+    label: 城里町公式「第2次城里町総合計画 後期基本計画」（自然交流拠点として「ふれあいの里」「ホロルの湯」「うぐいすの里」「山びこの郷」等を位置付け）
+    url: https://www.town.shirosato.lg.jp/data/doc/1638344604_doc_711_6.pdf
+  w5-shirosato-uub:
+    label: 市区町村変遷情報「城里町の詳細情報」（常北町が1995年に水戸市との合併推進決議・法定協議会設置、1999年に協議会休止という経過を含む合併協議の記録）
+    url: https://uub.jp/upd/u/u127.html
+  w5-shirosato-wiki:
+    label: Wikipedia「城里町」（町名の由来：水戸城の北で昔から「城北地区」と呼ばれていたことから「城」、各町村の「ふれあいの里」「うぐいすの里」「山びこの郷」や日本のふるさとのイメージから「里」。2005年2月1日に常北町・桂村・七会村が合併し発足）
+    url: https://ja.wikipedia.org/wiki/%E5%9F%8E%E9%87%8C%E7%94%BA
+  w5-tone-kotobank:
+    label: 『日本歴史地名大系』「利根町」項（コトバンク掲載。北相馬郡東部で利根川北岸、町域中央を新利根川が貫流。1889年の各村の成立事情）
+    url: https://kotobank.jp/word/%E5%88%A9%E6%A0%B9%E7%94%BA-105526
+  w5-tone-river-wiki:
+    label: Wikipedia「利根川」（和歌に見える「刀祢」の語源には利根郡由来説・「尖き峰」転化説など諸説あるが、いずれも定説となっておらず真の意味は不明とされる）
+    url: https://ja.wikipedia.org/wiki/%E5%88%A9%E6%A0%B9%E5%B7%9D
+  w5-tone-town-plan:
+    label: 利根町公式「利根町田園環境整備マスタープラン」（利根川・小貝川・新利根川が流れ、町の中央部を新利根川が東西に流れる）
+    url: https://www.town.tone.ibaraki.jp/data/doc/1678859036_doc_113_0.pdf
+  w5-tone-wiki:
+    label: Wikipedia「利根町」（1955年1月1日に布川町・文村・文間村・東文間村が合併し利根町発足。県内で唯一国道が通らない自治体。布川には『利根川図志』著者・赤松宗旦の生家が残り、柳田國男も少年期を過ごした）
+    url: https://ja.wikipedia.org/wiki/%E5%88%A9%E6%A0%B9%E7%94%BA
+  w5-yachiyo-note:
+    label: 移住ソムリエ草栁ちよ子「八千代町歴史民俗資料館」（町の史書によれば合併する5村の名前を一切入れず全く新しい名前を投票・多数決で決め、由来は明記されていなかった。資料館職員は「八千代」を君が代「千代に八千代に」の縁起の良い言葉と説明）
+    url: https://note.com/iju/n/nb57b8f30a3af
+  w5-yachiyo-town-rekishi:
+    label: 八千代町公式「歴史と成り立ち」（昭和30年に旧5か村と三和村成田が合併して八千代村が誕生し、昭和47年の町制施行で八千代町となった）
+    url: https://www.town.ibaraki-yachiyo.lg.jp/page/page000627.html
+  w5-yachiyo-wiki:
+    label: Wikipedia「八千代町」（1955年1月1日に西豊田村・中結城村・安静村・下結城村・川西村が合併し八千代村が発足、1972年2月1日に町制施行）
+    url: https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%83%E4%BB%A3%E7%94%BA
+  w6-ami-town-doc:
+    label: 阿見町「『阿見』町名変遷参考資料」（阿見町市制施行有識者会議資料、2024年。『延喜式』の阿弥神社・『和名類聚抄』の阿祢、語源諸説、1955年の町名存置の希望）
+    url: https://www.town.ami.lg.jp/cmsfiles/contents/0000013/13597/1kai_ami.pdf
+  w6-ami-wiki:
+    label: Wikipedia「阿見町」（霞ヶ浦海軍航空隊・予科練の沿革、1955年4月の合併）
+    url: https://ja.wikipedia.org/wiki/阿見町
+  w6-ibaraki-geoshape:
+    label: 歴史的行政区域データセットβ版「茨城県東茨城郡茨城町」（国立情報学研究所。1955年2月11日成立）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/08302A1968.html
+  w6-ibaraki-wiki-nagaoka:
+    label: Wikipedia「長岡町」（1955年2月11日に長岡町・上野合村・川根村・沼前村が合併し茨城町となる）
+    url: http://ja.wikipedia.org/wiki/長岡町
+  w6-kawachi-gun-wiki:
+    label: Wikipedia「河内郡（茨城県）」（河内評の設置と「河内評」の名、1878年の郡発足）
+    url: http://ja.wikipedia.org/wiki/河内郡_(茨城県)
+  w6-kawachi-pref:
+    label: 茨城県「市町村概況 河内町」（沿革：1955年5月3日合併、1958年2月15日金江津村編入、1996年6月1日町制施行）
+    url: https://www.pref.ibaraki.jp:443/somu/shichoson/gyosei/gaikyo/r3/documents/40kawachi.pdf
+  w6-kawachi-wiki:
+    label: Wikipedia「河内町」（行政区域変遷表、旧国界：金江津村の下総国香取郡からの越県と「大境」の地名）
+    url: https://ja.wikipedia.org/wiki/河内町
+  w6-miho-pref:
+    label: 茨城県「市町村概況 美浦村」（沿革：1955年4月1日合併、同日に名称変更して美浦村）
+    url: https://www.pref.ibaraki.jp/somu/shichoson/gyosei/gaikyo/h29/documents/38miho.pdf
+  w6-miho-wiki:
+    label: Wikipedia「美浦村」（霞村として発足し即日美浦村に改称、2005年住民投票による「霞南市」構想の否決、JRA美浦トレーニング・センター）
+    url: http://ja.wikipedia.org/wiki/美浦村
+  w6-oarai-shrine-wiki:
+    label: Wikipedia「大洗磯前神社」（『日本文徳天皇実録』斉衡3年12月条の神出現の記事の引用、延喜式神名帳の記載）
+    url: http://ja.wikipedia.org/wiki/大洗磯前神社
+  w6-oarai-town-plan:
+    label: 大洗町「磯浜古墳群保存活用計画 第2章 磯浜古墳群の概要」（大洗町の成り立ち：856年の『日本文徳天皇実録』の記録、磯浜への改称、1954年の合併）
+    url: https://www.town.oarai.lg.jp/wp/wp-content/uploads/2023/08/第2章-史跡の概要第4節1総説.pdf
+  w6-oarai-wiki:
+    label: Wikipedia「大洗町」（1954年11月3日の発足、1955年7月23日の旭村一部編入）
+    url: http://ja.wikipedia.org/wiki/大洗町
+  w6-tokai-koho-2024:
+    label: 東海村「広報とうかい 令和6年11月10日号」（発足70周年記念特別企画：「東海村名の由来」、1948年の東海中学校開校、1955年3月31日の発足）
+    url: https://www.vill.tokai.ibaraki.jp/material/files/group/1/20241110-10-11.pdf
+  w6-tokai-koho-2026:
+    label: 東海村「広報とうかい 令和8年7月10日号」（企画展「さきがけ―藤田東湖と東海村―」：村の名前の由来が『正気歌』である旨の案内）
+    url: https://www.vill.tokai.ibaraki.jp/material/files/group/1/20260710-15.pdf
+  w6-tokai-vill-70th:
+    label: 東海村「村発足70周年記念事業 実施方針」（1955年3月31日に人口11,583人をもって発足）
+    url: https://www.vill.tokai.ibaraki.jp/material/files/group/34/jissihoushin.pdf
+  w6-tokai-wiki:
+    label: Wikipedia「東海村」（村名の由来：藤田東湖『正気歌』の「卓立東海浜」、1889年の石神村・村松村の成立、原子力研究所の設置）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%9D%91

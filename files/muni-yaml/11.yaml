@@ -80,6 +80,85 @@ records:
   - 新市名の候補5案がどのような選定過程（合併協議会での審議等）を経て1案に絞られたかの詳細は、本バッチでは公式資料で確認できなかった
   - 県庁所在地だった浦和市の名が新市名に残らなかった経緯についての公式説明は、本バッチでは確認できなかった
   updated: '2026-11-13'
+- id: muni/11-ときがわ町
+  code: '113492'
+  names:
+    ja: ときがわ町
+    reading: ときがわまち
+    aliases:
+    - 都幾川村
+    - 玉川村
+  user_terms:
+  - ときがわ町の名前の由来
+  - ひらがなの町名
+  - 都幾川の清流の町
+  - 慈光寺と建具の里
+  naming_type: 合併新設
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 埼玉県比企郡の町。平成18年（2006年）に都幾川村と玉川村が合併し、両村を西から東へ流れる川「都幾川」の読みをそのまま平仮名にした町名で発足した。川名は昭和30年（1955年）に都幾川村の村名にもなった名だが、「都幾」の語源は「斎（とき）」説などがあり定説はない。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 都幾川村・玉川村合併協議会による新町名の決定（官報告示は平成17年8月24日）
+    note: 町名としての初出（命名そのもの）。川名「都幾川」自体の初出は今回未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、ときがわ町の団体コードは113492と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w9-tokigawa-town-kyoiku
+  - text: 平成18年（2006年）2月1日、比企郡都幾川村と玉川村が合併して、ときがわ町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-tokigawa-town-kyoiku
+  - text: 町名は、町を西から東へ流れる川「都幾川」の名を平仮名で表記したもので、町公式資料も「町名の由来でもあります都幾川が西から東へ流れる」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-tokigawa-town-kyoiku
+  - text: 都幾川村は昭和30年（1955年）に明覚村・平村・秩父郡大椚村の3村が合併して成立し、その際に川の名を村名とした
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w9-tokigawa-kotobank
+  - text: 『都幾川村史』は村名について「地名『都幾川』に由来」とする節を立てており、村名・町名のいずれも川の名の継承である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-tokigawa-murashi-chiri
+  - text: 都幾川という川名の語源については、清めることを意味する「斎（とき）」から来ているとする説や、慈光寺のある都幾山の南麓を流れることとの関係を説く見方があるが、定説はない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - w9-tokigawa-wiki-river
+  - text: 合併したもう一方の玉川村には、江戸時代に幕府の機関である玉川陣屋が置かれ、周辺50か村の中心として栄えた歴史がある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-tokigawa-town-kyoiku
+  column:
+    title: 消えた村名は、建物の名前に残る
+    text: 2006年の合併で、都幾川村の名は川の名として町名に生き残りましたが、玉川村の名は自治体名からは消えました。それでも旧玉川村の文化センターは今も「アスピアたまがわ」と呼ばれ、合併協議会の会議もそこで開かれました。川の名を町名にするという選択は、どちらか一方の村名を残すのではなく、二つの村に共通する自然の名を選ぶという解決でもありました。漢字の「都幾川」は川の正式な表記として残り、町の名だけが平仮名になった点も、この町の名前の面白さです。
+    sources:
+    - w9-tokigawa-town-gappei
+    - w9-tokigawa-town-kyoiku
+  relations:
+  - pref/11
+  unknowns:
+  - 都幾川の川名の初出と語源の学術的検討は今回未確認
+  - 町名を平仮名表記にした理由の公式記録は未確認
+  - 新町名の他の候補案は未確認
+  updated: '2026-11-13'
 - id: muni/11-ふじみ野市
   code: '112453'
   names:
@@ -165,6 +244,85 @@ records:
   unknowns:
   - 市名「ふじみ野」の選定理由として協議会が公式に示した文言（富士山の眺望との関係など）は、市公式ページでは未確認
   - 新市名公募の応募総数・得票の内訳は未確認
+  updated: '2026-11-13'
+- id: muni/11-三芳町
+  code: '113247'
+  names:
+    ja: 三芳町
+    reading: みよしまち
+    aliases:
+    - 三芳村
+    - 三芳野
+  user_terms:
+  - 三芳町の名前の由来
+  - みよし野の町
+  - 伊勢物語ゆかりの町名
+  - 三富新田の町
+  naming_type: 文献から命名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 埼玉県入間郡の町。町名は『伊勢物語』にも詠まれた武蔵野の美称「三芳野（みよしの）」から採られたもので、明治22年（1889年）に4か村が合併した際の命名である。当初案の「三芳野村」から「野」を省いて「三芳村」になったと伝わる。合併した村々の基は、元禄7年（1694年）の三富新田の開拓にある。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『伊勢物語』第十段（三芳野を詠んだ歌のやり取り）
+    note: 町名の出典となった古地名「三芳野」の歌物語における使用例。歌の舞台が入間郡の三芳野の里とされることは町広報の解説による
+  claims:
+  - text: 総務省の全国地方公共団体コードで、三芳町の団体コードは113247と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w9-miyoshi-town-gaiyou
+  - text: 明治22年（1889年）4月1日の町村制施行により、入間郡の上富村・北永井村・藤久保村・竹間沢村の旧4か村が合併して三芳村が誕生し、昭和45年（1970年）に町制を施行して三芳町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-miyoshi-town-gaiyou
+  - text: 町名「三芳」は、古く武蔵野の原野を指した美称「三芳野」から採られたもので、中世まで武蔵野一帯は広い範囲で「みよし野」と呼ばれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-miyoshi-mlit-garden
+    - w9-miyoshi-town-koho
+  - text: 「三芳野」は、芳野（美しい・うるわしい野原の意）に接頭語の「み」（とてもの意）がついたものと考えられ、とても美しい草原が広がっているところを意味すると、町広報は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-miyoshi-town-koho
+  - text: 平安時代の『伊勢物語』第十段には、在原業平と三芳野を詠み交わした歌の段があり、歌の女性が住んでいたのが入間郡の三芳野の里であると、町広報は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-miyoshi-town-koho
+  - text: 合併の際は当初「三芳野村」とする予定だったが、先行して同名の村が埼玉県内に3つ誕生しており、県から「多すぎる」として変更を求められたため、「野」を省いて三芳村としたと伝わる
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w9-miyoshi-wiki
+  - text: 合併した村々の基は、元禄7年（1694年）に川越藩主・柳沢吉保の命による「三富新田」の開拓で成立した村々にあり、上富の名は現在も大字として残る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-miyoshi-town-gaiyou
+  column:
+    title: 消えた「野」の字
+    text: 1889年、三芳野という千年前の歌の地名が、そのまま村の名前になろうとしていました。ところが埼玉県内では、同じ年に「三芳野村」を名乗る村が先にいくつも生まれていたため、県の求めで「野」の一字を省いて「三芳村」になったと伝えられます。武蔵野の原野を指す美称としてあまりに魅力的だったため、県内のあちこちで同じ名前が競合したのです。なお、その同名の村々はその後の合併でいずれも消え、残ったのは「野」を失ったこの三芳だけでした。
+    sources:
+    - w9-miyoshi-wiki
+    - w9-miyoshi-town-koho
+  relations:
+  - pref/11
+  unknowns:
+  - 『伊勢物語』第十段の三芳野が現在の町域を指すことの文学研究上の裏づけは未確認
+  - 「三芳野村」案が退けられた経緯を示す当時の一次記録は未確認
   updated: '2026-11-13'
 - id: muni/11-三郷市
   code: '112372'
@@ -317,6 +475,89 @@ records:
   - 「上尾（あけを）」の語源は未確定。台地の末端を指す「尾」との関係など諸説の専門的検討は未確認
   - 旦那引付注文写の成立年代は未詳で、初出の西暦年は特定できない
   updated: '2026-11-13'
+- id: muni/11-上里町
+  code: '113859'
+  names:
+    ja: 上里町
+    reading: かみさとまち
+    aliases:
+    - 上里村
+    - 七本木村
+    - 神保原村
+    - 長幡村
+    - 賀美村
+  user_terms:
+  - 上里町の名前の由来
+  - 埼玉県で一番北の町
+  - 上を四つ重ねた町章の町
+  - こむぎっちの町
+  naming_type: 合併新設
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 埼玉県児玉郡の町で、県の最北端に位置する。昭和29年（1954年）に七本木村・神保原村・長幡村・賀美村の4村が合併した際、新村名として「上里」が選ばれた。選定理由は、県内で一番上（北）に位置していること、円満な農村であること、簡単に書き易いことの3点だったと町公式が伝える。町章も「上」の字を4つ円形に配し、4村の合併と円満を表す。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 町村合併推進協議会による新村名の選定（昭和29年4月3日）
+    note: 村名としての命名そのもの。合併は同年5月3日
+  claims:
+  - text: 総務省の全国地方公共団体コードで、上里町の団体コードは113859と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w9-kamisato-town-gaiyou
+  - text: 昭和29年（1954年）5月3日、児玉郡の七本木村・神保原村・長幡村・賀美村の4つの村が合併して上里村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-kamisato-town-gaiyou
+  - text: 新村名については多くの意見の中から昭和29年4月3日に「上里」が選定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-kamisato-town-gaiyou
+  - text: 「上里」の選定理由は、県内で一番上（北）に位置していること、円満な農村であること、簡単に書き易いことなどがあったと、町公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-kamisato-town-gaiyou
+  - text: 町章は「上」の字を4つ用いて円形に配したもので、4つの「上」は合併した4村を表し、「上」は県の最も上に位置することから用いられ、円には人の和と円満という意味が込められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-kamisato-town-kyoiku
+  - text: 昭和46年（1971年）11月3日に町制を施行して上里町となり、同日に町章が制定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-kamisato-town-kyoiku
+  - text: 町の北境を神流川と烏川が流れ、『日本歴史地名大系』によれば神流川は上里町黛の北方で烏川に合流する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w9-kanna-kotobank-taikei
+  column:
+    title: 地図の「一番上」を名前にした町
+    text: 自治体の名前は、川や山、旧村名、歴史上の人物から採るのが普通です。ところが上里町の名前の決め手は、地図の上での位置そのものでした。「埼玉県で一番上（北）にある」こと。しかも理由はそれだけではなく、「円満な農村であること」「簡単に書き易いこと」まで公式に挙げられています。発足から17年後の町制施行の際には、「上」の字を4つ円く並べた町章まで作られました。位置・願い・実用性という3つの理由がそろった、合併命名の記録として珍しく明快な事例です。
+    sources:
+    - w9-kamisato-town-gaiyou
+    - w9-kamisato-town-kyoiku
+  relations:
+  - pref/11
+  - muni/10-玉村町
+  - muni/10-神流町
+  unknowns:
+  - 「上里」以外の候補（賀美村の「かみ」の読みを生かす案など）があったかは未確認
+  - 「里」の字が付けられた理由の記録は未確認
+  updated: '2026-11-13'
 - id: muni/11-久喜市
   code: '112321'
   names:
@@ -389,6 +630,88 @@ records:
   unknowns:
   - 地名「久喜」の確実な初出（中世文書の用例）の特定は未確認
   - 2010年の合併で新市名を「久喜市」とした決定過程（公募の有無・候補名）は未確認
+  updated: '2026-11-13'
+- id: muni/11-伊奈町
+  code: '113018'
+  names:
+    ja: 伊奈町
+    reading: いなまち
+    aliases:
+    - 伊奈村
+    - 小室村
+    - 小針村
+  user_terms:
+  - 伊奈町の名前の由来
+  - 伊奈忠次の陣屋の町
+  - バラのまち伊奈
+  - 長野県伊那市とは別の町
+  naming_type: その他
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 埼玉県北足立郡の町。町名は江戸幕府の代官頭（のち関東郡代）・伊奈備前守忠次にちなむ人名由来の名で、昭和18年（1943年）に小室村と小針村が合併した際に命名された。忠次は天正19年（1591年）に小室郷へ陣屋を構え、関東の治水・検地・新田開発の拠点とした。なお忠次の姓「伊奈」自体は、伊奈氏が信州伊那の出身であることに由来する。
+  first_attestation:
+    era: 昭和18年
+    year_western: 1943
+    document: 小室村・小針村の合併による伊奈村の設置（1943年7月15日）
+    note: 自治体名としての命名そのもの。人名「伊奈」の側の初出は、伊奈氏が信州伊那出身とされる中世に遡るが、原典は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、伊奈町の団体コードは113018と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w9-ina-town-mayor
+  - text: 昭和18年（1943年）7月15日に小室村と小針村が合併して伊奈村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-ina-town-mayor
+    - w9-ina-wiki
+  - text: 合併の際の村名は、今から400年ほど前に代官頭（のちの関東郡代）伊奈備前守忠次がこの地に陣屋を構えたことから、その名にちなみ「伊奈村」と命名されたと、町公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-ina-town-mayor
+  - text: 忠次は天正18年（1590年）の徳川家康の関東入国に際し、小室・鴻巣に所領1万3千石（1万石とも）を与えられ、翌19年に小室郷（現・伊奈町大字小室）に陣屋を構えて、代官頭として治水・灌漑工事、検地、新田開発、宿場の整備などにあたった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-ina-town-kinsei
+  - text: 伊奈氏は信州伊那（現・長野県伊那地方）の出身であり、町名の直接の由来である姓「伊奈」自体が、別の地名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-ina-town-yashiki
+  - text: 慶長15年（1610年）の忠次の死後、嫡子忠政・忠勝と継いだが、忠勝が元和5年（1619年）に9歳で死去して直系は断絶した。その後、忠次の功労が認められ、忠勝の弟忠隆に陣屋そのまま小室郷一円が与えられて旗本伊奈家が成立し、子孫が幕末までこの地を支配した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-ina-town-kinsei
+  - text: 昭和45年（1970年）11月1日に町制を施行して伊奈町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w9-ina-wiki
+  column:
+    title: 名前の中の名前――伊奈、忠次、信州伊那
+    text: 伊奈町の名前は三重の入れ子になっています。まず町名「伊奈」は、江戸初期の代官・伊奈忠次の姓から来ています。その忠次がこの地に選ばれたのは、家康の関東入国の際に小室・鴻巣の領地を与えられ、沼を控えた要害の地に陣屋を構えたからでした。そして「伊奈」という姓自体は、伊奈氏が信州の伊那地方の出身であることに由来します。長野県には今も伊那市がありますが、埼玉の伊奈町は、伊那の地から出た一族の姓を、さらにその一族の功績を記念して付けた名前なのです。なお同じ伊奈忠次は、群馬県玉村町の新田開発も手がけており、二つの町の名前の歴史は思わぬところでつながっています。
+    sources:
+    - w9-ina-town-mayor
+    - w9-ina-town-yashiki
+  relations:
+  - pref/11
+  - muni/20-伊那市
+  - muni/10-玉村町
+  unknowns:
+  - 1943年の合併時に「伊奈」以外の村名候補があったかは未確認
+  - 伊奈氏の姓の由来（伊那郡の郡司職等との関係）の詳細は未確認
   updated: '2026-11-13'
 - id: muni/11-入間市
   code: '112259'
@@ -769,6 +1092,89 @@ records:
   - 「吉川」の語源（吉川という河川名・地形との関係など）は未確定で、専門辞典での確認が今後の課題
   - 吉川郷を記した中世文書の特定は未実施
   updated: '2026-11-13'
+- id: muni/11-吉見町
+  code: '113476'
+  names:
+    ja: 吉見町
+    reading: よしみまち
+    aliases:
+    - 横見郡
+    - 東吉見村
+    - 西吉見村
+    - 南吉見村
+    - 北吉見村
+  user_terms:
+  - 吉見町の名前の由来
+  - 吉見百穴のある町
+  - 吉見観音の町
+  - いちごの里よしみ
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 埼玉県比企郡の町。名は古代武蔵国・横見（よこみ）郡に遡る古い地名で、平安中期以降は「吉見」とも書かれるようになった。町には「ヨクミユ（よく見ゆ）と言ったことに始まる」という伝説が伝えられる。明治22年（1889年）に東西南北の4つの吉見村が生まれ、昭和29年（1954年）の合併で吉見村、昭和47年（1972年）に吉見町となった。
+  first_attestation:
+    era: 平安時代中期
+    year_western: null
+    document: 『日本歴史地名大系』が紹介する、横見郡が「吉見郡」とも呼ばれるようになった平安中期以降の用例
+    note: 郡名の表記の変化としての使用例。地名そのものの初出は古代の「横渟」に遡ると町公式は伝えるが、その原典は今回未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、吉見町の団体コードは113476と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w9-yoshimi-town-plan
+  - text: 古代には町域のほぼ全域が武蔵国横見（よこみ）郡に属していたと考えられ、同郡は平安中期以降は「吉見郡」と呼ばれるようになったと『日本歴史地名大系』は説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w9-yoshimi-kotobank-taikei
+  - text: 町公式の解説では、古代においてはこの地は「横渟（よこぬ）」といい、さらには「横見」となり、現在の「吉見」になったとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-yoshimi-town-kembunroku
+  - text: 「吉見」という地名は、伝説によると「ヨクミユ」と言ったことに始まったといわれる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w9-yoshimi-town-kembunroku
+  - text: 明治22年（1889年）には横見郡内の村々が東吉見村・西吉見村・南吉見村・北吉見村の四か村となり、明治29年（1896年）に横見郡が比企郡に編入されて古代以来の郡名は消滅した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-yoshimi-town-kembunroku
+  - text: 昭和29年（1954年）に東西南北の4つの吉見村が合併して吉見村が誕生し、昭和47年（1972年）に町制を施行して吉見町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-yoshimi-town-plan
+  - text: 町には「吉見観音」の別名で知られる坂東三十三観音第11番札所の岩殿山安楽寺や、国指定史跡の横穴墓群「吉見百穴」があり、いずれも古くからの地名「吉見」を冠する名所として知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w9-yoshimi-town-kembunroku
+  column:
+    title: 消えた郡名、残った村名
+    text: 吉見の歴史の不思議は、郡の名前と村の名前のすれ違いにあります。古代以来この地は「横見郡」でしたが、平安時代の半ばからは「吉見郡」とも呼ばれるようになります。ところが江戸時代の郷帳や国絵図の頃には再び「横見」に戻り、明治29年（1896年）には横見郡自体が比企郡に吸収されて消えてしまいました。一方、その7年前の明治22年に生まれた4つの村は「吉見」の字を選んでいました。郡名としては一度は消えた「吉見」が、村の名前として残り、1954年の合併を経て今の町名になったのです。
+    sources:
+    - w9-yoshimi-town-kembunroku
+    - w9-yoshimi-kotobank-taikei
+  relations:
+  - pref/11
+  - muni/11-ときがわ町
+  unknowns:
+  - 「横渟」という古代の表記が現れる原典は未確認
+  - 「ヨクミユ」伝説が記録された時期・資料は未確認
+  - 1889年に4村が「吉見」の字を採用した経緯の記録は未確認
+  updated: '2026-11-13'
 - id: muni/11-和光市
   code: '112291'
   names:
@@ -936,6 +1342,168 @@ records:
   - 「坂戸」という名の語源は、市の公式資料・県の沿革資料など調べた範囲では説明がなく未確認（「坂の戸口」などの俗説は裏付けを確認できなかった）
   - 麻羽郷の比定は県の沿革資料による紹介で、一次文献の直接確認は未了
   updated: '2026-11-13'
+- id: muni/11-宮代町
+  code: '114421'
+  names:
+    ja: 宮代町
+    reading: みやしろまち
+    aliases:
+    - 百間村
+    - 須賀村
+  user_terms:
+  - 宮代町の名前の由来
+  - みやしろ
+  - 東武動物公園のある町
+  - 姫宮神社と身代神社
+  naming_type: 合併新設
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 町名は昭和30年（1955年）の百間村・須賀村の合併に際して公募で選ばれた新しい名前である。町は、「宮代」は旧百間村の鎮守・姫宮神社の「宮」と、旧須賀村の鎮守・身代神社の「代」を合わせた名だと説明する。両村の神社の名を一文字ずつ分け合った、対等合併らしい命名である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 百間村・須賀村の合併による宮代町の発足（7月20日）
+    note: 町名「宮代」そのものの初出で、公募による命名そのもの
+  claims:
+  - text: 昭和30年（1955年）7月20日、百間村と須賀村が合併して宮代町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-miyashiro-museum-70
+  - text: 町名については公募が行われ、百間村側では宮代・笠原・宮戸・隅田・古川、須賀村側では新生・宮代・古川・宮戸・浦里の候補が挙がり、両村に共通して挙がっていた「宮代」が採用された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-miyashiro-museum-70
+  - text: 町の資料は、現町名の「宮代町」は、旧百間村の鎮守である姫宮神社の「宮」と、旧須賀村の鎮守である身代神社の「代」から名付けられたものと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-miyashiro-shiryo
+  - text: 身代神社は旧須賀村の鎮守で、創建は鎌倉時代の仁治3年（1242年）と伝えられ、素戔嗚尊を祀る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-miyashiro-shiryo
+  - text: 合併に先立ち、埼玉県の試案に基づく杉戸町・百間村・須賀村など1町6村での合併協議が進められたが合意に至らず、昭和30年5月に百間村・須賀村の2村での協議が始まって合併に至った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-miyashiro-museum-70
+  - text: 江戸時代初期の当地は百間村・須賀村・蓮谷村・久米原村・和戸村・国納村の6か村からなり、その大部分は旗本領であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-miyashiro-history
+  - text: 地方公共団体コードは114421である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 神社の名を分け合った町名
+    text: 合併で生まれる新町名は、しばしば両町村の意地の張り合いの末に決まる。宮代町の場合は穏やかだった。旧百間村の鎮守・姫宮神社から「宮」、旧須賀村の鎮守・身代神社から「代」。公募の候補リストを見ると、「宮代」は両村のどちらからも挙がっていた。どちらの村の名前でもないが、どちらの村の神様の名前でもある。対等合併の落としどころとして、これほど収まりのよい名前も珍しい。
+    sources:
+    - w10-miyashiro-shiryo
+    - w10-miyashiro-museum-70
+  relations:
+  - pref/11
+  - muni/11-杉戸町
+  unknowns:
+  - 町名公募の応募総数や選考過程を示す一次記録は未確認
+  - 姫宮神社・身代神社という神社名そのものの語源は未確認
+  updated: '2026-11-13'
+- id: muni/11-寄居町
+  code: '114081'
+  names:
+    ja: 寄居町
+    reading: よりいまち
+    aliases:
+    - 寄居宿
+    - 古寄居村
+    - 新寄居村
+    - 寄居新組村
+  user_terms:
+  - 寄居町の名前の由来
+  - よりい
+  - 鉢形城の城下町
+  - 玉淀
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 荒川が秩父山地から関東平野へ出る谷口の町で、対岸の鉢形城の城下町として発展した。「寄居」は中世の城郭に付随する施設・集落を指す言葉だったという研究があり、鉢形城との関係で生まれた名と考えられている。一方、江戸時代の地誌は落城後に浪士たちが「寄り集まって住んだ」ことに由来すると記しており、町はこの二つの説明を併記している。
+  first_attestation:
+    era: 天正20年
+    year_western: 1592
+    document: 日下部定好寺領書立（極楽寺文書）にみえる「寄居之郷」
+    note: 日本歴史地名大系が紹介する「寄居」の確かな用例の一つ。二次資料経由の確認
+  claims:
+  - text: 鉢形城の落城の後、甲州の侍や小田原の浪士などが寄り集まって居住したことが「寄居」の名の由来だという話が、江戸時代の『新編武蔵風土記稿』に記されて伝わっている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w10-yorii-town-profile
+    - w10-yorii-town-yoran
+  - text: 町は公式プロフィールで、中世の城郭の周囲に築かれた施設・集落のことを「根古屋」「寄居」等と呼んだという研究成果も紹介し、鉢形城や花園城など多くの中世城郭が存在することから、その起源は戦国時代までさかのぼるのではないかと考えられるとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-yorii-town-profile
+  - text: 日本歴史地名大系は「寄居とは中世の城郭の一形態で、本城に付随する部分のことと考えられており、対岸の鉢形城との関係から村名になったものとみられる」と解説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w10-yorii-kotobank-mura
+  - text: 日本歴史地名大系によれば、天正20年（1592年）3月12日の書立（極楽寺文書）に「寄居之郷」とあるのが、確認できる「寄居」の用例の一つである
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w10-yorii-kotobank-mura
+  - text: 日本歴史地名大系によれば、明暦元年（1655年）の検地により寄居村は古寄居村と新寄居村に分かれ、のち寄居新組村を加えた三か村が入組んだ村域をなした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-yorii-kotobank-mura
+  - text: 明治22年（1889年）に町村制により寄居町が成立し、昭和30年（1955年）2月11日に折原村・鉢形村・男衾村・用土村と合併して現在の寄居町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w10-yorii-wiki
+  - text: 地方公共団体コードは114081であり、寄居町は現在、大里郡で唯一の自治体である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - w10-yorii-wiki
+  column:
+    title: 「人が寄る町」の二つの由来
+    text: 町の公式プロフィールは、起源の異なる二つの説をどちらも捨てていない。落城の浪士が寄り集まったという物語と、城に寄り添う集落を指す戦国時代の軍事用語だったという研究である。町は両者をまとめて「寄居とは、人が寄る町・人が集う町を象徴した歴史的な名前」と締めくくり、駅前の拠点施設には「Yotteco（よってこ）」という名まで付けた。語源論争を町の魅力に読み替える、上手い手である。
+    sources:
+    - w10-yorii-town-profile
+    - w10-yorii-town-yoran
+  relations:
+  - pref/11
+  - muni/11-嵐山町
+  - muni/11-小川町
+  - muni/11-東秩父村
+  unknowns:
+  - 「寄居」の用例とされる天正20年（1592年）の書立は専門辞典経由の確認で、原史料の直接確認は未了
+  - 『和名類聚抄』の榛沢郡・男衾郡の郷名に「寄居」にあたるものがあったかは確認できていない
+  updated: '2026-11-13'
 - id: muni/11-富士見市
   code: '112356'
   names:
@@ -1011,6 +1579,252 @@ records:
   unknowns:
   - 合併時に「富士見」の名が提案・選定された過程を示す一次記録は未確認
   - 旧3村（鶴瀬・南畑・水谷）の村名の語源は本レコードでは未調査
+  updated: '2026-11-13'
+- id: muni/11-小川町
+  code: '113433'
+  names:
+    ja: 小川町
+    reading: おがわまち
+    aliases:
+    - 小川村
+    - 大河村
+    - 竹沢村
+    - 八和田村
+  user_terms:
+  - 小川町の名前の由来
+  - おがわまち
+  - 和紙の里
+  - 細川紙
+  - 小川和紙
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 小川盆地の中心の町で、江戸時代から和紙（小川和紙）の産地と市場の町として栄えた小川村の名を受け継ぐ。文明6年（1474年）の書状に「小河」と見えるのが古い用例で、八王子道と川越秩父道が交わる谷口集落として「小川町」とも呼ばれた。昭和30年（1955年）に大河村・竹沢村・八和田村と合併して現在の小川町となった。
+  first_attestation:
+    era: 文明6年
+    year_western: 1474
+    document: 太田道灌書状写にみえる「在郷之地小河」
+    note: 日本歴史地名大系が紹介する用例で、「小川」の前身にあたる表記とみられる。二次資料経由の確認
+  claims:
+  - text: 日本歴史地名大系は、小川村が八王子道と川越秩父道の交わる交通の要衝にあたり、一・六の日の六斎市が立てられて「小川町ともよばれた」と解説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w10-ogawa-kotobank-mura
+  - text: 日本歴史地名大系によれば、文明6年（1474年）に太田道灌が上田上野介の「在郷之地小河」に一宿したことが書状写に残り、この「小河」が当地を指す古い用例となっている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w10-ogawa-kotobank-mura
+  - text: 明治22年（1889年）の町村制で小川町・大河村・竹沢村・八和田村が成立し、昭和30年（1955年）に旧4町村が合併して新たな小川町が成立、翌31年1月に寄居町の一部が編入されて現在の町域が確定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogawa-town-kyoiku
+  - text: 江戸時代、市街地中心の小川村は秩父往還と八王子方面への道の交差点にあたる物資の集散地として繁栄し、特産の和紙は漉屋が426軒にも及ぶ一大生産地となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogawa-town-kyoiku
+  - text: 小川町観光協会は、正倉院文書に宝亀5年（774年）に武蔵国から「武蔵国紙480張」が納められたという記録が残り、これが小川和紙に関わる最初の史料とされると紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w10-ogawa-kanko-washi
+  - text: 小川和紙を代表する細川紙は、もとは紀州高野山の麓の細川村で漉かれた細川奉書の技術が、大阪商人・江戸の商人を通じて当地に伝えられたものと観光協会は説明する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w10-ogawa-kanko-washi
+  - text: 地方公共団体コードは113433である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「ぴっかり千両」——紙を干す日の光
+    text: 江戸時代後期の最盛期、小川の紙漉きからは「ぴっかり千両」という言葉が生まれたと観光協会は伝える。冬の晴れた日に紙を干せば村中が白く染まり、大きな儲けになった。日差しそのものが千両の値打ちだという、産地の自慢である。その細川紙は平成26年（2014年）、本美濃紙・石州半紙とともに「和紙：日本の手漉き和紙技術」としてユネスコ無形文化遺産に登録された。
+    sources:
+    - w10-ogawa-kanko-washi
+    - w10-higashichichibu-pref-journal
+  relations:
+  - pref/11
+  - muni/11-東秩父村
+  - muni/11-嵐山町
+  - muni/11-寄居町
+  unknowns:
+  - 「小川」の語源（盆地を流れるどの流れを指した名か）について、調べた公的・専門資料では確かな説明が確認できなかった
+  - 和紙の漉屋の数について、町教育委員会資料は江戸時代に426軒、観光協会は江戸時代後期に750軒超とし、数える範囲の違いとみられるが確定できない
+  updated: '2026-11-13'
+- id: muni/11-小鹿野町
+  code: '113654'
+  names:
+    ja: 小鹿野町
+    reading: おがのまち
+    aliases:
+    - 巨香郷
+    - 両神村
+    - 長若村
+  user_terms:
+  - 小鹿野町の名前の由来
+  - おがの
+  - 歌舞伎の町
+  - 両神山
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 秩父盆地のほぼ中央の町で、「おがの」の名は平安時代の『和名類聚抄』に載る「巨香郷（おかのごう）」に始まると町は伝える。中世には武蔵武士の小鹿野氏が当地に館を構えた。江戸時代から続く小鹿野歌舞伎で知られ、平成17年（2005年）に両神村と合併して現在の小鹿野町となった。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『和名類聚抄』の秩父郡「巨香郷」
+    note: 町公式資料が「おがの」の名の始まりとして紹介する記載。巨香郷を当地に比定するのは町の伝承的説明に基づく
+  claims:
+  - text: 町の地勢資料は、「おがの」の町名は平安時代に『和名類聚抄』へ載せられた「巨香郷（おかのごう）」に始まると伝えられ、由緒あるところから、明治22年以来、関係町村一致の意見をもって旧町名をそのまま受け継いできたと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogano-town-chisei
+  - text: 町の計画資料によれば、鎌倉時代には武蔵武士の小鹿野氏が当地に館を構えていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogano-town-kaso
+  - text: 江戸時代の小鹿野は、秩父地域では大宮郷（現在の秩父市）に次ぐ市（いち）として繁栄し、江戸との交流も盛んに行われたと町の計画資料は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogano-town-kaso
+  - text: 昭和30年（1955年）4月1日に小鹿野町と長若村が合併し、翌31年3月31日に三田川村・倉尾村が合併、平成17年（2005年）10月1日に両神村と合併して現在の小鹿野町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogano-town-chisei
+  - text: 小鹿野歌舞伎は約220年前、江戸で修業を積んだ初代坂東彦五郎が帰郷後、近所の若者に歌舞伎を教えたことに始まると町は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogano-town-kabuki
+  - text: 小鹿野歌舞伎は昭和50年に県指定無形文化財、昭和52年に県無形民俗文化財の指定を受け、子ども歌舞伎や女歌舞伎まで「町じゅうが役者」といわれる形で受け継がれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ogano-town-kabuki
+  - text: 地方公共団体コードは113654である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えなかった旧町名
+    text: 昭和30年の合併でも平成17年の合併でも、「小鹿野」の名は一度も揺るがなかった。町の資料はその理由を「由緒あるところから、関係町村一致の意見をもって旧町名をそのまま受け継いできた」と誇らしげに記す。千年前の郷の名に始まるという由緒が、合併のたびに新名を公募する議論そのものを不要にしてきたのである。なお「巨香」から「小鹿野」への変化の途中経過は、今もよく分かっていない。
+    sources:
+    - w10-ogano-town-chisei
+  relations:
+  - pref/11
+  - muni/11-横瀬町
+  unknowns:
+  - 『和名類聚抄』の巨香郷を現在の小鹿野に比定する根拠の詳細は、町資料の伝承的説明の範囲を超えて確認できていない
+  - 「巨香」から「小鹿野」への表記と読みの転化過程、および「小鹿野」の字義の語源は未詳
+  updated: '2026-11-13'
+- id: muni/11-嵐山町
+  code: '113425'
+  names:
+    ja: 嵐山町
+    reading: らんざんまち
+    aliases:
+    - 菅谷村
+    - 菅谷宿
+    - 七郷村
+    - 武蔵嵐山
+  user_terms:
+  - 嵐山町の名前の由来
+  - らんざん
+  - 武蔵嵐山
+  - 武蔵の小京都
+  - 嵐山渓谷
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 町名は町内の景勝地・嵐山渓谷の名に由来する。昭和3年（1928年）に当地を訪れた林学者の本多静六が、槻川の渓谷と赤松林の景観が京都の嵐山に似ているとして「武蔵嵐山」と名付けた。旧・菅谷村は昭和42年（1967年）に嵐山村へ改称し、即日町制を施行して嵐山町となった。なお当町は京都の嵐山（あらしやま）とは別の自治体で、読みも音読みの「らんざん」である。
+  first_attestation:
+    era: 昭和3年
+    year_western: 1928
+    document: 本多静六による「武蔵嵐山」の命名（嵐山町公式サイトの説明）
+    note: 地名「武蔵嵐山」の初出＝命名そのもの。町名としての採用は1967年
+  claims:
+  - text: 町は、現在使われている「武蔵嵐山」は昭和3年（1928年）に当地を訪れた本多静六林学博士により名付けられたもので、槻川橋より眺めた渓谷と周囲の赤松林の景観が京都の「嵐山（あらしやま）」に大変よく似ていることから、「武蔵国の嵐山」という意味で命名されたと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ranzan-town-keikoku
+  - text: 町によれば、この渓谷は「武蔵嵐山」と名付けられる前、秩父の長瀞岩畳に例えて「武蔵長瀞」と呼ばれていたこともあったという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ranzan-town-keikoku
+  - text: 嵐山町観光協会（文章提供・嵐山町文化スポーツ課博物誌編さん室）は、本多が菅谷館跡から槻川に沿って歩く途中でこの景観に接し「これは武蔵嵐山だ」とつぶやいたことが現在の町名の由来であるとし、昭和5年（1930年）に朝日新聞社の「東日本新名物」で武蔵嵐山が紹介されたと伝える
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w10-ranzan-kanko
+  - text: 東武東上線の菅谷駅が「武蔵嵐山駅」に改称された年について、町公式サイトは昭和11年（1936年）とし、観光協会は昭和10年（1935年）としており、1年のずれがある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w10-ranzan-town-keikoku
+    - w10-ranzan-kanko
+  - text: 明治22年（1889年）に菅谷村が成立し、昭和30年（1955年）に七郷村と新設合併して改めて菅谷村となり、昭和42年（1967年）4月15日に嵐山村と改称、即日町制を施行して嵐山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-ranzan-hakubutsushi
+    - w10-ranzan-wiki
+  - text: 京都の嵐山は訓読みの「あらしやま」であるのに対し当町は音読みの「らんざん」であり、町は「武蔵の小京都」として全国京都会議に加盟している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w10-ranzan-wiki
+  - text: 地方公共団体コードは113425である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 博士の一言が駅になり、町になった
+    text: 1928年、林学の大家・本多静六の「これは武蔵嵐山だ」という一言が、まず渓谷の名前になり、新聞の「東日本新名物」に載って観光地の名になり、やがて駅の名前になり、39年後の1967年には自治体そのものの名前になった。昭和14年（1939年）には61歳の与謝野晶子が渓谷の旅館・松月楼に泊まり、「比企の渓」と題する29首を詠んでいる。学者の命名が名所を生み、名所が町の名を塗り替えた珍しい系譜である。
+    sources:
+    - w10-ranzan-kanko
+    - w10-ranzan-town-keikoku
+  relations:
+  - pref/11
+  - muni/11-小川町
+  - muni/11-寄居町
+  unknowns:
+  - 1967年の改称・町制を決めた直接の理由や議論の経過を示す公式記録は未確認
+  - 菅谷駅の「武蔵嵐山駅」への改称年は、町公式（1936年）と観光協会（1935年）で記述がずれている
+  - 一般に流布する「国木田独歩が京都の嵐山に似ていると評した」という話は、町公式・観光協会の説明では確認できず、命名者は本多静六とされている
   updated: '2026-11-13'
 - id: muni/11-川口市
   code: '112038'
@@ -1088,6 +1902,78 @@ records:
   unknowns:
   - 「小川口」を現在の川口に比定するのは市の説明によるもので、学術的な検討は本バッチでは確認できなかった
   - 合流地点説以外の語源説は、市の公式資料には見当たらなかった
+  updated: '2026-11-13'
+- id: muni/11-川島町
+  code: '113468'
+  names:
+    ja: 川島町
+    reading: かわじままち
+    aliases:
+    - 川島村
+    - 川島領
+    - 中山村
+    - 三保谷村
+  user_terms:
+  - 川島町の名前の由来
+  - かわじま
+  - 川に囲まれた島
+  - 輪中の町
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 町は荒川・入間川・越辺川・市野川などに四方を囲まれ、町の計画自身が「川に囲まれた島そのもの」と表現する輪中の地にある。この一帯は川島領と呼ばれ、昭和29年（1954年）に川島領の6村が合併して川島村が誕生し、その名を受け継いだ。昭和47年（1972年）に町制を施行して川島町となった。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 川島領6村の合併による川島村の成立
+    note: 自治体名としての「川島」の初出。前身の「川島領」という呼称自体の初出は未確認
+  claims:
+  - text: 町の環境基本計画は、本町が北は市野川、東は荒川、南は入間川、西は越辺川・都幾川に接しており、「まさに"川に囲まれた島"そのものといえます」と記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-kawajima-town-kankyo
+  - text: 同計画は、昭和29年（1954年）に、川島領と呼ばれた中山・伊草・三保谷・出丸・八ツ保・小見野の6つの村が合併して川島村が誕生したと記しており、自治体名「川島」が「川島領」の名を受け継いだことを示す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-kawajima-town-kankyo
+  - text: 埼玉県の資料によれば、川島村は昭和47年（1972年）11月に町制を施行して川島町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-kawajima-pref
+  - text: 町の計画によれば、江戸時代の当地は川越藩の支配の中で農業生産が高まった一方、荒川の流れが現在の場所に変わったことでたびたび水害に悩まされるようになり、大囲堤の築造や河川改修によって徐々に水害を克服してきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-kawajima-town-kankyo
+  - text: 川島町は四方を河川に囲まれた輪中となっており、「地名のとおり『川に囲まれた島』のような地形」と紹介される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w10-kawajima-wiki
+  - text: 地方公共団体コードは113468である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 水害と引き換えの肥沃な「島」
+    text: 川島町の「島」は海の島ではない。荒川の流路が変わって以来、この低地は大雨のたびに水に囲まれる輪中だった。人々は大囲堤を築いて川と折り合いをつけながら水田を開いてきた。洪水の記憶と引き換えに得た肥沃な土の上に、いま「川の中の島」という地名が残っている。町域の標高は平均14.5メートルほどで、高低差はほとんどないという。
+    sources:
+    - w10-kawajima-town-kankyo
+  relations:
+  - pref/11
+  unknowns:
+  - 「川島領」という呼称がいつから使われたか（領としての成立時期）は未確認
+  - 四方を川に囲まれた地形が「川島」の名の直接の由来であることを明示した、命名当時の公式記録は未確認であり、地形由来は町の地勢説明からの読み取りにとどまる
   updated: '2026-11-13'
 - id: muni/11-川越市
   code: '112011'
@@ -1860,6 +2746,78 @@ records:
   - 本庄氏の系譜と地名由来は諸説あり未確定（本庄城由来とする説明も併記した）
   - 市の公式資料による由来説明は本バッチでは確認できなかった
   updated: '2026-11-13'
+- id: muni/11-杉戸町
+  code: '114642'
+  names:
+    ja: 杉戸町
+    reading: すぎとまち
+    aliases:
+    - 杉戸宿
+    - 清地村
+    - 倉松村
+  user_terms:
+  - 杉戸町の名前の由来
+  - すぎと
+  - 杉戸宿
+  - 日光街道の宿場町
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 日光街道の宿場町・杉戸宿の名を受け継ぐ町である。「杉戸」は「杉津」「杉渡」の意で、当時の利根川（現在の大落古利根川）の渡し場だったとも考えられると専門辞典は解説する。元和2年（1616年）に人馬の継立を命じられて杉戸宿が始まり、明治22年（1889年）に杉戸町となり、昭和30年（1955年）の合併で現在の杉戸町となった。
+  first_attestation:
+    era: 江戸時代初期
+    year_western: null
+    document: 『武蔵田園簿』『元禄郷帳』にみえる「杉戸町」
+    note: 日本歴史地名大系が紹介する近世の用例。地名自体はそれ以前に遡るとみられるが、初出の特定は未了
+  claims:
+  - text: 日本歴史地名大系は「杉戸は『杉津』『杉渡』の意で、利根川の渡場であったとも考えられる」と解説し、川の渡し場にちなむ名である可能性を示す
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w10-sugito-kotobank-juku
+  - text: 日本歴史地名大系によれば、『武蔵田園簿』や『元禄郷帳』にはすでに「杉戸町」と記され、幕府領として幕末に至ったとみられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-sugito-kotobank-juku
+  - text: 町によれば、杉戸宿は江戸幕府が元和2年（1616年）に日光街道に設置したといわれる宿場で、日本橋から日光まで21ある宿場の5番目にあたる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-sugito-town-machiaruki
+  - text: 町の総合振興計画によれば、明治22年（1889年）に杉戸宿が隣接の清地村・倉松村と合併して杉戸町となり、昭和30年（1955年）に旧杉戸町・高野村・堤郷村・田宮村が合併して新たな杉戸町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-sugito-town-plan
+  - text: 同計画によれば、その後、昭和31年に本島地区が幸手町から杉戸町に編入され、昭和32年には泉村を編入合併し、現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-sugito-town-plan
+  - text: 地方公共団体コードは114642である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 宿場開き400年の町
+    text: 2016年、杉戸宿は誕生からちょうど400年を迎えた。町はこれを機に宿場のルーツを調べ直し、「杉戸宿まち歩きガイドブック」にまとめた。本陣跡や問屋場跡、蘭学者の渡辺崋山も絵に残した弁天池など、街道の記憶は町並みのあちこちに残っている。渡し場の名が宿場の名になり、宿場の名がそのまま町の名になった四百年である。
+    sources:
+    - w10-sugito-town-machiaruki
+  relations:
+  - pref/11
+  - muni/11-宮代町
+  unknowns:
+  - 「杉津・杉渡」説は専門辞典が「考えられる」とする推定であり、他の語源説（杉の多い土地の意など）との優劣は決められない
+  - 中世の杉戸村（上杉戸・下杉戸）が分かれた過程など、宿場以前の地名の詳細は未確認
+  updated: '2026-11-13'
 - id: muni/11-東松山市
   code: '112127'
   names:
@@ -1924,6 +2882,161 @@ records:
   unknowns:
   - 「松山」という地名そのものの語源（松山城の名の由来）は本バッチでは未確認
   - 市名申請をめぐる自治庁との折衝の一次資料は未確認で、二次資料による
+  updated: '2026-11-13'
+- id: muni/11-東秩父村
+  code: '113697'
+  names:
+    ja: 東秩父村
+    reading: ひがしちちぶむら
+    aliases:
+    - 大河原村
+    - 槻川村
+    - 外秩父
+  user_terms:
+  - 東秩父村の名前の由来
+  - ひがしちちぶ
+  - 埼玉県唯一の村
+  - 和紙の里ひがしちちぶ
+  - 細川紙
+  naming_type: 合併新設
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 埼玉県で唯一の村。昭和31年（1956年）に大河原村と槻川村が合併して生まれた。「東秩父」の名は、秩父郡に属しながら秩父盆地から山を隔てた東側にあるという位置に由来する。分水嶺の東側にありながら秩父郡に属したこの一帯は、古く「外秩父」とも呼ばれた地域で、広域行政の結びつきは秩父側より比企郡側が強い。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 大河原村・槻川村の合併による東秩父村の新設（8月1日）
+    note: 村名「東秩父」そのものの初出で、合併新設に伴う命名
+  claims:
+  - text: 埼玉県校外教育協会の研究紀要（東秩父村立東秩父中学校）は、東秩父村は埼玉県内で唯一の村で、「秩父盆地から山を隔てた東側にあることから名づけられた」と記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-higashichichibu-pref-journal
+  - text: 村の公式概要も、村が秩父郡に属しているものの秩父盆地から山を隔てた東側にあることから、広域行政においては秩父地方ではなく隣接する比企郡の自治体とともに比企広域市町村圏組合を構成すると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-higashichichibu-vill-profile
+  - text: 昭和31年（1956年）8月1日、秩父郡大河原村と槻川村が合併して東秩父村が新設された。大河原村は安戸村・御堂村・奥沢村から、槻川村は大内沢村・坂本村・皆谷村・白石村から、明治22年（1889年）に成立した村である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w10-higashichichibu-wiki
+  - text: 平成18年（2006年）2月1日に都幾川村と玉川村が合併してときがわ町となって以降、東秩父村は埼玉県内で唯一の村である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w10-higashichichibu-wiki
+  - text: 村は隣接する小川町とともに細川紙の産地であり「和紙の里」として知られ、その製法技術は昭和53年（1978年）に国の重要無形文化財に指定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-higashichichibu-pref-journal
+  - text: 江戸時代、荒川水系と入間川水系の分水嶺の東側にあった秩父郡の村々は「外秩父」と呼ばれ、大河原村・槻川村の前身の村々もその東側に位置していた
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w10-higashichichibu-sotochichibu
+  - text: 地方公共団体コードは113697である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 秩父を名乗り、比企と暮らす村
+    text: 村の名前は「東秩父」だが、消防もごみ処理も、広域行政は山の東側の比企郡の仲間と一緒である。秩父盆地とは尾根ひとつ隔てただけで、暮らしの向きはまるで違う。その「ねじれ」こそが、この地名の由来そのものだ。県内に村が一つだけになった今では、「埼玉県唯一の村」という肩書きも、この村のアイデンティティになっている。
+    sources:
+    - w10-higashichichibu-vill-profile
+    - w10-higashichichibu-wiki
+  relations:
+  - pref/11
+  - muni/11-小川町
+  - muni/11-寄居町
+  unknowns:
+  - 1956年の合併時に新村名「東秩父」が選ばれた過程（候補案や公募の有無）を示す記録は未確認
+  - 「外秩父十八村」の数え方と当村域の村々の対応関係は、資料により幅がある
+  updated: '2026-11-13'
+- id: muni/11-松伏町
+  code: '114651'
+  names:
+    ja: 松伏町
+    reading: まつぶしまち
+    aliases:
+    - 松伏領村
+    - 松伏村
+    - 松伏領
+    - 金杉村
+  user_terms:
+  - 松伏町の名前の由来
+  - まつぶし
+  - 伏せ松の伝説
+  - 石川民部の町
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 町名は、江戸時代の村名であり領名でもある「松伏」を受け継ぐ。明治22年（1889年）に松伏村など5か村で松伏領村が成立し、昭和31年（1956年）に松伏村へ改称、昭和44年（1969年）に町制を施行した。「松伏」の語源としては、この地を開拓した豪農・石川家の松が伏せ松の形をしていたことに由来するという話が、郷土資料に伝わっている。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 武蔵国松伏領・松伏村（松伏町公式の歴史概要）
+    note: 領名・村名としての「松伏」の近世の用例。初出の特定は未了
+  claims:
+  - text: 町の歴史概要によれば、江戸時代、現在の町域のうち松伏・田島・大川戸・上赤岩・下赤岩の5か村は武蔵国松伏領に属し、金杉村・築比地村・魚沼村の3か村は下総国庄内領に属した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-matsubushi-town-history
+  - text: 町の紹介によれば、明治22年（1889年）に松伏村・大川戸村・田島村・上赤岩村・下赤岩村の5か村が合併して松伏領村となり、昭和30年（1955年）に金杉村と合体合併して改めて松伏領村が誕生、昭和31年（1956年）に松伏村へ村名変更し、昭和44年（1969年）に町制を施行して松伏町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-matsubushi-town-intro
+  - text: この地方を開拓した石川家の祖が遠州曽根の松を移植したところ、それが伏せ松の形をしていたところから「松伏」と呼ばれるようになった、と郷土資料に伝えられている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - w10-matsubushi-walking
+  - text: 郷土資料は別説として、「マツブシ」の「ブシ」は河岸段丘や谷あいに見られる小平地のことではないかという説も紹介する
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - w10-matsubushi-walking
+  - text: 町によれば、松伏村の石川民部家は新田開発や寺院の整備に尽力した世襲の名主の家で、江戸川の開鑿や改修にも関わった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-matsubushi-town-history
+  - text: 地方公共団体コードは114651である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一本の松が領の名になったという話
+    text: 松伏の語源とされる「伏せ松」の主は、千町歩を超える田畑を持ったともいう大地主で世襲名主の石川民部家である。将軍の日光社参や江戸川の工事に尽力して苗字帯刀を許されたこの家の松の姿が、そのまま領全体の名前になったという。真偽は定かでないが、江戸時代のこの地域が一軒の豪農を中心に回っていたことは、町の公式の歴史からも読み取れる。なお町の木は、町名にちなんで「松」が選ばれている。
+    sources:
+    - w10-matsubushi-walking
+    - w10-matsubushi-wiki-ishikawa
+    - w10-matsubushi-town-intro
+  relations:
+  - pref/11
+  unknowns:
+  - 伏せ松説を裏付ける近世の一次史料は未確認で、郷土資料に伝わる伝承の域を出ない
+  - 「松伏」の名が領名として定着した時期や、松伏村という村名の初出は未確認
   updated: '2026-11-13'
 - id: muni/11-桶川市
   code: '112313'
@@ -1997,6 +3110,166 @@ records:
   unknowns:
   - 語源の2仮説はいずれも推測の域を出ず、専門辞典（角川日本地名大辞典・日本歴史地名大系）での確認は未了
   - 1352年の下文の原文の直接確認は未了
+  updated: '2026-11-13'
+- id: muni/11-横瀬町
+  code: '113611'
+  names:
+    ja: 横瀬町
+    reading: よこぜまち
+    aliases:
+    - 横瀬村
+    - 横瀬郷
+    - 芦ヶ久保村
+  user_terms:
+  - 横瀬町の名前の由来
+  - よこぜ
+  - 武甲山の町
+  - 芦ヶ久保の氷柱
+  naming_type: 一部の地名
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 武甲山の北東麓、横瀬川沿いの町で、中世の横瀬郷の名を受け継ぐ。暦応3年（1340年）の譲状に「秩父郡内横瀬郷」と見えるのが確かな用例で、丹党に属する横瀬氏の本貫地だった。「横瀬」の語源は、川の瀬が当地の中央を横に流れていることに由来するといわれるが、専門資料での裏付けは得られていない。昭和59年（1984年）に町制を施行した。
+  first_attestation:
+    era: 暦応3年
+    year_western: 1340
+    document: 安保光泰譲状（安保文書）にみえる「秩父郡内横瀬郷」
+    note: 日本歴史地名大系が紹介する確かな用例。二次資料経由の確認
+  claims:
+  - text: 日本歴史地名大系によれば、暦応3年（1340年）正月24日の安保光泰譲状（安保文書）に、惣領に譲与した所領のうちとして「秩父郡内横瀬郷」が記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-yokoze-kotobank-mura
+  - text: 日本歴史地名大系は、中世の当地は横瀬郷と呼ばれ、丹党に属する横瀬氏の本貫地であったと解説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w10-yokoze-kotobank-mura
+  - text: 日本歴史地名大系によれば、横瀬川が村内を貫流し、天正20年（1592年）の年貢請取状や明暦元年（1655年）の検地帳にも「横瀬郷」の呼称が用例として残る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w10-yokoze-kotobank-mura
+  - text: 「横瀬」の地名は、川（瀬）が当地の中央を横に流れていることに由来するといわれるが、出典を明示した専門資料では確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w10-yokoze-gogen
+  - text: 明治22年（1889年）に横瀬村が成立し、昭和30年（1955年）2月11日に芦ヶ久保村と合併して改めて横瀬村となり、昭和59年（1984年）10月1日に町制を施行して横瀬町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w10-yokoze-wiki
+  - text: 地方公共団体コードは113611である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 武甲山の石灰岩と横瀬川
+    text: 町の中心を横瀬川が貫き、その南に石灰岩の武甲山がそびえる。武甲山の石灰岩の採掘は秩父地域の近代産業を支え、横瀬駅は登山と産業の玄関口になった。いま町を訪れる人の目当ては、冬の芦ヶ久保の氷柱や寺坂の棚田である。「横の瀬」の名が指す川の風景は、山に抱かれた町の骨格であり続けている。
+    sources:
+    - w10-yokoze-kotobank-mura
+    - w10-yokoze-wiki
+  relations:
+  - pref/11
+  - muni/11-小鹿野町
+  unknowns:
+  - 「横に流れる川の瀬」に由来するという語源説について、町史等の出典を明示した裏付けは未確認
+  - 横瀬郷の範囲や横瀬氏の系譜の詳細は、専門研究での確認が未了
+  updated: '2026-11-13'
+- id: muni/11-毛呂山町
+  code: '113263'
+  names:
+    ja: 毛呂山町
+    reading: もろやままち
+    aliases:
+    - 毛呂郷
+    - 毛呂村
+    - 山根村
+    - 川角村
+  user_terms:
+  - 毛呂山
+  - もろやま
+  - 桂木柚子
+  - 流鏑馬
+  - 新しき村のある町
+  naming_type: 合併新設（1939年に毛呂村の「毛呂」と山根村の「山」を合わせた合成地名）
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 入間郡の町で、町名は1939年（昭和14年）に毛呂村と山根村が合併した際に両村の名を合わせた合成地名である。「毛呂」は中世の毛呂郷にさかのぼる古い地名だが語源に定説はなく、町の広報特集は「地名の由来は毛呂氏ではなかった」と題して諸説を検証している。1955年（昭和30年）に川角村と合併して現在の町域となった。臥龍山の出雲伊波比神社の流鏑馬や桂木柚子で知られる。
+  first_attestation:
+    era: 治承4年
+    year_western: 1180
+    document: 『吾妻鏡』
+    note: 「毛呂冠者季光」と見えるのが書物における「毛呂」の最古の用例として町の広報が紹介するが、これは地名ではなく武士の氏としての登場である。地名「毛呂」の表記が残る最古の資料は文明7年（1475年）のものと広報は紹介する
+  claims:
+  - text: 町名「毛呂山」は、1939年（昭和14年）4月1日に毛呂村と山根村が合併した際に、毛呂村の「毛呂」と山根村の「山」を合わせた合成地名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-moroyama-koho-tokushu
+  - text: 1955年（昭和30年）4月1日に川角村と合併し、現在の毛呂山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-moroyama-koho65
+  - text: 「毛呂」の語源に定説はなく、町の広報特集は「地名の由来は毛呂氏ではなかった」と題し、毛呂氏に由来する通説を退けたうえで複数の説を紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-moroyama-koho-tokushu
+  - text: 書物に「毛呂」が現れる最古の例は、町の広報が紹介する『吾妻鏡』治承4年（1180年）12月12日条の「毛呂冠者季光」で、地名ではなく源頼朝に仕えた武士・毛呂氏の人名としての登場である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-moroyama-koho-tokushu
+  - text: 中世には毛呂郷があり、臥龍山を中心として川に囲まれた村々の一帯を指す地域名であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-moroyama-koho-tokushu
+  - text: 毛呂氏は平安時代末から鎌倉時代にこの地に住んだ武士で、この地に住んだために毛呂氏を称したとも伝えられ、地名と氏のどちらが先かは定かでない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w11-moroyama-koho-tokushu
+  - text: 語源説の一つとして、「毛呂」は「諸（もろ）」の転で、臥龍山が出雲伊波比神社の神域として諸々の氏子を見渡す山であったことにちなむとする郷土研究家の説がある
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - w11-moroyama-koho-tokushu
+  - text: 毛呂山町の地方公共団体コードは113263である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「毛呂氏ではなかった」—町広報が自ら通説を検証した
+    text: 毛呂山町の広報は、合併60年の特集で「地名の由来は毛呂氏ではなかった」と題し、町名の由来を一から追った。鎌倉武士の毛呂氏が住んだから「毛呂」、という説明は分かりやすい。だが『吾妻鏡』に残る「毛呂冠者季光」はあくまで人の名で、地名としての「毛呂」の初出は文明7年（1475年）の資料まで下るという。広報がたどり着いた答えは、語源は一つに決められないまま、臥龍山と出雲伊波比神社を中心とする毛呂郷の名が残った、というものだった。その出雲伊波比神社では今も流鏑馬が奉納され、毛呂郷の中心だった山と社は町の顔であり続けている。
+    sources:
+    - w11-moroyama-koho-tokushu
+  relations:
+  - pref/11
+  - muni/11-越生町
+  - muni/11-鳩山町
+  unknowns:
+  - 「毛呂」の語源そのもの（「諸」の転訛説、神聖な地を表すとする説など）は決着しておらず、町の広報も定説なしとしている
+  - 地名「毛呂」の初出とされる文明7年（1475年）の資料の書誌詳細は本バッチでは確認できなかった
   updated: '2026-11-13'
 - id: muni/11-深谷市
   code: '112186'
@@ -2081,6 +3354,95 @@ records:
   unknowns:
   - 「深谷」の語源は未確認。市の公式ページにも由来の説明は見当たらず（県内市町村の由来を公式ページ中心に調べた一覧でも「説明が見つからなかった」市に分類されている）、深い谷状の地形に由来するという説明も専門辞典では裏付けが取れなかった
   - 1356年を初見とする世界大百科事典の記述の典拠となった文書そのものは未確認
+  updated: '2026-11-13'
+- id: muni/11-滑川町
+  code: '113417'
+  names:
+    ja: 滑川町
+    reading: なめがわまち
+    aliases:
+    - 滑川村
+    - 福田村
+    - 宮前村
+  user_terms:
+  - 滑川
+  - なめがわ
+  - 森林公園の町
+  - 谷津沼
+  - ミヤコタナゴ
+  naming_type: 合併新設（1954年の合併で、両村の間を流れる滑川の名を新しい村名に採用）
+  prefecture: 埼玉県
+  homonyms:
+  - muni/16-滑川市
+  summary: 比企郡の町で、町名は町域のほぼ中央を東西に流れる荒川水系の川「滑川」に由来する。1954年（昭和29年）に福田村と宮前村が合併した際、両村の間を流れる滑川の名を新しい村名に採り、1984年（昭和59年）に町制を施行した。富山県滑川市も同じ「滑川」だが、あちらは波入川に中世に「滑河」の字が当てられた地名で、成り立ちは異なる。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 滑川村の発足（福田村・宮前村の合併）
+    note: 自治体名としての初出。川名「滑川」自体の初出は本バッチでは確認できなかった
+  claims:
+  - text: 町の中央を、町名の由来にもなっている滑川が流れる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w11-namegawa-sarfic
+    - w11-namegawa-river-wiki
+  - text: 滑川は嵐山町の三反田沼に源を発し、滑川町を経て東松山市で市野川に合流する流路延長13.5kmの一級河川で、読みは「なめかわ」である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-namegawa-river-wiki
+  - text: 1954年（昭和29年）11月3日に福田村と宮前村が合併して滑川村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-namegawa-wiki
+  - text: 合併時の新しい村名は、2つの村の間を流れる川の名から採られたと町の公式説明を紹介する資料がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-saitamae-yurai
+  - text: 1984年（昭和59年）11月3日に町制を施行して滑川町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-namegawa-wiki
+  - text: 富山県滑川市の「滑川」は、市の中央を流れる波入川（現在の中川）に中世に「滑河」の漢字が当てられた地名で、初見は1186年とされ、埼玉県滑川町の川名由来の滑川とは成り立ちが異なる同名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - u6-namerikawa-wiki
+  - text: 町内では谷津の地形に造られたため池群による農業が続き、「比企丘陵の天水を利用した谷津沼農業システム」は2023年（令和5年）1月に日本農業遺産に認定された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w11-namegawa-sarfic
+  - text: 滑川町の地方公共団体コードは113417である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 同じ「滑川」、違う川—比企の滑川と富山の滑川
+    text: 「滑川」という名の自治体は、埼玉県滑川町と富山県滑川市の二つある。富山の滑川は、かつて波入川と呼ばれた川に中世の武士・比企氏が「滑河」の字を当てたのが始まりと伝わる。その比企氏の本拠は武蔵国比企郡、つまり埼玉の滑川町のある郡だった。では埼玉の滑川も同じ由来かというと、そうではない。埼玉の滑川はもともと川の名で、1954年の合併のときに両村の間を流れる川の名をそのまま村名にした、昭和の命名である。同じ字を書く二つの「滑川」は、片や中世の当て字、片や合併命名という対照的な生い立ちを持ち、不思議なことに両方とも比企の名と無縁ではない。
+    sources:
+    - u6-namerikawa-wiki
+    - w11-namegawa-wiki
+  relations:
+  - pref/11
+  - muni/16-滑川市
+  - muni/11-鳩山町
+  unknowns:
+  - 川名「滑川」自体の語源（「滑らか」な流れや川底に由来するのか等）は、町公式・専門資料で確認できなかった
+  - 1954年の合併時に滑川以外の村名候補があったかどうかは確認できなかった
   updated: '2026-11-13'
 - id: muni/11-熊谷市
   code: '112020'
@@ -2295,6 +3657,184 @@ records:
   unknowns:
   - 「白岡」の地名の史料上の初出は未確認（白岡八幡宮の縁起の849年命名譚は伝承であり、裏付ける同時代史料は確認できなかった）
   - 白岡駅の命名理由（久喜駅との混同回避と八幡宮へのちなみ）を確認できる鉄道側の一次資料は未確認で、市の文化財計画を紹介する二次資料による
+  updated: '2026-11-13'
+- id: muni/11-皆野町
+  code: '113620'
+  names:
+    ja: 皆野町
+    reading: みなのまち
+    aliases:
+    - 皆野之郷
+    - 皆野村
+    - 美野町
+  user_terms:
+  - 皆野
+  - みなの
+  - 秩父音頭の里
+  - 美野町
+  - 天空のポピー
+  naming_type: その他（古くからの地名「皆野」の継承。1943年の戦時合併で一時「美野町」となったが1946年に復した）
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 秩父郡の町で、地名は戦国期から見える皆野之郷に由来する古名であり、村名の由来は広大な原野の地形によるものと伝えられる。1889年（明治22年）に皆野村、1928年（昭和3年）に皆野町となったが、1943年（昭和18年）の戦時合併で近隣町村と合併して「美野町」に改称され、1946年（昭和21年）に解体して皆野町に戻った。1955年（昭和30年）に4町村の合併で現在の皆野町となり、秩父音頭の発祥地として知られる。
+  first_attestation:
+    era: 戦国期
+    year_western: null
+    document: 皆野之郷の用例（『角川日本地名大辞典』が紹介）
+    note: 地名「皆野」は戦国期より見出せる皆野之郷が古い用例とされる。具体的な文書名・年次は本バッチでは確認できなかった
+  claims:
+  - text: 地名「皆野」は、古くは戦国期より見出せる皆野之郷に由来し、江戸期には皆野村として続いた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w11-minano-kakugawa
+    - w11-minano-wiki
+  - text: 村名の由来は、広大な原野が広がる地形によるものと云われている
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w11-minano-kakugawa
+  - text: 1889年（明治22年）4月1日の町村制施行で皆野村が成立し、1928年（昭和3年）11月1日に町制を施行して皆野町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-minano-geoshape
+    - w11-minano-wiki
+  - text: 1943年（昭和18年）9月8日、戦時町村合併促進法により国神村・金沢村・日野沢村・三沢村・大田村および白鳥村の一部（下田野）と合併し、町名は「美野町」と改められた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-minano-wiki
+  - text: 1946年（昭和21年）12月1日に美野町は解体され、皆野町ほか1町5村に分離して「皆野」の名が戻った
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-minano-wiki
+  - text: 1955年（昭和30年）3月1日に皆野町・国神村・金沢村・日野沢村が合併して現在の皆野町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-minano-wiki
+  - text: 皆野町は秩父音頭の発祥の地として知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-minano-pref
+  - text: 皆野町の地方公共団体コードは113620である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 3年だけ存在した「美野町」
+    text: 皆野町の名は、1943年から1946年までの3年あまりだけ地図から消えた。戦時町村合併促進法で皆野町と周辺の村々が合併した際、新しい町名として「美野町」が選ばれたためである。だが戦後間もない1946年、この合併は解体され、皆野町は元の名に戻った。そして1955年に再び合併したとき、町名に選ばれたのはやはり「皆野」だった。戦国期から続く古い地名の重みが、「美野」という新名を退けた形である。「美野町」は、昭和の合併史の中でも短命だった町名の一つとして残る。
+    sources:
+    - w11-minano-wiki
+  relations:
+  - pref/11
+  - muni/11-長瀞町
+  - muni/11-神川町
+  unknowns:
+  - 「皆野」の語源は「広大な原野」説が伝えられるのみで、語義の確かな説明は専門資料でも確認できなかった
+  - 皆野之郷の初出文書の書誌（文書名・年次）は確認できなかった
+  - 1943年の合併で「美野町」の名が選ばれた経緯（候補や選定理由）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/11-神川町
+  code: '113832'
+  names:
+    ja: 神川町
+    reading: かみかわまち
+    aliases:
+    - 神川村
+    - 丹荘村
+    - 青柳村
+    - 神泉村
+  user_terms:
+  - 神川
+  - かみかわ
+  - 神流川
+  - 神流湖
+  - 下久保ダム
+  - 金鑽神社
+  naming_type: 合併新設（1954年に丹荘村・青柳村が合併して神川村。命名理由の公式な明記は確認できていない）
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 児玉郡の町で、北部を利根川水系の神流川が流れ、群馬県との境をなす。1954年（昭和29年）に丹荘村と青柳村が合併して神川村が発足し、1987年（昭和62年）に町制を施行、2006年（平成18年）に神泉村と合併して現在の神川町となった。村名・町名「神川」の命名理由を明記した公式資料は確認できておらず、神流川にちなむ名と考えられるが確証はない。なお川の名「神流」は、古く「カミノ川」と呼ばれたものが「神の川」「神名」へ転じたと国土交通省が解説している。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 神川村の発足（丹荘村・青柳村の合併）
+    note: 自治体名としての初出。川名「神流川」は古くカミノ川と呼ばれたと伝えられるが、文書上の初出は本バッチでは確認できなかった
+  claims:
+  - text: 町域の北部を神流川が流れ、群馬県藤岡市との境をなし、町域には下久保ダムによる神流湖がかかる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-kanna-water
+    - w11-kamikawa-wiki
+  - text: 神流川の名は、古くは「カミノ川」と呼ばれ、武蔵国の北の果て「上」の国から流れる川の意が「神（カム）の川」、さらに「神名」に転じたものと国土交通省が解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-kanna-mlit
+  - text: 神流川は「感納川」「甘奈川」とも綴られてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-kanna-mlit
+  - text: 1954年（昭和29年）5月3日、丹荘村と青柳村が合併して神川村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-kamikawa-wiki
+  - text: 1987年（昭和62年）10月1日に神川村が町制を施行して神川町となり、2006年（平成18年）1月1日に神泉村と合併して新しい神川町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-kamikawa-estat
+  - text: 神川村の命名理由を明記した公的資料は本調査では確認できず、神流川にちなむ命名と考えられるものの確証はない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w11-kamikawa-wiki
+  - text: 干ばつに悩むこの地では金鑽神社にまつわる龍神伝説が伝えられ、現れた武蔵国の役人が「私が金龍になって神流川の流れを導く」と告げて姿を消し、その後に九郷用水が切り拓かれたという
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w11-kanna-water
+  - text: 神川町の地方公共団体コードは113832である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 金の龍が導いた川
+    text: 神流川沿いは、ひとたび大雨が降れば洪水、降らなければ渇水という、治水と利水の両方に苦しんだ土地だった。水資源機構の資料が伝える金鑽神社の龍神伝説では、干ばつの地に現れた武蔵国の役人が「私が金龍になって神流川の流れを導く」と言い残して姿を消し、そののちに九郷用水が切り拓かれたという。神流川の「神」は古く「カミノ川」から転じたと国土交通省は解説するが、水を神に願うしかなかった土地の暮らしが、「神の川」の名をいっそう重いものにしてきた。1954年に生まれた「神川」という村名も、この川の名の重みの上に成り立っている。
+    sources:
+    - w11-kanna-water
+    - w11-kanna-mlit
+  relations:
+  - pref/11
+  - muni/11-皆野町
+  unknowns:
+  - 神川村（1954年）の命名理由の公式記録は確認できなかった（神流川にちなむのか、両村に共通する要素から採ったのかは未確認）
+  - 川名「神流川」の文書上の初出は確認できなかった
   updated: '2026-11-13'
 - id: muni/11-秩父市
   code: '112071'
@@ -2836,6 +4376,98 @@ records:
   - 「行田」の語源は市の公式資料にも記載がなく、未確認（地名としての確実な初出も特定できていない）
   - 1949年の改称理由について、市の公式文書による明示は未確認（行田足袋の知名度によるとする説明は二次資料による）
   updated: '2026-11-13'
+- id: muni/11-越生町
+  code: '113271'
+  names:
+    ja: 越生町
+    reading: おごせまち
+    aliases:
+    - 越生郷
+    - 越生村
+    - 梅園村
+    - 今市村
+  user_terms:
+  - 越生
+  - おごせ
+  - 越生梅林
+  - おっぺ川
+  - ハイキングのまち
+  - 山吹の里
+  naming_type: その他（中世以来の越生郷の名を継承し、1889年の町村制施行で合併してそのまま町となった）
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 入間郡の町で、「おごせ」という難読地名で知られる。名は鎌倉時代以来の越生郷にさかのぼり、語源は秩父方面へ尾根を越える地勢から「尾根越し」が転じたとする説が有力とされる。1873年（明治6年）に今市村が越生村と改め、1889年（明治22年）の町村制施行で周辺8か村と合併して越生町が誕生し、1955年（昭和30年）に梅園村と合併して現在に至る。関東三大梅林の一つ、越生梅林の町である。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 越生郷の用例（越生町公式「沿革」が紹介）
+    note: 町の沿革は「鎌倉時代のはじめから戦国時代に至るまで、越生氏の所領であった今市村の周辺一帯は越生郷と呼ばれ」と記す。具体的な文書名は挙げられていない
+  claims:
+  - text: 鎌倉時代のはじめから戦国時代まで、越生氏の所領だった今市村の周辺一帯は越生郷と呼ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-ogose-enkaku
+  - text: 1873年（明治6年）に今市村が越生村と改称し、1889年（明治22年）の町村制施行で上野村・如意村・黒岩村・西和田村・大谷村・鹿下村・成瀬村・古池村の8か村と合併して越生町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-ogose-enkaku
+  - text: 1955年（昭和30年）に梅園村と合併して現在の越生町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-ogose-enkaku
+    - w11-ogose-guide
+  - text: 「おごせ」の語源は、秩父地方との往来には尾根を越えねばならない地勢から、「尾根越し（おねごし）」が「尾越し（おごし）」を経て「おごせ」に変化したとする説が有力とされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - w11-ogose-wiki
+    - w3-saitamae-yurai
+  - text: 柳田國男は『山の神とヲコゼ』（1936年）で、埼玉県入間郡越生（オゴセ）のような地名は「峯越（ヲゴシ）」の意味ではあるまいかと述べている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - w11-ogose-yanagita
+    - w11-ogose-wiki
+  - text: 町のほぼ中央を越辺川（おっぺがわ）が貫流している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-ogose-guide
+  - text: 越生梅林は関東三大梅林の一つに数えられ、梅は町の木に定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-ogose-guide
+  - text: 越生町の地方公共団体コードは113271である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 町村制と同時に生まれた「日本で一番古い町」
+    text: 多くの町は、まず村として発足し、人口が増えてから町へ「昇格」する。だが越生町は1889年（明治22年）の町村制施行のその年に、合併して最初から「町」として発足した。そのため町は、町村制施行時に誕生した日本で一番古い町と自らを紹介している。中心だった今市村は、相州から上州へ通じる街道の宿駅として古くから名を知られた町場で、村ではなく町として扱われるだけの賑わいがあった。明治6年にその今市が「越生村」と改称し、周辺の村々と合併して越生町になったとき、中世の越生郷の名が自治体の名として復活したのである。
+    sources:
+    - w11-ogose-enkaku
+    - w3-saitamae-yurai
+  relations:
+  - pref/11
+  - muni/11-毛呂山町
+  - muni/11-鳩山町
+  unknowns:
+  - 「おごせ」の語源は尾根越し説が有力とされるが、越辺川の「おっぺ」との関係を含め、確定的な説明は確認できなかった
+  - 越生郷の初出文書の書誌は確認できなかった
+  updated: '2026-11-13'
 - id: muni/11-越谷市
   code: '112224'
   names:
@@ -2920,6 +4552,97 @@ records:
   - 語源は台地のふもとの低地とする説と、川谷を越える地とする説などがあり確定していない
   - 越ヶ谷郷の成立時期を示す中世以前の確実な用例は、本バッチでは確認できなかった
   updated: '2026-11-13'
+- id: muni/11-長瀞町
+  code: '113638'
+  names:
+    ja: 長瀞町
+    reading: ながとろまち
+    aliases:
+    - 野上町
+    - 野上村
+    - 野上三郷
+  user_terms:
+  - 長瀞
+  - ながとろ
+  - 岩畳
+  - ライン下り
+  - 長瀞渓谷
+  - 地球の窓
+  naming_type: その他（1972年に野上町から、国の名勝・天然記念物「長瀞」の名へ改称）
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 秩父郡の町で、もとは戦国期から見える野上三郷に由来する野上村・野上町だった。荒川の流れがゆるやかで深い「瀞」が長く続く一帯は「長瀞」と呼ばれて渓谷美で知られ、1924年（大正13年）に国の名勝・天然記念物に指定された。1940年（昭和15年）の町制時には大字藤谷淵が大字長瀞に改称され、1972年（昭和47年）11月1日には町そのものも全国に知られる観光地の名を採って長瀞町へ改称した。
+  first_attestation:
+    era: 大正13年
+    year_western: 1924
+    document: 国の名勝及び天然記念物「長瀞」の指定（大正13年12月9日）
+    note: 景勝地名としての「長瀞」の公的な区切りの一つ。大字名としては1940年に藤谷淵から改称され、町名としては1972年から使われている
+  claims:
+  - text: 江戸期には本野上村・中野上村・野上下郷村があり「野上三郷」と通称され、1889年（明治22年）の町村制で野上村、1940年（昭和15年）に町制を施行して野上町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-nagatoro-town
+    - w11-nagatoro-wiki
+  - text: 1940年の町制施行の際、大字藤谷淵は大字長瀞に改称された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-nagatoro-wiki
+  - text: 荒川の上長瀞から高砂橋に至る両岸は、1924年（大正13年）12月9日に国の名勝及び天然記念物「長瀞」に指定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-nagatoro-town
+    - w11-nagatoro-pref
+  - text: 「瀞」は川の流れがゆるやかで深い部分を指す言葉であり、「長瀞」は荒川のゆるやかな流れ「瀞」が長く続くことから付いた名であると町の公式説明を紹介する資料がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-saitamae-yurai
+  - text: 1972年（昭和47年）11月1日、野上町から長瀞町へ町名を変更した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-nagatoro-town
+    - w11-nagatoro-pref
+  - text: 町の教育要覧は改称の理由を「全国的に知られる『観光地長瀞』を町名にと」と記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-nagatoro-kyoiku
+  - text: 長瀞渓谷は結晶片岩から成り、一帯は「日本地質学発祥の地」とも呼ばれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-nagatoro-kyoiku
+    - w11-nagatoro-pref
+  - text: 長瀞町の地方公共団体コードは113638である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 観光地の名を町名にした1972年
+    text: 長瀞町は、合併ではなく改称で生まれた町名の代表例である。もとの「野上」は戦国期から見える古い地名で、野上三郷と呼ばれた村々の名だった。一方の「長瀞」は、1924年に国の名勝・天然記念物に指定されて以来、岩畳とライン下りで全国に知られる渓谷の名である。1972年、町は古い名を手放し、観光地の名を町名に採用した。ただし「長瀞」は突然現れた名ではない。1940年の町制のときに大字藤谷淵が大字長瀞へ改称されており、景勝地の名は30年以上かけて地域に根を張った末に、町名へと昇格したのである。
+    sources:
+    - w11-nagatoro-kyoiku
+    - w11-nagatoro-wiki
+  relations:
+  - pref/11
+  - muni/11-皆野町
+  unknowns:
+  - 景勝地名「長瀞」の文書上の初出（いつから荒川のこの区間が長瀞と呼ばれたか）は確認できなかった
+  - 1972年の改称に際して他の候補名や異論があったかは確認できなかった
+  updated: '2026-11-13'
 - id: muni/11-飯能市
   code: '112097'
   names:
@@ -3002,6 +4725,88 @@ records:
   unknowns:
   - 語源の定説はない（楱野説・萩野説・朝鮮語説・聚能説・当て字イノ説を併記した）
   - 「判乃」の確実な初出文書は特定できていない
+  updated: '2026-11-13'
+- id: muni/11-鳩山町
+  code: '113484'
+  names:
+    ja: 鳩山町
+    reading: はとやままち
+    aliases:
+    - 鳩山村
+    - 今宿村
+    - 亀井村
+  user_terms:
+  - 鳩山
+  - はとやま
+  - 鳩山ニュータウン
+  - 南比企窯跡群
+  - 鳩ヶ丘
+  naming_type: 合併新設（1955年に今宿村・亀井村が合併し、両村の中央にあった地名「鳩山」を村名に採用）
+  prefecture: 埼玉県
+  homonyms: []
+  summary: 比企郡の町で、1955年（昭和30年）に今宿村と亀井村が合併した際、両村の中央にあった地名「鳩山」を新しい村名に採り、1982年（昭和57年）に町制を施行した。古代には南比企窯跡群の窯業地帯として栄え、昭和後期には鳩山ニュータウンが開発されて東京のベッドタウンとなった。「鳩山」という小地名自体の由来は、公式資料では確認できていない。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 鳩山村の発足（今宿村・亀井村の合併）
+    note: 自治体名としての初出。小地名「鳩山」自体の初出は本バッチでは確認できなかった
+  claims:
+  - text: 1955年（昭和30年）に今宿村と亀井村が合併して鳩山村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-saitamae-yurai
+    - w11-hatoyama-wiki
+  - text: 村名「鳩山」は、合併した2つの村の中央にあった地名「鳩山」から採られたと町の公式説明を紹介する資料がある
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w3-saitamae-yurai
+  - text: 1982年（昭和57年）4月1日に町制を施行して鳩山町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w11-hatoyama-geoshape
+  - text: 町域の大部分は岩殿丘陵の中央部に位置し、鳩川が町内を流れる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-hatoyama-wiki
+  - text: 古代の町域は南比企窯跡群の一角で、奈良時代には武蔵国分寺の瓦を焼いた窯跡が残るなど、窯業の一大産地だった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-hatoyama-wiki
+  - text: 昭和後期に開発された鳩山ニュータウンにより東京のベッドタウンとなった一方、2020年（令和2年）の高齢化率は45.9%で県内の自治体で最も高い
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w11-hatoyama-wiki
+  - text: 鳩山町の地方公共団体コードは113484である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: ニュータウンに残った「鳩」の名
+    text: 鳩山の名は、宅地開発で生まれたニュータウンの街区名に姿を変えて残っている。鳩ヶ丘、楓ヶ丘、松ヶ丘。丘陵の地名を「ヶ丘」で結ぶ命名の中で、「鳩ヶ丘」だけが古い小地名「鳩山」の記憶を受け継いでいる。もとの鳩山がなぜ「鳩」のつく山だったのか、確かな記録は残っていない。だが、1955年の合併で村名に選ばれ、ニュータウンの住所に生き残ったことで、この小さな地名は少なくとも二度の転機を生き延びた。地名の由来が分からなくても、地名がどう生き延びたかは記録できる。その好例が鳩山である。
+    sources:
+    - w11-hatoyama-wiki
+  relations:
+  - pref/11
+  - muni/11-越生町
+  - muni/11-毛呂山町
+  - muni/11-滑川町
+  unknowns:
+  - 小地名「鳩山」自体の由来（鳩の多い山だったのか、別の語の転訛か）は公式資料・専門資料で確認できなかった
+  - 「鳩山」が今宿村・亀井村のいずれの区域の字だったかなど、小地名としての位置の詳細は確認できなかった
   updated: '2026-11-13'
 - id: muni/11-鴻巣市
   code: '112178'
@@ -3285,6 +5090,9 @@ sources:
   m4-sayama-wiki:
     label: Wikipedia「狭山市」
     url: https://ja.wikipedia.org/wiki/狭山市
+  u6-namerikawa-wiki:
+    label: Wikipedia「滑川市」（地名の由来として、市の中央を流れる波入川（現在の中川）に発祥し、中世に「滑河」の漢字が当てられ「滑河」の初見は1186年であること、町村制時の町名選定で「滑川」と「加積」が最終候補に残り富山県知事が「滑川」を選んだことを、滑川市立博物館『市制60周年 なめりかわ昭和今昔写真館』等を引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E5%B8%82
   w1-ageo-city:
     label: 上尾市議会事務局「市の概要」（上尾市公式。本市の成り立ちは江戸時代に設置された中山道の上尾宿を起源とする宿場町であること、昭和30年（1955年）1月1日に上尾町・平方町・原市町・大石村・上平村・大谷村の3町3村が合併して上尾町となり、昭和33年（1958年）7月15日に県下19番目の市制を施行して上尾市が誕生したことを記す）
     url: https://www.city.ageo.lg.jp/uploaded/attachment/101403.pdf
@@ -3357,6 +5165,175 @@ sources:
   w1-yoshikawa-city-plan:
     label: 第6次吉川市総合振興計画策定基礎調査報告書（吉川市公式。明治22年（1889年）の町村制施行により吉川村・旭村・三輪野江村が誕生したこと、大正4年（1915年）に吉川村が町制を施行したこと、昭和30年（1955年）に1町2村が合併して吉川町が誕生したこと、平成8年（1996年）4月1日に市制を施行して吉川市となったことを記す）
     url: https://www.city.yoshikawa.saitama.jp/index.cfm/27,87241,c,html/87241/20210608-131737.pdf
+  w10-higashichichibu-pref-journal:
+    label: 埼玉県校外教育協会 研究紀要（東秩父村立東秩父中学校。「秩父盆地から山を隔てた東側にあることから名づけられた」、細川紙の国指定）
+    url: https://www.pref.saitama.lg.jp/documents/48928/higasititibu_higasititibu-jh.pdf
+  w10-higashichichibu-sotochichibu:
+    label: Wikipedia「外秩父山地」（分水嶺の東側の秩父郡の村々が「外秩父」と呼ばれたこと、大河原村・槻川村との対応）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%96%E7%A7%A9%E7%88%B6%E5%B1%B1%E5%9C%B0
+  w10-higashichichibu-vill-profile:
+    label: 東秩父村「東秩父村概要」（村の公式プロフィール。秩父盆地から山を隔てた東側という位置、比企広域市町村圏組合）
+    url: https://www.vill.higashichichibu.saitama.jp/soshiki/01/muragaiyou.html
+  w10-higashichichibu-wiki:
+    label: Wikipedia「東秩父村」（1956年8月1日の合併新設、2006年以降埼玉県唯一の村）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%A7%A9%E7%88%B6%E6%9D%91
+  w10-kawajima-pref:
+    label: 埼玉県資料「川島町の概要」（川島領6村合併による川島村の誕生、昭和47年11月の町制施行）
+    url: https://www.pref.saitama.lg.jp/documents/10170/536409.pdf
+  w10-kawajima-town-kankyo:
+    label: 川島町「川島町環境基本計画」（「川に囲まれた島」そのものという地勢、川島領6村の合併、大囲堤と水害の克服）
+    url: https://www.town.kawajima.saitama.jp/secure/9014/ckannkyoukihonnkeikakuR8.3.pdf
+  w10-kawajima-wiki:
+    label: Wikipedia「川島町」（四方を河川に囲まれた輪中の地形、市町村コード11346-8）
+    url: https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B3%B6%E7%94%BA
+  w10-matsubushi-town-history:
+    label: 松伏町「松伏町の歴史（町史あしあと）」（江戸時代の松伏領5か村と庄内領3か村、石川民部家の新田開発）
+    url: https://www.town.matsubushi.lg.jp/0000000600.html
+  w10-matsubushi-town-intro:
+    label: 松伏町「松伏町の紹介」（沿革：1889年松伏領村、1955年合体合併、1956年松伏村へ改称、1969年町制）
+    url: https://www.town.matsubushi.lg.jp/0000001475.html
+  w10-matsubushi-walking:
+    label: 埼玉歴史探訪「松伏とは」（水谷勇三。石川家が移植した松の伏せ松の樹形に由来するという説、「ブシ」＝小平地説）
+    url: https://www.saitama-walking-kyokai.jp/hotnews/rekishitanbou/matsubushi.html
+  w10-matsubushi-wiki-ishikawa:
+    label: Wikipedia「石川民部」（松伏の豪農・世襲名主。地名の由来が石川家の松の伏せ松の樹形という説、苗字帯刀）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E6%B0%91%E9%83%A8
+  w10-miyashiro-history:
+    label: 宮代町郷土資料館「宮代の歴史をかけ足で紹介」（江戸時代の村構成・旗本領）
+    url: https://www.town.miyashiro.lg.jp/0000001703.html
+  w10-miyashiro-museum-70:
+    label: 宮代町郷土資料館「宮代町70年のあゆみ」（令和7年度第1回企画展図録。1955年7月20日の合併、町名公募の候補一覧）
+    url: https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25863/R7ayumi70.pdf
+  w10-miyashiro-shiryo:
+    label: 宮代町資料（ふるさと歩道案内板・文化財案内板の集成。町名の由来＝姫宮神社の「宮」と身代神社の「代」）
+    url: https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000003/3422/siryou3.pdf
+  w10-ogano-town-chisei:
+    label: 小鹿野町地勢資料（町の地勢・沿革。和名抄の巨香郷に始まるという伝承、1955・1956・2005年の合併）
+    url: https://www.town.ogano.lg.jp/cms/wp-content/uploads/2019/03/001tisei.pdf
+  w10-ogano-town-kabuki:
+    label: 小鹿野町「小鹿野歌舞伎の紹介」（初代坂東彦五郎に始まる伝承、県指定文化財）
+    url: https://www.town.ogano.lg.jp/kabuki/kabukisyoukai
+  w10-ogano-town-kaso:
+    label: 小鹿野町「過疎地域自立促進計画」（町の歴史：巨香郷、小鹿野氏の館、江戸時代の市）
+    url: https://www.town.ogano.lg.jp/cms/wp-content/uploads/2018/04/kasojiritsuhen.pdf
+  w10-ogawa-kanko-washi:
+    label: 小川町観光協会「小川和紙」（正倉院文書の武蔵国紙、細川紙の伝来、「ぴっかり千両」）
+    url: https://www.kankou-ogawa.com/untitled185.html
+  w10-ogawa-kotobank-mura:
+    label: コトバンク「小川村」（日本歴史地名大系の解説。六斎市と「小川町」の呼称、文明6年の太田道灌書状写の「小河」）
+    url: https://kotobank.jp/word/%E5%B0%8F%E5%B7%9D%E6%9D%91-39845
+  w10-ogawa-town-kyoiku:
+    label: 小川町教育委員会資料「小川町の概要・沿革」（1889年の4町村成立、1955年の合併、江戸時代の漉屋426軒）
+    url: https://www.town.ogawa.saitama.jp/material/files/group/16/H29_ogawanokyouiku.pdf
+  w10-ranzan-hakubutsushi:
+    label: 嵐山町web博物誌（町年表：1889年菅谷村成立、1955年合併、1967年4月15日町制施行）
+    url: http://www.ranhaku.com/web06/01chishi/11rzn26.html
+  w10-ranzan-kanko:
+    label: 嵐山町観光協会「嵐山町ってどこ？」（町名の由来。文章提供：嵐山町文化スポーツ課博物誌編さん室。駅改称は昭和10年と記す）
+    url: https://www.ranzan-kanko.jp/ranzan
+  w10-ranzan-town-keikoku:
+    label: 嵐山町「嵐山渓谷」（地名の由来：本多静六の「武蔵嵐山」命名、武蔵長瀞の旧称、菅谷駅の改称は昭和11年）
+    url: https://www.town.ranzan.saitama.jp/0000001022.html
+  w10-ranzan-wiki:
+    label: Wikipedia「嵐山町」（1967年の改称・町制、京都の嵐山「あらしやま」との読みの対比、全国京都会議）
+    url: https://ja.wikipedia.org/wiki/%E5%B5%90%E5%B1%B1%E7%94%BA
+  w10-sugito-kotobank-juku:
+    label: コトバンク「杉戸宿」（日本歴史地名大系の解説。「杉戸は杉津・杉渡の意で利根川の渡場」との見解、田園簿・元禄郷帳の「杉戸町」）
+    url: https://kotobank.jp/word/%E6%9D%89%E6%88%B8%E5%AE%BF-1346338
+  w10-sugito-town-machiaruki:
+    label: 杉戸町「杉戸宿まち歩き」（杉戸宿は1616年に設置されたといわれる日光街道21宿の5番目、2016年に400年）
+    url: https://www.town.sugito.lg.jp/site/sugitogoto/11456.html
+  w10-sugito-town-plan:
+    label: 杉戸町「第6次杉戸町総合振興計画」（沿革：1889年に杉戸町、1955年の合併、1956・1957年の編入）
+    url: https://www.town.sugito.lg.jp/uploaded/attachment/9495.pdf
+  w10-yokoze-gogen:
+    label: 語源由来辞典「横瀬町」（横瀬は南北朝時代に「横瀬郷」で見え、川の瀬が中央を横に流れることに由来するといわれる）
+    url: https://gogen-yurai.jp/yokoze-machi-saitama
+  w10-yokoze-kotobank-mura:
+    label: コトバンク「横瀬村」（日本歴史地名大系の解説。暦応3年の譲状に「秩父郡内横瀬郷」、横瀬氏の本貫地、横瀬川の貫流）
+    url: http://kotobank.jp/word/%E6%A8%AA%E7%80%AC%E6%9D%91-3023295
+  w10-yokoze-wiki:
+    label: Wikipedia「横瀬町」（沿革：1889年横瀬村、1955年合併、1984年10月1日町制。市町村コード）
+    url: https://ja.wikipedia.org/wiki/%E6%A8%AA%E7%80%AC%E7%94%BA
+  w10-yorii-kotobank-mura:
+    label: コトバンク「寄居村」（日本歴史地名大系の解説。天正20年の書立に「寄居之郷」、寄居＝本城に付随する部分との見解、1655年の分村）
+    url: https://kotobank.jp/word/%E5%AF%84%E5%B1%85%E6%9D%91-3034429
+  w10-yorii-town-profile:
+    label: 寄居町「町のプロフィール」（"寄居"の由来：風土記稿の記述と城郭に付随する集落という研究の併記）
+    url: https://www.town.yorii.saitama.jp/soshiki/01/profile.html
+  w10-yorii-town-yoran:
+    label: 寄居町「町勢要覧2026」（「寄居町」町名の由来、駅前拠点施設Yotteco）
+    url: https://www.town.yorii.saitama.jp/uploaded/attachment/27552.pdf
+  w10-yorii-wiki:
+    label: Wikipedia「寄居町」（自治体の沿革・市町村コード）
+    url: https://ja.wikipedia.org/wiki/%E5%AF%84%E5%B1%85%E7%94%BA
+  w11-hatoyama-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」埼玉県比企郡鳩山町（有効期間1982年4月1日〜、行政区域コード11348、鳩山村からの町制施行）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/11348A1982.html
+  w11-hatoyama-wiki:
+    label: Wikipedia「鳩山町」（岩殿丘陵の中央部に位置し鳩川が流れること、南比企窯跡群、鳩山ニュータウン、2020年の高齢化率45.9%で県内最高であることを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%B3%A9%E5%B1%B1%E7%94%BA
+  w11-kamikawa-estat:
+    label: 政府統計の総合窓口 e-Stat「廃置分合等情報」埼玉県神川町（神川村11383が1987年10月1日に町制施行、2006年1月1日に神泉村と合併し神川町を新設）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/11383
+  w11-kamikawa-wiki:
+    label: Wikipedia「神川町」（1954年5月3日に丹荘村・青柳村が合併し神川村、1987年10月1日町制、2006年1月1日に神泉村と合併し神川町）
+    url: https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B7%9D%E7%94%BA
+  w11-kanna-mlit:
+    label: 国土交通省 水管理・国土保全局「日本の川 関東 神流川」（神流川の名前は神（カム）の川が神名に転じたことに由来し、感納川・甘奈とも綴られ、古くはカミノ川といわれたと解説）
+    url: https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0308_kanna/0308_kanna_03.html
+  w11-kanna-water:
+    label: 水資源機構「下久保ダムものがたり」（神流川と農業の歴史、金鑽神社と龍神伝説・九郷用水を紹介する公的機関の広報資料）
+    url: https://www.water.go.jp/honsya/honsya/pamphlet/kouhoushi/topics/pdf/08rensai/simokubo/1307-06.pdf
+  w11-minano-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」埼玉県秩父郡皆野村（有効期間1889年4月1日〜1928年11月1日、行政区域コード11362）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/11B0050005.html
+  w11-minano-kakugawa:
+    label: 『角川日本地名大辞典 11 埼玉県』皆野村の項（紙資料。古くは戦国期より見出せる皆野之郷で、村名の由来は広大な原野地形によるものと云われると記す）
+  w11-minano-pref:
+    label: 埼玉県「移住情報ウェブサイト 埼玉で農ある暮らし」皆野町紹介（皆野町は秩父音頭発祥の地としても知られると記す）
+    url: https://www.pref.saitama.lg.jp/nouarukurashi/step/info/minano.html
+  w11-minano-wiki:
+    label: Wikipedia「皆野町」（皆野之郷、1928年町制、1943年美野町への合併と1946年の分離、1955年の合併を、『角川日本地名大辞典 11 埼玉県』等を引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E7%9A%86%E9%87%8E%E7%94%BA
+  w11-moroyama-koho-tokushu:
+    label: 毛呂山町「広報もろやま」平成27年10月号 特集「『毛呂山』はどこからきたのか」（町公式広報。「地名の由来は毛呂氏ではなかった」と題し、『吾妻鏡』の毛呂冠者季光、毛呂郷、臥龍山と出雲伊波比神社、諸説を検証）
+    url: https://www.town.moroyama.saitama.jp/material/files/group/3/P2-5_23350327.pdf
+  w11-moroyama-koho65:
+    label: 毛呂山町「広報もろやま」2020年11月号（No.962）特集「毛呂山町合併65周年のあゆみ」（町公式広報、1955年に旧毛呂山町と川角村が合併）
+    url: https://www.town.moroyama.saitama.jp/material/files/group/3/zenpe-ji_55164936.pdf
+  w11-nagatoro-kyoiku:
+    label: 長瀞町教育委員会「令和6年度 長瀞町教育要覧」（昭和47年11月1日に全国的に知られる『観光地長瀞』を町名にと「長瀞町」と町名を変更したこと、長瀞渓谷が結晶片岩から成ることを記す）
+    url: https://www.town.nagatoro.saitama.jp/wp-content/uploads/2024/09/R6kyoikuyoran.pdf
+  w11-nagatoro-pref:
+    label: 埼玉県「長瀞町の概要」（上長瀞から高砂橋に至る荒川流域は大正13年に国の名勝及び天然記念物に指定されていること、昭和47年に町名を長瀞町としたことを記す県資料）
+    url: https://www.pref.saitama.lg.jp/documents/10170/536415.pdf
+  w11-nagatoro-town:
+    label: 長瀞町公式ガイド「長瀞町 どんなとこ！」（沿革：明治22年に藤谷淵・本野上・中野上の3村が合併して野上村、大正13年12月9日に国の名勝及び天然記念物に指定、昭和15年町制、昭和47年11月1日に町名を変更し長瀞町とした）
+    url: https://www.town.nagatoro.saitama.jp/wp-content/uploads/2022/03/nagatoro_life_6.pdf
+  w11-nagatoro-wiki:
+    label: Wikipedia「長瀞町」（江戸期の本野上村・中野上村・野上下郷村を野上三郷と通称したこと、1940年の町制時に大字藤谷淵は大字長瀞に改称されたこと、町名の由来は国の名勝・天然記念物の長瀞からであることを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E7%80%9E%E7%94%BA
+  w11-namegawa-river-wiki:
+    label: Wikipedia「滑川 (埼玉県)」（滑川は滑川町の町名の由来でもあると記し、滑川町公式「川の風景」を出典に挙げる。流路延長13.5km、嵐山町三反田沼に源を発し東松山市で市野川に合流）
+    url: http://ja.wikipedia.org/wiki/滑川_(埼玉県)
+  w11-namegawa-sarfic:
+    label: 埼玉りそな総合研究所「埼玉りそな経済情報」2025年5月号 滑川町紹介（町の中央を町名の由来にもなっている滑川が流れること、谷津沼農業システムの日本農業遺産認定を記す）
+    url: https://www.sarfic.or.jp/wordpress/wp-content/uploads/2025/04/town2025.05.pdf
+  w11-namegawa-wiki:
+    label: Wikipedia「滑川町」（1954年11月3日に福田村・宮前村が合併し滑川村、1984年11月3日に町制施行）
+    url: https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E7%94%BA
+  w11-ogose-enkaku:
+    label: 越生町公式「1 沿革」（越生町総合計画資料。鎌倉時代から越生氏の所領一帯が越生郷と呼ばれたこと、明治6年に今市村を越生村と改め、明治22年の町村制で8か村と合併し越生町となり、昭和30年に梅園村と合併したことを記す）
+    url: https://www.town.ogose.saitama.jp/material/files/group/3/1_enkaku.pdf
+  w11-ogose-guide:
+    label: 越生町「越生町くらしのガイドブック」町のプロフィル（明治22年に9か村が合併して越生町が誕生したこと、町のほぼ中央を越辺川が貫流すること、越生梅林を記す）
+    url: https://www.town.ogose.saitama.jp/material/files/group/2/kurashi_gb_p2-3.pdf
+  w11-ogose-wiki:
+    label: Wikipedia「越生町」（町名の由来として「尾根越し」が「おごせ」に変化したと言われ、柳田國男『山の神とヲコゼ』の峯越説を引用する）
+    url: https://ja.wikipedia.org/wiki/%E8%B6%8A%E7%94%9F%E7%94%BA
+  w11-ogose-yanagita:
+    label: 柳田國男『山の神とヲコゼ』寧楽書院、1936年（紙資料。埼玉県入間郡越生オゴセなどの例は峯越ヲゴシの意味ではあるまいかと述べる）
   w2-asaka-golf:
     label: 朝霞市ゴルフ協会レポート（東京ゴルフ倶楽部朝霞コースは昭和7年5月1日に開場し、1935年と1940年には日本オープンが開催されたが、昭和16年3月15日に閉場し、大部分が陸上自衛隊朝霞駐屯地となったことを記す）
     url: http://www.iajg.net/asakasi1.pdf
@@ -3534,3 +5511,60 @@ sources:
   w3-warabi-wiki:
     label: Wikipedia「蕨市」（「蕨」という地名の文献上の初出は1352年8月17日（観応3年）付の「賀上家文献」で「蕨郷上下」と記されていること、地名の由来は文献に残されていないが、源義経が立ちのぼる煙を見て「藁火村」と名付けた、あるいは在原業平が藁を焚いてもてなされたという「藁火」説と、慈鎮和尚（慈円）の歌や近隣の植物地名にならったという「蕨（植物）」説の2説が有力とされていること、市町村コード11223-2を記す）
     url: https://ja.wikipedia.org/wiki/蕨市
+  w9-ina-town-kinsei:
+    label: 伊奈町公式「近世（村の成立、伊奈氏と伊奈町、伊奈の領主）」（天正19年に伊奈忠次が小室郷に陣屋を構えたこと、忠勝の死後の旗本伊奈家の成立、小室郷8か村）
+    url: https://www.town.saitama-ina.lg.jp/0000003727.html
+  w9-ina-town-mayor:
+    label: 伊奈町公式「町長あいさつ」（昭和18年に小室村と小針村が合併した際、伊奈備前守忠次がこの地に陣屋を構えたことから、その名にちなみ伊奈村と命名したことが名の由来）
+    url: https://www.town.saitama-ina.lg.jp/0000001079.html
+  w9-ina-town-yashiki:
+    label: 伊奈町公式「伊奈氏屋敷跡」（伊奈氏は信州伊那の出身、天正18年に忠次が小室・鴻巣で1万3千石を与えられ陣屋とした）
+    url: https://www.town.saitama-ina.lg.jp/0000004031.html
+  w9-ina-wiki:
+    label: Wikipedia「伊奈町」（1943年7月15日に小針村と小室村が合併して伊奈村、1970年11月1日に町制施行して伊奈町）
+    url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%A5%88%E7%94%BA
+  w9-kamisato-town-gaiyou:
+    label: 上里町公式「上里町の概要」（四つの村が一つになった上里町：新村名「上里」の選定理由と昭和29年5月3日の上里村誕生、埼玉県最北端の位置）
+    url: https://www.town.kamisato.saitama.jp/gaiyou
+  w9-kamisato-town-kyoiku:
+    label: 上里町教育委員会「上里町の教育」（町章は「上」を4つ円形に配し四村合併と県最北の「上」を表す、昭和46年11月3日の町章制定と町制施行40周年）
+    url: http://www.town.kamisato.saitama.jp/secure/2743/R6kamisatomatinokyouiku2.pdf
+  w9-kanna-kotobank-taikei:
+    label: 『日本歴史地名大系』「神流川」項（コトバンク掲載。神名川・神野川の別表記、日本武尊が弟橘姫の遺髪を流した髪流川の伝承、カンナは鉄穴の意とする一説、上里町黛の北方で烏川に合流）
+    url: http://kotobank.jp/word/%E7%A5%9E%E6%B5%81%E5%B7%9D-49409
+  w9-miyoshi-mlit-garden:
+    label: 国土交通省「庭園間交流連携促進計画（探訪部門）」みよし野ガーデンツーリズム協議会資料（中世まで武蔵野一帯は広い範囲で「みよし野」と呼ばれ、三芳町の町名も『伊勢物語』に登場するこの地名が由来）
+    url: https://www.mlit.go.jp/toshi/park/content/001594660.pdf
+  w9-miyoshi-town-gaiyou:
+    label: 三芳町公式「三芳町概要」（沿革：元禄7年の三富新田開拓で三芳の旧4か村が成立、明治22年4月1日に合併して三芳村が誕生）
+    url: https://www.town.saitama-miyoshi.lg.jp/town/about/gaiyou.html
+  w9-miyoshi-town-koho:
+    label: 三芳町広報「広報みよし」2019年5月号「『三芳』誕生秘話」（三芳野は芳野に接頭語の「み」がついたもの、『伊勢物語』第十段の三芳野の歌と入間郡の三芳野の里、1889年の4か村合併の経緯）
+    url: https://www.town.saitama-miyoshi.lg.jp/town/koho/miyoshi_koho_201905_P04-05.pdf
+  w9-miyoshi-wiki:
+    label: Wikipedia「三芳町」（町名は『伊勢物語』の「三芳野の里」からとられ、1889年の合併の際に三芳野村とする予定が県内の同名村の多さから「野」を省いたとする記述）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8A%B3%E7%94%BA
+  w9-tokigawa-kotobank:
+    label: コトバンク「都幾川」（『日本歴史地名大系』の川の解説と、『日本大百科全書』による1955年の明覚・平・大椚3村合併による都幾川村成立）
+    url: http://kotobank.jp/word/%E9%83%BD%E5%B9%BE%E5%B7%9D-104591
+  w9-tokigawa-murashi-chiri:
+    label: 『都幾川村史 地理編』（ときがわ町公式掲載。行政の沿革と地名の章に「地名『都幾川』に由来」の節、1955年の都幾川村成立の経緯）
+    url: https://www.town.tokigawa.lg.jp/div/301010/pdf/bunka/toki_chirihen.pdf
+  w9-tokigawa-town-gappei:
+    label: ときがわ町公式「都幾川村・玉川村合併協議会」（平成18年2月1日に「ときがわ町」のホームページへ移行、玉川村文化センター「アスピアたまがわ」）
+    url: https://www.town.tokigawa.lg.jp/div/00001/htm/gappei/info/index.htm
+  w9-tokigawa-town-kyoiku:
+    label: ときがわ町教育委員会「ときがわ町教育要覧」（平成18年2月に都幾川村・玉川村が合併、町名の由来でもある都幾川、玉川陣屋の歴史）
+    url: https://www.town.tokigawa.lg.jp/div/302010/pdf/R6_kyouikuyouran.pdf
+  w9-tokigawa-wiki-river:
+    label: Wikipedia「都幾川」（語源は清めることを意味する「斎（とき）」から来ていると考えられているとする説、都幾山との関係）
+    url: https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B9%BE%E5%B7%9D
+  w9-yoshimi-kotobank-taikei:
+    label: 『日本歴史地名大系』「吉見町」項（コトバンク掲載。古代には町域のほぼ全域が横見郡に属し、同郡は平安中期以降は吉見郡と呼ばれるようになった）
+    url: http://kotobank.jp/word/%E5%90%89%E8%A6%8B%E7%94%BA-146220
+  w9-yoshimi-town-kembunroku:
+    label: 吉見町公式「吉見見聞録 町名の由来」（伝説によると「ヨクミユ」と言ったことに始まる、古代は「横渟」といい「横見」となり現在の「吉見」になった、明治22年の四か村と明治29年の横見郡消滅、吉見観音と吉見百穴）
+    url: https://www.town.yoshimi.saitama.jp/soshiki/shogaigakushuk/436.html
+  w9-yoshimi-town-plan:
+    label: 吉見町「第6次吉見町総合振興計画」（昭和29年に東吉見・南吉見・西吉見・北吉見の4村が合併して吉見村が誕生、昭和47年に町制を施行）
+    url: https://www.town.yoshimi.saitama.jp/material/files/group/18/dai6ji_soushin_zenki.pdf

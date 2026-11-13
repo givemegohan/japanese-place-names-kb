@@ -90,6 +90,82 @@ records:
   - 「氏家」の語源は市の公式資料の「内江」説も推測の域を出ず、専門辞典による確定は今回確認できなかった
   - 「喜連川」の初出の文書と年代は特定できなかった（市公式も「正確な記録はない」とする）
   updated: '2026-11-13'
+- id: muni/09-上三川町
+  code: 093017
+  names:
+    ja: 上三川町
+    reading: かみのかわまち
+    aliases:
+    - 上三川村
+    - 三川郷
+  user_terms:
+  - かみのかわまち
+  - 三川の郷
+  - ひまわり祭りの町
+  naming_type: 一部の地名（古代の郷名「三川郷」の継承）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 鬼怒川・江川・田川の3つの川が南北に流れる河内郡の町で、古くこの一帯は「三川の郷」と呼ばれ、それが町名の由来になっている。『和名類聚抄』には下野国河内郡の郷として三川郷が見えると町は紹介している。1889年（明治22年）に上三川村が成立して1893年に町制を施行し、1955年（昭和30年）に本郷村・明治村と合併して現在の町域となった。読みは「かみみかわ」ではなく「かみのかわ」である。
+  first_attestation:
+    era: 平安時代中期（10世紀）
+    year_western: null
+    document: 和名類聚抄
+    note: 町の広報が、下野国河内郡の郷として三川郷が見えると紹介するもの。原文は未確認のため、二次資料経由の紹介として格下げして扱う
+  claims:
+  - text: 上三川町の地域再生計画によれば、町内を鬼怒川・江川・田川の3つの川が南北に流れ、古くは「三川の郷」と呼ばれて町名の由来にもなっている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-kaminokawa-plan
+  - text: 町の広報は、古代の下野国河内郡に三川郷があり、平安時代の『和名類聚抄』に、田川と江川・鬼怒川に挟まれた郷として三川郷が見えることを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-kaminokawa-koho
+  - text: 町の広報は「三川」の名の由来に諸説があることを示しており、3つの川の存在と結びつける説明が一般的だが、確定的な語源は示されていない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w6-kaminokawa-koho
+  - text: 1889年（明治22年）の町村制で上三川村が発足し、1893年（明治26年）7月1日に町制を施行して上三川町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-kaminokawa-wiki
+  - text: 1955年（昭和30年）4月29日に上三川町・本郷村・明治村が合併して、新しい上三川町が誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-kaminokawa-wiki
+  - text: 町名の読みは「かみのかわ」であり、J-LISの栃木県内市町村一覧でも「かみのかわまち」と振られている。「三川」を「みかわ」とは読まない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  - text: 上三川町の地方公共団体コードは093017である（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: 三つの川と、千年を超えた郷の名
+    text: 町の東を鬼怒川、中央を田川、西を江川が、ほぼ平行に南へ流れる。3本の川に挟まれた田園地帯が古代の三川郷で、その名は平安時代の『和名類聚抄』に見えると町は紹介している。ところが読み方は素直ではない。「三川」は「みかわ」ではなく「のかわ」と読み、町名は「かみのかわ」となった。漢字どおりには読めないこの読みも、郷名が千年を超えて受け継がれてきた証しである。町は今も自らを「三川の郷」と称し、3本の清流を町の象徴としている。
+    sources:
+    - w6-kaminokawa-plan
+    - w6-kaminokawa-koho
+  relations:
+  - pref/09
+  unknowns:
+  - 「上三川」の「上」が三川郷のどの範囲（上流側・北側の区域）を指したのか、広報特集の詳細までは判読しきれなかった
+  - 「三川」の語源の定説と、「三川」を「のかわ」と読むようになった経緯は確認できなかった
+  updated: '2026-11-13'
 - id: muni/09-下野市
   code: 092169
   names:
@@ -247,6 +323,167 @@ records:
   - 『地名のいわれ』に挙げられた語源の諸説の全容は未取得で、左野説以外は確認できていない
   - 佐野庄に関する『兵範記』の記事の原文確認は未実施（市公式の紹介として記録）
   - 市公式ページは保元の乱を1157年と記すが、乱の年は1156年が通説であり、市の引用形のまま年を特定する主張は避けた
+  updated: '2026-11-13'
+- id: muni/09-塩谷町
+  code: 093840
+  names:
+    ja: 塩谷町
+    reading: しおやまち
+    aliases:
+    - 塩谷村
+    - 塩屋
+    - 塩ノ谷
+    - しおのや
+  user_terms:
+  - しおやまち
+  - しおのや
+  - 尚仁沢湧水の町
+  - 高原山の町
+  naming_type: その他（1957年の合併で生まれた村名に、古代以来の郡名「塩谷」を採用）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 塩谷郡の山あいの町で、栃木県で最も人口の少ない自治体。「塩谷」は古く「しおのや」と呼ばれ、当初は「塩屋」とも書かれた古名で、『和名類聚抄』には「志保之夜（シホノヤ）」の読み注記が見える。中世にこの地を拠点とした塩谷氏は地名を氏の名とし、その子孫はいまも「しおのや」を名乗る。1957年（昭和32年）に玉生村・船生村・大宮村が合併して塩谷村となり、1965年（昭和40年）に町制を施行した。
+  first_attestation:
+    era: 平安時代中期（10世紀）
+    year_western: null
+    document: 和名類聚抄
+    note: Wikipedia「塩谷郡」が、下野国塩谷（の郡・地名）について「志保之夜（シホノヤ）」の読み注記があると紹介するもの。原文未確認のため格下げして扱う
+  claims:
+  - text: 下野国の塩谷は当初「塩屋」と書かれ、大化の改新の頃から「しおのや」と呼ばれていたとされ、平安時代中期の『和名類聚抄』には「志保之夜（シホノヤ）」と読みが注記されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-shioya-gun-wiki
+  - text: 中世に塩谷郡を拠点とした塩谷氏はこの地名を氏の名としたもので、藤姓塩谷氏の初代とされる塩谷朝業は『承久記』巻一に「しほのや兵衛朝業」と記されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-shioya-clan-wiki
+  - text: 地名の読みは後に「しおや」が正式となったが、塩谷氏の直系の子孫は「しおのや」を名乗り続けており、地元でも塩野谷農業協同組合（JAしおのや）の名などに古い読みが残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-shioya-gun-wiki
+    - w6-shioya-clan-wiki
+  - text: 1957年（昭和32年）3月31日に玉生村・船生村・大宮村が合併して塩谷村が発足し、1965年（昭和40年）2月11日に町制を施行して塩谷町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-shioya-wiki
+  - text: 合併した玉生村・船生村・大宮村はいずれも塩谷郡に属する村々であり、新村名には古代以来の郡名「塩谷」が採用された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-shioya-wiki
+    - w6-shioya-gun-wiki
+  - text: 「塩谷」という名が塩とどう関わるのか（塩の産地であったのか、塩を運ぶ路の谷であったのか等）は、参照した資料では明らかにされておらず、語源は未確定である
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - w6-shioya-gun-wiki
+  - text: 塩谷町の地方公共団体コードは093840である（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: 地名は「しおや」、氏は「しおのや」
+    text: この地の読みは、もともと「しおのや」だった。地名としての正式な読みはいつしか「しおや」に変わったが、塩谷氏の家では「しおのや」の読みがいまも受け継がれているという。地名から生まれた名字が、地名本体より古い読みを守り続けているわけである。地元の農業協同組合も「JAしおのや（塩野谷）」を名乗り、「しおのや」の音は町の中に静かに残っている。
+    sources:
+    - w6-shioya-gun-wiki
+    - w6-shioya-clan-wiki
+  relations:
+  - pref/09
+  unknowns:
+  - 「塩谷」の語源（塩との関わりの具体的な姿）を確認できなかった
+  - 1957年の合併で郡名を村名に採用した協議の記録は確認できなかった
+  - 町公式サイトに地名の由来を解説するページを確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-壬生町
+  code: 093611
+  names:
+    ja: 壬生町
+    reading: みぶまち
+    aliases:
+    - 壬生
+    - 壬生藩
+    - 壬生県
+  user_terms:
+  - みぶまち
+  - おもちゃのまち
+  - 円仁のふるさと
+  - 壬生城の城下町
+  naming_type: 一部の地名（中世以来の城下町名「壬生」の継承）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 下都賀郡の町で、栃木県の町では最も人口が多い。「みぶ」は本来、水辺や低湿地を意味する「水生（みぶ）」に「壬生」の字を当てた地名と説明され、皇子の養育を担った「壬生部（みぶべ）」に結びつける説もある。中世に壬生氏が壬生城を築いて城下町が開け、江戸時代には壬生藩と日光街道の宿場町として栄えた。その地名が町村制の町名となり、1954年（昭和29年）・1955年（昭和30年）の合併を経て現在に至る。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「壬生」の地名としての文献初出は確認できていない。中世には壬生氏の本拠として史料に現れる
+  claims:
+  - text: 「壬生（みぶ）」はもともと水辺・水生の意で泉や低湿地を意味し、後に「壬生」の字が当てられた地名であることが、ブリタニカ国際大百科事典の解説を引いて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-mibu-term-wiki
+  - text: 一方で、皇子の世話・養育を行う子代の集団である乳部（壬生部、みぶべ）からの転化を含むとされ、各地に点在する壬生氏はこの壬生部に由来するとも紹介されており、両説は併記される
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - w6-mibu-term-wiki
+  - text: 天台宗の円仁（慈覚大師）の俗姓は壬生氏で、延暦13年（794年）に下野国都賀郡に生まれたとされ、壬生は円仁の出身氏族の地と伝わる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-mibu-wiki
+  - text: 壬生町の活性化計画によれば、寛正3年（1462年）に壬生氏によって壬生城が築かれて城下町が開け、江戸時代には日光街道の宿場町、黒川を利用した河川交通の要衝として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-mibu-town-plan
+  - text: 同計画によれば、廃藩置県で壬生藩から壬生県が誕生して後に栃木県に編入され、1954年（昭和29年）に壬生町と稲葉村が合併、翌1955年（昭和30年）に南犬飼村を編入して新たな壬生町が生まれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-mibu-town-plan
+  - text: 1889年（明治22年）の町村制では壬生町と藤井村が合併して壬生町が成立しており、町名は江戸時代の城下町・宿場町の名をそのまま継承した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-mibu-wiki
+  - text: 壬生町の地方公共団体コードは093611である（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: 乳母の部民と、円仁の姓
+    text: 「壬生」という地名は全国に点在し、その多くは古代の「壬生部（みぶべ）」、皇子の養育にあたった人々の集団に結びつけられてきた。下野の壬生氏もその一系とされ、この氏からは天台宗の座主となった円仁（慈覚大師）が出たと伝わる。入唐求法の旅と『入唐求法巡礼行記』で知られる円仁の姓が、地名としての壬生を全国区の故事にしている。一方で「みぶ」のもとの意味は水辺や湿地だとする説明もあり、思川・黒川・姿川に囲まれた低地の地形とも響き合う。どちらの層を先に置くかで、この町名の物語は変わって見える。
+    sources:
+    - w6-mibu-term-wiki
+    - w6-mibu-wiki
+  relations:
+  - pref/09
+  unknowns:
+  - 「壬生」の地名としての文献初出を確認できなかった
+  - 下野の壬生が壬生部に由来するのか、水生（湿地）の地形名が先なのかは決着していない
+  - 町公式サイトに地名の由来を解説するページは確認できなかった
   updated: '2026-11-13'
 - id: muni/09-大田原市
   code: 092100
@@ -495,6 +732,80 @@ records:
   - 小山氏の出自（藤原秀郷の後裔と称すること）について、家系の実証的な裏付けは今回の資料では確認していない
   - 結城氏（政光の子・朝光が祖とされる）との関係は、市の公式資料の今回確認範囲では明示されなかった
   updated: '2026-11-13'
+- id: muni/09-市貝町
+  code: 093441
+  names:
+    ja: 市貝町
+    reading: いちかいまち
+    aliases:
+    - 市貝村
+    - 市羽村
+    - 小貝村
+  user_terms:
+  - いちかいまち
+  - サシバの里
+  - 芝ざくらの町
+  naming_type: 合併新設（旧村名から1字ずつ取った合成地名）
+  prefecture: 栃木県
+  homonyms: []
+  summary: 芳賀郡の町で、町名は二重の合成地名である。1954年（昭和29年）に市羽村と小貝村が合併した際、市羽の「市」と小貝の「貝」を取って「市貝村」と命名され、1972年（昭和47年）の町制施行で市貝町となった。さらに前身の市羽村自体も、1889年（明治22年）に市塙村の「市」と赤羽村の「羽」を組み合わせて作られた合成地名であり、町名を分解すると4つの旧村名にたどり着く。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 市羽村・小貝村の合併による市貝村の発足
+    note: 自治体名としての初出
+  claims:
+  - text: 市貝村は市羽村と小貝村の合併により成立したもので、村名は市羽の「市」と小貝の「貝」から1字ずつ取って命名された合成地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-ichikai-wiki
+  - text: 前身の市羽村の名も合成地名であり、1889年（明治22年）の成立時に市塙村の「市」と赤羽村の「羽」を組み合わせて命名された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w6-ichihane-wiki
+  - text: 栃木県の市町村変遷資料によれば、市羽村は市塙村・上根村・赤羽村・多田羅村・石下村・笹原田村の6村から、小貝村は続谷村・田野辺村・文谷村・椎谷村・刈生田村・羽仏村・竹内村・塩田村・杉山村・大谷津村・見上村の11村から成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ichikai-pref
+  - text: 1954年（昭和29年）5月3日に市貝村が発足し、1972年（昭和47年）1月1日に町制を施行して市貝町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w6-ichikai-geoshape
+    - w6-ichikai-wiki
+  - text: 町役場は大字市塙に置かれており、「市貝」の「市」の出所となった市塙の地名は、町の中心部の大字として現在も残っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  - text: 市貝町の地方公共団体コードは093441である（J-LISの栃木県内市町村一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-utsu-jlis
+  column:
+    title: 合成地名の入れ子
+    text: 市貝という町名は、分解すると物語が二重になっている。まず1954年、市羽村と小貝村が1字ずつ出し合って「市貝」が生まれた。ところが市羽村もまた、1889年に市塙村と赤羽村が出し合った「市」と「羽」の合成名だった。つまり現在の町名の「市」は市塙村まで遡り、「貝」は小貝村から来ている。合併のたびに名前を少しずつ継ぎ足してきた記録が、2文字の中に折り重なっている。
+    sources:
+    - w6-ichikai-wiki
+    - w6-ichihane-wiki
+    - w6-ichikai-pref
+  relations:
+  - pref/09
+  unknowns:
+  - 小貝村の名が町域を流れる小貝川に由来するかどうかを確認できなかった
+  - 市塙の「市」が、市場が開かれた地であることに由来するかは確認できなかった
+  - 1954年の合併で合成名が選ばれた協議の記録は確認できなかった
+  updated: '2026-11-13'
 - id: muni/09-日光市
   code: 092061
   names:
@@ -662,6 +973,93 @@ records:
   - 「栃木」の地名の文献上の初出（中世の栃木郷の用例など）は特定できなかった
   - 県名の語源の4説はいずれも決め手を欠き、県公式も未確定としている
   updated: '2026-11-13'
+- id: muni/09-益子町
+  code: 093424
+  names:
+    ja: 益子町
+    reading: ましこまち
+    aliases:
+    - 益子村
+    - 猿子
+    - 増子
+  user_terms:
+  - 益子焼の町
+  - 陶芸の町益子
+  - ましこ
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県南東部、芳賀郡の町。町名は中心集落の益子に由来し、中世には益子郷の名で弘長2年（1262年）の銘札に現れる古い地名である。「猿子」「増子」とも書かれたが、「ましこ」の語源は専門辞典にも確定的な説明が見当たらず未詳である。近世の中心は黒羽藩大関氏の飛び地「下之庄」で陣屋が置かれ、嘉永6年（1853年）に大塚啓三郎が窯を開いて益子焼の産地となり、地名の古層と焼き物の層が重なる町となった。
+  first_attestation:
+    era: 弘長2年
+    year_western: 1262
+    document: 益子・西明寺蔵十一面観音像銘札（『日本歴史地名大系』が「大檀那益子郷名主紀頼宗」とあることを紹介）
+    note: 町名としての初出ではなく、益子郷の名の文献上の現れ
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「093424」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 益子・西明寺蔵の十一面観音像の銘札に、弘長2年（1262）の年記とともに「大檀那益子郷名主紀頼宗」とあることが、『日本歴史地名大系』によって紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-mashiko-kotobank-village
+  - text: 中世の当地は益子郷に含まれ、「益子」のほかに「猿子」「増子」とも書かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-mashiko-kotobank-village
+  - text: 益子氏は宇都宮氏の有力家臣であり、芳賀氏とともに「紀清両党」といわれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-mashiko-kotobank-village
+  - text: 「ましこ」の語源については、『日本歴史地名大系』『日本大百科全書』などの専門辞典にも確定的な説明が確認できず、未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w7-mashiko-kotobank-village
+    - w7-mashiko-kotobank-town
+  - text: 中心の益子は中世益子氏の城下町であり、近世は黒羽藩大関氏の所領（飛び地）であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-mashiko-kotobank-town
+  - text: 益子焼の層として、嘉永6年（1853年）に大塚啓三郎が笠間の久野窯で陶芸技術を習得し、益子村大津沢で良質な陶土を発見して根古屋に窯を築いたのが始まりとされ、安政2年（1855年）に黒羽藩から赴任した郷奉行・三田称平が益子焼を保護奨励し、御用窯として発展させた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-mashiko-kyohan-history
+    - w7-mashiko-japanheritage
+  - text: 1894年（明治27年）に益子村が町制を施行して益子町となり、1954年（昭和29年）6月1日に七井村・田野村と合併して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-tochigi-gyousei-r5
+    - w7-mashiko-kotobank-town
+  column:
+    title: 飛び地の陣屋町に生まれた窯
+    text: 益子の中心は、中世の益子氏の城下町であり、近世には黒羽藩大関氏の飛び地として陣屋が置かれた土地だった。益子焼の始まりは嘉永6年（1853年）、大塚啓三郎が笠間で修業して帰り、大津沢で見つけた陶土で根古屋に窯を築いたことによる。安政2年（1855年）に赴任した黒羽藩の郷奉行・三田称平は益子焼を保護奨励し、安政4年には5つの窯元に藩から奨励覚書が交付され、財政的な援助も行われた。つまり益子焼は、遠く離れた藩の飛び地の行政が後ろ盾になって育った窯である。その後、昭和初期には濱田庄司を中心に民藝調の陶器が作られるようになり、2020年には笠間とともに日本遺産「かさましこ」に認定された。古い地名「益子」に、19世紀の窯の層と20世紀の民藝の層が重なって、今日の「陶芸の町」の姿がある。
+    sources:
+    - w7-mashiko-kyohan-history
+    - w7-mashiko-japanheritage
+    - w7-mashiko-kotobank-town
+  relations:
+  - pref/09
+  unknowns:
+  - 「ましこ」の語源（専門辞典にも確定的な説明が見当たらない）
+  - 益子郷の成立時期と、「益子」が当地の呼称として定着した経緯
+  updated: '2026-11-13'
 - id: muni/09-真岡市
   code: 092096
   names:
@@ -814,6 +1212,162 @@ records:
   - 「矢板」の地名としての中世以前の用例（初出）は特定できなかった
   - 矢板氏の発祥と地名の先後関係も推測の域を出ないとされており、未確認である
   updated: '2026-11-13'
+- id: muni/09-芳賀町
+  code: 093459
+  names:
+    ja: 芳賀町
+    reading: はがまち
+    aliases:
+    - 祖母井町
+  user_terms:
+  - はがまち
+  - 芳賀郡の町
+  - LRTの町
+  naming_type: 合併新設
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県南東部、芳賀郡に残る唯一の町。1954年3月31日に祖母井町・南高根沢村・水橋村が合併して生まれた合併新設の町で、町名「芳賀」は「芳賀郡の中心として栄えたい」という関係者の想いから郡名を採ったもので、古代の郡名の成り立ちとは直接関係がないと町の図書館は伝える。一方、その郡名自体は藤原宮跡出土木簡に「芳宜評」と見える古い地名であり、『和名類聚抄』の芳賀郷は現在の真岡市中央部に比定され、現在の芳賀町域とは重ならない。古層の位置のずれと1954年の命名を分けて読むべき町である。
+  first_attestation:
+    era: 飛鳥時代（7世紀末）
+    year_western: null
+    document: 藤原宮跡出土木簡
+    note: 『芳宜評（はが〔はぎ〕のこおり）』と記される。芳賀町という町名自体の使用は1954年からで、古代の芳賀郷は現在の真岡市中央部に比定される
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「093459」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1954年（昭和29年）3月31日に祖母井町・南高根沢村・水橋村が合併して芳賀町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-tochigi-gyousei-r5
+    - w7-haga-crd
+  - text: 町名「芳賀」は、合併の際に「芳賀郡の中心として栄えたい」という関係者の想いから郡名を採ったもので、古代の郡名の成り立ちとは直接関係がないと、芳賀町総合情報館（町の図書館）はレファレンスで回答している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-haga-crd
+  - text: 「芳賀郡」の「芳賀」は、藤原宮跡出土木簡に「下野国芳宜評」と記され「はが（はぎ）のこおり」と読むのが古く、8世紀の早い段階で「芳賀郡」に改められたと推定される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-haga-crd
+    - w7-haga-kotobank-gou
+  - text: 『和名類聚抄』の芳賀郷は、現在の真岡市中央部に比定されており、現在の芳賀町の町域とは重ならない
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-haga-kotobank-gou
+  - text: 『芳賀町の歴史読本』は、「芳賀」の語源として、五行川の氾濫で一帯の土が剥がされた土地であったことに由来するという説を紹介するが、定説はない
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - w7-haga-crd
+  - text: 中世の下野では、清原氏の流れを称する芳賀氏が芳賀郡を本拠に宇都宮氏の重臣として重きをなし、真岡城を拠点とした
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w7-haga-clan-wiki
+  column:
+    title: 郡の名をもらった町
+    text: 芳賀町は1954年、祖母井町・南高根沢村・水橋村の合併で生まれた。町の図書館によれば、町名は「芳賀郡の中心として栄えたい」という関係者の願いから郡名をそのまま採ったもので、古代の郡名の由来とは関係がないという。ところが、その郡名の古層をたどると、意外なずれが見えてくる。藤原宮跡から出た木簡には「下毛野国芳宜評」とあり、「芳賀」は当時「はぎ」とも読まれた可能性がある。そして『和名類聚抄』に載る芳賀郷は、現在の芳賀町ではなく、真岡市中央部に比定されている。つまり1954年に町がもらった「芳賀」という名は、もともと少し離れた土地を郡の中心として指していた名だった。芳賀郡には現在、芳賀町だけが残り、町の願いどおり、郡の名とその中心はこの町に残った。
+    sources:
+    - w7-haga-crd
+    - w7-haga-kotobank-gou
+  relations:
+  - pref/09
+  unknowns:
+  - 「はが（はぎ）」という郡名自体の語源（五行川の氾濫で土が剥がされた土地とする説は、『芳賀町の歴史読本』が紹介する一説で、定説はない）
+  - 藤原宮跡木簡「芳宜評」の正確な年代
+  updated: '2026-11-13'
+- id: muni/09-茂木町
+  code: 093432
+  names:
+    ja: 茂木町
+    reading: もてぎまち
+    aliases:
+    - 茂木郷
+    - 茂木保
+  user_terms:
+  - もてぎ
+  - モビリティリゾートもてぎのある町
+  - ツインリンクもてぎ
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県南東部、芳賀郡の町。町名は中心集落の茂木に由来し、文和2年（1353年）の茂木知貞譲状写に「茂木郷内前小堀」と見える。鎌倉初期から江戸初期までの茂木家文書100通が県指定文化財として残り、八田知家の三男・知基が茂木郷の地頭職を継承して「茂木」を名乗ったとされる。「もてぎ」の語源は専門辞典にも確定的な説明がなく未詳である。中世の茂木城の城下町から、慶長15年（1610年）に細川氏が城を廃して陣屋を置いた町場へと姿を変えた。
+  first_attestation:
+    era: 文和2年
+    year_western: 1353
+    document: 茂木知貞譲状写（茂木文書）（『日本歴史地名大系』が「茂木郷内前小堀」と紹介）
+    note: 茂木郷としての文献上の現れ
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「093432」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 文和2年（1353年）6月10日の茂木知貞譲状写（茂木文書）に「茂木郷内前小堀」と見えることが、『日本歴史地名大系』によって紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-motegi-kotobank-gou
+  - text: 茂木家文書は、鎌倉初期（1192年）から江戸初期（1620年頃）までの文書100通からなる古文書群で、栃木県の有形文化財に指定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-motegi-pref-doc
+  - text: 八田知家の三男・知基が茂木郷（茂木保）の地頭職を継承して「茂木」を名乗ったことが、茂木氏の起こりとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w7-motegi-clan-wiki
+  - text: 中世の茂木は茂木城の城下町であったが、慶長15年（1610年）に細川氏が入部すると茂木城は廃され、町内に藩庁（陣屋）が置かれて郭内と称された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-motegi-kotobank-town
+  - text: 「もてぎ」の語源については、『日本歴史地名大系』『日本大百科全書』などの専門辞典にも確定的な説明が確認できず、未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w7-motegi-kotobank-gou
+    - w7-motegi-kotobank-nipponica
+  - text: 1889年（明治22年）に町制を施行し、1954年（昭和29年）8月1日に逆川村・中川村・須藤村と合併して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-motegi-kotobank-nipponica
+    - w7-tochigi-gyousei-r5
+  column:
+    title: 城を捨てた城下町
+    text: 茂木の町場は、北方の城山にあった茂木城の城下町として育った。ところが慶長15年（1610年）、新たに入部した細川氏はこの城を廃し、町の中に藩庁を置いて「郭内」と称した。城を持たない藩の中心地として、茂木はその後も陣屋町として続いていく。町に残るもう一つの中世の痕跡が茂木家文書である。鎌倉初期から江戸初期まで、茂木を領した一族の代替わりに伴う譲状など100通が伝わり、県の有形文化財に指定されている。文和2年（1353年）の譲状に「茂木郷内前小堀」と見えるのが、「茂木郷」の名の確かな現れの一つである。城はなくなったが、文書の中の地名は残った。
+    sources:
+    - w7-motegi-kotobank-town
+    - w7-motegi-kotobank-gou
+    - w7-motegi-pref-doc
+  relations:
+  - pref/09
+  unknowns:
+  - 「もてぎ」の語源
+  - 茂木氏が「茂木」を名乗る以前の当地の呼称
+  updated: '2026-11-13'
 - id: muni/09-足利市
   code: 092029
   names:
@@ -892,6 +1446,88 @@ records:
   unknowns:
   - 「足利」の語源の定説は確認できなかった（日本歴史地名大系「足利郡」にも語源説の明示がない）
   - 足利郡の郡衙の位置は市中心部と推定されるが確定していない（同書による）
+  updated: '2026-11-13'
+- id: muni/09-那珂川町
+  code: 094111
+  names:
+    ja: 那珂川町
+    reading: なかがわまち
+    aliases:
+    - 馬頭町
+    - 小川町
+  user_terms:
+  - なかがわまち
+  - 馬頭と小川の合併町
+  - 那珂川のほとりの町
+  naming_type: 合併新設
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県北東部、那須郡の町。2005年10月1日に馬頭町と小川町が合併して生まれた合併新設の町で、町名は両町を貫いて流れる那珂川の名を採ったとされる。ただし川名自体の由来は明らかでなく、国土交通省関東地方整備局の資料は室町時代の『神明境』応永15年（1408年）の記事を早い用例として挙げる。旧馬頭町は1891年に武茂村が町制施行・改称して生まれ、旧小川町は1938年に那珂村が町制施行・改称して生まれた町である。福岡県の旧那珂川町は2018年に市制施行して那珂川市となり、現在同名の町はない。
+  first_attestation:
+    era: 応永15年
+    year_western: 1408
+    document: 『神明境』（国土交通省関東地方整備局の流域史資料が「常州那珂河」とあることを紹介）
+    note: 川名「那珂川」としての現れ。町名としての使用は2005年から
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「094111」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年（平成17年）10月1日に馬頭町（旧コード09403）と小川町（旧コード09404）が合併し、那珂川町（09411）が新設された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-nakagawa-estat
+  - text: 町名「那珂川」は、両町を貫いて流れる那珂川の名を採ったものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w7-nakagawa-wiki
+  - text: 合併は当初、烏山町・南那須町を含む4町の「南那須地区町村合併研究会」で検討されたが、各町議会の判断を経て、最終的には馬頭町・小川町の2町の枠組みとなった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w7-nakagawa-wiki
+  - text: 那珂川の名の由来は明らかでない。室町時代の『神明境』には応永15年（1408年）の記事として「常州那珂河」とあり、この頃には那珂川の名が用いられていた
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w7-nakagawa-mlit
+  - text: 旧馬頭町は、1889年に成立した武茂村が1891年に町制施行・改称して生まれ、1954年7月1日に武茂村・大内村・大山田村と合併して新・馬頭町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-tochigi-gyousei-r5
+    - w7-nakagawa-bato-wiki
+  - text: 旧小川町は、1889年に那珂村として発足し、1938年に町制施行とともに小川町へ改称した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w7-nakagawa-ogawa-wiki
+  - text: 福岡県の那珂川町は2018年10月1日に市制施行して那珂川市となり、「那珂川町」が2つ存在する状態は解消された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - w7-nakagawa-wiki
+  column:
+    title: 国宝の碑を世に出した里正
+    text: 那珂川町の旧馬頭町の地に、飛鳥時代の国宝・那須国造碑と深く関わった人物がいる。江戸時代、武茂郷小口村（現・那珂川町域）の里正だった大金重貞である。那須国造碑の顕彰は水戸藩主・徳川光圀の働きかけで進み、重貞は碑の由緒を調べて『那須記』にまとめ、光圀に献上した。689年に那須国造・韋提が評督に任じられたことなどを伝えるこの碑は、下野国の北辺にあった「那須」の国の最古の記録である。2005年に生まれた那珂川町は、川の名を町名に採った新しい町だが、その町域には、那須地方の名の始まりを掘り起こした里正の村が含まれている。
+    sources:
+    - w7-nasu-ohtawara-hi
+  relations:
+  - pref/09
+  unknowns:
+  - 「那珂川」という川名の語源
+  - 合併協議で新町名が「那珂川」に決まった際の候補名と選定過程の詳細
   updated: '2026-11-13'
 - id: muni/09-那須塩原市
   code: 092134
@@ -1053,6 +1689,259 @@ records:
   - 市名「那須烏山」の決定手続き（公募の有無、候補と選定理由）は、合併協議会の一次資料で直接確認できなかった
   - 旧名「坂主」「酒主」の用例は『那須記』の伝承に依っており、奈良・平安時代の一次資料での確認はできていない
   - 「烏山」の語源は、群鳥の棲む地とする説明と音の転訛説があり、専門辞典での確定は確認できなかった
+  updated: '2026-11-13'
+- id: muni/09-那須町
+  code: 094072
+  names:
+    ja: 那須町
+    reading: なすまち
+    aliases:
+    - 那須村
+    - 芦野町
+    - 伊王野村
+  user_terms:
+  - なすまち
+  - 那須高原の町
+  - 那須温泉郷の町
+  - 御用邸のある町
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県北端、那須郡の町。那須高原と那須温泉郷を擁し、町名は古く下野国の北辺を占めた「那須」の地名を継ぐ。その初出は永昌元年（689年）の那須国造碑で、碑文には那須国造・那須直韋提の名が見え、那須国が下野国に組み入れられた起点を示す。語源は判然としておらず、町公式サイトは「那珂川の中州」短縮説、アイヌ語説、那須・阿蘇・浅間同源説の3説を並べて紹介する。現在の町は1954年11月3日に那須村・芦野町・伊王野村が合併して発足した。
+  first_attestation:
+    era: 永昌元年
+    year_western: 689
+    document: 那須国造碑（碑文に「那須国造」「那須直韋提」とあることを大田原市公式サイトが紹介）
+    note: 地名「那須」としての初出
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「094072」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 那須国造碑の碑文には、永昌元年（689年）に那須国造・那須直韋提が評督を賜ったことなどが記され、那須国が下毛野国（後の下野国）に組み入れられたことが碑文から分かる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-nasu-ohtawara-hi
+  - text: 「那須」の語源は判然としておらず、那須町公式サイトの「語源」ページもその旨を断った上で諸説を紹介している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - w7-nasu-town-gogen
+  - text: 語源の一説に、那珂川の中州（なかす）という語が短縮されて「那須」になったとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w7-nasu-town-gogen
+  - text: 郷土史家・蓮見長はアイヌ語由来説を唱え、野を表す語と裾を表す「シュタ」を合わせて「野裾」＝「ヌシュ」が「ナス」と聞こえて地名になったとし、この解釈について金田一京助から「直に成立する」との回答を得たとされる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w7-nasu-town-gogen
+  - text: 寺田寅彦は、那須・阿蘇・浅間などは同じ語から変化したものだとした
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w7-nasu-town-gogen
+  - text: 明治22年の町村制で那須村・芦野町・伊王野村が誕生し、昭和29年11月3日にこの1町2村が合併して那須町が発足、昭和30年12月には黒磯町の一部を編入して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-nasu-town-plan
+  - text: 那須温泉郷は舒明2年（630年）開湯と伝えられ、殺生石には九尾の狐の伝説がまつわる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - w7-nasu-town-miryoku
+  column:
+    title: 割れた殺生石
+    text: 那須温泉郷の湯本にある殺生石は、中国やインドで悪行を重ねたという九尾の狐が、日本に渡って退治され石になった——そんな伝説で知られる史跡である。2022年3月上旬、この殺生石が真っ二つに割れているのが確認され、しめ縄も外れていたという。那須町は慰霊祭並びに平和祈願祭を執り行った。伝説の石が割れた出来事は全国的な話題になったが、割れた原因は風化による自然の経年変化とみられている。那須町の公式資料はこの出来事を「那須町の魅力」の一項目として紹介しており、689年の那須国造碑の時代から続くこの土地の物語に、新しい一ページが加わった。
+    sources:
+    - w7-nasu-town-miryoku
+    - w7-nasu-ohtawara-hi
+  relations:
+  - pref/09
+  - muni/09-那須塩原市
+  - muni/09-那須烏山市
+  unknowns:
+  - 「那須」の語源（町公式サイトが挙げる3説はいずれも定説ではない）
+  - 那須国造碑以前の「那須」の用例の有無
+  updated: '2026-11-13'
+- id: muni/09-野木町
+  code: 093645
+  names:
+    ja: 野木町
+    reading: のぎまち
+    aliases:
+    - 野木村
+    - 奴宜郷
+    - 野木宮
+  user_terms:
+  - のぎまち
+  - フクロウの町
+  - 栃木県で一番小さな町
+  - 煉瓦窯の町
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県南端、下都賀郡の町。町名は中心集落の野木に由来し、古代の下野国寒川郡「奴宜（ぬぎ）郷」が当地に比定され、現在の野木はその遺称地といわれる。『吾妻鏡』治承5年（1181年）閏2月条には「野木宮」の名が見え、野木神社の所在を示す。1889年に10か村が合併して野木村となり、1963年に町制施行して以来、町村制施行から一度も合併していない栃木県唯一の自治体である。野木神社の森に棲むフクロウは2012年に町の鳥となったが、地名の由来とは切り分けて記録する。
+  first_attestation:
+    era: 治承5年
+    year_western: 1181
+    document: 『吾妻鏡』（閏2月23日条に「野木宮」とあることを『日本歴史地名大系』が紹介）
+    note: 前身は『和名類聚抄』の下野国寒川郡・奴宜郷で、当郷は現在の野木町野木付近に比定される
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「093645」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『和名類聚抄』の下野国寒川郡「奴宜郷」は、野木神社のある現在の野木町野木付近に比定され、現・野木はその遺称地といわれる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-nogi-kotobank-nugi
+    - w7-nogi-kotobank-honnogi
+  - text: 『吾妻鏡』治承5年（1181年）閏2月23日条に「野木宮」の名が記されるが、野木宮の合戦自体は寿永2年（1183年）のことと考えられている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-nogi-kotobank-honnogi
+  - text: 野木神社の創建について、仁徳天皇の代に下野国造・奈良別命が菟道稚郎子命を祀ったのが始まりで、延暦年間に坂上田村麻呂らが社殿を建立したと、社蔵の「野木大明神由来」が伝える
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - w7-nogi-kotobank-jinja
+    - w7-nogi-town-ayumi
+  - text: 「のぎ」の語源については、「野木宮」の「野木」と奴宜郷との関係を含め、専門資料に確定的な説明は確認できない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - w7-nogi-kotobank-nugi
+  - text: 1889年（明治22年）に10か村が合併して野木村が成立し、1963年に町制を施行して野木町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w7-nogi-kyosai
+  - text: 野木町は、町村制施行以来一度も合併していない、栃木県内で唯一の自治体である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - w7-nogi-kyosai
+  - text: 野木神社の森には野生のフクロウが棲み春に営巣することから、フクロウは平成24年（2012年）11月1日に町の鳥に制定された。地名「のぎ」の由来とは別の層の話である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-nogi-yoran
+    - w7-nogi-tochigiji
+  column:
+    title: 合併しなかった町のフクロウ
+    text: 野木町は1889年、町村制の施行で10か村が寄り合ってできた野木村を前身とする。それから130年余り、県内の市町村が合併で姿を変える中、野木町は一度も合併することなく、県内で唯一、町村制以来の姿を保つ自治体となった。町のシンボルはフクロウである。野木神社の境内の森には野生のフクロウが棲み、春になるとその姿が見られる。町制施行50周年を記念して、2012年11月1日、フクロウは町の鳥に制定された。地名「野木」の起こりは古代の奴宜郷にさかのぼる古いものだが、フクロウはその由来とは関係がない。古い地名と新しい町の鳥が、同じ神社の森で重なっている。
+    sources:
+    - w7-nogi-kyosai
+    - w7-nogi-yoran
+    - w7-nogi-tochigiji
+  relations:
+  - pref/09
+  unknowns:
+  - 「のぎ」の語源（奴宜郷の読みから「野木」への転化の経緯を含む）
+  - 「奴宜」の訓（『和名類聚抄』は当郷の訓を欠く）
+  updated: '2026-11-13'
+- id: muni/09-高根沢町
+  code: 093866
+  names:
+    ja: 高根沢町
+    reading: たかねざわちょう
+    aliases:
+    - 北高根沢村
+    - 阿久津町
+    - 高根沢郷
+  user_terms:
+  - たかねざわ
+  - 御料牧場の町
+  - 宝積寺の町
+  naming_type: 一部の地名
+  prefecture: 栃木県
+  homonyms: []
+  summary: 栃木県中東部、塩谷郡の町。町名は北高根沢村の名を引き継いだもので、「高根沢」の由来には高原山のすそ野（根）にある沢からきたという説と、14世紀後半に上高根沢の権現山域を治めた高根沢新右衛門藤原兼吉の名に由来するという説があり、町公式サイトは両説を併記する。江戸末期には「高根沢郷」と呼ばれ、芳賀郡の南高根沢に対して「北」を冠したのが北高根沢の名である。現在の町は1958年4月1日に北高根沢村と阿久津町が合併して誕生した。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 確実な初出文献は確認できず。町公式の町勢統計は、江戸末期に当地が「高根沢郷」と呼ばれていたことを伝えるのみである
+  claims:
+  - text: 市町村コードは総務省の全国地方公共団体コード一覧で「093866」とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「高根沢」の由来について、町公式サイトは、高原山のすそ野（根）にある沢からきたという説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w7-takanezawa-town-gaiyo
+  - text: 町公式サイトはもう一つの説として、14世紀後半に上高根沢の権現山域でこの辺りを治めていた高根沢新右衛門藤原兼吉の名が地名になったという説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w7-takanezawa-town-gaiyo
+  - text: 町の町勢統計は人名説について、「往昔この地方は宇都宮領であり、直系高根沢氏が領土を支配していたため」とする別の伝承も併記しており、人名説の細部は資料の間で一致していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - w7-takanezawa-town-tokei
+  - text: 北高根沢の名は、江戸末期に「高根沢郷」といっていた旧名をとり、芳賀郡の南高根沢に対して「北」を冠したものといわれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-takanezawa-town-tokei
+  - text: 1958年（昭和33年）4月1日に北高根沢村と阿久津町が合併して高根沢町が誕生した。阿久津町は1889年に阿久津村として発足し、1953年に町制を施行した町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - w7-takanezawa-town-gaiyo
+    - w7-takanezawa-town-tokei
+  - text: 宝積寺は近世には奥州街道の宿駅であり、町西部の台地には千葉県成田市三里塚から移転した御料牧場がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - w7-takanezawa-kotobank
+  column:
+    title: 北と南に分かれた高根沢
+    text: 「高根沢」はもともと一帯の郷の名だった。江戸末期に「高根沢郷」と呼ばれたこの一帯は、明治以降、塩谷郡側と芳賀郡側に分かれ、芳賀郡側が「南高根沢」、塩谷郡側が旧名を取って「北高根沢」と名乗ったという。南高根沢村は1954年に祖母井町・水橋村と合併して芳賀町の一部となり、「高根沢」の名は自治体名としては消えた。一方の北高根沢村は、1958年に阿久津町と合併する際、頭の「北」を落として「高根沢町」となった。北と南に分かれた地名のうち、北側だけが「高根沢」の名を受け継いだ格好である。
+    sources:
+    - w7-takanezawa-town-tokei
+    - w7-tochigi-gyousei-r5
+  relations:
+  - pref/09
+  - muni/09-芳賀町
+  unknowns:
+  - 「高根沢」の語源（地形説と人名説が併存し、定説はない）
+  - 「高根沢郷」の名の初出文献
   updated: '2026-11-13'
 - id: muni/09-鹿沼市
   code: 092053
@@ -1320,3 +2209,138 @@ sources:
   u4-yaita-wikipedia:
     label: Wikipedia「矢板市」（地名の由来の節：「矢板」の由来は確定的なものはなく、美田を意味する「八重田（やえた）」の転訛説、田畑を焼く「焼田（やきた）」の転訛説、土留めの板という意味の「矢板」からという説、矢板氏の発祥の地で一族の支配によって土地が矢板と呼ばれた可能性など、いずれも根拠に乏しく推測の域を出ないとする整理）
     url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%9D%BF%E5%B8%82
+  w6-ichihane-wiki:
+    label: Wikipedia「市羽村」（村名は市塙村の「市」と赤羽村の「羽」の合成、1954年5月3日に小貝村と合併し市貝村となる）
+    url: http://ja.wikipedia.org/wiki/%E5%B8%82%E7%BE%BD%E6%9D%91
+  w6-ichikai-geoshape:
+    label: 歴史的行政区域データセットβ版「栃木県芳賀郡市貝村」（国立情報学研究所。1954年5月3日〜1972年1月1日）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/09344A1968.html
+  w6-ichikai-pref:
+    label: 栃木県「栃木県における市町村の変遷 市貝町」（市羽村・小貝村を構成した旧村名の一覧）
+    url: https://www.pref.tochigi.lg.jp/a02/pref/shichouson/sonota/1177373944506.html
+  w6-ichikai-wiki:
+    label: Wikipedia「市貝町」（町名の由来：市羽村の「市」と小貝村の「貝」の合成地名）
+    url: https://ja.wikipedia.org/wiki/%E5%B8%82%E8%B2%9D%E7%94%BA
+  w6-kaminokawa-koho:
+    label: 上三川町「広報かみのかわ 平成27年11月1日号」（特集「かみのかわの由来と歴史」：『和名類聚抄』の三川郷、三川の由来の諸説）
+    url: https://www.town.kaminokawa.lg.jp/manage/contents/upload/5b57c5600fbe5.pdf
+  w6-kaminokawa-plan:
+    label: 上三川町「上三川町『三川の郷』清流再生計画」（地域再生計画。鬼怒川・江川・田川の3河川と「三川の郷」が町名の由来である旨）
+    url: https://www.chisou.go.jp/tiiki/tiikisaisei/080331/plan/31a.pdf
+  w6-kaminokawa-wiki:
+    label: Wikipedia「上三川町」（1889年の上三川村発足、1893年町制、1955年4月29日の合併）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8A%E4%B8%89%E5%B7%9D%E7%94%BA
+  w6-mibu-term-wiki:
+    label: Wikipedia「壬生」（ブリタニカ国際大百科事典の解説を引用：水辺・水生の意、壬生部からの転化）
+    url: https://ja.wikipedia.org/wiki/壬生
+  w6-mibu-town-plan:
+    label: 壬生町「壬生地区活性化計画（第1回変更）」（令和7年2月。1462年の壬生城築城、壬生県の誕生、1954年・1955年の合併）
+    url: https://axwy6ls6.user.webaccel.jp/docs/2024013100036/file_contents/kasseika.pdf
+  w6-mibu-wiki:
+    label: Wikipedia「壬生町」（円仁の俗姓・壬生氏、1462年の壬生城、1889年・1954年・1955年の沿革）
+    url: https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E7%94%BA
+  w6-shioya-clan-wiki:
+    label: Wikipedia「塩谷氏」（地名を氏とした塩谷氏、塩谷朝業の『承久記』の記載、子孫が「しおのや」を名乗ること）
+    url: http://ja.wikipedia.org/wiki/塩谷氏
+  w6-shioya-gun-wiki:
+    label: Wikipedia「塩谷郡」（「塩屋」から「しおのや」への呼称、『和名類聚抄』の「志保之夜」注記、JAしおのやに残る古い読み）
+    url: https://ja.wikipedia.org/wiki/%E5%A1%A9%E8%B0%B7%E9%83%A1
+  w6-shioya-wiki:
+    label: Wikipedia「塩谷町」（1957年3月31日に玉生村・船生村・大宮村が合併し塩谷村、1965年2月11日町制施行）
+    url: https://ja.wikipedia.org/wiki/%E5%A1%A9%E8%B0%B7%E7%94%BA
+  w7-haga-clan-wiki:
+    label: Wikipedia「芳賀氏」（下野国芳賀郡より起こる鎌倉時代から戦国時代の武家で、本姓は清原氏、下野宇都宮氏の重臣として清党の棟梁を務め、真岡城主であったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%8A%B3%E8%B3%80%E6%B0%8F
+  w7-haga-crd:
+    label: レファレンス協同データベース・芳賀町総合情報館の事例「芳賀町の『芳賀』の由来を教えてほしい」（芳賀町は昭和29年（1954年）3月に祖母井町・南高根沢村・水橋村の合併により成立し、その際「芳賀郡の中心として栄えたい」といった関係者の想いがあって町名を「芳賀」としたもので古代の郡名の成り立ちとは全く関係はないこと、「芳賀郡」の「芳賀」は奈良県藤原宮跡出土木簡に「下野国芳宜評」と記され「はが（はぎ）のこおり」と読むのが古く、8世紀の早い段階で「芳賀郡」に改められたと推定されることを、『栃木県の地名』『角川日本地名大辞典 栃木県』『芳賀町史』『芳賀町の歴史読本』を引いて回答する）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000170273&page=ref_view
+  w7-haga-kotobank-gou:
+    label: コトバンク「芳賀郷」（平凡社『日本歴史地名大系』の解説を収録。下野国芳賀郡の芳賀郷について、「和名抄」では郷名に訓を欠くが郡名に「波加」の訓が付されていること、藤原宮跡出土木簡には評名が「芳宜評」と記されているので当初の郷名は郡名同様「はぎ」であった可能性もあること、当郷の位置は一般に現在の真岡市中央部に求められることを記す）
+    url: https://kotobank.jp/word/%E8%8A%B3%E8%B3%80%E9%83%B7-3027490
+  w7-mashiko-japanheritage:
+    label: 日本遺産ポータルサイト「かさましこ ～兄弟産地が紡ぐ“焼き物語”～」（文化庁日本遺産。笠間市と益子町が令和2年度に日本遺産に認定されたストーリーで、大塚啓三郎が笠間の久野窯で修業し益子で築いた窯が益子焼の始まりとなること、昭和初期に民藝運動が拡がり濱田庄司を中心に民藝調の陶器が作られるようになったことを記す）
+    url: https://japan-heritage.bunka.go.jp/ja/stories/story087
+  w7-mashiko-kotobank-town:
+    label: コトバンク「益子町」（平凡社『日本歴史地名大系』と小学館『日本大百科全書（ニッポニカ）』の解説を収録。1894年（明治27年）に町制施行、1954年（昭和29年）に七井・田野の2村と合併したこと、中心の益子は中世益子氏の城下町で近世は黒羽藩大関氏の所領だったこと、特産の益子焼は1853年（嘉永6年）ごろ大塚啓三郎によって始められたことを記す）
+    url: http://kotobank.jp/word/%E7%9B%8A%E5%AD%90%E7%94%BA-136111
+  w7-mashiko-kotobank-village:
+    label: コトバンク「益子村」（平凡社『日本歴史地名大系』の解説を収録。中世は益子郷に含まれ「猿子」「増子」とも書いたこと、西明寺蔵十一面観音像の銘札に弘長2年（1262）の年記とともに「大檀那益子郷名主紀頼宗」とあること、益子氏は宇都宮氏の有力家臣として芳賀氏とともに紀清両党といわれたことを記す）
+    url: http://kotobank.jp/word/%E7%9B%8A%E5%AD%90%E6%9D%91-3034891
+  w7-mashiko-kyohan-history:
+    label: 益子焼窯元共販センター「歴史」（益子焼は嘉永6年（1853年）に大塚啓三郎が窯を築いたのが始まりとされ、啓三郎は笠間の久野窯で技術を習得し益子村大津沢で良質な陶土を発見して根古屋に窯を築いたこと、安政2年（1855年）に黒羽藩から三田称平が郷奉行として赴任し益子焼を保護奨励したこと、安政4年（1857年）には5つの窯元に藩から奨励覚書が交付され財政的援助を得たことを記す）
+    url: http://www.mashikoyakikyouhan.jp/history/index.html
+  w7-motegi-clan-wiki:
+    label: Wikipedia「茂木氏」（中世に下野国を根拠とした武家で、常陸国守護を務めた八田氏の一族である八田知家の三男・知基が下野国芳賀郡茂木郷（茂木保）の地頭職を継承して「茂木」を号したことに由来すると記す）
+    url: https://ja.wikipedia.org/wiki/%E8%8C%82%E6%9C%A8%E6%B0%8F
+  w7-motegi-kotobank-gou:
+    label: コトバンク「茂木郷」（平凡社『日本歴史地名大系』の解説を収録。茂木保東方に属する郷で現在の大字茂木付近に比定され、文和2年（1353年）6月10日の茂木知貞譲状写（茂木文書）に「茂木郷内前小堀」とみえること、以後応永11年（1404年）まで茂木氏歴代に伝領されたことを記す）
+    url: https://kotobank.jp/word/%E8%8C%82%E6%9C%A8%E9%83%B7-3034865
+  w7-motegi-kotobank-nipponica:
+    label: コトバンク「茂木」（小学館『日本大百科全書（ニッポニカ）』の解説を収録。1889年（明治22年）に町制施行、1954年（昭和29年）に逆川・中川・須藤の3村と合併したこと、中世は茂木氏の城下町、近世には茂木藩の陣屋があったことを記す）
+    url: https://kotobank.jp/word/%E8%8C%82%E6%9C%A8-142184
+  w7-motegi-kotobank-town:
+    label: コトバンク「茂木町」（平凡社『日本歴史地名大系』の解説を収録。槻木村・藤縄村の町場地域の総称で、北方の城山に中世茂木氏の居城（茂木城）があり、その城下町として発達したと考えられること、慶長15年（1610年）に細川氏が入部して茂木城を廃し町内に藩庁組織を置いて郭内と称したことを記す）
+    url: https://kotobank.jp/word/%E8%8C%82%E6%9C%A8%E7%94%BA-142519
+  w7-motegi-pref-doc:
+    label: 栃木県教育委員会「栃木県有形文化財の指定について（案）」（令和2年。茂木家文書百通・附茂木家文書目録（宝永7年）について、茂木家文書は中世下野国の茂木を本貫地として領有継承した茂木家伝来の古文書群で、鎌倉初期（1192年）から江戸初期（1620年頃）までの文書であることを記す）
+    url: https://www.pref.tochigi.lg.jp/m01/education/kyouikuzenpan/kyouikuiinkai/documents/2102g13.pdf
+  w7-nakagawa-bato-wiki:
+    label: Wikipedia「馬頭町」（栃木県那須郡にあった町。1889年に馬頭村・健武村・矢又村・和見村・小口村が合併して武茂村が成立し、1891年5月29日に武茂村が町制施行・改称して馬頭町となったこと、1954年7月1日に武茂村・大内村・大山田村と合併して馬頭町を新設したこと、2005年10月1日に小川町と合併して那珂川町を新設したことを記す）
+    url: http://ja.wikipedia.org/wiki/%E9%A6%AC%E9%A0%AD%E7%94%BA
+  w7-nakagawa-estat:
+    label: 政府統計の総合窓口（e-Stat）「廃置分合等情報」栃木県那珂川町（2005年10月1日に馬頭町（09403）・小川町（09404）が合併し那珂川町（09411）を新設したこと、2006年8月1日に大田原市との境界変更があったことを記す）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/09411
+  w7-nakagawa-mlit:
+    label: 国土交通省関東地方整備局「那珂川流域の歴史」（那珂川の名の由来は明らかではないが、室町時代の『神明境』に「応永十五年（1408）正月十八日、野州那須山焼崩、硫黄空ヨリ降、常州那珂河硫黄ニ変ズ」とあり、この頃は那珂川の名が用いられていることを記す）
+    url: https://www.ktr.mlit.go.jp/ktr_content/content/000024334.pdf
+  w7-nakagawa-ogawa-wiki:
+    label: Wikipedia「小川町（栃木県）」（栃木県那須郡にあった町。1889年4月1日に10か村が合併して那珂村が発足し、1938年7月1日に那珂村が町制施行・改称して小川町となったこと、2005年10月1日に馬頭町と新設合併して那珂川町となり廃止されたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E7%94%BA_(%E6%A0%83%E6%9C%A8%E7%9C%8C)
+  w7-nakagawa-wiki:
+    label: Wikipedia「那珂川町」（栃木県那須郡の町で、町名は町内を流れる那珂川に由来すること、2005年（平成17年）10月1日に小川町と馬頭町の合併により発足したこと、福岡県の那珂川町が2018年10月1日に市制施行して那珂川市となり同名の町が2つ存在する状態が解消されたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%82%A3%E7%8F%82%E5%B7%9D%E7%94%BA
+  w7-nasu-ohtawara-hi:
+    label: 大田原市公式サイト「那須国造碑（国宝・古文書）」（湯津上の笠石神社に祀られる石碑で、碑文は永昌元年（689）に那須国造であった那須直韋提が評督を賜り、庚子の年（700）に亡くなったため後継者の意斯麻呂らが碑を立てたことなどを記すこと、碑文の内容から那須国が下毛野国（後の下野国）に組み入れられたことがわかること、江戸時代に徳川光圀の尽力で顕彰され、武茂郷小口村（現那珂川町）の里正・大金重貞が碑を調べて『那須記』に記し光圀に献上したことを記す）
+    url: https://www.city.ohtawara.tochigi.jp/docs/2013082778383
+  w7-nasu-town-gogen:
+    label: 那須町公式サイト「語源」（那須の語源については判然としていないとした上で、1.「那珂川の中州」という語から短縮されたものであろうという説、2.アイヌ語から変化したものであろうという説として郷土史研究家・蓮見長の著書にある「野」を表す語と麓・裾を表す「シュタ」を合わせて「野裾」＝「ヌシュ」となり「ナス」（那須）と聞こえて地名になったという解釈と、その説について金田一博士から「直に成立する」との回答を得たこと、3.寺田寅彦が那須・阿蘇・浅間等は同じ語から変化した語だとした説を紹介する）
+    url: http://www.town.nasu.lg.jp/0226/info-0000000528-1.html
+  w7-nasu-town-miryoku:
+    label: 那須町「那須町の魅力」（町公式の観光資料。那須高原（那須町）は那須連山の主峰・茶臼岳の麓に舒明2年（西暦630年）開湯の歴史ある那須温泉郷が広がること、殺生石は中国やインドで悪行をつくした九尾の狐伝説にまつわる史跡で、2022年3月上旬に割れているのが確認され慰霊祭並びに平和祈願祭が執り行われたことを記す）
+    url: https://www.town.nasu.lg.jp/manage/contents/upload/68914e3b93be9.pdf
+  w7-nasu-town-plan:
+    label: 那須町「那須町人口ビジョン・まち・ひと・しごと創生総合戦略」総論（町の沿革として、明治22年の市制・町村制施行によって那須村・芦野町・伊王野村が誕生し、昭和29年11月3日にこの1町2村が合併、昭和30年12月には黒磯町の一部を編入して現在の那須町が形成されたことを記す）
+    url: https://www.town.nasu.lg.jp/manage/contents/upload/69d49e43d74c0.pdf
+  w7-nogi-kotobank-honnogi:
+    label: コトバンク「本野木町」（平凡社『日本歴史地名大系』の解説を収録。現野木町野木は古代の寒川郡奴宜郷（和名抄）の遺称地といわれること、寿永2年（1183）に当地の野木宮（現野木神社）付近で源頼朝方の小山朝政と志田義広の戦いがあり野木宮の合戦といわれること、『吾妻鏡』治承5年（1181）閏2月23日条に合戦の様子が記されるが、同書の将軍家政所下文などから合戦は寿永2年2月23日のことと考えられることを記す）
+    url: https://kotobank.jp/word/%E6%9C%AC%E9%87%8E%E6%9C%A8%E7%94%BA-3035540
+  w7-nogi-kotobank-jinja:
+    label: コトバンク「野木神社」（平凡社『日本歴史地名大系』の解説を収録。野木宮ともいわれ主祭神は菟道稚郎子命で、仁徳天皇のとき下野国造奈良別命が菟道稚郎子命の遺骸を現社地の西方約800メートルの台手亟に葬り祀ったのが初めという（文政7年「野木大明神由来」当社蔵）。のち延暦年間（782〜806）に大伴弟麻呂・坂上田村麻呂が奥州遠征の帰途、報賽として社殿を建立したと伝えていることを記す）
+    url: https://kotobank.jp/word/%E9%87%8E%E6%9C%A8%E7%A5%9E%E7%A4%BE-3035542
+  w7-nogi-kotobank-nugi:
+    label: コトバンク「奴宜郷」（平凡社『日本歴史地名大系』の解説を収録。下野国寒川郡の奴宜郷は「和名抄」東急本・高山寺本ともに訓を欠くこと、『吾妻鏡』養和元年（1181）閏2月23日条に小山朝政と志田義広との合戦に際して「野木宮」の名が記されるところから、一般に野木神社のある現下都賀郡野木町野木付近に比定されることを記す）
+    url: https://kotobank.jp/word/%E5%A5%B4%E5%AE%9C%E9%83%B7-3034401
+  w7-nogi-kyosai:
+    label: 栃木県共済「野木町」紹介（1889年（明治22年）の町村制施行で10か村が合併して野木村となり、1963年の町制施行で野木町が生まれたこと、県内の市町村では唯一、町村制施行以来の約130年間で一度も合併がない自治体として知られていることを記す）
+    url: https://www.tochigi-kyosai.jp/file/introduction/intro-nogi.pdf
+  w7-nogi-tochigiji:
+    label: とちぎ旅ネット（公益社団法人栃木県観光物産協会）「野木神社」（およそ1600年前、仁徳天皇の時代の建立とされ、境内にあるイチョウは県の名木百選に選ばれていること、春には野生のフクロウが境内で見られることを記す）
+    url: https://www.tochigiji.or.jp/spot/s3221
+  w7-nogi-town-ayumi:
+    label: 野木町公式「野木町のあゆみ」（町公式の歴史パンフレット。5世紀中期に下毛野国造の奈良別が台手箱に祠を建てたと「野木宮由来」によること、延暦年間（782〜806）に坂上田村麻呂が野木神社を今の場所に移し、イチョウを植えたとされること、10世紀に『和名類聚抄』へ寒川郡奴宜郷が記載されること、文治元年（1185）に源頼朝が野木宮合戦勝利の後に下野国寒河郡を神社の領地として寄進したことを年表に記す）
+    url: https://www.town.nogi.lg.jp/data/doc/1715560733_doc_44_0.pdf
+  w7-nogi-yoran:
+    label: 野木町「野木町町勢要覧」（平成27年3月発行。町の鳥／ふくろうは町制施行50周年を記念し野木町にふさわしい町の鳥を定めることを目的として平成24年11月1日に制定されたこと、町の花はひまわりであることを記す）
+    url: https://www.town.nogi.lg.jp/data/doc/1434332765_doc_12_0.pdf
+  w7-takanezawa-kotobank:
+    label: コトバンク「高根沢」（小学館『日本大百科全書（ニッポニカ）』の解説を収録。1958年（昭和33年）に阿久津町・北高根沢村が合併改称して成立したこと、宝積寺は近世には奥州街道の宿駅であったこと、西部台地には千葉県成田市三里塚から移転した宮内庁の御料牧場があることを記す）
+    url: https://kotobank.jp/word/%E9%AB%98%E6%A0%B9%E6%B2%A2-3133822
+  w7-takanezawa-town-gaiyo:
+    label: 高根沢町公式サイト「町の概要」（沿革として、高根沢の地名の由来には高原山のすそ野（根）にある沢からきたという説と、14世紀後半に上高根沢の権現山域でこの辺りを治めていた高根沢新右衛門藤原兼吉の名が地名になったという説があること、現在の高根沢町は昭和33年4月1日に北高根沢村と阿久津町が合併して誕生したことを記す）
+    url: http://www.town.takanezawa.tochigi.jp/gyosei/overview/gaiyo.html
+  w7-takanezawa-town-tokei:
+    label: 高根沢町公式サイト「高根沢町勢統計沿革」（北高根沢村の地名の由来には、高原山のすそ野にある「沢」という意味で高根沢と名づけたという説と、往昔この地方は宇都宮領であり直系高根沢氏が領土を支配していたためとされる説の二つがあること、江戸末期は高根沢郷といっていたのでその旧名をとって高根沢村とし芳賀郡の南高根沢に対して北高根沢村と名づけたといわれること、阿久津町は明治22年4月に阿久津村として発足し昭和28年4月1日に町制を施行したこと、昭和33年4月1日に北高根沢村及び阿久津町を廃して新たに高根沢町が誕生したことを記す）
+    url: https://www.town.takanezawa.tochigi.jp/gyosei/overview/tokei/chosei/01-01.html
+  w7-tochigi-gyousei-r5:
+    label: 栃木県市町村課「第1章 行政区画」（令和5年版栃木県統計年鑑掲載。昭和29年3月31日に祖母井町・南高根沢村・水橋村を廃して芳賀町を設置したこと、同年6月1日に益子町・田野村・七井村を廃して益子町を設置したこと、同年8月1日に茂木町・逆川村・須藤村・中川村を廃して茂木町を設置したこと、同年7月1日に馬頭町・武茂村・大内村・大山田村を廃して馬頭町を設置したことを記す）
+    url: https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/documents/r5_1_gyousei.pdf
