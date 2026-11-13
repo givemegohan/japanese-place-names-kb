@@ -79,6 +79,1030 @@ records:
   - 公募の応募総数以外の選考過程（12候補の顔ぶれの全体）は協議会の一次資料では確認できなかった
   - 旧間切名（具志川・石川・勝連・与那城）それぞれの地名の由来は、市の資料でも不明とされている
   updated: '2026-11-13'
+- id: muni/47-与那原町
+  code: '473481'
+  names:
+    ja: 与那原町
+    reading: よなばるちょう
+    aliases:
+    - 与那原
+    - ゆなばる（沖縄語の現地読み）
+  user_terms:
+  - 与那原 大綱曳 テーク
+  - 沖縄で一番小さい町
+  - よなばる 読み方
+  naming_type: その他（大里間切・大里村の一字「与那原」の名を継承し、1949年に分離して町となった）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島南部、中城湾に面する町で、沖縄本島で最も面積の小さい自治体である。町名は旧大里間切の与那原村（後の大里村の字）の名に由来し、『おもろさうし』に「よなはる」と歌われる古い地名である。戦前は軽便鉄道のターミナルを擁する港町として栄え、1949年に大里村から分離すると同時に町制を施行した。沖縄三大大綱引きの一つ「与那原大綱曳（テーク）」の町として知られる。
+  first_attestation:
+    era: 16世紀
+    year_western: null
+    document: 『おもろさうし』
+    note: 財務省の広報誌は、与那原が『おもろさうし』に「ヨナハル」「ヨナハバマ」の名で登場すると紹介する。『おもろさうし』は1531年から1623年にかけて編纂された歌謡集で、個々の歌の成立年は特定できない。
+  claims:
+  - text: 町名は旧大里間切の与那原村（後の大里村の字・与那原）に由来する。与那原は1879年の廃藩置県後は大里間切に組み入れられ、1908年の町村制では大里村の一字となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-mof-finance
+  - text: 与那原の名は、沖縄最古の歌謡集『おもろさうし』の中に「ヨナハル」「ヨナハバマ」の形で現れると、財務省の広報誌は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-mof-finance
+  - text: 語源については、「ヨナ（ユナ）」は海岸のサンゴ砂を指す沖縄方言で、「ハル（バル）」は開拓地・原を指すとする説明があるが、本調査では公的・専門資料による裏付けが取れなかった
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s9-yonabaru-wiki
+  - text: 1949年（昭和24年）、与那原は大里村から分離し、同年4月に町制を施行して与那原町となった。分離と町制施行が同時という珍しい発足である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-mof-finance
+  - text: 与那原大綱曳は1500年代の尚永王の時代に始まるとされ、那覇・糸満と並ぶ沖縄三大大綱引きの一つで、綱を上下に地面へ打ち付けながら曳く独特の形式を持つ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-mof-finance
+    - s9-yonabaru-navi
+  - text: 大綱曳の起源について『与那原町の民話』は、害虫が発生して稲が実らなかった年、姥捨て山に捨てられた老人の教えで、野山の草を集めて焼き、鐘やドラを打ち鳴らして大声を出しながら綱を曳いたところ害虫がいなくなった、という言い伝えを伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s9-mof-finance
+  - text: 町内には「東御廻り（あがりうまーい）」の拝所である御殿山や親川があり、与那原は王国時代の祭祀の道に位置する地だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yonabaru-navi
+  - text: 与那原町の面積は5.18平方キロメートルで、沖縄本島では最も小さい自治体であり、沖縄県全体でも渡名喜村に次いで2番目に小さい
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-yonabaru-wiki
+  - text: 自治体コードは473481である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 捨てられた老人の知恵が綱になった
+    text: 与那原大綱曳の起源を伝える民話は、沖縄の姥捨て伝説と結びついている。昔、害虫が大発生して稲が実らなかった年、人々は山に捨てた老人に知恵を借りた。野山の草を集めて焼き、鐘やドラを打ち鳴らし、大声を上げながら綱を曳け。その通りにすると害虫は消えたという。綱引きが豊作祈願の行事として根づいた背景には、「捨てたはずの年長者の知恵に救われた」という物語がある。現在の大綱曳でも、綱を上下に地面へ叩きつける所作や、綱の上に支度（神人）を乗せる形式に、単なる力比べではない祈りの行事の面影が残る。
+    sources:
+    - s9-mof-finance
+  relations:
+  - pref/47
+  - muni/47-南城市
+  unknowns:
+  - 『おもろさうし』のどの巻の歌に与那原が現れるかと、その歌の成立年
+  - 「ヨナ＝サンゴ砂、ハル＝開拓地」という語源説について、角川日本地名大辞典や日本歴史地名大系など専門辞典での記載の直接確認
+  updated: '2026-11-13'
+- id: muni/47-与那国町
+  code: '473821'
+  names:
+    ja: 与那国町
+    reading: よなぐにちょう
+    aliases:
+    - 与那国村
+    - ドゥナン
+    - どぅなん
+  user_terms:
+  - ドゥナン
+  - ドナン
+  - どぅなん
+  - 与那国島の名前の由来
+  - 日本最西端の町
+  - 台湾に一番近い町
+  - ゆうなの島
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 町名は与那国島の島名に由来する一島一町の自治体である。島は地元の言葉（与那国語）で「どぅなん（ドゥナン）」と呼ばれ、「与那国」はそれに対応する標準語の名とされる。語源は諸説あり、池間栄三は海岸植物「ゆうな」（オオハマボウ）の群生地の意とする説を有力とする一方、富島壯英は米・砂を意味する「よね」に語源を求める結論を出しており、確定していない。日本最西端の自治体で、台湾まで約107kmしか離れていない。1914年に与那国村として発足し、1948年に町制を施行した。
+  first_attestation:
+    era: 文明9年
+    year_western: 1477
+    document: 李朝実録（朝鮮王朝実録）
+    note: 1477年2月に朝鮮・済州島の住民3人が与那国島に漂着した事件の記録が、与那国島の文献への初出とされる。漂流民は八重山・宮古の島々を経て首里へ送られる途次、与那国島に最も長く滞在したとされる（学術論文およびWikipedia「与那国島」の紹介による）
+  claims:
+  - text: 与那国島は日本最西端の島であり、島の人々には「ドゥナン・チマ（Dunan Cima）」と呼ばれてきた。与那国町は日本最西端の市町村である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s12-jmic-cosmology
+    - s12-wiki-yonaguni-town
+  - text: 島名「どぅなん」の語源は確定していない。池間栄三『与那国の歴史』は、海岸植物「ゆうな」（オオハマボウ）の群生地の意とする説を有力とし、石垣島で与那国を「ゆのおん」と呼ぶのは「ゆうな・ふん（ふんは群れの意）」の転訛で、与那国方言では語頭のヤ行が濁音化するため「ゆうな」が「どぅな」になったと説明し、この説はほぼ定説化しているとされる。これに対し富島壯英は諸説を検討した上で、「ゆうな」という樹木名自体が海岸の沖積地「ユナ」に生える木の意であり、その語源は米・砂を意味する「よね」に求めるべきで、「どぅなん」は与那・与那原・与那城など「与那」を冠する地名と同系統であると結論付け、祖納の原名「与那原（どぅなんばら）」をその起源と関係づけた
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - s12-okimu-tomishima
+  - text: 与那国島付近は天候が不安定で海を渡るのが難しいため「渡難（どぅなん）」と呼ばれたともいわれるが、俗説とされる
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - s12-wiki-yonaguni-island
+  - text: 15世紀末の与那国島は女首長サンアイ・イソバが治めていたと伝わるが、その実在は確認されていない。島仲村跡遺跡はイソバの生まれた村と伝わる
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - s12-wiki-yonaguni-island
+    - s12-wiki-yonaguni-town
+  - text: 1908年（明治41年）の島嶼町村制で石垣・大浜・宮良の3間切と与那国島を合わせて八重山村となり、1914年（大正3年）に八重山村が分村して与那国村が成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s12-wiki-yonaguni-island
+  - text: 国立情報学研究所「歴史的行政区域データセットβ版」では、与那国町の有効期間は1948年12月1日からとされ、町役場の所在地は字与那国129とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s12-yonaguni-geoshape
+  - text: 1477年2月、朝鮮・済州島の住民3人が与那国島に漂着して約半年滞在した出来事は、朝鮮王朝の『李朝実録』に記録され、与那国島の文献上の初出とされる。島にはこの漂流者たちをめぐる口承（フガヌトゥ伝承）が与那国語で伝えられ、近年の学術研究で口承と実録の記述との対応が詳しく確認されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s12-jmic-drifters
+  - text: 地方公共団体コードは473821である（総務省「地方公共団体コード一覧」で実測確認）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 朝鮮の記録と島の口承が一致する島
+    text: 与那国島が歴史の記録に初めて姿を見せるのは1477年、嵐で流された済州島の3人の漂着によってである。彼らの見聞は朝鮮王朝の公式記録『李朝実録』に残された。一方、島の側にも「フガヌトゥ（よそから来た人々）」と呼ばれる漂流者たちの物語が、与那国語の口承として何世紀も語り継がれ、カタカナで8万字に及ぶテキストとして記録された。近年の研究で、この口承と『李朝実録』の記述とが細部まで対応することが確かめられている。国境の島の最古の記録は、外の世界の公文書と、島の人々の記憶の、両方に残されているのである。
+    sources:
+    - s12-jmic-drifters
+  relations:
+  - pref/47
+  unknowns:
+  - 島名の語源は未確定である（池間栄三の「ゆうな」群生説と富島壯英の「よね（米・砂）」説が併存するため、本レコードではcontestedとして両論を記録した）
+  - 町制施行日について、歴史的行政区域データセットβ版は1948年12月1日とする一方、12月10日とする資料もあり、町公式資料での確定は未了
+  - 『球陽』など琉球側の史料における与那国の初出表記は未確認（富島論文は『球陽』の与那国関係記事を紹介するが、原文の直接確認は未了）
+  updated: '2026-11-13'
+- id: muni/47-中城村
+  code: '473286'
+  names:
+    ja: 中城村
+    reading: なかぐすくそん
+    aliases:
+    - 中城
+    - 仲城（近世における間切名の表記）
+  user_terms:
+  - 中城城 世界遺産 なかぐすく 読み方
+  - 護佐丸の城がある村
+  - 中城村と北中城村の違い
+  naming_type: その他（王国の間切名「中城間切」を継承し、1908年の町村制で村となった）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島中部、中城湾に面する村。村名は琉球王国の間切名「中城間切」に由来する。14世紀に按司が築き、護佐丸が増築した中城グスク（中城城跡、世界文化遺産）の名が核にあり、17世紀には間切が世子の領地となって「中城王子」の称と結びつき、王族以外による「中城」の使用が禁じられるほど王家と深く結びついた名前である。1908年に中城村が発足し、1946年に北部が北中城村として分村した。
+  first_attestation:
+    era: 文明3年
+    year_western: 1471
+    document: 『海東諸国紀』の琉球国図
+    note: 中城グスクが「中具足城」と記されたのが文献上の古い用例として、村の地域文化サイトが紹介するもの。グスク自体は14世紀の築城とされる。
+  claims:
+  - text: 村名は琉球王国の間切名「中城間切」に由来し、1908年（明治41年）の沖縄県及島嶼町村制の施行に際して中城間切が中城村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nakagusuku-bunka
+    - s9-kitanakagusuku-fudo
+  - text: 中城グスクは14世紀に先中城按司が築き始め、1440年ごろに読谷山按司だった護佐丸が移って三の郭（新城）と北の郭を増築したと、村の地域文化サイトは伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nakagusuku-bunka
+  - text: 1471年に朝鮮で成立した『海東諸国紀』の琉球国図には、中城グスクが「中具足城」と記されていると村の地域文化サイトが紹介しており、これが「中城」の文献上の古い用例である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nakagusuku-bunka
+  - text: 1458年の護佐丸・阿麻和利の乱では、護佐丸は尚泰久王の命を受けた阿麻和利の軍勢に滅ぼされた。護佐丸の最期については、王府の正史『中山世譜』や『球陽』に基づく資料は王府軍と戦わずに家族・部下と自害したと記す一方、子孫が19世紀後半に記した『異本毛氏先祖由来記』は戦った末の自害と伝え、史料によって伝え方が異なる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - s9-nakagusuku-bunka
+  - text: 17世紀に中城間切は世子（王の世継ぎ）の領地となり、世子は「中城王子」と呼ばれた。尚質王の代には王族以外の者が「中城」の文字と「なかぐすく」の呼称を使うことが禁じられ、他所で中城を名乗っていた集落や間切は改名を迫られたが、中部の中城間切は読みを保ったまま漢字を「仲城間切」と改めて存続した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nakagusuku-bunka
+  - text: 1729年には中城間切番所が中城城跡の一の郭内に設置され（『球陽』によるという）、町村制施行後は村役場が城跡内に置かれるなど、城跡は長く行政の中心だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nakagusuku-bunka
+    - s9-kitanakagusuku-fudo
+  - text: 1946年（昭和21年）5月20日、沖縄民政府の指令により旧中城村の北部が北中城村として分村した。沖縄戦の過程で米軍施設が置かれ、南北の交通が遮断されたことが契機とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-kitanakagusuku-fudo
+  - text: 自治体コードは473286である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 王家の専用名になった「中城」
+    text: 中城という名前は、かつて王族だけのものだった。17世紀、王の世継ぎである世子が中城間切を領するようになると、世子は「中城王子」と呼ばれ、尚質王の代には王族以外の者が「中城」の二文字や「なかぐすく」の呼称を使うこと自体が禁じられた。各地で「中城」を名乗っていた集落や間切は名を改められ、たとえば現在の中城村域にあった旧・中城村は伊舎堂村と改められた。唯一存続した中部の中城間切も、読みは守ったものの漢字は「仲城」と改めさせられている。つまり今日の中城村の名は、王家の専用名の座から降りた後も読みだけは守り抜かれた名前であり、その漢字表記の揺れ（中城・仲城・中具足城）に歴史が刻まれている。
+    sources:
+    - s9-nakagusuku-bunka
+  relations:
+  - pref/47
+  - muni/47-北中城村
+  unknowns:
+  - 「中城」の「中」が何を指すのか（中頭地方の中央に位置する城という理解が類推されるが、本調査では専門資料による語源の確定はできなかった）
+  - 『海東諸国紀』の著者名について、村の地域文化サイトは「甲叔舟」と記すが、一般には申叔舟とされており、原典での確認が残る
+  updated: '2026-11-13'
+- id: muni/47-久米島町
+  code: '473618'
+  names:
+    ja: 久米島町
+    reading: くめじまちょう
+    aliases:
+    - 球美
+  user_terms:
+  - 久米島
+  - くめじま
+  - 球美の島
+  - 久米島紬の島
+  naming_type: 合併新設
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島西方約100キロの久米島を中心とする町。島名「久米」は日本の史書に「球美」と現れる古い名で、琉球方言で米を意味する「クミ」に由来し米どころの島を指すと考えられている。近世は東の仲里間切と西の具志川間切の二間切に分かれていたが、2002年に両村が合併し、島名を町名とする久米島町が発足した。
+  first_attestation:
+    era: 奈良時代
+    year_western: 714
+    document: 『続日本紀』和銅7年（714年）条の「球美」
+    note: 来朝した南島人の中にみえる「球美」が久米島を指すとされる。原典は未読のため、二次資料が『続日本紀』の記載として紹介する形で確認した
+  claims:
+  - text: 久米島町の地方公共団体コードは473618である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 沖縄県立博物館・美術館の久米島総合調査報告書は、久米島が日本の史書に登場するのは『続日本紀』和銅7年（714年）の記事で、奄美・信覚・球美等の人々が南島から来朝したことであると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-kume-okimu
+  - text: 「球美」の「クミ」は琉球方言で「米」を意味し、水に恵まれた米どころの久米島を指すと考えられるという解釈が示されているが、語源を確定する専門資料の記述は確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s10-kume-wiki
+  - text: 日本歴史地名大系によれば島の方音は「クミジマ」で、精選版日本国語大辞典は古名として球美・玖美を挙げる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-kume-kotobank
+  - text: 久米島町観光協会は、久米島は古来、琉球列島の中でもっとも美しい島であることから「球美の島」とも呼ばれてきたと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-kume-kanko-guide
+  - text: 沖縄県立博物館・美術館の調査報告書によれば、近世の久米島は東の仲里間切と西の具志川間切の二間切からなり「久米の二間切」と呼ばれ、仲里間切はもと中城間切と称したが王子領との関係で名称の使用が制限され現在の名称になったと伝えられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-kume-okimu
+  - text: 2002年（平成14年）4月に西部の具志川村と東部の仲里村が合併し、町制を施行して島名を町名とする久米島町となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-kumejima-kotobank
+  - text: 沖縄県立博物館・美術館の調査報告書は、中国側の記録が久米島の山なみを亀の姿に見立てたことを紹介し、民俗学者の伊波普猷はその記述が久米島を指すとする説を唱えたとされる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - s10-kume-okimu
+  column:
+    title: 「球美の島」は亀の姿をしていたか
+    text: 久米島は古来「球美の島」と呼ばれてきた。沖縄県立博物館・美術館の調査報告書によれば、海上から遠望する久米島は双子山の観を呈し、中国側の記録はその山なみを亀の姿に見立てたとされ、伊波普猷はその記述が久米島を指すとする説を唱えたという。また、おもろの詩人は島を「ふたまた」と呼んだとされる。米どころを意味するともいわれる「クミ」の名と、美しさをたたえる「球美」の字と、海から見た亀の姿という三つのイメージが、ひとつの島名に重なっている。
+    sources:
+    - s10-kume-kanko-guide
+    - s10-kume-okimu
+  relations:
+  - pref/47
+  unknowns:
+  - 「久米（球美）」の語源はクミ＝米とする説が広く紹介されるが、専門の地名辞典で語源を確定した記述は確認できなかった
+  - 『続日本紀』和銅7年条の原文そのものは未読で、「球美」の記事は二次資料経由の確認にとどまる
+  - 仲里間切が中城間切から改称された時期は特定できなかった
+  updated: '2026-11-13'
+- id: muni/47-今帰仁村
+  code: '473065'
+  names:
+    ja: 今帰仁村
+    reading: なきじんそん
+    aliases:
+    - 今帰仁間切
+  user_terms:
+  - なきじん
+  - なちじん（地元の方音）
+  - 今帰仁城跡のある村
+  - 世界遺産の村
+  - 古宇利島のある村
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 本部半島の北半分を占める村で、世界遺産の今帰仁城跡を擁する。村名は琉球王国の行政区画「今帰仁間切」に由来する。「今帰仁」は1471年の『海東諸国紀』に「伊麻奇時利」と記された古い地名で、16世紀には「みやきせん」と呼ばれていた。地元の方音は「なちじん」。語源については定説がない。
+  first_attestation:
+    era: 文明3年
+    year_western: 1471
+    document: 『海東諸国紀』
+    note: 今帰仁グスクを「伊麻奇時利城」と記すのが確認できる古い用例の一つであると『日本歴史地名大系』が紹介している（二次資料経由の確認）。今帰仁村の公式資料では「伊麻寄時利」と記す
+  claims:
+  - text: 今帰仁村の地方公共団体コードは473065である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 村名は琉球王国の行政区画である今帰仁間切を継承し、1908年の特別町村制施行により今帰仁村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-nakijin-vill-bousai
+  - text: 1471年の『海東諸国紀』は今帰仁グスクを「伊麻奇時利城」と記しており、「伊麻奇時利」はイマキジリと発音されたと考えられることが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-nakijin-kotobank-magiri
+  - text: 「今帰仁」の語義に定説はなく、イマキを渡来者（新来者）とする説や、ナキズミ（魚の寄付く場所）とする説があることが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - s6-nakijin-kotobank-magiri
+  - text: 16世紀には今帰仁は「みやきせん」と呼ばれ、『おもろさうし』巻13や1501年の玉陵の玉御殿碑文にその名が見えることが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-nakijin-kotobank-magiri
+  - text: 地元の方音は今帰仁方言・沖縄語とも「なちじん」で、公称の読み「なきじん」とは異なる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s6-nakijin-wiki
+  - text: 今帰仁城は三山時代の北山王の居城で、1422年に尚巴志が尚忠を山北監守として派遣し、以後も王府の監守（今帰仁按司）が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-nakijin-vill-castle
+  - text: 今帰仁城跡は2000年にユネスコの世界遺産「琉球王国のグスク及び関連遺産群」の構成資産として登録された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-nakijin-vill-bousai
+  column:
+    title: 「イマキジリ」から「なちじん」へ――名前の音の旅
+    text: 今帰仁の名前は、記録されるたびに姿を変えてきた。1471年、朝鮮で編まれた『海東諸国紀』はこの地のグスクを「伊麻奇時利」と記した。16世紀になると『おもろさうし』や玉陵の碑文の中で「みやきせん」とうたわれ、近世の帳簿では「今帰仁」の漢字が定着していく。そして今、地元の人々の口にのぼる音は「なちじん」で、公称の「なきじん」ともまた少し違う。漢字・かな・方音のあいだを五百年以上旅してきた地名の軌跡が、ここまでよく残っている例は珍しい。
+    sources:
+    - s6-nakijin-kotobank-magiri
+    - s6-nakijin-vill-bousai
+  relations:
+  - pref/47
+  - muni/47-本部町
+  - muni/47-名護市
+  unknowns:
+  - 語源の諸説（渡来者説・魚来住説など）の検証は、専門研究の原典確認ができていないため決着していない
+  - 『海東諸国紀』の「伊麻奇時利」の原文は二次資料経由でしか確認できておらず、表記は村公式資料の「伊麻寄時利」とも異なる
+  - 古宇利島をはじめ村内の字名の由来は本レコードでは未調査である
+  updated: '2026-11-13'
+- id: muni/47-伊平屋村
+  code: '473596'
+  names:
+    ja: 伊平屋村
+    reading: いへやそん
+    aliases:
+    - 伊平屋島
+    - 葉壁
+    - 恵平也
+  user_terms:
+  - いへや
+  - てるしのの島
+  - 沖縄最北の村
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄県最北端の、伊平屋島と野甫島の2島からなる離島村。古書には「えひや」「恵平也」などの表記が見え、中国の冊封使は島を「葉壁山」と称したという。島名の語源は未詳である。第一尚氏の祖先が伊平屋の出身だったという伝承があり、尚巴志の王統のルーツの島とされるが、これは伝承の層として分けて記録する。1909年の村制で伊平屋村となったものの役場は伊是名島に置かれ、1939年の分村で現在の伊平屋村が誕生した。
+  first_attestation:
+    era: 14世紀前半
+    year_western: null
+    document: 伊江村公式「伊江村の歴史」年表
+    note: 伊江村公式年表の1314〜1336年の条に「伊江島は伊平屋島とともに怕尼芝に占領され北山領となる」とあり、「伊平屋島」の名が現れる。幅のある年代のため西暦はnullとし、原典を直接確認していないため主張側ではE2として扱う
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、伊平屋村の団体コードは473596とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 伊平屋村は伊平屋島と野甫大橋でつながれた野甫島の2つの島からなり、田名・前泊・我喜屋・島尻・野甫の5つの字に分かれる、沖縄県最北端の村であると伊平屋島観光協会は紹介している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s7-iheya-kankou-about
+  - text: 古書には伊平屋を「えひや」「恵平也」と記す表記が見え、中国の冊封使は伊平屋島を「葉壁山」と称したと、伊平屋島観光協会は紹介している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s7-iheya-kankou-about
+  - text: 「伊平屋」の語源は確認できる資料では明らかではなく、観光協会が紹介する「島の面積の大きさから取って伊平屋島と唱えられた」という説明も伝承の域を出ない
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - s7-iheya-kankou-about
+  - text: 『日本歴史地名大系』は、伊是名村をメージ（前地）というのに対して当村をクシジ（後地）というと記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s7-iheya-kotobank-taikei
+  - text: 伊平屋村立歴史民俗資料館は、伊平屋が「米を産する最も佳なり」と中国の古文書に記されているように、古くから稲作が盛んだった島であると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-iheya-vill-museum
+  - text: 琉球の第一王統（第一尚氏）の祖先とされる屋蔵大主が伊平屋に住んだという伝承があり、伊平屋は第一尚氏の発祥の地とされると、伊平屋島観光協会は紹介している
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - s7-iheya-kankou-about
+  - text: 尚巴志の祖父にあたる鮫川大主は「葉壁」すなわち伊平屋の出身で、佐敷の場天の地に移住して尚思紹を生み、その子が尚巴志であるという伝承が『中山世鑑』などに伝えられると、学術論文は紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s7-iheya-hosaka
+  - text: 1909年4月1日の村制施行で「伊平屋島」を「伊平屋村」と改称したが村役場は伊是名村字伊是名に置かれ、大正5年の分村請願以来の運動を経て、1939年7月1日に分村して現在の伊平屋村が誕生したと、伊平屋島観光協会は紹介している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s7-iheya-kankou-about
+  column:
+    title: 「前地」と「後地」、そして分村までの百年
+    text: 伊是名島を「前地（メージ）」というのに対して、伊平屋島は「後地（クシジ）」と呼ばれてきた。その「後れ」は行政にも及び、1909年に伊平屋村ができてからも村役場は伊是名島に置かれ、住民は用事のたびに海を渡った。大正時代に始まる分村運動は「百有余年の懸案」とまでいわれ、実ったのは1939年のことである。島の位置をいう古い呼び名が、そのまま島の近代史の苦労を物語っている。
+    sources:
+    - s7-iheya-kotobank-taikei
+    - s7-iheya-kankou-about
+  relations:
+  - pref/47
+  - muni/47-伊是名村
+  - muni/47-伊江村
+  unknowns:
+  - 「伊平屋」の語源の確定
+  - 中国の冊封使が伊平屋島を「葉壁山」と称したという記録の原典と年代の特定
+  - 『中山世鑑』等における鮫川大主・屋蔵大主の伝承の原文を直接確認できていないこと
+  updated: '2026-11-13'
+- id: muni/47-伊是名村
+  code: '473600'
+  names:
+    ja: 伊是名村
+    reading: いぜなそん
+    aliases:
+    - 伊是名島
+    - 前地（メージ）
+  user_terms:
+  - 伊是名島の由来
+  - 尚円王が生まれた島
+  - 伊平屋と伊是名の違い
+  - いぜなってどう読むの
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 伊是名島を村域とする村。古くは伊平屋島と合わせて「ゑひや（伊平屋）」と総称され、伊是名側は「前地（メージ）」と呼ばれた。第二尚氏の始祖・尚円王（金丸）の出身地として知られ、王統発祥の地として両島は王府直轄領とされた。1908年に伊平屋村の一部となり、1939年に分立して伊是名村が成立した。島名「伊是名」の語源は確認できていない。
+  first_attestation:
+    era: 安土桃山時代
+    year_western: 1587
+    document: 首里大屋子宛の辞令書
+    note: 「ゑひやのなかだ」と記される。仲田は伊是名島の集落名であるため、この「ゑひや」は伊平屋島単独ではなく伊平屋・伊是名両島を総括する行政区画の名と解される（Wikipedia「伊平屋伊是名諸島」が紹介）。伊是名単独の名の初出は未確認
+  claims:
+  - text: 『おもろさうし』に見られる「ゑひやの二はなれ」は伊平屋島と伊是名島の2島を指し、古来、伊平屋・伊是名の両島は合わせて「伊平屋」と呼ばれたと、Wikipedia「伊平屋伊是名諸島」は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-iheya-izena-wiki
+  - text: 伊是名島側は「前地（メージ）」、伊平屋島側は「後地（クシジ）」と呼ばれ、1923年（大正12年）の地形図には「伊平屋前地」「伊平屋後地」と表記されていたと、同記事は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-iheya-izena-wiki
+  - text: 伊是名島は琉球国王・第二尚氏の始祖である尚円（金丸）の生まれた島として知られ、2015年（平成27年）には尚円生誕600周年祭が行われた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-izena-wiki
+  - text: 琉球王国時代、伊是名島と伊平屋島は琉球王統発祥の地として王府直轄領とされ、この経緯から1896年（明治29年）に郡制度が施行された際、沖縄本島南部の島尻郡に属することになり、現在も島尻郡に属する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-izena-wiki
+  - text: 1939年（昭和14年）7月1日の分村許可により、伊平屋村の一部（伊是名・仲田・諸見・勢理客）が分立して伊是名村が成立した（典拠として角川日本地名大辞典と全国市町村名変遷総覧が挙げられている）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-izena-wiki
+  - text: 村は有人島の伊是名島と、無人島の具志川島・屋那覇島・降神（うるがみ）島から構成される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-izena-wiki
+  - text: 島には尚円（金丸）の生誕の地と伝える場所があり、臍の緒を埋めたとされる「みほそ所（御臍所）」など生誕にまつわる伝承地や、伊是名玉陵などの史跡が残るとされる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - s8-izena-wiki
+  - text: 沖縄語では「いじな（/ʔijina/）」と呼ばれ、地方公共団体コードは473600である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-izena-wiki
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「前地」と呼ばれた王統発祥の島
+    text: 伊是名島は、長く隣の伊平屋島とひとつの名で呼ばれてきた。『おもろさうし』は両島を「ゑひやの二はなれ」と詠み、近世の人々は手前（南）の伊是名を「前地（メージ）」、奥の伊平屋を「後地（クシジ）」と呼び分けた。第一尚氏の発祥が伊平屋、第二尚氏の始祖・尚円の生誕が伊是名とされ、両島は王統発祥の地として王府の直轄領になった。地理的には沖縄本島北部の沖合にありながら、本島南部の島尻郡に属するというねじれは、その聖域扱いの名残である。1939年にようやく伊是名は独立した村となり、島の古い名がそのまま村名になった。
+    sources:
+    - s8-iheya-izena-wiki
+    - s8-izena-wiki
+  relations:
+  - pref/47
+  - muni/47-伊平屋村
+  unknowns:
+  - 島名「伊是名（いじな）」の語源は本調査では確認できなかった
+  - 伊是名単独の地名としての文献上の初出は未確認（1587年の辞令書の「ゑひや」は両島総括の名と解される）
+  - 尚円の生誕にまつわる細部（御臍所・産湯の井戸など）は伝承であり、史料による裏付けの程度は未確認
+  updated: '2026-11-13'
+- id: muni/47-伊江村
+  code: '473154'
+  names:
+    ja: 伊江村
+    reading: いえそん
+    aliases:
+    - 伊江島
+  user_terms:
+  - いえじま
+  - イージマ
+  - タッチューの島
+  - 一島一村
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 本部半島の北西約9キロの伊江島一島からなる一島一村の自治体。島名の現地読みは「イー（イージマ）」で、「伊江」はその音に字をあてたものとされる。語源にはイシ（石）の転・イリ（西）の転という説が紹介されるが確説はない。島のシンボルである城山は「伊江島タッチュー」と呼ばれるが、これは山の呼び名で、島名の古層とは別の層である。1908年の町村制で伊江島から伊江村に改称された。
+  first_attestation:
+    era: 14世紀前半
+    year_western: null
+    document: 伊江村公式「伊江村の歴史」年表
+    note: 村公式年表の最古の記事は1314〜1336年の条で、伊江島が伊平屋島とともに北山の怕尼芝に占領され北山領となったとする。幅のある年代のため西暦はnullとし、『中山世鑑』等の原典での用例を直接確認していないため主張側ではE2として扱う
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、伊江村の団体コードは473154とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 伊江村は沖縄本島北部の本部半島から北西9キロに位置する伊江島の「一島一村」の離島である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ie-suido
+  - text: 伊江島は方音では「イージマ」といい、「伊江」はその音に字をあてたものであると『日本歴史地名大系』は記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s7-ie-kotobank-shima
+  - text: 「伊江」の語源については、イシ（石）の転ともイリ（西）の転ともいわれると地名の由来を集めた一般サイトは紹介するが、確説はない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s7-ie-chimei-folklore
+  - text: 伊江村公式の歴史年表は、1314〜1336年に伊江島が伊平屋島とともに北山の怕尼芝に占領され北山領となったと記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ie-vill-rekishi
+  - text: 1701年に東江村・西江村・川平村が置かれ、明治8年になって東江村・西江村がそれぞれ二分され、川平を加えた集落構成になったと伊江村公式の歴史年表は記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ie-vill-rekishi
+  - text: 1908年の沖縄県及島嶼町村制施行により、東江上・東江前・西江上・西江前・川平の五ヵ字で、伊江島から伊江村と改称されたと『日本歴史地名大系』は記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s7-ie-kotobank-taikei
+  - text: 島の東部中央にそびえる城山（グスクヤマ）は「伊江島タッチュー」と呼ばれ島のシンボルとなっているが、これは山の呼び名であり、島名「伊江」の由来とは別の層である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ie-suido
+  column:
+    title: タッチューは山の名前
+    text: 本部半島からも望める標高172メートルの城山は「伊江島タッチュー」の愛称で親しまれ、フェリーが近づくとまずこの尖った山が目に入る。だが「タッチュー」は山の呼び名であって島の名ではない。島の名「伊江」は、方音「イー」の古い音に字をあてたもので、山の愛称とは生まれた層がまったく違う。島の顔である山と、島そのものの名は、分けて眺めると面白い。
+    sources:
+    - s7-ie-suido
+    - s7-ie-kotobank-shima
+  relations:
+  - pref/47
+  - muni/47-伊平屋村
+  - muni/47-本部町
+  unknowns:
+  - 「伊江（イー）」の語源の確定（石・西の転という説が紹介されるにとどまる）
+  - 『中山世鑑』など原典における伊江島の用例を直接確認できていないこと
+  - 1908年以前、行政単位としての伊江島の扱いの詳細（間切に属さない島としての位置づけ）
+  updated: '2026-11-13'
+- id: muni/47-八重瀬町
+  code: '473626'
+  names:
+    ja: 八重瀬町
+    reading: やえせちょう
+    aliases:
+    - 八重瀬
+  user_terms:
+  - 八重瀬町 いつできた 合併
+  - 八重瀬岳 由来
+  - 東風平 具志頭 合併
+  naming_type: 合併新設（2006年に東風平町と具志頭村の合併で新設。両町村にまたがる八重瀬岳の名を新町名に採用した）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島南部にある町で、2006年1月1日に東風平町と具志頭村の合併で誕生した。町名は両町村の境にそびえる八重瀬岳（標高163メートル、町内最高峰）にちなみ、合併協議会の公募で選ばれた。合併前の旧町村名を一切残さない新名称であり、町の建設計画資料は命名理由として「島尻のシンボル的な存在」で「地理的に分かりやすい」ことを挙げている。合併の協議は当初4町村で進められたが、南風原町の離脱を経て2町村の合併となった。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 八重瀬町「新町建設計画」資料（合併・命名の経緯を記す町公式資料）
+    note: 町名そのものの初出は2006年1月1日の町発足である。もとの山名「八重瀬岳」の初出と語源は未確認。
+  claims:
+  - text: 八重瀬町は2006年（平成18年）1月1日、島尻郡東風平町と具志頭村の合併により発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yaese-keikaku
+  - text: 新町名「八重瀬」は、旧・東風平町と旧・具志頭村にまたがる八重瀬岳から採られた。町名は合併協議会による公募で決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yaese-keikaku
+  - text: 町の建設計画資料は命名理由として、八重瀬岳が島尻のシンボル的な存在で地理的に分かりやすいこと、遺跡・史跡・自然・桜など地域のアピール力があること、互いに身近な存在で知名度があり響きがよいことを挙げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yaese-keikaku
+  - text: 新町名称候補選定委員会の委員長は、「八」の字は末広がりで幸せが幾重にも重なる意、「瀬」は物事に出会う時の意があり、両町村の合併は「八重に出会う絶好のタイミング」だったとする命名コメントを残している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yaese-keikaku
+  - text: 合併の協議は当初、南風原町・東風平町・大里村・具志頭村の4町村で進められたが、2004年9月に南風原町が離脱して4町村の協議会は廃止され、その後、東風平町と具志頭村の2町村で改めて協議会が設けられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yaese-keikaku
+  - text: 八重瀬岳は標高163メートルで町内の最高峰であり、沖縄戦では日本軍の最後の防衛線が設定され、米軍からは「ビッグアップル（Big Apple）」と呼ばれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-yaesedake-wiki
+  - text: 八重瀬岳はもともと東風平町の大字・富盛（ともり）と世名城（よなぐすく）に属しており、合併前の両町村にまたがる山だった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-yaesedake-wiki
+  - text: 町は八重瀬岳周辺の一帯を「八重瀬城跡を中心に史跡、拝所が点在する」歴史資源の地域として位置づけており、「八重瀬」は山名であると同時に、城跡を含む一帯の地名として受け止められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-yaese-keikaku
+  - text: 自治体コードは473626である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 4町村の夢と、残った2町村の山
+    text: 八重瀬町の誕生には、実現しなかった大きな合併の影がある。2003年、南風原町・東風平町・大里村・具志頭村の4町村が合併協議会を立ち上げたが、翌年に南風原町が離脱し、協議会はいったん廃止された。残った東風平町と具志頭村だけで協議をやり直し、2006年に生まれたのが八重瀬町である。新町名の選定では、どちらか一方の旧町名を残すのではなく、境にそびえる八重瀬岳の名が公募で選ばれた。旧町村名を一切残さない名前は、対等合併の象徴だった。沖縄戦で日本軍最後の防衛線となり、米軍に「ビッグアップル」と呼ばれた山が、今度は二つの町村をつなぐ名前として選ばれたことになる。
+    sources:
+    - s9-yaese-keikaku
+    - s9-yaesedake-wiki
+  relations:
+  - pref/47
+  - muni/47-南風原町
+  unknowns:
+  - 山名「八重瀬（岳）」自体の語源と初出（「八重に重なる瀬」という地形由来かどうかを含め、本調査では確認できなかった）
+  - 八重瀬城跡の「八重瀬」と山名との先後関係
+  updated: '2026-11-13'
+- id: muni/47-北中城村
+  code: '473278'
+  names:
+    ja: 北中城村
+    reading: きたなかぐすくそん
+    aliases: []
+  user_terms:
+  - 日本一人口密度が高い村
+  - きたなかぐすくの由来
+  - 中城村との違い
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 1946年、中城村が米軍施設によって南北に分断され行政運営に支障をきたしたため、北部の12行政区が分離して生まれた村。名は「中城」の北に位置することによる。もとの「中城」は近世の中城間切に由来する名で、世界遺産の中城城跡は、分村後の現在の村域では南側の中城村側にある。面積の小さい村だが、日本で最も人口密度が高い村として知られる。
+  first_attestation:
+    era: 近世（琉球王国時代）
+    year_western: null
+    document: （未確認）
+    note: 前身の中城間切は近世琉球の行政区画として成立していたが、「中城」の文献上の初出は本調査では確認できなかった。村としての成立は1946年（昭和21年）
+  claims:
+  - text: 1908年（明治41年）4月1日に中城村が誕生し、終戦後、米軍施設により南北に分断され行政運営に支障をきたした
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-kitanakagusuku-wiki
+  - text: 1946年（昭和21年）5月20日に中城村北部の12行政区が分離して北中城村が誕生した（歴史的行政区域データセットβ版も北中城村の有効期間を1946年5月20日からとする）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kitanakagusuku-wiki
+    - s8-kitanakagusuku-geoshape
+  - text: 沖縄語では「きたなかぐしく（/kitanakagushiku/）」といい、「中城」は城（グスク）を意味する語を含む名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-kitanakagusuku-wiki
+  - text: 面積11.54km2の小さな村で「日本一人口密度の高い村」となっており、返還軍用地のライカム地区では大型商業施設の開業など市街地形成が進んでいると、北中城村商工会の経営発達支援計画（内閣府沖縄総合事務局）は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kitanakagusuku-ogb
+  - text: 日本で最も人口密度が高い村であり、読谷村・東海村・中城村・西郷村に次いで全国で5番目に人口の多い村である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-kitanakagusuku-wiki
+  - text: 地方公共団体コードは473278である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kitanakagusuku-ogb
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「北」と付いた、分断から生まれた村名
+    text: 北中城村の名は、方角を冠した分村名である。1946年、米軍施設に南北を断たれた中城村の北半分が独立し、「中城」の北という意味で「北中城」を名乗った。名の由来となった中城城（グスク）の城跡は、分かれた境界の南側、現在の中城村に残る。村の名の本体は隣村にあるという、読谷村の「字読谷」問題とよく似た構図である。もとの農村は、那覇に近い立地と軍用地返還地の開発によって住宅地化が進み、いまでは日本一人口密度の高い村になった。
+    sources:
+    - s8-kitanakagusuku-wiki
+    - s8-kitanakagusuku-ogb
+  relations:
+  - pref/47
+  - muni/47-中城村
+  - muni/47-北谷町
+  unknowns:
+  - 分村時に南側が一時「南中城村」を名乗り1956年に「中城村」へ改称したという経緯は、本調査では出典を確認できなかった
+  - 「中城」の名が中城城（グスク）に由来することの出典つき確認は未了
+  - 中城城跡が現在の北中城村域でなく中城村側にあることの出典つき確認は未了（コラムでは一般的な理解として触れた）
+  updated: '2026-11-13'
+- id: muni/47-北大東村
+  code: '473588'
+  names:
+    ja: 北大東村
+    reading: きただいとうそん
+    aliases:
+    - 北大東島
+  user_terms:
+  - きただいとう
+  - 北大東島
+  - 大東島
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 島名をそのまま村名とする村で、南大東村と対をなす。島名「大東」は、琉球の島言葉で東の大きな島を意味する「ウフアガリ」に漢字をあてたもので、沖縄本島の東方にある位置を指す。南北大東島は明治18年（1885年）に日本領土へ編入され、北大東島は明治36年（1903年）から玉置商会によって燐鉱採掘と甘蔗作で開拓されたが、町村は置かれず、昭和21年（1946年）6月12日に米軍政下の沖縄民政府告示で初めて村制が施行されて北大東村が発足した。村域は北大東島と無人の沖大東島（ラサ島）からなる。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 『日本歴史地名大系』「大東諸島」
+    note: 大系は「琉球王国時代からウフアガリジマ（大東島）とよばれ、南北大東島の二島をさしていた」と記すが、特定の文献における初出は本調査では確認できなかった。村名としての「北大東」は1946年の村制施行に始まる
+  claims:
+  - text: 北大東村の地方公共団体コードは473588である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和21年（1946年）6月12日、「沖縄民政府告示第4号の1」により村制が始まり、北大東村が誕生したことが北大東村公式の島史年表に記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-kitadaito-official-history
+  - text: 『日本歴史地名大系』は、大東諸島は琉球王国時代から「ウフアガリジマ（大東島）」と呼ばれ、南北大東島の二島を指していたと記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-daito-taikei
+  - text: 『角川日本地名大辞典』は、大東諸島が沖縄本島の東方海上に位置することから方言で「東の大きな島」を意味するウフアガリ島と呼ばれ、それに「大東」という漢字をあてたものとする説を『島尻郡誌』を出典として紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-jlogos-kadokawa-okidaito
+  - text: 明治18年（1885年）、南北大東島の二島に国標「沖縄県所轄」が建てられ、日本領土に編入された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-daito-taikei
+  - text: 明治36年（1903年）、玉置商会は北大東島に社員を派遣して甘蔗8株を植え付け、開墾の意思を示したことが北大東村公式の年表と文化的景観の調査報告書に記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-kitadaito-official-history
+    - s11-kitadaito-landscape-report
+  - text: 北大東島の燐鉱採掘は明治41年（1908年）に玉置商会が着手したが明治44年（1911年）に撤退し、東洋製糖のもとで大正7年（1918年）に再着手され、大正8年（1919年）に本格化した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-kitadaito-landscape-report
+  - text: 北大東村は北大東島と沖大東島からなり、無人の沖大東島は1島で字ラサを構成する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-jlogos-kadokawa-okidaito
+  column:
+    title: 村のなかの「ラサ」という字
+    text: 北大東村には「ラサ」という字がある。その実体は、村の中心である北大東島から南へ約150キロ離れた無人島、沖大東島そのもので、1島で1つの字を成している。「ラサ」は外国船がつけた名で、『日本歴史地名大系』によれば、文化4年（1807年）にフランス軍艦カノニエルがこの島を視認し、「平坦な」という意味でラサ島と命名したという。明治末から昭和19年（1944年）までこの島では燐鉱石が採掘され、戦後は米軍の射撃訓練場となって今も人は住んでいない。沖縄の村の字のなかに、遠く離れた無人島の、外国語由来の名が残っている。
+    sources:
+    - s11-kotobank-daito-taikei
+    - s11-jlogos-kadokawa-okidaito
+  relations:
+  - pref/47
+  - muni/47-南大東村
+  unknowns:
+  - 「大東島（ウフアガリ）」という呼称が特定の文献に初めて現れる年と文献は確認できなかった
+  - 大東島を「北」と「南」に分けて呼ぶようになった時期（1885年の国標設置時か、その後の行政文書によるものか）は資料で特定できなかった
+  - 玉置半右衛門が北大東島の燐鉱に着目した経緯を示す一次資料は確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-北谷町
+  code: '473260'
+  names:
+    ja: 北谷町
+    reading: ちゃたんちょう
+    aliases:
+    - 北谷間切
+    - きたたん
+  user_terms:
+  - ちゃたんの由来
+  - アメリカンビレッジがある町
+  - 北谷ってどう読むの
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 古名は「きたたん」。1577年の辞令書に「きたたんおきて」と見えるのが現在確認できる最古の文字資料で、「北谷」の漢字は1609年の薩摩侵入以降に当てられたとされる。音は「きたたん」から「きちゃたん」「ちちゃたん」を経て「ちゃたん」へ変化した。町公式も「きたたん」の語源はよく分からないと明記する。1908年に北谷村となり、1980年に町制を施行した。西海岸の美浜地区にはアメリカンビレッジが立地する。
+  first_attestation:
+    era: 安土桃山時代
+    year_western: 1577
+    document: 辞令書
+    note: 尚真王が地方役人「きたたんおきて」に給した辞令書。北谷町公式が現在確認できる最古の文字資料とする
+  claims:
+  - text: 現在確認できる最古の文字資料は1577年の辞令書に書かれた「きたたんおきて」であり、「きたたん」の語源はよく分からないと、北谷町公式は明記する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-chatan-official
+  - text: 「きたたん」から「きちゃたん」「ちちゃたん」を経て「ちゃたん」へと音が変化したことは語学上はっきりしており、正保国絵図（1649年）には「北谷間切」の脇に「キタタンマギリ」とかな書きがあると、北谷町公式は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-chatan-official
+  - text: 鹿児島方言で「タン」は谷の意を示すことから、「キタタン」に「北谷」の漢字が当てられた後に音が変化したと考えられていると、北谷町公式は紹介する
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - s8-chatan-official
+  - text: 北谷間切は当初、安仁屋・北谷・桑江・平安山・砂辺・野国・屋良・嘉手納・山内の9つのムラからなり、1671年（寛文11年）に宜野湾間切の創設に伴って安仁屋が宜野湾へ、山内が越来へ編入され、玉代勢・伝道・伊礼・浜川・野里が新設されて12ムラとなった（北谷町議会資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-chatan-gikai
+  - text: 1908年（明治41年）に北谷村となり、1948年（昭和23年）に嘉手納が分村し、1980年（昭和55年）4月1日に町制を施行して北谷町となった（北谷町議会資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-chatan-gikai
+  - text: 町名は「きたたんまきり（北谷間切）」に由来し、「北谷」の漢字は1609年の薩摩侵入以降、日本の幕藩体制に組み込まれる過程で当てられたと、Wikipediaは紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-chatan-wiki
+  - text: 西海岸の美浜地区には美浜タウンリゾート・アメリカンビレッジがあり、1994年（平成6年）に開発基本指針が策定され2004年（平成16年）に施設整備が終了した。町内には4つの米軍関係施設があり、町面積の52.3%を占める
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-chatan-wiki
+  - text: 沖縄語では「ちゃたん（/catan/）」といい、地方公共団体コードは473260である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-chatan-wiki
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「きたたん」が「ちゃたん」になるまで
+    text: 北谷と書いて「ちゃたん」と読む。この読みの元は「きたたん」で、1577年の辞令書に「きたたんおきて」と残る。薩摩侵入以降に「北谷」の漢字が当てられ、土地の音は「きたたん→きちゃたん→ちちゃたん→ちゃたん」と崩れていった。町公式サイトは「『きたたん』の語源はよく分かりません」と率直に書く。語源は不明でも、音の変化の道筋ははっきりしているのがこの地名のおもしろさである。いま西海岸の美浜に広がるアメリカンビレッジやサンセットビーチの賑わいは、この古い名の上に載った新しい層である。
+    sources:
+    - s8-chatan-official
+    - s8-chatan-wiki
+  relations:
+  - pref/47
+  - muni/47-嘉手納町
+  - muni/47-北中城村
+  unknowns:
+  - 「きたたん」の語源は町公式も「よく分かりません」としており、本調査でも決定的な説は確認できなかった
+  - 「北谷」の漢字が当てられた正確な時期は、1609年の薩摩侵入以降とされるが年次は未確認
+  updated: '2026-11-13'
 - id: muni/47-南城市
   code: '472158'
   names:
@@ -159,6 +1183,178 @@ records:
   - 「南城」の「南」が本島南部を指すことの明示的な命名理由は、市公式資料の文面では直接確認できなかった（位置の説明とグスクの説明からの読み取り）
   - 旧間切名（佐敷・知念・玉城・大里）それぞれの地名の由来は今回の調査範囲では確認できなかった
   updated: '2026-11-13'
+- id: muni/47-南大東村
+  code: '473570'
+  names:
+    ja: 南大東村
+    reading: みなみだいとうそん
+    aliases:
+    - 南大東島
+  user_terms:
+  - みなみだいとう
+  - 南大東島
+  - ウフアガリ
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 島名をそのまま村名とする村で、北大東村と対をなす。島名「大東」は、島言葉で遙か東の海の彼方にある島を意味する「ウフアガリジマ」に由来すると村公式が説明する、琉球側から見た位置の名である。明治18年（1885年）に日本領土へ編入され、明治33年（1900年）に八丈島の玉置半右衛門らが上陸して開拓が始まったが、戦前は製糖会社が島を経営し町村は置かれず、昭和21年（1946年）6月12日に村制が施行されて南大東村が発足した。古い島名の層と、自治体名の層とでは時代が大きく隔たっている。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 『日本歴史地名大系』「大東諸島」
+    note: 大系は琉球王国時代から南北大東島の二島が「ウフアガリジマ（大東島）」と呼ばれたと記す。南大東島単独を指す呼称の文献上の初出は確認できなかった。村名としての「南大東」は1946年の村制施行に始まる
+  claims:
+  - text: 南大東村の地方公共団体コードは473570である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 南大東村は昭和21年（1946年）6月12日に村制が施行されて発足した自治体で、国立情報学研究所の歴史的行政区域データセットは村の有効期間の始期を同日とし、ブリタニカ国際大百科事典も1946年に村制が施行され南大東村・北大東村が発足したと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-geoshape-minamidaito
+    - s11-kotobank-daito-taikei
+  - text: 南大東村公式サイトは「大東島という名前は、沖縄の古人が、遙か東の海の彼方にある島という意味の島言葉『ウフアガリジマ』からきていると言われる」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-minamidaito-official-intro
+  - text: 『角川日本地名大辞典』も、大東諸島は方言で「東の大きな島」を意味するウフアガリ島と呼ばれ、それに「大東」の漢字をあてたとする説を『島尻郡誌』を出典として紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-jlogos-kadokawa-okidaito
+  - text: 明治18年（1885年）、南北大東島の二島に国標「沖縄県所轄」が建てられ、日本領土に編入された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-daito-taikei
+  - text: 玉置半右衛門は明治32年（1899年）に開墾の許可を得て、明治33年（1900年）1月23日に八丈島出身者を中心とする開拓者23名が南大東島に上陸し、開拓が始まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-jfe-minamidaito
+  - text: 戦前の南大東島では製糖会社が開拓と島の経営を担い、サトウキビのモノカルチャー経済が形成された。町村は置かれなかったため、自治体としての村の成立は1946年の村制施行まで待たなければならなかった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s11-jfe-minamidaito
+    - s11-kotobank-daito-taikei
+  - text: 昭和39年（1964年）、玉置半右衛門が入植者と交わしたとされる土地譲渡の約束に基づき、島内の耕作地が島民の所有であることが最終的に確認された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s11-wiki-minamidaito
+  column:
+    title: 会社が治めた島に、村が生まれた年
+    text: 南大東島には、開拓が始まってから半世紀近く「村」がなかった。島を開いた玉置半右衛門の会社が事業を引き継いだ製糖会社とともに島の経営を握り、住民はサトウキビを作る小作人で、島の暮らしは会社の工場を中心に回っていた。選挙で長を選ぶ自治はなく、村制が施行されたのは戦後の昭和21年（1946年）のことである。それでも、耕作地が島民の土地であると最終的に確認されるのは昭和39年（1964年）まで待たなければならなかった。「南大東村」という名は古い島の名を受け継ぎながら、自治体の名としては沖縄の村々のなかでも新しい部類に入る。
+    sources:
+    - s11-jfe-minamidaito
+    - s11-geoshape-minamidaito
+    - s11-wiki-minamidaito
+  relations:
+  - pref/47
+  - muni/47-北大東村
+  unknowns:
+  - ウフアガリという呼称の文献上の初出は確認できなかった
+  - 南大東島だけを指す古称が近世の文献にあったかは確認できなかった
+  - 1946年の村制施行の告示文そのもの（北大東村側で村公式年表に確認できた沖縄民政府告示第4号の1と同一の告示によるか）は、南大東村側の資料では直接確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-南風原町
+  code: '473502'
+  names:
+    ja: 南風原町
+    reading: はえばるちょう
+    aliases:
+    - 南風原
+    - ふぇーばる（沖縄語の現地読み）
+  user_terms:
+  - はえばる 読み方
+  - 海に面していない町 沖縄
+  - 南風原 由来 南風
+  naming_type: その他（王府直轄地・南風原間切の名を継承し、1980年に町制を施行した）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島南部にある、沖縄県内で唯一海に面していない町。町名は王国時代の南風原間切に由来し、西原・真和志とともに首里王府直轄の「首里三平等」の一つ「南風之平等」に属した。沖縄語で南（南風）を「フェー」、原を「バル」といい、首里の南に広がる原野を意味する地名と説明される。1908年に南風原村が形成され、1980年4月1日に南風原町となった。
+  first_attestation:
+    era: 17世紀
+    year_western: null
+    document: 王府の行政区分「首里三平等」のうちの「南風之平等」
+    note: 名前そのものの初出文献は本調査では特定できなかった。確認できる古い層は、王国時代に王府直轄地である三平等の一角「南風之平等（フェーヌフィラ）」として位置づけられていたことである。
+  claims:
+  - text: 町名は王国時代の間切名「南風原間切」を継承する。1908年（明治41年）の特別町村制の施行により11字からなる南風原村が形成され、1980年（昭和55年）4月1日に町制を施行して南風原町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-haebaru-gaiyo
+    - s9-estat-haebaru
+  - text: 王府時代、南風原は西原・真和志とともに「首里三平等」の一つに組み込まれた王府直轄地で、財務省の広報誌は三平等を南風之平等（フェーヌフィラ）・真和志之平等（マージヌフィラ）・西之平等（ニシヌフィラ）と紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-mof-finance
+    - s9-haebaru-gaiyo
+  - text: 西原町の公式資料は西原を「南の南風原に対する名称」と位置づけており、南風原と西原は、首里を中心に南北一対をなす方位地名として成立したことがうかがえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-fukki50
+  - text: 語源については、沖縄語で南の方角・南風を「フェー（ハエ）」、原っぱ・原野を「バル」と呼ぶ語構成から、「首里の南にひらけた土地」を意味すると説明されるが、本調査では専門辞典による直接の確認は取れなかった
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s9-haebaru-note
+  - text: 南風原町は沖縄県内で唯一、海に面していない町である。面積は10.76平方キロメートルで、県内41市町村の中で4番目に小さい
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-haebaru-gaiyo
+  - text: 町の公式の標語は「黄金南風（くがにばえ）の平和郷・はえばる」であり、南風を讃える沖縄の美称「くがにばえ」が町の象徴として掲げられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-haebaru-gaiyo
+  - text: 2002年に東風平町・具志頭村・大里村と4町村の合併協議会を設けたが、南風原町は最終的に合併に反対して協議会は解散した。その後、東風平町と具志頭村は合併して八重瀬町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-haebaru-wiki
+  - text: 自治体コードは473502である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 海のない町が「南風」を名乗る理由
+    text: 南風原町は沖縄県で唯一、海に面していない。それでも町の名前と標語は「南風」で満ちている。理由は位置にある。王国時代、この地は首里城の真南に広がる王府直轄の農村地帯で、「西原（実は北の原）」や真和志と並ぶ「首里三平等」の南端を担った。首里から見た「南の原野」、それが南風原である。町が掲げる「黄金南風（くがにばえ）」は南風を讃える沖縄の美称で、海を持たない内陸の町が、風と畑の記憶を名前の誇りとして守ってきたことがうかがえる。
+    sources:
+    - s9-haebaru-gaiyo
+    - s9-mof-finance
+  relations:
+  - pref/47
+  - muni/47-西原町
+  - muni/47-八重瀬町
+  unknowns:
+  - 「南風原」という名の文献上の初出（間切名としての初出文献と年代）
+  - フェー（南）＋バル（原）という語構成の語源説について、角川日本地名大辞典や日本歴史地名大系での記載の直接確認
+  updated: '2026-11-13'
 - id: muni/47-名護市
   code: '472093'
   names:
@@ -238,6 +1434,441 @@ records:
   - 語源の諸説（凪・平坦地・波の音など）のうちどれが正しいかは、専門辞典でも確定していなかった
   - 『海東諸国紀』「那五」の原文は二次資料経由でしか確認できていない
   - 名護市教育委員会の地名調査資料など郷土資料による語源の検討は未確認である
+  updated: '2026-11-13'
+- id: muni/47-嘉手納町
+  code: '473251'
+  names:
+    ja: 嘉手納町
+    reading: かでなちょう
+    aliases:
+    - かでぃなー
+  user_terms:
+  - 嘉手納基地の町
+  - かでなの由来
+  - 嘉手納ってどう読むの
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 北谷間切の村・嘉手納を前身とする町で、沖縄語では「かでぃなー」。戦前は県営鉄道の終着駅や県立農林学校を擁する中頭の中心だったが、戦後、嘉手納飛行場によって北谷村が南北に分断され、1948年に分村して嘉手納村が誕生し、1976年に町制を施行した。現在も町面積の8割以上が米軍基地である。「かでな」の語源は定かではなく、「カリー（縁起が良い）」と「ナ（土地）」の結合とする伝承がある。
+  first_attestation:
+    era: 近世（琉球王国時代）
+    year_western: null
+    document: おもろさうし・琉球国旧記
+    note: 嘉手納町公式「嘉手納町の歴史」は、屋良・嘉手納の往時の様子が『おもろさうし』や『琉球国旧記』等の記述からうかがえると紹介する。嘉手納の具体的な表記形と年次は未確認
+  claims:
+  - text: 王朝時代、現在の町域は北谷間切に属する村々で、中でも屋良・嘉手納・野國の地域が早くから村として開けたといわれる（嘉手納町公式「嘉手納町の歴史」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kadena-official
+  - text: 1908年（明治41年）の町村制で嘉手納は北谷村の字となり、戦前は県営鉄道嘉手納線の終着駅や県立農林学校・製糖工場がある中頭郡の中心であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kadena-official
+    - s8-kadena-kotobank
+  - text: 1948年（昭和23年）12月4日、嘉手納飛行場内の通行禁止によって北谷村が南北に分断されたため、北谷村から分村して嘉手納村が誕生した（嘉手納町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kadena-official
+  - text: 1976年（昭和51年）に町制を施行して嘉手納町となり、町域の8割以上が軍用地で、比率では県内第1の基地の町である（ブリタニカ国際大百科事典小項目事典）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s8-kadena-kotobank
+  - text: 『日本歴史地名大系』は、町内に嘉手納（かでぃなー）グスク・屋良グスク・国直（くんのーい）グスクがあるとし、嘉手納の現地の読みを「かでぃなー」とする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s8-kadena-kotobank
+  - text: 嘉手納町公式は、1605年に中国から甘藷を持ち帰ったとされる野國總管を町内の字野國の出身として紹介し、町民の誇りとなっているとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-kadena-official
+  - text: 「嘉手納」の由来は定かではないが、一説には、縁起が良いという意味の「カリー」と、土地という意味の「ナ」が一緒になって、「カリー・ナ」が「カデナ」になったと伝えられる（琉球朝日放送「地デジカ地名辞典」）
+    kind: legend
+    level: E4
+    status: indeterminate
+    sources:
+    - s8-kadena-qab
+  - text: 地方公共団体コードは473251である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 基地に分断されて生まれた町
+    text: 嘉手納という名そのものは、北谷間切の村の名として古くからあった。ところが自治体としての嘉手納は、戦争の産物である。嘉手納飛行場が建設されて村の行き来が断たれ、南北に分断された北谷村の北側が、1948年に嘉手納村として独立した。戦前、この一帯は軽便鉄道の終着駅と県立農林学校を擁する中頭の中心だった。その中心地の名が、基地の町名として残ったのである。なお「かでな」の語源は定かでなく、「カリー（縁起が良い）」と「ナ（土地）」が結びついたという伝承が伝わるにとどまる。
+    sources:
+    - s8-kadena-official
+    - s8-kadena-kotobank
+  relations:
+  - pref/47
+  - muni/47-北谷町
+  - muni/47-読谷村
+  unknowns:
+  - 「かでな」の語源には定説がなく、本調査でも専門辞典に語源の明示は確認できなかった（カリー＋ナ説は伝承として記録した）
+  - 『おもろさうし』等における嘉手納の具体的な表記形・初出年次は未確認
+  updated: '2026-11-13'
+- id: muni/47-国頭村
+  code: '473014'
+  names:
+    ja: 国頭村
+    reading: くにがみそん
+    aliases:
+    - 国頭間切
+  user_terms:
+  - くにがみ
+  - クンジャン（地元の方音）
+  - やんばる
+  - 沖縄本島最北端の村
+  - 辺戸岬のある村
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島最北端の村で、村名は琉球王国の行政区画「国頭間切」に由来する。「国頭」はもともと島の北の頭部にあたる当地の地名で、「国の上」という意味と説明される。1896年の郡制施行で恩納・金武以北を束ねる国頭郡の名となり、さらに沖縄島北部全体を指す地域名にもなった。地元の方音は「クンジャン」。
+  first_attestation:
+    era: 明代
+    year_western: null
+    document: 『明史』などの古文書
+    note: 『世界大百科事典』は、中国の『明史』などの古文書に「くにかみ」とあるのが文献上の初見で、『おもろさうし』では「かみ」と呼ばれたとする。具体的な年次を特定できないため year_western は null とした（二次資料経由の確認）
+  claims:
+  - text: 国頭村の地方公共団体コードは473014である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 村名は琉球王国の行政区画である国頭間切に由来し、1908年4月1日の島嶼町村制施行により間切がそのまま国頭村となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s6-kunigami-wiki
+  - text: 「国頭」はもともと沖縄島最北端の当地の地名であったが、1896年の勅令による郡制施行で、恩納村・金武村から北方の地域をまとめる国頭郡の名となったことが『世界大百科事典』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-kunigami-kotobank-sekai
+  - text: 「国頭」の名は、沖縄島の頭部（国の上）にあたることに由来すると『日本大百科全書』『世界大百科事典』が説明している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-kunigami-kotobank-sekai
+  - text: 文献上の初見は中国の『明史』などの古文書に見える「くにかみ」で、『おもろさうし』では「かみ」と呼ばれていたことが『世界大百科事典』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-kunigami-kotobank-sekai
+  - text: 近世の国頭は、1660年に代官が置かれた国頭方の九間切の一つである国頭間切として管轄され、方音では「くんぢゃん」と呼ばれたことが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-kunigami-kotobank-hou
+  - text: 1945年9月1日に国頭村・大宜味村・東村の三村が統合して辺土名市が誕生したが、1946年1月に再び三村へ分離した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-kunigami-vill-plan
+  - text: 2021年7月、村域を含む沖縄島北部が「奄美大島、徳之島、沖縄島北部及び西表島」として世界自然遺産に登録された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-kunigami-vill-plan
+  column:
+    title: 「クニカミ」が「クンヂャン」になるまで
+    text: 国頭の地元での呼び名は「クンジャン」で、公称の「くにがみ」とはかなり響きが違う。中国語のようにも聞こえるが、『沖縄県国頭郡志』によると、これは外来の音ではない。クニカミ→クニガミ→クンギャミ→クンヂャミ→クンヂャン→クンチャンと、島の言葉の中で音が少しずつ姿を変えてきた結果だという。「国の上」という意味を持つ名が、方音のなかで転訛しながら今も村の人々に使われ続けている。『おもろさうし』の時代には単に「かみ」とも呼ばれていたというから、この地名は呼び名の層を幾重にも重ねてきたことになる。
+    sources:
+    - s6-kunigami-kotobank-sekai
+  relations:
+  - pref/47
+  - muni/47-大宜味村
+  - muni/47-東村
+  unknowns:
+  - 「国の上（頭部）」という語義以外の語源説については、今回確認した専門辞典の範囲では検討できなかった
+  - 『明史』等の「くにかみ」の具体的な用例箇所は二次資料経由でしか確認できていない
+  - 『国頭村史』（1967年）など村史の直接確認は未了である
+  updated: '2026-11-13'
+- id: muni/47-多良間村
+  code: '473758'
+  names:
+    ja: 多良間村
+    reading: たらまそん
+    aliases:
+    - 脱羅麻
+    - 達喇麻
+    - 達喇奇麻
+    - 多羅満
+  user_terms:
+  - たらま
+  - 多良間島
+  - タラマ
+  naming_type: その他（島名の継承。由来は未詳）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 宮古島と石垣島のほぼ中間に浮かぶ多良間島と水納島の2島からなる村で、村名は主島の島名そのままである。「たらま」の名は古く、文明11年（1479年）の朝鮮『李朝実録』に「脱羅麻島」と現れるのが史書への初出とされるが、語そのものの語源は確定していない。近世の多良間は宮古の三間切のいずれにも属さない特別行政区で、明治41年（1908年）には平良村の字となり、大正2年（1913年）2月14日に分村して多良間村が誕生した。
+  first_attestation:
+    era: 文明11年
+    year_western: 1479
+    document: 『李朝実録』成宗10年五月辛未条
+    note: 『日本歴史地名大系』が「脱羅麻島」とあると紹介するもので、原文は未読のため紹介形で記録する。済州島民の漂着記事に伴う記録とされ、多良間村公式年表も「朝鮮の李朝実録に多良間島はじめて史書にあらわれる」とする
+  claims:
+  - text: 多良間村の地方公共団体コードは473758である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 大正2年（1913年）2月14日、仲筋・塩川・水納の3字が平良村から分離して多良間村が誕生した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-tarama-taikei
+    - s11-tarama-official-nenpyo
+  - text: 明治41年（1908年）の沖縄県及島嶼町村制の施行により、仲筋・塩川・水納の三村はそれぞれ字となり、平良村に属した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-tarama-taikei
+  - text: 近世の多良間は宮古の平良・下地・砂川の三間切のいずれにも属さない特別行政区であったとされる一方で、『宮古史伝』には下地間切に属したともあり、多良間村公式年表は両方の記述を併記している
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - s11-kotobank-tarama-taikei
+    - s11-tarama-official-nenpyo
+  - text: 『日本歴史地名大系』によれば、『李朝実録』成宗10年（1479年）五月辛未条に「脱羅麻島」とあり、これが「たらま」の名の史書における古い用例である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-taramajima-taikei
+  - text: 『中山伝信録』では「達喇奇麻」、『中山世譜』では「達喇麻（俗叫多良間）」、『寰瀛水路誌』では「多羅満島」と記されるなど、漢字表記は揺れながら「たらま」の音が伝えられてきた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s11-kotobank-taramajima-taikei
+  - text: 「たらま」という名称は古くから使われていたと思われるが、その起源ははっきりしないと地質調査所の随筆が述べ、専門辞典にも語源を確定する記述は見当たらない
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - s11-gsj-tarama
+  - text: 15世紀末に多良間島を統一したとされる土原豊見親春源の伝説が島に濃密に伝わり、島の口承伝承の中心をなしている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s11-cinii-nutabaru
+  column:
+    title: 漢字が旅をしても、音は変わらなかった
+    text: 多良間の名は、史書のなかで何度も姿を変えてきた。文明11年（1479年）の朝鮮『李朝実録』では「脱羅麻」、中国で編まれた『中山伝信録』では「達喇奇麻」、『中山世譜』では「達喇麻」、『寰瀛水路誌』では「多羅満」。字面はそれぞれ違うが、指しているのは同じ「たらま」の音である。現在の「多良間」の字に落ち着いたのは比較的新しい時代になってからで、島の人びとの口のなかでは音のほうが一貫して受け継がれてきた。村をなすもう一つの島、水納も、『中山世譜』に「面那（俗叫水納）」とある。こちらも、音が先にあって、字は後からついた地名である。
+    sources:
+    - s11-kotobank-taramajima-taikei
+    - s11-kotobank-minna-taikei
+  relations:
+  - pref/47
+  - muni/47-宮古島市
+  unknowns:
+  - 「たらま」の語源（何を意味する語だったか）は、専門資料でも確定した説を確認できなかった
+  - 現在の「多良間」という漢字表記が公的に定着した時期は特定できなかった
+  - 1479年の『李朝実録』の記事原文は未読で、日本歴史地名大系経由の紹介にとどまる
+  updated: '2026-11-13'
+- id: muni/47-大宜味村
+  code: '473022'
+  names:
+    ja: 大宜味村
+    reading: おおぎみそん
+    aliases:
+    - 田港間切
+    - 大宜味間切
+  user_terms:
+  - おおぎみ
+  - ウジミ（地元の方音）
+  - やんばるの村
+  - 喜如嘉の芭蕉布の里
+  - 塩屋湾のある村
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島北部、西海岸にある村で、村名は琉球王国の行政区画「大宜味間切」を継承する。その起源は1673年に羽地・国頭の両間切から村々を分けて設けられた田港間切で、17世紀末に大宜味間切と改称された。地元の方音は「ウジミ」、近世の資料では「いぎみ」と読まれた。「宜味」の語源は確定していない。
+  first_attestation:
+    era: 康熙52年
+    year_western: 1713
+    document: 『琉球国由来記』
+    note: 集落名「大宜味村」の確認できる早い用例で、『日本歴史地名大系』が「絵図郷村帳・琉球国高究帳に村名はみえない」としたうえで紹介している（二次資料経由の確認）。間切名としての「大宜味」は、これに先立つ17世紀末の改称による
+  claims:
+  - text: 大宜味村の地方公共団体コードは473022である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 村名は琉球王国の行政区画である大宜味間切を継承し、1908年の沖縄県島しょ町村制施行により間切が大宜味村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-ogimi-vill-enkaku
+  - text: 大宜味間切の起源は1673年、羽地間切から2村、国頭間切から11村を分かち、13村をもって創設された田港間切である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-ogimi-vill-enkaku
+    - s6-ogimi-kotobank-chimei
+  - text: 田港間切から大宜味間切への改称の年は、村公式の沿革では1695年（大宜味村など4村の新設と同時）とされる一方、村教育委員会の文化財調査報告書は1682年としており、資料によって異なる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - s6-ogimi-vill-enkaku
+    - s6-ogimi-bunka-pdf
+  - text: 集落としての大宜味村は1695年に新設された村の一つとされ、『絵図郷村帳』や『琉球国高究帳』には見えず、1713年編纂の『琉球国由来記』に村名が見えることが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-ogimi-kotobank-chimei
+    - s6-ogimi-bunka-pdf
+  - text: 地元の方音は「ウジミ」で、近世の間切名は「いぎみ」と読まれていたことが専門辞典で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-ogimi-kotobank
+    - s6-ogimi-kotobank-chimei
+  - text: 「宜味」の語源については、今回確認した村公式資料や専門辞典に確定した説明が見当たらず、語義は未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - s6-ogimi-kotobank-chimei
+  - text: 塩屋湾で旧暦7月に行われる海神祭「ウンジャミ（ウンガミ）」は国の重要無形民俗文化財に指定されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-ogimi-kotobank-chimei
+    - s6-ogimi-kotobank
+  column:
+    title: 三つの読みを持つ村――おおぎみ・ウジミ・いぎみ
+    text: 大宜味には読み方が三つある。公称は「おおぎみ」、地元の方音は「ウジミ」、そして近世の資料では間切の名は「いぎみ」と読まれた。音が同じでも漢字の当て方には揺れがあり、間切を治めた二つの総地頭家は「大宜味御殿」と「大宜見殿内」と、わざわざ違う字で書き分けられていたという。読みの標準化は「おおぎみ」に一本化されたが、その向こうには島の言葉の音と、それを漢字に写し取ろうとした人々の工夫の跡が残っている。
+    sources:
+    - s6-ogimi-kotobank
+    - s6-ogimi-kotobank-chimei
+    - s6-ogimi-bunka-pdf
+  relations:
+  - pref/47
+  - muni/47-国頭村
+  - muni/47-東村
+  - muni/47-名護市
+  unknowns:
+  - 「宜味」の語源は専門辞典でも確定しておらず未詳である
+  - 前身の間切名の表記は、村公式資料では「田港間切」、『日本歴史地名大系』では「田湊間切」と異なり、どちらが正式な表記かは原史料で確認できていない
+  - 大宜味間切への改称年（1682年説・1695年説）の対立は、王府の原史料を確認できていないため決着していない
+  - 『大宜味村史』（1978〜79年）など村史の直接確認は未了である
+  updated: '2026-11-13'
+- id: muni/47-宜野座村
+  code: '473138'
+  names:
+    ja: 宜野座村
+    reading: ぎのざそん
+    aliases: []
+  user_terms:
+  - ぎのざ
+  - 阪神キャンプの村
+  - 水と緑と太陽の里
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島東海岸中部、国頭郡の村。「宜野座」は古くからの集落名で、1649年の『絵図郷村帳』に金武間切の村として見え、近世には「ぎぬざ」と読まれた。1908年に金武村の一部となり、終戦後の1946年に金武村から分村して宜野座村が誕生した。村名の語源は確定しておらず、姓が「宜野座」という島横目役人が派遣されたという伝承が村公式に残るが、それは村名の由来とまでは裏づけられていない。
+  first_attestation:
+    era: 慶安2年
+    year_western: 1649
+    document: 『絵図郷村帳』
+    note: 宜野座村公式「宜野座村の歴史」が、1649年の『絵図郷村帳』に現在の村域の地名として古知屋・宜野座・惣慶・漢那の4村が見えると紹介するもの。原典を直接確認していないため、主張側ではE2として扱う
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、宜野座村の団体コードは473138とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1649年の『絵図郷村帳』に出てくる現在の宜野座村域の地名は古知屋・宜野座・惣慶・漢那の4村（ほかに「はま村」）で、これらの村々は金武間切に属して「上四ヶ」とも称され、地域としてのまとまりをもっていたと宜野座村公式は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ginoza-rekishi
+  - text: 『日本歴史地名大系』は、近世の宜野座村の読みを「ぎぬざ」とし、宜野座・惣慶・漢那・古知屋の村々は上之四島（いいぬゆしま）とも称されていたと記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s7-ginoza-kotobank-taikei
+  - text: いつ頃かははっきりしないが、この地域へ島横目役として「宜野座」という姓の役人が派遣されてきたといわれ、その島横目屋敷跡も残っていると、宜野座村公式は伝承として紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s7-ginoza-rekishi
+  - text: この伝承は役人の姓についてのものであり、村名「宜野座」がその姓に由来するとまでは村公式資料も述べておらず、村名の語源は確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - s7-ginoza-rekishi
+  - text: 1908年の島嶼町村制により、金武間切の古知屋・宜野座・惣慶・漢那の4村と現在の金武町域の3村をもって金武村が成立したと宜野座村公式は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ginoza-rekishi
+  - text: 昭和21（1946）年4月1日、金武村から古知屋（現在の松田）・宜野座・惣慶・福山・漢那・城原が分村し、人口18,540人の宜野座村が誕生したと総務省の戦災調査は記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ginoza-soumu-sensai
+  - text: 沖縄戦後、宜野座一帯には米軍の民間人収容地が置かれて宜野座・漢那・古知屋の収容集落は「市」と呼ばれ、北部軍政府も置かれた宜野座は戦後北部の行政の中心地となったと総務省の戦災調査は記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-ginoza-soumu-sensai
+  column:
+    title: 収容所の「市」から生まれた村
+    text: 沖縄戦の直後、宜野座には民間人収容地が置かれ、宜野座・漢那・古知屋の収容集落は「宜野座市」「漢那市」「古知屋市」と呼ばれた。北部軍政府も置かれた宜野座は、焼け野原の北部の行政中心となり、翌1946年、金武村からの分村によって宜野座村が誕生する。村の歴史でいちばん新しい層は、戦争と収容所の記憶と結びついている。
+    sources:
+    - s7-ginoza-soumu-sensai
+    - s7-ginoza-rekishi
+  relations:
+  - pref/47
+  - muni/47-金武町
+  - muni/47-恩納村
+  unknowns:
+  - 村名「宜野座」の語源の確定（島横目役人の姓の伝承はあるが、村名との先後関係は裏づけられていない）
+  - 『絵図郷村帳』（1649年）の原文を直接確認できていないこと
+  - 島横目屋敷跡にまつわる伝承の年代
   updated: '2026-11-13'
 - id: muni/47-宜野湾市
   code: '472051'
@@ -407,6 +2038,345 @@ records:
   - 『元史』の「密牙古人」の記事の原文と年代は二次資料経由でしか確認できていない
   - 「宮古市」から「宮古島市」への変更を正式に決めた会議の日付と議事は、市の公式年表では確認できなかった
   updated: '2026-11-13'
+- id: muni/47-座間味村
+  code: '473545'
+  names:
+    ja: 座間味村
+    reading: ざまみそん
+    aliases:
+    - 後慶良間
+  user_terms:
+  - 座間味島
+  - ざまみ
+  - ジャマン
+  - 後慶良間
+  - ケラマ
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 慶良間諸島の西半分、座間味島・阿嘉島・慶留間島の有人3島からなる村。沖縄本島から見て渡嘉敷島の後ろにあたるため「後慶良間」とも呼ばれる。近世は座間味間切（方音ジャマン）で、1908年の島嶼町村制により座間味村となった。島名「座間味」の語源は、調査した公的・専門資料に定説がない。1945年の米軍上陸と集団自決は地名の由来とは別の、島の近代史の層である。
+  first_attestation:
+    era: 江戸時代
+    year_western: 1713
+    document: 『琉球国由来記』（1713年成立）の座間味間切
+    note: 王府の旧記座が編んだ地誌に座間味間切の御嶽・祭祀が記録される。「座間味」の漢字表記の初出そのものは未確認
+  claims:
+  - text: 座間味村の地方公共団体コードは473545である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、近世の座間味は「じやまん間切」と読まれ、渡嘉敷間切とともに慶良間島を構成し、久米方に属した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-zamami-kotobank
+  - text: 日本歴史地名大系によれば、座間味集落の方音は「ジャマン」で、座間味間切の行政の中心地であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-zamami-kotobank
+  - text: 村公式サイトによれば、座間味村は那覇市から西へ約40キロの慶良間諸島の西半分を占め、座間味島・阿嘉島・慶留間島の3つの有人島からなる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-zamami-vill
+  - text: 日本歴史地名大系によれば、沖縄島から見て渡嘉敷島の後ろにあることから、座間味村の島々は「後慶良間（クシギラマ）」とも呼ばれる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-zamami-kotobank
+  - text: 日本歴史地名大系によれば、1908年の沖縄県及島嶼町村制施行により座間味村が成立し、それまでの座間味・阿佐・阿真・阿嘉・慶留間の諸村が字となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-zamami-kotobank
+  - text: 1945年（昭和20年）3月26日、座間味村は米軍の沖縄最初の上陸地点となり、村民402人が集団自決した。これは島名の由来とは別の、島の近代史の層である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-zamami-nipponica
+  - text: 「座間味」という島名の語源は、村公式資料・日本歴史地名大系のいずれにも説明が見当たらず、未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - s10-zamami-kotobank
+    - s10-zamami-vill
+  column:
+    title: 沖縄の鰹節は座間味から
+    text: 日本歴史地名大系によれば、座間味村では1901年（明治34年）に鰹漁業が創業して大成功をおさめ、渡嘉敷島はもとより県内各地に普及した。「ケラマ節」と呼ばれた鰹節は村財政を潤し、海の民の島は沖縄の鰹節産業の発祥地となった。現在のダイビングで知られる海の豊かさは、かつて村の暮らしそのものを支えていた。
+    sources:
+    - s10-zamami-kotobank
+  relations:
+  - pref/47
+  - muni/47-渡嘉敷村
+  unknowns:
+  - 島名「座間味」の語源は未詳で、方音「ジャマン」の意味も確認できなかった
+  - 「座間味」の漢字表記の文献上の初出は確認できなかった
+  - 集落が島東部の古座間味から現在地へ移転してきたという伝承の年代は確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-恩納村
+  code: '473111'
+  names:
+    ja: 恩納村
+    reading: おんなそん
+    aliases:
+    - 恩納間切
+    - 恩納郡
+  user_terms:
+  - おんな
+  - 万座毛の村
+  - サンゴの村
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島中部の西海岸にある村。「恩納」は、もともと中心集落である恩納ムラの名で、1673年に金武間切と読谷山間切の一部を分けて恩納間切が新設された際に間切名となり、1908年の町村制で恩納村となった。「恩納」という地名そのものの語源は、村の字誌でも「未だ明らかではない」とされており未詳である。女流歌人・恩納ナビーはこの地の出身とされるが、それは地名の由来ではなく、地名を負った人物の層である。
+  first_attestation:
+    era: 万暦12年
+    year_western: 1584
+    document: 恩納ノロ辞令書
+    note: 恩納村史編さんだよりが村役場所蔵の辞令書の写真とともに紹介するもの。恩納間切の創設（1673年）以前から「恩納」の名が文書に現れる用例だが、辞令書そのものを直接確認したわけではないため、主張側ではE2として扱う
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、恩納村の団体コードは473111とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『球陽』には「金武郡内の四邑、亦読谷山の八邑を将て、合して恩納郡と為し」とあり、1673年に金武間切から名嘉真・安富祖・瀬良垣・恩納の4村、読谷山間切から谷茶・冨着・仲泊・久良波・読谷山・真栄田・塩屋・与久田の8村を分けて恩納間切が創設されたと、恩納村史編さんだよりは紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-onna-hensan60
+  - text: 恩納間切の番所（役所）は恩納ムラに置かれ、「恩納間切」という名前も恩納ムラから取られたのだろうと、恩納村史編さんだよりは推測している
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - s7-onna-hensan92
+  - text: 『おもろさうし』第十七巻の表題は「恩納より上のおもろ御さうし」であり、恩納間切創設以前の史料にすでに「恩納」の名が現れると、恩納村史編さんだよりは紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-onna-hensan92
+  - text: 万暦12年（1584年）の恩納ノロ辞令書が村役場に所蔵されており、「恩納」の名は間切創設以前から文書に現れる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-onna-hensan60
+  - text: 「恩納」という地名の由来そのものは、『恩納字誌』や『琉球王国の真実』でも「未だ明らかではない」とされており、語源は未詳である
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - s7-onna-crd
+  - text: 1908年に沖縄県及島嶼町村制が施行され、琉球王国時代の行政単位であった恩納間切は恩納村に改められ、初代村長として当山正禄が就任した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-onna-ayumi
+    - s7-onna-keikaku
+  - text: 18世紀になると女流歌人・恩納ナビーが恩納の風景を琉歌に歌い上げ、1928年にはその碑が万座毛に建立されたが、これは地名の由来ではなく、地名を負った人物の層である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-onna-keikaku
+    - s7-onna-ayumi
+  column:
+    title: もう一つの「恩納」――東恩納
+    text: 実は「恩納」という村は二つあった。越来間切にも恩納村（おんなむら）があり、1673年に恩納間切が新設されると、間切の中心である恩納ムラと区別するために、越来側は「東恩納」と称するようになったと『恩納字誌』にあることを、国立国会図書館のレファレンス事例が紹介している。新しい行政区画の誕生が、同名のもう片方の名を変えてしまった例である。
+    sources:
+    - s7-onna-crd
+  relations:
+  - pref/47
+  - muni/47-金武町
+  - muni/47-読谷村
+  unknowns:
+  - 「恩納」の語源（『恩納字誌』等でも明らかではないとされており、確認できる範囲では未詳）
+  - 恩納ノロ辞令書（1584年）の原文を直接確認できていないこと
+  - 『おもろさうし』第十七巻の表題の「恩納」が指す範囲（恩納ムラか、より広い地域か）の確定
+  updated: '2026-11-13'
+- id: muni/47-本部町
+  code: '473081'
+  names:
+    ja: 本部町
+    reading: もとぶちょう
+    aliases:
+    - 伊野波間切
+    - 本部間切
+  user_terms:
+  - もとぶ
+  - ムトゥブ（地元の方音）
+  - 海洋博の町
+  - 美ら海水族館のある町
+  - 本部半島の町
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 本部半島の西側を占める町で、町名は琉球王国の行政区画「本部間切」に由来する。もとは今帰仁間切の一部で、1666年に12村を分けて「伊野波間切」が新設され、翌1667年に本部間切と改称された。地元の方音は「ムトゥブ」。1908年に本部村、1940年に町制を施行して本部町となり、1975年には沖縄国際海洋博覧会の会場となった。
+  first_attestation:
+    era: 康熙6年（尚質王20年）
+    year_western: 1667
+    document: 『球陽』
+    note: 伊野波間切から本部間切への改称を記す、間切名としての初出。『日本歴史地名大系』が『球陽』尚質王19〜20年条の記述として紹介している（二次資料経由の確認）
+  claims:
+  - text: 本部町の地方公共団体コードは473081である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町名は琉球王国の行政区画である本部間切に由来し、1908年に本部村となり、1940年12月10日の町制施行で本部町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-motobu-town-intro
+  - text: 本部間切は1666年に今帰仁間切から12村を分けて伊野波間切として新設され、翌1667年に本部間切と改称されたことが、『球陽』の記述として『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-motobu-kotobank-magiri
+    - s6-motobu-town-intro
+  - text: 地元の方音は「ムトゥブ」で、近世の資料では間切名は「むとうぶまぎり」と読まれ、公称の「もとぶ」とは音が異なる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-motobu-kotobank-magiri
+    - s6-kunigami-kotobank-hou
+  - text: 本部間切が分かれる前の今帰仁間切の村の中に「崎本部（さきむとうぶ）村」があり、「ムトゥブ」という地名の要素は間切の成立以前からこの一帯に存在したことが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s6-motobu-kotobank-magiri
+  - text: 「ムトゥブ（本部）」の語源については、今回確認した専門辞典に定説の説明が見当たらず、確定できない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - s6-motobu-kotobank-magiri
+  - text: 1947年に町北部の9字が分離して上本部村となったが、1971年に再び本部町と合併して現在の町域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-motobu-town-intro
+  - text: 1975年、本部町は沖縄国際海洋博覧会の会場となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-motobu-town-intro
+  column:
+    title: 「本部」の前にあった「崎本部」
+    text: 本部間切が生まれる前、この一帯は今帰仁間切の一部だった。その今帰仁間切の村の名簿を『日本歴史地名大系』でたどると、1666年に分かれた12村の中に「崎本部（さきむとうぶ）村」という村がすでにある。つまり「ムトゥブ」という音は、間切の名になる前から、一つの村の名としてこの土地に生きていたらしい。新しい間切は当初「伊野波」と名づけられたが、わずか1年で「本部」に改められた。改称の理由は記録に残っていないが、在地の古い地名が新しい行政区画の名に引き上げられた、と見ることもできるだろう。
+    sources:
+    - s6-motobu-kotobank-magiri
+    - s6-motobu-town-intro
+  relations:
+  - pref/47
+  - muni/47-今帰仁村
+  - muni/47-名護市
+  unknowns:
+  - 「ムトゥブ」の語源は未詳で、半島の付け根にあたる位置に結びつける俗説は専門資料で裏付けが取れなかった
+  - 伊野波（ぬふあ）という当初の間切名の語源は確認できていない
+  - 1947年に分かれた上本部村の村名の命名経緯は確認できていない
+  updated: '2026-11-13'
+- id: muni/47-東村
+  code: '473031'
+  names:
+    ja: 東村
+    reading: ひがしそん
+    aliases: []
+  user_terms:
+  - ひがし
+  - ひがしそん
+  - 花と水とパインの村
+  - つつじの村
+  - 慶佐次湾のヒルギ林のある村
+  naming_type: 新規命名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島北部の東海岸にある村で、1923年に久志村から分村して誕生した比較的新しい村である。村名は、旧久志村の東方に位置することと、太平洋に面して東の空から朝日が昇ることから「日の出るところ東なり」と命名されたと、村の公式資料が伝えている。近世の村域は名護間切、のち久志間切に属していた。
+  first_attestation:
+    era: 大正12年
+    year_western: 1923
+    document: 第5次東村総合計画・基本構想（東村）
+    note: 村名の初出は1923年4月1日の久志村からの分村による命名そのもので、村公式資料の沿革記述による
+  claims:
+  - text: 東村の地方公共団体コードは473031である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 東村は1923年（大正12年）4月1日、久志村（現・名護市の一部）から有銘以東の5字が分村して誕生し、翌1924年に宮城の一部から高江が分かれて現在の6字となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-higashi-vill-plan
+  - text: 村名は、旧久志村の東方に位置していることと、太平洋に面し東の空から赤々と朝日が昇ることから「日の出るところ東なり」と命名されたと言われていると、村の総合計画が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-higashi-vill-plan
+  - text: 近世の村域は当初は名護間切に属し、1673年に名護間切から久志間切が分離・新設されて以後は久志間切に属した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-higashi-vill-plan
+  - text: 『おもろさうし』巻13には「久志の前兼久にて船を建造した」とあり、村の公式資料はその場所を現在の慶佐次か有銘の海岸であったと推測している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-higashi-vill-plan
+  - text: 慶佐次川河口のヒルギ林は1972年に国の天然記念物に指定され、ヒルギは村の木にも選ばれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-higashi-vill-plan
+  - text: 村は「花と水とパインの村」をキャッチフレーズに掲げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s6-higashi-vill-plan-main
+  column:
+    title: 「日の出るところ東なり」
+    text: 「東村」という名は一見すると方角そのままで味気ない。しかし村の公式資料には命名の理由がはっきり残っている。1923年の分村のとき、旧久志村の東方に位置することに加え、太平洋に面したこの村では東の空から赤々と力強く朝日が昇ることから、「日の出るところ東なり」と命名されたと言われる。沖縄本島の東海岸らしい景色を、そのまま村の名に刻んだ命名だった。村民の森のつつじ園や慶佐次のヒルギ林とあわせ、村の自己紹介は今も「花と水とパインの村」である。
+    sources:
+    - s6-higashi-vill-plan
+    - s6-higashi-vill-plan-main
+  relations:
+  - pref/47
+  - muni/47-名護市
+  - muni/47-国頭村
+  - muni/47-大宜味村
+  unknowns:
+  - 1923年の命名が公募によるものか協議によるものかなど、命名過程の一次記録は確認できていない（村公式資料は理由のみを伝える）
+  - 村内の字名（平良・宮城・慶佐次・有銘・高江・川田）の由来は本レコードでは未調査である
+  updated: '2026-11-13'
 - id: muni/47-沖縄市
   code: '472115'
   names:
@@ -564,6 +2534,169 @@ records:
   - 「うらおそい」より前の古名や、浦添ようどれ碑文の正確な年代の直接確認は未了
   - 伊波普猷の解釈以外の語源説の有無は本調査では確認できなかった
   updated: '2026-11-13'
+- id: muni/47-渡名喜村
+  code: '473561'
+  names:
+    ja: 渡名喜村
+    reading: となきそん
+    aliases:
+    - 戸無島
+  user_terms:
+  - 渡名喜島
+  - となき
+  - トゥナチ
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 渡名喜島と無人島の入砂島からなる、面積が沖縄県最小の村。島は那覇と中国福建を往復した進貢船の航路に位置し、航海安全を願う神歌（オモロ）に「となき」の名がみえる。1908年の島嶼町村制により村制が施行された。集落全体が国の重要伝統的建造物群保存地区に選定されている。島名「渡名喜」の語源は未詳である。
+  first_attestation:
+    era: 16世紀
+    year_western: null
+    document: 『おもろさうし』の神歌にみえる「となき」
+    note: 日本歴史地名大系が、進貢船の航海安全を願う神歌（オモロ）に「となき」がみえると紹介する。『おもろさうし』の編纂は1531年から1623年にかけてのため、西暦年は特定しない
+  claims:
+  - text: 渡名喜村の地方公共団体コードは473561である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、渡名喜島は那覇と中国福建を往復した進貢船の航海ルートに位置したため、航海安全を願う神歌（オモロ）に「となき」の名がみえる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tonaki-kotobank
+  - text: 日本歴史地名大系によれば、渡名喜村は渡名喜島を一村とし、属島の入砂島は無人島である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tonaki-kotobank
+  - text: 1908年（明治41年）に島嶼町村制により渡名喜村の村制が施行され、面積は沖縄県の自治体で最小である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s10-tonaki-wiki
+  - text: 渡名喜島は歴史的には「戸無島」と呼ばれたことがある（鹿児島藩による明治3年頃の人口統計による）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s10-tonaki-island-wiki
+  - text: 文化遺産オンラインによれば、渡名喜島の集落は2000年5月25日に重要伝統的建造物群保存地区として選定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-tonaki-bunka
+  - text: 「渡名喜（となき）」という島名の語源は、日本歴史地名大系・村公式資料のいずれにも説明が見当たらず、未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - s10-tonaki-kotobank
+  column:
+    title: 砂州が結んだ二つの島
+    text: 渡名喜島は、もともと北の丘陵と南の山地が別々の島で、長い年月をかけて間に砂が堆積し、一つの島になった。その平坦な砂州の上にできた集落は、白砂の道とフクギの屋敷林、赤瓦の家並みが残り、集落全体が国の重要伝統的建造物群保存地区に選ばれている。地割制度の細長い畑の区画も残り、沖縄の古い島の景観をいまに伝える村である。
+    sources:
+    - s10-tonaki-island-wiki
+    - s10-tonaki-bunka
+  relations:
+  - pref/47
+  - muni/47-粟国村
+  - muni/47-久米島町
+  unknowns:
+  - 島名「渡名喜（となき）」の語源は未詳である
+  - 『おもろさうし』のどの巻の歌に「となき」が現れるかは確認できなかった
+  - 「戸無島」という呼称の由来は確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-渡嘉敷村
+  code: '473537'
+  names:
+    ja: 渡嘉敷村
+    reading: とかしきそん
+    aliases:
+    - 前慶良間
+  user_terms:
+  - 渡嘉敷島
+  - とかしき
+  - 前慶良間
+  - ケラマ
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 慶良間諸島最大の渡嘉敷島を中心とする村。那覇の西約32キロにあり、沖縄本島から見て手前にあたることから「前慶良間」とも呼ばれる。近世は渡嘉敷間切（方音トゥカシチ）で、1908年の島嶼町村制により渡嘉敷村となった。島名「渡嘉敷」の語源は、調査した公的・専門資料に定説が見当たらない。1945年の集団自決は地名の由来とは別の、島の近代史の層である。
+  first_attestation:
+    era: 江戸時代
+    year_western: 1713
+    document: 『琉球国由来記』（1713年成立）の渡嘉敷間切
+    note: 王府の旧記座が各間切から由来記を集めて編んだ地誌に渡嘉敷間切の名と祭祀が記録される。「渡嘉敷」の漢字表記の初出そのものは未確認
+  claims:
+  - text: 渡嘉敷村の地方公共団体コードは473537である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、近世の渡嘉敷は「とうかしち間切」と読まれ、渡嘉敷村・小嶺村・阿波連村を擁し、座間味間切とともに久米方に属した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tokashiki-kotobank
+  - text: 日本歴史地名大系によれば、渡嘉敷集落の方音は「トゥカシチ」で、渡嘉敷間切の行政の中心地であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tokashiki-kotobank
+  - text: 日本歴史地名大系および村公式資料によれば、沖縄本島から見て手前にあたることから、渡嘉敷島一帯は「前慶良間（メーギラマ）」、西方の座間味村の島々は「後慶良間（クシギラマ）」と呼ばれてきた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tokashiki-kotobank
+    - s10-tokashiki-vill
+  - text: 日本歴史地名大系によれば、1903年（明治36年）に小嶺村が渡嘉敷村に統合され、1908年の沖縄県及島嶼町村制により渡嘉敷村が成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tokashiki-kotobank
+  - text: 村公式資料によれば、明治41年（1908年）の地方制度改正で沖縄県島尻郡渡嘉敷村となり、明治42年2月に間切長は村長に改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-tokashiki-vill
+  - text: 1945年（昭和20年）3月27日に米軍が渡嘉敷島に上陸し、住民の集団自決という悲惨な出来事があった。これは島名の由来とは別の、島の近代史の層である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-tokashiki-nipponica
+  - text: 「渡嘉敷」という島名の語源は、村公式資料・日本歴史地名大系のいずれにも説明が見当たらず、未詳である
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - s10-tokashiki-kotobank
+    - s10-tokashiki-vill
+  column:
+    title: 風待ちの港に生きた「海の民」
+    text: 日本歴史地名大系によれば、渡嘉敷島は沖縄島に近く、貢船・冊封船の風待ち港として利用され、各村とも多くの船乗りを輩出してきた。島の西側の集落「渡嘉志久（とかしく）」や南の阿波連は、那覇と中国を結ぶ航路に生きた海の民の拠点だった。島名の語源は残されていないが、「前慶良間」の島々は琉球の対外航海を支えた島として記録に残る。
+    sources:
+    - s10-tokashiki-kotobank
+  relations:
+  - pref/47
+  - muni/47-座間味村
+  unknowns:
+  - 島名「渡嘉敷」の語源は未詳で、方音「トゥカシチ」の原語的な意味も確認できなかった
+  - 「渡嘉敷」の漢字表記が文献に初めて現れる時期は確認できなかった
+  - 集団自決の発生日については、米軍上陸を3月27日とする資料（ニッポニカ）のほか、集団自決自体を3月28日とする説明もあり、日付の細部は本調査では確定していない
+  updated: '2026-11-13'
 - id: muni/47-石垣市
   code: '472077'
   names:
@@ -639,6 +2772,174 @@ records:
   - 「信覚（しがき）」から「石垣」への音変化の過程を示す中世の用例は確認できなかった
   - 「石垣」の漢字が当てられた時期の特定は未了
   - 1947年の市制施行の正確な日付（7月10日）はWikipediaの整理に依拠し、公的資料での直接確認が未了
+  updated: '2026-11-13'
+- id: muni/47-竹富町
+  code: '473812'
+  names:
+    ja: 竹富町
+    reading: たけとみちょう
+    aliases:
+    - 竹富村
+    - 武富
+    - てーどぅん
+  user_terms:
+  - 竹富島の名前の由来
+  - テードゥン
+  - タキドゥン
+  - 町役場が石垣市にある町
+  - 日本最南端の町
+  - 八重山諸島の島々の町
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 町名は竹富島の島名に由来する。竹富島は島の方言（テードゥンムニ）で「テードゥン」、石垣方言で「タキドゥン」と呼ばれ、島名は伝承上の人物タキンドゥン（他金殿）の名に由来すると『竹富町史』は伝える。町は西表島・竹富島・小浜島・黒島・波照間島など9つの有人島からなる日本最南端の町で、町役場は町域外の石垣市に置かれている。1914年に竹富村として発足し、1948年に町制を施行した。
+  first_attestation:
+    era: 元禄10年
+    year_western: 1697
+    document: 元禄国絵図（琉球国八重山島）
+    note: 1697年から作成された国絵図に竹富島が「たけとみ嶋」と記される。島名の初出として記録するもので、Wikipedia「竹富島」が国立公文書館デジタルアーカイブ所蔵の当該絵図を紹介する形で確認した
+  claims:
+  - text: ブリタニカ国際大百科事典は、町名は竹富島の島名に由来し、1948年に町制が施行され、町役場は石垣市美崎町にあるとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s12-taketomi-kotobank
+  - text: 『日本歴史地名大系』によれば、町は竹富島・西表島・外離島・由布島・鳩間島・小浜島・新城島（上地・下地）・黒島・波照間島の有人10島と無人島からなり、日本最南端の有人島をもつ自治体である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s12-taketomi-kotobank
+  - text: 竹富島は島の方言（テードゥンムニ）で「テードゥン」、石垣方言で「タキドゥン」と呼ばれており、Wikipedia「竹富島」はこの読みを角川日本地名大辞典の記載として紹介する。町の八重山語名も「てーどぅん」とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s12-wiki-taketomi-island
+    - s12-wiki-taketomi-town
+  - text: 島名は、沖縄本島から渡来して新里村を開いたと伝わる伝承上の人物タキンドゥン（タガニドゥン、他金殿）の名に由来するとされ、この人物は六山のひとつ花城御嶽に親神として祀られている。Wikipedia「竹富島」は『竹富町史』（2011年）p.38の記載として紹介する
+    kind: legend
+    level: E5
+    status: indeterminate
+    sources:
+    - s12-wiki-taketomi-island
+  - text: Wikipedia「竹富島」によれば、『指南広義』（1708年）と『中山伝信録』（1721年）には竹富島が「達奇度奴」と音写され、『元禄国絵図』には「たけとみ嶋」、新井白石『南島志』（1719年）には「堂計止美島（タケトミ）」と記されており、17世紀末から18世紀初頭には「たけとみ」の呼称が存在したことが分かる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s12-wiki-taketomi-island
+  - text: 漢字表記は古くは「竹富」だったが、1729年に琉球王府が「竹」の字の使用を禁じたため「武富」と表記されるようになり、明治20年代頃から再び「竹富」と表記されるようになったとされる（『竹富町史』の記載としてWikipedia「竹富島」が紹介）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s12-wiki-taketomi-island
+  - text: 1914年（大正3年）4月1日に八重山村が分村し、西表島・竹富島・小浜島・黒島・新城島・鳩間島・波照間島など石垣島周辺の離島を村域として竹富村が発足し、当初は村役場が竹富島に置かれた。1938年（昭和13年）に村役場が石垣島の石垣町へ移転し、1948年（昭和23年）7月1日の町制施行で竹富町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s12-wiki-taketomi-town
+    - s12-wiki-taketomi-island
+  - text: 地方公共団体コードは473812である（総務省「地方公共団体コード一覧」で実測確認）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 役場が町の外にある町
+    text: 竹富町役場は、町の島々ではなく隣の石垣島（石垣市美崎町）にある。1914年の竹富村発足当初は役場も竹富島にあったが、1938年に石垣町へ移り、1948年に町になってからもそのままだ。各島を結ぶ船がすべて石垣港を起点とするため、行政の拠点も石垣に置くほうが都合がよいのである。区域の外に役場を置く町村は、全国でも竹富町と鹿児島県の十島村・三島村だけとされる。町の名の由来となった竹富島自体は、石垣港から高速船で約10分の近さにある。
+    sources:
+    - s12-taketomi-kotobank
+    - s12-wiki-taketomi-town
+    - s12-wiki-taketomi-island
+  relations:
+  - pref/47
+  unknowns:
+  - 島名「タキドゥン／テードゥン」の語源について、『竹富町史』（2011年）の本文を直接確認できておらず、Wikipedia経由の確認にとどまる
+  - 「たけとみ」の呼称の初出は『元禄国絵図』（1697年から作成）の「たけとみ嶋」を暫定的な初出とし、それ以前の用例は未確認
+  - 1524年頃に竹富島出身の西塘が授かったとされる「武富大首里大屋子」の表記と、「竹富／武富」の表記の使い分けの関係は未確認
+  updated: '2026-11-13'
+- id: muni/47-粟国村
+  code: '473553'
+  names:
+    ja: 粟国村
+    reading: あぐにそん
+    aliases:
+    - 粟島
+    - アワグニ
+  user_terms:
+  - 粟国島
+  - あぐに
+  - アグニ
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 粟国島1島で構成される村。島名はかつての主要作物アワ（粟）に由来するとされ、古くは「アワグニ」と呼ばれた。1464年の文書に「亜哇郡尼」と記されるのが古い記録で、「粟島（アワジマ）」の表記を経て、明治6年の当局の答申で「粟国島」の表記が認められ、読みもアグニへと変化した。1908年の島嶼町村制により粟国村となった。
+  first_attestation:
+    era: 室町時代
+    year_western: 1464
+    document: 天順8年（1464年）の文書および鄭姓胡城家譜にみえる「亜哇郡尼（アワグニ）」
+    note: 村公式の粟国アーカイブスが東恩納寛惇『南島風土記』・粟国村誌の記述として紹介するもので、原典は未読のため主張はE2に格下げした
+  claims:
+  - text: 粟国村の地方公共団体コードは473553である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 粟国村公式の粟国アーカイブスは、東恩納寛惇『南島風土記』を引き、粟国は本来「アグニ」で、1464年（天順8年）の文書と鄭姓胡城家譜に「亜哇郡尼（アワグニ）」と記載されていると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-aguni-archive
+  - text: 同アーカイブスによれば、『海島記』や慶長帳では「粟島（アワジマ）」となっていたが、明治6年（1873年）の調査書類に対する当局の答申で「粟国島」の表記が認められ、「アワグニ」「アグニ」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-aguni-archive
+  - text: ブリタニカ国際大百科事典は、粟国村の村名は島名にちなみ、島名はかつての主要作物アワに由来すると説明している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-aguni-kotobank
+  - text: 沖縄県町村会の粟国村紹介でも、島の名前の由来はかつての主要作物「アワ」に由来するとされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s10-aguni-chousonkai
+  - text: 日本歴史地名大系によれば、『おもろさうし』では粟国島は「かき となき」とみえ、「かき」と呼ばれている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s10-aguni-kotobank
+  - text: 1908年（明治41年）4月1日、島嶼町村制の施行により粟国村として村制が施行された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s10-aguni-wiki
+  column:
+    title: アワの島は、古歌謡では「かき」
+    text: 粟国の名はアワ（粟）の産地に由来するとされるが、琉球の古歌謡集『おもろさうし』の世界では、この島は「かき」と呼ばれていた。日本歴史地名大系によれば、おもろに粟国島は「かき となき」とみえるという。進貢船の航路にあたる隣の渡名喜（となき）と並び称された一節で、「粟国」という漢字名が定まるはるか前から、島は歌謡の中に別の名を持っていた。
+    sources:
+    - s10-aguni-kotobank
+  relations:
+  - pref/47
+  - muni/47-渡名喜村
+  - muni/47-久米島町
+  unknowns:
+  - 「アワグニ」から「アグニ」への音の変化がいつ起きたかは確認できなかった
+  - 『おもろさうし』にみえる「かき」の語義は確認できなかった
+  - 1464年の文書の原典は未読で、粟国アーカイブス経由の紹介にとどまる
   updated: '2026-11-13'
 - id: muni/47-糸満市
   code: '472107'
@@ -725,6 +3026,188 @@ records:
   - 語源の諸説はいずれもWikipedia経由で糸満市史・糸満町史の記述として紹介されたもので、市史そのものは未確認である
   - 「糸を巻く」「糸を引く」といった漁の糸そのものに結びつける語源説は、井戸掘りの蟹の伝承以外には確認できなかった
   - 『おもろさうし』など近世以前の古い史料における「いとまむ」の用例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-西原町
+  code: '473294'
+  names:
+    ja: 西原町
+    reading: にしはらちょう
+    aliases:
+    - 西原
+    - にしばる（沖縄語の現地読み）
+  user_terms:
+  - 西原 なぜ西なのに北
+  - 琉球大学のある町
+  - にしはら 読み方 沖縄 方言
+  naming_type: その他（首里から見た方位を示す王国の間切名「西原間切」を継承し、1979年に町制を施行した）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島南部、首里の北に広がる町。町名は王国時代の間切名「西原間切」に由来する。沖縄語で「ニシ」は北を意味し、「西原」は漢字の字面に反して「首里の北の原」を指す地名である。真和志・南風原とともに王府直轄の「首里三平等」の一つだった。間切時代の領域は津堅島から泊・天久まで及んだが、首里・那覇への編入で縮小した。1908年に西原村となり、1979年4月1日に西原町となり、同年に琉球大学が首里から移転した。
+  first_attestation:
+    era: 寛永12年
+    year_western: 1635
+    document: 『琉球国高究帳』
+    note: 17世紀初めの『琉球国高究帳』に西原間切が見えるという二次資料の紹介によるもので、間切の範囲が記される古い記録の一つ。
+  claims:
+  - text: 町名は王国時代の間切名「西原間切」を継承する。1908年（明治41年）に17か村をもって西原村が成立し、1979年（昭和54年）4月1日に町制を施行して西原町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-bunka-koso
+    - s9-nishihara-fukki50
+  - text: 町公式の記念誌は「西原の名称は、首里御城の北（ニシ）にある地域という意で、南の南風原に対する名称である」と説明する。沖縄語のニシは、標準語の「西」ではなく「北」を意味する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-fukki50
+  - text: 町公式の歴史文化基本構想も「西原の名称は首里の北（方言でニシ）にある地方に由来している」とし、間切時代の西原は首里王府の直轄領で、領域は北は津堅島、西は石嶺・末吉・天久・泊まで及ぶ大きな行政圏だったと記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-bunka-koso
+  - text: 西原は真和志間切・南風原間切とともに「首里三平等（しゅりみひら）」と呼ばれた首里王府の直轄領の一つだった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-fukki50
+  - text: 明治末から大正期にかけて石嶺・末吉などが首里区（現・那覇市）へ編入され、1920年にはほぼ現在の町の領域になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-bunka-koso
+  - text: 沖縄語で西原は「ニシハラ（ニシバル）」と読まれ、読みの上でも「ニシ＝北」の地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-nishihara-wiki
+  - text: 一方、沖縄語で方位の「西」は「イリ」といい、「西原」を「イリバル」と読む地名はうるま市西原など他所にある。西原町の「ニシハラ」とは、読みも成り立ちも異なる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-nishihara-disambig
+  - text: 西原は王府時代には稲作地帯として知られ、1906年に政府の糖業改良事務局が我謝に置かれると、糖業が町の主要産業となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s9-nishihara-fukki50
+  - text: 1979年、琉球大学が那覇市首里から町内へ移転し、町は教育・文教のまちとして発展した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s9-nishihara-wiki
+  - text: 自治体コードは473294である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「西」と書いて「北」と読む町
+    text: 西原町の漢字は、地図上の方角と反対の意味を持っている。沖縄語では北を「ニシ」、西を「イリ」、東を「アガリ」、南を「フェー（ハエ）」という。首里城から見て北に広がる原野だったこの地は「ニシの原＝ニシバル」と呼ばれ、それに「西原」の字が当てられた。だから西原町は、本土の感覚で読むと方位が逆転する地名である。しかも間切時代の西原は、津堅島から泊・天久・石嶺・末吉までを抱える王府直轄の大きな領域で、今の那覇市の市街地の一部までが「西原」だった。城下の変遷とともに領域を縮めながら、「北の原」という意味だけは名前の中に残り続けている。
+    sources:
+    - s9-nishihara-bunka-koso
+    - s9-nishihara-fukki50
+  relations:
+  - pref/47
+  - muni/47-南風原町
+  - muni/43-西原村
+  unknowns:
+  - 西原間切の成立年代と、「ニシバル」という呼称が文献に現れる正確な初出
+  - 「西原」に「西」の字が当てられた経緯（当て字を決めた主体や時期）の記録
+  updated: '2026-11-13'
+- id: muni/47-読谷村
+  code: '473243'
+  names:
+    ja: 読谷村
+    reading: よみたんそん
+    aliases:
+    - 読谷山
+    - ゆんたんざん
+  user_terms:
+  - 日本一人口の多い村
+  - よみたんの由来
+  - 読谷山とは
+  - ゆんたんってどういう意味
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: もとの名は読谷山（ゆんたんざん）。『おもろさうし』には「よんたむさ」「よんたもさ」と記され、袋中上人の『琉球往来』は「四方田狭」の宛字を当てたと伝わる。1908年に読谷山村となり、1946年に読谷村へ改称した。2014年に岩手県滝沢村が市制を施行したことで、日本一人口の多い村となった。
+  first_attestation:
+    era: 16〜17世紀（琉球王国時代）
+    year_western: null
+    document: おもろさうし
+    note: 読谷山は「よんたむさ」「よんたもさ」と記される（読谷村史編集室の紹介による）。『おもろさうし』の成立は1531年から1623年にかけて
+  claims:
+  - text: もとは沖縄語でこの地域を「ゆんたんざ（読谷山）」と呼び、現在の村の沖縄語名は「ゆんたんじゃ（/juntandʒa/）」「ゆんだんざ（/juntandza/）」である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-yomitan-wiki
+  - text: 読谷村史編集室によれば、『おもろさうし』では読谷山は「よんたむさ」「よんたもさ」と記され、ほかに地理に由来する中山地域の遠い北方を意味する「大北」とも呼ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-yomitan-sonsi
+  - text: 袋中上人が著した『琉球往来』の中で読谷山は「狭間に広がる田」すなわち「四方田狭」と宛てられており、これが地名由来を考えるヒントになると読谷村史編集室は紹介する
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - s8-yomitan-sonsi
+  - text: 1673年（寛文13年）に恩納間切が創設された際、読谷山間切の主邑だった古読谷山（山田の古名）が恩納間切へ編入されたため、読谷村には間切名と同名の字（字読谷）が存在しない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-yomitan-sonsi
+  - text: 1908年（明治41年）に読谷山間切が読谷山村に改称され、1946年（昭和21年）12月に村名が「読谷村」に変更された（読谷村公式の沿革）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-yomitan-official
+  - text: 1442年頃、読谷山按司・護佐丸が座喜味城を築城したと、読谷村公式の沿革は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s8-yomitan-official
+  - text: 2014年（平成26年）1月1日に岩手県岩手郡滝沢村が市制を施行したことにより、読谷村が日本国内で人口最大の村となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-yomitan-wiki
+  - text: 地方公共団体コードは473243である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s8-yomitan-wiki
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読谷村に「字読谷」がない理由
+    text: 多くの間切には、間切名を冠した同名の字（同村）があった。北谷には字北谷があり、宜野湾には字宜野湾がある。ところが読谷村には字読谷がない。読谷村史編集室の説明によれば、1673年に国頭方恩納間切が創設された折、読谷山間切の主邑だった古読谷山（現在の恩納村山田の古名）を含む8か村が恩納間切へ編入されてしまったためだという。村の中心だった集落と、その名の本体が、現在の村域の外に出てしまった珍しい例である。残った村は1946年に「読谷山」から「読谷」へ名を短くし、日本一人口の多い村になった今も、その名を名乗り続けている。
+    sources:
+    - s8-yomitan-sonsi
+  relations:
+  - pref/47
+  - muni/47-恩納村
+  - muni/47-嘉手納町
+  unknowns:
+  - 「ゆんたん（読谷）」の語源の決定的な説明は本調査では確認できなかった（『琉球往来』の「四方田狭」の宛字がヒントとされるにとどまる）
+  - 『おもろさうし』における「よんたむさ」の正確な巻・おもろ番号は未確認
   updated: '2026-11-13'
 - id: muni/47-豊見城市
   code: '472123'
@@ -893,6 +3376,92 @@ records:
   - 漢字表記「那覇」の厳密な初出は本調査では特定できなかった（確認できる古い用例は『海東諸国紀』の「那波」である）
   - 『琉球国由来記』の怪石伝承は、茸の形の石そのものが戦前に那覇の東町にあったとする伝えもあるが、史実としての検証はできないため伝承として扱う
   updated: '2026-11-13'
+- id: muni/47-金武町
+  code: '473146'
+  names:
+    ja: 金武町
+    reading: きんちょう
+    aliases:
+    - 金武間切
+    - 金武村
+  user_terms:
+  - きん
+  - チン
+  - タコライスの町
+  - キャンプハンセンの町
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島中央部の東海岸、国頭郡の町。「金武」の地名がいつ発生したのかは定かではないが、1501年の玉陵碑文に「きんのあんし（金武の按司）」とあり、この頃には金武間切が置かれていたと考えられている。中世から近世の金武間切は現在の恩納村・宜野座村・名護市の一部を含む広大な領域だった。伝統的な読みは方言の「ちん」で、公式読みの「きん」とは層が異なる。1908年に金武村、1980年に金武町となった。
+  first_attestation:
+    era: 明応10年
+    year_western: 1501
+    document: 玉陵碑文
+    note: 金武町公式の指定文化財資料が、玉陵碑文（1501年）に尚真王第六男の尚享仁が「きんのあんし」と記されることを紹介するもの。原碑文を直接確認していないため、主張側ではE2として扱う
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、金武町の団体コードは473146とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「金武」の地名がいつ発生したのかは定かではないと、金武町公式の指定文化財資料は明記している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - s7-kin-bunkazai
+  - text: 玉陵碑文（1501年）に尚真王第六男の尚享仁が「きんのあんし（金武の按司）」と記されており、この時点で金武間切が創設されていたと考えられていると、金武町公式の指定文化財資料は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-kin-bunkazai
+  - text: 『おもろさうし』巻一七の一に「きんのよのぬし（金武の世の主）」の名がみえ、彼が支配していた領域が金武間切となったと推測されると、『日本歴史地名大系』は記している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s7-kin-kotobank-taikei
+  - text: 金武間切の伝統的な読みは「ちん」で、方言でも金武は「ちん」と呼ばれており、現在の公式読み「きん」とは異なる読みの層がある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s7-kin-kotobank-taikei
+  - text: 中世の金武間切は国頭方の五箇間切の一つで、現在の恩納村から宜野座村、名護市の久志・辺野古を含む広大な領域にまたがっていたと、金武町の総合計画は記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-kin-sougoukeikaku
+  - text: 1673年（尚貞5年）に金武間切の中から恩納・瀬良垣・安富祖・名嘉真の四村を割いて恩納間切が創設され、金武間切は屋嘉・伊芸・金武・漢那・惣慶・宜野座・古知屋の七箇字の範囲となったと、金武町の総合計画は記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s7-kin-sougoukeikaku
+  - text: 廃藩置県を経て金武間切は金武村となり、復帰後の1980年に町制を施行して金武町が誕生したと、金武町観光協会は紹介している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s7-kin-kankou
+  column:
+    title: 「きん」と読むか「ちん」と読むか
+    text: 金武の伝統的な読みは「ちん」で、間切も「ちんまぎり」と呼ばれてきた。公式読みの「きん」は近代以降の漢字音によるもので、同じ漢字に二つの読みの層が重なっている。南北に広がっていた頃の金武間切の威勢は、琉歌「仲間節」に「仲間からかいとて、久志辺野古までも金武の御前がなし」と歌われた。なお金武湾はペリーの「日本遠征記」にバロー湾（BARROW BAY）と記されている。
+    sources:
+    - s7-kin-kotobank-taikei
+    - s7-kin-sougoukeikaku
+  relations:
+  - pref/47
+  - muni/47-宜野座村
+  - muni/47-恩納村
+  unknowns:
+  - 「金武」の語源と地名の発生時期（町公式資料も定かではないとする）
+  - 玉陵碑文の原文を直接確認できていないこと
+  - 公式読みが「ちん」から「きん」に定まった時期と経緯
+  updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
     label: 総務省「地方公共団体コード一覧」
@@ -961,6 +3530,132 @@ sources:
   l6-urasoe-profile:
     label: 浦添市「浦添市のプロフィール」（「てだこの都市・浦添」の都市像と、英祖王の母が太陽の夢を見たという「てだこ」の伝承）
     url: https://www.city.urasoe.lg.jp/doc/609e7a393d59ae2434bfe6ef
+  s10-aguni-archive:
+    label: 粟国アーカイブス（粟国村公式）「粟国の名称の語源」（東恩納寛惇著『南島風土記』を引き、粟国は本来はアグニであること、1464年〈天順8年〉の文書および鄭姓胡城家譜にはともに「亜哇郡尼（アワグニ）」と記載されていること、『海島記』および慶長帳には「粟島（アワジマ）」となっていること、明治6年に駅逓寮地銘掛への調査書類に対する当局の答申で「粟国島」の表記が認められ「アワグニ」「アグニ」となったこと。参考文献として粟国村誌を挙げる）
+    url: http://www.aguni-archive.jp/search/detail.jsp?id__=2346
+  s10-aguni-chousonkai:
+    label: 沖縄県町村会「粟国村」（粟国島1島で構成される村であること、島の名前の由来はかつての主要作物“アワ”に由来していること）
+    url: https://www.okichouson.gr.jp/wp/wp-content/uploads/2022/08/4940721e967a2f7dff267d4c30f131bb.pdf
+  s10-aguni-kotobank:
+    label: コトバンク 日本歴史地名大系「粟国村」・ブリタニカ国際大百科事典「粟国村」（『おもろさうし』では粟国島は「かき となき」とみえ、「かき」と呼ばれていること、村名は島名にちなみ、島名はかつての主要作物アワに由来すること）
+    url: https://kotobank.jp/word/%E7%B2%9F%E5%9B%BD%E6%9D%91-24747
+  s10-aguni-wiki:
+    label: Wikipedia「粟国村」（1908年〈明治41年〉4月1日に島嶼町村制の施行により粟国村として村制が施行されたこと）
+    url: https://ja.wikipedia.org/wiki/%E7%B2%9F%E5%9B%BD%E6%9D%91
+  s10-kume-kanko-guide:
+    label: 久米島町観光協会「はじめての久米島たび」（古来、琉球列島の中でもっとも美しい島であることから、久米島は「球美の島」とも呼ばれてきたこと）
+    url: https://www.kanko-kumejima.com/guide
+  s10-kume-kotobank:
+    label: コトバンク 日本歴史地名大系「久米島」・精選版日本国語大辞典「久米島」（島の方音はクミジマであること、古名は球美・玖美であること）
+    url: https://kotobank.jp/word/%E4%B9%85%E7%B1%B3%E5%B3%B6-56066
+  s10-kume-okimu:
+    label: 沖縄県立博物館・美術館「久米島総合調査報告書」（久米島が日本の史書に登場するのは『続日本紀』和銅7年〈714年〉の記事で、奄美・信覚・球美等の人々が来朝したこと、近世の久米島は仲里間切と具志川間切の二間切からなり「久米の二間切」と呼ばれたこと、仲里間切はもと中城間切と称したが王子領との関係で名称の使用が制限され現在の名称になったと伝えられること、中国側の記録が島の山なみを亀の姿に見立てたことを伊波普猷が久米島にあてる説を唱えたこと、おもろの詩人が島を「ふたまた」と呼んだことを紹介）
+    url: https://okimu.jp/sp/userfiles/files/page/museum/issue/report/kumejima1.pdf
+  s10-kume-wiki:
+    label: Wikipedia「久米島町」（『続日本紀』714年に来朝した「球美」人が久米島のこととされ、球美＝クミは琉球方言で「米」を意味し米所の久米島を指すと考えられる、とする解釈）
+    url: https://ja.wikipedia.org/wiki/%E4%B9%85%E7%B1%B3%E5%B3%B6%E7%94%BA
+  s10-kumejima-kotobank:
+    label: コトバンク 日本歴史地名大系「久米島町」・ブリタニカ国際大百科事典「久米島町」（2002年4月に具志川村と仲里村が合併し、町制を施行して久米島町となったこと、町域には奥武島・オーハ島・鳥島・硫黄鳥島が含まれ、硫黄鳥島は沖縄県の最北端にある活火山の島であること）
+    url: https://kotobank.jp/word/%E4%B9%85%E7%B1%B3%E5%B3%B6%E7%94%BA-176334
+  s10-tokashiki-kotobank:
+    label: コトバンク 日本歴史地名大系「渡嘉敷村」（近世は慶良間島渡嘉敷〈とうかしち〉間切として渡嘉敷村・小嶺村・阿波連村を擁し、座間味間切とともに久米方に属したこと、沖縄島からみて手前にあたることから前慶良間〈メーギラマ〉ともいわれること、渡嘉敷集落の方音はトゥカシチであること、1903年に小嶺村が渡嘉敷村に統合され、1908年の沖縄県及島嶼町村制により渡嘉敷村が成立したこと、貢船・冊封船の風待ち港として利用され多くの船乗りを輩出したこと）
+    url: https://kotobank.jp/word/%E6%B8%A1%E5%98%89%E6%95%B7%E6%9D%91-104545
+  s10-tokashiki-nipponica:
+    label: コトバンク 日本大百科全書（ニッポニカ）「渡嘉敷」（1945年〈昭和20年〉3月27日にアメリカ軍が上陸し、住民の集団自決という悲惨な歴史をもつこと）
+    url: https://kotobank.jp/word/%E6%B8%A1%E5%98%89%E6%95%B7-1568548
+  s10-tokashiki-vill:
+    label: 渡嘉敷村公式資料「基本的な事項」（明治41年の地方制度改正で沖縄県島尻郡渡嘉敷村となり、明治42年2月に間切長は村長に改称されたこと、前島は相次ぐ大型台風の被害などから昭和37年12月までに全島民が沖縄本島へ引き上げ無人島となったこと、本村と座間味村の島々を含めて慶良間諸島を形成し渡嘉敷島一帯を「前慶良間」、座間味村の島々を「後慶良間」と呼んできたこと）
+    url: https://www.vill.tokashiki.okinawa.jp/material/files/group/2/a00f3f00c2bad728ee423ff2bee3599e.pdf
+  s10-tonaki-bunka:
+    label: 文化遺産オンライン「渡名喜村渡名喜島」（渡名喜島の集落が重要伝統的建造物群保存地区として2000年5月25日に選定されたこと）
+    url: http://bunka.nii.ac.jp/heritages/detail/177602
+  s10-tonaki-island-wiki:
+    label: Wikipedia「渡名喜島」（もともと西森がある北部と大岳がある南部は別々の島だったが、長い年月を経て間に砂が堆積し現在のような一つの島になったこと、歴史的には「戸無島」と呼ばれたことがある〈鹿児島藩による明治3年頃の人口統計による〉こと）
+    url: https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%90%8D%E5%96%9C%E5%B3%B6
+  s10-tonaki-kotobank:
+    label: コトバンク 日本歴史地名大系「渡名喜村」（渡名喜島を一村とし属島の入砂島は無人であること、那覇と中国福建を往復した進貢船の航海ルートに位置したため、航海安全を願う神歌〈オモロ〉に「となき」がみえること）
+    url: https://kotobank.jp/word/%E6%B8%A1%E5%90%8D%E5%96%9C%E6%9D%91-105489
+  s10-tonaki-wiki:
+    label: Wikipedia「渡名喜村」（1908年〈明治41年〉に島嶼町村制により村制が施行されたこと、面積は沖縄県の自治体で最小であること）
+    url: https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%90%8D%E5%96%9C%E6%9D%91
+  s10-zamami-kotobank:
+    label: コトバンク 日本歴史地名大系「座間味村」（近世は座間味〈じやまん〉間切が渡嘉敷間切とともに慶良間島を構成し久米方に属したこと、沖縄島から見て渡嘉敷島の後ろにあることから後慶良間〈クシギラマ〉ともいわれること、座間味集落の方音はジャマンであること、1908年の沖縄県及島嶼町村制施行により座間味村が成立し、それまでの座間味・阿佐・阿真・阿嘉・慶留間の諸村が字となったこと、1901年に創業した鰹漁業が成功をおさめケラマ節は村財政を潤したこと）
+    url: https://kotobank.jp/word/%E5%BA%A7%E9%96%93%E5%91%B3%E6%9D%91-69735
+  s10-zamami-nipponica:
+    label: コトバンク 日本大百科全書（ニッポニカ）「座間味」（方音ジャマン、1945年〈昭和20年〉3月26日に米軍の沖縄最初の上陸地点となり村民402人が集団自決したこと、2014年に慶良間諸島国立公園に指定されたこと）
+    url: https://kotobank.jp/word/%E5%BA%A7%E9%96%93%E5%91%B3-1541143
+  s10-zamami-vill:
+    label: 座間味村公式サイト「村の概要」（座間味島・阿嘉島・慶留間島の3つの有人島からなる離島村であること、那覇市から西へ約40キロの慶良間諸島の西半分を占めること）
+    url: https://www.vill.zamami.okinawa.jp/sonsei/intro/overview
+  s11-cinii-nutabaru:
+    label: CiNii Research「沖縄・多良間島の土原豊見親伝説」（16世紀に実在したとされる土原豊見親春源について、島を統一したとされる伝説が多良間島に濃密に伝承されていること）
+    url: https://cir.nii.ac.jp/crid/1390291767537160320?lang=en
+  s11-geoshape-minamidaito:
+    label: 歴史的行政区域データセットβ版（国立情報学研究所）「沖縄県島尻郡南大東村」（南大東村の有効期間は1946年6月12日からとされること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/47357A1968.html
+  s11-gsj-tarama:
+    label: 地質調査所『地質ニュース』矢崎清貫「大津波でできた多良間島」（「たらま」という名称は古くから使われていたと思われるがその起源ははっきりしないこと、李朝実録の記録では「他羅馬」、その後「多羅馬」を経て「多良間」となったという表記の変遷）
+    url: https://www.gsj.jp/data/chishitsunews/76_03_05.pdf
+  s11-jfe-minamidaito:
+    label: 立命館大学研究報告「〈孤島―都市〉としての南大東島」（21世紀文化学術財団。玉置半右衛門が1899年に開墾の許可を得て、1900年1月23日に開拓者23名が南大東島に上陸したこと、製糖業のモノカルチャー経済と会社の経営による島の支配の様相）
+    url: https://www.jfe-21st-cf.or.jp/furtherance/pdf_hokoku/2021/a05.pdf
+  s11-jlogos-kadokawa-okidaito:
+    label: 『角川日本地名大辞典』「沖大東島」（JLogos。大東諸島は沖縄本島東方海上に位置することからウフアガリ島（方言で東の大きな島の意）と呼ばれ、それに「大東」という漢字をあてたものとする『島尻郡誌』の説、沖大東島は北大東村に属し1島で字ラサを構成すること）
+    url: https://jlogos.com/ausp/word.html?id=7240100
+  s11-kitadaito-landscape-report:
+    label: 「北大東島の燐鉱山由来の文化的景観」調査報告書（1885年に国標が建てられ南・北大東島が日本の領土に組み入れられたこと、1900年に玉置半右衛門の開拓団が南大東島に上陸したこと、北大東島には1903年にサトウキビ8株を植え付けて開拓の意思を示したこと、玉置商会は1908年に北大東島で燐鉱採掘に着手したが1911年に撤退し、東洋製糖が1918年に再着手して1919年に本格化したこと）
+    url: https://uracdesign.com/wp-content/uploads/2023/01/d10d3485aaf2c5b8b2a61439edb9e0b4.pdf
+  s11-kitadaito-official-history:
+    label: 北大東村公式サイト「北大東島（大東諸島）のうつりかわり」（村公式の島史年表。1946年6月12日に「沖縄民政府告示第4号の1」により村制が始まり北大東村が誕生したこと、1903年に玉置商会が北大東島へ社員を派遣し甘蔗8株を植え付けて開墾の意思表示をしたこと、1908年に玉置半右衛門が北大東島燐鉱採掘の計画に着手したこと）
+    url: https://vill.kitadaito.okinawa.jp/_files/00000833/kdaito_history.pdf
+  s11-kotobank-daito-taikei:
+    label: コトバンク『日本歴史地名大系』「大東諸島」（琉球王国時代からウフアガリジマ（大東島）と呼ばれ南北大東島の二島を指していたこと、1885年に南北大東島に国標「沖縄県所轄」を建てて日本領土に編入したこと、1820年にロシア艦ボロジノのポナフィディンが視認して命名したこと、ブリタニカ国際大百科事典の解説では1946年に村制が施行され南大東村・北大東村が発足したとすること）
+    url: https://kotobank.jp/word/%E5%A4%A7%E6%9D%B1%E8%AB%B8%E5%B3%B6-91685
+  s11-kotobank-minna-taikei:
+    label: コトバンク『日本歴史地名大系』「水納村」（『中山伝信録』では「面那」、『中山世譜』では「面那（俗叫水納）」とあること、慶長16年（1611年）の『南聘紀考』に「水那島」とあること、正保国絵図に「みつな嶋 人居有」とみえること）
+    url: https://kotobank.jp/word/%E6%B0%B4%E7%B4%8D%E6%9D%91-3108124
+  s11-kotobank-tarama-taikei:
+    label: コトバンク『日本歴史地名大系』「多良間村」（近世には宮古三間切のいずれにも属さない特別行政区であったこと、1908年の島嶼町村制施行により仲筋・塩川・水納の三村がそれぞれ字となり平良村に属したこと、1913年2月14日に三字が平良村から分離して多良間村が誕生したこと）
+    url: https://kotobank.jp/word/%E5%A4%9A%E8%89%AF%E9%96%93%E6%9D%91-94547
+  s11-kotobank-taramajima-taikei:
+    label: コトバンク『日本歴史地名大系』「多良間島」（『李朝実録』成宗10年（1479年）五月辛未条に「脱羅麻島」とあること、『中山伝信録』では「達喇奇麻」、『中山世譜』では「達喇麻（俗叫多良間）」、『寰瀛水路誌』では「多羅満島」と記されること）
+    url: https://kotobank.jp/word/%E5%A4%9A%E8%89%AF%E9%96%93%E5%B3%B6-94548
+  s11-minamidaito-official-intro:
+    label: 南大東村公式サイト「島の紹介」（大東島という名前は、沖縄の古人が、遙か東の海の彼方にある島という意味の島言葉「ウフアガリジマ」からきていると言われること）
+    url: http://www.vill.minamidaito.okinawa.jp/introduce.html
+  s11-tarama-official-nenpyo:
+    label: 多良間村公式サイト「多良間村歴史年表」（1479年に朝鮮の李朝実録に多良間島がはじめて史書にあらわれるとすること、1628年に多良間が特別行政区と定められたが『宮古史伝』には下地間切に属したとあること、1913年に平良村から分村して多良間村になったこと。資料は多良間村史・村の歴史散歩）
+    url: http://www.vill.tarama.okinawa.jp/about/rekishi_bunka/nenpyou
+  s11-wiki-minamidaito:
+    label: Wikipedia「南大東村」（村制施行前は5つの集落に分かれ、1966年に行政区が字となったこと、1964年に玉置半右衛門が入植者と交わした約束に基づき島内の耕作地が島民の所有であることが最終的に確認されたこと）
+    url: http://ja.wikipedia.org/wiki/%E5%8D%97%E5%A4%A7%E6%9D%B1%E6%9D%91
+  s12-jmic-cosmology:
+    label: Ankei Yujiほか「An Illustrated Cosmology of Yonaguni Island, Ryukyus」Journal of Marine and Island Cultures 12(3)
+    url: https://jmic.online/issues/v12n3/6/
+  s12-jmic-drifters:
+    label: Ankei Yujiほか「The Fuganutu Tradition Connecting Remote Islands（15世紀の済州島漂流者に関する与那国島の口承と『李朝実録』の対応）」Journal of Marine and Island Cultures 15(1)
+    url: https://jmic.online/issues/v15n1/5/
+  s12-okimu-tomishima:
+    label: 富島壯英「『ドゥナン』（与那国）語源考」沖縄県立博物館『県立博物館総合調査報告書 6 与那国島』（1989年）pp.15-24
+    url: https://okimu.jp/userfiles/files/page/museum/issue/report/6-3.pdf
+  s12-taketomi-kotobank:
+    label: コトバンク「竹富町」（平凡社『日本歴史地名大系』・ブリタニカ国際大百科事典 小項目事典）
+    url: http://kotobank.jp/word/%E7%AB%B9%E5%AF%8C%E7%94%BA-93078
+  s12-wiki-taketomi-island:
+    label: Wikipedia「竹富島」
+    url: https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E5%B3%B6
+  s12-wiki-taketomi-town:
+    label: Wikipedia「竹富町」
+    url: https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+  s12-wiki-yonaguni-island:
+    label: Wikipedia「与那国島」
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B3%B6
+  s12-wiki-yonaguni-town:
+    label: Wikipedia「与那国町」
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%9B%BD%E7%94%BA
+  s12-yonaguni-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」与那国町（47382A1968）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/47382A1968.html
   s5-ginowan-about:
     label: 宜野湾市公式観光サイト「ぎのわんについて」（古謡「おもろそうし」に表された「ねたて」は「物事の根元」「共同体の中心」を意味し、市の合言葉「ねたての都市ぎのわん」の由来とする市公式解説）
     url: https://www.city.ginowan.lg.jp/sightseeing/about_ginowan/index.html
@@ -1051,3 +3746,201 @@ sources:
   s5-uruma-yoran:
     label: うるま市『市勢要覧2015』（新市名は全国公募5,233件・2,457種類から名称検討委員会が12種類に絞り合併協議会で決定した経緯と、「うるま」という語の歴史を紹介）
     url: https://www.city.uruma.lg.jp/documents/998/05urumanomirai_1.pdf
+  s6-higashi-vill-plan:
+    label: 東村「第5次東村総合計画・基本構想 第1章 東村の概要」（村域は近世当初は名護間切、1673年からは久志間切に属したこと、『おもろさうし』巻13に「久志の前兼久にて船を建造した」とあり現在の慶佐次か有銘の海岸と推測されること、1923年4月1日に久志村から分村して東村が誕生し翌年に高江が分かれて6字となったこと、村名は旧久志村の東方に位置することと太平洋から朝日が昇ることから「日の出るところ東なり」と命名されたと言われること、慶佐次川河口のヒルギ林が1972年に国の天然記念物に指定され村の木もヒルギであること）
+    url: https://www.vill.higashi.okinawa.jp/material/files/group/3/72403967.pdf
+  s6-higashi-vill-plan-main:
+    label: 東村「第5次東村総合計画」（平成28年3月。村のキャッチフレーズを「花と水とパインの村」とすること）
+    url: https://www.vill.higashi.okinawa.jp/material/files/group/3/38141953.pdf
+  s6-kunigami-kotobank-hou:
+    label: コトバンク「国頭方」（『日本歴史地名大系』は、1660年に四代官制の一つとして国頭方代官が設置されたこと、国頭方は恩納・名護・本部・今帰仁・羽地・大宜見・国頭・金武・久志の九間切と伊江島・伊平屋島を管轄したこと、その際の読みとして国頭を「くんじやん」、大宜見を「いぎみ」、本部を「むとうぶ」、今帰仁を「なちじん」と記す）
+    url: https://kotobank.jp/word/%E5%9B%BD%E9%A0%AD%E6%96%B9-3107823
+  s6-kunigami-kotobank-sekai:
+    label: コトバンク「国頭」（改訂新版『世界大百科事典』は、「国頭」はもともと最北端の国頭村の地名で、1896年の郡制施行で恩納村・金武村から北方の地域を国頭郡としたこと、沖縄島の頭部にあたるので国頭（国上）と呼称したこと、『おもろさうし』では「かみ」と呼び『明史』などの古文書の「くにかみ」が文献上の初見であること、『沖縄県国頭郡志』によればクニカミからクンヂャンへの音の転訛があったとする。『日本大百科全書』は方音クンジャン、「国の上という意味」とする）
+    url: https://kotobank.jp/word/%E5%9B%BD%E9%A0%AD-55704
+  s6-kunigami-vill-plan:
+    label: 国頭村「国頭村過疎地域持続的発展計画（令和3年度〜令和7年度）」（明治5年の記録で村は16集落からなっていたこと、大正3年に役場を奥間から辺土名へ移したこと、昭和20年9月1日に国頭村・大宜味村・東村の三村が統合して辺土名市が誕生し昭和21年1月に三村へ分離したこと、令和3年7月に世界自然遺産へ登録されたこと）
+    url: https://www.vill.kunigami.okinawa.jp/kunigami-village/wp-content/uploads/2022/01/ee8f2a056e990107a971681f7df483a1.pdf
+  s6-kunigami-wiki:
+    label: Wikipedia「国頭村」（1673年に国頭間切から田港間切〈後の大宜味間切〉が分立したこと、1908年4月1日の島嶼町村制により国頭間切が国頭村となったこと、地元の方音は「くんじゃん」であること）
+    url: https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%A0%AD%E6%9D%91
+  s6-motobu-kotobank-magiri:
+    label: コトバンク「本部間切」（『日本歴史地名大系』は、本部間切は国頭方九間切の一つで方音はムトゥブであること、尚質王19年〈1666年〉に今帰仁間切から分離して当初は伊野波〈ぬふあ〉間切と称し翌年に本部間切と改称したこと、『球陽』によれば今帰仁の30余邑のうち12邑を分けて伊野波郡としたこと、分かれた12村の中に崎本部〈さきむとうぶ〉村が含まれていたこと）
+    url: https://kotobank.jp/word/%E6%9C%AC%E9%83%A8%E9%96%93%E5%88%87-3107955
+  s6-motobu-town-intro:
+    label: 本部町公式サイト「本部町の紹介」（三山時代は本部半島の大半が今帰仁間切に属していたこと、1666年に伊野波間切が新設され翌年に本部間切へ改称されて現在の本部町の基礎となったこと、明治41年の町村制施行で本部村となり昭和15年12月10日に町制を施行して本部町が誕生したこと、昭和22年に北部9字が分離して上本部村となり昭和46年に再び合併したこと、昭和50年に沖縄国際海洋博覧会の会場となったこと）
+    url: http://www.town.motobu.okinawa.jp/doc/2023110100024
+  s6-nakijin-kotobank-magiri:
+    label: コトバンク「今帰仁間切」（『日本歴史地名大系』は、1471年の『海東諸国紀』が今帰仁グスクを「伊麻奇時利城」と記しイマキジリと発音されたと思われること、語義に定説はなく新来者〈イマキ＝渡来者〉説や魚来住〈ナキズミ＝魚の寄付く場所〉説があること、のち「みやきせん」と呼ばれ『おもろさうし』巻13や1501年の玉陵の玉御殿碑文に見えること、1666年まで伊野波間切〈のちの本部間切〉を含んでいたこと）
+    url: https://kotobank.jp/word/%E4%BB%8A%E5%B8%B0%E4%BB%81%E9%96%93%E5%88%87-3107935
+  s6-nakijin-vill-bousai:
+    label: 今帰仁村「今帰仁村地域防災計画」（村公式の沿革として、古くはオモロや辞令書で「みやきせん」とうたわれ『海東諸国紀』〈1471年〉には「伊麻寄時利」と記され近世になって「今帰仁」と表記されるようになったこと、1666年に今帰仁間切が今帰仁と伊野波〈本部〉の2間切に分かれたこと、1908年の特別町村制施行により今帰仁村となったこと、今帰仁城跡が2000年に世界遺産へ登録されたこと）
+    url: https://www.nakijin.jp/material/files/group/1/nakijinsontiikibousaikeikakuhonnpenn.pdf
+  s6-nakijin-vill-castle:
+    label: 今帰仁村公式サイト「今帰仁城跡・今帰仁城監守」（1422年に尚巴志が第二子の尚忠を山北監守として今帰仁城に派遣したこと、第二尚氏王統でも監守が継がれ1665年に引き揚げたこと、1666年に今帰仁間切を分割して伊野波間切が創設され1667年に本部間切と改称されたこと）
+    url: https://www.nakijin.jp/pagtop/kakuka/somuka/3/3/5/2/554.html
+  s6-nakijin-wiki:
+    label: Wikipedia「今帰仁村」（地元の方音は今帰仁方言・沖縄語とも「なちじん」であること、村は本部半島のほぼ北半分に位置し古宇利島を含むこと）
+    url: https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B8%B0%E4%BB%81%E6%9D%91
+  s6-ogimi-bunka-pdf:
+    label: 大宜味村教育委員会「大宜味村文化財基礎調査及び歴史文化基本方針策定事業」報告書（文化庁サイト掲載。1673年に田港間切が創設され1682年に大宜味間切へ改称されたとすること、間切番所は当初田港村に置かれ大宜味村を経て塩屋村へ移ったこと、大宜味間切の両総地頭家は大宜味御殿と大宜見殿内であったこと、大宜味村の名の初出は1713年編集の『琉球国由来記』であること）
+    url: https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/93522312_01.pdf
+  s6-ogimi-kotobank:
+    label: コトバンク「大宜味」（『日本大百科全書』は方音をウジミとすること、『世界大百科事典』は喜如嘉の芭蕉布や塩屋湾の海神祭ウンジャミを紹介すること）
+    url: https://kotobank.jp/word/%E5%A4%A7%E5%AE%9C%E5%91%B3-39815
+  s6-ogimi-kotobank-chimei:
+    label: コトバンク「大宜味村」（『日本歴史地名大系』は、1673年に羽地間切から2村・国頭間切から11村を割いて田湊〈たんな〉間切が設置され、のち大宜味〈いぎみ〉間切と改称されたこと、大宜味村について「絵図郷村帳・琉球国高究帳に村名はみえない」が『琉球国由来記』に村名が見えること。『ブリタニカ国際大百科事典』は村名は間切の名に由来すること、塩屋湾の海神祭ウンガミが国の重要無形民俗文化財であること）
+    url: https://kotobank.jp/word/%E5%A4%A7%E5%AE%9C%E5%91%B3%E6%9D%91-39108
+  s6-ogimi-vill-enkaku:
+    label: 大宜味村公式サイト「沿革」（1673年に羽地間切から2村・国頭間切から11村を分かち13村をもって田港間切を創設したこと、1695年に大宜味村など4村を新設して18村をもって大宜味間切と改称したこと、1719年に川田・平良の2村が久志間切へ移り現在の大宜味村の形となったこと、1908年に沖縄県島しょ町村制が施行されたこと）
+    url: https://www.vill.ogimi.okinawa.jp/gyosei_joho/gaiyo/527.html
+  s7-ginoza-kotobank-taikei:
+    label: コトバンク「宜野座村」（平凡社『日本歴史地名大系』の本文。近世には金武（ちん）間切に所属し、宜野座（ぎぬざ）村・惣慶村・漢那村・古知屋村は上之四島（いいぬゆしま）とも称されていたことを記す）
+    url: https://kotobank.jp/word/%E5%AE%9C%E9%87%8E%E5%BA%A7%E6%9D%91-51345
+  s7-ginoza-rekishi:
+    label: 宜野座村公式サイト「宜野座村の歴史」（村公式。1649年の『絵図郷村帳』に古知屋・宜野座・惣慶・漢那の4村が見えること、金武間切に属し「上四ヶ」とも称されたこと、島横目役として宜野座という姓の役人が派遣されたという伝承、1908年に金武村が成立し1946年に分村して宜野座村が成立したことを記す。出所は宜野座村勢要覧（改訂））
+    url: https://www.vill.ginoza.okinawa.jp/soshiki/1001/1/45.html
+  s7-ginoza-soumu-sensai:
+    label: 総務省「一般戦災没者の追悼 宜野座村における戦災の状況（沖縄県）」（昭和21（1946）年4月1日に金武村から古知屋・宜野座・惣慶・福山・漢那・城原が分村し宜野座村（人口18,540人）が誕生したこと、宜野座・漢那・古知屋に民間人収容地（「市」）が置かれたことを記録）
+    url: https://www.soumu.go.jp/main_sosiki/daijinkanbou/sensai/situation/state/okinawa_16.html
+  s7-ie-chimei-folklore:
+    label: 地名の由来サイト「『伊江』の地名の由来」（名字・地名の由来を集めた一般サイト。伊江は「イー」に文字をあてたもので、イシ（石）の転ともイリ（西）の転ともいう、と紹介する）
+    url: http://folklore2017.com/timei990/997742.htm
+  s7-ie-kotobank-shima:
+    label: コトバンク「伊江島」（平凡社『日本歴史地名大系』の本文。伊江島は方音ではイージマという低島（サンゴ島）で、最高点は東寄りに屹立する円錐形の城山（標高172.2メートル）であることを記す）
+    url: http://kotobank.jp/word/%E4%BC%8A%E6%B1%9F%E5%B3%B6-29820
+  s7-ie-kotobank-taikei:
+    label: コトバンク「伊江村」（平凡社『日本歴史地名大系』の本文。1908年の沖縄県及島嶼町村制施行により東江上・東江前・西江上・西江前・川平の五ヵ字で、伊江島から伊江村と改称されたことを記す）
+    url: https://kotobank.jp/word/%E4%BC%8A%E6%B1%9F%E6%9D%91-29802
+  s7-ie-suido:
+    label: 「水土の礎」国営かんがい排水事業「伊江地区」（農林水産省の事業紹介サイト。伊江島は本部半島から北西9キロに位置する一島一村の離島であること、東部中央に島のシンボルである城山（イージマタッチュー、標高172メートル）がそびえることを紹介）
+    url: https://suido-ishizue.jp/kokuei/okinawa/Prefectures/4703/4703.html
+  s7-ie-vill-rekishi:
+    label: 伊江村公式ホームページ「伊江村の歴史」（村公式年表。1314〜1336年に伊江島が伊平屋島とともに怕尼芝に占領され北山領となったこと、1701年に東江村・西江村・川平村が置かれ明治8年に東西両江村が二分されたこと、1880年の小学校創設などを記す）
+    url: https://www.iejima.org/document/2014120600031/
+  s7-iheya-hosaka:
+    label: 保坂論文「琉球国王の出自をめぐる歴史伝承――第一尚氏王統の起源伝承を中心に」（東京都市大学紀要。『中山世鑑』などに伝わる伝承として、尚思紹の父・鮫川大主は「葉壁」すなわち伊平屋の出身で、佐敷間切新里村場天の地に移住して思紹を生み、思紹の子が尚巴志であるという系譜を紹介・検討する学術論文）
+    url: https://www.tcu.ac.jp/tcucms/wp-content/uploads/2021/09/TCU_human_kiyo_2011_04_hosaka.pdf
+  s7-iheya-kankou-about:
+    label: 伊平屋島観光協会公式サイト「伊平屋島について」（村は伊平屋島と野甫島の2島からなり田名・前泊・我喜屋・島尻・野甫の5つの字に分かれること、古書にいぢへな・えひや・恵平也などの表記が見えること、中国の冊封使が伊平屋島を葉壁山と称したこと、第一王統の祖先・屋蔵大主が伊平屋に住んだこと、1909年4月1日の村制施行で「伊平屋島」を「伊平屋村」と改称したが村役場は伊是名村字伊是名に置かれたこと、大正5年の分村請願を経て1939年7月1日に分村して伊平屋村が誕生したことを紹介）
+    url: https://iheyazima-kankou.jp/about
+  s7-iheya-kotobank-taikei:
+    label: コトバンク「伊平屋村」（平凡社『日本歴史地名大系』の本文。伊平屋島・野甫島の二島からなること、伊是名村をメージ（前地）というのに対して当村をクシジ（後地）ということを記す）
+    url: https://kotobank.jp/word/%E4%BC%8A%E5%B9%B3%E5%B1%8B%E6%9D%91-32149
+  s7-iheya-vill-museum:
+    label: 伊平屋村公式サイト「歴史民俗資料館」（村公式。伊平屋は「米を産する最も佳なり」と中国の古文書に記されているように古くから稲作が盛んだったことを紹介）
+    url: https://www.vill.iheya.okinawa.jp/soshiki/15/1172.html
+  s7-kin-bunkazai:
+    label: 金武町公式「金武町の指定文化財」（町公式PDF。『おもろさうし』に「きんのよのぬし（金武の世の主）」が登場すること、玉陵碑文（1501年）に尚真王第六男の尚享仁が「きんのあんし」と記されこの時点で金武間切が創設されていたと考えられること、恩納ノロ辞令書（1584年）に「きんまきり（金武間切）」の記載があること、「金武」の地名がいつ発生したのか定かではないことを記す）
+    url: https://www.town.kin.okinawa.jp/material/files/group/17/shiteibungazai.pdf
+  s7-kin-kankou:
+    label: 金武町観光協会（たのしま掲載の協会紹介。17世紀中ごろには現在の金武町と宜野座村をあわせた範囲を金武間切と呼んでいたこと、廃藩置県を経て金武間切は金武村という名称になったこと、復帰後の1980年に町制施行により金武町が誕生したことを紹介）
+    url: https://www.tanoshima.jp/facilities/detail/kin_kanko
+  s7-kin-kotobank-taikei:
+    label: コトバンク「金武町」（平凡社『日本歴史地名大系』の本文。金武湾は「ペリー艦隊日本遠征記」にBARROW BAY（バロー湾）とみえること、金武岬は正保国絵図に「きん崎」と記されていること、「おもろさうし」巻一七の一に「きんのよのぬし」の名がみえ、彼が支配していた領域が金武（ちん）間切となったと推測されること、当初は名護市・恩納村の一部をも含み1673年にほぼ現在の金武町と宜野座村の範囲に固定されたことを記す）
+    url: https://kotobank.jp/word/%E9%87%91%E6%AD%A6%E7%94%BA-53953
+  s7-kin-sougoukeikaku:
+    label: 金武町「第5次金武町総合計画 基本構想」（町公式PDF。中世の金武間切は国頭方の五箇間切の一つで現在の恩納村から宜野座村、名護市の久志・辺野古を含む広大な領域にまたがっていたこと、1673年（尚貞5年）に金武間切から恩納・瀬良垣・安富祖・名嘉真の四村を割いて恩納間切が創設され、金武間切は屋嘉・伊芸・金武・漢那・惣慶・宜野座・古知屋の七箇字となったことを記す）
+    url: https://www.town.kin.okinawa.jp/material/files/group/3/sougoukeikaku5kihonkousou.pdf
+  s7-onna-ayumi:
+    label: 恩納村公式「恩納村のあゆみ」年表（村公式PDF。1673年の恩納間切創設（球陽）、1897年に恩納番所が恩納間切役場となったこと、1908年に初代村長当山正禄が就任したこと、1928年に女流歌人恩納ナビーの碑が万座毛に建立されたことを記す）
+    url: https://www.vill.onna.okinawa.jp/userfiles/files/sonnnoayumi.pdf
+  s7-onna-crd:
+    label: 国立国会図書館レファレンス協同データベース事例「恩納村という地名の由来について知りたい」（『恩納字誌』『琉球王国の真実』でも「恩納」の謂れは未だ明らかではないとされていること、越来間切にも恩納村があり1673年の恩納間切新設のため区別して「東恩納」と称したという『恩納字誌』の記述を紹介）
+    url: https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000378465
+  s7-onna-hensan60:
+    label: 恩納村史編さんだより60「村制百年」（恩納村広報2018年5月、村公式PDF。『球陽』の「金武郡内の四邑亦読谷山の八邑を将て、合して恩納郡と為し」という記録、1673年の恩納間切創設と分けられた12ヶ村の内訳、『南島風土記』の村名、村役場所蔵の「恩納ノロ辞令書 万暦12（1584）年」を紹介）
+    url: https://www.vill.onna.okinawa.jp/userfiles/files/201805_P04.pdf
+  s7-onna-hensan92:
+    label: 恩納村史編さんだより92（恩納村広報2023年9月、村公式PDF。『球陽』の恩納間切創設の記録、恩納間切の番所が恩納ムラに置かれ間切名も恩納ムラから取られたのだろうという推測、『おもろさうし』第十七巻の表題が「恩納より上のおもろ御さうし」であることを紹介）
+    url: https://www.vill.onna.okinawa.jp/userfiles/files/kouhoushi/2023/09/202309_P12.pdf
+  s7-onna-keikaku:
+    label: 恩納村「恩納村景観むらづくり計画（改訂）」第1〜2章（村公式PDF。1673年に読谷山間切から8ヶ村・金武間切から4ヶ村を分けて恩納間切が誕生したこと、明治41年に恩納間切が廃止されて恩納村となったこと、18世紀に女流歌人恩納ナビーが恩納を琉歌に歌い上げたことを記す）
+    url: https://www.vill.onna.okinawa.jp/userfiles/files/keikankeikaku_P1_17.pdf
+  s8-chatan-gikai:
+    label: 北谷町議会「北谷町議会の概要」（北谷間切は当初、安仁屋・北谷・桑江・平安山・砂辺・野国・屋良・嘉手納・山内の9つのムラからなり、1671年に宜野湾間切創設に伴い安仁屋を宜野湾へ・山内を越来へ編入し玉代勢・伝道・伊礼・浜川・野里を新設して12ムラとなったこと、1908年に北谷村となり役場は当初字北谷・1911年に字浜川へ移設したこと、1948年に嘉手納が分村し、1980年4月1日に町制を施行したことを記す）
+    url: https://www.chatan.jp/chogikai/gikaigakkannbutu.files/29kara32.pdf
+  s8-chatan-official:
+    label: 北谷町公式「北谷の歴史」（現在確認できる最古の文字資料は1577年の辞令書に書かれた「きたたんおきて」であること、「きたたん」の語源はよく分からないと明記し、音変化「きたたん→きちゃたん→ちちゃたん→ちゃたん」は語学上はっきりしていること、正保国絵図（1649年）に「北谷間切」の脇に「キタタンマギリ」のかながあること、鹿児島方言で「タン」は谷の意を示し「キタタン」に「北谷」の漢字が当てられた後に音が変化したと考えられていることを記す）
+    url: https://www.chatan.jp/smph/haisai/rekishi/index.html
+  s8-chatan-wiki:
+    label: Wikipedia「北谷町」（沖縄語「ちゃたん /catan/」。町名は「きたたんまきり」に由来し、1577年に尚真王が「きたたんおきて」に給した辞令書が初出とされ、「北谷」の漢字は1609年の薩摩侵入以降に当てられたとすること、美浜地区にアメリカンビレッジがあり1994年に開発基本指針が策定され2004年に施設整備が終了したこと、町内の米軍関係施設が町面積の52.3%を占めることを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%8C%97%E8%B0%B7%E7%94%BA
+  s8-iheya-izena-wiki:
+    label: Wikipedia「伊平屋伊是名諸島」（『おもろさうし』の「ゑひやの二はなれ」は伊平屋島と伊是名島の2島を指し古来両島は「伊平屋」と呼ばれたこと、1587年の『首里大屋子宛辞令書』の「ゑひやのなかだ」は仲田が伊是名島の村名であるため両島を総括する行政区画を指すと解されること、伊是名側は「前地（メージ）」、伊平屋側は「後地（クシジ）」と呼ばれ1923年の地形図に「伊平屋前地」「伊平屋後地」と表記されていたことを紹介する）
+    url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%B9%B3%E5%B1%8B%E4%BC%8A%E6%98%AF%E5%90%8D%E8%AB%B8%E5%B3%B6
+  s8-izena-wiki:
+    label: Wikipedia「伊是名村」（沖縄語名「いじな /ʔijina/」。伊是名島と無人島の具志川島・屋那覇島・降神島からなる村で、第二尚氏始祖・尚円（金丸）の生まれた島として知られ2015年に尚円生誕600周年祭が行われたこと、王統発祥の地として両島が王府直轄領とされ1896年の郡編制で島尻郡に属したこと、1939年7月1日の分村許可により伊平屋村の一部（伊是名・仲田・諸見・勢理客）が分立して伊是名村が成立したこと（典拠に角川日本地名大辞典と全国市町村名変遷総覧）を記す）
+    url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E6%98%AF%E5%90%8D%E6%9D%91
+  s8-kadena-kotobank:
+    label: コトバンク「嘉手納町」（平凡社『日本歴史地名大系』の解説とブリタニカ国際大百科事典小項目事典を収録。日本歴史地名大系は町内に嘉手納（かでぃなー）グスク・屋良グスク・国直（くんのーい）グスクがあるとし、ブリタニカは1948年に基地のため分断された北谷村の一部が分立して嘉手納村となり1976年に町制を施行したこと、町域の8割以上が軍用地で比率では県内第1の基地の町であること、戦前は県立農林学校・製糖工場があり軽便鉄道の終点でもある中頭郡の中心であったことを記す）
+    url: https://kotobank.jp/word/%E5%98%89%E6%89%8B%E7%B4%8D%E7%94%BA-45511
+  s8-kadena-official:
+    label: 嘉手納町公式「嘉手納町の歴史」（王朝時代は北谷間切に属する村々で屋良・嘉手納・野國などが早くから開けたこと、『おもろさうし』や『琉球国旧記』等の記述から当時の様子がうかがえること、1908年の町村制で北谷村の字となったこと、戦後は嘉手納飛行場内の通行禁止で北谷村が南北に分断され1948年12月4日に分村して嘉手納村が誕生し1976年1月1日に町制を施行したこと、1605年に甘藷を持ち帰ったとされる野國總管は字野國の出身であることを記す）
+    url: http://www.town.kadena.okinawa.jp/kadena/history.html
+  s8-kadena-qab:
+    label: 琉球朝日放送（QAB）「地デジカ地名辞典 嘉手納町」（2011年。「嘉手納」の由来は定かではないが、一説には縁起が良いという意味の「カリー」と土地という意味の「ナ」が一緒になって「カリー・ナ」が「カデナ」になったと伝えられること、1948年に嘉手納基地によって分断された北谷村から分村したこと、甘藷を日本に伝えたとされる野国総管の出身地であることを伝える）
+    url: https://www.qab.co.jp/news/2011022326104.html
+  s8-kitanakagusuku-geoshape:
+    label: 歴史的行政区域データセットβ版「沖縄県中頭郡北中城村」（国立情報学研究所・筑波大学。北中城村の有効期間を1946年5月20日〜とし、行政区域コード47327を示す）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/47327A1968.html
+  s8-kitanakagusuku-ogb:
+    label: 内閣府沖縄総合事務局「経営発達支援計画の概要（北中城村商工会）」（北中城村の地方公共団体コードは473278、面積は11.54km2で「日本一人口密度の高い村」となっており、返還軍用地のライカム地区では大型商業施設の開業など市街地形成が進んでいることを、北中城村第4次総合計画等を資料として記す）
+    url: https://www.ogb.go.jp/-/media/Files/OGB/Keisan/move/chusho/chushosien/keieihattatsu/nintei_okinawa/20_kitanakagusuku.pdf
+  s8-kitanakagusuku-wiki:
+    label: Wikipedia「北中城村」（沖縄語「きたなかぐしく /kitanakagushiku/」。1908年4月1日に中城村が誕生し、終戦後に米軍施設により南北に分断され行政運営に支障をきたしたため1946年5月20日に中城村北部の12行政区が分離して北中城村が誕生したこと、日本で最も人口密度が高い村であり全国で5番目に人口の多い村であることを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%AD%E5%9F%8E%E6%9D%91
+  s8-yomitan-official:
+    label: 読谷村公式「沿革（プロフィール）」（1908年に読谷山間切を読谷山村に改称したこと、1946年12月に村名を「読谷村」に変更したこと、1442年頃に読谷山按司・護佐丸が座喜味城を築城したことを記す）
+    url: https://www.vill.yomitan.okinawa.jp/soshiki/kikaku_seisaku/gyomu/gaiyo/profile/1240.html
+  s8-yomitan-sonsi:
+    label: 読谷村史編集室「村制100周年 読谷村にはなぜ『字読谷』がないの？」（読谷村広報データベース。1673年に恩納間切が創設された折、読谷山間切の主邑だった古読谷山が恩納間切へ編入されたため字読谷が存在しないこと、読谷山の地名由来のヒントとして袋中上人『琉球往来』の「四方田狭」の宛字を挙げ、『おもろさうし』では「よんたむさ」「よんたもさ」と記され「大北」とも呼ばれたことを紹介する）
+    url: https://public.yomitan-sonsi.jp/2009/01/01/id-15186
+  s8-yomitan-wiki:
+    label: Wikipedia「読谷村」（沖縄語「ゆんたんじゃ /juntandʒa/、ゆんだんざ /juntandza/」。もとは沖縄語でこの地域を「ゆんたんざ（読谷山）」と呼んだこと、1908年に読谷山村となり1946年に読谷村へ改称したこと、2014年1月1日に岩手県滝沢村が市制施行したことで日本一人口の多い村となったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%AA%AD%E8%B0%B7%E6%9D%91
+  s9-estat-haebaru:
+    label: 政府統計の総合窓口e-Stat「廃置分合情報」南風原町（1980年4月1日の町制施行を示す公的統計データ）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/47350
+  s9-haebaru-gaiyo:
+    label: 南風原町公式「南風原町の概要」（海に面していない唯一の町、1908年の南風原村の形成、1980年の町制移行）
+    url: https://www.town.haebaru.lg.jp/soshiki/5/2133.html
+  s9-haebaru-note:
+    label: ラジオ番組の後書き「南風原（はえばる）とは？」（南風原＝南＋原という語構成の個人的な言語学的読み解き）
+    url: https://note.com/mint_mint_mint/n/n38f9c1f3db97
+  s9-haebaru-wiki:
+    label: Wikipedia「南風原町」（2002年の合併協議会と南風原町の反対による解散など）
+    url: https://ja.wikipedia.org/wiki/%E5%8D%97%E9%A2%A8%E5%8E%9F%E7%94%BA
+  s9-kitanakagusuku-fudo:
+    label: 北中城村「第1章 北中城村の歴史的風致形成の背景」（村の公式資料。旧中城村の範囲と1946年の分村の経緯）
+    url: https://www.vill.kitanakagusuku.lg.jp/material/files/group/39/1.pdf
+  s9-mof-finance:
+    label: 財務省広報誌「ファイナンス」2026年5月号・那覇税務署管内の紹介（与那原のおもろさうしでの用例と大綱曳、南風原の首里三平等を紹介する国の機関の刊行物）
+    url: https://www.mof.go.jp/public_relations/finance/202605/pdf/202605r.pdf
+  s9-nakagusuku-bunka:
+    label: 中城村地域文化サイト「発見！なかぐすく」村の歴史（中城村の地域文化事業サイト）
+    url: https://www.vill-nakagusuku-local-culture.com/?page_id=94
+  s9-nishihara-bunka-koso:
+    label: 西原町「西原町歴史文化基本構想」第2章（町公式資料。西原の名称の由来と間切時代の領域）
+    url: https://www.town.nishihara.okinawa.jp/uploaded/attachment/12158.pdf
+  s9-nishihara-disambig:
+    label: Wikipedia「西原」（曖昧さ回避。うるま市西原の読みが「いりばる」であることを示す）
+    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8E%9F
+  s9-nishihara-fukki50:
+    label: 西原町「復帰50年の歩み」（町公式の記念誌。西原の名称が首里の北（ニシ）の意であること、1979年の町制施行）
+    url: https://www.town.nishihara.okinawa.jp/uploaded/attachment/3841.pdf
+  s9-nishihara-wiki:
+    label: Wikipedia「西原町」（沖縄語の読み「にしばる」、琉球大学の移転など）
+    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8E%9F%E7%94%BA
+  s9-yaese-keikaku:
+    label: 八重瀬町「新町建設計画」合併検証資料（町公式。命名理由、選定委員長のコメント、4町村協議から2町村合併に至る経緯）
+    url: https://www.town.yaese.lg.jp/docs/2014031200016/file_contents/05_1goudou-1.pdf
+  s9-yaesedake-wiki:
+    label: Wikipedia「八重瀬岳」（標高163メートル、沖縄戦の最後の防衛線、米軍の呼称「ビッグアップル」）
+    url: https://ja.wikipedia.org/wiki/%E5%85%AB%E9%87%8D%E7%80%AC%E5%B2%B3
+  s9-yonabaru-navi:
+    label: 与那原町観光ポータル「与那原ナビ」与那原町の概要（町公式系ポータル）
+    url: https://www.yonabaru.okinawa/about
+  s9-yonabaru-wiki:
+    label: Wikipedia「与那原町」（「ヨナ＝サンゴ砂、ハル＝開拓地」という語源説、面積など）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%8E%9F%E7%94%BA

@@ -87,6 +87,405 @@ records:
   - 新市名の公募件数や最終候補の一覧は、合併協議会の一次資料では確認できなかった
   - 「市来」を平仮名表記にした決定理由の公式記録は確認できなかった
   updated: '2026-11-13'
+- id: muni/46-さつま町
+  code: '463922'
+  names:
+    ja: さつま町
+    reading: さつまちょう
+    aliases: []
+  user_terms:
+  - さつま
+  - サツマ
+  - 薩摩郡の町
+  - 宮之城のある町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 2005年（平成17年）3月22日、薩摩郡の宮之城町・鶴田町・薩摩町の3町が新設合併して発足した町。町名は3町に共通する旧国名・郡名「薩摩」を平仮名にしたもので、新町名の最終候補には漢字の「薩摩」も残ったが、平仮名の「さつま」が選ばれた。旧3町のうち薩摩町は漢字表記のまま1954年から存在しており、読みは同じでも表記を変えた命名である。
+  first_attestation:
+    era: 平成時代
+    year_western: 2005
+    document: 宮之城町・鶴田町・薩摩町合併協議会による新町名称の決定（2005年3月22日さつま町発足）
+    note: 平仮名表記の自治体名「さつま」としての初出はこの命名そのもの。読みの源である旧国名「薩摩」は古代以来の国名で、郡名としても続いていた
+  claims:
+  - text: さつま町の地方公共団体コードは463922である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: さつま町は2005年（平成17年）3月22日に宮之城町・鶴田町・薩摩町の3町が新設合併して発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-satsuma-net-plan
+    - s1-satsuma-uub
+  - text: 新町名は候補19点から最終候補6点（薩摩・さつま・北さつま・新さつま・宮之城・さつみ）に絞られ、平仮名の「さつま」が選ばれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s1-satsuma-uub
+  - text: 合併する3町はいずれも薩摩郡に属しており、町名「さつま」は旧国名であり郡名でもある「薩摩」の平仮名表記である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s1-satsuma-uub
+  - text: 旧薩摩町は1954年（昭和29年）12月1日に永野村・求名村・中津川村が合併して発足した町で、漢字表記の「薩摩町」として2005年まで存続した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-satsuma-wiki
+  - text: 旧宮之城町は1954年（昭和29年）に佐志村と、1955年（昭和30年）に山崎町と合併を重ねた町であり、合併協議の枠組みは当初7町・5町も検討されたが、入来町・祁答院町の住民投票で否決されるなどして最終的に3町に落ち着いた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s1-satsuma-uub
+    - s1-satsuma-wiki
+  - text: 旧鶴田町は1963年（昭和38年）4月1日に町制を施行した町で、2005年の合併まで存続した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s1-satsuma-uub
+  column:
+    title: 漢字か平仮名か――読みが同じ「薩摩」と「さつま」の決選
+    text: 新町名の最終候補6点には、読みがまったく同じ「薩摩」と「さつま」が並んでいた。どちらも旧国名・薩摩郡に由来する名で、争われたのは意味ではなく表記である。結果は平仮名の「さつま」が採られ、1954年以来半世紀使われた漢字の「薩摩町」とは字面の異なる町名になった。候補にはこのほか、紫尾山にちなむ「紫尾（しび）」、旧3町の要素を連ねた「薩摩鶴宮（さつまつるみや）」など個性的な案もあった。なお同じ2005年には南さつま市でも最終候補が「南薩摩」と「南さつま」に絞られ、同じく平仮名が選ばれている。
+    sources:
+    - s1-satsuma-uub
+  relations:
+  - pref/46
+  - muni/46-南さつま市
+  - muni/46-薩摩川内市
+  unknowns:
+  - 最終候補から平仮名の「さつま」を選んだ理由を述べた合併協議会・町公式の一次説明は確認できなかった（候補の変遷は市区町村変遷情報による）
+  - 旧国名「薩摩」そのものの語源は本レコードでは扱わず、都道府県レコード（pref/46）の範囲でも確定していない
+  updated: '2026-11-13'
+- id: muni/46-三島村
+  code: '463035'
+  names:
+    ja: 三島村
+    reading: みしまむら
+    aliases:
+    - 口之三島
+    - 上三島
+  user_terms:
+  - みしまむら
+  - 口之三島の村
+  - 竹島・硫黄島・黒島の村
+  - 役場が鹿児島市にある村
+  naming_type: その他（旧十島村の境界変更・名称変更による改称）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 竹島・硫黄島・黒島の3つの有人島（口之三島・上三島）からなる村で、「三島」の名はこの3島に由来する。もとはトカラ列島とともに十島村（じっとうそん）を構成したが、1946年に北緯30度線で南北に分断され、1952年2月10日のトカラ列島の本土復帰に合わせて境界変更・名称変更により三島村となった。村役場は区域外の鹿児島市内に置かれている。
+  first_attestation:
+    era: 昭和時代
+    year_western: 1952
+    document: 鹿児島県告示第75号「大島郡十島村を三島村に変更する条例の許可」（1952年2月10日施行）
+    note: 自治体名としての「三島村」の初出はこの改称そのもの。区域を指す呼称としては、それ以前から3島は「上三島」「口之三島」と呼ばれていた
+  claims:
+  - text: 三島村の地方公共団体コードは463035である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 三島村は竹島・硫黄島・黒島の3島で構成されており、「三島」の名はこの3つの有人島があることによる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-mishima-vill-plan
+    - s1-mishima-wiki
+  - text: 3島は江戸時代には薩摩国川辺郡十島（川辺十島）に属し、1908年（明治41年）4月1日の島嶼町村制施行でトカラ列島とともに十島村（じっとうそん）として設置された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-mishima-wiki
+  - text: 1946年（昭和21年）2月2日、GHQの指令SCAPIN第677号により北緯30度以南の日本政府の施政権が停止されて十島村は南北に分断され、日本側に残った上三島は役場を失い、同年2月24日に鹿児島市に十島村仮役場を設置した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-mishima-wiki
+  - text: 1952年（昭和27年）2月10日、トカラ列島の本土復帰に合わせて鹿児島県告示第74号で区域が北緯30度以北に変更され、同第75号で十島村（じっとうそん）が三島村に改称された。同日、トカラ列島の区域には新しい十島村（としまむら）が設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-toshima-vill-sonsei
+    - s1-mishima-wiki
+  - text: 三島村は1946年2月11日に黒島で開かれた三島村設立委員会の日を「建村日」としており、1973年（昭和48年）4月1日に所属郡が大島郡から鹿児島郡に変更された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-mishima-wiki
+  - text: 三島村役場は村の区域内ではなく鹿児島市名山町に置かれており、区域内に常設の役場がない自治体は全国でも三島村・十島村・竹富町の3町村のみとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-mishima-wiki
+  column:
+    title: 「建村日」は改称の6年前――役場を失った村の再出発
+    text: 三島村の法的な誕生は1952年の改称だが、村が「建村日」とするのはそれより6年前の1946年2月11日である。北緯30度線で村が分断され、役場のあった中之島が米軍統治下に入った直後、残された3島の代表が黒島に集まって「三島村設立委員会」を開き、村長臨時代理者の選任と鹿児島市への事務所設置を決めた。この時点ではまだ法的には「十島村」のままだったが、村の実質的な出発点としてこの日が記憶されている。いまも村役場は鹿児島市内にあり、島々には出張所が置かれている。
+    sources:
+    - s1-mishima-wiki
+  relations:
+  - pref/46
+  - muni/46-十島村
+  unknowns:
+  - 「三島」という呼称自体がいつから3島の総称として使われていたか（江戸時代の文書での用例）は確認できなかった
+  - 1952年の改称に際して「三島」以外の名称が検討されたかどうかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-与論町
+  code: '465356'
+  names:
+    ja: 与論町
+    reading: よろんちょう
+    aliases:
+    - 与論村
+    - ユンヌ
+  user_terms:
+  - よろん
+  - ユンヌ
+  - 鹿児島県最南端の島
+  - 与論島
+  naming_type: その他（島名「与論」をそのまま村名・町名としたもの）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 鹿児島県最南端の与論島を占める町で、明治41年（1908年）の島嶼町村制で発足した与論村が、昭和28年（1953年）の本土復帰を経て、昭和38年（1963年）1月に町制を施行して与論町となった。町名は島名「与論」をそのまま継ぐ。島は地元で「ユンヌ」と呼ばれ、漢字表記「与論」と現地音との関係や島名の語源には定説がない。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「与論」という表記の文献上の初出は今回確認できなかった。町勢要覧の沿革は推古24年（616年）を境に島が大和朝廷に従属したとするが、これは島名の初出を示すものではない
+  claims:
+  - text: 与論町の地方公共団体コードは465356である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治41年（1908年）の島嶼町村制の実施に伴い「与論村」が誕生したと町の町勢要覧は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yoron-youran
+    - s3-yoron-rilg
+  - text: 昭和28年（1953年）12月に日米協定に基づく祖国復帰を果たし、昭和38年（1963年）1月から町制を施行して「与論町」となったと町の町勢要覧は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yoron-youran
+  - text: 文永3年（1266年）に琉球王の善政を慕って自ら貢納し以後340年間琉球王の統治下にあり、慶長14年（1609年）の島津藩の琉球征服により与論を含む大島諸島は琉球から分割されて薩摩の直属となったと町の町勢要覧は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yoron-youran
+  - text: 与論島は鹿児島県最南端の島で、1972年の沖縄返還まで我が国の最南端地であったと地方自治研究機構の調査は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yoron-rilg
+  - text: 島の自称「ユンヌ」の語源については、「砂浜を持つ地」と解するユナヌ説など複数の仮説が提示されているが、いずれも仮説の域を出ず定説はない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s3-yoron-qualia
+  - text: 町の町勢要覧の沿革は、推古24年（616年）を境に島が日本に対して朝貢関係に入り大和朝廷に従属したとするが、これは島名「与論」の文献初出を示す記述ではない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yoron-youran
+  column:
+    title: 日本最南端だった約20年
+    text: 1953年に奄美群島が本土復帰したとき、与論島は日本の南の国境になった。1972年に沖縄が返還されるまでの約20年間、与論島は「日本最南端の地」として知られ、離島ブームに沸いた。島の北東わずか23km先には沖縄本島が見える。与論は琉球王国に340年属し、薩摩に属し、アメリカの軍政下に置かれ、と帰属を何度も変えてきた島だが、地元の人々が島を呼ぶ名「ユンヌ」は、そのすべての時代を通じて変わらなかったはずの名である。漢字の「与論」がいつ、なぜこの音に当てられたのかは、まだ分かっていない。
+    sources:
+    - s3-yoron-rilg
+    - s3-yoron-youran
+  relations:
+  - pref/46
+  unknowns:
+  - 「与論」という漢字表記の初出と、現地音「ユンヌ」にこの字が当てられた経緯は確認できなかった
+  - 「ユンヌ」の語源について、専門辞典（角川日本地名大辞典・日本歴史地名大系）の記述を直接確認することはできなかった
+  - 与論村発足時（1908年）に島名を村名とした経緯を示す一次資料は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-中種子町
+  code: '465011'
+  names:
+    ja: 中種子町
+    reading: なかたねちょう
+    aliases:
+    - 中種子村
+  user_terms:
+  - なかたね
+  - 種子島の真ん中の町
+  - 種子島空港のある町
+  naming_type: その他（島の中央部に位置し、鎌倉期の郡政で島を三分したうちの「中郡」にあたることによる位置命名）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 種子島の中央部を占める町で、明治22年（1889年）の町村制施行で発足した中種子村が、昭和15年（1940年）に町制を施行して中種子町となった。町名の「中」は島の中央部という位置を示し、町公式資料によれば中世の郡政で島を上郡・中郡・下郡に三分したうちの中郡にあたる。種子島空港が置かれる島の空の玄関でもある。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による中種子村の発足
+    note: 自治体名としての「中種子」の初出。地名の層としては、それ以前の中世の郡政における「中郡」の名を位置のうえで継ぐ
+  claims:
+  - text: 中種子町の地方公共団体コードは465011である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）の町村制実施により種子島全体が熊毛郡となり、北種子村・中種子村・南種子村の3村が誕生したと町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-nakatane-kaso
+  - text: 中種子村は鎌倉幕府直轄時代の郡政で島を上郡・中郡・下郡に三分したうちの中郡にあたり、野間・油久・納官・増田・坂井の5ケ村に、明治になって分村した牧川・田島を加えた7ケ村が統合して発足したと町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-nakatane-kaso
+  - text: 中種子村は昭和15年（1940年）に町制を施行し中種子町となったと町は紹介する（町制施行の日付は11月10日とWikipedia「熊毛郡」は紹介する）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-nakatane-kaso
+    - s3-kumage-wiki
+  - text: 種子島は古代「多ネ執島」又は「多禰島」と呼ばれ、大和朝廷との接触があったことが『日本書紀』や『古事記』に記録されていると町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-nakatane-kaso
+  - text: 大宝2年（702年）に種子島と屋久島を合わせて令制国の多禰国が置かれ、多禰国は天長元年（824年）に廃止されて大隅国に編入されたとWikipedia「種子島」は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s3-tanegashima-wiki
+  - text: 町内の坂井に所在する立切遺跡から、後期旧石器時代初頭にあたる約3万5千年前の生活を示す遺構・遺物が出土していると町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-nakatane-kaso
+  column:
+    title: 「北・中・南」は鎌倉の「上・中・下」の名残
+    text: 種子島には北から西之表市・中種子町・南種子町が並ぶ。この北・中・南という素っ気ない並びは、近代の町村制で付けられた名だが、その下敷きは古い。町公式資料によれば、中世に鎌倉幕府の直轄地だった種子島は上郡・中郡・下郡の3つに分けて治められ、中種子村はその中郡にあたるという。1889年に生まれた3村の名は、この島を縦に三分する発想をそのまま継いだものとみることができる。ちなみに中種子町には種子島空港があり、「中の町」が今は島の空の玄関も兼ねている。
+    sources:
+    - s3-nakatane-kaso
+    - s3-kumage-wiki
+  relations:
+  - pref/46
+  - muni/46-西之表市
+  - muni/46-南種子町
+  unknowns:
+  - 「中郡」の初出となる中世の一次文書そのものは確認できなかった（町の計画資料が「伝えられている」として紹介するにとどまる）
+  - 「多禰（たね）」という古名に後世「種子」の漢字が当てられた経緯を、専門辞典で直接確認することはできなかった
+  updated: '2026-11-13'
+- id: muni/46-伊仙町
+  code: '465321'
+  names:
+    ja: 伊仙町
+    reading: いせんちょう
+    aliases:
+    - 伊仙村
+    - 島尻村
+  user_terms:
+  - いせん
+  - 徳之島の町
+  - 長寿の町
+  - 闘牛の町
+  naming_type: 一部の地名
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 徳之島南西部の町。明治41年（1908年）に島尻村として発足し、大正10年（1921年）に区域内の一集落の名「伊仙」を採って伊仙村に改称、昭和37年（1962年）の町制施行で伊仙町となった。「伊仙」の語源と、改称でこの名が選ばれた理由は公式資料では確認できない。
+  first_attestation:
+    era: 大正時代（大正10年）
+    year_western: 1921
+    document: 島尻村から伊仙村への改称
+    note: 集落名としての「伊仙」は、明治41年（1908年）の島尻村発足時の構成村の一つとしてすでに現れる。語源は未詳
+  claims:
+  - text: 伊仙町の地方公共団体コードは465321である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-kagoshima-muni-list
+  - text: 『続日本紀』文武天皇3年（699年）条の「度感」が徳之島であれば、島の名の記録は7世紀末に遡るが、「度感」の読みも徳之島への比定も確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - s4-tokuda-rekishi
+    - s4-wiki-tokunoshima
+  - text: 「とくのしま」の表記が確実に現れるのは鎌倉時代後期の徳治元年（1306年）の『千竈時家処分状』の「とくのしま」であると徳田虎雄顕彰記念館の資料が紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s4-tokuda-rekishi
+  - text: 明治41年（1908年）の島嶼町村制で島尻村が発足し、その区域には旧来の伊仙村（集落）も含まれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-oshima-gaikyou
+    - s4-uub-isen
+  - text: 島尻村が伊仙村に改称した日付は、鹿児島県大島支庁の沿革資料が大正10年（1921年）6月29日とするのに対し、市区町村変遷情報データベースは1921年8月1日に訂正しており、資料により異なる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - s4-oshima-gaikyou
+    - s4-uub-isen
+  - text: 昭和37年（1962年）1月1日、伊仙村が町制施行して伊仙町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-isen-gaiyo
+    - s4-oshima-gaikyou
+  - text: 町公式サイトの町政情報には町名の由来の説明がなく、「伊仙」の語源は未詳である
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - s4-isen-gaiyo
+  column:
+    title: 島尻から伊仙へ、理由の残らない改称
+    text: 伊仙町の前身は「島尻村」だった。島尻は奄美・沖縄で広く見られる地名だが、1921年、この村は区域内の一集落「伊仙」の名を採って伊仙村に改称した。現在の町役場も大字伊仙に置かれている。ところが、なぜ島尻を捨てて伊仙を選んだのか、町や県の公式資料は語っていない。地名の由来が「分からない」こともまた記録すべき事実であり、この改称はその好例である。由来の解明は、今後の町史資料の調査に委ねられる。
+    sources:
+    - s4-oshima-gaikyou
+    - s4-uub-isen
+    - s4-isen-gaiyo
+  relations:
+  - pref/46
+  - muni/46-徳之島町
+  - muni/46-天城町
+  unknowns:
+  - 1921年の改称で「伊仙」が選ばれた理由は確認できなかった
+  - 「伊仙」という集落名自体の語源は確認できなかった
+  - 改称の日付は県資料（6月29日）と市区町村変遷情報（8月1日に訂正）で異なる
+  updated: '2026-11-13'
 - id: muni/46-伊佐市
   code: '462241'
   names:
@@ -237,6 +636,82 @@ records:
   unknowns:
   - 『和名類聚抄』における「出水郡」の読み（訓）は確認できなかった
   - 「出水」の名が付けられた主体と正確な年代は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-十島村
+  code: '463043'
+  names:
+    ja: 十島村
+    reading: としまむら
+    aliases:
+    - じっとうそん
+  user_terms:
+  - としまむら
+  - トカラ列島の村
+  - トカラの村
+  - 役場が鹿児島市にある村
+  naming_type: その他（区域をなす島の数に由来する命名）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: トカラ列島の下七島（口之島・中之島・臥蛇島・平島・諏訪之瀬島・悪石島・宝島、小宝島を含む）を区域とする村。村名はもともと、上三島（現在の三島村）を含む十の島を区域としたことに由来し、1908年に島嶼町村制で「十島村（じっとうそん）」として発足した。1946年に北緯30度線で分断され、1952年2月10日の本土復帰で下七島のみを区域として「十島村（としまむら）」と読みを変えて再発足したため、現在は島が7つでも「十島」の名が残っている。
+  first_attestation:
+    era: 明治時代
+    year_western: 1908
+    document: 島嶼町村制の施行（1908年4月1日、十島村の発足）
+    note: 自治体名としての初出はこの発足そのもの。区域の総称としては江戸時代から「川辺郡十島（川辺十島）」と呼ばれており、「十島」は十の島の数に由来する呼称だった
+  claims:
+  - text: 十島村の地方公共団体コードは463043である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1908年（明治41年）4月1日に島嶼町村制が施行され「十島村（じっとうそん）」が発足した。当時の区域は口之島・中之島・臥蛇島・平島・諏訪之瀬島・悪石島・宝島・硫黄島・竹島・黒島の十島で、村名はこの十の島に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-toshima-vill-sonsei
+  - text: 江戸時代、この一帯は薩摩国川辺郡に属し「川辺十島」と呼ばれていた。1889年（明治22年）の町村制では施行対象外の島嶼に指定され、1897年（明治30年）に川辺郡から大島郡へ移された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-mishima-wiki
+  - text: 1946年（昭和21年）、連合国軍総司令部の命により北緯30度線で上三島（竹島・黒島・硫黄島）と分離され、トカラ列島側は米軍政下に置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-toshima-vill-sonsei
+  - text: 1952年（昭和27年）2月10日、本土復帰により下七島（口之島・中之島・臥蛇島・平島・諏訪之瀬島・悪石島・宝島）を区域とする村が「十島村（としまむら）」として発足し、上三島は三島村として同日に発足した。分離で島は7つになったが「十島」の名と読みの変更（じっとうそん→としまむら）が同時に行われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-toshima-vill-sonsei
+  - text: 十島村役場は1956年（昭和31年）に中之島から鹿児島市へ移転し、現在も区域外の鹿児島市内に置かれている。1973年（昭和48年）には所属郡が大島郡から鹿児島郡へ変更された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-toshima-vill-sonsei
+  - text: 村を構成する島のうち臥蛇島は1970年（昭和45年）に島民が全員移住して無人島となっており、現在の有人島は6島（口之島・中之島・平島・諏訪之瀬島・悪石島・宝島）である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-toshima-vill-sonsei
+  column:
+    title: 島が7つになっても「十島」――読みだけが変わった村名
+    text: 1952年の本土復帰のとき、下七島の村は名を変える機会があったはずだが、選ばれたのは改名ではなく読みの変更だった。「じっとうそん」から「としまむら」へ。漢字の「十島」は、上三島を含む十の島で発足した1908年以来の名として残された。その結果、現在の十島村は島の数（区域は7島）と名前の数が一致しない村になった。分離した上三島の側も、新しい村名には島の数「三」を使っており、北緯30度線で分かれた2つの村が、どちらも「島の数」を名に持つ形で再出発したことになる。
+    sources:
+    - s1-toshima-vill-sonsei
+  relations:
+  - pref/46
+  - muni/46-三島村
+  unknowns:
+  - 1952年の再発足時に「十島」以外の新村名が検討されたかどうかは公式資料で確認できなかった
+  - 江戸時代の「十島」の数え方（小宝島・昭和硫黄島など無人島の扱い）の変遷は確認できなかった
   updated: '2026-11-13'
 - id: muni/46-南さつま市
   code: '462209'
@@ -394,6 +869,350 @@ records:
   - 市名の選定理由を述べた合併協議会・市公式の一次説明は確認できなかった（公募結果と候補の変遷は変遷情報データベースとWikipediaによる）
   - 「平和」が候補に入った理由（知覧の特攻平和会館との関係）は推測の域を出ず、公式記録では確認できなかった
   updated: '2026-11-13'
+- id: muni/46-南大隅町
+  code: '464911'
+  names:
+    ja: 南大隅町
+    reading: みなみおおすみちょう
+    aliases:
+    - 根占町
+    - 佐多町
+    - 南隅
+  user_terms:
+  - みなみおおすみ
+  - 本土最南端の町
+  - 佐多岬のある町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 鹿児島県肝属郡の町で、大隅半島の最南部に位置し、日本本土最南端の佐多岬を有する。2005年3月31日、根占町と佐多町が合併して発足した。町名「南大隅」は公募で決められたが、明治期に実在した南大隅郡の名でもあり、町発足前から県立南大隅高等学校が名乗っていた地域の呼び名でもあった。旧根占は中世の荘園・禰寝院の地で、「根占（ねじめ）」の読みは禰寝氏の名字に通じる。
+  first_attestation:
+    era: 明治20年
+    year_western: 1887
+    document: 南大隅郡の設置（郡名として）
+    note: Wikipedia「南大隅町」が、現町域は後に大隅郡に属し1887年から1897年までは南大隅郡とされたと紹介するもの。「南大隅」の名の側の早い用例として記録する。町名としての採用は2005年
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、南大隅町の団体コードは464911とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年3月31日、根占町と佐多町が合併して南大隅町が誕生したと、町公式サイト「南大隅町誕生までの経緯」は記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-minamiosumi-town-keii
+  - text: 新町名称は両町の住民に公募され、応募総数1,042通（うち有効1,020通）・有効候補240候補の中から選定が進み、2004年10月1日の第2回南大隅合併協議会で新町の名称を「南大隅町」とすることが承認されたと、町公式サイトは記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-minamiosumi-town-keii
+  - text: 当初は根占町・佐多町・大根占町・田代町の4町で2003年6月に南隅地域合併協議会を設置して協議したが、大根占町側の反対により決裂し、根占町と佐多町の2町で2004年9月に南大隅合併協議会を設置して合併に至ったとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-minamiosumi-wiki
+  - text: 「南大隅」は町域を含む地域の呼び名でもあり、1887年から1897年までは南大隅郡が置かれていた。また町が発足する前から県立南大隅高等学校が「南大隅」を名乗っていたとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-minamiosumi-wiki
+  - text: 平安時代には現町域に禰寝院と呼ばれる荘園があり、建部氏がこれに因んで禰寝氏（根占氏とも）を名乗ってこの地を長く治めた。「根占」の読み「ねじめ」はこの禰寝の層に連なるとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-minamiosumi-wiki
+  - text: 江戸時代には根占・佐多に薩摩藩の外城が置かれ、1784年に根占郷・佐多郷と改められた。1889年の町村制で小根占村・佐多村となり、小根占村は1941年に根占町、佐多村は1947年に佐多町となったとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-minamiosumi-wiki
+  - text: 町域の南端の佐多岬は日本本土最南端の地で、岬上を北緯31度線が通るとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-minamiosumi-wiki
+  column:
+    title: 新しい町名は、明治の郡名だった
+    text: 2005年の合併で生まれた「南大隅町」は、まったくの新造名ではない。1887年から1897年までの10年間、この一帯には実際に南大隅郡が置かれていたし、町が生まれる前から県立南大隅高等学校が「南大隅」の名を掲げていた。公募には1,042通の応募があり240もの候補が並んだが、最終的に選ばれたのは、地域の人々がもともと自分たちの土地を呼んでいた名だった。面白いのは、隣の錦江町も含めた一帯が「南隅」と呼ばれることで、「南大隅」は町一つの名であると同時に、大隅半島の南半分を指す広い地域名でもある点である。
+    sources:
+    - s2-minamiosumi-town-keii
+    - s2-minamiosumi-wiki
+  relations:
+  - pref/46
+  - muni/46-錦江町
+  - muni/46-肝付町
+  unknowns:
+  - 公募で「南大隅」が何通の応募だったかは確認できなかった
+  - 「根占（ねじめ）」の語源そのものを説明した専門資料（『角川日本地名大辞典』等の当該項目）は確認できなかった
+  - 「佐多」の地名の由来・初出は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-南種子町
+  code: '465020'
+  names:
+    ja: 南種子町
+    reading: みなみたねちょう
+    aliases:
+    - 南種子村
+  user_terms:
+  - みなみたね
+  - 鉄砲伝来の地
+  - 種子島宇宙センターのある町
+  - ロケットの町
+  naming_type: その他（島の南端に位置することによる位置命名。中種子が中郡にあたるのと対になる名付け）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 種子島の南端を占める町で、明治22年（1889年）4月の町村制施行で発足した南種子村が、昭和31年（1956年）10月に町制を施行して南種子町となった。町名の「南」は島の南部という位置を示す。天文12年（1543年）にポルトガル人を乗せた船が漂着した鉄砲伝来の地であり、現在の町域には種子島宇宙センターが置かれる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による南種子村の発足
+    note: 自治体名としての「南種子」の初出。島の南部という位置による命名で、中種子の「中郡」対応と対になる近代の名付け
+  claims:
+  - text: 南種子町の地方公共団体コードは465020である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）4月の町村制施行により南種子村が誕生したと町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-minamitane-gaiyou
+  - text: 南種子村は茎永村・島間村・西之村・平山村・中之村の区域をもって発足したとWikipedia「熊毛郡」は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s3-kumage-wiki
+  - text: 南種子村は昭和31年（1956年）10月に町制を施行し南種子町となったと町は紹介する（施行日は10月15日とWikipedia「熊毛郡」は紹介する）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-minamitane-gaiyou
+    - s3-kumage-wiki
+  - text: 天文12年（1543年）、ポルトガル人が乗った明国船が種子島最南端の前之浜に漂着し、鉄砲伝来の地として歴史的な由来を持つと町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-minamitane-gaiyou
+  - text: 明治維新までの約700年間、平行盛の子孫が代々島主として種子島を治めており、赤尾木（現在の西之表市）を中心に統治したと町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-minamitane-gaiyou
+  - text: 現在の南種子町には日本の科学技術を集めた種子島宇宙センターがあると町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-minamitane-gaiyou
+  - text: 中種子が中世の郡政の「中郡」にあたることと、島を上郡・中郡・下郡に三分したという伝承からすれば、南種子はその「下郡」にあたる地域と考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - s3-nakatane-kaso
+  column:
+    title: 鉄砲からロケットへ、同じ南の空
+    text: 1543年、ポルトガル人を乗せた船が漂着したのは島の南端、前之浜（門倉岬）だった。鉄砲はここから日本中に広がり、やがて火縄銃そのものが「種子島」と呼ばれるようになる。それから約430年後、同じ南種子町の地に種子島宇宙センターが置かれ、今度はロケットがこの南の空から宇宙へ飛び立つようになった。町自身が「歴史と未来が共存する町」と表現するゆえんである。なお鉄砲伝来は島の歴史の層であって、1889年に付けられた「南種子」という町名そのものの由来は、島の南部という位置にすぎない。
+    sources:
+    - s3-minamitane-gaiyou
+  relations:
+  - pref/46
+  - muni/46-中種子町
+  - muni/46-西之表市
+  unknowns:
+  - 南種子が中世の郡政の「下郡」にあたることを明記した公的・専門資料は確認できなかった（位置関係からの類推にとどまる）
+  - 「南種子」の名が1889年の村名採用時にどのような手続きで決まったかを示す資料は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-和泊町
+  code: '465330'
+  names:
+    ja: 和泊町
+    reading: わどまりちょう
+    aliases:
+    - 和泊村
+  user_terms:
+  - 沖永良部島の東半分の町
+  - ワドゥマイ
+  - エラブの町
+  naming_type: その他（中世以来の湊の名「和泊」を村名・町名として継承）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 沖永良部島の東半分を占める町。方言でワドゥマイと呼ばれ、『日本歴史地名大系』は地名が湊を意味する「トゥマイ」に由来するとする。近世には島の代官所が置かれた行政の中心地で、1908年に和泊村として発足し、1941年に町制を施行した。
+  first_attestation:
+    era: 正保年間
+    year_western: null
+    document: 正保琉球国絵図
+    note: 『日本歴史地名大系』によれば、村名の記載はないが湊としての「和泊（わとまり）」が見える（同書の紹介による）
+  claims:
+  - text: 和泊町の地方公共団体コードは465330である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治41年（1908年）4月1日、島嶼町村制の実施により沖永良部島に和泊村と知名村が編成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-kagoshima-oshima-gaikyo
+  - text: 和泊村は昭和16年（1941年）5月1日に町制を施行して和泊町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-kagoshima-oshima-gaikyo
+    - s5-wadomari-wiki
+  - text: 『日本歴史地名大系』は、正保琉球国絵図に村名の記載はないものの、湊としての「和泊（わとまり）」が見えると紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-kotobank-wadomari-mura
+  - text: 『日本歴史地名大系』は、和泊の地名は湊を意味する「トゥマイ」に由来するとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-kotobank-wadomari-mura
+  - text: 方言名ワドゥマイの由来には、和（ワー）の漁師が漁の前に波が落ち着くまで泊まったとする説と、大きな湾を意味する湾泊（ワンドゥマイ）から「ン」が省かれたとする説があり、『沖永良部島地名考』は両説を紹介する
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - s5-okinoerabu-aza
+  - text: 島名の古層として、琉球王国の歌集『おもろさうし』に「ゑらぶしま」「ゑらぷせりよさ」と見え、島は古く「せりよさ」とも呼ばれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-nakamoto-erabu
+  - text: 島には「いらで いらぼら ぬ いらぷ じま」という言い回しがあり、「選んでも選ぶことができない永良部島」、すなわち「どこを探しても見つけることができない恵まれた島」の意と解されてきた
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - s5-nakamoto-erabu
+  column:
+    title: 島の都だった和泊――代官所と世之主の墓
+    text: 和泊は古くから沖永良部島の表玄関だった。『日本歴史地名大系』によれば、元禄4年（1691年）に沖永良部島代官所が設置されると、和泊に代官役所（仮屋）が置かれ、与人役所も当地にあって、和泊は島の行政の中心となった。その記憶は地名にも残り、町内には中世に島を治めた豪族・世之主の墓と伝わる鹿児島県指定史跡「世之主の墓」がある。湊を意味するトゥマイに由来するという地名の通り、和泊は船の出入りと役所のある「島の都」として、知名と並ぶ島の中心であり続けた。
+    sources:
+    - s5-kotobank-wadomari-mura
+    - s5-wadomari-kyoiku
+  relations:
+  - pref/46
+  - muni/46-知名町
+  unknowns:
+  - 島名「沖永良部」の「沖」の字がいつ・なぜ付けられたかは確認できなかった
+  - 沖永良部島代官所の設置年は、知名町公式が元禄3年（1690年）、『日本歴史地名大系』が元禄4年（1691年）としており、資料間で1年の差がある
+  - 「ゑらぶ（エラブ）」という島名そのものの語源は、地名考でも不明とされる
+  updated: '2026-11-13'
+- id: muni/46-喜界町
+  code: '465291'
+  names:
+    ja: 喜界町
+    reading: きかいちょう
+    aliases:
+    - 喜界村
+    - 早町村
+    - 貴駕島
+    - 貴海島
+    - 鬼界島
+    - 奇界島
+    - キキャ
+  user_terms:
+  - きかい
+  - 喜界島の町
+  - 鬼界ヶ島の島
+  - 俊寛の像がある島
+  naming_type: 一部の地名
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 喜界島の全島を町域とする町で、町名は島名「喜界」を継承する。島名は平安時代の文献に「貴駕島」と現れるのが初出とされ、のち「貴海島」「鬼界島」などとも書かれた。明治41年（1908年）に喜界村が成立し、昭和16年（1941年）の町制施行を経て、昭和31年（1956年）に早町村と合併して現在の喜界町となった。
+  first_attestation:
+    era: 平安時代（長徳4年）
+    year_western: 998
+    document: 『日本紀略』
+    note: 「貴駕島」として現れるのが島名の文献初出とされる（二次資料経由の確認）。町名そのものではなく島名の初出
+  claims:
+  - text: 喜界町の地方公共団体コードは465291である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-kagoshima-muni-list
+  - text: 『日本紀略』長徳4年（998年）の「貴駕島」が喜界島の文献初出とされ、大宰府が南蛮人の捕縛を貴駕島に命じた記事と結びつけられる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s4-wiki-kikaijima
+  - text: 『吾妻鏡』には文治4年（1188年）に天野遠景による「貴海島征伐」が行われ、島が鎌倉幕府の支配に入ったと記される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s4-wiki-kikaijima
+  - text: 喜界島は「喜界」のほか「鬼界」「奇界」とも記され、「鬼界島」の表記は18世紀初めまで公的にも通用していた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s4-kotobank-kikaijima
+  - text: 島は方言で「キキャ」と呼ばれ、沖永良部島のユタの祝詞「シマタティシンゴ」にも「喜界（ききや）はウルシ嶽に」と歌われている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s4-kotobank-kikaijima
+  - text: 「喜界」の語源は未詳である。古い形とみられる「ききや」「キキャ」がどのような意味の語に由来するかは確認できない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - s4-kotobank-kikaijima
+  - text: 明治41年（1908年）の島嶼町村制で喜界村が成立し、大正8年（1919年）に早町村が分立した。昭和16年（1941年）に喜界村が町制施行して喜界町となり、昭和31年（1956年）9月10日に早町村と合併して現在の喜界町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-oshima-gaikyou
+    - s4-kikai-yoran
+  - text: 『平家物語』の流刑地「鬼界ヶ島」を喜界島とする説と、火山島という描写に合う硫黄島とする説とがあり、硫黄島説が有力とされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - s4-wiki-kikaijima
+  column:
+    title: 『平家物語』の鬼界ヶ島は喜界島か
+    text: 俊寛らが流された「鬼界ヶ島」の場所は、古くから喜界島に比定されてきた。喜界島には俊寛の像も建てられ、江戸時代には薩摩藩の遠島先として実際に使われた歴史もある。しかし『平家物語』の鬼界ヶ島は硫黄の採れる火山島として描かれており、隆起サンゴ礁の平坦な喜界島とは景観が合わない。このため現在は、薩摩硫黄島に比定する説が有力とされる。喜界島が「鬼界」とも書かれたことが、比定論争の背景にある。
+    sources:
+    - s4-wiki-kikaijima
+    - s4-kotobank-kikaijima
+  relations:
+  - pref/46
+  unknowns:
+  - 「喜界（ききや／キキャ）」の語源の定説は確認できなかった
+  - 『日本紀略』の「貴駕島」を初出とする説明は二次資料経由でしか確認できなかった
+  - 町名が島名から採られた経緯を説明する町公式資料は確認できなかった（全島が町域のため島名の継承とみられる）
+  updated: '2026-11-13'
 - id: muni/46-垂水市
   code: '462144'
   names:
@@ -460,6 +1279,251 @@ records:
   - pref/46
   unknowns:
   - この地が「垂水」と呼ばれるようになった具体的な理由（どの滝や水源を指したか）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-大和村
+  code: '465232'
+  names:
+    ja: 大和村
+    reading: やまとそん
+    aliases:
+    - 大和浜方
+    - 大和浜
+    - 屋まとはま
+  user_terms:
+  - やまと
+  - 奄美大島の村
+  - 大和浜のある村
+  naming_type: 一部の地名
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 奄美大島中央部の村。村名は中心集落「大和浜」に由来し、明治41年（1908年）の島嶼町村制施行の際に「大和浜」から名をとって大和村が誕生したと村公式サイトが明記する。村名は1908年の成立以来、改称されずに現在まで継承されている。
+  first_attestation:
+    era: 安土桃山時代（1572年）
+    year_western: 1572
+    document: 琉球王の辞令書
+    note: 村公式サイトが「屋まとはま」という地名の出現を紹介する。地名「大和浜」の初出とされるもの
+  claims:
+  - text: 大和村の地方公共団体コードは465232である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-kagoshima-muni-list
+  - text: 1572年（隆慶6年）の琉球王の辞令書に「屋まとはま」という地名が現れると村公式サイトが紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-yamato-history
+  - text: 薩摩藩統治下では、焼内間切の行政区分として「大和浜方」が置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-yamato-history
+  - text: 明治41年（1908年）4月の島嶼町村制施行で村に改める際、「大和浜」から名をとって「大和村」が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-yamato-history
+  - text: 村名「大和村」は明治41年（1908年）の成立以来、改称の記録がなく、現在まで継承されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-oshima-gaikyou
+  - text: 『浦内沿革誌』には「大和時代、この地に大和人が住んでいた」とあると村公式サイトが紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s4-yamato-history
+  - text: 遣唐使の船が補給のために寄港するなど、大和からの船や人がこの浜に立ち寄ったことが「大和浜」の名の由来だという言い伝えがある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s4-yamato-history
+  column:
+    title: 大和人が住んでいたという浜
+    text: 大和浜の名の起こりを、村は二つの伝承で伝える。一つは遣唐使の船が補給に寄港し、大和の船や人が立ち寄った浜だという言い伝え。もう一つは郷土資料『浦内沿革誌』の「大和時代、この地に大和人が住んでいた」という一文である。文献の上でたどれるのは、1572年の辞令書の「屋まとはま」、薩摩藩時代の行政区分「大和浜方」、そして1908年の大和村という系譜までで、「大和」の名そのものの起こりは伝承の域を出ない。村名が明治以来一度も変わっていないことは、奄美の町村の中でも静かな特徴である。
+    sources:
+    - s4-yamato-history
+  relations:
+  - pref/46
+  unknowns:
+  - 「大和浜」の名の確実な語源は確認できなかった（大和人の居住・寄港の話は伝承として記録した）
+  - 村公式サイトが紹介する1572年の琉球王の辞令書の原文は直接確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-大崎町
+  code: '464686'
+  names:
+    ja: 大崎町
+    reading: おおさきちょう
+    aliases:
+    - 大崎村
+  user_terms:
+  - おおさき
+  - 大隅半島の町
+  - 曽於郡の町
+  - くにの松原の町
+  naming_type: 一部の地名
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 大隅半島の東側、志布志湾に面する町。この一帯は古くは「救仁（くに）」と呼ばれ、「大崎」の地名が記録に現れるのは室町時代後期で、肝付氏が大崎城を築いたことによると町の計画は説明する。江戸時代に島津氏が大崎郷を置き、1889年（明治22年）の町村制で大崎郷内の10村が合併して大崎村となり、1936年（昭和11年）の町制施行で大崎町となった。
+  first_attestation:
+    era: 室町時代後期
+    year_western: null
+    document: 大崎城の築城に伴う記録（大崎町「第3次大崎町総合計画」が紹介）
+    note: 「大崎」という地名が記録上に現れるのは室町時代後期で、肝付氏による大崎城の築城によるというのが町公式の説明。具体的な文書名と年は計画書に示されていない。それ以前この一帯は「救仁（くに）」と呼ばれていた
+  claims:
+  - text: 大崎町の地方公共団体コードは464686である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 大崎町を含む地域は古くは救仁（くに）と呼ばれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-osaki-plan
+  - text: 「大崎」という地名が記録上に現れるのは室町時代後期であり、これは肝付氏により大崎城が築城されたことによると、町の総合計画は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-osaki-plan
+  - text: その後、大崎城をめぐる肝付氏と島津氏の争いに島津氏が勝利し、島津氏により大崎郷が創設された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-osaki-plan
+  - text: 1889年（明治22年）4月1日の町村制実施時に、大崎郷内の10村（仮宿・永吉・横瀬・神領・益丸・菱田・持留・岡別府・野方・井俣）が合併して大崎村が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-osaki-plan
+    - s1-osaki-wiki
+  - text: 1891年（明治24年）8月8日に大字野方が野方村として分村したが、1955年（昭和30年）に再び合併し、現在の大崎町の区域となった。町制は1936年（昭和11年）に施行されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-osaki-plan
+    - s1-osaki-wiki
+  - text: 明治初期まで大崎の地域は現在の志布志市とともに日向国諸県郡に属しており、1889年の大崎村は南諸県郡に属した。廃藩置県後は鹿児島県・都城県・宮崎県・鹿児島県と所属が変遷した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-osaki-wiki
+  column:
+    title: 城の名が郷になり、村になり、町になった
+    text: 大崎町の名は、珍しく「城」から生まれた。室町時代後期に肝付氏が築いた大崎城が地名の起点で、島津氏がこの地を治めると城の名は行政区画の「大崎郷」となり、明治の町村制では郷内の10村が合併して「大崎村」になった。城→郷→村→町と、統治の単位が変わるたびに名だけが受け継がれてきた。もっとも、それ以前のこの土地の名は「救仁（くに）」で、いまも海岸の松原は「くにの松原」と呼ばれ、古い名の痕跡を残している。
+    sources:
+    - s1-osaki-plan
+  relations:
+  - pref/46
+  - muni/46-志布志市
+  - muni/46-鹿屋市
+  unknowns:
+  - 「大崎」の「崎」が具体的にどの地形（岬状の土地など）を指したのかは、町公式・専門資料で確認できなかった
+  - 「大崎」の名が見える室町時代後期の具体的な文書名と年は、町の総合計画に示されておらず未確認である
+  - 古代の「救仁（くに）」の語源は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-天城町
+  code: '465313'
+  names:
+    ja: 天城町
+    reading: あまぎちょう
+    aliases:
+    - 天城村
+    - 東天城村
+    - 阿布木名方
+    - 雨気岳
+  user_terms:
+  - あまぎ
+  - 徳之島の町
+  - 天城岳のある町
+  - トライアスロンの町
+  naming_type: 新規命名
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 徳之島北西部の町。町名は徳之島町との境にある天城岳に由来するといわれ、その旧名「雨気（あめぎ）」が天城に転じたと町公式サイトが説明する。明治41年（1908年）に新村名として「天城」が採択されて天城村が成立し、昭和36年（1961年）の町制施行で天城町となった。
+  first_attestation:
+    era: 明治時代（明治41年）
+    year_western: 1908
+    document: 島嶼町村制による天城村の成立
+    note: 「天城」の名が自治体名として採択された時点。山名としての「雨気／天城」の文献上の初出は確認できなかった
+  claims:
+  - text: 天城町の地方公共団体コードは465313である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-kagoshima-muni-list
+  - text: 『続日本紀』文武天皇3年（699年）条の「度感」が徳之島であれば、島の名の記録は7世紀末に遡るが、「度感」の読みも徳之島への比定も確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - s4-tokuda-rekishi
+    - s4-wiki-tokunoshima
+  - text: 「とくのしま」の表記が確実に現れるのは鎌倉時代後期の徳治元年（1306年）の『千竈時家処分状』の「とくのしま」であると徳田虎雄顕彰記念館の資料が紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s4-tokuda-rekishi
+  - text: 町名は徳之島町との境にある天城岳に由来するといわれ、天城岳の旧名「雨気（あめぎ）」が「天城」に転じたとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-amagi-gaiyo
+  - text: 明治41年（1908年）の島嶼町村制で阿布木名方と山方などが合併して天城村が成立した際、「天城」が新村名として採択された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-amagi-gaiyo
+  - text: 昭和36年（1961年）1月1日、天城村が町制施行して天城町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-oshima-gaikyou
+    - s4-amagi-gaiyo
+  - text: 東天城村の分立年は、鹿児島県大島支庁の沿革資料と天城町公式サイトが大正6年（1917年）とするのに対し、徳之島町町勢要覧は大正5年（1916年）としており、資料により異なる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - s4-oshima-gaikyou
+    - s4-tokunoshima-yoran
+  - text: 大昔、天城岳（アメキウデー）にアメンキュという夫婦の神が天から降りてきたという神話が伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s4-amagi-gaiyo
+  column:
+    title: 雨気が天城になった山
+    text: 天城町の名の源は、町の東の境にそびえる天城岳（標高533メートル）である。町公式サイトによれば、この山は古く「雨気岳（アメキウデー）」と呼ばれ、アメンキュという夫婦の神が天から降りたという神話の舞台だった。「雨気（あめぎ）」の音が「天城」に転じたとされ、1908年に阿布木名方と山方が合併したとき、新しい村の名としてこの山の名が選ばれた。「あまぎ」という響きは、雨の多い亜熱帯の山の古名を今に伝えている。
+    sources:
+    - s4-amagi-gaiyo
+  relations:
+  - pref/46
+  - muni/46-徳之島町
+  - muni/46-伊仙町
+  unknowns:
+  - 山名「雨気／天城」の文献上の初出は確認できなかった
+  - 「雨気が天城に転じた」という説明の言語学的な裏付けは確認できなかった
   updated: '2026-11-13'
 - id: muni/46-奄美市
   code: '462225'
@@ -618,6 +1682,263 @@ records:
   - 始羅郡・姶羅郡の混同と表記統一の経緯はWikipedia以外の高次資料で裏付けが取れなかった
   - 「始羅」「姶良」の語自体の語源は確認できなかった
   - 2010年の市名選定過程（公募の有無等）は一次資料で確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-宇検村
+  code: '465241'
+  names:
+    ja: 宇検村
+    reading: うけんそん
+    aliases:
+    - 焼内村
+  user_terms:
+  - 焼内湾の村
+  - 奄美大島の南西部の村
+  naming_type: その他（1917年に、それまでの焼内村から江戸時代以来の行政区画「宇検方」の名へ改称）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 奄美大島の南西部、焼内湾を抱える村。江戸時代には14か村をまとめる行政区画「宇検方」の中心だったが、1908年の発足時には湾の名を取って焼内村と名乗り、1917年に古い区画名である宇検へ改称した。「宇検」の語源そのものは確認できていない。
+  first_attestation:
+    era: 文化年間
+    year_western: null
+    document: 大島私考
+    note: 宇検村の総合振興計画が、19世紀初頭の文化年間にまとめられた『大島私考』の「十四ヶ村を宇検方ト云フ」という記載を紹介する（同計画の引用による）。「宇検方」としての用例の目安
+  claims:
+  - text: 宇検村の地方公共団体コードは465241である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 宇検村の総合振興計画は、文化年間にまとめられた『大島私考』に「薩摩藩政下、十四ヶ村を宇検方ト云フ」とあることを紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uken-plan
+  - text: 宇検方役場の所在地は、藩政時代以降、宇検集落から移ることはなかったと宇検村の総合振興計画は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uken-plan
+  - text: 明治41年（1908年）4月1日、島嶼町村制の施行により、焼内間切宇検方及び西間切西方の区域をもって焼内村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-uken-wiki
+    - s5-kagoshima-oshima-gaikyo
+  - text: 大正5年（1916年）5月20日、焼内村から西方村が分立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-kagoshima-oshima-gaikyo
+  - text: 焼内村は大正6年（1917年）に宇検村へ改称されたが、改称日は市区町村変遷情報とWikipediaが8月15日とする一方、鹿児島県の奄美群島の沿革資料は11月1日としており、資料間で食い違う
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - s5-uken-uub
+    - s5-uken-wiki
+    - s5-kagoshima-oshima-gaikyo
+  - text: 村の初名「焼内」は村が抱える焼内湾の名で、琉球国の時代には屋喜内（焼内）間切が置かれていたとされる
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s5-uken-wiki
+  - text: 村は焼内湾を取り囲むように点在する14の集落からなる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-uken-wiki
+  column:
+    title: 9年だけ名乗った「焼内村」――湾の名から古い区画の名へ
+    text: 宇検村は、発足からの約9年間「焼内村」だった。焼内は村が抱える深い入江・焼内湾の名で、琉球国の時代の屋喜内間切以来の呼び名である。ところが1917年、村は「宇検村」に改称した。宇検は、江戸時代に14か村を束ねた行政区画「宇検方」の名であり、その役場は一貫して宇検集落に置かれていた。新しい行政の名として湾の地形名を掲げた村が、わずか9年で古くからの区画の名に回帰したことになる。奄美大島で現行の村名が一度変えられた例は少なく、この改称は宇検という名の土地への根付きの強さを示している。
+    sources:
+    - s5-uken-wiki
+    - s5-uken-plan
+    - s5-kagoshima-oshima-gaikyo
+  relations:
+  - pref/46
+  - muni/46-瀬戸内町
+  unknowns:
+  - 「宇検」という名の語源（なぜ「検」の字なのか）は、公的・専門資料では確認できなかった。田検・芦検など「検」の付く集落名との関係も未確認
+  - 1917年の改称の理由を明示した資料は確認できなかった
+  - 焼内村から宇検村への改称日は資料により8月15日と11月1日に分かれる（claimsに両論併記）
+  updated: '2026-11-13'
+- id: muni/46-屋久島町
+  code: '465054'
+  names:
+    ja: 屋久島町
+    reading: やくしまちょう
+    aliases:
+    - 屋久町
+    - 上屋久町
+    - 下屋久村
+    - 上屋久村
+  user_terms:
+  - やくしま
+  - 縄文杉の島
+  - 世界遺産の島の町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 屋久島と口永良部島の全域を占める町で、平成19年（2007年）10月1日に上屋久町と屋久町が合併して発足した。新町名は、どちらの旧町名にも入っていなかった島そのものの名「屋久島」を採用したもので、島の名は『日本書紀』に「掖久」と現れるほど古い。旧屋久町は下屋久村（1889年設立）が1959年に町制・改称したもの、旧上屋久町は上屋久村が1958年に町制したものである。
+  first_attestation:
+    era: 推古天皇24年
+    year_western: 616
+    document: 『日本書紀』
+    note: 「掖久（やく）」の人の来朝を記す記事が島名の初出とされる。ただし『隋書』大業3年（607年）の「夷邪久」を最初とする説もあり、それが屋久島を指すかどうかには諸説がある（いずれもWikipedia「屋久島」の紹介による）
+  claims:
+  - text: 屋久島町の地方公共団体コードは465054である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 平成19年（2007年）10月1日に熊毛郡上屋久町と熊毛郡屋久町が合併して熊毛郡屋久島町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-soumu-gapei-kagoshima
+  - text: 旧屋久町は1889年（明治22年）に設立された下屋久村が1959年（昭和34年）に町制を施行して屋久町となったものであると町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yakushima-kyuyaku
+  - text: 旧上屋久町は上屋久村が1958年（昭和33年）に町制を施行して上屋久町となったものであると町は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s3-yakushima-kyukami
+  - text: 屋久島が文献に現れる最初は中国の『隋書』大業3年（607年）の「夷邪久」の記述とされるが、これが屋久島を指す説と南島全般を指す説とがあるとWikipedia「屋久島」は紹介する
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - s3-yakushima-wiki
+  - text: 『日本書紀』には推古24年（616年）に掖久・夜勾・掖玖の人がやってきた記事があり、『続日本紀』には文武3年（699年）の多褹・掖玖・菴美・度感からの来貢と、大宝2年（702年）に多禰国が成立したことが記されているとWikipedia「屋久島」は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s3-yakushima-wiki
+  - text: 屋久島町は屋久島および口永良部島の全域を行政区域とする町であるとWikipedia「屋久島町」は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s3-yakushimacho-wiki
+  - text: 上屋久村・下屋久村はもと馭謨郡に属し、1896年（明治29年）に熊毛郡の所属となったとWikipedia「熊毛郡」は紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s3-kumage-wiki
+  column:
+    title: 合併で初めて「島の名前」が町名になった
+    text: 屋久島には長く2つの町があった。北部の上屋久町と南部の屋久町である。どちらの名にも「屋久」は入っていたが、「屋久島」という島そのものの名を名乗る自治体はなかった。2007年の合併で新町の名に選ばれたのは、この島の名そのものだった。「掖久」として『日本書紀』に現れて以来、少なくとも1400年近く同じ音で呼ばれてきた島の名が、ようやく自治体の名前になったのである。なお縄文杉や世界自然遺産は島の自然の層であって、町名の由来ではない。
+    sources:
+    - s3-soumu-gapei-kagoshima
+    - s3-yakushima-kyuyaku
+    - s3-yakushima-kyukami
+  relations:
+  - pref/46
+  - muni/46-西之表市
+  - muni/46-南種子町
+  unknowns:
+  - 合併協議会で新町名「屋久島町」がどのような候補・手続き（公募の有無など）で決まったかを示す資料は確認できなかった
+  - 「屋久（掖久）」という島名自体の語源は、確認した資料の範囲では明らかにできなかった
+  - 『日本書紀』『続日本紀』の当該記事は二次資料経由の確認にとどまり、原文を直接確認していない
+  updated: '2026-11-13'
+- id: muni/46-徳之島町
+  code: '465305'
+  names:
+    ja: 徳之島町
+    reading: とくのしまちょう
+    aliases:
+    - 亀津町
+    - 亀津村
+    - 東天城村
+    - とぅくぬしま
+  user_terms:
+  - とくのしま
+  - 徳之島の中心の町
+  - 亀津のある町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 徳之島東部の町。昭和33年（1958年）に亀津町と東天城村が合併して発足し、町名には島名「徳之島」そのものが選ばれた。島名は『続日本紀』の「度感」に比定されることがあるが確定せず、確実な初出は1306年の文書の「とくのしま」とされる。
+  first_attestation:
+    era: 飛鳥時代（文武天皇3年）
+    year_western: 699
+    document: 『続日本紀』
+    note: 「度感」を徳之島とする比定に基づく島名の初出。比定を採らなければ1306年『千竈時家処分状』の「とくのしま」が確実な初出となる
+  claims:
+  - text: 徳之島町の地方公共団体コードは465305である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-kagoshima-muni-list
+  - text: 『続日本紀』文武天皇3年（699年）条の「度感」が徳之島であれば、島の名の記録は7世紀末に遡るが、「度感」の読みも徳之島への比定も確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - s4-tokuda-rekishi
+    - s4-wiki-tokunoshima
+  - text: 「とくのしま」の表記が確実に現れるのは鎌倉時代後期の徳治元年（1306年）の『千竈時家処分状』の「とくのしま」であると徳田虎雄顕彰記念館の資料が紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s4-tokuda-rekishi
+  - text: 島は方言で「とぅくぬしま」と呼ばれ、「とくのしま」の語源に定説はない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - s4-wiki-tokunoshima
+  - text: 明治41年（1908年）の島嶼町村制で、徳之島は亀津村・天城村・島尻村の3村に区画された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-oshima-gaikyou
+  - text: 昭和33年（1958年）4月1日、亀津町と東天城村が合併して徳之島町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s4-oshima-gaikyou
+    - s4-tokunoshima-yoran
+  - text: 町名「徳之島町」は旧町名の「亀津」ではなく、島全体の名「徳之島」そのものを新町名として採用したものと考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - s4-oshima-gaikyou
+  column:
+    title: 島の名をそのまま町名にした合併
+    text: 1958年の合併で生まれた町の名は、合併前の中心地「亀津」ではなく、島そのものの名「徳之島」だった。島の名の歴史は古く、『続日本紀』の「度感」に比定する見方では7世紀末、確実なところでは1306年の文書の「とくのしま」まで遡る。方言では「とぅくぬしま」と呼ばれてきたこの名の語源は、今も解明されていない。島に三つの町がある中で、島名をそのまま名乗るのはこの町だけである。
+    sources:
+    - s4-oshima-gaikyou
+    - s4-tokuda-rekishi
+  relations:
+  - pref/46
+  - muni/46-天城町
+  - muni/46-伊仙町
+  unknowns:
+  - 「とくのしま」の語源の定説は確認できなかった
+  - 『続日本紀』の「度感」が徳之島を指すかどうかは確定していない
+  - 亀津村の町制施行の年月日は、県大島支庁資料（昭和16年12月15日に亀津町へ改称）とWikipedia（昭和17年1月1日町制施行）で表記が異なり、ここでは県資料に従った
   updated: '2026-11-13'
 - id: muni/46-志布志市
   code: '462217'
@@ -944,6 +2265,88 @@ records:
   - 「囎唹」から「曽於」への表記の切り替え時期は特定できなかった
   - 2005年の市名選定過程（公募の有無等）は一次資料で確認できなかった
   updated: '2026-11-13'
+- id: muni/46-東串良町
+  code: '464821'
+  names:
+    ja: 東串良町
+    reading: ひがしくしらちょう
+    aliases:
+    - 東串良村
+    - 串良郷
+    - 久西良
+  user_terms:
+  - ひがしくしら
+  - 串良の東側の町
+  naming_type: 一部の地名
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 鹿児島県肝属郡の町。地名「串良（くしら）」は、神の使いが「髪梳の神がいた」と報告したことから隼人の言葉で「久西良の郷」と呼ばれるようになったという命名譚が伝えられる古い郷名である。江戸時代は東・西を合わせた串良郷（外城）として統治され、1889年の町村制で郷が東西に分かれて東半が東串良村となり、1932年10月1日に町制を施行して東串良町となった。西半の西串良村は串良町と改称し2006年に鹿屋市へ合併したが、東串良町は単独の町として残った。
+  first_attestation:
+    era: 不明
+    year_western: null
+    document: 農林水産省資料が引用する『大隅風土記』の記事（「久西良の郷」の命名譚）
+    note: 原典の成立年代・現存状況は確認できていないため、伝承としての最古層として記録する。「串良」の表記による文献上の初出は未確認
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、東串良町の団体コードは464821とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『大隅風土記』の記事として、国造りの神が出した使いが帰って「髪梳（かみくし）の神がありました」と申し上げたので、神はその村を髪梳きの村と言うように仰せられ、隼人のことばで「久西良（くしら）の郷」というようになったという命名譚を、農林水産省の地域資料が引用している
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - s2-kushira-maff
+  - text: 江戸時代、現在の東串良町と旧串良町の区域は薩摩藩の直轄領であり、串良郷（外城）として一体に統治され、地頭仮屋は後の串良町役場周辺に置かれたとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kushira-wiki
+  - text: 明治初年の串良郷は、新川西村・川東村・川西村・岩弘村・池之原村（現・東串良町）と上小原村・下小原村・岡崎村・細山田村・有里村（現・鹿屋市）からなっていたと、『角川日本地名大辞典』に基づく郷構成としてWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kimotsuki-gun-wiki
+  - text: 1889年4月1日の町村制施行で串良郷は東西に分けられ、東側が東串良村、西側が西串良村として発足したとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kimotsuki-gun-wiki
+    - s2-kushira-wiki
+  - text: 東串良村は1889年4月1日から1932年10月1日まで存続し、同日に東串良町となったことを、国立情報学研究所「歴史的行政区域データセットβ版」は記録している（西串良村は同年5月15日に町制施行し串良町と改称した）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-higashikushira-geoshape
+    - s2-kimotsuki-gun-wiki
+  - text: 平成の大合併では、東串良町は肝属東部の合併協議に参加したが、2003年12月に町議会が合併協議会からの離脱決議を可決するなどして協議はまとまらず、東串良町は単独の町として存続したと、市区町村変遷情報データベースは記録している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s2-kimotsuki-uub
+  column:
+    title: 東西に分かれた串良、二つの運命
+    text: 1889年、串良郷はまん中で東西に割れた。西半分の西串良村は1932年に町制を施行する際、「西」を捨てて串良町と名乗り、本家の名を継いだ。ところがその串良町は2006年、鹿屋市との合併で消え、今は「鹿屋市串良町」という大字の冠として残るだけである。一方、東半分の東串良村は同じ1932年に東串良町となり、「東」を付けた側の名のまま、今も独立した町として続いている。本家を名乗った西が消え、分家のような「東」が残るという、逆転した結末になった。
+    sources:
+    - s2-kushira-wiki
+    - s2-higashikushira-geoshape
+    - s2-kimotsuki-gun-wiki
+  relations:
+  - pref/46
+  - muni/46-肝付町
+  - muni/46-鹿屋市
+  unknowns:
+  - 『和名類聚抄』の大隅国肝属郡に串良郷が収録されているかは確認できなかった
+  - 『大隅風土記』と呼ばれる原典の成立年代・書誌は確認できなかった
+  - 「串良」の語源について、命名譚以外の学術的な説明は確認できなかった
+  updated: '2026-11-13'
 - id: muni/46-枕崎市
   code: '462047'
   names:
@@ -1019,6 +2422,330 @@ records:
   - 「枕崎」の言語学的な語源（瀬崎からの転訛か等）は専門資料で確定できなかった
   - 金仏漂着の故事の原典（いつ・どの資料に初めて記録されたか）は確認できなかった
   - 鰹節の形に由来するという俗説がいつ頃から語られるようになったかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-湧水町
+  code: '464520'
+  names:
+    ja: 湧水町
+    reading: ゆうすいちょう
+    aliases: []
+  user_terms:
+  - ゆうすい
+  - 丸池湧水の町
+  - 栗野と吉松が合併した町
+  - 名水の町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 2005年（平成17年）3月22日、姶良郡の栗野町と吉松町が新設合併して発足した町。町名は、旧吉松町の竹中池と旧栗野町の丸池（丸池湧水）という、両町を代表する湧水に由来する。霧島山麓の盆地に位置し、年中涸れない湧水が水道水源や灌漑に使われてきた土地である。
+  first_attestation:
+    era: 平成時代
+    year_western: 2005
+    document: 栗野町・吉松町を廃し、湧水町を置く件（平成17年総務省告示第131号、2005年3月22日施行）
+    note: 「湧水町」という自治体名の初出はこの合併による命名そのもの。名称自体は2004年3月25日の第20回法定合併協議会で決定された
+  claims:
+  - text: 湧水町の地方公共団体コードは464520である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 湧水町は2005年（平成17年）3月22日に姶良郡の吉松町と栗野町が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-yusui-town-background
+  - text: 新町名称「湧水町」は2004年（平成16年）3月25日の第20回法定合併協議会（吉松町・栗野町合併協議会）で決定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-yusui-town-background
+  - text: 町名は、町域の竹中池（旧吉松町内）と丸池（旧栗野町内）から湧き出る湧水に由来すると説明されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s1-yusui-wiki
+  - text: 町の計画書は、竹中池と丸池について「年中途絶えることなく冷水が湧き出でる」とし、水道の水源や水田灌漑用水として利用されていると述べ、丸池は名水百選に選ばれた「丸池湧水」であるとする。また新町の将来像では「豊富で清らかな湧水など恵まれた自然環境」を町の特性として掲げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-yusui-plan
+  - text: 旧栗野町は、明治22年（1889年）の市町村制実施で栗野郷が栗野村となった地域で、昭和7年（1932年）4月1日に町制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s1-yusui-plan
+  - text: 旧吉松町の名「吉松」は、島津義弘が亀鶴城の周辺に「亀鶴松竹」のうち亀・鶴・竹にあたる地名が揃っていたところへ残りの「松」を入れて永く栄えることを祈願して改名したことに由来する、と『吉松郷土誌』に基づく伝承として語られている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - s1-yoshimatsu-wiki
+  column:
+    title: 両町から1つずつ持ち寄った「水」で名付けた町
+    text: 合併で生まれる町名は、旧町名の合成か、全く新しい名かで揉めることが多い。湧水町の場合は、吉松の竹中池と栗野の丸池という、両町にそれぞれあった名水を持ち寄る形の命名だった。竹中池は霧島山麓の湧水を集めた池で、丸池は1985年に名水百選に選ばれた丸池湧水。どちらの町にも偏らない「水」という共通項を選んだことで、旧町名をどちらも残さない新名称が受け入れられた。町内にはこのほか筒羽野の疏水など水にまつわる名所も多い。
+    sources:
+    - s1-yusui-wiki
+    - s1-yusui-plan
+  relations:
+  - pref/46
+  - muni/46-さつま町
+  - muni/46-伊佐市
+  unknowns:
+  - 合併協議会が「湧水」を選定した理由を記した協議会資料そのものは確認できなかった（名称の決定日と決定機関は町公式サイトで確認済み）
+  - 新町名の候補にどのような案があったかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-瀬戸内町
+  code: '465259'
+  names:
+    ja: 瀬戸内町
+    reading: せとうちちょう
+    aliases: []
+  user_terms:
+  - 古仁屋のある町
+  - 大島海峡の町
+  - 加計呂麻島の町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 奄美大島南端部と加計呂麻島・請島・与路島からなる町で、中心集落は古仁屋。1956年に古仁屋町・西方村・実久村・鎮西村が合併して発足した。町名「瀬戸内」は、本州の瀬戸内海にあやかった新造名ではなく、合併前から「瀬戸内五カ村」と呼ばれていた一帯の古い呼称で、1595年の古文書に「せんとうち」と平仮名で見えるという。
+  first_attestation:
+    era: 文禄4年
+    year_western: 1595
+    document: 須子茂文書
+    note: 加計呂麻島の須子茂に伝わる古文書に「せんとうち」という地名呼称が平仮名で見えることを瀬戸内町立図書館・郷土館が紹介する（同館の紹介による）。町名としての採用は1956年
+  claims:
+  - text: 瀬戸内町の地方公共団体コードは465259である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和31年（1956年）9月、町村合併促進法の適用を受けて古仁屋町・西方村・実久村・鎮西村の4町村が対等合併し、瀬戸内町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-setouchi-lib
+    - s5-setouchi-yoran
+  - text: 「瀬戸内」という呼称は、合併前まで宇検村の一帯も含めて「瀬戸内五カ村」とも用いていたことから、合併の際に反対意見なくすんなりと新町名に決定したという
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-setouchi-lib
+  - text: 加計呂麻島の須子茂に伝わっていた文禄4年（1595年）の古文書には、「せんとうち」という地名呼称が平仮名書きで見えていると瀬戸内町立図書館・郷土館は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-setouchi-lib
+  - text: 町立図書館・郷土館は、「瀬戸内」という呼称は日本の瀬戸内海を真似て創られた地名ではなく、波の穏やかな海を指す言葉としてかつて日本・琉球で「せとうち」「せんとうち」が使われていたのかもしれないと述べる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - s5-setouchi-lib
+  - text: 町名の由来は大島海峡の別名「瀬戸内」に因むとも説明される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-setouchi-wiki
+  - text: 町の中心集落は古仁屋で、古仁屋港が他の島や各集落への拠点となっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-setouchi-wiki
+  - text: 町域は奄美大島南部、加計呂麻島、請島、与路島の4島に点在する56の集落からなる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-setouchi-lib
+  column:
+    title: 瀬戸内海の「真似」ではなかった――1595年の文書に残る名前
+    text: 「瀬戸内町」と聞くと、本州の瀬戸内海の風景にあやかって付けた名前だと思う人が多い。だが瀬戸内町立図書館・郷土館によれば、この一帯を「瀬戸内」と呼ぶ言い方は古くからあり、加計呂麻島の須子茂に伝わる1595年（文禄4年）の古文書には、すでに「せんとうち」と平仮名で記されていた。合併前のこの地域は、隣の宇検村一帯まで含めて「瀬戸内五カ村」とも呼ばれていたため、1956年の合併で「瀬戸内町」と名乗ることに反対はなかったという。入り江が多く波の穏やかな大島海峡の海を指す言葉が、そのまま町名になった。図書館はこの名を「古くて新しい名前」と呼んでいる。
+    sources:
+    - s5-setouchi-lib
+  relations:
+  - pref/46
+  - muni/46-宇検村
+  unknowns:
+  - 須子茂文書の「せんとうち」が具体的にどの範囲（海峡か一帯の集落か）を指していたかは、文書の性格上確定できなかった
+  - 中心集落・古仁屋の地名の由来は、本バッチの調査範囲では確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-知名町
+  code: '465348'
+  names:
+    ja: 知名町
+    reading: ちなちょう
+    aliases:
+    - 知名村
+  user_terms:
+  - ちな
+  - 沖永良部島の西半分の町
+  naming_type: その他（古くからの中心集落「知名」の名を村名・町名として継承）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 沖永良部島の西半分を占める町。読みの「ちな」は方言名ヂンニャに由来し、『沖永良部島地名考』はその語源を「焼畑を行う場所」を意味するキナとする。1908年に知名村として発足し、米軍統治下の1946年に町制を施行した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「ちな」の名の古い用例は確認できなかった。方言名ヂンニャの初出も未確認
+  claims:
+  - text: 知名町の地方公共団体コードは465348である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 知名町は明治41年（1908年）4月1日に村制を施行し、昭和21年（1946年）9月1日に町制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-china-town
+    - s5-china-wiki
+  - text: 知名町は海抜245メートルの大山を中心に、その裾野に21の集落が形成されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-china-town
+  - text: 『沖永良部島地名考』は、知名の方言名ヂンニャは「焼畑を行う場所」を意味するキナに由来するとし、知名は大山の南に位置して日当たりが良く、島内でも最大規模の焼畑耕作地だったと思われると紹介する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s5-okinoerabu-aza
+  - text: 和泊町の手々知名・上手々知名の「知名」も、同じくキナ（焼畑を行う場所）に由来すると考えられており、「ちな」の名は島の東西に分布する
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s5-okinoerabu-aza
+  - text: 慶長14年（1609年）、薩摩藩の琉球侵攻の結果、沖永良部島は薩摩藩直属領となり、元禄3年（1690年）には徳之島代官の行政を離れて沖永良部島に代官所が設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-china-town
+  - text: 島名の古層として、琉球王国の歌集『おもろさうし』に「ゑらぶしま」「ゑらぷせりよさ」と見え、島は古く「せりよさ」とも呼ばれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-nakamoto-erabu
+  column:
+    title: 焼畑の島に残る「キナ」の地名
+    text: 知名の「ちな」は、焼畑の記憶を宿した名前である。『沖永良部島地名考』によれば、知名の方言名ヂンニャは「焼畑を行う場所」を意味するキナの転じたもので、知名は大山の南に広がる日当たりの良い土地で、島内最大規模の焼畑耕作地だったと考えられる。キナを含む地名は島内に多く、田皆（タンニャ＝田とキナ）、久志検（グシキヌ）、和泊町の手々知名なども同じ系統とされる。川がほとんどなく水に乏しい隆起サンゴ礁の島では、焼畑こそが暮らしの土台だった。その営みの地名が、東西両町にまたがって今も残っている。
+    sources:
+    - s5-okinoerabu-aza
+  relations:
+  - pref/46
+  - muni/46-和泊町
+  unknowns:
+  - ヂンニャに「知名」の漢字が当てられた時期・経緯は確認できなかった
+  - キナ（焼畑）説以外の「ちな」の語源説は、調査範囲では確認できなかった
+  - 沖永良部島代官所の設置年は、町公式が元禄3年（1690年）、『日本歴史地名大系』が元禄4年（1691年）としており、資料間で1年の差がある
+  updated: '2026-11-13'
+- id: muni/46-肝付町
+  code: '464929'
+  names:
+    ja: 肝付町
+    reading: きもつきちょう
+    aliases:
+    - 肝杯
+    - 肝坏
+    - 高山町
+    - 内之浦町
+  user_terms:
+  - きもつき
+  - ロケットの町
+  - 内之浦のある町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 鹿児島県肝属郡の町。2005年7月1日、高山町と内之浦町が合併して発足した。町名「肝付」は、平安時代にこの地の郡司の一族が郡名を取って名乗った氏族名「肝付氏」に連なる古い名で、所属する郡の名は同じ読みの「肝属郡」と書く。新町名は公募の最終決選で、読みが同じ「肝付」と「肝属」の2案から「肝付」が選ばれた。「きもつき」という読み自体は、713年の大隅国設置以来の郡名に遡る。
+  first_attestation:
+    era: 和銅6年
+    year_western: 713
+    document: 大隅国設置に伴う郡名として（『続日本紀』の記事として伝えられる）
+    note: 原文を直接確認できていないため、主張側ではE5として格下げして扱う。郡名には「肝杯」「肝坏」などの異表記が伝えられる
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、肝付町の団体コードは464929とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 肝属郡は、713年の大隅国設置当初から存在した4郡のひとつであるとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kimotsuki-gun-wiki
+  - text: 郡名「きもつき」は、古い記録では「肝杯」「肝坏」などの異なる漢字で書かれることもあったとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kimotsuki-gun-wiki
+    - s2-kinko-wiki
+  - text: 平安時代、伴氏の一族が大隅国肝属郡の郡司・弁済使となり、兼俊の代に郡名を取って「肝付」を名乗り、高山城を拠点とする肝付氏となったとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kimotsuki-shi-wiki
+  - text: 肝属山地には、神武天皇の父母らを葬ったと伝える神代三陵（可愛山陵・高屋山上陵・吾平山上陵）があり、明治7年に宮内省によって皇族の陵墓と治定されたとWikipediaは紹介している
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - s2-kimotsuki-shi-wiki
+  - text: 1889年の町村制で高山村・内之浦村が発足し、1932年に高山村は高山町（4月1日）に、内之浦村は内之浦町（10月1日）になったと、市区町村変遷情報データベースは記録している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s2-kimotsuki-uub
+  - text: 2005年7月1日、高山町と内之浦町が新設合併して肝付町が生まれたと、市区町村変遷情報データベースは記録し、Wikipediaも旧高山町と旧内之浦町が合併して誕生した町であると紹介している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s2-kimotsuki-uub
+    - s2-kimotsuki-wiki
+  - text: 新町名は公募され、上位10点・候補8点を経て最終候補が「肝付」と「肝属」の2点（いずれも読みは「きもつき」）となり、「肝付町」が選ばれた。また高山町議会は新町名を「国見町」とするよう求める決議を可決していたと、市区町村変遷情報データベースは記録している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s2-kimotsuki-uub
+  column:
+    title: 読みは同じ、字が違う——「肝付」対「肝属」の最終決選
+    text: 2005年の合併で新しい町の名を決めるとき、公募の最終候補に残ったのは「肝付」と「肝属」だった。読みはどちらも「きもつき」でまったく同じ。違うのは最後の漢字だけである。「肝属」は今も郡名に使われる由緒ある表記で、「肝付」は中世にこの地を治めた肝付氏の表記だった。選ばれたのは「肝付」。つまりこの町の名付けは、音の争いではなく、千三百年の歴史の中で揺れてきた漢字表記の、最後の決定戦だった。ちなみに高山町議会は「国見町」を求める決議まで出していたが、それも含めて退けられた末の「肝付」である。
+    sources:
+    - s2-kimotsuki-uub
+    - s2-kimotsuki-shi-wiki
+  relations:
+  - pref/46
+  - muni/46-東串良町
+  - muni/46-錦江町
+  - muni/46-南大隅町
+  unknowns:
+  - 「きもつき」という地名の語源（なぜ「肝」の字が当てられたか）を説明した専門資料は確認できなかった
+  - 『和名類聚抄』における肝属郡・郷の記載とその読み（万葉仮名）は、原典を確認できなかった
+  - 『続日本紀』713年条の郡名の表記は、伝える資料によって「肝杯」「肝坏」など異なり、原文での確定はできなかった
   updated: '2026-11-13'
 - id: muni/46-薩摩川内市
   code: '462152'
@@ -1176,6 +2903,180 @@ records:
   unknowns:
   - 「西之表」という地名の語源（「表」の意味を含む）は、確認した市公式資料・県公式資料・専門辞典の範囲では明らかにできなかった
   - 大正15年（1926年）に北種子村から西之表町へ改称した理由は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-錦江町
+  code: '464902'
+  names:
+    ja: 錦江町
+    reading: きんこうちょう
+    aliases:
+    - 大根占町
+    - 田代町
+  user_terms:
+  - きんこう
+  - 錦江湾に面した町
+  naming_type: 合併新設
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 鹿児島県肝属郡の町。2005年3月22日、大根占町と田代町が合併して発足した。町名「錦江」は、町の西に広がる錦江湾（鹿児島湾の別名）から採られ、一般公募で決まった。湾名「錦江」の起源は、島津氏第18代家久が詠んだ「浪のおりかくる錦は磯山の梢にさらす花の色かな」という歌にあると鹿児島県は紹介している。旧町域は中世に禰寝院の荘園支配を受けた地域で、大根占・田代の両郷が町村制以来の町の骨格である。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 大根占町・田代町合併協議会における新町名の決定
+    note: 町名そのものの初出。湾名「錦江」の側の起源は、島津家久の歌に遡るという伝承として別に記録する
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、錦江町の団体コードは464902とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005年3月22日、大根占町と田代町が新設合併して錦江町が生まれたと、市区町村変遷情報データベースは記録している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s2-kinko-uub
+  - text: 町名は、町の西側に広がる錦江湾（鹿児島湾）に由来し、一般公募により決定されたとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kinko-wiki
+  - text: 新町名の公募では上位4点が大田・大代・大根田・南隅と旧町名にちなむ案だったが、最終候補6点（青葉・大隅中央・錦江・滝瀬・滝花・実野里）の中から「錦江」が選ばれたと、市区町村変遷情報データベースは記録している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s2-kinko-uub
+  - text: 鹿児島県は公式ページ「地名の由来」で、錦江湾の名の起源は、島津氏第18代家久が鳳山和尚の庵を訪ねて詠んだ「浪のおりかくる錦は磯山の梢にさらす花の色かな」という歌であるといわれると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-kagoshima-pref-yurai
+  - text: 一方で、「錦江」はもともと黒川（日木山川）の別称であり、明治時代に入ってから海の呼称に転化したとする説もあり、湾名の成立過程については見解が分かれるとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - s2-kagoshimawan-wiki
+  - text: 湾の正式な名は鹿児島湾で、1955年の錦江湾国定公園の指定以降、地図などで「鹿児島湾（錦江湾）」と併記されることが広がったとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kagoshimawan-wiki
+  - text: 旧町域は713年に大隅国が置かれて以来の郡に属し、平安中期には禰寝院として荘園支配がなされた。江戸時代の大根占郷・田代郷は1889年の町村制でそのまま大根占村・田代村となり、大根占村は1933年、田代村は1961年に町制を施行したとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-kinko-wiki
+  column:
+    title: 合成地名の候補を破った「海の名前」
+    text: 平成の大合併では、旧町名の文字を組み合わせた合成地名が各地に生まれた。錦江町の公募でも、当初は大根占の「大」と田代の「田」を取る「大田」「大根田」などが上位に入っていた。ところが最終候補の段階で残ったのは「錦江」だった。西に広がる錦江湾の名である。その湾名の源は、島津家久が波と花を錦にたとえた歌に遡るという。旧町名のどちらも残さない代わりに、四百年前に詠まれた歌の海の名を、町は自分の名として引き継いだ。
+    sources:
+    - s2-kinko-uub
+    - s2-kinko-wiki
+    - s2-kagoshima-pref-yurai
+  relations:
+  - pref/46
+  - muni/46-南大隅町
+  - muni/46-肝付町
+  unknowns:
+  - 合併協議会が最終候補の中から「錦江」を選んだ理由を記した公式文言は確認できなかった（湾に由来することはWikipediaの説明による）
+  - 新町名公募の応募総数は確認できなかった
+  - 「大根占」「田代」という旧町名それぞれの由来は確認できなかった
+  updated: '2026-11-13'
+- id: muni/46-長島町
+  code: '464040'
+  names:
+    ja: 長島町
+    reading: ながしまちょう
+    aliases:
+    - 仲島
+    - 大仲島
+    - 東長島村
+    - 西長島村
+    - 東町
+  user_terms:
+  - ながしま
+  - 古墳の島
+  - じゃがいもの島
+  naming_type: その他
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 鹿児島県出水郡の町で、長島本島を中心とする島々の町。町名は島名「長島」の継承で、2006年3月20日、東町と（旧）長島町が新設合併した際に、住民募集で最も応募が多かった「長島町」が新町名に選ばれた。島は古くは仲島・大仲島とも呼ばれ、元は肥後国天草郡に属したが戦国時代に島津氏の支配下に入って薩摩国出水郡に移り、鎌倉時代には長島氏が島名を名乗って領有した。1889年に東長島村・西長島村に分かれて以来、117年ぶりに一つの「長島」に戻った形である。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 長島町公式サイト「歴史」（長島氏が地名を名乗って領有したとする紹介）
+    note: 島名「長島」の文献上の初出そのものは確認できておらず、町公式が伝える長島氏の名乗りを最古層として記録する
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、長島町の団体コードは464040とされている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 長島は古くは仲島、あるいは大仲島と呼ばれていたとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-nagashima-island-wiki
+  - text: 長島は元来、肥後国天草郡の一部であったが、1565年（永禄8年）の堂崎城落城をはじめとする島津氏の侵攻を経て薩摩に属するようになり、天正9年（1581年）に薩摩国出水郡へ移管されたとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-nagashima-island-wiki
+    - s2-izumi-gun-wiki
+  - text: 鎌倉時代になると、長島は長島氏が地名を名乗って領有するようになり、同氏は戦国時代まで海の豪族として活躍したと、長島町公式サイト「歴史」は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-nagashima-town-history
+  - text: 江戸時代には薩摩藩の外城の一つとして長島郷が置かれ、明治22年（1889年）の町村制施行で島は東長島村と西長島村の2村に分かれたと、長島町公式サイトは紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-nagashima-town-history
+  - text: 東長島村は1956年7月10日に東町と改称して町制を施行し、西長島村は1960年1月1日に長島町と改称して町制を施行した。そして2006年3月20日、東町と長島町が合併して新しい長島町となったと、長島町公式サイトは紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s2-nagashima-town-history
+  - text: 2006年の合併にあたって町名は住民らから募集され、合併協議会により最も応募数が多かった「長島町」に決定した。他の案には「ながしま町」「新長島町」「東西長島町」「薩摩長島町」「黒之瀬戸町」があったとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-nagashima-wiki
+  - text: 出水郡は現在、長島町のみを含む郡であり、町域は長島本島・諸浦島・伊唐島・獅子島などからなるとWikipediaは紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s2-izumi-gun-wiki
+    - s2-nagashima-island-wiki
+  column:
+    title: 肥後から薩摩へ、東西に分かれて117年
+    text: 長島はもともと肥後の島だった。天草諸島の南端にあり、戦国時代に島津氏が攻め落とすまでは肥後国天草郡に属していた。薩摩に移ってからも島の運命は揺れ、1889年には東長島村と西長島村に二分される。西は1960年に島の名そのままの「長島町」を名乗ったが、東は1956年に「東町」となっていた。2006年の合併で新町名を募集すると、最も多かったのはやはり「長島町」だった。候補には町を潤す急潮で知られる「黒之瀬戸町」もあったが、選ばれたのは島の名そのもの。二つに分かれて117年、島は一つの名前を取り戻した。
+    sources:
+    - s2-nagashima-town-history
+    - s2-nagashima-wiki
+    - s2-nagashima-island-wiki
+  relations:
+  - pref/46
+  unknowns:
+  - 島名「長島」の文献上の初出は確認できなかった
+  - 古称「仲島」「大仲島」から「長島」へ改まった時期と理由は確認できなかった
+  - 『和名類聚抄』の肥後国天草郡に長島に関わる郷名が収録されているかは確認できなかった
   updated: '2026-11-13'
 - id: muni/46-阿久根市
   code: '462063'
@@ -1504,6 +3405,88 @@ records:
   - 『和名類聚抄』の「鹿屋」の原文（漢字表記と万葉仮名の読み）は二次資料経由でしか確認できていない
   - 鹿屋城下が整備された近世以降の地名の広がりについては、市史の通史編そのものは未確認である
   updated: '2026-11-13'
+- id: muni/46-龍郷町
+  code: '465275'
+  names:
+    ja: 龍郷町
+    reading: たつごうちょう
+    aliases:
+    - 龍郷村
+  user_terms:
+  - たつごう
+  - 西郷隆盛が潜居した町
+  - 奄美大島北部の町
+  naming_type: その他（近世の行政区画「龍郷方」の名を村名・町名として継承）
+  prefecture: 鹿児島県
+  homonyms: []
+  summary: 奄美大島北部の町。名は近世の行政区画「龍郷方」に由来し、『日本歴史地名大系』によれば中心集落はタジゴ・タズゴウとも呼ばれ、古くは瀬獅子（シシキョ）と称したが享保13年（1728年）頃を境にその村号は用いられなくなった。1908年に3つの「方」の区域をもって龍郷村が発足し、1975年に町制を施行した。西郷隆盛が潜居した地としても知られるが、地名の古層はそれよりはるかに古い。
+  first_attestation:
+    era: 享保13年
+    year_western: 1728
+    document: 龍郷町誌（『日本歴史地名大系』が引用）
+    note: 『日本歴史地名大系』が『龍郷町誌』に基づき、この頃を境に旧称「瀬獅子（シシキョ）」の村号が用いられなくなったと紹介する。「龍郷」の名が定着した時期の目安であり、それ以前の用例の始期は未確認
+  claims:
+  - text: 龍郷町の地方公共団体コードは465275である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治41年（1908年）4月1日、島嶼町村制の施行により、名瀬間切龍郷方、笠利間切赤木名方及び古見間切瀬名方の区域をもって龍郷村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-tatsugo-wiki
+  - text: 龍郷村は昭和50年（1975年）2月10日に町制を施行し、龍郷町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s5-tatsugo-uub
+  - text: 『日本歴史地名大系』は、龍郷は名瀬間切龍郷（たじご）方のうちにあり、タズゴウとも呼ばれたと紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-tatsugo-kotobank
+  - text: 『日本歴史地名大系』は『龍郷町誌』に基づき、龍郷の古い名はシシキョまたはナガキョで、瀬獅子村・瀬志子村・瀬子郷村などの表記があったが、享保13年（1728年）頃を境にこの村号は用いられなくなったと紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-tatsugo-kotobank
+  - text: 龍郷集落は昔「シシキョ・ナガシマ」「ヒヒキョ・ナガジマ」と呼ばれていたが、「ヒヒキョ」という言葉は「火が付く」という意味があり、たびたび火事が起こった時に縁起を担いで現在の名称に変えたという言い伝えがある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s5-tatsugo-town
+  - text: 西郷隆盛は龍郷で3年間にわたって謫居生活を送り、島の名家・龍家の愛加那との間に一男一女（菊次郎・菊子）をもうけたと龍郷町公式は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-tatsugo-town
+  - text: 近世の奄美大島は元禄年間に7間切14方となり、現在の龍郷町の町域は龍郷方・赤木名方・瀬名方の3方に跨がっている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-tatsugo-jwu
+  column:
+    title: 「火が付く」名を捨てた集落――シシキョから龍郷へ
+    text: 龍郷の中心集落は、古くは瀬獅子（シシキョ）と呼ばれていた。町公式の紹介する言い伝えでは、集落は「ヒヒキョ・ナガジマ」とも呼ばれたが、「ヒヒキョ」は「火が付く」を連想させ、火事のたびに縁起を担いで今の名に変えたという。『日本歴史地名大系』によれば、瀬獅子村・瀬志子村・瀬子郷村といった表記は享保13年（1728年）頃を境に使われなくなった。つまり龍郷という名は、西郷隆盛がこの地に潜居する130年以上も前に定着していたことになる。「西郷どんの町」の古層には、火事を忌んだ島の人々の改名の物語が横たわっている。
+    sources:
+    - s5-tatsugo-town
+    - s5-tatsugo-kotobank
+  relations:
+  - pref/46
+  - muni/46-奄美市
+  unknowns:
+  - 「龍郷」の漢字がなぜ選ばれたか、タジゴ・タツゴーという音そのものの語源は確認できなかった
+  - 龍郷方が設置された年代は確認できなかった
+  updated: '2026-11-13'
 sources:
   b-cap-chiba-soumu-code:
     label: 総務省「地方公共団体コード一覧」
@@ -1531,6 +3514,93 @@ sources:
   l6-kirishima-townshi:
     label: 霧島市「霧島町史 第四編 現代の霧島町」（1934年の国立公園指定を機に論議され、1935年に東襲山村が霧島村へ改称した経緯）
     url: https://www.city-kirishima.jp/kyoudoshi/j05_kirishima_04_gendai.pdf
+  s1-mishima-vill-plan:
+    label: 三島村「三島村離島振興計画（令和5年度〜令和14年度）」（村公式計画。三島村は竹島・硫黄島・黒島の3島で構成されること、行政区域は3島であること）
+    url: http://mishimamura.com/system/wp-content/uploads/2023/03/4c8f2a1e962eab996541365c7e1ae3af.pdf
+  s1-mishima-wiki:
+    label: Wikipedia「三島村」（竹島・硫黄島・黒島の3つの有人島があることから「三島」の名があること、江戸時代は薩摩国川辺郡十島〈川辺十島〉に属したこと、1908年4月1日に十島村〈じっとうそん〉として設置されたこと、1946年2月2日のSCAPIN第677号で北緯30度以南が米施政下となり上三島は鹿児島市に十島村仮役場を置いたこと、同年2月11日に黒島で開かれた三島村設立委員会の日を村が「建村日」としていること、1952年2月10日に鹿児島県告示第74号・第75号により境界変更と名称変更が行われ三島村となったこと、1973年4月1日に鹿児島郡へ変更されたこと、村役場は鹿児島市内に置かれていること）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91
+  s1-osaki-plan:
+    label: 大崎町「第3次大崎町総合計画」（町公式計画。大崎町を含む地域は古くは救仁〈くに〉と呼ばれていたこと、「大崎」という地名が記録上に現れるのは室町時代後期で肝付氏により大崎城が築城されたことによること、島津氏により大崎郷が創設され1889年の町村制実施時に大崎郷内の10村が合併して大崎村が成立したこと、1936年の町制施行と1955年の野方村との合併を経て現在に至ること）
+    url: https://www.town.kagoshima-osaki.lg.jp/ke_kikaku/machiannai/shisaku/kekaku/documents/honpen.pdf
+  s1-osaki-wiki:
+    label: Wikipedia「大崎町」（1889年4月1日に南諸県郡の仮宿村・永吉村・横瀬村・神領村・益丸村・菱田村・持留村・岡別府村・野方村・井俣村の区域をもって大崎村が成立したこと、1891年8月8日に大字野方が野方村として分村したこと、明治初期までは現在の志布志市とともに日向国諸県郡に属していたこと）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B4%8E%E7%94%BA
+  s1-satsuma-net-plan:
+    label: さつま町「第5次さつま町農林業いきいきプラン」（町公式資料。平成17年に旧宮之城町・鶴田町・薩摩町の3町が合併してさつま町が誕生したと明記）
+    url: https://www.satsuma-net.jp/material/files/group/11/ikiikiplan2.pdf
+  s1-satsuma-uub:
+    label: 市区町村変遷情報（都道府県市区町村）「さつま町（鹿児島県薩摩郡）」（2005年3月22日に宮之城町・鶴田町・薩摩町が新設合併してさつま町が発足したこと、新町名候補19点から最終候補6点〈薩摩・さつま・北さつま・新さつま・宮之城・さつみ〉を経て「さつま町」に決定したこと、合併協議では当初7町・5町の枠組みも検討され住民投票を経て3町に落ち着いた経過）
+    url: https://uub.jp/upd/c/685.html
+  s1-satsuma-wiki:
+    label: Wikipedia「さつま町」（1954年10月15日に宮之城町と佐志村、1954年12月1日に永野村・求名村・中津川村が合併して薩摩町が発足したこと、1955年4月1日に宮之城町と山崎町が合併したこと、2005年3月22日に3町が対等合併してさつま町が発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A4%E3%81%BE%E7%94%BA
+  s1-toshima-vill-sonsei:
+    label: 十島村公式サイト「Data of TOKARA 沿革」（村名呼称の変遷と略年表。1908年の島嶼町村制で「十島村（じっとうそん）」が発足し区域は口之島・中之島・臥蛇島・平島・諏訪之瀬島・悪石島・宝島・硫黄島・竹島・黒島の十島であったこと、1946年に北緯30度で上三島と分離され軍政下に置かれたこと、1952年2月10日から下七島を区域とする「十島村（としまむら）」として発足し上三島は三島村として同日に発足したこと、1956年に役場を中之島から鹿児島市へ移転したこと、1973年に所属郡が大島郡から鹿児島郡へ変更されたこと、1970年に臥蛇島が無人島になったこと）
+    url: http://www.tokara.jp/resource/pdf/sonsei.pdf
+  s1-yoshimatsu-wiki:
+    label: Wikipedia「吉松町」（吉松という地名は、島津義弘が亀鶴城周辺に亀丸・亀沢・竹田村など「亀鶴松竹」のうち亀・鶴・竹の地名が揃っていたところへ残りの「松」を入れて永く栄えることを祈願し吉松と改名したことに由来するとし、典拠として『吉松郷土誌改訂版』を挙げること）
+    url: https://ja.wikipedia.org/wiki/%E5%90%89%E6%9D%BE%E7%94%BA
+  s1-yusui-plan:
+    label: 湧水町「新町まちづくり計画書」（町公式計画。町内には年中途絶えることなく冷水が湧き出でる竹中池や丸池があり水道水源・灌漑用水に利用されていること、丸池は名水百選に選ばれた丸池湧水であること、新町の将来像で「豊富で清らかな湧水など恵まれた自然環境」と位置づけること、栗野は明治22年に栗野村となり昭和7年4月1日に町制施行したこと）
+    url: https://www.town.yusui.kagoshima.jp/uploaded/attachment/1647.pdf
+  s1-yusui-town-background:
+    label: 湧水町公式サイト「湧水町誕生までの背景」（平成17年3月22日に吉松町と栗野町が合併して湧水町が誕生したこと、平成16年3月25日の第20回法定合併協議会で新町名称「湧水町」を決定したこと等の合併経過）
+    url: https://www.town.yusui.kagoshima.jp/soshiki/28/249.html
+  s1-yusui-wiki:
+    label: Wikipedia「湧水町」（2005年3月22日に吉松町と栗野町が合併して湧水町が発足したこと、町名は町域の竹中池〈旧吉松町内〉・丸池〈旧栗野町内〉から湧き出る湧水に由来すると説明すること）
+    url: https://ja.wikipedia.org/wiki/%E6%B9%A7%E6%B0%B4%E7%94%BA
+  s2-higashikushira-geoshape:
+    label: 国立情報学研究所「歴史的行政区域データセットβ版」鹿児島県肝属郡東串良村のページ（東串良村の存続期間が1889年4月1日から1932年10月1日までであること、東串良町が1932年10月1日から存続することを記録）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/46B0040016.html
+  s2-izumi-gun-wiki:
+    label: Wikipedia「出水郡」（天正9年（1581年）に長島・獅子島・諸浦島・伊唐島が本郡に移管されたこと、明治初年の長島郷の構成村は『角川日本地名大辞典』によること、現在は長島町のみを含む郡であることを紹介）
+    url: https://ja.wikipedia.org/wiki/出水郡
+  s2-kagoshima-pref-yurai:
+    label: 鹿児島県公式サイト「地名の由来」（錦江湾について、島津氏第18代家久が詠んだ「浪のおりかくる錦は磯山の梢にさらす花の色かな」という歌が、鹿児島湾を錦江湾と呼ぶようになった起源であるといわれると紹介。後に加治木島津氏第6代久徴が「家久公の歌にちなみ、前の海を錦江と呼ぶ」趣旨の碑を建立したことも記す）
+    url: http://www.pref.kagoshima.jp/ab23/pr/gaiyou/rekishi/bunka/yurai.html
+  s2-kagoshimawan-wiki:
+    label: Wikipedia「鹿児島湾」（「錦江」はもともと黒川（日木山川）の別称で、明治時代に入ってから海の呼称に転化したとする説があること、江戸時代末まで湾全体を指す固有名詞はなく、1955年の錦江湾国定公園指定以降「鹿児島湾（錦江湾）」の併記が広がったこと、黎明館の栗林文夫「『錦江湾』の由来について」の研究があることを紹介）
+    url: https://ja.wikipedia.org/wiki/鹿児島湾
+  s2-kimotsuki-gun-wiki:
+    label: Wikipedia「肝属郡」（713年の大隅国設置当初から存在した4郡のひとつであること、郡名に「肝杯」の異表記があること、明治初年の郷構成は『角川日本地名大辞典』によること、1889年に東串良村・西串良村・高山村・内之浦村などが発足し、1932年に西串良村が串良町に・東串良村が東串良町になったことを紹介）
+    url: https://ja.wikipedia.org/wiki/%E8%82%9D%E5%B1%9E%E9%83%A1
+  s2-kimotsuki-shi-wiki:
+    label: Wikipedia「肝付氏」（本姓は伴氏で、兼貞が大隅国肝属郡の弁済使となり、その子・兼俊の代に郡名を取って「肝付」を名乗ったこと、高山城を拠点としたこと、肝属山地にある神代三陵が明治7年に宮内省により皇族陵と治定されたことを紹介）
+    url: https://ja.wikipedia.org/wiki/%E8%82%9D%E4%BB%98%E6%B0%8F
+  s2-kimotsuki-uub:
+    label: 市区町村変遷情報データベース「肝付町（鹿児島県肝属郡）」（2005年7月1日に高山町・内之浦町が新設合併して肝付町が生まれたこと、新町名公募の上位10点・候補8点・最終候補2点＝肝付と肝属（きもつき）から「肝付町」に決まったこと、高山町議会が新町名を「国見町」とするよう求める決議を可決していたこと、東串良町が肝属東部合併協議から離脱した経過）
+    url: https://uub.jp/upd/c/1083.html
+  s2-kimotsuki-wiki:
+    label: Wikipedia「肝付町」（2005年に旧高山町と旧内之浦町が合併して誕生した町であること、肝属郡に属し内之浦宇宙空間観測所があることで知られることを紹介）
+    url: https://ja.wikipedia.org/wiki/%E8%82%9D%E4%BB%98%E7%94%BA
+  s2-kinko-uub:
+    label: 市区町村変遷情報データベース「錦江町（鹿児島県肝属郡）」（2005年3月22日に大根占町・田代町が新設合併して錦江町が生まれたこと、新町名公募の上位4点＝大田・大代・大根田・南隅、最終候補6点＝青葉・大隅中央・錦江・滝瀬・滝花・実野里から「錦江町」に決まったこと、当初は根占町・佐多町を含む4町での合併協議だった経過）
+    url: https://uub.jp/upd/c/1193.html
+  s2-kinko-wiki:
+    label: Wikipedia「錦江町」（2005年3月22日に大根占町と田代町が合併して誕生したこと、町名は西側に広がる錦江湾（鹿児島湾）に由来し一般公募により決定されたこと、713年に肝坏郡に属したとすること、平安中期に禰寝院の荘園支配があったこと、大根占郷・田代郷が1889年に大根占村・田代村となったことを紹介）
+    url: https://ja.wikipedia.org/wiki/%E9%8C%A6%E6%B1%9F%E7%94%BA
+  s2-kushira-maff:
+    label: 農林水産省「成功へのメッセージ：鹿児島県串良町『住民活動による公共サービスの提供』」（『大隅風土記』の記事として、国造りの神の使いが「髪梳の神がありました」と報告したので神がその村を髪梳きの村と言うように仰せられ、隼人のことばで「久西良（くしら）の郷」というようになったという串良の命名譚を引用）
+    url: https://www.maff.go.jp/j/nousin/soutyo/tatiagaru/pdf/message_04_kanoya.pdf
+  s2-kushira-wiki:
+    label: Wikipedia「串良町」（江戸時代は薩摩藩直轄領で、東串良町とともに串良郷（外城）として統治されていたこと、1889年に串良郷を東西に分け西側が西串良村として発足したこと、1932年5月15日に西串良村が町制施行して串良町となったこと、2006年1月1日に鹿屋市などと合併したことを紹介）
+    url: http://ja.wikipedia.org/wiki/串良町
+  s2-minamiosumi-town-keii:
+    label: 南大隅町公式サイト「南大隅町誕生までの経緯」（新町名称の公募＝応募総数1,042通・有効候補240候補、2004年10月1日の第2回南大隅合併協議会で新町の名称を「南大隅町」とすることが承認された経過、2005年3月31日の南大隅町誕生を記録）
+    url: https://www.town.minamiosumi.lg.jp/kikaku/machi/machi/enkatsu/keii.html
+  s2-minamiosumi-wiki:
+    label: Wikipedia「南大隅町」（2005年3月31日に根占町・佐多町が合併して発足したこと、町名は一般応募により決定されたこと、南大隅（南隅）は錦江町を含む地域の名称でもあること、1887〜1897年には南大隅郡が置かれていたこと、県立南大隅高等学校が町発足前から「南大隅」を名乗っていたこと、禰寝院と禰寝氏の歴史、佐多岬が日本本土最南端であることを紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%8D%97%E5%A4%A7%E9%9A%85%E7%94%BA
+  s2-nagashima-island-wiki:
+    label: Wikipedia「長島（鹿児島県）」（長島本島は長島列島の主島で全域が長島町に属すること、古くは仲島あるいは大仲島と呼ばれていたこと、元来は天草国＝肥後国天草郡の一部で、1565年から1581年にかけての島津氏の侵攻で薩摩に属することとなったことを紹介）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)
+  s2-nagashima-town-history:
+    label: 長島町公式サイト「歴史」（鎌倉時代に長島氏が地名を名乗って領有したこと、永禄8年（1565年）に堂崎城が落城して以後島津領となったこと、江戸時代に外城の長島郷が置かれたこと、1889年に東長島村と西長島村に分かれ、東長島村は1956年7月10日に東町となり、西長島村は1960年1月1日に長島町となり、2006年3月20日に両町が合併して新「長島町」となったことを紹介）
+    url: https://www.town.nagashima.lg.jp/town/to0009
+  s2-nagashima-wiki:
+    label: Wikipedia「長島町」（2006年3月20日に長島町と東町が新設合併して長島町が発足したこと、町名は住民らから募集し合併協議会により最も応募数が多かった「長島町」に決定したこと、他の案に「ながしま町」「新長島町」「東西長島町」「薩摩長島町」「黒之瀬戸町」があったことを紹介）
+    url: http://ja.wikipedia.org/wiki/長島町
   s3-amami-city-tanjo:
     label: 奄美市「奄美市の誕生」（市公式。平成18年3月20日に名瀬市・住用村・笠利町が合併して奄美市が誕生したこと、当初1市2町3村で始まった合併協議から瀬戸内町・宇検村・大和村が離脱した経過）
     url: https://www.city.amami.lg.jp/kikaku/shise/gaiyo/shokai/tanjo.html
@@ -1540,6 +3610,15 @@ sources:
   s3-izumi-wiki:
     label: Wikipedia「出水市」（現在の市域は『和名抄』の薩摩国出水郡の地であること、江戸時代の出水郷と「出水兵児」、1954年4月1日に出水町・米ノ津町が合併して出水市が発足し、2006年3月13日に野田町・高尾野町と合併して新・出水市となったことの紹介）
     url: https://ja.wikipedia.org/wiki/%E5%87%BA%E6%B0%B4%E5%B8%82
+  s3-kumage-wiki:
+    label: Wikipedia「熊毛郡（鹿児島県）」（1889年4月1日の町村制施行で中種子村は野間村・納官村・油久村・増田村・牧川村・田島村・坂井村の区域、南種子村は茎永村・島間村・西之村・平山村・中之村の区域をもって発足したこと、中種子村は1940年11月10日に町制施行、南種子村は1956年10月15日に町制施行したこと、屋久島の上屋久村・下屋久村は馭謨郡から1896年に熊毛郡の所属となったことの紹介）
+    url: https://ja.wikipedia.org/wiki/%E7%86%8A%E6%AF%9B%E9%83%A1_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)
+  s3-minamitane-gaiyou:
+    label: 南種子町公式「概要・沿革・面積等」（天文12年〈1543年〉にポルトガル人が乗った明国船が種子島最南端の前之浜に漂着し鉄砲伝来の地であること、現在は種子島宇宙センターがあること、明治維新までの約700年間は平行盛の子孫が代々島主として種子島を治めたこと、明治22年4月の町村制施行により南種子村が誕生したこと、昭和31年10月に町制を施行したこと）
+    url: http://www.town.minamitane.kagoshima.jp/outline/gaiyou.html
+  s3-nakatane-kaso:
+    label: 中種子町「中種子町過疎地域持続的発展計画」（町公式。種子島は古代「多ネ執島」又は「多禰島」と呼ばれ大和朝廷との接触が日本書紀や古事記に記録されていること、中世に鎌倉幕府の直轄地として上郡・中郡・下郡に三分されたと伝えられること、明治22年の町村制で北種子村・中種子村・南種子村が誕生し中種子村は中郡にあたり野間・油久・納官・増田・坂井の5ケ村に後に分村した牧川・田島を加えた7ケ村の統合であったこと、昭和15年に町制を施行したこと、町内の立切遺跡から約3万5千年前の後期旧石器時代の遺構・遺物が出土したこと）
+    url: https://town.nakatane.kagoshima.jp/kikaku/machinojoho/shisaku-kekaku/kakushukekaku/documents/kaso.pdf
   s3-nishinoomote-koho:
     label: 西之表市広報「市政の窓」2004年11月号（広報紙500号記念号。昭和33年10月1日に市制施行で「西之表市」が発足したこと）
     url: https://www.city.nishinoomote.lg.jp/material/files/group/55/200411shiseinomado.pdf
@@ -1549,9 +3628,36 @@ sources:
   s3-nishinoomote-wiki:
     label: Wikipedia「西之表市」（1889年に北種子村が発足し、1926年4月1日に改称・町制して西之表町となったこと、種子島氏の城下町として栄えたことの紹介）
     url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%8B%E8%A1%A8%E5%B8%82
+  s3-soumu-gapei-kagoshima:
+    label: 総務省「市町村合併資料集 市町村名逆引き一覧（鹿児島県）」（熊毛郡上屋久町と熊毛郡屋久町が平成19年10月1日に合併し、熊毛郡屋久島町となったこと）
+    url: https://www.soumu.go.jp/gapei/hensen_kagoshima.html
+  s3-tanegashima-wiki:
+    label: Wikipedia「種子島」（大宝2年〈702年〉に種子島と屋久島を合わせて令制国の多禰国が置かれ、島の北部に能満郡、南部に熊毛郡が設けられたこと、天長元年〈824年〉に多禰国は廃止され大隅国に編入されたことの紹介）
+    url: https://ja.wikipedia.org/wiki/%E7%A8%AE%E5%AD%90%E5%B3%B6
   s3-tarumizu-kotobank:
     label: コトバンク「垂水」（『日本歴史地名大系』の解説：垂水は中世後期からみえる地名で江戸時代の市来・中俣両村が垂水村と称されたこと。『精選版日本国語大辞典』：たるみ（垂水）は垂れ落ちる水・滝の意で『万葉集』に用例があること。『日本大百科全書』：1955年に垂水町と牛根・新城の2村が合併し1958年に市制施行、鹿児島市との間にカーフェリーが就航すること）
     url: https://kotobank.jp/word/%E5%9E%82%E6%B0%B4-563398
+  s3-yakushima-kyukami:
+    label: 屋久島町公式「旧上屋久町の歴史」（1958年〈昭和33年〉に上屋久村から上屋久町となったこと、平成19年10月1日に旧屋久町と合併して屋久島町となったこと）
+    url: https://www.town.yakushima.kagoshima.jp/soshiki/somu/machinogaiyo/209.html
+  s3-yakushima-kyuyaku:
+    label: 屋久島町公式「旧屋久町の歴史」（1889年〈明治22年〉に下屋久村が設立され、1959年〈昭和34年〉に町制施行により屋久町が誕生したこと、2007年〈平成19年〉10月1日に合併により屋久島町となったこと）
+    url: https://www.town.yakushima.kagoshima.jp/soshiki/somu/machinogaiyo/208.html
+  s3-yakushima-wiki:
+    label: Wikipedia「屋久島」（島が文献に現れる最初は中国の『隋書』大業3年〈607年〉の「夷邪久」とされるが屋久島を指す説と南島全般を指す説があること、『日本書紀』推古24年〈616年〉に掖久・夜勾・掖玖の人が来た記事があること、『続日本紀』文武3年〈699年〉に多褹・掖玖・菴美・度感の来貢があり、大宝2年〈702年〉に多禰国が成立したことの紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6
+  s3-yakushimacho-wiki:
+    label: Wikipedia「屋久島町」（屋久島および口永良部島の全域を行政区域とする町で熊毛郡に属すこと、2007年10月1日に屋久町と上屋久町が合併して発足したことの紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6%E7%94%BA
+  s3-yoron-qualia:
+    label: 個人ブログ「与論島クオリア」のユンヌ語源考（与論島の自称「ユンヌ」の語源としてユナヌ＝「砂浜を持つ地」説、ユリヌ説、ユウヌ説の3仮説を提示し、いずれも仮説の域を出ないとする考察）
+    url: http://manyu.cocolog-nifty.com/yunnu/2007/01/_vs__a514.html?no_prefetch=1
+  s3-yoron-rilg:
+    label: 地方自治研究機構「与論町観光ルネサンス計画策定に関する調査研究」（与論町、平成23年。与論島は鹿児島県最南端の島で北方23kmに沖縄本島を望むこと、1908年の島嶼町村制実施に伴い与論村が誕生したこと、1953年に本土復帰し1962年に町制を施行したこと、1972年の沖縄返還まで我が国の最南端地であったこと）
+    url: https://www.rilg.or.jp/htdocs/img/004/pdf/h22/h22_11.pdf
+  s3-yoron-youran:
+    label: 与論町「町勢要覧（町制施行50周年記念事業）」（与論町の沿革。文永3年〈1266年〉に琉球王に貢し以後340年間琉球王の統治下にあったこと、慶長14年〈1609年〉の島津藩の琉球征服で与論を含む大島諸島は薩摩の直属となったこと、明治41年に島嶼町村制が実施されて「与論村」が誕生したこと、昭和28年12月に日米協定に基づく祖国復帰を果たし昭和38年1月から町制を施行して「与論町」となったこと、沖縄本島の辺戸岬から約28kmの距離にあること）
+    url: https://www.yoron.jp/kiji003284/3_284_1906_up_svnazcgg.pdf
   s4-aira-caldera-kagoshima-u:
     label: 鹿児島大学理学部「姶良カルデラ」（松本唯一が1933年に「姶良火山」の名を提唱し、1943年に姶良カルデラと正式に命名したとする大学の解説）
     url: https://www.sci.kagoshima-u.ac.jp/oyo/advanced/caldera/aira.html
@@ -1573,6 +3679,9 @@ sources:
   s4-akune-wiki:
     label: Wikipedia「阿久根市」（「アク」は魚や漁業、「ネ」は岩礁を表すという語源解釈、1451年に島津用久により阿久根と改称されたとする解説、大正14年の町制）
     url: https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82
+  s4-amagi-gaiyo:
+    label: 天城町公式サイト「天城町の概要」（町名の由来を明記）
+    url: https://www.town.amagi.lg.jp/docs/191.html
   s4-hioki-city-enkaku:
     label: 日置市公式「沿革」（平成17年5月1日に東市来町・伊集院町・日吉町・吹上町が合併して日置市が誕生、平成15年12月17日に新市名称「日置市」を決定した経緯）
     url: http://www.city.hioki.lg.jp/kouho/shisejoho/gaiyo/gaiyo/enkaku.html
@@ -1615,9 +3724,21 @@ sources:
   s4-isagun-wiki:
     label: Wikipedia「伊佐郡」（1879年の行政区画発足、1897年に北伊佐郡と菱刈郡の合併で再発足し郡域が現伊佐市の全域にあたること）
     url: https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BD%90%E9%83%A1
+  s4-isen-gaiyo:
+    label: 伊仙町公式サイト「伊仙町の町政情報」（町制施行は昭和37年1月1日と明記）
+    url: https://www.town.isen.kagoshima.jp/mirai/chosejoho/machinogaiyo/chosejoho.html
+  s4-kagoshima-muni-list:
+    label: 鹿児島県公式サイト「市町村一覧（建制順，所在地，電話番号等）」（県内市町村の全国地方公共団体コードを掲載）
+    url: https://www.pref.kagoshima.jp/ab08/kensei/shityoson/gyosei/sityosonitiran.html
   s4-kasedashi-uub:
     label: 都道府県市区町村「加世田市（1954〜2005年）市区町村変遷情報」（1954年7月15日に加世田町・万世町が合併して発足）
     url: https://uub.jp/upd/c/5400.html
+  s4-kikai-yoran:
+    label: 喜界町「町勢要覧2020」（町公式資料、沿革を収載）
+    url: https://www.town.kikai.lg.jp/tokei/machi/gaiyo/documents/r2tyouseiyouran.pdf
+  s4-kotobank-kikaijima:
+    label: コトバンク「喜界島」（『日本歴史地名大系』の解説。鬼界・奇界の表記と方言名キキャを紹介）
+    url: https://kotobank.jp/word/%E5%96%9C%E7%95%8C%E5%B3%B6-51897
   s4-kushikino-kotobank:
     label: コトバンク「串木野」（『精選版日本国語大辞典』『デジタル大辞泉』の解説。旧表記「櫛木野」、昭和25年市制）
     url: https://kotobank.jp/word/%E4%B8%B2%E6%9C%A8%E9%87%8E-55197
@@ -1654,6 +3775,9 @@ sources:
   s4-minamisatsuma-uub:
     label: 都道府県市区町村「南さつま市（2005年〜）市区町村変遷情報」（新市名の公募上位・最終候補「南薩摩／南さつま」と決定の記録）
     url: https://uub.jp/upd/c/963.html
+  s4-oshima-gaikyou:
+    label: 鹿児島県大島支庁「奄美群島の概況」沿革資料（明治以降の奄美群島の行政沿革）
+    url: https://www.pref.kagoshima.jp/aq01/chiiki/oshima/chiiki/zeniki/gaikyou/documents/01.pdf
   s4-shibushi-city:
     label: 志布志市公式「志布志市の概況」（沿革。2006年1月1日に志布志町・有明町・松山町が合併して発足）
     url: https://www.city.shibushi.lg.jp/soshiki/1/1148.html
@@ -1684,6 +3808,33 @@ sources:
   s4-takarabe-uub:
     label: 都道府県市区町村「財部町（1926〜2005年）市区町村変遷情報」（前身の財部村が囎唹郡に属していたこと、2005年に曽於市の一部となったこと）
     url: https://uub.jp/upd/c/8260.html
+  s4-tokuda-rekishi:
+    label: 徳田虎雄顕彰記念館サイト「徳之島の歴史」（『続日本紀』の度感と『千竈時家処分状』の「とくのしま」を紹介）
+    url: https://torao-tokuda.jimdofree.com/%E5%BE%B3%E4%B9%8B%E5%B3%B6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/%E5%BE%B3%E4%B9%8B%E5%B3%B6%E3%81%AE%E6%AD%B4%E5%8F%B2
+  s4-tokunoshima-yoran:
+    label: 徳之島町「町勢要覧」資料編（町公式資料、沿革を収載）
+    url: http://www.tokunoshima-town.org/chose/koho/images/documents/tyouseiyourann-siryouhenn-p19-43_1.pdf
+  s4-uub-isen:
+    label: 市区町村変遷情報データベース「伊仙村（鹿児島県大島郡）」（島尻村の構成村と1921年の改称を記録）
+    url: https://uub.jp/upd/c/8674.html
+  s4-wiki-kikaijima:
+    label: Wikipedia「喜界島」（『日本紀略』の貴駕島を初出とし、鬼界ヶ島の比定論争を紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%96%9C%E7%95%8C%E5%B3%B6
+  s4-wiki-tokunoshima:
+    label: Wikipedia「徳之島」（方言名とぅくぬしまと『続日本紀』の度感を紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%B9%8B%E5%B3%B6
+  s4-yamato-history:
+    label: 大和村公式サイト「歴史・方言」（大和村の由来を明記）
+    url: https://www.vill.yamato.lg.jp/kikaku/kanko/rekishi-hogen.html
+  s5-china-town:
+    label: 知名町公式サイト「町の概要」（町政施行は昭和21年9月1日、村制施行は明治41年4月1日であること、大山を中心に21の集落が形成されていること、慶長14年の薩摩藩の琉球侵攻で島が薩摩藩直属領となり元禄3年に沖永良部島へ代官所が設置されたという沿革）
+    url: https://www.town.china.lg.jp/soshiki/1001/12/413.html
+  s5-china-wiki:
+    label: Wikipedia「知名町」（1908年に知名村の区域を分割して知名村と和泊村が発足したこと、1946年にアメリカ合衆国の統治下で町制を施行したこと）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%90%8D%E7%94%BA
+  s5-kagoshima-oshima-gaikyo:
+    label: 鹿児島県大島支庁「奄美群島の概況」第1章総説（沿革。明治41年4月1日の島嶼町村制で沖永良部島に和泊村・知名村、奄美大島に焼内村・龍郷村など16村が編成されたこと、大正5年5月20日に焼内村から西方村が分立したこと、大正6年11月1日に焼内村を宇検村に改称したこと、昭和16年5月1日に和泊村を和泊町に改称したこと）
+    url: https://www.pref.kagoshima.jp/aq01/chiiki/oshima/chiiki/zeniki/gaikyou/documents/87384_20210402161150-1.pdf
   s5-kanoya-fudoki:
     label: 鹿屋市教育委員会『かのや風土記』歴史編（「鹿屋」の語源として熊襲の首長・鹿文の名による説、茅の名が転じた説、鹿が多かったとする説の3説を併記し、いずれも「定かではありません」とする市公式資料）
     url: https://www.city.kanoya.lg.jp/documents/9588/p61-p110_rekishi.pdf
@@ -1696,6 +3847,15 @@ sources:
   s5-kanoya-wiki:
     label: Wikipedia「鹿屋市」（平安時代中期の『和名類聚抄』に大隅国姶羅郡の郷として「鹿屋」がみえ、地名としての初出とする紹介、および初代鹿屋市の市制施行の経緯）
     url: https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B1%8B%E5%B8%82
+  s5-kotobank-wadomari-mura:
+    label: コトバンク『日本歴史地名大系』「和泊村」（地名は湊を意味するトゥマイに由来するとされること、正保琉球国絵図に村名の記載はないが湊としての「和泊（わとまり）」が見えること、元禄4年（1691年）に沖永良部島代官所が設置され当村に代官役所（仮屋）と与人役所が置かれたこと）
+    url: https://kotobank.jp/word/%E5%92%8C%E6%B3%8A%E6%9D%91-3107014
+  s5-nakamoto-erabu:
+    label: 中本正智「沖永良部島ことばの分布と歴史」（首都大学東京『人文学報』。『おもろさうし』に「ゑらぶしま」「ゑらぷせりよさ」とあること、古名として「せりよさ」があること、「いらで いらぼら ぬ いらぷ じま」＝「選んでも選ぶことができない永良部島」という言い回し）
+    url: http://nihongo.hum.tmu.ac.jp/tmu_j/pdf/10/10-10%E4%B8%AD%E6%9C%AC%E6%AD%A3%E6%99%BA(%E4%BF%AE%E6%AD%A3).pdf
+  s5-okinoerabu-aza:
+    label: 沖永良部島の暮らし方「沖永良部島の字の地名由来」（『沖永良部島地名考』永吉毅・1976年を編集し和泊町歴史民俗資料館の先田光演が監修。和泊＝ワドゥマイの2説、知名＝ヂンニャはキナ（焼畑を行う場所）に由来すること、手々知名・田皆・久志検などキナを含む地名、セリヨサと『おもろさうし』の「ゑらぶ」）
+    url: https://okinoerabu.help/docs/jp/aza-naming
   s5-sendai-city-intro:
     label: 薩摩川内市公式「薩摩川内市の紹介」（平成16年10月12日の1市4町4村の合併で「薩摩川内市」が誕生したとする市公式プロフィール）
     url: https://www.city.satsumasendai.lg.jp/soshiki/1042/2/10/1/633.html
@@ -1711,3 +3871,42 @@ sources:
   s5-sendai-wiki:
     label: Wikipedia「薩摩川内市」（新市名決定までの経緯として、川内市の単独継承が見送られた事情と仙台市との混同回避の観点を紹介）
     url: https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82
+  s5-setouchi-lib:
+    label: 瀬戸内町立図書館・郷土館「文化財の紹介」（町名は昭和31年に古仁屋町・西方村・実久村・鎮西村の合併で誕生したこと、合併前は宇検村一帯も含めて「瀬戸内五カ村」とも呼ばれていたため反対なく決定したこと、加計呂麻島須子茂に伝わる1595年の古文書に「せんとうち」という平仮名の地名呼称が見えること、町は4島56集落からなること）
+    url: http://www.setouchi-lib.jp/assets_j1.html
+  s5-setouchi-wiki:
+    label: Wikipedia「瀬戸内町」（町名の由来は大島海峡の別名「瀬戸内」に因むとすること、古仁屋が最も人口の密集した中心部で古仁屋港が各集落への拠点であること）
+    url: https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA
+  s5-setouchi-yoran:
+    label: 瀬戸内町「瀬戸内町要覧」（昭和31年9月に町村合併促進法の適用を受けて西方村・実久村・鎮西村・古仁屋町の4町村が対等合併して瀬戸内町となったこと）
+    url: https://www.town.setouchi.lg.jp/joho/documents/20170324_setouchitown_youranntyuubann.pdf
+  s5-tatsugo-jwu:
+    label: 中野「奄美大島の集落形態と水害との関係性」（日本女子大学修士論文。元禄年間には7間切14方となり、現在の龍郷町は赤木名方・瀬名方・龍郷方の3方に跨がっていること）
+    url: https://mcm-www.jwu.ac.jp/~minaiken/03member/thesis/syuron/h28/s005_nakano.pdf
+  s5-tatsugo-kotobank:
+    label: コトバンク『日本歴史地名大系』「龍郷村」（名瀬間切龍郷（たじご）方のうちでタズゴウともいうこと、古くはシシキョまたはナガキョと称し瀬獅子村・瀬志子村・瀬子郷村などの表記があったが享保13年（1728年）頃を境にこの村号が用いられなくなったことを『龍郷町誌』に基づき記す）
+    url: https://kotobank.jp/word/%E9%BE%8D%E9%83%B7%E6%9D%91-3106863
+  s5-tatsugo-town:
+    label: 龍郷町公式サイト「龍郷」（龍郷集落は昔「シシキョ・ナガシマ」「ヒヒキョ・ナガジマ」と呼ばれ、「ヒヒキョ」は「火が付く」という意味があり火事のたびに縁起を担いで現在の名称に変えたという言い伝え、西郷隆盛が3年間謫居し龍家の愛加那との間に菊次郎・菊子をもうけたこと）
+    url: http://www.town.tatsugo.lg.jp/kikakukanko/chose/machinoshokai/tatsugo.html
+  s5-tatsugo-uub:
+    label: 市区町村変遷情報「龍郷村（鹿児島県大島郡）1908〜1975年」（1908年4月1日に秋名村・幾里村・嘉渡村・円村ほか13村の区域を合わせて龍郷村が生まれたこと、1975年2月10日に町制により龍郷町になったこと）
+    url: https://uub.jp/upd/c/9391.html
+  s5-tatsugo-wiki:
+    label: Wikipedia「龍郷町」（1908年4月1日の島嶼町村制施行により名瀬間切龍郷方、笠利間切赤木名方及び古見間切瀬名方の区域をもって龍郷村が発足したこと）
+    url: https://ja.wikipedia.org/wiki/%E9%BE%8D%E9%83%B7%E7%94%BA
+  s5-uken-plan:
+    label: 宇検村「総合振興計画」第2章（19世紀初頭の文化年間にまとめられた『大島私考』に「薩摩藩政下、十四ヶ村を宇検方ト云フ」とあること、宇検方役場の所在地は藩政下以降宇検集落から移らなかったこと、1887年に宇検方役場が田検に置かれた経緯）
+    url: http://www.uken.net/kouhoutoukei/muranogaiyo/johokokai/sogokekaku/documents/04sougousinkou.pdf
+  s5-uken-uub:
+    label: 市区町村変遷情報「焼内村（鹿児島県大島郡）1916〜1917年」（1917年8月15日に改称により宇検村になったこと）
+    url: https://uub.jp/upd/c/27413.html
+  s5-uken-wiki:
+    label: Wikipedia「宇検村」（16世紀に琉球国が屋喜内（焼内）間切を設置したこと、1908年4月1日に焼内間切宇検方及び西間切西方の区域をもって焼内村が発足したこと、1916年5月20日に西方村が分立したこと、1917年8月15日に焼内村が宇検村に改称したこと、焼内湾を取り囲むように14の集落があること）
+    url: https://ja.wikipedia.org/wiki/%E5%AE%87%E6%A4%9C%E6%9D%91
+  s5-wadomari-kyoiku:
+    label: 和泊町教育委員会「令和2年度 教育要覧」（鹿児島県指定文化財（史跡）「和泊町の世之主の墓」を町の文化財として挙げる）
+    url: https://www.town.wadomari.lg.jp/documents/8046/r02.pdf
+  s5-wadomari-wiki:
+    label: Wikipedia「和泊町」（沖永良部島方言でワドゥマイと呼ばれること、島の東半分を町域とし知名町と2町で島を構成すること、1908年の和泊村発足と1941年5月1日の町制施行）
+    url: https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B3%8A%E7%94%BA
