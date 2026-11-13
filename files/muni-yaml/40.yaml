@@ -1793,12 +1793,12 @@ records:
     status: established
     sources:
     - r4-kotake-town
-  - text: 戦中・戦後を通じて石炭産業で栄えたが、エネルギー革命の影響で小竹炭鉱は1963年（昭和38年）に、古河目尾（しゃかのお）炭鉱は1969年（昭和44年）に閉山した
+  - text: 戦中・戦後を通じて石炭産業で栄えたが、エネルギー革命の影響で閉山が相次ぎ、昭和31年（1956年）に有馬御徳炭鉱が閉山したのを皮切りに、主力の古河目尾（しゃかのお）炭鉱も昭和44年（1969年）に閉山した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - r4-kotake-wiki
+    - upg-b-kotake-town
   - text: 地方公共団体コードは404012である
     kind: fact
     level: E2
@@ -5122,9 +5122,6 @@ sources:
   r4-kotake-town:
     label: 小竹町公式サイト「町の概要（町の沿革・位置・地勢）」（明治17年に7か村で勝野村外6か村戸長役場を置き、明治22年の町村制で中泉村は福智村〈現・直方市〉に併合され他の6か村が合併して勝野村として発足したこと、昭和3年1月1日に町制が施行され現町名に変更されたこと、町名の由来は古来町内の街道沿いに竹薮が生い茂り「小竹の処」といわれたのが起こりであること、町章は昭和13年1月1日制定で「小竹」の文字をデザイン化したこと）
     url: https://town.kotake.lg.jp/hpkiji/pub/Detail.aspx?c_id=3&id=610
-  r4-kotake-wiki:
-    label: Wikipedia「小竹町」（1889年4月1日に勝野村・南良津村・新山崎村・新多村・赤地村・御徳村の区域をもって勝野村が発足したこと、1928年1月1日に町制施行して小竹町となったこと、小竹炭鉱が1963年に、古河目尾炭鉱が1969年に閉山したこと）
-    url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AB%B9%E7%94%BA
   r4-miyama-hensen-db:
     label: 市区町村変遷情報「みやま市（福岡県）2007年〜」（新市名公募の上位10点と最終候補3点（三山・山門・筑南）、「みやま市」の選定を伝える）
     url: https://uub.jp/upd/c/890.html
@@ -5341,3 +5338,6 @@ sources:
   r6-sueki-wiki:
     label: Wikipedia「須恵器」（「須恵器」という呼称は、平安時代には「陶器」と書いて「すえもの」「すえうつわもの」と読まれていたものに、考古学用語として当て字が考案され一般化したものであること。福岡県糟屋郡の須恵という地名および須恵焼と、古代の須恵器とは直接的には無関係であるとすること）
     url: https://ja.wikipedia.org/wiki/%E9%A0%88%E6%81%B5%E5%99%A8
+  upg-b-kotake-town:
+    label: 小竹町公式「商工業」（昭和31年（1956年）に有馬御徳炭鉱を皮切りに閉山が相次ぎ、昭和44年（1969年）に主力であった古河目尾炭鉱が閉山したことを記す）
+    url: https://town.kotake.lg.jp/hpkiji/pub/detail.aspx?c_id=3&class_id=3&class_set_id=2&id=635
