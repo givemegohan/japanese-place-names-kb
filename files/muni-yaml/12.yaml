@@ -3696,6 +3696,84 @@ records:
   - 「鳥子」表記の文書上の初出の特定が未了
   - 利根川の旧称（銚子口）との関係についての専門辞典の記述確認が未了
   updated: '2026-11-13'
+- id: muni/12-鋸南町
+  code: '124630'
+  names:
+    ja: 鋸南町
+    reading: きょなんまち
+    aliases:
+    - 勝山町
+    - 保田町
+  user_terms:
+  - 鋸南町の名前の由来
+  - 鋸山の南の町
+  - きょなんまち
+  - 日本寺のある町
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 昭和34年（1959年）3月30日に勝山町と保田町が合併して発足した町。町名は、町の北にそびえる鋸山（のこぎりやま）の南に位置することから名付けられた。鋸山は稜線が鋸の歯のように見えることから名付けられた山で、その南斜面には聖武天皇の勅願によって開かれたと伝える日本寺がある。
+  first_attestation:
+    era: 昭和34年
+    year_western: 1959
+    document: 勝山町・保田町の合併による鋸南町の発足
+    note: 町名の命名そのもの。名の材料となった「鋸山」の山名自体は、江戸時代の石切りとともに広まったと考えられるが、初出は確認できていない
+  claims:
+  - text: 昭和34年（1959年）3月30日に旧勝山町と旧保田町が合併して鋸南町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kyonan-jichiken
+  - text: 町名は、町の北部に標高329メートルの鋸山があり、その南に位置することから「鋸南町」と名付けられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-kyonan-jichiken
+  - text: 富津市公式によれば、鋸山は江戸時代から昭和60年まで房州石（ぼうしゅういし）を切り出しており、山肌や稜線がギザギザのノコギリのように見えることから「鋸山」と呼ばれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-futtsu-nokogiriyama
+  - text: 鋸山は昔から東京湾に入る船の目印とされていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-jtb-nokogiriyama
+  - text: 日本寺は神亀2年（725年）に聖武天皇の勅願によって行基が開創した古刹であると、寺の公式サイトと全国観光資源台帳が伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nihonji-yuisho
+    - v1-jtb-nokogiriyama
+  - text: 日本寺の由緒によれば、源頼朝は石橋山の戦いに敗れて房州に逃れた折に日本寺で武運を祈願し、自ら蘇鉄を手植えしたと伝えられ、その大蘇鉄が現在も境内に残っている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - v1-nihonji-yuisho
+  - text: 総務省の地方公共団体コードで、鋸南町のコードは124630と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 鋸の歯の稜線は、石を切った山の姿
+    text: 「鋸山」のギザギザの稜線は、眺める人を楽しませる自然の造形であると同時に、江戸時代から昭和まで続いた房州石の石切りの歴史を刻んだ姿でもある。富津市公式は、石を切り出したことで山肌や稜線がギザギザのノコギリのように見えることから「鋸山」と呼ばれていると説明する。つまりこの山の名は、山の形そのものと、人の手が加わった結果とを切り離せない。1959年に生まれた町名「鋸南」は、その山の南という位置を示す、房総でも分かりやすい命名の一つである。
+    sources:
+    - v1-futtsu-nokogiriyama
+    - v1-kyonan-jichiken
+  relations:
+  - pref/12
+  unknowns:
+  - 1959年の合併時に新町名「鋸南」がどのような手続き（公募か協議か）で選ばれたかを明記した公的資料は確認できなかった
+  - 山名「鋸山」の文献上の初出は確認できていない
+  updated: '2026-11-13'
 - id: muni/12-鎌ケ谷市
   code: '122246'
   names:
@@ -3779,6 +3857,261 @@ records:
   unknowns:
   - 「かまがや」の語源は市立図書館が示す複数の考えのいずれとも確定しておらず、『角川日本地名大辞典』等の専門辞典での見解は未確認
   - 室町時代の記録の「蒲萱」が鎌ケ谷を指すという見方は、市立図書館の紹介によるもので、原典の直接確認はできていない
+  updated: '2026-11-13'
+- id: muni/12-長南町
+  code: '124273'
+  names:
+    ja: 長南町
+    reading: ちょうなんまち
+    aliases:
+    - 庁南町
+    - 長南宿
+    - 武丘村
+  user_terms:
+  - 長南町の名前の由来
+  - ちょうなんまち
+  - 庁南と長南はどう違う
+  - 長南城のある町
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 昭和30年（1955年）2月11日に庁南町・豊栄村・西村・東村が合併して発足した町。町名「長南」は中世以来の地名で、平安末期に長柄郡が南北に分かれた際にその南半分を指して生まれた名と考えられている。読みの同じ前身の庁南町は、庁南城に由来する別の字の町名で、合併によって古い「長南」の表記に戻った形になっている。
+  first_attestation:
+    era: 天正18年
+    year_western: 1590
+    document: 豊臣秀吉禁制（長福寿寺文書）
+    note: 『日本歴史地名大系』が紹介する「長南」の使用例。地名自体は平安末期の長柄郡の再編に遡ると想定されているが、文献で確認できる範囲はここまで
+  claims:
+  - text: 昭和30年（1955年）2月11日に庁南町・豊栄村・東村・西村の4町村が合併して長南町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chonan-yoran2025
+    - v1-chonan-wiki
+  - text: 長南町公式の総合計画は、平安末頃に長柄郡が南北に分割され、そこから「長南」の名が起こったと考えられると説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chonan-sougoukeikaku
+  - text: 『日本歴史地名大系』は、長南の称は長柄郡が平安時代末に再編されて成立した長北・長南両郡に由来したと想定することが可能だが確定はできないとし、他方で「庁南」の表記からは官衙の南という説明も可能だとしている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - v1-chonan-kotobank-taikei
+  - text: 『日本歴史地名大系』によれば、天正18年（1590年）6月の豊臣秀吉の禁制（長福寿寺文書）に「長南」の地名が見える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v1-chonan-kotobank-taikei
+  - text: 前身の庁南町は、1889年（明治22年）に長南宿・蔵持村・坂本村が合併した武丘村が、翌1890年に町制施行のうえ庁南城に由来して改称した町であり、読みは同じ「ちょうなん」でも現在の長南町とは別の自治体だった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v1-chonan-wiki
+  - text: 中世には長南武田氏の居城だった長南城（庁南城）を中心に城下町が形成され、江戸時代には街道沿いの宿場町「長南宿」として栄えたことを、町公式の総合計画が述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chonan-sougoukeikaku
+  - text: 1889年に発足した武丘村の村名は、日本武尊が東征の折に太鼓森と呼ばれる丘に陣営を設けたという伝承から「武」「丘」の字を採ったと、『明治22年千葉県町村分合資料』にあることが紹介されている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - v1-chonan-wiki
+  - text: 総務省の地方公共団体コードで、長南町のコードは124273と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 読みは同じ、字が違う二つの町名
+    text: 長南町の前身は「庁南町」といった。読みはどちらも「ちょうなん」。庁南は上総武田氏の居城・庁南城にちなむ名で、1890年に武丘村から改称して生まれた。一方「長南」は、平安末期に長柄郡が南北に分かれたときに南半分を指した、中世以来の古い地名である。1955年の合併で新しい町名に選ばれたのは、城の名の「庁南」ではなく、古い地名の「長南」のほうだった。結果として町名は、65年ぶりに中世の表記へ戻ったことになる。
+    sources:
+    - v1-chonan-wiki
+    - v1-chonan-sougoukeikaku
+    - v1-chonan-kotobank-taikei
+  relations:
+  - pref/12
+  - muni/12-長柄町
+  unknowns:
+  - 1955年の合併協議で、新町名に「庁南」でなく「長南」を選んだ理由を明記した公的記録は確認できなかった
+  - 「長南」の語源は、長柄郡の南北分割に由来する説と官衙の南という説があり、専門資料でも確定していない
+  updated: '2026-11-13'
+- id: muni/12-長柄町
+  code: '124265'
+  names:
+    ja: 長柄町
+    reading: ながらまち
+    aliases:
+    - 長柄村
+    - 日吉村
+    - 水上村
+  user_terms:
+  - 長柄町の名前の由来
+  - ながらまち
+  - 長柄はなぜ「ながら」と読む
+  - 長柄ダムのある町
+  naming_type: 一部の地名
+  prefecture: 千葉県
+  homonyms: []
+  summary: 昭和30年（1955年）4月29日に長柄村・日吉村・水上村が合併して発足し、庁舎を旧長柄村役場に置いたことから「長柄」の名を継いだ町。「長柄」は上総国（かずさのくに）の古代の郡名で、8世紀の『万葉集』にすでに見える古い地名だが、その語源は確定していない。
+  first_attestation:
+    era: 天平勝宝7年
+    year_western: 755
+    document: 『万葉集』巻20（防人・若麻績部羊の歌）
+    note: 『日本歴史地名大系』が紹介する「長柄郡」の使用例。郡の成立自体は明らかでないとされる
+  claims:
+  - text: 昭和30年（1955年）4月29日に長柄村・日吉村・水上村の3村が合併して長柄町が発足し、庁舎は旧長柄村役場に置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nagara-town
+  - text: これに先立ち、旧水上村の大字深沢と笠森は、地理的条件から昭和30年4月1日に分離して長南町に合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-nagara-town
+  - text: 『日本歴史地名大系』によれば、長柄郡は上総国の東部に置かれた古代以来の郡で、天平勝宝7年（755年）に筑紫国へ赴いた防人・長柄郡上丁の若麻績部羊（わかおみべのひつじ）が詠んだ歌が『万葉集』巻20に残り、「長柄郡」の名を伝えている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v1-nagara-kotobank-taikei
+  - text: 『日本歴史地名大系』によれば、『和名類聚抄』では長柄郡に奈加良（ナカラ）の訓が付き、郷として刑部（おさかべ）郷・管見郷・車持郷などが記された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v1-nagara-kotobank-taikei
+  - text: 『日本歴史地名大系』「長柄町」項によれば、現在の一宮川流域の東端にある国府里（こうり）は長柄郡衙が所在したことに由来する地名といわれ、刑部郷とともに古代の中心であったことがうかがえる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v1-nagara-kotobank-machi
+  - text: 『長柄町史』は、長柄の地名の起源について、邨岡良弼（むらおかりょうすけ）が『日本地理志料』で、『新撰姓氏録』に見える古代の氏族「長柄首（ながらのおびと）」の裔がこの地に居たことに因むと推測した説を紹介しているが、この説自体は推測にとどまる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - v1-nagaracho-shi
+  - text: 長柄郡は平安末期に長北・長南の二郡に分かれたが江戸初期に長柄郡に復し、明治30年（1897年）に上埴生郡と合併して長生郡となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v1-nagara-kotobank-taikei
+    - v1-chosei-kotobank-taikei
+  - text: 総務省の地方公共団体コードで、長柄町のコードは124265と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 『万葉集』に残る防人のふるさと
+    text: 天平勝宝7年（755年）、筑紫の防衛に赴く防人の中に、上総国長柄郡の若麻績部羊という男がいた。彼は「筑紫辺に舳（へ）向かる船の南時（なぎ）しかも 仕へ奉りて本郷に舳向かも」と、帰りの船がふるさとへ向かう日を願う歌を詠み、それが『万葉集』巻20に残った。「長柄」の名が文献に現れる最初期の例である。しかも現在の長柄町域には、長柄郡の役所（郡衙）が置かれたことに由来する「国府里」という地名まである。防人が出発した郡の中心は、まさにいまの長柄町のあたりだったと考えられている。
+    sources:
+    - v1-nagara-kotobank-taikei
+    - v1-nagara-kotobank-machi
+  relations:
+  - pref/12
+  - muni/12-長南町
+  - muni/12-長生村
+  unknowns:
+  - 「長柄」の語源は確定しておらず、町史が紹介する長柄首説も推測にとどまる。細長い地形に由来するといった説明も、典拠のある形では確認できなかった
+  - 1889年（明治22年）の町村制で旧長柄村がどの村々の合併で成立したかの詳細は、今回の調査範囲では確認できなかった
+  updated: '2026-11-13'
+- id: muni/12-長生村
+  code: '124231'
+  names:
+    ja: 長生村
+    reading: ちょうせいむら
+    aliases:
+    - 一松村
+    - 八積村
+    - 高根村
+  user_terms:
+  - 長生村の名前の由来
+  - ちょうせいむら
+  - 千葉県で唯一の村
+  - ながいきの村
+  naming_type: 合併新設
+  prefecture: 千葉県
+  homonyms: []
+  summary: 昭和28年（1953年）11月3日に一松村・八積村・高根村が合併して発足した、現在では千葉県で唯一の村。村名「長生」は構成3村のいずれの名でもなく、所属する長生郡の郡名と同じ名で、この郡名は明治30年（1897年）に長柄郡と上埴生郡が合併した際に生まれた。ただし、村名の命名理由を明記した合併当時の公的資料は確認できていない。
+  first_attestation:
+    era: 昭和28年
+    year_western: 1953
+    document: 一松村・八積村・高根村の合併による長生村の発足
+    note: 村名の命名そのもの。名の材料となった郡名「長生」は明治30年（1897年）の長生郡成立に遡る
+  claims:
+  - text: 昭和28年（1953年）11月3日に八積村・高根村・一松村の合併により長生村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chosei-youran2026
+  - text: 『日本歴史地名大系』によれば、長生郡は明治30年（1897年）に、上埴生郡（旧埴生郡）と長柄郡が合併して成立した郡である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - v1-chosei-kotobank-taikei
+  - text: 新村名「長生」は構成3村のいずれの名でもなく郡名と同一の名だが、郡名を採ったのか長寿の願いを込めたのかなど、命名理由を明記した公的資料は確認できていない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - v1-chosei-youran2026
+    - v1-chosei-kotobank-taikei
+  - text: 1954年から1955年にかけて、旧一松村の一部（船頭給・新地）と旧八積村の一部（宮原）が一宮町に編入され、村域は発足時からやや縮小した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - v1-chosei-wiki
+  - text: 現在、千葉県内の基礎自治体で「村」は長生村のみであり、村はこれを「千葉県で唯一の村」と位置付けている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chosei-soncho
+  - text: 村と長生観光協会は、村名の「長生」を「ながいき」と読み替え、平和と安全の願いを込めた「長生（ながいき）観音」を建立するなど、村名を長寿のイメージで活用している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - v1-chosei-nagaiki
+  - text: 総務省の地方公共団体コードで、長生村のコードは124231と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県内唯一の「村」は、人口1万を超える
+    text: 長生村は千葉県でただ一つの村だが、人口は1万3千人ほどで、県内のいくつかの町より多い。村はこの個性を前向きに使い、村名の「長生（ちょうせい）」を「ながいき」と読み替えて、「ながいきトマト」「ながいきそば」といったブランドや、長生（ながいき）観音のようなモニュメントに展開している。合併で生まれた郡名由来らしい村名が、いまは「長く生きる村」というキャッチフレーズの源泉になっている。
+    sources:
+    - v1-chosei-soncho
+    - v1-chosei-nagaiki
+  relations:
+  - pref/12
+  - muni/12-長柄町
+  - muni/12-長南町
+  unknowns:
+  - 村名「長生」の命名理由（郡名を採ったのか、長寿への願いか）を明記した合併当時（1953年）の公的資料は確認できなかった
+  - 郡名「長生」が長柄郡の「長」と埴生郡の「生」を組み合わせた合成名であるという説明は一般に流布しているが、今回の調査では専門資料による裏づけが取れなかった
   updated: '2026-11-13'
 - id: muni/12-館山市
   code: '122050'
@@ -4170,6 +4503,57 @@ sources:
   m5-yachiyo-wikipedia:
     label: Wikipedia「八千代市」（八千代市と流山市の市制施行により千葉郡が消滅したこと）
     url: https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82
+  v1-chonan-kotobank-taikei:
+    label: 『日本歴史地名大系』「長南」項（コトバンク掲載。長南の称は長柄郡が平安時代末に再編されて成立した長北・長南両郡に由来すると想定できるが確定できないとし、庁南の表記からは官衙の南という説明も可能とする。天正18年（1590年）の豊臣秀吉禁制（長福寿寺文書）に「長南」とみえる）
+    url: https://kotobank.jp/word/%E9%95%B7%E5%8D%97-3041064
+  v1-chonan-sougoukeikaku:
+    label: 長南町「長南町第5次総合計画」（平安末頃に長柄郡が南北に分割され、そこから「長南」の名が起こったと考えられている。長南武田氏の居城・長南城と長南宿の繁栄）
+    url: https://www.town.chonan.chiba.jp/wp-content/uploads/2020/05/2kaikaigisiryou2.pdf
+  v1-chonan-wiki:
+    label: Wikipedia「庁南町」（1889年に武丘村として発足し1890年に庁南城に由来して庁南町へ改称、1955年2月11日に長南町へ新設合併。武丘村の村名は日本武尊が太鼓森に陣を設けたという伝承から字を採ったと『明治22年千葉県町村分合資料』にあるとする）
+    url: https://ja.wikipedia.org/wiki/%E5%BA%81%E5%8D%97%E7%94%BA
+  v1-chonan-yoran2025:
+    label: 長南町「長南町町勢要覧2025（合併70周年記念誌）」（町章の説明で庁南町・豊栄村・東村・西村の4町村合併に触れる）
+    url: https://www.town.chonan.chiba.jp/wp-content/uploads/2025/02/ChonanGuideBook.pdf
+  v1-chosei-kotobank-taikei:
+    label: 『日本歴史地名大系』「長生郡」項（コトバンク掲載。明治30年（1897年）に郡域の南西部を占める上埴生郡（旧埴生郡）と長柄郡が合併して長生郡が成立した）
+    url: http://kotobank.jp/word/%E9%95%B7%E7%94%9F%E9%83%A1-3041022
+  v1-chosei-nagaiki:
+    label: 長生村公式「長生（ながいき）観音」（長生観光協会が村民の平和と安全の願いを込めて建立し「ながいき観音」と名付けられた）
+    url: https://www.vill.chosei.chiba.jp/0000000304.html
+  v1-chosei-soncho:
+    label: 長生村公式「村長あいさつ」（長生村は千葉県で唯一の村となった）
+    url: https://www.vill.chosei.chiba.jp/0000000393.html
+  v1-chosei-wiki:
+    label: Wikipedia「長生村」（村域の変遷表。1954年から55年にかけて旧一松村・旧八積村の一部が一宮町に編入された。参考文献に『角川日本地名大辞典 12 千葉県』）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E7%94%9F%E6%9D%91
+  v1-chosei-youran2026:
+    label: 長生村公式「長生村村勢要覧2026」（八積村・高根村・一松村の合併により昭和28年11月3日に長生村が誕生した）
+    url: https://www.vill.chosei.chiba.jp/cmsfiles/contents/0000002/2565/2026youran.pdf
+  v1-futtsu-nokogiriyama:
+    label: 富津市公式「鋸山」（江戸時代から房州石を切り出しており、山肌や稜線がギザギザのノコギリのように見えることから「鋸山」と呼ばれている）
+    url: https://www.city.futtsu.lg.jp/0000000317.html
+  v1-jtb-nokogiriyama:
+    label: 全国観光資源台帳（公益財団法人日本交通公社）「鋸山・日本寺」（鋸の歯のような稜線で東京湾に入る船の目印とされた。日本寺は神亀2年（725年）に聖武天皇の勅願によって行基が開創した古刹）
+    url: https://tabi.jtb.or.jp/res/120011-
+  v1-kyonan-jichiken:
+    label: 一般財団法人自治研修協会「都市交流施設『道の駅・保田小学校』（千葉県鋸南町）」（鋸南町役場への調査に基づく町の概要。1959年3月30日に旧勝山町と旧保田町が合併して誕生し、鋸山の南に位置することから名付けられた）
+    url: http://jichikenshu.or.jp/wordpress/wp-content/uploads/2026/03/R7-3-2.pdf
+  v1-nagara-kotobank-machi:
+    label: 『日本歴史地名大系』「長柄町」項（コトバンク掲載。国府里は長柄郡衙が所在したことに由来する地名といわれ、刑部郷とともに古代の中心であったことがうかがえる）
+    url: https://kotobank.jp/word/%E9%95%B7%E6%9F%84%E7%94%BA-107938
+  v1-nagara-kotobank-taikei:
+    label: 『日本歴史地名大系』「長柄郡」項（コトバンク掲載。上総国の古代以来の郡。天平勝宝7年（755年）の防人・若麻績部羊の歌が『万葉集』巻20に長柄郡の名を残す。『和名類聚抄』では奈加良（ナカラ）の訓）
+    url: https://kotobank.jp/word/%E9%95%B7%E6%9F%84%E9%83%A1-3040779
+  v1-nagara-town:
+    label: 長柄町公式「町の紹介」（沿革。昭和30年4月29日に長柄村・日吉村・水上村の3村が合併して長柄町が発足し、庁舎を旧長柄村役場に置いた。旧水上村の深沢・笠森は同年4月1日に長南町へ分離合併）
+    url: https://www.town.nagara.chiba.jp/soshiki/1/74.html
+  v1-nagaracho-shi:
+    label: 『長柄町史』本篇（長柄町デジタルアーカイブ・ADEAC収録。長柄の地名の起源について、邨岡良弼『日本地理志料』が『新撰姓氏録』の「長柄首」に因むと推測した説を紹介）
+    url: https://adeac.jp/nagara-town/texthtml/d100010/mp000010-100010/ht020290
+  v1-nihonji-yuisho:
+    label: 鋸山日本寺公式サイト「由緒」（神亀2年（725年）に聖武天皇の勅詔を受けた行基菩薩によって開山された。源頼朝が武運を祈願し蘇鉄を手植えしたという寺伝）
+    url: https://www.nihonji.jp/%E7%94%B1%E7%B7%92
   v5-owariasahi-wiki:
     label: Wikipedia「尾張旭市」（明治39年（1906年）に印場村・新居村・八白村が合併して旭村が成立したこと、県が提案した「瀬戸口村」は字数の多さや瀬戸町との錯誤の懸念で却下され、旧村名も避けて日露戦争後という時勢から「旭村」としたこと、昭和23年（1948年）に旭町となったこと、昭和45年（1970年）12月1日の市制施行の際、千葉県旭市との同名回避のため同時に改称して尾張旭市となったことを、市史等の出典に基づき記す）
     url: https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%97%AD%E5%B8%82
