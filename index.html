@@ -282,7 +282,7 @@ function showMuniRecord(rec){
     <div class="badges"><span class="badge">命名の類型：${esc(rec.naming_type||"")}</span>
     ${fa.document?`<span class="badge">初出：${esc(fa.era||"")}${fa.year_western?`（${fa.year_western}年）`:""}『${esc(fa.document)}』</span>`:""}</div>
     <p class="summary">${esc(rec.summary)}</p>
-    ${rec.homonyms&&rec.homonyms.length?`<p class="homonyms">同名の自治体：${rec.homonyms.map(hid=>{const t=muniRecords.find(r=>r.id===hid);return t?`<button class="homo-link" data-hid="${esc(hid)}">${esc(t.prefecture)}${esc(t.names.ja)}</button>`:esc(hid)}).join("、")}（同名でも由来はそれぞれ異なります。各レコードで、共通する層と異なる層を分けて記録しています）</p>`:""}
+    ${rec.homonyms&&rec.homonyms.length?`<p class="homonyms">同名の自治体：${rec.homonyms.map(hid=>{const t=muniRecords.find(r=>r.id===hid);return t?`<button class="homo-link" data-hid="${esc(hid)}">${esc(t.prefecture)}${esc(t.names.ja)}</button>`:esc(hid.replace(/^muni\/\d+-/,""))+"（未収載）"}).join("、")}（同名でも由来はそれぞれ異なります。各レコードで、共通する層と異なる層を分けて記録しています）</p>`:""}
     ${fa.note?`<p class="unknowns">初出について：${esc(fa.note)}</p>`:""}
     <h3 class="sec">歴史的事実</h3>${facts.map(claimHtml).join("")||"<p class='unknowns'>記録なし</p>"}
     ${legends.length?`<h3 class="sec legend">民間伝説・伝承（事実とは分けて記録）</h3>${legends.map(claimHtml).join("")}`:""}
