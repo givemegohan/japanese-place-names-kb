@@ -1,5 +1,297 @@
 prefecture_code: '04'
 records:
+- id: muni/04-七ヶ宿町
+  code: 043028
+  names:
+    ja: 七ヶ宿町
+    reading: しちかしゅくまち
+    aliases:
+    - 七ヶ宿村
+    - 七ケ宿町
+  user_terms:
+  - しちかしゅく
+  - 七ヶ宿ダムの町
+  - 山中七ヶ宿街道
+  naming_type: その他（江戸時代の街道の7宿場の総称「七ヶ宿」の継承）
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県刈田郡の、蔵王連峰南麓の町。江戸時代、奥州と羽州を結ぶ道は「山中七ヶ宿街道」と呼ばれ、上戸沢・下戸沢・渡瀬・関・滑津・峠田・湯原の7つの宿場があったことが町名の由来である。明治に上戸沢・下戸沢が白石市側へ分かれ、残る4村が1889年に合併して七ヶ宿村となり、1957年に町制を施行した。仙台市の水がめ・七ヶ宿ダムを擁する水源の町でもある。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 「山中七ヶ宿街道」の呼称（七ヶ宿町教育委員会の資料が紹介）
+    note: 7宿場の総称としての「七ヶ宿」の成立時期を示すもの。具体的な初出文献は特定できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、七ヶ宿町の団体コードは043028と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 江戸時代には、奥州と羽州を結ぶ道が「山中七ヶ宿街道」と称され、7つの宿場があったことが町名の由来となっている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichikashuku-edu
+  - text: 7つの宿場は、上戸沢、下戸沢、渡瀬、関、滑津、峠田、湯原であり、街道は諸大名の参勤交代の要路であるとともに、商人や出羽三山参詣の人々が往来した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichikashuku-edu
+  - text: 明治維新の後、7宿場のうち上戸沢・下戸沢は現在の白石市の小原村として分離し、渡瀬、関、滑津、湯原の4ヶ村が明治22年（1889年）の町村制施行とともに合併して「七ヶ宿村」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichikashuku-edu
+  - text: 昭和32年（1957年）に町制を施行し、七ヶ宿町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichikashuku-edu
+  - text: 平成3年（1991年）に七ヶ宿ダムが完成し、町は仙台市を含む県民の水がめを擁する水源の町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichikashuku-edu
+  column:
+    title: 「七ヶ宿」を名乗りながら、宿場は五つ
+    text: 町名の由来は7つの宿場だが、そのすべてが今の町の中にあるわけではない。明治の初め、上戸沢と下戸沢は白石市の側へ分かれてしまった。現在の町域に残る宿場は渡瀬・関・滑津・峠田・湯原の五つ。それでも町は「七ヶ宿」の名を大切に守り続け、夏には往時の街道をわらじで歩くイベントが開かれている。
+    sources:
+    - z8-shichikashuku-edu
+  relations:
+  - pref/04
+  unknowns:
+  - 宿場「峠田」が明治22年の合併時に4村のいずれに含まれたかは未確認
+  - 「山中七ヶ宿街道」の呼称の文献上の初出は未確認
+  updated: '2026-11-13'
+- id: muni/04-七ヶ浜町
+  code: '044041'
+  names:
+    ja: 七ヶ浜町
+    reading: しちがはままち
+    aliases:
+    - 七ヶ浜村
+    - 七ケ浜町
+  user_terms:
+  - しちがはま
+  - 七つの浜の町
+  - 大木囲貝塚の町
+  naming_type: その他（明治9年（1876年）に七つの浜を一括した総称の継承）
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県宮城郡の、松島湾と太平洋に面した半島状の町。明治9年（1876年）に、湊浜・松ヶ浜・菖蒲田浜・花渕浜・吉田浜・代ヶ崎浜・東宮浜の七つの浜を一括して「七ヶ浜」と称することになったのが町名の由来である。1889年に七ヶ浜村が発足し、1959年に町制を施行した。縄文時代の大木囲貝塚で知られ、面積は東北の町で最も小さい。
+  first_attestation:
+    era: 明治9年
+    year_western: 1876
+    document: 七ヶ浜町教育委員会『七ヶ浜町の教育』が伝える明治9年の総称
+    note: 七つの浜を一括する総称「七ヶ浜」としての初出。各浜の名自体はそれ以前からあった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、七ヶ浜町の団体コードは044041と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治9年（1876年）には「湊浜」「松ヶ浜」「菖蒲田浜」「花渕浜」「吉田浜」「代ヶ崎浜」「東宮浜」の七つの浜を一括して「七ヶ浜」と称することになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichigahama-edu
+  - text: 明治22年（1889年）の町村制施行により七ヶ浜村となり、昭和34年（1959年）1月1日に町制が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichigahama-edu
+  - text: 町内には縄文時代の大木囲貝塚をはじめ50カ所ほどの遺跡があり、縄文時代の後半から製塩を行っていた痕跡が多数確認されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichigahama-edu
+  - text: 『日本書紀』には日本武尊の一行が上総国から陸奥国に入り、海路でこの地に上陸したとする記述がある、と町の歴史資料は紹介している
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - z8-shichigahama-edu
+  - text: 町の面積は13.19平方キロメートルで、東北で最も小さい町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shichigahama-edu
+  column:
+    title: 七つの浜は、今も住所の中に
+    text: 湊浜、松ヶ浜、菖蒲田浜、花渕浜、吉田浜、代ヶ崎浜、東宮浜——明治9年に一括して「七ヶ浜」と呼ばれるようになった七つの浜の名は、今も町の地区名として地図に残っている。町名は行政が作った総称でありながら、それぞれの浜で暮らしてきた人々の地名を束ねた名でもある。縄文時代の大木囲貝塚が示すように、人々がこの海岸に住み始めてからの時間は、町名の歴史よりはるかに長い。
+    sources:
+    - z8-shichigahama-edu
+  relations:
+  - pref/04
+  - muni/04-多賀城市
+  - muni/04-塩竈市
+  unknowns:
+  - 七つの浜それぞれの名の個別の初出は未確認
+  - 明治9年の総称化がどのような行政手続きで行われたかの詳細は未確認
+  updated: '2026-11-13'
+- id: muni/04-丸森町
+  code: 043419
+  names:
+    ja: 丸森町
+    reading: まるもりまち
+    aliases:
+    - 丸森村
+  user_terms:
+  - まるもり
+  - 猫神の町
+  - 阿武隈川の町
+  naming_type: 合併新設（旧丸森町の名を継承）
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県伊具郡の、県最南端の町。地名の由来は、安永の『風土記御用書出』によれば、丸山館の近くの小山を往古より「丸森」と唱えたことによるという。中世以来の中心地・丸森は1889年に単独で丸森村となり、町制を経て、1954年に金山町と6村が合併して現在の丸森町が誕生した。養蚕の歴史が古く、鼠を退治する猫を祀る「猫神」信仰が町内に根付いている。
+  first_attestation:
+    era: 安永年間
+    year_western: null
+    document: 『封内風土記』
+    note: 「丸森邑、古塁、東南有小山、曰之丸山」と見える。中世以前の用例は本調査では確認できなかった。村名由来の説明は『風土記御用書出』にも記される
+  claims:
+  - text: 総務省の全国地方公共団体コードで、丸森町の団体コードは043419と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「丸森地名考」が引用する『風土記御用書出』には、「当村丸山館の近所に小山御座候処、往古より丸森と申唱候につき邑名に相称候」とあり、丸山館近くの小山を古くから「丸森」と呼んだことが村名の由来としてまとめられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-marumori-chimei
+  - text: 安永の『封内風土記』には「丸森邑、古塁、東南有小山、曰之丸山一名本之」と記され、丸森の東南に「丸山」と呼ばれる小山があった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-marumori-chimei
+  - text: これとは逆の順序の説もあり、先に丸山館があり、城のあった愛宕山の峰続きに丸い森があって、その森と丸山城の「丸」が結びついて「丸森」という地名が起こったとされる
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z8-marumori-chimei
+  - text: 丸山城（丸山館）は、伊達政宗の曾祖父である稙宗が隠居した城と伝えられている
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - z8-marumori-chimei
+  - text: 明治22年（1889年）の町村制の際、丸森は1村1大字の単独で伊具郡丸森村となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-marumori-chimei
+  - text: 昭和29年（1954年）12月1日に丸森町・金山町の2町と大内村・大張村・耕野村・小斎村・舘矢間村・筆甫村の6村が合併して、現在の丸森町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-marumori-town-70th
+    - z8-marumori-chimei
+  column:
+    title: 養蚕の町と猫神さま
+    text: 丸森は養蚕の盛んな町だった。蚕の天敵は鼠である。その鼠を退治してくれる猫は、やがて「猫神」として祀られるようになり、町内の各地に猫神の碑や祠が残っている。『和名類聚抄』に見える伊具五郷の一つ静織郷は、機織りの巧みな集団に由来するとされ、この土地の布づくりの歴史の古さを物語る。町の産業の記憶は、地名と信仰の中に編み込まれている。
+    sources:
+    - z8-marumori-chimei
+  relations:
+  - pref/04
+  unknowns:
+  - 「丸森」の名の中世以前の用例は未確認
+  - 「丸い森」先行説と「丸山」先行説のいずれが正しいかは未確定
+  - 風土記御用書出の記述を直接の影印・翻刻では確認しておらず、卒業研究の引用経由である
+  updated: '2026-11-13'
+- id: muni/04-亘理町
+  code: '043613'
+  names:
+    ja: 亘理町
+    reading: わたりちょう
+    aliases: []
+  user_terms:
+  - わたり
+  - はらこめしの町
+  - 鳥の海
+  - 亘理伊達家の城下町
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県亘理郡の、阿武隈川河口南岸の町。町の公式説明では、阿武隈川の南岸にあり、川を「渡る地」として「わたり」という地名になったといわれている。古代には陸奥国亘理郡の地で、郡衙の推定地とされる三十三間堂官衙遺跡がある。中世から近世にかけて亘理・片倉・伊達各氏の城下町、浜街道の要駅として栄え、江戸時代は亘理伊達家の城下町だった。1955年に荒浜町などと合併して現在の町となった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「亘理」は古代の陸奥国亘理郡の郡名に遡るとされるが、本調査では『和名類聚抄』等の初出文献を直接確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、亘理町の団体コードは043613と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 亘理町公式の説明では、亘理は阿武隈川の南岸にあり、川を「渡る地」として「わたり」という地名になったといわれている
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - z8-watari-town
+  - text: 町内には国指定史跡の三十三間堂官衙遺跡があり、古代の亘理郡の郡衙の跡とされる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-watari-jtb
+  - text: 中心集落の亘理地区は中世から近世にかけて亘理氏・片倉氏・伊達各氏の城下町であり、仙台城下へ通じる浜街道の要駅として栄えた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-watari-jtb
+  - text: 江戸時代は亘理伊達家の治世のもと城下町が築かれ、その風情が今も町に残る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-watari-town
+  - text: 明治22年（1889年）に町制を施行した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-watari-jtb
+  - text: 昭和30年（1955年）2月に亘理町・荒浜町・吉田村・逢隈村が合併して、現在の亘理町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-watari-town
+  column:
+    title: 川を渡る地、舟の集まる浜
+    text: 亘理は、阿武隈川を「渡る地」だったという。川の南岸の城下町として栄える一方、河口の荒浜は藩政時代に舟運の起点となり、米や木材の集散地として賑わった。渡しと舟運、二つの「渡る」に支えられた町である。その荒浜は今、「元祖はらこめし」の発祥の地として知られている。
+    sources:
+    - z8-watari-jtb
+    - z8-watari-town
+  relations:
+  - pref/04
+  unknowns:
+  - 「亘理」の郡名としての初出文献（『和名類聚抄』等）は未確認
+  - 「渡る地」説以外の語源説（亘理氏の居住による逆転の可能性を含む）は未検証
+  - 阿武隈川の渡し場が具体的にどこにあったかは未確認
+  updated: '2026-11-13'
 - id: muni/04-仙台市
   code: 041009
   names:
@@ -72,6 +364,226 @@ records:
   - 韓翃の詩句から採ったとする説の一次裏付け（政宗自身の文書での確認は未実施。『仙台事物起原考』を引く図書館レファレンス経由の情報）
   - 旧名「千代」の文書上の初出と、千体仏を祭った場所の特定は未確認
   - 「川内」説・アイヌ語説との優劣の決着
+  updated: '2026-11-13'
+- id: muni/04-利府町
+  code: '044067'
+  names:
+    ja: 利府町
+    reading: りふちょう
+    aliases:
+    - 利府村
+    - 十符
+  user_terms:
+  - りふ
+  - 十符の菅薦の里
+  - グランディ21のある町
+  naming_type: その他（古地名「十符」に佳字を当てた名の継承）
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県宮城郡の、仙台市の北東に隣接する町。古くは平安時代の歌枕「十符の菅薦」の産地として知られた「十符（とふ）」の地で、留守氏が居住した際に「十符」に佳字の「利」と国府の「府」を当てて「利府」となり、「りふ」と読み替えられたと考えられている。『安永風土記』には国府に付随する地として「利府」と相称したことが記される。1889年に利府村が発足し、1967年に町制を施行した。
+  first_attestation:
+    era: 文禄4年
+    year_western: 1595
+    document: 「利府本郷」の表記（語源由来辞典が紹介）
+    note: 「利府」表記の確認できる古い例とされるもの。古地名「十符」はそれに先立ち、平安時代の歌枕「十符の菅薦」として知られていた
+  claims:
+  - text: 総務省の全国地方公共団体コードで、利府町の団体コードは044067と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 利府は平安時代から「十符の菅薦（とふのすがこも）」の産地であり、編み目が10筋あるスゲで編んだ敷物「菅薦」に由来して「十符」と呼ばれたとされる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-rifu-gogen
+    - z8-rifu-culture
+  - text: 地域文化資料が引用する『安永風土記』には「往古多賀国府に付、利府と相称候」とあり、国府に付随する地として「利府」と称されていたことが記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-rifu-culture
+  - text: 留守氏がこの地に居住した際、「十符」に佳字の「利」と国府の「府」を当てて「利府」となり、のちに「りふ」と読み替えたと考えられている
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - z8-rifu-gogen
+  - text: 一方、利府の地は塩竈市・七ヶ浜町とともに陸奥府中の内に当たるものの、「国府」や「府中」が町名の直接の由来かどうかは不明と整理されている
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z8-rifu-wiki
+  - text: 「利府」の地名は文禄4年（1595年）に「利府本郷」で見えるのが古い例とされる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-rifu-gogen
+  - text: 明治22年（1889年）に利府村が誕生し、昭和42年（1967年）に町制を施行して利府町となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-rifu-gogen
+  column:
+    title: 歌枕の敷物を編み直す町
+    text: 「十符の菅薦」は、都の歌人にも知られたみちのくの歌枕だった。スゲを編んだ敷物は昭和初期まで当地で作られていたが、製法はいったん失われた。今、町の文化事業として、菅草の群生地・春日地区で菅薦づくりの復元が進められている。地名の「十符」の記憶は、漢字が「利府」に変わった後も、編み目の数え方とともに手仕事の中に生き続けている。
+    sources:
+    - z8-rifu-culture
+    - z8-rifu-gogen
+  relations:
+  - pref/04
+  - muni/04-多賀城市
+  unknowns:
+  - 「十符」から「利府」への表記変更の正確な時期と経緯は未確定
+  - 留守氏による当て字という説明の一次資料は未確認
+  - 「十符の菅薦」が詠まれた平安時代の歌の具体的な出典は未確認
+  updated: '2026-11-13'
+- id: muni/04-加美町
+  code: 044458
+  names:
+    ja: 加美町
+    reading: かみまち
+    aliases: []
+  user_terms:
+  - かみまち
+  - 加美富士（薬莱山）の町
+  - やくらい
+  naming_type: 合併新設（郡名「加美」を採用）
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県加美郡の町。2003年4月1日に中新田町・小野田町・宮崎町が新設合併して発足した、宮城県内の平成の合併の第一号である。新町名「加美」は、3町が属する加美郡の郡名を継承したもので、郡名は奈良時代の『続日本紀』に見える「賀美郡」に遡り、江戸時代に「加美」と改められたとされる。当初は色麻町を含む4町で「加美市」を目指したが、色麻町の離脱により町制の町となった。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『続日本紀』（「賀美郡」）
+    note: 町名の源である郡名の原型「賀美」の初出とされるもの。二次資料経由の確認にとどまる。町名「加美町」自体は2003年の合併で誕生した
+  claims:
+  - text: 総務省の全国地方公共団体コードで、加美町の団体コードは044458と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 平成15年（2003年）4月1日に加美郡中新田町・小野田町・宮崎町を廃して新たに加美町が置かれる新設合併が行われ、県内における平成の合併の第一号となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-kami-pref
+  - text: 新町名の決定にあたっては候補17点が挙げられ、最終候補には「加美」「加美富士」「新加美」「加美大崎」「加美郡」と郡名にちなむ案が並び、「加美」が選ばれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z8-kami-uub
+  - text: 合併の検討は当初、色麻町を含む加美郡4町で進められ「加美市」の発足が想定されていたが、色麻町が合併期日の延期を申し入れて協議が休止となり、3町での合併に切り替えたため町制の加美町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-kami-pref
+    - z8-kami-uub
+  - text: 加美郡の名は、奈良時代の『続日本紀』に「賀美郡」と記されたものに遡り、その後色麻郡を併せ、江戸時代に賀美郡から加美郡に改名したとされ、明治22年（1889年）の町村制でも町域には「賀美石村」の名が残っていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z8-kami-gun-wiki
+  - text: 町域は鳴瀬川・田川が貫流し、加美富士と呼ばれる薬莱山を擁する、大崎耕土の一角をなす穀倉地帯である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-kami-pref
+  column:
+    title: 「加美市」にならなかった町
+    text: 加美町は、もう少しで「加美市」になるところだった。当初は加美郡の4町すべてが合併し、市制を施行する計画だった。しかし色麻町が住民アンケートを理由に合併の延期を申し入れ、協議は休止。残る3町は単独での合併に切り替えたが、人口が市の要件に届かず、町制の「加美町」として出発することになった。郡の名を継ぐ新しい町の名には、こうした曲折の記憶も刻まれている。
+    sources:
+    - z8-kami-pref
+    - z8-kami-uub
+  relations:
+  - pref/04
+  unknowns:
+  - 『続日本紀』の「賀美郡」の記載を原文では未確認（二次資料経由）
+  - 「賀美」の語源そのもの（何を意味したか）は未確認
+  - 新町名「加美」の選定理由を記した合併協議会の一次資料は未確認
+  updated: '2026-11-13'
+- id: muni/04-南三陸町
+  code: '046060'
+  names:
+    ja: 南三陸町
+    reading: みなみさんりくちょう
+    aliases: []
+  user_terms:
+  - みなみさんりく
+  - 志津川
+  - 歌津
+  - 三陸の南の玄関
+  naming_type: 新規命名（公募で広域地名を採用）
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県本吉郡の、三陸海岸南部に位置する町。2005年10月1日に志津川町と歌津町が新設合併して発足した。新町名「南三陸」は合併協議会が公募し、670件の応募の中から選ばれた名で、2004年1月に決定した。もともと2005年4月の合併を予定したが、歌津町議会での否決と再協議を経て、発足は10月にずれ込んだ。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 志津川町・歌津町合併協議会の新町名決定（宮城県の合併資料）
+    note: 公募と協議会の確認（平成16年1月21日）をもって自治体名としての「南三陸」が成立した。以後2005年10月1日の町発足で使用開始
+  claims:
+  - text: 総務省の全国地方公共団体コードで、南三陸町の団体コードは046060と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 平成17年（2005年）10月1日に、本吉郡志津川町と歌津町を廃し、その区域をもって新しい町を設置する新設合併により、南三陸町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-minamisanriku-pref
+  - text: 新町の名称は平成15年（2003年）11月1日から30日に公募され、応募件数は670件にのぼった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-minamisanriku-pref
+  - text: 平成16年（2004年）1月21日に、合併協議会で新町の名称が「南三陸町（みなみさんりくちょう）」と確認された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-minamisanriku-pref
+    - z8-minamisanriku-town
+  - text: 合併の期日は当初平成17年（2005年）4月1日とされたが、歌津町議会で合併関連議案が否決され、再協議を経て同年10月1日に変更された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-minamisanriku-pref
+  - text: 旧志津川町は平成7年（1995年）に町制施行100周年を迎えた古い町で、旧歌津町とともにリアス海岸の漁業の町として歩んできた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-minamisanriku-town
+    - z8-minamisanriku-pref
+  column:
+    title: 名前が先に決まった町
+    text: 「南三陸」という名は、町ができる1年9か月前に決まっていた。2003年11月の公募には670件の応募があり、翌2004年1月、新町名は「南三陸町」に決まった。ところが合併そのものは難航し、歌津町議会の否決をはさんで発足は2005年10月にずれ込んだ。三陸の南の玄関を名乗る新しい町の名は、自治体の誕生を待ちながら先に生まれていたのである。
+    sources:
+    - z8-minamisanriku-pref
+    - z8-minamisanriku-town
+  relations:
+  - pref/04
+  unknowns:
+  - 公募670件の応募内容（「南三陸」以外の有力候補）の詳細は未確認
+  - 「南三陸」を提案した応募者の意図・選定理由の一次記録は未確認
   updated: '2026-11-13'
 - id: muni/04-名取市
   code: '042072'
@@ -333,6 +845,86 @@ records:
   - 中世の「多賀国府」の中心地の遺構は確定していない
   - 1889年の多賀城村の命名経緯（13村のうち多賀城跡に最も近い村名があったのか等）は、確認した資料では分からなかった
   updated: '2026-11-13'
+- id: muni/04-大和町
+  code: '044211'
+  names:
+    ja: 大和町
+    reading: たいわちょう
+    aliases: []
+  user_terms:
+  - たいわ
+  - 七ツ森の町
+  - 吉岡（中心地区の旧町名）
+  - 大和市と間違えやすい町
+  naming_type: 合併新設
+  prefecture: 宮城県
+  homonyms:
+  - muni/14-大和市
+  summary: 宮城県黒川郡の町。1955年に吉岡町・宮床村・吉田村・鶴巣村・落合村が合併して発足した新設の町名で、郷土資料は「大同団結を願っての命名」と伝える。中心地区は近世に奥州街道の宿場として栄えた吉岡で、古代には多賀城以北の関門の位置を占めた。読みは「たいわ」で、神奈川県大和市（やまと）とは読みも由来も異なる別の自治体である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 大和町公式資料「町の沿革」
+    note: 1955年4月20日の合併で新町村名『大和町』として発足したことを町公式資料が記す。命名そのものの初出
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大和町の団体コードは044211と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1955年4月20日、吉岡町・宮床村・吉田村・鶴巣村・落合村が合併し、新町村名『大和町』として発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-taiwa-town-enkaku
+  - text: 町名「大和」は、合併にあたって「大同団結」を願って命名されたと郷土資料が伝える
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z9-date-essay
+  - text: 黒川郡が国史に記録されたのは、天平14年の陸奥の奏言に「黒川以北1郡」とあるのをもって最初とする、と大和町公式資料は『続日本紀』系統の記録を紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-taiwa-town-enkaku
+  - text: 中心地区の吉岡は、近世には奥州街道（現在の国道4号）の宿場町として栄えた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z9-date-essay
+  - text: 落合地区の舞野の観音堂は、大同3年（808年）に坂上田村麻呂が勧請したものと伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z9-taiwa-town-enkaku
+  - text: 神奈川県大和市は「やまと」と読む別の自治体であり、大和町（たいわ）の1955年の命名経緯とは関係がない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z9-date-essay
+  column:
+    title: 「大」の字が並ぶ黒川郡
+    text: 黒川郡には、大和町・大郷町・大衡村と、「大」の字で始まる町村が三つも隣り合っている。大和は1955年の合併で「大きく和する」願いを込めた新名、大衡は中世以来の地名、大郷は1954年の合併名と、同じ「大」でも生まれ方はまったく違う。地図の上で三つの「大」が並ぶ眺めは、命名の時代の違いをそのまま映している。
+    sources:
+    - z9-date-essay
+    - z9-taiwa-town-enkaku
+  relations:
+  - pref/04
+  - muni/04-大衡村
+  - muni/04-大郷町
+  - muni/14-大和市
+  unknowns:
+  - 「大和」の命名理由について、合併協議の一次記録（議事録等）での直接確認はできていない（郷土資料の「大同団結」説に拠る）
+  - 命名に際して他の候補名があったかどうかは未確認
+  updated: '2026-11-13'
 - id: muni/04-大崎市
   code: '042153'
   names:
@@ -406,6 +998,287 @@ records:
   unknowns:
   - 市名「大崎」の当初の決定手続き（公募の有無や候補案）は、県の合併記録の今回確認範囲では未確認
   - 「大崎」の語源そのもの（地形に由来する名か、荘園名か）についての専門的な検討は未確認
+  updated: '2026-11-13'
+- id: muni/04-大河原町
+  code: '043214'
+  names:
+    ja: 大河原町
+    reading: おおがわらまち
+    aliases:
+    - 大河原宿
+  user_terms:
+  - おおがわら
+  - 一目千本桜の町
+  - 仙南の中心地
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県柴田郡の町で、白石川の流域に広がる。町名の由来は素朴に思える「大きな川の原」ではなく、「多くの河が合流する（逢う）原」を意味する「逢河原」から「大河原」へ変化したものと町史の説が紹介されている。その地には大河原宿が置かれ、人の交流の場となった。1889年に4か村の合併で大河原町として発足した。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による大河原町の発足（Wikipediaが紹介）
+    note: 自治体名としての発足年。地名「大河原」自体は、それ以前の大河原宿の名に遡る
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大河原町の団体コードは043214と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町名の由来は「大きな川を有する原」ではなく、「多くの河が合流する（逢う）原」という意味であり、「逢河原」から「大河原」へと変化したものだと、Wikipediaは『大河原町史』を踏まえて紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-ogawara-wiki
+  - text: 大河原の地には「大河原宿」が設置され、人や物の交流の場となって今日の大河原の基礎がつくられたとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-ogawara-wiki
+  - text: 1889年4月1日、大河原村・小山田村・大谷村・福田村の4か村が合併して大河原町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-ogawara-wiki
+  - text: 1956年9月30日に金ヶ瀬村と合併し、新制の大河原町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-ogawara-wiki
+  - text: 2000年代の柴田郡などの合併協議では新市名が「柴田市」に決まったが、大河原町民の間に合併協議への不信感が生まれ、協議会は廃止された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-ogawara-wiki
+  column:
+    title: あと一歩で「柴田市」だった
+    text: 平成の大合併の協議では、大河原町を含む枠組みで新市名が「柴田市」にまで決まっていた。ところが合併後の市役所仮庁舎が柴田町役場に決まったことなどから大河原町民の不信感が高まり、協議会は解散した。「柴田」という古い郡名は1956年に柴田町が先に名乗っていたこともあり、大河原にとって郡名は「自分たちの名」にはならなかったのである。
+    sources:
+    - z9-ogawara-wiki
+  relations:
+  - pref/04
+  - muni/04-柴田町
+  - muni/04-村田町
+  unknowns:
+  - 「逢河原」説の根拠となる『大河原町史』の記述を直接確認できていない（Wikipedia経由の紹介形にとどめる）
+  - 「大河原」という地名の文献上の初出（中世文書等）は未確認
+  updated: '2026-11-13'
+- id: muni/04-大衡村
+  code: '044245'
+  names:
+    ja: 大衡村
+    reading: おおひらむら
+    aliases: []
+  user_terms:
+  - おおひら
+  - 宮城県唯一の村
+  - 昭和万葉の森のある村
+  - 王城寺原演習場の村
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県黒川郡の村で、県内で唯一の「村」。読みは「おおひら」。1889年に5村が合併した際、中央にあった大衡村の名を継いだ。「大衡」は中世以来の地名で、大衡館を居館とした大衡氏の名にも見える。語源については、平坦な大地が広がり「大平」と称したことに由来するという郷土資料の説があるが、確定していない。
+  first_attestation:
+    era: 戦国時代
+    year_western: null
+    document: 『古城書立之覚』（『日本歴史地名大系』が引く）
+    note: 大衡館の館主・大衡治部大輔が天正年中まで居住したと伝える記事を専門辞典が紹介する。二次資料経由の紹介形
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大衡村の団体コードは044245と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 大衡村は宮城県内で唯一の村である（県内の他の基礎自治体はすべて市または町）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1889年に5村が合併して誕生し、5村の中央にあった「大衡村」が村名の由来となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z9-ohira-jtb
+  - text: 現在の大衡にあたる地には大衡館があり、その館主は天正年中（1573〜92年）まで黒川安芸守の臣・大衡治部大輔の居住であったと『古城書立之覚』に伝えられる、と『日本歴史地名大系』は紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z9-ohira-kotobank
+  - text: 大衡氏は、「源家足利黒川系図」によると黒川景氏の子・宗氏を大衡治部大輔とする一族であると『日本歴史地名大系』は紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z9-ohira-kotobank
+  - text: 村名の由来は、平坦な大地が広がり「大平（おおひら）」と称したことによると郷土資料が伝えるが、「大衡」の字がなぜ当てられたかは確定していない
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z9-date-essay
+  column:
+    title: 県でたった一つの「村」と万葉
+    text: 宮城県の基礎自治体の中で「村」を名乗るのは大衡村だけである。その村が力を入れてきたのが万葉のイメージで、村内には万葉集に詠まれた植物を集めた「昭和万葉の森」や「万葉クリエートパーク」が整備されている。「おおひら」という響きと、平らかな大地に万葉の歌の風景を重ねる村づくりが、この小さな村の個性になっている。
+    sources:
+    - z9-ohira-jtb
+  relations:
+  - pref/04
+  - muni/04-大和町
+  - muni/04-大郷町
+  unknowns:
+  - 「大衡」の語源・字義は専門辞典でも確定しておらず、「大平」説の典拠の直接確認もできていない
+  - 1889年合併時の5村の構成と村名決定の経緯の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/04-大郷町
+  code: 044229
+  names:
+    ja: 大郷町
+    reading: おおさとちょう
+    aliases:
+    - 大郷村
+  user_terms:
+  - おおさと
+  - 道の駅おおさとの町
+  - 支倉常長メモリアルパークのある町
+  naming_type: 合併新設
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県黒川郡の町。1954年に大谷村・粕川村・大松沢村が合併して大郷村として発足し、1959年に町制を施行して大郷町となった。町名の由来については、品井沼が大きく谷に入り込んでいたという「大谷郷」に由来すると郷土資料が伝える。町域にはかつて仙台藩最大の湖・品井沼が広がっていた。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 大郷村の発足（1954年7月1日の3村合併）
+    note: 自治体名としての初出。もとになったとされる大谷郷の文献上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大郷町の団体コードは044229と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1954年7月1日、大谷村・粕川村・大松沢村が合併して大郷村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-osato-wiki
+  - text: 1959年4月1日に町制を施行し、大郷町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-osato-wiki
+  - text: 町名「大郷」の由来は、品井沼が大きく谷に入り込んでいたという大谷郷にあると郷土資料が伝える
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z9-date-essay
+  - text: 町域には仙台藩領内で最大の湖だった品井沼が広がっていたが、江戸時代からの干拓によって消滅した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-osato-wiki
+  - text: 町内には支倉常長メモリアルパークがあり、「おおさと常長公まつり」が開かれている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-osato-wiki
+  column:
+    title: 消えた大湖・品井沼
+    text: 大郷町の名の由来とされる大谷郷は、かつての大湖・品井沼と結びつけて語られる。品井沼は仙台藩領内で最大の湖で、松島町や旧鹿島台町にまで広がっていたが、江戸時代から続けられた干拓で姿を消し、跡地は吉田川沿いの美田になった。町の名の由来をたどると、水の風景が陸の風景に変わった土地の記憶に行き着く。
+    sources:
+    - z9-osato-wiki
+    - z9-date-essay
+  relations:
+  - pref/04
+  - muni/04-大和町
+  - muni/04-大衡村
+  unknowns:
+  - 「大谷郷」という郷名の文献上の初出と、大郷村命名時の公式な理由づけは未確認（郷土資料の説に拠る）
+  - 合併時の新村名の候補や選定過程は未確認
+  updated: '2026-11-13'
+- id: muni/04-女川町
+  code: 045811
+  names:
+    ja: 女川町
+    reading: おながわちょう
+    aliases:
+    - 女川村
+    - 女川組
+  user_terms:
+  - おながわ
+  - サンマの町
+  - 女川原発のある町
+  - シーパルピア女川の町
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県牡鹿郡の町で、牡鹿半島の付け根に位置し女川湾に面する。町名の由来として、平安時代に安倍貞任の一族の婦女子を安野平に避難させたことから、そこから流れる小川を「女川」と呼ぶようになったという伝承が町の公式記録に記されている。もとは20の浜の総称「女川組」だった地域が、1889年に女川村、1926年に女川町となった。現在は牡鹿郡で唯一の町である。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による女川村の発足（女川町公式記録）
+    note: 町全域を「女川」と称した最初。それ以前は20の浜の総称「女川組」として江戸時代を通じて呼ばれていた
+  claims:
+  - text: 総務省の全国地方公共団体コードで、女川町の団体コードは045811と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町全域が「女川」と称されるようになったのは1889年の町村制施行で女川村となってからであり、それ以前は20の浜が「女川組」と総称されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-onagawa-kirokushi
+  - text: 現在の女川町は、1926年4月1日の町制施行により誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-onagawa-kirokushi
+  - text: 平安中期、町の西方背後にある黒森山の奥地・安野平に、奥州を支配していた安倍貞任の一族の婦女子を源氏方の軍との戦いに際して避難させたことから、ここから流れる小川を「女川」と呼ぶようになり、のちに地名になったと伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z9-onagawa-kirokushi
+  - text: 2005年に牡鹿町が石巻市へ合併したことにより、女川町は牡鹿郡で唯一の町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-onagawa-kirokushi
+  - text: 女川港はサンマなどの水揚げで知られる漁港であり、町内には女川原子力発電所が立地する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-onagawa-wiki
+  column:
+    title: 伝説の舞台は今も地名に残る
+    text: 「女川」の名の由来とされる安倍貞任の婦女子の避難先「安野平」は、町の公式記録が伝える伝説の舞台である。女川という名はもともと一つの川の名だったのが、やがて20の浜の総称「女川組」となり、村の名、町の名へと広がっていった。サンマと原発で知られる現代の町の名の奥には、前九年合戦の時代にまで遡る物語が横たわっている。
+    sources:
+    - z9-onagawa-kirokushi
+  relations:
+  - pref/04
+  unknowns:
+  - 安倍貞任の一族避難の伝承以外に、「女川」の語源を説明する専門辞典（角川日本地名大辞典等）の見解は未確認
+  - 川の名としての「女川」の文献上の初出は未確認
   updated: '2026-11-13'
 - id: muni/04-富谷市
   code: '042161'
@@ -494,6 +1367,75 @@ records:
   unknowns:
   - 「富谷（十宮）」という地名の初出の文献と年は、今回の調査では特定できなかった（『安永風土記』の由来説明が確認できた最古級の記録）
   - 宮十社（十の宮）が実在した神社群かどうかは、『安永風土記』の伝承の域を出ず、考古学・文献上の裏付けは確認できなかった
+  updated: '2026-11-13'
+- id: muni/04-山元町
+  code: '043621'
+  names:
+    ja: 山元町
+    reading: やまもとちょう
+    aliases: []
+  user_terms:
+  - やまもと
+  - 東北の湘南
+  - 山下・坂元の町
+  naming_type: 合併新設
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県亘理郡の町で、県の最東南端、太平洋に面する。1955年に山下村と坂元村が合併して発足した合成地名で、両村の名から成る。旧坂元村の「坂元」は『和名類聚抄』に見える坂本郷に遡り、江戸時代初めの村割りの際に「坂本」から表記を改めたものと伝えられる。旧山下村は1889年に7か村の合併で発足した。
+  first_attestation:
+    era: 承平年間
+    year_western: 934
+    document: 『和名類聚抄』の曰理（亘理）郡・坂本郷
+    note: 町域（旧坂元村）の史料上の初出としてWikipediaが紹介する。「山元」の名自体は1955年の合併で生まれた
+  claims:
+  - text: 総務省の全国地方公共団体コードで、山元町の団体コードは043621と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1955年2月1日、町村合併促進法に基づき山下村と坂元村が合併して「山元町」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-yamamoto-town-gaiyo
+    - z9-yamamoto-timr
+  - text: 町名「山元」は、合併した山下村と坂元村の名を合わせた合成地名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-yamamoto-gousei
+    - z9-yamamoto-town-gaiyo
+  - text: 山下村は1889年4月1日に、八手庭村・大平村・小平村・鷲足村・山寺村・浅生原村・高瀬村の7か村が合併して発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-yamamoto-town-gaiyo
+  - text: 坂元は『和名類聚抄』に見える曰理郡の坂本郷に遡り、正保元年（1644年）の村割で坂本郷が坂元本郷と真庭村に分かれた際、「坂本本郷」では本の字が重なって紛らわしいため「坂本」から「坂元」へ表記を改めたと『山元町誌』に基づき紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-sakamoto-wiki
+  - text: 『和名類聚抄』には曰理（亘理）郡の四郷として坂本・菱沼・亘理・望多が挙げられており、これが山元町域が史料上に現れた最初であるとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-yamamoto-wiki
+  column:
+    title: 「本」が重なるので字を変えた
+    text: 山元町を構成する旧坂元村の名は、もとは坂本だった。1644年の村割りで「坂本本郷」と名乗ると「本」の字が重なって紛らわしい、という実務的な理由で「坂元」に改めたと町誌は伝える。さらにその坂本は、10世紀の『和名類聚抄』に郷名として載る古い名である。1955年の合成地名「山元」の後ろ半分には、千年を超える地名の履歴が折りたたまれている。
+    sources:
+    - z9-sakamoto-wiki
+  relations:
+  - pref/04
+  unknowns:
+  - 「山下村」の名の由来（1889年の7か村合併時の命名理由）は未確認
+  - 合成地名「山元」の決定過程（合併協議での候補や選定理由）の一次記録は未確認
   updated: '2026-11-13'
 - id: muni/04-岩沼市
   code: '042111'
@@ -664,6 +1606,84 @@ records:
   - 川崎宿の成立年と初出文書
   - 1889年に新村名として「川崎」を選んだ理由の記録
   updated: '2026-11-13'
+- id: muni/04-村田町
+  code: '043222'
+  names:
+    ja: 村田町
+    reading: むらたまち
+    aliases:
+    - 村田村
+    - 村田郷
+  user_terms:
+  - むらた
+  - 蔵の町
+  - みちのく宮城の小京都
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県柴田郡の町。もとは村田館の城下に発達した町場で、江戸時代の資料に「村田郷」と見える古い地名である。江戸時代後期には村田商人が紅花交易で繁栄し、その土蔵の町並みが「蔵の町」として残る。1889年に村田村、1895年に村田町となった。「村田」の語源そのものは、確認した資料では確定した説明がない。
+  first_attestation:
+    era: 安永7年
+    year_western: 1778
+    document: 『柴田郡村田郷風土記御用書出』
+    note: 村田郷としてのまとまった記録（村田町教育委員会の保存計画が引く）。村田館は鎌倉後期から南北朝時代頃の築造と推測され、地名は中世に遡る可能性がある
+  claims:
+  - text: 総務省の全国地方公共団体コードで、村田町の団体コードは043222と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 村田の町場は村田館の東に見下ろす位置に発達し、安永7年（1778年）の『柴田郡村田郷風土記御用書出』には、荒町・本町・南町の三町を合わせた宿場「村田町」の姿が記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-murata-hozon
+  - text: 村田館は、鎌倉後期から南北朝時代頃の陶器片が出土していることから、この頃に築かれたものと推測されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-murata-hozon
+  - text: 1889年に村田郷は近隣の3つの村と合併して「村田村」となり、1895年には「村田町」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-murata-hozon
+  - text: 江戸時代後期、村田の商人は京都・大阪・江戸との紅花交易で繁栄し、帰り荷に上方の物資を仕入れる「鋸商い」を行って、上方と仙南地方を結ぶ中継商業地となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-murata-hozon
+  - text: 村田商人の土蔵が続く蔵の町並みは、2014年に宮城県で初めて国の重要伝統的建造物群保存地区に選定され、「みちのく宮城の小京都」として親しまれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-miyagi-sennan
+  - text: 「村田」という地名の語源については、今回確認した町の公的資料・保存計画では説明が示されておらず、未詳である
+    kind: fact
+    level: E2
+    status: unknown
+    sources:
+    - z9-murata-hozon
+  column:
+    title: 紅花を運んだ蔵の町
+    text: 村田の町並みを形づくったのは紅花だった。村田商人は最上・置賜方面の紅花を集めて上方へ送り、帰り荷には京・大坂の物資を満載して戻る「鋸商い」で財を成した。その富が、漆喰の土蔵と豪勢な門構えを持つ商家の町並みを残した。村田という短い地名の背後には、仙台と山形、上方を結んだ交易路の結節点としての歴史がある。
+    sources:
+    - z9-murata-hozon
+    - z9-miyagi-sennan
+  relations:
+  - pref/04
+  - muni/04-柴田町
+  - muni/04-大河原町
+  unknowns:
+  - 「村田」の語源（専門辞典『角川日本地名大辞典』『日本歴史地名大系』の村田郷の項を含む）は未確認
+  - 村田郷の文献上の初出（中世文書）は未確認
+  updated: '2026-11-13'
 - id: muni/04-東松島市
   code: '042145'
   names:
@@ -747,6 +1767,151 @@ records:
   - 「東松島」が最終候補の中から選ばれた公式の選定理由文（「松島の東に位置する」等の説明）は、県・協議会の公表資料では確認できなかった
   - 中心地名「矢本」の中世以前の文献上の初出は、今回の調査では特定できなかった（『安永風土記』の由来説明が確認できた最古級の記録）
   - 旧鳴瀬町の名の由来である鳴瀬川の語源は、今回の調査範囲では確認できなかった
+  updated: '2026-11-13'
+- id: muni/04-松島町
+  code: '044016'
+  names:
+    ja: 松島町
+    reading: まつしままち
+    aliases:
+    - 松島村
+  user_terms:
+  - まつしま
+  - 日本三景
+  - 松島海岸
+  - 松島の月
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県宮城郡の町で、日本三景の一つに数えられる景勝地・松島をそのまま町名とする。「松島」は、松におおわれた260余りの島々が浮かぶ湾そのものの名で、平安時代から歌枕の地として知られ、霊場としても栄えた。1889年に10か村の区域で松島村が発足し、1928年に町制を施行して松島町となった。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 歌枕としての松島
+    note: 松島は古来より歌枕の地として有名だったと瑞巌寺公式が述べ、平安時代から歌枕として知られたとする解説もある。具体的な最古の和歌・文献の特定は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、松島町の団体コードは044016と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 松島湾には260余りの島々があり、松島は平安時代から歌枕の地として知られていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z9-matsushima-jcca
+  - text: 松島は景観の素晴らしさと月の美しさから、古来より歌枕の地として有名であったと、国宝・瑞巌寺の公式サイトは述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-matsushima-zuiganji
+  - text: 瑞巌寺の前身は、9世紀初頭に慈覚大師円仁によって開創された天台宗延福寺であると伝わっている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z9-matsushima-zuiganji
+  - text: 「瑞巌寺」という呼称の初出は、慶長13年（1608年）に鋳造された大鐘の銘文「山を号して松島と曰い、寺を名づけて瑞岩（巌）と曰う」であり、翌1609年に伊達政宗による復興工事が完了した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-matsushima-zuiganji
+  - text: 松尾芭蕉は1689年（元禄2年）に塩釜から船を借りて松島に到達し、その絶景を『おくのほそ道』に記した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z9-matsushima-jcca
+  - text: 1889年4月1日の町村制施行により、松島村・高城本郷・桜渡戸村・磯崎村・初原村・根廻村・手樽村・幡谷村・竹谷村・北小泉村の区域をもって松島村が発足し、1928年1月1日に町制を施行して松島町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-matsushima-wiki
+  column:
+    title: 芭蕉の句ではない「松島や ああ松島や」
+    text: 「松島や ああ松島や 松島や」は松尾芭蕉の作として広く知られるが、芭蕉の『おくのほそ道』にも曾良の旅日記にもこの句はない。実際の作者は江戸時代後期の狂歌師・田原坊で、1820年頃の案内書『松島図誌』に載った「松島や さて松島や 松島や」が原形とされる。芭蕉が松島で句を詠めなかったという話と結びついて、作者がすり替わってしまったのである。雄島にはこの句の碑まであるが、それも後世の誤伝の産物である。
+    sources:
+    - z9-matsushima-basho-wiki
+  relations:
+  - pref/04
+  unknowns:
+  - 「松島」の名の文献上の初出（具体的な和歌集・記録の特定）は未確認
+  - 専門辞典（日本歴史地名大系等）による「松島」の語源説明は未確認（島々の景観そのものに由来する記述的地名とみられるが、典拠の確認を要する）
+  updated: '2026-11-13'
+- id: muni/04-柴田町
+  code: '043231'
+  names:
+    ja: 柴田町
+    reading: しばたまち
+    aliases: []
+  user_terms:
+  - しばた
+  - 船岡の一目千本桜
+  - 船岡城の町
+  naming_type: 合併新設
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県柴田郡の町。1956年に船岡町と槻木町が合併して誕生した町名で、合併促進協議会が、所属する郡の名であり『延喜式』『和名抄』などの古書に見える陸奥国の古い郡名「柴田」を新町名に選んだ。「柴田郡」の史料初見は『続日本紀』養老5年（721年）の記事とされ、和名抄では「之波多（しはた）」と訓まれた。語源そのものは確定していない。
+  first_attestation:
+    era: 養老5年
+    year_western: 721
+    document: 『続日本紀』（『日本歴史地名大系』が紹介）
+    note: 柴田郡のうち二郷を分けて刈田郡を置いた記事が「柴田郡」の史料初見と専門辞典が紹介する。二次資料経由の紹介形
+  claims:
+  - text: 総務省の全国地方公共団体コードで、柴田町の団体コードは043231と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1956年4月1日、船岡町と槻木町が合併して柴田町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-shibata-town-history
+  - text: 新町名を「柴田町」とした理由について、合併促進協議会は、「柴田」が『延喜式』『和名抄』などの古書に見える地名で陸奥国の古くからの郡名であること、歴史的・地理的・社会的にこれ以上適切な名称はないこと、住民の自然な要望であることを挙げた、と柴田町公式は伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-shibata-town-history
+  - text: 『続日本紀』養老5年（721年）10月14日条に、柴田郡のうち二郷を分けて刈田郡を置いたと見えるのが「柴田郡」の史料初見であり、郡の設置はさらに遡ると思われる、と『日本歴史地名大系』は紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z9-shibata-kotobank
+  - text: 『和名類聚抄』東急本郡部は柴田を「之波太（しはた）」と訓み、『拾芥抄』も「シハタ」とする一方、『吾妻鏡』では「芝田郡」とも書かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z9-shibata-kotobank
+  - text: 「柴田」の語源は確定しておらず、かつて「しはた」と訓まれ「芝田」とも書かれたという表記・読みの履歴が残るのみである
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - z9-shibata-kotobank
+  column:
+    title: 協議会長の名も「柴田」だった
+    text: 1956年の合併で新町名「柴田町」を決めた合併促進協議会の会長は、柴田倫之助という人だった。郡名としての柴田は奈良時代の文献にまで遡る由緒ある名であり、協議会は「これ以上適切な名称はない」と太鼓判を押した。会長の姓と決まった町名が偶然同じ文字だったことは、古い郡名がそのまま自治体名として蘇った場面に、小さな偶然の彩りを添えている。
+    sources:
+    - z9-shibata-town-history
+  relations:
+  - pref/04
+  - muni/04-大河原町
+  - muni/04-村田町
+  - muni/04-川崎町
+  unknowns:
+  - 「柴田」の語源（「芝田」との関係を含む）について、専門資料で確定した説明は未確認
+  - 『延喜式』における柴田郡・柴田神社の記載内容の直接確認は未了（町公式の言及に拠る）
   updated: '2026-11-13'
 - id: muni/04-栗原市
   code: '042137'
@@ -888,6 +2053,82 @@ records:
   - 『日本三代実録』に「計仙麻」の地名の記述があるとする紹介があるが、該当記事の原典確認は未実施
   - ケセ・モイ説と計仙麻神由来説の関係（どちらが先か）の専門的な決着は未確認
   - 「気仙沼」の表記が定着した時期の特定は未確認
+  updated: '2026-11-13'
+- id: muni/04-涌谷町
+  code: '045012'
+  names:
+    ja: 涌谷町
+    reading: わくやまち
+    aliases:
+    - 元涌谷村
+  user_terms:
+  - わくや
+  - 日本初の産金の地
+  - 黄金山神社の町
+  - みちのくGOLD浪漫
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 宮城県遠田郡の町。天平21年（749年）にこの地を含む小田郡から黄金が産出したと報告され、日本初の産金として東大寺大仏の鍍金を支えたことで知られる。「涌谷」の語源は確定していないが、町公式の歴史解説は、砂金の洗い取りで大勢の人々でにぎわい「谷（沢）が湧きかえる」ことに由来するという説を紹介している。1889年に城下の馬場谷地村が単独で町制を施行して涌谷町となり、その後元涌谷村・箟岳村と合併して現在に至る。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による涌谷町の発足（馬場谷地村の単独町制）
+    note: 自治体名としての発足。地名「涌谷」は中世以来の城下の名に遡るが、文献上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、涌谷町の団体コードは045012と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 天平21年（749年）春、陸奥国は小田郡から黄金が産出したことを報告し、国守・百済王敬福は自ら黄金900両（約13kg）を携えて献上した。聖武天皇はこれを日本初の産金として慶祝し、大伴家持はその喜びを歌に詠んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-wakuya-bunkazai
+  - text: この産金は『続日本紀』に「陸奥国始めて黄金を貢る」と記された、と涌谷町公式の歴史解説は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-wakuya-town-history
+  - text: 産金の地である黄金山産金遺跡は国史跡で、産出した砂金は東大寺大仏の鍍金（金メッキ）の材料に用いられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-wakuya-bunkazai
+  - text: 「涌谷」の地名は、砂金の洗い取り作業をするため大勢の人々で「谷（沢）が湧（涌）きかえる」ことに由来しているのだという説を、涌谷町公式の歴史解説の筆者は主張している
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - z9-wakuya-town-history
+  - text: 中世に領地替えをされた涌谷伊達家の統治や城下町の賑わいが、涌谷の町の原型である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z9-wakuya-bunkazai
+  - text: 1889年4月1日の町村制施行の際、馬場谷地村が単独で町制を施行して涌谷町となり、1948年に元涌谷村と、1955年に箟岳村と合併して、現在の涌谷町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z9-wakuya-wiki
+  column:
+    title: 奈良の大仏を金色に染めた砂金
+    text: 天平21年（749年）、東大寺の大仏は鋳造の目途が立ちながら、鍍金に使う金が決定的に不足していた。その年の2月、最果ての陸奥国・小田郡から黄金が見つかったという知らせが届く。国守の百済王敬福が携えてきた金は900両、必要量の4分の1にも満たなかったが、「日本初の産金」の報せに聖武天皇は神仏へ慶祝し、大伴家持は喜びを歌にした。涌谷の箟岳丘陵の砂金は、やがて平泉の黄金文化をも支えていくことになる。
+    sources:
+    - z9-wakuya-bunkazai
+    - z9-wakuya-town-history
+  relations:
+  - pref/04
+  unknowns:
+  - 「涌谷」の語源は「谷が湧きかえる」説のほかに諸説の有無を含め、専門辞典での確認が未了で確定していない
+  - 地名「涌谷」の文献上の初出（中世文書における涌谷城・涌谷氏の表記等）は未確認
   updated: '2026-11-13'
 - id: muni/04-登米市
   code: 042129
@@ -1201,6 +2442,161 @@ records:
   - 「美里」の具体的な選定理由（公募の有無・候補名・理由文）
   - 合併前の両町域に「美里」という字名・小地名があったか
   updated: '2026-11-13'
+- id: muni/04-色麻町
+  code: '044440'
+  names:
+    ja: 色麻町
+    reading: しかまちょう
+    aliases:
+    - 色麻村
+    - 色麻柵
+  user_terms:
+  - しかま
+  - 色麻町の名前の由来
+  - 加美郡色麻町
+  - 色麻柵（古代の柵）
+  naming_type: 一部の地名
+  prefecture: 宮城県
+  homonyms: []
+  summary: 「色麻」は、天平9年（737年）の『続日本紀』に陸奥国の柵「色麻柵」として現れる古い地名で、『和名類聚抄』にも「之加萬（しかま）」の訓が見える。明治22年（1889年）に色麻村が発足し、昭和53年（1978年）に町制を施行して色麻町となった。しかまの語源そのものは確定していないが、柵を築いた大野東人の軍に加わった播磨国飾磨（しかま）出身の兵たちが、故郷を偲んで故地の名で呼んだという伝承が伝わる。
+  first_attestation:
+    era: 天平9年
+    year_western: 737
+    document: 『続日本紀』巻12（色麻柵）
+    note: 町公式サイトが天平9年4月の条の原文を引用して紹介する「色麻柵」が、地名「色麻」の文献上の初出。延暦8年の条にも「色麻」が登場すると町公式は紹介する
+  claims:
+  - text: 総務省の全国地方公共団体コードで、色麻町の団体コードは044440と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 色麻町公式サイトは、『続日本紀』天平9年（737年）4月の条に、将軍大野東人が多賀柵を発ち色麻柵を拠点として出羽国へ向かった記述があることを、原文を引用して紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-shikama-town-history
+  - text: 色麻町公式サイトによれば、『和名類聚抄』には「色麻」に「之加萬」の字があてられ「シカマ」の訓が与えられており、古代から「しかま」と呼ばれていたことが文献で裏づけられる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-shikama-town-history
+  - text: 色麻柵は、陸奥国と出羽国を結ぶ軍事直道を確保するための中継拠点であり、約6,000人の兵が集結したと町公式サイトは解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-shikama-town-history
+  - text: 明治22年（1889年）4月1日の市町村制施行により色麻村が発足し、昭和53年（1978年）4月1日に町制を施行して色麻町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-shikama-maff-biomass
+  - text: 天平9年（737年）に大野東人が当地に国府多賀城の前進基地として柵を築いた際、播磨国飾磨から移住した兵士たちが故郷を偲んでこの地を「色麻」と呼んだことに由来すると伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z10-shikama-meti-plan
+  column:
+    title: 播磨の「飾磨」から来た名前？
+    text: 色麻（しかま）という名には、遠く播磨国（現在の兵庫県）の飾磨（しかま）とのつながりを語る伝承があります。天平9年（737年）、陸奥按察使の大野東人が出羽への道をひらく拠点として当地に色麻柵を築いたとき、播磨国飾磨から移り住んだ兵士たちが、故郷を偲んでこの地を故地の名で呼んだのだと伝えられています。読みが「しかま」で一致するのは確かですが、これを裏づける当時の記録は残っておらず、あくまで伝承として紹介される話です。柵の瓦を焼いた日の出山瓦窯跡（国指定史跡）が残る当地は、奈良時代の東北経営の最前線だった土地でもあります。
+    sources:
+    - z10-shikama-meti-plan
+    - z10-shikama-town-history
+  relations:
+  - pref/04
+  - muni/04-加美町
+  - muni/04-大崎市
+  unknowns:
+  - 「しかま」の語源そのものは確定しておらず、飾磨伝承を裏づける奈良時代の史料は確認できなかった
+  - 色麻町四竈に鎮座する色麻神社と地名「色麻」の先後関係・関係の有無は、今回の調査では確認できなかった
+  - 「色麻」が麻の染色（染め）と関係するという説明は、公的資料では確認できなかった
+  - 『続日本紀』の「色麻」の記載は町公式サイトの引用経由で確認したもので、原文そのものは未読である
+  updated: '2026-11-13'
+- id: muni/04-蔵王町
+  code: '043010'
+  names:
+    ja: 蔵王町
+    reading: ざおうまち
+    aliases:
+    - 宮村
+    - 円田村
+  user_terms:
+  - ざおう
+  - 蔵王町の名前の由来
+  - 刈田郡蔵王町
+  - 遠刈田温泉
+  naming_type: 合併新設
+  prefecture: 宮城県
+  homonyms: []
+  summary: 昭和30年（1955年）に宮村と円田村が合併して誕生した町で、町名は「地域のシンボルである霊峰・蔵王からいただいた」と町統計書に明記されている。蔵王連峰の「蔵王」は、刈田嶺神社が祀る蔵王権現に由来すると説明される。合併に際して旧村名のどちらも採らず、仰ぎ見る山の名を町名にした事例である。
+  first_attestation:
+    era: 大同1年
+    year_western: 806
+    document: 国の法令資料（蔵王町統計書「沿革」による）
+    note: 蔵王権現を祀る刈田嶺神社の名が法令資料に現れる年として町統計書が挙げるもので、山名「蔵王」自体の文献上の初出ではない。町名「蔵王町」の初出は昭和30年（1955年）の合併による命名そのもの
+  claims:
+  - text: 総務省の全国地方公共団体コードで、蔵王町の団体コードは043010と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 蔵王町統計書の沿革によれば、昭和30年（1955年）に宮村・円田村が合併して蔵王町が誕生し、町名は地域のシンボルである霊峰・蔵王からいただいた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-zao-town-stats
+  - text: 蔵王町統計書の沿革によれば、町域は明治11年（1878年）時点で宮・曲竹・矢附・円田・塩沢・平沢・小村崎の7か村で、明治22年（1889年）にうち6村が合併して円田村が誕生し、宮村と円田村の2村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-zao-town-stats
+  - text: 蔵王町統計書の沿革によれば、刈田嶺神社の名は大同1年（806年）に国の法令資料に現れる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-zao-town-stats
+  - text: 蔵王連峰の「蔵王」は、刈田岳山頂の奥宮と遠刈田の里宮からなる刈田嶺神社が祀っていた蔵王権現に由来すると説明されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-zao-katamine-wiki
+  - text: 刈田嶺神社の社伝では、役小角が吉野山から蔵王権現を奉還して不忘山に祀り、山名も「蔵王山」と改められたと伝えられている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - z10-zao-katamine-wiki
+  - text: 蔵王町統計書によれば、昭和34年（1959年）に制定された町章は「ざ」の字を図案化し、蔵王連峰と特産物の桃を表現したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-zao-town-stats
+  column:
+    title: 山から名前を「いただいた」町
+    text: 1955年の合併で生まれた蔵王町は、宮村と円田村のどちらの名も継がず、町統計書のことばを借りれば「地域のシンボルである霊峰・蔵王からいただいた」名前を名乗りました。西にそびえる蔵王連峰は、刈田嶺神社が祀る蔵王権現にちなむ山の名と説明されます。麓の遠刈田温泉は古くから蔵王参りと湯治の基地で、1962年に蔵王エコーラインが開通すると、山は「仰ぐ山」から「登る山」へと近づきました。町章にまで蔵王連峰と特産の桃を描くほど、この町の自己紹介は山と一体になっています。
+    sources:
+    - z10-zao-town-stats
+    - z10-zao-katamine-wiki
+  relations:
+  - pref/04
+  - muni/04-白石市
+  - muni/04-川崎町
+  - muni/04-村田町
+  unknowns:
+  - 山名「蔵王」の文献上の初出は、今回の調査では確認できなかった
+  - 蔵王権現の奉祀の始期は刈田嶺神社の社伝の域を出ず、専門資料（角川日本地名大辞典・日本歴史地名大系等）での裏づけは未確認である
+  updated: '2026-11-13'
 - id: muni/04-角田市
   code: 042081
   names:
@@ -1480,3 +2876,132 @@ sources:
   t5-yamoto-wiki:
     label: Wikipedia「矢本（東松島市）」（『安永風土記』による矢本の由来＝八居→谷本→矢本の伝承と、1889年の鷹来村成立・1940年の矢本町成立を紹介）
     url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%9C%AC_(%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82)
+  z10-shikama-maff-biomass:
+    label: 農林水産省掲載「色麻町バイオマス産業都市構想」（色麻町作成。歴史・沿革＝『続日本紀』に「色麻」の地名が登場すること、明治22年・1889年に色麻村が発足し、昭和53年・1978年4月1日に町制施行して色麻町となったことを記述）
+    url: https://www.maff.go.jp/j//shokusan/biomass/b_sangyo_toshi/attach/pdf/210106_4-22.pdf
+  z10-shikama-meti-plan:
+    label: 中小企業庁「経営発達支援計画の概要」色麻町分（加美商工会。地方公共団体コード044440を明記し、天平9年・737年に大野東人が当地に柵を築き、播磨国飾磨から移住した兵士たちが故郷を偲んでこの地を色麻と呼んだことに由来すると伝えられる、と紹介）
+    url: http://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/04-23.pdf
+  z10-shikama-town-history:
+    label: 色麻町公式サイト「色麻町の歴史」（『続日本紀』天平9年・737年の条の原文を引用して色麻柵を紹介し、『和名類聚抄』に「之加萬」と訓が付され「しかま」と読まれたこと、色麻柵が出羽への軍事直道の拠点だったことを解説）
+    url: https://www.town.shikama.miyagi.jp/soshiki/shakai_kyoiku/8/447.html
+  z10-zao-katamine-wiki:
+    label: Wikipedia「刈田嶺神社 (蔵王町遠刈田温泉)」（「蔵王連峰」の「蔵王」は、かつて両宮が祀っていた蔵王権現に由来すると記述。社伝として役小角が蔵王権現を奉還し山名も「蔵王山」と改められたとする話を紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%88%88%E7%94%B0%E5%B6%BA%E7%A5%9E%E7%A4%BE_(%E8%94%B5%E7%8E%8B%E7%94%BA%E9%81%A0%E5%88%88%E7%94%B0%E6%B8%A9%E6%B3%89)
+  z10-zao-town-stats:
+    label: 蔵王町統計書「1 沿革」（蔵王町公式サイト掲載。明治11年・1878年に町域は7か村、明治22年・1889年に6村合併で円田村が誕生、昭和30年・1955年に宮村・円田村が合併して蔵王町が誕生し町名は地域のシンボルである霊峰・蔵王からいただいたこと、大同1年・806年に刈田嶺神社の名が国の法令資料に現れること、昭和34年・1959年制定の町章が蔵王連峰と桃を表現することを記述）
+    url: https://www.town.zao.miyagi.jp/kurashi_guide/toukei/index.files/R4-01.pdf
+  z8-kami-gun-wiki:
+    label: Wikipedia「加美郡」（『続日本紀』の賀美郡、江戸時代の加美郡への改称、1889年の賀美石村）
+    url: https://ja.wikipedia.org/wiki/%E5%8A%A0%E7%BE%8E%E9%83%A1
+  z8-kami-pref:
+    label: 宮城県「加美郡中新田町・小野田町・宮崎町の合併の概要」（新町名「加美町」、2003年4月1日の新設合併、県内の平成の合併第一号）
+    url: http://www.pref.miyagi.jp/documents/23633/59971.pdf
+  z8-kami-uub:
+    label: 市区町村変遷情報「加美町」（新町名の候補17点と最終候補5点の記録）
+    url: https://uub.jp/upd/c/725.html
+  z8-marumori-chimei:
+    label: 「丸森地名考」（長岡造形大学卒業研究。『封内風土記』『風土記御用書出』の丸森の村名由来の記述を引用）
+    url: https://sotsuten.nagaoka-id.ac.jp/wp-content/uploads/2023/02/53d51b29ebb27b605d9df1ad94d7d253.pdf
+  z8-marumori-town-70th:
+    label: 丸森町公式「丸森町合併70周年記念事業」（昭和29年12月1日に2町6村が合併して丸森町が誕生）
+    url: https://www.town.marumori.miyagi.jp/town/detail.php?content=1321
+  z8-minamisanriku-pref:
+    label: 宮城県「本吉郡志津川町・同郡歌津町の合併」（新町名の公募670件、2004年1月21日の名称確認、2005年10月1日の発足）
+    url: http://www.pref.miyagi.jp/documents/23633/59976.pdf
+  z8-minamisanriku-town:
+    label: 南三陸町公式「旧志津川町の年表【平成】」（1995年の志津川町町制施行100周年、2004年の新町名決定、2005年10月1日の発足）
+    url: https://www.town.minamisanriku.miyagi.jp/soshiki/1002/16/5/982.html
+  z8-rifu-culture:
+    label: 宮城の地域伝統文化ラボ「利府町 地名の読み方・由来語源をたどる旅」（『安永風土記』の「往古多賀国府に付、利府と相称候」、十符の菅薦の復元）
+    url: https://local-culture.jp/rifu-town-miyagi-prefecture-a-journey-tracing-the-origins-and-etymologies-of-place-names-at-kasuga-and-jufu-no-sato-park
+  z8-rifu-gogen:
+    label: 語源由来辞典「利府町」（文禄4年の「利府本郷」、十符の菅薦と留守氏による当て字の説、1889年利府村・1967年町制）
+    url: https://gogen-yurai.jp/rifu-cho-miyagi
+  z8-rifu-wiki:
+    label: Wikipedia「利府町」（陸奥府中の内に当たるが国府・府中が町名の由来かどうかは不明とする整理）
+    url: https://ja.wikipedia.org/wiki/%E5%88%A9%E5%BA%9C%E7%94%BA
+  z8-shichigahama-edu:
+    label: 七ヶ浜町教育委員会「令和7年度 七ヶ浜町の教育」（明治9年に七つの浜を一括して七ヶ浜と称したこと、縄文遺跡と製塩、大木囲貝塚）
+    url: https://www.shichigahama.com/benricho/joho/assets/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E4%B8%83%E3%83%B6%E6%B5%9C%E7%94%BA%E3%81%AE%E6%95%99%E8%82%B2.pdf
+  z8-shichikashuku-edu:
+    label: 七ヶ宿町教育委員会「令和8年度 七ヶ宿町の教育」（山中七ヶ宿街道の7宿場と町名の由来、1889年の4村合併、1957年町制）
+    url: https://town.shichikashuku.miyagi.jp/town/admin/upload_images/de2e7be8c610334c8ae7f266a18c128401994d62.pdf
+  z8-watari-jtb:
+    label: 日本交通公社「全国観光資源台帳・亘理町」（亘理・片倉・伊達各氏の城下町、三十三間堂官衙遺跡、1889年町制）
+    url: https://tabi.jtb.or.jp/city?opt=%E5%AE%AE%E5%9F%8E%E7%9C%8C%2C%E4%BA%98%E7%90%86%E7%94%BA&type=city
+  z8-watari-town:
+    label: 亘理町公式「町の概要」（阿武隈川を「渡る地」が「わたり」の由来という説明、1955年の合併）
+    url: https://www.town.watari.miyagi.jp/town/detail.php?content=267
+  z9-date-essay:
+    label: 伊達宗弘「みちのく宮城に遊ぶ―富谷・大郷・大衡・大和のいわれ」（郷土随筆。大和町は1955年に吉岡町と宮床村・吉田村・鶴巣村・落合村が合併して成立し「大同団結を願っての命名」、大郷町は品井沼が大きく谷に入り込んでいたという大谷郷が町名の由来、大衡村は平坦な大地が広がり大平と称したことが村名の由来、とそれぞれ記す）
+    url: https://www.toyoma-date.jp/zuihitsu/txt111.html
+  z9-matsushima-basho-wiki:
+    label: Wikipedia「松島や ああ松島や 松島や」（この句は一般に松尾芭蕉の作と広く誤伝されているが、実際の作者は江戸時代後期の狂歌師・田原坊であり、文政3年（1820年）頃刊行の『松島図誌』に収録された「松島や さて松島や 松島や」が原形で初出とされること、芭蕉の『おくのほそ道』や河合曾良の『曾良旅日記』にこの句の記載はないことを、国立国会図書館レファレンス協同データベースの回答なども引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6%E3%82%84_%E3%81%82%E3%81%82%E6%9D%BE%E5%B3%B6%E3%82%84_%E6%9D%BE%E5%B3%B6%E3%82%84
+  z9-matsushima-jcca:
+    label: 平田潔「扶桑第一の景勝地『松島』」（土木コンサルタント会誌265号。『松島町史』等を参考文献に、松島には260余りの島々があり平安時代から歌枕の地として知られ、鎌倉・室町時代には円福寺（現・瑞巌寺）・雄島を中心に霊場として栄えたこと、松尾芭蕉が1689年に塩釜から船で松島に到達したこと、2011年の津波でも島々に守られて被害が比較的少なかったことを記す）
+    url: https://www.jcca.or.jp/kaishi/265/265_anokoro.pdf
+  z9-matsushima-wiki:
+    label: Wikipedia「松島町」（1889年4月1日の町村制施行により松島村・高城本郷・桜渡戸村・磯崎村・初原村・根廻村・手樽村・幡谷村・竹谷村・北小泉村の区域をもって松島村が発足し、1928年1月1日に町制を施行して松島町となったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6%E7%94%BA
+  z9-matsushima-zuiganji:
+    label: 瑞巌寺公式「縁起」（国宝・瑞巌寺の公式サイト。9世紀初頭に比叡山延暦寺第3代座主・慈覚大師円仁によって開創された天台宗延福寺が前身であると伝わること、松島は景観と月の美しさから古来より歌枕の地として有名だったこと、慶長13年（1608年）鋳造の大鐘の銘文「山を号して松島と曰い、寺を名づけて瑞岩（巌）と曰う」が「瑞巌寺」という呼称の初出であること、翌1609年に伊達政宗による復興工事が完了したことを記す）
+    url: https://zuiganji.or.jp/history
+  z9-miyagi-sennan:
+    label: 宮城県「令和8年度 仙南地域の概要」（県公式。村田町について、江戸時代後期に紅花交易で繁栄した村田商人の土蔵が続く「蔵の町並み」が「みちのく宮城の小京都」として親しまれ、2014年に宮城県で初めて国の重要伝統的建造物群保存地区に選定されたこと、中心の旧大沼家住宅（村田商人やましょう記念館）が2018年に国の重要文化財に指定されたことを記す）
+    url: https://www.pref.miyagi.jp/documents/3654/r8sennangaiyou202604.pdf
+  z9-murata-hozon:
+    label: 村田町「村田町村田伝統的建造物群保存地区保存計画」（町教育委員会。村田館は鎌倉後期から南北朝時代頃に築かれたと推測されること、安永7年（1778年）の『柴田郡村田郷風土記御用書出』に村田郷と見え、江戸時代には村田館の東に荒町・本町・南町の三町を合わせた宿場「村田町」があり、村田商人が紅花交易と「鋸商い」で繁栄したこと、1889年に村田郷は近隣3村と合併して村田村となり、1895年に村田町となったことを記す）
+    url: http://www.town.murata.miyagi.jp/kosodate/bunkazai/dento_hozonchiku/hozonchiku/file/01.pdf
+  z9-ogawara-wiki:
+    label: Wikipedia「大河原町」（市町村コード04321-4。町名の由来として「大きな川を有する原」ではなく「多くの河が合流する（逢う）原」すなわち「逢河原」から「大河原」へ変化したもので、その地に大河原宿が設置されたと『大河原町史』を踏まえて紹介。1889年に大河原村・小山田村・大谷村・福田村が合併して大河原町が発足し、1956年に金ヶ瀬村と合併したこと、2000年代の合併協議では新市名が「柴田市」に決まったことへの町民の不信感から協議会が廃止されたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E5%8E%9F%E7%94%BA
+  z9-ohira-jtb:
+    label: 日本交通公社「全国観光資源台帳」大衡村（1889年に5村が合併して誕生し、5村の中央にあった「大衡村」が村名の由来となったこと、昭和万葉の森・万葉クリエートパークなどの万葉関連施設があることを記す）
+    url: https://tabi.jtb.or.jp/city?opt=%E5%AE%AE%E5%9F%8E%E7%9C%8C%2C%E5%A4%A7%E8%A1%A1%E6%9D%91&type=city
+  z9-ohira-kotobank:
+    label: コトバンク「大衡村」（平凡社『日本歴史地名大系』の解説を収録。現大衡村大衡は善川と埋川の流域にあり、字塩浪の大衡館の館主は『古城書立之覚』では天正年中まで黒川安芸守の臣・大衡治部大輔の居住と伝えられること、大衡氏は「源家足利黒川系図」によると黒川景氏の子・宗氏を大衡治部大輔とすることを記す）
+    url: https://kotobank.jp/word/%E5%A4%A7%E8%A1%A1%E6%9D%91-39542
+  z9-onagawa-kirokushi:
+    label: 女川町「東日本大震災記録誌」（町公式。「女川」という名の由来として、平安中期に安倍貞任の一族の婦女子を黒森山の奥地・安野平に避難させたことから、そこから流れる小川を「女川」と呼ぶようになり地名になったと伝えられることを記す。町全域が女川と称されたのは1889年の町村制施行で女川村となってからで、それ以前は20の浜が「女川組」と総称されていたこと、現在の女川町は1926年4月1日の町制施行で誕生したこと、2005年に牡鹿町が石巻市へ合併して女川町が牡鹿郡唯一の町となったことを記す）
+    url: https://www.town.onagawa.miyagi.jp/archive/pdf/shinsai_kirokushi_dl.pdf
+  z9-onagawa-wiki:
+    label: Wikipedia「女川町」（牡鹿郡に属し、女川湾に面する港町で、サンマなどの水揚げで知られる女川港と、女川原子力発電所が立地することを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%B7%9D%E7%94%BA
+  z9-osato-wiki:
+    label: Wikipedia「大郷町」（1954年7月1日に大谷村・粕川村・大松沢村が合併して大郷村が発足し、1959年4月1日に町制を施行して大郷町となったこと、町域には仙台藩領内で最大の湖だった品井沼が広がっていたが江戸時代からの干拓で消滅したこと、支倉常長メモリアルパークがあり「おおさと常長公まつり」が開かれることを、町発行『おおさと』等を引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%83%B7%E7%94%BA
+  z9-sakamoto-wiki:
+    label: Wikipedia「坂元村」（『山元町誌』を引いて、坂元は『和名類聚抄』に見える坂本郷に遡り、正保元年（1644年）の村割で坂本郷が坂元本郷と真庭村に分割された際、「坂本本郷」では本の字が重なって紛らわしいため「坂本」から「坂元」へ表記を改めたという。1889年に坂元本郷と真庭村の区域で坂元村が発足し、1955年に山下村と合併して山元町となったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%9D%82%E5%85%83%E6%9D%91
+  z9-shibata-kotobank:
+    label: コトバンク「柴田郡」（平凡社『日本歴史地名大系』の解説を収録。『続日本紀』養老5年（721年）10月14日条に柴田郡のうち二郷を分けて刈田郡を置いたと見えるのが史料初見で、郡の設置はさらに遡ると思われること、『和名類聚抄』東急本郡部は柴田を「之波太（しはた）」、『拾芥抄』は「シハタ」と訓むこと、『吾妻鏡』では「芝田郡」とも見えることを記す）
+    url: https://kotobank.jp/word/%E6%9F%B4%E7%94%B0%E9%83%A1-1166915
+  z9-shibata-town-history:
+    label: 柴田町公式「1956年：船岡町と槻木町が合併、柴田町が誕生」（町公式の町の歴史。町村合併促進法のもと合併促進協議会が新町名を「柴田町」と定めた理由として、「柴田」が『延喜式』『和名抄』などの古書に見える地名で陸奥国の古くからの郡名であり、有史以前から旧船岡領館山を根拠地とした歴史ある名であること、住民の自然な要望であったことを挙げる。協議会長は柴田倫之助氏が務め、1956年3月22日に両町議会が合併を議決し、同年4月1日に柴田町が誕生したことを記す）
+    url: https://www.town.shibata.miyagi.jp/index.cfm/82,27040,219,279,html
+  z9-taiwa-town-enkaku:
+    label: 大和町公式「町の沿革」（町勢要覧掲載。黒川郡の国史上の初出として天平14年の陸奥の奏言に「黒川以北1郡」とあることを紹介し、落合舞野の観音堂は大同3年に坂上田村麻呂が勧請したものと伝えられること、1889年に吉岡町・宮床村・吉田村・鶴巣村・落合村など1町9か村となり、1955年4月20日に吉岡町・宮床村・吉田村・鶴巣村・落合村が合併して新町村名『大和町』として発足したことを記す）
+    url: https://www.town.taiwa.miyagi.jp/material/files/group/7/1872.pdf
+  z9-wakuya-bunkazai:
+    label: 涌谷町「文化財保存活用地域計画」（町公式。天平21年（749年）春に陸奥国が小田郡から黄金が産出したことを報告し、国守・百済王敬福が自ら黄金900両（約13kg）を携えて献上、聖武天皇はこれを日本初の産金として慶祝し、大伴家持がその喜びを歌に詠んだこと、国史跡・黄金山産金遺跡は仏堂跡と黄金山神社で構成されること、産出した砂金は東大寺大仏の鍍金材料に用いられたこと、涌谷伊達家の統治と城下町の賑わいが町の原型であることを記す）
+    url: https://www.town.wakuya.miyagi.jp/gyose/kekaku/documents/documents/1thtikeigaiyou.pdf
+  z9-wakuya-town-history:
+    label: 涌谷町公式「わが町涌谷の歴史 その3：奈良の大仏と涌谷の金」（町公式。天平21年（749年）2月に陸奥国守・百済王敬福が小田郡で黄金を発見したと報告し、このことが『続日本紀』に「陸奥国始めて黄金を貢る」と記されたこと、献上した金は900両（約13kg）で大仏鍍金に必要な約60kgには不足したため黄金貢輸令が出されたこと、「涌谷」の地名は砂金の洗い取り作業のため大勢の人々で「谷（沢）が湧（涌）きかえる」ことに由来するという説を筆者が主張していること、黄金山神社が『延喜式』神名帳に小田郡唯一の官社（式内社）として載ることを記す）
+    url: https://www.town.wakuya.miyagi.jp/shokai/gaiyo/rekishi_shosai3.html
+  z9-wakuya-wiki:
+    label: Wikipedia「涌谷町」（1889年4月1日の町村制施行の際、遠田郡の馬場谷地村が単独で町制を施行して涌谷町となり、別に涌谷村ほか4か村が合併して元涌谷村が発足したこと、1948年12月1日に元涌谷村と合併、1955年7月15日に箟岳村と合併して現在の涌谷町となったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E6%B6%8C%E8%B0%B7%E7%94%BA
+  z9-yamamoto-gousei:
+    label: Wikipedia「山元」（曖昧さ回避の項目で、宮城県亘理郡の山元町について「同項にある通り合成地名である」と明記する）
+    url: https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%85%83
+  z9-yamamoto-timr:
+    label: 研究論文「山元町震災復興計画の策定と実施」（timr.or.jp公開PDF。1889年に7か村が合併して山下村、坂元・真庭の2か村が合併して坂元村となり、1955年に両村が合併して山元町が誕生したことを、山元町企画調整課資料を引いて記す）
+    url: https://www.timr.or.jp/publish/207_chap3sec3.pdf
+  z9-yamamoto-town-gaiyo:
+    label: 山元町公式「総説・沿革」（町公式資料。1889年4月1日に八手庭村・大平村・小平村・鷲足村・山寺村・浅生原村・高瀬村の7か村が合併して山下村となり、坂元村と真庭村の2か村が合併して坂元村となったこと、1955年2月1日に町村合併促進法に基づき山下村と坂元村が合併して「山元町」となったことを変遷表で示す）
+    url: https://www.town.yamamoto.miyagi.jp/uploaded/attachment/407.pdf
+  z9-yamamoto-wiki:
+    label: Wikipedia「山元町」（『和名類聚抄』に曰理（亘理）郡の四郷として坂本・菱沼・亘理・望多が挙げられ、これが山元町域が史料上に現れた最初であるとすること、1889年に山下村・坂元村が発足し、1955年2月1日に合併して山元町が発足したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%85%83%E7%94%BA

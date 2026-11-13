@@ -83,6 +83,337 @@ records:
   - 新市名に漢字の「仁賀保」でなく平仮名の「にかほ」を採用した公式の理由文は、合併協定書・県資料では確認できなかった
   - 仁賀保郷の文献上の初出は、今回の調査では特定できなかった
   updated: '2026-11-13'
+- id: muni/05-三種町
+  code: 053481
+  names:
+    ja: 三種町
+    reading: みたねちょう
+    aliases:
+    - 琴丘町
+    - 山本町
+    - 八竜町
+  user_terms:
+  - みたね
+  - 三種町の名前の由来
+  - 三種川
+  - 山本郡三種町
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 平成18年（2006年）に琴丘町・山本町・八竜町の3町が合併して誕生した町。町名は公募で集めた候補から協議会の投票で決められ、3町に共通して流れる三種川にちなむ。三種川は房住山に源を発して町の中央を流れ、その名には源流で高僧が白髪の翁に川の名を尋ねたという『房住山昔物語』の物語が伝わる。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 琴丘町・山本町・八竜町の新設合併による三種町の発足
+    note: 町名「三種町」の初出は命名そのもの。もとになった川名「三種川」の文献上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、三種町の団体コードは053481と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 秋田県の合併資料によれば、平成18年（2006年）3月20日に琴丘町・山本町・八竜町の3町が新設合併し、三種町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-mitane-pref-merger
+  - text: 秋田県の合併資料によれば、新町の名称は公募により1,208人から500種類が寄せられ、上位3点の投票で「三種町」10票、「湖北町」9票、「南部三町」0票となり、僅差で「三種町」に決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-mitane-pref-merger
+  - text: 町名の「三種」は、3町を流れる三種川に由来するものであると説明されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-mitane-wiki
+  - text: 秋田県の合併資料によれば、三種川は房住山に源を発し、町のほぼ中央を流れる川である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-mitane-pref-merger
+  - text: 三種川の名は、大昔に巡国の高僧が川の源流で白髪の老翁に出会い、川の名を尋ねると翁が三種川と答えたという物語に由来し、この物語は房住山の縁起を書いた『房住山昔物語』に記録されていると伝えられる
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - z10-mitane-wiki
+  - text: 秋田県の合併資料によれば、旧3町はいずれも昭和30年（1955年）の合併で成立した町で、もともと「南部三町」と呼ばれ、結びつきの強い地域であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-mitane-pref-merger
+  column:
+    title: 1票差で決まった町名と、川の名を教えた翁
+    text: 三種町の名は、合併協議会の投票で「湖北町」に10票対9票という1票差で競り勝って決まりました。由来となった三種川には、不思議な名づけの物語が伝わります。巡国の高僧が源流で白髪の翁に出会い、川の名を尋ねると、翁は「三種川」と答えた――その顛末が房住山の縁起『房住山昔物語』に記されているといいます。なぜ「三種」なのか、翁が何者だったのかは物語の外には出ませんが、3つの町を1本の川の名が結んだことだけは確かです。
+    sources:
+    - z10-mitane-pref-merger
+    - z10-mitane-wiki
+  relations:
+  - pref/05
+  - muni/05-能代市
+  - muni/05-八峰町
+  - muni/05-大潟村
+  unknowns:
+  - 川名「三種川」の文献上の初出と、「三種」という語の意味そのものは確認できなかった
+  - 『房住山昔物語』の成立年代・伝存状況は、今回の調査では確認できなかった
+  updated: '2026-11-13'
+- id: muni/05-上小阿仁村
+  code: 053279
+  names:
+    ja: 上小阿仁村
+    reading: かみこあにむら
+    aliases:
+    - 小阿仁村
+    - 小沢田村
+  user_terms:
+  - かみこあに
+  - 上小阿仁村の名前の由来
+  - 小阿仁川
+  - 北秋田郡上小阿仁村
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 村の中央を北へ流れる小阿仁川の上流側を占める村で、川下の側には下小阿仁村（現在の北秋田市の一部）があった。「小阿仁」は天正19年（1591年）の太閤検地の領地目録に「小阿仁村」と見える古い地域の名で、明治22年（1889年）に上流側の9村が合併して「上」を冠した上小阿仁村となった。阿仁の名には、長者の婿「阿仁殿」がくじ引きで土地を分けたという伝承が伝わる。
+  first_attestation:
+    era: 天正19年
+    year_western: 1591
+    document: 秋田実季の太閤検地による領地目録
+    note: 「小阿仁村」として記録されていることが紹介されている（紹介経由の確認で、目録の原文は未読）。「上小阿仁村」の名自体は明治22年（1889年）の合併による
+  claims:
+  - text: 総務省の全国地方公共団体コードで、上小阿仁村の団体コードは053279と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 上小阿仁村公式サイトによれば、小阿仁川は太平山に源を発し、村の中央を北に流れ、支流を合わせて米代川へと注ぐ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-kamikoani-vill-about
+  - text: 天正19年（1591年）の秋田実季の太閤検地による領地目録の中に「小阿仁村」として記録されていることが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-kamikoani-wiki
+  - text: 明治22年（1889年）4月1日の町村制施行により、小沢田村・五反沢村・福館村・杉花村・堂川村・仏社村・沖田面村・大林村・南沢村の9村が合併し、上小阿仁村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-kamikoani-wiki
+  - text: 小阿仁川の下流側には下小阿仁村があり、昭和30年（1955年）に上大野村・下大野村・落合村と合併して合川町（現在の北秋田市の一部）となったため、「上・下」の対は現在の自治体名には上小阿仁村だけが残している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-shimokoani-wiki
+  - text: 房住山一帯を支配していた高倉長者には「たつこ」という娘がおり、その婿は阿仁と呼ばれた。のちに長者に男子が生まれ、財産争いを避けるためくじ引きで土地を分けた結果、婿の阿仁殿は比立内までの「大阿仁」を、実子は萩形までの「小阿仁」を支配するようになった、という伝承が地名の由来として伝えられている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - z10-kamikoani-wiki
+  - text: 上小阿仁村公式サイトによれば、村域の総面積の92.7％が山林原野で、村の木には特産の秋田杉が制定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-kamikoani-vill-about
+  column:
+    title: くじ引きで分けられた「阿仁」の国
+    text: 上小阿仁の「阿仁」には、婿と実子の相続争いをくじ引きで収めたという、ちょっとほほえましい伝承があります。高倉長者の娘たつこの婿・阿仁殿と、後から生まれた実子のどちらがどの土地を治めるか、血を見る争いを避けるためにくじで決めたところ、婿は奥の比立内までの「大阿仁」を、実子は萩形までの「小阿仁」を治めることになった――という話です。川の上流・下流を「上小阿仁」「下小阿仁」と呼び分ける行政の名とは別に、その奥にはこんな「分け方」の物語が眠っています。
+    sources:
+    - z10-kamikoani-wiki
+    - z10-shimokoani-wiki
+  relations:
+  - pref/05
+  - muni/05-北秋田市
+  unknowns:
+  - 「阿仁」の語源そのもの（アイヌ語に由来するという説の有無を含む）は、専門資料では確認できなかった
+  - 天正19年（1591年）の領地目録の原文は未読で、紹介経由の確認にとどまる
+  - 「上」が小阿仁川の上流側であることを明記した村公式の説明文は、今回の調査では見つからなかった
+  updated: '2026-11-13'
+- id: muni/05-五城目町
+  code: 053619
+  names:
+    ja: 五城目町
+    reading: ごじょうめまち
+    aliases:
+    - 五十目
+    - 五城目村
+    - 率浦郷
+  user_terms:
+  - ごじょうめ
+  - 五城目町の名前の由来
+  - 五城目の朝市
+  - 南秋田郡五城目町
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 町公式サイトによれば、当地は『和名類聚抄』に最北の郷として見える率浦郷（いそうら）にあたるとされ、その名の流れをくむ「五十目」の地名が鎌倉時代の終期から使われた。江戸時代の中期から「ごじゅうのめ」と読まれるようになり、後期には好字を当てた「五城目」の表記も生まれて、明治29年（1896年）の町制施行の際にこの表記と「ごじょうめ」の読みが採用された。昭和30年（1955年）に周辺4村と合併して現在の五城目町となった。
+  first_attestation:
+    era: 承平年間頃
+    year_western: 930
+    document: 『和名類聚抄』（率浦郷）
+    note: 町公式サイトが「今の五城目付近と思われる」と紹介する郷名で、「五十目」の初出そのものではない。「五十目」の使用は鎌倉時代終期からと町公式は述べる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、五城目町の団体コードは053619と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 五城目町公式サイトは、平安時代中期の『和名類聚抄』の中に最北の村として「率浦郷（いさうらごう）」の名があり、率浦郷は今の五城目付近と思われると紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-gojome-town-about
+  - text: 五城目町公式サイトによれば、率浦の名前がもとになったと思われる「五十目」という地名は、鎌倉時代終期から使われるようになったと思われる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-gojome-town-about
+  - text: 五城目町公式サイトによれば、16世紀終期の文書には城主が「五十目内記」と書かれており、当時の地名が「五十目」であることはほぼ確実だが、読み方が「ごじゅうのめ」だったか「いそのめ」だったかははっきりしない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - z10-gojome-town-about
+  - text: 五城目町公式サイトによれば、江戸時代には中期から五十目と書いて「ごじゅうのめ」と呼ぶようになり、後期には好字を当てて「五城目」と書く人もいたと言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-gojome-town-about
+  - text: 明治29年（1896年）1月18日、五十目村が町制を施行して「五城目町」となり、江戸時代の好字の表記が町制を始めるにあたって採用されたと町公式サイトは伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-gojome-town-about
+  - text: 昭和30年（1955年）3月31日、五城目町・馬場目村・富津内村・内川村・大川村の5町村が合併し、新しい町の名前を「五城目町」として現在に至っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-gojome-town-about
+  - text: 五城目町公式サイトによれば、町章（昭和35年・1960年制定）は、中世の頃にあった5つの城（浦城・岡本城・砂沢城・馬場目城・山内城）を目に配して図案化したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-gojome-town-about
+  column:
+    title: 「五十目」が「五城目」になるまで
+    text: 五城目の歩みは、当て字の改良の歴史です。もとの地名は「五十目」。江戸時代の後期になると、これに「五・城・目」と縁起のよい字を当てた「五城目」という表記が現れ、1896年の町制施行のときに正式な町名として採用されました。読みも「ごじゅうのめ」から「ごじょうめ」へと姿を変えています。面白いのは町章で、中世に実在した5つの城（浦城・岡本城・砂沢城・馬場目城・山内城）を「目」の形に並べた図案は、「五城目」という字面に後から重ねられた町の象徴です。約500年の伝統を誇る朝市で知られる町ですが、名前そのものも職人の手直しのように少しずつ磨かれてきました。
+    sources:
+    - z10-gojome-town-about
+  relations:
+  - pref/05
+  - muni/05-八郎潟町
+  - muni/05-井川町
+  - muni/05-大潟村
+  - muni/05-秋田市
+  unknowns:
+  - 「五十目（いそのめ）」という地名の本来の意味・語源は、町公式サイトも示しておらず未詳である
+  - 率浦郷が現在の五城目町域にあたることは、町公式サイトも推定として述べるにとどまる
+  updated: '2026-11-13'
+- id: muni/05-井川町
+  code: '053660'
+  names:
+    ja: 井川町
+    reading: いかわまち
+    aliases:
+    - 井川村
+    - 上井河村
+    - 下井河村
+  user_terms:
+  - いかわ
+  - 井川町の名前の由来
+  - 井川さくら駅
+  - 日本国花苑
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 町の名は、東の出羽丘陵に源を発して西の八郎潟（残存湖）へ注ぐ川「井川」に由来する。明治22年（1889年）に川の上流側に上井河村、下流側に下井河村が成立し、昭和30年（1955年）に両村が合併した際に、共通の川の名を取って「井川村」と名付けられた。昭和49年（1974年）に町制を施行して井川町となった。川名には、鎌倉時代の『吾妻鏡』に見える「湯河」が井川にあたるという比定も紹介されている。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: null
+    document: 『吾妻鏡』（「出羽国秋田郡湯河」）
+    note: 「湯河」が井川にあたると考えられていることが紹介されているが、原文・専門資料での裏づけは未確認であり、川名「井川」の確実な初出は不明
+  claims:
+  - text: 総務省の全国地方公共団体コードで、井川町の団体コードは053660と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 井川町の町並みは、出羽丘陵に源を発して八郎潟（残存湖）に注ぐ井川に沿って形成されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-ikawa-wiki
+  - text: 明治22年（1889年）4月1日の町村制施行により、井川の上流側では9村が合併して上井河村が、下流側では5村が合併して下井河村がそれぞれ発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-ikawa-kamiigawa-wiki
+    - z10-ikawa-shimoigawa-wiki
+  - text: 昭和30年（1955年）2月1日、上井河村と下井河村が合併して井川村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-ikawa-hokudai
+    - z10-ikawa-wiki
+  - text: 昭和49年（1974年）6月1日に町制を施行し、井川町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-ikawa-hokudai
+  - text: 鎌倉時代の『吾妻鏡』に「出羽国秋田郡湯河」とあり、これが井川にあたると考えられていることが紹介されている
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z10-ikawa-wiki
+  - text: 町内には1972年（昭和47年）に日本各地から集めた約200種2,000本の桜が植えられた日本国花苑があり、1995年には桜を名に冠した請願駅・井川さくら駅が開業するなど、桜が町の象徴となっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-ikawa-donnatoko
+  column:
+    title: 「井河」から「井川」へ――上下2村が川の名でひとつに
+    text: 井川町の前身は、川の上流の「上井河村」と下流の「下井河村」でした。1955年に両村が合併したとき、新しい村の名は、どちらの村名でもなく、両村を貫いて流れる川そのものの名「井川」に決まりました。しかも字も「河」から一般的な「川」へと改められています。上と下に分かれていた地域が、間を流れる川の名前でひとつになる――合併町村の命名としては、最も自然で争いの少ない落としどころだったのでしょう。今では、その川の名を冠した町は「桜の町」として知られ、駅名にまで「さくら」が入っています。
+    sources:
+    - z10-ikawa-hokudai
+    - z10-ikawa-wiki
+  relations:
+  - pref/05
+  - muni/05-五城目町
+  - muni/05-八郎潟町
+  - muni/05-大潟村
+  unknowns:
+  - 川名「井川」自体の語源（「井」が水の湧く所を指すのか等）は、資料では確認できなかった
+  - 『吾妻鏡』の「湯河」が井川にあたるという比定は紹介経由のみで、『井川町史』等の専門資料での確認はできていない
+  - 1955年の合併時に「井川」の名と表記（河→川）を選んだ経緯を示す協議記録は確認できなかった
+  updated: '2026-11-13'
 - id: muni/05-仙北市
   code: 052159
   names:
@@ -159,6 +490,166 @@ records:
   unknowns:
   - 会長が「仙北市」を提案した際の理由説明（なぜ郡名がふさわしいとされたか）の文言は、秋田県の合併資料の抜粋範囲では確認できていない。
   - 「仙北」という郡名自体の語源（仙北郡の名の由来）は本バッチの対象外で未調査。
+  updated: '2026-11-13'
+- id: muni/05-八峰町
+  code: 053490
+  names:
+    ja: 八峰町
+    reading: はっぽうちょう
+    aliases:
+    - 八森町
+    - 峰浜村
+  user_terms:
+  - はっぽう
+  - 八峰町の名前の由来
+  - 八森ハタハタ
+  - 白神山地の町
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 平成18年（2006年）に八森町と峰浜村が合併して誕生した町。新町の名称は公募と住民アンケートで選ばれ、最多得票の「八峰町」に決まった。「八峰」は八森の「八」と峰浜の「峰」を合わせた合成名で、公募の上位候補には「八森峰浜町」「峰八町」など両町村の字を組み合わせた案が並んでいた。町の東には世界自然遺産の白神山地がそびえ、西は日本海に面する。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 八森町・峰浜村の新設合併による八峰町の発足
+    note: 町名「八峰町」の初出は命名そのもの。もとになった旧町名「八森」は近世以来の村名に遡る
+  claims:
+  - text: 総務省の全国地方公共団体コードで、八峰町の団体コードは053490と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 秋田県の合併資料によれば、平成18年（2006年）3月27日に八森町と峰浜村が新設合併し、八峰町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-happou-pref-merger
+  - text: 秋田県の合併資料によれば、新町の名称は公募（応募1,650通）で上位10点が報告され、5点に絞ったうえで住民アンケートを実施し、「八峰町」が3,638票のうち1,503票（41.3％）の最多得票を得て、平成17年（2005年）3月19日の第6回合併協議会で決定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-happou-pref-merger
+  - text: 公募の上位候補には「八森峰浜町」「峰八町」「森浜町」など旧町村名の字を組み合わせた案が含まれており、「八峰」は八森の「八」と峰浜の「峰」を取った合成名であると解される
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - z10-happou-pref-merger
+  - text: 秋田県の合併資料によれば、八森町は昭和29年（1954年）10月に町村合併促進法のもと秋田県第1号の合併町として八森村と岩館村の合併で誕生し、峰浜村は昭和30年（1955年）4月に沢目村と塙川村の合併で誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-happou-pref-merger
+  - text: 八森は近世以来の村名であり、明治22年（1889年）の町村制施行時も単独で八森村を形成した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-hachimori-wiki
+  - text: 秋田県の資料によれば、八峰町は日本海沿いの秋田県最北端に位置し、東側には世界自然遺産「白神山地」がそびえる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-happou-pref-plan
+  column:
+    title: 投票で決まった「八峰」――白神の名は選ばれず
+    text: 八峰町の名前は、異例なほど民主的な手続きで決まりました。公募1,650通の上位には「あきた白神町」「白神町」「南白神町」といった世界遺産・白神山地にちなむ案が並びましたが、住民アンケートで最多となったのは、八森の「八」と峰浜の「峰」を合わせた「八峰町」でした。世界に知られた山の名より、合併する2つの町村の名を1字ずつ残す道が選ばれたのです。ちなみに旧・八森町は1954年、町村合併促進法のもとで生まれた「秋田県第1号の合併町」。半世紀を隔てて、この地域は2度、合併の先頭を切ったことになります。
+    sources:
+    - z10-happou-pref-merger
+  relations:
+  - pref/05
+  - muni/05-能代市
+  - muni/05-三種町
+  - muni/02-深浦町
+  unknowns:
+  - 旧村名「八森」自体の語源（八つの森にちなむという説明の典拠を含む）は、公的資料では確認できなかった
+  - 「峰浜」の語源についても、峰と浜の合成とみられる以上の公式説明は確認できなかった
+  updated: '2026-11-13'
+- id: muni/05-八郎潟町
+  code: '053635'
+  names:
+    ja: 八郎潟町
+    reading: はちろうがたまち
+    aliases:
+    - 一日市町
+    - 面潟村
+  user_terms:
+  - はちろうがた
+  - 八郎潟町の名前の由来
+  - 一日市
+  - 秋田県で一番小さい町
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 昭和31年（1956年）に一日市町と面潟村が合併して誕生した町で、町名は西に広がる湖・八郎潟の名から採られた。八郎潟は干拓前には琵琶湖に次ぐ日本第2の広さの汽水湖で、その名は龍になった青年・八郎太郎の伝説に由来すると伝えられる。町域は面積17.0km²で、秋田県内で最も小さい自治体である。
+  first_attestation:
+    era: 昭和31年
+    year_western: 1956
+    document: 一日市町・面潟村の合併による八郎潟町の発足
+    note: 町名「八郎潟町」の初出は命名そのもの。湖名「八郎潟」の文献上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、八郎潟町の団体コードは053635と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和31年（1956年）9月30日、昭和の大合併で一日市町と面潟村が合併して八郎潟町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-hachirogata-wiki
+  - text: 町名は、町の西に広がる湖・八郎潟の名に由来する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-hachirogata-wiki
+  - text: 国立国会図書館のコラムによれば、八郎潟は干拓以前、琵琶湖に次いで日本第2位の面積（約22,000ha）を誇る汽水湖で、水深3〜5mと浅く、漁業が盛んであった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-hachirogata-ndl
+  - text: 「八郎潟」の名は八郎太郎の物語に由来すると伝えられる。鹿角の里に生まれた八郎太郎は、仲間の分までイワナを食べてしまった罰のように喉の渇きに襲われ、川の水を飲み続けるうちに龍に姿を変えたという
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z10-hachirogata-ndl
+  - text: 龍となった八郎太郎は十和田湖の主となったが、修行僧・南祖坊との争いに敗れて米代川を下り、やがて八郎潟を作ってそこを住処としたと伝えられる。のちに田沢湖の辰子と結ばれ、冬は田沢湖で過ごしたため、主のいない八郎潟は冬に凍るのだという
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z10-hachirogata-ndl
+  - text: 八郎潟町の行政区域は面積17.0km²で、秋田県内では一番小さな自治体である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-hachirogata-wiki
+  column:
+    title: 湖の名をもらった町、湖の大半は消えたのに
+    text: 八郎潟町の前身の中心は、羽州街道の宿場であり市場町だった「一日市」でした。1956年の合併で新しい町が名乗ったのは、その旧名ではなく、西に広がる大湖・八郎潟の名でした。ところが翌1957年、その八郎潟の干拓が始まり、湖の約8割は大地（大潟村）に変わってしまいます。いま「八郎潟」の名で残る水面は調整池など一部だけですが、町の名と、龍・八郎太郎の伝説の中には、かつての日本第2の大湖の記憶がそのまま残っています。
+    sources:
+    - z10-hachirogata-ndl
+    - z10-hachirogata-wiki
+  relations:
+  - pref/05
+  - muni/05-五城目町
+  - muni/05-井川町
+  - muni/05-大潟村
+  - muni/05-男鹿市
+  unknowns:
+  - 1956年の合併時に「八郎潟町」の名が選ばれた経緯（公募の有無や他の候補）は、公式資料では確認できなかった
+  - 湖名「八郎潟」の文献上の初出は確認できていない
   updated: '2026-11-13'
 - id: muni/05-北秋田市
   code: '052132'
@@ -314,6 +805,86 @@ records:
   - 公募で「大仙市」を提案した応募者の命名理由文の原文は未確認。
   - 最終候補に残った他の名称（奥羽市・出羽市・姫神市）の得票や応募状況の詳細は未確認。
   updated: '2026-11-13'
+- id: muni/05-大潟村
+  code: 053686
+  names:
+    ja: 大潟村
+    reading: おおがたむら
+    aliases: []
+  user_terms:
+  - おおがた
+  - 大潟村の名前の由来
+  - 干拓地の村
+  - 日本で最後に生まれた村
+  naming_type: 新規命名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 国営八郎潟干拓事業によって湖底に生まれた、日本唯一の干拓地自治体。村名は全国公募で選定され、八郎潟の古称と伝えられる「大潟」に基づく。昭和39年（1964年）10月1日、わずか6世帯14人の人口で発足し、既存自治体の合併や分割を伴わない新設自治体としては日本で最後の事例である。
+  first_attestation:
+    era: 昭和39年
+    year_western: 1964
+    document: 全国公募による村名の選定（昭和39年7月22日選定と紹介される）
+    note: 村名「大潟村」の初出は命名そのもの。「大潟」は八郎潟の古称（平安時代頃は「大方」と呼ばれたとも）として伝えられる名である
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大潟村の団体コードは053686と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 大潟村公式の村勢要覧によれば、大潟村は国営八郎潟干拓事業により琵琶湖に次ぐ広さの湖「八郎潟」を干拓して誕生し、昭和39年（1964年）10月1日に創設された自治体には全国38都道府県から入植者とその家族が集った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-ogata-vill-handbook
+  - text: 村名は、湖底に誕生した大地に村がつくられるにあたり全国から募集され、将来に大きな理想と躍進をこめて「大潟村」と命名された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-ogata-maff-biomass
+  - text: 村名は公募の候補の中から昭和39年（1964年）7月22日に選定されたもので、平安時代の頃「大方（おおがた）」と呼ばれていた八郎潟が、のちに「大潟」と記すように変わったという伝承に基づくと紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-ogata-wiki
+  - text: 国立国会図書館のコラムによれば、八郎潟の干拓事業は着工から20年をかけて昭和52年（1977年）に終了し、干拓面積は八郎潟全体の約80％に及んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-hachirogata-ndl
+  - text: 大潟村公式の村勢要覧によれば、村は全域が海抜0m以下で、周囲を約52kmの堤防に囲まれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-ogata-vill-handbook
+  - text: 大潟村は、既存自治体の合併や分割などを伴わない新設自治体としては日本最後の発足であることが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-ogata-wiki
+  column:
+    title: 湖底に生まれた村に、消えた湖の古い名を
+    text: 大潟村は、地図の上では「もと湖だった場所」にあります。八郎潟の干拓で生まれた新しい大地に村をつくるにあたり、村名は全国公募で募られました。選ばれた「大潟」は、八郎潟が古く「大方」と呼ばれ、やがて「大潟」と記されたという伝承にちなむ名とされます。湖そのものの名は龍の伝説で知られる「八郎潟」ですが、村はその古称を掘り起こして名乗ったのです。発足時の人口は6世帯14人。合併でも分割でもなく、まっさらな大地に生まれた日本最後の新設自治体が、消えゆく湖の最も古い名を引き継いだことになります。
+    sources:
+    - z10-ogata-maff-biomass
+    - z10-ogata-wiki
+    - z10-ogata-vill-handbook
+  relations:
+  - pref/05
+  - muni/05-八郎潟町
+  - muni/05-五城目町
+  - muni/05-三種町
+  - muni/05-男鹿市
+  unknowns:
+  - 全国公募の応募総数や、「大潟」以外の最終候補名は確認できなかった
+  - 八郎潟が「大方」と記されたという平安時代の文献の特定（書名・巻）はできなかった
+  updated: '2026-11-13'
 - id: muni/05-大館市
   code: '052043'
   names:
@@ -398,6 +969,174 @@ records:
   - muni/05-北秋田市
   unknowns:
   - 「大規模な館」の主が誰で、いつの館だったのかは特定できていない（浅利氏の館であるという直接の裏付けは確認していない）
+  updated: '2026-11-13'
+- id: muni/05-小坂町
+  code: '053031'
+  names:
+    ja: 小坂町
+    reading: こさかまち
+    aliases:
+    - 小坂村
+    - 小坂鉱山
+  user_terms:
+  - こさか
+  - 小坂町の名前の由来
+  - 小坂鉱山の町
+  - 康楽館
+  naming_type: 一部の地名
+  prefecture: 秋田県
+  homonyms: []
+  summary: 鹿角郡に残る唯一の町で、旧・小坂村の名を継ぐ鉱山の町。明治22年（1889年）に小坂村と小坂鉱山（鉱山集落）の区域をもって小坂村が発足し、大正3年（1914年）に町制を施行、昭和30年（1955年）に七滝村と合併して現在の小坂町となった。地名「小坂」は小さな坂・丘に由来すると説明されることがあるが、確かな語源は未詳である。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による小坂村の発足
+    note: 自治体名として確認できる初出。「小坂」という地名自体は江戸時代の小坂村（盛岡藩領）に遡るが、文献上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、小坂町の団体コードは053031と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 明治22年（1889年）4月1日の町村制施行により、小坂村と小坂鉱山の区域をもって小坂村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-kosaka-kazuno-wiki
+  - text: 小坂町公式サイトの町のあゆみによれば、大正3年（1914年）5月15日に小坂に町制が施行され、初代町長に小笠原勇太郎が就いた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-kosaka-town-taisho
+  - text: 昭和30年（1955年）4月1日、小坂町と七滝村が合併し、改めて小坂町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-kosaka-kazuno-wiki
+  - text: 小坂鉱山は文久元年（1861年）に金・銀の鉱山として開発が始まり、明治34年（1901年）には銀の生産高が日本一の鉱山となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z10-kosaka-mine-wiki
+  - text: 小坂町勢要覧によれば、明治40年（1907年）には鉱産額日本一を誇った小坂鉱山があり、町には小坂鉱山事務所や1910年創建の芝居小屋・康楽館など、鉱山とともに発展した明治の文化遺産が残る
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z10-kosaka-town-handbook
+  - text: 「小坂」は英語圏向けの秋田県の地域紹介で「Small Hill（小さな丘）」と訳されているが、この語源解釈を裏づける専門資料は確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z10-kosaka-akitajet
+  column:
+    title: 村の中に「鉱山」という自治体があった町
+    text: 1889年の町村制施行のとき、小坂村は「小坂村」と「小坂鉱山」という2つの区域をもって発足しました。幕末の1861年に銀が見つかって以来、鉱山集落はそれ自体がひとつの行政単位になるほどの規模に膨れ上がっていたのです。やがて銀の生産高で日本一を誇る鉱山の町となり、鉱山事務所や芝居小屋・康楽館といった近代建築が建ち並びました。いっぽう、町の名そのものは鉱山よりずっと古く、江戸時代の村名に遡ります。鉱山は1990年に閉山しましたが、名前は山より長く残っています。
+    sources:
+    - z10-kosaka-kazuno-wiki
+    - z10-kosaka-town-handbook
+  relations:
+  - pref/05
+  - muni/05-鹿角市
+  - muni/05-大館市
+  unknowns:
+  - 「小坂」の語源は、『角川日本地名大辞典』等の専門辞典で直接確認できておらず、「小さな坂・丘」説の典拠は弱い
+  - 『和名類聚抄』など古代・中世の文献に鹿角地方の「小坂」の地名が見えるかどうかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/05-東成瀬村
+  code: '054640'
+  names:
+    ja: 東成瀬村
+    reading: ひがしなるせむら
+    aliases:
+    - 田子内村
+    - 岩井川村
+    - 椿川村
+  user_terms:
+  - 東成瀬村の名前の由来
+  - ひがしなるせ
+  - 成瀬川の村
+  - 栗駒国定公園の村
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県の南東端にある雄勝郡の山村で、村の中央を成瀬川が縦断し、集落はその流れに沿って点在する。1889年（明治22年）に田子内村・岩井川村・椿川村が合併して成立した。「成瀬」は村を貫く成瀬川の名に由来するが、「東」を冠した理由を明示する資料は確認できていない。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による東成瀬村の成立（東成瀬村公式「東成瀬村の誕生」）
+    note: 村名「東成瀬」自体の初出。地域の最古の記録は文保元年（1317年）のものと村公式は伝える
+  claims:
+  - text: 明治22年（1889年）4月1日、田子内村・岩井川村・椿川村が合併し、東成瀬村として村制が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-higashinaruse-vill-birth
+  - text: 村の中央部を成瀬川が縦断し、これに沿って大小の集落が点在している。村名の「成瀬」は、この川の名によるものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-higashinaruse-vill-gaiyo
+    - z11-higashinaruse-kotobank
+  - text: 村名の「東」が何に対する東なのか（成瀬川流域における位置など）を明示した公的資料は、本調査では確認できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - z11-higashinaruse-vill-birth
+    - z11-higashinaruse-vill-gaiyo
+  - text: 村公式によれば、発見された記録の中で最も古いものは鎌倉時代のもので、文保元年（1317年）に奥州栗原郡金成村より菅原家の祖・左太夫が土着し、手倉川原村を開いたとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-higashinaruse-vill-birth
+  - text: 近世の村域は小野寺氏の所領であったが、元和元年（1615年）の一国一城制以降は佐竹氏の所領となり、田子内村・岩井川村・手倉川原村・椿川村・桧山台村に分かれていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-higashinaruse-vill-birth
+  - text: 村域はもと平鹿郡の管下にあったが、寛文5年（1665年）に雄勝郡へ編入され、この時から田子内が親郷となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-higashinaruse-vill-birth
+  - text: 村章は、東の「ひ」と成瀬の「成」を組み合わせて図案化したもので、昭和42年（1967年）5月に制定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-higashinaruse-vill-gaiyo
+  - text: 東成瀬村の地方公共団体コードは054640である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z11-higashinaruse-chusho
+  column:
+    title: 「東」の理由が残っていない村
+    text: 村の真ん中を成瀬川が流れ、村名の後ろ半分はこの川で説明がつく。ところが前の「東」が何の東なのか、村の公式資料は語らない。1889年の合併で生まれた村名の由来が、肝心の部分だけ記録に残っていない。村章にまで「東」の字がデザインされているのに、その理由は空白のままである。分からないことは分からないとして残すのも、この村の正直な記録のうちである。
+    sources:
+    - z11-higashinaruse-vill-birth
+    - z11-higashinaruse-vill-gaiyo
+  relations:
+  - pref/05
+  - muni/05-湯沢市
+  unknowns:
+  - 「東成瀬」の「東」の命名理由を記した資料は未確認（成瀬川流域の東部という位置からの命名と推測されるが、裏づけはない）
+  - 「成瀬川」という川名自体の語源は未確認
+  - 文保元年（1317年）の記録について、村公式は文献名を明示しておらず未確認
   updated: '2026-11-13'
 - id: muni/05-横手市
   code: '052035'
@@ -930,6 +1669,85 @@ records:
   - 公募で寄せられ第8回合併協議会で選ばれた31案の全容は未確認
   - 旧3町村（千畑町・六郷町・仙南村）それぞれの地名の由来は本バッチの対象外で未確認
   updated: '2026-11-13'
+- id: muni/05-羽後町
+  code: '054631'
+  names:
+    ja: 羽後町
+    reading: うごちょう
+    aliases:
+    - 西馬音内町
+    - 三輪村
+    - 元西馬音内村
+  user_terms:
+  - 羽後町の名前の由来
+  - うご
+  - 西馬音内盆踊りの町
+  - 羽後国の名前を受け継いだ町
+  naming_type: その他（旧国名「羽後」の継承）
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県南部、雄勝郡の町。1955年（昭和30年）に西馬音内町など1町6村が合併して誕生した。町名は、明治元年（1868年）に出羽国を分けて置かれた旧国名「羽後」を受け継いだものとされる。中心地の西馬音内は、西馬音内盆踊りで知られる。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 羽後町の成立（1955年の合併。羽後町公式の町の歴史年表）
+    note: 町名としての「羽後」の初出。もとの国名「羽後」は明治元年（1868年）12月の出羽国の分割に始まる
+  claims:
+  - text: 昭和30年（1955年）4月、西馬音内町・三輪村・新成村・明治村・元西馬音内村・田代村・仙道村の1町6村が合併し、羽後町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ugo-town-nenpyo-showa
+  - text: 町名「羽後」は、1955年の合併の際に、秋田の旧国名でもある「羽後」の名前を受け継いだものとされる
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z11-ugo-akitakeizai
+  - text: 町公式の歴史年表は、明治元年（1868年）12月に「出羽を羽前と羽後に分ける」と記しており、国名「羽後」はこの出羽国の分割によって生まれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ugo-town-nenpyo-meiji
+  - text: 昭和31年（1956年）10月、雄物川町及び十文字町の各一部を本町に編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ugo-town-nenpyo-showa
+  - text: 町公式サイトは、中心地・西馬音内の盆踊り（西馬音内盆踊り）を町の観光の目玉として掲げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ugo-town-top
+  - text: 平成の大合併の時代に、羽後町は県内でどの自治体よりも早く合併しないことを宣言し、単独で存続した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z11-ugo-akitakeizai
+  - text: 羽後町の地方公共団体コードは054631である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた国名を名乗り続ける町
+    text: 羽後国は、1868年に出羽国を南北に分けて置かれた国だが、廃藩置県で秋田県などに置き換わり、国名としては短い命だった。ところが1955年、合併する1町6村は、どの旧町村の名でもなく、80年以上前に消えたはずの国名「羽後」を新しい町の名に選んだ。県名には「秋田」が残り、国名の側は一つの町が引き取った形である。
+    sources:
+    - z11-ugo-town-nenpyo-meiji
+    - z11-ugo-akitakeizai
+  relations:
+  - pref/05
+  - muni/05-湯沢市
+  unknowns:
+  - 合併協議で「羽後」の名が選ばれた経緯（候補名や提案者）を示す一次資料は未確認
+  - 羽後国の範囲と現在の羽後町域（旧雄勝郡）の関係を直接示す公的資料は未確認
+  updated: '2026-11-13'
 - id: muni/05-能代市
   code: '052027'
   names:
@@ -1025,6 +1843,84 @@ records:
   unknowns:
   - 「ヌシロ」の語源はアイヌ語「ヌプシル」説が郷土資料に見えるのみで、専門辞典による確定した説明は確認できなかった
   - 「野代」表記がいつ頃から一般化したか（渟代から野代への移行時期）は未確認
+  updated: '2026-11-13'
+- id: muni/05-藤里町
+  code: '053465'
+  names:
+    ja: 藤里町
+    reading: ふじさとまち
+    aliases:
+    - 藤琴村
+    - 粕毛村
+    - 藤里村
+    - 素波里
+  user_terms:
+  - 藤里町の名前の由来
+  - ふじさと
+  - 白神山地の町
+  - 藤琴と粕毛の合併で生まれた町
+  naming_type: 合併新設
+  prefecture: 秋田県
+  homonyms: []
+  summary: 秋田県の北端にある山本郡の町で、北は世界自然遺産・白神山地に抱かれる。1955年（昭和30年）に藤琴村と粕毛村が合併して藤里村となり、1963年（昭和38年）に町制を施行した。町名「藤里」は、藤琴村の「藤」と、粕毛村の名勝地・素波里の「里」を組み合わせた合成地名である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 藤里村の成立（藤里町「町制施行50周年記念誌」）
+    note: 「藤里」の名の初出。1963年11月1日に町制を施行して藤里町となった
+  claims:
+  - text: 新村名「藤里」は、藤琴村の「藤」と粕毛村の名勝地・素波里の「里」を併せて決められ、昭和30年（1955年）3月31日に藤里村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-fujisato-town-50th
+  - text: 昭和38年（1963年）11月1日、町制を施行して藤里町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-fujisato-town-50th
+  - text: 藤琴は、今からおよそ1200年前の桓武天皇の延暦の頃に、大沢・太良と前後して一部落をなしていたと町公式は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-fujisato-town-gaiyo
+  - text: 明治22年（1889年）の町村制で、大沢・太良の2村が合併して藤琴村となり、粕毛村は矢坂村を合併して成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-fujisato-town-gaiyo
+  - text: 町は世界自然遺産に登録された白神山地の南側に位置し、「白神山地の麓の町」を掲げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-fujisato-town-gaiyo
+  - text: 平成の大合併では単独の道を選択し、平成15年（2003年）4月26日に単独立町が決まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-fujisato-town-50th
+  - text: 藤里町の地方公共団体コードは053465である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「里」は相手の村名ではなく、名勝の名から
+    text: 合併の合成地名は、両方の自治体名から一文字ずつ取るのが定番である。ところが藤里の「里」は、相方の村名「粕毛」からではなく、その村の名勝地・素波里から取られた。「藤」も植物の藤ではなく地名「藤琴」の藤である。人の名でも村の名でもなく、土地の名所を合併の名に刻んだところに、この町名の個性がある。
+    sources:
+    - z11-fujisato-town-50th
+  relations:
+  - pref/05
+  unknowns:
+  - 「藤琴」「粕毛」「素波里」それぞれの地名の語源は未確認
+  - 藤琴川・粕毛川の川名と集落名の先後関係は未確認
   updated: '2026-11-13'
 - id: muni/05-鹿角市
   code: 052094
@@ -1248,3 +2144,105 @@ sources:
   t6-oga-namahage-official:
     label: 「重要無形民俗文化財」男鹿のナマハゲ公式サイト（男鹿のナマハゲ行事の解説、1978年の重要無形民俗文化財指定、2018年のユネスコ無形文化遺産登録、「ナモミ剥ぎ」が「ナマハゲ」になったという語源の紹介）
     url: https://namahage-oga.akita.jp/index.html
+  z10-gojome-town-about:
+    label: 五城目町公式サイト「町の概要（町名の由来と町の歴史）」（『和名類聚抄』に最北の村として「率浦郷」の名があり今の五城目付近と思われること、「五十目」の地名が鎌倉時代終期から使われたと思われること、江戸時代中期から「ごじゅうのめ」と読み後期には好字を当てて「五城目」と書く人もいたこと、明治29年・1896年1月18日に五十目村が町制を施行して五城目町となり、昭和30年・1955年3月31日に5町村が合併したこと、町章は中世にあった5つの城を目に配した図案であることを記述）
+    url: https://www.town.gojome.akita.jp/town/machisyoukai/6
+  z10-hachimori-wiki:
+    label: Wikipedia「八森村」（近世以来の八森村が、明治22年・1889年4月1日の町村制施行時に単独で自治体を形成し、昭和29年・1954年10月1日に岩館村と合併して八森町が発足したことを記述）
+    url: http://ja.wikipedia.org/wiki/八森村
+  z10-hachirogata-ndl:
+    label: 国立国会図書館電子展示会コラム「八郎潟」（八郎潟は琵琶湖に次ぐ約22,000haの汽水湖だったこと、「八郎潟」の名は八郎太郎の物語に由来し、十和田湖の主となった八郎太郎が南祖坊との争いに敗れ米代川を下って八郎潟を作り住処としたと伝えられること、干拓事業は昭和52年・1977年に終了し、昭和39年・1964年に干陸に大潟村が発足したことを記述）
+    url: https://www.ndl.go.jp/landmarks/column/hachirogata_lagoon
+  z10-hachirogata-wiki:
+    label: Wikipedia「八郎潟町」（明治22年・1889年に一日市村・面潟村が成立し、大正14年・1925年に一日市町となり、昭和31年・1956年の合併で一日市町と面潟村が合併して八郎潟町となったこと、町名が湖の八郎潟に由来すること、行政区域は面積17.0km²で秋田県内で一番小さな自治体であることを記述）
+    url: http://ja.wikipedia.org/wiki/八郎潟町
+  z10-happou-pref-merger:
+    label: 秋田県「八峰町」合併資料（秋田県公式サイト掲載。八森町は昭和29年・1954年10月に八森村・岩館村の合併で秋田県第1号の合併町として誕生し、峰浜村は昭和30年・1955年4月に沢目村・塙川村の合併で誕生したこと、平成18年・2006年3月27日に両町村が新設合併して八峰町が誕生したこと、新町名称は公募（応募1,650通）の上位10点から5点に絞られ、住民アンケートで「八峰町」が1,503票（41.3％）の最多得票を得て平成17年・2005年3月19日の協議会で決定したこと、候補には「八森峰浜町」「峰八町」などもあったことを記述）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/happou.pdf
+  z10-happou-pref-plan:
+    label: 秋田県「白神八峰」申請書別表（秋田県公式サイト掲載。平成18年・2006年3月27日に八森町と峰浜村の合併により八峰町が誕生したこと、町は日本海沿いの秋田県最北端に位置し、東側に世界自然遺産「白神山地」がそびえることを記述）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000047254_00/白神八峰_申請書_別表１～４.pdf
+  z10-ikawa-donnatoko:
+    label: 地域情報サイト「どっなんとこ？」井川町ガイド（日本国花苑は1972年・昭和47年に日本各地から集められた約200種2,000本の桜が植えられた公園であること、JR井川さくら駅は桜を名に冠した請願駅で1995年に開業したことを紹介）
+    url: https://donnatoko.jp/akita-ken/ikawa-guide
+  z10-ikawa-hokudai:
+    label: 白樫久「企業誘致と農村社会の変貌：秋田県井川町における実態分析」（北海道大学『調査と社会理論』研究報告書2、1980年。昭和30年・1955年に旧上井河村と旧下井河村が合併して井川村が誕生し、昭和49年・1974年6月に町制を施行して井川町となったことを記述）
+    url: https://hdl.handle.net/2115/24231
+  z10-ikawa-kamiigawa-wiki:
+    label: Wikipedia「上井河村」（明治22年・1889年4月1日に南秋田郡の9村が合併して上井河村が発足し、昭和30年・1955年2月1日に下井河村と合併して井川村となったことを記述）
+    url: http://ja.wikipedia.org/wiki/上井河村
+  z10-ikawa-shimoigawa-wiki:
+    label: Wikipedia「下井河村」（明治22年・1889年4月1日に南秋田郡の5村が合併して下井河村が発足し、昭和30年・1955年2月1日に上井河村と合併して井川村となったことを記述）
+    url: https://ja.wikipedia.org/wiki/%E4%B8%8B%E4%BA%95%E6%B2%B3%E6%9D%91
+  z10-ikawa-wiki:
+    label: Wikipedia「井川町」（町並みは出羽丘陵に源を発して八郎潟（残存湖）に注ぐ井川に沿って形成されていること、『吾妻鏡』に「出羽国秋田郡湯河」とあり井川にあたると考えられていること、昭和30年・1955年2月1日に上井河村・下井河村が合併して井川村が誕生し、昭和49年・1974年6月1日に町制を施行したことを記述）
+    url: https://ja.wikipedia.org/wiki/%E4%BA%95%E5%B7%9D%E7%94%BA
+  z10-kamikoani-vill-about:
+    label: 上小阿仁村公式サイト「上小阿仁村の概要」（太平山に源を発する小阿仁川が村の中央を北に流れ米代川へ注ぐこと、村域の92.7％が山林原野であること、村の木が秋田杉であることを記述）
+    url: https://www.vill.kamikoani.akita.jp/info/490
+  z10-kamikoani-wiki:
+    label: Wikipedia「上小阿仁村」（天正19年・1591年の秋田実季の太閤検地による領地目録に「小阿仁村」として記録されていること、明治22年・1889年4月1日に9村が合併して上小阿仁村が発足したこと、地名の由来として高倉長者の婿「阿仁殿」と実子がくじ引きで土地を分け、大阿仁・小阿仁と呼ばれるようになったという伝承を紹介）
+    url: http://ja.wikipedia.org/wiki/上小阿仁村
+  z10-kosaka-akitajet:
+    label: Akita Wiki（秋田県の国際交流員らによる英語圏向け地域紹介）「Kosaka」（小坂町を「lit. Small Hill（小さな坂・丘）」と訳して紹介）
+    url: https://akitajet.com/wiki/Kosaka
+  z10-kosaka-kazuno-wiki:
+    label: Wikipedia「鹿角郡」（明治22年・1889年4月1日の町村制施行により小坂村と小坂鉱山の区域をもって小坂村が発足したこと、昭和30年・1955年4月1日に小坂町と七滝村が合併し改めて小坂町が発足したことを記述）
+    url: http://ja.wikipedia.org/wiki/鹿角郡
+  z10-kosaka-mine-wiki:
+    label: Wikipedia「小坂鉱山」（文久元年・1861年に金・銀の鉱山として開発が始まり、明治2年・1869年に官営となり、明治34年・1901年には銀の生産高が日本一の鉱山となったこと、平成2年・1990年に閉山したことを記述）
+    url: http://ja.wikipedia.org/wiki/小坂鉱山
+  z10-kosaka-town-handbook:
+    label: 小坂町「2021 小坂町町勢要覧」（文久元年・1861年に金属が発見されて以来の鉱山の町であること、明治40年・1907年には鉱産額日本一を誇った小坂鉱山があったこと、小坂鉱山事務所や1910年創建の康楽館など明治の文化遺産が残ることを紹介）
+    url: https://www.town.kosaka.akita.jp/material/files/group/1/2021cyouseiyouran.pdf
+  z10-kosaka-town-taisho:
+    label: 小坂町公式サイト「町のあゆみ 大正期」（大正3年・1914年5月15日に小坂に町制が施行され初代町長に小笠原勇太郎が就いたことなど、大正期の小坂鉱山と町の年表）
+    url: https://www.town.kosaka.akita.jp/machinososhiki/somuka/somukanzaihan/5/2/152.html
+  z10-mitane-pref-merger:
+    label: 秋田県「三種町」合併資料（秋田県公式サイト掲載。琴丘町・山本町・八竜町はいずれも昭和30年・1955年の合併で成立し、平成18年・2006年3月20日に3町が新設合併して三種町が誕生したこと、3町はもともと「南部三町」と呼ばれ結びつきが強かったこと、新町名称は公募（1,208人から500種類）で集め上位3点の投票で「三種町」10票・「湖北町」9票・「南部三町」0票となり僅差で決定したこと、房住山に源を発する三種川が町のほぼ中央を流れることを記述）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/mitane.pdf
+  z10-mitane-wiki:
+    label: Wikipedia「三種町」（町名の「三種」は3町を流れる三種川に由来すること、三種川の由来は、巡国の高僧が源流で白髪の老翁に出会い川の名を尋ねると三種川と答えた物語で、『房住山昔物語』に記録されていることを紹介）
+    url: http://ja.wikipedia.org/wiki/三種町
+  z10-ogata-maff-biomass:
+    label: 農林水産省「大潟村バイオマス産業都市構想」（大潟村作成。湖底に誕生した大地に村がつくられることとなり、村名は全国から募集され、将来に大きな理想と躍進をこめて「大潟村」と命名されたこと、大潟村は昭和39年・1964年10月1日に秋田県で第69番目の自治体として6世帯わずか14人の人口で始まったことを記述）
+    url: https://www.maff.go.jp/j/shokusan/biomass/b_sangyo_toshi/attach/pdf/r02sentei_kousou-11.pdf
+  z10-ogata-vill-handbook:
+    label: 大潟村公式「2019 大潟村勢要覧」（大潟村は国営八郎潟干拓事業により誕生し、昭和39年・1964年10月1日に創設された自治体に全国38都道府県から入植者が集ったこと、村全体が海抜0m以下で周囲を約52kmの堤防に囲まれていることを記述）
+    url: https://www.vill.ogata.akita.jp/uploads/public/archive_0000000597_00/004_sonseiyouran_r0203.pdf
+  z10-ogata-wiki:
+    label: Wikipedia「大潟村」（平安時代の頃「大方（おおがた）」と呼ばれていた八郎潟は、のちに「大潟」と記すように変わったと伝えられ、村名はこれに基づき公募によって寄せられた候補の中から1964年・昭和39年7月22日に選定されたこと、既存自治体の合併や分割を伴わない新設自治体としては日本最後の発足であることを紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BD%9F%E6%9D%91
+  z10-shimokoani-wiki:
+    label: Wikipedia「下小阿仁村」（小阿仁川・阿仁川下流側にあった村で、明治22年・1889年に発足し、昭和30年・1955年3月31日に上大野村・下大野村・落合村と合併して合川町（現在の北秋田市）が発足し廃止されたことを記述）
+    url: http://ja.wikipedia.org/wiki/下小阿仁村
+  z11-fujisato-town-50th:
+    label: 藤里町「町制施行50周年記念誌（藤里町の変遷）」（新村名については、藤琴村の「藤」と粕毛村の名勝地素波里の「里」を併せて「藤里」と決め、昭和30年（1955年）3月31日に藤里村が誕生したこと、昭和38年（1963年）11月1日に藤里町が誕生したこと、平成15年（2003年）に単独立町を選択したことを記す）
+    url: http://www.town.fujisato.akita.jp/upload/download/2744download.pdf
+  z11-fujisato-town-gaiyo:
+    label: 藤里町公式「藤里町の概要」（世界自然遺産・白神山地の麓の町であること、藤琴は延暦の頃に一部落をなしていたこと、明治22年（1889年）の町村制で大沢・太良の2村が合併して藤琴村となり、粕毛村は矢坂村を合併して成立したことを記す）
+    url: http://www.town.fujisato.akita.jp/about/1
+  z11-higashinaruse-chusho:
+    label: 中小企業庁「経営発達支援計画の概要（東成瀬村商工会）」（東成瀬村の地方自治体コードを054640と明記する経済産業省所管の公表資料）
+    url: https://www.chusho.meti.go.jp/keiei/shokibo/ninteikeikaku/download/05-21.pdf
+  z11-higashinaruse-kotobank:
+    label: コトバンク『日本歴史地名大系』「東成瀬村」（県最南東部に位置し、栗駒山（須川岳）より流れる成瀬川の流路に沿い集落が点在すること、成瀬川は岩井川の辺りで流れを西に変え増田町中で皆瀬川に合流することを記す）
+    url: https://kotobank.jp/word/%E6%9D%B1%E6%88%90%E7%80%AC%E6%9D%91-119137
+  z11-higashinaruse-vill-birth:
+    label: 東成瀬村公式「東成瀬村の誕生」（村のおいたち。発見された記録の中で最も古いものは鎌倉時代のもので、文保元年（1317年）に奥州栗原郡金成村より菅原家の祖・左太夫が土着し手倉川原村を開いたとされること、近世には田子内村・岩井川村・手倉川原村・椿川村・桧山台村に分かれていたこと、寛文5年（1665年）に雄勝郡へ編入されたこと、明治22年（1889年）4月1日に田子内村・岩井川村・椿川村が合併して東成瀬村として村制が施行されたことを記す）
+    url: https://vill.higashinaruse.lg.jp/villager/muranogaiyou/post-915
+  z11-higashinaruse-vill-gaiyo:
+    label: 東成瀬村公式「東成瀬村の概要」（村の中央部を成瀬川が縦断し、これに沿って集落が点在すること、村章は東の「ひ」と成瀬の「成」を組み合わせ図案化したもので昭和42年（1967年）5月に制定されたことを記す）
+    url: https://vill.higashinaruse.lg.jp/villager/muranogaiyou/post-917
+  z11-ugo-akitakeizai:
+    label: あきた経済ジャーナル寄稿「『村おこし』の系譜とあるもんでイズム」（秋田県南部の羽後町は7町村が1955年に合併した際に、秋田の旧国名でもある「羽後」の名前を受け継いだこと、平成の大合併では県内で最も早く合併しないことを宣言したことを記す）
+    url: https://www.akitakeizai.or.jp/journal/data/202205_kikou_02.pdf
+  z11-ugo-town-nenpyo-meiji:
+    label: 羽後町公式「町の歴史 明治の時代」（明治元年（1868年）12月に「出羽を羽前と羽後に分ける」と記す町公式の年表）
+    url: https://origin.town.ugo.lg.jp/administration/detail.html?id=355
+  z11-ugo-town-nenpyo-showa:
+    label: 羽後町公式「町の歴史 昭和の時代」（昭和30年（1955年）4月に西馬音内町・三輪村・新成村・明治村・元西馬音内村・田代村・仙道村の1町6村が合併し羽後町が誕生したこと、昭和31年（1956年）10月に雄物川町及び十文字町の各一部を編入したことを記す町公式の年表）
+    url: https://www.town.ugo.lg.jp/administration/detail.html?id=357
+  z11-ugo-town-top:
+    label: 羽後町公式トップページ（西馬音内盆踊りの特集ページへの案内を町の顔として掲げる）
+    url: https://www.town.ugo.lg.jp/

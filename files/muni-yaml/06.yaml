@@ -1,5 +1,79 @@
 prefecture_code: '06'
 records:
+- id: muni/06-三川町
+  code: '064262'
+  names:
+    ja: 三川町
+    reading: みかわまち
+    aliases:
+    - 三川村
+    - 横山村
+    - 東郷村
+    - 押切村
+  user_terms:
+  - 三川町の名前の由来
+  - みかわ
+  - 三つの川が流れる町
+  - 庄内平野の真ん中の町
+  naming_type: 合併新設
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県の庄内平野のほぼ中央にある町。1955年（昭和30年）に横山村・東郷村・押切村が合併して三川村となり、1968年（昭和43年）に町制を施行した。町名は、合併した3村の地域を流れる赤川・藤島川・大山川の「三川」に由来する。旧国名の「三河（みかわ）」とは字も由来も異なる同音の地名である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 三川村の設置（鶴岡市・庄内南部合併協議会資料「三川町の紹介」）
+    note: 「三川」の名の初出。1968年6月1日に町制を施行して三川町となった
+  claims:
+  - text: 昭和30年（1955年）1月1日に横山村・東郷村・押切村が合併して三川村が設置され、昭和43年（1968年）6月1日に町制を施行して三川町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-mikawa-tsuruoka-gappei
+  - text: 町名「三川」は、合併3村を流れる赤川・藤島川・大山川の三川（さんせん）によるものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-mikawa-tsuruoka-gappei
+  - text: 町は70周年記念ガイドブックで自らを「庄内平野のちょうど真ん中で、三つの川が流れるまち」と紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-mikawa-town-guidebook
+  - text: 町は庄内平野のほぼ中央に位置し、北には最上川を隔てて鳥海山を仰ぎ、水田が町の面積の7割ほどを占める穀倉地帯である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-mikawa-tsuruoka-gappei
+  - text: 戦国時代には旧横山村の地に横山城が築かれ、助川党という地侍の集団がいたとの説が、町の記念誌で紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-mikawa-town-guidebook
+  - text: 三川町の地方公共団体コードは064262である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 川の数を数えて名前にした町
+    text: 「三川」は、3つの川を数え上げてそのまま名にした地名である。合併した3村に共通する財産は、赤川・藤島川・大山川の流れだった。読みは「みかわ」で、愛知県一帯の旧国名「三河」と同じ音だが、字も由来も無関係である。同じ読みで違う字、違う成り立ちを持つ、同音の別地名として並べて見ることができる。
+    sources:
+    - z11-mikawa-tsuruoka-gappei
+  relations:
+  - pref/06
+  - muni/06-鶴岡市
+  - muni/06-庄内町
+  unknowns:
+  - 1955年の合併時に「三川」以外の候補名があったかどうかは未確認
+  - 赤川・藤島川・大山川それぞれの川名の語源は未確認
+  updated: '2026-11-13'
 - id: muni/06-上山市
   code: '062073'
   names:
@@ -83,6 +157,85 @@ records:
   unknowns:
   - 「かみのやま」の語源は諸説が併存し確定していない。最上川の上流という位置に由来するという単純な説明は、専門辞典では確認できなかった
   - 「上山」の語そのものの文献上の初出（年・文書）は未確認
+  updated: '2026-11-13'
+- id: muni/06-中山町
+  code: 063029
+  names:
+    ja: 中山町
+    reading: なかやままち
+    aliases:
+    - 長崎町
+    - 豊田村
+  user_terms:
+  - 中山町の名前の由来
+  - なかやま
+  - 芋煮会発祥のまち
+  - 長崎中山氏の町
+  naming_type: 合併新設
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県中央部、東村山郡の町で、面積は県内の市町村で最も小さい。1954年（昭和29年）に長崎町と豊田村が合併して誕生した。町名は、中世から近世初頭にかけて当地を治めた長崎城（中山城）城主・中山氏にちなむ。中心地の長崎は、江戸時代に最上川舟運の湊として栄えた。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 中山町の成立（1954年の合併）
+    note: 町名としての「中山」の初出。もとの中山氏の当地への入部は至徳元年（1384年）と町公式は伝える
+  claims:
+  - text: 『日本歴史地名大系』は、町名の由来は中世から近世初頭にかけて当地一帯の領主であった長崎城（中山城ともいう）城主中山氏にちなんだものとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-nakayama-kotobank
+  - text: 町公式は、中山氏の墳墓地である玄蕃壇を「町名の由来であり、南北朝時代から江戸時代初頭にかけて当地を治めた中山家に関係する史跡」と明記する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-nakayama-town-genbadan
+  - text: 中山氏は至徳元年（1384年）に長崎楯（現在の長崎地区）に入部し、初代の楯主は中山左衛門継信であったと町公式は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-nakayama-town-genbadan
+  - text: 昭和29年（1954年）10月1日に長崎町と豊田村が合併して中山町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-nakayama-town-kouhou
+  - text: 町は昭和59年（1984年）に、中山町誕生30年と「中山氏入部600年」の記念式典を開いており、中山氏の入部を町の歴史の起点として位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-nakayama-town-rekishi
+  - text: 芋煮会は、最上川の船頭たちが長崎湊で棒鱈と里芋を煮て食べたことに始まるという伝承が残り、中山町は「芋煮会発祥の地」の一つとされる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z11-nakayama-donnatoko
+  - text: 中山町の地方公共団体コードは063029である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた城主の姓が、町名として蘇った
+    text: 合併前の中心地の名は「長崎」で、今も町の大字として残っている。ところが町名に選ばれたのは地名ではなく、300年以上も前にこの地を去った領主の姓「中山」だった。近代の合併町名に中世の支配者の名を蘇らせた、珍しい命名である。町が今も「中山氏入部600年」を祝うのは、その名を町の誇りとして引き受けているからである。
+    sources:
+    - z11-nakayama-kotobank
+    - z11-nakayama-town-genbadan
+  relations:
+  - pref/06
+  - muni/06-山辺町
+  - muni/06-大江町
+  unknowns:
+  - 合併協議で「中山」の名が選ばれた具体的な経緯（発案者や他の候補名）は未確認
+  - 中山氏の姓「中山」自体の由来（出身地の地名かどうか）は未確認
   updated: '2026-11-13'
 - id: muni/06-南陽市
   code: 062138
@@ -172,6 +325,256 @@ records:
   unknowns:
   - 合併協議の場で「南陽」以外にどのような市名候補が挙がり、どのような経緯で知事の贈名に決着したかの詳細は、公式資料では確認できなかった
   - 宮内・和郷といった旧地名そのものの語源は未調査（本レコードでは市名の層を中心に記録した）
+  updated: '2026-11-13'
+- id: muni/06-大江町
+  code: '063240'
+  names:
+    ja: 大江町
+    reading: おおえまち
+    aliases:
+    - 左沢町
+    - 漆川村
+    - 本郷村
+    - 七軒村
+  user_terms:
+  - 大江町の名前の由来
+  - おおえ
+  - 最上川舟唄の町
+  - 左沢の町
+  naming_type: 合併新設
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県中央部、西村山郡の町。1959年（昭和34年）に左沢町と漆川村が合併して誕生した。町名「大江」は、中世に当地を治めた大江氏の姓に直接よるのではなく、最上川の雄大な流れを「大江」と捉え、「百川衆沢尽く一大江に帰する」の意を取った命名であると町公式は説明する。一帯は中世には寒河江荘として、大江広元の子孫である寒河江大江氏の領地でもあった。
+  first_attestation:
+    era: 昭和34年
+    year_western: 1959
+    document: 大江町の成立（1959年の合併。大江町公式の景観保存調査報告書）
+    note: 町名「大江」の初出。中心地・左沢の地名は中世に遡る
+  claims:
+  - text: 昭和34年（1959年）に左沢町と漆川村が合併して大江町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oe-town-gaiyo
+  - text: 町公式の報告書は、町名は最上川の雄大な眺めに由来しており、「百川衆沢尽く一大江に帰する」の意を取り、町の発展の希望を託している、と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oe-town-gaiyo
+  - text: 大江町を含む西村山郡一帯は中世には寒河江荘で、文治5年（1189年）に源頼朝により寒河江荘の地頭に大江広元が補任され、その後、広元の子孫が知行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oe-town-rekishi
+  - text: 町名の公式説明は最上川の流れに由来を求めるものであって、この地を治めた寒河江大江氏の姓を直接の由来とはしていない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oe-town-gaiyo
+    - z11-oe-town-rekishi
+  - text: 中心市街地の左沢は、江戸時代から最上川舟運の中継地として栄え、民謡「最上川舟唄」の発祥の地とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oe-town-gaiyo
+  - text: 漆川村は、昭和29年（1954年）に本郷村と七軒村が合併してできた村である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oe-town-gaiyo
+  - text: 大江町の地方公共団体コードは063240である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 大江氏の里なのに、名は川から
+    text: この一帯は鎌倉時代以来の大江氏ゆかりの地だから、町名「大江」も当然、その姓から来たと思われがちである。ところが町の公式説明は違う。最上川の大きな流れに、すべての川と沢が帰一する姿を重ね、町の発展の願いを託した命名だという。「大江」という字面が誘う思い込みを、公式資料が自らほどいている好例である。
+    sources:
+    - z11-oe-town-gaiyo
+    - z11-oe-town-rekishi
+  relations:
+  - pref/06
+  - muni/06-寒河江市
+  - muni/06-中山町
+  unknowns:
+  - 「百川衆沢尽く一大江に帰する」という句の出典（誰の言葉か）は未確認
+  - 左沢（あてらざわ）の地名の語源は未確認
+  updated: '2026-11-13'
+- id: muni/06-大石田町
+  code: '063410'
+  names:
+    ja: 大石田町
+    reading: おおいしだまち
+    aliases:
+    - 大石田村
+    - 大石田河岸
+    - 大石田本町
+    - 大石田四日町
+  user_terms:
+  - 大石田町の名前の由来
+  - おおいしだ
+  - 芭蕉が訪れた町
+  - 最上川の河岸の町
+  naming_type: 一部の地名
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県の北東部にある、北村山郡で唯一の町。中心地の大石田は、江戸時代に最上川舟運最大の舟着場「大石田河岸」として栄えた在郷町で、元禄2年（1689年）には松尾芭蕉が滞在した。現在の町は1955年（昭和30年）に大石田町・亀井田村・横山村が合併して発足した。「大石田」の語源を確かめる資料は確認できておらず、未詳として残る。
+  first_attestation:
+    era: 元禄2年
+    year_western: 1689
+    document: おくのほそ道
+    note: 『精選版日本国語大辞典』が「大石田」の初出の実例として「最上川のらんと、大石田と云所に日和を待」の文を引く。地名自体はそれ以前の寛永期の石高帳にも見えるとされる
+  claims:
+  - text: 町公式は、最上川三難所の下流にある大石田は陸路と水路の接点という地の利から、町の中心部がかつて「大石田河岸」と呼ばれ、最上川舟運最大の舟着場として栄えたと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oishida-town-about
+  - text: 元禄2年（1689年）に松尾芭蕉が門人曽良を伴って大石田を訪れ、地元の俳人・高野一栄の宅に3泊し、句会を催した。歌仙「さみだれを」はその折の作である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oishida-story-basho
+  - text: 『精選版日本国語大辞典』は「大石田」の初出の実例として、『おくのほそ道』の「最上川のらんと、大石田と云所に日和（ひより）を待」の文を引く
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-oishida-kotobank
+  - text: 関ヶ原の戦いの後、最上義光は大石田に注目し、年貢米等の物資を酒田へ運ぶ河岸として大石田を「町立て」して整備し、最上川の中心的な河岸として位置づけた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oishida-story-machitate
+  - text: 大石田は江戸初期には一つの村だったが、寛永13年（1636年）に四日町が、正保元年（1644年）に本町が、寛文8年（1668年）に大石田村（新町）が分割され、元の村と合わせて4つの行政村に分けられた。大石田河岸としての重要性を領主側が重視した結果と考えられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oishida-story-yottsu
+  - text: 現在の大石田町は、昭和30年（1955年）1月1日に大石田町・亀井田村・横山村の1町2村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-oishida-story-gappei
+  - text: 「大石田」の語源を示す確かな資料は、地名辞典類を含め本調査では確認できなかった
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - z11-oishida-kotobank
+  - text: 大石田町の地方公共団体コードは063410である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 一つの村が四つに割れた河岸町
+    text: 江戸時代の大石田はあまりに重要な河岸だったため、支配を分け合いたい領主たちによって村そのものが4つに分割された。明治の地番整理では、4つの「大字大石田」を区別するために甲・乙・丙・丁の番地が振られたという。一方で河岸の実態は「大石田惣町」として一体で、芭蕉が3泊して歌仙を巻いたのもこの町である。割れても一つの町だった、河岸町の不思議な姿が残る。
+    sources:
+    - z11-oishida-story-yottsu
+    - z11-oishida-story-basho
+  relations:
+  - pref/06
+  - muni/06-尾花沢市
+  - muni/06-村山市
+  unknowns:
+  - 「大石田」の語源は未確認（「大きな石の田」等の字面からの解釈を裏づける資料が見当たらない）
+  - 中世における「大石田」の初出の文書は未確認
+  updated: '2026-11-13'
+- id: muni/06-大蔵村
+  code: '063657'
+  names:
+    ja: 大蔵村
+    reading: おおくらむら
+    aliases:
+    - 清水町村
+    - 合海町村
+    - 南山村
+    - 赤松村
+  user_terms:
+  - 大蔵村の名前の由来
+  - おおくら
+  - 肘折温泉の村
+  - 清水大蔵大輔の村
+  naming_type: その他（旧領主・清水大蔵大輔義親の名に由来）
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県北部、最上郡の最南端にある村で、肘折温泉と四ヶ村の棚田で知られる。1889年（明治22年）に清水町村・合海町村・南山村・赤松村が合併して成立し、以来一度も合併していない。村名は、1476年から1614年にかけてこの地を治めた清水家の7代城主・清水大蔵大輔義親の名に由来すると、村公式は伝える。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による大蔵村の成立
+    note: 村名「大蔵」の初出。もとの清水氏の当地支配は1476年から1614年とされる
+  claims:
+  - text: 村公式は、村名の由来を、1476年から1614年にこの地を治めていた清水家の7代城主、清水大蔵大輔義親公の名前から「大蔵村」とされた、とする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ohkura-vill-gaiyo
+  - text: 村長の挨拶でも、大蔵村の村名は7代城主・清水大蔵大輔義親公に由来しており、その清水城跡は県指定史跡に指定されているとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ohkura-vill-mayor
+  - text: 清水氏は1476年から138年間にわたって城を構え、最上郡の大半を領地に治めていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ohkura-vill-mayor
+  - text: 大蔵村は明治22年（1889年）の町村制施行から合併・統合をすることなく、令和元年（2019年）に村制施行130周年を迎えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ohkura-vill-130th
+  - text: 肘折温泉は、大同2年（807年）の開湯以来1200年の歴史をもつと村公式は伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z11-ohkura-vill-gaiyo
+  - text: 村の総面積の85パーセントが山林で、南には月山と葉山がそびえ、銅山川と赤松川が村を貫いて最上川に合流する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-ohkura-vill-gaiyo
+  - text: 大蔵村の地方公共団体コードは063657である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 官職名がそのまま村の名になった
+    text: 「大蔵大輔」は、大蔵省の高官の名である。清水義親が称したこの官名のうち、姓でも諱でもない「大蔵」の部分だけが、地名として残った。しかも命名されたのは義親の時代ではなく、それから270年以上後の1889年、4つの村が合併して新しい村を作ったときだった。遠い昔の領主への敬意が、明治の村名に刻まれた珍しい例である。
+    sources:
+    - z11-ohkura-vill-gaiyo
+    - z11-ohkura-vill-mayor
+  relations:
+  - pref/06
+  - muni/06-新庄市
+  - muni/06-庄内町
+  unknowns:
+  - 1889年の成立時に「大蔵」の名がどのような協議で選ばれたかは未確認
+  - 清水大蔵大輔義親の事績について、一次資料による裏づけは未確認（村公式の説明に基づく）
   updated: '2026-11-13'
 - id: muni/06-天童市
   code: '062103'
@@ -541,6 +944,81 @@ records:
   - 市名が藩名の継承か城下町名の継承かの厳密な選定経緯（県レコードと同じ未確認事項で、1871年の山形県設置時の命名理由の一次文書は未確認）
   - 「山方」から「山形」への表記変更が起きた具体的な文書・年は未確認
   updated: '2026-11-13'
+- id: muni/06-山辺町
+  code: '063011'
+  names:
+    ja: 山辺町
+    reading: やまのべまち
+    aliases:
+    - 山辺村
+    - 大寺村
+    - 作谷沢村
+    - 相模村
+  user_terms:
+  - 山辺町の名前の由来
+  - やまのべ
+  - 羽前山辺駅は「やまべ」と読む
+  - ニットの町
+  naming_type: 一部の地名
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県中央部、東村山郡の町で、山形盆地の南西、白鷹丘陵の山裾に広がる。もとの山辺村は1889年（明治22年）に成立し、1896年（明治29年）に町制を施行した。1954年（昭和29年）に大寺村・中村・作谷沢村・相模村と合併して、現在の山辺町となった。「山辺」の語源は確かめられていないが、読みはかつて「やまべ」とも読まれ、JR羽前山辺駅の駅名にその読みが残っている。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 山辺村の成立（町村制施行）
+    note: 自治体名としての初出。地名「山辺」自体の初出と語源は未確認
+  claims:
+  - text: 山辺村は明治29年（1896年）7月27日に町制を施行して山辺町となり、昭和29年（1954年）10月1日に大寺村・中村・作谷沢村・相模村と合併して、新しい山辺町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-yamanobe-uub
+  - text: 町公式の副読本は、大正10年（1921年）にできた羽前山辺駅の読みが「やまべ」なのは、駅ができたころは町の名前が「やまべまち」だったからだと説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-yamanobe-town-fukudoku
+  - text: 『日本歴史地名大系』によれば、町は山形盆地の南西に位置し、町域の大半は白鷹丘陵が占め、東縁を北流する須川に向かって傾斜する地形である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-yamanobe-kotobank
+  - text: 町内の大寺地区にある坊主窪古墳群の一号墳は六世紀のものと推定され、日本海側では北限の前方後円墳であると『日本歴史地名大系』は記す
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-yamanobe-kotobank
+  - text: 「山辺」の語源について、「山の辺（ほとり）」という地形に由来する名とする解釈を裏づける確かな資料は、本調査では確認できなかった
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - z11-yamanobe-kotobank
+  - text: 山辺町の地方公共団体コードは063011である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 駅名に残った、昔の読み
+    text: 町の名の読みは今「やまのべまち」。だが最寄り駅は「羽前山辺（うぜんやまべ）」と読む。町の副読本によれば、駅が開業した大正時代、町は「やまべまち」と読まれていたためだという。自治体の正式な読みが変わっても、駅名は開業時の読みを残し続ける。地名の古い姿が駅名標に「化石」として残った例である。
+    sources:
+    - z11-yamanobe-town-fukudoku
+  relations:
+  - pref/06
+  - muni/06-中山町
+  - muni/06-山形市
+  unknowns:
+  - 「山辺」の語源と、地名としての初出は未確認
+  - 読みが「やまべ」から「やまのべ」に変わった時期と経緯は未確認
+  - 1889年の山辺村を構成した旧村の詳細は未確認
+  updated: '2026-11-13'
 - id: muni/06-川西町
   code: 063827
   names:
@@ -605,6 +1083,182 @@ records:
   unknowns:
   - 合併協議における町名の選定過程（他の候補名の有無）は未確認
   - 「川西」という地域の呼称が1955年の合併以前からあったかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/06-庄内町
+  code: 064289
+  names:
+    ja: 庄内町
+    reading: しょうないまち
+    aliases:
+    - 余目町
+    - 立川町
+  user_terms:
+  - 庄内町の名前の由来
+  - しょうない
+  - 庄内平野の町
+  - 余目と立川の合併で生まれた町
+  naming_type: 合併新設
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県北西部、東田川郡の町。2005年（平成17年）に余目町と立川町が合併して誕生した。町名は公募で選ばれ、広域の地域名「庄内」をそのまま名乗った。「庄内」は、中世にこの一帯を指した「大泉荘内」に由来するとされる地名で、庄内平野や庄内藩の名としても知られる。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 庄内町の成立（2005年の合併。庄内町公式「庄内町の歴史」）
+    note: 自治体名としての「庄内町」の初出。地域名「庄内」は中世の「大泉荘内」に遡るとされる
+  claims:
+  - text: 平成17年（2005年）7月1日に余目町と立川町が合併し、庄内町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-shonai-town-rekishi
+  - text: 新町名は公募で決められ、最終候補は「天の川町」「庄内町」「庄内中央町」の3案となり、平成16年（2004年）4月30日に合併協議会の委員17人で投票が実施され、「庄内町」が14票を獲得して決定した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z11-shonai-wikipedia
+  - text: 『デジタル大辞泉』は、「庄内」の名は中世に大泉氏の所領を「大泉荘内」といったことによると説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-shonai-kotobank
+  - text: 「庄内」は庄内平野を中心とし、酒田・鶴岡両市を含む山形県北西部の地域名であり、庄内町はそのほぼ中央に位置する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-shonai-kotobank
+  - text: 町北部の余目地区の地名は、『和名類聚抄』に載る古代の余戸（あまるべ）郷に由来すると『日本大百科全書』は説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z11-shonai-kotobank
+  - text: 国の天然記念物に指定されている月山の頂上は、庄内町にあると町公式は位置づける
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z11-shonai-town-gaiyou
+  - text: 庄内町の地方公共団体コードは064289である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 町より大きな名前を引き受けた町
+    text: 「庄内」は本来、酒田と鶴岡を含む平野全体を指す地域名で、一つの町には大きすぎる名前だった。公募の最終候補には、余目の「あま」と立川の「川」を織り込んだ「天の川町」という案も残ったが、選ばれたのは知名度のある地域名そのものだった。「庄内地方全域が合併したときに『庄内市』が誕生する、その先駆けに」という願いも込められたという。町は今、その大きな名前の真ん中にいる。
+    sources:
+    - z11-shonai-wikipedia
+    - z11-shonai-kotobank
+  relations:
+  - pref/06
+  - muni/06-鶴岡市
+  - muni/06-酒田市
+  - muni/06-三川町
+  unknowns:
+  - 「大泉荘内」という呼称の初出の文書と年代は未確認
+  - 公募の応募総数など、町名選定過程の一次資料（合併協議会だより等）による裏づけは未確認
+  updated: '2026-11-13'
+- id: muni/06-戸沢村
+  code: '063673'
+  names:
+    ja: 戸沢村
+    reading: とざわむら
+    aliases:
+    - 戸沢
+    - 旧戸沢村（第1次戸沢村）
+    - 古口村（1955年4月1日〜5月1日の名称）
+  user_terms:
+  - 戸沢
+  - とざわ
+  - 最上川舟下りの村
+  - 最上峡
+  - 芭蕉ライン
+  naming_type: その他（1889年の合併時の新村名。1955年に改称で復活した名で、命名理由は公式資料に明記されていない）
+  prefecture: 山形県
+  homonyms: []
+  summary: 最上郡西部、最上川が鮭川・角川を合わせて出羽山地を横断する最上峡の村で、最上川舟下り（芭蕉ライン）の拠点として知られる。近世は新庄藩戸沢氏の所領で、中心の古口は最上川舟運の要衝として藩の船番所が置かれた。村名「戸沢」は1889年（明治22年）の町村制で5村が合併した際に付けられた新名で、1955年（昭和30年）の合併でいったん古口村となったが、1か月後に戸沢村へ改称して今日に至る。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による戸沢村（第1次）の成立
+    note: 自治体名としての初出。合併した岩清水・名高・津谷・神田・松坂のいずれの旧村名とも異なる新名であり、地名「戸沢」そのものの初出は確認できていない
+  claims:
+  - text: 村域のほぼ中央を最上川が西流し、村の東端で鮭川を、中央部で角川を合わせて先行谷を形成しながら出羽山地を横断し、庄内平野へ抜ける
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-tozawa-kotobank-taikei
+  - text: 近世には戸沢氏新庄藩の所領であり、中心の古口は最上川舟運の要衝で、村の観光サイトは「戸澤藩船番所」が設けられていたと紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-tozawa-kanko-trivia
+    - z12-tozawa-kotobank-taikei
+  - text: 1889年（明治22年）4月1日の町村制施行により、岩清水村・名高村・津谷村・神田村・松坂村の5村が合併して戸沢村（第1次）が生まれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-tozawa-vill-jinko
+    - z12-tozawa-wiki-old
+  - text: 1889年の新村名「戸沢」の命名理由は村公式資料に明記されておらず、藩主であった戸沢氏にちなむとする紹介が一般に見られるが、確証は得られていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z12-tozawa-wiki-old
+  - text: 1955年（昭和30年）4月1日、古口村・（旧）戸沢村・角川村の3村が合併して古口村が発足し、同年5月1日に村名を戸沢村に変更して現在の戸沢村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-tozawa-vill-jinko
+    - z12-tozawa-vill-keikaku
+  - text: 『延喜式』兵部省の駅名として見える「佐藝（さぎ）駅」は、村内の津谷付近、最上川と鮭川の合流地点あたりにあった水駅と推定され、古代から内陸と庄内を結ぶ交通路が通っていたとされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z12-tozawa-wiki-old
+  - text: 芭蕉が大石田で「五月雨を集めて涼し最上川」と詠んだ句は、増水した最上川の奔流を体験したことで戸沢村の地で「涼し」が「早し」に推敲されたのではないか、と言い伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z12-tozawa-kanko-trivia
+  - text: 義経北国落ちの際、従者の常陸坊海尊がこの地で義経と別れて山に籠り仙人になったという仙人堂の伝説や、白糸の滝にまつわる義経一行の伝説が村内に伝わる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z12-tozawa-kanko-trivia
+  - text: 戸沢村の地方公共団体コードは063673である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「涼し」が「早し」に変わった川
+    text: 松尾芭蕉の「五月雨を集めて早し最上川」は、この村の川が詠まれた句とされる。村の観光サイトによれば、芭蕉は大石田では「五月雨を集めて涼し最上川」と詠んでいたが、梅雨で増水した最上峡の奔流を実際に下る体験をして、「涼し」を「早し」に推敲したのではないかと言われている。古口に新庄藩の船番所が置かれた舟運の要衝は、芭蕉の時代には命がけの難所でもあった。今日その川を下る観光舟は「芭蕉ライン」と名乗り、句の生まれた川として村の顔になっている。
+    sources:
+    - z12-tozawa-kanko-trivia
+  relations:
+  - pref/06
+  - muni/06-新庄市
+  - muni/06-鮭川村
+  unknowns:
+  - 1889年の新村名「戸沢」の命名理由（戸沢氏にちなむのか、旧小地名に由来するのか）は、村公式資料・専門辞典のいずれでも確認できなかった
+  - 地名「戸沢」の近世以前の用例（戸沢郷等の有無）は本バッチでは確認できなかった
+  - 『延喜式』の佐藝駅の比定地は諸説あり確定していない
   updated: '2026-11-13'
 - id: muni/06-新庄市
   code: '062057'
@@ -671,6 +1325,103 @@ records:
   unknowns:
   - 「新城」「新荘」の語の初出の年次と文書は確認できなかった。「新しい城」説と「新しい荘」説のどちらが正しいかも未確定
   - 戸沢入部以前の地名（沼田等）と「新城・新荘」の関係の細部は未確認
+  updated: '2026-11-13'
+- id: muni/06-最上町
+  code: '063622'
+  names:
+    ja: 最上町
+    reading: もがみまち
+    aliases:
+    - 最上
+    - 小国郷
+    - 東小国村・西小国村（1954年の合併前の村）
+  user_terms:
+  - 最上
+  - もがみ
+  - 小国
+  - 向町
+  - 堺田分水嶺
+  - 瀬見温泉
+  naming_type: 一部の地名（郡名「最上」の継承）
+  prefecture: 山形県
+  homonyms: []
+  summary: 奥羽山脈に囲まれた小国盆地の町で、町域は中世の小国郷にあたる。町名は郡名「最上」の継承で、「もがみ」は『和名類聚抄』に「毛賀美」と記される古い地名だが語源は確定していない。1954年（昭和29年）に東小国村・西小国村が合併して発足した。町名の由来である最上川の本流は町域を流れず、流れるのは支流の最上小国川である。
+  first_attestation:
+    era: 和銅5年
+    year_western: 712
+    document: 『続日本紀』
+    note: 最上郡が置賜郡とともに出羽国へ割かれた記事が最上郡の文献初見とされる（二次資料経由の確認による）。当初は陸奥国に属し「裳上」とも書かれたとされる
+  claims:
+  - text: 最上郡は当初陸奥国に属してのち出羽国に含まれ、仁和2年（886年）に出羽国最上郡から村山郡が分かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-mogami-kotobank-gun
+  - text: 『続日本紀』和銅5年（712年）に置賜郡・最上郡が出羽国に割譲されたとあるのが最上郡の文献初見とされ、8世紀初めには「裳上郡」とも書かれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-mogami-wiki-gun
+  - text: 太閤検地の頃、南北2郡の名称の入れ替えとともに再編が行われ、旧村山郡の北部が現在の最上郡になったとされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z12-mogami-wiki-gun
+  - text: 「もがみ」の語源は確定しておらず、国土交通省の最上川電子大事典は、『和名類聚抄』が最上の名を「毛賀美」と記すことを挙げ、「珍しい岩石の多いところ」の意とする解釈、アイヌ語の「モ・カムイ（静かなる神）」に由来する説、崖の上を意味する「モモカミ」に由来する説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z12-mogami-mlit-daijiten
+  - text: 現在の町域はかつて「小国郷」と呼ばれ、その名は町内を流れる最上小国川（小国川）に残る。最上川の本流は町域を流れていない
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-mogami-wiki
+  - text: 最上小国川の中流域には向町盆地が開け、町の中心の向町は近世に問屋場が置かれ、堺田越を経て仙台藩へ物資を中継する拠点であった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-mogami-kotobank-gun
+    - z12-mogami-wiki
+  - text: 1954年（昭和29年）9月1日、最上郡東小国村と西小国村が新設合併して最上町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-mogami-wiki
+    - z12-mogami-town-ayumi
+  - text: 1958年（昭和33年）1月8日、「もがみ」を図案化した最上町の町章が制定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-mogami-town-ayumi
+  - text: 最上町の地方公共団体コードは063622である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 最上川の流れない「最上」町
+    text: 最上町という名は郡名「最上」の継承だが、町の中を流れているのは最上川ではない。流れるのは支流の最上小国川で、町域は中世には小国郷と呼ばれた土地である。しかも現在の最上郡という枠組み自体、太閤検地の頃に南北の郡名が入れ替わってできたものとされ、古代の最上郡は村山地方を含む別の広がりを持っていた。さらに町の堺田地区には、駅前の用水路で太平洋側と日本海側へ水が二手に分かれる分水嶺まである。「最上」の名の層は、川・郡・郷の三つが重なってできている。
+    sources:
+    - z12-mogami-wiki
+    - z12-mogami-wiki-gun
+  relations:
+  - pref/06
+  - muni/06-新庄市
+  - muni/06-舟形町
+  unknowns:
+  - 「もがみ」の語源は諸説あり（毛賀美＝珍しい岩石の多い所説、アイヌ語説、モモカミ説）、いずれも決定的な裏付けは確認できなかった
+  - 1954年の合併時に町名を「最上」と定めた経緯（公募・協議の有無）は、町公式資料では確認できなかった
+  - 『続日本紀』和銅5年の記事の原文は未確認で、二次資料経由の紹介にとどまる
   updated: '2026-11-13'
 - id: muni/06-朝日町
   code: '063231'
@@ -891,6 +1642,277 @@ records:
   - 「東根」の語源について『角川日本地名大辞典』『日本歴史地名大系』等の専門辞典の説は未確認（市公式の藻が湖説以外の検討は今後の課題）
   - 藻が湖とされる湖の実在と範囲は未確認
   updated: '2026-11-13'
+- id: muni/06-河北町
+  code: '063215'
+  names:
+    ja: 河北町
+    reading: かほくちょう
+    aliases:
+    - 河北
+    - 谷地（中心集落の旧名）
+    - 河北地方
+  user_terms:
+  - 河北
+  - かほく
+  - 谷地
+  - 雛とべに花の里
+  - 冷たい肉そばの町
+  naming_type: 合併新設（1954年の合併新町名。合併前からの一帯の地域名「河北」を採ったとみられる）
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県のほぼ中央、最上川と寒河江川に囲まれた町で、中心は旧谷地町。近世は最上川舟運による紅花の集散地として栄えた。1954年（昭和29年）に谷地町・西里村・溝延村・北谷地村が合併して河北町が生まれた。町名「河北」の命名理由は公式資料に明記されていないが、町域は寒河江川の北・最上川の西にあり、平安時代には寒河江荘の北部「北寒河江荘」にあたった土地である。山形県で唯一、「町」を「ちょう」と読む。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 谷地町・西里村・溝延村・北谷地村の合併による河北町の新設
+    note: 自治体名としての初出。地域名としての「河北」の初出は確認できていない
+  claims:
+  - text: 町は最上川と寒河江川に囲まれ、最上川が東側を、寒河江川が南側を流れる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-kahoku-mlit
+  - text: 平安時代、町域は摂関家領であった寒河江荘の一部（北寒河江荘）であり、鎌倉時代に入ると大江氏の流れを汲む寒河江氏が地頭として領した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-kahoku-wiki
+  - text: 近世、谷地は最上川舟運の船着場であり、紅花・青苧の集積地として栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-kahoku-mlit
+    - z12-kahoku-wiki
+  - text: 明治の行政区改正により西里村・谷地村・北谷地村・溝延村が生まれ、谷地村は谷地町となって河北地方の中心となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-kahoku-town-youran
+    - z12-kahoku-town-gaiyo
+  - text: 1954年（昭和29年）10月1日、谷地町・西里村・溝延村・北谷地村を廃して河北町が新設された。その後、1955年に元泉地区、1963年に荒小屋地区を編入した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-kahoku-wiki
+    - z12-kahoku-town-youran
+  - text: 町名「河北」の命名理由は町公式資料に明記されていない。町域が寒河江川の北・最上川の西に位置し、古くは寒河江荘の北部であったことから、「川の北」を意味する名と解されるが、確証はない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z12-kahoku-mlit
+    - z12-kahoku-wiki
+  - text: 河北町は、山形県の中で唯一「町」を「まち」ではなく「ちょう」と読む町である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-kahoku-wiki
+  - text: 河北町の地方公共団体コードは063215である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 県内唯一の「ちょう」
+    text: 山形県の町はすべて「まち」と読む中で、河北町だけが「かほくちょう」と「ちょう」で読む。1954年に谷地町など1町3村が合併して生まれたこの町は、古くから最上川舟運の紅花の集散地として栄え、上方から運ばれた雛人形が旧家に残る「雛とべに花の里」でもある。新しい町名「河北」が、寒河江川と最上川にはさまれたこの土地の位置をそのまま写した名なのか、合併前の地域名の継承なのかは記録が残っていない。だが、川の北という意味だけは、地図の上ではっきりと読み取れる。
+    sources:
+    - z12-kahoku-wiki
+    - z12-kahoku-mlit
+  relations:
+  - pref/06
+  - muni/06-寒河江市
+  - muni/06-西川町
+  unknowns:
+  - 町名「河北」の命名理由（どの川の「北」か）は、町公式資料・Wikipediaのいずれにも明記がなく確認できなかった
+  - 地域名としての「河北」がいつからこの一帯を指したかは確認できていない
+  - 1954年の新町名の決定経緯（公募・協議の有無）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/06-白鷹町
+  code: '064025'
+  names:
+    ja: 白鷹町
+    reading: しらたかまち
+    aliases:
+    - 白鷹
+    - 旧白鷹村（1889〜1954年）
+  user_terms:
+  - 白鷹
+  - しらたか
+  - 白鷹山の町
+  - 虚空蔵さんの里
+  naming_type: 合併新設（1954年の合併の際、新町名が投票で決められ、地域の信仰の山・白鷹山の名が選ばれた）
+  prefecture: 山形県
+  homonyms: []
+  summary: 西置賜郡北部、最上川が町の中央を南から北へ貫流する町。1954年（昭和29年）10月1日に荒砥町・蚕桑村・鮎貝村・十王村・白鷹村・東根村の1町5村が合併して発足した。新町名は関係町村の投票で決められ、旧中心地の荒砥を抑えて、東北にそびえる白鷹山（標高994メートル）の名が選ばれた。白鷹山は山頂に福満大虚空蔵尊を祀る信仰の山で、翌1955年には朝日町の一部（針生）を編入して現在の町域となった。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 町村合併による白鷹町の発足
+    note: 町名としての初出。由来となった山名「白鷹山」の文献上の初出は特定できていない
+  claims:
+  - text: 1954年（昭和29年）10月1日、荒砥町・蚕桑村・鮎貝村・十王村・白鷹村・東根村の1町5村が合併して白鷹町が発足し、翌1955年に西村山郡朝日町の一部（針生）を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-shirataka-town-tokei
+  - text: 新町名は合併関係町村による投票で決められ、白鷹町20票・荒砥町16票・その他5票で「白鷹町」が選ばれた（白鷹町史の記述）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-shirataka-townshi
+  - text: 町史によれば新町名「白鷹」は東北方にそびえる白鷹山の名から取られ、合併処分申請書に添付された名称選定理由には、白鷹虚空蔵菩薩への信仰が厚く住民の意識から自然な名である旨が記されていた（申請書そのものは町史経由の確認）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-shirataka-townshi
+  - text: 白鷹山は標高994メートルで、山頂には日本五大虚空蔵の一つとされる福満大虚空蔵尊が祀られ、農業・養蚕の神として地域の信仰を集めてきた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-shirataka-rinya
+    - z12-shirataka-maff-pdf
+  - text: 合併以前から「白鷹村」が存在し、1889年（明治22年）に萩野村・滝野村・十王村・中山村が合併して発足したが、1892年に十王が分離して十王村となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-shirataka-wiki-old
+  - text: 白鷹山の名は、奈良時代の高僧・行基がこの地を訪れた際に白い鷹が飛来し、そこに虚空蔵菩薩が現れたため、行基が山頂に虚空蔵菩薩を祀って命名したという伝説が伝わる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z12-shirataka-maff-pdf
+  - text: 山名の由来には、冬に雪を抱いた山容が翼を広げた鷹に見えることから名づけられたとする説もある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z12-shirataka-maff-pdf
+  - text: 「白鷹」が「しらかた」と読まれた記録は本調査では確認できず、総務省の地方公共団体コード一覧でもカナ表記は「シラタカ」とされる
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 白鷹町の地方公共団体コードは064025である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 20対16で決まった町名
+    text: 1954年の合併で、新しい町の名は投票に委ねられた。中心地・荒砥町の名を推す声も強く、決着は再投票にもつれ込み、白鷹町20票・荒砥町16票という僅差で「白鷹」が勝ったと町史は伝える。選ばれたのはどの集落の名でもなく、地域を見下ろす信仰の山の名だった。山頂の福満大虚空蔵尊は置賜・村山の両地域から参詣を集め、米沢藩の名君・上杉鷹山の号「鷹山」の由来とも伝えられる。六つの町村のどれにも属さない山の名だからこそ、新しい町の旗印になり得たのだろう。
+    sources:
+    - z12-shirataka-townshi
+    - z12-shirataka-maff-pdf
+  relations:
+  - pref/06
+  unknowns:
+  - 「しらかた」という読みが歴史的に使われたかどうかは確認できなかった（現行の読みは「しらたか」で、総務省コード一覧のカナも「シラタカ」）
+  - 山名「白鷹」の文献上の初出は特定できていない
+  - 旧白鷹村（1889年発足）の村名が白鷹山に由来することの直接の典拠は確認できなかった
+  updated: '2026-11-13'
+- id: muni/06-真室川町
+  code: 063649
+  names:
+    ja: 真室川町
+    reading: まむろがわまち
+    aliases:
+    - 真室川
+    - 真室川村（1889〜1950年）
+  user_terms:
+  - 真室川
+  - まむろがわ
+  - 真室川音頭の町
+  - 梅の里
+  - 原木なめこ
+  naming_type: 一部の地名（川名「真室川」を1889年の合併新村名に採用）
+  prefecture: 山形県
+  homonyms: []
+  summary: 山形県最北部の山間の町で、真室川と鮭川が町の南部で合流する。町名は川の名「真室川」に由来するとされ、1889年（明治22年）に内町・木ノ下・新町・平岡・川ノ内の5村を併せた新村名として河川名から採られた。「まむろ」の語源は確定していない。民謡「真室川音頭」の発祥地として町名は全国に知られる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による真室川村の成立
+    note: 自治体名としての初出。川名「真室川」そのものの文献初出は確認できていない
+  claims:
+  - text: 町名は川の名「真室川」に由来し、1889年（明治22年）の合併に際して河川名に因んで新しく命名されたと地名資料は伝える。真室川は神室山地に発して西流し、鮭川に合流する川である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z12-mamuro-folklore
+  - text: 「まむろ」の語源は確定しておらず、真（ま）を「澗」と同義の船着き場、室（むろ）を集落の意とする説と、接頭語の「マ」と「モリ（高くなった所）」の転訛とする説が紹介されている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z12-mamuro-folklore
+  - text: 1889年（明治22年）の市町村制施行にあたり、内町・木ノ下・新町・平岡・川ノ内の各村を併せて真室川村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-mamuro-town-kaso
+  - text: 1950年（昭和25年）4月1日に真室川村が町制を施行し、1956年（昭和31年）9月30日に真室川町・安楽城村・及位村の1町2村が合併して現在の真室川町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-mamuro-town-kaso
+    - z12-mamuro-town-gaiyo
+  - text: 町内では真室川と鮭川が数多くの支流を合わせて流れ下り、町の中心部は両川と金山川の下流部の合流地点の台地にあり、平地や集落はこれら河川の流域に点在する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-mamuro-town-gikai
+    - z12-mamuro-town-gaiyo
+  - text: 永禄6年（1563年）、鮭延秀綱が内町の鮭川の高台に鮭延城を築城したとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-mamuro-wiki
+  - text: 民謡「真室川音頭」によって町の名は全国に広まった。町は1952年（昭和27年）に歌詞を公募して「正調真室川音頭」を定めている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-mamuro-town-ondo
+  - text: 真室川町の地方公共団体コードは063649である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 町の名より有名な歌の名
+    text: 「真室川という場所は知らないが、真室川音頭は知っている」という人が少なくない、と県の観光サイトはいう。町公式の説明では、元唄は出稼ぎの人々が歌った「カムチャッカ節」で、料亭で働いていた近岡ナカエが創作を加えて歌ったのが始まりとされる（北海道の「ナット節」を女川の漁師から習ったとする紹介もある）。真室鉱山や軍用飛行場建設に集まった労働者たちに歌い広められ、戦後に彼らが全国へ散ったことで一気に広まった。1952年に町が歌詞を公募して定めた「正調真室川音頭」は、いまも全国大会が開かれるほど愛唱されている。川の名として生まれた「まむろがわ」は、歌の名として全国に届いた。
+    sources:
+    - z12-mamuro-town-ondo
+  relations:
+  - pref/06
+  - muni/06-鮭川村
+  - muni/06-金山町
+  unknowns:
+  - 「まむろ」の語源は諸説あり（澗＋集落説、マ＋モリ転訛説）、専門辞典による確定は確認できなかった
+  - 川名「真室川」の文献上の初出は確認できていない
+  - 真室川音頭の元唄については、町公式の説明の中でも「カムチャッカ節」説と「ナット節」説が併存し、どちらが原型かは確定していない
+  updated: '2026-11-13'
 - id: muni/06-米沢市
   code: '062022'
   names:
@@ -958,6 +1980,273 @@ records:
   unknowns:
   - 地名「米沢」の具体的な初出史料(文書名・年次)は市公式資料に示されておらず未特定
   - 語源の「米のなる沢」説と「米井」説のいずれが有力かについての定説は確認できていない
+  updated: '2026-11-13'
+- id: muni/06-舟形町
+  code: '063631'
+  names:
+    ja: 舟形町
+    reading: ふながたまち
+    aliases:
+    - 舟形
+    - 鮒方（ふなかた。古い表記とされる）
+    - 舟形村（1889〜1954年）
+  user_terms:
+  - 舟形
+  - ふながた
+  - 縄文の女神の町
+  - 西ノ前遺跡
+  - 小国川の鮎
+  naming_type: その他（古くからの地名「舟形」の継承。古くは「鮒方」と書いたとされる）
+  prefecture: 山形県
+  homonyms: []
+  summary: 最上郡の南端、最上川と最上小国川・松橋川の流域に東西に細長い町。地名は古く「鮒方（ふなかた）」と書き、フナの形をした石が出たことに由来するといわれる。近世は羽州街道と北羽前街道の交わる宿駅として栄えた。1954年（昭和29年）に舟形村・堀内村が合併して町制を施行。国宝土偶「縄文の女神」の出土した西ノ前遺跡の町としても知られる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による舟形村の成立
+    note: 自治体名としての初出。地名「舟形（鮒方）」の文献初出は確認できていない
+  claims:
+  - text: 地名は古くは「鮒方（ふなかた）」と書き、フナの形をした石が出たことに由来するといわれる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - z12-funagata-kotobank
+  - text: 町域の中央部を最上川が西流し、右岸に最上小国川、左岸に松橋川などが注ぎ、最上川・最上小国川の河岸段丘上には縄文時代の遺跡が多く分布する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-funagata-kotobank
+  - text: 町内の長者原を、『続日本紀』天平宝字3年（759年）9月26日条や『延喜式』に見える避翼（さるはね）駅に比定する説があり、南方の猿羽根山（峠）をその遺称とする説もある
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - z12-funagata-kotobank
+  - text: 近世は羽州街道と北羽前街道の交点にある宿駅として栄えた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-funagata-kotobank
+  - text: 1889年（明治22年）に舟形村が生まれ、翌1890年（明治23年）11月に堀内地区が分村して堀内村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-funagata-town-50th
+  - text: 1954年（昭和29年）12月1日、舟形村と堀内村が合併し、町制を施行して現在の舟形町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-funagata-town-50th
+  - text: 1992年（平成4年）8月、西ノ前遺跡から高さ45センチの日本最大の土偶が出土して「縄文の女神」と呼ばれ、1998年に国の重要文化財、2012年（平成24年）に国宝に指定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-funagata-town-megami
+    - z12-funagata-museum
+  - text: 舟形町の地方公共団体コードは063631である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: フナの形の石と、川辺の女神
+    text: 「舟形」の古い書き方は「鮒方」で、フナの形をした石が出たことに由来するといわれる。川の魚の名を負ったこの地は、古くは駅の置かれた交通の要衝で、近世には二つの街道が交わる宿駅だった。そして1992年、小国川の清流を見下ろす西ノ前遺跡から、高さ45センチという日本最大の土偶が姿を現した。均整のとれた姿から「縄文の女神」と名付けられた土偶は、2012年に国宝となった。フナにちなむ地名の町が、川辺に暮らした縄文の人々の「女神」を抱えている。
+    sources:
+    - z12-funagata-kotobank
+    - z12-funagata-town-megami
+  relations:
+  - pref/06
+  - muni/06-最上町
+  - muni/06-新庄市
+  unknowns:
+  - 「鮒方」の文献上の初出と、「舟形」の表記に改まった時期・経緯は確認できなかった
+  - フナの形をした石に由来するとする伝承の典拠（いつの記録か）は確認できなかった
+  - 舟形の名が船形の山に由来するとする説は、本バッチで典拠を確認できなかった
+  updated: '2026-11-13'
+- id: muni/06-西川町
+  code: '063223'
+  names:
+    ja: 西川町
+    reading: にしかわまち
+    aliases:
+    - 西川
+    - 西川中学校組合（町名の由来となった名称）
+  user_terms:
+  - 西川
+  - にしかわ
+  - 月山の町
+  - 月山湖
+  - 大井沢
+  - 六十里越
+  naming_type: 合併新設（1954年の合併の際、西山村・川土居村が設置した「西川中学校組合」の名称に由来すると町公式資料が明記する）
+  prefecture: 山形県
+  homonyms: []
+  summary: 西村山郡西部、寒河江川の上流から中流の流域に位置し、北に月山、西に朝日連峰を望む豪雪の山間の町。1954年（昭和29年）10月1日に西山村・川土居村・本道寺村・大井沢村の4村が合併して発足した。町名「西川」は川の名ではなく、西山村と川土居村が共同で設置した「西川中学校組合」の名称に由来することを町公式資料が明記しており、学校組合の名が町名になった珍しい命名経路をもつ。町域には出羽三山への登拝路・六十里越が通り、1990年完成の寒河江ダムの湖は月山湖と呼ばれる。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 町村合併による西川町の発足
+    note: 町名としての初出。由来となった西川中学校組合の設置年は確認できていない（戦後の新学制に伴う町村組合立中学校とみられる）
+  claims:
+  - text: 1954年（昭和29年）10月1日、西山村・川土居村・本道寺村・大井沢村の4村が合併して西川町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-nishikawa-town-gaiyo
+  - text: 町公式資料は町名の由来について、西山村と川土居村の両村が設置した「西川中学校組合」の名称に由来すると明記する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-nishikawa-town-gaiyo
+  - text: 組合名「西川」は西山村の「西」と川土居村の「川」を取った合成名とみられるが、その命名経緯を直接記した資料は確認できていない
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - z12-nishikawa-town-gaiyo
+  - text: 町域は寒河江川の上流から中流域を占め、寒河江川が町の中央を貫流する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-nishikawa-kotobank
+  - text: 北に月山（出羽三山の主峰）、西に朝日連峰があり、町域は豪雪地帯である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-nishikawa-kotobank
+  - text: 寒河江川沿いの六十里越は出羽三山への登拝路で、本道寺・志津は宿場・宗教集落として栄え、大井沢・本道寺・岩根沢が登拝口となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-nishikawa-kotobank
+  - text: 1990年（平成2年）に寒河江ダムが完成し、そのダム湖は月山湖と名付けられた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-nishikawa-kotobank
+  - text: 西川町の地方公共団体コードは063223である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 中学校の名前が町の名前になった
+    text: 合併で生まれる新町名は、たいてい旧村名の合成か、川・山・郷といった土地の名から取られる。西川町は違う。町の公式資料は、町名の由来を「西山村と川土居村の両村が設置した『西川中学校組合』の名称に由来」とはっきり書く。戦後の新制中学校は町村の組合で運営される例が多く、合併より先に二つの村の子どもたちが通っていた学校の名前が、やがて四つの村の新しい町の名前になった。役所の名前より先に、暮らしの中の名前があったということだろう。
+    sources:
+    - z12-nishikawa-town-gaiyo
+  relations:
+  - pref/06
+  unknowns:
+  - 西川中学校組合の設置年と、組合名「西川」の命名経緯（両村名の合成であることの直接の典拠）は確認できていない
+  - 1954年の合併の際に他の町名案が検討されたかどうかは確認できていない
+  updated: '2026-11-13'
+- id: muni/06-遊佐町
+  code: '064611'
+  names:
+    ja: 遊佐町
+    reading: ゆざまち
+    aliases:
+    - 遊佐
+    - 遊佐駅（『延喜式』の駅名）
+    - 遊佐郷
+    - 遊佐荘
+  user_terms:
+  - 遊佐
+  - ゆざ
+  - 鳥海山の湧水の町
+  - 胴腹滝
+  - 丸池様
+  - 水の郷
+  naming_type: 一部の地名（平安時代の駅名・郷名「遊佐」の継承）
+  prefecture: 山形県
+  homonyms: []
+  summary: 飽海郡唯一の町で、県の最北部に位置し日本海に面する。北東に鳥海山（標高2,236メートル）をいただき、その伏流水による湧水に恵まれて国土交通省の「水の郷百選」に選ばれている。地名「遊佐」は延長5年（927年）成立の『延喜式』に駅名として見え、『和名類聚抄』にも遊佐郷が載る、千年以上にわたって文字も読みも変わっていない珍しい地名である。1889年（明治22年）に遊佐村が発足し、1941年（昭和16年）に町制を施行、1954年（昭和29年）8月1日に稲川村など5村と合併して現在の町となった。
+  first_attestation:
+    era: 延長5年
+    year_western: 927
+    document: 『延喜式』巻28・兵部省（出羽国駅馬に「遊佐 十疋」とある）
+    note: 駅名としての初出。承平7年（937年）頃の『和名類聚抄』にも「遊佐郷」が見える
+  claims:
+  - text: 『延喜式』兵部省にみえる遊佐駅は、飽海駅（現酒田市平田地区に比定）と蚶方駅（現にかほ市象潟に比定）の間にあり、現在の大楯に比定されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-yuza-kotobank
+  - text: 遊佐の地名が歴史に登場するのは延長5年（927年）の『延喜式』にある「遊佐 十疋」の記述で、『和名類聚抄』にも「遊佐郷」とあり、千年以上前から文字も音もそのまま伝えられている珍しい例とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-yuza-wiki
+  - text: 「ゆざ」の語源に定説はなく、『荘内地名辞典』は「揺（ゆさ）」すなわち鳥海山の火山活動によって揺れた土地とする説と、「いさ（砂）」で砂地とする説などを紹介する
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z12-yuza-shonai-jiten
+  - text: 中世には遊佐荘があり、豪族である遊佐氏の根拠地となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-yuza-kotobank-nipponica
+  - text: 1889年（明治22年）4月1日の町村制施行により、遊佐町村・白井新田村・野沢村・吉出村・小田原村（一部）が合併して遊佐村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-yuza-wiki
+  - text: 1941年（昭和16年）4月1日に遊佐村が町制を施行して遊佐町となり、1954年（昭和29年）8月1日に遊佐町・稲川村・西遊佐村・蕨岡村・高瀬村・吹浦村の1町5村が合併して新たな遊佐町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-yuza-town-keikaku
+    - z12-yuza-kotobank-nipponica
+  - text: 町内には鳥海山の伏流水による湧水や自噴井戸が多く、1996年（平成8年）に国土交通省の「水の郷百選」に認定された
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-yuza-wiki
+  - text: 鳥海山を神体とする大物忌神と月山神は国家鎮護の神々として朝廷の保護を受け、『三代実録』元慶4年（880年）には両神とも従二位に叙されたとある（日本歴史地名大系が紹介）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-yuza-kotobank
+  - text: 遊佐町の地方公共団体コードは064611である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 千年変わらない名前
+    text: 『延喜式』の駅名「遊佐」は、千年あまりを経ても、文字も読みもそのままで現在の町名になっている。『和名類聚抄』の遊佐郷、中世の遊佐荘を経て、明治の遊佐村、昭和の遊佐町へと受け継がれてきた。一方で、その意味のほうは霧の中である。『荘内地名辞典』は「揺（ゆさ）」つまり鳥海山の噴火に揺れた土地とする説や、砂地に由来する説を挙げるが、どれも決め手に欠ける。日本最古級の地名の一つでありながら、由来は未解決――その落差もまた、この町の個性である。
+    sources:
+    - z12-yuza-wiki
+    - z12-yuza-shonai-jiten
+  relations:
+  - pref/06
+  unknowns:
+  - 「ゆざ」の語源の定説はなく、揺（ゆさ）説・砂（いさ）説はいずれも裏付けを欠く
+  - 『延喜式』の遊佐駅の大楯への比定は日本歴史地名大系の比定によるもので、発掘による確定ではない
   updated: '2026-11-13'
 - id: muni/06-酒田市
   code: 062049
@@ -1192,6 +2481,273 @@ records:
   unknowns:
   - 『和名類聚抄』の「長井」郷の訓や位置比定など、原文レベルでの確認は未実施
   - 「長井」の語源について専門辞典（『角川日本地名大辞典』等）の検討は未確認で、市公式の「水の集まる所」説以外の説の存否は今後の課題
+  updated: '2026-11-13'
+- id: muni/06-飯豊町
+  code: '064033'
+  names:
+    ja: 飯豊町
+    reading: いいでまち
+    aliases:
+    - 飯豊
+    - 飯豊村（1954〜1958年）
+    - いいとよ（会津地方での山名の呼び方）
+  user_terms:
+  - 飯豊
+  - いいで
+  - 飯豊連峰の町
+  - 日本で最も美しい村
+  - 白川ダム
+  - 中津川
+  naming_type: 合併新設（1954年の3村合併で新設された名。町域南部の飯豊連峰・飯豊山の山名にちなむとみられるが、選定経緯の公式記録は未確認）
+  prefecture: 山形県
+  homonyms: []
+  summary: 西置賜郡南部、白川の流域を占める山間の町で、南に飯豊連峰の山々が連なる。1954年（昭和29年）10月1日に豊原村・添川村・豊川村が合併して飯豊村が発足し、1958年（昭和33年）9月1日に中津川村を編入して町制を施行した。町名の元になった山名「いいで」の由来は、『陸奥国風土記』逸文に伝わる皇女・飯豊青皇女の伝承をはじめ諸説があり、定説はない。「日本で最も美しい村」連合に加盟する。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 『陸奥国風土記』逸文（山名「飯豊」の由来を説く伝承）
+    note: 風土記本文は散逸し、後世の引用である逸文によってのみ伝わるため、記載の年代は厳密には特定できない。町名としての初出は1954年の飯豊村発足
+  claims:
+  - text: 1954年（昭和29年）10月1日、西置賜郡の豊原村・添川村・豊川村が合併して飯豊村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-iide-wiki
+  - text: 1958年（昭和33年）9月1日、飯豊村は南置賜郡中津川村を編入し、町制を施行して飯豊町となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-iide-kotobank
+    - z12-iide-wiki
+  - text: 合併前の3村のいずれの名でもない「飯豊」は新しく選ばれた名で、町域南部に連なる飯豊連峰（飯豊山）の山名にちなむものとみられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - z12-iide-kotobank
+  - text: 『陸奥国風土記』逸文には、豊受比売神の神域であったこの山に、履中天皇の皇女・飯豊青皇女が物部氏を遣わして御幣を奉納したため、山を飯豊と呼ぶようになったという伝承が伝わる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z12-iide-wiki-yama
+  - text: 同じく風土記逸文には、垂仁天皇の時代に飢饉が起きたため山を「宇惠々山」と呼ぶようになり、後に豊田と改められ、さらに変化して飯豊と呼ぶようになったという伝承も伝わる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z12-iide-wiki-yama
+  - text: 山名「飯豊」の由来は確定しておらず、会津地方で「いいとよさん」とも呼ばれることと結びつけて雪化粧した山容が飯を豊かに盛った様子に見えるためとする説のほか、「いひとよ」（古代語でフクロウの意）が語源とする説、山麓の温泉から「湯出（ゆいで）」が変化したとする説がある
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z12-iide-wiki-yama
+  - text: 町域は飯豊山地に源を発する白川の流域を占め、上流の中津川地区は純山村、下流部は長井盆地に属する水稲単作地帯で、町域の一部は磐梯朝日国立公園に属する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-iide-kotobank
+  - text: 飯豊町の地方公共団体コードは064033である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: フクロウか、湯出か、皇女か
+    text: 町名の元になった山の名前「いいで」は、読み方からして難読である。『陸奥国風土記』の逸文は、皇女・飯豊青皇女が豊受比売神に幣を奉じた故事と、飢饉の「宇惠々山」が豊田を経て飯豊に変わったという、二つの由来の伝承を伝える。後世の説も、雪山を飯盛りに見立てる説、古語「いひとよ（フクロウ）」説、温泉の「湯出（ゆいで）」の転訛説と分かれ、定説はない。会津側では今も「いいとよさん」と呼ぶという。伝承の層の厚さそのものが、この山の古さと信仰の深さを物語っている。
+    sources:
+    - z12-iide-wiki-yama
+  relations:
+  - pref/06
+  unknowns:
+  - 1954年の合併時に「飯豊」の名が選ばれた経緯を記した公式資料は確認できていない
+  - 山名「いいで」の語源の定説はない
+  updated: '2026-11-13'
+- id: muni/06-高畠町
+  code: 063819
+  names:
+    ja: 高畠町
+    reading: たかはたちょう
+    aliases:
+    - 高畠
+    - 高畑町（1895〜1905年の表記）
+    - 社郷町（1954〜1955年の名称）
+    - たかはたけ（中世の読み）
+  user_terms:
+  - 高畠
+  - たかはた
+  - まほろばの里
+  - 高畠石
+  - 浜田広介の里
+  - 瓜割石庭公園
+  naming_type: 一部の地名（中世以来の地名「高畠」の継承。1895年に高畑町として発足し1905年に高畠町へ改称、1954年に社郷町となったが1955年に高畠町へ復した）
+  prefecture: 山形県
+  homonyms: []
+  summary: 東置賜郡東部、米沢盆地の東端に位置し、屋代川・和田川の扇状地に開けた町。地名「高畠」は中世から書かれてきた古い名で、当時は「タカハタケ」とも読まれた。1895年（明治28年）に高畑町として町制を施行し、1905年（明治38年）に高畠町へ改称。1954年（昭和29年）に4村と合併して社郷町となったが、1955年（昭和30年）に糠野目村を編入する際、高畠町へ戻った。黄色みのある凝灰岩の石材「高畠石」は、産地であるこの地名に由来する名である。
+  first_attestation:
+    era: 天文16年
+    year_western: 1547
+    document: 伊達晴宗の書状（「味方は高畠から新宿までを制圧」とある。日本歴史地名大系が高畑村の項で紹介）
+    note: 中世の用例として確認できるもの。これより古い時代、この地は置賜郡屋代郷・屋代荘に含まれていたとみられる
+  claims:
+  - text: 高畠の地は屋代川の渓口部に位置し、古代には置賜郡屋代郷（『和名類聚抄』）に含まれていたとみられ、平安時代後期からは同郷が荘園化した屋代荘に属した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-takahata-kotobank-vill
+  - text: 中世から江戸中期までは「高畠」と記すことが多く、「タカハタケ」とも読まれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-takahata-kotobank-vill
+  - text: 1895年（明治28年）に高畑町として町制を施行し、1905年（明治38年）に高畠町へ改称した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-takahata-kotobank
+  - text: 1954年（昭和29年）10月、高畠町・二井宿村・屋代村・亀岡村・和田村の1町4村が合併して社郷町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-takahata-town-youran
+  - text: 1955年（昭和30年）4月、社郷町は糠野目村を合併し、町名を「高畠町」と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-takahata-town-youran
+  - text: 「たかはた」の語源を直接記した資料は確認できておらず、屋代川扇状地の開けた地形に対応する「高い畑」の地形地名とみる見方が自然だが、裏付ける典拠は得られていない
+    kind: fact
+    level: H
+    status: indeterminate
+    sources:
+    - z12-takahata-kotobank-vill
+  - text: 高畠石は高畠町一帯から採掘される凝灰岩の総称で、古墳時代の石室や民家の石塀などに広く使われてきた町の特産品であり、石材の名は産地の地名に由来する（地名が先で石材名が後）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-takahata-town-uriwari
+    - z12-takahata-maibun
+  - text: 高畠石の採石場跡である瓜割石庭公園の名は、石切り場の清水に瓜を冷やしたところ瓜が割れたという言い伝えに由来すると町は紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z12-takahata-town-uriwari
+  - text: 高畠町の地方公共団体コードは063819である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた「社郷町」と、石に残った地名
+    text: 1954年の合併で高畠町は一度消え、「社郷町」になった。ところが翌1955年、糠野目村を編入するのを機に、町名は高畠へ戻された。社郷の名は半年ほどで姿を消し、中世以来の「高畠」が残った。その地名は石の名にもなっている。町一帯で採れる凝灰岩「高畠石」は、古墳の石室から旧高畠駅舎（国の登録有形文化財）まで使われ続けてきた名産である。ただし順序は逆で、石が町に名を与えたのではなく、地名「高畠」が先にあって、産地名として石に付いたのである。
+    sources:
+    - z12-takahata-town-youran
+    - z12-takahata-town-uriwari
+    - z12-takahata-maibun
+  relations:
+  - pref/06
+  unknowns:
+  - 「たかはた（け）」の語源を直接記した資料は確認できていない
+  - 1905年（明治38年）に「畑」から「畠」へ改称した理由を記した資料は確認できていない（中世以来「高畠」の表記が多かったことへの復帰とみられる）
+  - 1954年の合併町名「社郷」の命名理由は確認できていない
+  updated: '2026-11-13'
+- id: muni/06-鮭川村
+  code: '063665'
+  names:
+    ja: 鮭川村
+    reading: さけがわむら
+    aliases:
+    - 鮭川
+  user_terms:
+  - 鮭川
+  - さけがわ
+  - 鮭の里
+  - きのこ王国
+  - トトロの木（小杉の大杉）
+  naming_type: 一部の地名（川名「鮭川」の継承）
+  prefecture: 山形県
+  homonyms: []
+  summary: 最上郡北西部、村の中央を川の名そのままの鮭川が貫流する農山村。村名の由来はこの鮭川によることを村公式資料が明言する。鮭川は最上川水系で流域面積が支流中最大の川で、川の名は鮭が多く遡上したことに由来すると考えられている。1889年（明治22年）に発足し、1954年（昭和29年）12月に豊里村・豊田村と合併して現在の村となった。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行による鮭川村の発足
+    note: 自治体名としての初出。川名「鮭川」の文献初出は確認できていない
+  claims:
+  - text: 村名の由来は、本村の中央部を貫流する鮭川による（村の総合発展計画の沿革の明記）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-sakegawa-vill-keikaku
+  - text: 鮭川は真室川町の西部を南東流し、鮭川村の北端で真室川を合わせて南に向かい、戸沢村津谷で最上川の右岸に注ぐ流路延長約48キロの一級河川で、流域面積は最上川の支流中最大である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-sakegawa-kotobank
+  - text: 川名「鮭川」は、鮭が多く遡上したことに由来すると考えられ、『デジタル大辞泉』も「名の由来はサケが遡上することから」とする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-sakegawa-kotobank
+  - text: 鮭川の流域段丘上には縄文遺跡が数多く分布し、出土する石錘・石槍などは鮭漁に使用されたものと思われる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z12-sakegawa-kotobank
+  - text: 1889年（明治22年）4月1日の町村制施行により、川口村・佐渡村・向居村・中渡村の区域をもって鮭川村が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z12-sakegawa-wiki
+  - text: 1954年（昭和29年）12月、鮭川村・豊里村・豊田村の3村の合併により、現在の鮭川村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z12-sakegawa-vill-keikaku
+  - text: 村の魚は「鮭」と定められ、今も秋になると多くの鮭が鮭川を遡上し、地元漁協は卵をふ化させて稚魚を放流する取り組みを行っている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z12-sakegawa-wiki
+  - text: 鮭川村の地方公共団体コードは063665である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 鮭の帰ってくる村
+    text: 村の名は川の名、川の名は魚の名である。鮭川の流域段丘には縄文遺跡が数多く分布し、出土する石錘や石槍は鮭漁に使われたものと思われるというから、人は大昔からこの川の鮭とともに暮らしてきたらしい。村内には「鮭石」という史跡があり、郷土料理には「鮭の新切り」がある。村の魚はもちろん「鮭」。秋に遡上する鮭を絶やさないよう、漁協はふ化と放流を続けている。地名・食・祭り・生業までが一匹の魚でつながっている村である。
+    sources:
+    - z12-sakegawa-kotobank
+    - z12-sakegawa-wiki
+  relations:
+  - pref/06
+  - muni/06-真室川町
+  - muni/06-戸沢村
+  unknowns:
+  - 川名「鮭川」の文献上の初出は確認できていない
+  - 1889年の村の成立時の構成村は、Wikipediaの記述に基づき村公式資料では裏付けが取れなかった
   updated: '2026-11-13'
 - id: muni/06-鶴岡市
   code: '062031'
@@ -1451,3 +3007,219 @@ sources:
   w1-nagai-city-rekishi:
     label: 長井市公式「長井市の歴史〜水と緑と花のながい〜」（市のあらまし掲載。「長井の『井』は水の集まる所」とし最上川・置賜白川・置賜野川の3河川がまちを囲む地形と結びつけて説明すること、文治5年（1189）に大江時広が地頭となって長井時広と名乗ったこと、元禄7年（1694）に西村久左衛門が最上川舟運を開いて米沢藩の物資集積地として栄えたことを記す）
     url: https://www.city.nagai.yamagata.jp/material/files/group/7/H30_3_rekisi.pdf
+  z11-mikawa-town-guidebook:
+    label: 三川町「三川町70周年記念ガイドブック」（庄内平野のちょうど真ん中で三つの川が流れるまちと町を紹介し、戦国時代に横山城があり助川党という地侍の集団がいたとの説も紹介する町公式の記念誌）
+    url: http://www.town.mikawa.yamagata.jp/kouhou/nakanaka.files/keiryo.pdf
+  z11-mikawa-tsuruoka-gappei:
+    label: 鶴岡市（庄内南部合併協議会資料）「三川町の紹介」（町名の由来を「合併3村を流れる赤川・藤島川・大山川の三川（さんせん）による」と明記し、昭和30年（1955年）1月1日に三川村設置（横山村・東郷村・押切村合併）、昭和43年（1968年）6月1日に町制施行と記す。庄内平野のほぼ中央に位置し水田が町の面積の7割を占めることも記す）
+    url: https://www.city.tsuruoka.lg.jp/static/gappei/shonainanbu/kaigi_s/5/mikawa.pdf
+  z11-nakayama-donnatoko:
+    label: 山形県村山総合支庁「ってどんなとこ？」（芋煮会発祥の地として、最上川の船頭が棒鱈と里芋を煮た「鍋掛松」の伝承が残ることを紹介する県の地域情報ページ）
+    url: https://donnatoko.jp/yamagata-ken/nakayama-guide
+  z11-nakayama-kotobank:
+    label: コトバンク『日本歴史地名大系』「中山町」（町名の由来は中世から近世初頭にかけて当地一帯の領主であった長崎城（中山城ともいう）城主中山氏にちなんだことを明記する）
+    url: https://kotobank.jp/word/%E4%B8%AD%E5%B1%B1%E7%94%BA-107905
+  z11-nakayama-town-genbadan:
+    label: 中山町公式「町指定文化財 玄蕃壇（げんばだん）」（玄蕃壇は「町名の由来であり、南北朝時代から江戸時代初頭にかけて当地を治めた中山家に関係する史跡」であること、中山氏は至徳元年（1384年）に長崎楯に入部し初代楯主は中山左衛門継信であることを記す）
+    url: https://www.town.nakayama.yamagata.jp/soshiki/kyoikuiinkai/shougaigakushuu/313.html
+  z11-nakayama-town-kouhou:
+    label: 中山町広報「広報なかやま」（昭和29年（1954年）10月1日に中山町が誕生し、令和6年（2024年）に70周年を迎えたことを記す町公式広報）
+    url: https://www.town.nakayama.yamagata.jp/material/files/group/4/kouhou20241115.pdf
+  z11-nakayama-town-rekishi:
+    label: 中山町公式「中山町の歴史」（昭和59年（1984年）10月1日に中山町誕生30年・中山氏入部600年の記念式典が行われたことなどを記す町公式の年表）
+    url: https://www.town.nakayama.yamagata.jp/soshiki/somu_kouho/shomukouhou/AboutNakayamaTown/155.html
+  z11-oe-town-gaiyo:
+    label: 大江町「大江町と最上川の流通・往来の景観 保存調査報告書 第1章 大江町の概要」（昭和34年（1959年）に左沢町と漆川村が合併して大江町が誕生したこと、町名は最上川の雄大な眺めに由来しており「百川衆沢尽く一大江に帰する」の意を取り町の発展の希望を託していること、左沢は最上川舟運の中継地で民謡「最上川舟唄」の発祥の地であること、漆川村は昭和29年（1954年）に本郷村と七軒村が合併してできた村であることを記す町公式の調査報告書）
+    url: https://www.town.oe.yamagata.jp/files/original/20210604113719986674e77c2.pdf
+  z11-oe-town-rekishi:
+    label: 大江町「大江町と最上川の流通・往来の景観 保存調査報告書 第2章 歴史的特性」（大江町を含む西村山郡一帯は寒河江荘として摂関家領であったこと、文治5年（1189年）に源頼朝により寒河江荘の地頭に大江広元が補任され、その子孫が知行したことを記す町公式の調査報告書）
+    url: https://www.town.oe.yamagata.jp/files/original/20210607094914197c0350026.pdf
+  z11-ohkura-vill-130th:
+    label: 大蔵村広報「広報おおくら（大蔵村が誕生して130年）」（明治22年（1889年）の町村制施行から合併・統合をすることなく、大蔵村は村制施行130周年を迎えたことを記す村公式広報）
+    url: https://www.vill.ohkura.yamagata.jp/material/files/group/2/ohkura724.pdf
+  z11-ohkura-vill-gaiyo:
+    label: 大蔵村公式「村の概要」（村名の由来として、1476年から1614年にこの地を治めていた清水家の7代城主・清水大蔵大輔義親公の名前から「大蔵村」とされたといわれていることを明記する。肘折温泉は大同2年の開湯以来1200年の歴史をもつこと、村の総面積の85パーセントが山林であることも記す）
+    url: https://www.vill.ohkura.yamagata.jp/gyoseijoho/okuramuranogaiyo/1021.html
+  z11-ohkura-vill-mayor:
+    label: 大蔵村公式「村長室」（1476年から138年間にわたって清水氏が城を構え最上郡の大半を領地に治めていたこと、大蔵村の村名も7代城主・清水大蔵大輔義親公に由来しており、その清水城跡は県指定史跡に指定されていることを記す）
+    url: https://www.vill.ohkura.yamagata.jp/soshikikarasagasu/somuka/gyomuannai/18/697.html
+  z11-oishida-kotobank:
+    label: コトバンク『精選版日本国語大辞典』「大石田」（初出の実例として「最上川のらんと、大石田と云所に日和（ひより）を待」という『おくのほそ道』の文を引く）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%9F%B3%E7%94%B0-2014590
+  z11-oishida-story-basho:
+    label: 大石田町公式「おおいしだものがたり 第三話 松尾芭蕉の来町と最上川」（元禄2年（1689年）に松尾芭蕉が門人曽良を伴って大石田を訪れ、地元の俳人・高野一栄の宅に3泊し句会を催したこと、歌仙「さみだれを」が残されたことを記す）
+    url: https://www.town.oishida.yamagata.jp/chousei/kouhou/oishidastory/oishidastory1-10/200005-01.html
+  z11-oishida-story-gappei:
+    label: 大石田町公式「おおいしだものがたり 第四十七話 合併決議から50年 大石田町のなりたち」（『大石田町史 下巻』によりながら、昭和30年（1955年）1月1日に大石田町・亀井田村・横山村の1町2村が合併し、新大石田町が誕生した経過を記す）
+    url: https://www.town.oishida.yamagata.jp/mobile/chousei/oishidastory/oishidastory41-50/200402-01.html
+  z11-oishida-story-machitate:
+    label: 大石田町公式「おおいしだものがたり 第七話 都市計画されたまち大石田」（関ヶ原の戦いの後、最上義光が大石田に注目し、村山地方の年貢米等の物資を酒田に運ぶ河岸として大石田を「町立て」して整備し、最上川の中心的な河岸として位置づけたことを記す）
+    url: https://www.town.oishida.yamagata.jp/chousei/kouhou/oishidastory/oishidastory1-10/200009-01.html
+  z11-oishida-story-yottsu:
+    label: 大石田町公式「おおいしだものがたり 第四十話 四つに分割された大石田と地番」（大石田は一つの村だったが、寛永13年（1636年）に四日町が、正保元年（1644年）に本町が、寛文8年（1668年）に大石田村（新町）が分割され、元の村と合わせて4つの行政村に分けられたこと、大石田河岸としての重要性を領主側が重視した結果と考えられることを『大石田町史』を引きつつ記す）
+    url: https://www.town.oishida.yamagata.jp/chousei/kouhou/oishidastory/oishidastory31-40/200307-01.html
+  z11-oishida-town-about:
+    label: 大石田町公式「大石田町について」（最上川三難所の下流にある大石田は陸路と水路の接点の地の利から、町の中心部はかつて「大石田河岸」と呼ばれ、最上川舟運最大の舟着場として栄えたことを記す）
+    url: http://www.town.oishida.yamagata.jp/chousei/oishida/index.html
+  z11-shonai-kotobank:
+    label: コトバンク「庄内」（デジタル大辞泉は、庄内は山形県北西部の地域名で庄内平野を中心とし酒田・鶴岡両市があること、名は中世に大泉氏の所領を大泉荘内といったことによると記す。日本大百科全書は、庄内町北部の余目地区の地名は『和名抄』に載る古代余戸（あまるべ）郷に由来すると記す）
+    url: https://kotobank.jp/word/%E5%BA%84%E5%86%85-1155951
+  z11-shonai-town-gaiyou:
+    label: 庄内町公式「庄内町の概要」（国の天然記念物に指定されている「月山」の頂上は庄内町であることを記す町公式の概要ページ）
+    url: https://www.town.shonai.lg.jp/gyousei/gikai/gikai/town_gaiyou.html
+  z11-shonai-town-rekishi:
+    label: 庄内町公式「庄内町の歴史」（明治22年（1889年）の町村制施行以降の両町の沿革と、平成17年（2005年）7月1日に余目町と立川町が合併し庄内町が誕生したことを記す）
+    url: http://www.town.shonai.lg.jp/gyousei/gaiyou/rekishi.html
+  z11-shonai-wikipedia:
+    label: Wikipedia「庄内町」（新町名は公募で決められ、最終候補は「天の川町」「庄内町」「庄内中央町」の3案で、2004年4月30日に合併協議会の委員17人で投票が実施され「庄内町」の名称が14票を獲得して町名が決定されたことを、合併協議会資料等を引いて記す）
+    url: https://ja.wikipedia.org/wiki/%E5%BA%84%E5%86%85%E7%94%BA
+  z11-yamanobe-kotobank:
+    label: コトバンク『日本歴史地名大系』「山辺町」（郡の南部、山形盆地南西部に位置し町域の大半は白鷹丘陵が占めること、大寺地区の坊主窪古墳群の一号墳は六世紀のものと推定され日本海側では北限の前方後円墳であることを記す）
+    url: https://kotobank.jp/word/%E5%B1%B1%E8%BE%BA%E7%94%BA-144287
+  z11-yamanobe-town-fukudoku:
+    label: 山辺町公式副読本「わたしたちの山辺町」（1921年（大正10年）に羽前山辺駅ができたこと、「やまべ」と読むのは駅ができたころは町の名前が「やまべまち」だったからであることを記す町公式の郷土学習資料）
+    url: https://www.town.yamanobe.yamagata.jp/fukudoku/pageindices/index78.html
+  z11-yamanobe-uub:
+    label: 市区町村変遷情報「山辺町（山形県東村山郡）1896〜1954年」（1896年7月27日に山辺村が町制を施行して山辺町になったこと、1954年10月1日に大寺村・中村・作谷沢村・相模村と合併して山辺町になったことを記す）
+    url: https://uub.jp/upd/c/10758.html
+  z12-funagata-kotobank:
+    label: コトバンク「舟形町」項（『日本歴史地名大系』の地理・避翼駅比定説と、ブリタニカ小項目事典の「鮒方」由来・街道の宿駅）
+    url: https://kotobank.jp/word/%E8%88%9F%E5%BD%A2%E7%94%BA-125500
+  z12-funagata-museum:
+    label: 山形県立博物館「国宝『縄文の女神』」（西ノ前遺跡出土土偶、平成24年9月6日国宝指定）
+    url: https://www.yamagata-museum.jp/treasures/jomon-no-megami
+  z12-funagata-town-50th:
+    label: 舟形町「町制施行50周年記念誌」（1889年に舟形村が成立し1890年に堀内が分村、1954年12月1日に合併し舟形町が誕生）
+    url: https://www.town.funagata.yamagata.jp/s001/sugata/010/210/WakaayuStory_FULL.pdf
+  z12-funagata-town-megami:
+    label: 舟形町公式「国宝 縄文の女神」（1992年に西ノ前遺跡から出土、2012年に国宝指定）
+    url: https://www.town.funagata.yamagata.jp/s029/kanko/070/010/210/20200113003000.html
+  z12-iide-kotobank:
+    label: コトバンク「飯豊」項（日本大百科全書：1958年に飯豊村が中津川村を編入して町制施行、飯豊山地に源を発する白川の流域）
+    url: http://kotobank.jp/word/%E9%A3%AF%E8%B1%8A-3133434
+  z12-iide-wiki:
+    label: Wikipedia「飯豊町」（1954年10月1日に添川村・豊川村・豊原村が合併して飯豊村発足、1958年9月1日に中津川村を編入し町制施行）
+    url: https://ja.wikipedia.org/wiki/%E9%A3%AF%E8%B1%8A%E7%94%BA
+  z12-iide-wiki-yama:
+    label: Wikipedia「飯豊山」（山名の由来は諸説あり確定していない。陸奥国風土記逸文の2伝承、会津では「いいとよさん」、いひとよ＝フクロウ説、湯出の転訛説）
+    url: https://ja.wikipedia.org/wiki/%E9%A3%AF%E8%B1%8A%E5%B1%B1
+  z12-kahoku-mlit:
+    label: 国土交通省「全国かわまちづくりMAP 河北町」（東に最上川、南に寒河江川。最上川舟運の船着場で紅花の集積地として栄えた）
+    url: https://www.mlit.go.jp/river/kankyo/main/kankyou/machizukuri/map/tohoku/kahoku_cho.html
+  z12-kahoku-town-gaiyo:
+    label: 河北町公式「町の概要」（町の歴史：寒河江に入部した大江広元が領有し、谷地町が河北地方の中心となった）
+    url: https://www.town.kahoku.yamagata.jp/gyouseizyouhou/matinogaiyou/purofi-ru/2598.html
+  z12-kahoku-town-youran:
+    label: 河北町公式「河北町勢要覧 資料編 2025」（町のなりたち：谷地町は河北地方の中心となり、昭和29年に1町3村の合併により河北町が生まれた）
+    url: https://www.town.kahoku.yamagata.jp/material/files/group/1/r7chouseiyouran.pdf
+  z12-kahoku-wiki:
+    label: Wikipedia「河北町」（北寒河江荘、1954年10月1日に河北町新設、県内で唯一「町」を「ちょう」と読む）
+    url: http://ja.wikipedia.org/wiki/%E6%B2%B3%E5%8C%97%E7%94%BA
+  z12-mamuro-folklore:
+    label: 地名の由来集「真室川」（語源諸説：真＝澗・船着き場と室＝集落説、マ＋モリ説、1889年の合併新命名で河川名に因むとする説）
+    url: https://www.folklore2017.com/timei200/0013.htm
+  z12-mamuro-town-gaiyo:
+    label: 真室川町公式「町の概要」（1956年に1町2村が合併して誕生、真室川と鮭川の流域に集落が点在）
+    url: https://www.town.mamurogawa.yamagata.jp/chosei/shokai/1826.html
+  z12-mamuro-town-gikai:
+    label: 真室川町議会「議会概要」（地勢：真室川と鮭川が流れ下り町南部で合流する）
+    url: https://www.town.mamurogawa.yamagata.jp/material/files/group/7/gaiyouR7.pdf
+  z12-mamuro-town-kaso:
+    label: 真室川町公式「真室川町過疎地域持続的発展計画」（沿革：1889年に5村を併せ真室川村、1950年町制、1956年合併）
+    url: https://www.town.mamurogawa.yamagata.jp/material/files/group/9/kasokeikau.pdf
+  z12-mamuro-town-ondo:
+    label: 真室川町公式「真室川音頭」（元唄をカムチャッカ節とし、近岡ナカエの創作と1952年の歌詞公募による正調真室川音頭の成立を紹介）
+    url: https://www.town.mamurogawa.yamagata.jp/soshiki/somu/2/2/1/875.html
+  z12-mamuro-wiki:
+    label: Wikipedia「真室川町」（1563年に鮭延秀綱が鮭延城を築城、1889年の村の成立と1950年町制・1956年合併）
+    url: https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E7%94%BA
+  z12-mogami-kotobank-gun:
+    label: 『日本歴史地名大系』「最上郡」項（コトバンク掲載。律令制下の郡域と仁和2年の村山郡分離）
+    url: https://kotobank.jp/word/%E6%9C%80%E4%B8%8A%E9%83%A1-3027486
+  z12-mogami-mlit-daijiten:
+    label: 国土交通省山形河川国道事務所「最上川電子大事典」語源（和名類聚抄の「毛賀美」と語源諸説）
+    url: https://www.thr.mlit.go.jp/yamagata/river/enc/genre/01-kiso/kiso0101_003.html
+  z12-mogami-town-ayumi:
+    label: 最上町公式「最上町のあゆみ（昭和）」（1958年の町章制定、1974年の町制施行20周年など）
+    url: https://town.mogami.lg.jp/info/03ayumi/02syouwa.php
+  z12-mogami-wiki:
+    label: Wikipedia「最上町」（1954年に東小国村・西小国村が合併して発足。町域は旧小国郷で最上川は流れていない）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%80%E4%B8%8A%E7%94%BA
+  z12-mogami-wiki-gun:
+    label: Wikipedia「最上郡」（『続日本紀』和銅5年の記載が文献初見とされること、太閤検地頃の郡名の南北入れ替え）
+    url: https://ja.wikipedia.org/wiki/%E6%9C%80%E4%B8%8A%E9%83%A1
+  z12-nishikawa-kotobank:
+    label: コトバンク「西川町」項（日本大百科全書・日本歴史地名大系：寒河江川が中央を貫流、六十里越は出羽三山の登拝路、1990年に寒河江ダム完成）
+    url: http://kotobank.jp/word/%E8%A5%BF%E5%B7%9D%E7%94%BA-109395
+  z12-nishikawa-town-gaiyo:
+    label: 西川町公式「西川町の概要」（町制施行日は昭和29年10月1日。町名の由来：西山村と川土居村の両村が設置した西川中学校組合の名称に由来）
+    url: http://www.town.nishikawa.yamagata.jp/soshiki/somu/overview.html
+  z12-sakegawa-kotobank:
+    label: コトバンク「鮭川」項（デジタル大辞泉：名の由来はサケが遡上することから。日本歴史地名大系：川名は鮭が多く遡上したことに由来すると考えられる）
+    url: https://kotobank.jp/word/%E9%AE%AD%E5%B7%9D-68856
+  z12-sakegawa-vill-keikaku:
+    label: 鮭川村公式「第3次鮭川村総合発展計画」（沿革：昭和29年12月に3村合併。村名の由来は村の中央部を貫流する鮭川による）
+    url: https://www.vill.sakegawa.yamagata.jp/files/original/20210401083322416f63c07fc.pdf
+  z12-sakegawa-wiki:
+    label: Wikipedia「鮭川村」（語源は村内を流れる鮭川。1889年に川口村・佐渡村・向居村・中渡村の区域をもって発足）
+    url: https://ja.wikipedia.org/wiki/%E9%AE%AD%E5%B7%9D%E6%9D%91
+  z12-shirataka-maff-pdf:
+    label: 農林水産省東北森林管理局「白鷹山夏山開きが開催されました」（山名の由来は行基と白い鷹の伝説のほか雪の山容が翼を広げた鷹に見えるためとの説、「鷹山」の号は白鷹山に由来）
+    url: https://www.rinya.maff.go.jp/tohoku/syo/yamagata/topikkusu/img/attach/pdf/161220-51.pdf
+  z12-shirataka-rinya:
+    label: 林野庁「白鷹虚空蔵山風景林（白鷹山）」（標高994m、山頂に福満大虚空蔵尊、上杉鷹山公ゆかりの山）
+    url: https://www.rinya.maff.go.jp/j/kokuyu_rinya/kokumin_mori/katuyo/reku/rekumori/shirataka.html
+  z12-shirataka-town-tokei:
+    label: 白鷹町公式「統計情報」（沿革：昭和29年10月1日に1町5村が合併、翌年に針生を編入。白鷹山は標高994m）
+    url: https://www.town.shirataka.lg.jp/1360.htm
+  z12-shirataka-townshi:
+    label: 白鷹町公式「白鷹町史 第7章第5節 白鷹町の誕生」（新町名は投票で白鷹町20票・荒砥町16票。名は白鷹山から、選定理由書に虚空蔵信仰への言及）
+    url: https://www.town.shirataka.lg.jp/secure/4622/chapter7-5.pdf
+  z12-shirataka-wiki-old:
+    label: Wikipedia「白鷹村 (山形県)」（1889年に萩野村・十王村・滝野村・中山村が合併して発足、1892年に十王が分離）
+    url: https://ja.wikipedia.org/wiki/%E7%99%BD%E9%B7%B9%E6%9D%91_(%E5%B1%B1%E5%BD%A2%E7%9C%8C)
+  z12-takahata-kotobank:
+    label: コトバンク「高畠」項（日本大百科全書：1895年高畑町として町制施行、1905年高畠町に改称、1954年に社郷町となり1955年に再び高畠町）
+    url: https://kotobank.jp/word/%E9%AB%98%E7%95%A0-559390
+  z12-takahata-kotobank-vill:
+    label: コトバンク「高畑村」項（日本歴史地名大系：中世から江戸中期までは高畠と記すことが多くタカハタケとも読んだ、古代は置賜郡屋代郷に含まれ平安後期から屋代荘）
+    url: https://kotobank.jp/word/%E9%AB%98%E7%95%91%E6%9D%91-3021914
+  z12-takahata-maibun:
+    label: 山形県埋蔵文化財センター「高畠石の石切り技術」（高畠石とは高畠町一帯から採掘された凝灰岩の総称、石切り場名を冠した瓜割石・羽山石等の呼称）
+    url: https://yamagatamaibun.or.jp/h26/takayanagi_h26.pdf
+  z12-takahata-town-uriwari:
+    label: 高畠町公式「瓜割石庭公園」（高畠石は黄色みのある凝灰岩で古墳時代の石室や民家の石塀に使われる特産品。瓜割の名は清水に瓜を冷やすと割れたという言い伝え）
+    url: https://www.town.takahata.yamagata.jp/soshiki/9/1022.html
+  z12-takahata-town-youran:
+    label: 高畠町公式「町勢要覧2025」（町のあゆみ：昭和29年10月に社郷町発足、昭和30年4月に糠野目村が合併し町名変更「高畠町」と改称）
+    url: https://www.town.takahata.yamagata.jp/uploaded/attachment/2929.pdf
+  z12-tozawa-kanko-trivia:
+    label: 戸沢村観光サイト「戸沢村のトリビア」（舟運の歴史・戸澤藩船番所・芭蕉の句の推敲・義経伝説）
+    url: https://www.kankoh.vill.tozawa.yamagata.jp/trivia
+  z12-tozawa-kotobank-taikei:
+    label: 『日本歴史地名大系』「戸沢村」項（コトバンク掲載。村域の地理と最上川・鮭川・角川の合流）
+    url: https://kotobank.jp/word/%E6%88%B8%E6%B2%A2%E6%9D%91-105081
+  z12-tozawa-vill-jinko:
+    label: 戸沢村公式「戸沢村人口ビジョン及びまち・ひと・しごと創生総合戦略」（沿革：1889年の5村合併と戸沢村成立、1955年の合併と改称）
+    url: https://www.vill.tozawa.yamagata.jp/files/libs/4070/202511140636541545.pdf
+  z12-tozawa-vill-keikaku:
+    label: 戸沢村公式「第5次戸沢村総合計画」（沿革・地勢：昭和30年4月に3村が合併し現在の戸沢村が誕生）
+    url: https://www.vill.tozawa.yamagata.jp/files/libs/4073/202511140642591763.pdf
+  z12-tozawa-wiki-old:
+    label: Wikipedia「戸沢村 (山形県最上郡1955年)」（1889年に岩清水村・名高村・津谷村・神田村・松坂村の区域をもって成立）
+    url: https://ja.wikipedia.org/wiki/%E6%88%B8%E6%B2%A2%E6%9D%91_(%E5%B1%B1%E5%BD%A2%E7%9C%8C%E6%9C%80%E4%B8%8A%E9%83%A11955%E5%B9%B4)
+  z12-yuza-kotobank:
+    label: コトバンク「遊佐町」項（日本歴史地名大系：『延喜式』兵部省の遊佐駅は現大楯に比定、『三代実録』元慶4年に大物忌神と月山神が従二位）
+    url: http://kotobank.jp/word/%E9%81%8A%E4%BD%90%E7%94%BA-145065
+  z12-yuza-kotobank-nipponica:
+    label: コトバンク「遊佐」項（日本大百科全書：1941年町制施行、1954年に5村と合併、中心の遊佐は平安時代の駅に名が見える）
+    url: http://kotobank.jp/word/%E9%81%8A%E4%BD%90-403594
+  z12-yuza-shonai-jiten:
+    label: 大沼浩『荘内地名辞典』【ゆ】の部（遊佐：「揺（ゆさ）。地震に揺れた土地」。いさ（砂）で砂地とか、揺で砂が揺り上げられた土地といった説がある）
+    url: http://koichikato.world.coocan.jp/oonumatimeijiten/syonaitimeijiten2007yu.html
+  z12-yuza-town-keikaku:
+    label: 遊佐町公式「遊佐町総合発展計画」（昭和29年に遊佐町・稲川村・西遊佐村・蕨岡村・高瀬村・吹浦村の1町5村が合併して新たな遊佐町が誕生）
+    url: https://www.town.yuza.yamagata.jp/uploads/contents/archive_0000000727_00/H2808247dcf5408767a5c558a08753b.pdf
+  z12-yuza-wiki:
+    label: Wikipedia「遊佐町」（地名の初出は延長5年の『延喜式』「遊佐 十疋」、『和名類聚抄』にも遊佐郷。1889年に遊佐村発足、町内は湧水が多く水の郷百選）
+    url: https://ja.wikipedia.org/wiki/%E9%81%8A%E4%BD%90%E7%94%BA

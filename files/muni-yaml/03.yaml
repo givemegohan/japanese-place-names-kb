@@ -1,5 +1,83 @@
 prefecture_code: '03'
 records:
+- id: muni/03-一戸町
+  code: '035246'
+  names:
+    ja: 一戸町
+    reading: いちのへまち
+    aliases:
+    - 一戸村
+  user_terms:
+  - いちのへ
+  - 戸の地名の一番目
+  - 一戸から九戸の由来
+  - 馬の産地だった町
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 一戸は、岩手県北から青森県南に一から九まで並ぶ「戸」の地名の1番目である。古代末期から中世にかけて「糠部郡」と呼ばれた地域の区分名で、その正体については、名馬の牧場を九つに分けた「九牧」に由来する説、律令制の統治機構に由来する説などが対立し、確定していない。一戸町自身は「平安末期から名馬の産地として知られ、牧場を一から九の戸に分けられたことから」と説明する。1889年に町として発足し、1957年に4村と合併して現在の町となった。
+  first_attestation:
+    era: 中世（鎌倉時代）
+    year_western: null
+    document: 糠部地方における「戸」の区分（九ヶ部四門の制）
+    note: 郷土史研究は、鎌倉時代初期には一戸から九戸までの区分が存在したとする。「一戸」の個別名が文書に現れる初出の年は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、一戸町の団体コードは035246と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 八戸市公式によれば、岩手県北から青森県南東部にかけての一から九の数字に「戸」の付く地名は、古代末期から中世にかけて「糠部郡」と呼ばれた地域に残るものであり、一戸はその1番目の「戸」を意味する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hachinohe-city-gaiyo
+  - text: 一戸町公式は、一戸の由来は諸説あるとした上で、平安末期から名馬の産地として名が知られ、その牧場を一から九の戸に分けられたことからといわれている、と説明している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-ichinohe-town-about
+  - text: 「戸」の起源については、岩手県立図書館のレファレンス事例が、南部氏の九牧説のほか、貢馬の幣説、防衛施設説、糠部開拓のエリア区分説、九カ部四門の制説などを挙げており、定説は決まっていない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - t4-iwate-lib-ref-he
+  - text: 南部氏の祖・南部光行が糠部郡を九つの牧場（戸）に分け、四門を設ける「九ヶ戸四門」の制度を敷いたため、その行政区分の名残が地名に残った、という伝承が二戸市公式によって紹介されている
+    kind: legend
+    level: E2
+    status: contested
+    sources:
+    - t4-ninohe-city-intro
+  - text: 明治22年（1889年）4月1日、一戸村と高善寺村が合併して一戸町が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z6-ichinohe-wiki
+  - text: 昭和32年（1957年）11月1日、一戸町・浪打村・鳥海村・小鳥谷村・姉帯村の1町4村が合併して、現在の一戸町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-ichinohe-town-about
+  column:
+    title: 一戸町は、二戸郡にある
+    text: 一から九まで並ぶ「戸」の地名の起点が一戸町である。ところが一戸町が所属するのは一戸郡ではなく「二戸郡」だ。郡の名前は近世以降の分割や再編で付け替わってきたため、番号の若い町が、番号の違う郡に入るというねじれが生じた。似たねじれは青森側にもあり、三戸町や五戸町は三戸郡、八戸市は郡に属さない。「戸」の番号は1000年近く前の区分の化石で、現在の行政の枠組みとは独立に、地名だけが昔の番号札を守り続けている。
+    sources:
+    - z6-ichinohe-wiki
+    - t4-iwate-lib-ref-he
+  relations:
+  - pref/03
+  - muni/03-二戸市
+  - muni/02-八戸市
+  unknowns:
+  - 「戸」の起源（牧場の区分か、統治機構か、その他か）は確定していない
+  - 「一戸」の名が文書に初めて現れる年と文献は未確認
+  updated: '2026-11-13'
 - id: muni/03-一関市
   code: 032093
   names:
@@ -154,6 +232,90 @@ records:
   - 郡名「久慈」の初出について、1334年の書状の記事は二次資料（Wikipedia）経由の確認にとどまり、原典を確認できなかった
   - 久慈氏がこの地を領した中世の経緯と地名との関係は、市公式の沿革ページでは確認できなかった
   updated: '2026-11-13'
+- id: muni/03-九戸村
+  code: 035068
+  names:
+    ja: 九戸村
+    reading: くのへむら
+    aliases: []
+  user_terms:
+  - くのへ
+  - 戸の地名の九番目
+  - 九戸城はどこか
+  - 木炭の村
+  naming_type: 合併新設
+  prefecture: 岩手県
+  homonyms: []
+  summary: 九戸は、一から九まで並ぶ「戸」の地名の9番目にあたる古い地域名である。1955年、戸田村・伊保内村・江刺家村の3村が合併する際、3村のいずれの名も採らず、この一帯を指してきた「九戸」の名を村名に採用して九戸村が発足した。もと糠部郡の一部で、近世には九戸郡が置かれていた土地であり、中世には九戸氏を称した武士の名にもなっている。なお九戸城は九戸村ではなく二戸市にある。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 町村合併による九戸村の発足
+    note: 村名としての初出。地域名「九戸」自体は、建久2年（1191年）に九戸五郎を称したという言い伝えや、寛永11年（1634年）の九戸郡の成立に遡る
+  claims:
+  - text: 総務省の全国地方公共団体コードで、九戸村の団体コードは035068と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 八戸市公式によれば、一から九の数字に「戸」の付く地名は古代末期から中世にかけて「糠部郡」と呼ばれた地域に残るものであり、九戸はその9番目の「戸」を意味する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k2-hachinohe-city-gaiyo
+  - text: 「戸」の起源については、岩手県立図書館のレファレンス事例が九牧説・貢馬の幣説・防衛施設説・エリア区分説・九カ部四門の制説などを挙げており、九戸を含む「戸」地名群全体でも定説は決まっていない
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - t4-iwate-lib-ref-he
+  - text: 寛永11年（1634年）に糠部郡が北郡・二戸郡・三戸郡・九戸郡に分割され、この一帯は九戸郡となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - t4-nukabe-wiki
+  - text: 九戸村公式の計画によれば、本村が歴史に登場するのは建久2年（1191年）、南部藩の祖となった三郎光行の五男・五郎行連が「九戸五郎」と名乗り、本村の長興寺に居を構えてからであると言い伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z6-kunohe-vill-plan
+  - text: 明治22年（1889年）の町村制でこの一帯は戸田村・伊保内村・江刺家村の3か村となり、昭和30年（1955年）4月に3か村が合併して「九戸村」となった、と九戸村公式の計画は記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-kunohe-vill-plan
+  - text: 新村名「九戸」は、合併した3村（戸田・伊保内・江刺家）のいずれの名でもなく、この一帯の郡名として使われてきた「九戸」を採ったものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-kunohe-vill-plan
+    - t4-nukabe-wiki
+  - text: 九戸城は九戸村にはなく、二戸市に存在する。これは「九戸氏の居城」という意味合いの名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z6-kunohe-wiki
+  column:
+    title: 九戸城は、九戸村にはない
+    text: 「九戸」と聞いて思い浮かぶのは、豊臣秀吉の奥州仕置きに最後まで抵抗した九戸政実と、その居城・九戸城の戦いだろう。だが九戸城の跡は、九戸村ではなく隣の二戸市にある。城の名は「九戸氏の城」という意味で、村の名は「戸」の地名群の九番と郡名に由来する。同じ「九戸」でも、氏族の名・城の名・郡の名・村の名が、それぞれ別の場所や時代に根を持ちながら重なっている。1955年に生まれた村は、その重なりの中から郡の名を受け継いだ。
+    sources:
+    - z6-kunohe-wiki
+    - z6-kunohe-vill-plan
+  relations:
+  - pref/03
+  - muni/03-一戸町
+  - muni/03-二戸市
+  unknowns:
+  - 1955年の合併協議で「九戸」を新村名に決めた経緯の一次記録は未確認
+  - 「九戸」の名が文書に初めて現れる年と文献は未確認
+  updated: '2026-11-13'
 - id: muni/03-二戸市
   code: '032131'
   names:
@@ -232,6 +394,76 @@ records:
   - 「戸」の制度の実態（牧場区分か、防衛の柵か、行政区分か）は資料によって説明が分かれ、一次史料で確定できなかった
   - 「二戸」という区分名の初出となる文書を確認できなかった
   - 四戸が地名として失われた時期と経緯は、確認した資料では特定できなかった
+  updated: '2026-11-13'
+- id: muni/03-住田町
+  code: '034410'
+  names:
+    ja: 住田町
+    reading: すみたちょう
+    aliases:
+    - 世田米町
+  user_terms:
+  - すみた
+  - 森林と林業の町
+  - 世田米とは
+  - 成瀬町にならなかった町
+  naming_type: 合併新設
+  prefecture: 岩手県
+  homonyms: []
+  summary: 住田町は1955年の合併で生まれた合成地名である。世田米町と上有住村・下有住村が合併する際、有住の「住」と世田米の「田」を組み合わせて「住田」とした。合併協議では当初、気仙川の別名に因む「成瀬町」が予定されていたが、反対があって現在の名に落ち着いたという。町の中心は旧世田米町で、旧名「世田米」は「せたまい」と読む。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 町村合併による住田町の発足
+    note: 合成地名「住田」の命名そのものが初出。構成要素の世田米・有住の地名はそれ以前に遡る
+  claims:
+  - text: 総務省の全国地方公共団体コードで、住田町の団体コードは034410と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の文化情報大事典によれば、住田の名は、1955年に世田米町と上有住村・下有住村が合併した際、有住の「住」と世田米の「田」を組み合わせたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 合併協議の際は、地域を流れる気仙川（成瀬川）に由来する「成瀬町」にする予定だったが、反対により現在の「住田町」となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z6-sumita-wiki
+  - text: 明治22年（1889年）に世田米村・上有住村・下有住村がそれぞれ単独で村制を施行し、昭和15年（1940年）に世田米村が町制を施行して世田米町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z6-sumita-wiki
+  - text: 昭和30年（1955年）4月1日、世田米町・上有住村・下有住村が合併して住田町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-iwate-bunka-chimei
+    - z6-sumita-wiki
+  - text: 合併前の中心地・世田米は「せたまい」と読み、現在も住田町の中心地区の名として残っている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-iwate-bunka-chimei
+  column:
+    title: あやうく「成瀬町」になるところだった
+    text: 住田町の名は、最初から決まっていたわけではない。合併協議では、町を流れる気仙川の上流部の名「成瀬」に因んだ「成瀬町」が予定されていた。ところが反対が出て、白紙に戻り、最後に選ばれたのが有住の「住」と世田米の「田」を合わせた「住田」だった。川の名か、旧村名の合成か。昭和の合併では、こうした綱引きの末に生まれた名が全国に数多くある。世田米（せたまい）という難読の旧名も、合成地名の中に「田」の一文字だけを残して生き延びた。
+    sources:
+    - z6-sumita-wiki
+  relations:
+  - pref/03
+  unknowns:
+  - 「成瀬町」案への反対の理由や、合併協議の具体的な経緯の一次記録は未確認
+  - 世田米・有住それぞれの地名の語源は未確認
   updated: '2026-11-13'
 - id: muni/03-八幡平市
   code: '032140'
@@ -361,6 +593,82 @@ records:
   - 1954年の合併時に「北上」と命名した理由の明文（川名・北上駅名との関係を含む）は、県の大事典には記されておらず未確認
   - 「日高見」の語が見える古代の原典（『日本書紀』等）との照合は未実施
   - 平成3年（1991年）の和賀町・江釣子村との合併など、その後の市域の変遷は本レコードでは未確認
+  updated: '2026-11-13'
+- id: muni/03-大槌町
+  code: '034614'
+  names:
+    ja: 大槌町
+    reading: おおつちちょう
+    aliases: []
+  user_terms:
+  - おおつち
+  - ひょっこりひょうたん島の町
+  - 吉里吉里のある町
+  - 蓬莱島のある町
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 大槌町は三陸海岸の大槌湾に面した町で、その名は大槌川の流域の古い地名に由来する。語源は確定しておらず、県の文化情報大事典は「ツツ（包む）」とする説、大きな川内（オホウチ）とする説、「津地（船着場）」とする説、「辻（道の交差）」とする説の4説を併記する。中世には大槌氏が大槌城に拠った。1889年に大槌村・小鎚村・吉里吉里村が合併して町制を施行し、1955年に金沢村と合併して現在の町となった。2011年の東日本大震災で甚大な被害を受けた。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 市町村制施行による大槌町の成立
+    note: 町としての初出。地名「大槌」自体は中世の大槌氏の名などに遡るが、文書上の初出年は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、大槌町の団体コードは034614と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の文化情報大事典は「大槌」の由来として、ツツ（包む）の意味で崎に包まれた地とする説、大槌川・小鎚川流域の大きな川内（オホウチ）で小鎚は小さい川内とする説、「津地」の意味で船着場とする説、「辻」の意味で道の交差するところとする説の4説を挙げており、定説は決まっていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 戦国時代、当地は大槌氏の支配下にあったが、元和3年（1617年）に大槌孫八郎政貞が南部利直から謀反の嫌疑をかけられて切腹し、大槌氏は断絶した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z6-otsuchi-wiki
+  - text: 明治22年（1889年）4月1日、南閉伊郡の大槌村・小鎚村・吉里吉里村が合併し、町制を施行して大槌町が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-otsuchi-uub
+  - text: 昭和30年（1955年）4月1日、大槌町と金沢村が合併し、現在の大槌町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z6-otsuchi-wiki
+  - text: 大槌湾内の蓬莱島は、江戸時代には「珊瑚島」と呼ばれていたが、元文3年（1738年）に盛岡藩主・南部利視が巡検の際に命じて「蓬莱島」と呼ばれるようになった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z6-otsuchi-ta-horai
+  - text: 大槌町は平成23年（2011年）の東日本大震災の津波で甚大な被害を受け、蓬莱島の大槌港灯台も倒壊し、その後再建された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z6-otsuchi-ta-horai
+    - z6-otsuchi-wiki
+  column:
+    title: ひょうたん島の本当の名前は蓬莱島
+    text: 大槌湾に浮かぶ小さな島は、人形劇『ひょっこりひょうたん島』のモデルといわれ、「ひょうたん島」の愛称で親しまれている。だが正式な名は蓬莱島で、江戸時代には珊瑚島と呼ばれていたものを、1738年に藩主・南部利視が巡見の際に「蓬莱島」と名付けたと伝わる。中国の伝説で仙人の住むとされる理想郷の名である。東日本大震災では島の灯台が根元から倒壊したが、住民の応募デザインで再建され、いまは復興のシンボルになっている。愛称と由緒ある名と、二つの名を持つ島である。
+    sources:
+    - z6-otsuchi-ta-horai
+  relations:
+  - pref/03
+  - muni/03-山田町
+  unknowns:
+  - 「大槌」の語源は4説が併記されるにとどまり、確定していない
+  - 「大きな槌」に結びつける民間伝承の確かな記録は、今回の調査では確認できなかった
   updated: '2026-11-13'
 - id: muni/03-大船渡市
   code: '032034'
@@ -580,6 +888,492 @@ records:
   - 「宮古」の地名の文献上の初出は、本バッチでは確認できなかった
   - 県の大事典が挙げる7説の中にアイヌ語起源を明示するものはなく、語源の系統そのものが確定していない
   updated: '2026-11-13'
+- id: muni/03-山田町
+  code: 034827
+  names:
+    ja: 山田町
+    reading: やまだまち
+    aliases:
+    - 山田村
+  user_terms:
+  - やまだ
+  - 山田湾の町
+  - オランダ島のある町
+  - ブレスケンス号が来た町
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 山田町は三陸海岸の山田湾に面した町で、1889年に山田村と飯岡村が合併して町となった。「山田」は全国に無数にある普通地名で、当地の語源を説明する公的な資料は見当たらず、未詳として残す。1955年に豊間根村・大沢村・織笠村・船越村と合併して現在の町となった。町公式の年表は、715年の『続日本紀』の「閉村」の記事や、1643年のオランダ船ブレスケンス号の入港を、町の古い記録として紹介している。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 市町村制施行による山田町の成立（山田村・飯岡村の合併）
+    note: 町としての初出。「山田村」の名はそれ以前からあったが、その初出と語源は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、山田町の団体コードは034827と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 山田町公式の年表によれば、明治22年（1889年）の市町村制実施により、飯岡村と山田村が合併して山田町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-yamada-town-ayumi
+  - text: 昭和30年（1955年）に山田町・豊間根村・大沢村・織笠村・船越村の1町4村が合併し、新しい山田町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-yamada-town-ayumi
+  - text: 山田町公式の年表は、霊亀元年（715年）の『続日本紀』に、蝦夷の須賀君古麻比留が「閉村に郡家を建てて下さい」と求めた記述があり、この頃には当地方にも国政が及んでいたと推測されることを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-yamada-town-ayumi
+  - text: 寛永20年（1643年）、山田湾にオランダ船ブレスケンス号が水と食料を求めて入港したが、オランダ人10名が南部藩に捕らえられ江戸へ護送された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-yamada-town-ayumi
+  - text: 山田町公式の年表によれば、平成23年（2011年）の東日本大震災で大津波が発生し、本町の死者・不明者は825人に上った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-yamada-town-ayumi
+  column:
+    title: オランダ船が来た湾、いまは友好都市の縁
+    text: 1643年、オランダ船ブレスケンス号が山田湾に入ってきた。水と食料を求めた乗組員10名は南部藩に捕らえられ、江戸へ送られる事件になった（ブレスケンス号事件）。湾内の小島は、のちに「オランダ島」と呼ばれるようになる。350年を超えた2000年、山田町はオランダのザイスト市と友好都市を締結した。捕らえられた側と捕らえた側の子孫同士が、今度は交流のために向き合う。漁港の町の名前「山田」の由来は分からないままだが、湾の歴史は江戸時代の国際事件から現代の国際交流までを抱えている。
+    sources:
+    - z6-yamada-town-ayumi
+  relations:
+  - pref/03
+  - muni/03-大槌町
+  unknowns:
+  - 「山田」の語源は、町公式資料にも専門資料にも当地についての説明が見当たらず、未詳
+  - 中世以前の「山田村」の名の初出は未確認
+  updated: '2026-11-13'
+- id: muni/03-岩手町
+  code: '033031'
+  names:
+    ja: 岩手町
+    reading: いわてまち
+    aliases:
+    - 沼宮内町
+  user_terms:
+  - いわてまち
+  - 県名と同じ名前の町
+  - 沼宮内の町
+  - 岩手山の見える町
+  naming_type: 合併新設
+  prefecture: 岩手県
+  homonyms: []
+  summary: 岩手町は、県名とまったく同じ「岩手」を名乗る町である。1955年、沼宮内町・御堂村・一方井村・川口村が合併する際、合併町村の名を引き継がず、所属する岩手郡の郡名「岩手」を新町名に採用した。その岩手郡は平安時代の奥六郡の一つで、「岩手」の名は『大和物語』に「磐手」と現れるのが初出とされる。県名も同じ岩手郡に由来するので、県と町は一つの郡名を分け合っている。ただし郡名の語源自体は確定しておらず、有名な鬼の手形の伝説は、郡の中心だった盛岡に伝わる話である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: 町村合併による岩手町の発足
+    note: 町名としての初出。「岩手」の名自体は、『大和物語』第152段に「磐手の郡」から献上された鷹の名として現れるのが初出とされる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、岩手町の団体コードは033031と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手町公式の年表によれば、昭和30年（1955年）7月21日、沼宮内町・御堂村・一方井村・川口村の1町3村が合併し、「岩手町」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-iwate-town-history
+  - text: 新町名「岩手」は、合併した4町村のいずれの名でもなく、当時4町村が属していた岩手郡の郡名を採用したものとみられる
+    kind: fact
+    level: E2
+    status: inferred
+    sources:
+    - z6-iwate-town-history
+    - a-iwa-pref
+  - text: 「岩手」の名が文献に現れる最初は『大和物語』第152段で、陸奥国・磐手の郡から献上された鷹に帝が付けた名「磐手」として登場するとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-yamato-monogatari
+    - a-iwa-lib
+  - text: 岩手郡は平安時代に斯波（志波）郡から分かれて成立した奥六郡の一つとされ、その成立は940年から950年頃と推測される
+    kind: fact
+    level: E3
+    status: inferred
+    sources:
+    - a-iwa-lib
+  - text: 郡名「岩手」自体の語源は確定しておらず、「岩出の森」に由来する説などがあるが決め手はない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - a-iwa-lib
+  - text: 県名「岩手県」も同じ岩手郡の郡名に由来し、明治5年（1872年）に盛岡県から岩手県へ改称された。岩手町と岩手県は、同じ郡名を源泉とする名前である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - a-iwa-pref
+  - text: 盛岡市の三ツ石神社に伝わる鬼の手形の伝説、すなわち羅刹鬼が大石に手形を押して逃げ去ったためこの地を「岩手」と呼ぶようになったという話は、郡の中心だった盛岡に伝わる伝承であり、岩手町の町名の直接の由来ではない
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - a-iwa-bunka
+  column:
+    title: 県とおそろいの名前の町
+    text: 「岩手町」と聞くと、県庁所在地の間違いかと思う人がいる。県庁は盛岡市にあり、岩手町は盛岡から北へ国道4号を進んだ先の、人口1万人ほどの町だ。中心地の名はもともと沼宮内で、いまも新幹線の駅は「いわて沼宮内駅」を名乗る。1955年の合併で、町は沼宮内でも御堂でもなく、一段大きな「岩手郡」の名を名乗ることにした。県もまた同じ郡名から生まれている。県名と町名が一つの郡名の「きょうだい」だという関係は、全国でもここだけのものだろう。
+    sources:
+    - z6-iwate-town-history
+    - a-iwa-pref
+  relations:
+  - pref/03
+  - muni/03-盛岡市
+  unknowns:
+  - 1955年の合併協議で「岩手」を新町名に決めた経緯の一次記録は未確認
+  - 郡名「岩手」の語源は未確定（県レコード・盛岡市レコードと共通の未解決点）
+  updated: '2026-11-13'
+- id: muni/03-岩泉町
+  code: 034835
+  names:
+    ja: 岩泉町
+    reading: いわいずみちょう
+    aliases:
+    - 岩泉
+    - 千本町
+    - 岩泉村
+  user_terms:
+  - 岩泉
+  - いわいずみ
+  - 龍泉洞の町
+  - 龍泉洞
+  naming_type: その他（岩の間から湧き出る泉という湧水・地形に由来する自然地名）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 下閉伊郡の町で、日本三大鍾乳洞の一つに数えられる龍泉洞で知られる。町名の由来は、岩手県の由来一覧が「岩の間から湧き出る泉」と説明し、『ブリタニカ国際大百科事典』も「岩層から水が出ることによる」とする。現在の中心町場は江戸時代の享保16年（1731）に千本町として市が開かれたのが始まりで、後に岩泉町と改称した。大正11年（1922）に岩泉村が町制を施行し、昭和31〜32年（1956〜57）の合併・編入で現在の町域の基礎ができた。
+  first_attestation:
+    era: 享保16年
+    year_western: 1731
+    document: 千本町の開設記録（『日本歴史地名大系』「岩泉町」項が紹介）
+    note: 現在の中心町場が千本町として開かれた年で、その後に岩泉町へ改称した。「岩泉」の語そのものの文献初出は特定できていない
+  claims:
+  - text: 岩手県の「町村名の由来」は、岩泉の由来を「岩の間から湧き出る泉」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 『ブリタニカ国際大百科事典』も、岩泉の町名は岩層から水が出ることによると説明する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-iwaizumi-kotobank
+  - text: 『日本歴史地名大系』によれば、現在の岩泉の町場は享保16年（1731）に千本町と称して三斎市が開設されたのが始まりで、その後に岩泉町と改称した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-iwaizumi-kotobank
+  - text: 岩泉町勢要覧によれば、明治22年（1889）の町村制でこの地域に岩泉村が置かれ、大正11年（1922）8月1日に町制を施行して岩泉町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-iwaizumi-seiyouran
+  - text: 『ブリタニカ国際大百科事典』によれば、岩泉町は1956年に近隣町村と合体し、翌1957年に小川村を編入した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-iwaizumi-kotobank
+  - text: 町内にある龍泉洞は、「岩泉湧窟およびコウモリ」として知られる鍾乳洞で、岩の間から湧く水のイメージとともに町の象徴となっている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-iwaizumi-kotobank
+  - text: 岩泉町の地方公共団体コードは034835である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 千本町から岩泉町へ
+    text: 岩泉の中心の町場は、はじめから「岩泉」だったわけではない。享保16年（1731）、この地に千本町と称する新しい町場がつくられ、毎月三の日の三斎市が開かれた。ところが小本街道沿いの門村にも同じ三の日の市が立っていたため商物が集まらず、3年後に市日を四の日に変えてようやく町場として成り立ったという。その後、町場は岩泉町と改称した。岩の間から湧き出る泉という地名が、市の立つ町場の名として受け継がれたことになる。町内随一の景勝・龍泉洞（岩泉湧窟）の水のイメージとも重なり、「岩」と「泉」の名は町の顔になっている。
+    sources:
+    - z7-iwaizumi-kotobank
+    - z6-iwate-bunka-chimei
+  relations:
+  - pref/03
+  unknowns:
+  - 「岩泉」の語そのものの文献初出は特定できていない
+  - 千本町から岩泉町への改称の正確な年は、本バッチでは確認できなかった
+  - 語源について「岩の間から湧き出る泉」以外の説が存在するかは未確認である
+  updated: '2026-11-13'
+- id: muni/03-平泉町
+  code: 034029
+  names:
+    ja: 平泉町
+    reading: ひらいずみちょう
+    aliases:
+    - 平泉
+    - へいせん
+    - 平泉村
+  user_terms:
+  - 平泉
+  - ひらいずみ
+  - 世界遺産の町
+  - 中尊寺
+  - 毛越寺
+  - 奥州藤原氏
+  naming_type: その他（古代以来の地名とされるが、語源・成立時期は未確定）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 西磐井郡の町で、奥州藤原氏が築いた中尊寺・毛越寺などを擁し、「平泉―仏国土（浄土）を表す建築・庭園及び考古学的遺跡群」が世界遺産に登録されている。町公式は町名を「古代以来の地名による」とし、語源には泉の噴出説やアイヌ語説があるとする。一方で学術研究では、清衡が移る以前にこの地名があったかどうか自体が論点であり、唐代の名園「平泉荘」に倣った命名とする説や、本来の読みは音読み「へいせん」とする見解もある。昭和30年（1955）に平泉町と長島村が合併して現在の町が成立した。
+  first_attestation:
+    era: 文治5年
+    year_western: 1189
+    document: 『吾妻鏡』文治5年9月2日条
+    note: 「平泉を出で、岩井郡厨河の辺に赴かしめ給う」とあり、奥州藤原氏の本拠の名として「平泉」の使用が確認できる。ただし『吾妻鏡』自体は後世の編纂であり、12世紀の同時代史料での用例は確認されていない
+  claims:
+  - text: 平泉町公式は、町名の由来を「古代以来の地名による」とし、「語源には、泉の噴出説やアイヌ語説があります」と説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-hiraizumi-town-gaiyo
+  - text: 岩手県の「町村名の由来」は平泉の語源として、「平」は斜めに平らな土地で北上川氾濫原の平地・泉地をいう説、方言の「ひら」泉で山麓の清泉をいう説、奥御館の南隅に湧く平地の湧井をいう説の3説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 『吾妻鏡』文治5年（1189）9月2日条には「平泉を出で、岩井郡厨河の辺に赴かしめ給う」とあり、奥州藤原氏の本拠の名として「平泉」が記されている（翻刻による確認）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-azumakagami-bunji5
+  - text: 学術研究には、藤原清衡が移る以前の岩井郡に「平泉」の地名はなく、移転当初の清衡の館も平泉館とは呼ばれていなかったとする見解（高橋富雄）があり、地名の成立時期自体が論点になっている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - z7-hiraizumi-ito
+  - text: 唐代の宰相李徳裕の別荘「平泉荘」の名に倣って「平泉」と命名されたとする説があり、あわせて「平泉」の本来の読みは音読みの「へいせん」で、訓読みの「ひらいずみ」は後出的だとする見解も示されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - z7-hiraizumi-ito
+  - text: 江戸時代以来、平泉の館の南には甘い水が湧き出た「酒泉（泉酒）」の跡があったとされ、その瑞祥が「平泉」の名の由来と結びつけて語り伝えられてきた
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - z7-hiraizumi-shi
+  - text: 現在の平泉町は昭和30年（1955）4月15日に、平泉町と長島村が合併して成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-hiraizumi-town-gaiyo
+  - text: 平泉町の地方公共団体コードは034029である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「平泉」は清衡が名付けたのか
+    text: 近世の地誌『平泉志』は、藤原清衡が嘉保元年（1094）に平泉館を営んでこの地に移ったと記し、館の南に甘い水の湧く「酒泉」があったことを平泉繁昌の瑞祥として伝える。長くこの物語が「平泉」の始まりとされてきた。しかし近年の研究では、清衡が移る前の岩井郡に「平泉」という地名は見当たらず、当初の館も平泉館とは呼ばれていなかったのではないか、という見方が出されている。名の由来として有力視されるのは、中国・唐代の宰相李徳裕の別荘「平泉荘」である。山あいの平らな土地から泉が湧く名園の名を、清衡の都の名に重ねたという読み解きだ。その場合「平泉」の読みは本来「へいせん」で、「ひらいずみ」という訓読みは後から広まったことになる。世界遺産の町の名は、今も研究の最前線にある。
+    sources:
+    - z7-hiraizumi-shi
+    - z7-hiraizumi-ito
+  relations:
+  - pref/03
+  unknowns:
+  - 「平泉」の12世紀の同時代史料での用例は確認できておらず、文献上の初見の確定は研究途上である
+  - 藤原清衡自身が「平泉」と命名したかどうかは学説が分かれ、確定していない
+  - 町公式が挙げるアイヌ語説について、具体的な語形対応は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/03-普代村
+  code: 034851
+  names:
+    ja: 普代村
+    reading: ふだいむら
+    aliases:
+    - 普代
+    - ふたい
+    - 譜代
+  user_terms:
+  - 普代
+  - ふだい
+  - 北緯40度の村
+  - 北山崎
+  - 黒崎
+  naming_type: その他（中世以来の地名。語源は諸説あり未確定）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 下閉伊郡最北の村で、北山崎・黒崎の断崖絶壁で知られる。村名の記録は室町時代に遡り、村公式によれば永正5年（1508）の馬焼印図に「ふたい」、正保元年（1644）の正保図絵図に「譜代」「譜代崎」が見え、承応3年（1654）の藤島家古文書で「普代村」の表記が明確になる。語源については県の由来一覧が「二井」「塞井」など4説を挙げるが定説はない。明治9年（1876）に普代村・黒崎村・堀内村が合併して現在の村の基礎ができた。
+  first_attestation:
+    era: 永正5年
+    year_western: 1508
+    document: 馬焼印図
+    note: 普代村公式「村の概要」が「閉伊（北方）ふたい」の記録として紹介するもの。原資料そのものは本バッチでは未確認のため、村公式の紹介として扱う
+  claims:
+  - text: 普代村公式によれば、永正5年（1508）の馬焼印図の中に「閉伊（北方）ふたい」の記録があり、これが村名に関わる古い記録である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-fudai-vill-gaiyo
+  - text: 村公式によれば、正保元年（1644）の正保図絵図には「譜代」「譜代崎」が見えており、承応3年（1654）の藤島家古文書では「普代村」の記述がより明確になっている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-fudai-vill-gaiyo
+  - text: 岩手県の「町村名の由来」は普代の語源として、「二井」で2つの水流の合流地とする説と、「塞井」で砂州によって河口をふさがれた土地とする説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同一覧はさらに、方言「ふだい」からきたもので家来の分家の開拓地とする説と、「譜代」で「お譜代さま」と呼ばれた三上氏にちなむとする説も挙げており、語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 普代村の総合発展計画によれば、明治9年（1876）に普代村と黒崎村・堀内村の3村が合併して、現在の普代村の始まりとなった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-fudai-plan
+  - text: 村には、源義経が自害せず北へ逃れる途中に旅の安全を祈願して立ち寄ったとされる鵜鳥神社が伝わり、義経北行伝説ゆかりの地とされる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - z7-fudai-sanfes
+  - text: 村内には、義経一行が村人に道を尋ねた際に「不行道（行けない道）」と言われたことに由来すると伝わる「不行道」という地名があるとされる
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - z7-fudai-sanfes
+  - text: 普代村の地方公共団体コードは034851である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 義経が通った村、「不行道」の伝説
+    text: 岩手県の沿岸には、源義経が平泉で死なずに北へ逃れたという「義経北行伝説」が各地に残る。普代村もそのゆかりの地で、鵜鳥神社には義経一行が蝦夷へ向かう途中に旅の安全を祈願して立ち寄ったという伝えがある。さらに村内には「不行道」という印象的な地名が伝わる。一行が村人に道を尋ねたところ「（この先は）不行道＝行けない道」と言われたことに由来するという。もちろんこれらは伝説の層の話で、史実として確かめられたものではない。だが、断崖の続く三陸北部の道の険しさを思えば、「行けない道」という名が言い伝えとともに残ったこと自体が、この土地の記憶の残り方を物語っている。
+    sources:
+    - z7-fudai-sanfes
+  relations:
+  - pref/03
+  unknowns:
+  - 語源の定説はなく、県一覧の挙げる4説のいずれとも確定できない
+  - アイヌ語に由来する説は県の由来一覧には挙げられておらず、本バッチでは裏付けが確認できなかった
+  - 馬焼印図の原資料そのものは未確認で、村公式の紹介によっている
+  updated: '2026-11-13'
+- id: muni/03-洋野町
+  code: '035076'
+  names:
+    ja: 洋野町
+    reading: ひろのちょう
+    aliases:
+    - 洋野
+    - 種市町
+    - 大野村
+  user_terms:
+  - 洋野
+  - ひろの
+  - 種市
+  - 大野
+  - 南部もぐりの発祥地
+  - ウニの町
+  naming_type: 合併新設（一般公募で決められた瑞祥地名）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 九戸郡の町で、平成18年（2006）1月1日に沿岸の種市町と内陸の大野村が合併して誕生した。町名は新町名の一般公募で決められた瑞祥地名で、町役場は「種市町の広々とした海と大野村のなだらかな野原をイメージした名」と説明する。通説では「洋＝太平洋の洋、大野の野」と説明されがちだが、「野」の字は旧大野村の「野」を直接取ったものではないとされる点に注意が要る。旧中心地・種市の名については、県の由来一覧が「撓根津」の転訛など3説を挙げる。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 新設合併による洋野町の発足（総務省「市町村合併資料集」にも記録）
+    note: 町名としての初出は2006年1月1日の町発足時である
+  claims:
+  - text: 洋野町は平成18年（2006）1月1日に、沿岸部の種市町と内陸部の大野村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-hirono-rinya
+  - text: 町名「洋野」は、合併にあたって一般公募により決められた瑞祥地名（縁起のよい意味を込めた新しい地名）である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z7-hirono-yuraiyura
+  - text: 洋野町役場総務課の説明として、新しい町名は全国からの公募で決まり、種市町の広々とした「海」と大野村のなだらかな「野原」をイメージした「洋野町」という名前になったと報じられている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z7-hirono-menkoi
+  - text: 「洋野」の「野」は旧大野村の「野」とは直接の関係がなく、広々とした大地をイメージさせる言葉として用いられたとされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z7-hirono-yuraiyura
+  - text: 岩手県の「町村名の由来」は、旧中心地である種市の名の由来として、「撓根津（タワネツ）」の転訛で種市岳の裾野の舟繋場とする説、「種井池」の意味で種を漬ける流れや池とする説、種子や種牡馬などを売る市が立ったことによるとする説の3説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 岩手県内の地名を長年調べてきた地名研究者の宍戸敦は、種市の「種」は大野海成段丘の棚状の地形を表す「棚」に由来するのではないかと説明している
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z7-hirono-menkoi
+  - text: 洋野町の地方公共団体コードは035076である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「野」は大野の「野」ではなかった
+    text: 合併で生まれた町名には、旧町村の名前から一字ずつ取る「合成型」が多い。洋野町も一見すると、太平洋の「洋」と大野村の「野」を合わせた合成名に見える。ところが町役場の説明は少し違う。新町名は全国公募で募り、沿岸の種市町の広々とした「海」と、内陸の大野村のなだらかな「野原」のイメージから決まったという。「野」は大野の字を切り取ったのではなく、野原の広がりを表す言葉として選ばれたとされる。結果として旧大野村の面影を残す形にはなったが、成り立ちとしてはイメージ先行の瑞祥地名である。見た目の合成と実際の命名理由がずれる例として、合併地名の面白さをよく示している。
+    sources:
+    - z7-hirono-menkoi
+    - z7-hirono-yuraiyura
+  relations:
+  - pref/03
+  unknowns:
+  - 公募の応募総数や最終候補の顔ぶれは、本バッチでは公的資料で確認できなかった
+  - 読み「ひろの」の決定経緯（音読みの組み合わせか、既存の読みの流用か）は未確認である
+  updated: '2026-11-13'
 - id: muni/03-滝沢市
   code: '032166'
   names:
@@ -665,6 +1459,84 @@ records:
   - 「滝沢」の地名の文献上の初出は確認できなかった
   - 村から直接市制を施行した事例が全国で滝沢が何例目にあたるかは、公式資料で確認できなかった（同様の経路として2002年の豊見城市がある）
   updated: '2026-11-13'
+- id: muni/03-田野畑村
+  code: 034843
+  names:
+    ja: 田野畑村
+    reading: たのはたむら
+    aliases:
+    - 田野畑
+    - 田野畠
+    - 田端村
+  user_terms:
+  - 田野畑
+  - たのはた
+  - 北山崎の村
+  - 三閉伊一揆の村
+  naming_type: その他（畑地の広がる土地を表す地名とされる）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 下閉伊郡の村で、北山崎・鵜の巣断崖の景勝で知られる。村名は正保国絵図に「田野畠村」と見え、岩手県の由来一覧は語源として「畑のある土地」「撓わの畑（盆地の畑）」の2説を挙げる。明治22年（1889）に田野畑村・沼袋村・浜岩泉村が合併して現在の田野畑村が誕生し、その後合併を経ずに続いている。元禄期の郷帳では村の石高が畑方のみであったという記録も、名の由来を考える手がかりである。
+  first_attestation:
+    era: 正保元年頃
+    year_western: 1644
+    document: 正保国絵図
+    note: 『日本歴史地名大系』が「田野畠村」と見えると紹介するもの（二次資料経由）。なお寛永21年（1644）の「雑書」に見える「田端村」も当村のことかとされる
+  claims:
+  - text: 『日本歴史地名大系』によれば、正保国絵図に「田野畠村」と見え、元禄の十郡郷帳によれば当村の石高は畑方のみであった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-tanohata-kotobank
+  - text: 同書は、寛永21年（1644）の「雑書」に見える「田端村」は当村のことかとする
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - z7-tanohata-kotobank
+  - text: 岩手県の「町村名の由来」は、田野畑の語源として「畑のある土地」とする説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同一覧はもう一説として、「撓（た）わの畑」、すなわち盆地の畑の意味とする説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 田野畑村公式によれば、明治22年（1889）4月に田野畑・沼袋・浜岩泉の3村が合併し、現在の田野畑村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-tanohata-vill-enkaku
+  - text: 村は幕末の弘化4年（1847）と嘉永6年（1853）に起きた三閉伊一揆の指導者を出した地として知られ、村公式の歴史紹介でも取り上げられている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-tanohata-vill-enkaku
+  - text: 田野畑村の地方公共団体コードは034843である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 名前に「田」があるのに、石高は畑だけだった
+    text: 「田野畑」という名は、田と野と畑がそろった豊かな農村を連想させる。ところが『日本歴史地名大系』が引く元禄十郡郷帳の記録では、当時の田野畑村の石高は畑方のみで、田の分がなかったという。海岸段丘が海に落ち込む地形の村では、水田よりも畑が生活の中心だったことがうかがえる。県の由来一覧が挙げる「畑のある土地」「盆地の畑（撓わの畑）」という2説も、この畑中心の土地柄とよく響き合う。村名の三文字は理想の風景ではなく、実際に耕してきた土地の姿を映しているのかもしれない。
+    sources:
+    - z7-tanohata-kotobank
+    - z6-iwate-bunka-chimei
+  relations:
+  - pref/03
+  unknowns:
+  - 語源は県一覧の2説とも地形説明の域を出ず、文献による確定はできていない
+  - 「田野畑」の表記（畠から畑へ）が定着した時期は、本バッチでは確認できなかった
+  updated: '2026-11-13'
 - id: muni/03-盛岡市
   code: 032018
   names:
@@ -739,6 +1611,169 @@ records:
   - 改称の主体・年の決着（利直が慶長年間に「盛岡」と命名したとする説明と、元禄4年（1691年）に重信の代で盛岡となったとする専門文献の説が対立）
   - 古名「不来方（こずかた）」自体の語源は未確認
   - 「杜の多い岡」説の出典の所在は未確認
+  updated: '2026-11-13'
+- id: muni/03-矢巾町
+  code: '033227'
+  names:
+    ja: 矢巾町
+    reading: やはばちょう
+    aliases:
+    - 矢巾
+    - 矢幅
+    - 矢巾村
+  user_terms:
+  - 矢巾
+  - やはば
+  - 徳丹城
+  - 盛岡のベッドタウン
+  - 矢幅駅
+  naming_type: その他（古くからの地名「やはば」による。語源は諸説あり）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 紫波郡の町で、盛岡市の南に隣接するベッドタウンである。地名「やはば」は古くからあり、現在も町内に南矢幅・北矢幅の大字名が「矢幅」の表記で残る。語源には、前九年の役で源頼義が矢羽根を集めさせたとする伝承と、「谷端場・谷端間」で段差のある湿地の法面をいうとする地形説がある。昭和30年（1955）に煙山・徳田・不動の3村が合併して矢巾村となり、昭和41年（1966）に町制を施行した。町内には延暦22年（803）に築かれた城柵・徳丹城の跡がある。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「やはば（矢幅）」の文献初出は本バッチでは特定できなかった。町内には延暦22年（803）に築かれた徳丹城跡があり、古代からの軍事・交通の要地であった
+  claims:
+  - text: 岩手県の「町村名の由来」は矢巾の語源として、前九年の役で源頼義が安倍貞任を討つため、矢をつくる矢羽根（ヤバネ）を集めさせたことによるとする言い伝えを挙げる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同一覧はもう一説として、「谷端場」「谷端間」の意味で、段差のある湿地の法面のこととする地形由来の説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 『日本大百科全書』によれば、1955年（昭和30）に煙山・徳田・不動の3村が合併して矢巾村となり、1966年に町制を施行して矢巾町となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-yahaba-kotobank
+  - text: 同書によれば、町内の徳丹城跡は延暦22年（803）に胆沢城の前進基地として築かれた城柵で、国の史跡に指定されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-yahaba-kotobank
+  - text: 町役場は大字南矢幅に所在し、「矢幅」の表記は「矢巾」とは別に、現在も町内の大字名として残っている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z7-yahaba-wiki
+  - text: 矢巾町の地方公共団体コードは033227である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 矢羽根を集めた里、という言い伝え
+    text: 矢巾の名の由来として町で最もよく語られるのは、前九年の役（1051〜62）の言い伝えである。源頼義が安倍貞任を討つため、この地で矢に使う羽根（矢羽根）を集めさせたことから「やはば」になったという。矢を入れる筒を「矢巾」と書くことも、この物語と結びつけて理解されてきた。一方で県の由来一覧には、湿地の段差の法面をいう「谷端場・谷端間」の転だとする、地味だが地形に即した説も併記されている。合戦の物語と土地の形、どちらの層で読むかで「やはば」の姿は変わる。なお町の大字には今も「南矢幅」「北矢幅」と「矢幅」の字が残っており、表記の歴史の層も目に見える形で残されている。
+    sources:
+    - z6-iwate-bunka-chimei
+    - z7-yahaba-wiki
+  relations:
+  - pref/03
+  unknowns:
+  - 「矢巾」の表記がいつ「矢幅」から改められたのかは、本バッチでは確認できなかった（1955年の矢巾村成立時と推測されるが未確認）
+  - 「やはば」の文献初出は特定できていない
+  - 矢羽根伝説を裏付ける同時代の史料はなく、伝承として扱う
+  updated: '2026-11-13'
+- id: muni/03-紫波町
+  code: 033219
+  names:
+    ja: 紫波町
+    reading: しわちょう
+    aliases:
+    - 紫波
+    - 志波
+    - 斯波
+    - 子波
+    - 志和
+    - 斯波郡
+    - 紫波郡
+  user_terms:
+  - 紫波
+  - しわ
+  - 高水寺城
+  - もち米の町
+  - 紫波中央駅
+  naming_type: その他（古代の郡名「しわ（志波・斯波）」を継承し、表記は明治以降に「紫波」に定着）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 紫波郡の町で、現在の町は昭和30年（1955）に日詰町など1町8村が合併して誕生した。地名は古代の斯波郡（紫波郡）に遡る古い郡名で、表記は志波・子波・斯波・志和などと時代によって揺れ、「紫波」の文字が一般に用いられるようになったのは明治以後と町は伝える。読みも本来は「しは」で、「しわ」は後世の変化とされる。語源は県の由来一覧が段丘の崖の転など7説を挙げるが、定説はない。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 町公式プロフィールは、9世紀前半にこの地が斯波郡（紫波郡）として治められるようになったとするが、郡名「しわ」の文献初出そのものは本バッチでは特定できなかった
+  claims:
+  - text: 紫波町公式プロフィールによれば、現在の紫波町は昭和30年（1955）に1町8カ村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-shiwa-town-profile
+  - text: 町公式プロフィールによれば、この地は9世紀前半に坂上田村麻呂を中心とする都からの軍隊によって攻められ、斯波郡（紫波郡）として治められるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-shiwa-town-profile
+  - text: 町の広報に連載された「ふるさと物語」によれば、「しわ」の地名には時代によって志波・子波・斯波・斯和・志和・紫波などさまざまな文字が当てられ、「紫波」の文字が一般に用いられるようになったのは明治以後である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-shiwa-furusato3
+  - text: 同じく「ふるさと物語」によれば、本来の呼び方は「しは」であったが、ある時代から「しわ」とも呼ばれるようになり、江戸期には「志和」の文字で表されるのが一般的になっていたとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-shiwa-furusato3
+  - text: 岩手県の「町村名の由来」は紫波の語源として、北上川流域の河岸段丘のツバ（崖）の転とする説、シワ（たわんで曲がったところ）とする説、大和朝廷の勢力範囲のシハ（終末・末端）とする説、志和稲荷神社によるとする説など7説を挙げており、語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: かつてはアイヌ語のシワカウシュ（大川）に由来すると類推する考え方があったが、町の「ふるさと物語」は、今日ではほとんど問題にされていないとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-shiwa-furusato3
+  - text: 約400年前、高水寺城の城主・斯波孫三郎が、北上川の川底の赤い大石のために紫色に見える川波を見て「川に立つ波むらさきに似て」と歌ったことから、それまでの「斯波」の文字を「紫波」に改めたという伝えがある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z7-shiwa-furusato3
+  - text: 紫波町の地方公共団体コードは033219である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 幕府に問い質された郡の表記
+    text: 天保6年（1835）、盛岡藩の江戸役人が幕府に呼び出され、思わぬ問い質しを受けた。「元禄元年に書き上げた高辻帳には紫波郡と書いてあるのに、今度のものには志波郡と記してあるのはどうしてか」。町の「ふるさと物語」が伝える逸話である。「しわ」という音に当てる文字は、志波・子波・斯波・斯和・志和・紫波と時代ごとに揺れ続け、江戸時代の役人さえその不統一に困らされていたことが分かる。結局、「紫波」の表記が一般化するのは明治以後になってからだった。音は千年以上続いているのに、文字の方は最後まで落ち着かなかった地名である。
+    sources:
+    - z7-shiwa-furusato100
+    - z7-shiwa-furusato3
+  relations:
+  - pref/03
+  unknowns:
+  - 郡名「しわ」の文献初出（六国史や『和名類聚抄』における表記）は、本バッチでは特定できなかった
+  - 県一覧の挙げる7説のいずれが語源かは決着しておらず、定説はない
   updated: '2026-11-13'
 - id: muni/03-花巻市
   code: '032051'
@@ -821,6 +1856,236 @@ records:
   - 「花巻」の表記が文献に現れる初出は未確認。
   - 3説それぞれについて『花巻市史』第1巻が挙げる原典の確認は未実施。
   updated: '2026-11-13'
+- id: muni/03-葛巻町
+  code: '033022'
+  names:
+    ja: 葛巻町
+    reading: くずまきちょう
+    aliases:
+    - 葛巻
+    - 葛牧
+    - 葛蒔
+  user_terms:
+  - 葛巻
+  - くずまき
+  - くずまき高原
+  - ミルクとワインの町
+  - 北緯40度
+  naming_type: その他（葛の生える牧場などを意味する古い地名とされる）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 岩手郡の町で、北上高地の高原にあり、酪農と山ぶどうワインで知られる。町名の語源は岩手県の由来一覧が「葛牧（葛の生えた牧場）」と「葛蒔（傾斜地を崩して蒔いた焼畑）」の2説を挙げ、決着していない。現在の町は昭和30年（1955）7月15日に、旧葛巻町・江刈村・二戸郡田部村が合併して誕生した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「葛巻」の文献初出は本バッチでは特定できなかった
+  claims:
+  - text: 岩手県の「町村名の由来」は葛巻の語源として、「葛牧」で葛（クズ）の生えた牧場とする説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同一覧はもう一説として、「葛蒔」で傾斜地を崩し蒔きした焼畑のこととする説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 葛巻町の広報によれば、昭和30年（1955）7月15日に岩手郡葛巻町・同江刈村・二戸郡田部村が合併し、新しい葛巻町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-kuzumaki-koho
+  - text: 葛巻町公式の概要によれば、町の町制施行は昭和30年（1955）7月15日で、町は「北緯40度 ミルクとワインとクリーンエネルギーのまち」を掲げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-kuzumaki-gaiyo
+  - text: 町公式によれば、町の酪農は明治25年（1892）の乳牛導入以来の歴史を持ち、現在では牛乳生産量が東北一の酪農郷とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-kuzumaki-gaiyo
+  - text: 葛巻町の地方公共団体コードは033022である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 高原の町名は、牧場か焼畑か
+    text: 葛巻の名の由来は、二つの説の間で決着していない。一つは「葛牧」――葛（クズ）の生えた牧場。もう一つは「葛蒔」――山の斜面を崩して種を蒔いた焼畑のこと。どちらも、山あいの土地で家畜を飼い、畑を開いてきた暮らしの姿を映している。町の中心部は標高約400メートルの高原にあり、明治25年（1892）に乳牛が導入されて以来、葛巻は東北一の酪農郷と呼ばれるようになった。「牧」の説が正しいかどうかは分からないが、少なくとも現在の葛巻の風景は、牧場の説に説得力を与えている。地名の答え合わせが、土地のその後の歴史によって進むこともある。
+    sources:
+    - z6-iwate-bunka-chimei
+    - z7-kuzumaki-gaiyo
+  relations:
+  - pref/03
+  unknowns:
+  - 「葛巻」の文献初出は特定できていない
+  - 1955年以前の旧葛巻町がいつ町制を施行したかは、本バッチでは町公式資料で確認できなかった
+  - 「葛牧」「葛蒔」2説のいずれが語源かは決着していない
+  updated: '2026-11-13'
+- id: muni/03-西和賀町
+  code: 033669
+  names:
+    ja: 西和賀町
+    reading: にしわがちょう
+    aliases:
+    - 西和賀
+    - 西和賀郡
+    - 湯田町
+    - 沢内村
+  user_terms:
+  - 西和賀
+  - にしわが
+  - 錦秋湖
+  - 湯田温泉
+  - 沢内
+  - 豪雪地帯の町
+  naming_type: 合併新設（旧郡名「和賀」の西部を表す名で、かつての西和賀郡の名でもある）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 和賀郡に属する唯一の町で、平成17年（2005）11月1日に湯田町と沢内村が合併して誕生した。両町村の区域は、明治12年（1879）に和賀郡が東西に分割された際の西和賀郡におおむね重なり、「西和賀」は和賀郡の西部を表す名であると同時に、かつて実在した郡の名前の復活でもある。和賀郡そのものは古代の奥六郡の一つに数えられる古い郡名である。
+  first_attestation:
+    era: 明治12年
+    year_western: 1879
+    document: 郡区町村編制法に基づく西和賀郡の発足
+    note: 「西和賀」の名は1879年に郡名として現れた。町名としての使用は2005年の合併からである
+  claims:
+  - text: 西和賀町公式によれば、平成17年（2005）11月1日に湯田町と沢内村が合併し、西和賀町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-nishiwaga-town-enkaku
+  - text: 町公式によれば、湯田町は明治22年（1889）の町村制施行によって湯田村となり昭和39年（1964）に町制を施行し、沢内村は明治22年に川舟村・猿橋村・太田村・前郷村・新町村・大野村の6カ村が合併して成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z7-nishiwaga-town-enkaku
+  - text: 明治12年（1879）に和賀郡が東和賀郡と西和賀郡に分割された際、現在の町域にあたる湯田村・沢内村の区域は西和賀郡に属した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z7-nishiwaga-gun-wiki
+  - text: 和賀郡は、古代の奥六郡（岩手・志和・稗抜・和賀・江刺・伊沢）の一つに数えられる古い郡名である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z7-waga-gun-wiki
+  - text: 現在の和賀郡は西和賀町のみで構成されており、町は郡と区域を同じくする
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z7-waga-gun-wiki
+  - text: 西和賀町の地方公共団体コードは033669である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 消えた郡の名が、町名として戻ってきた
+    text: 「西和賀」は新しい造語ではない。明治12年（1879）、和賀郡が東西に分かれたとき、湯田・沢内など西側の村々は「西和賀郡」となった。その後、郡の再編で西和賀郡の名は地図から消えたが、平成17年（2005）に湯田町と沢内村が合併した際、新しい町の名として「西和賀」が選ばれた。旧西和賀郡の区域と新しい町の区域はほぼ重なっており、126年の時をへて郡の名前が自治体の名前として戻ってきた形である。合併新町名の多くが公募の瑞祥地名や合成名である中で、歴史上の行政区画の名をそのまま蘇らせた例は珍しい。現在、和賀郡に属する自治体は西和賀町ただ一つで、郡と町は同じ範囲を指す名前になっている。
+    sources:
+    - z7-nishiwaga-gun-wiki
+    - z7-nishiwaga-town-enkaku
+  relations:
+  - pref/03
+  unknowns:
+  - 2005年の合併に際して「西和賀」が新町名に選ばれた公式の命名理由・選定経過（公募や協議会の記録）は、本バッチでは確認できなかった
+  - 「和賀」の語源そのもの（アイヌ語説など）は、本バッチでは諸説の裏付け確認に至らなかった
+  - 西和賀郡が廃止された正確な年は、本バッチでは公的資料で確認できなかった
+  updated: '2026-11-13'
+- id: muni/03-軽米町
+  code: '035017'
+  names:
+    ja: 軽米町
+    reading: かるまいちょう
+    aliases:
+    - 軽米
+    - 小軽米
+    - 軽米通
+  user_terms:
+  - 軽米
+  - かるまい
+  - 九戸街道の宿場町
+  - 折爪岳
+  - ホップ
+  naming_type: その他（アイヌ語に由来するといわれる古い地名。語源は諸説あり）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 九戸郡の町で、九戸街道沿いの宿場町として発展した。町名はアイヌ語に由来するといわれ、岩手県の由来一覧はアイヌ語の「カル・モイ」「カル・オマイ」を含む7説を挙げるが、定説はない。江戸時代には八戸藩の行政区域「軽米通」の中心として代官所が置かれた。大正14年（1925）に町制を施行し、昭和30年（1955）に小軽米村・晴山村と合体して現在の町域となった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「軽米」の文献初出は本バッチでは特定できなかった。江戸時代には八戸藩の軽米通代官所が置かれていたことが専門資料で確認できる
+  claims:
+  - text: 『ブリタニカ国際大百科事典』は、軽米の町名はアイヌ語に由来するといわれると説明する
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - z7-karumai-kotobank
+  - text: 岩手県の「町村名の由来」は軽米の語源として、アイヌ語の「カル・モイ（うねり曲がった流域）」「カル・オマイ（フキの葉がとれるところ・回り道のあるところ）」などの説を挙げる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同一覧はそのほかにも、カルは「刈」で焼畑用語から崖を意味するとする説、カレ（涸）とする説、「軽馬医」で馬医がいたところとする説、「離る間井（ガルマイ）」で水走りの境の村落とする説など、計7説を挙げており、語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 『ブリタニカ国際大百科事典』によれば、軽米は1925年に町制を施行し、1955年に小軽米・晴山の2村と合体して現在の町域となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-karumai-kotobank
+  - text: 同書によれば、中心地区の軽米は九戸街道に沿う宿場町として発展し、藩政時代には付近で砂鉄を産し、鉄瓶や鍋などをつくる鋳物業者が多く集まった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-karumai-kotobank
+  - text: 『日本歴史地名大系』の関連解説によれば、江戸時代の軽米は九戸郡の西半に設定された八戸藩の行政区域「軽米通」の中心で、軽米通代官所が置かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z7-karumai-kotobank
+  - text: 軽米町の地方公共団体コードは035017である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 語源が7つある町
+    text: 軽米ほど語源の候補が多い町名も珍しい。岩手県の由来一覧は、焼畑用語の「刈」から崖を意味するという説、カレ（涸）説、崖地の前方という説、アイヌ語の「カル・モイ（うねり曲がった流域）」「カル・オマイ（フキの葉がとれるところ）」、水走りの境をいう「離る間井（ガルマイ）」、馬医がいたという「軽馬医」説まで、7説を並べている。馬産地・九戸街道の宿場町として馬と縁の深い土地柄を思えば「軽馬医」も捨てがたく、アイヌ語説には地名研究の王道の重みがある。決め手がないまま説が積み重なっていくこと自体が、この地名の古さと、多くの人が由来を知りたがってきた証しである。
+    sources:
+    - z6-iwate-bunka-chimei
+    - z7-karumai-kotobank
+  relations:
+  - pref/03
+  unknowns:
+  - 語源の定説はなく、7説のいずれとも確定できない
+  - 「軽米」の文献初出は特定できていない
+  - 中世の軽米氏や軽米城と地名との関係は、本バッチでは確認できなかった
+  updated: '2026-11-13'
 - id: muni/03-遠野市
   code: 032085
   names:
@@ -898,6 +2163,148 @@ records:
   unknowns:
   - 「遠野」の語源は県の資料でも5説併記のままで、初出となる古文書も確認できなかった
   - 『遠野物語』の舞台とされる「遠野郷」の範囲と現在の市域の正確な対応は、確認した資料では特定できなかった
+  updated: '2026-11-13'
+- id: muni/03-野田村
+  code: '035033'
+  names:
+    ja: 野田村
+    reading: のだむら
+    aliases: []
+  user_terms:
+  - 野田塩の村
+  - 野田湾
+  - のだ
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 岩手県九戸郡の、三陸海岸の野田湾に面した村。「のだ」の語源は定説がなく、岩手県の地名解説は、宇部川・明内川流域の湿地を指す「ヌダ（沼田）」の転訛説、「野のある土地」説、方言で無風の波をいう「のだ」説を併記する。江戸時代から製塩が盛んで、塩を牛の背に載せて内陸へ運んだ「野田塩ベコの道」で知られる。現在の村は1889年に野田村と玉川村が合併して成立した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 本調査では「野田」の名の文献上の初出を確認できなかった。県の地名解説は語源説のみを示し、初出文献を挙げていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、野田村の団体コードは035033と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の地名解説は、「のだ」の語源として、村内を流れる宇部川・明内川流域の湿地・湿田を指す「ヌダ（沼田）」が転じたものとする説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同じく岩手県の地名解説は、「野のある土地」とする説と、方言で無風の波を意味する「のだ」による説も併せて紹介しており、語源は一つに定まっていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 明治22年（1889年）2月16日に野田村と玉川村（現在の玉川地区）が合併し、現在の野田村が成立した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-noda-vill
+  - text: 野田村では江戸時代から製塩が盛んとなり、塩は牛の背に載せられて遠く内陸地方まで運ばれ、その運搬路は「野田塩ベコの道」と呼ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-noda-vill
+  - text: 村は九戸郡に属し、東は三陸海岸の野田湾に面している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-noda-vill
+  column:
+    title: 塩を運んだ牛の道
+    text: 海の村の名産は、海水から作る塩だった。江戸時代から野田では製塩が盛んで、できあがった塩は牛の背に載せられ、山を越えて遠く内陸まで運ばれた。その運搬路は今も「野田塩ベコの道」と呼ばれ、一部を歩くイベントが行われている。「のだ」の語源は今も定まらないが、村の暮らしの記憶は塩と牛の道に残っている。
+    sources:
+    - z8-noda-vill
+  relations:
+  - pref/03
+  unknowns:
+  - 「野田」の名の文献上の初出は未確認
+  - ヌダ（沼田）転訛説の言語学的な裏付けは未確認
+  - 野田湾の名と村名「野田」の先後関係は未確認
+  updated: '2026-11-13'
+- id: muni/03-金ケ崎町
+  code: 033812
+  names:
+    ja: 金ケ崎町
+    reading: かねがさきちょう
+    aliases:
+    - 金ケ崎村
+  user_terms:
+  - かねがさき
+  - 金ケ崎要害の町
+  - 鳥海柵の町
+  naming_type: 一部の地名
+  prefecture: 岩手県
+  homonyms: []
+  summary: 岩手県胆沢郡の内陸の町。「かねがさき」の語源は定説がなく、岩手県の地名解説は「矩（かね）が崎」＝直角に曲がった州崎とする説と、「川根が崎」の略で扇状地の出崎とする説を併記する。近世には南部領と伊達領の境に位置し、伊達氏の拠点「金ケ崎要害」の城下として栄えた。1925年に町制を施行し、1955年に永岡村と合併して現在の町となった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 江戸時代の金ケ崎要害に「金ケ崎」の名は見えるが、それ以前の文献上の初出は本調査では確認できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、金ケ崎町の団体コードは033812と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 岩手県の地名解説は、「かねがさき」の語源として、「矩（カネ）が崎」で直角に曲がった州崎のこととする説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同じく岩手県の地名解説は、「川根が崎」の略で扇状地の出崎を指すとする説も併せて紹介しており、語源は定まっていない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 近世の金ケ崎は伊達領の北限・南部領との境の地で、旧奥州街道沿いに伊達氏の拠点「金ケ崎要害」が置かれ、その武家町の景観が残る城内諏訪小路地区は国の重要伝統的建造物群保存地区に選定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-kanegasaki-town
+  - text: 町内には前九年合戦（1051〜1062年）の舞台となった国指定史跡「鳥海柵（とのみのさく）跡」が残り、安倍宗任の柵とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-kanegasaki-town
+  - text: 大正14年（1925年）9月1日に町制を施行して金ケ崎町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z8-kanegasaki-wiki
+  - text: 昭和30年（1955年）3月1日に金ケ崎町と永岡村が合併し、新しい金ケ崎町として誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-kanegasaki-town
+  column:
+    title: 二つの藩の境の町
+    text: 金ケ崎は、北の南部領と南の伊達領の境にあった。町には両領の境を示す「南部領伊達領境塚」が残り、奥州街道沿いには伊達氏の北の拠点「金ケ崎要害」が築かれた。城下の武家町・城内諏訪小路の景観は今も色濃く残る。境の地であったことが、この町の歴史の色を決めている。
+    sources:
+    - z8-kanegasaki-town
+  relations:
+  - pref/03
+  unknowns:
+  - 「金ケ崎」の名の文献上の初出は未確認
+  - 「矩が崎」説と「川根が崎」説のいずれが正しいかは未確定
   updated: '2026-11-13'
 - id: muni/03-釜石市
   code: '032115'
@@ -1055,6 +2462,77 @@ records:
   - 氷上山の神田にちなむという「高田」の由来説の典拠となる古い記録は確認できなかった
   - 「陸前」を冠することにした合併協議の具体的な経緯（他の候補名の有無など）は、市公式資料で確認できなかった
   updated: '2026-11-13'
+- id: muni/03-雫石町
+  code: '033014'
+  names:
+    ja: 雫石町
+    reading: しずくいしちょう
+    aliases:
+    - 滴石
+    - 雫石村
+  user_terms:
+  - しずくいし
+  - 雫石スキー場
+  - 小岩井農場のある町
+  naming_type: 一部の地名（中世の「滴石」が戦国期に「雫石」と表記を改められた地名の継承）
+  prefecture: 岩手県
+  homonyms: []
+  summary: 岩手県岩手郡の町。中世には「滴石」と表記され、12世紀末頃に戸沢氏が移り住んで滴石の姓を名乗ったと伝わる。戦国期に斯波氏が「滴石」を「雫石」に改めた。語源には、川底に沈む石が多い土地を指す「沈く石（シズクイシ）」説と、雫石神社の湧き水「たんたん」にちなむ説がある。1889年に雫石村が成立し、1940年の町制を経て1954年に西山村などと合併した。
+  first_attestation:
+    era: 12世紀末
+    year_western: null
+    document: 諸記録（雫石町公式「雫石の歴史」が紹介）
+    note: 戸沢氏初代衡盛が移り住み戸沢（滴石）の姓を名乗ったとする記録が町公式の歴史に紹介される。当初の表記は「滴石」。具体的な文献名は特定できなかった
+  claims:
+  - text: 総務省の全国地方公共団体コードで、雫石町の団体コードは033014と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 中世にはこの地は「滴石」と表記され、雫石町公式の歴史によれば、諸記録では12世紀末頃に戸沢氏初代の衡盛が移り住み、戸沢（滴石）の姓を名乗ったとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shizukuishi-town-history
+  - text: 戦国時代に滴石に入った斯波氏は、「滴石」を「雫石」に改め、自らも雫石氏を名乗って雫石城を復興した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z8-shizukuishi-town-history
+  - text: 岩手県の地名解説は、「しずくいし」の語源として、雫石川や葛根田川などに沈む石（シズクイシ）が多く、川底に石が多いところを指すとする説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 同じく岩手県の地名解説は、「滴石」は雫石神社の湧き水「たんたん」にちなむとする説も併せて紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z6-iwate-bunka-chimei
+  - text: 明治22年（1889年）に雫石村が成立し、昭和15年（1940年）12月23日に町制を施行して雫石町となり、昭和29年（1954年）4月1日に西山村などが合併した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z8-shizukuishi-wiki
+  column:
+    title: 「滴石」から「雫石」へ
+    text: この町の名は、もとは「滴石」と書かれた。中世の記録に現れるこの土地を、戦国時代に領した斯波氏が「雫石」と改め、自らも雫石氏を名乗ったという。水のしたたりを思わせる「雫」の字への置き換えは、武将の美意識の表れだったのかもしれない。町には雫石神社の湧き水「たんたん」を名の由来とする説も伝わり、水にまつわる名であることは一貫している。
+    sources:
+    - z8-shizukuishi-town-history
+    - z6-iwate-bunka-chimei
+  relations:
+  - pref/03
+  unknowns:
+  - 「滴石」の名が見える中世資料の具体的な文献名は未確認
+  - 斯波氏が「雫石」に改めた正確な年次は未確認
+  - 語源の「沈く石」説と雫石神社の湧き水説の先後・優劣は未確定
+  updated: '2026-11-13'
 sources:
   a-cap-morioka-bunka:
     label: いわての文化情報大事典「市名の由来」（岩手県。盛岡：不来方・森ヶ岡・森岡の変遷と命名の意味、別説）
@@ -1068,6 +2546,9 @@ sources:
   b-cap-chiba-soumu-code:
     label: 総務省「地方公共団体コード一覧」
     url: https://www.soumu.go.jp/main_content/000925834.pdf
+  k2-hachinohe-city-gaiyo:
+    label: 八戸市「八戸市の概要」（糠部郡の8番目の「戸」、「戸」の正体についての市の見解、1929年の市制）
+    url: https://www.city.hachinohe.aomori.jp/soshikikarasagasu/kohotokeika/kohokocho/2/1702.html
   l1-hanamaki-castle:
     label: 花巻市公式「花巻城跡散策」（前身は稗貫氏の鳥谷ヶ崎城。1590年の奥州仕置きで南部氏の領有となり花巻城へ）
     url: https://www.city.hanamaki.iwate.jp/bunkasports/bunka/1019886/bunkazai/1002095.html
@@ -1164,3 +2645,126 @@ sources:
   t4-tono-wiki:
     label: Wikipedia「遠野市」（1954年12月1日に遠野町・青笹村・上郷村・小友村・綾織村・附馬牛村・松崎村・土淵村が合併して遠野市が生まれたこと、柳田國男の『遠野物語』の舞台で河童や座敷童子が登場する民話が伝わること）
     url: https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E5%B8%82
+  z6-ichinohe-town-about:
+    label: 一戸町公式「一戸町について」（一戸の由来は諸説あるが、平安末期から名馬の産地として知られ、その牧場を一から九の戸に分けられたことからといわれていること、昭和32年（1957年）11月1日に一戸町・浪打村・鳥海村・小鳥谷村・姉帯村の1町4村が合併して現在の一戸町が誕生したことを記す）
+    url: https://www.town.ichinohe.iwate.jp/soshikikarasagasu/somuka/gyouseikakari/1/372.html
+  z6-ichinohe-wiki:
+    label: Wikipedia「一戸町」（明治22年（1889年）4月1日に一戸村と高善寺村が合併して一戸町が発足したこと、一戸町が二戸郡に属することを記す）
+    url: https://ja.wikipedia.org/wiki/一戸町
+  z6-iwate-bunka-chimei:
+    label: いわての文化情報大事典「町村名の由来」（岩手県。住田町については、1955年に世田米町と上有住村・下有住村が合併した際、有住の「住」と世田米の「田」を組み合わせたものであること、大槌町については、ツツ（包む）の意で崎に包まれた地とする説、大槌川・小鎚川流域の大きな川内（オホウチ）とする説、「津地」の意で船着場とする説、「辻」の意で道の交差するところとする説の4説を挙げる）
+    url: http://www.bunka.pref.iwate.jp/archive/p1499
+  z6-iwate-town-history:
+    label: 岩手町公式「町の歴史」（昭和30年（1955年）7月に沼宮内町・御堂村・一方井村・川口村の1町3村が合併し「岩手町」となったことを掲げる町公式の年表）
+    url: https://town.iwate.iwate.jp/town/towninfo/history
+  z6-kunohe-vill-plan:
+    label: 九戸村「九戸村過疎地域持続的発展計画」（本村が歴史に登場するのは建久2年（1191年）に南部藩の祖・三郎光行の五男「五郎行連」が九戸五郎と名乗り本村の長興寺に居を構えてからと言い伝えられていること、明治22年の町村制で伊保内村・戸田村・江刺家村の3か村となり、昭和30年（1955年）4月に3か村が合併して「九戸村」となったことを記す村公式の計画）
+    url: https://vill.kunohe.iwate.jp/fs/8/2/0/0/_/%E4%B9%9D%E6%88%B8%E6%9D%91%E9%81%8E%E7%96%8E%E5%9C%B0%E5%9F%9F%E6%8C%81%E7%B6%9A%E7%9A%84%E7%99%BA%E5%B1%95%E8%A8%88%E7%94%BBR5.6%E6%94%B9%E8%A8%82.pdf
+  z6-kunohe-wiki:
+    label: Wikipedia「九戸村」（昭和30年（1955年）4月1日に戸田村・伊保内村・江刺家村が合併して九戸村が発足したこと、九戸城は九戸村ではなく二戸市にあり九戸氏の居城という意味合いの名であることを記す）
+    url: https://ja.wikipedia.org/wiki/九戸村
+  z6-otsuchi-ta-horai:
+    label: 大槌町観光交流協会「蓬莱島（ひょうたん島）」（大槌湾内の島で、江戸時代には「珊瑚島」と呼ばれたが元文3年（1738年）に盛岡藩主・南部利視が巡検の際に命じて「蓬莱島」と呼ばれるようになったこと、「ひょうたん島」として親しまれ東日本大震災で倒壊した大槌港灯台が再建されたことを記す）
+    url: https://otsuchi-ta.com/tourism?p=2664
+  z6-otsuchi-uub:
+    label: 市区町村変遷情報「法的根拠等に基づく変遷 岩手県」（明治22年（1889年）4月1日に南閉伊郡大槌村・小槌村・吉里々々村の合併により大槌町が新設されたことなどを掲げる変遷データ）
+    url: https://uub.jp/upd/s_iwate.html
+  z6-otsuchi-wiki:
+    label: Wikipedia「大槌町」（戦国時代に当地が大槌氏の支配下にあり、元和3年（1617年）に大槌孫八郎政貞が南部利直から謀反の嫌疑をかけられ切腹して大槌氏が断絶したこと、昭和30年（1955年）4月1日に大槌町と金沢村が合併したこと、東日本大震災の津波で甚大な被害を受けたことを記す）
+    url: https://ja.wikipedia.org/wiki/大槌町
+  z6-sumita-wiki:
+    label: Wikipedia「住田町」（住田は合併した上有住村・下有住村と世田米町からそれぞれ一文字ずつとった合成地名であること、合併協議の際は気仙川（成瀬川）に由来する「成瀬町」にする予定だったが反対により現在の地名となったこと、明治22年（1889年）に世田米村・上有住村・下有住村がそれぞれ単独で成立し、昭和15年（1940年）に世田米村が町制を施行したことを記す）
+    url: https://ja.wikipedia.org/wiki/住田町
+  z6-yamada-town-ayumi:
+    label: 山田町公式「山田町の主なあゆみ」（霊亀元年（715年）の『続日本紀』に蝦夷の須賀君古麻比留が「閉村に郡家を建てて下さい」と求めた記述があること、寛永20年（1643年）に山田湾にオランダ船ブレスケンス号が入港したこと、明治22年（1889年）に飯岡村・山田村が合併して山田町となったこと、昭和30年（1955年）に山田町・豊間根村・大沢村・織笠村・船越村が合併して新山田町が誕生したこと、平成23年（2011年）の東日本大震災で本町の死者・不明者が825人となったことを記す町公式の年表）
+    url: https://www.town.yamada.iwate.jp/docs/406.html
+  z7-azumakagami-bunji5:
+    label: 『吾妻鏡』第9巻 文治5年9月条の翻刻（9月2日条「平泉を出で、岩井郡厨河の辺に赴かしめ給う」）
+    url: http://adumakagami.web.fc2.com/aduma09-09.htm
+  z7-fudai-plan:
+    label: 第5次普代村総合発展計画（普代村公式。明治9年に普代村・黒崎村・堀内村が合併して現在の普代村の始まりとなったこと）
+    url: https://www.vill.fudai.iwate.jp/img/gyouseifolder/5jisougou202405kousinnDATA/034851honbun.pdf
+  z7-fudai-sanfes:
+    label: 三陸国際芸術祭「普代村」（義経北行伝説ゆかりの鵜鳥神社と地名「不行道」の伝承）
+    url: https://sanfes.com/areas/fudai
+  z7-fudai-vill-gaiyo:
+    label: 普代村公式「村の概要」（沿革：永正5年馬焼印図の「ふたい」、正保元年の絵図の「譜代」、承応3年の藤島家古文書の「普代村」）
+    url: https://www.vill.fudai.iwate.jp/gaiyou.html
+  z7-hiraizumi-ito:
+    label: 伊藤博幸「藤原清衡と『平泉思想』」（岩手大学リポジトリ。平泉地名研究史：高橋富雄説・李徳裕の平泉荘に倣う説・読み「へいせん」説・泉酒由来譚などの整理）
+    url: https://iwate-u.repo.nii.ac.jp/record/14677/files/arhs-v7p123-133.pdf
+  z7-hiraizumi-shi:
+    label: 『平泉志』巻之上（近世地誌の翻刻サイト。清衡が嘉保元年に平泉館を営んだとする記述と、館の南の酒泉・醴泉の伝承）
+    url: http://www.st.rim.or.jp/~success/t_hiraizumi1-1.htm
+  z7-hiraizumi-town-gaiyo:
+    label: 平泉町公式「町の概要」（町名の由来「古代以来の地名による。語源には、泉の噴出説やアイヌ語説があります」、1955年4月15日に平泉町と長島村が合併して成立）
+    url: https://www.town.hiraizumi.iwate.jp/%E7%94%BA%E3%81%AE%E6%A6%82%E8%A6%81-20994
+  z7-hirono-menkoi:
+    label: 岩手めんこいテレビ「洋野町、誕生から20年―地名に込められた“海と野原”」（ドコモニュース掲載。洋野町役場総務課の説明：種市町の広々とした海と大野村のなだらかな野原をイメージした名。種市の「棚」説も紹介）
+    url: https://topics.smt.docomo.ne.jp/amp/article/menkoi_tv/region/menkoi_tv-25084
+  z7-hirono-rinya:
+    label: 林野庁東北森林管理局広報誌「みどり」No.240（洋野町紹介。平成18年1月1日に種市町と大野村が合併して誕生）
+    url: https://www.rinya.maff.go.jp/tohoku/koho/koho_si/midori_No240_202403hirono.pdf
+  z7-hirono-yuraiyura:
+    label: 由来サイト「ゆらいゆら」洋野町の名前の由来（一般公募で決められた瑞祥地名、「野」は大野の「野」と直接の関係がないとする説明）
+    url: https://yuraiyura.com/hironocho-iwate
+  z7-iwaizumi-kotobank:
+    label: コトバンク「岩泉町」（『日本歴史地名大系』千本町から岩泉町への改称、『ブリタニカ国際大百科事典』町名は岩層から水が出ることによる・1956年合体と1957年小川村編入・岩泉湧窟）
+    url: https://kotobank.jp/word/%E5%B2%A9%E6%B3%89%E7%94%BA-32600
+  z7-iwaizumi-seiyouran:
+    label: 岩泉町勢要覧2024（岩泉町公式。歴史と沿革：大正11年町制など）
+    url: https://www.town.iwaizumi.lg.jp/docs/2025040300031/file_contents/2024_R06_.pdf
+  z7-karumai-kotobank:
+    label: コトバンク「軽米町」（『ブリタニカ国際大百科事典』町名はアイヌ語に由来するといわれる・1925年町制・1955年に小軽米・晴山の2村と合体・九戸街道の宿場町、『日本歴史地名大系』関連語「軽米通」八戸藩の軽米通代官所）
+    url: https://kotobank.jp/word/%E8%BB%BD%E7%B1%B3%E7%94%BA-40160
+  z7-kuzumaki-gaiyo:
+    label: 葛巻町公式「概要」（町制施行は昭和30年7月15日、酪農は明治25年の乳牛導入以来で東北一の酪農郷、「北緯40度ミルクとワインとクリーンエネルギーのまち」）
+    url: https://www.town.kuzumaki.lg.jp/docs/2015102200072
+  z7-kuzumaki-koho:
+    label: 広報くずまき2021年7月号（葛巻町公式。昭和30年7月15日に葛巻町・江刈村・田部村が合併し新葛巻町が誕生した経緯）
+    url: https://www.town.kuzumaki.lg.jp/docs/2021062900013/file_contents/2-3P.pdf
+  z7-nishiwaga-gun-wiki:
+    label: Wikipedia「西和賀郡」（明治12年の和賀郡の東西分割で西和賀郡が発足し、湯田村・沢内村の区域が属したこと）
+    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%92%8C%E8%B3%80%E9%83%A1
+  z7-nishiwaga-town-enkaku:
+    label: 西和賀町公式「地勢・沿革」（湯田町は町村制で湯田村となり昭和39年に町制、沢内村は明治22年に6カ村が合併、平成17年11月1日に両町村が合併し西和賀町が誕生）
+    url: https://www.town.nishiwaga.lg.jp/soshikikarasagasu/kikakuzaisei/2/4/7/1/1076.html
+  z7-shiwa-furusato100:
+    label: 紫波町公式「ふるさと物語100 紫波郡と改正」（広報しわ昭和47年掲載分の転載。天保6年に盛岡藩が幕府から紫波郡・志波郡の表記の相違を問われたいきさつ）
+    url: https://www.town.shiwa.iwate.jp/soshiki/4_1/2_6_2/1020.html
+  z7-shiwa-furusato3:
+    label: 紫波町公式「ふるさと物語3 『しわ』の地名考」（広報しわ昭和37年掲載分の転載。表記の変遷、本来の読みは「しは」、紫波の文字の一般化は明治以後、斯波孫三郎の和歌の伝え、アイヌ語説への言及）
+    url: https://www.town.shiwa.iwate.jp/soshiki/4_1/2_6_2/923.html
+  z7-shiwa-town-profile:
+    label: 紫波町公式「まちのプロフィール」（昭和30年に1町8カ村が合併し誕生、9世紀前半に斯波郡として治められるようになったこと）
+    url: https://www.town.shiwa.iwate.jp/chosei/gaiyo1/gaiyo2/2194.html
+  z7-tanohata-kotobank:
+    label: コトバンク「田野畑村」（『日本歴史地名大系』。正保国絵図に「田野畠村」とみえること、寛永21年の「雑書」の「田端村」は当村のことかとすること、元禄十郡郷帳で高は畑方のみだったこと）
+    url: https://kotobank.jp/word/%E7%94%B0%E9%87%8E%E7%95%91%E6%9D%91-94015
+  z7-tanohata-vill-enkaku:
+    label: 田野畑村公式「地理・沿革」（明治22年4月に田野畑・沼袋・浜岩泉の3村が合併し現在の田野畑村が誕生）
+    url: http://www.vill.tanohata.iwate.jp/docs/2015073100043/
+  z7-waga-gun-wiki:
+    label: Wikipedia「和賀郡」（和賀郡が奥六郡の一つに数えられること、現在の和賀郡は西和賀町のみで構成されること）
+    url: https://ja.wikipedia.org/wiki/%E5%92%8C%E8%B3%80%E9%83%A1
+  z7-yahaba-kotobank:
+    label: コトバンク「矢巾」（『日本大百科全書（ニッポニカ）』。1955年に煙山・徳田・不動の3村が合併して矢巾村となり1966年町制、徳丹城跡は延暦22年に築かれた城柵）
+    url: https://kotobank.jp/word/%E7%9F%A2%E5%B7%BE-3134265
+  z7-yahaba-wiki:
+    label: Wikipedia「矢巾町」（町役場が大字南矢幅にあることなど）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%B7%BE%E7%94%BA
+  z8-kanegasaki-town:
+    label: 金ケ崎町公式「町の概要」（金ケ崎要害・鳥海柵跡、1955年の永岡村との合併と町章）
+    url: https://www.town.kanegasaki.iwate.jp/docs/2017062100386
+  z8-kanegasaki-wiki:
+    label: Wikipedia「金ケ崎町」（1925年の町制施行など沿革）
+    url: https://ja.wikipedia.org/wiki/%E9%87%91%E3%83%B6%E5%B4%8E%E7%94%BA
+  z8-noda-vill:
+    label: 野田村公式「村の案内」（1889年の野田村・玉川村の合併、江戸時代以来の製塩と野田塩ベコの道）
+    url: https://www.vill.noda.iwate.jp/gyoseijoho/nodamuranogaiyo/734.html
+  z8-shizukuishi-town-history:
+    label: 雫石町公式「雫石の歴史（1・歴史的沿革）」（中世の「滴石」表記、戸沢氏、斯波氏による「雫石」への改称）
+    url: https://www.town.shizukuishi.iwate.jp/docs/2014120800189
+  z8-shizukuishi-wiki:
+    label: Wikipedia「雫石町」（1889年雫石村成立、1940年町制、1954年の合併など沿革）
+    url: https://ja.wikipedia.org/wiki/%E9%9B%AB%E7%9F%B3%E7%94%BA

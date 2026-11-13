@@ -12243,6 +12243,82 @@ records:
   - 皆川周修太夫の地図そのものは本バッチでは未確認で、初出の記述は町公式サイトの紹介に基づく
   - 「冷水の渕」説と「泉のわく川」説の優劣は確定していない
   updated: '2026-11-13'
+- id: muni/01-苫前町
+  code: 014834
+  names:
+    ja: 苫前町
+    reading: とままえちょう
+    aliases:
+    - トマオマイ
+    - トママイ
+    - 苫前村
+  user_terms:
+  - とままえの読み方
+  - トマオマイとは
+  - エゾエンゴサクの町
+  - 旧読み・とままい
+  naming_type: 一部の地名
+  prefecture: 北海道
+  homonyms: []
+  summary: 苫前町の名は、アイヌ語「トマオマイ（エゾエンゴサクのある所）」の転訛と留萌振興局は説明し、『日本大百科全書』は「トマオマナイ（エゾエンゴサクの茂る所）」の転訛とする。もとは「とままい」と読まれ、江戸時代には松前藩のトママイ場所が開かれていた。1948年10月に苫前村が町制を施行して苫前町となった。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 江戸時代にトママイ場所が開かれていたことは確認できるが、「苫前」の漢字表記そのものの文書上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、苫前町の団体コードは014834と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-tomamae-wikipedia
+  - text: 北海道留萌振興局によれば、苫前町の市町村名の由来はアイヌ語「トマオマイ」（エゾエンゴサクのある所）からの転訛である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-tomamae-rumoi
+  - text: 『日本大百科全書（ニッポニカ）』は、町名はアイヌ語「トマオマナイ」（エゾエンゴサクの茂る所の意）の転訛であるとする。留萌振興局の「トマオマイ」説と原語の切り分け方が異なり、転写には揺れがある
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - z1-tomamae-nipponica
+  - text: 苫前はもともと「とままい」と読まれ、江戸時代の苫前郡域は西蝦夷地に属し、慶長年間ころから松前藩によってトママイ場所が開かれていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-tomamae-gun-wikipedia
+  - text: 『日本歴史地名大系』によれば、昭和23年（1948年）10月に苫前郡苫前村が町制を施行して苫前町が成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z1-tomamae-rekishi
+  - text: 留萌振興局の紹介によれば、苫前町の町の花はエゾエンゴサクであり、町名の語源とされる植物そのものが町の花に選ばれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-tomamae-rumoi
+  column:
+    title: 語源の花が、そのまま町の花になった
+    text: 苫前の名の元とされるアイヌ語「トマオマイ／トマオマナイ」は、エゾエンゴサクの花の多い所を意味すると伝えられる。そして苫前町の町の花は、まさにそのエゾエンゴサクである。春、雪どけの山野に紫色の小さな花が咲く様子は、かつてこの地を名付けた人々が見た風景の名残といえる。読みも「とままい」から「とままえ」へ移り、音の姿は変わっても、花の名は町の象徴として残り続けている。
+    sources:
+    - z1-tomamae-rumoi
+    - z1-tomamae-nipponica
+  relations:
+  - pref/01
+  - muni/01-羽幌町
+  - muni/01-小平町
+  unknowns:
+  - アイヌ語原語の確定形（トマオマイかトマオマナイか）と、北海道「アイヌ語地名リスト」における確定レベルは確認できていない
+  - 「とままい」から「とままえ」へ読みが変わった時期と経緯は確認できていない
+  - 「苫前」の漢字表記の初出は確認できていない
+  updated: '2026-11-13'
 - id: muni/01-苫小牧市
   code: '012131'
   names:
@@ -12320,6 +12396,613 @@ records:
   - 「トゥマコマイ」説の学術的典拠（誰のどの著作か）は特定できていない。
   - 市制施行の月日（4月1日と伝える資料がある）については、本バッチでは公的資料で再確認できていない。
   updated: '2026-11-13'
+- id: muni/01-蘂取村
+  code: '017001'
+  names:
+    ja: 蘂取村
+    reading: しべとろむら
+    aliases:
+    - シベトロ
+    - 蘂取
+  user_terms:
+  - しべとろ
+  - 北方領土の村
+  - 日本最北端の村
+  - 択捉島の村
+  naming_type: 一部の地名
+  prefecture: 北海道
+  homonyms: []
+  summary: 蘂取村は択捉島の北東端にある、日本最北端の村である。村名の由来はアイヌ語の「シ・ペッ・オロ（大きい川のところ）」からとされ、択捉島最長の蘂取川の河口に中心集落があった。1869年に千島国蘂取郡の村として成立し、1923年に乙今牛村と合併した。現在は北方領土として日本の施政権が及ばず、法令上のみ存在する村となっている。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 18世紀末の探検の時代には郡域にシベトルの村々があったとされるが、「蘂取」という村名表記の文書上の初出は確認できていない。資料は北方領土のため公的資料が限られる
+  claims:
+  - text: 総務省の全国地方公共団体コードで、蘂取村の団体コードは017001と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-shibetoro-wikipedia
+  - text: 村名の由来は、アイヌ語の「シ・ペッ・オロ（大きい川のところ）」からとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-shibetoro-wikipedia
+  - text: 1869年（明治2年）8月15日に北海道11国が置かれ、千島国蘂取郡蘂取村が成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-shibetoro-wikipedia
+  - text: 『日本歴史地名大系』によれば、大正12年（1923年）に蘂取郡蘂取村と乙今牛村が合併し、二級町村の蘂取村が成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z1-shibetoro-rekishi
+  - text: 『日本歴史地名大系』によれば、村は択捉島の北東端部に位置し、南西流して蘂取でオホーツク海に注ぐ蘂取川は択捉島で最長の川で、その流域に平地を形成している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z1-shibetoro-rekishi
+  - text: 蘂取村は日本最北端の村であるが、蘂取村を含む北方領土に日本の施政権は及んでおらず、法令上のみ存在する村となっている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-shibetoro-wikipedia
+  - text: 1983年より、蘂取村に関する戸籍事務は根室市役所が代行している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-shibetoro-wikipedia
+  column:
+    title: 日本最北端の村と「大日本恵登呂府」の標柱
+    text: 蘂取村の北端、カモイワッカ岬は日本の施政下にあった時代の国境の地だった。1800年（寛政12年）には幕府の近藤重蔵が「大日本恵登呂府」の標柱を建てたと伝わり、1930年（昭和5年）には朽ちた標柱に代えて御影石の記念碑が村人の手で人力で運び上げられ、岬に立てられたと記録される。村の集落は蘂取川の河口に開け、語源どおり「大きい川のところ」が島の暮らしの中心だった。その村は今、法令の上にだけ残り、元島民の墓参で訪れる地となっている。
+    sources:
+    - z1-shibetoro-wikipedia
+  relations:
+  - pref/01
+  unknowns:
+  - 村に公式サイトはなく（施政権が及ばないため）、語源「シ・ペッ・オロ」はWikipediaの記述に依拠しており、山田秀三ら専門研究の原典や北海道「アイヌ語地名リスト」の確定レベルは確認できていない
+  - 「シベトロ」の文書上の初出は確認できていない
+  - 戦前の村史・郷土資料は散逸や所在不明のものが多く、現地確認もできないため、伝承の細部は検証が困難である
+  updated: '2026-11-13'
+- id: muni/01-蘭越町
+  code: 013943
+  names:
+    ja: 蘭越町
+    reading: らんこしちょう
+    aliases:
+    - 南尻別村
+    - ランコウシ
+    - 蘭越
+  user_terms:
+  - らんこし
+  - ランコウシとは
+  - 蘭越米の町
+  - 旧名・南尻別
+  naming_type: 一部の地名
+  prefecture: 北海道
+  homonyms: []
+  summary: 蘭越町の名は、アイヌ語「ランコ・ウシ（桂の木の多い所）」が訛った地名「蘭越」に由来する。1899年に尻別村から分村した際は南尻別村を名乗ったが、1954年12月1日の町制施行にあたり、役場所在地の地名である蘭越を町名とした。生産される蘭越米でも知られる。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「ランコウシ」の文書上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、蘭越町の団体コードは013943と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-rankoshi-wikipedia
+  - text: 蘭越町公式によれば、蘭越とはアイヌ語の「ランコ・ウシ」が訛ったもので、桂の木の多い所という意味である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-rankoshi-town
+  - text: 蘭越町公式によれば、明治32年（1899年）に尻別村（旧磯谷村、現寿都町の一部）から分村して南尻別村となり、昭和29年（1954年）12月1日、町制施行にあたって役場所在地が蘭越にあることから町名を蘭越町と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-rankoshi-town
+  - text: 改称の経緯として、役場所在地と村名が異なり混乱を招いたこと、札幌・小樽方面では「南尻別」より「蘭越」のほうが知名度があったこと、蘭越は駅名・郵便局名・学校名として既に使われていたことが、町史に基づく紹介として伝えられている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-rankoshi-wikipedia
+  - text: 蘭越町公式によれば、町章の中央の花は蓉楽蘭の花を図案化したもので、周囲の円はカタカナの「コ」の字を四つ組み合わせて蘭越を表している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-rankoshi-town
+  column:
+    title: 桂の名なのに、町章は蘭の花
+    text: 蘭越の語源は桂の木を意味するアイヌ語「ランコ・ウシ」で、「蘭」の字は音に当てたものにすぎない。ところが1954年に制定された町章は、中央に蘭の花を図案化し、「高貴にして優雅な蘭の花のように」と説明する。当て字の「蘭」が、いつの間にか町の象徴として独り歩きを始めた好例である。もっとも周囲の円はカタカナの「コ」を四つ組み合わせたもので、こちらは「ランコ」の「コ」を拾った意匠になっている。
+    sources:
+    - z1-rankoshi-town
+  relations:
+  - pref/01
+  - muni/01-寿都町
+  - muni/01-ニセコ町
+  unknowns:
+  - 「ランコウシ」の文書上の初出は確認できていない
+  - 「蘭越」の当て字が定着した時期と経緯の一次資料は確認できていない
+  - 北海道「アイヌ語地名リスト」における「ランコ・ウシ」の確定レベルは確認できていない
+  updated: '2026-11-13'
+- id: muni/01-西興部村
+  code: 015628
+  names:
+    ja: 西興部村
+    reading: にしおこっぺむら
+    aliases:
+    - オウコッペ
+    - オコッペ
+  user_terms:
+  - にしおこっぺ
+  - 西おこっぺ
+  - オウコッペとは
+  - 興部との違い
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 西興部村の名は、東隣の興部町の名に「西」を冠したものである。「興部」はアイヌ語「オウコッペ（川尻の合流したところ）」の転訛で、興部川と藻興部川が河口で合流していた地形に由来する。1925年に興部村から分村して成立し、その後の合併の波の中でも単独存続を選んできた山村である。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「オウコッペ」の文書上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、西興部村の団体コードは015628と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-nishiokoppe-wikipedia
+  - text: 西興部村公式によれば、「興部」とはアイヌ語の「オウコッペ」より転訛したもので「川尻の合流したところ」の意味があり、興部川と藻興部川が川尻で合流してオホーツク海に注いでいたので名付けられた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-nishiokoppe-vill
+  - text: 西興部村公式によれば、本村は興部の西方に位置するので、西の字を冠したものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-nishiokoppe-vill
+  - text: 興部町公式の沿革によれば、大正14年（1925年）に興部村から西興部村が分村した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - y12-okoppe-town-profile
+  - text: 学術論文によれば、分村の背景には海に面した漁業地域との利害の不一致があり、昭和の大合併の際に再合併の話が持ち上がったが合併には到らず、平成の合併でも村は自立の道を選択した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-nishiokoppe-hgu
+  - text: 学術論文によれば、西興部村は面積の約89%を山林が占める山村で、興部川と藻興部川に沿って農地が開けている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-nishiokoppe-hgu
+  column:
+    title: 分かれた村は、二度と戻らなかった
+    text: 西興部は1925年、海沿いの漁村的な興部村から、山あいの農林地域が分かれて生まれた。戦後の昭和の大合併では再び一緒になる話が出たが、実現しなかった。分村に至った地域内の軋轢を二度と味わいたくないという思いが、村の選択を支えてきたと研究者は記す。「西」という一字は、単なる方角ではなく、興部と袂を分かった村の自立の印でもある。
+    sources:
+    - z1-nishiokoppe-hgu
+    - y12-okoppe-town-profile
+  relations:
+  - pref/01
+  - muni/01-興部町
+  unknowns:
+  - 「オウコッペ」の文書上の初出と、北海道「アイヌ語地名リスト」における確定レベルは確認できていない
+  - 分村時の境界決定の詳細な記録は確認できていない
+  updated: '2026-11-13'
+- id: muni/01-訓子府町
+  code: 015491
+  names:
+    ja: 訓子府町
+    reading: くんねっぷちょう
+    aliases:
+    - クンネプ
+    - クンネップ
+    - 訓子府村
+  user_terms:
+  - くんねっぷ
+  - クンネプとは
+  - 黒い川の町
+  - 訓子府の読み方
+  naming_type: 一部の地名
+  prefecture: 北海道
+  homonyms: []
+  summary: 訓子府町の名は、アイヌ語「クンネプ」の転訛で、「黒いところ、やち川にして水黒し」の意味と町公式は説明する。常呂川支流の湿地の黒い水にちなむ名である。1897年に北光社移民団が入地し、1920年に置戸村から独立して訓子府村となり、1951年11月に町制を施行した。
+  first_attestation:
+    era: 明治16年
+    year_western: 1883
+    document: 訓子府町史年表（町公式）
+    note: 町の歴史年表が「本町地区は単にクンネップと称す」と記す使用例。地名そのものの初出かどうかは未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、訓子府町の団体コードは015491と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-kunneppu-wikipedia
+  - text: 訓子府町公式によれば、町の名はアイヌ語の「クンネプ」から転訛したもので、「黒いところ、やち川にして水黒し」の意味から由来している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-kunneppu-town
+  - text: 北海道『アイヌ語地名リスト』の引用として紹介されるところでは、「クンネプ」は「黒い・もの（川）」で、やち川で水が黒かったとする永田方正の説が引かれており、町の説明と原義の切り分け方に多少の違いがある
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - z1-kunneppu-cirotto
+  - text: 訓子府町の歴史年表によれば、明治16年（1883年）の時点で本町地区は単に「クンネップ」と称されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-kunneppu-nenpyou
+  - text: 訓子府町公式によれば、明治30年（1897年）に北光社移民団の内13戸がオロムシ（現在の大谷地区）に入地したのが訓子府町の定住の始まりである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-kunneppu-town
+  - text: 訓子府町公式によれば、大正4年（1915年）に今の訓子府は置戸村の一部となり、大正9年（1920年）に置戸村から独立して訓子府村となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-kunneppu-town
+  - text: 訓子府町公式によれば、昭和26年（1951年）11月に町制を施行し訓子府町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-kunneppu-town
+  column:
+    title: 「置戸町」になりかけた訓子府
+    text: 平成の合併協議で、訓子府町と置戸町は新町名を「置戸町」とすることで一度は合意した。置戸村の一部だった時代を持つ訓子府にとって、古巣の名を名乗る案だった。しかし訓子府町の住民アンケートで合併反対が半数以上を占め、協議は解散した。「クンネプ＝黒い水」という古いアイヌ語の名は、こうして令和の自治体名として残り続けている。
+    sources:
+    - z1-kunneppu-wikipedia
+    - z1-kunneppu-town
+  relations:
+  - pref/01
+  unknowns:
+  - 1883年の「クンネップ」の使用例より古い文書記録は確認できていない
+  - 「訓子府」の当て字が定着した時期は確認できていない
+  updated: '2026-11-13'
+- id: muni/01-豊富町
+  code: '015164'
+  names:
+    ja: 豊富町
+    reading: とよとみちょう
+    aliases:
+    - エベコロベツ
+    - 沙流村
+    - イペコロペッ
+    - 豊富村
+  user_terms:
+  - とよとみ
+  - 豊富温泉の町
+  - 日本最北の温泉郷
+  - サロベツ原野の町
+  naming_type: 新規命名
+  prefecture: 北海道
+  homonyms: []
+  summary: 豊富町の名は、アイヌ語「イペコロペッ（食物〔魚〕を持つ川）」を「食物が豊富」と意訳して1908年に命名された和風の新名である。川の名エベコロベツに由来する意訳命名で、当地は沙流村、のち幌延村の一部を経て、1940年に豊富村として分村独立し、1959年に町制を施行した。石油試掘から生まれた日本最北の温泉郷・豊富温泉で知られる。
+  first_attestation:
+    era: 明治41年
+    year_western: 1908
+    document: エベコロベツ住民会の命名（『豊富町史』の記述として紹介）
+    note: 「豊富」の命名そのものの年次。『豊富町史』を引く二次紹介経由で確認した範囲であり、原典は未読
+  claims:
+  - text: 総務省の全国地方公共団体コードで、豊富町の団体コードは015164と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-toyotomi-wikipedia
+  - text: 『豊富町史』の記述を引く紹介によれば、かつて豊富市街から徳満にかけては、エベコロベツ川のアイヌ語名「イペコロペッ（ipe-kor-pet）」（食物〔魚〕・を持つ・川）から「エベコロベツ」と呼ばれていた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-toyotomi-wikipedia
+  - text: 『豊富町史』の記述を引く紹介によれば、「豊富」の名称は1908年（明治41年）に発足したエベコロベツ住民会で、「イペコロペッ」を「食物が豊富」であると意訳して命名されたのが始まりである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-toyotomi-wikipedia
+  - text: 一説には、「豊富」の地名を提案したのは1907年（明治40年）に当地に入植した農場主・嘉納久三郎とされている
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z1-toyotomi-wikipedia
+  - text: 1878年（明治11年）に沙流村が設置され当地は「沙流」とも呼ばれたが、1919年（大正8年）に幌延村へ合併され、1940年（昭和15年）9月に旧沙流村域が豊富村として分村・独立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-toyotomi-wikipedia
+  - text: 1959年（昭和34年）1月に町制を施行し、豊富町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-toyotomi-wikipedia
+  - text: 豊富温泉は、1926年（大正15年）5月17日夜半に石油試掘の深度960メートルから天然ガスとともに温泉が噴出したことに始まり、日本最北の温泉郷とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyotomi-onsen
+    - z1-toyotomi-wikipedia
+  column:
+    title: 意訳で生まれた町名と、石油の湯
+    text: 「豊富」は音訳でも当て字でもなく、意味の翻訳で生まれた町名である。魚の豊かな川「イペコロペッ」の心を汲んで「食物が豊富」と言い換えた命名は、開拓地らしい実直さが光る。その18年後の1926年、石油を掘る井戸から天然ガスとともに熱い湯が噴き出した。油分を含む独特の湯は豊富温泉となり、「豊富」の名は温泉郷の名として全国に知られるようになった。
+    sources:
+    - z1-toyotomi-wikipedia
+    - z1-toyotomi-onsen
+  relations:
+  - pref/01
+  - muni/01-幌延町
+  unknowns:
+  - 『豊富町史』の原文（157-158頁、205-208頁とされる箇所）は未読で、命名の経緯は二次紹介経由の確認にとどまる
+  - 北海道「アイヌ語地名リスト」における「イペコロペッ」の確定レベルは確認できていない
+  updated: '2026-11-13'
+- id: muni/01-豊浦町
+  code: '015717'
+  names:
+    ja: 豊浦町
+    reading: とようらちょう
+    aliases:
+    - 弁辺村
+    - 弁辺
+    - べんべ
+    - 豊浦村
+  user_terms:
+  - とようら
+  - 旧名・弁辺（べんべ）
+  - 内浦湾の町
+  - 噴火湾の町
+  naming_type: 新規命名
+  prefecture: 北海道
+  homonyms: []
+  summary: 豊浦町は、旧名「弁辺（べんべ）」から1932年に改称された名で、町公式は「農産物・水産物が豊かで内浦湾に面していることから」と説明する。「弁辺」はアイヌ語起源の古い地名で、山田秀三は「ペウンペ（水・ある・ところ）」等の解釈を示した。1947年に町制を施行して豊浦町となった。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「弁辺」の文書上の初出は確認できていない
+  claims:
+  - text: 豊浦町公式の概要資料によれば、豊浦町の市町村コード番号は015717である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyoura-gaiyou2017
+    - b-cap-chiba-soumu-code
+  - text: 豊浦町公式によれば、地名の由来は、農産物、水産物が豊かで内浦湾に面していることからである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyoura-gaiyou2019
+  - text: 豊浦町公式によれば、かつては弁辺（べんべ）と呼ばれていたが、昭和7年（1932年）4月に村名弁辺村を豊浦村と改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyoura-gaiyou2019
+  - text: 豊浦町公式によれば、昭和22年（1947年）7月に町制施行により豊浦町が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyoura-gaiyou2019
+  - text: 豊浦町公式の概要では、旧名「弁辺」はアイヌ語で「ベツベツ（川・川）」に結びつける説明がみられる
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z1-toyoura-gaiyou2019
+  - text: 地名研究者の山田秀三は、「弁辺」の語源としてアイヌ語の「ペウンペ（pe-un-pe：水・ある・ところ）」「ペペナイ（pe-pe-nay：水・水・川）」あるいは「ペペ（pe-pe：水・水）」に由来すると解釈したと紹介されている。町の説明と解釈が異なり、語源は定まっていない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z1-toyoura-wikipedia
+  column:
+    title: 「べんべ」が読めなくて、豊浦になった
+    text: 旧名「弁辺」は「べんべ」と読む難読地名だった。1932年、村は名を「豊浦」に改めた。豊かな実り（豊）と、内浦湾に面する立地（浦）を組み合わせた、意味の分かりやすい縁起のよい新名である。アイヌ語の古名が消えた代わりに、改称の理由そのものが町の自己紹介になった。いま町民憲章の冒頭は「豊かな内浦の海と美しい緑の山に恵まれた豊浦の町民です」とうたい、改名の精神がそのまま受け継がれている。
+    sources:
+    - z1-toyoura-gaiyou2019
+  relations:
+  - pref/01
+  - muni/01-洞爺湖町
+  - muni/01-長万部町
+  unknowns:
+  - 改称の直接の動機（難読回避かどうか等）を明示する当時の記録は確認できていない
+  - 「弁辺」のアイヌ語源の確定説と、北海道「アイヌ語地名リスト」の確定レベルは確認できていない
+  - 「弁辺」の文書上の初出は確認できていない
+  updated: '2026-11-13'
+- id: muni/01-豊頃町
+  code: '016454'
+  names:
+    ja: 豊頃町
+    reading: とよころちょう
+    aliases:
+    - トエコロ
+    - トヨコロ
+    - 豊頃村
+  user_terms:
+  - とよころ
+  - トエコロとは
+  - ハルニレの町
+  - 大きなフキの町
+  naming_type: 一部の地名
+  prefecture: 北海道
+  homonyms: []
+  summary: 豊頃町の名は、アイヌ語「トエコロ（大きなフキが生えていたところ）」に由来すると町公式は説明する。ただし町公式の地名解説は「人死して住まわざるところ」「土多く礫少ないところ」という別の解釈や、戦いでコタンが無人になったという伝説も併せて紹介しており、語源は一説に定まらない。1880年の戸長役場設置を開町とし、1965年に町制を施行した。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 町域のアイヌ語地名は寛政年間の松浦武四郎の記録に十勝川筋で42ヵ所を数えると町公式は紹介するが、「トヨコロ」の個別の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、豊頃町の団体コードは016454と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-toyokoro-wikipedia
+  - text: 豊頃町公式によれば、町名の由来はアイヌ語の「トエコロ」で、「大きなフキが生えていたところ」といわれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyokoro-gaiyou
+  - text: 豊頃町公式の「地名の由来」によれば、「トヨコロ」には別に「トピオカル」または「トプヨカオロ」と発音して「人死して住まわざるところ」の意味ともされ、また「トイ・コロ」といい「土多く礫少ないところ」の意もあるとされ、語源には諸説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z1-toyokoro-yurai
+  - text: 「人死して住まわざるところ」という解釈には、昔カシピラ（常室）の酋長がコタノロを襲撃したとき逆襲を受け、豊頃の小沼に身を投じて全滅し、豊頃コタンが無人の地となったという伝説が結びつけられており、町公式もこれを地名の由来として生まれた伝説として紹介している
+    kind: legend
+    level: E2
+    status: indeterminate
+    sources:
+    - z1-toyokoro-yurai
+  - text: 豊頃町公式によれば、明治13年（1880年）に大津外4郡戸長役場が置かれたのを開町とする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyokoro-gaiyou
+  - text: 豊頃町公式によれば、昭和30年（1955年）に豊頃村と大津村中部地区が合併し、昭和40年（1965年）1月1日から町制が施行されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z1-toyokoro-gaiyou
+  column:
+    title: フキの町にもう一つの名前の物語
+    text: 役場の概要が掲げる豊頃の語源は「大きなフキが生えていたところ」という穏やかなものだ。ところが町自身の地名解説ページを開くと、「人死して住まわざるところ」という不穏な別解と、戦いに敗れた酋長たちが小沼に身を投げたという伝説までが丁寧に紹介されている。語源を一つに決めず、伝説は伝説として併記する町の姿勢は、この地名の歴史の厚みそのものである。なお螺湾川のラワンブキで名高い隣の足寄町と並び、十勝の川辺は大きなフキの名所でもある。
+    sources:
+    - z1-toyokoro-yurai
+    - z1-toyokoro-gaiyou
+  relations:
+  - pref/01
+  - muni/01-浦幌町
+  - muni/01-池田町
+  unknowns:
+  - 「トエコロ」説と「トピオカル」説のどちらが原義かは、町公式資料の範囲では決められない
+  - 北海道「アイヌ語地名リスト」における豊頃の確定レベルは確認できていない
+  - 伝説の舞台とされる小沼の現況や、伝説の記録された時期は確認できていない
+  updated: '2026-11-13'
+- id: muni/01-赤井川村
+  code: 014095
+  names:
+    ja: 赤井川村
+    reading: あかいがわむら
+    aliases:
+    - フレ・ペツ
+    - 赤井川
+  user_terms:
+  - あかいがわ
+  - フレペツとは
+  - カルデラの村
+  - キロロの村
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 赤井川村の名には諸説あるが、村ではアイヌ語「フレ・ペツ（赤い川）」を由来としており、漢字の「赤井川」はその意味を写した意訳の名と解される。1899年に大江村から分村し、1906年に赤井川村となった。余市川カルデラの中に赤井川カルデラが入る二重カルデラの盆地にあり、キロロリゾートの所在地でもある。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「フレ・ペツ」の文書上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、赤井川村の団体コードは014095と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-akaigawa-wikipedia
+  - text: 赤井川村の紹介資料によれば、村名の「赤井川」には諸説あるが、村ではアイヌ語の「フレ・ペツ」（赤い川）を由来としている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-akaigawa-dokeiren
+  - text: 村が「フレ・ペツ（赤い川）」を語源とする以上、「赤井川」の漢字表記はアイヌ語の原義を日本語に訳した意訳の当て方と考えられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - z1-akaigawa-dokeiren
+  - text: 紹介資料によれば、明治15年（1882年）に粟屋貞一、井関百合蔵が赤井川を探検し、明治27年（1894年）より開拓者の入地が始まった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-akaigawa-dokeiren
+  - text: 紹介資料によれば、明治32年（1899年）に大江村（現在の仁木町大江地区）より分村し赤井川村戸長役場が設置され、明治39年（1906年）には2級町村制施行により「赤井川村」となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-akaigawa-dokeiren
+  - text: 紹介資料によれば、赤井川村は余市川カルデラの中に赤井川カルデラが存在する「二重カルデラ」と呼ばれる珍しい地形の盆地にある
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-akaigawa-dokeiren
+  column:
+    title: 「赤い川」は和名ではなく、訳されたアイヌ語だった
+    text: 「赤井川」は一見、日本語の地形名（赤土の川）に見える。しかし村の説明では、これはアイヌ語「フレ・ペツ（赤い川）」を由来とする名で、漢字は意味を訳して当てたものだという。音訳の当て字が多い北海道地名の中で、意味の翻訳で受け継がれた名は、豊富町の「豊富」と並ぶ好例である。四方を山に囲まれたカルデラ盆地の里は、雲海の美しさで「日本で最も美しい村」連合にも名を連ねている。
+    sources:
+    - z1-akaigawa-dokeiren
+  relations:
+  - pref/01
+  - muni/01-仁木町
+  - muni/01-余市町
+  unknowns:
+  - 「諸説ある」とされる他の語源説の具体的内容は、村紹介資料の範囲では確認できていない
+  - 村公式サイト自体での由来説明の文言は今回の調査では直接確認できておらず、紹介は経済団体の村紹介資料に依拠した
+  - 北海道「アイヌ語地名リスト」における「フレ・ペツ」の確定レベルは確認できていない
+  updated: '2026-11-13'
 - id: muni/01-赤平市
   code: 012181
   names:
@@ -12390,6 +13073,256 @@ records:
   unknowns:
   - アカピラ説とフレピラ説のどちらが正しいかは、参照した資料の範囲では決着していない
   - 「赤平」の表記が公文書に初めて現れる時期は確認できなかった
+  updated: '2026-11-13'
+- id: muni/01-足寄町
+  code: '016471'
+  names:
+    ja: 足寄町
+    reading: あしょろちょう
+    aliases:
+    - 西足寄町
+    - 足寄村
+    - エショロペッ
+  user_terms:
+  - あしょろ
+  - 日本一広い町
+  - 松山千春のふるさと
+  - ラワンぶきの町
+  naming_type: 合併新設
+  prefecture: 北海道
+  homonyms: []
+  summary: 足寄町の名は、アイヌ語「エショロ・ペッ（沿って下る川）」から転訛したというのが定説とされる。1955年4月に、中川郡の西足寄町と足寄郡の足寄村が郡を越えて合併し、足寄村側の名を継いで足寄町となった。面積1,408.09平方キロメートルは町村で日本一広く、町出身の歌手・松山千春のふるさととしても知られる。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「エショロペッ」の文書上の初出は確認できていない
+  claims:
+  - text: 総務省の全国地方公共団体コードで、足寄町の団体コードは016471と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z1-ashoro-wikipedia
+  - text: 十勝観光連盟によれば、地名の由来はアイヌ語の「沿って下る川」を意味する「エショロ・ペッ」から転訛したというのが定説である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-ashoro-tokachi
+  - text: 『日本歴史地名大系』によれば、昭和30年（1955年）4月に中川郡西足寄町と足寄郡足寄村が合併して足寄町が成立した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z1-ashoro-rekishi
+  - text: 『日本歴史地名大系』によれば、足寄町の面積は1,408.09平方キロメートルである
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - z1-ashoro-rekishi
+  - text: 十勝観光連盟によれば、その面積は町村では日本一広く、市区町村の中でも第6位である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-ashoro-tokachi
+  - text: 西足寄側は1921年（大正10年）に本別村から分村して中川郡西足寄村となり、1950年（昭和25年）に町制を施行して西足寄町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-ashoro-wikipedia
+  - text: 旧足寄村は1923年（大正12年）に螺湾村と合併し、二級町村制を施行した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z1-ashoro-wikipedia
+  - text: 十勝観光連盟によれば、道の駅あしょろ銀河ホール21には足寄町出身の歌手、松山千春さんのギャラリーがあり、螺湾川の水資源によって高さ3mにもなるラワンブキが育つ
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z1-ashoro-tokachi
+  column:
+    title: 川沿いに下る道が、日本一広い町になった
+    text: 「エショロ・ペッ」は、川に沿って下る道筋の名だった。釧路方面から川伝いに十勝や北見へ抜ける交通路が、この地の始まりである。1955年、西の西足寄町と東の足寄村が合併して生まれた町は、やがて1,408平方キロメートルという町村日本一の広さを持つ町になった。その広大な大地は、足寄出身の松山千春の歌世界「大空と大地」のふるさとでもあり、道の駅には彼のギャラリーが設けられている。
+    sources:
+    - z1-ashoro-tokachi
+    - z1-ashoro-rekishi
+  relations:
+  - pref/01
+  - muni/01-本別町
+  - muni/01-陸別町
+  unknowns:
+  - 「エショロ・ペッ」の原語の確定形と、北海道「アイヌ語地名リスト」における確定レベルは確認できていない
+  - 松山千春の楽曲と地名の直接の関係（曲名に地名が詠み込まれているか等）は、観光資料の範囲では確認していない
+  updated: '2026-11-13'
+- id: muni/01-遠別町
+  code: 014869
+  names:
+    ja: 遠別町
+    reading: えんべつちょう
+    aliases:
+    - 遠別村
+  user_terms:
+  - えんべつ
+  - 日本最北の水田の町
+  - 遠別の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 留萌振興局・天塩郡の町で、日本最北の水田所在地として知られる。町名は遠別川のアイヌ語名に由来するが語源は諸説あり、自然な解とされる「ウェンペッ（wen-pet）＝悪い川」説のほか、永田方正が民間語源として伝える「ウイェペッ（u-ye-pet）＝相話する川」説、「ウエベツ＝二股の川」説が併記される。1897年（明治30年）の団体入植を開基とし、1949年（昭和24年）に町制を施行した。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 近世の記録における「エンベツ」の初出は本バッチでは確認できていない。幕末・明治の探検家松浦武四郎が当地の川について「魚類至って少なし」と記したことが、Wikipediaを通じて紹介されている
+  claims:
+  - text: 総務省の全国地方公共団体コードで、遠別町の団体コードは014869と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 遠別町の名は遠別川のアイヌ語名に由来するが、語源については諸説があり確定していない
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z2-enbetsu-wiki
+  - text: 語源として自然な解とされているのは「ウェンペッ（wen-pet）＝悪い・川」で、何が「悪い」のかは不明だが、松浦武四郎は当地の川について「魚類至って少なし」と記し、国鉄北海道総局『北海道 駅名の起源』（1973年）は「ここの川は水質が悪く、飲めないため」としていることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z2-enbetsu-wiki
+  - text: 北海道庁「アイヌ語地名リスト」を基に作成された資料では、遠別の由来を「ウイェペッ（u-ye-pet）＝相・話する・川」とし、天塩山中のアイヌがここで海浜のアイヌと相話するのを楽しみとしていたためと説明し、あわせて「ウエペッ＝二股の川」「ウェンペッ（wen-pet）＝悪い・川」の説も挙げている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k2-hokkaido-rrc-origin
+  - text: 永田方正『北海道蝦夷語地名解』は、山の中に住むアイヌが浜の方に来てこの地のアイヌと語り合うのを楽しみにしていたという民間語源による「ウイェペッ（相・話する・川）」説を載せていることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z2-enbetsu-wiki
+  - text: 町の開拓記念碑の碑文によれば、明治36年（1903年）に戸長役場が本村に置かれ、大正8年（1919年）に2級町村制が施行され、昭和24年（1949年）4月1日に町制が施行された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - z2-enbetsu-kyodo
+  - text: 1897年（明治30年）4月に越前（現福井県）からの団体が共栄地区に入植したことが遠別町の開基とされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-enbetsu-wiki
+  - text: 遠別町は日本最北の水田所在地である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-enbetsu-wiki
+  column:
+    title: 「悪い川」か「語らいの川」か
+    text: 遠別の語源には、町の印象を正反対にする二つの説が並びます。一つは「ウェンペッ＝悪い川」。水質が悪く魚も少ないという、開拓者泣かせの川の姿を伝える解釈です。もう一つは永田方正が民間語源として書き留めた「ウイェペッ＝相話する川」。山のアイヌと海のアイヌがこの川辺で語り合うのを楽しみにしていた、という温かい物語です。地名学のうえで自然な解とされるのは前者ですが、町に語り継がれてきたのは後者の風景でもあります。どちらが正しいか決着はついていませんが、「悪い川」のほとりで人々が語らい合って町ができた、と並べて読むのが遠別らしい読み方かもしれません。
+    sources:
+    - z2-enbetsu-wiki
+    - k2-hokkaido-rrc-origin
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における遠別の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 近世の文献における「エンベツ」の初出と、その表記は確認できていない
+  - 町公式サイトに町名の由来を直接説明するページは本バッチでは確認できていない
+  updated: '2026-11-13'
+- id: muni/01-遠軽町
+  code: '015555'
+  names:
+    ja: 遠軽町
+    reading: えんがるちょう
+    aliases:
+    - 遠軽村
+  user_terms:
+  - えんがる
+  - 瞰望岩の町
+  - 遠軽の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: オホーツク総合振興局・紋別郡の町。町名は、市街地を見下ろす巨岩・瞰望岩（がんぼういわ）を指していたアイヌ語「インカルシ（inkar-us-i）＝眺める・いつもする・所」に由来する。このアイヌ語名をもとに1901年（明治34年）に「遠軽郵便局」が名付けられたことが地名の起こりで、1919年（大正8年）に遠軽村が置かれた。現在の町は2005年（平成17年）に遠軽町・生田原町・丸瀬布町・白滝村の3町1村が新設合併して発足したもので、編入ではなく対等合併である。
+  first_attestation:
+    era: 明治34年
+    year_western: 1901
+    document: 遠軽郵便局の開設（1901年2月1日）
+    note: 「遠軽」という漢字地名の初出は、瞰望岩のアイヌ語名「インカルシ」にちなんで名付けられた郵便局名とされる。アイヌ語名そのものの記録上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、遠軽町の団体コードは015555と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町名は、現在の瞰望岩（がんぼういわ）を指していたアイヌ語の「インカルシ（inkar-us-i）＝眺める・いつもする・所」に由来し、かつてはここで見張りをしたという
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  - text: 湧別村時代の1901年（明治34年）、郵便路線整備にともなう新郵便局設置のため現地視察した札幌郵便局の管理課員が、瞰望岩を示すアイヌ語名称を意義深いとして、学田農場付近に設置した新局に「遠軽郵便局」と名付けたことが地名の始まりで、のちに新設された官公庁や学校などもこれにならい地名として定着したことが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  - text: 1919年（大正8年）に上湧別村から分村して二級町村・遠軽村が設置され、1934年（昭和9年）に一級町村制と町制が施行されて遠軽町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  - text: 遠軽村からは生田原村（1925年分村、1954年町制で生田原町）、丸瀬布村・白滝村（いずれも1946年分村、丸瀬布村は1953年町制で丸瀬布町）がそれぞれ分村した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  - text: 2005年（平成17年）10月1日、遠軽町・生田原町・丸瀬布町・白滝村の紋別郡3町1村が対等合併（新設合併）して新しい遠軽町が誕生し、現在の遠軽町域は1919年の遠軽村設置当初の領域と同じになった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  - text: 瞰望岩は約700万年前に形成された標高160.8mの岩丘で、国の名勝「ピリカノカ」の一部に指定されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  - text: 瞰望岩はアイヌの古戦場となったという伝説がある
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - z2-engaru-wiki
+  column:
+    title: 郵便局が先、村はあと
+    text: 遠軽という地名は、村役場ではなく郵便局から生まれました。1901年、この地はまだ湧別村の一部でした。新しい郵便局の名を考えるため現地を視察した札幌郵便局の課員が、市街地を見下ろす巨岩のアイヌ語名「インカルシ（眺める・いつもする・所）」に目を留め、その意を汲んで「遠軽郵便局」と名付けたといいます。「遠くを軽く望む」ような字面はこの岩の性格をよく表し、やがて学校や官公庁も「遠軽」を名乗るようになって、1919年に生まれた村の名になりました。岩の名が郵便局の名になり、郵便局の名が町の名になった、近代らしい命名の連鎖です。なお現在の遠軽町は、かつて遠軽村から分かれた生田原・丸瀬布・白滝と2005年に再び一つになった町でもあります。
+    sources:
+    - z2-engaru-wiki
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における「インカルシ」の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 町公式サイトの「瞰望岩」紹介ページの本文は本バッチでは直接確認できていない（Wikipediaが町公式を出典として引く）
+  - 「遠軽」の漢字の選字理由（音の一致以外の経緯）は確認できていない
   updated: '2026-11-13'
 - id: muni/01-釧路市
   code: 012068
@@ -12462,6 +13395,989 @@ records:
   unknowns:
   - アイヌ語語源のどの説が正しいかは、釧路市公式の見解でも未確定。
   - 「釧路」の漢字が選ばれた理由（音の一致以外の選字理由）は本バッチでは確認できていない。
+  updated: '2026-11-13'
+- id: muni/01-釧路町
+  code: '016616'
+  names:
+    ja: 釧路町
+    reading: くしろちょう
+    aliases:
+    - 釧路村
+    - 昆布森村
+  user_terms:
+  - くしろちょう
+  - 釧路市とは別の町
+  - 昆布森のある町
+  - 釧路町の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 釧路総合振興局・釧路郡の町で、釧路市とは別の自治体である（市に東と北で隣接する）。町名は、江戸時代の交易拠点「クスリ場所」に由来する広域地名「釧路」を継承したもので、語源には諸説があり市公式でも定かではないとされる。1920年（大正9年）に当時の釧路町（現釧路市）の区制施行に伴い釧路村が分村独立し、1955年（昭和30年）に昆布森村と合併、1980年（昭和55年）に町制を施行して釧路町となった。昆布森・仙鳳趾・セチリ太などの沿岸地区を含む。
+  first_attestation:
+    era: 正保元年
+    year_western: 1644
+    document: 『正保絵図』（正保国絵図）
+    note: 幕府の編さんした正保絵図に「クスリ」の地名が記載されることが、町公式の年表に記される。「釧路」の漢字表記は明治2年（1869年）の太政官布告による（釧路市側レコード参照）
+  claims:
+  - text: 総務省の全国地方公共団体コードで、釧路町の団体コードは016616と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 釧路町は釧路市とは別の自治体であり、釧路郡に属する町である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式の年表によれば、1644年（正保元年）に幕府の編さんした「正保絵図」に「クスリ」の地名が記載され、これが文献における初出とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-kushirotown-ayumi
+  - text: 「釧路」の語源についてはアイヌ語による諸説があり、釧路市公式自身が「クッチャロ（のど）」「クシベツ・クシナイ（通り抜けることのできる川）」「クシュル（通路）」「クスリ（薬・温泉）」の候補を挙げて定かではないとしており、町名はこの広域地名を継承したものである
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k2-kushiro-city-gaiyo
+  - text: 1857年（安政4年）の古文書には、クスリ場所の漁方としてコンブイム（昆布森）番屋などの記述があり、沿岸では仙鳳趾に最も多く人が住んでいたことが、町公式の年表に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-kushirotown-ayumi
+  - text: 1920年（大正9年）、釧路町（現釧路市）に区制が施行されるため、11万円の年賦助成金を受けて釧路村が分村独立したことが、町公式の年表に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-kushirotown-ayumi
+  - text: 1954年（昭和29年）12月29日の総理府告示第1245号により釧路郡釧路村及び昆布森村を廃して釧路村を置く廃置分合が告示され、1955年（昭和30年）1月1日に新釧路村が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-kushirotown-reiki
+  - text: その後、村議会で町制施行が満場一致で可決され道議会でも議決される手続きを経て、1980年（昭和55年）に町制が施行され釧路町となった経緯が、町の例規集の年表に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-kushirotown-reiki
+  column:
+    title: 市に「釧路」を残して分かれた村
+    text: 釧路町と釧路市は、もとは一つの「釧路村」でした。1920年、中心部が区制を敷く（のちの釧路市）ことになったとき、周辺部は助成金を受け取って「釧路村」として独立しました。つまり村のほうが元の名を名乗り続け、市はその内側から生まれた、という関係です。1955年には東の昆布森村と合併し、1980年に町制を施行して釧路町になりました。いま地図で見ると、釧路市を取り囲むように釧路町が広がり、昆布森の昆布や仙鳳趾、セチリ太といった沿岸の集落は町の側に残っています。「釧路」という名の古層であるクスリ場所の漁場の風景は、むしろ町の側に色濃く残っているのです。
+    sources:
+    - z2-kushirotown-ayumi
+    - z2-kushirotown-reiki
+  relations:
+  - pref/01
+  - muni/01-釧路市
+  unknowns:
+  - 1980年の町制施行の正確な施行日（4月1日）は本バッチでは告示等で直接確認できていない
+  - 昆布森・仙鳳趾・セチリ太など町内の各地区名のアイヌ語源は本レコードでは扱っていない
+  updated: '2026-11-13'
+- id: muni/01-長万部町
+  code: '013471'
+  names:
+    ja: 長万部町
+    reading: おしゃまんべちょう
+    aliases:
+    - 長万部村
+  user_terms:
+  - おしゃまんべ
+  - 毛がにの町
+  - 長万部の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 渡島総合振興局・山越郡の町。町名は長万部川の川口を指したアイヌ語「オシャマンペ」に由来するが、その解釈には「オ（川口）・シャマン（鰈）・ペ（あるところ）＝カレイのたくさんとれる川口」とする説と、古アイヌ語でシャマンは「横になった川」を意味し「横になった川口」という地形を表したとする説があり、ほかに「ウパㇱサマㇺペ＝雪・カレイ類」とする説もあって特定しがたいとされる。名は古く、1669年のシャクシャインの戦いの記録に国縫とともに現れる。1943年（昭和18年）に町制を施行した。
+  first_attestation:
+    era: 寛文9年
+    year_western: 1669
+    document: シャクシャインの戦いに関する戦記等の記録
+    note: 長万部町のアイヌ施策推進地域計画（内閣府公表）が、オシャマンペの名は17世紀のシャクシャインの戦いの戦記等にクンヌイ（国縫）とともに記されているとする。原資料そのものは本バッチでは未読のため、記載の存在の紹介として扱う
+  claims:
+  - text: 総務省の全国地方公共団体コードで、長万部町の団体コードは013471と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町の計画資料によれば、オシャマンペ（長万部）の名は古く、17世紀にはシャクシャインの戦い（1669年）の戦記等に、決戦場となったクンヌイ（国縫）とともに記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-oshamambe-cao
+  - text: 町の計画資料は語源を、直訳すると「オ（川口）シャマン（鰈）ペ（あるところ）」すなわち「カレイのたくさんとれる川口」と説明する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z2-oshamambe-cao
+  - text: 一方で古アイヌ語ではシャマンは「横になった川」を意味し、元々は長万部川の「横になった川口」という地形特徴を言い表したものが、17〜18世紀にアイヌ自身が「鰈のたくさんとれる川口」と付会した解釈を和人に伝承したと考えられることが、町の計画資料に記される
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z2-oshamambe-cao
+  - text: 語源の候補としてはほかに「ウパㇱサマㇺペ（upas-samampe）＝雪・カレイ類の魚」「オサマㇺペッ（o-samam-pet）＝川尻・横になっている・川」があり、町では「オサマㇺペ（o-samampe）＝川尻・カレイ類の魚」説を採るが、諸説あり特定しがたいとされることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z2-oshamambe-wiki
+  - text: 神が海で大ヒラメを釣り神として山上に祭らせ、春の雪解けの時に山にヒラメの形の雪が残るときが漁期だと教えられた、という伝説が「ウパㇱサマㇺペ」説に結びついて伝えられていることが、Wikipediaを通じて紹介されている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - z2-oshamambe-wiki
+  - text: 1864年（元治元年）に和人地となり村並に列したことにより長万部村と称され、1943年（昭和18年）に町制を施行して長万部町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-oshamambe-wiki
+  - text: 町内には「静狩（シリトカリ＝行き止まり）」「国縫（クンネイ＝黒い所）」などアイヌ語由来の地名が多く残ることが、町の計画資料に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-oshamambe-cao
+  column:
+    title: 「カレイの川口」は後付けの解釈だった？
+    text: 長万部の語源として町の計画が紹介する説明は、二段構えになっています。表の顔は「オ（川口）・シャマン（鰈）・ペ（あるところ）＝カレイのたくさんとれる川口」。ところが計画は続けて、古アイヌ語ではシャマンは「鰈」ではなく「横になった川」の意で、本来は川口が海岸線と並行に横たわる地形を言った名だった、と記します。そして17〜18世紀のうちに、アイヌの人々自身が「鰈の川口」という解釈を作って和人に伝えたと考えられる、というのです。語源の「正解」が時代の中で書き換わっていく過程が、町の公的資料の中にきちんと残されている例は珍しくありません。ちなみに長万部は、ヒラメの形の雪形が山に残る頃が漁期だと神が教えたという伝説まで持つ、「魚の名の町」らしい逸話の多い土地です。
+    sources:
+    - z2-oshamambe-cao
+    - z2-oshamambe-wiki
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における長万部の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 17世紀の戦記等の原資料における「オシャマンペ」の表記そのものは本バッチでは未読である
+  updated: '2026-11-13'
+- id: muni/01-長沼町
+  code: 014281
+  names:
+    ja: 長沼町
+    reading: ながぬまちょう
+    aliases:
+    - 長沼村
+  user_terms:
+  - ながぬま
+  - タンネトの町
+  - 長沼の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 空知総合振興局・夕張郡の町。町名は、町域（西1線北15番地付近）にあったアイヌ語で「タンネトー（tanne-to）＝細長い沼」と呼ばれた沼の意訳である。1892年（明治25年）の長沼村成立の際、開拓功労者・吉川鉄之助の名をとる「吉川村」案があったが吉川が固辞し、沼の名にちなんで「長沼村」と決まったとされる。1952年（昭和27年）に町制を施行した。
+  first_attestation:
+    era: 明治25年
+    year_western: 1892
+    document: 北海道庁令第5号による長沼村の成立
+    note: 「長沼」の名の初出は1892年2月4日の村の成立時とされる。もとの沼の名「タンネトー」の記録上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、長沼町の団体コードは014281と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町の総合振興計画によれば、本町の西1線北15番地付近にアイヌ語で「タンネトー」という沼があり、「タンネトー」を和名で“細長い沼”と言い、この言葉から長き沼「長沼」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-naganuma-plan
+  - text: 1892年（明治25年）に北海道庁令第5号をもって長沼村が成立した際、村名設定にあたり開拓功労者の名をとり吉川村との意見もあったが、吉川鉄之助は固辞し、村内の沼タンネト（アイヌ語で細長い沼）にちなみ長沼村と村名を決定したことが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-naganuma-wiki
+  - text: 本町の開拓は1887年（明治20年）に岩手県人吉川鉄之助と長野県人渡辺伝二が馬追原野の夕張川河畔（現北長沼地区）に入り移住開墾したことに始まることが、町の計画に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-naganuma-plan
+  - text: 1952年（昭和27年）1月1日に町制を施行して長沼町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-naganuma-wiki
+  - text: 「タンネトー」の沼は現在の町域の西1線北15番地付近にあったとされ、沼そのものは現存しない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-naganuma-plan
+  column:
+    title: 人の名を断って、沼の名を選んだ村
+    text: 1892年に長沼村が生まれるとき、村の名はもう少しで「吉川村」になるところでした。開拓の中心人物だった吉川鉄之助の功にちなむ案です。ところが吉川本人が固辞し、村内にあったアイヌ語で「タンネトー（細長い沼）」と呼ばれた沼の名を意訳して「長沼」とすることに決まりました。北海道の開拓地では、開拓者や入植団体の出身地にちなむ名も少なくありませんが、長沼は人の名ではなく土地の古い名を選んだ例です。その沼はいまはもうありませんが、アイヌ語の「細長い」という一言だけが、漢字の町名の中に翻訳されて生き残っています。
+    sources:
+    - z2-naganuma-plan
+    - z2-naganuma-wiki
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における「タンネト」の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 「タンネトー」の沼がいつ頃までに消失したかは本バッチでは確認できていない
+  updated: '2026-11-13'
+- id: muni/01-陸別町
+  code: 016489
+  names:
+    ja: 陸別町
+    reading: りくべつちょう
+    aliases:
+    - 淕別村
+    - 陸別村
+  user_terms:
+  - りくべつ
+  - 日本一寒い町
+  - 陸別の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 十勝総合振興局・足寄郡の町で、「日本一寒い町」を掲げる。町名はアイヌ語「リクンベツ（rik-un-pet）」に由来し、町公式は「高く上がっていく川、又は危ない高い川」の意とする。もとの表記は「淕別」で読みは「リクンベツ」だったが、1949年（昭和24年）に「陸別（リクベツ）」へ表記と読みを改め、1953年（昭和28年）に町制を施行した。開拓は1902年（明治35年）に72歳で入植した関寛斎で知られる。
+  first_attestation:
+    era: 大正8年
+    year_western: 1919
+    document: 陸別村の誕生（淕別村）
+    note: 自治体名としての「淕別」の初出は1919年の村の分離・設置時とされる。アイヌ語地名「リクンベツ」の記録上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、陸別町の団体コードは016489と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式によれば、町名の由来はアイヌ語のリクンベツで、意味は「高く上がっていく川、又は危ない高い川」である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-rikubetsu-town
+  - text: 北海道庁「アイヌ語地名リスト」を基に作成された資料では、陸別の由来を「リㇰウンペッ（rik-un-pet）＝高いところ・にある・川」とし、ほかに「リクンペッ（ri-kun-pet）＝高危川」の説も挙げている
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k2-hokkaido-rrc-origin
+  - text: 昭和24年（1949年）以前は「淕別（リクンベツ）」と表記されており、1949年に淕別村（リクンベツ）を陸別（リクベツ）と改称したことが、町公式の沿革に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-rikubetsu-town
+  - text: 1919年（大正8年）に足寄外3村戸長役場から分離して陸別村（淕別村）が誕生し、1923年（大正12年）に2級村制が実施され、1953年（昭和28年）に陸別町制が施行されたことが、町公式の沿革に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-rikubetsu-town
+  - text: 陸別の開拓は、1901年（明治34年）に関又一が斗満に入植し、1902年（明治35年）に72歳の父・関寛斎が斗満原野の開拓を志して入植したことに始まることが、町公式の歴史に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-rikubetsu-town
+  - text: 陸別町は「日本一寒い町」として知られ、町公式サイトもその呼称を掲げている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-rikubetsu-town
+  column:
+    title: 難読の「淕」を捨てて「陸」になった町
+    text: 陸別は、1949年まで「淕別」と書いて「リクンベツ」と読む、道内でも指折りの難読地名でした。「淕」は水際の陸地を意味する珍しい字ですが、読み書きの不便は否めず、戦後の改称で音の一部を残して「陸別（リクベツ）」になりました。読みも「リクンベツ」から「リクベツ」へ一音縮んでいます。もとの名は利別川の支流・陸別川のアイヌ語名「リクンベツ＝高いところにある川」。段丘を刻む川の地形を言った名が、漢字の衣替えを経て今の町名になりました。極寒の「日本一寒い町」の看板と並ぶと、読みにくい旧名のほうに懐かしさを覚える人もいるようです。
+    sources:
+    - z2-rikubetsu-town
+    - k2-hokkaido-rrc-origin
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における陸別の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 1949年の改称の経緯（住民側の要望か行政側の判断か）は本バッチでは確認できていない
+  updated: '2026-11-13'
+- id: muni/01-雄武町
+  code: '015636'
+  names:
+    ja: 雄武町
+    reading: おうむちょう
+    aliases:
+    - 雄武村
+  user_terms:
+  - おうむ
+  - オホーツクの町
+  - 雄武の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: オホーツク総合振興局・紋別郡の町。町名は雄武川の河口を指したアイヌ語「オムイ（o-mu-i）＝川尻・塞がる・所」、あるいは単に「オム＝川尻・塞がる」に由来するとされ、河口が風や潮流に運ばれた砂で塞がれることから付けられた地名との説がある。1872年（明治5年）に雄武村が設置され、1915年（大正4年）に幌内村・沢木村と合併、1948年（昭和23年）に町制を施行した。
+  first_attestation:
+    era: 明治5年
+    year_western: 1872
+    document: 雄武村の設置
+    note: 自治体名としての「雄武」の初出は1872年の村の設置時とされる。アイヌ語地名「オム」の記録上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、雄武町の団体コードは015636と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町名の由来はアイヌ語の「オムイ」（川尻・塞がる・所）、あるいは単に「オム」（川尻・塞がる）とされていることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-oumu-wiki
+  - text: 雄武川の河口が、風や潮流に運ばれた砂で塞がれることから付けられた地名との説があることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-oumu-wiki
+  - text: 1872年（明治5年）に雄武村が設置され、1915年（大正4年）に紋別郡雄武村・幌内村・沢木村が合併して二級町村制の雄武村となり、1948年（昭和23年）に町制を施行して雄武町となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-oumu-wiki
+  - text: 町域はかつての雄武村・幌内村・沢木村の3村から成り、1967年（昭和42年）の字名改正でも旧3村の大字が区域の基礎として扱われた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-oumu-wiki
+  - text: 江戸時代の当地は松前藩のソウヤ場所に属していたことが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-oumu-wiki
+  column:
+    title: 「塞がる川口」という名の町
+    text: 雄武の語源とされる「オムイ」は「川尻・塞がる・所」。雄武川の河口は、風と潮に運ばれた砂でしばしば閉ざされてしまうのだといいます。川口が塞がることは、漁をする人々にとっては川と海の行き来を断つ厄介な現象だったはずで、その土地の性格そのものが名になりました。「雄武」という勇ましい漢字は当て字で、意味とは関係がありません。なお町内の字名改正の記録には、雄武村・幌内村・沢木村という旧3村の大字の中に「オトイネツプ」などのアイヌ語小字が数多く残されており、名の古層は町内のあちこちに眠っています。
+    sources:
+    - z2-oumu-wiki
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における雄武の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 町公式サイトに町名の由来を直接説明するページは本バッチでは確認できていない
+  - 「雄武」の漢字の選字の経緯は確認できていない
+  updated: '2026-11-13'
+- id: muni/01-雨竜町
+  code: '014362'
+  names:
+    ja: 雨竜町
+    reading: うりゅうちょう
+    aliases:
+    - 雨竜村
+  user_terms:
+  - うりゅう
+  - 雨竜沼湿原の町
+  - 雨竜の名前の由来
+  - 雨竜川の語源
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 空知総合振興局・雨竜郡の町。町名は雨竜川の名から付けられたもので、そのアイヌ語源は正確には分からなくなっているとされる。町公式は「ウリロペツ＝鵜の多い川」より転訛したものとし、雨竜川の河口に多くの鵜が生息していたことから名付けられたという。一方で語源を確定できないとする見方もあり、第16バッチで積み残しとなった「雨竜そのもののアイヌ語源」は、本バッチでも町の公式説明の範囲を超えては確定できなかった。1889年（明治22年）の華族組合農場の開拓に始まり、1892年（明治25年）に雨竜村が誕生、1961年（昭和36年）に町制を施行した。
+  first_attestation:
+    era: 明治25年
+    year_western: 1892
+    document: 道庁令第5号による雨竜村の誕生（1892年2月4日付）
+    note: 自治体名としての「雨竜」の初出は1892年の村の誕生時とされる。川の名としてのアイヌ語「ウリロペツ」等の記録上の初出は未確認
+  claims:
+  - text: 総務省の全国地方公共団体コードで、雨竜町の団体コードは014362と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式によれば、雨竜（うりゅう）はアイヌ語の地名「ウリロペツ」（鵜の多い川という意味）より転訛したもので、雨竜川の河口に多くの鵜が生息していたことから、このような名が付けられたといわれている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z2-uryu-town-profile
+  - text: 町名は現在の雨竜川から付けられた町名であり、アイヌ語に由来するが正確には分からなくなっているとする見方もあり、「ウリリオペッ（ウリロペッ）＝鵜の多い川」は一説として挙げられることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z2-uryu-wiki
+  - text: 町公式の年表によれば、明治22年（1889年）に公爵三条実美・侯爵蜂須賀茂韶・侯爵菊亭修季が道庁より雨竜原野の貸下を受け、明治23年（1890年）に華族組合雨竜大農場の開拓が始まった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-uryu-town-chronology
+  - text: 明治25年（1892年）2月4日付道庁令第5号で雨竜村が誕生し、明治32年（1899年）に北竜村が分村したことが、町公式の年表に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-uryu-town-chronology
+  - text: 昭和36年（1961年）に町制が施行され雨竜町となったことが、町公式の年表に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-uryu-town-chronology
+  - text: 雨竜町は雨竜川をへだてて北竜町と接し、北竜町の名は雨竜町の北に位置することに由来するため、両町の名は雨竜川流域の位置関係で結ばれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-uryu-town-profile
+  column:
+    title: 「鵜の川」と言い切れない、雨竜の語源
+    text: 雨竜町の公式紹介は、町名の由来を「ウリロペツ＝鵜の多い川」とはっきり書きます。雨竜川の河口に鵜が群れていた風景は目に浮かぶようです。しかし地名研究の側では、この川のアイヌ語源は「正確には分からなくなっている」とも言われます。「雨竜」という字面があまりに印象的なため、「雨」と「竜」の字から物語を作りたくもなりますが、それは当て字の遊びにすぎません。確定できないものは確定できないと書く——この町は、公式の説明と学術的な慎重さの両方を記録しておく価値のある事例です。なお北隣の北竜町は「雨竜の北」が名の由来で、川の名のファミリーは流域に広がっています。
+    sources:
+    - z2-uryu-town-profile
+    - z2-uryu-wiki
+  relations:
+  - pref/01
+  - muni/01-北竜町
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における雨竜（ウリュウ）の確定レベル（A〜C）と記載内容は本バッチでは直接確認できておらず、「ウリロペツ」以外の候補説の有無も未確認である
+  - 雨竜川のアイヌ語名の記録上の初出（松浦武四郎らの記録における表記）は確認できていない
+  - 「雨竜」の漢字表記が定まった時期と経緯は確認できていない
+  updated: '2026-11-13'
+- id: muni/01-音威子府村
+  code: '014702'
+  names:
+    ja: 音威子府村
+    reading: おといねっぷそん
+    aliases:
+    - 常盤村
+  user_terms:
+  - おといねっぷ
+  - 人口最少の村
+  - 音威子府そばの村
+  - 音威子府の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 上川総合振興局・中川郡の村で、北海道で最も人口の少ない自治体として知られる。村名は天塩川に合流する音威子府川の川口を指したアイヌ語「オトイネㇷ゚（o-toyne-p）」に由来し、「川口のにごっている川」「濁りたる泥川」などの意とされる。もとの自治体名は常盤村で、1963年（昭和38年）に中心地の地名をとって音威子府村へ改称した。名の初出は1797年（寛政9年）の『松前地並西蝦夷地明細記』の「ヲトヱ子フ」とされる。
+  first_attestation:
+    era: 寛政9年
+    year_western: 1797
+    document: 『松前地並西蝦夷地明細記』
+    note: 「ヲトヱ子フ」の表記で音威子府の名が初めて登場するとWikipediaが紹介する。原資料そのものは本バッチでは未読のため、記載の存在の紹介として扱う
+  claims:
+  - text: 総務省の全国地方公共団体コードで、音威子府村の団体コードは014702と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 村公式によれば、村名の由来はアイヌ語で「濁りたる泥川、漂木の堆積する川口、または切れ曲がる川尻」の意である
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - z2-otoineppu-vill
+  - text: 村名はアイヌ語の「オトイネㇷ゚（o-toyne-p）」に由来し、「川口のにごっている川」あるいは「川尻（を歩くと）・泥んこである・もの（川）」の意とされ、前者は音威子府川が天塩川に合流する地点が泥で濁っていたことからの命名とされることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z2-otoineppu-wiki
+  - text: 音威子府の名が初めて登場するのは1797年（寛政9年）の『松前地並西蝦夷地明細記』で、「ヲトヱ子フ」と表記されていることが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-otoineppu-wiki
+  - text: 昭和38年（1963年）に「常盤村」から「音威子府村」に改称したことが、村公式に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-otoineppu-vill
+  - text: 1963年の改称の際の字は、咲来・ヌプトモマナイ・物満内・上物満内・止若内・茨内・音威子府・上音威子府の8字であったことが、Wikipediaを通じて紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-otoineppu-wiki
+  - text: 音威子府村は北海道で最も人口の少ない自治体である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z2-otoineppu-wiki
+  column:
+    title: 「常盤」を捨てて「音威子府」を選んだ村
+    text: この村は1963年まで「常盤村」という、全国どこにでもありそうな雅やかな名でした。それを捨てて選んだのが、中心集落の名「音威子府」——アイヌ語で「泥で濁る川口」を意味する、読みにくいことでは道内有数の地名です。改称の理由は資料に明記されていませんが、駅名や集落名として土地に根付いていたのは常盤ではなく音威子府のほうでした。結果として村は、北海道で最も人口の少ない自治体でありながら、最も個性的な名前の自治体の一つになりました。「おといねっぷ」という響きを一度聞いたら忘れない、という点では改称は成功だったと言えるかもしれません。
+    sources:
+    - z2-otoineppu-vill
+    - z2-otoineppu-wiki
+  relations:
+  - pref/01
+  unknowns:
+  - 1963年の改称の理由（常盤村から改称する必要があった事情）は本バッチでは公式資料で確認できていない
+  - 北海道庁「アイヌ語地名リスト」における音威子府の確定レベル（A〜C）は本バッチでは直接確認できていない
+  - 『松前地並西蝦夷地明細記』の「ヲトヱ子フ」の記載は原資料未読であり、二次資料経由の紹介として扱った
+  updated: '2026-11-13'
+- id: muni/01-音更町
+  code: '016314'
+  names:
+    ja: 音更町
+    reading: おとふけちょう
+    aliases:
+    - 音更村
+  user_terms:
+  - おとふけ
+  - 十勝川温泉の町
+  - 音更の名前の由来
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 十勝総合振興局・河東郡の町で、十勝川温泉を擁する。町名は音更川のアイヌ語名「オトプケ」に由来し、町公式は「毛髪が生ずる」の意から転訛したもので、音更川と然別川の支流がたくさん流れているところから付いた名という。語源については「オト・フケ（川口・沸き立つ）」と読む解釈も知られるが、本バッチでは公的資料での裏付けは取れていない。1901年（明治34年）に音更ほか2村戸長役場が置かれ、1953年（昭和28年）に町制を施行した。
+  first_attestation:
+    era: 安政5年
+    year_western: 1858
+    document: 松浦武四郎の十勝内陸踏査の記録
+    note: 町公式の沿革が、安政5年（1858年）に松浦武四郎が十勝内陸を踏査した際にこの地に足を踏み入れたと伝える。ただし「オトプケ」の表記そのものの初出としては未確認であり、あくまで当地への記録上の到達として扱う
+  claims:
+  - text: 総務省の全国地方公共団体コードで、音更町の団体コードは016314と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 町公式によれば、町名の音更はアイヌ語のオトプケ（毛髪が生ずる）から転訛したもので、音更川と然別川の支流がたくさん流れているところからついたと言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-otofuke-town
+  - text: 明治34年（1901年）に音更ほか2村戸長役場が設置され、明治39年（1906年）に2級村制が施行され、大正10年（1921年）に1級村に昇格し、昭和28年（1953年）に町制が施行されたことが、町公式の沿革に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-otofuke-town
+  - text: 町公式の沿革によれば、安政5年（1858年）に松浦武四郎が十勝内陸を踏査した時に既にこの地に足を踏み入れており、明治13年（1880年）には岩手県人大川宇八郎が定住を始めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-otofuke-town
+  - text: 町内には十勝川温泉があり、その植物性のモール温泉は平成16年（2004年）に北海道遺産に指定されたことが、町公式に記される
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z2-otofuke-town
+  - text: 「オトプケ」の解釈について、町公式の「毛髪が生ずる（＝支流が毛のように分かれて流れる）」という説明のほか、原語を「オト・フケ」と切って川口の水の湧き立ちに結びつける読みも世上知られるが、本バッチでは公的資料での裏付けを確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - z2-otofuke-town
+  column:
+    title: 「髪の毛のように分かれる川」
+    text: 音更の由来として町が伝えるのは、少し不思議なイメージです。アイヌ語「オトプケ」は「毛髪が生ずる」の意で、音更川と然別川の支流が、髪の毛のように無数に分かれて流れる様子を言った名だというのです。十勝平野を北から南へ貫く川々が、平野の中央で細かく枝分かれする地形を、先住民の言葉は髪に喩えました。町名の漢字「音更」は当て字で、意味の手がかりは字面には残っていません。語源の確定にはなお検討の余地がありますが、「髪のように分かれる川」という絵は、この穀倉地帯の水の姿をよく捉えています。
+    sources:
+    - z2-otofuke-town
+  relations:
+  - pref/01
+  unknowns:
+  - 北海道庁「アイヌ語地名リスト」における音更（オトフケ）の確定レベル（A〜C）と、「オト・フケ」と切る解釈の有無は本バッチでは直接確認できていない
+  - 「オトプケ」の記録上の初出（松浦武四郎『十勝日誌』等における表記）は本バッチでは確認できていない
+  updated: '2026-11-13'
+- id: muni/01-鶴居村
+  code: '016675'
+  names:
+    ja: 鶴居村
+    reading: つるいむら
+    aliases: []
+  user_terms:
+  - タンチョウの村
+  - 鶴居村の読み方
+  - 日本で最も美しい村
+  naming_type: 新規命名
+  prefecture: 北海道
+  homonyms: []
+  summary: 鶴居村は、昭和12年（1937年）に舌辛村（現在の釧路市阿寒町）から分かれて生まれた村で、その名は命名そのものが村の公式年表に残る珍しい例である。村公式によれば、天然記念物タンチョウの生息・繁殖地帯であることに因んで「鶴居」と称した。北海道の村名に多いアイヌ語由来ではなく、鳥の名から新しく付けられた和名であり、タンチョウは今も村の鳥として村の象徴になっている。
+  first_attestation:
+    era: 昭和12年
+    year_western: 1937
+    document: 鶴居村公式「鶴居村の歴史」（分村時の命名の記録）
+    note: 村の誕生と命名が同時であり、この1937年4月1日の分村・命名が「鶴居」の初出に当たる
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、鶴居村の団体コードは016675と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+    - z3-tsurui-wiki
+  - text: 鶴居村公式の年表によれば、昭和12年（1937年）4月1日、舌辛村（現在の釧路市阿寒町）より分村して二級町村制が施行され、鶴居村が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-tsurui-village-history
+  - text: 鶴居村公式の年表は村名の理由を「天然記念物タンチョウの生息はん殖地帯に因み、村名を『鶴居村』と称する」と明記しており、村名はアイヌ語地名の転用ではなく、タンチョウにちなむ新規の命名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-tsurui-village-history
+  - text: タンチョウは昭和10年（1935年）に天然記念物に指定され、昭和27年（1952年）には特別天然記念物に指定された（鶴居村公式の年表）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-tsurui-village-history
+    - z3-tsurui-village-tancho
+  - text: 絶滅したと考えられていたタンチョウは大正13年（1924年）に釧路湿原のチルワツナイで十数羽が再発見され、これが保護と後の村名の前提になった（鶴居村教育委員会「タンチョウ保護の歴史」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-tsurui-village-tancho
+  - text: 村の開拓は明治18年（1885年）に釧路の茂尻矢から27戸が下雪裡へ移住したことに始まり、村域の中心地名は雪裡・幌呂などアイヌ語由来の名で呼ばれてきた（鶴居村公式の年表）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-tsurui-village-history
+  - text: 鶴居村は阿寒郡に属し、釧路総合振興局の管内では唯一の村である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z3-tsurui-wiki
+  - text: 昭和27年（1952年）には村立幌呂小学校でタンチョウへの給餌が始まっており、村名の由来となった鳥の保護は村の暮らしの中に根づいた（鶴居村教育委員会）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-tsurui-village-tancho
+  column:
+    title: 絶滅したはずの鳥が、新しい村に名を与えた
+    text: タンチョウは明治以降の乱獲と湿原の開発で姿を消し、一時は絶滅したと考えられていました。ところが大正13年（1924年）、釧路湿原で十数羽が再発見されます。昭和10年には天然記念物に指定され、その2年後に舌辛村から分かれて新しい村を作るとき、人々はこの鳥の生息・繁殖の地であることに因んで「鶴居」と名づけました。アイヌ語の地名が多い北海道にあって、村の誕生と一緒に生まれた和名です。昭和27年には村立幌呂小学校で給餌が始まり、タンチョウは村の鳥として今も村のシンボルであり続けています。
+    sources:
+    - z3-tsurui-village-history
+    - z3-tsurui-village-tancho
+  relations:
+  - pref/01
+  unknowns:
+  - 分村時に「鶴居」の名を誰が提案し、どのような手続きで決まったのかは、村公式の年表では確認できなかった
+  - 村名がタンチョウの生息地に因むことは公式に明記されるが、「鶴居」の二字を選んだ経緯（他候補の有無など）は未確認である
+  updated: '2026-11-13'
+- id: muni/01-鷹栖町
+  code: '014524'
+  names:
+    ja: 鷹栖町
+    reading: たかすちょう
+    aliases:
+    - 鷹栖村
+  user_terms:
+  - たかす
+  - チカップニ
+  - オオカミの桃の町
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 鷹栖町は、旭川市の北に隣接する上川郡の町である。町公式によれば、かつて大きな鳥が空に舞っていたこの地は、アイヌ語で大きな鳥（鷹）の棲むところ（巣）を意味する「チカップニ」と呼ばれ、それが意訳されて「鷹栖」となった。アイヌ語地名の多くが音に漢字を当てた音訳であるのに対し、意味を訳して漢字にした意訳の例として際立つ。明治25年（1892年）に鷹栖村が誕生し、昭和44年（1969年）に町制を施行した。
+  first_attestation:
+    era: 明治25年
+    year_western: 1892
+    document: 鷹栖町公式「鷹栖町について」（町の沿革）
+    note: 鷹栖村の誕生をもって「鷹栖」の初出とする。アイヌ語「チカップニ」の使用がいつからかは未確認
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、鷹栖町の団体コードは014524と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 鷹栖町公式によれば、この地はアイヌ語で「大きな鳥（鷹）の棲むところ（巣）」を意味する「チカップニ」と呼ばれるようになり、それが意訳されて「鷹栖」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-takasu-town-about
+  - text: 鷹栖町公式は、「チカップニ」と呼ばれるようになった背景として、未開の頃にトンビやハイタカ・オオタカなどの大きな鳥が生息し、大空に輪を描いて舞っていた光景があったと伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-takasu-town-about
+  - text: 「鷹栖」はアイヌ語の音に漢字を当てた音訳ではなく、意味を日本語に訳して付けた意訳の地名である（鷹栖町公式の説明に基づく）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-takasu-town-about
+  - text: 鷹栖町公式の沿革によれば、明治25年（1892年）に鷹栖村が誕生し、昭和44年（1969年）に町制を施行して鷹栖町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-takasu-town-about
+  - text: 鷹栖町は上川郡に属し、北海道のほぼ中央で旭川市と和寒町に隣接する（鷹栖町公式のプロフィール）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-takasu-town-about
+  column:
+    title: 音ではなく意味を訳した、アイヌ語地名
+    text: 北海道のアイヌ語地名は、札幌（サッ・ポロ）のように音に漢字を当てるのが普通です。ところが鷹栖は違いました。鷹栖町公式によれば、この地は大きな鳥の棲むところを意味するアイヌ語「チカップニ」と呼ばれ、その意味のほうを訳して「鷹栖」の二字にしたといいます。未開の頃、トンビやオオタカが大空に輪を描いて舞っていた、その眺めが名前に残ったわけです。音訳の多い北海道で、意訳で生まれた地名はちょっとした異色の存在です。
+    sources:
+    - z3-takasu-town-about
+  relations:
+  - pref/01
+  unknowns:
+  - 「チカップニ」の語構成（チカプ＝鳥、ニ＝巣・木など）の学術的な検討は今回確認できなかった
+  - 明治25年（1892年）の鷹栖村誕生時に、意訳の「鷹栖」を誰がどう選んだのかという経緯は未確認である
+  updated: '2026-11-13'
+- id: muni/01-鹿追町
+  code: 016349
+  names:
+    ja: 鹿追町
+    reading: しかおいちょう
+    aliases:
+    - 鹿追村
+    - クテクウシ
+  user_terms:
+  - しかおい
+  - クテクウシ
+  - 然別湖の町
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 鹿追町は、十勝平野北西部の河東郡の町である。町公式によれば、町名はアイヌ語の「クテクウシ」を意訳したもので、町はその意味を「鹿を追う広大な土地」と説明する。一方、専門資料では「クテク」は鹿を捕る機弓（アマッポ）を仕掛ける柵を指し、「クテク・ウシ」は鹿捕り柵のある所と解され、これを和訳したのが「鹿追」とされる。明治35年（1902年）の入植に始まり、大正10年（1921年）に音更村から分村して鹿追村となり、昭和34年（1959年）に町制を施行した。
+  first_attestation:
+    era: 明治35年
+    year_western: 1902
+    document: 鹿追町公式資料（「クテクウシ原野」への入植の記録）
+    note: 開拓初期の記録で原野名として「クテクウシ」が使われている。アイヌ語地名としての使用開始時期そのものは未確認
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、鹿追町の団体コードは016349と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 鹿追町公式によれば、町名はアイヌ語の「クテクウシ」を意訳したもので、その意味は「鹿を追う広大な土地」と言われている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikaoi-town-gaiyou
+  - text: 専門資料の解釈では、「クテク」は柵を結んで機弓（アマッポ＝鹿を捕る仕掛け）を仕掛けることを指し、「クテク・ウシ」は「鹿捕り柵のある所」の意で、これを和訳した地名が「鹿追」であるとされ、町の説明する意訳の内容とは角度が異なる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - z3-shikaoi-wiki
+  - text: 開拓は明治35年（1902年）に東京から山田松次郎が「クテクウシ原野」に入植したことに始まった（鹿追町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikaoi-town-gaiyou
+    - z3-shikaoi-town-shiseki
+  - text: 大正10年（1921年）4月1日、北海道告示177号により母村の音更村から分村して鹿追村が誕生した（鹿追町公式「鹿追発祥之地」）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikaoi-town-shiseki
+  - text: 昭和34年（1959年）9月に町制が施行され、鹿追町となった（鹿追町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikaoi-town-gaiyou
+  column:
+    title: 「鹿を追う土地」の正体は、鹿を捕る柵だった
+    text: 鹿追町の公式説明では、町名はアイヌ語「クテクウシ」を意訳した「鹿を追う広大な土地」だとされています。ところが専門資料をたどると、「クテク」は鹿を捕るための機弓（アマッポ）を仕掛ける柵のこと、「クテク・ウシ」は「鹿捕り柵のある所」なのだといいます。つまり「鹿追」は、鹿を追い回す土地というより、鹿を待ち受けて捕る仕掛けの土地、というのが実像に近いようです。同じ意訳でも、町の説明と専門家の解釈で風景ががらりと変わる好例です。
+    sources:
+    - z3-shikaoi-town-gaiyou
+    - z3-shikaoi-wiki
+  relations:
+  - pref/01
+  unknowns:
+  - 「クテクウシ」の解釈（町の「鹿を追う広大な土地」と専門資料の「鹿捕り柵のある所」）のどちらが原義に近いかは、一次のアイヌ語資料に当たれておらず決められていない
+  - 江戸時代の記録に「クテクウシ」が現れるかどうかは未確認である
+  updated: '2026-11-13'
+- id: muni/01-鹿部町
+  code: 013439
+  names:
+    ja: 鹿部町
+    reading: しかべちょう
+    aliases:
+    - 鹿部村
+    - シケルペ
+  user_terms:
+  - しかべ
+  - シケルペ
+  - 間歇泉の町
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 鹿部町は、渡島半島東部、駒ヶ岳の麓で噴火湾に面する茅部郡の漁業の町である。町公式によれば、町名はアイヌ語の「シケルペ」に由来し、キハダ（別名シコロ）のある所という意味で、貴重な木であるキハダが多かったことからそう呼ばれ、後に転訛して「鹿部」となった。「鹿」の字は当て字で、鹿そのものに由来する名ではない。明治39年（1906年）に鹿部村となり、昭和58年（1983年）に町制を施行した。大正13年（1924年）に発見された間歇泉は町のシンボルである。
+  first_attestation:
+    era: 江戸時代
+    year_western: null
+    document: 元禄御国絵図など江戸期の記録（鹿部温泉観光協会「鹿部町の歴史」が町の歴史として挙げる）
+    note: 観光協会の年表は元禄13年（1700年）の元禄御国絵図を町の歴史の項に挙げるが、「シケルペ（鹿部）」の記載そのものを確認できたわけではないため、初出の年は確定できない
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、鹿部町の団体コードは013439と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 鹿部町公式によれば、町名はアイヌ語の「シケルペ」に由来し、「シケルペ」はキハダ（一名シコロ）のある所の意で、イナウ・薬用・染料に使う貴重な木であるキハダが多いことからそう呼ばれ、後に転訛して「鹿部」となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikabe-town-gaiyo
+    - z3-shikabe-mlit
+  - text: 「鹿部」の「鹿」はアイヌ語「シケルペ」の音に当てた字であり、鹿の動物そのものに由来する地名ではない（鹿部町公式・北海道開発局の説明に基づく）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikabe-town-gaiyo
+    - z3-shikabe-mlit
+  - text: 明治12年（1879年）に鹿部村戸長役場が開設され、明治39年（1906年）に北海道二級町村制の施行により茅部郡鹿部村となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z3-shikabe-wiki
+  - text: 昭和58年（1983年）12月1日に町制を施行し、北海道で156番目の町となった（北海道開発局・鹿部町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikabe-mlit
+    - z3-shikabe-town-gaiyo
+  - text: 寛文6年（1666年）、津軽から来た伊藤源五郎が、傷を負った鹿が温泉で傷を癒しているのを発見して鹿部温泉を開いたという伝承がある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z3-shikabe-town-onsen
+    - z3-shikabe-wiki
+  - text: 大正13年（1924年）4月、温泉の試掘中に熱湯が噴き上がったことが鹿部間歇泉の始まりで、間歇泉は平成30年（2018年）に北海道遺産に選定された（鹿部町公式・北海道開発局）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-shikabe-town-onsen
+    - z3-shikabe-mlit
+  column:
+    title: 「鹿の町」の名前は、鹿とは関係がなかった
+    text: 鹿部と聞くと、温泉で傷を癒す鹿を見つけて湯を開いたという、寛文6年（1666年）の伊藤源五郎の伝承が思い浮かびます。ところが町名の由来は別です。町公式によれば、もとはアイヌ語の「シケルペ」、キハダの木のある所という意味で、その音に「鹿部」の字を当てたにすぎません。鹿の伝説で知られる町なのに、名前のほうは木の名だった、という取り違えやすい組み合わせです。なお大正13年（1924年）に温泉の試掘中、偶然に熱湯が噴き上がって生まれた間歇泉は、いまでは北海道遺産にも選ばれた町のシンボルです。
+    sources:
+    - z3-shikabe-town-gaiyo
+    - z3-shikabe-town-onsen
+  relations:
+  - pref/01
+  unknowns:
+  - 「シケルペ」が文書に初めて現れる年と文献は確認できなかった
+  - 「鹿部」の漢字表記がいつ定着したかは未確認である
+  updated: '2026-11-13'
+- id: muni/01-黒松内町
+  code: 013935
+  names:
+    ja: 黒松内町
+    reading: くろまつないちょう
+    aliases:
+    - 黒松内村
+    - 三和村
+    - 三和町
+    - クルマッナイ
+  user_terms:
+  - くろまつない
+  - ブナ北限の町
+  - 北限のブナ林
+  naming_type: その他
+  prefecture: 北海道
+  homonyms: []
+  summary: 黒松内町は、後志総合振興局の南端、寿都郡の町で、ブナの自然分布の北限「北限のブナ林」で知られる。町名はアイヌ語の「クルマッナイ（クル・マツ・ナイ）」、和人の女性のいる沢に由来するとされ、和人の女性が珍しかった時代の名である。現在の町は昭和30年（1955年）の合併でいったん三和村となり、昭和34年（1959年）に三和町を経て黒松内町へ改称した。つまり現行の「黒松内」は、旧黒松内村の名を復活させたものである。
+  first_attestation:
+    era: 文化12年
+    year_western: 1815
+    document: 伊能忠敬・間宮林蔵『蝦夷地沿海実測図』
+    note: 『蝦夷地沿海実測図』に「クルマツナイ」「クルマツナイ山」などの地名が載るとWikipediaが紹介する。原図そのものは未確認のため紹介形にとどめる
+  claims:
+  - text: 総務省「地方公共団体コード一覧」で、黒松内町の団体コードは013935と定められている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 黒松内町公式によれば、町名はアイヌ語の「クル・マツ・ナイ」（和人の女のいる沢）に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-kuromatsunai-town-info
+  - text: 「和人の女性の沢」という名の背景について、かつて北海道に往来する和人は大半が男性で、アイヌにとって和人の女性が珍しかったことによると説明される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z3-kuromatsunai-wiki
+  - text: 出稼ぎの漁夫を慕ってきた妻たちが付近の海で時化（シケ）に遭い、この地に滞留したため「和人の女のいる沢」と呼ばれたという言い伝えがある
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - z3-kuromatsunai-town-info
+    - z3-kuromatsunai-wiki
+  - text: 文化12年（1815年）の伊能忠敬・間宮林蔵『蝦夷地沿海実測図』に「クルマツナイ」「クルマツナイ山」などの地名が載る
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z3-kuromatsunai-wiki
+  - text: 昭和30年（1955年）1月15日、黒松内村・樽岸村の一部（中ノ川地区）・熱郛村が合併して三和村が発足し、昭和34年（1959年）1月1日に町制施行で三和町となり、同年5月1日に黒松内町へ改称した。現行町名は旧黒松内村の名の復活である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - z3-kuromatsunai-wiki
+  - text: 町内には「北限のブナ林」として知られる歌才ブナ林があり、昭和3年（1928年）に国の天然記念物に指定された（黒松内町公式）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - z3-kuromatsunai-town-info
+  column:
+    title: いったん消えて、4年後に戻ってきた町名
+    text: 黒松内という名は、1955年の合併で一度姿を消しました。黒松内村・熱郛村・樽岸村の一部が合併した新しい村は「三和村」と名乗り、1959年には町制を施行して三和町になります。ところがそのわずか4か月後、三和町は「黒松内町」に改称しました。合併で消えたはずの旧村名が、新しい町の名として復活したのです。もとの黒松内はアイヌ語の「クルマッナイ」、和人の女性のいる沢という意味で、和人の女性が珍しかった開拓初期の風景を映す名でした。
+    sources:
+    - z3-kuromatsunai-wiki
+    - z3-kuromatsunai-town-info
+  relations:
+  - pref/01
+  unknowns:
+  - 1959年に三和町から黒松内町へ改称した経緯（住民の要望や議会の議論など）は確認できなかった
+  - 『蝦夷地沿海実測図』の原図における「クルマツナイ」の表記は未確認である（紹介形にとどめた）
   updated: '2026-11-13'
 sources:
   a-cap-sapporo-city:
@@ -13847,3 +15763,180 @@ sources:
   y9-tsubetsu-wiki:
     label: Wikipedia「津別町」（町名は現在の市街付近の地名から採られたとする紹介）
     url: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%88%A5%E7%94%BA
+  z1-akaigawa-dokeiren:
+    label: 北海道経済連合会「わがまち紹介・赤井川村」（村名の「赤井川」には諸説あるが、村ではアイヌ語の「フレ・ペツ」（赤い川）を由来としていること、明治15年に粟屋貞一・井関百合蔵が赤井川を探検し明治27年より開拓者の入地が始まったこと、明治32年に大江村（現在の仁木町大江地区）より分村し赤井川村戸長役場が設置され明治39年に2級町村制施行により「赤井川村」となったこと、余市川カルデラの中に赤井川カルデラが存在する二重カルデラの地形であることを紹介する村紹介資料）
+    url: https://www.dokeiren.gr.jp/wp-content/uploads/2023/03/23_0315_003.pdf
+  z1-akaigawa-wikipedia:
+    label: Wikipedia「赤井川村」（市町村コード01409-5を掲げる）
+    url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E4%BA%95%E5%B7%9D%E6%9D%91
+  z1-ashoro-rekishi:
+    label: コトバンク『日本歴史地名大系』「足寄町」（昭和30年（1955年）4月に中川郡西足寄町と足寄郡足寄村が合併して成立したこと、面積1,408.09平方キロを記す）
+    url: https://kotobank.jp/word/%E8%B6%B3%E5%AF%84%E7%94%BA-25429
+  z1-ashoro-tokachi:
+    label: 十勝観光連盟「十勝について・足寄町」（面積1,408.09km²と町村では日本一広い面積で市区町村の中でも第6位であること、地名の由来はアイヌ語の「沿って下る川」を意味する「エショロ・ペッ」から転訛したというのが定説であること、道の駅あしょろ銀河ホール21に足寄町出身の歌手・松山千春さんのギャラリーがあること、螺湾川の水資源によって高さ3mにもなるラワンブキが育つことを紹介）
+    url: https://tokachibare.jp/about_tokachi/towns/asyoro
+  z1-ashoro-wikipedia:
+    label: Wikipedia「足寄町」（市町村コード01647-1、西足寄側は1921年（大正10年）に本別村から分村して中川郡西足寄村となり1950年（昭和25年）に町制施行して西足寄町となったこと、旧足寄村は1923年（大正12年）に螺湾村と合併し二級町村制を施行したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%B6%B3%E5%AF%84%E7%94%BA
+  z1-kunneppu-cirotto:
+    label: オホーツク18市町村の名の由来まとめ（北海道『アイヌ語地名リスト』p.46の引用として、訓子府はアイヌ語のクンネプ「黒い・もの（川）。やち川で水が黒かった」（永田方正の説）とするページ）
+    url: https://cirotto.jp/rekishi/okhotsk/
+  z1-kunneppu-nenpyou:
+    label: 訓子府町公式「訓子府町の主な歴史年表」（明治16年（1883年）に本町地区は単にクンネップと称されていたことを記す町史年表）
+    url: https://www.town.kunneppu.hokkaido.jp/fs/3/6/6/8/9/_/P435-479_nenpyou.pdf
+  z1-kunneppu-town:
+    label: 訓子府町公式「町名の由来と歴史」（町の名はアイヌ語の「クンネプ」から転訛したもので「黒いところ、やち川にして水黒し」の意味から由来すること、明治30年に北光社移民団の内13戸がオロムシ（現在の大谷地区）に入地したのが定住の始まりであること、大正4年に置戸村の一部となり大正9年に置戸村から独立して訓子府村となったこと、昭和26年11月に町制を施行し訓子府町となったことを記す）
+    url: https://www.town.kunneppu.hokkaido.jp/outline/yuraitorekisi.html
+  z1-kunneppu-wikipedia:
+    label: Wikipedia「訓子府町」（市町村コード01549-1、平成の合併協議で置戸町との新町名「置戸町」に一度は合意したものの訓子府町の住民アンケートで合併反対が半数以上を占めたため協議を解散したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%A8%93%E5%AD%90%E5%BA%9C%E7%94%BA
+  z1-nishiokoppe-hgu:
+    label: 北海道学園大学リポジトリ収載の西興部村研究論文（1925年（大正14年）に興部村から分村して現在の西興部村が生まれたこと、昭和の大合併では再合併の話が持ち上がったが合併には到らなかったこと、村の面積の約89%が山林であることを記す）
+    url: http://hokuga.hgu.jp/dspace/bitstream/123456789/3633/1/P035-058.%E9%AB%99%E5%8E%9F%E4%B8%80%E9%9A%86%E5%85%88%E7%94%9F.pdf
+  z1-nishiokoppe-vill:
+    label: 西興部村公式「西興部村の概要」（村名の由来として、「興部」とはアイヌ語の「オウコッペ」より転訛したもので「川尻の合流したところ」の意味があり、興部川と藻興部川が川尻で合流してオホーツク海に注いでいたので名付けられたこと、本村は興部の西方に位置するので西の字を冠したことを記す）
+    url: https://www.vill.nishiokoppe.lg.jp/feeuub000001dlr1.html
+  z1-nishiokoppe-wikipedia:
+    label: Wikipedia「西興部村」（市町村コード01562-8を掲げる）
+    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%88%88%E9%83%A8%E6%9D%91
+  z1-rankoshi-town:
+    label: 蘭越町公式「まちの概要」（町名の由来として、蘭越とはアイヌ語の「ランコ・ウシ」が訛ったもので桂の木の多い所という意味であること、明治32年に尻別村から分村して南尻別村となり、昭和29年12月1日の町制施行にあたって役場所在地が蘭越にあることから町名を蘭越町と改称したこと、町章の中央の花は蓉楽蘭の花を図案化し周囲の円はカタカナの「コ」を四つ組み合わせて蘭越としたことを記す）
+    url: https://www.town.rankoshi.hokkaido.jp/administration/town/detail.html?content=312
+  z1-rankoshi-wikipedia:
+    label: Wikipedia「蘭越町」（市町村コード01394-3、1954年12月1日に南尻別村を蘭越村に改称し即日町制施行して蘭越町となったこと、改名の理由として役場所在地と村名の不一致による混乱や「南尻別」より「蘭越」の知名度が高かったこと、蘭越が駅・郵便局・学校名として使われていたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%98%AD%E8%B6%8A%E7%94%BA
+  z1-shibetoro-rekishi:
+    label: コトバンク『日本歴史地名大系』「蘂取村」（大正12年（1923年）に蘂取郡蘂取村と乙今牛村が合併し二級町村の蘂取村が成立したこと、択捉島の北東端部に位置し蘂取川は択捉島で最長の川であることを記す）
+    url: https://kotobank.jp/word/%E8%98%82%E5%8F%96%E6%9D%91-3020826
+  z1-shibetoro-wikipedia:
+    label: Wikipedia「蘂取村」（団体コード01700-1、村名の由来はアイヌ語の「シ・ペッ・オロ（大きい川のところ）」からとすること、1869年に千島国蘂取郡蘂取村が成立したこと、日本最北端の村で法令上のみ存在する村であること、1983年より戸籍事務は根室市役所が代行していること、カモイワッカ岬の「大日本恵登呂府」標柱の経緯を記す）
+    url: https://ja.wikipedia.org/wiki/%E8%98%82%E5%8F%96%E6%9D%91
+  z1-tomamae-gun-wikipedia:
+    label: Wikipedia「苫前郡」（苫前はもともと「とままい」と読んだこと、江戸時代の苫前郡域は西蝦夷地に属し慶長年間ころから松前藩によってトママイ場所が開かれたことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%89%8D%E9%83%A1
+  z1-tomamae-nipponica:
+    label: コトバンク『日本大百科全書（ニッポニカ）』「苫前」（町名はアイヌ語トマオマナイ（エゾエンゴサクの茂る所の意）の転訛とすること、1948年（昭和23年）町制施行を記す）
+    url: https://kotobank.jp/word/%E8%8B%AB%E5%89%8D-3133908
+  z1-tomamae-rekishi:
+    label: コトバンク『日本歴史地名大系』「苫前町」（昭和23年（1948年）10月に苫前郡苫前村が町制施行して成立したことを記す）
+    url: https://kotobank.jp/word/%E8%8B%AB%E5%89%8D%E7%94%BA-105799
+  z1-tomamae-rumoi:
+    label: 留萌振興局「留萌のまち」（管内市町村紹介。苫前町の市町村名の由来をアイヌ語「トマオマイ」（エゾエンゴサクのある所）からの転訛とし、町の木ナナカマド・町の花エゾエンゴサクを掲げる）
+    url: https://www.rumoi.pref.hokkaido.lg.jp/gyosei/machi/index.html
+  z1-tomamae-wikipedia:
+    label: Wikipedia「苫前町」（市町村コード01483-4を掲げる）
+    url: https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%89%8D%E7%94%BA
+  z1-toyokoro-gaiyou:
+    label: 豊頃町公式「豊頃町の概要」（町名の由来はアイヌ語の「トエコロ」で「大きなフキが生えていたところ」といわれていること、明治13年（1880年）に大津外4郡戸長役場が置かれたのを開町とすること、昭和30年に豊頃村と大津村中部地区が合併し昭和40年（1965年）1月1日から町制が施行されていることを記す）
+    url: https://www.toyokoro.jp/page/1383.html
+  z1-toyokoro-wikipedia:
+    label: Wikipedia「豊頃町」（市町村コード01645-4を掲げる）
+    url: https://ja.wikipedia.org/wiki/%E8%B1%8A%E9%A0%83%E7%94%BA
+  z1-toyokoro-yurai:
+    label: 豊頃町公式「地名の由来」（豊頃～トヨコロについて、「トエコロ」と発音すると「大きなフキ」のあるところの意味もあるが、別に「トピオカル」または「トプヨカオロ」と発音し「人死して住まわざるところ」の意味ともされていること、また「トイ・コロ」といい「土多く礫少ないところ」の意もあること、その伝説として昔カシピラ（常室）の酋長がコタノロを襲撃したとき逆襲を受け豊頃町の小沼に身を投じて全滅し豊頃コタンが無人の地となったという話が地名の由来として生まれたとされることを記す）
+    url: https://www.toyokoro.jp/page/1390.html
+  z1-toyotomi-onsen:
+    label: 豊富温泉開湯100周年サイト「温泉の歴史」（1926年（大正15年）5月17日夜半、石油試掘の深度960メートルから天然ガスとともに温泉が噴出したことを記す年表）
+    url: https://anniv100th.toyotomi-onsen.com/history
+  z1-toyotomi-wikipedia:
+    label: Wikipedia「豊富町」（市町村コード01516-4。町名の由来として『豊富町史』の記述を引き、現在の豊富市街周辺はエベコロベツ川のアイヌ語名「イペコロペッ（ipe-kor-pet）」（食物〔魚〕・を持つ・川）から「エベコロベツ」と呼ばれていたこと、「豊富」の名称は1908年に発足したエベコロベツ住民会で「イペコロペッ」を「食物が豊富」と意訳して命名されたこと、一説に提案者は農場主・嘉納久三郎とされること、1878年に沙流村が設置され1919年に幌延村へ合併、1940年9月に豊富村として分村独立し1959年1月に町制を施行したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%AF%8C%E7%94%BA
+  z1-toyoura-gaiyou2017:
+    label: 豊浦町公式「平成29年度 豊浦町の概要」（市町村コード番号015717を明記する町公式の概要資料）
+    url: https://www.town.toyoura.hokkaido.jp/hotnews/files/00003700/00003768/20171109114957.pdf
+  z1-toyoura-gaiyou2019:
+    label: 豊浦町公式「豊浦町の概要」（豊浦町の由来は農産物・水産物が豊かで内浦湾に面していることからであること、かつては弁辺（べんべ）と呼ばれ昭和7年（1932年）4月に村名弁辺村を豊浦村と改称したこと、昭和22年（1947年）7月に町制施行により豊浦町が誕生したこと、弁辺とはアイヌ語で「ベツベツ（川・川）」とする説明を記す）
+    url: https://www.town.toyoura.hokkaido.jp/hotnews/files/00003700/00003768/20190517102345.pdf
+  z1-toyoura-wikipedia:
+    label: Wikipedia「豊浦町」（旧地名は「弁辺」（べんべ）であったこと、地名研究者の山田秀三がアイヌ語の「ペウンペ（pe-un-pe：水・ある・ところ）」「ペペナイ（pe-pe-nay：水・水・川）」あるいは「ペペ（pe-pe：水・水）」に由来すると解釈したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%A6%E7%94%BA
+  z2-enbetsu-kyodo:
+    label: 北海道応援サイト「遠別町郷土資料館」（遠別町教育委員会の協力による開拓記念碑の碑文の転記。明治30年（1897年）に団体などの移住が約200余戸あり、明治36年に戸長役場を本村に置き、大正8年に2級町村制、昭和24年（1949年）4月1日に町制が施行されたという沿革を碑文として伝える）
+    url: http://ouenkitanodaichi.web.fc2.com/douhokuhtml/enbetukyoudo.html
+  z2-enbetsu-wiki:
+    label: Wikipedia「遠別町」（町名の由来として、アイヌ語の諸説を挙げ、自然な解とされる「ウェンペッ（wen-pet）＝悪い川」説、永田方正『北海道蝦夷語地名解』の民間語源「ウイェペッ（u-ye-pet）＝相話する川」説、「ウエベツ＝二股の川」説を併記し、国鉄北海道総局『北海道 駅名の起源』（1973年）が「ここの川は水質が悪く、飲めないため」とすることを紹介。1897年（明治30年）の越前団体の入植を開基とする）
+    url: https://ja.wikipedia.org/wiki/%E9%81%A0%E5%88%A5%E7%94%BA
+  z2-engaru-wiki:
+    label: Wikipedia「遠軽町」（町名の由来は現在の瞰望岩を指していたアイヌ語「インカルシ（inkar-us-i）＝眺める・いつもする・所」で、かつてここで見張りをしたという。1901年（明治34年）に札幌郵便局の課員が瞰望岩を示すアイヌ語名称を意義深いとして新設の局に「遠軽郵便局」と名付けたことが地名の始まりで、1901年2月1日に遠軽郵便局が開設されたこと、1919年（大正8年）に上湧別村から分村して遠軽村となり、1934年（昭和9年）に町制を施行して遠軽町となり、1946年に丸瀬布村・白滝村が分村し、1954年に生田原村が町制を施行して生田原町となり、2005年（平成17年）10月1日に遠軽町・生田原町・丸瀬布町・白滝村の3町1村が対等合併して新遠軽町となった沿革、瞰望岩にアイヌの古戦場となった伝説があることを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%81%A0%E8%BB%BD%E7%94%BA
+  z2-kushirotown-ayumi:
+    label: 釧路町公式「釧路町のあゆみ」（1644年（正保元年）に幕府の編さんした「正保絵図」に「クスリ」の地名が記載されること、1857年（安政4年）の古文書にクスリ場所の漁方としてコンブイム番屋などの記述があること、1920年（大正9年）に釧路町（現釧路市）に区制が施行されるため助成金を受けて釧路村が分村独立したこと、2005年（平成17年）に旧釧路村・旧昆布森村合併50周年記念式典が挙行されたことを記す年表）
+    url: http://www.town.kushiro.lg.jp/introduction/shisetsu.html/introduction/ayumi.html
+  z2-kushirotown-reiki:
+    label: 釧路町例規集「釧路町のあゆみ」（1954年（昭和29年）12月29日の総理府告示第1245号により釧路郡釧路村及び昆布森村を廃し、その区域をもって釧路村を置く廃置分合が告示され、1955年（昭和30年）1月1日に合併により新釧路村が発足したこと、その後、村議会で町制施行が満場一致で可決され、道議会でも議決された町制施行への手続きを年表として記す）
+    url: https://www1.g-reiki.net/town.kushiro/reiki_honbun/a203RG00000001.html
+  z2-naganuma-plan:
+    label: 長沼町「第6期長沼町総合振興計画（案）」（町の西1線北15番地付近にアイヌ語で「タンネトー」という沼があり、「タンネトー」を和名で“細長い沼”と言い、この言葉から長き沼「長沼」となったという町名の由来、本町の開拓は1887年（明治20年）に岩手県人吉川鉄之助と長野県人渡辺伝二が馬追原野の夕張川河畔に入り移住開墾したことに始まること、その後1892年（明治25年）に長沼村が開村したことを記す）
+    url: https://www.maoi-net.jp/files/00002600/00002622/siryou3-2.pdf
+  z2-naganuma-wiki:
+    label: Wikipedia「長沼町」（町名は町域にあったアイヌ語で「タンネトー」という沼に由来し、和名で細長い沼を意味することから「長沼」と名付けられたこと、1892年（明治25年）に北海道庁令第5号をもって長沼村が成立し、村名設定にあたり開拓功労者の名をとり吉川村との意見もあったが吉川は固辞し、村内の沼タンネト（アイヌ語で細長い沼）にちなみ長沼村と村名を決定したこと、1952年（昭和27年）1月1日に町制を施行して長沼町となった沿革を記す）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B2%BC%E7%94%BA
+  z2-oshamambe-cao:
+    label: 内閣府公表「長万部町アイヌ施策推進地域計画」（町内のアイヌ語由来地名として「長万部（オシャマンペ＝鰈のいる所）」「静狩（シリトカリ）」「国縫（クンネイ）」などを挙げ、オシャマンペの名は古く17世紀にはシャクシャインの戦い（1669年）の戦記等に決戦場となったクンヌイ（国縫）とともに記されていること、語源は直訳すると「オ（川口）シャマン（鰈）ペ（あるところ）」で「カレイのたくさんとれる川口」となるが、古アイヌ語ではシャマンは「横になった川」を意味し、元々は長万部川の「横になった川口」という地形特徴を言い表したものが、17〜18世紀にはアイヌ自身が「鰈のたくさんとれる川口」と付会した解釈を和人に伝承したと考えられることを記す）
+    url: https://www8.cao.go.jp/ainu/kouhyou/chiiki_keikaku/20220311/kouhyou-oshamambe.pdf
+  z2-oshamambe-wiki:
+    label: Wikipedia「長万部町」（町名の由来はアイヌ語に由来するが諸説あり特定しがたいとされ、「ウパㇱサマㇺペ（upas-samampe）＝雪・カレイ類の魚」「オサマㇺペッ（o-samam-pet）＝川尻・横になっている・川」「オサマㇺペ（o-samampe）＝川尻・カレイ類の魚」の3説を表にして併記し、町ではオサマㇺペ説を採ること、1864年に和人地となり村並に列したことにより長万部村と称されたこと、1943年（昭和18年）に町制を施行して長万部町となったことを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E4%B8%87%E9%83%A8%E7%94%BA
+  z2-otofuke-town:
+    label: 音更町公式「音更町の沿革と概要」（町名の音更は、アイヌ語のオトプケ（毛髪が生ずる）から転訛したもので、音更川と然別川の支流がたくさん流れているところからついたと言われているという町名の由来、明治34年（1901年）に音更ほか2村戸長役場が設置され、明治39年に2級村制が施行され、大正10年に1級村に昇格し、昭和28年（1953年）に町制が施行された沿革、十勝川温泉が町内にあることを記す）
+    url: https://www.town.otofuke.hokkaido.jp/machi/aramashi/gaiyo/enkakutogaiyo.html
+  z2-otoineppu-vill:
+    label: 音威子府村公式「村の概要」（村名の由来として、アイヌ語で「濁りたる泥川、漂木の堆積する川口、または切れ曲がる川尻」の意であること、昭和38年（1963年）に「常盤村」から「音威子府村」に改称したことを記す）
+    url: https://www.vill.otoineppu.hokkaido.jp/about/gaiyou.html
+  z2-otoineppu-wiki:
+    label: Wikipedia「音威子府村」（村名の由来はアイヌ語の「オトイネㇷ゚（o-toyne-p）」に由来し、「川口のにごっている川」あるいは「川尻（を歩くと）・泥んこである・もの（川）」の意とされること、音威子府の名が初めて登場するのは1797年（寛政9年）の『松前地並西蝦夷地明細記』で「ヲトヱ子フ」と表記されていること、1963年（昭和38年）に常盤村から音威子府村に改称したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%9F%B3%E5%A8%81%E5%AD%90%E5%BA%9C%E6%9D%91
+  z2-oumu-wiki:
+    label: Wikipedia「雄武町」（町名の由来はアイヌ語の「オムイ」（川尻・塞がる・所）、あるいは単に「オム」（川尻・塞がる）とされ、雄武川の河口が風や潮流に運ばれた砂で塞がれることから付けられた地名との説があること、1872年（明治5年）に雄武村が設置され、1915年（大正4年）に紋別郡雄武村・幌内村・沢木村が合併して二級町村制の雄武村となり、1948年（昭和23年）に町制を施行して雄武町となった沿革を記す）
+    url: https://ja.wikipedia.org/wiki/%E9%9B%84%E6%AD%A6%E7%94%BA
+  z2-rikubetsu-town:
+    label: 陸別町公式「町の概況・歴史」（町名の由来はアイヌ語のリクンベツに由来し、意味は「高く上がっていく川、又は危ない高い川」で、昭和24年（1949年）以前は淕別（リクンベツ）であったこと、1901年（明治34年）に関又一が斗満に入植し、1902年に72歳の関寛斎が斗満原野の開拓を志して入植したこと、1919年（大正8年）に足寄外3村戸長役場から分離して陸別村が誕生したこと、1923年に淕別2級村制が実施されたこと、1949年（昭和24年）に淕別村（リクンベツ）を陸別（リクベツ）と改称したこと、1953年（昭和28年）に陸別町制が施行されたことを記す）
+    url: https://www.rikubetsu.jp/shokai/profile/gaikyou_rekishi
+  z2-uryu-town-chronology:
+    label: 雨竜町公式「雨竜の歴史 年表」（明治22年（1889年）に公爵三条実美、侯爵蜂須賀茂韶、侯爵菊亭修季が道庁より雨竜原野の貸下を受け、明治23年に華族組合雨竜大農場の開拓が始まったこと、明治25年（1892年）2月4日付道庁令第5号で雨竜村が誕生したこと、明治32年（1899年）に北竜村を分村したこと、昭和36年（1961年）に町制が施行されたことを記す）
+    url: https://www.town.uryu.hokkaido.jp/docs/town-history-chronology.html
+  z2-uryu-town-profile:
+    label: 雨竜町公式「雨竜町の紹介」（町名の由来として、雨竜（うりゅう）はアイヌ語の地名「ウリロペツ」（鵜の多い川という意味）より転訛したもので、雨竜川の河口に多くの鵜が生息していたことから名が付けられたといわれていること、明治22年（1889年）の華族組合農場による開拓に端を発し、平成元年に開基100年を迎えた町の歴史を記す）
+    url: https://www.town.uryu.hokkaido.jp/docs/town-profile.html
+  z2-uryu-wiki:
+    label: Wikipedia「雨竜町」（町名は現在の雨竜川から付けられた町名であり、アイヌ語に由来するが正確には分からなくなっているとし、一説に「ウリリオペッ（ウリロペッ）」（鵜の多い川）を挙げることを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%9B%A8%E7%AB%9C%E7%94%BA
+  z3-kuromatsunai-town-info:
+    label: 黒松内町公式「町の基本情報」（町名の由来として、アイヌ語の「クル・マツ・ナイ」（和人の女のいる沢）に由来し、昔、出稼ぎの漁夫を慕ってきた妻たちがこの地でシケに遭い、そのまま滞留したと言われていると説明。歌才ブナ林が1928年に国の天然記念物に指定された北限のブナ林であることを記す）
+    url: http://www.kuromatsunai.com/towninfo
+  z3-kuromatsunai-wiki:
+    label: Wikipedia「黒松内町」（寿都郡。町名の由来はアイヌ語「クルマッナイ」（和人の女性の沢）で、和人の女性が珍しかったことによるとされ、漁夫を慕ってきた妻女が難破してとどまったという俗説も紹介。1815年の『蝦夷地沿海実測図』にクルマツナイと載ること、1955年に3村の合併で三和村が発足し、1959年1月に三和町、同年5月1日に黒松内町へ改称したことを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9D%BE%E5%86%85%E7%94%BA
+  z3-shikabe-mlit:
+    label: 国土交通省北海道開発局「道南地域データ 鹿部町」（町名の由来としてアイヌ語の「シケルペ」に由来し、キハダのある所の意で、後に転訛し「鹿部」となったと説明。町制施行は昭和58年12月1日。道の駅しかべ間歇泉公園と鹿部間歇泉（北海道遺産）を紹介）
+    url: https://www.hkd.mlit.go.jp/hk/tiiki_sinkou/m8lgt8000000034z.html
+  z3-shikabe-town-gaiyo:
+    label: 鹿部町公式「鹿部町の概要」（町名の由来として、アイヌ語「シケルペ」が町名の由来であり、「シケルペ」は「キハダ（一名シコロ）のある所」の意で、イナウ・薬用・染料に使う貴重な木であるキハダが多いことからそう呼ばれ、後に転訛して「鹿部」となったと明記）
+    url: https://www.town.shikabe.lg.jp/soshiki/somu_bosai/gyomu/3/816.html
+  z3-shikabe-town-onsen:
+    label: 鹿部町公式「鹿部の温泉」（寛文6年（1666年）に津軽から来た伊藤源五郎が、傷を負った鹿が温泉で傷を癒すのを発見して温泉を開いたという鹿部温泉のあゆみと、大正13年（1924年）4月の温泉試掘中に熱湯が噴き上げたことが間歇泉の始まりであることを記す）
+    url: https://www.town.shikabe.lg.jp/soshiki/syokutokanko/gyomu/2/2/797.html
+  z3-shikabe-wiki:
+    label: Wikipedia「鹿部町」（茅部郡。沿革として明治12年（1879年）に鹿部村戸長役場が開設され、明治39年（1906年）に北海道二級町村制により鹿部村となったこと、1666年に伊藤源五郎が温泉で傷を癒す鹿を発見したという伝承があることを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%B9%BF%E9%83%A8%E7%94%BA
+  z3-shikaoi-town-gaiyou:
+    label: 鹿追町「町の概要」（鹿追町議会概要・町勢資料。町名の由来として、アイヌ語の「クテクウシ」（鹿を追う広大な土地）を意訳したものと言われていると明記。沿革として明治35年の入植開始、大正10年4月に音更村から分村して鹿追村となり、昭和34年9月に町制施行したことを記す）
+    url: https://www.town.shikaoi.lg.jp/file/contents/485/19968/2021gaiyou.pdf
+  z3-shikaoi-town-shiseki:
+    label: 鹿追町公式「鹿追発祥之地」（鹿追町史跡訪問ガイド。明治35年に山田松次郎がクテクウシ原野に入地し、大正10年4月1日に北海道告示177号により母村の音更村から分村して鹿追村が誕生したことを記す）
+    url: https://www.town.shikaoi.lg.jp/kurashi/kyoiku_bunka/history/shiseki_guide/n21
+  z3-shikaoi-wiki:
+    label: Wikipedia「鹿追町」（河東郡。地名の由来としてアイヌ語「クテクウシ」に由来し、「クテク」は機弓（アマッポ）を仕掛ける柵を結ぶことで、「クテク・ウシ」は鹿捕り柵のある所となり、これを和訳した地名が「鹿追」であるという専門資料の解釈を紹介。1959年に町制施行）
+    url: https://ja.wikipedia.org/wiki/%E9%B3%BF%E8%BF%BD%E7%94%BA
+  z3-takasu-town-about:
+    label: 鷹栖町公式「鷹栖町について」（町名の由来として、大きな鳥が生息していた光景からアイヌ語で「大きな鳥（鷹）の棲むところ（巣）」を意味する「チカップニ」と呼ばれるようになり、それが意訳されて「鷹栖」となったと説明。沿革として明治25年の鷹栖村誕生、昭和44年の町制施行を記す）
+    url: https://www.town.takasu.hokkaido.jp/page/1171.html
+  z3-tsurui-village-history:
+    label: 鶴居村公式「鶴居村の歴史」（村公式の年表。明治18年の下雪裡への移住に始まり、昭和12年4月1日に舌辛村から分村し「天然記念物タンチョウの生息はん殖地帯に因み、村名を『鶴居村』と称する」と明記。昭和10年のタンチョウ天然記念物指定、昭和27年の特別天然記念物指定も記す）
+    url: https://www.vill.tsurui.lg.jp/muranoshokai_sonsei/tsuruimuranitsuite/1052.html
+  z3-tsurui-village-tancho:
+    label: 鶴居村教育委員会「タンチョウ保護の歴史」（村公式。1924年のチルワツナイでのタンチョウ再発見、1935年の天然記念物指定、1937年の鶴居村誕生、1952年に村立幌呂小学校で給餌が始まったこと等を年表で示す）
+    url: https://www.vill.tsurui.lg.jp/soshikikarasagasu/kyoikuiinkai/kyoikuiinkai_shakaikyoikuka/shakaikyoikugakari/tancho/tanchoshitte/1738.html
+  z3-tsurui-wiki:
+    label: Wikipedia「鶴居村」（団体コード01667-5、釧路総合振興局阿寒郡。村名の由来はタンチョウの棲息地であることに因むとし、1937年に舌辛村から分村して鶴居村となったこと、釧路総合振興局で唯一の村であることを記す）
+    url: https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B1%85%E6%9D%91
