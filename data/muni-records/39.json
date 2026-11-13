@@ -265,10 +265,6 @@
    "label": "土佐清水市教育委員会・市史編さん室「市史編さん便り 第52号」（市制発足の経緯・市名の決着）",
    "url": "https://www.city.tosashimizu.kochi.jp/fs/4/5/6/7/4/2/_/hist_news_r5_52.pdf"
   },
-  "r2-akigun-wiki": {
-   "label": "Wikipedia「安芸郡 (高知県)」（1889年の町村制で安田村は安田村・西島村・唐浜村・東島村から発足したこと）",
-   "url": "http://ja.wikipedia.org/wiki/安芸郡_(高知県)"
-  },
   "r2-hidaka-geoshape": {
    "label": "国立情報学研究所「歴史的行政区域データセットβ版」日高村（有効期間の開始が1954-10-15）",
    "url": "https://geoshape.ex.nii.ac.jp/city/resource/39410A1968.html"
@@ -374,7 +370,7 @@
    "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E6%98%8E%E6%B5%A6%E3%83%80%E3%83%A0"
   },
   "r2-sugi-wiki": {
-   "label": "Wikipedia「杉の大スギ」（所在する地区名「杉」、旧自治体の大杉村、土讃線大杉駅の名前はすべてこのスギに由来していること、1924年に国の天然記念物・1952年に特別天然記念物に指定されたこと）",
+   "label": "Wikipedia「杉の大スギ」（所在する地区名「杉」、旧自治体の大杉村、土讃線大杉駅の名前はすべてこのスギに由来していることを、典拠として『巨樹・巨木』（山と渓谷社）・『巨樹の民俗学』（恒文社）・『中国・四国 巨樹・名木巡り』（牧野出版）の専門書を明示して説明すること、1924年に国の天然記念物・1952年に特別天然記念物に指定されたこと）",
    "url": "http://ja.wikipedia.org/wiki/杉の大スギ"
   },
   "r2-susaki-city-plan": {
@@ -492,6 +488,14 @@
   "r3-umaji-wiki": {
    "label": "Wikipedia「馬路村」",
    "url": "https://ja.wikipedia.org/wiki/%E9%A6%AC%E8%B7%AF%E6%9D%91"
+  },
+  "upg-ae5-otsuki-uub-detail": {
+   "label": "市区町村変遷情報「大月町（詳細）」（1957年2月11日に大内町と月灘村の新設合併で大月町が発足した記録）",
+   "url": "https://uub.jp/upd/u/u2903.html"
+  },
+  "upg-ae5-yasuda-uub-kochi": {
+   "label": "市区町村変遷情報「法的根拠等に基づく変遷 高知県」（1889年の新設の項で、安芸郡安田村が安田村・西島村・唐浜村・東島村の区域で発足したとあること）",
+   "url": "https://uub.jp/upd/s_kochi.html"
   },
   "upg-b-tosa-kotobank": {
    "label": "コトバンク「土佐郡」（平凡社『日本歴史地名大系』。郡名は『続日本紀』神護景雲2年（768年）11月18日条に「土左国土左郡人」とみえ、『土佐国風土記』逸文にも「土左の郡」とあることを記す）",
@@ -2144,7 +2148,17 @@
      ]
     },
     {
-     "text": "Wikipedia「大月町」は、1957年（昭和32年）2月11日に大内町と月灘村が合併して発足したこと、「大月」は合併前の両町村の名前から一文字ずつ取った合成地名であることを説明している",
+     "text": "1957年（昭和32年）2月11日、大内町と月灘村が合併して大月町が発足した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "upg-ae5-otsuki-uub-detail",
+      "r2-otsuki-geoshape"
+     ]
+    },
+    {
+     "text": "「大月」は合併前の両町村の名前から一文字ずつ取った合成地名である",
      "kind": "fact",
      "level": "E5",
      "status": "established",
@@ -2262,9 +2276,9 @@
      ]
     },
     {
-     "text": "Wikipedia「杉の大スギ」は、所在する地区名の「杉」、旧自治体の大杉村、土讃線大杉駅の名前は、いずれも八坂神社境内の巨木・杉の大スギに由来していると説明している",
+     "text": "Wikipedia「杉の大スギ」は、『巨樹・巨木』（山と渓谷社）・『巨樹の民俗学』（恒文社）・『中国・四国 巨樹・名木巡り』（牧野出版）といった専門書の記載として、所在する地区名の「杉」、旧自治体の大杉村、土讃線大杉駅の名前は、いずれも八坂神社境内の巨木・杉の大スギに由来していると説明している",
      "kind": "fact",
-     "level": "E5",
+     "level": "E2",
      "status": "established",
      "sources": [
       "r2-sugi-wiki"
@@ -2520,10 +2534,10 @@
     {
      "text": "1889年の安田村は、同名の近世以来の安田村に西島村・唐浜村・東島村を合わせた区域で発足した",
      "kind": "fact",
-     "level": "E5",
+     "level": "E4",
      "status": "established",
      "sources": [
-      "r2-akigun-wiki"
+      "upg-ae5-yasuda-uub-kochi"
      ]
     }
    ],

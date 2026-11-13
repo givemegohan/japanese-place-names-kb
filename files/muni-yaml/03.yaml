@@ -55,10 +55,11 @@ records:
     - t4-ninohe-city-intro
   - text: 明治22年（1889年）4月1日、一戸村と高善寺村が合併して一戸町が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z6-ichinohe-wiki
+    - upg-y3-tono-iwate-enkaku
+    - upg-y4-ichinohe-geoshape
   - text: 昭和32年（1957年）11月1日、一戸町・浪打村・鳥海村・小鳥谷村・姉帯村の1町4村が合併して、現在の一戸町が誕生した
     kind: fact
     level: E2
@@ -212,16 +213,18 @@ records:
     - t4-kuji-city-enkaku
   - text: 久慈は世界有数かつ国内最大の琥珀の採掘産地として知られ、採掘場・加工場・博物館を備える
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-kuji-wiki
+    - upg-y3-kuji-iwate-amber
+    - upg-y3-kuji-jiji-hosttown
   - text: 2013年放送のNHK連続テレビ小説『あまちゃん』では、架空の市「北三陸市」の場面のロケが久慈市内各所で行われ、放送後に観光客が増加した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-kuji-wiki
+    - upg-y3-kuji-amachan-sheet
+    - upg-y3-kuji-mlit-cruise
   column:
     title: クジラの岡は、もう一つの「久慈」の話
     text: 「久慈」の由来として有名なのは、『常陸国風土記』にある「鯨鯢（くじら）の岡」の話です。小さな丘の形がクジラに似ていたので、倭武天皇が「久慈」と名づけたというこの伝承は、実は茨城県の久慈郡・久慈川の地名についてのものです。岩手県の久慈については、県の資料が挙げるのは地形にまつわる4つの説で、クジラは登場しません。同名の地名どうしで由来が混ざり合うのは珍しくないことで、この二つの久慈は、名前は同じでも由来の層はまったく別々にたどる必要があります。
@@ -277,10 +280,10 @@ records:
     - t4-iwate-lib-ref-he
   - text: 寛永11年（1634年）に糠部郡が北郡・二戸郡・三戸郡・九戸郡に分割され、この一帯は九戸郡となった
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - t4-nukabe-wiki
+    - upg-y3-nukabe-komonjokan
   - text: 九戸村公式の計画によれば、本村が歴史に登場するのは建久2年（1191年）、南部藩の祖となった三郎光行の五男・五郎行連が「九戸五郎」と名乗り、本村の長興寺に居を構えてからであると言い伝えられている
     kind: legend
     level: E2
@@ -302,10 +305,10 @@ records:
     - t4-nukabe-wiki
   - text: 九戸城は九戸村にはなく、二戸市に存在する。これは「九戸氏の居城」という意味合いの名である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z6-kunohe-wiki
+    - upg-y4-kunohejo-bunka
   column:
     title: 九戸城は、九戸村にはない
     text: 「九戸」と聞いて思い浮かぶのは、豊臣秀吉の奥州仕置きに最後まで抵抗した九戸政実と、その居城・九戸城の戦いだろう。だが九戸城の跡は、九戸村ではなく隣の二戸市にある。城の名は「九戸氏の城」という意味で、村の名は「戸」の地名群の九番と郡名に由来する。同じ「九戸」でも、氏族の名・城の名・郡の名・村の名が、それぞれ別の場所や時代に根を持ちながら重なっている。1955年に生まれた村は、その重なりの中から郡の名を受け継いだ。
@@ -376,10 +379,11 @@ records:
     - t4-iwate-lib-ref-he
   - text: 糠部郡は寛永11年（1634年）に北郡・二戸郡・三戸郡・九戸郡に分割され、四戸を除く一戸から九戸までの名は現在も行政地名として現存している
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - t4-nukabe-wiki
+    - upg-y3-nukabe-komonjokan
+    - b-cap-chiba-soumu-code
   - text: 現在の二戸市の前身は、昭和47年（1972年）に福岡町と金田一村が合併して市制を施行し二戸市と命名されたもので、平成18年（2006年）1月1日に旧二戸市と旧浄法寺町が合併して新しい二戸市が誕生した
     kind: fact
     level: E2
@@ -443,10 +447,11 @@ records:
     - z6-sumita-wiki
   - text: 明治22年（1889年）に世田米村・上有住村・下有住村がそれぞれ単独で村制を施行し、昭和15年（1940年）に世田米村が町制を施行して世田米町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z6-sumita-wiki
+    - upg-y3-tono-iwate-enkaku
+    - upg-y4-sumita-geoshape
   - text: 昭和30年（1955年）4月1日、世田米町・上有住村・下有住村が合併して住田町となった
     kind: fact
     level: E2
@@ -489,7 +494,7 @@ records:
   formation: 合併新設
   prefecture: 岩手県
   homonyms: []
-  summary: 2005年に岩手郡の西根町・松尾村・安代町が合併して生まれた市で、市名は市域の西にそびえる八幡平（標高1,614m）の山名に由来する。八幡平は岩手・秋田両県にまたがる火山性の高原台地で、日本百名山の一つであり、十和田八幡平国立公園に含まれる。山名そのものの由来は確定しておらず、坂上田村麻呂が八幡神を祀って「八幡平」と名付けたという伝承が伝えられるにとどまる。構成した3町村のいずれの名でもない、地域の象徴である山の名を新市名に採った事例である。
+  summary: 2005年に岩手郡の西根町・松尾村・安代町が合併して生まれた市で、市名は市域の西にそびえる八幡平（標高1,613m）の山名に由来する。八幡平は岩手・秋田両県にまたがる火山性の高原台地で、日本百名山の一つであり、十和田八幡平国立公園に含まれる。山名そのものの由来は確定しておらず、坂上田村麻呂が八幡神を祀って「八幡平」と名付けたという伝承が伝えられるにとどまる。構成した3町村のいずれの名でもない、地域の象徴である山の名を新市名に採った事例である。
   first_attestation:
     era: 平成17年
     year_western: 2005
@@ -508,30 +513,33 @@ records:
     status: established
     sources:
     - t4-hachimantai-city-plan
-  - text: 市名の「八幡平」は、市の西にそびえる日本百名山の八幡平（標高1,614m）に由来する
+  - text: 市名の「八幡平」は、市の西にそびえる日本百名山の八幡平（標高1,613m）に由来する
     kind: fact
     level: E5
     status: established
     sources:
     - t4-hachimantai-wiki
-  - text: 八幡平は秋田県と岩手県にまたがる標高1,614mの山およびその周囲の高原台地で、山域は1956年（昭和31年）に十和田八幡平国立公園に指定された
+    - upg-y3-gsi-mountains
+  - text: 八幡平は岩手県と秋田県にまたがる山で、標高は国土地理院の山岳標高一覧で1,613mとされている。八幡平地域は昭和31年（1956年）7月10日に十和田国立公園へ追加指定され、あわせて公園名が十和田八幡平国立公園に改称された
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-hachimantai-wiki
+    - upg-y3-gsi-mountains
+    - upg-y3-env-towada-intro
   - text: 桓武天皇の勅命で奥州に下った坂上田村麻呂が、八幡平にたどり着いて景色に感激し、戦の神である八幡神を奉って戦勝を祈り、討伐後にこの地を「八幡平」と名付けたと伝えられるが、史実では田村麻呂はこの地には至っていない
     kind: legend
     level: E5
     status: established
     sources:
     - t4-hachimantai-wiki
-  - text: 秋田県側にも、同じ山名にちなむ八幡平村（1956〜1972年、現在の鹿角市の一部）が存在した時期がある
+  - text: 秋田県側にも、同じ名の八幡平村（1956〜1972年、現在の鹿角市の一部）が存在した時期がある
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-hachimantai-wiki
+    - upg-y3-hachimantai-geoshape
+    - upg-y3-kakuno-estat
   column:
     title: 平らすぎて土を盛られた山頂
     text: 八幡平の「平」は伊達ではなく、主峰の頂上部はあまりに平らで、どこが山頂か分からないほどでした。1962年には、あまりに平らで山頂らしくないということで、岩手県が山頂に土盛りをして人為的に高くしたという記録が残っています。春には山頂近くの鏡沼の雪どけ模様が竜の目に似る「ドラゴンアイ」で知られるこの山の名は、2005年の合併で3町村のどの名でもない新しい市名として選ばれ、山の両側にかつてあった自治体の名（岩手側の八幡平市と、かつての秋田側の八幡平村）にもなっています。
@@ -650,10 +658,11 @@ records:
     - z6-otsuchi-uub
   - text: 昭和30年（1955年）4月1日、大槌町と金沢村が合併し、現在の大槌町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z6-otsuchi-wiki
+    - upg-y3-tono-iwate-enkaku
+    - upg-y4-otsuchi-geoshape
   - text: 大槌湾内の蓬莱島は、江戸時代には「珊瑚島」と呼ばれていたが、元文3年（1738年）に盛岡藩主・南部利視が巡検の際に命じて「蓬莱島」と呼ばれるようになった
     kind: fact
     level: E4
@@ -678,6 +687,7 @@ records:
   unknowns:
   - 「大槌」の語源は4説が併記されるにとどまり、確定していない
   - 「大きな槌」に結びつける民間伝承の確かな記録は、確認できなかった
+  - 大槌孫八郎政貞が切腹した年は、元和2年（1616年）とする記述もあり、元和3年（1617年）で確定していない
   updated: '2026-11-13'
 - id: muni/03-大船渡市
   code: '032034'
@@ -872,10 +882,10 @@ records:
     - t3-miyako-city-plan
   - text: 昭和16年（1941年）2月11日、下閉伊郡の宮古町・磯鶏村・千徳村・山口村が合併して宮古市が発足した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t3-miyako-uub
+    - upg-y5-miyako-geoshape
   - text: 平成17年（2005年）6月6日に田老町・新里村と合併し、平成22年（2010年）1月1日に川井村を編入した
     kind: fact
     level: E2
@@ -1351,10 +1361,11 @@ records:
     - z7-hirono-rinya
   - text: 町名「洋野」は、合併にあたって一般公募により決められた瑞祥地名（縁起のよい意味を込めた新しい地名）である
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z7-hirono-yuraiyura
+    - upg-y4-hirono-meisho
+    - z7-hirono-menkoi
   - text: 洋野町役場総務課の説明として、新しい町名は全国からの公募で決まり、種市町の広々とした「海」と大野村のなだらかな「野原」をイメージした「洋野町」という名前になったと報じられている
     kind: fact
     level: E4
@@ -1396,6 +1407,7 @@ records:
   unknowns:
   - 公募の応募総数や最終候補の顔ぶれは、公的資料で確認できなかった
   - 読み「ひろの」の決定経緯（音読みの組み合わせか、既存の読みの流用か）は未確認である
+  - 「野」の字が旧大野村の「野」とは直接の関係がないとする点は、町公式資料では確認できていない
   updated: '2026-11-13'
 - id: muni/03-滝沢市
   code: '032166'
@@ -1445,18 +1457,21 @@ records:
     status: established
     sources:
     - t4-takizawa-soumu-press
-  - text: 滝沢村は市制施行以前の10年以上の期間、人口5万人を超える日本一人口の多い村であり、2002年に豊見城村が市制を施行して豊見城市となった後、その地位にあった
+  - text: 滝沢村は平成11年（1999年）11月に人口日本一の村となり（当時の人口は49,809人）、平成12年（2000年）2月に人口5万人を達成し、市制施行（2014年1月）まで日本一人口の多い村であり続けた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-takizawa-wiki
-  - text: 岩手県内での単独市制は、1958年（昭和33年）の江刺市（現在の奥州市）以来55年1か月ぶりのことであった
+    - upg-y3-takizawa-chisou-plan
+    - upg-y3-takizawa-city-jinkou
+    - t4-takizawa-jbpress
+  - text: 岩手県内での単独市制は、1958年（昭和33年）11月に江刺町が市制を施行して江刺市（現在の奥州市）となって以来55年ぶりのことであった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-takizawa-wiki
+    - upg-y3-tono-iwate-enkaku
+    - t4-takizawa-soumu-press
   - text: 大釜地区の名は、前九年の役に源義家がこの地に陣営を設け、大釜を据え付けて兵馬に食糧を与えたことから生まれたという
     kind: legend
     level: E2
@@ -1985,7 +2000,7 @@ records:
   - 豪雪地帯の町
   naming_type: 旧行政区画名の継承
   naming_note: 旧郡名「和賀」の西部を表す名で、かつての西和賀郡の名でもある
-  formation: 分村・分立
+  formation: 合併新設
   prefecture: 岩手県
   homonyms: []
   summary: 和賀郡に属する唯一の町で、平成17年（2005）11月1日に湯田町と沢内村が合併して誕生した。両町村の区域は、明治12年（1879）に和賀郡が東西に分割された際の西和賀郡におおむね重なり、「西和賀」は和賀郡の西部を表す名であると同時に、かつて実在した郡の名前の復活でもある。和賀郡そのものは古代の奥六郡の一つに数えられる古い郡名である。
@@ -2007,12 +2022,12 @@ records:
     status: established
     sources:
     - z7-nishiwaga-town-enkaku
-  - text: 明治12年（1879）に和賀郡が東和賀郡と西和賀郡に分割された際、現在の町域にあたる湯田村・沢内村の区域は西和賀郡に属した
+  - text: 『日本歴史地名大系』によれば、明治12年（1879）に和賀郡を東西に分けて西和賀郡が成立し、郡役所は新町（現在の西和賀町沢内）に置かれた
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - z7-nishiwaga-gun-wiki
+    - upg-ae5-nishiwaga-kotobank-taikei
   - text: 和賀郡は、古代の奥六郡（岩手・志和・稗抜・和賀・江刺・伊沢）の一つに数えられる古い郡名である
     kind: fact
     level: E5
@@ -2021,10 +2036,10 @@ records:
     - z7-waga-gun-wiki
   - text: 現在の和賀郡は西和賀町のみで構成されており、町は郡と区域を同じくする
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z7-waga-gun-wiki
+    - b-cap-chiba-soumu-code
   - text: 西和賀町の地方公共団体コードは033669である
     kind: fact
     level: E2
@@ -2043,6 +2058,7 @@ records:
   - 2005年の合併に際して「西和賀」が新町名に選ばれた公式の命名理由・選定経過（公募や協議会の記録）は、確認できなかった
   - 「和賀」の語源そのもの（アイヌ語説など）は、諸説の裏付け確認に至らなかった
   - 西和賀郡が廃止された正確な年は、公的資料で確認できなかった
+  - 和賀郡が古代の奥六郡の一つに数えられることは、専門辞典の本文では確認できていない
   updated: '2026-11-13'
 - id: muni/03-軽米町
   code: '035017'
@@ -2170,10 +2186,11 @@ records:
     - t4-tono-soumu-doc
   - text: 昭和29年（1954年）12月1日、遠野町・青笹村・上郷村・小友村・綾織村・附馬牛村・松崎村・土淵村が合併して遠野市が生まれた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-tono-wiki
+    - upg-y3-tono-iwate-enkaku
+    - upg-y3-tono-geoshape
   - text: 平成17年（2005年）10月1日、遠野市と宮守村が合併して新しい遠野市が誕生した
     kind: fact
     level: E2
@@ -2188,10 +2205,11 @@ records:
     - t4-tono-chuo-paper
   - text: 『遠野物語』により、遠野は河童や座敷童子などが登場する民話・伝説のふるさととして広く知られるようになった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-tono-wiki
+    - t4-tono-chuo-paper
+    - upg-y3-tono-tonojikan
   column:
     title: 地名を全国区にしたのは、一冊の本だった
     text: 「遠野」という地名の由来は、今もって決着がついていません。ところがこの地名が日本中で知られるようになった理由ははっきりしています。1910年、のちに民俗学の祖と呼ばれる柳田國男が、遠野出身の青年・佐々木喜善から聞いた話を編んで『遠野物語』を出したことです。当初は350部だけの小さな出版でしたが、河童や座敷童子、神隠しの物語は読む人を魅了し、遠野は「民話のふるさと」として知られるようになりました。遠野市は刊行100年の2010年、発行日の6月14日を「遠野物語の日」と定めています。地名の古い層と、近代に本が重ねた新しい層——遠野の知名度は、この二層からできています。
@@ -2328,10 +2346,11 @@ records:
     - z8-kanegasaki-town
   - text: 大正14年（1925年）9月1日に町制を施行して金ケ崎町となった
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z8-kanegasaki-wiki
+    - upg-y3-tono-iwate-enkaku
+    - upg-y4-kanegasaki-geoshape
   - text: 昭和30年（1955年）3月1日に金ケ崎町と永岡村が合併し、新しい金ケ崎町として誕生した
     kind: fact
     level: E2
@@ -2454,10 +2473,11 @@ records:
     - b-cap-chiba-soumu-code
   - text: 市名の「陸前」は旧国名で、市域は旧陸前国気仙郡に属していた
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-rikuzen-wiki
+    - a-cap-morioka-bunka
+    - upg-y3-rikuzen-env-eco
   - text: 岩手県の文化情報大事典「市名の由来」は、昭和30年（1955年）の合併に際し、合併の中心となった高田町の「高田」に「陸前」を冠称として陸前高田と命名されたと説明する
     kind: fact
     level: E2
@@ -2490,10 +2510,10 @@ records:
     - t4-rikuzen-wiki
   - text: 2011年の東日本大震災では津波により市街地と高田松原が大きな被害を受け、復興と防災・減災の取り組みが続けられている
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - t4-rikuzen-wiki
+    - upg-y3-rikuzen-mlit-kinen
   column:
     title: 公式は「たかた」、地元は「たがだ」
     text: 陸前高田市の公式の読みは、1955年の市制以来「りくぜんたかた」です。けれど地元では、東北地方の方言の特徴である鼻濁音で「たがだ」と呼ばれ、あるいは最後だけ濁って「たかだ」と発音されます。2011年の東日本大震災では、市街地を見守ってきた高田松原の松林が津波でなぎ倒され、ただ一本だけ残った松が「奇跡の一本松」と呼ばれて復興の象徴になりました。旧国名と中心地名を重ねた市名には、震災と復興の記憶の層もまた重なっています。
@@ -2524,7 +2544,7 @@ records:
   formation: 合併新設
   prefecture: 岩手県
   homonyms: []
-  summary: 岩手県岩手郡の町。中世には「滴石」と表記され、12世紀末頃に戸沢氏が移り住んで滴石の姓を名乗ったと伝わる。戦国期に斯波氏が「滴石」を「雫石」に改めた。語源には、川底に沈む石が多い土地を指す「沈く石（シズクイシ）」説と、雫石神社の湧き水「たんたん」にちなむ説がある。1889年に雫石村が成立し、1940年の町制を経て1954年に西山村などと合併した。
+  summary: 岩手県岩手郡の町。中世には「滴石」と表記され、12世紀末頃に戸沢氏が移り住んで滴石の姓を名乗ったと伝わる。戦国期に斯波氏が「滴石」を「雫石」に改めた。語源には、川底に沈む石が多い土地を指す「沈く石（シズクイシ）」説と、雫石神社の湧き水「たんたん」にちなむ説がある。1889年に雫石村が成立し、1940年の町制を経て1955年に御所村・御明神村・西山村を編入した。
   first_attestation:
     era: 12世紀末
     year_western: null
@@ -2561,12 +2581,13 @@ records:
     status: contested
     sources:
     - z6-iwate-bunka-chimei
-  - text: 明治22年（1889年）に雫石村が成立し、昭和15年（1940年）12月23日に町制を施行して雫石町となり、昭和29年（1954年）4月1日に西山村などが合併した
+  - text: 明治22年（1889年）に雫石村が成立し、昭和15年（1940年）12月23日に町制を施行して雫石町となり、昭和30年（1955年）4月1日に御所村・御明神村・西山村を編入した
     kind: fact
-    level: E5
+    level: E2
     status: established
     sources:
-    - z8-shizukuishi-wiki
+    - upg-y3-tono-iwate-enkaku
+    - upg-y4-shizukuishi-geoshape
   column:
     title: 「滴石」から「雫石」へ
     text: この町の名は、もとは「滴石」と書かれた。中世の記録に現れるこの土地を、戦国時代に領した斯波氏が「雫石」と改め、自らも雫石氏を名乗ったという。水のしたたりを思わせる「雫」の字への置き換えは、武将の美意識の表れだったのかもしれない。町には雫石神社の湧き水「たんたん」を名の由来とする説も伝わり、水にまつわる名であることは一貫している。
@@ -2623,9 +2644,6 @@ sources:
   t3-miyako-city-plan:
     label: 宮古市総合計画第2章（市公式PDF。盛岡藩の代官所と宮古港の交易、2005年合併・2010年川井村編入）
     url: https://www.city.miyako.iwate.jp/material/files/group/27/02_dai2shou.pdf
-  t3-miyako-uub:
-    label: 市区町村変遷情報「宮古市（岩手県）1941〜2005年」（1941年2月11日に宮古町・磯鶏村・千徳村・山口村が合併して市制）
-    url: https://uub.jp/upd/c/7214.html
   t4-hachimantai-city-plan:
     label: 八幡平市「都市計画マスタープラン」（八幡平市は平成17年9月1日に旧西根町・旧松尾村・旧安代町の2町1村が合併して誕生したこと）
     url: https://www.city.hachimantai.lg.jp/uploaded/attachment/1750.pdf
@@ -2650,9 +2668,6 @@ sources:
   t4-kuji-mlit-kujikawa:
     label: 国土交通省関東地方整備局「久慈川の歴史・文化」（『常陸国風土記』に、鯨鯢（くじら）に似た小さい丘を倭武天皇が久慈と名づけたという由来が記されていること。これは茨城県の久慈郡・久慈川の話）
     url: https://www.ktr.mlit.go.jp/ktr_content/content/000024230.pdf
-  t4-kuji-wiki:
-    label: Wikipedia「久慈市」（国内最大の琥珀の採掘産地であること、2013年のNHK連続テレビ小説『あまちゃん』で架空の「北三陸市」のロケが市内で行われたこと）
-    url: https://ja.wikipedia.org/wiki/%E4%B9%85%E6%85%88%E5%B8%82
   t4-ninohe-city-intro:
     label: 二戸市公式「二戸市ってどんなところ」（平成18年1月1日に旧二戸市と旧浄法寺町が合併して誕生したこと、伝説として南部光行が糠部郡を九つの牧場（戸）に分け四門を設けた「九ヶ戸四門」の制度を敷いたと伝えられ、行政区分の名残が地名に残ったこと）
     url: https://www.city.ninohe.lg.jp/info/print/8
@@ -2695,6 +2710,81 @@ sources:
   upg-a-yahaba-access:
     label: 矢巾町公式「アクセス」（町役場の所在地を「岩手県紫波郡矢巾町大字南矢幅第13地割123番地」と明記し、「矢幅」が現行の大字名であることを示す）
     url: https://www.town.yahaba.iwate.jp/chousei/yahabachou/accece
+  upg-ae5-nishiwaga-kotobank-taikei:
+    label: コトバンク「西和賀郡」（『日本歴史地名大系』。明治12年（1879）に和賀郡を東西に分けて西和賀郡が成立し、郡役所は新町（現在の西和賀町沢内）に置かれたこと）
+    url: https://kotobank.jp/word/%E8%A5%BF%E5%92%8C%E8%B3%80%E9%83%A1-1700470
+  upg-y3-env-towada-intro:
+    label: 環境省「十和田八幡平国立公園 概要・計画書」（昭和31年7月10日に八幡平地域の公園区域が追加され、公園名が十和田八幡平国立公園に変更されたこと。八幡平地域は岩手・秋田両県にまたがること）
+    url: https://www.env.go.jp/park/towada/intro/
+  upg-y3-gsi-mountains:
+    label: 国土地理院「日本の主な山岳標高一覧」（令和8年3月31日版。八幡平の標高を1,613mとすること）
+    url: https://www.gsi.go.jp/KOKUJYOHO/MOUNTAIN/1003zan20260331.pdf
+  upg-y3-hachimantai-geoshape:
+    label: 歴史的行政区域データセット「秋田県鹿角郡八幡平村」（有効期間は1956年6月15日から1972年4月1日までで、区域は現在の鹿角市と重なること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/05305A1968.html
+  upg-y3-kakuno-estat:
+    label: e-Stat「廃置分合等情報（鹿角市）」（1972年4月1日に花輪町・十和田町・尾去沢町・八幡平村が合併して鹿角市が新設されたこと）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/05209
+  upg-y3-kuji-amachan-sheet:
+    label: 久慈市「行革甲子園エントリーシート」（久慈市産業経済部商工観光課が作成。『あまちゃん』のロケ地となりメインロケ地は久慈市で、放送直後から多くの観光客が訪れたこと、平成25年度の地域経済効果は約33億円と岩手県経済研究所が発表したこと）
+    url: https://www-pref-ehime-jp.cache.yimg.jp/uploaded/attachment/101568.pdf
+  upg-y3-kuji-iwate-amber:
+    label: 岩手県公式サイト掲載の久慈琥珀株式会社の紹介資料（久慈地方は世界の琥珀三大産地のひとつであり、本社施設に国内唯一の琥珀専門博物館・琥珀専門工場・琥珀採掘体験場があること）
+    url: http://www.pref.iwate.jp.cache.yimg.jp/_res/projects/default_project/_page_/001/017/052/r3kujikohaku.pdf
+  upg-y3-kuji-jiji-hosttown:
+    label: 時事通信「ホストタウン」久慈市のページ（琥珀は国内最大の産出量を誇ること、2013年のNHK朝ドラ『あまちゃん』のメーンロケ地であること）
+    url: https://sp.m.jiji.com/olympic/hosttown/show/726
+  upg-y3-kuji-mlit-cruise:
+    label: 国土交通省「CRUISE PORT GUIDE OF JAPAN 久慈港」（久慈市はNHK連続テレビ小説『あまちゃん』のメインロケ地で、作中では架空の「北三陸市」として登場したこと）
+    url: https://www.mlit.go.jp/kankocho/cruise/jp/detail/087/index.html
+  upg-y3-nukabe-komonjokan:
+    label: 近世こもんじょ館の研究レポート（南部家文書などの史料を検討し、北郡・二戸郡・三戸郡・九戸郡の四郡名の確実で公的な初見は寛永11年（1634年）とするもの）
+    url: https://komonjokan.net/cgi-bin/komon/report/report_view.cgi?mode=details&code_no=101
+  upg-y3-rikuzen-env-eco:
+    label: 環境省のエコツーリズム地域支援報告書「陸前高田市広田町生活体験推進協議会」（陸前高田市は旧陸前国気仙郡に属すると記すこと）
+    url: https://www.env.go.jp/nature/ecotourism/try-ecotourism/env/chiiki_shien/haken/h27/report/pdf/3-9.pdf
+  upg-y3-rikuzen-mlit-kinen:
+    label: 国土交通省東北地方整備局・岩手県・陸前高田市の共同記者発表資料「高田松原津波復興祈念公園基本構想」（東日本大震災の津波で陸前高田市は県内最大の被災地となり市街地が被災したこと、高田松原は砂州と松がほぼ全て消失したこと、奇跡の一本松を復興の象徴として祈念公園の整備が進められていること）
+    url: http://www.thr.mlit.go.jp/bumon/kisya/kisyah/images/51808_1.pdf
+  upg-y3-takizawa-chisou-plan:
+    label: 滝沢市地域再生計画（内閣府地方創生のサイトに掲載。平成11年11月に「人口日本一の村」（49,809人）となり、平成25年9月に人口55,000人を突破したこと）
+    url: https://www.chisou.go.jp/tiiki/tiikisaisei/dai56nintei_furusato/plan/a029.pdf
+  upg-y3-takizawa-city-jinkou:
+    label: 滝沢市公式「滝沢市の最新の人口と世帯数」の人口推移メモ（平成11年11月末に人口日本一の村となり、平成12年2月15日に人口5万人を達成したこと）
+    url: https://www.city.takizawa.iwate.jp/about-takizawa/gaiyo/new-jinkou-setai
+  upg-y3-tono-geoshape:
+    label: 歴史的行政区域データセット「岩手県遠野市」（有効期間が1954年12月1日から始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03208A1968.html
+  upg-y3-tono-iwate-enkaku:
+    label: 岩手県「市町村の沿革」（岩手県内市町村の変遷図。たとえば昭和29年12月に遠野町・青笹村・上郷村・小友村・綾織村・附馬牛村・松崎村・土淵村の1町7村から遠野市が発足する変遷や、明治22年の一戸村・高善寺村の発足、昭和33年11月の江刺町の市制施行（江刺市、現在の奥州市）、平成26年1月の滝沢村の市制施行（滝沢市）を示すこと）
+    url: https://www-pref-iwate-jp.cache.yimg.jp/_res/projects/default_project/_page_/001/012/112/h260101enkaku.pdf
+  upg-y3-tono-tonojikan:
+    label: 遠野市公式観光サイト「遠野じかん」のカッパ伝説特集（『遠野物語』に記された河童の話やカッパ淵、座敷わらしなど遠野の民話・伝説を、市の公式観光情報として発信していること）
+    url: https://tonojikan.jp/feature/kappa-legend/
+  upg-y4-hirono-meisho:
+    label: 種市町・大野村合併協議会「新町名称募集要領」（洋野町公式サイト掲載の合併協議会資料。新町の名称は全国から一般公募し、応募された候補を考慮しながら、地域の地理的イメージができ住民の理想や願いにちなむこと等の選定基準に従って合併協議会が決定するとされたこと）
+    url: https://www.town.hirono.iwate.jp/houteikyo/shiryo_2/siryou02.pdf
+  upg-y4-ichinohe-geoshape:
+    label: 歴史的行政区域データセットβ版「岩手県二戸郡一戸町」（一戸町の有効期間が1889年4月1日に始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03524A1968.html
+  upg-y4-kanegasaki-geoshape:
+    label: 歴史的行政区域データセットβ版「岩手県胆沢郡金ケ崎町」（金ケ崎町の有効期間が1925年9月1日に始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03381A1968.html
+  upg-y4-kunohejo-bunka:
+    label: 文化遺産オンライン「九戸城跡」（文化庁。九戸城跡は岩手県二戸市福岡町に所在し、九戸政実が拠った城で、国の史跡に指定されていること）
+    url: https://bunka.nii.ac.jp/heritages/detail/171335
+  upg-y4-otsuchi-geoshape:
+    label: 歴史的行政区域データセットβ版「岩手県上閉伊郡大槌町」（金沢村の有効期間が1955年4月1日に終わること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03461A1968.html
+  upg-y4-shizukuishi-geoshape:
+    label: 歴史的行政区域データセットβ版「岩手県岩手郡雫石町」（雫石村の有効期間が1889年4月1日から1940年12月23日までで雫石町が同日から始まること、御所村・御明神村・西山村の有効期間がいずれも1955年4月1日に終わること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03301A1968.html
+  upg-y4-sumita-geoshape:
+    label: 歴史的行政区域データセットβ版「岩手県気仙郡住田町」（世田米村の有効期間が1889年4月1日から1940年4月29日までで世田米町が同日から始まること、上有住村・下有住村の有効期間が1889年4月1日に始まること）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03441A1968.html
+  upg-y5-miyako-geoshape:
+    label: 歴史的行政区域データセットβ版「宮古市」（宮古市の有効期間は1941年2月11日から。宮古町・磯鶏村・千徳村・山口村はいずれも1941年2月11日に終了）
+    url: https://geoshape.ex.nii.ac.jp/city/resource/03202A1968.html
   z6-ichinohe-town-about:
     label: 一戸町公式「一戸町について」（一戸の由来は諸説あるが、平安末期から名馬の産地として知られ、その牧場を一から九の戸に分けられたことからといわれていること、昭和32年（1957年）11月1日に一戸町・浪打村・鳥海村・小鳥谷村・姉帯村の1町4村が合併して現在の一戸町が誕生したことを記す）
     url: https://www.town.ichinohe.iwate.jp/soshikikarasagasu/somuka/gyouseikakari/1/372.html
@@ -2806,15 +2896,9 @@ sources:
   z8-kanegasaki-town:
     label: 金ケ崎町公式「町の概要」（金ケ崎要害・鳥海柵跡、1955年の永岡村との合併と町章）
     url: https://www.town.kanegasaki.iwate.jp/docs/2017062100386
-  z8-kanegasaki-wiki:
-    label: Wikipedia「金ケ崎町」（1925年の町制施行など沿革）
-    url: https://ja.wikipedia.org/wiki/%E9%87%91%E3%83%B6%E5%B4%8E%E7%94%BA
   z8-noda-vill:
     label: 野田村公式「村の案内」（1889年の野田村・玉川村の合併、江戸時代以来の製塩と野田塩ベコの道）
     url: https://www.vill.noda.iwate.jp/gyoseijoho/nodamuranogaiyo/734.html
   z8-shizukuishi-town-history:
     label: 雫石町公式「雫石の歴史（1・歴史的沿革）」（中世の「滴石」表記、戸沢氏、斯波氏による「雫石」への改称）
     url: https://www.town.shizukuishi.iwate.jp/docs/2014120800189
-  z8-shizukuishi-wiki:
-    label: Wikipedia「雫石町」（1889年雫石村成立、1940年町制、1954年の合併など沿革）
-    url: https://ja.wikipedia.org/wiki/%E9%9B%AB%E7%9F%B3%E7%94%BA
