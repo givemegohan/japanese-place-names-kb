@@ -1,0 +1,1194 @@
+prefecture_code: '25'
+records:
+- id: muni/25-大津市
+  code: '252018'
+  names:
+    ja: 大津市
+    reading: おおつし
+    aliases:
+    - 古津
+    - 大津町
+  user_terms:
+  - 琵琶湖のほとりの県庁所在地
+  - 大津宮のあった市
+  - 京の外港だったまち
+  naming_type: その他
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は琵琶湖の港「大津」に由来する。667年に近江大津宮が置かれて都となったが、その廃絶後は「古津」と呼ばれ、794年の平安京遷都の詔で「先帝の旧都」として「大津」に復活した。以後は港町・宿場町の名として定着し、1898年の市制施行で大津市の名となった。
+  first_attestation:
+    era: 天智天皇6年
+    year_western: 667
+    document: 『日本書紀』天智天皇条（近江大津宮）
+    note: 「大津」の名が都の宮号として現れる早い例。宮の廃絶後は「古津」と呼ばれ、794年に「大津」へ復した。原典は未読で、大津市の歴史文化資料等の紹介による二次確認にとどまる。
+  claims:
+  - text: 天智天皇6年（667年）に天智天皇は近江大津宮へ都を移し、大津には漏刻（水時計）や庠序（学校）を備えた都が置かれ、律令体制の基礎づくりが進められた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-otsu-rekibun
+    - d-cap-otsu-ancient
+  - text: 大津宮の廃絶後、この地は「古津」と呼ばれるようになったと百科事典は解説する。「古都の津」の意と解される。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-cap-otsu-furutsu
+  - text: 古津と呼ばれるようになった理由には、672年の壬申の乱で大津宮が廃されたためとする説と、761年に瀬田川河口部の粟津が大津とされたため、旧来の大津が古津になったとする説がある。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - d-cap-otsu-furutsu
+  - text: 延暦13年（794年）、平安京遷都に際して出された詔には「近江国滋賀郡古津は先帝の旧都、今は輦下に接す。昔の号を追ひて大津と改称すべし」とあり、「大津」の名が復活したことが、『日本紀略』の記事や『日本後紀』逸文の引用を通じて確認できる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-cap-otsu-furutsu
+    - d-cap-heian-edict
+  - text: 「大津」は辞典では「船が多く泊まる処」を意味する語としても立項されており、琵琶湖の水運の要衝であった当地の性格を表す名であった。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-cap-otsu-kotobank
+  - text: 江戸時代の大津（大津宿・現在の大津・浜大津地区）は、東海道五十三次の宿場の中でも最大の人口を有するほどの賑わいを見せ、北国の物資が集散する港町の機能をあわせ持っていた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-otsu-chushin
+  - text: 1898年10月1日に大津町へ市制が施行され、大津市が成立した。当時の面積は14.20平方キロ、人口は3万2446人であった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-otsu-databook
+  - text: 大津宮の所在地は現在の大津市錦織一帯（近江大津宮錦織遺跡）とされ、往時の都の中心は現在の市街地の北部にあたる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-otsu-ancient
+  - text: 天智天皇7年（668年）に崇福寺建立のための地ならしをしている際、銅鐸が発見されたという伝承や、石山寺建立の際に銅鐸が出土したという伝承が残されている。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - d-cap-otsu-rekibun
+  - text: 大津市の地方公共団体コードは252018である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 消えた都の名前を取り戻した町
+    text: 都が去った後の大津は、「古津」と呼ばれるようになってしまった。ところが794年、桓武天皇が平安京へ遷都した際の詔は、新京を平安京と名付け、国名を山背から山城へ改める話と並べて、近江の古津を「先帝の旧都」として「大津」に戻すことを命じていた。新都の命名と旧都の名の復活は、同じ一つの詔の中で同時に行われたのである。いまの大津市の名は、このとき取り戻された名前である。
+    sources:
+    - d-cap-otsu-furutsu
+    - d-cap-heian-edict
+  relations:
+  - pref/25
+  - muni/26-京都市
+  unknowns:
+  - 宮号「大津宮」が先にあったのか、港の地名「大津」が先にあったのかは、今回参照した資料では確定できなかった。
+  - 『日本紀略』の古津改称記事は百科事典・辞典経由の確認で、原典は未読である。
+  updated: '2026-11-13'
+- id: muni/25-守山市
+  code: '252077'
+  names:
+    ja: 守山市
+    reading: もりやまし
+    aliases:
+    - 守山町
+    - 守山宿
+    - 守山村
+  user_terms:
+  - もりやま
+  - 中山道の守山宿
+  - 京発ち守山泊まり
+  - ホタルのまち
+  naming_type: 一部の地名
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は中山道の宿場町「守山宿」以来の地名の継承である。語源は市公式も「不明」と明記しており、『古今和歌集』の紀貫之の歌に詠まれた「もる山」の用例、比叡山延暦寺の鬼門を守る東門院（守山寺）に由来する伝承、山守部起源説などが並び立つ。1955年・1957年の合併で現在の市域が形成され、1970年に市制を施行した。
+  first_attestation:
+    era: 平安時代
+    year_western: 905
+    document: 『古今和歌集』の紀貫之の歌（「しらつゆも時雨もいたくもる山は…」）を市公式が「もる山」の用例として紹介
+    note: 市公式が挙げる早い用例で、「もる山」が当地の守山を指すかは確定していない。原典は未読で市公式の紹介による二次確認。
+  claims:
+  - text: 守山市公式は「地名の由来は不明」と明記したうえで、『古今和歌集』の紀貫之の歌「しらつゆも時雨もいたくもる山は したばのこらず色づけにけり」などで当地が「もる山」と称されていることを紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-moriyama-city
+  - text: 東門院が比叡山の東方にあたり「守山寺」の寺号を持つことを守山の起源とする伝承があると、守山市公式は伝えている。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - p1-moriyama-city
+  - text: 守山の地名起源には、比叡山延暦寺の鬼門説や「山守部」起源説などがあると、守山市の中心市街地活性化基本計画は整理しているが、いずれも定説には至っていない。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - p1-moriyama-keikaku
+  - text: 江戸時代には中山道の守山宿として整備され、朝鮮通信使が東門院に宿泊するなど「京発ち守山泊まり」と呼ばれる賑わいを見せたと、守山市公式の歴史解説は述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-moriyama-history
+  - text: 昭和30年（1955年）に守山町と小津・玉津・河西・速野の4カ村が合併し、昭和32年（1957年）に中洲村の大部分が合併して現在の市域が形成され、昭和45年（1970年）に市制を施行して守山市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-moriyama-history
+  - text: 守山市の地方公共団体コードは252077である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 「京発ち守山泊まり」― 由来不明を公式が認める宿場町
+    text: 中山道の宿場のなかでも守山宿は、京を発った旅人が最初に泊まる宿として「京発ち守山泊まり」の言葉で知られた。朝鮮通信使も宿泊した要衝である。その有名な名の由来について、市公式サイトはあっさりと「不明」と書く。貫之の歌の「もる山」、比叡山の鬼門を守る寺の名、古代の山守部。候補は並ぶが、どれも決め手に欠ける。分からないことを分からないと公式が明記する姿勢は、地名の由来を扱う資料としてむしろ信頼できる。
+    sources:
+    - p1-moriyama-city
+    - p1-moriyama-history
+  relations:
+  - pref/25
+  - muni/25-草津市
+  unknowns:
+  - 「守山」の語源は定説がなく、市公式も不明としている。鬼門説・山守部説はいずれも裏付けの確認ができなかった。
+  - 『古今和歌集』の「もる山」が当地を指すかどうかは、市公式の紹介以上の確認ができなかった。
+  - 「守山」の表記を持つ地名の文献上の初出（年・文書）は特定できなかった。
+  updated: '2026-11-13'
+- id: muni/25-彦根市
+  code: '252026'
+  names:
+    ja: 彦根市
+    reading: ひこねし
+    aliases:
+    - 彦根町
+  user_terms:
+  - ひこね
+  - 井伊家の城下町
+  - 彦根藩35万石
+  naming_type: 一部の地名
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は城下町「彦根」の継承である。彦根市公式は、地名の由来を、天照大神の御子とされる活津彦根命が活津彦根明神として彦根山に祀られたことに求める伝承で説明する。関ヶ原後に井伊家が入り彦根城を築いて藩35万石の城下町となり、1937年、彦根町に5か村が合併して市制を施行した。
+  first_attestation:
+    era: 不明
+    year_western: null
+    document: 未確認
+    note: 市公式は地名の由来を彦根山の祭神にまつわる伝承で説明するのみで、「彦根」の文献上の初出は本レコードの調査では確認できなかった。
+  claims:
+  - text: 彦根市公式は、「彦根」の地名は、むかし天照大神の御子に天津彦根命・活津彦根命の二神がおられ、このうち活津彦根命が活津彦根明神として彦根山に祭られたことに由来しているとされていると説明している。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+    - k4-hikone-kankyo
+  - text: 戦国時代には石田三成が佐和山城主となって町は繁栄したが、関ヶ原の戦いの功で井伊直政が彦根の地に封ぜられ、その子直継が彦根城の築城を始め、直孝により完成されて、彦根藩35万石の城下町として発展した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: 明治22年（1889年）4月1日に彦根で町制が施行され、彦根町が置かれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: 昭和12年（1937年）2月11日、彦根町に隣接の松原・北青柳・青波・千本・福満の5か村が合併して彦根市が誕生した（当時の人口39,335人、面積25.08平方キロメートル）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: その後も昭和17年（1942年）の南青柳村・磯田村の合併から昭和43年（1968年）の稲枝町合併まで、周辺町村の編入が続いて現在の市域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k4-hikone-city
+  - text: 彦根市の地方公共団体コードは252026である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 神の名をいただいた山のふもとの城下町
+    text: 彦根の由来として市が伝えるのは、山に祀られた神の名前である。天照大神の御子という活津彦根命が「活津彦根明神」として彦根山に祀られたことから、地名「彦根」が生まれたとされる。井伊家は関ヶ原の後、あえて三成の佐和山城を使わず、この彦根山に新しい城を築いた。神の名を持つ山のふもとに35万石の城下町が開かれたことで、「彦根」は近江の東の中心として定着していく。
+    sources:
+    - k4-hikone-city
+    - k4-hikone-kankyo
+  relations:
+  - pref/25
+  unknowns:
+  - 「彦根」の文献上の初出（中世の荘園・地名資料など）は、今回の調査では確認できなかった。
+  - 活津彦根命を彦根山に祀る祭祀がいつ始まったのかは、市公式の説明にも示されておらず未確認である。
+  updated: '2026-11-13'
+- id: muni/25-日野町
+  code: '253839'
+  names:
+    ja: 日野町
+    reading: ひのちょう
+    aliases:
+    - 日野御牧
+    - 日野市
+  user_terms:
+  - 日野町 日野御牧
+  - 日野商人の町
+  - 蒲生氏郷の城下町
+  naming_type: その他
+  prefecture: 滋賀県
+  homonyms:
+  - muni/31-日野町
+  summary: 「日野」の名は天喜4年（1056年）の文書に法成寺領「日野御牧」として現れるのが初出とされ、中世には市場町「日野市」を経て蒲生氏の城下町となり、近江商人（日野商人）の町として発展した。明治22年（1889年）に日野町が発足し、昭和30年（1955年）の合併でも名が継承された。鳥取県の日野町が郡名を採用した新設町であるのとは成立の事情が異なる。
+  first_attestation:
+    era: 天喜4年
+    year_western: 1056
+    document: 東大寺使神成則請文
+    note: 藤原摂関家ゆかりの法成寺領「日野御牧」としての登場。町公式の文化財保存活用地域計画が「日野の由来」として紹介するもの
+  claims:
+  - text: 町公式資料によれば、「日野」という名称が初めて歴史に登場するのは天喜4年（1056年）で、「東大寺使神成則請文」の中に藤原摂関家ゆかりの法成寺領「日野御牧」として登場する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-hino-shiga-keikaku
+  - text: 応永33年（1426年）には、四本商人の一つである保内商人が伊勢との交易の拠点として「日野市」で商売を行った記録が残り、この「日野市」がのちに蒲生氏の城下町「日野町」へと発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-hino-shiga-keikaku
+  - text: 16世紀初頭、蒲生定秀が「日野市」付近に中野城を築いて城下町を整備し、日野は蒲生氏の支配の拠点となった。日野はのちに近江商人（日野商人）の発祥地として知られる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-hino-shiga-keikaku
+    - h6-hino-shiga-wiki
+  - text: 昭和30年（1955年）3月16日、日野町・東桜谷村・西桜谷村・西大路村・鎌掛村・南比都佐村・北比都佐村の1町6村が合併して現在の日野町が誕生した。町名は1889年に発足した日野町の名の継承である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-hino-shiga-keikaku
+  - text: 鳥取県の日野町は昭和34年（1959年）に郡名「日野」を採って新設された町であり、滋賀の日野が中世の御牧・市場町以来の地名を継承してきた点で、名の継承経路が異なる（異なる層）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h6-hino-shiga-keikaku
+    - h6-hino-tottori-wiki
+  - text: 「日野」という語そのものの語源（なぜ「日野」と呼ばれるようになったか）は、町公式資料も初出の紹介にとどまっており、確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - h6-hino-shiga-keikaku
+  column:
+    title: 御牧からはじまる商人の町
+    text: 日野の名は、平安時代の馬の放牧地「日野御牧」として史料に現れます。それが中世には「日野市」という市場町の名となり、戦国期には蒲生氏郷の父祖の城下町となり、江戸時代には近江商人・日野商人を生む在郷町になりました。御牧→市場→城下町→商人の町と、名前は同じ「日野」のまま、中身が何度も入れ替わってきた町です。特産の「日野菜」（漬物で知られるカブ）も、この町の名を全国に運んだものの一つです。
+    sources:
+    - h6-hino-shiga-keikaku
+    - h6-hino-shiga-wiki
+  relations:
+  - pref/25
+  - muni/31-日野町
+  unknowns:
+  - 「日野」の語源（日野御牧の名の由来）は未確定
+  - 日野御牧の範囲と現在の町域との対応の詳細は未確認
+  updated: '2026-11-13'
+- id: muni/25-東近江市
+  code: '252131'
+  names:
+    ja: 東近江市
+    reading: ひがしおうみし
+    aliases:
+    - 八日市市
+  user_terms:
+  - ひがしおうみ
+  - 近江の東
+  - 八日市大凧のまち
+  - 五個荘の近江商人
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は旧国名「近江」に方角の「東」を冠した広域名である。2005年2月11日に八日市市・永源寺町・五個荘町・愛東町・湖東町が新設合併して誕生し、2006年に能登川町・蒲生町を編入した。中心市街の八日市は市場町に由来する旧市名で、市の紋章も「東（east）のeと『近』」をモチーフにしている。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 東近江市公式統計書の沿革（2005年2月11日の合併による設置）
+    note: 「東近江」は2005年の合併で作られた新しい市名であり、それ以前の用例はない。旧国名「近江」の語としての初出は別問題として扱う。
+  claims:
+  - text: 東近江市は、平成17年（2005年）2月11日に八日市市・永源寺町・五個荘町・愛東町・湖東町が合併して誕生したと、東近江市公式の統計書は記している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-higashiomi-city
+  - text: 平成18年（2006年）1月1日に、神崎郡能登川町と蒲生郡蒲生町が東近江市へ編入され、現在の市域となった（総務省告示による）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-higashiomi-reiki
+  - text: 市名「東近江」は、旧国名「近江」の東部に位置することにちなんで付けられた広域名であると説明される。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-higashiomi-wiki
+  - text: 市の紋章は「東（east）の『e』と『近』」をモチーフにデザインされており、市名の2つの要素がそのまま市のシンボルになっていると、東近江市統計書は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-higashiomi-city
+  - text: 合併前の中心市であった八日市市は、市場町として発達した八日市を中心とする市で、市域は額田王と大海人皇子の相聞歌の舞台となった蒲生野や、永源寺・百済寺などの古刹を抱えると、東近江市人口ビジョンは述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-higashiomi-city
+  - text: 東近江市の地方公共団体コードは252131である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 「近江」の東という名 ― 広域名を名乗った平成合併
+    text: 平成の大合併で生まれた市名には、旧国名に方角を付けるタイプが各地にある。東近江市もその一つで、特定の旧市町の名（八日市）を捨て、地域全体を指す言葉を選んだ。市役所は旧八日市市に置かれたが、名は「近江の東」。中核の地名を残すか、広域の名を新しく掲げるか。合併協議のたびに繰り返されるこの選択で、東近江は後者を選んだ市である。
+    sources:
+    - p1-higashiomi-city
+    - p1-higashiomi-wiki
+  relations:
+  - pref/25
+  - muni/25-近江八幡市
+  unknowns:
+  - 市名「東近江」の選定過程（公募の有無・得票・対抗候補）は、市の公式資料では確認できなかった。
+  - 旧中心地名「八日市」の語源（市場が開かれた日に由来するとされる点）の一次・専門資料による裏付けは、今回は確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-栗東市
+  code: '252085'
+  names:
+    ja: 栗東市
+    reading: りっとうし
+    aliases:
+    - 栗東町
+  user_terms:
+  - りっとう
+  - 栗太郡の東
+  - トレセンのあるまち
+  - JRA栗東トレーニング・センター
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は「栗太郡の東」に由来する方角合成地名である。1954年、栗太郡の東側にあった治田・金勝・葉山・大宝の4村が合併した際に、郡名の「栗」と方角の「東」を合わせて「栗東町」と名付けられた。平成の大合併のなかで周辺市町と合併せず、2001年に単独で市制を施行して栗東市となり、同時に栗太郡は消滅した。
+  first_attestation:
+    era: 昭和29年
+    year_western: 1954
+    document: 栗東歴史民俗博物館の解説が伝える栗東町の誕生（1954年の4村合併）
+    note: 「栗東」は1954年の合併で新しく作られた町名であり、それ以前の用例はない。名の由来は市の博物館・広報が一貫して「栗太郡の東」と説明する。
+  claims:
+  - text: 「栗東」という名前は「栗太郡の東」に由来していると、栗東歴史民俗博物館（栗東市公式）は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-ritto-hakubutsukan
+  - text: 昭和29年（1954年）に、栗太郡の東側にあった治田・金勝・葉山・大宝の4つの村が合併して、栗東町が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-ritto-hakubutsukan
+  - text: 合併前の4村は明治22年（1889年）の町村制で生まれた村で、治田村の名は古代・中世の庄園「治田庄」に由来するなど、それぞれ歴史的地名を引き継いでいたと、栗東市広報は解説している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-ritto-koho
+  - text: 平成の大合併の時期にあっても栗東町は周辺の市町と合併することなく、平成13年（2001年）10月1日に単独で市制を施行して栗東市となった。21世紀に入ってから単独で市制を施行した町村は全国でも14のみで、珍しい事例であると市広報は述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-ritto-koho
+  - text: 栗東町が市制を施行したことで、郡内に残る唯一の自治体を失った栗太郡は消滅した。かつての栗太郡は現在の大津市の瀬田川以東・草津市全域・守山市の一部までを含む広い郡であったと市広報は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-ritto-koho
+  - text: 栗東市の地方公共団体コードは252085である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 郡の名を方角で継いだ町 ― 栗太郡の最期の姿
+    text: 「栗東」は、古代から続く由緒ある地名ではない。1954年、郡の東側の4つの村が合併するとき、所属する栗太郡の「栗」に方角の「東」を付けた、行政的で合理的な命名である。ところがこの即席の名前は、やがて郡そのものより長生きすることになった。2001年に栗東町が市になると、郡内に唯一残っていた自治体がいなくなり、千年以上の歴史を持つ栗太郡は消滅した。郡名の「栗」の一文字は、今も市名のなかに残っている。
+    sources:
+    - p1-ritto-hakubutsukan
+    - p1-ritto-koho
+  relations:
+  - pref/25
+  - muni/25-草津市
+  - muni/25-守山市
+  unknowns:
+  - 1954年の合併の際に「栗東」の名がどのような手続き（公募・協議）で選ばれたのかは、市の博物館・広報の解説では確認できなかった。
+  - 栗太郡の「栗太」自体の語源は本レコードの調査対象外で、未確認である。
+  updated: '2026-11-13'
+- id: muni/25-湖南市
+  code: '252115'
+  names:
+    ja: 湖南市
+    reading: こなんし
+    aliases:
+    - 石部町
+    - 甲西町
+  user_terms:
+  - こなん
+  - 琵琶湖の南の市
+  - 石部宿のまち
+  - うつくし松のまち
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は「琵琶湖の南」を意味する広域地名「湖南」から採られた。2004年10月1日、甲賀郡の石部町と甲西町が合併して誕生した市で、もとは甲賀郡7町の合併協議から離れて2町で合併した経緯を持つ。新市名は公募で「湖南」が上位に入り、候補の中から選ばれた。なお市域は琵琶湖に接していない。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 湖南市広報が伝える2004年10月1日の合併による市の誕生
+    note: 市名としての「湖南」の初出は2004年の合併。広域地名としての「湖南」の使用例はそれ以前からあるが、その初出は本調査では確認できなかった。
+  claims:
+  - text: 甲西町と石部町が合併し、平成16年（2004年）10月に湖南市が誕生したと、湖南市広報は「琵琶湖の南に甲西町と石部町の2町が合併し」と伝えている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-konan-city
+  - text: 市名の「湖南」は、大津市南部から旧甲賀郡にかけてを指す広域地名であり、市名はこの広域名から採られた。ただし湖南市自体は琵琶湖とは接していない。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-konan-wiki
+  - text: 新市名の公募では、湖南のほか阿星・美松・南近江・南びわこなどが候補に並び、最終候補5点の中から「湖南」が選ばれたと、市区町村変遷情報データベースは伝えている。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-konan-uub
+  - text: 石部町と甲西町は、もともと甲賀郡7町による合併研究会に参加していたが、2001年12月に7町の合併協議会への不参加を表明し、2町での合併に進んだ経緯がある。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-konan-uub
+  - text: 合併した石部町は東海道51番目の宿場・石部宿の町、甲西町は1955年に三雲村・岩根村が合併して生まれた町（名は甲賀郡の西の意）であった。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-konan-uub
+  - text: 湖南市の地方公共団体コードは252115である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 湖に接していない「湖南市」
+    text: 「湖南」は琵琶湖の南という意味の広域名だが、湖南市そのものは琵琶湖に1メートルも接していない。市域は野洲川沿いの内陸にあり、湖岸は隣の守山市や草津市に譲っている。それでも公募では阿星山にちなむ「阿星」や「南近江」「南びわこ」といった候補を抑えて「湖南」が選ばれた。実体よりも、地域のイメージを指す言葉の方が、新しい市の看板として相応しいと判断されたのである。
+    sources:
+    - p1-konan-wiki
+    - p1-konan-uub
+  relations:
+  - pref/25
+  - muni/25-甲賀市
+  - muni/25-栗東市
+  unknowns:
+  - 市名の最終決定（協議会での選定理由の公式文言）は、市の公式資料では確認できなかった。
+  - 広域地名としての「湖南」の初出・使用開始時期は確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-甲賀市
+  code: '252093'
+  names:
+    ja: 甲賀市
+    reading: こうかし
+    aliases:
+    - 甲賀町
+    - 甲賀郡
+  user_terms:
+  - こうか
+  - 甲賀忍者の里
+  - 信楽焼のまち
+  - 甲賀流
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は旧甲賀郡の名を引き継いだものである。「甲賀」は6世紀末には「かふか／かうか」と呼ばれていた地名に、奈良時代に縁起の良い漢字「甲賀」があてられて定着したと市公式資料は説明する。甲賀流忍者や信楽焼で知られる郡域の5町（水口・土山・甲賀・甲南・信楽）が2004年に合併して甲賀市となり、読みは「こうか」に決められた。
+  first_attestation:
+    era: 6世紀末
+    year_western: null
+    document: 『日本書紀』に見える百済系豪族「鹿深臣」の記述を、甲賀市公式資料が「かふか」の早い用例として紹介
+    note: 原典は未読で、市公式資料の紹介による二次確認。「甲賀」の漢字表記の定着は奈良時代とされる。
+  claims:
+  - text: 甲賀市公式資料は、『日本書紀』の中に百済系豪族「鹿深臣（かふかのおみ）」の記述があり、すでに6世紀末にはこの地が「かふか」あるいは「かうか」と呼ばれていたと考えられると紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-koka-city
+  - text: 奈良時代には「かうか」に縁起の良い漢字をあてて「甲可」や「甲賀」と記していたが、やがて「甲賀」に定着し、近江国を構成する「甲賀郡」と呼ばれるようになったと、甲賀市公式資料は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-koka-city
+  - text: 「甲賀」は千年以上の時を経て、平成16年（2004年）に水口・土山・甲賀・甲南・信楽の5つの町が合併して成立した新しい市の名称にも引き継がれたと、甲賀市公式資料は述べている。合併の日は2004年10月1日である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-koka-city
+  - text: 合併にあたって旧5町はいずれも甲賀郡に属しており、新市名は郡名をそのまま継ぐ形になった。合併前の中心的な町であった水口町は東海道の宿場町、水口城の城下町として栄えた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-koka-city
+  - text: 「甲賀」の読みには「こうか」と「こうが」の2通りがあり、合併後の市名の読みを決めるために決選投票が行われ、「こうか」が選ばれたと伝えられる。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-koka-wiki
+  - text: 甲賀市の地方公共団体コードは252093である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 「こうか」か「こうが」か ― 読みを投票で決めた市名
+    text: 甲賀忍者で知られる「甲賀」には、実は「こうか」と「こうが」という2つの読みが併存してきた。地域によっても家によっても読みが分かれるこの地名が市の名になるにあたり、2004年の合併では読みそのものが決選投票にかけられ、「こうか」に決まったという。漢字は千年以上前から変わらないのに、その読みが21世紀の投票で決まる。地名とは、文字と音の両方を引き継ぐ営みなのだと分かる事例である。
+    sources:
+    - p1-koka-wiki
+    - p1-koka-city
+  relations:
+  - pref/25
+  - muni/25-湖南市
+  unknowns:
+  - 読みの決選投票の具体的な経緯（実施主体・得票など）は、Wikipedia以外の資料で確認できなかった。
+  - 「かふか」の語源そのもの（鹿深の意味）は、市公式資料でも説明がなく未確認である。
+  - 新市名の公募で「甲賀」以外の候補がどこまで残ったかは、公式資料で確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-米原市
+  code: '252140'
+  names:
+    ja: 米原市
+    reading: まいばらし
+    aliases:
+    - 米原町
+    - 米原（まいはら）
+  user_terms:
+  - まいばら
+  - まいはら
+  - 新幹線の米原駅
+  - 伊吹山のふもとの市
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は旧米原町の名を引き継いだものである。2005年に旧坂田郡の山東町・伊吹町・米原町が合併して発足し、同年近江町を編入した。読みは旧町の「まいはら」ではなく、新幹線停車駅として全国に知られた駅名の「まいばら」が市名の読みに採用された。「米原」の語源には、蘆荻の荒地で人が迷った「迷原」が転じたとする説が伝えられる。
+  first_attestation:
+    era: 未確認
+    year_western: null
+    document: 未確認
+    note: 「米原」の地名の文献上の初出は本調査では特定できなかった。市名としての採用は2005年2月14日。読みは古くから「まいはら」「まいばら」の両様があったとされる。
+  claims:
+  - text: 米原市は山東町・伊吹町・米原（まいはら）町・近江町の旧坂田郡4町が合併してできた市であり、2005年2月14日に3町で発足し、同年10月1日に近江町を編入したと、米原市公式は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-maibara-city
+  - text: 新市の名称については合併時に公募で募集したところ「米原市」を候補とする意見が多く、また新幹線の停車駅があり全国的にも知名度のあることから「米原」を採用したと、米原市公式のFAQは述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-maibara-city
+  - text: 市名の読みは、旧米原町の読み「まいはら」ではなく、知名度の高い米原駅に合わせて「まいばら」が採用された。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-maibara-wiki
+  - text: 北陸自動車道の米原インターチェンジの読みは、もとは「まいばら」であったが2001年ごろに当時の町名に合わせて「まいはら」に変更されたため、市制後は自治体名「まいばら」と高速道路の「まいはら」が再び食い違う形になっている。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-maibara-wiki
+  - text: 「米原」の地名の由来については、周辺一帯が蘆荻（アシ・オギ）の生い茂る荒地であった頃に道に迷う行人が多かったことから「迷原」と呼ばれ、やがて田が開拓されて「米原」と改められたという説を、『角川日本地名大辞典』が取り上げていると伝えられる。
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - p1-maibara-wiki
+  - text: 米原市の地方公共団体コードは252140である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 駅に読みを譲った町 ― まいはらとまいばら
+    text: 「米原」は、町としては「まいはら」、駅としては「まいばら」と、長く2つの読みが並び立ってきた。2005年に市になるとき、選ばれたのは駅の読み「まいばら」だった。新幹線が停まる駅名の知名度が、土地本来の読みを上回ったのである。ところが高速道路の米原インターチェンジは、2001年にわざわざ町名に合わせて「まいはら」に直したばかりだったため、市と高速道路で読みが再び食い違うという、珍しいねじれが残った。
+    sources:
+    - p1-maibara-wiki
+    - p1-maibara-city
+  relations:
+  - pref/25
+  - muni/25-長浜市
+  - muni/25-彦根市
+  unknowns:
+  - 「米原」の地名の文献上の初出（年・文書）は確認できなかった。
+  - 「迷原」説は『角川日本地名大辞典』の記述をWikipedia経由で確認したにとどまり、辞典そのものの直接確認はできていない。
+  - 1889年の米原駅開業時に駅名の読みが「まいばら」に決まった理由は、資料では確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-草津市
+  code: '252069'
+  names:
+    ja: 草津市
+    reading: くさつし
+    aliases:
+    - 草津宿
+  user_terms:
+  - 滋賀の草津の名前の由来
+  - 草津宿はどこの草津
+  - 温泉じゃない方の草津
+  - 草津市はいつできたの
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 草津は近江国栗太郡の地名で、江戸時代には東海道五十三次の52番目の宿場となり、中山道との分岐・合流点として栄えた。1954年、草津町・志津村・老上村・山田村・笠縫村・常盤村が合併して草津市が誕生し、市名は天下に知られた宿場の名が満場一致で選ばれた。群馬県の温泉地・草津町とは別の自治体である。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: 1299
+    document: 一遍上人絵伝
+    note: 日本歴史地名大系によれば、草津の地名は正安元年（1299）成立の『一遍上人絵伝』に見えるのが早い用例
+  claims:
+  - text: 日本歴史地名大系によれば、草津の地名は正安元年（1299）成立の「一遍上人絵伝」に見えるのが早い（地方公共団体コードは252069）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l4-kusatsu-kotobank
+    - b-cap-chiba-soumu-code
+  - text: 江戸時代の草津宿は東海道五十三次のうち江戸から52番目の宿場で、東海道と中山道が分岐・合流する交通の要衝だったと草津市は紹介する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-kusatsu-city-shukuba
+  - text: 天保14年（1843）の「東海道宿村大概帳」には、草津宿に本陣2軒・脇本陣2軒・旅籠72軒があったと記録されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-kusatsu-city-shukuba
+  - text: 東海道と中山道の分かれ目には1816年に飛脚仲間が寄付した追分道標が立ち、「右 東海道いせみち／左 中仙道美のぢ」と刻まれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-kusatsu-city-shukuba
+  - text: 1954年（昭和29年）10月15日、栗太郡草津町・志津村・老上村・山田村・笠縫村・常盤村が合併して草津市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-kusatsu-city-fuchi
+    - l4-kusatsu-city-shiryo
+  - text: 市名「草津」の選定理由について、市制施行の申請書には、国鉄駅名をはじめ各官衙がすべて草津の名称を冠し、東海道・中仙道の分岐点で五十三次の宿場として名が天下に知られていたため、合併促進協議会で満場一致で選ばれたと記されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-kusatsu-city-shiryo
+  - text: 草津市は群馬県草津町と友好交流協定を締結している。相手の草津町は温泉地として知られる自治体で、滋賀県草津市とは名前は同じでも成り立ちの異なる別の自治体である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-kusatsu-city-sogokeikaku
+  column:
+    title: 二つの「草津」――温泉の草津と、宿場の草津
+    text: 「草津」と聞いて多くの人が思い浮かべるのは、湯けむりの群馬県草津町だろう。ところが滋賀県草津市も、江戸時代には東海道屈指の宿場として全国に名を知られた「草津」である。語源も来歴もまったく違う二つの草津は、混同されがちな同士で、草津市は草津町と友好交流協定を結んでつきあっている。なお群馬の草津の古い読みは「くそうづ」で硫黄の臭い泉に由来するとされ、滋賀の草津とは名前の成り立ちからして別物である。
+    sources:
+    - l4-kusatsu-city-sogokeikaku
+    - l4-kusatsu-city-shiryo
+  relations:
+  - pref/25
+  - muni/10-草津町
+  unknowns:
+  - 滋賀の「草津」という地名そのものの語源（草津川の川名との先後関係を含む）は、今回確認した資料では特定できなかった
+  - 『一遍上人絵伝』以前の用例の有無は未確認
+  updated: '2026-11-13'
+- id: muni/25-近江八幡市
+  code: '252042'
+  names:
+    ja: 近江八幡市
+    reading: おうみはちまんし
+    aliases:
+    - 八幡町
+    - 八幡
+  user_terms:
+  - おうみはちまん
+  - 近江商人のふるさと
+  - 八幡堀のまち
+  - 三方よしのまち
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は、城下町・商都として栄えた「八幡」に、旧国名「近江」を冠したものである。「八幡」の地名は八幡山麓の日牟禮八幡宮に由来し、天正13年（1585年）に豊臣秀次が八幡山城を築いて城下町を整備した。1954年に八幡町と4村が合併して市制を施行する際、「近江八幡市」と名付けられた。2010年に安土町と合併して現在の市域となった。
+  first_attestation:
+    era: 未確認
+    year_western: null
+    document: 未確認
+    note: 「八幡」の地名の文献上の初出は本調査では特定できなかった。日牟禮八幡宮の社伝では正暦2年（991年）に宇佐八幡宮が八幡山へ勧請されたとし、これが「八幡」の名の広まりの起点とみられる。
+  claims:
+  - text: 「八幡」という地名は日牟禮八幡宮に由来するとされ、同宮は「近江八幡の地名の由来にもなっている」と全国観光資源台帳は記している。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p1-omihachiman-jtb
+  - text: 日牟禮八幡宮の社伝によると、第13代成務天皇が即位した131年に武内宿禰に命じて当地に地主神の大嶋大神を祀ったのが鎮座の始めで、応神天皇の御座所の跡に日輪の奇瑞があったため祠を建てたと伝えられる。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - p1-omihachiman-himure
+  - text: 正暦2年（991年）に一条天皇の勅願により八幡山（法華峰）に社を造営して宇佐八幡宮を勧請し、寛弘2年（1005年）には山麓に遥拝所（下の社）を建てたと、日牟禮八幡宮の由緒は伝えている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-omihachiman-himure
+  - text: 天正13年（1585年）に豊臣秀次が八幡山城を築城する際、山上の八幡宮は麓の下の社へ合祀され、秀次は八幡堀を開削し城下町を整備して八幡商人の基礎を築いたと近江八幡市公式の基礎情報は述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-omihachiman-city
+    - p1-omihachiman-himure
+  - text: 八幡城の廃城後は天領となり、商業の町として発展を続け、近江商人の一大拠点となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p1-omihachiman-jtb
+  - text: 昭和29年（1954年）に蒲生郡八幡町と4村が合併して市制を施行し近江八幡市となった。その後、昭和30年（1955年）に2村、平成22年（2010年）に安土町と合併して現在の市域となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p1-omihachiman-jtb
+  - text: 市制施行にあたって旧国名「近江」を冠して「近江八幡市」とした理由については、市公式資料での明示を確認できず、全国各地の「八幡」と区別するためとする説明が一般に流布している。
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - p1-omihachiman-jtb
+  - text: 近江八幡市の地方公共団体コードは252042である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 安土の隣に生まれた商都
+    text: 近江八幡の市域には、信長が天下布武の拠点とした安土城の跡も含まれる。しかし市の名の中心は安土ではなく、その西隣の八幡である。1585年、秀吉の甥・秀次が八幡山に城を築くと、安土の商人や職人を呼び寄せて城下町を整えた。城は秀次の失脚とともに一代で廃されたが、町は残り、「売り手よし、買い手よし、世間よし」の三方よしで知られる近江商人の本拠となった。城主の名ではなく神社の名が、商都の名前として生き残ったのである。
+    sources:
+    - p1-omihachiman-city
+    - p1-omihachiman-jtb
+  relations:
+  - pref/25
+  unknowns:
+  - 「八幡」の地名の文献上の初出（年・文書）は確認できなかった。
+  - 1954年の市制施行時に旧国名「近江」を冠した経緯・理由は、市公式資料では確認できず、合併協議の一次資料での裏付けが残る。
+  - 日牟禮八幡宮の創建を131年とするのは社伝であり、史料による裏付けは確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-野洲市
+  code: '252107'
+  names:
+    ja: 野洲市
+    reading: やすし
+    aliases:
+    - 野洲町
+    - 野洲郡
+  user_terms:
+  - やす
+  - 近江富士・三上山のまち
+  - 銅鐸のまち
+  - 野洲川のまち
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は旧野洲郡と、その中心町であった野洲町の名を引き継いだものである。2004年10月1日に野洲郡の野洲町と中主町が合併して誕生した。古代の野洲郡は現在の野洲市・守山市・近江八幡市の一部にあたり、郡衙は現在の市役所周辺にあったと推定されている。「野洲」の語源は資料では未詳である。
+  first_attestation:
+    era: 未確認
+    year_western: null
+    document: 未確認
+    note: 「野洲」の文献上の初出は本調査では特定できなかった。古代の近江国野洲郡の名が郡・川・町の名として受け継がれてきた。
+  claims:
+  - text: 野洲市は、平成16年（2004年）10月に野洲郡の野洲町と中主町とが合併して新たに誕生した都市であると、野洲市公式の都市計画資料は記している（合併の日は2004年10月1日）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-yasu-city
+  - text: 古代の野洲郡は、現在の野洲市と守山市、近江八幡市の一部に該当し、郡衙（郡の役所）は現在の野洲市役所周辺にあったと推定されていると、野洲市公式資料は述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-yasu-city
+  - text: 合併した2町はいずれも野洲郡に属しており、市名は郡名と中心町の名をそのまま継承する形となった。合併により野洲郡は消滅した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-yasu-city
+  - text: 市域は野洲川・日野川の堆積作用によって形成された沖積平野にあり、「近江富士」と呼ばれる三上山が地域のランドマークとなっていると、野洲市公式資料は説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-yasu-city
+  - text: 野洲市の地方公共団体コードは252107である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 郡の名を2町で受け継いだ市
+    text: 野洲市は、郡と同じ名前の町（野洲町）と、もう1町（中主町）の合併で生まれた。2町とも野洲郡の所属で、郡の名は奈良時代以来の古い名前である。合併によって野洲郡という行政区画は消えたが、その名は市の名として残った。市役所の周辺には、古代の郡衙があったと推定されている。千年以上前の郡の役所の場所に、いま郡の名を受け継いだ市の役所が立っている。
+    sources:
+    - p1-yasu-city
+  relations:
+  - pref/25
+  - muni/25-守山市
+  - muni/25-近江八幡市
+  unknowns:
+  - 「野洲」の語源（「やす」の意味）は、今回参照した市の公式資料では説明がなく、未確認である。
+  - 「野洲」の文献上の初出（『和名類聚抄』の野洲郡など古代史料の用例）の直接確認はできなかった。
+  - 市名選定の過程（公募の有無など）は公式資料で確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-長浜市
+  code: '252034'
+  names:
+    ja: 長浜市
+    reading: ながはまし
+    aliases:
+    - 今浜
+    - 長浜町
+  user_terms:
+  - ながはま
+  - 秀吉の出世城のまち
+  - 長浜城
+  - 湖北の中心都市
+  naming_type: 一部の地名
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は、もとの地名「今浜」を羽柴秀吉（豊臣秀吉）が天正年間に「長浜」と改めたことに由来する。浅井氏を滅ぼして初めて城持ち大名となった秀吉は、琵琶湖岸の今浜に長浜城を築き、楽市楽座の城下町を開いた。「長」の字の由来には信長の一字説・浅井長政説などがあるが定説はない。1943年に市制を施行し、2006年と2010年の合併で現在の市域となった。
+  first_attestation:
+    era: 天正2年ごろ
+    year_western: 1574
+    document: 長浜市『歴史的風致維持向上計画』が伝える今浜から長浜への改名
+    note: 「長浜」の名の初出は秀吉による改名そのもの。市の計画資料は天正2年（1574）ごろの築城開始と改名を述べ、城の完成・小谷城からの移転を天正4年（1576）として改名をこの時とする記述もあり、年に幅がある。
+  claims:
+  - text: 長浜の地はもとは「今浜」と呼ばれており、戦国時代のはじめに北近江を支配した京極氏方の今浜城があったと、長浜城歴史博物館は『江北記』を引いて説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-nagahama-rekihaku
+  - text: 天正元年（1573年）に小谷城が落城して浅井氏が滅ぶと、秀吉は北近江三郡を与えられて初めて城持ち大名となり、天正2年（1574年）ごろから湖岸の今浜に築城を開始して、「今浜」という地名を「長浜」に改めたと長浜市の歴史的風致維持向上計画は述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-nagahama-rekimachi
+  - text: 長浜市公式の市政のあらましも「天正年間に羽柴秀吉（後の豊臣秀吉）が『今浜』を『長浜』に改名し、小谷城下などの商人たちを集めて、楽市である城下町を作ったのが長浜の基礎となっています」と説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-nagahama-aramashi
+  - text: 改名の「長」の字については、主君である織田信長の一字を戴いたとする説と、滅ぼした浅井長政の「長」を取ったとする説が伝えられるが、市の公式資料は理由を明示しておらず、定説は確認できない。
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - p1-nagahama-aramashi
+  - text: 昭和18年（1943年）に長浜町・六荘村・西黒田村・神照村・南郷里村・北郷里村・神田村の1町6村が合併して市制が施行され、長浜市が成立した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-nagahama-aramashi
+  - text: 平成18年（2006年）2月13日に長浜市・東浅井郡浅井町・同郡びわ町が合併し、平成22年（2010年）1月1日に虎姫町・湖北町・高月町・木之本町・余呉町・西浅井町が合併して、現在の長浜市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-nagahama-aramashi
+    - p1-nagahama-rekimachi
+  - text: 長浜市の地方公共団体コードは252034である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 「今浜」から「長浜」へ ― 出世城の改名
+    text: 秀吉にとって長浜城は、家来から初めて「一城の主」へ出世した記念の城である。その城下町の名を「今浜」から「長浜」へ改めた理由は、公式の資料には残っていない。主君・信長の「長」をもらったという説、倒した相手・浅井長政の「長」を取ったという説が今も並んで語られる。いずれにせよ、わずか一文字の差し替えが、滅びた浅井氏の土地に新しい支配者の印を刻んだ。現在の長浜市の名は、この改名がそのまま400年以上受け継がれたものである。
+    sources:
+    - p1-nagahama-rekimachi
+    - p1-nagahama-aramashi
+  relations:
+  - pref/25
+  unknowns:
+  - 「長浜」の「長」の字の由来（信長の一字説・浅井長政説など）は、市の公式資料・博物館資料では明示されておらず、一次資料による確認ができなかった。
+  - 改名の正確な年は、築城開始の天正2年（1574）ごろとする資料と、城の完成・移転した天正4年（1576）とする記述があり、確定できなかった。
+  - 「今浜」の地名自体の語源（いまはま）の文献上の初出は確認できなかった。
+  updated: '2026-11-13'
+- id: muni/25-高島市
+  code: '252123'
+  names:
+    ja: 高島市
+    reading: たかしまし
+    aliases:
+    - 高島町
+    - 高島郡
+  user_terms:
+  - たかしま
+  - 琵琶湖の湖北の市
+  - メタセコイア並木のまち
+  - 高島ちぢみのまち
+  naming_type: 合併新設
+  prefecture: 滋賀県
+  homonyms: []
+  summary: 市名は旧高島郡の名を引き継いだものである。高島郡の成立は大宝元年（701）にさかのぼると市公式は伝える。2005年1月1日に高島郡のマキノ町・今津町・朽木村・安曇川町・高島町・新旭町の全6町村が合併して誕生した。郡内には郡名を名乗る高島町も含まれており、郡名をそのまま市名とする形になった。「高島」の語源は資料では未詳である。
+  first_attestation:
+    era: 大宝元年
+    year_western: 701
+    document: 高島市公式「歴史」が伝える高島郡の成立（大宝律令）
+    note: 郡名としての「高島」の成立時期を市公式が示すもの。「高島」という地名そのものの語源・それ以前の用例は未確認。
+  claims:
+  - text: 高島市の地域は古くから高島郡と呼ばれてきており、高島郡の成立は大宝元年（701）に定められた大宝律令にさかのぼると、高島市公式の歴史解説は述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-takashima-city
+  - text: 平成17年（2005年）1月1日にマキノ町・今津町・朽木村・安曇川町・高島町・新旭町が合併して高島市が誕生したと、高島市公式は記している。合併した6町村はいずれも高島郡に属していた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-takashima-city
+    - p1-takashima-uub
+  - text: 新市名の公募では「高島」のほか「西近江」などが上位に並んだと、市区町村変遷情報データベースは伝えている。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-takashima-uub
+  - text: 合併に参加した高島町は、1943年に高島村・水尾村・大溝町が合併して生まれた町で、旧高島郡の郡名を町名として名乗っていた。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p1-takashima-uub
+  - text: 高島市の市域は琵琶湖の北西岸から若狭との境の山地まで、旧高島郡の全域にほぼ重なっている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p1-takashima-city
+  - text: 高島市の地方公共団体コードは252123である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-shiga
+  column:
+    title: 郡まるごとの合併 ― 郡名がそのまま市名に
+    text: 高島市の合併は、参加した6町村すべてが高島郡の町村という、郡単位の合併だった。郡の中には「高島町」という、郡名そのものを名乗る町もあった。新しい市の名として郡名「高島」を選ぶのは、6町村のいずれにも偏らない、最も自然な落としどころだったといえる。郡という区画は合併で消えたが、その名と範囲は市の名と市域として、ほぼそのまま受け継がれた。
+    sources:
+    - p1-takashima-uub
+    - p1-takashima-city
+  relations:
+  - pref/25
+  - muni/25-大津市
+  unknowns:
+  - 「高島」の語源は、今回参照した資料では確認できなかった（湖に突き出た地形など諸説の裏付け未確認）。
+  - 「高島」の文献上の初出（『和名類聚抄』の高島郡など）の直接確認はできなかった。
+  - 市名の公募の詳細（応募数や得票）は、市公式資料では確認できなかった。
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  d-cap-heian-edict:
+    label: コトバンク「平安京」（『精選版 日本国語大辞典』。『日本後紀』逸文の詔文を引用）
+    url: https://kotobank.jp/word/%E5%B9%B3%E5%AE%89%E4%BA%AC-128777
+  d-cap-jlis-shiga:
+    label: 地方公共団体情報システム機構（J-LIS）「滋賀県内市町」（地方公共団体コード住所一覧）
+    url: https://www.j-lis.go.jp/spd/code-address/kinki/cms_14614183.html
+  d-cap-otsu-ancient:
+    label: 大津市資料「古代の大津―大津京遷都の時代背景」
+    url: https://www.city.otsu.lg.jp/material/files/group/16/4eba22e0002.pdf
+  d-cap-otsu-chushin:
+    label: 大津市「第2期大津市中心市街地活性化基本計画」（大津市の沿革）
+    url: https://www.city.otsu.lg.jp/material/files/group/18/55916681.pdf
+  d-cap-otsu-databook:
+    label: 大津市「おおつデータブック」（市の由来・市域の変遷）
+    url: https://www.city.otsu.lg.jp/material/files/group/109/2026databook6.pdf
+  d-cap-otsu-furutsu:
+    label: コトバンク「古津」（『百科事典マイペディア』の解説）
+    url: https://kotobank.jp/word/%E5%8F%A4%E6%B4%A5-866846
+  d-cap-otsu-kotobank:
+    label: コトバンク「大津」（『デジタル大辞泉』『精選版 日本国語大辞典』の解説）
+    url: https://kotobank.jp/word/%E5%A4%A7%E6%B4%A5-39374
+  d-cap-otsu-rekibun:
+    label: 大津市「大津市の歴史文化」（歴史文化基本構想資料）
+    url: https://www.city.otsu.lg.jp/material/files/group/67/rekibun_h_3.pdf
+  h6-hino-shiga-keikaku:
+    label: 滋賀県日野町「日野町文化財保存活用地域計画 第1章 日野町の概要」（日野町の由来：天喜4年の「東大寺使神成則請文」に法成寺領「日野御牧」として登場、1955年に1町6村が合併）
+    url: https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8039/hino-bunkazaikeikaku_11.pdf
+  h6-hino-shiga-wiki:
+    label: Wikipedia「日野町 (滋賀県)」（市町村コード25383-9、1889年の日野町発足と1955年の合併）
+    url: https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E7%94%BA_(%E6%BB%8B%E8%B3%80%E7%9C%8C)
+  h6-hino-tottori-wiki:
+    label: Wikipedia「日野町 (鳥取県)」（市町村コード31402-1、「日野」の初見は『出雲国風土記』とされること、1959年に根雨町・黒坂町が合併して発足）
+    url: https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E7%94%BA_(%E9%B3%A5%E5%8F%96%E7%9C%8C)
+  k4-hikone-city:
+    label: 彦根市「彦根市について」（地名は活津彦根命が彦根山に祭られたことに由来するとされる。1937年2月11日に彦根町と5か村の合併で市制施行）
+    url: https://www.city.hikone.lg.jp/shisei/gaiyo/3/7082.html
+  k4-hikone-kankyo:
+    label: 環境省「感覚環境のまちづくり」報告書 彦根編（「彦根」の地名は活津彦根命が活津彦根明神として彦根山に祭られたことに由来するとされている）
+    url: https://www.env.go.jp/content/900405076.pdf
+  l4-kusatsu-city-fuchi:
+    label: 草津市「草津市歴史文化基本構想 第1章」（1954年10月15日の合併・市制施行）
+    url: https://www.city.kusatsu.shiga.jp/bunka/rekishi/keikaku/bunkazai12024.files/1-3syou.pdf
+  l4-kusatsu-city-shiryo:
+    label: 草津市・草津宿街道交流館「草津市、ついに誕生す」（市制施行申請書の紹介。合併した1町5村と市名選定の理由）
+    url: https://www.city.kusatsu.shiga.jp/kusatsujuku/gakumonjo/gallery.files/R6.10.pdf
+  l4-kusatsu-city-shukuba:
+    label: 草津市「草津宿と本陣について」（草津宿学問所。東海道宿村大概帳の本陣・旅籠数、追分道標）
+    url: http://www.city.kusatsu.shiga.jp/kusatsujuku/gakumonjo/shukuba_kaisetsu.html
+  l4-kusatsu-city-sogokeikaku:
+    label: 草津市「第4次草津市総合計画 基本構想」（群馬県草津町と友好交流協定を締結した記録）
+    url: https://www.city.kusatsu.shiga.jp/shisei/keikaku/sogokeikaku/rokujisoukei/kihonkeikaku1/sogokeikaku.files/001-0_kihonkousou.pdf
+  l4-kusatsu-kotobank:
+    label: コトバンク「草津市」（日本歴史地名大系。草津の地名は正安元年（1299）成立の『一遍上人絵伝』に見えるのが早い）
+    url: https://kotobank.jp/word/%E8%8D%89%E6%B4%A5%E5%B8%82-55115
+  p1-higashiomi-city:
+    label: 東近江市公式「東近江市統計書」概要（平成17年2月11日に八日市市・永源寺町・五個荘町・愛東町・湖東町が合併して誕生したこと）
+    url: https://www.city.higashiomi.shiga.jp/shiseijouhou/kakushutoukei/1005051/1005132/index.html
+  p1-higashiomi-reiki:
+    label: 東近江市例規集所収の総務省告示（平成18年1月1日に能登川町・蒲生町を東近江市へ編入したこと）
+    url: https://www2.city.higashiomi.shiga.jp/reiki_int/reiki_honbun/r151RG00000985.html
+  p1-higashiomi-wiki:
+    label: Wikipedia「東近江市」（市名は旧国名「近江」の東部に位置することにちなむとされること）
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%BF%91%E6%B1%9F%E5%B8%82
+  p1-koka-city:
+    label: 甲賀市「地域計画」第1章「甲賀の地名の由来」（『日本書紀』の鹿深臣の記述から6世紀末には「かふか／かうか」と呼ばれ、奈良時代に「甲賀」に定着したこと、2004年に5町が合併して甲賀市となったこと）
+    url: https://www.city.koka.lg.jp/secure/25491/chiikikeikaku-1syou.pdf
+  p1-koka-wiki:
+    label: Wikipedia「甲賀市」（読み「こうか」と「こうが」をめぐって市名決定の決選投票が行われたとされること）
+    url: https://ja.wikipedia.org/wiki/%E7%94%B2%E8%B3%80%E5%B8%82
+  p1-konan-city:
+    label: 湖南市広報「まちの歴史」（甲西町と石部町が合併し、2004年10月に「琵琶湖の南」に湖南市が誕生したこと）
+    url: https://www.city.shiga-konan.lg.jp/material/files/group/1/202404page6.pdf
+  p1-konan-uub:
+    label: 市区町村変遷情報データベース「湖南市」（新市名公募の上位に湖南・阿星・美松・南近江などが並んだこと、2004年10月1日の合併経過）
+    url: https://uub.jp/upd/u/u387.html
+  p1-konan-wiki:
+    label: Wikipedia「湖南市」（市名の「湖南」は大津市南部から旧甲賀郡にかけてを指す広域地名であり、市は琵琶湖と接していないこと）
+    url: https://ja.wikipedia.org/wiki/%E6%B9%96%E5%8D%97%E5%B8%82
+  p1-maibara-city:
+    label: 米原市公式「米原市の読み方」（旧坂田郡4町の合併であること、新市名は公募で「米原市」を推す意見が多く、新幹線停車駅の知名度から「米原」を採用したこと）
+    url: https://www.city.maibara.lg.jp/faq/4551.html
+  p1-maibara-wiki:
+    label: Wikipedia「米原の読み方」（市名の読みは旧米原町の「まいはら」ではなく駅名の「まいばら」を採用したこと、蘆荻の荒地で人が道に迷った「迷原」が「米原」に改められたという説を『角川日本地名大辞典』が取り上げていること）
+    url: https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%8E%9F%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9
+  p1-moriyama-city:
+    label: 守山市公式「市章・木・花他」（「名前の由来」：地名の由来は不明、『古今和歌集』の紀貫之の歌に「もる山」と称されること、守山寺の寺号を起源とする伝承）
+    url: https://www.city.moriyama.lg.jp/shiseijouhou/shinogaiyo/1003369.html
+  p1-moriyama-history:
+    label: 守山市公式「守山市の歴史」（守山宿が「京発ち守山泊まり」と呼ばれたこと、1889年の7カ村、1955年・1957年の合併、1970年の市制）
+    url: https://www.city.moriyama.lg.jp/shiseijouhou/shinogaiyo/1003371.html
+  p1-moriyama-keikaku:
+    label: 守山市「中心市街地活性化基本計画」（守山の地名起源には比叡山延暦寺の鬼門説・山守部起源説があるとする整理）
+    url: https://www.city.moriyama.lg.jp/_res/projects/default_project/_page_/001/002/095/zennhann.pdf
+  p1-nagahama-aramashi:
+    label: 長浜市「市政のあらまし（市勢）」（旧長浜市の沿革：秀吉が今浜を長浜に改名、1943年市制、2006年・2010年の合併）
+    url: https://www.city.nagahama.lg.jp/cmsfiles/contents/0000016/16153/R7-01shisei.pdf
+  p1-nagahama-rekihaku:
+    label: 長浜城歴史博物館「長浜城の歴史」（もとは今浜と呼ばれ京極氏方の今浜城があったこと、天正元年の小谷城落城）
+    url: https://nagahama-rekihaku.jp/highlight/nagahama-castle
+  p1-nagahama-rekimachi:
+    label: 長浜市「歴史的風致維持向上計画」第1章（天正2年ごろ今浜に築城を開始し今浜を長浜に改めたこと、市の沿革）
+    url: https://www.city.nagahama.lg.jp/cmsfiles/contents/0000001/1238/R8rekimachikeikaku_1.pdf
+  p1-omihachiman-city:
+    label: 近江八幡市「本市の基礎情報」（豊臣秀次が八幡山城を築城し城下町を整備したこと、八幡商人の歴史）
+    url: https://www.city.omihachiman.lg.jp/material/files/group/190/02kankokisojoho.pdf
+  p1-omihachiman-himure:
+    label: 日牟禮八幡宮公式サイト「由緒」（社伝による創建、正暦2年の宇佐八幡宮勧請、寛弘2年の下の社建立、天正13年の秀次築城時の合祀）
+    url: https://himure.jp/knowledge/origin
+  p1-omihachiman-jtb:
+    label: 全国観光資源台帳（日本交通公社）「近江八幡市」「日牟禮八幡宮」（1954年に八幡町と4村が合併して市制施行、日牟禮八幡宮が地名の由来になったこと）
+    url: https://tabi.jtb.or.jp/city?opt=%E6%BB%8B%E8%B3%80%E7%9C%8C%2C%E8%BF%91%E6%B1%9F%E5%85%AB%E5%B9%A1%E5%B8%82&type=city
+  p1-ritto-hakubutsukan:
+    label: 栗東歴史民俗博物館（栗東市公式）特集展示解説（栗東の名は「栗太郡の東」に由来し、1954年に郡の東側の治田・金勝・葉山・大宝の4村が合併して栗東町が誕生したこと）
+    url: https://www.city.ritto.lg.jp/hakubutsukan/sub502.html
+  p1-ritto-koho:
+    label: 栗東市広報「知ってる？栗東のまちの成り立ち」（2001年10月1日に単独市制施行で栗東市が誕生し、栗太郡が消滅したこと）
+    url: https://www.city.ritto.lg.jp/koho/2109/091_1.html
+  p1-takashima-city:
+    label: 高島市公式「歴史」（高島市の地域は古くから高島郡と呼ばれ、郡の成立は大宝元年（701）にさかのぼること、2005年1月1日に6町村が合併して高島市が誕生したこと）
+    url: https://www.city.takashima.lg.jp/gyoseijoho/takashimashinitsuite/0/4630.html
+  p1-takashima-uub:
+    label: 市区町村変遷情報データベース「高島市」（2005年1月1日に高島郡のマキノ町・今津町・朽木村・安曇川町・高島町・新旭町が合併して高島市が誕生したこと）
+    url: https://uub.jp/upd/c/391.html
+  p1-yasu-city:
+    label: 野洲市公式「都市の概況」第1章（2004年10月に野洲郡の野洲町と中主町が合併して誕生したこと、野洲郡は現在の野洲市・守山市・近江八幡市の一部にあたり郡衙は現在の市役所周辺と推定されること）
+    url: https://www.city.yasu.lg.jp/material/files/group/33/2433.pdf

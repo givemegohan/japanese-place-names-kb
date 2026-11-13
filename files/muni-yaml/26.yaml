@@ -1,0 +1,1299 @@
+prefecture_code: '26'
+records:
+- id: muni/26-亀岡市
+  code: '262064'
+  names:
+    ja: 亀岡市
+    reading: かめおかし
+    aliases:
+    - 亀山
+    - 丹波亀山
+    - 亀山町
+    - 亀岡町
+  user_terms:
+  - 亀岡
+  - 丹波亀山
+  - 亀岡市の名前の由来
+  - 保津川下りのまち
+  - かめおか
+  naming_type: 藩名（丹波亀山藩が明治2年に亀岡藩へ改称した名に由来）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、丹波国の城下町「亀山」が明治2年（1869年）に「亀岡」と改められた名を受け継ぐ。「亀山」の初見は天正5年（1577年）の明智光秀の書状とされ、光秀が築いた丹波亀山城の城下町として発展した。明治2年、亀山藩主が知藩事に任じられる際、明治政府から亀山を亀岡に改めるよう命じられたのが「亀岡」の始まりと市の計画は伝える。昭和30年（1955年）に亀岡町ほか1町15村が合併して亀岡市が誕生した。
+  first_attestation:
+    era: 天正5年
+    year_western: 1577
+    document: 明智光秀書状（大東急記念文庫所蔵「小畠文書」）
+    note: 亀岡市文化財保存活用地域計画が、「亀山」の現在のところの初見として挙げるもの。光秀が家臣の小畠氏に亀山城の「惣堀普請」を命じた書状で、原書状そのものは本バッチでは未確認のため、市の計画の紹介として扱う
+  claims:
+  - text: 亀岡市域はもともと「亀山」と呼ばれており、「亀山」の初見は、明智光秀が家臣の小畠氏に亀山城の惣堀普請を命じた天正5年（1577年）正月晦日付の明智光秀書状であると、亀岡市の文化財保存活用地域計画が紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kameoka-bunkazai-plan
+  - text: 明智光秀が丹波亀山城とその城下町を築いたことが、近世・近代の亀岡の礎となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kameoka-bunkazai-plan
+  - text: 「亀岡」の地名が使われるのは明治2年（1869年）からであり、丹波亀山藩主の松平信正が知藩事に任命される際、明治政府から亀山を亀岡に改称するよう命じられたのが始まりといわれる（松平家譜による）と、亀岡市の計画が伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kameoka-bunkazai-plan
+  - text: 明治2年の改称の理由は、伊勢亀山（現在の三重県亀山市）との混同を避けるためであったと説明される
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p2-kameoka-wiki
+  - text: 昭和30年（1955年）1月1日、南桑田郡の亀岡町ほか1町15村が合併して亀岡市が誕生した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p2-kameoka-wiki
+  - text: 百済から来た僧・日羅が献上した三匹の亀を、山城・丹波（現在の亀岡市）・伊勢（現在の亀山市）で逃がし、その地がそれぞれ「亀山」と呼ばれるようになったという言い伝えを、三重県亀山市の歴史博物館が「亀山のむかしばなし」として紹介している
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - p2-kameyama-mie-museum
+  - text: 「亀山」の名の語源（なぜ亀の字が当てられたか）は、亀岡市の公式資料でも明らかにされておらず、確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - p2-kameoka-bunkazai-plan
+  - text: 亀岡市の地方公共団体コードは262064である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 改名したのは京都の亀山だった
+    text: 戦国時代、亀山と名のる城は二つあった。丹波の亀山（明智光秀の城）と、伊勢の亀山（三重県）である。明治2年（1869年）、版籍奉還で藩主が知藩事に任じられる際、同名の混同を避けるため改名を命じられたのは丹波の側で、亀山は「亀岡」となった。伊勢の亀山はそのまま残り、現在の亀山市に至る。つまり1955年に亀岡市が誕生したときには、すでに86年前からこの地は亀岡だったのである。なお三重県亀山市の歴史博物館には、百済の僧が献上した三匹の亀を山城・丹波・伊勢で逃がしたのが三つの「亀山」の始まりだという、両市を結ぶような言い伝えも紹介されている（伝説）。
+    sources:
+    - p2-kameoka-bunkazai-plan
+    - p2-kameoka-wiki
+    - p2-kameyama-mie-museum
+  relations:
+  - pref/26
+  - muni/24-亀山市
+  unknowns:
+  - 「亀山」の語源（亀の字の由来）は市公式資料では確認できず未確定
+  - 明治2年の改称で「岡」の字が選ばれた理由は、確認した資料には示されていなかった
+  - 明智光秀書状（小畠文書）の原文は本バッチでは未確認で、初出の主張は市の計画の紹介に基づく
+  updated: '2026-11-13'
+- id: muni/26-京丹後市
+  code: '262129'
+  names:
+    ja: 京丹後市
+    reading: きょうたんごし
+    aliases:
+    - 峰山町
+    - 大宮町
+    - 網野町
+    - 丹後町
+    - 弥栄町
+    - 久美浜町
+  user_terms:
+  - 京丹後
+  - きょうたんご
+  - 京丹後市の名前の由来
+  - 丹後半島の市
+  naming_type: 合併新設
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、平成16年（2004年）の合併で生まれた新市名で、旧国名「丹後」に「京」を冠した合成名である。峰山町・大宮町・網野町・丹後町・弥栄町・久美浜町の6町の合併協議会が名称を公募し、平成14年（2002年）12月24日の第7回協議会で、最終候補の「北都市」「丹後市」「京丹後市」の中から投票で「京丹後市」を選んだ。選定理由は「京都の丹後ということが一目瞭然」になることとされ、平成16年（2004年）4月1日に京丹後市が発足した。
+  first_attestation:
+    era: 平成14年
+    year_western: 2002
+    document: 峰山町・大宮町・網野町・丹後町・弥栄町・久美浜町合併協議会「第7回協議会議事概要」
+    note: 新市名「京丹後市」が合併協議会で確認された日（2002年12月24日）を、この名前の公式な初出とする。合併新設名のため、それ以前の用例はない
+  claims:
+  - text: 平成16年（2004年）4月1日、中郡峰山町・大宮町、竹野郡網野町・丹後町・弥栄町、熊野郡久美浜町の合併により京丹後市が成立した、と京都府が記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kyotango-kyoto-gap
+  - text: 新市の名称は平成14年（2002年）10月に公募が開始され、同年12月24日の第7回合併協議会で「京丹後市」とすることが確認された、と京都府が記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kyotango-kyoto-gap
+  - text: 第7回合併協議会の議事概要によれば、最終候補は「北都市」「丹後市」「京丹後市」の3案で、投票の結果は京丹後市30票・丹後市10票・北都市7票であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kyotango-gappei-pdf
+  - text: 「京丹後市」の選定理由は「丹後という地名がなじみ深く、加えて京都の丹後ということが一目瞭然となりわかりやすい」「京を付けることにより丹後のイメージアップが図れる」であった、と合併協議会の議事概要が記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kyotango-gappei-pdf
+  - text: 合併協議会では事務局が、「丹後」の名は奈良時代の西暦713年にこの地域が丹波国から分かれた際、「丹波」の後ろということで「丹後」になったものである、と説明したことが議事概要に記録されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-kyotango-gappei-pdf
+  - text: 京丹後市の地方公共団体コードは262129である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 漢字か、ひらがなか――24対24で割れた表記投票
+    text: 「京丹後市」に決まった日の協議会では、もう一つ劇的な投票があった。名前の表記を漢字の「京丹後市」にするか、ひらがな混じりの「京たんご市」にするかの投票で、結果は24票対24票の完全な同数だったのである。議事概要の記録はここで途切れ気味で、同数の末にどう漢字表記に落ち着いたのか、その場の決着のつけ方は概要からは読み取りにくい。全国に「京」を名乗る市は珍しく、京都市の「京」とも東京の「京」とも違う、「京都の丹後」を名乗るための合併名だった。
+    sources:
+    - p2-kyotango-gappei-pdf
+  relations:
+  - pref/26
+  unknowns:
+  - 表記投票が24対24の同数となった後、最終的に漢字表記「京丹後市」に決着した手続きの詳細は、第7回議事概要の確認できた範囲では読み取れなかった
+  - 公募に応募された名称案の総数と、「京丹後市」案の応募件数は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/26-京田辺市
+  code: '262111'
+  names:
+    ja: 京田辺市
+    reading: きょうたなべし
+    aliases:
+    - 田辺町
+  user_terms:
+  - 京田辺はなぜ「京」が付くのか
+  - 田辺市と京田辺市はどう違うのか
+  - 一休さんのまち
+  - 筒城とは何か
+  naming_type: その他
+  prefecture: 京都府
+  homonyms: []
+  summary: 京田辺市は、1997（平成9）年4月1日に綴喜郡田辺町が市制を施行した際に生まれた市名である。その際、すでに存在した和歌山県田辺市と同名になるのを避けるため、京都府の「京」を冠して「京田辺」としたとされる。新市名は公募され、応募最多は「山城田辺市」だったが、慣れ親しんだ「田辺」を残し「京都の田辺」を表す案が選ばれた。なお「田辺」自体の語源は、確認した公式資料では説明されておらず未確定である。
+  first_attestation:
+    era: 平成9年
+    year_western: 1997
+    document: 田辺町の市制施行に伴う「京田辺市」への改称（1997年4月1日）
+    note: 「京田辺」という名の初出。元になった「田辺」の初出・語源は未確認で、後段の unknowns に記す。市域の古名としては、市公式の沿革が『古事記』『日本書紀』『万葉集』にうたわれた「筒城」を紹介している。
+  claims:
+  - text: 1997（平成9）年4月1日、綴喜郡田辺町が市制を施行した際、和歌山県田辺市との重複を避けるため、京都府の「京」を冠して京田辺市となったとされる。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p6-kyotanabe-wiki
+  - text: 新市名は公募で全国から3,704件（606種）の応募があり、上位は「山城田辺市」496件、「新田辺市」408件、「一休市」189件、「京田辺市」173件だったが、市制審議委員会の協議の結果、住民が慣れ親しんだ「田辺」を残し「京都の田辺」を表現した「京田辺市」が選ばれ、町議会の議決を経て正式に決定したとされる。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p6-kyotanabe-wiki
+  - text: 京田辺市公式の沿革によれば、市域は古代の山城国綴喜郡に属し、『古事記』『日本書紀』『万葉集』などにもうたわれている「筒城」は後に郡名（綴喜郡）のもとにもなり、継体天皇が筒城宮として山城国に最初に皇居を定めた地といわれている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-kyotanabe-enkaku
+  - text: 同沿革の変遷図によれば、田辺町は1906（明治39）年に成立し、1951（昭和26）年に大住村・草内村を編入して、市制施行時の町域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-kyotanabe-enkaku
+  - text: 「田辺」という地名の語源については、市の公式資料では説明されておらず、本調査の範囲では確定した説を確認できなかった。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - p6-kyotanabe-enkaku
+  - text: 総務省「地方公共団体コード一覧」では、京田辺市のコードは262111とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 公募4位が市名になった理由
+    text: 京田辺市の市名公募で最も多かったのは「山城田辺市」だった。しかし選ばれたのは4番目に応募の多かった「京田辺市」である。理由はシンプルで、住民が慣れ親しんだ「田辺」を残しながら、京都にある田辺であることを一文字で表せるからだった。同名の市がすでにある場合に都道府県の頭文字などを冠する手法は、東京都の東大和市（神奈川県大和市などとの混同回避）などにも見られる。ちなみに3位には、晩年をこの地で過ごした一休禅師にちなむ「一休市」が入っていた。とんちで知られる禅僧の名を冠する市は、惜しくも誕生しなかった。
+    sources:
+    - p6-kyotanabe-wiki
+    - p6-kyotanabe-enkaku
+  relations:
+  - pref/26
+  - muni/30-田辺市
+  unknowns:
+  - 「田辺」という地名の語源と初出は未確認。田辺部（田部）に由来する説などを裏づける典拠には本バッチでは当たれなかった。
+  - 1997年の改称理由と公募結果については、市の一次資料（市制審議委員会の記録等）での直接確認ができておらず、数値はWikipedia経由の情報にとどまる。
+  updated: '2026-11-13'
+- id: muni/26-京都市
+  code: '261009'
+  names:
+    ja: 京都市
+    reading: きょうとし
+    aliases:
+    - 平安京
+    - 京
+    - 京師
+  user_terms:
+  - 千年の都
+  - 平安京のあった市
+  - 古都
+  naming_type: その他
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は都の名「京都」の継承である。その基盤は794年に桓武天皇が命名した平安京で、1000年余り都であり続けた歴史の上に「京都」の名が成り立っている。1889年の市制施行により京都市が誕生した。
+  first_attestation:
+    era: 延暦13年
+    year_western: 794
+    document: 『日本後紀』逸文（延暦13年11月8日の詔）
+    note: 都の名「平安京」の命名そのものを伝える詔文。本文は散逸し、逸文としての引用経由で確認した。都市名「京都」が固有名詞として定着するのはこれより後の時代である。
+  claims:
+  - text: 延暦13年（794年）10月22日に桓武天皇が新京へ移り、同月28日に遷都の詔が下された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-nenpyo
+  - text: 同年11月8日、新京は「平安京」と名付けられ、あわせて国名が「山背国」から「山城国」に改められた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-nenpyo
+  - text: 『日本後紀』の逸文として伝わるこの詔には「此の国は山河襟帯し、自然に城をなす。此の勝によりて新号を制むべし」と地形を評した上で、「子来の民、謳歌の輩、異口同辞に号して平安京と曰ふ」と、集まった人々が口々に平安京と呼んだことが記される形になっている（辞典の引用による確認）。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - d-cap-heian-edict
+  - text: 平安京は唐の長安を手本とした東西約4.5キロ、南北約5.2キロの条坊制の都で、大内裏から南の羅城門まで朱雀大路（現在の千本通）がまっすぐ通された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-kodomo
+  - text: 平安京は延暦13年（794年）に定められてから明治のはじめまで1000年余りの間、日本の政治・経済・文化の中心として発展した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-fu-tokei
+  - text: 1889年4月1日、市制施行により京都市が誕生したが、東京・大阪とともに市制特例が適用され、市長は置かれず京都府知事が市長の職務を兼務した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-jichi
+    - d-cap-kyoto-aramashi
+  - text: 市制特例の撤廃を求める運動の末、1898年10月15日に初代市長が就任して市役所が開庁した。京都市はこの日を自治記念日としている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-jichi
+  - text: 平安京の中心だった大内裏は現在の市街地の北西寄りにあたり、朱雀大路は現在の千本通にあたるなど、都の骨格は現在の町並みに残っている。一方で右京は湿地が多く人が住みにくかったため、人々は左京へ移り、都市の発展は東側に偏った。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-kyoto-kodomo
+  - text: 京都市の地方公共団体コードは261009である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - d-cap-jlis-kyoto
+  column:
+    title: 一つの詔が動かした三つの名前
+    text: 794年11月8日の詔は、一度に三つの名前を動かした。新京は「平安京」と名付けられ、国名は「山背国」から「山城国」へ改められ、そして近江の「古津」は先帝の旧都として「大津」に戻された。いま京都市の名に残っているのは宮都の名「平安京」ではなく、都そのものを指す「京都」の方だが、その出発点はこの日の命名にある。
+    sources:
+    - d-cap-kyoto-nenpyo
+    - d-cap-heian-edict
+  relations:
+  - pref/26
+  - muni/25-大津市
+  unknowns:
+  - 『日本後紀』の詔文は散逸した本文の逸文としての引用経由でしか確認しておらず、伝存形態の詳細は未確認である。
+  - 平安京の選地にまつわる将軍塚の伝承などは、今回参照した市公式資料では確認できなかったため収録していない。
+  - 「京都」が固有名詞として平安京を指すようになった過程の詳細は、都道府県レコード（pref/26）側の調査に委ね、本レコードでは平安京の命名と市制施行以降を中心に記録した。
+  updated: '2026-11-13'
+- id: muni/26-八幡市
+  code: '262102'
+  names:
+    ja: 八幡市
+    reading: やわたし
+    aliases:
+    - 八幡町
+    - 都々城村
+    - 有智郷村
+    - 男山
+  user_terms:
+  - 八幡
+  - やわた
+  - 八幡市の名前の由来
+  - 石清水八幡宮のまち
+  - 男山のふもと
+  naming_type: 一部の地名（石清水八幡宮の門前町の名を継承）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、男山に鎮座する石清水八幡宮の門前町「八幡」に由来する。八幡市総合計画によれば、貞観元年（859年）に八幡神が九州から移座し、翌年に男山へ石清水八幡宮が建立されて以来、この地はその門前町として発展した。明治22年（1889年）に八幡町が生まれ、昭和29年（1954年）に都々城村・有智郷村と合併、昭和52年（1977年）11月1日に市制を施行して八幡市となった。
+  first_attestation:
+    era: 貞観2年
+    year_western: 860
+    document: 石清水八幡宮の建立（八幡市総合計画の記述）
+    note: 地名「八幡」は八幡宮に由来するため、その建立の年を名の成立の目安とした。建立を伝える原資料そのものは本バッチでは未確認で、市の総合計画の記述に基づく
+  claims:
+  - text: 貞観元年（859年）、国家（平安京）の平安を守るため九州から八幡神が移座し、その翌年に男山に石清水八幡宮が建立された、と八幡市の総合計画が記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-yawata-plan
+  - text: 石清水八幡宮の建立以来、八幡はその門前町として発展した、と八幡市の総合計画が記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-yawata-plan
+  - text: 江戸時代前期には、石清水八幡宮の社僧で寛永の三筆の一人とされる松花堂昭乗が文人たちと交流して町の名を高め、「八幡名物」や松花堂弁当の名の由来となった、と八幡市の総合計画が記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-yawata-plan
+  - text: 明治22年（1889年）の町村制施行で八幡町・都々城村・有智郷村が形成され、昭和29年（1954年）にこの3町村が合併して新しい八幡町となった、と八幡市の総合計画が記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-yawata-plan
+  - text: 昭和52年（1977年）11月1日、八幡町は市制を施行して八幡市が誕生した、と八幡市の総合計画が記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-yawata-plan
+  - text: 八幡市の地方公共団体コードは262102である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 弁当の名になった社僧のまち
+    text: 「八幡」という地名は、八幡神をまつる神社のある土地に各地で生まれた。京都府八幡市の場合は、その本家の一つ、石清水八幡宮のおひざ元である。江戸時代前期、この宮の社僧だった松花堂昭乗は、書・画・茶の湯・和歌に通じた文化人で、彼の名を冠した「松花堂弁当」は今や全国の料亭で使われる言葉になった。昭乗が好んだ四つ仕切りの漆器の弁当箱が、その始まりとされる。まちの名は神社から、食文化の言葉はその社僧から――どちらも男山のふもとの門前町から生まれた。
+    sources:
+    - p2-yawata-plan
+  relations:
+  - pref/26
+  unknowns:
+  - 石清水八幡宮の建立を伝える原資料（縁起類）は本バッチでは未確認で、主張は市の総合計画の記述に基づく
+  - 「八幡」の読みが「やわた」となった経緯・時期は本バッチでは確認できなかった
+  updated: '2026-11-13'
+- id: muni/26-南丹市
+  code: '262137'
+  names:
+    ja: 南丹市
+    reading: なんたんし
+    aliases: []
+  user_terms:
+  - 南丹とは丹波の南という意味か
+  - 園部・八木・日吉・美山が合併した市
+  - 南丹市の名前はどうやって決まったか
+  - 口丹波という呼び方もある
+  naming_type: 合併新設
+  prefecture: 京都府
+  homonyms: []
+  summary: 南丹市は2006（平成18）年1月1日、船井郡園部町・八木町・日吉町と北桑田郡美山町の4町が合併して誕生した。市名の「南丹」は、丹波地方の南部を指す地域名で、1965年ごろから行政用語としても使われてきた言葉である。新市の名称は公募され、合併協議会の小委員会の投票で「南丹市」が最多得票を得て決定した。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 園部町・八木町・日吉町・美山町合併協議会による新市名称の決定にもとづく市の発足（2006年1月1日）
+    note: 市名としての初出。地域名としての「南丹」はそれ以前から行政用語として使われていた。
+  claims:
+  - text: 南丹市の市勢要覧によれば、平成18年（2006年）1月1日、園部町・八木町・日吉町・美山町の4町が合併して南丹市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-nantan-youran
+    - p6-uub-nantan
+  - text: 国土交通省の調査報告書は、南丹地域を「京都府と兵庫県にまたがる『丹波』の南部（現在の南丹市、亀岡市、京丹波町）を含む地域」と位置づけており、「南丹」は丹波地方の南部を指す地域名である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-mlit-nantan
+  - text: 「南丹」という呼称は、1965（昭和40）年ごろより行政用語として使われてきたとされ、現在は京都府の地域区分の一つとして、亀岡市・南丹市・京丹波町の地域を指す。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p6-nantan-wiki
+  - text: 合併協議会の資料によれば、新市の名称は公募され、新市建設計画策定小委員会の投票では「南丹市」が10票で最多となり、「西京都市」6票、「京丹波市」4票、「京南丹市」3票などが続いた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-nantan-kyogikai
+  - text: 合併協議は当初、京北町・丹波町・瑞穂町・和知町を含む北桑田・船井地域の8町規模で検討されたが、丹波町・瑞穂町・和知町が離脱して後に京丹波町となり、残る4町での合併となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-kyoto-gappei
+  - text: 総務省「地方公共団体コード一覧」では、南丹市のコードは262137とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: あと一歩で「西京都市」だった
+    text: 南丹市の名前を決めた小委員会の投票では、「南丹市」10票に次いで「西京都市」が6票、「京丹波市」が4票を集めた。丹波を前面に出す案も有力だったが、この時点で兵庫県にはすでに丹波市（2004年誕生）があった。「京丹波市」にも「京南丹市」にも「京」が付くのは、京都の丹波であることを示す工夫である。結局選ばれた「南丹」は、合併前から行政の地域区分として使われてきた由緒ある広域名だった。なお、この地域は昔から「口丹波（くちたんば）」とも呼ばれ、今もその呼び名を使う人が少なくないという。
+    sources:
+    - p6-nantan-kyogikai
+    - p6-nantan-wiki
+  relations:
+  - pref/26
+  unknowns:
+  - 新市名称の公募に応募された総件数は、合併協議会資料の確認範囲では特定できなかった。
+  - 「南丹」が行政用語として最初に用いられた正確な年・機関は未確認（1965年ごろという以上の特定はできていない）。
+  updated: '2026-11-13'
+- id: muni/26-向日市
+  code: '262081'
+  names:
+    ja: 向日市
+    reading: むこうし
+    aliases:
+    - 向日町
+    - 向神社
+    - 向日明神
+  user_terms:
+  - 向日
+  - むこう
+  - 向日市の名前の由来
+  - 向日神社のまち
+  - 激辛のまち
+  naming_type: 一部の地名（向日神社・向日丘陵に由来する古地名を継承）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、向日丘陵の南端に鎮座する向日神社に由来する古い地名「向日」を受け継ぐ。向日市公式サイトによれば、向日神社は奈良時代に創建されたと伝えられる古社で、『延喜式』神名帳には「向神社」とみえ、建治元年（1275年）に「向日神社」と改称した。その門前に天正20年（1592年）、豊臣秀吉の認可で向日町のもとになる新町が開かれた。昭和47年（1972年）10月1日に向日町が市制を施行して向日市となった。なお長岡京の王宮の中枢部は、現在の向日市域に置かれていた。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『延喜式』神名帳（「向神社」の記載）
+    note: 向日市公式サイトが、向日神社の前身が延喜式神名帳に記される古社であるとして紹介するもの。「向日」の名の古い用例として神社名に求めた。原典そのものは本バッチでは未確認のため市の紹介として扱い、西暦年は特定せず null とした
+  claims:
+  - text: 向日神社は奈良時代に創建されたと伝えられ、『延喜式』神名帳に記される古社で、元は向日神を祀る上ノ社と火雷神を祀る下ノ社という別の神社であった、と向日市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 建治元年（1275年）に、火雷神社を併せ祀る社が「向日神社」と社名を改めた、と向日市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 向日市の前身となった向日町は向日神社の門前に形成された町で、その成立は天正20年（1592年）に豊臣秀吉が向日明神（向日神社）前に新町を造ることを認めたことに始まる、と向日市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 乙訓郡の郡衙は、現在の向日市鶏冠井町付近にあったと推定されている、と向日市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 長岡京の王宮の中枢部は、現在の向日市鶏冠井町を中心とする市域に構えられていた、と向日市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 向日丘陵には、古墳時代前期に五塚原古墳・元稲荷古墳・寺戸大塚古墳など100メートル前後の大首長の墓が次々に築かれた、と向日市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 昭和47年（1972年）10月1日、向日町は市制を施行して向日市となった
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p2-muko-wiki
+  - text: 向日市の地方公共団体コードは262081である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「長岡京」の心臓部は、向日市にあった
+    text: 延暦3年（784年）に桓武天皇が遷した長岡京は、市名にその名をいただく長岡京市ではなく、隣の向日市の市域に王宮の中枢部があった。向日市公式サイトによれば、長岡京の宮殿の中心は現在の向日市鶏冠井町を中心とする一帯に構えられ、条坊は桂川の縁辺部まで敷かれていたという。つまり「長岡京市」という市名の由来の都の心臓部は、市境の向こう側にある。向日市自身の名は、その長岡京よりもさらに古い層――奈良時代創建と伝えられる向日神社の名に由来する。都の記憶は市の名に残らなかったが、丘の上の古社の名がまちの名として残った。
+    sources:
+    - p2-muko-history
+  relations:
+  - pref/26
+  - muni/26-長岡京市
+  unknowns:
+  - 「向日」の語源（日に向かう丘陵の意とする説など）は、市公式の歴史解説では明示されておらず、本バッチでは専門辞典での裏付けが取れなかった
+  - 向日神社の創建を「奈良時代」とする伝えの原資料は未確認
+  updated: '2026-11-13'
+- id: muni/26-城陽市
+  code: '262072'
+  names:
+    ja: 城陽市
+    reading: じょうようし
+    aliases:
+    - 城陽町
+    - 久津川村
+    - 寺田村
+    - 富野荘村
+    - 青谷村
+  user_terms:
+  - 城陽
+  - じょうよう
+  - 城陽市の名前の由来
+  - 五里五里のさと
+  naming_type: 合併新設
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、昭和26年（1951年）の合併で生まれた合成名である。久世郡久津川村・寺田村・富野荘村と綴喜郡青谷村が合併して城陽町が発足する際、町名は公募で選ばれた。城陽市公式サイトは、「城陽」は山城の「城」と、日に向かっている方という意味の「陽」を組み合わせたもので、山城国の南を指す名だと説明する。昭和47年（1972年）5月3日に市制を施行して城陽市となった。
+  first_attestation:
+    era: 昭和26年
+    year_western: 1951
+    document: 城陽町発足時の町名（公募による選定）
+    note: 合併新設名のため、「城陽」の地名としての使用は1951年4月1日の城陽町発足が初出。それ以前にこの一帯を指す「城陽」の用例は確認していない
+  claims:
+  - text: 城陽という地名は、山城の「城」と、日に向かっている方という意味の「陽」を組み合わせたもので、「陽」は中国でも縁起のよいことばとされている、と城陽市公式サイトが説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-joyo-city
+  - text: 昭和26年（1951年）4月1日、久世郡の久津川村・寺田村・富野荘村と綴喜郡の青谷村が合併して久世郡城陽町が発足し、町名の「城陽」は公募で選ばれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p2-joyo-localhistoria
+  - text: 「城陽」は山城の「城」と日に向かう方角を意味する「陽」を合わせて、山城国の南を指す名として付けられた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p2-joyo-localhistoria
+    - p2-joyo-city
+  - text: 昭和47年（1972年）5月3日、城陽町は市制を施行して城陽市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-joyo-city
+  - text: 城陽市は京都と奈良のほぼ中間に位置し、京都から五里・奈良から五里であることから「五里五里（ごりごり）のさと」と呼ばれている、と城陽市公式サイトが紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-joyo-city
+  - text: 城陽市の地方公共団体コードは262072である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡をまたいだ合併が、公募の合成名を生んだ
+    text: 城陽は、古くからの地名ではない。昭和26年（1951年）、木津川の東岸に散らばっていた4つの村が、久世郡と綴喜郡という郡の境を越えて合併したとき、どの村の名も名乗らない新しい名が必要になり、公募で選ばれたのが「城陽」だった。山城国の「城」に、日に向かう南を意味する縁起のよい「陽」を合わせ、山城国の南のまちであることを示す名である。昭和30年（1955年）に制定された市章も、「城」の文字と太陽のイメージを組み合わせたもので、これも公募で決まったという。名も紋も、合併で生まれたまちが自分たちで選んだものである。
+    sources:
+    - p2-joyo-localhistoria
+    - p2-joyo-city
+  relations:
+  - pref/26
+  - muni/26-木津川市
+  unknowns:
+  - 1951年の公募に応募された町名案の数や、他の候補名は本バッチでは確認できなかった
+  - 「城陽」の公募・選定の経緯を記した城陽町・城陽市の一次資料（議事録等）は未確認で、主張は郷土史サイトと市公式の説明に基づく
+  updated: '2026-11-13'
+- id: muni/26-宇治市
+  code: '262048'
+  names:
+    ja: 宇治市
+    reading: うじし
+    aliases:
+    - 莵道
+    - 宇遅
+    - 兎道
+  user_terms:
+  - 宇治の名前の由来
+  - 宇治茶の宇治はどこから
+  - 源氏物語の宇治
+  - 平等院のある市の名前
+  naming_type: 合併新設
+  prefecture: 京都府
+  homonyms: []
+  summary: 宇治は古代の山城国の地名で、『古事記』には「宇遅」、『日本書紀』には「莵道」と記され、宇治川の谷口に開けた交通の要衝だった。語源には大和から見た「内（うち）」とする説と、三方を山に囲まれた地形によるとする説がある。1951年、宇治町・東宇治町・槇島村・小倉村・大久保村が合併して宇治市が誕生した。
+  first_attestation:
+    era: 奈良時代
+    year_western: 720
+    document: 日本書紀
+    note: 宇治市公式資料によれば『日本書紀』には「莵道」と記され、『古事記』には「宇遅」と記される。地名の初出は記紀のこれらの表記による
+  claims:
+  - text: 宇治市公式資料によれば、『古事記』には「宇遅」、『日本書紀』には「莵道」と記され、『万葉集』には「氏」や「兎道」などの字があてられている（地方公共団体コードは262048）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-uji-city-shisei
+    - b-cap-chiba-soumu-code
+  - text: 語源について宇治市公式資料は、宇治は「内（うち）」の意味で、王族の宮城内あるいは当時の巨椋池南東の陸化したあたりを「内」と称したとする考えを紹介する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l4-uji-city-shisei
+  - text: 別の宇治市公式資料は、「ウジ」には「三方を山に囲まれた地域」という意味があり、宇治の地名もその地形に由来するともいわれると紹介しており、市の資料の間でも説明は一通りではない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l4-uji-city-toshi
+    - l4-uji-city-enkaku
+  - text: 日本歴史地名大系は、『山城国風土記』の逸文にこの地について「本の名は許乃国（このくに）」とあることを伝える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l4-uji-kotobank
+  - text: 平安時代の『和名類聚抄』には、宇治郡と久世郡の両方に宇治郷の名が見え、宇治川の東岸と西岸に同名の郷があったと宇治市歴史的風致維持向上計画は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-uji-city-fuchi
+  - text: 宇治は古くから水陸交通の要衝で、平安時代には藤原氏の荘園・別業地として栄え、藤原氏の別業を寺院に改めた平等院が残ると宇治市公式資料は述べる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-uji-city-shisei
+  - text: 1951年（昭和26年）3月1日、久世郡宇治町・槇島村・小倉村・大久保村と宇治郡東宇治町の2町3村が合併して宇治市が誕生し、市役所は旧宇治町役場に置かれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l4-uji-city-enkaku
+  column:
+    title: 宇治の前にあった名――「許乃国」
+    text: 『山城国風土記』は散逸してしまったが、その断片（逸文）には、宇治のあたりについて「本の名は許乃国（このくに）」とあったと伝えられる。いま全国に知られる「宇治」の名の陰に、もう一つの古い地名が眠っていたことになる。その後、この地は『源氏物語』の「宇治十帖」の舞台となり、平等院とともに「宇治」の名は文学と景観の地名として定着していった。
+    sources:
+    - l4-uji-kotobank
+    - l4-uji-city-shisei
+  relations:
+  - pref/26
+  unknowns:
+  - 語源は「内（うち）」説と「三方を山に囲まれた地形」説のいずれとも決められず、宇治市公式資料の間でも説明が分かれている
+  - 『古事記』の「宇遅」が皇子名（菟道稚郎子）に由来する表記である点を含め、記紀の表記が地名そのものを指す範囲の厳密な検証は未了
+  updated: '2026-11-13'
+- id: muni/26-宮津市
+  code: '262056'
+  names:
+    ja: 宮津市
+    reading: みやづし
+    aliases:
+    - 宮津郷
+    - 宮津町
+    - 府中
+  user_terms:
+  - 宮津
+  - みやづ
+  - 宮津市の名前の由来
+  - 天橋立のまち
+  naming_type: 一部の地名（古代の郷名「宮津郷」を継承）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、奈良時代には成立していた古代の郷名「宮津」に由来する。宮津市公式サイトによれば、平城宮跡出土の木簡に「宮津郷烏賊二斤太」と記され、『和名類聚抄』にも「宮津郷」とある。和銅6年（713年）に丹後国が置かれると、国分寺と国府は現在の宮津市府中地区に置かれたとされ、中世以降も丹後の中心地・港町として栄えた。昭和29年（1954年）に宮津町ほか7村が合併して宮津市が誕生した。
+  first_attestation:
+    era: 奈良時代
+    year_western: null
+    document: 平城宮跡出土木簡（「宮津郷烏賊二斤太」の記載）
+    note: 宮津市公式サイトが「奈良時代には『宮津』という地名が成立していたことがわかる」資料として紹介するもの。木簡そのものは本バッチでは未確認のため市の紹介として扱い、西暦年は特定せず null とした
+  claims:
+  - text: 平城宮跡出土の木簡に「宮津郷烏賊二斤太」と記されたものがあり、奈良時代には「宮津」という地名が成立していたことがわかる、と宮津市公式サイトが紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-miyazu-city
+  - text: 平安時代の地名を記した『和名類聚抄』には「宮津郷」として記載されている、と宮津市公式サイトが紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-miyazu-city
+  - text: 和銅6年（713年）に丹波国から分かれて丹後国が置かれ、その頃建てられた国分寺は宮津市府中地区にあり、国府もこの地にあったとされる、と宮津市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-miyazu-city
+  - text: 中世においても宮津（府中）は丹後国の政治・経済・文化の中心地であり、守護所の所在地であったと考えられている、と宮津市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-miyazu-city
+  - text: 宮津は天然の良港で、北は酒田・松前、西南は九州・四国・大阪に至る船が入港する港町として栄えた、と宮津市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-miyazu-city
+  - text: 昭和29年（1954年）6月に宮津町と栗田・吉津・府中・日置・世屋・養老・日ヶ谷の各村が合併して宮津市が誕生し、同31年（1956年）9月に由良村を編入した、と宮津市公式サイトが解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-miyazu-city
+  - text: 宮津市の地方公共団体コードは262056である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 国府のあった場所は、今も「府中」と呼ばれている
+    text: 宮津市の中心市街地から天橋立をはさんだ北側に、「府中」という地区がある。和銅6年（713年）に丹後国が置かれたとき、国分寺と国府はこの府中の地に設けられたとされ、中世には守護所も置かれて、宮津（府中）は丹後の政治の中心だった。江戸時代に城下町と港町の中心が南の宮津へ移った後も、「国府のあった場所」を意味する「府中」の名は地名として残り続け、昭和29年（1954年）の合併では府中村として宮津市の一部になった。宮津のまちの重心は移っても、千三百年前の国の都の記憶は、小さな地名の中に残っている。
+    sources:
+    - p2-miyazu-city
+  relations:
+  - pref/26
+  unknowns:
+  - 「宮津」の「宮」が国分寺・国府にちなむという語源説は、市公式サイトの解説では明示されておらず、本バッチでは専門辞典での裏付けが取れなかった
+  - 平城宮跡出土木簡そのものは未確認で、初出の主張は宮津市公式サイトの紹介に基づく
+  updated: '2026-11-13'
+- id: muni/26-木津川市
+  code: '262145'
+  names:
+    ja: 木津川市
+    reading: きづがわし
+    aliases:
+    - 木津町
+    - 加茂町
+    - 山城町
+    - 木津
+  user_terms:
+  - 木津川
+  - きづがわ
+  - 木津川市の名前の由来
+  - 木津のまち
+  naming_type: 合併新設
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、平成19年（2007年）の合併で生まれた新市名で、市域を流れる木津川の名を採ったものである。相楽郡木津町・加茂町・山城町の合併協議会が新市名を公募し、最終候補は「木津川」と「山城」の2案となり、「木津川市」が選ばれた。その核となる古地名「木津」は、藤原京・平城京の造営の際に大量の木材が陸揚げされた河港であったことから起こった名だと、辞典類は説明する。
+  first_attestation:
+    era: 平成19年
+    year_western: 2007
+    document: 木津川市発足時の市名（合併協議会の決定・官報告示）
+    note: 合併新設名としての初出は2007年3月12日の市発足。名の核である「木津」自体は古代の河港の名だが、本バッチではその文献上の初出は特定できなかった
+  claims:
+  - text: 平成19年（2007年）3月12日、相楽郡木津町・加茂町・山城町が合併して木津川市が生まれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p2-kizugawa-kotobank
+    - p2-kizugawa-uub
+  - text: 新市名は公募され、上位案から候補5点（木津川・京山城・恭仁京・南京都・山城）をへて最終候補が「木津川」と「山城」の2点となり、「木津川市」に決まった、と市区町村変遷情報データベースが記録している
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p2-kizugawa-uub
+  - text: 「木津」の名は、藤原京・平城京造営のため大量の木材が陸揚げされた港であるところから起こった、と『精選版日本国語大辞典』と『日本大百科全書』が説明している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p2-kizugawa-kotobank
+  - text: 木津は木津川舟運の河港で、古代には平城京の外港となり、奈良街道の要地として知られた、と『精選版日本国語大辞典』が説明している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p2-kizugawa-kotobank
+  - text: 木津川市の地方公共団体コードは262145である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: あと一歩だった「恭仁京市」
+    text: 木津川市の新市名公募では、最終候補の手前の5案に「恭仁京（くにきょう）」という名が残っていた。恭仁京は、平城京から長岡京へのあいだ、天平12年（740年）から数年間だけ都が置かれた地で、現在の木津川市加茂地区にあたる。もしこの名が選ばれていれば、長岡京市に続いて「幻の都」の名を持つ市がもう一つ生まれるところだった。最終的に選ばれたのは、3町を貫いて流れる川の名「木津川」。その「木津」の二字自体も、都づくりの木材を陸揚げした港の名であり、姿を変えて都の記憶を伝えている。
+    sources:
+    - p2-kizugawa-uub
+    - p2-kizugawa-kotobank
+  relations:
+  - pref/26
+  - muni/26-城陽市
+  unknowns:
+  - 新市名公募の応募総数と各候補の得点・投票の詳細は、合併協議会の一次資料では本バッチで確認できなかった
+  - 「木津」の文献上の初出は本バッチでは特定できなかった
+  - 恭仁京の位置（木津川市加茂地区）については辞典類の一般的な説明に拠り、専門資料での裏付けは今後の課題
+  updated: '2026-11-13'
+- id: muni/26-福知山市
+  code: '262013'
+  names:
+    ja: 福知山市
+    reading: ふくちやまし
+    aliases:
+    - 福智山
+    - 福地山
+    - 横山城
+    - 福知山町
+  user_terms:
+  - 福知山
+  - ふくちやま
+  - 福知山市の名前の由来
+  - 福知山城のまち
+  - 鬼のまち
+  naming_type: その他（明智光秀が改名した福智山城の城名に由来）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、明智光秀が名付けたとされる「福智山城」の城名に由来する。『日本歴史地名大系』によれば、天正7年（1579年）に光秀がこの地の横山城を落とし、城代を置いて福智山城と改名したのが「福知山」の始まりとされる。文献上の早い用例は天正9年（1581年）の津田宗及の日記に見える「福地山」で、当初は表記が揺れていた。昭和12年（1937年）に京都府で2番目の市となり、平成18年（2006年）に三和町・夜久野町・大江町を編入して現在の市域となった。
+  first_attestation:
+    era: 天正9年
+    year_western: 1581
+    document: 津田宗及『茶湯日記』（天王寺屋会記）
+    note: 『日本歴史地名大系』が「文献的には早い」用例として挙げるもので、表記は「福地山」。光秀とともに城を訪れた茶人・津田宗及の日記で、原典そのものは本バッチでは未確認のため、大系の解説として扱う
+  claims:
+  - text: 福知山の名は、天正7年（1579年）に丹波へ進攻した明智光秀がこの地の横山城を落城させ、家臣を城代に置いて福智山城と改名し近世的城塞に改修したのに始まるとされる、と『日本歴史地名大系』が解説している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p2-fukuchiyama-kotobank
+  - text: 文献的には、天正9年（1581年）4月10日に光秀とともにこの城を訪れた茶人・津田宗及の日記に「福地山」とみえるのが早い用例である、と『日本歴史地名大系』が紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p2-fukuchiyama-kotobank
+  - text: 「福智山」は富士山の古名であり、光秀の命名はそれによったともいわれるが、確かではない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - p2-fukuchiyama-kotobank
+  - text: 昭和12年（1937年）4月、福知山市は京都府で2番目の市として誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-fukuchiyama-kyoto-tokei
+  - text: 平成18年（2006年）1月1日、福知山市は三和町・夜久野町・大江町を編入し、現在の市域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-fukuchiyama-kyoto-tokei
+    - p2-fukuchiyama-kotobank
+  - text: 市北西部の大江山には、酒呑童子をはじめとする鬼の伝説が伝わり、市のイメージづくりにも用いられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - p2-fukuchiyama-kyoto-tokei
+  - text: 福知山市の地方公共団体コードは262013である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 落城させた城に付けた名が、まちの名になった
+    text: 福知山の中心にあった城は、もとは「横山城」と呼ばれていた。天正7年（1579年）、丹波を平定した明智光秀がこれを落とし、「福智山城」と改名したのがまちの名の起こりとされる。「福智山」は富士山の古名だともいわれるが、なぜ光秀がこの名を選んだのかは分かっていない。当時の記録では「福地山」と書かれることもあり、表記の揺れをへて「福知山」に落ち着いた。光秀が築いた福知山城の天守は明治に取り壊されたが、昭和61年（1986年）に市民の「瓦一枚運動」の寄附で再建され、今も城下の中心に立っている。
+    sources:
+    - p2-fukuchiyama-kotobank
+    - p2-fukuchiyama-kyoto-tokei
+  relations:
+  - pref/26
+  unknowns:
+  - 光秀が「福智山」と名付けた理由・命名の意図は資料では確定していない
+  - 「福智山」から「福知山」へ表記が変わった時期と経緯は、本バッチでは専門資料で確認できなかった
+  - 津田宗及の日記の原文は未確認で、初出の主張は『日本歴史地名大系』の解説に基づく
+  updated: '2026-11-13'
+- id: muni/26-綾部市
+  code: '262030'
+  names:
+    ja: 綾部市
+    reading: あやべし
+    aliases:
+    - 漢部
+  user_terms:
+  - 綾部の綾は織物の綾のことか
+  - グンゼ発祥の地
+  - 何鹿郡は「いかるが」と読む
+  - 綾部はなぜ綾部というのか
+  naming_type: 一部の地名
+  prefecture: 京都府
+  homonyms: []
+  summary: 綾部の名は、古代の丹波国何鹿郡の郷名「漢部（あやべ）」に由来する。『和名類聚抄』にみえる漢部郷は現在の綾部市中心部に比定され、その名は、綾織りを職とする渡来系集団・漢氏の部民（漢部）がこの地に居住したことに由来するとされる。表記は近世まで「漢部」と書かれ、後に同音の「綾部」に改められた。古代の織物の部民の名が、明治期の製糸業の興隆を経て、現在の市名に受け継がれている。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『和名類聚抄』丹波国何鹿郡の郷「漢部」（高山寺本。刊本は「後部」とするが誤写とされる）
+    note: 郷名としての初出。『和名類聚抄』の成立は10世紀半ばとされるが、本レコードでは年を特定しない。
+  claims:
+  - text: 日本歴史地名大系の解説に基づく地名資料によれば、『和名類聚抄』にみえる丹波国何鹿郡16郷の一つ・漢部郷は、現在の綾部市の中心部（旧綾部町域）に比定される。刊本は「後部」とするが誤写とされ、高山寺本は「漢部」と記す。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p6-ayabe-chimei
+  - text: 「綾部（漢部）」の名は、綾織りを職とする漢部、すなわち渡来系の有力氏族・漢氏の支配下にあった部民がこの地に居住したことに由来するとされる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p6-ayabe-chimei
+  - text: 同資料によれば、『日本三代実録』には、貞観8年（866年）に節婦として位を与えられた「丹波国何鹿郡人漢部福刀自」、仁和3年（887年）の「漢部妹刀自」が見え、「漢部」が氏（うじ）の名としても使われていた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - p6-ayabe-chimei
+  - text: 「綾部」の表記は、江戸時代の初期までは「漢部」と記されており、その後に「綾部」へ改められた。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p6-ayabe-wiki
+  - text: 1950年8月1日、何鹿郡の綾部町・中筋村・吉美村・西八田村・東八田村・山家村・口上林村が合併して綾部市が発足した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - p6-uub-ayabe
+  - text: グンゼ株式会社の公式沿革によれば、1896（明治29）年、創業者・波多野鶴吉が地域産業の振興を目的に、京都府何鹿郡（現・綾部市）に郡是製絲株式会社（現・グンゼ）を設立した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p6-gunze-history
+  - text: 総務省「地方公共団体コード一覧」では、綾部市のコードは262030とされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 綾の里は、企業の名にも残った
+    text: 綾部の「綾」は、織り目の模様を持つ高級な絹織物のことである。古代、この地には渡来系の漢氏に属して綾織りを担う人々（漢部）が住み、その職能集団の名が郷の名になった。千年以上を経た明治29年（1896年）、地元の養蚕・製糸を立て直そうと波多野鶴吉らが興した会社は「郡是製絲」と名づけられた。「郡の方針」という意味で、社のあった郡は漢部郷のあった何鹿郡（いかるがぐん）である。現在のグンゼの発祥の地が綾部であるのは偶然ではなく、綾織りの部民の時代から続く「絹の土地」の記憶の上にある。古代の職能地名が近代産業に受け継がれた、息の長い地名である。
+    sources:
+    - p6-ayabe-chimei
+    - p6-gunze-history
+  relations:
+  - pref/26
+  unknowns:
+  - 「漢部」から「綾部」への表記の変更がいつ・どのような経緯で行われたかは、江戸時代初期まで「漢部」と書かれたという以上の特定はできなかった。
+  - 漢部郷の名が漢氏の部民に由来するとする説について、一次史料レベルでの直接の裏づけは本バッチでは確認していない。
+  updated: '2026-11-13'
+- id: muni/26-舞鶴市
+  code: '262021'
+  names:
+    ja: 舞鶴市
+    reading: まいづるし
+    aliases:
+    - 田辺
+    - 田辺城
+    - 舞鶴城
+    - 舞鶴町
+    - 東舞鶴市
+  user_terms:
+  - 舞鶴
+  - まいづる
+  - 舞鶴市の名前の由来
+  - 軍港のまち
+  - 赤れんがのまち
+  naming_type: 藩名（田辺藩が明治2年に改称した舞鶴藩の名に由来）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名「舞鶴」は、もとの城下町「田辺」が明治2年（1869年）に改められた名である。舞鶴市郷土資料館によれば、紀伊や山城にも「田辺」があるため明治政府が地名の変更を命じ、藩内で相談のうえ、田辺城の別名「舞鶴城」（ぶかくじょう）を訓読みして「舞鶴」とし、田辺藩は舞鶴藩となった。現在の舞鶴市は、昭和18年（1943年）に（旧）舞鶴市と東舞鶴市が合併して成立した。
+  first_attestation:
+    era: 明治2年
+    year_western: 1869
+    document: 舞鶴藩知事辞令書（舞鶴市郷土資料館所蔵）
+    note: 市郷土資料館が「初めて『舞鶴』が使われた文書」として紹介する、10代藩主・牧野弼成の藩知事辞令書。原資料そのものは本バッチでは未確認のため、資料館の紹介として扱う
+  claims:
+  - text: 「舞鶴」という名がついたのは明治2年（1869年）からで、それまではこの地は「田辺」と呼ばれていた、と舞鶴市郷土資料館が解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-maizuru-museum
+  - text: 改称のきっかけは、紀伊（現在の和歌山県）にも山城（現在の京都府南部）にも「田辺」という地名があることから、明治政府が地名の変更を命令したことである、と市郷土資料館が解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-maizuru-museum
+  - text: 藩内で相談し、田辺城の別名「舞鶴城」（ぶかくじょう）を訓読みで採用して「舞鶴」とし、田辺藩は舞鶴藩となった、と市郷土資料館が解説している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-maizuru-museum
+  - text: 田辺城は天正8年（1580年）に丹後を与えられた細川藤孝（幽斎）が築いた城である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p2-maizuru-wiki
+  - text: 現在の舞鶴市は、昭和18年（1943年）5月に（旧）舞鶴市と東舞鶴市が合併して成立した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p2-maizuru-wiki
+  - text: 舞鶴市の地方公共団体コードは262021である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 音読みの城の雅称を、訓読みにしてまちの名にした
+    text: 田辺城には「舞鶴城」という雅な別名があったが、その読みは「ぶかくじょう」という音読みだった。明治2年（1869年）、同名の「田辺」が各地にあることを理由に政府から改名を命じられた藩は、この別名をあえて訓読みにして「舞鶴（まいづる）」と読ませ、新しい藩の名とした。10代藩主・牧野弼成に下された「舞鶴藩知事」の辞令書が、「舞鶴」の名の初めの文書として今も市郷土資料館に伝わる。舞鶴城という別名自体がなぜ生まれたかは、資料館の解説でも触れられておらず、はっきりしない。なお、軍港として知られるようになるのは明治34年（1901年）に東側の地区（のちの東舞鶴市）に海軍鎮守府が置かれてからで、西の城下町とは別の歩みをへて、昭和18年（1943年）に一つの舞鶴市になった。
+    sources:
+    - p2-maizuru-museum
+    - p2-maizuru-wiki
+  relations:
+  - pref/26
+  unknowns:
+  - 田辺城の別名「舞鶴城」の由来（鶴が舞う姿に似ていたから等の説）は、市郷土資料館の解説では明示されておらず、本バッチでは裏付けが取れなかった
+  - 「舞鶴藩知事辞令書」の原資料そのものは未確認で、初出の主張は資料館の紹介に基づく
+  updated: '2026-11-13'
+- id: muni/26-長岡京市
+  code: '262099'
+  names:
+    ja: 長岡京市
+    reading: ながおかきょうし
+    aliases:
+    - 長岡町
+    - 長岡京
+    - 長岡
+  user_terms:
+  - 長岡京
+  - ながおかきょう
+  - 長岡京市の名前の由来
+  - 新潟の長岡と区別
+  naming_type: 文献から命名（往時の都「長岡京」にちなむ命名）
+  prefecture: 京都府
+  homonyms: []
+  summary: 市名は、延暦3年（784年）から10年間、都が置かれた「長岡京」にちなむ。もとは乙訓郡長岡町で、昭和47年（1972年）の市制施行にあたり市名が検討され、長岡町市名選考委員会が同年5月に「長岡京市」を内定した。京都府は同年9月、いったん「長岡町を長岡市とする」告示と、同時に「長岡市を長岡京市と名称変更する」条例の許可を告示するという二段構えの手続きを取り、10月1日に長岡京市が発足した。なお長岡京の王宮の中枢部は、現在の長岡京市域ではなく隣の向日市域にあったとされる。
+  first_attestation:
+    era: 延暦3年
+    year_western: 784
+    document: 『続日本紀』（長岡京への遷都の記事）
+    note: 長岡京の名の初出は遷都を伝える『続日本紀』の記事に求められるのが通例だが、原典そのものは本バッチでは未確認のため、遷都の年をもって記す。向日市公式サイトは長岡京期の詔として『続日本紀』延暦6年（787年）10月8日条の「朕、水陸の便なるをもって都をこの邑に遷す」を紹介している
+  claims:
+  - text: 長岡京は延暦3年（784年）に桓武天皇が平城京から遷都した都で、延暦13年（794年）に平安京へ遷都するまでの10年間、都が置かれた
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - p2-nagaokakyo-wiki
+  - text: 昭和47年（1972年）5月、長岡町市名選考委員会が、市名を「長岡京市」とすることを内定した、と長岡京市公式サイトの年表が記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-nagaokakyo-nenpyo
+  - text: 昭和47年（1972年）6月29日の臨時町議会で、長岡町の単独による市制施行が賛成多数で可決された、と長岡京市公式サイトの年表が記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-nagaokakyo-nenpyo
+  - text: 昭和47年（1972年）9月16日、京都府は10月1日から長岡町を長岡市とする告示と、長岡市を長岡京市と名称変更する条例の許可の告示を行い、10月1日の市制施行により長岡京市となった、と長岡京市公式サイトの年表が記録している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-nagaokakyo-nenpyo
+  - text: 長岡京の王宮の中枢部は現在の向日市鶏冠井町を中心とする地域に構えられていた、と向日市公式サイトが解説しており、市名の由来となった都の中心は長岡京市の市域の外にある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - p2-muko-history
+  - text: 長岡京市の地方公共団体コードは262099である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: いったん「長岡市」になってから「長岡京市」になった
+    text: 1972年10月1日の市制施行の日、長岡町は法令上いったん「長岡市」として発足し、同時に名称変更の条例で「長岡京市」へ改まるという、二段構えの手続きを踏んだ。市の公式年表には、京都府が「長岡町を長岡市とする告示」と「長岡市を長岡京市と名称変更する条例の許可」を同じ9月16日に告示したことが残っている。単独で市になる町は原則として町名を引き継ぐため、まず「長岡市」となり、条例で改名する形を取ったのである。その名が新潟県の長岡市と重なることも、「長岡京」という往時の都の名を選ぶ理由の一つになったとされる。わずか10年の都だった長岡京の名は、千年以上の時をへて、自治体の名としてよみがえった。
+    sources:
+    - p2-nagaokakyo-nenpyo
+    - p2-nagaokakyo-wiki
+  relations:
+  - pref/26
+  - muni/26-向日市
+  unknowns:
+  - 市名選考委員会が「長岡京市」を内定した理由の公式な記録（新潟県長岡市との同名回避を明記した資料）は本バッチでは確認できなかった
+  - 地名「長岡」そのものの語源（長く続く丘陵に由来する説など）は、本バッチでは専門辞典での裏付けが取れなかった
+  - 『続日本紀』の遷都記事の原文は未確認
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  d-cap-heian-edict:
+    label: コトバンク「平安京」（『精選版 日本国語大辞典』。『日本後紀』逸文の詔文を引用）
+    url: https://kotobank.jp/word/%E5%B9%B3%E5%AE%89%E4%BA%AC-128777
+  d-cap-jlis-kyoto:
+    label: 地方公共団体情報システム機構（J-LIS）「京都府内市町村」（地方公共団体コード住所一覧）
+    url: https://www.j-lis.go.jp/spd/code-address/kinki/cms_14714183.html
+  d-cap-kyoto-aramashi:
+    label: 京都市「京都市のあらまし（京都市のあゆみ）」
+    url: https://www.city.kyoto.lg.jp/sogo/page/0000015599.html
+  d-cap-kyoto-fu-tokei:
+    label: 京都府統計書「くらし」（京都府のシンボル・なりたち）
+    url: https://www.pref.kyoto.jp/tokei/yearly/kurashi/documents/kurashi2025.pdf
+  d-cap-kyoto-jichi:
+    label: 京都市「京都市自治記念日について」
+    url: https://www.city.kyoto.lg.jp/sogo/page/0000131449.html
+  d-cap-kyoto-kodomo:
+    label: 京都市「こども情報館―みてみよう歴史」
+    url: https://www.city.kyoto.lg.jp/sogo/page/0000097185.html
+  d-cap-kyoto-nenpyo:
+    label: 京都市「京都の歴史年表―都市のすがた」
+    url: https://www2.city.kyoto.lg.jp/html/somu/rekishi/fm/nenpyou/toshi_nenpyo.html
+  l4-uji-city-enkaku:
+    label: 宇治市「沿革（宇治のあゆみ・市政主要年譜）」（宇治橋の架橋、1951年3月1日の2町3村合併による市制施行）
+    url: https://www.city.uji.kyoto.jp/uploaded/attachment/43166.pdf
+  l4-uji-city-fuchi:
+    label: 宇治市「宇治市歴史的風致維持向上計画 第1章」（『和名抄』に宇治郡・久世郡の両方に宇治郷が見えること）
+    url: https://www.city.uji.kyoto.jp/uploaded/attachment/51390.pdf
+  l4-uji-city-shisei:
+    label: 宇治市「市勢要覧 第1章 市勢（沿革）」（『古事記』「宇遅」・『日本書紀』「莵道」の表記と「内」の意味とする説、1951年の市制施行）
+    url: https://www.city.uji.kyoto.jp/uploaded/attachment/49726.pdf
+  l4-uji-city-toshi:
+    label: 宇治市「都市計画総括図（宇治市の概要・沿革）」（「ウジ」には三方を山に囲まれた地域という意味があるとする説）
+    url: https://www.city.uji.kyoto.jp/uploaded/attachment/51489.pdf
+  l4-uji-kotobank:
+    label: コトバンク「宇治市」（日本歴史地名大系。『山城国風土記』逸文の「本の名は許乃国」）
+    url: https://kotobank.jp/word/%E5%AE%87%E6%B2%BB%E5%B8%82-34456
+  p2-fukuchiyama-kotobank:
+    label: コトバンク「福知山市」（平凡社『日本歴史地名大系』。福知山の名は天正7年に明智光秀が横山城を福智山城と改名したのに始まるとされ、文献上の早い用例は天正9年の津田宗及の日記の「福地山」と解説）
+    url: https://kotobank.jp/word/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82-124093
+  p2-fukuchiyama-kyoto-tokei:
+    label: 京都府政策企画部「地域分析レポート 福知山市」（2023年。1937年に京都府で2番目の市として誕生、2006年に三和町・夜久野町・大江町と合併、大江山の酒呑童子伝説）
+    url: https://www.pref.kyoto.jp/tokei/analysis/documents/chiikibunseki2023_01.pdf
+  p2-joyo-city:
+    label: 城陽市公式サイト「城陽市の概要」（城陽という地名は山城の「城」と日に向かう意味の「陽」を組み合わせたものと説明。昭和47年5月3日の市制施行にも言及）
+    url: https://www.city.joyo.kyoto.jp/0000000708.html
+  p2-joyo-localhistoria:
+    label: ローカルヒストリア「城陽市の歴史」（昭和26年4月1日に久津川村・寺田村・富野荘村・青谷村が合併して城陽町が発足し、町名は公募で選ばれたとする）
+    url: https://local-historia.jp/kyoto/joyo
+  p2-kameoka-bunkazai-plan:
+    label: 亀岡市「亀岡市文化財保存活用地域計画」（2022年。「亀山」の初見は天正5年の明智光秀書状、「亀岡」の使用は明治2年に政府から改称を命じられたのが始まりと記す）
+    url: https://www.city.kameoka.kyoto.jp/uploaded/attachment/29255.pdf
+  p2-kameoka-wiki:
+    label: Wikipedia「亀岡市」（明治2年の改称は伊勢亀山との混同回避のためとする説明、1955年の合併・市制施行の経緯）
+    url: https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B2%A1%E5%B8%82
+  p2-kameyama-mie-museum:
+    label: 亀山市歴史博物館「亀山こども歴史館：どうして亀山っていうの？」（三重県亀山市公式。百済の僧・日羅が献上した三匹の亀を山城・丹波・伊勢で逃がした地が「亀山」になったという言い伝えを紹介）
+    url: https://kameyamarekihaku.jp/kodomo/w_e_b/hanashi/omoshiroi/doushite/index.html
+  p2-kizugawa-kotobank:
+    label: コトバンク「木津」（小学館『精選版日本国語大辞典』は「藤原京・平城京造営のため大量の木材が陸揚げされた港であるところからその名がある」とし、『日本大百科全書』も同様の由来を記す）
+    url: https://kotobank.jp/word/%E6%9C%A8%E6%B4%A5-51031
+  p2-kizugawa-uub:
+    label: 市区町村変遷情報データベース「木津川市」（2007年3月12日に木津町・加茂町・山城町が合併して成立。新市名公募の上位案、候補5点、最終候補は木津川と山城で「木津川市」に決定した経過）
+    url: https://uub.jp/upd/c/1280.html
+  p2-kyotango-gappei-pdf:
+    label: 峰山町・大宮町・網野町・丹後町・弥栄町・久美浜町合併協議会「第7回合併協議会議事概要」（2002年12月24日、京丹後市公式サイト掲載。最終候補は北都市・丹後市・京丹後市で、投票の結果「京丹後市」30票。選定理由と、713年に丹波から分かれ「丹波の後ろ」で丹後となったという事務局説明を収録）
+    url: https://www.city.kyotango.lg.jp/material/files/group/4/g_a7th20021224.pdf
+  p2-kyotango-kyoto-gap:
+    label: 京都府「京丹後市設置までの取組み経過」（2004年4月1日に峰山町・大宮町・網野町・丹後町・弥栄町・久美浜町の合併により成立。名称公募と協議会での決定経過）
+    url: https://www.pref.kyoto.jp/gappei/kyotango.html
+  p2-maizuru-museum:
+    label: 舞鶴市郷土資料館（舞鶴ふるさと発見館）だより令和8年1月（舞鶴市公式。「舞鶴」の名は明治2年からで、田辺城の別名「舞鶴城」を訓読みで採用したと解説。舞鶴藩知事辞令書を紹介）
+    url: https://www.city.maizuru.kyoto.jp/kyouiku/0000014610.html
+  p2-maizuru-wiki:
+    label: Wikipedia「舞鶴市」（田辺城は天正8年に細川藤孝が築城、1943年に旧舞鶴市と東舞鶴市が合併して現在の舞鶴市が成立）
+    url: https://ja.wikipedia.org/wiki/%E8%88%9E%E9%B6%B4%E5%B8%82
+  p2-miyazu-city:
+    label: 宮津市公式サイト「市制施行2（宮津の歴史）」（平城宮跡出土木簡に「宮津郷」とあること、丹後国分寺・国府が府中地区にあったこと、1954年の市制施行）
+    url: https://www.city.miyazu.kyoto.jp/soshiki/1/4644.html
+  p2-muko-history:
+    label: 向日市公式サイト「向日市が歩んだ歴史」（向日神社は延喜式神名帳にみえる古社で1275年に向日神社と改称、向日町は天正20年に秀吉が向日明神門前に新町を認めたことに始まる、長岡京の王宮中枢部は現在の向日市域にあったと解説）
+    url: https://www.city.muko.kyoto.jp/site/rekishi/1045.html
+  p2-muko-wiki:
+    label: Wikipedia「向日市」（昭和47年10月1日に向日町が市制施行して向日市となった経緯）
+    url: https://ja.wikipedia.org/wiki/%E5%90%91%E6%97%A5%E5%B8%82
+  p2-nagaokakyo-nenpyo:
+    label: 長岡京市公式サイト「年表（現代）」（昭和47年5月に長岡町市名選考委員会が市名「長岡京市」を内定、9月16日に府が「長岡町を長岡市とする告示」と名称変更条例の許可を告示、10月1日に市制施行で長岡京市となった経過）
+    url: https://www.city.nagaokakyo.lg.jp/0000000994.html
+  p2-nagaokakyo-wiki:
+    label: Wikipedia「長岡京市」（長岡京は784年から794年まで都が置かれたこと、市名は新潟県長岡市との重複を避ける意図もあったとされる経緯）
+    url: https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B2%A1%E4%BA%AC%E5%B8%82
+  p2-yawata-plan:
+    label: 八幡市「第5次八幡市総合計画後期基本計画（中間案）」（貞観元年に八幡神が移座し翌年に男山に石清水八幡宮が建立されて門前町として発展、1954年に3町村が合併して八幡町、1977年11月1日に市制施行と記す）
+    url: https://www.city.yawata.kyoto.jp/cmsfiles/contents/0000008/8285/keikakuan.pdf
+  p6-ayabe-chimei:
+    label: 丹後の地名プラス「漢部郷（綾部市）」（『和名類聚抄』丹波国何鹿郡の郷の比定と『日本三代実録』の漢部氏の用例。日本歴史地名大系の解説に基づく）
+    url: http://www.tangonotimei.com/ikrg/ayabego.html
+  p6-ayabe-wiki:
+    label: Wikipedia「綾部市」（「漢部」から「綾部」への表記変更の時期）
+    url: https://ja.wikipedia.org/wiki/%E7%B6%BE%E9%83%A8%E5%B8%82
+  p6-gunze-history:
+    label: グンゼ株式会社公式「沿革・歴史」（1896年に京都府何鹿郡で郡是製絲株式会社を設立）
+    url: https://www.gunze.co.jp/corporate/history/index.html
+  p6-kyotanabe-enkaku:
+    label: 京田辺市公式「市の沿革」（市勢要覧。筒城・綴喜郡の説明と田辺町の変遷図）
+    url: https://www.city.kyotanabe.lg.jp/cmsfiles/contents/0000001/1372/h18_01_p.pdf
+  p6-kyotanabe-wiki:
+    label: Wikipedia「京田辺市」（1997年の市制施行時の改称理由と新市名公募の結果）
+    url: https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%94%B0%E8%BE%BA%E5%B8%82
+  p6-kyoto-gappei:
+    label: 京都府「南丹市設置までの取組み経過」（合併協議の経過）
+    url: https://www.pref.kyoto.jp/gappei/sonobe_yagi.html
+  p6-mlit-nantan:
+    label: 国土交通省・日本総合研究所「南丹市における関係人口拡大に向けた調査報告書」（令和3年3月。南丹地域を「丹波の南部」と位置づける）
+    url: https://www.mlit.go.jp/sogoseisaku/kanminrenkei/content/001411027.pdf
+  p6-nantan-kyogikai:
+    label: 南丹市（園部町・八木町・日吉町・美山町合併協議会）「新市の名称に関すること（継続協議）」（名称候補の公募と小委員会の投票結果）
+    url: https://www.city.nantan.kyoto.jp/www/resource/4gp/kyogikai/pdf/kyougi005-2.pdf
+  p6-nantan-wiki:
+    label: Wikipedia「南丹」（丹波地方南部を指す呼称で、1965年頃より行政用語として使われているとする）
+    url: https://ja.wikipedia.org/wiki/%E5%8D%97%E4%B8%B9
+  p6-nantan-youran:
+    label: 南丹市「市勢要覧2006・市域の変遷」（平成18年1月1日に4町が合併して南丹市が誕生したとする市長あいさつと変遷図）
+    url: https://www.city.nantan.kyoto.jp/www/resource/kouhou/youran/pdf/2006/16.pdf
+  p6-uub-ayabe:
+    label: 都道府県市区町村「綾部市（1950年〜）市区町村変遷情報」（1950年の新設合併と市制を収録）
+    url: https://uub.jp/upd/c/6403.html
+  p6-uub-nantan:
+    label: 都道府県市区町村「南丹市（2006年〜）市区町村変遷情報」（2006年の新設合併と市制を収録）
+    url: https://uub.jp/upd/c/703.html

@@ -1,0 +1,1338 @@
+prefecture_code: '34'
+records:
+- id: muni/34-三原市
+  code: '342041'
+  names:
+    ja: 三原市
+    reading: みはらし
+    aliases: []
+  user_terms:
+  - 三原の名前の由来
+  - 浮城と呼ばれた城下町
+  - みわらと読んだ地名
+  - 三つの原という言い伝え
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 「三原」の名は『和名類聚抄』に見える備後国御調郡の柞原（みはら）郷に遡る古い地名で、戦国時代に小早川隆景が三原城を築いて城下町が開けた。江戸時代の地誌『三原志稿』は、涌原・駒ケ原・小西原という三つの「原」から流れ出る川が合う所だから三原と呼ぶという土地の言い伝えを記している。昭和11年（1936年）に市制を施行し、平成17年（2005年）の合併を経て現在の三原市となった。
+  first_attestation:
+    era: 承平年間（10世紀）
+    year_western: null
+    document: 『和名類聚抄』備後国御調郡柞原郷
+    note: 『日本歴史地名大系』は『和名抄』所載の御調郡柞原（みはら）郷を「三原」の地名の初見とする。初期の表記は「柞原」で、読みは「みはら」
+  claims:
+  - text: 三原市の地方公共団体コードは342041である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』は、「三原」の地名の初見を『和名類聚抄』に載る備後国御調郡の柞原（みはら）郷とする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-mihara-taikei
+  - text: 永和3年（1377年）から3年がかりで書写された大般若経の奥書に「備後国御調郡三原金剛寺」とあり、「三原」の表記は中世には使われていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-mihara-taikei
+  - text: 近世の三原は「みわら」と発音されており、豊臣秀吉の上洛記録の写しには「みわら」、慶長元年（1596年）に三原に一泊したキリシタンの書状には「MIVARA」と記された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-mihara-taikei
+  - text: 土地の言い伝えでは、涌原（今の阿久原）・駒ケ原・小西原という三つの原から出る川の流れが落ち合って海に入る所であることから「三原」と号すようになったといい、江戸時代の地誌『三原志稿』が「土俗のまをし伝へし」としてこの説を記している
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - q3-mihara-taikei
+  - text: 永禄10年（1567年）、小早川隆景は三原に城を築き、本郷の新高山城から活動の中心を三原城へ移した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-mihara-kyouiku-takakage
+  - text: 三原城は海に浮かんでいるように見えたことから「浮城」とも呼ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-mihara-kyouiku-takakage
+  - text: 昭和11年（1936年）に三原市制（旧三原市）が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-mihara-city-history
+  - text: 平成17年（2005年）3月22日、旧三原市と本郷町・久井町・大和町が合併して新しい三原市が発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q3-mihara-wiki
+  column:
+    title: 「みわら」と呼ばれた城下町
+    text: 現在は「みはら」と読むこの地名は、近世には「みわら」と発音されていた。豊臣秀吉の上洛の記録には「みわら」とあり、1596年に三原へ一泊したキリシタン少年トマス小崎が母へ宛てた書状には「MIVARA」と記され、福島正則の判物にも「三わら町」とある。一方で、地名の初見とされる『和名類聚抄』の柞原郷は「みはら」と読まれており、読みは時代とともに揺れてきたらしい。発音の変遷そのものが文書に残っている点に、この地名の面白さがある。
+    sources:
+    - q3-mihara-taikei
+  relations:
+  - pref/34
+  unknowns:
+  - 「三原」の語源は確定しておらず、『三原志稿』の伝える三つの原説も言い伝えの域を出ない
+  - 「みはら」から「みわら」への変化と、現在の「みはら」に落ち着いた時期・理由は確認できなかった
+  - 2005年の合併時に市名がどう決められたか（公募の有無など）は、市公式資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/34-三次市
+  code: '342092'
+  names:
+    ja: 三次市
+    reading: みよしし
+    aliases:
+    - 三吉
+    - 三好
+    - 三善
+  user_terms:
+  - 三次の名前の由来
+  - なぜ三次をみよしと読むのか
+  - 三次盆地の中心の市
+  - 徳島の三好市との違い
+  naming_type: 一部の地名（古代郡名の継承）
+  prefecture: 広島県
+  homonyms: []
+  summary: 「三次」は古代の備後国三次郡に遡る地名で、平城宮出土木簡にも郡名が見える。読みは『和名類聚抄』が「美与之（みよし）」の訓を付ける一方で「ミスキ」の訓も伝わり、『芸藩通志』は郡名が上次・播次・下次などの「次」のつく郷から来たとするが、「次」を「よし」と読む理由は不明とする。中世には「三吉」と書かれることが多く、寛文4年（1664年）に三次藩主浅野長治が表記を「三次」に改めて定着した。平成16年（2004年）に周辺町村と合併して現在の三次市となった。
+  first_attestation:
+    era: 天平5年
+    year_western: 733
+    document: 『出雲国風土記』飯石郡の条
+    note: 『日本歴史地名大系』によると『出雲国風土記』に「三次の郡」と見えるのが早い用例の一つで、平城宮出土木簡にも「備後国三次郡下三次里人」とある。いずれも備後国三次郡を指す
+  claims:
+  - text: 三次市の地方公共団体コードは342092である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によると、『出雲国風土記』には「三次の郡」と見え、平城宮出土木簡にも「備後国三次郡下三次里人」と書かれており、「三次」は奈良時代には備後国の郡名として使われていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-miyoshi-taikei
+  - text: 『和名類聚抄』は「三次」に「美与之（みよし）」の訓を付けるが、『延喜式』神名帳には「ミスキ」の訓もあり、古代の読みは一つではなかった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-miyoshi-taikei
+  - text: 江戸時代の地誌『芸藩通志』は、三次の郡名は上次・播次・下次といった郷名の「次」を集めたものとする一方、「次」を「よし」と訓ずる理由は分からないとしている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-miyoshi-taikei
+  - text: 「三次」の語源、とりわけ「次」を「よし」と読む理由は、『芸藩通志』の段階でも解明されておらず、確定していない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - q3-miyoshi-taikei
+  - text: 中世の諸文献では「三吉」の字を当てるものが多く、「三好」「三善」と書かれることもあった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-miyoshi-taikei
+  - text: 寛文4年（1664年）、三次藩の初代藩主浅野長治が「三吉」を「三次」に改め、以後は「三次」の表記が定着して現在に至る
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-miyoshi-taikei
+  - text: 平成16年（2004年）4月1日、旧三次市と双三郡・甲奴郡の7町村が合併して現在の三次市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-miyoshi-city-history
+  column:
+    title: 同じ読みの二つの「みよしし」
+    text: 広島県三次市と徳島県三好市は、漢字が違うのに読みが完全におなじ「みよしし」である。三次の側には、中世に「三吉」と書かれ、「三好」「三善」の表記も見られたという歴史があり、現在の「三次」の字は1664年に藩主が「三吉」から改めたものだ。互いに無関係に生まれた二つの地名が、よく似た字面とまったく同じ読みに行き着いたのは面白い符合である。
+    sources:
+    - q3-miyoshi-taikei
+  relations:
+  - pref/34
+  - muni/36-三好市
+  unknowns:
+  - 「次」を「よし（吉）」と読む語源的な理由は『芸藩通志』以来不明とされ、今回も確認できなかった
+  - 『出雲国風土記』が言及する「三次の郡」の三坂など、最古層の地名の意味は未解明である
+  updated: '2026-11-13'
+- id: muni/34-呉市
+  code: '342025'
+  names:
+    ja: 呉市
+    reading: くれし
+    aliases:
+    - 呉浦
+    - 呉保
+  user_terms:
+  - 呉の名前の由来
+  - くれの語源
+  - 九つの嶺という意味の地名なの
+  - 軍港のまちの名前はいつからあるの
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は中世の港「呉浦」「呉保」の継承。初見は永暦元年（1160年）の文書に見える「安摩庄呉浦」とされるが、1158年の「呉別符」を挙げる紹介もある。語源には九嶺説・榑（くれ）木説・呉人説があるがいずれも確証はない。明治35年（1902年）に市制を施行した。
+  first_attestation:
+    era: 永暦元年
+    year_western: 1160
+    document: 美福門院令旨（高野山文書）
+    note: 6月28日付の令旨に「安摩庄呉浦事」と見えるのが『日本歴史地名大系』の挙げる初見。ただし保元3年（1158年）の官宣旨に石清水八幡宮寺領「呉別符」が見えるとして、より早い初見を挙げる紹介もある
+  claims:
+  - text: 呉市の地方公共団体コードは342025である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によれば、「呉」の初見は永暦元年（1160年）6月28日付の美福門院令旨（高野山文書）に見える「安摩庄呉浦」である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 一方、下向井龍彦「中世の呉」（『呉の歴史』2002年）は、保元3年（1158年）12月3日の官宣旨に石清水八幡宮寺領の「呉別符」が見えることを挙げ、地名大系の挙げる1160年より早い初見とする
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - k5-kure-blog-chimei
+  - text: 元暦2年（1185年）正月9日付の源頼朝下文（石清水文書）には「安芸国呉保」とあり、中世の呉は浦・保として荘園の記録に残された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 語源には、灰ヶ峰を中心とする九つの嶺に囲まれるため「九嶺（くれ）」とする説、灰ヶ峰から切り出された船材の榑（くれ）木に由来する説、渡来人の呉人に起因する説があるが、いずれも確証はない
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 読み「くれ」は康応元年（1389年）の『鹿苑院殿厳島詣記』に確認できる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kure-kotobank-chimei
+  - text: 明治35年（1902年）10月1日に市制を施行して呉市が発足した（呉市は2002年10月1日に市制施行100周年を迎えた）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-kure-city-nenpyo
+  column:
+    title: 浦から保へ、港から軍港へ
+    text: 平安時代末の文書に現れる「呉浦」は、安芸の海に面した小さな浦だった。やがて石清水八幡宮の荘園「呉保」となり、中世を通じて港として記録され続ける。明治に入って海軍鎮守府が置かれると、この港は軍港都市へと一変し、1902年に市制を施行した。まちの姿は激変したが、「呉」という地名そのものは800年以上、同じ読みのまま受け継がれている。
+    sources:
+    - k5-kure-kotobank-chimei
+    - k5-kure-city-nenpyo
+  relations:
+  - pref/34
+  unknowns:
+  - 初見が1158年（呉別符）か1160年（呉浦）かは、依拠する資料により異なる
+  - 語源は確定していない（九嶺・榑木・呉人のいずれの説も確証を欠く）
+  updated: '2026-11-13'
+- id: muni/34-大竹市
+  code: '342114'
+  names:
+    ja: 大竹市
+    reading: おおたけし
+    aliases:
+    - 大滝
+  user_terms:
+  - 大竹の名前の由来
+  - 国境の川、大竹河
+  - 遠管郷と山陽道の宿駅
+  - おうたきと読んだ地名
+  naming_type: その他（河川名「大竹河」に遡る地名の継承）
+  prefecture: 広島県
+  homonyms: []
+  summary: 「大竹」は安芸国と周防国の国境の川の名に遡り、『続日本紀』天平6年（734年）条には両国の境として「大竹河」が見える（現在の木野川・小瀬川）。中世の文書では「おうたき」と読まれ、「大滝」とも書かれた。語源には大きな滝があったとする説、竹が多いとする説などがあるが、大竹市歴史研究会は、確かな説明のできる言い伝えはないとする。昭和29年（1954年）に大竹町などが合併して大竹市となった。
+  first_attestation:
+    era: 天平6年
+    year_western: 734
+    document: 『続日本紀』天平6年9月16日条
+    note: 『日本歴史地名大系』が引く『続日本紀』の記事に、安芸・周防両国の国境の川として「大竹河」と見える。川の名としての初出で、現在の木野川（小瀬川）を指すとされる
+  claims:
+  - text: 大竹市の地方公共団体コードは342114である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によると、『続日本紀』天平6年（734年）の条に「安芸、周防二国、大竹河を以て国堺と為す」とあり、「大竹」は奈良時代に国境の川の名として記録されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-otake-taikei
+  - text: 建治3年（1277年）の佐伯助広処分状には「おうたき」と見え、当地は「大滝」とも記されていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-otake-taikei
+  - text: 寿永3年（1184年）頃から当地は厳島神社の社領となり、建長5年（1253年）の厳島文書の目録にも地名が見える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-otake-taikei-mura
+  - text: 市域は古代、安芸国の山陽道の終駅である遠管（おか）駅が置かれた遠管郷にあたり、交通の要地だったと大竹市公式は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-otake-city-profile
+  - text: 語源については、大竹川に大きな滝があったとする説、「横竹」と書いておおたけと読んだとする説、竹が多い土地に由来する説などがあるが、大竹市歴史研究会は「確かな説明をすることのできる言い伝えもなく、どれをとっても納得の行く説明にはならない」としている
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - q3-otake-history-society
+  - text: 昭和29年（1954年）9月1日、大竹町・小方町・玖波町などが合併して大竹市が発足し、市名は中心地の大竹の名を受け継いだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-otake-city-profile
+  column:
+    title: 国境の川が市の名になった
+    text: 安芸国と周防国の境をなした大竹河（現在の木野川・小瀬川）は、奈良時代の記録に残る古い川の名である。そのほとりの集落が大竹と呼ばれ、中世には厳島神社の社領として栄えた。国境の川の名が、村の名、町の名を経て、そのまま市名になった例である。もっとも、「大竹」の語源そのものははっきりせず、地元の歴史研究会も「確かな説明のできる言い伝えはない」と率直に記している。
+    sources:
+    - q3-otake-taikei
+    - q3-otake-history-society
+  relations:
+  - pref/34
+  unknowns:
+  - 「大竹」の語源は確定しておらず、滝に由来するか竹に由来するかも決められない
+  - 中世の読み「おうたき」から現在の「おおたけ」へ変わった時期は確認できなかった
+  updated: '2026-11-13'
+- id: muni/34-安芸高田市
+  code: '342149'
+  names:
+    ja: 安芸高田市
+    reading: あきたかたし
+    aliases: []
+  user_terms:
+  - 安芸高田の名前の由来
+  - 高田郡が消えて生まれた市
+  - 吉田郡山城と毛利元就の本拠
+  naming_type: 合併新設（合成地名）
+  prefecture: 広島県
+  homonyms: []
+  summary: 平成16年（2004年）3月1日、高田郡の吉田町・八千代町・美土里町・高宮町・甲田町・向原町の6町が合併して生まれた市で、市名は旧国名「安芸」と旧郡名「高田」を合わせたものとされる。高田郡は古代の安芸国の郡で郡衙が置かれ、中世には吉田を本拠とする毛利氏が台頭した地である。合併により高田郡は消滅し、その名は市名の中に残った。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 市名「安芸高田」の初出は平成16年（2004年）の市発足時で、それ自体が命名の記録である。「高田」の名は古代安芸国の高田郡に遡るが、郡名としての文書上の初出は今回特定できなかった
+  claims:
+  - text: 安芸高田市の地方公共団体コードは342149である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 平成16年（2004年）3月1日、高田郡の6町（吉田町・八千代町・美土里町・高宮町・甲田町・向原町）の合併により安芸高田市が誕生し、広島県で14番目の市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-akitakata-museum
+  - text: 市名は旧国名「安芸」と旧郡名「高田」を合わせたものとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q3-akitakata-wiki
+  - text: 古代の安芸国には高田郡（七郷）と高宮郡（六郷）があり、それぞれ郡衙が置かれたが、南北朝期頃に高田郡へ併合され、ほぼ現在の市域の範囲になった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-akitakata-museum
+  - text: 中世後半には吉田を本拠とした毛利氏が台頭し、安芸国から中国地方全体の盟主となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-akitakata-museum
+  - text: 市役所は旧吉田町に置かれ、吉田は毛利元就の居城・吉田郡山城が所在する地である
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q3-akitakata-wiki
+    - q3-akitakata-museum
+  - text: 合併により高田郡は消滅した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q3-akitakata-wiki
+  column:
+    title: 消えた郡の名を市名に残す
+    text: 2004年の合併で、安芸国の時代から続いた高田郡は歴史の幕を閉じた。その名は「安芸高田市」として市名の中に残った。全国には大和高田市（奈良県）、豊後高田市（大分県）、陸前高田市（岩手県）と「高田」を含む市が複数あり、「安芸」の一語が、旧国名を冠してこの地の高田であることを示している。郡の名を新市の名にどう残すかは、平成の大合併期に各地が直面した課題だった。
+    sources:
+    - q3-akitakata-museum
+    - q3-akitakata-wiki
+  relations:
+  - pref/34
+  - muni/29-大和高田市
+  - muni/44-豊後高田市
+  - muni/03-陸前高田市
+  unknowns:
+  - 市名の選定過程（公募や候補となった案の有無）は、今回参照した市公式資料では確認できなかった
+  - 「安芸」を冠した理由が、他の「高田」の自治体との区別にあったのかどうかは、公式資料で明示されず未確認である
+  - 郡名「高田」自体の語源は未解明である
+  updated: '2026-11-13'
+- id: muni/34-尾道市
+  code: '342050'
+  names:
+    ja: 尾道市
+    reading: おのみちし
+    aliases:
+    - 尾道浦
+    - 尾道村
+  user_terms:
+  - 尾道の名前の由来
+  - 山の尾の道という意味なの
+  - 倉敷地があった港町の名前
+  - 尾道という町は昔からあったの
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は中世の港「尾道浦」の継承。初出は永保元年（1081年）の西国寺文書に見える「尾道浦」で、12世紀後半に大田庄の倉敷地が置かれて港町として発展した。語源は「山の尾の道」説など諸説あるが定説はない。明治31年（1898年）に広島県内で2番目に市制を施行した。
+  first_attestation:
+    era: 永保元年
+    year_western: 1081
+    document: 西国寺文書（備後州御調郡尾道浦摩尼山西国寺由来之記）
+    note: 『日本歴史地名大系』と尾道市教育委員会『尾道の歴史と遺跡 中世編』が一致して挙げる初出で、「尾道浦」と見える
+  claims:
+  - text: 尾道市の地方公共団体コードは342050である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「尾道」の初出は永保元年（1081年）の西国寺文書に見える「尾道浦」である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-onomichi-kyoii
+    - k5-onomichi-kotobank-chimei
+  - text: 仁安3年（1168年）の高野山文書には御調南条庄内の尾道村が見え、この頃に大田庄の倉敷（倉敷地）が尾道に設置されて港町として発展した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-onomichi-kotobank-chimei
+  - text: 尾道市公式は、嘉応元年（1169年）に備後大田荘の公認の船津倉敷地となり、荘園米の積み出し港となって以来、港町として繁栄したと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-onomichi-city-gaiyo
+  - text: 語源は定説がなく、「山の尾の道」とする説、入り江の水路である澪（みお）の道とする説（司馬遼太郎が唱えたとされる比較的新しい説）、尾道水道に由来する説などが紹介されている
+    kind: fact
+    level: E4
+    status: indeterminate
+    sources:
+    - k5-onomichi-kibinavi
+  - text: 明治31年（1898年）4月1日に市制を施行して尾道市が発足した（広島県内では広島市に次いで2番目）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-onomichi-city-gaiyo
+  column:
+    title: 町なのに実在しなかった「尾道」
+    text: 江戸時代の尾道は、久保町・十四日町・土堂町などに分かれた港町の総称で、「尾道」という単独の町や大字は存在しなかった。呼び名だけが港町全体を指す言葉として生き続け、明治になって自治体名としてよみがえる。1889年に尾道町が置かれ、1898年には市名となった。地図の上に単独の町としてはなくても、人々の口の上では何百年も実在し続けた地名である。
+    sources:
+    - k5-onomichi-kibinavi
+  relations:
+  - pref/34
+  - muni/33-倉敷市
+  unknowns:
+  - 語源は確定していない（諸説を裏づける中世史料はない）
+  - 「尾道浦」の「尾道」がもともと何を指したのか（陸の道か海の水道か）は不明
+  updated: '2026-11-13'
+- id: muni/34-広島市
+  code: '341002'
+  names:
+    ja: 広島市
+    reading: ひろしまし
+    aliases: []
+  user_terms:
+  - 広島の名前の由来
+  - 毛利輝元が名付けた市の名前
+  - デルタの島という意味の市の名前
+  - 福島と広島の名前の関係
+  naming_type: 藩名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は広島藩の城下町・広島に由来する。もとは太田川デルタの五ケ浦・五ケ村と呼ばれた地で、天正17年（1589年）に毛利輝元が築城に着手した際に「広島」と命名した。語源には大江広元の「広」と福島元長の「島」を合わせたとする説と、デルタの島々に由来する説があり、県は諸説があるとしている。広島市は明治22年（1889年）4月に市制を施行した。
+  first_attestation:
+    era: 天正17年
+    year_western: 1589
+    document: 広島城築城に伴う毛利輝元の命名（広島市公式年表）
+    note: 命名の出来事としての初出で、広島市公式年表は天正17年（1589年）4月とする。命名を直接記した同時代文書は今回特定できていない。なお築城地の旧称「五ケ浦」は応永4年（1397年）の文書に見える
+  claims:
+  - text: 広島市の地方公共団体コードは341002である（総務省「全国地方公共団体コード」市区町村コード一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-soumu-code-list
+  - text: 天正17年（1589年）4月、毛利輝元が五ケ（五ケ村）で築城に着手し、この地を「広島」と命名した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-hiroshima-city-nenpyo
+    - e-hiroshima-city-history
+  - text: 命名の由来の一説として、毛利氏の祖先である大江広元の「広」と、この地の戦国時代の武士である福島元長の「島」を合わせたものとする説が紹介されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-hiroshima-pref-profile
+  - text: もう一つの説として、広くデルタの島々が合わされたという自然の地形に由来するとする説があり、広島県は諸説があるとしている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-hiroshima-pref-profile
+  - text: 「島」の由来とされる福島元長は戦国時代の地元の武士であり、関ヶ原の戦いの後に広島の領主となった福島正則とは別人で、正則の広島城入城は慶長6年（1601年）のことで、天正17年の命名には関与し得ない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-pref-profile
+    - e-cap-hiroshima-city-nenpyo
+  - text: 築城以前、この地は五ケ浦・五ケ村と呼ばれ、応永4年（1397年）に五ケ浦の地名が文書（厳島神社文書）にあらわれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-hiroshima-city-nenpyo
+    - e-hiroshima-city-history
+  - text: 築城地は太田川が運んだ土砂で形成されたデルタで、砂洲や自然堤防の上に漁撈を主業とする人々が生活を営んでいた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-hiroshima-city-history
+  - text: 広島市は明治22年（1889年）4月に市制を施行した（当時の人口は8万3,387人）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-hiroshima-city-nenpyo
+  column:
+    title: 五ケ浦から広島へ ― デルタに生まれた城下町
+    text: 「広島」の舞台は、太田川が瀬戸内海に注ぐ河口のデルタだった。築城前、この一帯は五ケ浦・五ケ村と呼ばれ、砂洲の上に漁撈を営む人々が暮らしていた。毛利輝元が1589年にここへ築城し「広島」と命名したことで、五つの集落の地は一つの城下町として再出発する。市名の由来をめぐるもう一つの説が「デルタの島々」に名前の起源を求めるのも、この土地の成り立ちを考えれば自然な発想である。つまり広島という名は、合成説を採るにせよ地形説を採るにせよ、川が運んだ土の上に新しく築かれた町の名として生まれた。
+    sources:
+    - e-cap-hiroshima-city-nenpyo
+    - e-hiroshima-city-history
+  relations:
+  - pref/34
+  unknowns:
+  - 1589年の命名を直接記した同時代の一次文書は今回特定できておらず、命名の経緯は後世の伝えによる
+  - 大江広元＋福島元長の合成説とデルタ地形説のどちらが正しいかは、資料上決められない（県レコード pref/34 と同じ論点）
+  updated: '2026-11-13'
+- id: muni/34-庄原市
+  code: '342106'
+  names:
+    ja: 庄原市
+    reading: しょうばらし
+    aliases: []
+  user_terms:
+  - 庄原の名前の由来
+  - 庄原盆地のまち
+  - 備北の中心都市
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は、近世初頭に商業地として起こった「庄原」の名を受け継ぐ。「庄原」は中世に永江荘という荘園に含まれていた土地で、市街地の南部一帯は原野だったことから、荘園との関係で生まれた名とする説がある。昭和29年（1954年）に庄原町などが合併して市制を施行し、平成17年（2005年）に比婆郡の5町と総領町を合併して現在の庄原市となった。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 「庄原」の文書上の初出は今回特定できなかった。中世には永江荘に含まれていたとされ、商業地としての「庄原」は近世初頭に起こったと『日本歴史地名大系』は述べる
+  claims:
+  - text: 庄原市の地方公共団体コードは342106である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』は、市の名は近世初頭に起こった商業地「庄原」の名をもって市名としたものとしている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-shobara-taikei
+  - text: 中世、現在の市街地一帯は永江荘という荘園に含まれ、その南部は原野であったとみられ、「庄原」の名は荘園との関係で生じたものとする説がある
+    kind: fact
+    level: E5
+    status: inferred
+    sources:
+    - q3-shobara-wiki
+  - text: 江戸時代中期には広島藩の支藩・三次藩の役所が置かれ、市場町として栄えた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-shobara-nipponica
+  - text: 昭和29年（1954年）、比婆郡庄原町と高村・本田村・敷信村・山内東村・山内西村・山内北村が合併して庄原市制が施行された
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-shobara-taikei
+  - text: 平成17年（2005年）3月31日、旧庄原市と比婆郡の5町・甲奴郡総領町が新設合併して新しい庄原市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-shobara-city-enkaku
+  - text: 2005年の合併に先立ち、合併協議会は平成15年（2003年）8月27日の会議で新市の名称を「庄原市」と確認していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-shobara-city-enkaku
+  column:
+    title: 荘園の「庄」と原野の「原」
+    text: 「庄原」という名は、荘園の「庄」と原野の「原」の組み合わせとみることができる。中世の永江荘の一部で南部は原野だった土地が、近世初頭に街道沿いの商業地として開け、市場町として育った。もっとも荘園関係説は「〜とみられる」「〜ものか」という推測の形で伝えられている説明であり、確かな命名記録が残っているわけではない。備北の交通の要衝としての発展が、古い荘園の名を市の名にまで押し上げた例といえる。
+    sources:
+    - q3-shobara-wiki
+    - q3-shobara-taikei
+  relations:
+  - pref/34
+  unknowns:
+  - 「庄原」の文書上の初出は特定できなかった
+  - 荘園（永江荘）との関係で名付けられたという説は推測の域を出ず、語源は確定していない
+  updated: '2026-11-13'
+- id: muni/34-府中市
+  code: '342084'
+  names:
+    ja: 府中市
+    reading: ふちゅうし
+    aliases:
+    - 府中町
+  user_terms:
+  - 広島の府中の名前の由来
+  - 備後国府があった市
+  - 府中市はなぜ2つあるの
+  naming_type: その他（国府所在地を指す普通名詞的地名の継承）
+  prefecture: 広島県
+  homonyms:
+  - muni/13-府中市
+  summary: 市名は、8世紀ごろに備後国府が置かれ、備後国の政治・経済・文化の中心であったことに由来すると市は説明する。長らく国府の存在は推定の域を出なかったが、発掘調査の裏づけが進み、備後国府跡は平成28年（2016年）に国の史跡となった。昭和29年（1954年）3月31日に芦品郡府中町と周辺5村が合併して市制を施行し、東京都府中市の成立（翌4月1日）より1日早く生まれた。
+  first_attestation:
+    era: 承平年間（931〜938年）
+    year_western: null
+    document: 和名類聚抄
+    note: 文化庁が「和名類聚抄に国府在とみえる葦田郡に属するため国府所在地と推定されてきた」と紹介する、国府所在地推定の文献上の根拠。「府中」の語そのものの初出ではない
+  claims:
+  - text: 府中市公式プロフィールは、市名の由来を、8世紀ごろにこの地に備後国府が置かれ、備後国の政治・経済・文化の中心であったことに求めている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchu-hiroshima-profile
+  - text: 文化庁は、備後国府について、和名類聚抄に国府在とみえる葦田郡に属するため国府所在地と推定されており、昭和42年度（1967年度）以降の発掘調査によって考古学的な裏づけが与えられたと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-bingo-kokufu-db
+  - text: 備後国府跡は平成28年（2016年）に国の史跡に指定されたが、国府の中心建物である国庁はまだ見つかっておらず、元町に所在したと推定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchu-hiroshima-roots
+  - text: 昭和29年（1954年）3月、芦品郡府中町と岩谷村など周辺5村（計6カ町村）が合併して市制を施行し府中市が誕生した。その後、平成16年（2004年）に甲奴郡上下町を編入合併した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchu-hiroshima-youran
+    - h1-jk-chimei-61
+  - text: （共通する層）東京都府中市とは読み・表記が同一で、ともに律令制の国府（こちらは備後国府、相手は武蔵国府）の所在地に由来する「府中」である点で共通する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-61
+  - text: （異なる層）両市の成立は広島県府中市が1954年3月31日、東京都府中市が翌4月1日と1日違いであり、全国で表記が同一の市名は府中市と伊達市の2組だけであると日本歴史地名大系ジャーナルは指摘する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-jk-chimei-61
+  - text: （府中町との関係）同じ広島県内にある府中町（安芸郡）は、同じ「府中」でも安芸国府に由来する別の系譜の地名であり、備後国府に由来するこの府中市とは国も成立事情も異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchucho-outline
+    - h1-fuchucho-kotobank
+  - text: 備後国府跡の一角は、その地に吉田寺があったという伝承に基づき「伝吉田寺地区」と呼ばれ、令和元年（2019年）に史跡の追加指定を受けた
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - h1-fuchu-hiroshima-roots
+  column:
+    title: 掘って確かめた国府
+    text: 備後国府は、和名類聚抄の記述と「府中」という地名が残ることから、長らく「この辺りにあったはずだ」と推定されてきた存在でした。それが変わったのは発掘調査が本格化してからで、昭和42年（1967年）以降の継続的な発掘が文献の記述を裏づけ、平成28年（2016年）に備後国府跡は国の史跡になりました。ただし中心建物の国庁はいまだ見つかっておらず、元町にあったと推定される段階です。地名が先に残り、遺跡が後から追いついた、という順序そのものが、この町の由来の面白さです。
+    sources:
+    - h1-bingo-kokufu-db
+    - h1-fuchu-hiroshima-roots
+  relations:
+  - pref/34
+  - muni/13-府中市
+  - muni/34-府中町
+  unknowns:
+  - 備後国庁の正確な位置（元町に所在したと推定されるが未発見）
+  - 「府中」という語の文献上の初出の特定は未了
+  - 国府が置かれた正確な時期（市公式は「8世紀ごろ」とする）
+  updated: '2026-11-13'
+- id: muni/34-府中町
+  code: '343021'
+  names:
+    ja: 府中町
+    reading: ふちゅうちょう
+    aliases:
+    - 府中村
+  user_terms:
+  - 府中町は国府と関係があるの
+  - 安芸国府はどこにあった
+  - 広島市に囲まれた町
+  naming_type: その他（国府所在地を指す普通名詞的地名の継承）
+  prefecture: 広島県
+  homonyms: []
+  summary: 町名は、昔この地に安芸国の国府が置かれていたところといわれることに由来し、古代安芸国の政治文化の中心地であったと考えられている。ただし安芸国府の当初の所在地については、もともと府中にあったとする説と、最初は東広島市西条にあり後に移ったとする説が対立している。自治体としては江戸時代の府中村の区域をほぼ引き継ぎ、明治22年（1889年）に府中村、後に町制を施行して府中町となった。両府中市とは表記は違うが、「国府→府中」という同じ命名の系譜にある。
+  first_attestation:
+    era: 承平年間（931〜938年）
+    year_western: null
+    document: 和名類聚抄（和名抄）
+    note: 府中町の教育資料が「和名抄の記載から、少なくとも平安中期には府中に国府があったことが分かる」と紹介するもの。ただし国府の当初所在地には西条説があり、位置づけは対立を含んでいる
+  claims:
+  - text: 府中町公式は、府中という名が示すように、昔この地に安芸の国府が置かれていたところといわれ、古代安芸国の政治文化の中心地であったと思われると説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchucho-outline
+  - text: 安芸国府の所在地については、もともと府中にあったという説と、最初は東広島市の西条にあり後に府中へ移ったという説があり、府中町の教育資料も両説を併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - h1-fuchucho-edu
+  - text: 府中町の教育資料は、『和名抄』の記載から、少なくとも平安中期から府中に国府があったことが分かると述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchucho-edu
+  - text: 日本歴史地名大系は広島県の府中町を「もと安芸国府の地」と解説し、広島市に囲まれた町であるとしている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - h1-fuchucho-kotobank
+  - text: 府中町は周囲を広島市に囲まれ、安芸郡の飛び地という全国的にも特徴のある形態をしており、町域は江戸時代の府中村とほぼ同じ区域のまま明治22年（1889年）の町村制施行により府中村となり、後に町制を施行して府中町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchucho-outline
+  - text: （両府中市との関係）表記は「府中町」で両府中市と異なるが、由来する国府は安芸国府であり、武蔵国府（東京都府中市）・備後国府（広島県府中市）とは別の国の国府である。3者はいずれも「国府の所在地＝府中」という同じ命名の系譜に属する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h1-fuchucho-outline
+    - h1-jk-chimei-61
+  - text: 町域を通っていた古代の官道（山陽道）の峠道には、畑賀から府中の安芸駅へ向かう途中の甲越峠が「国府越え」の意味の名であると町の教育資料は伝えている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - h1-fuchucho-edu
+  column:
+    title: 広島市に囲まれた、国府の町
+    text: 府中町は、四方を広島市に囲まれた安芸郡の飛び地という、全国でも珍しい形をした町です。県庁所在地の大都市にすっぽり囲まれながら独立した町であり続けている背景には、古代に安芸国の国府が置かれた中心地だったという、この土地の格があります。町内の峠道「甲越峠」は「国府越え」に由来する名と伝えられ、駅家だった安芸駅の記憶とともに、国府への道の名残を残しています。東京都府中市・広島県府中市とは字も読みも似ていますが、こちらは安芸国府の府中。一つの県の中に、別々の国に由来する「府中」が2つあることになります。
+    sources:
+    - h1-fuchucho-outline
+    - h1-fuchucho-edu
+  relations:
+  - pref/34
+  - muni/13-府中市
+  - muni/34-府中市
+  unknowns:
+  - 安芸国府の当初所在地は西条説と府中説が対立し未決着であり、国庁の具体的な位置も未確認
+  - 町制施行の年（昭和12年・1937年とする紹介が多い）について、町公式資料での一次確認は未了
+  - 安芸駅（駅家）の正確な位置は未確認
+  updated: '2026-11-13'
+- id: muni/34-廿日市市
+  code: '342131'
+  names:
+    ja: 廿日市市
+    reading: はつかいちし
+    aliases:
+    - 二十日市
+  user_terms:
+  - 廿日市の名前の由来
+  - 廿日市はなぜ「廿日」なの
+  - はつかいちの語源
+  naming_type: 一部の地名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は、室町時代中期以来、現在の本町（中央市民センター周辺）で開かれていた定期市「廿日の市（はつかのいち）」に由来する。厳島神社の年4回の祭礼の最終日がいずれも20日であったことから、毎月20日に市が立つようになったと市は説明する。昭和63年（1988年）に廿日市町が単独で市制を施行した。
+  first_attestation:
+    era: 室町時代中期
+    year_western: null
+    document: 定期市「廿日の市」の開催（廿日市市の公式資料が市名の起源として記す）
+    note: 市名の起源となった市の成立時期。市の名を記した個別の文書名による初出は未確認
+  claims:
+  - text: 廿日市市の地方公共団体コードは342131である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 市名は、現在の中央市民センター周辺（本町）で室町時代中期以来開かれていた「廿日の市（はつかのいち）」に由来すると市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-hatsukaichi-city-gaiyo
+  - text: 廿日の市が毎月20日に立つようになったのは、厳島神社の年4回の祭礼の最終日がいずれも20日であったためと市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-hatsukaichi-city-gaiyo
+  - text: 鎌倉時代の1220年、藤原親実が厳島の神主職を補されて下向し、廿日市桜尾城に入った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-hatsukaichi-city-ayumi
+  - text: 明治22年（1889年）の町村制施行で廿日市町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-hatsukaichi-city-ayumi
+  - text: 昭和63年（1988年）4月1日、廿日市町が単独で市制を施行して廿日市市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-hatsukaichi-city-gaiyo
+  - text: 平成15年（2003年）に佐伯町・吉和村を、平成17年（2005年）に大野町・宮島町を編入し、厳島神社のある宮島が市域に含まれるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-hatsukaichi-city-gaiyo
+  column:
+    title: 祭りの最終日が、まちの名前になった
+    text: 「廿」は「二十」を1字に重ねた漢字で、「廿日市」は「はつかいち」と読む。厳島神社の祭礼は年に4回、その最終日はいつも20日に当たった。祭りに合わせて人が集まる20日には市が立ち、それが毎月の定期市「廿日の市」になった。やがて市の開かれる場所そのものが「廿日市」と呼ばれるようになり、町名・市名に受け継がれた。2005年の合併で宮島町が加わった結果、市名の生まれの親である厳島神社が、ついに同じ市の中に入ったことになる。
+    sources:
+    - l5-hatsukaichi-city-gaiyo
+  relations:
+  - pref/34
+  unknowns:
+  - 「廿日の市」が始まった正確な年次と、それを記した初出文書は未確認
+  - 桜尾城の城下で市が開かれた経緯の詳細な史料は未確認
+  updated: '2026-11-13'
+- id: muni/34-東広島市
+  code: '342122'
+  names:
+    ja: 東広島市
+    reading: ひがしひろしまし
+    aliases: []
+  user_terms:
+  - 東広島の名前の由来
+  - 東広島市はどうやってできたの
+  - 西条と東広島の関係
+  naming_type: 合併新設
+  prefecture: 広島県
+  homonyms: []
+  summary: 昭和49年（1974年）4月20日、賀茂郡の西条町・八本松町・志和町・高屋町の4町が合併して誕生した新設市。広島大学の統合移転決定を契機に学園都市建設の気運が高まるなかで発足し、広島県内で12番目の市となった。市名「東広島」は広島市の東側に位置することに由来すると説明されるが、選定過程の公式記録は確認できていない。
+  first_attestation:
+    era: 昭和49年
+    year_western: 1974
+    document: 4町合併による市制施行（新市名の誕生）
+    note: 命名そのもの。新市名のため、それ以前に「東広島」という自治体名の用例はない
+  claims:
+  - text: 東広島市の地方公共団体コードは342122である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和48年（1973年）2月、国立広島大学の統合移転地が賀茂郡西条町に決定したことが、市誕生の契機となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-higashihiroshima-city-gaiyou
+  - text: 昭和49年（1974年）4月20日、賀茂郡の西条町・八本松町・志和町・高屋町の4町が合併し、広島県内で12番目に誕生した市である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-higashihiroshima-city-gaiyou
+    - l5-higashihiroshima-city-shisei
+  - text: 市名「東広島」は広島市の東側に位置することに由来すると一般に説明されるが、市の公式資料に市名の選定理由・選定過程の明記は確認できていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - l5-higashihiroshima-wiki
+  - text: 発足後、広島大学を核とした賀茂学園都市建設と広島中央テクノポリス建設の2大プロジェクトが進められ、学術研究都市として発展した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-higashihiroshima-city-shisei
+  - text: 平成17年（2005年）2月7日、賀茂郡の黒瀬町・福富町・豊栄町・河内町と豊田郡安芸津町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-higashihiroshima-city-shisei
+  column:
+    title: 大学が来たから生まれた市
+    text: 東広島は、県名でも旧国名でも旧町名でもない。1973年に広島大学の統合移転先が西条町に決まると、大学を核にした学園都市づくりのため、周辺4町が合併して新しい市を作った。中心地の名を取れば「西条市」もありえたところで選ばれたのは、広島市の東という位置を示す方向名だった。全国に「東○○」「西○○」型の市は多いが、市制の出発点が大学移転という20世紀型の事情にある点で、東広島の命名は近代的な合併新市の典型である。
+    sources:
+    - l5-higashihiroshima-city-gaiyou
+    - l5-higashihiroshima-city-shisei
+  relations:
+  - pref/34
+  unknowns:
+  - 市名「東広島」の選定過程（公募の有無、他に候補となった市名）は市の公式資料で確認できていない
+  - 合併協議の場で「西条市」等の旧町名系の候補が検討されたかどうかは未確認
+  updated: '2026-11-13'
+- id: muni/34-江田島市
+  code: '342157'
+  names:
+    ja: 江田島市
+    reading: えたじまし
+    aliases:
+    - 衣田島
+    - 衣田嶋
+  user_terms:
+  - 江田島の名前の由来
+  - えたじまの語源
+  - 海軍兵学校があった島
+  - 衣田島という古い表記
+  naming_type: 合併新設
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は島の名「江田島」による。江田島は古く「衣田島」と書かれ、仁治3年（1242年）の厳島文書に安摩荘内の地名として見える。「えたじま」の語源には、入江の地形に由来する説、能美島を幹に対する枝として「枝島」とする説、属島を古く「えだしま」と呼んだことに由来する説などがあり、定説はない。明治21年（1888年）に海軍兵学校が置かれて名が全国に知られるようになり、平成16年（2004年）に江田島町・能美町・沖美町・大柿町が合併して江田島市となった。
+  first_attestation:
+    era: 仁治3年
+    year_western: 1242
+    document: 安芸国安摩荘内衣田島荘官百姓等解（巻子本厳島文書）
+    note: 『日本歴史地名大系』によると、仁治3年（1242年）3月12日付のこの厳島文書に「衣田島」と見えるのが確認できる早い用例。当時の表記は「江田島」ではなく「衣田島」
+  claims:
+  - text: 江田島市の地方公共団体コードは342157である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 江田島は古く「衣田島」と書き、安摩（あま）荘に属していた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-etajima-sekai
+    - q3-etajima-taikei
+  - text: 『日本歴史地名大系』は、仁治3年（1242年）3月12日付の安摩荘内衣田島荘官百姓等解（厳島文書）に「衣田島」が見えることを紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-etajima-taikei
+  - text: 「えたじま」の語源については、江田島市が発行する資料が、入江に関わる説、能美島を幹として江田島を枝とする「枝島」説、属島のことを古く「えだしま」と呼んだための説などを挙げており、定説はない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - q3-etajima-city-guide
+  - text: 明治21年（1888年）、中心集落の本浦に海軍兵学校が設置され、江田島の名は内外に知られるようになった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-etajima-sekai
+  - text: 江田島と能美島はもとは別の島で、江戸時代の新田開発によって陸続きとなり、現在のY字状の島となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-etajima-city-guide
+  - text: 平成16年（2004年）11月1日、安芸郡江田島町と佐伯郡の沖美町・能美町・大柿町が合併して江田島市が発足した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-etajima-taikei-city
+  column:
+    title: 「衣田島」から「江田島」へ
+    text: 現在の「江田島」という表記は、古くは「衣田島」「衣田嶋」と書かれた。正確な意味ははっきりしないが、1242年の文書に残るこの古い表記は、島の名が少なくとも中世まで遡ることを示している。その名が全国に知られるようになったのは1888年、海軍兵学校がこの島に置かれてからである。多くの提督を育てた学校の名が島の名と重なり、今も海上自衛隊の学校が置かれる。表記が「衣」から「江」へ変わった事情は分かっていないが、水にちなむ字への置き換えは、島の名らしい変化ではある。
+    sources:
+    - q3-etajima-sekai
+    - q3-etajima-city-guide
+  relations:
+  - pref/34
+  unknowns:
+  - 「衣田島」から「江田島」へ表記が変わった時期と理由は確認できなかった
+  - 「江田氏」の所領に由来するという説は、今回参照した資料（市発行資料・専門辞典）では裏付けが取れなかった
+  - 語源諸説のどれが正しいかは決められず、「えた」の最古層の意味は未解明である
+  updated: '2026-11-13'
+- id: muni/34-福山市
+  code: '342076'
+  names:
+    ja: 福山市
+    reading: ふくやまし
+    aliases: []
+  user_terms:
+  - 福山の名前の由来
+  - 水野勝成が名付けた城下町
+  - 蝙蝠山と福山の関係
+  - 福山という地名はいつできたの
+  naming_type: 新規命名
+  prefecture: 広島県
+  homonyms: []
+  summary: 市名は元和年間に水野勝成が築いた福山城の城下町名に由来する新規の命名。勝成は元和5年（1619年）に備後へ入封し、福山城とともに「福山」の町を興した。命名の由来には蝙蝠山の「蝠」が「福」に通じるとする説などがあり、地名大系は「寿山福海」の嘉名によるものとみる。大正5年（1916年）に市制を施行した。
+  first_attestation:
+    era: 元和5年
+    year_western: 1619
+    document: 水野勝成による命名（『日本歴史地名大系』「福山市」の解説による）
+    note: 福山市公式の広報は、元和8年（1622年）に福山城を築き「この地を福山と名付けました」と説明する。命名の年次は、入封・築城着手の1619年と城の完成した1622年とで資料により見かけ上ずれる
+  claims:
+  - text: 福山市の地方公共団体コードは342076である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 元和5年（1619年）に水野勝成が備後10万石の領主として入封し、その後福山城を築いて城下町を形成し、この地を「福山」と名付けた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-fukuyama-city-ayumi
+    - k5-fukuyama-kotobank-chimei
+  - text: 福山市公式の広報は、元和8年（1622年）に福山城を築き「この地を福山と名付けました」と説明し、2022年を「『福山』というまちが誕生して400年」と位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-fukuyama-city-koho
+  - text: 命名の由来の一説として、城を築いた蝙蝠山（常興寺山）の「蝠」の字が「福」に通じるためとする説が紹介されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-fukuyama-kotobank-chimei
+  - text: 別の説として、筋鉄御門の西内堀側に老松が叢生した小丘を福山と称していたためとする説や、城下の南の水呑村の宝山に対した称とする説があり、『日本歴史地名大系』は総じて「寿山福海」の嘉名による命名であろうと結んでいる
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-fukuyama-kotobank-chimei
+  - text: 大正5年（1916年）7月1日に市制を施行して福山市が発足した（全国73番目・広島県内4番目、当時の人口は32,356人）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-fukuyama-city-ayumi
+  column:
+    title: 蝙蝠山が「福山」になった
+    text: 福山城が建つ山は、もとは蝙蝠山（こうもりやま、常興寺山）と呼ばれた。『日本歴史地名大系』が伝える命名諸説の一つは、この「蝠」の字が「福」に通じることに目をつけた名づけとするものだ。決め手となる史料はないが、老松の小丘説や宝山対称説も含め、諸説に共通するのは「福山」がめでたい名として意識的に選ばれたという点である。新しい城下町には、新しい嘉名が必要だった。
+    sources:
+    - k5-fukuyama-kotobank-chimei
+  relations:
+  - pref/34
+  unknowns:
+  - 命名の年次を1619年とするか1622年とするかは資料により異なり、どちらとも決められない
+  - 蝙蝠山という山名自体の由来は未確認
+  updated: '2026-11-13'
+- id: muni/34-竹原市
+  code: '342033'
+  names:
+    ja: 竹原市
+    reading: たけはらし
+    aliases:
+    - 竹原庄
+    - 下市
+  user_terms:
+  - 竹原の名前の由来
+  - 安芸の小京都
+  - 下鴨神社の荘園、竹原荘
+  - 塩と酒で栄えた港町
+  naming_type: その他（荘園名以来の中心地名の継承）
+  prefecture: 広島県
+  homonyms: []
+  summary: 「竹原」の名は、寛治4年（1090年）に京都の下鴨神社（賀茂御祖神社）へ寄進された荘園「安芸国竹原庄」に見えるのが初めとされる。古代この一帯の中心は『和名類聚抄』の都宇郷だったが、荘園の名が地域の名として定着し、近世には塩と酒で栄える港町となり、市街は「下市」とも呼ばれた。語源には竹林が多かった土地に由来するという説明がある。昭和33年（1958年）の合併により竹原市が発足した。
+  first_attestation:
+    era: 寛治4年
+    year_western: 1090
+    document: 賀茂社古代庄園御厨に載る「安芸国竹原庄四十町」
+    note: 『日本歴史地名大系』によると、寛治4年（1090年）に賀茂御祖神社（下鴨神社）へ寄進された荘園の一つとして「安芸国竹原庄四十町」が見えるのが「竹原」の名の初見
+  claims:
+  - text: 竹原市の地方公共団体コードは342033である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「竹原」の名の初見は、寛治4年（1090年）に京都の下鴨神社へ寄進された荘園「安芸国竹原庄四十町」である（『日本歴史地名大系』による）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-takehara-taikei
+  - text: 古代、この一帯は『和名類聚抄』の都宇（つう）郷にあたり、「竹原」は下鴨神社の荘園となったことで広まった名である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-takehara-taikei
+    - q3-takehara-yoichi
+  - text: 「竹原」の名は、竹林が多かったことから「竹原荘」と呼ばれるようになったという説明がある
+    kind: fact
+    level: E4
+    status: contested
+    sources:
+    - q3-takehara-jpsearch
+  - text: 近世の「国郡志下調書出帳」は、「竹原」はこの辺りの惣名で、川下にできた市町を下市・竹原町と呼んだと伝え、建久5年（1194年）に城主が置かれて「竹原殿」と呼ばれたという旧記も引いている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-takehara-taikei
+  - text: 近世の竹原は製塩と酒造で栄えた港町で、その町並みは昭和57年（1982年）に国の重要伝統的建造物群保存地区に選定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-takehara-city-plan
+  - text: 昭和33年（1958年）11月3日の合併により竹原市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-takehara-city-plan
+  column:
+    title: 荘園の名が町の名になった
+    text: 竹原の名は、京都の下鴨神社に寄進された荘園「竹原庄」として歴史に現れた。もとの中心地は「都宇」と呼ばれる郷だったが、荘園の名がやがて地域全体の名になり、川の名「賀茂川」にも下鴨神社との縁が伝えられている。近世には塩田と酒造で巨万の富を築いた商家が軒を連ね、その市街は「下市」と呼ばれた。神社の荘園名が、千年近くを経て港町の名、市名として生き続けている例である。
+    sources:
+    - q3-takehara-taikei
+    - q3-takehara-yoichi
+  relations:
+  - pref/34
+  unknowns:
+  - 「竹原」の語源（竹林の多い原野という説明）の確かな典拠は確認できず、専門辞典は語源を明示していない
+  - 近世の「下市」と「竹原」の使い分けや、「竹原」が町の正式名として定着した経緯の詳細は未確認である
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  e-cap-hiroshima-city-nenpyo:
+    label: 広島市公式サイト「主要年表（令和7年版広島市勢要覧）」
+    level: E2
+    url: https://www.city.hiroshima.lg.jp/shisei/toukei/1006109/1027849/1048203/1048226.html
+  e-cap-soumu-code-list:
+    label: 総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）
+    level: E2
+    url: https://www.soumu.go.jp/denshijiti/code.html
+  h1-bingo-kokufu-db:
+    label: 日本遺産ポータル・文化遺産データベース「備後国府跡」（和名類聚抄に国府在とみえる葦田郡に属するため国府所在地と推定、と文化庁が紹介）
+    url: https://japanheritage.jp/ja/hiroshima/heritage/bingo-provincial-capital-ruins
+  h1-fuchu-hiroshima-profile:
+    label: 府中市（広島県）「府中市プロフィール」（市名の由来＝備後国府）
+    url: https://www.city.fuchu.hiroshima.jp/soshiki/soumubu/kikakuzaisei/about_fuchu/9371.html
+  h1-fuchu-hiroshima-roots:
+    label: 府中市（広島県）「府中のルーツ『備後国府』」（国史跡指定・国庁の推定位置・伝吉田寺地区）
+    url: https://www.city.fuchu.hiroshima.jp/soshiki/kyoiku_iinkai/kyoikuseisakuka/bingokokufu/901.html
+  h1-fuchu-hiroshima-youran:
+    label: 府中市（広島県）「府中市統計要覧・総説（沿革・地勢）」（1954年の合併・市制施行とその後の編入）
+    url: https://www.city.fuchu.hiroshima.jp/material/files/group/2/1-2sousetu05.pdf
+  h1-fuchucho-edu:
+    label: 府中町教育資料「安芸国の国府は、もともと府中にあったという説と…」（町公式サイト掲載。国府所在地の二説・和名抄の記載・国府越え）
+    url: https://www.town.fuchu.hiroshima.jp/uploaded/attachment/1741.pdf
+  h1-fuchucho-kotobank:
+    label: コトバンク「府中」（日本歴史地名大系の解説。安芸国府の地・備後国府所在地の併記）
+    url: http://kotobank.jp/word/%E5%BA%9C%E4%B8%AD-618954
+  h1-fuchucho-outline:
+    label: 府中町（広島県）公式「まちの概要」（安芸国府・府中村の成立・広島市に囲まれた町域）
+    url: https://www.town.fuchu.hiroshima.jp/site/outline/14178.html
+  h1-jk-chimei-61:
+    label: ジャパンナレッジ 日本歴史地名大系ジャーナル「日本列島『地名』をゆく！ 第61回 同一市名あれこれ（1）」（2つの府中市の成立が1日違いであること等）
+    url: https://japanknowledge.com/articles/blogjournal/interest_chimei/entry.html?entryid=61
+  k5-fukuyama-city-ayumi:
+    label: 福山市公式サイト「福山のあゆみ」
+    level: E2
+    url: https://www.city.fukuyama.hiroshima.jp/site/kinenshi/404844.html
+  k5-fukuyama-city-koho:
+    label: 福山市公式サイト「広報ふくやま2022年1月号」（福山城築城400年の特集）
+    level: E2
+    url: https://www.city.fukuyama.hiroshima.jp/site/koho-202201/202201.html
+  k5-fukuyama-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「福山市」
+    level: E3
+    url: https://kotobank.jp/word/%E7%A6%8F%E5%B1%B1%E5%B8%82-124160
+  k5-kure-blog-chimei:
+    label: 地域史ブログ「戦国日本の津々浦々」呉の初見に関する記事（下向井龍彦「中世の呉」『呉の歴史』2002年を引用）
+    level: E4
+    url: https://kuregure.hatenablog.com/entry/2025/04/09/230300
+  k5-kure-city-nenpyo:
+    label: 呉市公式サイト「呉市の歴史（年表）」
+    level: E2
+    url: https://www.city.kure.lg.jp/soshiki/106/kurehistory.html
+  k5-kure-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「呉市」
+    level: E3
+    url: https://kotobank.jp/word/%E5%91%89%E5%B8%82-57398
+  k5-onomichi-city-gaiyo:
+    label: 尾道市公式サイト「尾道市の概要」
+    level: E2
+    url: https://www.city.onomichi.hiroshima.jp/soshiki/2/2977.html
+  k5-onomichi-kibinavi:
+    label: きびナビ「尾道の地名の由来」
+    level: E4
+    url: https://fuuraiki.com/onomichi
+  k5-onomichi-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「尾道市」
+    level: E3
+    url: https://kotobank.jp/word/%E5%B0%BE%E9%81%93%E5%B8%82-40943
+  k5-onomichi-kyoii:
+    label: 尾道市教育委員会『尾道の歴史と遺跡 中世編』（2011年、奈良文化財研究所リポジトリ所収）
+    level: E2
+    url: https://sitereports.nabunken.go.jp/files/attach/37/37096/71323_1_%E5%B0%BE%E9%81%93%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%A8%E9%81%BA%E8%B7%A1.pdf
+  l5-hatsukaichi-city-ayumi:
+    label: 廿日市市「廿日市市のあゆみ」（市公式資料）
+    level: E2
+    url: https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/30932.pdf
+  l5-hatsukaichi-city-gaiyo:
+    label: 廿日市市「第I章 廿日市市の概要」（市公式資料）
+    level: E2
+    url: https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/37496.pdf
+  l5-higashihiroshima-city-gaiyou:
+    label: 東広島市議会事務局「東広島市の概要」
+    level: E2
+    url: https://www.city.higashihiroshima.lg.jp/material/files/group/66/higashihiroshimashinogaiyou.pdf
+  l5-higashihiroshima-city-shisei:
+    label: 東広島市「市勢概要 第1章 市勢概要」
+    level: E2
+    url: https://www.city.higashihiroshima.lg.jp/material/files/group/19/kannkyo-shiseigaiyou2019.pdf
+  l5-higashihiroshima-wiki:
+    label: Wikipedia「東広島市」
+    level: E5
+    url: https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%BA%83%E5%B3%B6%E5%B8%82
+  q3-akitakata-museum:
+    label: 安芸高田市歴史民俗博物館「安芸高田市のあゆみ」
+    url: https://www.akitakata.jp/ja/hakubutsukan/assets/history
+  q3-akitakata-wiki:
+    label: Wikipedia「安芸高田市」
+    url: https://ja.wikipedia.org/wiki/%E5%AE%89%E8%8A%B8%E9%AB%98%E7%94%B0%E5%B8%82
+  q3-etajima-city-guide:
+    label: 江田島市発行資料「海と潮風」（江田島の語源と由来）
+    url: https://www.city.etajima.hiroshima.jp/cms/files/uploads/umitoshiokaze.pdf
+  q3-etajima-sekai:
+    label: 『改訂新版 世界大百科事典』「江田島」（コトバンク）
+    url: https://kotobank.jp/word/%E6%B1%9F%E7%94%B0%E5%B3%B6-36661
+  q3-etajima-taikei:
+    label: 『日本歴史地名大系』「江田島村」（コトバンク）
+    url: https://kotobank.jp/word/%E6%B1%9F%E7%94%B0%E5%B3%B6%E6%9D%91-3090171
+  q3-etajima-taikei-city:
+    label: 『日本歴史地名大系』「江田島市」（コトバンク）
+    url: https://kotobank.jp/word/%E6%B1%9F%E7%94%B0%E5%B3%B6%E5%B8%82-177524
+  q3-mihara-city-history:
+    label: 三原市公式「歴史と沿革」
+    url: https://www.city.mihara.hiroshima.jp/soshiki/30/rekisi.html
+  q3-mihara-kyouiku-takakage:
+    label: 三原市教育委員会「郷土三原ゆかりの人たち 小早川隆景」
+    url: https://www.city.mihara.hiroshima.jp/site/kyouiku/yukari02.html
+  q3-mihara-taikei:
+    label: 『日本歴史地名大系』「三原市」（コトバンク）
+    url: https://kotobank.jp/word/%E4%B8%89%E5%8E%9F%E5%B8%82-139374
+  q3-mihara-wiki:
+    label: Wikipedia「三原市」
+    url: https://ja.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E5%B8%82
+  q3-miyoshi-city-history:
+    label: 三次市公式「三次市の歴史」
+    url: https://www.city.miyoshi.hiroshima.jp/soshiki/49/3521.html
+  q3-miyoshi-taikei:
+    label: 『日本歴史地名大系』「三次市」（コトバンク）
+    url: https://kotobank.jp/word/%E4%B8%89%E6%AC%A1%E5%B8%82-176640
+  q3-otake-city-profile:
+    label: 大竹市公式「市の紹介」
+    url: https://www.city.otake.hiroshima.jp/soshiki/somu/kikakuzaisei/gyomu/4/1454223830079.html
+  q3-otake-history-society:
+    label: 大竹市歴史研究会「『大竹』の歴史」
+    url: https://otake-history.halfmoon.jp/localhistory/otake
+  q3-otake-taikei:
+    label: 『日本歴史地名大系』「大竹市」（コトバンク）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%AB%B9%E5%B8%82-39349
+  q3-otake-taikei-mura:
+    label: 『日本歴史地名大系』「大竹村」（コトバンク）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%AB%B9%E6%9D%91-3025932
+  q3-shobara-city-enkaku:
+    label: 庄原市公式「庄原市の沿革」
+    url: https://www.city.shobara.hiroshima.jp/main/government/profile/post_447.html
+  q3-shobara-nipponica:
+    label: 『日本大百科全書（ニッポニカ）』「庄原」（コトバンク）
+    url: http://kotobank.jp/word/%E5%BA%84%E5%8E%9F-532976
+  q3-shobara-taikei:
+    label: 『日本歴史地名大系』「庄原市」（コトバンク）
+    url: https://kotobank.jp/word/%E5%BA%84%E5%8E%9F%E5%B8%82-79728
+  q3-shobara-wiki:
+    label: Wikipedia「庄原町」
+    url: https://ja.wikipedia.org/wiki/%E5%BA%84%E5%8E%9F%E7%94%BA
+  q3-takehara-city-plan:
+    label: 竹原市「竹原市歴史的風致維持向上計画 第1章 竹原市の歴史的風致形成の背景」
+    url: https://www.city.takehara.lg.jp/material/files/group/19/03_dai1shouR4.pdf
+  q3-takehara-jpsearch:
+    label: Japan Search「竹原の町並み」（文化庁・ michishiru 動画資料）
+    url: https://jpsearch.go.jp/en/item/michi-D0004290037_00000
+  q3-takehara-taikei:
+    label: 『日本歴史地名大系』「竹原市」（コトバンク）
+    url: http://kotobank.jp/word/%E7%AB%B9%E5%8E%9F%E5%B8%82-93102
+  q3-takehara-yoichi:
+    label: 余市町広報誌（広島県竹原市の紹介・広報誌交流第1回）
+    url: http://www.town.yoichi.hokkaido.jp/kurashi/kouhou/2024/files/06/2406-06.pdf

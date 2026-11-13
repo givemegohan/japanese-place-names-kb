@@ -1,0 +1,1150 @@
+prefecture_code: '42'
+records:
+- id: muni/42-五島市
+  code: '422118'
+  names:
+    ja: 五島市
+    reading: ごとうし
+    aliases:
+    - 福江市
+    - 福江町
+  user_terms:
+  - 五島列島の市
+  - 下五島の中心
+  - 福江（旧市名）のまち
+  - ごとう
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 平成16年（2004年）8月1日、福江市と南松浦郡の富江町・玉之浦町・三井楽町・岐宿町・奈留町が新設合併して発足した市。市名は五島列島の名をそのまま採ったもので、列島は福江島・久賀島・奈留島・若松島・中通島の五つの主島を中心とすることから「五島」と呼ばれる。市域はこのうち南部の下五島にあたり、旧中心地の福江は五島藩（福江藩）の城下町だった。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「五島」の確かな初出は今回確認できなかった。古くは平戸島とともに値嘉郷（ちかのさと）と呼ばれたことを『日本大百科全書』が紹介している
+  claims:
+  - text: 五島市の地方公共団体コードは422118である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 五島市は平成16年（2004年）8月1日、福江市・富江町・玉之浦町・三井楽町・岐宿町・奈留町の1市5町の新設合併で誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-goto-shisei
+  - text: 新市名は最終候補の「五島」「下五島」「五島福江」「五島列島」「五島椿」の5点から「五島」に決定された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-goto-uub
+  - text: 五島列島は福江島・久賀島・奈留島・若松島・中通島の五つの主島と約200の属島からなり、この五つの主島を中心とする構成が「五島」の名の由来とされる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-goto-kotobank
+    - r6-goto-pref-gaiyo
+  - text: 現在の五島市域は下五島にあたり、奈留島以北の上五島は南松浦郡新上五島町で、市名の「五島」は列島全体の名を採りながら市域は列島の南部にとどまる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-goto-kotobank
+  - text: 五島列島は古くは平戸島とともに値嘉郷（ちかのさと）と呼ばれ、大陸に最も近い位置から遣唐使の寄港地となるなど対外関係の要地だったと『日本大百科全書』は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-goto-kotobank
+  - text: 五島市は遣唐使船最後の寄港地として栄えた島であると市は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-goto-shisei
+  - text: 旧福江市は昭和29年（1954年）に福江町・奥浦村・崎山村・本山村・大浜村の合併で発足し、江戸時代は五島藩（福江藩）の城下町だった福江を中心とする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-goto-kotobank
+    - r6-goto-uub
+  column:
+    title: 候補に残った「五島椿」という名前
+    text: 2004年の合併で新市名の最終候補に残ったのは、「五島」「下五島」「五島福江」「五島列島」と、島の花である椿を組み込んだ「五島椿」の5点だった。選ばれたのは最も簡素な「五島」で、列島全体の名を市名に掲げることになった。ただし市域は下五島のみで、上五島は新上五島町として別れたため、「五島市」は五島列島の全部ではなく南部を占める市の名として今日使われている。
+    sources:
+    - r6-goto-uub
+    - r6-goto-kotobank
+  relations:
+  - pref/42
+  - muni/42-新上五島町
+  unknowns:
+  - 「五島」という列島名の確かな初出（文献名と年代）は確認できなかった
+  - 旧中心地「福江」という地名自体の語源は確認できなかった
+  - 新市名の公募件数など選定過程の詳細は、合併協議会の一次資料では確認できなかった（変遷情報データベースの記録による）
+  updated: '2026-11-13'
+- id: muni/42-佐世保市
+  code: '422029'
+  names:
+    ja: 佐世保市
+    reading: させぼし
+    aliases: []
+  user_terms:
+  - 佐世保の名前の由来
+  - 佐世保の軍港はいつできた
+  - 村から一足とびに市になった
+  - サセブの木って何
+  naming_type: その他（旧村名「佐世保」を継承し、村から直接市制を施行）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 明治初期までは大村湾の奥の村にすぎなかった佐世保が、海軍鎮守府の設置で軍港都市として急成長し、1902年に村から一足とびに市制を施行した。「佐世保」という地名の由来には定説がなく、木の名に由来する説と、「狭瀬＋保（中世の行政単位）」とする説などが市史に併記されている。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 「佐世保」という地名（「保」は中世の行政単位に由来するとの説がある）
+    note: 地名の確実な初出年は本調査では確認できなかった。1902年の市制施行時点では佐世保村の村名として定着していた
+  claims:
+  - text: 1902年（明治35年）4月、佐世保村は村から一足とびに市制を施行して佐世保市となった。当時は7,700世帯・人口約45,800人に達していた（地方公共団体コードは422029）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-city-seigaiyou
+    - b-cap-chiba-soumu-code
+  - text: 急成長の契機は1886年（明治19年）の海軍鎮守府の設置決定と1889年（明治22年）の鎮守府開庁で、それまで佐世保は大村湾口よりさらに深奥の村にすぎなかったと佐世保市は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-city-seigaiyou
+  - text: 地名「佐世保」の由来については定説と呼ばれるものがなく、佐世保市立図書館は『佐世保市史』総説篇などに基づいて諸説を紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-ndl-crd
+  - text: 由来の一説として、この地に「サセブ」と呼ばれる木（和名シャシャンボ、古名サシブノキ）が繁茂していたからとする説が市史に記されている
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k6-sasebo-ndl-crd
+  - text: もう一つの説として、「佐世（サセ）」は狭い川瀬を意味する「狭瀬（サセ）」で、「保」は中世の行政単位の一つであるとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k6-sasebo-ndl-crd
+  - text: 1945年（昭和20年）の空襲と終戦で軍港としての機能を失った後は、旧軍港の遺産を活用する平和産業港湾都市への転換が進められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-sasebo-city-seigaiyou
+  column:
+    title: 村から一足とびに市へ——軍港が作った都市
+    text: 普通、市になるにはまず町になる段階を踏む。ところが佐世保は、1902年に村から直接、市になった。理由は単純で、海軍鎮守府が置かれてから十数年の間に、湾奥の寒村へ人が殺到したからである。地名の由来が定まらないのも、この都市の性格を映している。城下町のように長い時間をかけて名が育ったのではなく、軍港という国家事業が先に来て、まちが後から膨らんだ。その出発点の古い地名の記憶は、市史にも諸説併記の形でしか残らなかった。
+    sources:
+    - k6-sasebo-city-seigaiyou
+    - k6-sasebo-ndl-crd
+  relations:
+  - pref/42
+  unknowns:
+  - 「佐世保」の文献上の確実な初出（中世文書での用例）は本調査では確認できなかった
+  - 「佐世」という小字・人名との関係（佐世氏説の有無）は市史総説篇の直接確認が未了
+  updated: '2026-11-13'
+- id: muni/42-南島原市
+  code: '422142'
+  names:
+    ja: 南島原市
+    reading: みなみしまばらし
+    aliases:
+    - 有家町
+    - 南有馬町
+    - 深江町
+  user_terms:
+  - 島原半島の南の市
+  - 原城跡のある市
+  - 島原・天草一揆の地
+  - そうめんのまち（手延そうめん）
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 平成18年（2006年）3月31日、深江町・布津町・有家町・西有家町・北有馬町・南有馬町・口之津町・加津佐町の8町が対等合併して発足した市。市名は島原半島の南部に位置することによる方角地名で、新市名の最終候補は「原城」と「南島原」の2点だった。古代に高来郡、明治11年（1878年）以降は南高来郡に属した地域で、島原・天草一揆の原城跡を市域に持つ。
+  first_attestation:
+    era: 奈良時代
+    year_western: 713
+    document: 『肥前国風土記』
+    note: 市名そのものの初出は平成18年（2006年）の発足時。ここでは市域を指す古い地名として、8世紀の『肥前国風土記』に記された「高来郡」の用例を市公式が紹介していることを記す（原文は未確認のため紹介形）
+  claims:
+  - text: 南島原市の地方公共団体コードは422142である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 南島原市は平成18年（2006年）3月31日、深江町・布津町・有家町・西有家町・北有馬町・南有馬町・口之津町・加津佐町の8町の対等合併で発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-minamishimabara-city
+  - text: 新市名は公募上位に「原城」「南島原」などが入り、最終候補は「原城（はらじょう）」と「南島原」の2点で、「南島原市」に決定された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-minamishimabara-uub
+  - text: 市名の「南島原」は、島原半島の南部に位置することによる方角の名で、半島北部の島原市とは別の市である
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-minamishimabara-uub
+    - r6-minamishimabara-city
+  - text: 市域は古代には高来郡に属し、市公式は8世紀の『肥前国風土記』に島原半島が「高来郡」と記されていることを紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-minamishimabara-city
+  - text: 明治11年（1878年）の郡区町村編制で高来郡が南北に分かれ、市域は南高来郡となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-minamishimabara-city
+  - text: 市域の南有馬町には寛永14年（1637年）の島原・天草一揆で一揆軍が籠城した原城跡があり、新市名の最終候補に「原城」が残った背景にはこの史跡の知名度がある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-minamishimabara-city
+    - r6-minamishimabara-uub
+  column:
+    title: あと一歩で「原城市」だった
+    text: 2006年の合併で新市名の最終候補に残ったのは2点。「南島原」と、島原・天草一揆の舞台である「原城（はらじょう）」だった。公募の上位にも「有馬」「普賢」「南雲仙」など土地の名が並ぶ中で、選ばれたのは半島の南という位置を示す無難な方角地名のほうである。もし原城が選ばれていれば、市名そのものが一揆の記憶を背負う、全国でも珍しい市名になっていた。方角の名に落ち着いたことで、市は8町すべての住民が受け入れやすい名を得たともいえる。
+    sources:
+    - r6-minamishimabara-uub
+    - r6-minamishimabara-city
+  relations:
+  - pref/42
+  - muni/42-島原市
+  - muni/42-雲仙市
+  unknowns:
+  - 旧中心地の「有家」「有馬」という地名自体の語源は確認できなかった
+  - 新市名の最終決定が住民投票・協議会投票のいずれで行われたかは確認できなかった
+  - 市名の選定理由を記した合併協議会の一次資料は確認できなかった（変遷情報データベースの記録による）
+  updated: '2026-11-13'
+- id: muni/42-壱岐市
+  code: '422100'
+  names:
+    ja: 壱岐市
+    reading: いきし
+    aliases:
+    - 一支国
+    - 一大国
+    - 伊伎島
+    - 壱州
+    - 郷ノ浦町
+  user_terms:
+  - 一支国の島
+  - いき
+  - 原の辻遺跡のある島
+  - 壱州（いっしゅう）
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 平成16年（2004年）3月1日、郷ノ浦町・勝本町・芦辺町・石田町が合併して発足した、壱岐島全域を市域とする市。市名は律令制の国名「壱岐」を継ぐもので、島は3世紀の史書に「一大国」（『魏略』逸文などでは「一支国」）として現れ、『古事記』には「伊伎島」と記される。対馬とともに邪馬台国へ向かう海の道の要衝だった。
+  first_attestation:
+    era: 3世紀後半
+    year_western: null
+    document: 『三国志』魏書東夷伝倭人条（魏志倭人伝）
+    note: 「一大国」として現れるのが史料上の初見とされ、『魏略』の逸文・『梁書』『隋書』では「一支国」と記される（Wikipedia「壱岐国」の紹介による。原文そのものは未確認のため紹介形で記録）
+  claims:
+  - text: 壱岐市の地方公共団体コードは422100である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 壱岐市は平成16年（2004年）3月1日、郷ノ浦町・勝本町・芦辺町・石田町の4町の合併で発足し、壱岐郡は消滅した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-iki-city-ayumi
+  - text: 文化庁の日本遺産ストーリーは、壱岐の原の辻遺跡を『魏志倭人伝』の一支国の「王都」と位置づけ、海上交易で栄えた国際交流の拠点だったと紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-heritage-kokkyo
+  - text: 壱岐の史料上の初見は『三国志』魏志倭人伝の「一大国」とされ、『魏略』の逸文・『梁書』『隋書』では「一支国」と記されることをWikipedia「壱岐国」が紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-iki-wiki-kuni
+  - text: 古くは伊伎・伊吉・伊岐・由紀など様々に表記されたが、7世紀に令制国としての壱岐国が設けられると、「壱岐」と書いて「いき」と読む形が定着したとWikipedia「壱岐国」は紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-iki-wiki-kuni
+  - text: 『古事記』には「伊伎島」と記され、国生みの大八島の一つとされることをWikipedia「壱岐市」が紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-iki-wiki
+  - text: 江戸時代は平戸藩領だった壱岐は、明治4年（1871年）の廃藩置県で平戸県となり、同年11月に長崎県の管轄となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-iki-city-ayumi
+  - text: 壱岐国の国府は石田郡にあったとされるが、所在地は確定しておらず遺跡も見つかっていない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - r6-iki-wiki-kuni
+  column:
+    title: 市の博物館は「一支国」の名を受け継ぐ
+    text: 壱岐市の市名は律令国の「壱岐」だが、市立博物館の名は「一支国博物館」という。3世紀の史書でこの島を指したもう一つの古い名を、現代の施設が掲げているのである。『三国志』の通行本では「一大国」、他の史書では「一支国」と、古代の史料の間でも表記が揺れた島の名は、最終的に「壱岐」の二字に定着したが、「一支国」のほうも原の辻遺跡の往時の都の名として島に生き続けている。
+    sources:
+    - r6-iki-wiki
+    - r6-heritage-kokkyo
+  relations:
+  - pref/42
+  - muni/42-対馬市
+  unknowns:
+  - 「いき」の語源の確定説は確認できなかった
+  - 合併時の市名選定の過程（公募の有無・候補名）は市公式資料で確認できなかった
+  - 『古事記』の「伊伎島」表記は二次資料経由の確認にとどまり、原文では確認していない
+  updated: '2026-11-13'
+- id: muni/42-大村市
+  code: '422053'
+  names:
+    ja: 大村市
+    reading: おおむらし
+    aliases: []
+  user_terms:
+  - 大村純忠の城下町
+  - 長崎空港のある市
+  - 大村湾の市
+  naming_type: その他（中世の地名「大村」に由来し、大村藩の城下町として継承された）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 市名は中世の地名「大村」に由来し、名字の大村氏はこの地名を名乗った側である。1320年の文書に「当庄大村」と見え、鎌倉末期には大村を称する複数の家があった。994年に藤原直澄が入部して以来、大村氏は幕末まで同じ土地を治め、大村純忠は日本初のキリシタン大名として知られる。1942年に大村町と5村が合併して市制を施行した。
+  first_attestation:
+    era: 鎌倉時代
+    year_western: 1320
+    document: 東福寺領肥前国彼杵庄文書目録案（「当庄大村」）
+    note: 『日本歴史地名大系』が紹介する中世文書による。これより古い用例の有無は未確認
+  claims:
+  - text: 『日本歴史地名大系』によれば、「大村」は中世より見える地名で、はじめ彼杵庄のうちとして現れ、元応2年（1320）の東福寺文書に「当庄大村」と見える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r5-omura-kotobank
+  - text: 『日本歴史地名大系』によれば、鎌倉末期の彼杵庄内には大村を名字とする勢力が複数確認でき、正応2年（1289）に元寇の恩賞を受けた大村家信もその一つで、名字は地名に由来すると考えられる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r5-omura-kotobank
+  - text: 『日本大百科全書（ニッポニカ）』によれば、正暦5年（994年）に藤原直澄が久原城に入部して以来、大村氏は幕末まで同じ土地を治め続け、大村藩2万8000石の城下町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-omura-kotobank
+  - text: 『日本大百科全書（ニッポニカ）』によれば、戦国時代の大村純忠はポルトガルとの交易を行って大村を繁栄させた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-omura-kotobank
+  - text: 大村市公式の市史によれば、大村純忠は日本初のキリシタン大名とされ、天正遣欧少年使節も大村とかかわりが深い
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-omura-city-shishi
+  - text: 大村市公式の市史によれば、大村市は1942年（昭和17年）2月11日に大村町・萱瀬村・福重村・松原村・三浦村・鈴田村の1町5村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-omura-city-shishi
+  - text: 地方公共団体コードは422053である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 千年、領主が変わらなかった城下町
+    text: 城下町はふつう、領主が替わるたびに姿を変える。だが大村は違った。994年に藤原直澄が入って以来、幕末までの約870年間、同じ大村氏がこの地を治め続けた。『日本大百科全書』が「領主の変わらない城下町はきわめてまれ」と評するゆえんである。その大村氏が名乗った「大村」は、もともと土地の名だった。1320年の文書に残る「当庄大村」が示すように、地名が先にあり、人がそれを名字にした。戦国期の大村純忠がキリシタン大名となり、南蛮貿易で大村湾の港を賑わせたのも、その千年続く地名の上でのことだった。
+    sources:
+    - r5-omura-kotobank
+    - r5-omura-city-shishi
+  relations:
+  - pref/42
+  unknowns:
+  - 「大村」の語源（大きな村落にちなむ通称的な名か等）は専門資料で確認できなかった
+  - 1320年より古い「大村」の用例があるかは未確認
+  updated: '2026-11-13'
+- id: muni/42-対馬市
+  code: '422096'
+  names:
+    ja: 対馬市
+    reading: つしまし
+    aliases:
+    - 津島
+    - 対州
+    - 厳原町
+  user_terms:
+  - 国境の島
+  - つしま
+  - 対州（たいしゅう）
+  - 厳原（中心地の旧町名）
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 平成16年（2004年）3月1日、島内の厳原町・美津島町・豊玉町・峰町・上県町・上対馬町の6町が合併して発足した、対馬島全域を市域とする市。市名は律令制の国名であり島名でもある「対馬」を継いだもので、「対馬」は3世紀の『魏志倭人伝』に「対馬国」として現れる古い名である。古くは「津島」とも書かれ、朝鮮半島との国境の島として防人・対馬藩・朝鮮通信使の歴史を重ねてきた。
+  first_attestation:
+    era: 3世紀後半
+    year_western: null
+    document: 『三国志』魏書東夷伝倭人条（魏志倭人伝）
+    note: 「対馬国」としての初出とされる。現存最古の版である紹煕本では「対海国」と表記されるとWikipedia「対馬国」が紹介している（原文そのものは未確認のため紹介形で記録）
+  claims:
+  - text: 対馬市の地方公共団体コードは422096である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 対馬市は平成16年（2004年）3月1日、厳原町・美津島町・豊玉町・峰町・上県町・上対馬町の島内6町の合併で成立し、対馬島の全域が一つの市となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-tsushima-kotobank
+  - text: 新市名は公募の最終候補「対馬」「つしま」「国境（こっきょう）」の3点から「対馬」に決定された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-tsushima-uub
+  - text: 対馬は『魏志倭人伝』に「対馬国」として記され、文化庁の日本遺産ストーリーは、朝鮮半島から対馬・壱岐を経て邪馬台国を目指した中国の使節の航路を、その記述に重ねて紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-heritage-kokkyo
+  - text: 『魏志倭人伝』は対馬国について「所居は絶島、方可四百余里、土地は山険しく深林多く、千余戸あり、良田なく海物に食して自活し、船に乗り南北市糴す」と記したとWikipedia「対馬国」が原文を引いて紹介する
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-tsushima-wiki-kuni
+  - text: 対馬は古くは「津島」とも書かれたと『デジタル大辞泉』が補説する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-tsushima-kotobank
+  - text: 天智天皇3年（664年）に対馬に防人と烽（とぶひ）が置かれ、鎌倉時代中期から宗氏が島を支配して、室町・江戸時代を通じて朝鮮貿易の特権を握ったと『精選版日本国語大辞典』は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r6-tsushima-kotobank
+  - text: 「つしま」の語源については確定した説が専門辞典に見当たらず、「津島」の表記との関係を含め決められない
+    kind: fact
+    level: E5
+    status: indeterminate
+    sources:
+    - r6-tsushima-kotobank
+    - r6-tsushima-wiki-kuni
+  column:
+    title: 「国境市」になりかけた対馬市
+    text: 2004年の合併で新市名の最終候補に残ったのは、「対馬」「つしま」、そして読みまで添えられた「国境（こっきょう）」の3点だった。朝鮮半島まで約50キロという位置を、そのまま市名にしようという案が最終段階まで残ったことになる。選ばれたのは3世紀の史書にまで遡る「対馬」で、市名は島の通称ではなく律令国の名を継ぐ形に落ち着いた。なお「国境の島」は現在、日本遺産「国境の島 壱岐・対馬・五島」の題名として生きている。
+    sources:
+    - r6-tsushima-uub
+    - r6-heritage-kokkyo
+  relations:
+  - pref/42
+  - muni/42-壱岐市
+  unknowns:
+  - 「つしま」の語源の確定説は確認できなかった
+  - 対馬国府の厳原への比定は広く知られるが、今回の出典範囲では公的資料で直接確認できなかったため主張に入れていない
+  - 新市名公募の応募総数は確認できなかった（最終候補の記録は変遷情報データベースによる）
+  updated: '2026-11-13'
+- id: muni/42-島原市
+  code: '422037'
+  names:
+    ja: 島原市
+    reading: しまばらし
+    aliases:
+    - 嶋原
+  user_terms:
+  - 島原の乱の市
+  - 島原城のある市
+  - しまばらって何と読む
+  naming_type: その他（中世以来の地名「島原」を継承して市制を施行）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 市名は中世から見える地名「島原」に由来する。16世紀にはキリシタン史料にも現れ、1618年から松倉重政が島原城を築いて城下町が形成された。1637年の島原の乱で名は全国に知られた。1940年に島原町・安中村・杉谷村が合併して市制を施行した。「島原」の語源に定説はない。
+  first_attestation:
+    era: 戦国時代
+    year_western: null
+    document: 永禄9年（1566）のルイス・デ・アルメイダ書簡など中世史料
+    note: 『日本歴史地名大系』は地名が中世より見えると記すが、初出の特定はできなかった
+  claims:
+  - text: 『日本歴史地名大系』によれば、「島原」の地名は中世より見え、永禄9年（1566）に島原へ初めて宣教したアルメイダの書簡や文禄元年（1592）の布教機関の記録にも「島原」の名が現れる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r5-shimabara-kotobank-mura
+  - text: 島原市公式サイトによれば、城下町としての島原の歴史は元和4年（1618）から7年の歳月をかけ松倉重政が島原城を築城したときに始まり、以後は松平7万石の城下町として島原半島の中枢となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-shimabara-city-gaiyo
+  - text: 島原市公式サイトによれば、寛永14年（1637）に松倉勝家の苛政とキリシタン弾圧に対する「島原の乱」が起こり、この地名は騒乱の名として全国に知られるようになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-shimabara-city-gaiyo
+  - text: 島原市は1940年（昭和15年）4月1日に島原町・安中村・杉谷村が合併して市制を施行し、1955年（昭和30年）に三会村、2006年（平成18年）1月1日に有明町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-shimabara-city-gaiyo
+  - text: 島原市公式サイトによれば、寛政4年（1792）には眉山が大崩壊して津波が発生し、島原領内でも多数の死者が出る大災害となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-shimabara-city-gaiyo
+  - text: 地方公共団体コードは422037である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 騒乱の名前になった城下町
+    text: 「島原」という地名が全国に知れ渡ったのは、1637年の島原の乱によってである。築城からわずか20年ほどで、城下町の名は一揆の代名詞になった。さらに1792年には眉山が崩れて津波が対岸の肥後を襲い、「島原大変、肥後迷惑」という言い習わしまで生んだ。地名そのものの語源は今も判然としないが、半島全体が「島原半島」と呼ばれるようになったのは、この城下町の名の重みによる。1940年の市制施行時に懸賞で決められた市章は、4つの「マ」を配して「シマ」を表すという、名への愛着がうかがえる意匠だった。
+    sources:
+    - r5-shimabara-city-gaiyo
+    - r5-shimabara-kotobank-mura
+  relations:
+  - pref/42
+  unknowns:
+  - 「島原」の語源（海に突き出た島のような原にちなむとする見方など）は専門辞典に確定的な説明がなく、定説を確認できなかった
+  - 中世の初出とされる具体的な文書は本調査では特定できなかった
+  updated: '2026-11-13'
+- id: muni/42-平戸市
+  code: '422070'
+  names:
+    ja: 平戸市
+    reading: ひらどし
+    aliases: []
+  user_terms:
+  - 西の都と呼ばれた港町
+  - オランダ商館のある市
+  - 潜伏キリシタンの島
+  - ひらどって何と読む
+  naming_type: 合併新設（2005年の新設合併で発足。市名は旧平戸市以来の「平戸」を継承）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 市名は平戸島とその港町「平戸」に由来し、中世から松浦氏の拠点の湊として知られた。1550年のポルトガル船入港以来、オランダ・イギリス商館が置かれる国際港「西の都」として栄え、平戸藩の城下町となった。現在の平戸市は2005年に平戸市・生月町・田平町・大島村が新設合併して発足した。語源は「平たい門戸」とする説明があるが定説は未確定である。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 『日本歴史地名大系』は平戸湊が中世より湊として機能し松浦氏の拠点だったと記すが、「平戸」の初出文書は特定できなかった
+  claims:
+  - text: 「平戸」の語源について、国土交通省の平戸港資料は「平たい門戸」の意をもつ地名だと説明するが、専門辞典による語源の確定は確認できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - r5-hirado-mlit-minato
+  - text: 『日本歴史地名大系』によれば、平戸湊は中世より湊の機能があり、貿易の市として平戸松浦氏の拠点となっていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - r5-hirado-kotobank-minato
+  - text: 国土交通省の資料によれば、天文19年（1550）のポルトガル船入港に始まり、スペイン・オランダ・イギリスの船と商館が続き、長崎開港までの92年間、平戸は日本唯一の国際港として繁栄した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-hirado-mlit-minato
+  - text: 平戸市公式資料によれば、17世紀前半の平戸はオランダやイギリスの商館が置かれた開かれた国際都市で、「西の都」と呼ばれた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-hirado-city-gikai
+  - text: 平戸市公式資料によれば、2005年（平成17年）10月1日に平戸市・生月町・田平町・大島村の1市2町1村が合併し、新しい平戸市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r5-hirado-city-gikai
+  - text: 初代の平戸市は1955年（昭和30年）1月1日に平戸町と中野村・獅子村・紐差村・中津良村・津吉村・志々伎村が新設合併し、市制を施行して発足した
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r5-hirado-wikipedia
+  - text: 地方公共団体コードは422070である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「西の都」と呼ばれた門戸の港
+    text: 本土と平戸島のあいだの狭い海峡、平戸瀬戸を抜けると、奥に穏やかな入江が開ける。港の入口＝門戸にあたるこの地形が、「平戸」の名の由来とする説明がある。中世に松浦水軍の本拠となったこの港は、1550年にポルトガル船が入ってから約90年間、日本で唯一の国際貿易港だった。オランダ商館とイギリス商館が並び、ザビエルもここに上陸し、人々は平戸を「西の都」と呼んだ。1641年にオランダ商館が長崎の出島へ移されて国際港の時代は終わるが、港の名は藩名となり、やがて市の名として今に続いている。
+    sources:
+    - r5-hirado-mlit-minato
+    - r5-hirado-city-gikai
+  relations:
+  - pref/42
+  unknowns:
+  - 「平戸」の語源は「平たい門戸」説のほかに諸説の検討ができておらず、専門辞典での確定は得られなかった
+  - 「平戸」の初出とされる一次文献は本調査では特定できなかった
+  updated: '2026-11-13'
+- id: muni/42-松浦市
+  code: '422088'
+  names:
+    ja: 松浦市
+    reading: まつうらし
+    aliases:
+    - 志佐町
+    - 松浦郡
+  user_terms:
+  - まつうら
+  - 松浦党の本拠地
+  - アジフライの聖地
+  - 鷹島（元寇の海底遺跡）のある市
+  naming_type: その他（合併に際し郡名「松浦」を市名に採用したもの）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 昭和30年（1955年）3月31日、志佐町・新御厨町・調川町が新設合併し、同時に市制を施行して発足した市で、同年4月に今福町を編入、平成18年（2006年）には福島町・鷹島町と合併して現在の市域となった。合併した町の中に「松浦町」はなく、市名は肥前国松浦郡の郡名から採られた。松浦郡は中世の海の武士団「松浦（まつら）党」の本拠で、氏と党の読みは「まつら」、市の読みは「まつうら」と異なる。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「松浦郡」の確かな初出は今回確認できなかった。市公式資料は、当地が律令制下で肥前国松浦郡の区域だったと紹介するにとどまる
+  claims:
+  - text: 松浦市の地方公共団体コードは422088である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 松浦市は昭和30年（1955年）3月31日に志佐町・新御厨町・調川町が新設合併して市制を施行し発足し、同年4月に今福町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-matsuura-city-plan
+  - text: 平成18年（2006年）1月1日、松浦市・福島町・鷹島町が新設合併して現在の松浦市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-matsuura-city-plan
+  - text: 発足時の合併構成町に「松浦町」は含まれておらず、市名の「松浦」は当地が属した松浦郡の郡名に由来する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-matsuura-city-plan
+  - text: 律令制下の当地は肥前国松浦郡の区域で、平安時代後期に嵯峨源氏の流れを汲む源久が松浦郡宇野御厨の検校となって松浦久を名乗り、そのもとで松浦水軍として知られる武士団「松浦党」が結成されたと市の公式資料は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-matsuura-city-plan
+  - text: 松浦氏・松浦党の読みは「まつら」で、市名の読み「まつうら」とは異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-matsuura-city-plan
+  - text: 2006年の合併で市域に入った鷹島の沖は元寇の古戦場と伝えられ、鷹島神崎遺跡は平成24年（2012年）に日本で初めての海底遺跡として国史跡に指定された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-matsuura-city-plan
+  - text: 「松浦」という地名自体の語源は、今回の出典範囲では確定した説を確認できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - r6-matsuura-city-plan
+  column:
+    title: 「まつら党」と「まつうら市」—読みの違う松浦
+    text: 松浦市を調べると、市の公式資料の中で武士団は一貫して「松浦（まつら）党」と振り仮名付きで書かれている。中世の松浦氏は地名を名乗り「まつら」と読んだが、現在の市の読みは「まつうら」である。同じ漢字の地名と氏が、時代を経て読みを違えたまま並び立っている。市は「アジフライの聖地」を名乗る一方で、まつうら党の名を冠した交流組織もあり、二つの読みが今も地域の中で使い分けられている。
+    sources:
+    - r6-matsuura-city-plan
+  relations:
+  - pref/42
+  - muni/42-平戸市
+  unknowns:
+  - 「松浦」の語源（松浦川との関係を含む）は確認できなかった
+  - 1955年の市制時に郡名「松浦」を市名に選んだ選定過程の一次資料は確認できなかった
+  - 松浦郡の文献上の初出（『和名類聚抄』の用例など）は原文・専門辞典で直接確認できなかった
+  updated: '2026-11-13'
+- id: muni/42-西海市
+  code: '422126'
+  names:
+    ja: 西海市
+    reading: さいかいし
+    aliases:
+    - 西海町
+    - 西海村
+  user_terms:
+  - さいかい
+  - 西彼杵半島の北の市
+  - 西海国立公園のまち
+  - 道の駅さいかい
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 平成17年（2005年）4月1日、西彼杵郡の西彼町・西海町・大島町・崎戸町・大瀬戸町が新設合併して発足した市。市名は公募と協議を経て「西海」に決まったが、この名は1955年に面高村・七釜村の合併で生まれた西海村に遡り、同年3月に指定された西海国立公園を記念して名付けられたとされる。「西海」という地名は国立公園の指定を契機に生まれた、比較的新しい名である。
+  first_attestation:
+    era: 昭和30年
+    year_western: 1955
+    document: null
+    note: 「西海」は昭和30年（1955年）4月1日の西海村発足で自治体名として現れたのが確認できる初出で、それ以前の地名としての用例は確認できなかった
+  claims:
+  - text: 西海市の地方公共団体コードは422126である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 西海市は平成17年（2005年）4月1日、西彼町・西海町・大島町・崎戸町・大瀬戸町の5町の新設合併で発足した
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-saikai-uub
+  - text: 新市名は公募上位に「西海」が入り、最終候補の「西海」「西彼杵」「西そのぎ」の3点から「西海市」に決定され、市役所は旧大瀬戸町役場に置かれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-saikai-uub
+  - text: 合併前の西海町は、昭和30年（1955年）に面高村と七釜村が合併して発足した西海村が、昭和32年（1957年）に瀬川村と合併し、昭和44年（1969年）に町制を施行したものであるとWikipedia「西海町」は紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-saikai-wiki-cho
+  - text: 「西海」という名は、昭和30年（1955年）3月16日の西海国立公園の指定を記念して、西海村の発足時に名付けられたものであるとWikipedia「西海町」は紹介している（参考文献として『角川日本地名大辞典』42長崎県を挙げる）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-saikai-wiki-cho
+  - text: 旧西海町の横瀬浦は永禄5年（1562年）に平戸港に次ぐ海外貿易の窓口として開港したが、宗教上の対立から翌年に焼き討ちされ、貿易港の機能は後に長崎へ移ったとWikipedia「西海町」は紹介している
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - r6-saikai-wiki-cho
+  column:
+    title: 国立公園の指定から2週間で生まれた地名
+    text: 「西海」という名の始まりは1955年である。同年3月16日に西海国立公園が指定され、その直後の4月1日、面高村と七釜村が合併して生まれた新しい村は、公園の指定を記念して「西海村」と名付けられた。半世紀後の2005年、5町の合併で生まれる新市の名を公募すると「西海」が候補の中心に残り、そのまま市名になった。国立公園の名前が村の名になり、町の名になり、やがて市の名にまで昇格した例である。
+    sources:
+    - r6-saikai-wiki-cho
+    - r6-saikai-uub
+  relations:
+  - pref/42
+  - muni/42-佐世保市
+  unknowns:
+  - 西海国立公園指定を記念した命名という説明は、『角川日本地名大辞典』に基づくとされる二次情報経由の確認にとどまり、辞典原文では確認していない
+  - 2005年の新市名選定で「西海」が選ばれた理由の公式説明（協議会議事録等）は確認できなかった
+  - 西海村発足以前に「西海」が地域名として使われていたかは確認できなかった
+  updated: '2026-11-13'
+- id: muni/42-諫早市
+  code: '422045'
+  names:
+    ja: 諫早市
+    reading: いさはやし
+    aliases:
+    - 伊佐早
+  user_terms:
+  - いさはやの由来
+  - 眼鏡橋のまち
+  - 諫早ってどう読むの
+  naming_type: その他（領主の姓に合わせて「伊佐早」から改称）
+  prefecture: 長崎県
+  homonyms: []
+  summary: もとの地名は「伊佐早」で、建久8年（1197）の文書に「伊佐早村」が初出する。天正15年（1587）にこの地を与えられた龍造寺氏が姓を「諫早」と改めるのに伴い、地名も「伊佐早」から「諫早」に改められたと市の公式資料は伝える。1940年に市制を施行し、2005年の合併でも名が継承された。
+  first_attestation:
+    era: 建久8年
+    year_western: 1197
+    document: 八幡宇佐神宮神領大鏡
+    note: 「伊佐早村」の初出（諫早市史・市勢要覧総説による）。現在の「諫早」の表記は、近世に龍造寺（諫早）氏の姓に合わせて改められたもの
+  claims:
+  - text: 建久8年（1197）の『八幡宇佐神宮神領大鏡』の中に「伊佐早村」が初めて登場すると、諫早市の市史・市勢要覧総説は記す
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-isahaya-city-shishi
+  - text: 伊佐早村は宝治元年（1247）には「伊佐早庄」として登場し、正和3年（1314）の『深江文書』によれば仁和寺仏母院領になったとされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-isahaya-city-shishi
+  - text: 天正15年（1587）の豊臣秀吉による九州仕置では、西郷氏の本拠であった伊佐早が龍造寺家晴に与えられた（『日本歴史地名大系』「諫早郷」）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l6-isahaya-kotobank
+  - text: その後、龍造寺氏は姓を「諫早」に改め、土地の名も「伊佐早」から「諫早」へ改められたと諫早市公式サイトは伝える。長崎県の資料は、姓を改めたのは2代目の龍造寺直孝であるとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-isahaya-city-travel
+    - l6-isahaya-pref-nagasaki
+  - text: 1940年（昭和15年）9月1日、諫早町・小栗村・小野村・有喜村・真津山村・本野村・長田村が合併して市制を施行し、諫早市が誕生したとWikipediaは紹介する（地方公共団体コードは422045）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l6-isahaya-wikipedia
+    - b-cap-chiba-soumu-code
+  - text: 2005年（平成17年）3月1日、旧諫早市に多良見町・森山町・飯盛町・高来町・小長井町が合わさる1市5町の合併で新・諫早市が誕生し、新市章も旧1市5町を表す六つの輪で構成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-isahaya-city-shishi
+  - text: 「伊佐早」という名そのものの語源については、諫早市の市史・市勢要覧総説にも定説の提示がなく、本調査では確定できなかった
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - l6-isahaya-city-shishi
+  column:
+    title: 勝者が名を変えたまち――伊佐早から諫早へ
+    text: 諫早は、征服した側が自分の姓に合わせて地名の字を変えた、珍しいタイプの地名である。天正15年（1587）、西郷氏を滅ぼしてこの地に入った龍造寺氏が姓を「諫早」と改めると、土地の名も「伊佐早」から「諫早」に書き換えられた。読みの「いさはや」はそのままに、字だけが新しい領主に合わせて取り替えられたわけで、以来この地は維新まで諫早家に治められた。初出から400年近く「伊佐早」だった名が、戦国末の政変で現在の姿になった。
+    sources:
+    - l6-isahaya-city-travel
+    - l6-isahaya-pref-nagasaki
+    - l6-isahaya-city-shishi
+  relations:
+  - pref/42
+  unknowns:
+  - 「伊佐早」の語源は定説がなく未確定（市史にも語源説の提示がない）
+  - 「諫早」への改称が具体的に何年に行われたかは、2代直孝の代とされるものの年次は未確認
+  - 1940年の市制時の合併構成はWikipediaの整理に依拠しており、市公式の沿革資料での直接確認が未了
+  updated: '2026-11-13'
+- id: muni/42-長崎市
+  code: '422011'
+  names:
+    ja: 長崎市
+    reading: ながさきし
+    aliases:
+    - 長埼
+    - 永埼
+  user_terms:
+  - 長崎市の名前は長い岬から
+  - 長崎氏って誰
+  - 長崎はいつ開港したの
+  - 長崎市はいつできた
+  naming_type: その他（港町「長崎」の名をそのまま市名とした）
+  prefecture: 長崎県
+  homonyms: []
+  summary: 市名は港町「長崎」に由来する。地名の起源には、長崎港に突き出した「長い岬」にちなむ説と、在地豪族・長崎氏にちなむ説があり、長崎市関連資料も両説を併記する。1571年の開港で貿易港として発展し、1889年に旧幕府直轄地を中心とした区域で市制が施行された。
+  first_attestation:
+    era: 嘉禎3年
+    year_western: 1237
+    document: 福田文書等にみえる長崎小太郎重綱の知行記録（研究経由）
+    note: 鎌倉初期に「長埼浦」の地頭職を知行した長崎氏の存在が確認できる時点。地名自体はこれ以前から存在した可能性が高い
+  claims:
+  - text: 市名「長崎」は港町の名に由来し、1889年（明治22年）4月1日に市制が施行されたときの市域は、旧幕府直轄地を中心とした区域であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-nagasaki-city-fuuchi
+    - f-cap-nagasaki-city-chronology
+  - text: 地名「長崎」の由来には、諏訪神社付近から長崎港へ突き出した長い岬の地形にちなむとする説がある
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-nagasaki-city-magazine
+    - f-nagasaki-city-profile
+  - text: もう一つの説は、室町時代に移住してきた豪族・長崎氏（永崎氏）の名に由来するとするもので、長崎市関連資料は岬説と長崎氏説の2説を併記している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 鎌倉初期の嘉禎3年（1237年）頃、長崎小太郎重綱が長埼浦の地頭職を知行する御家人であったことが、後の研究で判明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 野母崎半島を指す「長か岬（ながかみさき）」が方言で「なんかみさき」と転訛して「長崎」になったという説明は、地元で語られる俗説として伝えられている
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 長崎の発展は元亀2年（1571年）のポルトガル船入港と開港を画期とし、大村純忠のもとで岬の周辺に6町の町建てが進んだ
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-city-magazine
+    - f-nagasaki-city-profile
+  - text: 開港当時の長崎の領主格であった長崎甚左衛門純景は長崎氏の後裔で、大村純忠の娘を妻とし、自らもキリシタンとなった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-city-magazine
+  - text: 現在の市域は、2005年（平成17年）に香焼・伊王島・高島・野母崎・三和・外海の6町、2006年（平成18年）に琴海町と合併して拡大したもので、開港時の町域とは大きく異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-nagasaki-city-profile
+  column:
+    title: 町の中心は、岬の付け根から先端へ移った
+    text: 開港前の長崎の中心は、諏訪神社の鎮座する森崎——岬の付け根あたりの集落だった。ところが1571年の開港とともに、大村純忠は岬の先のほうに横瀬浦町・平戸町・外浦町・大村町・文治町・嶋原町という6つの新しい町を建て、貿易の拠点をそちらへ寄せた。現在の県庁・市役所通りのあたりがその6町に相当する。つまり「長崎」という町の重心は、開港の瞬間に岬を少し下った場所へ引っ越したのであり、古い中心は神社の門前として残った。
+    sources:
+    - f-nagasaki-city-magazine
+    - f-cap-nagasaki-magazine2
+  relations:
+  - pref/42
+  unknowns:
+  - 「長崎」の語が文献に現れる正確な初出（表記は永埼・長埼など）は本調査では一次史料で直接確認できておらず、1237年の知行記録は研究紹介経由の確認である
+  - 岬由来説と長崎氏由来説の先後関係（地名が先か苗字が先か）は確定していない
+  updated: '2026-11-13'
+- id: muni/42-雲仙市
+  code: '422134'
+  names:
+    ja: 雲仙市
+    reading: うんぜんし
+    aliases:
+    - 温泉岳
+    - 温泉
+    - 小浜町
+    - 吾妻町
+  user_terms:
+  - 雲仙普賢岳のまち
+  - うんぜん
+  - 雲仙温泉のある市
+  - 平成新山が見える市
+  naming_type: 合併新設
+  prefecture: 長崎県
+  homonyms: []
+  summary: 平成17年（2005年）10月11日、国見町・瑞穂町・吾妻町・愛野町・千々石町・小浜町・南串山町の7町が新設合併して発足した市。市名は雲仙岳・雲仙温泉の「雲仙」を採ったものだが、この「雲仙」はもともと「温泉」と書いて「うんぜん」と読んだ名で、昭和9年（1934年）の国立公園指定を機に表記が「雲仙」に改められた。山号「温泉山」は大宝元年（701年）に行基が開いた寺に遡ると環境省資料は紹介している。
+  first_attestation:
+    era: 大宝元年
+    year_western: 701
+    document: 大乗院満明寺の山号「温泉（うんぜん）山」
+    note: 「温泉」と書いて「うんぜん」と読む名の初出として環境省の国立公園管理計画書が紹介するもの。「雲仙」という表記は昭和9年（1934年）の国立公園指定を機に用いられるようになった
+  claims:
+  - text: 雲仙市の地方公共団体コードは422134である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 雲仙市は平成17年（2005年）10月11日、国見町・瑞穂町・吾妻町・愛野町・千々石町・小浜町・南串山町の7町の新設合併で発足し、市役所は当面、旧吾妻町役場に置かれた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-unzen-uub
+  - text: 新市名「雲仙市」の是非を問う住民アンケート（平成15年10月）では賛成が84.1％を占め、合併協議の中で早期に市名が固まっていた
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - r6-unzen-uub
+  - text: 雲仙の歴史は大宝元年（701年）に僧・行基が大乗院満明寺を開基して山号を温泉（うんぜん）山と号したことに始まると、環境省の雲仙天草国立公園管理計画書は紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-unzen-env
+  - text: 「温泉」という書き表し方は、昭和9年（1934年）3月16日に雲仙が日本で最初の国立公園の一つに指定されたことを機に「雲仙」へ改められた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-unzen-env
+  - text: 和銅6年（713年）の『肥前国風土記』には高来郡の名の起こりと温泉の湧出が記されていたことが、同管理計画書に紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-unzen-env
+  - text: 昭和31年（1956年）に天草地域が国立公園へ編入されて「雲仙天草国立公園」となり、雲仙と天草は一つの国立公園の名で結ばれている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - r6-unzen-env
+  column:
+    title: 「温泉」が「雲仙」になった1934年
+    text: 雲仙温泉の名は、長く「温泉」と書いて「うんぜん」と読む、読みと表記のずれた名だった。それが変わったのは1934年、日本で最初の国立公園の一つに選ばれたときである。環境省の資料によれば、公園の指定を機に「温泉」の書き表し方は「雲仙」へ改められた。いわば看板の掛け替えが先にあり、その71年後、合併で生まれた新市は新しいほうの表記「雲仙」をそのまま市名に迎えた。市名の由来を辿ると山や温泉の古さではなく、近代の国立公園行政に行き着く例である。
+    sources:
+    - r6-unzen-env
+    - r6-unzen-uub
+  relations:
+  - pref/42
+  - muni/42-島原市
+  - muni/43-天草市
+  unknowns:
+  - 「うんぜん」という読み自体の語源（なぜ温泉を「うんぜん」と読んだか）は確認できなかった
+  - 合併協議会における市名の公募件数・候補の一覧は確認できなかった（住民アンケートの結果は変遷情報データベースによる）
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  f-cap-nagasaki-city-chronology:
+    label: 長崎市「長崎の歴史（略年表）」（1571年の町づくり開始と1889年の市制施行を記載）
+    url: https://www.city.nagasaki.lg.jp/uploaded/attachment/26518.pdf
+  f-cap-nagasaki-city-fuuchi:
+    label: 長崎市「歴史的風致」資料（1889年の市制施行時の市域は旧幕府直轄地を中心とした区域だったことを記載）
+    url: https://www.city.nagasaki.lg.jp/uploaded/attachment/66320.pdf
+  f-cap-nagasaki-magazine2:
+    label: 長崎市「ナガジン」発見！長崎の歩き方（開港時の長崎は森崎の岬を中心に栄えたとする解説）
+    url: https://www.city.nagasaki.lg.jp/nagazine/hakken0504/index.html
+  k6-sasebo-city-seigaiyou:
+    label: 佐世保市「市政概要」（沿革。1886年の鎮守府設置決定・1902年の市制施行）
+    url: https://www.city.sasebo.lg.jp/documents/22720/12_r8shiseigaiyou.pdf
+  k6-sasebo-ndl-crd:
+    label: レファレンス協同データベース・佐世保市立図書館の事例「佐世保の地名の由来が知りたい」（『佐世保市史』総説篇等に基づく諸説の紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000306124&page=ref_view
+  l6-isahaya-city-shishi:
+    label: 諫早市「総説（市勢要覧）」（建久8年の伊佐早村の初出、伊佐早庄の変遷、旧1市5町を示す新市章の解説）
+    url: https://www.city.isahaya.nagasaki.jp/uploaded/attachment/28084.pdf
+  l6-isahaya-city-travel:
+    label: 諫早市公式観光サイト「まずは諫早のまん中を歩く」（諫早の初登場は鎌倉時代、龍造寺氏による伊佐早から諫早への改名）
+    url: https://www.city.isahaya.nagasaki.jp/site/travel/6267.html
+  l6-isahaya-kotobank:
+    label: コトバンク「諫早郷」（日本歴史地名大系。天正15年に龍造寺家晴へ伊佐早が与えられた経緯）
+    url: https://kotobank.jp/word/%E8%AB%AB%E6%97%A9%E9%83%B7-3100122
+  l6-isahaya-pref-nagasaki:
+    label: 長崎県「諫早公園」関連資料（西郷氏の統一と1587年の敗北、2代龍造寺直孝が姓を諫早に改めた経緯）
+    url: https://www.pref.nagasaki.jp/uploads/2023/09/1693530176.pdf
+  l6-isahaya-wikipedia:
+    label: Wikipedia「諫早市」（1940年の合併と市制の構成。原典確認が未了のため低いレベルで扱う）
+    url: https://ja.wikipedia.org/wiki/%E8%AB%AB%E6%97%A9%E5%B8%82
+  r5-hirado-city-gikai:
+    label: 平戸市公式「平戸市議会の概要」（市の概況、2005年の合併、「西の都」）
+    url: http://city.hirado.nagasaki.jp/kurashi/gyosei/gikai/files/R08.gikaigaiyou.pdf
+  r5-hirado-kotobank-minato:
+    label: コトバンク『日本歴史地名大系』「平戸湊」（中世より湊の機能があり松浦氏の拠点）
+    url: https://kotobank.jp/word/%E5%B9%B3%E6%88%B8%E6%B9%8A-3100496
+  r5-hirado-mlit-minato:
+    label: 国土交通省「『歴史・文化』を活用したみなとまちづくり（平戸港）」（「平たい門戸」の説明、1550年から92年間の国際港）
+    url: https://www.mlit.go.jp/kowan/minatomachi/images/H16/hirado.pdf
+  r5-hirado-wikipedia:
+    label: Wikipedia「平戸市」（1955年の初代平戸市の発足）
+    url: https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%B8%E5%B8%82
+  r5-omura-city-shishi:
+    label: 大村市公式「新編大村市史」第二巻前付け（1942年の市誕生、大村純忠と天正遣欧少年使節）
+    url: https://www.city.omura.nagasaki.jp/rekishi/kyoiku/shishi/omurashishi/dai2kan/documents/dai2maetsuke.pdf
+  r5-omura-kotobank:
+    label: コトバンク「大村」（『日本歴史地名大系』の中世文書の用例と『日本大百科全書（ニッポニカ）』の大村藩・大村純忠）
+    url: https://kotobank.jp/word/%E5%A4%A7%E6%9D%91-450950
+  r5-shimabara-city-gaiyo:
+    label: 島原市公式「市の概要」（島原城の築城、島原の乱、1940年の市制施行）
+    url: https://www.city.shimabara.lg.jp/hpkiji/pub/detail.aspx?c_id=3&id=2772
+  r5-shimabara-kotobank-mura:
+    label: コトバンク『日本歴史地名大系』「島原村」（地名は中世より見える、キリシタン史料の用例）
+    url: https://kotobank.jp/word/%E5%B3%B6%E5%8E%9F%E6%9D%91-3100275
+  r6-goto-kotobank:
+    label: コトバンク「五島列島」（『日本大百科全書』『精選版日本国語大辞典』の解説。五つの主島と、古くは値嘉郷と呼ばれたこと）
+    url: https://kotobank.jp/word/%E4%BA%94%E5%B3%B6%E5%88%97%E5%B3%B6-18500
+  r6-goto-pref-gaiyo:
+    label: 長崎県五島振興局「五島の概要」（令和6年9月。主な島は福江島・久賀島・奈留島・若松島・中通島の5島で列島全体の92.5％を占めるとする県公式資料）
+    url: https://www.pref.nagasaki.jp/uploads/2024/10/1729665394.pdf
+  r6-goto-shisei:
+    label: 五島市「市勢要覧2023年版」（市の沿革・合併の経緯を収録した市公式要覧）
+    url: https://www.city.goto.nagasaki.jp/s014/020/020/020/2023/202301.pdf
+  r6-goto-uub:
+    label: 都道府県市区町村「五島市（2004年〜）市区町村変遷情報」（新市名の最終候補5点と決定の記録）
+    url: https://uub.jp/upd/c/614.html
+  r6-heritage-kokkyo:
+    label: 日本遺産ポータルサイト（文化庁）「国境の島 壱岐・対馬・五島～古代からの架け橋～」ストーリー（『魏志倭人伝』の対馬国・一支国と原の辻遺跡の位置づけ）
+    url: https://japan-heritage.bunka.go.jp/ja/stories/story017
+  r6-iki-city-ayumi:
+    label: 壱岐市公式「壱岐市行政区のあゆみ」（明治以降の郡の変遷と平成16年3月1日の壱岐市発足を記す市公式年表）
+    url: https://www.city.iki.nagasaki.jp/soshiki/somuka/soumuhan/shokai/3668.html
+  r6-iki-wiki:
+    label: Wikipedia「壱岐市」（『古事記』の伊伎島、『魏志倭人伝』の一支国、市立一支国博物館への言及）
+    url: https://ja.wikipedia.org/wiki/%E5%A3%B1%E5%B2%90%E5%B8%82
+  r6-iki-wiki-kuni:
+    label: Wikipedia「壱岐国」（史料上の初見は『三国志』の「一大国」で『魏略』逸文等では「一支国」とされること、表記の多様さと「壱岐」の定着、国府の比定が未確定であることの紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%A3%B1%E5%B2%90%E5%9B%BD
+  r6-matsuura-city-plan:
+    label: 松浦市「都市計画マスタープラン」第2章（市の沿革。松浦（まつら）党の結成、昭和30年の市制施行、平成18年の合併を記す市公式資料）
+    url: https://www.city-matsuura.jp/material/files/group/62/master-plan02.pdf
+  r6-minamishimabara-city:
+    label: 南島原市公式「市の歴史」（高来郡から南高来郡への変遷、平成18年3月31日の8町対等合併、原城跡と島原・天草一揆の記述）
+    url: https://www.city.minamishimabara.lg.jp/kiji0034399/index.html
+  r6-minamishimabara-uub:
+    label: 都道府県市区町村「南島原市（2006年〜）市区町村変遷情報」（新市名公募の上位案と最終候補「原城」「南島原」の記録）
+    url: https://uub.jp/upd/c/966.html
+  r6-saikai-uub:
+    label: 都道府県市区町村「西海市（2005年〜）市区町村変遷情報」（新市名の公募上位案・候補と決定、市役所が大瀬戸町役場に置かれたことの記録）
+    url: https://uub.jp/upd/c/618.html
+  r6-saikai-wiki-cho:
+    label: Wikipedia「西海町（長崎県）」（1955年の西海村発足と西海国立公園指定を記念した命名、横瀬浦の開港と焼き討ちの紹介。参考文献に『角川日本地名大辞典』42長崎県）
+    url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%B5%B7%E7%94%BA_(%E9%95%B7%E5%B4%8E%E7%9C%8C)
+  r6-tsushima-kotobank:
+    label: コトバンク「対馬」（『デジタル大辞泉』補説に古くは「津島」とも書いたとあり、『精選版日本国語大辞典』『日本大百科全書』の解説を収録）
+    url: https://kotobank.jp/word/%E5%AF%BE%E9%A6%AC-98267
+  r6-tsushima-uub:
+    label: 都道府県市区町村「対馬市（2004年〜）市区町村変遷情報」（新市名の公募上位案・最終候補と決定の記録）
+    url: https://uub.jp/upd/c/625.html
+  r6-tsushima-wiki-kuni:
+    label: Wikipedia「対馬国」（『魏志倭人伝』の対馬国の原文引用と、紹煕本では「対海国」と表記されることの紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%AF%BE%E9%A6%AC%E5%9B%BD
+  r6-unzen-env:
+    label: 環境省「雲仙天草国立公園 雲仙地域管理計画書」（大宝元年の温泉（うんぜん）山の開基、1934年の国立公園指定を機に「温泉」の表記が「雲仙」に改められたとする公式資料）
+    url: https://www.env.go.jp/park/unzen/intro/files/plan_1.pdf
+  r6-unzen-uub:
+    label: 都道府県市区町村「雲仙市（2005年〜）市区町村変遷情報」（合併の経過と、新市名「雲仙市」への住民アンケート（賛成84.1％）の記録）
+    url: https://uub.jp/upd/c/620.html

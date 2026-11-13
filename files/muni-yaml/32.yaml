@@ -1,0 +1,824 @@
+prefecture_code: '32'
+records:
+- id: muni/32-出雲市
+  code: '322032'
+  names:
+    ja: 出雲市
+    reading: いずもし
+    aliases:
+    - 出雲町
+  user_terms:
+  - 出雲の名前の由来
+  - 八雲立つってどういう意味
+  - 出雲の名付け親はスサノオなの
+  - 出る雲という意味の地名なの
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は古代の国名・郡名「出雲」の継承。年代の分かる初見は持統天皇6年（692年）の鰐淵寺の造像銘に見える「出雲国」で、由来そのものは記されていない。『出雲国風土記』は八束水臣津野命の「八雲立つ」を、記紀はスサノオの歌を命名と結びつけるが、語源は未確定。昭和16年（1941年）に市制を施行した。
+  first_attestation:
+    era: 持統天皇6年
+    year_western: 692
+    document: 鰐淵寺銅造観音菩薩立像台座銘
+    note: 島根県古代文化センターの研究員が、年代の分かる「出雲」の初見として挙げる壬辰年（692年）の造像銘で、「出雲国」とある。藤原宮跡出土の木簡にも「出雲評」と見える。いずれも由来そのものは記されていない
+  claims:
+  - text: 出雲市の地方公共団体コードは322032である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 年代の分かる「出雲」の初見は、壬辰年（692年）造立の鰐淵寺銅造観音菩薩立像の台座銘に見える「出雲国」で、藤原宮跡出土の木簡にも「出雲評」とある
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-izumo-kodai-center
+  - text: 『出雲国風土記』（天平5年・733年成立）の総記は、国引きの神である八束水臣津野命が「八雲立つ出雲」と言ったことが国名の由来であるとする
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-fudoki
+    - k5-izumo-kodai-center
+  - text: 一方、『古事記』『日本書紀』では、スサノオが須我の地で雲の立つのを見て「八雲立つ 出雲八重垣」の歌を詠んだことが命名と結びつけられており、古典の間でも命名の主が異なる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - k5-izumo-kodai-center
+  - text: 「出る雲」の意とする解釈は江戸時代以来の通説だが研究者には異論もあり、島根県の観光案内は夕つ方説・五面（いつも）説・アイヌ語説・外国地名説・厳藻（いつも）説などの諸説を列挙している
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - k5-izumo-kodai-center
+    - k5-izumo-kankou-navi
+  - text: 昭和16年（1941年）2月11日に今市町など9町村が合併して出雲町が発足し、同年11月3日に出雲町が市制を施行して出雲市となった
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - k5-izumo-uub
+  - text: 平成17年（2005年）3月22日に旧出雲市・平田市・大社町・佐田町・多伎町・湖陵町が新設合併して現在の出雲市が発足し、平成23年（2011年）10月1日に斐川町を編入した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-izumo-city-koho
+  column:
+    title: 名付け親が本によって違う
+    text: 「出雲」の名付け親は、読む本によって違う。中央で編まれた『古事記』『日本書紀』では須我の地に立ったスサノオ、その地の国造が編んだ『出雲国風土記』では国引きの神・八束水臣津野命である。ただし、どちらの物語も核にあるのは「八雲立つ」という言葉で、雲の立つ土地というイメージは共通している。島根県古代文化センターの研究員は、この食い違い自体が、出雲という名の古さと重みを物語るとみている。
+    sources:
+    - k5-izumo-kodai-center
+  relations:
+  - pref/32
+  unknowns:
+  - 語源は確定していない（「出る雲」説が通説だが異論があり、実証されていない）
+  - 692年の造像銘以前に「出雲」の名がいつ成立したかは不明
+  updated: '2026-11-13'
+- id: muni/32-大田市
+  code: '322059'
+  names:
+    ja: 大田市
+    reading: おおだし
+    aliases:
+    - 大田町
+    - 邑郷
+  user_terms:
+  - おおだ
+  - 石見銀山のまち
+  - 世界遺産のまち
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms:
+  - muni/13-大田区
+  summary: 市名は、古代の安濃郡邑（おおだ）郷に起源をもつ旧大田町の名を、1954年の市制施行にあたって継承したもの。市域の南には世界遺産・石見銀山の中心地だった大森の町並みがあるが、銀山の支配の中心「大森」と市の中心「大田」は別の場所であり、市名は銀山に由来しない。2005年には銀山の外港だった温泉津町などを合併した。
+  first_attestation:
+    era: 平安時代（『和名類聚抄』成立の10世紀）
+    year_western: null
+    document: 『和名類聚抄』の安濃郡邑郷
+    note: 『日本歴史地名大系』が市名の起源として引くもので、「大田」の名の側の初出にあたる。原文は未確認のため、主張は大系の紹介として記録する。
+  claims:
+  - text: 『日本歴史地名大系』は、大田市の市名は『和名類聚抄』の安濃郡邑（おおだ）郷に起源をもち、昭和29年（1954年）の市制施行にあたり旧大田町の町名をそのまま継承したと説明する。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q1-oda-jiten
+  - text: 1954年（昭和29年）1月1日、大田町・久手町の2町と6村が合併して大田市が発足した。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q1-oda-uub
+  - text: 石見銀山の本格的な開発は1526年に始まり、17世紀には代官所のある大森が支配の中心となった。大森は現在の大田市大森町で、市制施行時の市の中心だった大田町から南へ離れた山間の鉱山町であり、市名「大田」とは由来を異にする。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-oda-bunkazai
+  - text: 市制から2年後の1956年（昭和31年）に大森町と五十猛村・大屋村・祖式村が編入され、石見銀山の中心地・大森がこのとき大田市の市域に入った。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q1-oda-jiten
+  - text: 2005年（平成17年）に温泉津町・仁摩町と合併して現在の大田市となり、石見銀山の外港として栄えた温泉津の町並みも市域に含まれることになった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-oda-bunkazai
+  column:
+    title: 銀山の玄関口なのに、銀山の名ではない
+    text: 大田市と聞くと多くの人が石見銀山を思い浮かべる。ところが市名の「大田」は、銀山とは無関係に古代の邑郷から続く農村地帯の名前である。銀山の中心は市域南部の大森で、代官所を中心に武家屋敷と町家が並ぶ鉱山町だった。鉄道の駅と市役所のある大田は、もともと山陰道の宿場町・市場町として育った別の中心である。2005年の合併で銀山の外港・温泉津も加わり、市は「山の銀山・大森」「海の積出港・温泉津」「宿場町・大田」という三つの顔を持つことになった。観光の玄関口の名が銀山由来でないことは、この市の成り立ちの多様さを示している。
+    sources:
+    - q1-oda-jiten
+    - q1-oda-bunkazai
+  relations:
+  - pref/32
+  - muni/13-大田区
+  unknowns:
+  - 邑（おおだ）郷の「おおだ」という地名そのものの語源は確認できなかった
+  - 1956年（昭和31年）の大森町編入に至る合併協議の経緯は確認できなかった
+  updated: '2026-11-13'
+- id: muni/32-安来市
+  code: '322067'
+  names:
+    ja: 安来市
+    reading: やすぎし
+    aliases:
+    - 安来町
+    - 安来郷
+  user_terms:
+  - やすぎ
+  - 安来節のまち
+  - どじょうすくいのまち
+  - 月山富田城の城下町
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は古代の安来郷にさかのぼる中心地「安来」の名を継いだもの。市の統計書は市名の由来として、スサノオノミコトが「吾が御心は安平（やす）けくなりぬ」と言ったことから安来になったという『出雲国風土記』に結びつく伝承を紹介している。戦国時代には尼子氏の本拠・月山富田城の城下町として栄え、1954年に市制、2004年に広瀬町・伯太町と合併した。
+  first_attestation:
+    era: 天平5年
+    year_western: 733
+    document: 『出雲国風土記』の意宇郡安来郷
+    note: 安来市の統計書が市名の由来を「出雲国風土記より」として紹介することから、風土記の安来郷を名の側の初出とみる。風土記原文の直接確認はしていないため、主張は市の資料の紹介形で記録する。
+  claims:
+  - text: 安来市の統計書は、市名の由来として、スサノオノミコトがこの地に来て「吾が御心は安平（やす）けくなりぬ」と言ったことから「安来（やすぎ）」というようになったと伝え、『出雲国風土記』に由来する話として紹介している。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q1-yasugi-tokei
+  - text: 当地域は古くは出雲国意宇郡に属し、のちに能義郡として一つの行政区となったと、安来市の統計書は沿革を説明する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-yasugi-tokei
+  - text: 戦国時代には月山富田城を本拠とする尼子氏が中国地方に勢力を広げ、安来はその城下町・港町として発展し、江戸時代には和鉄や蔵米の集散地となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-yasugi-tokei
+  - text: 1954年（昭和29年）4月1日に安来町などが合併して安来市が発足し、平成16年（2004年）10月1日に広瀬町・伯太町と合併して現在の安来市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-yasugi-tokei
+  - text: 「安来節」と「どじょうすくい踊り」は安来の名を全国に知らしめた民謡・芸能で、市は「安来節のまち」を掲げている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-yasugi-tokei
+  column:
+    title: 風土記の神の言葉が、そのまま市の自己紹介になった
+    text: 自治体が市名の由来を語るとき、多くは中世の文書や合併の経緯を持ち出す。安来市の統計書は違う。「スサノオノミコトが『吾が御心は安平けくなりぬ』と言ったことから安来になった」という、『出雲国風土記』に結びつく伝承を、市名の由来としてまっすぐに掲げている。風土記には各地の地名の由来譚が収められており、安来もその一つとして神の言葉に名を託した土地だった。史実として立証できる語源ではないが、1300年近く語り継がれた由来譚が今も公式資料の冒頭にあること自体、この土地と風土記の結びつきの深さを物語る。
+    sources:
+    - q1-yasugi-tokei
+  relations:
+  - pref/32
+  unknowns:
+  - 「やすぎ」という読み・地名の言語学的な語源（風土記の由来譚以外）は、今回参照した公的資料では確認できなかった
+  - 『出雲国風土記』安来郷の条の原文は直接確認しておらず、市の統計書の紹介に拠っている
+  updated: '2026-11-13'
+- id: muni/32-松江市
+  code: '322016'
+  names:
+    ja: 松江市
+    reading: まつえし
+    aliases: []
+  user_terms:
+  - 松江の名前の由来
+  - 松江城の城下町の名前
+  - 宍道湖のほとりの市の名前
+  - 松山と間違えやすい市の名前
+  naming_type: 新規命名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は慶長16年（1611年）、堀尾吉晴が亀田山に松江城を築き、中世以来の町場だった白潟と末次を合わせて「松江」と称したことに始まると松江市は説明する。ただし命名を記した根本史料は残っておらず、命名者や「唐の松江」にあやかったとする由来には諸説があり、市の史料調査も定説はないと結論づけている。愛媛県の松山市とは読みが似るが、成立の事情はまったく異なる。
+  first_attestation:
+    era: 慶長16年
+    year_western: 1611
+    document: 松江城の完成に伴う城下町の命名（松江市公式「生いたち」）
+    note: 命名の出来事としての初出。命名そのものを記した同時代の根本史料は確認されておらず、命名の伝えは『懐橘談』（1653年）などの近世史料による
+  claims:
+  - text: 松江市の地方公共団体コードは322016である（総務省「全国地方公共団体コード」市区町村コード一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-soumu-code-list
+  - text: 松江市公式サイトは、地名の由来は慶長16年（1611年）に堀尾吉晴が亀田山に城を築き、白潟と末次の二つの郷をあわせて松江と称したことにはじまると説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-matsue-city-gaiyo
+  - text: 命名を記した根本的な史料は残っておらず、『松江市史』でも名称由来は特段取り上げられておらず、定説はないと松江市の史料調査コラムは整理している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-matsue-city-chosa26
+  - text: 松江藩儒・黒澤石斎が承応2年（1653年）に書いた『懐橘談』は、白潟と末次を併せたこの地が唐の松江に地形が似て鱸魚（すずき）・蓴菜（じゅんさい）が多いことから、先の国守・堀尾忠氏が富田城から城を移して「松江」と名付けた、と伝える
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-cap-matsue-city-chosa26
+    - e-cap-kaikitsudan
+  - text: 命名者については近世史料の間で一致せず、『懐橘談』の堀尾忠氏のほか、小瀬甫庵とするもの、堀尾吉晴の命を受けた圓城寺開山・春龍和尚とする『雲陽誌』などがあり、諸説が併存する
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - e-cap-matsue-city-chosa26
+  - text: 開府以前から「松江」という言葉が見えたとする説もあり、『太平記』などに「松江」の表記があるが、それが地名ではなく形容詞だという見方もあり、城下町以前の地名としての「松江」の存在は確定していない
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - e-cap-matsue-city-chosa26
+  - text: 城下町に取り込まれた白潟（意宇郡）と末次（島根郡）は中世以来の町場・港町で、新しい城下町はこの水陸の要衝を併せる形で形成された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-matsue-city-chosa26
+  - text: 松江市は明治22年（1889年）4月に市制を施行した（当時の市域は4.78平方キロメートル、人口は35,513人だった）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-matsue-city-gaiyo
+  - text: 平成17年（2005年）3月31日に八束郡の7町村と、平成23年（2011年）8月1日に東出雲町と合併し、現在の市域となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-matsue-city-gaiyo
+  - text: 愛媛県松山市（まつやま）とは読みが似るが別の自治体であり、「松江」が堀尾氏の城下町命名に由来するのに対し、「松山」は加藤嘉明が名付けた城名に由来するなど、成立の事情は異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-matsue-city-gaiyo
+    - e-cap-matsuyama-city-riyu
+  column:
+    title: 命名者は誰か ― 定説のない「松江」
+    text: 「松江」の命名をめぐっては、市の史料調査担当者が近世史料と明治以降の著述を総ざらいしても、なお定説にたどり着かなかった。藩儒の『懐橘談』は堀尾忠氏が「唐の松江」に似た地形と鱸・蓴菜の産することから名付けたとし、別の史料は小瀬甫庵や和尚・春龍の命名とし、藩儒・桃節山にいたっては「古くから唱えられた名をこの時に城下の称号として定めたのだろう。疑いを残して博識の君子を待つ」と結んでいる。松江市の調査コラムもこの節山の留保に妥当性を見ており、堀尾吉晴が新しい城下町に当時の「中国風好み」を取り入れて命名した可能性が高いとしつつ、旧来の呼称の拾い上げも否定できないとする。大きな城下町の名前でさえ、命名の一次史料が残らないことがあるという好例である。
+    sources:
+    - e-cap-matsue-city-chosa26
+  relations:
+  - pref/32
+  - muni/38-松山市
+  unknowns:
+  - 命名者（堀尾吉晴・忠氏・忠晴のいずれか、小瀬甫庵、春龍和尚など）と命名の正確な年次を決める同時代史料は確認できていない
+  - 開府以前の「松江」の用例（『太平記』『大江広元日記』とされるもの）が地名を指すかどうかは未確認で、大江広元日記については市の調査でも確認できていない
+  - コラムの材料は市の調査コラムに依拠しており、近世史料そのものは未読である
+  updated: '2026-11-13'
+- id: muni/32-江津市
+  code: '322075'
+  names:
+    ja: 江津市
+    reading: ごうつし
+    aliases:
+    - 江津町
+    - 郷津
+  user_terms:
+  - ごうつ
+  - 江の川のまち
+  - 石見神楽のまち
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は、中国地方最大の河川・江の川の河口の港を意味する中心地「江津」の名を継いだもの。『日本歴史地名大系』は、江川河口の港津の意から江津または郷津と称されたと説明する。江戸時代には北前船の寄港地として栄え、1954年に江津町を中心とする9町村の合併で市制を施行し、2004年に桜江町を編入した。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「江津」の名の初出は今回の調査では特定できなかった。『日本歴史地名大系』は名の意味（江川河口の港津）を説明するが、初出の史料は示されていない。
+  claims:
+  - text: 『日本歴史地名大系』は、江津の地名は江川（江の川）河口の港津の意から江津または郷津と称されたもので、市制施行にあたり中心地である江津町の名称をもって市名としたと説明する。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q1-gotsu-jiten
+  - text: 江津市は公式の歴史解説で「江津（川の港）」の名のとおり、江の川河口の港として発展したと説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-gotsu-city
+  - text: 江戸時代の市域は大森代官所（天領）・浜田藩・津和野藩の3領地に分かれていたが、交通の要衝である江津本町は天領に組み込まれ、北前船の寄港地として栄えた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-gotsu-city
+  - text: 約1300年前、万葉の歌人・柿本人麻呂が妻の依羅娘子とともにこの地で過ごしたとされ、別離を詠んだ石見相聞歌ゆかりの地として知られる。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q1-gotsu-city
+  - text: 1954年（昭和29年）4月1日、那賀郡江津町・都野津町など9町村が合併して江津市が誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-gotsu-city
+  - text: 2004年（平成16年）10月1日に邑智郡桜江町を編入し、現在の江津市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-gotsu-city
+  column:
+    title: 読みにくい「ごうつ」、意味は単純「川の港」
+    text: 初めて見る人の多くが読みに迷う「江津（ごうつ）」。しかし名の意味は驚くほど単純で、中国地方最大の川・江の川の河口にある港（津）という、そのままの地形地名である。「郷津」という表記もあったと辞典は伝える。江の川の水運と日本海の海運が交わる場所だったからこそ、江戸時代には天領として押さえられ、北前船が寄港した。読みの古めかしさと意味の明快さの落差が、この地名の面白さである。なお、この地は万葉歌人・柿本人麻呂が石見で妻と別れた歌の舞台としても知られ、港町であると同時に万葉ゆかりの地でもある。
+    sources:
+    - q1-gotsu-jiten
+    - q1-gotsu-city
+  relations:
+  - pref/32
+  unknowns:
+  - 「江津」の名が史料に初めて現れる時期は特定できなかった
+  - 「ごうつ」という読みが定着した経緯（「郷津」表記との関係を含む）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/32-津和野町
+  code: '325015'
+  names:
+    ja: 津和野町
+    reading: つわのちょう
+    aliases: []
+  user_terms:
+  - 津和野の名前の由来
+  - なぜ山陰の小京都というの
+  - 津和野城と吉見氏 亀井氏
+  - 津和野町はいつ合併したの
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 現在の津和野町は2005年に旧津和野町と日原町が合併して生まれ、町名は旧津和野町の名を継承した。津和野は中世に吉見氏の城下として開け、江戸時代は亀井氏の城下町として「山陰の小京都」と呼ばれる町並みを育んだ。「津和野」の語源については、専門辞典・町の資料のいずれでも確定した説明を確認できず、語源未詳として記録する。
+  first_attestation:
+    era: 文明2年
+    year_western: 1470
+    document: 弘中武長書状（益田家文書）
+    note: 「津和野」の用例を日本歴史地名大系が紹介するもの。津和野は中世の吉賀郡野々郷の範囲に比定される
+  claims:
+  - text: 2005年（平成17年）9月25日、旧津和野町と日原町が合併して現在の津和野町が誕生し、町名は旧津和野町の名を継承した。町役場は旧日原町役場に置かれた（地方公共団体コードは325015）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-keikaku
+    - b-cap-chiba-soumu-code
+  - text: 1955年（昭和30年）1月10日、津和野町・畑迫村・木部村と小川村の一部が合併して、新しい津和野町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-shimane-pref-chimeikan
+    - k6-tsuwano-town-keikaku
+  - text: 1889年（明治22年）の町村制施行により、鹿足郡津和野町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-keikaku
+  - text: 津和野は中世の吉賀郡野々郷の範囲に比定され、「津和野」の用例として文明2年（1470年）の益田家文書（弘中武長書状）が確認できると日本歴史地名大系は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k6-tsuwano-kotobank
+  - text: 鎌倉時代、弘安5年（1282年）に吉見頼行が下って館を構え、永仁3年（1295年）から城（三本松城、のちの津和野城）の築城を始めた。吉見氏は14代・319年にわたってこの地を治めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-dai1syou
+  - text: 江戸時代には元和3年（1617年）に亀井氏が入城し、山あいの盆地に城下町が整備された。津和野は森鷗外・西周らを輩出し、「山陰の小京都」と呼ばれる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k6-tsuwano-town-dai1syou
+  - text: 「津和野」という地名の語源については、町の計画資料・島根県の地名鑑・日本歴史地名大系のいずれにおいても確定した説明を確認できず、現時点では語源未詳とする
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - k6-tsuwano-kotobank
+    - e-shimane-pref-chimeikan
+  column:
+    title: 京都から山口を経て、山あいの城下へ——鷺舞が運んだ都の文化
+    text: 津和野の初夏を彩る鷺舞は、京都・祇園祭の舞楽が山口へ伝わり、さらに戦国時代の当主・吉見正頼の頃に津和野へ移されたものと町は伝える。都の祭りの芸能が二段階の伝播を経て、中国山地の小さな城下に根づいた。その町並みと文化の蓄積が「山陰の小京都」の呼び名を生み、近代には森鷗外や西周のような人材を送り出した。語源は謎のままでも、町の名が背負った文化の履歴ははっきりしている。
+    sources:
+    - k6-tsuwano-town-dai1syou
+  relations:
+  - pref/32
+  unknowns:
+  - 「津和野」の語源（津＋和野等の字面解釈を含む）は専門資料で確認できず未詳。和名類聚抄など古代の郡郷名との対応も未確認
+  - 1470年より古い「津和野」の用例の有無は未確認
+  - 1889年発足時の町域と中世の城下の範囲の正確な対応は未確認
+  updated: '2026-11-13'
+- id: muni/32-浜田市
+  code: '322024'
+  names:
+    ja: 浜田市
+    reading: はまだし
+    aliases:
+    - 浜田町
+    - 浜田城下
+  user_terms:
+  - はまだ
+  - 石見の城下町
+  - 浜田城のまち
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は中世以来の地名「浜田」を継いだもの。「浜田」の現存最古の用例は嘉吉3年（1443年）ごろに書写された宝福寺の大般若経の奥書とされる。江戸時代には浜田藩の城下町として整備され、1940年に市制を施行、2005年に金城町・旭町・弥栄村・三隅町と合併して現在の市域となった。「浜田」の語源そのものは今回の資料では確定できなかった。
+  first_attestation:
+    era: 嘉吉3年
+    year_western: 1443
+    document: 宝福寺所蔵の大般若経の奥書
+    note: 浜田市公式年表と『日本歴史地名大系』がともに「浜田」の地名が記される現存最古の史料とする（書写は嘉吉3年から文安元年の間とされる）。使用例の初出。
+  claims:
+  - text: 「浜田」の地名が記される現存最古の史料は、嘉吉3年（1443）から文安元年（1444）の間に書写されたとされる宝福寺の大般若経の奥書であると、浜田市の公式年表と『日本歴史地名大系』が述べている。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q1-hamada-nenpyo
+    - q1-hamada-jiten
+  - text: 元和5年（1619）に古田氏が浜田に入って浜田藩が成立し、元和9年（1623）には浜田城と城下町がほぼ完成した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-hamada-nenpyo
+  - text: 1940年（昭和15年）11月3日、浜田町・周布村・長浜村・石見村・美川村が合併して浜田市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-hamada-nenpyo
+  - text: 1899年（明治32年）に浜田港が開港場に指定され、城下町から港町としての性格を強めていった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-hamada-nenpyo
+  - text: 2005年（平成17年）10月1日、浜田市・金城町・旭町・弥栄村・三隅町の対等合併により新・浜田市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-hamada-nenpyo
+  - text: 石見国の国府は現在の浜田市内に置かれていたとされ、近世の城下町「浜田」は、古代の国府の地とは重ならない海岸部を中心に形成された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-masuda-kyoiku
+  column:
+    title: 初出はお寺の経典の奥書だった
+    text: 浜田の名が歴史に現れるのは、城でも役所の文書でもなく、お寺の経典の奥書である。1443年ごろ、宝福寺の大般若経を写した人が奥書に「浜田」と地名を記した。これが現存最古の用例と市の年表も専門辞典も認めている。それから約180年後、古田氏が入封して浜田城と城下町ができ、この中世の小さな地名が藩の名、市の名として生き続けることになる。荘園や郷の名として古代に遡る地名が多い中で、浜田は「室町の写経に残った名」という、やや遅いが確かな出発点を持つ地名である。
+    sources:
+    - q1-hamada-nenpyo
+    - q1-hamada-jiten
+  relations:
+  - pref/32
+  unknowns:
+  - 「浜田」という地名の語源（浜辺の田を意味する普通名詞的な成立かどうか）は、今回参照した市公式・専門辞典の範囲では確定できなかった
+  - 1443年以前の「浜田」の用例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/32-益田市
+  code: '322041'
+  names:
+    ja: 益田市
+    reading: ますだし
+    aliases:
+    - 益田町
+    - 益田郷
+    - 益田荘
+  user_terms:
+  - ますだ
+  - 中世のまち
+  - 益田氏の本拠
+  - グラントワのあるまち
+  naming_type: 一部の地名
+  prefecture: 島根県
+  homonyms: []
+  summary: 市名は、古代の益田郷にさかのぼる「益田」の名を継いだもの。『和名類聚抄』に美濃郡の益田郷が見え、「末須太（ますた）」と訓じられている。平安時代末期には益田荘が成立し、中世には地名を名字とする豪族・益田氏が本拠を置いて発展した。1952年に市制を施行し、2004年に美都町・匹見町を編入した。
+  first_attestation:
+    era: 平安時代（『和名類聚抄』成立の10世紀）
+    year_western: null
+    document: 『和名類聚抄』の美濃郡益田郷
+    note: 『日本歴史地名大系』が益田の地名について「『和名抄』に益田郷がみえ、『末須太』と訓じている」と述べるもの。原文は未確認のため、主張は大系の紹介として記録する。
+  claims:
+  - text: 『日本歴史地名大系』は、益田の地名は『和名類聚抄』に益田郷がみえ「末須太（ますた）」と訓じられており、のちに真田・舛田とも記されたと説明する。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q1-masuda-jiten
+  - text: 『益田町史』は、益田一帯が良田の「真砂田（ますだ）」であったことからの音韻転訛を地名の由来とする説を述べていると『日本歴史地名大系』は紹介する。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - q1-masuda-jiten
+  - text: 平安時代末期には益田荘と長野荘が成立し、美濃郡内のほとんどの地域が荘園となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-masuda-kyoiku
+  - text: 中世には益田氏が本拠を置いて大きく発展し、南北朝時代に益田兼見が益田本郷を掌握して以降、益田氏は山陰の有力武士団となった。益田氏は慶長5年（1600年）の関ヶ原の戦いののち毛利氏に従って長門国須佐へ移った。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-masuda-kyoiku
+  - text: 1952年（昭和27年）に益田町と安田村・北仙道村・豊川村など7村が合併して市制を施行し、益田市が発足した。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q1-masuda-jiten
+  - text: 2004年（平成16年）11月1日に益田市・美都町・匹見町が合併して現在の益田市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-masuda-kyoiku
+  column:
+    title: 「ますだ」はもともと「ますた」だった
+    text: 『和名類聚抄』の中で益田郷には「末須太」という訓が付けられている。つまり平安時代、この地は「ますた」と読まれていた。真田・舛田という表記も伝わり、『益田町史』は良田を意味する「真砂田」がなまった名だと説く。やがて中世に、この地名を名字とする益田氏が現れて本拠とし、七尾城と三宅御土居を中心に港町まで備えた中世都市が育った。市が「中世の歴史的景観を色濃く残す稀な町」と自らを評する背景には、古代の郷名→荘園→豪族の名字→市の名という、名前の受け継ぎの連鎖がある。
+    sources:
+    - q1-masuda-jiten
+    - q1-masuda-kyoiku
+  relations:
+  - pref/32
+  unknowns:
+  - 益田氏がいつ・どのように地名を名字として名乗り始めたかの一次史料は確認できなかった
+  - 「真砂田」説以外の語源説の有無は確認できなかった
+  updated: '2026-11-13'
+- id: muni/32-美郷町
+  code: '324485'
+  names:
+    ja: 美郷町
+    reading: みさとちょう
+    aliases: []
+  user_terms:
+  - 美郷町の名前の由来
+  - 島根の美郷町は江の川の町
+  - 美郷町は秋田と島根と宮崎にある
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms:
+  - muni/05-美郷町
+  - muni/45-美郷町
+  summary: 平成16年（2004年）10月1日に邑智町と大和村が合併して誕生した新名。町公式は、両町村を貫く江の川と中国山地の織りなす風景が「ふるさとの原風景」を思い起こさせることから、自然豊かな美しい故郷をいつまでも残したいという住民の願いと、「みさと」という響きの温もりを命名の理由に挙げる。秋田県・宮崎県の美郷町と願いは共通するが、根拠とする川と山はそれぞれの土地のものである。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 美郷町の発足（2004年10月1日）
+    note: 自治体としての発足をもって名称の初出とする。合併協議における選定過程の一次記録は未確認
+  claims:
+  - text: 平成16年（2004年）に邑智郡の邑智町と大和村が合併して美郷町が誕生した。町章も同じ平成16年10月に制定されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-shimane-misato-gaiyo
+  - text: 町公式は町名の由来として、合併前の2町村を江の川が貫流し、その両岸に中国山地が織りなす四季折々の豊かな自然と美しい街並みが広がる様子が、日本の古き良きふるさとの原風景を思い起こさせることを挙げる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-shimane-misato-gaiyo
+  - text: 「美郷（みさと）」には、この自然豊かな美しい故郷（ふるさと）をいつまでも残しておきたいという住民の願いが込められており、「みさと」という響きが持つ温もりも、人情豊かなこの地域をよく表すものとして新町の名称に決定された理由とされる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-shimane-misato-gaiyo
+  - text: 【共通する層】秋田県・宮崎県の美郷町も平成の大合併の新名で、「美しい故郷でありたい」という願いを込めた命名という点は共通する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-akita-gappei-kiroku
+    - h4-shimane-misato-gaiyo
+  - text: 【異なる層】島根の公式説明は江の川と中国山地という固有の風景に根ざし、「みさと」の音の温もりまで理由に含める点に特徴がある。秋田のような公募・投票による選定の記録は、公表資料では確認できない
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - h4-shimane-misato-gaiyo
+    - h4-akita-gappei-kiroku
+  column:
+    title: 響きまで理由に入った名前
+    text: 島根の美郷町の公式説明が面白いのは、意味だけでなく「みさと」という響きの温もりまで命名理由に数えていることだ。江の川の両岸に広がる原風景を「いつまでも残したい」という願いと、音の柔らかさ。平成の大合併では各地で新しい町名が作られたが、ここまで音の印象を表に出して説明する例は珍しい。
+    sources:
+    - h4-shimane-misato-gaiyo
+  relations:
+  - pref/32
+  - muni/05-美郷町
+  - muni/45-美郷町
+  unknowns:
+  - 合併協議会での名称選定過程（公募の有無・対抗候補など）の公表資料は未確認
+  - 旧邑智町・大和村それぞれの地名の由来は本バッチの対象外で未確認
+  updated: '2026-11-13'
+- id: muni/32-雲南市
+  code: '322091'
+  names:
+    ja: 雲南市
+    reading: うんなんし
+    aliases: []
+  user_terms:
+  - うんなん
+  - 雲南三郡
+  - 神話のふるさと
+  naming_type: 合併新設
+  prefecture: 島根県
+  homonyms: []
+  summary: 2004年（平成16年）11月1日に大原郡・飯石郡の6町村が合併して生まれた市で、市名は新しく選ばれた。「雲南」は旧国名「出雲」の南に位置する地方を指す呼び名で、明治以降に旧大原郡・飯石郡・仁多郡を「雲南三郡」と呼ぶなど、この地方の広域名として定着していた。市名は全国公募2,939点から「雲南市」と「南雲市（なぐもし）」の2候補に絞られ、最終的に雲南市に決定した。市役所は旧木次町に置かれている。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 雲南市の発足（合併協議会の決定と合併告示）
+    note: 市名「雲南市」の初出は命名そのもの。ただし広域名「雲南」自体は、市公式の説明では明治以降に使われてきた呼び名とされる。
+  claims:
+  - text: 雲南市は、大東町・加茂町・木次町・三刀屋町・吉田村・掛合町の6町村が合併して平成16年（2004年）11月1日に誕生した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-unnan-city
+  - text: 新市の名称は合併協議会が全国公募を行い、2,939点の応募の中から「雲南市」と「南雲市」の2つに候補が絞り込まれ、最終的に「雲南市」に決定した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-unnan-city
+  - text: 「雲南」という名称は、旧国名「出雲」の南に位置する地方の意味として明治以降に使われ、合併前の旧大原郡・飯石郡・仁多郡を合わせて「雲南三郡」と呼ぶなど、この地方を表す呼び名として定着していたと市は説明する。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-unnan-city
+  - text: 雲南市が誕生する前から、市域には公立雲南総合病院や雲南消防本部など「雲南」の名を用いる機関が多く、地域別天気予報でも「雲南地方」が使われていた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-unnan-city
+  - text: 公募の上位には雲南・奥出雲・南出雲・さくら・斐伊川などが並び、最終候補は「雲南（うんなん）」と「南雲（なぐも）」の2案であった。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q1-unnan-uub
+  - text: 市役所は旧木次町の区域（木次町里方）に置かれており、市名は旧中心町の名ではなく広域の地方名から選ばれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-unnan-city
+  column:
+    title: 中国の雲南省ではない、「出雲の南」の雲南
+    text: 日本で「雲南」と聞くと中国の雲南省を思い浮かべる人が多いが、島根県雲南市の「雲南」は「出雲の南」という純然たる国内の方角地名である。明治以降、出雲国の南部にあたる大原・飯石・仁多の三郡は「雲南三郡」と呼ばれ、病院も消防も天気予報の地域区分も「雲南」を名乗ってきた。だから2004年の合併で新市名を公募したとき、「雲南」は新造の名前でありながら住民には最もなじみのある名前だった。最終候補に残った「南雲（なぐも）」との一騎打ちを制した経緯は、公募の記録が伝えている。合併新市名の多くが泡沫候補に終わる中で、雲南は「もともと生活の中で使われていた広域名」を正式名称に格上げした成功例である。
+    sources:
+    - q1-unnan-city
+    - q1-unnan-uub
+  relations:
+  - pref/32
+  - muni/32-出雲市
+  unknowns:
+  - 旧中心地の一つである木次（きすき）の地名の由来は、今回の調査では公的資料で確認できなかった
+  - 「南雲市」との最終決定がどのような手続き（投票等）で行われたかは、市公式ページの記述からは読み取れなかった
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  e-cap-kaikitsudan:
+    label: 黒澤石斎『懐橘談』（承応2年・1653年）
+    level: E3
+    year: 1653
+    note: 原文は未読。松江市の調査コラムの引用経由で参照
+  e-cap-matsue-city-chosa26:
+    label: 松江市「史料調査の現場から第26回 ―『松江』の名称由来について」
+    level: E2
+    url: https://www.city.matsue.lg.jp/material/files/group/34/chosa_colmn26.pdf
+  e-cap-matsue-city-gaiyo:
+    label: 松江市公式サイト「位置と面積・生い立ち」
+    level: E2
+    url: https://www.city.matsue.lg.jp/gyoseijoho/shinogaiyo/8792.html
+  e-cap-matsuyama-city-riyu:
+    label: 松山市公式サイト「松山という名がつけられた理由」
+    level: E2
+    url: https://www.city.matsuyama.ehime.jp/shisei/matsuyama/matsuyamariyu.html
+  e-cap-soumu-code-list:
+    label: 総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）
+    level: E2
+    url: https://www.soumu.go.jp/denshijiti/code.html
+  h4-akita-gappei-kiroku:
+    label: 秋田県「市町村合併資料集・美郷町」（千畑町・六郷町・仙南村合併協議会の記録。新町名称の選定経過を含む）
+    url: https://www.pref.akita.lg.jp/uploads/public/archive_0000002434_00/misato.pdf
+  h4-shimane-misato-gaiyo:
+    label: 島根県美郷町「美郷町の概要」（町名の由来・町章。町公式）
+    url: https://gov.town.shimane-misato.lg.jp/about/92
+  k5-izumo-city-koho:
+    label: 出雲市公式サイト 広報いずも2025年5月号「出雲市は市制施行20年を迎えました」
+    level: E2
+    url: https://www.city.izumo.shimane.jp/www/contents/1744074521240/files/kouhouizumo202505_page2-5.pdf
+  k5-izumo-kankou-navi:
+    label: 島根県公式観光サイト「しまね観光ナビ／出雲の語源」
+    level: E2
+    url: https://www.kankou-shimane.com/destination/20885
+  k5-izumo-kodai-center:
+    label: 平石充（島根県古代文化センター専門研究員）「地名『出雲』の由来」（『いまどき島根の歴史』第一巻、島根県電子書籍）
+    level: E2
+    url: https://imadokishimane.bex.jp/bibi-bookshelf/imadoki_0108/OEBPS/Text/chapter-02.xhtml
+  k5-izumo-uub:
+    label: 市区町村変遷情報「出雲市（島根県）2005年〜」（自治体沿革の専門データベース）
+    level: E4
+    url: https://uub.jp/upd/c/452.html
+  k6-tsuwano-kotobank:
+    label: コトバンク「津和野」（日本歴史地名大系。野々郷への比定と1470年の益田家文書の用例）
+    url: https://kotobank.jp/word/%E6%B4%A5%E5%92%8C%E9%87%8E-573067
+  k6-tsuwano-town-dai1syou:
+    label: 津和野町「歴史的風致維持向上計画 第1章 津和野町の歴史的風致形成の背景」（吉見氏の入部と築城、亀井氏の城下町、鷺舞の伝来）
+    url: https://www.town.tsuwano.lg.jp/www/contents/1682570698880/simple/dai1syou.pdf
+  k6-tsuwano-town-keikaku:
+    label: 津和野町「津和野町歴史的風致維持向上計画（序論・第1章）」（沿革。1889年の町発足、1955年・2005年の合併）
+    url: https://www.town.tsuwano.lg.jp/www/contents/1365480453388/files/1-130.pdf
+  q1-gotsu-city:
+    label: 江津市公式「江津市の歴史・沿革」（「江津（川の港）」の名のとおり江の川河口の港として発展したこと、昭和29年4月1日に9町村が合併して江津市が誕生したこと、平成16年の桜江町編入）
+    url: https://www.city.gotsu.lg.jp/site/gotsu-navi/4468.html
+  q1-gotsu-jiten:
+    label: コトバンク『日本歴史地名大系』「江津市」（江津の地名は江川河口の港津の意から江津または郷津と称されたこと、市制施行にあたり中心地である江津町の名称をもって市名としたこと）
+    url: https://kotobank.jp/word/%E6%B1%9F%E6%B4%A5%E5%B8%82-62756
+  q1-hamada-jiten:
+    label: コトバンク『日本歴史地名大系』「浜田市」（「浜田」の地名は嘉吉3年から文安元年の間に書写された宝福寺所蔵の大般若経奥書にみえること）
+    url: https://kotobank.jp/word/%E6%B5%9C%E7%94%B0%E5%B8%82-116221
+  q1-hamada-nenpyo:
+    label: 浜田市公式「浜田市の年表」（1443年に宝福寺の大般若経に「浜田」の地名が記される現存最古の史料、1619年の浜田藩成立と浜田城、1940年の市制、2005年の合併による新・浜田市発足）
+    url: https://www.city.hamada.shimane.jp/www/contents/1001000002485/index.html
+  q1-masuda-jiten:
+    label: コトバンク『日本歴史地名大系』「益田市」および同ページの『ブリタニカ国際大百科事典 小項目事典』「益田〔市〕」（益田の地名は『和名抄』に益田郷がみえ「末須太」と訓じること、「真砂田」からの転訛とする『益田町史』の説、1952年の市制施行、2004年の美都町・匹見町の編入）
+    url: https://kotobank.jp/word/%E7%9B%8A%E7%94%B0%E5%B8%82-136251
+  q1-masuda-kyoiku:
+    label: 益田市教育委員会『史跡中須東原遺跡保存活用計画書』（中世の豪族益田氏の本拠として発展したこと、平安時代末期に益田荘が成立したこと、平成16年に益田市・美都町・匹見町が合併したこと）
+    url: https://www.city.masuda.lg.jp/material/files/group/48/30482_60683_misc.pdf
+  q1-oda-bunkazai:
+    label: 文化庁「国指定文化財等データベース」大森・銀山（大森の町並みは大田市大森町にあり、1526年に石見銀山の本格開発が始まったこと、代官所を中心とする鉱山町の構造）
+    url: https://kunishitei.bunka.go.jp/heritage/detail/911/68
+  q1-oda-jiten:
+    label: コトバンク『日本歴史地名大系』「大田市」および同ページの『ブリタニカ国際大百科事典 小項目事典』「大田〔市〕」（市名は『和名抄』の安濃郡邑郷に起源をもち、昭和29年の市制施行にあたり旧大田町の町名を継承したこと、1956年に大森町などを編入したこと、大田が中世に市場町・宿場町として発展したこと）
+    url: https://kotobank.jp/word/%E5%A4%A7%E7%94%B0%E5%B8%82-39323
+  q1-oda-uub:
+    label: 市区町村変遷情報データベース「大田市」（1954年1月1日に大田町・久手町・6村が合併して大田市が発足したこと）
+    url: https://uub.jp/upd/c/5881.html
+  q1-unnan-city:
+    label: 雲南市公式「雲南市の由来」（平成16年11月1日に6町村が合併して誕生したこと、市名は全国公募2,939点から「雲南市」と「南雲市」の2候補に絞られたこと、「雲南」は出雲の南の地方を指す呼び名として明治以降定着していたこと）
+    url: https://www.city.unnan.shimane.jp/unnan/shiseijouhou/gaiyou/origin.html
+  q1-unnan-uub:
+    label: 市区町村変遷情報データベース「雲南市」（新市名公募の上位に雲南・奥出雲・南出雲などが並び、最終候補が雲南と南雲であったこと）
+    url: https://uub.jp/upd/c/459.html
+  q1-yasugi-tokei:
+    label: 安来市「統計やすぎ」（令和4年度版・平成23年度版）（市名の由来としてスサノオの言葉に結びつける伝承を『出雲国風土記』よりとして紹介、安来市の生い立ちと合併の経過、月山富田城と尼子氏）
+    url: https://www.city.yasugi.shimane.jp/shisei/tokei/tokeidata/graph.data/R4tokeiyasugi.pdf

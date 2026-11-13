@@ -1,0 +1,1402 @@
+prefecture_code: '33'
+records:
+- id: muni/33-井原市
+  code: '332071'
+  names:
+    ja: 井原市
+    reading: いばらし
+    aliases:
+    - 井原町
+    - 井原荘
+  user_terms:
+  - 井原デニム
+  - デニムの聖地
+  - いはらと読み間違えられやすい市
+  naming_type: 一部の地名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は、1953年の合併の中心となった後月郡井原町の名をそのまま継いだもの。井原は中世の井原荘の遺称地で、近世には山陽道沿いの陣屋町・宿場町として栄えた。読みは「いはら」ではなく「いばら」。語源そのものは専門辞典にも確定的な説明がなく、未確定である。
+  first_attestation:
+    era: 永禄3年
+    year_western: 1560
+    document: 毛利元就宛行状（川合文書）
+    note: 『日本歴史地名大系』が「井原地之内抱分」の用例として紹介するもの。市域は井原庄の遺称地とされるが、「井原」の語源そのものは確認できていない。
+  claims:
+  - text: 井原市の地方公共団体コードは332071である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1953（昭和28）年4月1日、後月郡井原町・西江原町・高屋町・荏原村・木之子村・県主村・青野村・山野上村と小田郡稲倉村・大江村が合併して井原市が発足し、市制を施行した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-okayama-pref-enkaku
+    - q2-uub-ibara
+  - text: 市名は合併の中心地であった井原町の名をそのまま継いだもので、新たに作られた名称ではない。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-uub-ibara
+  - text: 2005（平成17）年3月1日、後月郡芳井町と小田郡美星町を編入し、現在の市域となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-okayama-pref-enkaku
+    - q2-uub-ibara
+  - text: 現在の市中心部は中世の井原庄の遺称地であり、『日本歴史地名大系』によれば、永禄3年（1560）の毛利元就宛行状（川合文書）に「井原地之内抱分」と見える。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-ibaramura
+  - text: 市域東部は『和名類聚抄』に載る後月郡荏原郷の郷域に比定され、近世の荏原村を経て現在の東江原町・西江原町に名が残る。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-ebarago
+  - text: 「井原」という地名の語源については、『日本歴史地名大系』などの専門辞典にも確定的な説明が見当たらず、決められない。
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - q2-kotobank-ibaramura
+  - text: 那須系図によれば、屋島の合戦で扇の的を射抜いた那須与一宗隆は、恩賞として備中「絵原庄」（荏原荘）などを拝領したと伝わる。
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-ebarago
+  column:
+    title: デニムの聖地と、読みにくい「いばら」
+    text: 井原市は「日本のデニムの聖地」と呼ばれる。市公式サイトによれば、1600年代初頭から綿花・藍の栽培が行われ厚地藍染織物が生産されてきた地で、1960年頃にはその技術を生かして日本で初めてデニム地の生産を始めたという。地名の「井原」は「いはら」と読みたくなるが、正しくは「いばら」。中世の井原荘以来の古い名が、デニムの産地名として世界に知られるようになった。
+    sources:
+    - q2-ibara-city-tokusanhin
+    - q2-kotobank-ibaramura
+  relations:
+  - pref/33
+  unknowns:
+  - 「井原」の語源（「井」の由来を含む）は専門辞典・市公式資料のいずれでも確認できなかった。
+  - 井原荘の初出文書は特定できなかった（大系が示す確認可能な用例は1560年のもの）。
+  updated: '2026-11-13'
+- id: muni/33-倉敷市
+  code: '332020'
+  names:
+    ja: 倉敷市
+    reading: くらしきし
+    aliases:
+    - 倉鋪
+    - 蔵鋪
+    - 蔵敷
+  user_terms:
+  - 倉敷の名前の由来
+  - 倉敷地って何
+  - 倉庫の集まる町から来た地名
+  - 倉敷は岡山にしかない地名なの
+  naming_type: その他（物資集積地を意味する普通名詞「倉敷地」の固有地名化）
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は、年貢米などの物資の集積地を意味する一般語「倉敷地」が固有地名化したものとされる。地名としての初出は永禄9年（1566年）の日記に見える「くらしき」で、当時すでに瀬戸内の湊だった。現在の倉敷市は昭和42年（1967年）に旧倉敷市・児島市・玉島市が合併して発足した。
+  first_attestation:
+    era: 永禄9年
+    year_western: 1566
+    document: 新見庄庄使入足日記（教王護国寺文書）
+    note: 『日本歴史地名大系』が紹介する用例で、9月29日の条に「くらしき」より塩飽（しわく）までの舟賃150文が見え、この頃には瀬戸内航路の湊として存在していたとされる
+  claims:
+  - text: 倉敷市の地方公共団体コードは332020である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 「倉敷」の語源は、物資の集積地を意味する一般語「倉敷地」の略称が固有地名化したものとする説が有力で、「倉敷地」とは荘園の年貢などを集めて積み出すために蔵が建ち並んだ土地を指した
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k5-kurashiki-tocotoco
+    - k5-kurashiki-kibinavi
+  - text: 中世末期の史料には「倉鋪」「蔵鋪（敷）」などの表記が見え、天正8年（1580年）と推定される小早川隆景の書状には「蔵敷在番之儀」とある
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kurashiki-kotobank-chimei
+  - text: 倉敷の中心にある鶴形山は、古くは内倉島・亀居島・東亀島と呼ばれる海中の島だったと『日本歴史地名大系』は伝える
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-kurashiki-kotobank-chimei
+  - text: 備後国尾道の大田庄の倉敷地のように、荘園の年貢の積み出しのために「倉敷」が置かれた港は各地にあり、「倉敷」がもとは普通名詞だったことを裏づけている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-onomichi-kotobank-chimei
+  - text: 昭和3年（1928年）4月1日に旧倉敷市が市制を施行し、昭和42年（1967年）2月1日に旧倉敷市・児島市・玉島市が新設合併して現在の倉敷市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-okayama-pref-enkaku
+  column:
+    title: もう一つの「倉敷」は名を譲った
+    text: 「倉敷」という地名は備中だけのものではなかった。美作国英田郡（現在の美作市林野）にも、吉野川の川舟による物資の集散地として栄えた倉敷地があり、古代の林野郷の地に倉敷村、やがて倉敷町が生まれた。同名の町が並立し、郵便の誤配など混同も伝えられるなか、美作の倉敷町は大正時代に古代の郷名だった「林野」へ町名を改めた。こうして「倉敷」の名は備中に残り、美作の倉敷は「林野」として今に伝わる。
+    sources:
+    - k5-kurashiki-kotobank-chimei
+    - k5-kurashiki-kibinavi
+  relations:
+  - pref/33
+  - muni/34-尾道市
+  unknowns:
+  - 「倉敷地」という普通名詞がいつ固有地名「倉敷」として定着したかの正確な時期は定かでない
+  - 美作の倉敷町が林野町へ改称した正確な年月日（1918年4月1日と伝える資料はあるが、専門資料での裏付けは未確認）
+  updated: '2026-11-13'
+- id: muni/33-備前市
+  code: '332119'
+  names:
+    ja: 備前市
+    reading: びぜんし
+    aliases:
+    - 備前町
+    - 備前国
+  user_terms:
+  - 備前焼のまち
+  - 伊部の焼き物
+  - 六古窯の備前
+  naming_type: 合併新設
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は旧国名「備前国」の転用。1971年に備前町と三石町が合併して市制を施行し、2005年の合併でも新市名として改めて「備前」が選ばれた。備前国は古代の吉備国が三分されて生まれた国で、現在の備前市はその東部の一部にあたる。市域の伊部は日本六古窯の一つ、備前焼の産地である。
+  first_attestation:
+    era: 文武天皇元年
+    year_western: 697
+    document: 『続日本紀』文武天皇元年閏12月7日条
+    note: 『日本歴史地名大系』が備前国の初見として挙げるもの（二次資料経由の確認）。国名そのものの成立は吉備国の三分（7世紀後半）とされる。
+  claims:
+  - text: 備前市の地方公共団体コードは332119である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1951（昭和26）年に片上町と伊部町が合併して備前町が発足し、1955（昭和30）年には伊里町・香登町・鶴山村（和気郡・邑久郡の両村）が加わって備前町が拡大した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-bizen-city-shokai
+  - text: 1971（昭和46）年4月1日、備前町と三石町が合併して市制を施行し、備前市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-bizen-city-shokai
+    - q2-uub-bizen
+  - text: 2005（平成17）年3月22日、旧備前市と和気郡日生町・吉永町が合併し、新たな備前市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-bizen-city-shokai
+    - q2-bizen-gikai-gaiyo
+  - text: 備前市議会の資料によれば、2005年の合併に際しては、この地域が古くから「備前の国」と呼ばれ、伝統的工芸品である備前焼の産地として全国に名を成す「備前」が、新しい市の名称に選定された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-bizen-gikai-gaiyo
+  - text: 市名の元になった備前国は、古代の吉備国を備前・備中・備後の三国に分割することによって成立した国であり、当初はのちの美作国の領域も含んでいた。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-bizenkoku
+  - text: 『日本歴史地名大系』によれば、備前国の初見は『続日本紀』文武天皇元年（697）閏12月7日条であり、『和名類聚抄』は備前を「きびのみちのくち（岐比乃美知乃久知）」と訓じる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-bizenkoku
+  - text: 和銅6年（713）、備前国の北部6郡が割かれて美作国が置かれ、備前国の領域は現在の岡山県南東部を中心とする範囲になった。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-bizenkoku
+    - q2-kotobank-bizen
+  - text: 旧備前国の領域は現在の岡山県南東部の大半と兵庫県赤穂市の一部にあたり、現在の備前市はその東部の一部にすぎない。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-bizen
+  - text: 市域の伊部は日本六古窯の一つである備前焼の産地であり、市議会資料は備前焼に「千年の歴史」があるとする。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-bizen-gikai-gaiyo
+    - q2-kotobank-bizen
+  column:
+    title: 二度選ばれた国名「備前」
+    text: 備前市は、1971年の市制施行のとき旧国名「備前」を市名に採用し、2005年に日生町・吉永町と合併した際にも、新市の名称として改めて「備前」が選ばれた。市議会の資料は、その理由を「古くから『備前の国』と呼ばれ、備前焼の産地として全国に名を成す『備前』」だったからだと説明する。古代の国名が、千年を超えて窯業のブランドとともに現代の市名として生き続けている例である。
+    sources:
+    - q2-bizen-gikai-gaiyo
+  relations:
+  - pref/33
+  - muni/33-瀬戸内市
+  unknowns:
+  - 吉備国が備前・備中・備後に分割された正確な年は諸説あり（飛鳥浄御原令の689年とする説など）、今回の資料では特定しなかった。
+  - 1971年の市制時に「備前」の名が選ばれた経緯の一次資料（合併協議の記録）は確認できなかった。
+  updated: '2026-11-13'
+- id: muni/33-岡山市
+  code: '331007'
+  names:
+    ja: 岡山市
+    reading: おかやまし
+    aliases: []
+  user_terms:
+  - 岡山の名前の由来
+  - 岡山城・烏城のある市の名前
+  - 桃太郎の市の名前の意味
+  naming_type: 藩名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は岡山藩の城下町・岡山に由来する。「岡山」はもともと現在の岡山城のある小高い丘の名で、宇喜多秀家がその丘に岡山城を築いて城下町を広げるにつれて町全体の名となり、藩名・市名・県名へと広がった。岡山市は明治22年（1889年）6月1日に市制を施行した。
+  first_attestation:
+    era: 文禄3年
+    year_western: 1594
+    document: 宇喜多秀家書状
+    note: 「岡山」が城下町の地名として呼ばれ始めた時期の推測とされる年（県レコード pref/33 と同じ扱い）。丘の名としての「岡山」の文書上の初出は特定できていない
+  claims:
+  - text: 岡山市の地方公共団体コードは331007である（総務省「全国地方公共団体コード」市区町村コード一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-soumu-code-list
+  - text: 「岡山」は、もともと現在の岡山城のある場所に存在した小高い丘を指して呼んだ名であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+  - text: 戦国時代、岡山の西隣の石山にあった石山城を元亀元年（1570年）に宇喜多直家が手に入れ、天正元年（1573年）に同城へ移って本拠とした
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+    - e-okayama-city-jouhistory
+  - text: 宇喜多秀家は豊臣秀吉の指示により旭川の流れを変え、石山の東の岡山へ本丸を移して岡山城の築城と本格的な城下町の建設を進めた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+  - text: 岡山城の天守閣は慶長2年（1597年）に完成し、築城の後、城は「岡山城」、城下町は「岡山」の呼称が定着した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-okayama-city-yuraihi
+    - e-okayama-city-jouhistory
+  - text: 岡山市は明治22年（1889年）6月1日に市制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-okayama-city-hensen
+  - text: 吉備の鬼ノ城で悪事を働いた異国の王子・温羅を、朝廷から派遣された吉備津彦命が成敗したという温羅伝説は、桃太郎伝説のモデルになったと言われている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-okayama-pref-pr
+  column:
+    title: 三つの丘から一つの市名へ
+    text: 岡山の城下は、岡山・石山・天神山という三つの小高い丘にまたがって造られた。その中で町の代表名に選ばれたのは、本丸が置かれた「岡山」だった。丘の名が城の名になり、城下町全体の名になり、藩の名になり、明治22年（1889年）の市制ではそのまま市名になった。最初は旭川沿いの一つの丘を指す言葉にすぎなかったものが、川の流路を付け替えるほどの築城工事を経て、70万人都市の名前になったのである。
+    sources:
+    - e-okayama-city-yuraihi
+    - e-okayama-city-jouhistory
+  relations:
+  - pref/33
+  unknowns:
+  - 丘の名としての「岡山」の文書上の初出は今回特定できていない
+  - 「岡山」が城下町名として使われ始めた時期を文禄3年（1594年）ごろとする推測は、秀家の書状に基づくとされるが、書状そのものは未確認
+  updated: '2026-11-13'
+- id: muni/33-新見市
+  code: '332101'
+  names:
+    ja: 新見市
+    reading: にいみし
+    aliases:
+    - 新見町
+    - 新見荘
+    - 新見郷
+  user_terms:
+  - 千屋牛のまち
+  - 新見荘のまち
+  - たたらの里
+  naming_type: 一部の地名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は中心地・新見町（旧新見村）の名を継いだもの。その名は中世の荘園「新見荘」に由来し、さらに古代の哲多郡新見郷（『和名類聚抄』）にさかのぼるとされる。近世には中心地が一時「下市」と呼ばれたが、元禄10年（1697）の新見藩成立の際に古い郷名「新見」が復活したと伝わる。
+  first_attestation:
+    era: 承平年間
+    year_western: 934
+    document: 『和名類聚抄』備中国哲多郡新見郷
+    note: 『日本歴史地名大系』が哲多郡の郷として『和名類聚抄』所載とするもの。和名抄の成立は931〜938年頃とされるため、西暦年は概数。
+  claims:
+  - text: 新見市の地方公共団体コードは332101である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1954（昭和29）年6月1日、阿哲郡新見町・上市町・美穀村・石蟹郷村・草間村・豊永村・熊谷村・菅生村が合併して新見市が発足し、翌1955（昭和30）年5月1日に千屋村を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-uub-niimi
+    - k5-okayama-pref-enkaku
+  - text: 2005（平成17）年3月31日、旧新見市と阿哲郡大佐町・神郷町・哲多町・哲西町が新設合併して現在の新見市が発足し、阿哲郡は消滅した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-niimi-city-gaiyo
+    - q2-uub-niimi
+  - text: 新見市の文化財保存活用地域計画は、本市の名称は備中国に新見郷が置かれたことに由来しているといわれている、と説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-niimi-bunkazai-keikaku
+  - text: 『日本歴史地名大系』によれば、市名は近世に新見藩の陣屋が置かれた新見村に由縁し、さらにさかのぼれば中世の新見庄、古代の哲多郡新見郷（『和名類聚抄』）に関連する。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-niimishi
+  - text: 新見荘は12世紀後半に最勝光院領として成立した寄進地系荘園で、文永10年（1273）の下地中分を経て、後醍醐天皇により東寺に寄進され東寺領となり、東寺には東寺百合文書をはじめ関係文書が多く残されている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-niimi-sho-db
+    - q2-niimi-city-gaiyo
+  - text: 近世の中心集落は下市村と呼ばれていたが、元禄10年（1697）に関長治が新見陣屋を構えて新見藩を立藩した際に、古い郷名の新見（爾比美）を復活させて「新見」と改称したとされる。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-niimi-wiki
+  - text: 「新見」の語源については、帰化漢人の部民である新漢部（イマキノアヤベ）を略した「新部」が「ニヒベ」と読まれ、それが転じて「新見」になったとする説がある。
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - q2-niimi-wiki-cho
+  column:
+    title: 消えた「下市」と、復活した千年の名「新見」
+    text: 新見の中心地は、江戸時代の初めには「下市」と呼ばれていた。高梁川の水運と山陰往来の市（いち）で栄えた町で、上流側の「上市」に対する名である。ところが元禄10年（1697）、新見藩の初代藩主となった関長治が陣屋を構えるにあたり、この地の名を、古代の郷名であり中世の荘園名でもあった「新見」に戻したとされる。一度は市場の呼び名に置き換わった地名が、藩の成立を機に千年近い古名へ復活した例であり、その名がそのまま現在の市名になっている。
+    sources:
+    - q2-niimi-wiki
+    - q2-kotobank-niimishi
+  relations:
+  - pref/33
+  - muni/33-真庭市
+  unknowns:
+  - 「新見」の語源（新漢部説）は、市史系の説としてWikipedia経由でしか確認できておらず、専門辞典での裏付けは未確認。
+  - 元禄10年の下市から新見への改称についても、一次史料・市公式資料での直接確認はできていない。
+  updated: '2026-11-13'
+- id: muni/33-津山市
+  code: '332038'
+  names:
+    ja: 津山市
+    reading: つやまし
+    aliases:
+    - 鶴山
+  user_terms:
+  - 津山の名前の由来
+  - 津山はもともと鶴山だったの
+  - 津山城と鶴山公園の名前の違い
+  naming_type: その他（藩主・森忠政による城地の改称「鶴山→津山」）
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は津山城の城名に由来する。もとの山名は鶴山（つるやま）で、慶長9年（1604年）に森忠政が「鶴山」を「津山」と改めて築城に着手し、城下町が開かれた。昭和4年（1929年）に市制を施行した。城跡は今も鶴山公園（かくざんこうえん）と呼ばれ、旧名が読みを変えて残っている。
+  first_attestation:
+    era: 慶長9年
+    year_western: 1604
+    document: 津山城築城に伴う改称（津山市の歴史的風致維持向上計画が記す）
+    note: 命名そのもの。「津山」という地名は、森忠政が鶴山を津山と改めたことに始まる
+  claims:
+  - text: 津山市の地方公共団体コードは332038である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 古代の津山盆地には美作国府・国分寺が置かれ、当地は美作国の中心地であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-tsuyama-city-fudoki1
+  - text: 中世には鶴山に山城（鶴山城）が築かれ、城地は鶴山と呼ばれていた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l5-tsuyama-kotobank-joseki
+  - text: 慶長8年（1603年）2月、森忠政が美作国18万6千5百石を与えられ、吉井川と宮川の合流点を見下ろす鶴山を城地に選定した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-tsuyama-city-fudoki
+  - text: 慶長9年（1604年）、森忠政は「鶴山」を「津山」と改めて築城に着手し、元和2年（1616年）に津山城が完成した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-tsuyama-city-fudoki
+  - text: 城は津山城と称する一方で別名を鶴山城といい、明治の廃城後に城跡に整備された公園は鶴山公園（かくざんこうえん）と名づけられ、旧名の鶴山が残った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-tsuyama-city-fudoki
+  - text: 昭和4年（1929年）2月11日、津山町ほか5町村の合併・市制施行により津山市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-tsuyama-city-nenpyo
+    - l5-tsuyama-uub
+  column:
+    title: 改名したのに消えなかった「鶴山」
+    text: 森忠政は1604年、築城にあたって山の名を鶴山から津山へ改めた。ところが旧名は消えなかった。城は別名・鶴山城と呼ばれ続け、明治になって城跡が公園になると「鶴山公園」と名づけられた。ただし読みは山の名だった「つるやま」ではなく音読みの「かくざん」である。市名・城名は津山、公園は鶴山（かくざん）、と二つの名前と読みが同居している。忠政がなぜ「津」の字を選んだのか、市の公式資料は理由を明示しておらず、今も謎として残る。
+    sources:
+    - l5-tsuyama-city-fudoki
+    - l5-tsuyama-kotobank-joseki
+  relations:
+  - pref/33
+  unknowns:
+  - 森忠政が「津」の字を選んだ理由は、津山市の公式資料（歴史的風致維持向上計画等）に明示されておらず未確認
+  - 中世の鶴山城の築城年次（嘉吉年間に山名忠政が築いたとする説）の一次史料は未確認
+  updated: '2026-11-13'
+- id: muni/33-浅口市
+  code: '332160'
+  names:
+    ja: 浅口市
+    reading: あさくちし
+    aliases:
+    - 浅口郡
+  user_terms:
+  - 天文のまち
+  - 金光教の本部がある市
+  - 鴨方の手延べ麺
+  naming_type: 合併新設
+  prefecture: 岡山県
+  homonyms: []
+  summary: 2006年に浅口郡の金光町・鴨方町・寄島町が合併して発足した市で、市名は3町が属していた郡名「浅口」を継承した。浅口郡は『続日本紀』霊亀2年（716）に名が見える古代備中国の郡で、語源には遠浅の干潟に由来する説と、古代の波区芸県が変形したとする説がある。現在の浅口市は旧郡域の一部で、郡には里庄町のみが残っている。
+  first_attestation:
+    era: 霊亀2年
+    year_western: 716
+    document: 『続日本紀』霊亀2年8月20日条
+    note: 『日本歴史地名大系』が「備中国浅口郡犬養部雁手」の記事として紹介する、郡名の初見。
+  claims:
+  - text: 浅口市の地方公共団体コードは332160である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2006（平成18）年3月21日、浅口郡金光町・鴨方町・寄島町が新設合併し、市制を施行して浅口市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-asakuchi-city-plan
+    - q2-uub-asakuchi
+  - text: 市名は、合併した3町が属していた浅口郡の名を継承したもので、市総合計画は「歴史の重みをもつ『浅口』の名を継承する本市」と述べている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-asakuchi-city-plan
+  - text: 『日本歴史地名大系』によれば、浅口郡の名は『続日本紀』霊亀2年（716）8月20日条の「備中国浅口郡犬養部雁手」の記事に見える。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-asakuchigun
+  - text: 郡名の由来について、『日本歴史地名大系』は『浅口郡誌』の説として、この地が「海ヲ開発シテ、遠浅ノ水ノ干潟アル地」であったことによると紹介している。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - q2-kotobank-asakuchigun
+  - text: 郡名の由来については、古代吉備国に置かれた県の一つ波区芸県（はくきのあがた）が変形したものであるという解釈も有力とされる。
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - q2-asakuchi-wiki-gun
+  - text: 旧浅口郡の郡域は現在の倉敷市の一部と笠岡市の一部にも及んでいたが、浅口市は郡の西部3町で発足し、浅口郡には現在、里庄町のみが残っている。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-asakuchigun
+    - q2-uub-asakuchi
+  - text: 市域南部の寄島については、三韓征伐の帰路に神功皇后が沖合の小島に立ち寄ったため「寄島」と呼ばれるようになったという伝承がある。
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - q2-asakuchi-chimeiko
+  column:
+    title: 住民投票の僅差で決まった合併の枠組み
+    text: 浅口の合併は、当初は浅口郡5町（船穂・里庄を含む）での合併が検討され、笠岡市と組む案や倉敷市への吸収案もあった。里庄町が単独町制の継続を表明して離脱し、金光町では2003年に合併先を問う住民投票が行われ、「浅口地域」38.5％が「倉敷地域」36.7％をわずかに上回った。この僅差の選択が、郡名をそのまま市名に受け継ぐ浅口市の誕生につながった。
+    sources:
+    - q2-uub-asakuchi
+  relations:
+  - pref/33
+  - muni/33-笠岡市
+  unknowns:
+  - 浅口郡の語源は諸説あり（遠浅の干潟説・波区芸県変形説のほか、入江の浅い出入口に由来する伝承もある）、いずれも決定的な裏付けは確認できなかった。
+  - 2006年の合併協議会が市名「浅口市」を正式決定した過程の一次資料は確認できなかった。
+  updated: '2026-11-13'
+- id: muni/33-瀬戸内市
+  code: '332127'
+  names:
+    ja: 瀬戸内市
+    reading: せとうちし
+    aliases:
+    - 邑久郡
+  user_terms:
+  - 日本のエーゲ海（牛窓）
+  - 備前長船の刀のまち
+  - 山鳥毛のまち
+  naming_type: 新規命名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 2004年に邑久郡の牛窓町・邑久町・長船町が合併して発足した市で、市名は公募で新たに選ばれた「瀬戸内」である。市は選定理由として、瀬戸内海の恩恵を受ける風光明媚で温暖な地域をイメージできることなどを挙げる。旧町名はいずれも消えたが、長船は中世以来の刀剣の産地「備前長船」として知られ、市は国宝「山鳥毛」を所蔵する。
+  first_attestation:
+    era: 平成16年
+    year_western: 2004
+    document: 邑久郡合併協議会における新市名の公募と決定
+    note: 市名は2004年の合併に際して公募で新たに選ばれた名称であり、それ以前の文献における初出はない。
+  claims:
+  - text: 瀬戸内市の地方公共団体コードは332127である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2004（平成16）年11月1日、邑久郡牛窓町・邑久町・長船町が新設合併し、市制を施行して瀬戸内市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-setouchi-city-ayumi
+    - q2-uub-setouchi
+  - text: 市名「瀬戸内」は公募により選ばれ、市は選定理由として、瀬戸内海の恩恵を受け風光明媚で温暖な穏やかな地域をイメージできること、瀬戸内海を利用した文化・物流の中継地として栄えてきた地域であることなどを挙げている。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-setouchi-city-ayumi
+  - text: 新市名の公募では「東岡山」「東備」「夢二（夢路）」「あけぼの」「オリーブ」などが上位候補に挙がり、最終候補は「瀬戸内」と「あけぼの」の2案に絞られて「瀬戸内市」に決定した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-setouchi
+  - text: 合併した3町はいずれも邑久郡に属していた町であり、この合併により邑久郡は消滅した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-setouchi
+  - text: 市域の長船は中世以来「備前長船」として知られる刀剣の産地の地であり、市は備前長船刀剣博物館を置くほか、2020年に国宝の太刀「山鳥毛」を購入して市の所蔵とした。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-setouchi-city-report
+    - q2-setouchi-city-ayumi
+  column:
+    title: 住民投票で「反対」が多かった町と合併
+    text: 合併協議の途上、2003年10月に長船町で行われた住民投票では、合併への賛成46.2％に対し反対53.8％と、反対が多数を占めた。協議はいったん休止されたが、有権者の過半数の署名による合併推進の請願などを経て協議が再開され、翌2004年11月に3町の合併が実現した。新市名の公募でも「夢二」「オリーブ」といった個性的な候補が上位に並んだが、最終的には海の名をそのまま冠する「瀬戸内」が選ばれた。
+    sources:
+    - q2-uub-setouchi
+  relations:
+  - pref/33
+  - muni/33-備前市
+  unknowns:
+  - 旧中心地名のうち「邑久」の語源（邑久郡・邑久郷の由来）は専門辞典で確認する時間がなく、未確認のままである。
+  - 「瀬戸内海」という海域名自体の成立時期・初出は本レコードでは確認していない。
+  updated: '2026-11-13'
+- id: muni/33-玉野市
+  code: '332046'
+  names:
+    ja: 玉野市
+    reading: たまのし
+    aliases:
+    - 玉野村
+  user_terms:
+  - たまの
+  - 宇野港のまち
+  - 造船のまち
+  naming_type: 合併新設
+  prefecture: 岡山県
+  homonyms: []
+  summary: 1940年（昭和15年）8月3日に児島郡宇野町と日比町が合併して市制を施行した際に生まれた合成地名。市名は、日比町の中心地区だった「玉」と宇野町の「野」を組み合わせて命名されたと説明されている。市の中心港・宇野港は四国への玄関口として栄え、市域には三井造船の創業以来の造船業が集積する。もとは1889年に宇野村と玉村が合併して玉野村が発足しており、「玉野」の名自体はこの村名にさかのぼる。
+  first_attestation:
+    era: 明治22年
+    year_western: 1889
+    document: 町村制施行時の玉野村の発足（宇野村と玉村の合併）
+    note: 「玉野」の名の初出は行政地名としての玉野村。玉野村は1906年に分村して消滅したが、1940年の市制施行で市名として復活した。
+  claims:
+  - text: 1940年（昭和15年）に宇野町と日比町が合併して玉野市が誕生したと、玉野市の公式資料は沿革を説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-tamano-city
+  - text: 市名「玉野」は、日比町の人口的・経済的中心地となっていた地区名の「玉」と、宇野町の「野」を組み合わせて命名されたと説明されている。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q1-tamano-wiki
+  - text: 「玉野」の名は市制より古く、1889年（明治22年）の町村制施行時に宇野村と玉村が合併して玉野村が発足したことにさかのぼるが、この玉野村は1906年（明治39年）に宇野と玉に分村して消滅した。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q1-tamano-wiki
+  - text: 1909年（明治42年）に宇野港が竣工し、1910年（明治43年）に宇野線の開通と宇高連絡船の就航があって、宇野は四国への玄関口となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-tamano-city
+  - text: 1919年（大正8年）に日比町の玉地区で三井物産の造船部が創業し、造船の企業城下町として発展したことが、市名に「玉」が採られる背景となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-tamano-city
+  - text: 市制施行後も1954年（昭和29年）に荘内村を、1955年（昭和30年）に八浜町を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-tamano-city
+  column:
+    title: 一度消えた村の名が、市の名として復活した
+    text: 玉野市の名の由来をたどると、面白い二段構えに出会う。「玉野」は1940年の合併市制で宇野町と日比町から1字ずつ取った新しい合成地名――と説明されることが多い。だが実際には、町村制が始まった1889年に宇野村と玉村の合併で「玉野村」が一度生まれている。この村は1906年に再び宇野と玉に分かれて消えた。それから34年、宇野と玉は宇野町・日比町として再び合体し、そのとき選ばれたのが、かつて短命に終わった村の名「玉野」だった。合成地名でありながら完全な新造ではなく、地域に眠っていた名の復活でもある点が、この市名の奥行きである。
+    sources:
+    - q1-tamano-wiki
+    - q1-tamano-city
+  relations:
+  - pref/33
+  unknowns:
+  - 市名の命名理由（「玉」と「野」の組み合わせ）を記した市公式・市史の一次資料は今回確認できず、Wikipediaの説明に拠った
+  - 大字「玉」そのものの地名の由来は確認できなかった
+  updated: '2026-11-13'
+- id: muni/33-真庭市
+  code: '332143'
+  names:
+    ja: 真庭市
+    reading: まにわし
+    aliases:
+    - 真庭郡
+    - 真島郡
+    - 大庭郡
+  user_terms:
+  - 蒜山高原のある市
+  - ひるぜん
+  - 県下最大の面積の市
+  - バイオマスのまち
+  naming_type: 合併新設
+  prefecture: 岡山県
+  homonyms: []
+  summary: 2005年に真庭郡の8町村と上房郡北房町の9町村が合併して発足した、岡山県最大の面積を持つ市で、市名は大半の町村が属していた郡名「真庭」を継承した。真庭郡は1900年に真島郡と大庭郡が合併して生まれた郡で、その名自体が両郡名を組み合わせた合成地名である。市域北部には蒜山高原が広がる。
+  first_attestation:
+    era: 明治33年
+    year_western: 1900
+    document: 郡制施行に伴う真島郡・大庭郡の合併による真庭郡の発足
+    note: 「真庭」の名は1900年の郡の合併で新たに作られた合成地名であり、それ以前の文献には見えない。その構成要素である真島郡・大庭郡はいずれも『和名類聚抄』に名が見える美作国の郡である。
+  claims:
+  - text: 真庭市の地方公共団体コードは332143である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005（平成17）年3月31日、真庭郡勝山町・落合町・湯原町・久世町・美甘村・川上村・八束村・中和村と上房郡北房町の9町村が新設合併し、市制を施行して真庭市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-maniwa-city-tanjou
+    - q2-uub-maniwa
+  - text: 新市名は公募のうえ検討され、2004年3月10日の真庭地域合併協議会で「真庭市」に決定した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-maniwa-city-tanjou
+  - text: 市名は、合併した9町村のうち8町村が属していた真庭郡の郡名をそのまま引き継いだものである。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-maniwa
+  - text: 真庭郡は1900（明治33）年4月1日、郡制の施行により真島郡と大庭郡の区域をもって発足した郡である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-okayama-pref-furoku
+    - q2-maniwa-wiki-gun
+  - text: 郡名「真庭」は、真島郡の「真」と大庭郡の「庭」を組み合わせた合成地名である。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-maniwa-wiki-gun
+  - text: 真庭市は岡山県下で最大の面積を持つ自治体であり、市域北部には蒜山高原が広がる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-maniwa-city-tanjou
+  - text: 真庭郡の新庄村は2005年の合併に参加しなかったため、真庭郡には現在、新庄村のみが属している。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-maniwa
+    - q2-maniwa-wiki-gun
+  column:
+    title: 二転三転した合併の枠組み
+    text: 真庭の合併協議は、川上村と八束村の2村合併の住民発議（1996年）に始まり、一時は久米郡旭町や苫田郡富村をも含む広域の枠組みが模索された。任意協議会は北部町村の加入をめぐって意見が割れて休止し、法定協議会はまず7町村で発足、のちに落合町と北房町が加わって9町村の大同団結となった。一方で新庄村は単独村制の継続を選び、今も真庭郡に残る唯一の村となっている。
+    sources:
+    - q2-maniwa-city-tanjou
+    - q2-uub-maniwa
+  relations:
+  - pref/33
+  - muni/33-高梁市
+  unknowns:
+  - 「真庭」が真島・大庭の合成地名であることの明文の根拠は専門辞典（角川日本地名大辞典・日本歴史地名大系）で直接確認できておらず、Wikipediaの記述に基づく。
+  - 真島郡・大庭郡それぞれの語源は本レコードでは追っていない。
+  updated: '2026-11-13'
+- id: muni/33-笠岡市
+  code: '332054'
+  names:
+    ja: 笠岡市
+    reading: かさおかし
+    aliases:
+    - 笠岡町
+    - 笠岡村
+  user_terms:
+  - 笠岡諸島
+  - 笠岡ラーメン
+  - カブトガニのまち
+  naming_type: 一部の地名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 1952年に笠岡町と金浦町が合併して市制を施行した港町で、市名は近世以来の中心地・笠岡村（町）の名を継承する。地名の由来については、古代にこの地を治めた笠臣氏の勢力範囲であったためとする説明が市の公式資料にあるが、『日本歴史地名大系』は記紀に散見する笠臣との関連説について「明証はない」と明記しており、確定していない。市域には笠岡諸島の島嶼部も含まれる。
+  first_attestation:
+    era: null
+    year_western: null
+    document: null
+    note: 「笠岡」という地名自体の文献初出は確認できなかった。『日本歴史地名大系』は、記紀などに散見する「笠臣」と地名との関連を説く説について明証がないとしている。
+  claims:
+  - text: 笠岡市の地方公共団体コードは332054である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1952（昭和27）年4月1日、笠岡町が金浦町と合併して市制を施行し、笠岡市が発足した。その後1953年に城見・陶山・大井・吉田・新山・神島内の6か村を編入した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-kasaoka-city-oitachi
+  - text: 『日本歴史地名大系』によれば、市名は、古くから湊として栄え近世には代官所も置かれて西備地方の中核であった笠岡村を継承するものである。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-kasaokashi
+  - text: 市は公式の沿革で、「笠岡」の地名は古代の「笠臣氏」の勢力範囲であったことによると言われていると説明している。笠臣氏は吉備氏の一族とされる。
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - q2-kasaoka-city-oitachi
+  - text: 一方、『日本歴史地名大系』は、地名が記紀などに散見する笠臣と関連するものとする説について「明証はなく」と明記しており、笠臣氏由来説は裏付けを欠く。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - q2-kotobank-kasaokashi
+  - text: 市の統計書は別の伝えとして、応神天皇の御代に吉備氏の一族・鴨別命が国造に封じられ、その子孫が代々「笠氏」を称して氏族集団「笠の国」を形成し、その遺称が「笠岡」であるといわれていると紹介している。
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q2-kasaoka-city-toukei
+  - text: 市域の南方海上には笠岡諸島があり、高島・白石島・北木島・真鍋島・大飛島・小飛島・六島などの島嶼部も市域に含まれる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-kasaokashi
+  column:
+    title: 一時期だけ「県庁所在地」だった笠岡
+    text: 廃藩置県後の県の統合が進むなか、1872（明治5）年に深津県が小田県と改められ、その県庁が笠岡に置かれた。笠岡が「県庁所在地」だったのは1875年に小田県が岡山県へ合併されるまでの約3年間だが、近世に代官所が置かれて西備の中核だった笠岡の地位を象徴する出来事である。なお市の公式説明にある笠臣氏由来説は、専門辞典が明証なしとする話でもあり、由来の確定にはなお資料の検討を要する。
+    sources:
+    - q2-kasaoka-city-oitachi
+    - q2-kotobank-kasaokashi
+  relations:
+  - pref/33
+  - muni/33-井原市
+  - muni/33-浅口市
+  unknowns:
+  - 「笠岡」の語源は確定しておらず、笠臣氏（笠氏）由来説には専門辞典が明証なしとしている。「笠」の付く丘陵地形に由来するような地形説の有無も含め、辞典での確定説明は確認できなかった。
+  - 「笠岡」という地名の最古の文献用例（笠岡村・笠岡浦などとしての初出）は確認できなかった。
+  updated: '2026-11-13'
+- id: muni/33-総社市
+  code: '332089'
+  names:
+    ja: 総社市
+    reading: そうじゃし
+    aliases:
+    - 総社町
+    - 総社村
+  user_terms:
+  - そうじゃ
+  - 吉備路のまち
+  - 総社宮の門前町
+  naming_type: 一部の地名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 市名は、平安時代に備中国内の神々を合祀して建てられた総社宮に由来する中心地「総社」の名を継いだものと、市は説明している。総社宮の門前町として育った総社は、備中国府のあった吉備の中枢地域の一角にあり、1875年（明治8年）に総社村の名が現れ、1954年に市制を施行、2005年に山手村・清音村と合併した。
+  first_attestation:
+    era: 明治8年
+    year_western: 1875
+    document: 総社市の市制沿革（八田部村・清水村・井手村などが合併して総社村と称した記録）
+    note: 行政地名としての「総社」の確認できる初出。地名そのものは総社宮の鎮座に伴いそれ以前から使われていたはずだが、初出の史料は特定できなかった。
+  claims:
+  - text: 総社市は公式の概要で、平安時代に備中国内の神々を合祀した総社宮が建てられ、総社市の名称はこれに由来していると説明している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-soja-city
+  - text: 飛鳥・奈良時代には備中の国府がこの地域に置かれ、国分寺・国分尼寺も配置されて、備中国の政治・経済・文化の中心地として栄えた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-soja-city
+  - text: 1875年（明治8年）に八田部村・清水村・井手村などが合併して総社村と称し、町村制を経て1896年（明治29年）に総社町となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-soja-city
+  - text: 1954年（昭和29年）3月31日に総社町などが合併して市制を施行し、総社市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-soja-city
+  - text: 2005年（平成17年）3月22日に総社市・山手村・清音村が合併して現在の総社市となった。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q1-soja-city
+  - text: 「総社」は本来、一国内の神社を合祀した社を指す普通名詞であり、備中国の総社宮の鎮座地がそのまま固有名詞の地名として残って市名になったとみられる。
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q1-soja-city
+  column:
+    title: 普通名詞が市の名前になった
+    text: 「総社」はもともと固有名詞ではない。律令国家が国ごとに国内の神々を一社に合祀した社のことを「総社」と呼んだ制度名である。ところが備中国の総社宮の門前には町が育ち、やがて社は土地そのものの名前になった。同じ仕組みの地名は全国にあるが、市制を施行して「市」の名にまでなったのは総社市ならではである。市の中心には今も備中国総社宮が鎮座し、吉備路の観光拠点になっている。制度の名前が神社を経て地名になり自治体名になるという三段跳びは、日本の地名の成り立ちの多様さを示す好例だろう。
+    sources:
+    - q1-soja-city
+  relations:
+  - pref/33
+  unknowns:
+  - 総社宮の創建の正確な年代は、市公式の概要では「平安時代」とされるにとどまり特定できなかった
+  - 中世以前の文書における地名「総社」の初出は特定できなかった
+  updated: '2026-11-13'
+- id: muni/33-美作市
+  code: '332151'
+  names:
+    ja: 美作市
+    reading: みまさかし
+    aliases:
+    - 美作国
+    - 作州
+    - 美作町
+  user_terms:
+  - 作州
+  - 宮本武蔵の里
+  - 湯郷温泉
+  naming_type: 合併新設
+  prefecture: 岡山県
+  homonyms: []
+  summary: 2005年に英田郡の5町村と勝田郡勝田町の6町村が合併して発足した市で、市名は旧国名「美作」を採用した。美作国は713年に備前国から分かれて成立した国で、国府は現在の津山市に置かれたため、市名が本来指す範囲は現在の市域よりはるかに広い。合併前から、中心の町は1953年以来「美作町」を名乗っていた。
+  first_attestation:
+    era: 和銅6年
+    year_western: 713
+    document: 『続日本紀』和銅6年条
+    note: 備前国から美作国を分けた記事が国名「美作」の初見。ただし国名自体の語源は未詳である。
+  claims:
+  - text: 美作市の地方公共団体コードは332151である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005（平成17）年3月31日、勝田郡勝田町と英田郡大原町・東粟倉村・美作町・作東町・英田町の6町村が新設合併し、市制を施行して美作市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-mimasaka-city-keikaku
+    - q2-uub-mimasaka
+  - text: 市名「美作」は旧国名「美作国」に由来し、合併した6町村はいずれも旧美作国を構成した英田郡・勝田郡に属していた。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-folklore-mimasaka
+    - q2-mimasaka-city-keikaku
+  - text: 美作国は和銅6年（713年）に備前国から分かれて成立した国である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-mimasaka-city-keikaku
+  - text: 旧美作国の国府は現在の津山市に置かれており、美作市は旧国域の東部の一部にすぎない。市名が指す範囲と現在の市域には大きなずれがある。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-folklore-mimasaka
+  - text: 中心となった旧美作町は、1953年に林野町・湯郷町などが合併して成立した時点で、すでに国名「美作」を町名として採用していた。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-mimasaka
+  - text: 市域の大原地区（宮本）には宮本武蔵が生まれたと伝えられる宅跡があり、岡山県は「伝宮本武蔵宅跡」として県指定史跡に指定し、武蔵ゆかりの地として紹介している。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-okayama-pref-musashi
+  column:
+    title: 離合集散の末に残った6町村
+    text: 美作市の合併協議は一筋縄ではいかなかった。勝田・勝央・美作・英田などのグループと、大原・東粟倉・西粟倉・作東などのグループが別々に協議会を持ち、合流の申し入れが拒否される場面もあった。勝央町・柵原町・西粟倉村は最終的に枠組みを離れ、残った6町村で2005年に市制が施行された。国名をそのまま市名に掲げたのは、郡も町村も異なる6町村を束ねる共通の旗印が必要だったからでもある。
+    sources:
+    - q2-uub-mimasaka
+  relations:
+  - pref/33
+  - muni/33-備前市
+  unknowns:
+  - 市名「美作」の選定過程（公募の有無・候補名・決定理由）を市の一次資料では確認できなかった。
+  - 国名「美作」の語源は諸説の確認に至らず未詳のままである。
+  - 宮本武蔵の生誕地については播磨国を出生地とする説もあり、美作生誕説の真偽は本レコードでは判定していない。
+  updated: '2026-11-13'
+- id: muni/33-赤磐市
+  code: '332135'
+  names:
+    ja: 赤磐市
+    reading: あかいわし
+    aliases:
+    - 赤磐郡
+    - 赤坂郡
+    - 磐梨郡
+  user_terms:
+  - あかいわ
+  - 白桃のまち
+  - ドイツの森
+  naming_type: 合併新設
+  prefecture: 岡山県
+  homonyms: []
+  summary: 2005年に赤磐郡の山陽町・赤坂町・熊山町・吉井町が合併して発足した市で、市名は4町が属していた郡名「赤磐」を公募で選んだものである。赤磐郡は1900年に赤坂郡と磐梨郡が合併して生まれた郡で、「赤磐」自体が赤坂の「赤」と磐梨の「磐」を合わせた合成地名である。なお赤磐郡は2007年に消滅しており、市名の由来となった郡は現存しない。
+  first_attestation:
+    era: 明治33年
+    year_western: 1900
+    document: 郡制施行に伴う赤坂郡・磐梨郡の合併による赤磐郡の発足
+    note: 「赤磐」の名は1900年の郡の合併で作られた合成地名であり、それ以前の文献には見えない。
+  claims:
+  - text: 赤磐市の地方公共団体コードは332135である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2005（平成17）年3月7日、赤磐郡山陽町・赤坂町・熊山町・吉井町の4町が新設合併し、市制を施行して赤磐市が発足した。市役所は旧山陽町役場（下市）に置かれた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-akaiwa-city-nenpyo
+    - q2-uub-akaiwa
+  - text: 市名は公募で選ばれ、最終候補は「あかいわ」「赤磐」「山陽」の3案で、「赤磐市」に決定した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-akaiwa
+  - text: 合併協議は当初、瀬戸町を含む赤磐郡5町で進められたが、瀬戸町では岡山市との合併を望む声も強く（住民アンケートで4町合併52.7％、岡山市44.9％）、瀬戸町は協議から離脱した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-uub-akaiwa
+  - text: 市名の由来となった赤磐郡は、1900（明治33）年4月1日に赤坂郡と磐梨郡の区域をもって発足した郡である。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-akaiwa-wiki-gun
+  - text: 「赤磐」は、赤坂郡の「赤」と磐梨郡の「磐」を組み合わせた合成地名である。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-akaiwa-wiki
+  - text: 赤磐郡は、2007年1月22日に残っていた瀬戸町が岡山市へ編入されたことで消滅した。市名の由来となった郡は現存しない。
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - q2-akaiwa-wiki-gun
+  column:
+    title: ひらがなの「あかいわ市」になりかけた
+    text: 新市名の公募は2度行われた形になった。瀬戸町を含む5町の協議会では、公募の候補から漢字でない「あかいわ市」が一度は選定された。しかし瀬戸町が離脱して4町の枠組みに変わると市名は再検討され、最終候補「あかいわ」「赤磐」「山陽」の中から漢字の「赤磐市」が選ばれた。あと一歩で、岡山県にはひらがな名の市が誕生するところだった。
+    sources:
+    - q2-uub-akaiwa
+  relations:
+  - pref/33
+  - muni/33-備前市
+  unknowns:
+  - 「赤磐」が赤坂・磐梨の合成地名であることの明文の根拠は、専門辞典（角川日本地名大辞典など）では直接確認できておらず、Wikipediaの記述（出典付き）に基づく。
+  - 赤坂郡・磐梨郡それぞれの語源は本レコードでは追っていない。
+  updated: '2026-11-13'
+- id: muni/33-高梁市
+  code: '332097'
+  names:
+    ja: 高梁市
+    reading: たかはしし
+    aliases:
+    - 松山
+    - 高橋
+    - 高梁藩
+    - 備中松山
+  user_terms:
+  - 備中松山城の城下町
+  - 雲海の山城
+  - 吹屋のベンガラの町並み
+  naming_type: 藩名
+  prefecture: 岡山県
+  homonyms: []
+  summary: 備中松山城の城下町を中心とする市で、現在の市は2004年に旧高梁市と有漢・成羽・川上・備中の4町が合併して発足した。市名は、明治2年（1869）に松山藩が改称した「高梁藩」に由来する。この地は中世には「高橋」、近世には「松山」と呼ばれており、「高梁」はもとの「高橋」に雅字の「梁」を当てた名で、高梁川の名もこの改称後に町名に合わせて定着した。
+  first_attestation:
+    era: 明治2年
+    year_western: 1869
+    document: 松山藩から高梁藩への改称
+    note: 現在の「高梁」の表記は1869年の藩名改称で定まった。それ以前、この地は中世以来「高橋」、近世には城下町「松山」と呼ばれた。「高橋」という地名自体の最古の文献用例は確認できていない。
+  claims:
+  - text: 高梁市の地方公共団体コードは332097である（総務省「地方公共団体コード一覧」）。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 2004（平成16）年10月1日、（旧）高梁市と上房郡有漢町、川上郡成羽町・川上町・備中町が合併して新しい高梁市が発足し、この合併で川上郡は廃止された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-estat-takahashi
+  - text: 旧高梁市は1954（昭和29）年に高梁町と周辺町村の合併によって発足した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q2-takahashi-note
+  - text: 『日本歴史地名大系』によれば、市名は明治2年（1869）に松山藩が改称した高梁藩、それを継承した高梁県に由来する。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-takahashishi
+  - text: 市の説明によれば、幕末に老中首座・板倉勝静を擁して朝敵とされた備中松山藩は、新政府から改名を求められ、高倉山にちなむ「高倉」と川の名にちなむ「高梁」の2候補のうち「高梁」が選ばれた。伊予松山との混同を避ける意図もあったとされる。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q2-takahashi-city-faq
+    - q2-takahashi-city-chimei
+  - text: この地はもと「高橋」と呼ばれていたが、『備中誌』は、元弘・正慶の頃に城主の高橋又四郎が居城した時から「高橋」を「松山」に改めたと伝える。市は、城主の姓と地名が同じで呼び捨てになることを嫌ったためと説明しているが、大系は高橋氏との関連は「確かではない」とする。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - q2-kotobank-takahashishi
+    - q2-takahashi-city-faq
+  - text: もとの「高橋」の語源は確定しておらず、市は、川を高橋川と呼んだことから変化したとする説、『高梁市史』の説（明治に「橋」に雅字の「梁」を当てた）、タカ・ハシを台地の端の意とする説の3説を並べて紹介している。
+    kind: fact
+    level: E2
+    status: indeterminate
+    sources:
+    - q2-takahashi-city-chimei
+  - text: 高梁川は古くは川島川、のちに川辺川・松山川などと呼ばれており、「高梁川」の呼称は明治2年に松山藩が高梁藩と改称した後に定着した。すなわち川の名は藩・町の名に合わせて付けられたもので、町名が高梁川に由来するのではない。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q2-kotobank-takahashigawa
+    - q2-mlit-takahashigawa
+  column:
+    title: 朝敵の藩に下された改名と、中国の地名を借りた「梁」
+    text: 幕末、備中松山藩は老中首座の板倉勝静を出したことで朝敵とされ、明治2年に新政府から藩名の変更を求められた。候補は城下の南の高倉山にちなむ「高倉」と、川の名にちなむ「高梁」の2つ。当初は旧名「高橋」に戻す案だったが、「橋」を雅字の「梁」に換えた「高梁」が選ばれた。『備中誌』は「高橋を高梁と云は、漢土晋の地に高梁と云処有に拠しものなり」と記し、中国の晋の地名「高梁」に倣ったとする。なお城の名は改められず、今も「備中松山城」と呼ばれるため、市名と城名が食い違う形が残っている。
+    sources:
+    - q2-takahashi-city-faq
+    - q2-kotobank-takahashigawa
+  relations:
+  - pref/33
+  - muni/33-新見市
+  - muni/33-真庭市
+  unknowns:
+  - 「高橋」の語源（川名由来か、地形の「高・端」か）は確定しておらず、辞典も関係を「確かではない」としている。
+  - 「高橋」という地名の最古の文献用例は確認できなかった（記録上は『備中誌』など近世の地誌が伝える形）。
+  - 1869年の改称で「梁」の字が選ばれた経緯について、市は漢学者の助言があったとするが、その人物や一次資料は確認できていない。
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  e-cap-okayama-city-hensen:
+    label: 岡山市公式サイト「市域の変遷」
+    level: E2
+    url: https://www.city.okayama.jp/shisei/cmsfiles/contents/0000047/47274/hensen.pdf
+  e-cap-soumu-code-list:
+    label: 総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）
+    level: E2
+    url: https://www.soumu.go.jp/denshijiti/code.html
+  k5-kurashiki-kibinavi:
+    label: きびナビ「倉敷の地名の由来」
+    level: E4
+    url: https://fuuraiki.com/kurashiki
+  k5-kurashiki-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「倉敷村」（備中・美作の両項目）
+    level: E3
+    url: https://kotobank.jp/word/%E5%80%89%E6%95%B7%E6%9D%91-1669106
+  k5-kurashiki-tocotoco:
+    label: 倉敷とことこ「倉敷美観地区の歴史」（倉敷市歴史資料整備室の協力による解説）
+    level: E2
+    url: https://kuratoco.com/kurashiki-bikan-history
+  k5-okayama-pref-enkaku:
+    label: 岡山県「市町村の沿革」
+    level: E2
+    url: https://www.pref.okayama.jp/uploaded/attachment/322991.pdf
+  k5-onomichi-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「尾道市」
+    level: E3
+    url: https://kotobank.jp/word/%E5%B0%BE%E9%81%93%E5%B8%82-40943
+  l5-tsuyama-city-fudoki:
+    label: 津山市「歴史的風致維持向上計画 第2章 津山の歴史的風致及びその維持向上の方針」
+    level: E2
+    url: https://www.city.tsuyama.lg.jp/common/photo/free/files/4123/20150210204501055903.pdf
+  l5-tsuyama-city-fudoki1:
+    label: 津山市「歴史的風致維持向上計画 第1章 津山市の歴史的風致形成の背景」
+    level: E2
+    url: https://www.city.tsuyama.lg.jp/common/photo/free/files/4123/201812131144160872646.pdf
+  l5-tsuyama-city-nenpyo:
+    label: 津山市公式サイト「昭和の歴史年表」（津山市史）
+    level: E2
+    url: https://www.city.tsuyama.lg.jp/article?articleId=65cc68c2972b0a1c8091e416
+  l5-tsuyama-kotobank-joseki:
+    label: コトバンク 日本歴史地名大系「津山城跡」
+    level: E3
+    url: https://kotobank.jp/word/%E6%B4%A5%E5%B1%B1%E5%9F%8E%E8%B7%A1-1444493
+  l5-tsuyama-uub:
+    label: 市区町村変遷情報「津山市（岡山県）1929年〜」
+    level: E4
+    url: https://uub.jp/upd/c/8032.html
+  q1-soja-city:
+    label: 総社市公式「総社市の概要・沿革」（平安時代に備中国内の神々を合祀した総社宮が建てられ総社市の名称はこれに由来すること、明治8年の総社村、昭和29年3月31日の市制施行、平成17年3月22日の合併）
+    url: https://www.city.soja.okayama.jp/soshiki/2/1011.html
+  q1-tamano-city:
+    label: 玉野市公式『玉野市の概要』（1940年に宇野町と日比町が合併して玉野市が誕生したこと、宇野港と造船のまちの歩み）
+    url: https://www.city.tamano.lg.jp/uploaded/attachment/18168.pdf
+  q1-tamano-wiki:
+    label: Wikipedia「玉野市」（市名は日比町の中心地区名「玉」と宇野町の「野」を組み合わせて命名されたという説明）
+    url: https://ja.wikipedia.org/wiki/%E7%8E%89%E9%87%8E%E5%B8%82
+  q2-akaiwa-city-nenpyo:
+    label: 赤磐市「あかいわ歴史年表（平成）」（2005年3月7日に赤磐郡山陽町・赤坂町・熊山町・吉井町の4町で赤磐市が誕生したこと）
+    url: https://www.city.akaiwa.lg.jp/shisei/gaiyou/furusato/2342.html
+  q2-akaiwa-wiki:
+    label: Wikipedia「赤磐市」（地名の由来として、赤磐は1900年に赤坂郡・磐梨郡の区域をもって発足した赤磐郡に由来する合成地名であること）
+    url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A3%90%E5%B8%82
+  q2-akaiwa-wiki-gun:
+    label: Wikipedia「赤磐郡」（1900年4月1日に赤坂郡・磐梨郡の区域をもって発足したこと、2007年1月22日に瀬戸町の岡山市編入で赤磐郡が消滅したこと）
+    url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A3%90%E9%83%A1
+  q2-asakuchi-chimeiko:
+    label: 玉島地名考「番外編：浅口市」（郷土史サイト。神功皇后が沖合の小島に立ち寄ったことから寄島と呼ばれるようになったという伝承）
+    url: http://www.tamatele.ne.jp/~mizukawa-y/asakuti.htm
+  q2-asakuchi-city-plan:
+    label: 浅口市「浅口市総合計画」（平成18年3月21日に金光町・鴨方町・寄島町が合併して浅口市が誕生したこと、市長あいさつで「歴史の重みをもつ『浅口』の名を継承する」と述べること）
+    url: https://www.city.asakuchi.lg.jp/uploaded/attachment/4747.pdf
+  q2-asakuchi-wiki-gun:
+    label: Wikipedia「浅口郡」（郡名の由来は古代吉備国の県の一つ波区芸県（はくきのあがた）が変形したものとする解釈が有力とされること）
+    url: https://ja.wikipedia.org/wiki/%E6%B5%85%E5%8F%A3%E9%83%A1
+  q2-bizen-city-shokai:
+    label: 備前市公式「備前市の紹介」（1951年の備前町発足、1955年の拡大、1971年の市制、2005年の新・備前市誕生）
+    url: https://www.city.bizen.okayama.jp/soshiki/2/1089.html
+  q2-bizen-gikai-gaiyo:
+    label: 備前市議会「備前市の概要」（昭和46年の市制施行、平成17年の合併、「備前」が新市の名称に選定された理由、備前焼は千年の歴史を誇ること）
+    url: https://www.city.bizen.okayama.jp/uploaded/attachment/29966.pdf
+  q2-estat-takahashi:
+    label: 政府統計の総合窓口（e-Stat）「廃置分合等情報 岡山県高梁市」（2004年10月1日に高梁市・有漢町・成羽町・川上町・備中町が合併して高梁市を新設し、川上郡が廃止されたこと）
+    url: https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/33209
+  q2-folklore-mimasaka:
+    label: 地名の由来「美作市」（市名は旧国名に由来すること、美作国の国府は現在の津山市にあったこと）
+    url: https://www.folklore2017.com/70000/shi/00035.htm
+  q2-ibara-city-tokusanhin:
+    label: 井原市公式「特産品―市のプロフィール」（1600年代初頭からの綿花・藍栽培、1960年頃に日本で初めてデニム地の生産を開始し「日本のデニムの聖地」と呼ばれること）
+    url: https://www.city.ibara.okayama.jp/site/city-profile/9567.html
+  q2-kasaoka-city-oitachi:
+    label: 笠岡市「笠岡のおいたち」（「笠岡」の地名は古代の笠臣氏の勢力範囲であったことによると言われていること、1952年に金浦町と合併して市制を施行したこと、明治5年に小田県の県庁が笠岡に置かれたこと）
+    url: https://www.city.kasaoka.okayama.jp/soshiki/6/1255.html
+  q2-kasaoka-city-toukei:
+    label: 笠岡市「統計かさおか 令和4年版」（「笠岡の歴史」で、鴨別命の子孫が笠氏を称して形成した「笠の国」の遺称であるといわれていること）
+    url: https://www.city.kasaoka.okayama.jp/uploaded/attachment/43736.pdf
+  q2-kotobank-asakuchigun:
+    label: コトバンク「浅口郡」（日本歴史地名大系。郡名の由来について『浅口郡誌』は遠浅の干潟の地であったためとし、『続日本紀』霊亀2年条の浅口郡犬養部雁手の記事を引くこと、旧郡域は倉敷市・笠岡市の一部にも及んだこと）
+    url: http://kotobank.jp/word/%E6%B5%85%E5%8F%A3%E9%83%A1-3088714
+  q2-kotobank-bizen:
+    label: コトバンク「備前」（デジタル大辞泉・精選版日本国語大辞典。旧国名で大半が現在の岡山県南東部・一部が兵庫県赤穂市にあたり、備前市は備前焼の産地であること）
+    url: https://kotobank.jp/word/%E5%82%99%E5%89%8D-610286
+  q2-kotobank-bizenkoku:
+    label: コトバンク「備前国」（日本歴史地名大系。吉備国を備前・備中・備後に分割して成立し当初の領域に美作を含んだこと、初見は『続日本紀』文武天皇元年条、『和名類聚抄』の訓は「きびのみちのくち」であること）
+    url: https://kotobank.jp/word/%E5%82%99%E5%89%8D%E5%9B%BD-119917
+  q2-kotobank-ebarago:
+    label: コトバンク「荏原郷」（日本歴史地名大系。『和名類聚抄』後月郡の郷で現井原市東部に比定され、那須系図に那須与一が備中「絵原庄」を拝領したとあること）
+    url: https://kotobank.jp/word/%E8%8D%8F%E5%8E%9F%E9%83%B7-3037535
+  q2-kotobank-ibaramura:
+    label: コトバンク「井原村」（日本歴史地名大系。岡山県井原市の項に、井原庄の遺称地であり永禄3年の毛利元就宛行状に「井原地之内抱分」と見えること）
+    url: https://kotobank.jp/word/%E4%BA%95%E5%8E%9F%E6%9D%91-3077445
+  q2-kotobank-kasaokashi:
+    label: コトバンク「笠岡市」（日本歴史地名大系。地名と記紀に散見する笠臣との関連説には明証がなく、市名は近世に代官所も置かれた笠岡村を継承すること、笠岡諸島の島々）
+    url: http://kotobank.jp/word/%E7%AC%A0%E5%B2%A1%E5%B8%82-44068
+  q2-kotobank-niimishi:
+    label: コトバンク「新見市」（日本歴史地名大系。市名は新見藩陣屋のあった新見村に由縁し、中世の新見庄、古代の哲多郡新見郷（和名抄）にさかのぼること）
+    url: https://kotobank.jp/word/%E6%96%B0%E8%A6%8B%E5%B8%82-109065
+  q2-kotobank-takahashigawa:
+    label: コトバンク「高梁川」（日本歴史地名大系。「備中誌」に「高橋を高梁と云は漢土晋の地に高梁と云処有に拠しものなり」とあること、高梁川の呼称は明治2年の高梁藩改称以降と考えられること）
+    url: https://kotobank.jp/word/%E9%AB%98%E6%A2%81%E5%B7%9D-92706
+  q2-kotobank-takahashishi:
+    label: コトバンク「高梁市」（日本歴史地名大系。市名は明治2年に松山藩が改称した高梁藩、それを継承した高梁県に由来すること、高橋宗康や高橋川との関連は確かではないこと、『備中誌』の記述）
+    url: https://kotobank.jp/word/%E9%AB%98%E6%A2%81%E5%B8%82-177035
+  q2-maniwa-city-tanjou:
+    label: 真庭市「真庭市 誕生前夜 ～合併の記録～」（9町村による対等合併の経過、2003年11月に落合町・北房町の加入が承認され、2004年3月10日に新市名が「真庭市」に決定したこと、県下最大の面積であること）
+    url: https://www.city.maniwa.lg.jp/uploaded/attachment/38866.pdf
+  q2-maniwa-wiki-gun:
+    label: Wikipedia「真庭郡」（1900年に真島郡・大庭郡の区域をもって発足したこと、2005年の真庭市発足後は新庄村のみが残ること）
+    url: https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%BA%AD%E9%83%A1
+  q2-mimasaka-city-keikaku:
+    label: 美作市「地域計画」資料編（現在の市域は2005年に勝田町・東粟倉村・大原町・作東町・美作町・英田町の6か町村の合併によること、市域は和銅6年（713年）に備前国から分かれて成立した美作国の英田郡・勝田郡の一部から成ること）
+    url: https://www.city.mimasaka.lg.jp/material/files/group/48/chiikikeikaku01.pdf
+  q2-mlit-takahashigawa:
+    label: 国土交通省「日本の川 高梁川」（高梁川は古くは川島川、のち川辺川・松山川など栄えた町の名で呼ばれ、明治時代に松山が高梁と改称されたことにより現在の高梁川の名になったこと）
+    url: https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0706_takahashi/0706_takahashi_01.html
+  q2-niimi-bunkazai-keikaku:
+    label: 新見市「文化財保存活用地域計画 第1章 新見市の概要」（本市の名称は備中国に新見郷が置かれたことに由来しているといわれているとする説明）
+    url: https://www.city.niimi.okayama.jp/media_images_01/files/2.R7bunkazaikeikaku.pdf
+  q2-niimi-city-gaiyo:
+    label: 新見市公式「新見市の概要」（律令制下の阿賀郡・哲多郡、平安末期の新見庄の成立、元禄10年の新見藩成立、平成17年3月31日の新設合併）
+    url: https://www.city.niimi.okayama.jp/gyosei/gyosei_detail/index/20.html
+  q2-niimi-sho-db:
+    label: 新見市文化財等データベース「備中国新見荘の歴史」（12世紀後半に最勝光院領新見荘が成立し、文永10年の下地中分を経て後醍醐天皇により東寺へ寄進されたこと）
+    url: https://bunkazai-niimi.jp/niiminosho/history
+  q2-niimi-wiki:
+    label: Wikipedia「新見」（新見市の大字。下市村が元禄10年に関長治の陣屋設置に際し古い郷名の新見（爾比美）を復活して改称したとすること）
+    url: https://ja.wikipedia.org/wiki/%E6%96%B0%E8%A6%8B
+  q2-niimi-wiki-cho:
+    label: Wikipedia「新見町」（町名は新見村・中世の新見荘に由来し、新漢部の略「新部」が転じて「新見」となったとされる説）
+    url: https://ja.wikipedia.org/wiki/%E6%96%B0%E8%A6%8B%E7%94%BA
+  q2-okayama-pref-furoku:
+    label: 岡山県「岡山県の沿革」（付録。明治33年4月1日の郡制実施による郡の再編で「真庭（真島、大庭）」とされたこと）
+    url: https://www.pref.okayama.jp/uploaded/attachment/322508.pdf
+  q2-okayama-pref-musashi:
+    label: 岡山県「江戸時代の剣豪 宮本武蔵ゆかりの地」（美作市宮本の「伝宮本武蔵宅跡」は県指定史跡で、宮本武蔵がここで生まれたといわれていること）
+    url: https://www.pref.okayama.jp/uploaded/attachment/262277.pdf
+  q2-setouchi-city-ayumi:
+    label: 瀬戸内市「瀬戸内市のあゆみ」（2004年11月1日に牛窓町・邑久町・長船町が合併して誕生したこと、「瀬戸内市」という名称の選定理由3点、年表）
+    url: https://www.city.setouchi.lg.jp/soshiki/7/3188.html
+  q2-setouchi-city-report:
+    label: 瀬戸内市「瀬戸内市統合報告書2022」（2020年に国宝『山鳥毛』を購入し市の所蔵となったこと、市のあゆみ）
+    url: https://www.city.setouchi.lg.jp/uploaded/attachment/115655.pdf
+  q2-takahashi-city-chimei:
+    label: 高梁市「地名をあるく 1．高梁」（もと「高橋」と呼ばれ元弘の頃に「松山」と改められたこと、明治2年に「高梁」と改められ現代の地名が始まること、「高梁」の由来の3説）
+    url: https://www.city.takahashi.lg.jp/site/koho/chimeioaruku001.html
+  q2-takahashi-city-faq:
+    label: 高梁市「備中松山城 よくあるご質問」（なぜ城は備中松山城なのに市は高梁市なのか。朝敵とされた松山藩が改名を求められ、「高倉」「高梁」の2候補から「高梁」が選ばれたこと）
+    url: https://www.city.takahashi.lg.jp/site/bichu-matsuyama/question.html
+  q2-takahashi-note:
+    label: 夏見蒼太郎「高梁市の歴史を歩く 第3話」（1954年に周辺町村との合併で旧高梁市が誕生したこと、2004年10月1日に1市4町が合併して現在の高梁市が誕生したこと）
+    url: https://note.com/natsumi_soutarou/n/n7e112911e904
+  q2-uub-akaiwa:
+    label: 都道府県市区町村「赤磐市（岡山県）2005年〜市区町村変遷情報」（新市名公募の候補と、当初「あかいわ市」が選定された後に瀬戸町の離脱で再検討され「赤磐市」となった経過、瀬戸町のアンケート結果）
+    url: https://uub.jp/upd/c/477.html
+  q2-uub-asakuchi:
+    label: 都道府県市区町村「浅口市（岡山県）2006年〜市区町村変遷情報」（合併協議の経過、里庄町の離脱、金光町の住民投票結果など）
+    url: https://uub.jp/upd/c/1098.html
+  q2-uub-bizen:
+    label: 都道府県市区町村「備前市（岡山県）1971〜2005年市区町村変遷情報」（1971年の備前町・三石町合併による市制と2005年の合併）
+    url: https://uub.jp/upd/c/1791.html
+  q2-uub-ibara:
+    label: 都道府県市区町村「井原市（岡山県）1953年〜市区町村変遷情報」（1953年の合併構成と2005年の芳井町・美星町編入）
+    url: https://uub.jp/upd/c/5987.html
+  q2-uub-maniwa:
+    label: 都道府県市区町村「真庭市（岡山県）2005年〜市区町村変遷情報」（合併した9町村の内訳は真庭郡8町村と上房郡北房町であることなど）
+    url: https://uub.jp/upd/c/960.html
+  q2-uub-mimasaka:
+    label: 都道府県市区町村「美作市（岡山県）2005年〜市区町村変遷情報」（合併協議の離合集散の経過、1953年に成立した旧美作町の構成など）
+    url: https://uub.jp/upd/c/908.html
+  q2-uub-niimi:
+    label: 都道府県市区町村「新見市（岡山県）1954〜2005年市区町村変遷情報」（1954年6月1日の8町村合併による市制、1955年の千屋村編入、2005年の合併）
+    url: https://uub.jp/upd/c/5478.html
+  q2-uub-setouchi:
+    label: 都道府県市区町村「瀬戸内市（岡山県）2004年〜市区町村変遷情報」（新市名公募の上位候補と最終候補「瀬戸内」「あけぼの」、長船町の住民投票で反対が53.8％だったこと、協議休止と再開の経過）
+    url: https://uub.jp/upd/c/478.html

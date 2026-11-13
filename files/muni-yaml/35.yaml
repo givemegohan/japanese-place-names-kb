@@ -1,0 +1,1227 @@
+prefecture_code: '35'
+records:
+- id: muni/35-下松市
+  code: '352071'
+  names:
+    ja: 下松市
+    reading: くだまつし
+    aliases: []
+  user_terms:
+  - 下松の名前の由来
+  - 星が降った松の伝説
+  - 星ふるまち下松
+  - くだまつという読み方
+  naming_type: その他（言い伝えに由来するとされる古地名の継承）
+  prefecture: 山口県
+  homonyms: []
+  summary: 下松市公式のプロフィールは、市名の由来を推古天皇の頃の言い伝えに求める。鷲頭庄青柳浦の松の木に大星が降って七日七夜光り輝き、やがて百済から大内氏の祖とされる琳聖太子が渡ってきたという話で、「星が降った松」が「降り松」「下松」になったという。もう一説として、百済との交易の港「百済津（くだらつ）」がなまって「くだまつ」になったともいう。いずれも言い伝えの域を出ず、市はこの伝説を「星ふるまち下松」としてまちの顔にしている。昭和14年（1939年）に市制を施行した。
+  first_attestation:
+    era: ''
+    year_western: null
+    document: ''
+    note: 言い伝えの舞台は推古天皇の頃（6世紀末〜7世紀初め）とされるが、「下松」の文書上の初出は今回確認できなかった
+  claims:
+  - text: 下松市の地方公共団体コードは352071である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 推古天皇の頃、鷲頭庄青柳浦の松の木に大星（北辰星ともいわれる）が降り、七日七夜光り輝いて「百済の皇子がこの地へやって来る」というお告げがあったと伝えられる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-profile
+  - text: お告げの3年後、百済から渡来した皇子が、後に山口を治めた大内氏の祖とされる琳聖太子だったといわれる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-profile
+  - text: この言い伝えにより「星が降った松」が「降り松」となり、「下松」になったといわれている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-profile
+  - text: 別の一説として、琳聖太子の渡来で百済との交易が開け、百済と貿易する港「百済津（くだらつ）」がなまって「くだまつ」となり「下松」と書くようになったともいわれる
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-profile
+  - text: 下松市はこれらの言い伝えを引き継ぎ、「星ふるまち下松」としてまちづくりの中に息づかせている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-profile
+  - text: 昭和14年（1939年）11月3日、都濃郡下松町を中心に花岡村・久保村・末武南村を合併して下松市の市制が施行された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-profile
+  - text: 星降伝説の舞台とされる松は、下松市北斗町の金輪神社にある「鼎の松」とされ、市は「下松の地名の由来とされる松」として紹介している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-kudamatsu-city-press
+  column:
+    title: 星の降った松
+    text: 下松の地名の由来として市が語るのは、松の木に星が降ったというロマンのある話である。推古天皇の頃、青柳浦の松に大星が降って七日七夜輝き、その3年後に百済から琳聖太子が渡来した。「星が降った松」が「降り松」となり「下松」になったという。もう一つの説は「百済津（くだらつ）」のなまりだが、こちらも太子の伝説と結びついている。史実として裏付けられる話ではないが、市は「星ふるまち」を旗印に掲げ、伝説の松とされる金輪神社の「鼎の松」では毎年こも巻きの行事が行われる。言い伝えが今もまちの暮らしの中に生きている例である。
+    sources:
+    - q3-kudamatsu-city-profile
+    - q3-kudamatsu-city-press
+  relations:
+  - pref/35
+  unknowns:
+  - 「下松」という地名の文書上の初出と、言い伝え以前の実際の語源は確認できなかった
+  - 松の枝が下を向いた景観に由来するといった地形・植生説は、今回参照した市公式・専門資料では確認できなかった
+  updated: '2026-11-13'
+- id: muni/35-下関市
+  code: '352012'
+  names:
+    ja: 下関市
+    reading: しものせきし
+    aliases:
+    - 赤間関
+    - 赤馬関
+    - 馬関
+    - 赤目関
+  user_terms:
+  - 下関の名前の由来
+  - 赤間関と下関はどっちが古いの
+  - 馬関って何のこと
+  - 赤間関市から下関市に名前が変わったのはなぜ
+  naming_type: その他（旧称「赤間関」から、古代以来の地名「下関」への改称）
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は古代以来の地名「下関」による。貞観11年（869年）の太政官符にすでに「下関」と見え、「赤間関」の名より古い。中世以降は赤間関・赤馬関・馬関とも呼ばれ、明治22年（1889年）の市制では「赤間関市」として発足したが、明治35年（1902年）に「下関市」へ改称した。
+  first_attestation:
+    era: 貞観11年
+    year_western: 869
+    document: 太政官符
+    note: 『日本歴史地名大系』が紹介する「下関」表記の初出で、9月27日付の太政官符に見える。「赤間関」の名より「下関」の名の方が、文書の上では古くから現れる
+  claims:
+  - text: 下関市の地方公共団体コードは352012である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によれば、貞観11年（869年）9月27日付の太政官符にはすでに「下関」と見え、「下関」の表記は「赤間関」より古くから文書に現れる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-shimonoseki-kotobank-chimei
+  - text: この地は古くは赤間（赤目）と呼ばれ、『旧事本紀』に「赤間物部」、『大同類聚方』に「赤間稲置」とあり、赤間関・赤馬関・赤目関・関・馬関などとも称されてきた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-shimonoseki-kotobank-chimei
+  - text: 世界大百科事典は、古代の長門関・下関は現在の下関の地を指すと思われるとし、潮流の静まるのを待たなければ渡れない地理条件によって関が置かれ、港として発展したと解説している
+    kind: fact
+    level: E3
+    status: inferred
+    sources:
+    - k5-shimonoseki-kotobank-akamagaseki
+  - text: 「赤間関」の名の由来には、舟の異名を「赤馬」ということからとする赤馬説、「赤間」は「開間（あきま）」で長門・豊前二国の間の海峡になったためとする開間説などがある
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - k5-shimonoseki-kotobank-akamagaseki
+  - text: 『注進案』は、赤目竜が国の中を蹴り破って水を通したという伝承を、「赤間」の名の由来として伝えている
+    kind: legend
+    level: E3
+    status: established
+    sources:
+    - k5-shimonoseki-kotobank-akamagaseki
+  - text: 明治22年（1889年）の市制施行の際、山口県内では唯一の市として「赤間関市」が発足し、明治35年（1902年）6月に「下関市」へ改称した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-shimonoseki-city-gaiyo
+  - text: 「赤馬関」の後ろ2字を取った「馬関（ばかん）」も通称として使われ、明治34年（1901年）に開業した山陽鉄道の駅は当初「馬関駅」と称し、翌年の市名改称に伴って下関駅に改称された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-shimonoseki-mof
+  column:
+    title: 「下関」の方が「赤間関」より古かった
+    text: ふつう「赤間関」が古名で「下関」が新しい名だと思われがちだが、文書の上では逆である。869年の太政官符にすでに「下関」とあるのに対し、「赤間関」が広く使われるようになるのは中世以降のこととされる。ところが1889年の市制施行では、あえて中世以来の「赤間関市」が市名に選ばれた。それが1902年、古代以来の「下関」に改められる。いまの市名は、千年以上前の文書に現れる名への回帰だった。
+    sources:
+    - k5-shimonoseki-kotobank-chimei
+    - k5-shimonoseki-city-gaiyo
+  relations:
+  - pref/35
+  unknowns:
+  - 明治35年（1902年）の改称の理由（「下関の名が海外に知られていたため」と伝える資料はあるが、その原典は未確認）
+  - 貞観11年の太政官符に見える「下関」が現在の市中心部を指すかどうかは推定の域を出ない
+  - 「赤間関」の初見を『吾妻鏡』元暦2年（1185年）の記事とする話は、二次的な紹介でのみ確認している
+  updated: '2026-11-13'
+- id: muni/35-光市
+  code: '352101'
+  names:
+    ja: 光市
+    reading: ひかりし
+    aliases:
+    - 周南町
+    - 光町
+  user_terms:
+  - 光市の名前の由来
+  - 光海軍工廠の名をもらった町
+  - 室積と虹ケ浜のまち
+  - なぜ光市というのか
+  naming_type: その他（軍需施設「光海軍工廠」の命名に合わせて改名した町名の継承）
+  prefecture: 山口県
+  homonyms: []
+  summary: 「光」は古い地名ではなく、昭和15年（1940年）に生まれた名である。前年に浅江・島田・三井・光井の4村が合併してできた周南町が、開設された海軍工廠が「光海軍工廠」と命名されたのに合わせて「光町」と改名した。昭和18年（1943年）に室積町と合併して光市が発足し、平成16年（2004年）に大和町と合併して現在の光市となった。市域には古くからの港町・室積や景勝地の虹ケ浜も含まれる。
+  first_attestation:
+    era: 昭和15年
+    year_western: 1940
+    document: 周南町から光町への改称（昭和15年10月1日）
+    note: 「光」という地名の初出は、光海軍工廠の命名とそれに合わせた町の改名によるもので、それ以前に「光」という地名は当地になかった
+  claims:
+  - text: 光市の地方公共団体コードは352101である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 昭和14年（1939年）4月1日、熊毛郡の浅江村・島田村・三井村・光井村が合併して周南町が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hikari-library-history
+  - text: 昭和15年（1940年）10月1日、周南町は光町に改名した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hikari-library-history
+  - text: 光市の市勢要覧によると、この改名は海軍工廠の建設を契機とするもので、町名を「光海軍工廠」の命名に合わせて改めたものである
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hikari-city-youran
+  - text: 昭和18年（1943年）4月1日、光町と室積町が合併して光市が設置された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hikari-library-history
+  - text: 平成16年（2004年）10月4日、旧光市と大和町が合併して新しい光市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hikari-library-history
+  - text: 現在の市域は、軍港都市として生まれた旧光の地区と、古くからの港町である室積や景勝地の虹ケ浜を含む地域からなる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hikari-city-youran
+  column:
+    title: 工廠の名をもらった町
+    text: 自治体の名が軍事施設の名から生まれた例は珍しい。1939年に4村が合併して周南町ができ、翌1940年、海軍工廠が「光海軍工廠」と命名されると、町はそれに合わせて「光町」と改名した。工廠の名が先で、町の名が後だったのである。光海軍工廠は1945年8月14日の空襲で壊滅的な被害を受けたが、「光」の名は市名として残り、戦後の復興とともに歩んできた。新しく作られた地名が、80年を経て土地の名として完全に根付いた例である。
+    sources:
+    - q3-hikari-city-youran
+    - q3-hikari-library-history
+  relations:
+  - pref/35
+  unknowns:
+  - 海軍工廠が「光」と命名された理由自体（合併前の光井村にちなむのか等）は、今回の市公式資料では確認できなかった
+  - 改称前の「周南町」の名の由来は公式資料で明示されず、周防南部の位置からの命名とみられるが未確認である
+  updated: '2026-11-13'
+- id: muni/35-周南市
+  code: '352152'
+  names:
+    ja: 周南市
+    reading: しゅうなんし
+    aliases: []
+  user_terms:
+  - 周南の名前の由来
+  - 周南市はどうやってできたの
+  - 徳山市はなぜなくなったの
+  naming_type: 合併新設
+  prefecture: 山口県
+  homonyms: []
+  summary: 平成15年（2003年）4月21日、徳山市・新南陽市・熊毛町・鹿野町の2市2町が新設合併して発足した。市名「周南」は、古くから周防国の南部を指し瀬戸内海沿岸の広い地域の総称として使われてきた広域名で、合併協議会が住民公募の結果も参考にしながら採用した。市名自体は、下松市が離脱する前の2001年の3市2町合併協議会で決まったものが引き継がれた。
+  first_attestation:
+    era: 平成15年
+    year_western: 2003
+    document: 2市2町の新設合併による市制施行（新市名の誕生）
+    note: 命名そのもの。地域名「周南」自体は、周防国南部を指す広域名として近世以来使われてきた
+  claims:
+  - text: 周南市の地方公共団体コードは352152である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 平成15年（2003年）4月21日、徳山市・新南陽市・熊毛町・鹿野町の2市2町が合併して周南市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-shunan-city-ayumi
+  - text: 「周南」は古くから周防の国の南部を示す言葉として、瀬戸内海を望む広い地域を指して使われてきた広域名である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-shunan-city-ayumi
+  - text: 昭和39年（1964年）には「周南地区」が工業整備特別地域に位置づけられ、昭和46年（1971年）には「周南地域広域市町村圏」が設定されるなど、広域行政の枠組みで「周南」の地域名が定着していた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-shunan-city-ayumi
+  - text: 新市名は、徳山市・新南陽市・熊毛町・鹿野町合併協議会が、住民公募の結果も参考にしながら「周南市」を採用した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-shunan-city-ayumi
+  - text: 市名「周南」は、2001年当時の3市2町（徳山市・下松市・新南陽市・熊毛町・鹿野町）の合併協議会で決定されたものを、下松市が合併協議から離脱した後に設立された2市2町の合併協議会が引き継いだものである
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l5-shunan-wiki
+  - text: 合併前の4市町のうち最大の都市は旧徳山市で、合併直前の人口は104,227人であった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-shunan-city-ayumi
+  column:
+    title: 下松市が抜けても、名前は残った
+    text: 「周南」という市名は、実は最初の顔ぶれのために決められた名前だった。2001年の合併協議は徳山市・下松市・新南陽市・熊毛町・鹿野町の3市2町で進み、住民公募を経て新市名「周南市」が決まった。ところが下松市が協議から離脱し、協議会は2市2町で作り直しになった。それでも市名は仕切り直しにならず、「周南市」がそのまま引き継がれて2003年に発足した。広域名として地域に根づいていた名前だからこそ、構成市町の顔ぶれが変わっても揺るがなかったともいえる。
+    sources:
+    - l5-shunan-city-ayumi
+    - l5-shunan-wiki
+  relations:
+  - pref/35
+  unknowns:
+  - 住民公募の応募総数や「周南」以外の候補名の一覧は、市の公式ページでは確認できていない
+  - 旧徳山市名を新市名としなかった経緯の公式な説明は未確認
+  updated: '2026-11-13'
+- id: muni/35-宇部市
+  code: '352021'
+  names:
+    ja: 宇部市
+    reading: うべし
+    aliases: []
+  user_terms:
+  - 宇部の名前の由来
+  - うべの語源
+  - 宇部は村からいきなり市になったの
+  naming_type: 一部の地名
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は古くから「うべ郷」と呼ばれた地名の継承。漢字の「宇部」が見える最も早い文書は建武2年（1335年）の「厚東武実寄進状案」（持世寺文書）で、語源にはムベ（植物）の転訛、海辺（うみべ）の転訛、宇治部の転訛などの諸説があり定説はない。大正10年（1921年）、宇部村が町制を経ず村から直接市制を施行したことで知られる。
+  first_attestation:
+    era: 建武2年
+    year_western: 1335
+    document: 厚東武実寄進状案（持世寺文書）
+    note: 漢字表記「宇部」の最も早い文書例（宇部市公式）。音としての地名は、それ以前の12世紀の歌集『散木奇歌集』に「むべ」「むへ」と詠まれているとされる
+  claims:
+  - text: 宇部市の地方公共団体コードは352021である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 1335年（建武2年）の「厚東武実寄進状案」（持世寺文書）は、漢字の「宇部」という地名が見える最も早い文書例である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-ube-city-jiseiji
+  - text: 12世紀の歌集『散木奇歌集』には、源俊頼が詠んだ歌の中に「むべ」「むへ」という地名がみえ、これが文字の記録として宇部の地名が登場する最初であるとされる
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l5-ube-wiki
+  - text: 宇部の語源には諸説があり、名産の植物ムベ（郁子）が繁茂した地が「ムベ」と呼ばれて転訛したという説、「ウミベ（海辺）」の転訛という説、応神天皇が置いた宇治部の部民の地「宇治部里」の転訛という説が主なものとされる
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - l5-ube-wiki
+  - text: 宇部は古くから「うべ郷」と呼ばれ、中世には地方豪族の厚東氏が栄えた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-ube-city-chukatsu
+  - text: 大正10年（1921年）11月1日、厚狭郡宇部村が村制から町制を経ずに市制を施行し、宇部市が誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-ube-city-100th
+  - text: 宇部市は大正期以降、石炭産業を中心に発展し、「炭都」と呼ばれる工業都市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-ube-city-chukatsu
+  column:
+    title: 村からいきなり市になった炭都
+    text: 日本の市はふつう、村から町になり、町から市になる。ところが宇部は1921年、厚狭郡宇部村が町制を一度も経ずに、いきなり市制を施行した。背景にあったのは石炭である。沖ノ山炭鉱をはじめとする炭鉱の発展で人口と産業が急膨張し、村の規模をはるかに超えていたためとされる。炭都の跳躍を象徴するこの「村から市」は、2021年の市制施行100周年でも市の歩みの冒頭に特記されている。
+    sources:
+    - l5-ube-city-100th
+  relations:
+  - pref/35
+  unknowns:
+  - 宇部の語源の確定（諸説のいずれを採るかは資料上決められない）
+  - 『散木奇歌集』の「むべ」が現在の宇部を指すことの厳密な検証は未実施
+  updated: '2026-11-13'
+- id: muni/35-山口市
+  code: '352039'
+  names:
+    ja: 山口市
+    reading: やまぐちし
+    aliases: []
+  user_terms:
+  - 山口の名前の由来
+  - 西の京と呼ばれる市の名前
+  - 大内氏の城下町の名前
+  naming_type: 一部の地名
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は中世以来の地名「山口」を引き継ぐ。「山口」の初見は建長6年（1254年）の金鼓銘とされ、14世紀に大内弘世が本拠を移して京に模した城下町を築いたことで都市として発展した。語源は山地への入り口とする説などがあるが、専門辞典は「想像に過ぎない」としており定説はない。山口市は昭和4年（1929年）に市制を施行した。
+  first_attestation:
+    era: 建長6年
+    year_western: 1254
+    document: 円政寺旧蔵金鼓銘
+    note: 「防州山口月輪山円政寺天神宮」の銘が地名「山口」の初見とされる（『日本歴史地名大系』山口町条による）。円政寺は当時、椹野川の北側にあった寺で、のちに萩へ移転している
+  claims:
+  - text: 山口市の地方公共団体コードは352039である（総務省「全国地方公共団体コード」市区町村コード一覧による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-soumu-code-list
+  - text: 「山口」の地名の初見は、建長6年（1254年）の円政寺旧蔵金鼓銘の「防州山口月輪山円政寺天神宮」であることがよく知られている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-cap-yamaguchi-kotobank-machi
+    - e-cap-enseiji-kongo
+  - text: 「山口」の語源には、山口盆地の北を流れ椹野川の支流である一ノ坂川に沿って長門国阿武郡の山地に分け入る入り口にあたるからとする説がある
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - e-cap-yamaguchi-kotobank-machi
+    - e-yamaguchi-ndl-ref
+  - text: 別の説として、東鳳翩山の銀鉱に入る山の口にあたる天花辺りの地名が一般的な呼称になったとする説があるが、『日本歴史地名大系』はこれらの説を「想像に過ぎない」としている
+    kind: fact
+    level: E3
+    status: indeterminate
+    sources:
+    - e-cap-yamaguchi-kotobank-machi
+    - e-yamaguchi-ndl-ref
+  - text: 大内氏はそれまで仁保川沿いの御堀氷上を本拠としていたが、大内弘世の時代に山口へ本拠を移した。江戸時代に復元された山口古図には、山口が京に似て四神相応の地であるので延文5年（1360年）に京に倣って町割をした旨が記されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - e-cap-yamaguchi-kotobank-machi
+  - text: 大内弘世は京都の文化に感銘を受け、盆地の地形が京都に似た山口に京に模した街づくりを行い、山口は「西の京」と呼ばれるようになったと山口市は伝えている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-city-ouchi
+  - text: 大内氏の始まりは、百済国聖明王の第3王子である琳聖太子が周防国に着岸し、聖徳太子より周防国大内県を賜ったことに始まると伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - e-yamaguchi-city-ouchi
+  - text: 山口市は昭和4年（1929年）に、当時の山口町が吉敷村と合併して市制を施行した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-yamaguchi-city-gaiyo
+  - text: 平成17年（2005年）10月に山口市・小郡町・秋穂町・阿知須町・徳地町の1市4町が合併し、平成22年（2010年）1月に阿東町と合併して、県内最大の市域を有するまちになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - e-cap-yamaguchi-city-gaiyo
+  column:
+    title: 本拠はもと川向こうにあった ― 御堀氷上から山口へ
+    text: 大内氏の本拠は、初めから山口だったわけではない。それまでの一族は周防国衙への往来に便利な仁保川沿いの御堀氷上に拠っていた。弘世の時代、日本海側の確保と石見への進出が課題になると、交通路にあたり鴻ノ峰や天花などの要害を控えた山口の地が選ばれた。山口古図が伝える「延文5年（1360年）、京に倣って町割をした」という記述は江戸時代の復元図に残る伝えだが、「山口」の名そのものは1254年の金鼓銘にすでに見えており、城下町の建設より1世紀以上前からこの盆地の名として使われていたことになる。都市の成立と地名の成立は、ここでも別の年代を持つ。
+    sources:
+    - e-cap-yamaguchi-kotobank-machi
+    - e-yamaguchi-city-ouchi
+  relations:
+  - pref/35
+  unknowns:
+  - 「山口」の語源は専門辞典でも諸説が「想像に過ぎない」とされており、定説は確認できていない
+  - 大内弘世が山口へ移った正確な年次は当時の文献には伝えられておらず、延文5年（1360年）の町割は山口古図（江戸時代の復元図）の記述による
+  - 円政寺金鼓銘そのものは未読で、初見の情報は『日本歴史地名大系』の記述経由である
+  updated: '2026-11-13'
+- id: muni/35-山陽小野田市
+  code: '352161'
+  names:
+    ja: 山陽小野田市
+    reading: さんようおのだし
+    aliases: []
+  user_terms:
+  - 山陽小野田市はなぜ名前が長いのか
+  - 小野田市と山陽町が合併した市
+  - 小野田セメントのまち
+  - 日本一長い市名
+  naming_type: 合併新設
+  prefecture: 山口県
+  homonyms: []
+  summary: 2005年3月22日に小野田市と厚狭郡山陽町が新設合併して発足した合成地名の市。市名は合併協議会での公募と協議を経て、両市町の名を連ねた「山陽小野田」に決まった。漢字5文字の市名は全国でも際立って長く、発足直後には名称の再検討を求める市民アンケートが過半数を占める騒動もあったが、変更にかかる経費などを理由に見送られ、現在に至っている。旧小野田は1881年創業の小野田セメントの企業城下町として発展した土地である。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 小野田市・山陽町合併協議会による新市名称の決定（2005年1月24日に官報告示）
+    note: 合成市名であり、それ以前に「山陽小野田」という地名は存在しない。構成要素の「小野田」は江戸時代以来の地名、「山陽」は1956年成立の町名に遡る。
+  claims:
+  - text: 山陽小野田市は2005年3月22日、小野田市と厚狭郡山陽町が新設合併して発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-city-history
+  - text: 合併協議会での新市名公募では「小野田」「厚狭」「山陽」などが上位に入り、最終候補は「山陽小野田」と「小野田山陽」の2案に絞られた末、「山陽小野田」に決定した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-sanyo-uub
+  - text: 発足直後の2005年6月、市が行った名称に関する市民アンケートでは「再検討を希望する」が過半数を超え、再検討の場としてまちづくり市民会議に「市の名称」部会が設置された。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-koho-teigen
+  - text: 同部会の委員の意見集約では「山陽小野田市はふさわしい名前ではない」が16人、「ふさわしい」が3人だったが、部会は名称変更にかかる経費（市役所分だけで約8,400万円と試算された）などを踏まえ再検討を見送らざるを得ないとする提言を2005年9月に出し、市長が受け入れて名称問題は終結した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-koho-keika
+    - q4-sanyo-koho-teigen
+  - text: 旧小野田市は1940年11月3日、小野田町と高千帆町が合併して発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-onoda-history
+  - text: 小野田町は1920年、須恵村が町制を施行して改称したもので、「小野田」という地名自体はそれ以前からこの地を指す名として地図にも記されていた。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-onoda-history
+    - q4-sanyo-furusato-onoda
+  - text: 1881年に笠井順八がこの地にセメント製造会社（のちの小野田セメント）を設立し、小野田はセメントの企業城下町として発展した。社名は会社が地名を採ったものであり、地名が会社に由来するのではない。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-furusato-onoda
+    - q4-sanyo-onoda-history
+  - text: 旧山陽町は1956年9月、厚狭町と埴生町が合併して発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-sanyo-town-history
+  - text: 「山陽町」の「山陽」は、市内を山陽道と山陽本線が通り、山陽地方の一角を占める地域の呼び名として定着していたものとみられるが、町名選定の公式な記録は確認できていない。
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q4-sanyo-furusato-sanyodo
+  - text: 山陽小野田市の地方公共団体コードは352161である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 全国一長い市名は、市民の過半数に「変えてほしい」と言われた
+    text: 漢字5文字に「市」を付けた「山陽小野田市」は、発足当時、全国で最も長い部類の市名だった。ところが発足からわずか3か月後の2005年6月、市が市民アンケートを行うと、「名称を再検討してほしい」が過半数を超えた。受けて設置された市の名称部会では、委員19人のうち16人が「ふさわしい名前ではない」とし、変えるなら「小野田」か「厚狭」がよいという意見が並んだ。それでも結論は「見送り」だった。看板やシステムの変更だけで市役所分約8,400万円、住民投票をすればさらに約2,700万円がかかるという試算の前では、名前への不満も引っ込めざるを得なかったのである。両市町の名を公平に連ねた結果の長さと、その長さゆえの騒動は、合併市名の難しさを象徴している。
+    sources:
+    - q4-sanyo-koho-keika
+    - q4-sanyo-koho-teigen
+    - q4-sanyo-uub
+  relations:
+  - pref/35
+  unknowns:
+  - 「小野田」という地名自体の語源は、市の公式資料や辞典類では確認できなかった。
+  - 須恵村が1920年に小野田町へ改称した理由の公式な記録は確認できなかった。
+  - 1956年の山陽町発足時に「山陽」の町名が選ばれた経緯（公募の有無を含む）は、市公式の年表では確認できなかった。
+  updated: '2026-11-13'
+- id: muni/35-岩国市
+  code: '352080'
+  names:
+    ja: 岩国市
+    reading: いわくにし
+    aliases:
+    - 石国
+  user_terms:
+  - 岩国の名前の由来
+  - いわくにの語源
+  - 岩国城はなぜ壊されたの
+  naming_type: 一部の地名
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は中世以来の地名「岩国」の継承。中世には「石国（いわくに）庄」とも記され、慶長5年（1600年）の検地帳に「岩国庄」とみえる。語源は錦川沿いの岩の多い地形に由来するという説明がある。関ヶ原の後に吉川広家が岩国城と城下町を整備し、昭和15年（1940年）に市制を施行した。
+  first_attestation:
+    era: 弘治年間（1555〜1558年ごろ）
+    year_western: null
+    document: 『閥閲録』所収文書（日本歴史地名大系が「岩国村」の用例として紹介）
+    note: 日本歴史地名大系による。中世の荘園は「石国庄」とも記され、「岩国庄」の表記は慶長5年（1600年）の検地帳に確認できる
+  claims:
+  - text: 岩国市の地方公共団体コードは352080である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 日本歴史地名大系によれば、近世初期の岩国村は中世の「石国（いわくに）庄」をほぼその村域とする村で、慶長5年（1600年）の検地帳に「岩国庄」と記されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l5-iwakuni-kotobank-mura
+  - text: 『閥閲録』所収の弘治年間（1555〜1558年）と思われる文書には「岩国村」とも記されていると日本歴史地名大系は紹介する
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l5-iwakuni-kotobank-mura
+  - text: 岩国の語源については、錦川の川岸に岩が多くあったことから「岩石の多いところ」の意味とする説明があり、「国」は政治的な領地ではなく空間的な場所を表すという。また城山の岩から岩国になったという説もある
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - l5-iwakuni-gogen
+    - l5-iwakuni-wiki
+  - text: 慶長5年（1600年）の関ヶ原の戦いの後、岩国の領主となった吉川広家が岩国城の築城を始め、慶長13年（1608年）に完成し、錦川両岸に城下町が整備された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l5-iwakuni-city-fudoki
+  - text: 岩国城は元和元年（1615年）の一国一城令により、完成からわずか8年で取り壊された
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - l5-iwakuni-kanko
+  - text: 昭和15年（1940年）4月1日に岩国町が市制を施行して岩国市となり、平成18年（2006年）3月20日に由宇町・玖珂町・本郷村・周東町・錦町・美川町・美和町の7町村と新設合併した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l5-iwakuni-kotobank-dict
+    - l5-iwakuni-zenkan
+  column:
+    title: 藩主なき「藩」と、8年で壊された城
+    text: 岩国を治めた吉川家は、実質的には6万石の領主でありながら、幕府の制度上は長州藩主・毛利家の家臣という扱いで、正式な大名（藩主）ではなかった。岩国藩が公的に成立するのは、なんと幕末の慶応4年（1868年）3月、吉川経幹が諸侯に列せられてからである。城も運命に翻弄され、1608年に完成した岩国城は一国一城令で1615年に取り壊された。天守の命はわずか8年。現在の天守は1962年に建てられた復興天守で、もとの位置から少し東にずらして建てられている。
+    sources:
+    - l5-iwakuni-kanko
+    - l5-iwakuni-city-fudoki
+  relations:
+  - pref/35
+  unknowns:
+  - 岩国の語源を確定できる一次資料は未確認（岩の多い地形に由来する説明が複数あるが、いずれも後世の説明である）
+  - 『万葉集』の「磐国（磐国山）」と当地の関係は、日本歴史地名大系が磐国山を別の山とするなど、直接の結びつきは未確定
+  updated: '2026-11-13'
+- id: muni/35-柳井市
+  code: '352128'
+  names:
+    ja: 柳井市
+    reading: やないし
+    aliases:
+    - 楊井
+    - 楊井津
+  user_terms:
+  - 白壁の町並みの柳井
+  - 柳井はなぜ柳井というのか
+  - やない
+  - 甘露醤油のまち
+  naming_type: その他
+  prefecture: 山口県
+  homonyms: []
+  summary: 中世の荘園「楊井庄」と港町「楊井津（やないつ）」に由来する地名で、表記は江戸時代に「楊井」から「柳井」へ変わった。1954年3月31日に玖珂郡の柳井町・日積村・新庄村・余田村・伊陸村が合併して市制を施行し、その名を継いだ。2005年には大畠町と合併して現在の市域となった。江戸時代の商家が残る白壁の町並みで知られる。
+  first_attestation:
+    era: 貞永元年
+    year_western: 1232
+    document: 周防国司庁宣案（東大寺文書）の「楊井庄」
+    note: 地域資料が引く『日本歴史地名大系』柳井市の解説による初見。一次文書の原文は未確認のため、年はこの紹介に基づく。
+  claims:
+  - text: 地域資料が引く『日本歴史地名大系』の解説によれば、柳井の初見は貞永元年（1232）の周防国司庁宣案（東大寺文書）にみえる「楊井庄」である。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-yanai-hizumi
+  - text: 中世の柳井は「楊井津」と呼ばれ、大内氏が領土東部の重要な港とし、明応9年（1500）には京都から山口へ下る足利将軍が投宿するなど、瀬戸内海の要港として栄えた。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-yanai-cci
+  - text: 表記は近世まで「楊井」が使われ、寛永3年（1626）の熊野帳以後は「柳井」と記されるようになった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-yanai-hizumi
+  - text: 聖徳太子の義母とされる般若姫が上京の途中に柳井津へ立ち寄り、里人から井戸の清水をもらった礼に楊枝を差したところ、一夜にして芽吹いて柳の木となり、この柳と井戸を結びつけて「楊井」の地名が生まれたと伝えられる。
+    kind: legend
+    level: E4
+    status: established
+    sources:
+    - q4-yanai-cci
+  - text: 柳井市は1954年3月31日、柳井町・日積村・新庄村・余田村・伊陸村が合併して発足し、その後平郡村・阿月村・伊保庄村を編入、2005年2月21日に大畠町と合併して現在の市となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-yanai-uub
+  - text: 江戸時代の商家町である古市金屋地区の白壁の町並みは、1984年に国の重要伝統的建造物群保存地区に選定された。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-yanai-cci
+  - text: 柳井市の地方公共団体コードは352128である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 楊枝が柳になった井戸の話
+    text: 柳井の名の由来として町で語られるのは、般若姫の伝説である。聖徳太子の義母とされる姫が船旅の途中で嵐に遭い、柳井津の入江で里人に清水を求めた。井戸の水のおいしさに喜んだ姫は、礼として楊枝を井戸のそばに差した。その楊枝が一夜で芽吹いて柳の大木になったので、「楊」と「井」を合わせて楊井と呼ぶようになったという。舞台となった湘江庵には今もこの話が伝わり、「楊井」の表記は江戸時代まで実際に使われ続けた。井原西鶴は元禄2年（1689）の『一目玉鋒』で「あられふる けさのあらしの ふきおちて やないのそこに くだくたまみず」と柳井を詠んでいる。伝説の真偽はともかく、港町・柳井の古さと水の良さを語る話として、町並みとともに残されてきた。
+    sources:
+    - q4-yanai-cci
+  relations:
+  - pref/35
+  unknowns:
+  - 「楊井」の語源については、般若姫伝説以外に学術的な定説を確認できなかった。
+  - 1905年の柳井町成立時に町名がどう選ばれたかは確認できなかった。
+  updated: '2026-11-13'
+- id: muni/35-美祢市
+  code: '352136'
+  names:
+    ja: 美祢市
+    reading: みねし
+    aliases:
+    - 美禰
+  user_terms:
+  - 秋吉台・秋芳洞のある市
+  - 美祢はなぜ美祢というのか
+  - みねし
+  - 大嶺炭田のまち
+  naming_type: その他
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は長門国以来の郡名「美祢郡」に由来する。1954年3月31日に郡内の6町村が合併して市制を施行し郡名を市名とし、2008年には美東町・秋芳町と合併して現在の市となり、この合併で美祢郡は消滅した。「みね」は嶺（山の峰）の義とされ、中国山地の山々に囲まれた「峰の郡」の名が、市名として受け継がれている。
+  first_attestation:
+    era: 平安時代
+    year_western: null
+    document: 『和名類聚抄』高山寺本の「美祢」（美祢郷）
+    note: 『日本歴史地名大系』美祢郷の解説による。刊本では「美禰」と記される。郡名・郷名としての初出であり、西暦年は置かない。
+  claims:
+  - text: 『日本歴史地名大系』によれば、『和名類聚抄』高山寺本は長門国美祢郡の郷名を「美祢」と記し（刊本は「美禰」）、「みね」は嶺の義で、郡名はこれによると『防長地名淵鑑』が説く。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q4-mine-kotobank-go
+  - text: 美祢郷は美祢郡の郡家が置かれた郷で、現在の美祢市大嶺地区に比定される。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q4-mine-kotobank-go
+  - text: 『日本歴史地名大系』は美祢郡について、中国山脈の山々に囲まれ、他郡へは険阻な峠越えに頼る「文字どおり峰の郡」であったと記す。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q4-mine-kotobank-gun
+  - text: 美祢市は1954年3月31日、大嶺町・伊佐町・於福村・東厚保村・西厚保村・豊田前町の6町村が合併して発足し、市名に郡名「美祢」を採用した。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-mine-uub-1954
+  - text: 2008年3月21日、旧美祢市と美東町・秋芳町が新設合併して新しい美祢市が発足し、市名は継承された。この合併により美祢郡は消滅し、旧郡域のほぼ全域が一つの市となった。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-mine-uub-2008
+  - text: 美祢市の地方公共団体コードは352136である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 郡は消えても、郡名は市名に残った
+    text: 美祢郡は1879年の郡区町村編成で行政区画として発足する以前から、長門国の郡として千年以上の歴史を持つ名である。2008年、郡内に残っていた美東町と秋芳町が美祢市と合併し、美祢郡は地図から消えた。しかし郡名そのものは、1954年以来の市名「美祢市」として残り続けることになった。合併で市域に入った秋芳町域には秋吉台と秋芳洞があり、「峰の郡」の内陸のイメージに、日本最大級のカルスト台地の玄関口という顔が加わった。郡名を市名に引き継ぐ例は全国に多いが、郡の消滅と同時に旧郡域がほぼそのまま一つの市にまとまった点で、美祢はその典型といえる。
+    sources:
+    - q4-mine-uub-2008
+    - q4-mine-kotobank-gun
+  relations:
+  - pref/35
+  unknowns:
+  - 1954年の市制時に郡名「美祢」の採用をめぐってどのような協議があったかは確認できなかった。
+  - 「みね＝嶺」とする語源は『防長地名淵鑑』の説として紹介されるもので、それ以外の裏付けは確認できなかった。
+  updated: '2026-11-13'
+- id: muni/35-萩市
+  code: '352047'
+  names:
+    ja: 萩市
+    reading: はぎし
+    aliases:
+    - 萩浦
+    - 萩町
+  user_terms:
+  - 萩の名前の由来
+  - ハギの花から来た地名なの
+  - 椿浦と萩浦って何
+  - 毛利の城下町の名前の由来
+  naming_type: 一部の地名
+  prefecture: 山口県
+  homonyms: []
+  summary: 市名は阿武川三角州東側の浦の名「萩浦」の継承。初見は天文19年（1550年）の大内義隆寄進状とされ、三角州の西側は椿浦と呼ばれた。語源は植物のハギに求める説などを市が紹介するが、専門資料も断定していない。慶長9年（1604年）に毛利輝元の城下町となり、昭和7年（1932年）に市制を施行した。
+  first_attestation:
+    era: 天文19年
+    year_western: 1550
+    document: 大内義隆寄進状（善福寺文書）
+    note: 『日本歴史地名大系』の挙げる「萩」の初見。ただし「注進案」によれば永享3年（1431年）の文書に「萩浦」と記されていたという二次引用も伝わる
+  claims:
+  - text: 萩市の地方公共団体コードは352047である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 『日本歴史地名大系』によれば、「萩」の初見は天文19年（1550年）の大内義隆寄進状（善福寺文書）である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 阿武川の三角州では、西の橋本川左岸（現在の椿から玉江浦）の一帯を椿浦と呼び、東の松本川右岸は室町時代以降に萩浦と呼ばれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 『日本歴史地名大系』は、もとの地が「古萩」と呼ばれたことから「萩」の総名が生まれたと紹介しており、中心の移り変わりとともに「萩」が一帯の総称になったとする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 萩市公式は地名の由来として、近くにハギがたくさん生い茂った山があったことに由来するとする説と、ツバキがつまって「ハギ」になったとする説を紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - k5-hagi-city-gaiyo
+  - text: 慶長9年（1604年）に毛利輝元が居城を広島から萩へ移し、阿武川の三角州に城下町を建設した。以後、萩は毛利36万石の城下町となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-hagi-city-rekishi
+  - text: 昭和7年（1932年）に萩町が市制を施行して旧萩市が発足した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - k5-hagi-kotobank-chimei
+  - text: 平成17年（2005年）3月6日に旧萩市と2町4村が合併して現在の萩市が発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - k5-hagi-city-rekishi
+  column:
+    title: 椿浦と萩浦、二つの浦のある三角州
+    text: 阿武川が日本海に注ぐ三角州は、川の流れに隔てられて、もとは東西で別の名を持っていた。西は椿浦、東は萩浦。1604年に毛利輝元が東の萩浦側に城下町を築くと、「萩」が三角州全体の名として定着し、元の中心だった地は「古萩」と呼ばれるようになった。萩市公式サイトが「市の花」ハギの紹介の中で、ツバキに由来するという説まで併せて紹介しているのは、この東西二つの浦の名の名残といえる。
+    sources:
+    - k5-hagi-kotobank-chimei
+    - k5-hagi-city-gaiyo
+  relations:
+  - pref/35
+  unknowns:
+  - 語源は確定していない（植物のハギに由来するかは市公式・地名大系とも断定していない）
+  - 永享3年（1431年）の文書に「萩浦」とあったとする伝聞は「注進案」経由の二次引用で、文書そのものは未確認
+  updated: '2026-11-13'
+- id: muni/35-長門市
+  code: '352110'
+  names:
+    ja: 長門市
+    reading: ながとし
+    aliases:
+    - 穴門
+    - 穴戸
+  user_terms:
+  - 金子みすゞのふるさと仙崎
+  - ながと
+  - 長府とは別の長門
+  - 山口県北部の市
+  naming_type: その他
+  prefecture: 山口県
+  homonyms: []
+  summary: 1954年3月31日、大津郡の深川町・仙崎町・通村・俵山村が合併して発足した際、構成町村のいずれの名も採らず、旧国名「長門」を市名とした。2005年には三隅町・日置町・油谷町と合併して現在の市域となった。「長門」はもともと「穴門（あなと）」と書かれた名で、関門海峡を指す地名が国名になったとされる。童謡詩人・金子みすゞの生地である仙崎を含む。
+  first_attestation:
+    era: 天智天皇4年
+    year_western: 665
+    document: 『日本書紀』天智天皇4年8月条（「城を長門国に築かしむ」）
+    note: 『日本歴史地名大系』長門国の解説による「長門」表記の初見。それ以前のこの地の名は「穴門」と書かれた。
+  claims:
+  - text: 『日本歴史地名大系』によれば、長門国は古くは「穴門」「穴戸」と書き、「あなと・あながと・ながと」と読んだ。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q4-nagato-kotobank-kuni
+  - text: 同大系は、穴はくぼみ・門は瀬戸の意で、穴戸は関門海峡を指し国名はそれに由来するとする一方、穴門を筑紫の那津にあてる異説も紹介しており、国名の由来には対立がある。
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - q4-nagato-kotobank-kuni
+  - text: 同大系によれば、「穴門」の名の初見は『日本書紀』垂仁天皇2年の条で、意富加羅国の王子が穴門に着いたとする記事である。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q4-nagato-kotobank-kuni
+  - text: 「長門」の表記は『日本書紀』天智天皇4年（665）8月の条を初見とし、以後は「長門」と書かれるようになったと同大系は述べる。
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q4-nagato-kotobank-kuni
+  - text: 長門市は1954年3月31日、大津郡の深川町・仙崎町・通村・俵山村が合併して発足した市で、市名には構成町村の名でなく旧国名「長門」が採用された。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-nagato-uub-1954
+  - text: 2005年3月22日、旧長門市と三隅町・日置町・油谷町の1市3町が合併して新しい長門市が発足した。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q4-nagato-city-gaiyo
+  - text: 長門国の国府は現在の下関市長府（忌宮神社付近）に比定され、国名の由来とされる関門海峡も下関市側にある。すなわち国名の中心地は、現在の長門市の市域の外にある。
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - q4-nagato-ichinomiya
+    - q4-nagato-kotobank-kuni
+  - text: 長門市の地方公共団体コードは352110である。
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  column:
+    title: 国名は下関の海峡から、市の顔は仙崎の詩人から
+    text: 「長門」という名の原点は、関門海峡である。古くは海峡の渦巻く瀬戸を「穴門（あなと）」と呼び、それが国全体の名に広がり、後に「長門」と書き改められた。ところが国府が置かれたのは今の下関市長府で、海峡そのものも下関側。現在の長門市は、国名の発祥地からは遠く離れたところでその名を受け継いでいる。では、この市の顔はどこにあるか。市域の仙崎は童謡詩人・金子みすゞの生地で、市内には金子みすゞ記念館がある。「わたしと小鳥とすずと」の詩人の町として知られるようになったのは、国名の由緒とは別の、近代になってからの物語である。
+    sources:
+    - q4-nagato-ichinomiya
+    - q4-nagato-city-vision
+  relations:
+  - pref/35
+  unknowns:
+  - 1954年の市制時に「長門」の名が選ばれた協議の経緯は確認できなかった。
+  - 長門国の語源は関門海峡説が有力とされるが、異説も紹介されており確定していない。
+  updated: '2026-11-13'
+- id: muni/35-防府市
+  code: '352063'
+  names:
+    ja: 防府市
+    reading: ほうふし
+    aliases:
+    - 府中
+  user_terms:
+  - 防府の名前の由来
+  - ほうふという読み方
+  - 周防の国府があった市
+  - すおうこくふの略
+  naming_type: その他（国府所在地を指す普通名詞的地名の継承）
+  prefecture: 山口県
+  homonyms: []
+  summary: 防府は周防国の国府が置かれた地で、「防府」は「周防国府」を略した呼び方であり、古くは「府中」の名も用いられた。「防府」の名がいつから使われたかは分からないが、防府天満宮所蔵の大永4年（1524年）の文書に「防府宮市」と見えるのが確認できる早い用例である。昭和11年（1936年）に防府町などが合併して市制を施行した。
+  first_attestation:
+    era: 大永4年
+    year_western: 1524
+    document: 防府天満宮所蔵文書（「防府宮市同月代事」）
+    note: 『日本歴史地名大系』によると、「防府」の確認できる早い用例は大永4年（1524年）6月10日付のこの文書で、名称の使用開始時期そのものは分からないとされる
+  claims:
+  - text: 防府市の地方公共団体コードは352063である（総務省「地方公共団体コード一覧」による）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 防府には周防国の国府が置かれ、古代以来、周防国の政治の中心だった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-hofu-taikei
+  - text: 「防府」の地名は「周防国府」を略した呼び方であり、古くは「府中」の名も用いられた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-hofu-taikei
+  - text: 「防府」の名の確認できる早い用例は防府天満宮所蔵の大永4年（1524年）の文書に見える「防府宮市」で、いつ頃からこの名称が使われたかは分からない
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-hofu-taikei
+  - text: 防府市の公式資料は、大化2年（646年）に孝徳天皇が改新の詔を発してこの地に周防国が建てられ国府が設けられたことに由来し、「周防国の国府」から「防府」と命名されたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - q3-hofu-city-fire
+  - text: 読みの「ほうふ」は、「周防」の「防」と「国府」の「府」の組み合わせによるものとみられる
+    kind: fact
+    level: H
+    status: inferred
+    sources:
+    - q3-hofu-taikei
+    - q3-hofu-city-fire
+  - text: 昭和11年（1936年）、防府町・中関町・華城村・牟礼村が合併して防府市が発足した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - q3-hofu-taikei
+  column:
+    title: 「国府」が縮んで「防府」に
+    text: 律令制の国府が置かれた地は、多くの場合「府中」と呼ばれた。防府は一味違い、「周防」という国名の後ろの字と「国府」の「府」を組み合わせて「防府」と縮めた名である。市の公式説明は大化の改新（646年）の国府設置に命名を結びつけるが、専門辞典は慎重で、「防府」の用例として確認できるのは1524年の文書までで、いつからそう呼ばれたかは分からないとする。分かりやすい名前の由来ほど、記録の裏付けの年代には開きがある好例である。
+    sources:
+    - q3-hofu-taikei
+    - q3-hofu-city-fire
+  relations:
+  - pref/35
+  unknowns:
+  - 「防府」の名称が使われ始めた正確な時期は、専門辞典でも分からないとされている
+  - 大化2年（646年）に周防国が建てられたとする市公式の説明は、律令制の整備過程からみると単純化された面があり、当時の文書では裏付けられていない
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  e-cap-enseiji-kongo:
+    label: 円政寺旧蔵金鼓銘（建長6年・1254年、「防州山口月輪山円政寺天神宮」の銘）
+    level: E1
+    year: 1254
+    note: 銘文そのものは未読。『日本歴史地名大系』山口町条の紹介経由で参照
+  e-cap-soumu-code-list:
+    label: 総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）
+    level: E2
+    url: https://www.soumu.go.jp/denshijiti/code.html
+  e-cap-yamaguchi-city-gaiyo:
+    label: 山口市公式サイト「山口市の概要」
+    level: E2
+    url: https://www.city.yamaguchi.lg.jp/soshiki/3/5632.html
+  e-cap-yamaguchi-kotobank-machi:
+    label: コトバンク「山口町」（『日本歴史地名大系』）
+    level: E3
+    url: https://kotobank.jp/word/%E5%B1%B1%E5%8F%A3%E7%94%BA-3060906
+  k5-hagi-city-gaiyo:
+    label: 萩市公式サイト「萩市の概要（市章・市民憲章等）」
+    level: E2
+    url: https://www.city.hagi.lg.jp/soshiki/100/2798.html
+  k5-hagi-city-rekishi:
+    label: 萩市公式サイト「萩市の概要（歴史）」
+    level: E2
+    url: https://www.city.hagi.lg.jp/soshiki/100/2799.html
+  k5-hagi-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「萩市」
+    level: E3
+    url: https://kotobank.jp/word/%E8%90%A9%E5%B8%82-113549
+  k5-shimonoseki-city-gaiyo:
+    label: 下関市公式サイト「市政の概要」（赤間関市からの沿革と略年表）
+    level: E2
+    url: https://www.city.shimonoseki.lg.jp/uploaded/attachment/65102.pdf
+  k5-shimonoseki-kotobank-akamagaseki:
+    label: コトバンク 日本歴史地名大系・世界大百科事典「赤間関」
+    level: E3
+    url: https://kotobank.jp/word/%E8%B5%A4%E9%96%93%E9%96%A2-24446
+  k5-shimonoseki-kotobank-chimei:
+    label: コトバンク 日本歴史地名大系「下関市」
+    level: E3
+    url: https://kotobank.jp/word/%E4%B8%8B%E9%96%A2%E5%B8%82-75400
+  k5-shimonoseki-mof:
+    label: 財務省「路線価でひもとく街の歴史」第51回（下関・馬関駅の改称）
+    level: E2
+    url: https://www.mof.go.jp/public_relations/finance/202405/202405k.html
+  l5-iwakuni-city-fudoki:
+    label: 岩国市「歴史的風致維持向上計画 岩国城下町の営みにみる歴史的風致」
+    level: E2
+    url: https://www.city.iwakuni.lg.jp/uploaded/attachment/57016.pdf
+  l5-iwakuni-gogen:
+    label: 語源由来辞典「岩国市」
+    level: E5
+    url: https://gogen-yurai.jp/iwakuni-shi-yamaguchi
+  l5-iwakuni-kanko:
+    label: 岩国観光振興課「岩国の歴史」
+    level: E4
+    url: https://kankou.iwakuni-city.net/iwakuninorekishi.html
+  l5-iwakuni-kotobank-dict:
+    label: コトバンク 精選版日本国語大辞典「岩国」
+    level: E3
+    url: http://kotobank.jp/word/%E5%B2%A9%E5%9B%BD-436897
+  l5-iwakuni-kotobank-mura:
+    label: コトバンク 日本歴史地名大系「岩国村」
+    level: E3
+    url: http://kotobank.jp/word/%E5%B2%A9%E5%9B%BD%E6%9D%91-3090828
+  l5-iwakuni-wiki:
+    label: Wikipedia「岩国市」
+    level: E5
+    url: https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%9B%BD%E5%B8%82
+  l5-iwakuni-zenkan:
+    label: 全国都市監査委員会「山口県岩国市」紹介
+    level: E4
+    url: https://www.zenkan.jp/honbu/newtoshi/66/iwakuni.html
+  l5-shunan-city-ayumi:
+    label: 周南市公式サイト「周南市誕生までのあゆみ」（市名制定の理由を含む）
+    level: E2
+    url: https://www.city.shunan.lg.jp/soshiki/3/2104.html
+  l5-shunan-wiki:
+    label: Wikipedia「周南市」
+    level: E5
+    url: https://ja.wikipedia.org/wiki/%E5%91%A8%E5%8D%97%E5%B8%82
+  l5-ube-city-100th:
+    label: 宇部市制施行100周年記念サイト「宇部市のあゆみ」（宇部市公式）
+    level: E2
+    url: https://www2.city.ube.yamaguchi.jp/script/100th/history
+  l5-ube-city-chukatsu:
+    label: 宇部市「中心市街地活性化基本計画 第2章」（市の沿革）
+    level: E2
+    url: https://www.city.ube.yamaguchi.jp/_res/projects/default_project/_page_/001/024/739/chukatsu2-2.pdf
+  l5-ube-city-jiseiji:
+    label: 宇部市公式サイト「持世寺文書」（文化財ライブラリ）
+    level: E2
+    url: https://www.city.ube.yamaguchi.jp/kyouyou/rekishi/library/1004029.html
+  l5-ube-wiki:
+    label: Wikipedia「宇部市」
+    level: E5
+    url: https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%A8%E5%B8%82
+  q3-hikari-city-youran:
+    label: 光市「市勢要覧」（市の沿革）
+    url: https://www.city.hikari.lg.jp/material/files/group/1/hikarishiseiyouran_P18-19.pdf
+  q3-hikari-library-history:
+    label: 光市立図書館「沿革」（『光市史』による年表）
+    url: https://www.hikari-library.jp/management/history.html
+  q3-hofu-city-fire:
+    label: 防府市消防年報「防府の由来」
+    url: https://www.city.hofu.yamaguchi.jp/uploaded/life/154001_233732_misc.pdf
+  q3-hofu-taikei:
+    label: 『日本歴史地名大系』・『防府市歴史用語集』「防府市」（コトバンク）
+    url: https://kotobank.jp/word/%E9%98%B2%E5%BA%9C%E5%B8%82-132408
+  q3-kudamatsu-city-press:
+    label: 下松市記者発表資料「金輪神社『鼎の松』のこも巻き」（下松市公式）
+    url: https://www.city.kudamatsu.lg.jp/chiiki/kouhou/documents/1118_kanaenomatunokomomaki.pdf
+  q3-kudamatsu-city-profile:
+    label: 下松市公式「市のプロフィール」
+    url: https://www.city.kudamatsu.lg.jp/shiseijouhou/gaiyou.html
+  q4-mine-kotobank-go:
+    label: コトバンク『日本歴史地名大系』「美祢郷」（『和名類聚抄』高山寺本に「美祢」、刊本に「美禰」と記されること、「みね」は嶺の義で郡名はこれによると『防長地名淵鑑』が説くこと）
+    url: https://kotobank.jp/word/%E7%BE%8E%E7%A5%A2%E9%83%B7-3091263
+  q4-mine-kotobank-gun:
+    label: コトバンク『日本歴史地名大系』「美祢郡」（山々に囲まれ「文字どおり峰の郡」と記す地勢の解説）
+    url: https://kotobank.jp/word/%E7%BE%8E%E7%A5%A2%E9%83%A1-3091617
+  q4-mine-uub-1954:
+    label: 都道府県市区町村「美祢市（1954〜2008年）市区町村変遷情報」（1954年に美祢郡6町村が合併して美祢市が発足したこと）
+    url: https://uub.jp/upd/c/5722.html
+  q4-mine-uub-2008:
+    label: 都道府県市区町村「美祢市（2008年〜）市区町村変遷情報」（2008年に美東町・秋芳町と新設合併したこと）
+    url: https://uub.jp/upd/c/817.html
+  q4-nagato-city-gaiyo:
+    label: 長門市公式「市の概要」（2005年3月22日に旧長門市・三隅町・日置町・油谷町が合併したこと）
+    url: https://www.city.nagato.yamaguchi.jp/soshiki/3/1064.html
+  q4-nagato-city-vision:
+    label: 長門市「長門市定住自立圏共生ビジョン」（仙崎の金子みすゞ記念館を市の文化施設として記載）
+    url: https://www.city.nagato.yamaguchi.jp/uploaded/attachment/15025.pdf
+  q4-nagato-ichinomiya:
+    label: 諸国一の宮「長門国・解説」（長門国の国府を下関市長府・忌宮神社付近に比定）
+    url: https://ichinomiya.gr.jp/kohichiro-nagato.html
+  q4-nagato-kotobank-kuni:
+    label: コトバンク『日本歴史地名大系』「長門国」（古くは「穴門」「穴戸」と書いたこと、関門海峡を指すとする由来、「長門」表記の初見を『日本書紀』天智天皇4年条とすること）
+    url: https://kotobank.jp/word/%E9%95%B7%E9%96%80%E5%9B%BD-107768
+  q4-nagato-uub-1954:
+    label: 都道府県市区町村「長門市（1954〜2005年）市区町村変遷情報」（1954年に深川町・仙崎町・通村・俵山村が合併して長門市が発足したこと）
+    url: https://uub.jp/upd/c/5723.html
+  q4-sanyo-city-history:
+    label: 山陽小野田市公式「山陽小野田市略年表」
+    url: https://www.city.sanyo-onoda.lg.jp/soshiki/81/sanyoonoda-history.html
+  q4-sanyo-furusato-onoda:
+    label: 山陽小野田市教育委員会「山陽小野田市ふるさと文化遺産 小野田セメントと笠井家」（明治30年の正式図に「小野田」と記されること、1881年のセメント製造会社設立）
+    url: https://www.city.sanyo-onoda.lg.jp/uploaded/attachment/22891.pdf
+  q4-sanyo-furusato-sanyodo:
+    label: 山陽小野田市教育委員会「山陽小野田市ふるさと文化遺産 山陽道」（市内を通る山陽道と厚狭駅の解説）
+    url: https://www.city.sanyo-onoda.lg.jp/uploaded/attachment/37385.pdf
+  q4-sanyo-koho-keika:
+    label: 山陽小野田市「広報さんようおのだ」2005年10月1日号（提言に至った経過。委員の意見集約「ふさわしい名前ではない16人・ふさわしい3人」）
+    url: https://www.city.sanyo-onoda.lg.jp/uploaded/attachment/2764.pdf
+  q4-sanyo-koho-teigen:
+    label: 山陽小野田市「広報さんようおのだ」2005年10月1日号（まちづくり市民会議「市の名称」部会の提言書と、市長の受け入れ表明）
+    url: https://www.city.sanyo-onoda.lg.jp/uploaded/attachment/2759.pdf
+  q4-sanyo-onoda-history:
+    label: 山陽小野田市公式「小野田市略年表」（須恵村から小野田町への改称・小野田市の発足を収録）
+    url: https://www.city.sanyo-onoda.lg.jp/soshiki/81/history-onoda.html
+  q4-sanyo-town-history:
+    label: 山陽小野田市公式「山陽町略年表」（1956年の厚狭町・埴生町の合併による山陽町誕生を収録）
+    url: https://www.city.sanyo-onoda.lg.jp/soshiki/81/history-sanyo.html
+  q4-sanyo-uub:
+    label: 都道府県市区町村「山陽小野田市（2005年〜）市区町村変遷情報」（新市名公募の上位案・候補の絞り込みの経緯を含む）
+    url: https://uub.jp/upd/c/886.html
+  q4-yanai-cci:
+    label: 柳井商工会議所「観光ガイドブック 白壁のまち柳井をたずねて」（基礎資料提供：柳井市観光協会。楊井津の歴史と般若姫伝説を収録）
+    url: https://yanaicci.or.jp/html/kanko/kanko21.html
+  q4-yanai-hizumi:
+    label: 日積地区の地域資料サイト「柳井市」（『日本歴史地名大系』柳井市の解説を引き、初見を貞永元年（1232）の周防国司庁宣案の「楊井庄」とし、表記が寛永3年の熊野帳以後「柳井」となることを記す）
+    url: https://hizumi-yoitoko.com/news/3109
+  q4-yanai-uub:
+    label: 都道府県市区町村「柳井市（1954〜2005年）市区町村変遷情報」（1954年の1町4村の合併と市制、2005年の大畠町との合併を収録）
+    url: https://uub.jp/upd/c/5724.html

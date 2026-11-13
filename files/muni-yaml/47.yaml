@@ -1,0 +1,1053 @@
+prefecture_code: '47'
+records:
+- id: muni/47-うるま市
+  code: '472131'
+  names:
+    ja: うるま市
+    reading: うるまし
+    aliases:
+    - 具志川市
+    - 石川市
+    - ウルマ
+  user_terms:
+  - うるま
+  - サンゴの島という意味の市名
+  - 具志川と石川が合併した市
+  - 勝連城跡のある市
+  naming_type: 新規命名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 平成17年（2005年）4月1日、具志川市・石川市・勝連町・与那城町の2市2町が合併して発足した、沖縄本島中部・東海岸の市。市名の「うるま」は、サンゴの島を意味する沖縄の古い言葉で、沖縄そのものを指す美称として使われてきた語であり、合併に際して全国公募の中から選ばれた。合併した旧市町の名はいずれも近世の間切名に遡るが、その詳しい由来は市の資料でも不明とされている。
+  first_attestation:
+    era: 平成17年
+    year_western: 2005
+    document: 合併協議会による新市名の決定（うるま市発足）
+    note: 市名としての初出は2005年の合併時。語としての「うるま」はそれ以前から琉球・沖縄を指す語として使われ、首里王府の史料では和歌の辞書『呉竹集』を引いて琉球の意と説明されることが市勢要覧で紹介されている（原典は未確認）
+  claims:
+  - text: うるま市の地方公共団体コードは472131である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: うるま市は平成17年（2005年）4月1日、旧具志川市・旧石川市・旧勝連町・旧与那城町の2市2町が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uruma-20th
+  - text: 新市名は全国から募集した5,233件・2,457種類の中から名称検討委員会で12種類まで選考し、最終的に合併協議会で「うるま市」に決定されたもので、最終候補には「暁市」「若夏市」などもあった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uruma-yoran
+  - text: 市名の由来について市は、「サンゴの島」のことを「ウルマ（ウル＝サンゴ、マ＝島）」と呼び、美しい景観の沖縄の島々を示す言葉でもあることから「うるま市」と名付けられたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uruma-20th
+    - s5-uruma-gaiyo
+  - text: 「うるま」という言葉は、日本で平安時代には言葉の通じない遠い地という意味で使われていたようで、琉球の別称とされるようになったのは室町時代以降といわれていることが、市の市勢要覧で紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uruma-yoran
+  - text: 合併した旧市町の名（石川・具志川・勝連・与那城）は近世より続く間切や集落の名称として『おもろさうし』や首里王府等の史料より確認できるが、詳しい地名の由来は不明となっていると市の資料は述べている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uruma-gaiyo
+  - text: 市域の勝連城跡は、平成12年（2000年）に「琉球王国のグスク及び関連遺産群」の一つとして世界遺産に登録された
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-uruma-20th
+  column:
+    title: 国会議事堂を飾る「ウルマ石」
+    text: 市名と同じ「うるま」を名に持つ石がある。旧勝連町平敷屋で採れるトラバーチン（石灰華）で、1929年に国会議事堂の建築資材の調査で沖縄を訪れた工学博士がその優秀さを見出し、「ウルマ石」と名付けて国会議事堂の玄関に使われたことが市の市勢要覧に紹介されている。「サンゴの島」という意味の古い言葉が、合併市の名前になる75年も前に、東京の国会議事堂の石材の名前として先に全国へ出ていたことになる。サンゴ礁の島に育まれた石灰岩の石と、「ウルマ」という言葉の取り合わせは、この土地の成り立ちをよく表している。
+    sources:
+    - s5-uruma-yoran
+  relations:
+  - pref/47
+  unknowns:
+  - 「うるま」の語源（ウル＝サンゴ、マ＝島という分解）は市の説明によるもので、琉球語学の専門資料では確認できなかった
+  - 公募の応募総数以外の選考過程（12候補の顔ぶれの全体）は協議会の一次資料では確認できなかった
+  - 旧間切名（具志川・石川・勝連・与那城）それぞれの地名の由来は、市の資料でも不明とされている
+  updated: '2026-11-13'
+- id: muni/47-南城市
+  code: '472158'
+  names:
+    ja: 南城市
+    reading: なんじょうし
+    aliases:
+    - 佐敷町
+    - 知念村
+    - 玉城村
+    - 大里村
+  user_terms:
+  - なんじょう
+  - ハートのまち
+  - 斎場御嶽のある市
+  - 尚巴志のふるさと
+  naming_type: 合併新設
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 平成18年（2006年）1月1日、島尻郡の佐敷町・知念村・玉城村・大里村の1町3村が合併して発足した、沖縄本島南部の市。市名は2005年3月に合併協議会で決定されたもので、「南」は沖縄本島南部という位置を、「城」は市内に数多く残るグスク（城）を表し、市の側も「名称の由来にもなっている『城＝グスク』」と説明している。市域は尚巴志の出身地・佐敷や世界遺産の斎場御嶽を擁し、琉球の歴史の層が厚い。
+  first_attestation:
+    era: 平成18年
+    year_western: 2006
+    document: 南城市の発足（市名の決定は2005年3月の合併協議会）
+    note: 「南城」は合併に際して作られた市名であり、それ以前の地名としての初出はない。構成要素の旧町村名（佐敷・知念・玉城・大里）は近世の間切名に遡る
+  claims:
+  - text: 南城市の地方公共団体コードは472158である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 南城市は2006年1月1日に佐敷町、知念村、玉城村、大里村の旧4町村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-nanjo-yoran
+  - text: 新市名は2005年3月に「南城市」と決定され、合併協定書への調印が行われた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-nanjo-history
+  - text: 市名の「城」はグスクを指し、琉球を統一した尚巴志ゆかりの佐敷城跡・島添大里城跡をはじめ按司たちが拠った数々のグスクを擁することが「南城市の名称の由来にもなっている」と市は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-nanjo-gusuku
+  - text: 南城市は沖縄本島南部の東海岸に位置し、県都那覇市から南東へ約12kmにあって中城湾と太平洋に面している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-nanjo-history
+  - text: 市域には世界遺産「琉球王国のグスク及び関連遺産群」の一つである斎場御嶽（旧知念村域）があり、琉球開闢神話の舞台とされる久高島が属している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-nanjo-yoran
+  - text: 現在の組み合わせに先立ち、佐敷町・知念村・玉城村・与那原町の協議会が2004年12月に新市名を「東方市」と決めたものの、市庁舎の位置で意見がまとまらず協議会が解散し、大里村を加えた新たな協議会で「南城市」に決まったことが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-nanjo-zhwiki
+  column:
+    title: 幻の市名「東方市」
+    text: 南城市は、あと少しで全く違う名前になるところだった。2004年、佐敷町・知念村・玉城村・与那原町の4町村の合併協議会は、新しい市の名前を「東方市」と決めた。ところが新市庁舎をどこに置くかで意見が折り合わず、協議会は解散してしまう。その後、顔ぶれを大里村に入れ替えた新しい協議会が2005年3月に選んだ名前が「南城市」である。「東方」も「南城」も方角を含む名前だが、最終的に残ったのは、尚巴志ら按司のグスクが点在する土地にふさわしい「城」の一字を含む方だった。庁舎の場所ひとつで自治体の名前が変わるという、平成の大合併らしい舞台裏である。
+    sources:
+    - s5-nanjo-zhwiki
+    - s5-nanjo-history
+  relations:
+  - pref/47
+  unknowns:
+  - 新市名の公募の有無や応募件数、最終候補の顔ぶれは協議会の一次資料では確認できなかった
+  - 「南城」の「南」が本島南部を指すことの明示的な命名理由は、市公式資料の文面では直接確認できなかった（位置の説明とグスクの説明からの読み取り）
+  - 旧間切名（佐敷・知念・玉城・大里）それぞれの地名の由来は今回の調査範囲では確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-名護市
+  code: '472093'
+  names:
+    ja: 名護市
+    reading: なごし
+    aliases:
+    - 名護町
+    - 那古
+    - 那五
+  user_terms:
+  - なご
+  - ナグ（地元の方音）
+  - やんばるの中心都市
+  - 名護湾のまち
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島北部の中心都市で、昭和45年（1970年）8月1日に名護町と屋部村・羽地村・屋我地村・久志村が合併して市制を施行した。「名護」は15世紀の朝鮮の地理書『海東諸国紀』に「那五」と記される古い地名で、地元の方音は「ナグ」。語源は名護湾の波の穏やかさに結びつける凪（なぎ）説のほか、平坦地とする説、砂浜の波の音とする説などがあり、専門辞典でも諸説併記で確定していない。
+  first_attestation:
+    era: 文明3年
+    year_western: 1471
+    document: 『海東諸国紀』
+    note: 朝鮮で編まれた『海東諸国紀』に「那五」と記されるのが確認できる古い用例の一つであると『日本歴史地名大系』が紹介している（二次資料経由の確認）。その後、嘉靖41年（1562年）の琉球碑文には「那古」、『おもろさうし』には「なこ」と記される
+  claims:
+  - text: 名護市の地方公共団体コードは472093である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 名護市は昭和45年（1970年）8月1日、名護町と屋部・羽地・屋我地・久志の4村が合併して市制を施行した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-nago-kotobank-shi
+  - text: 「名護」の古い用例として、『海東諸国紀』には「那五」、首里城にあった嘉靖41年（1562年）の碑文には「那古」、『おもろさうし』には「なこ」、『琉球神道記』には「那呉」と記されることが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-nago-kotobank-magiri
+  - text: 地名の意味については、名護湾の波の穏やかな様子、平坦地、砂浜で波の音の和やかなところなど諸説があり、定説は得られていないことが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - s5-nago-kotobank-magiri
+  - text: 地元の方音は「ナグ」で、近世の名護村も「なぐ」と読まれており、和語の「なごむ（和む）」や「凪」に結びつける説明はこの音に基づいている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-nago-kotobank-magiri
+    - s5-nago-kotobank
+  - text: 近世には国頭方に属する名護間切が置かれ、間切番所のある名護村がこの地域の中心だった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-nago-kotobank-magiri
+  - text: 市は、豊かな海の幸や海外文化をもたらすところをうたった古謡「おもろさうし」の「あきみよ」に由来する言葉「あけみお」を、「あけみおのまち・名護」としてまちの象徴に位置づけている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-nago-plan
+  column:
+    title: 「ナゴ」か「ナグ」か――読みに残る琉球語
+    text: 名護の地元での呼び名は、沖縄語で「ナグ」。近世の文書でも名護村は「なぐ」と読まれてきた。ところが自治体名の公式の読みは「なごし」で、本土の人が「和（なご）やか」「凪（なぎ）」と結びつけやすい音に寄せられている。面白いのは市内の名護城跡で、こちらは「ナゴグスク」ではなく「ナングスク」と読む通称が定着している。同じ「名護」の字でも、市の名前は和風に、城の名前は琉球風に読まれるという二重の読みが同居しているのである。地名の読みは、標準化される過程で元の音を少しずつ離れていくが、このまちではその途中の姿が今も見える。
+    sources:
+    - s5-nago-kotobank-magiri
+    - s5-nago-kotobank
+  relations:
+  - pref/47
+  unknowns:
+  - 語源の諸説（凪・平坦地・波の音など）のうちどれが正しいかは、専門辞典でも確定していなかった
+  - 『海東諸国紀』「那五」の原文は二次資料経由でしか確認できていない
+  - 名護市教育委員会の地名調査資料など郷土資料による語源の検討は未確認である
+  updated: '2026-11-13'
+- id: muni/47-宜野湾市
+  code: '472051'
+  names:
+    ja: 宜野湾市
+    reading: ぎのわんし
+    aliases:
+    - 宜野湾村
+    - 宜野湾間切
+    - ジノーン
+  user_terms:
+  - ぎのわん
+  - ジノーン（地元の方音）
+  - 普天間基地のまち
+  - ねたての都市
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島中南部の市で、昭和37年（1962年）7月1日に宜野湾村が単独で市制を施行した。「宜野湾」は方音「ジノーン（じのーん）」に漢字を当てた表記で、古くは『おもろさうし』の「きのわん」に遡ると考えられ、近世には宜野湾間切の名として定着した。語の意味そのものの確定した語源は専門辞典にも示されていない。戦後は市域の中央を米軍普天間飛行場が占め、旧来の中心地だった字宜野湾は基地の敷地の中に消えた。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 『おもろさうし』巻15
+    note: 『日本歴史地名大系』は『おもろさうし』巻15に当地を指すと考えられる「きのわん」がみえると紹介する。文書で表記の確定する用例は元和7年（1621年）の知行目録（高嶺家文書）の「儀野湾村」である（いずれも二次資料経由の確認）
+  claims:
+  - text: 宜野湾市の地方公共団体コードは472051である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 宜野湾市は昭和37年（1962年）7月1日、宜野湾村が市制を施行して発足した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-ginowan-plan
+  - text: 地元の方音は「ジノーン（じのーん）」であり、「宜野湾」の漢字表記はこの琉球語の音に字を当てたものである
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-ginowan-kotobank-magiri
+  - text: 『おもろさうし』巻15には当地を指すと考えられる「きのわん」がみえ、元和7年（1621年）3月16日の尚恭浦添王子朝良宛知行目録（高嶺家文書）には浦添間切のうちに「儀野湾村」と記されることが『日本歴史地名大系』で紹介されている
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-ginowan-kotobank-mura
+    - s5-ginowan-kotobank-magiri
+  - text: 康熙10年（1671年）、浦添・中城・北谷の各間切から14か村を割いて宜野湾間切が新設され、間切番所は宜野湾村に置かれた
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-ginowan-kotobank-magiri
+    - s5-ginowan-city-gaiyo
+  - text: 戦前の宜野湾村では字宜野湾（現在の普天間飛行場内）に村役場があり、琉球王国時代から村行政の中心地として発展していたが、戦後にその一帯は普天間飛行場の敷地となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-ginowan-soumu
+  - text: 市は、古謡「おもろそうし」に表された言葉で「物事の根元」「共同体の中心」を意味する「ねたて」を、「ねたての都市ぎのわん」として市の合言葉にしている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-ginowan-about
+  column:
+    title: 基地の中に消えた中心地「宜野湾」
+    text: 「宜野湾」という地名の本来の中心は、今は地図の上でたどることが難しい。近世に間切番所が置かれ、戦前は村役場のあった字宜野湾は、現在の米軍普天間飛行場の敷地の中にある。戦後、集落は接収され、住民は周辺へ移った。かつてその中心地へ続く道には「ジノーンナンマチ（宜野湾並松）」と呼ばれる松並木があり、1932年には国の天然記念物に指定されるほど知られた景観だったが、これも戦禍と基地建設の中で失われた。市の中心は野嵩・普天間方面へ移り、「宜野湾」の名だけが、元の集落のあった場所から少し離れた市全体の名として残っている。地名とその原点の位置がずれてしまった典型的な例である。
+    sources:
+    - s5-ginowan-soumu
+    - s5-ginowan-kotobank-magiri
+  relations:
+  - pref/47
+  unknowns:
+  - 「ジノーン」という語そのものの語源（「ジノー」の意味の分解を含む）は、専門辞典や市公式サイトでは確定した説明を確認できなかった。宜野湾市教育委員会『ぎのわんの地名』（2012年）の検討は未確認である
+  - 『おもろさうし』の「きのわん」が宜野湾を指すかどうかは『日本歴史地名大系』も「考えられる」とする段階にとどまる
+  - 普天間飛行場が市面積に占める割合は資料によって表現が異なり、今回は数値を採用しなかった
+  updated: '2026-11-13'
+- id: muni/47-宮古島市
+  code: '472140'
+  names:
+    ja: 宮古島市
+    reading: みやこじまし
+    aliases:
+    - 平良市
+    - 宮古市（決定されかけた名称）
+    - ミャーク
+  user_terms:
+  - みやこじま
+  - ミャーク（宮古語の呼び名）
+  - 宮古ブルーの島
+  - 伊良部大橋のある市
+  naming_type: 合併新設
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 平成17年（2005年）10月1日、平良市・城辺町・下地町・上野村・伊良部町の5市町村が新設合併して発足した、宮古列島の市。新市名は合併協議でいったん「宮古市」に決まったが、岩手県宮古市と同名になることを避けて最終的に島の名を含む「宮古島市」となった。「宮古」は方音「ミャーク」に対応する古い島名で、もともとは主島だけでなく列島全体の総称であり、文献上の初出は中国の『元史』にみえる「密牙古人」の記事と一般にいわれる。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 『元史』
+    note: 明代初期に編まれた『元史』に「波羅公管下密牙古人」が温州・永嘉へ漂着したという記事があり、「密牙古」を宮古の音訳と解釈して、一般にこれが文献における宮古（島）の初出とされる。解釈を含む話であり二次資料経由の確認にとどまるため、年は特定しない
+  claims:
+  - text: 宮古島市の地方公共団体コードは472140である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 宮古島市は平成17年（2005年）10月1日、平良市・城辺町・下地町・上野村・伊良部町の5市町村が合併して誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-miyakojima-koho20
+  - text: 新市の名称は平成16年（2004年）11月17日の平良市・城辺町・伊良部町合併推進協議会でいったん「宮古市」に決定されていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-miyakojima-city-gappei
+  - text: 名称は合併協議で最も難航した項目であり、協議会で「宮古市」と決めた後に住民側からアンケート実施の要請があり、協議会での無記名投票を経て住民アンケートを実施して最終決定に至った経過が合併事例資料に記録されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s5-miyakojima-jirei
+  - text: 最終的には岩手県の宮古市と同名になることを避ける形で、島の名を入れた「宮古島市」で決着した経緯が紹介されている
+    kind: fact
+    level: E4
+    status: established
+    sources:
+    - s5-miyakojima-uub-arc
+  - text: 「宮古」の文献上の初出は一般に、中国で編まれた『元史』にみえる「波羅公管下密牙古人」の漂着記事とされ、「密牙古」は宮古の音を写したものと解釈されることが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-miyako-wiki-island
+  - text: 1701年に成立した『中山世譜』には、平良・来間・大神・池間・水納・伊良部・多良間の七島を「総称之曰宮古島、又曰麻姑山」と記し、「宮古島」はもともと列島全体の総称で、主島自体は平良と呼ばれていたことが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-miyako-wiki-island
+  - text: 方音は「ミャーク」で、『日本歴史地名大系』は宮古を主島・宮古島を中心とする島々の総称とし、麻姑山・都島・太平山などの別称も史料にみえると紹介している
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-miyako-kotobank
+  column:
+    title: 日本に二つの「宮古市」が生まれる寸前だった
+    text: 2004年11月、宮古の合併協議会は新市の名前を「宮古市」と決めた。ところが日本にはすでに岩手県に宮古市がある。市の同名は法律で禁止されているわけではないが、混乱を避けるのが通例で、この決定は全国的な話題になった。名称問題は合併協議で最も難航した項目となり、住民アンケートまで行われた末、最終的に選ばれたのは「宮古島市」である。岩手の宮古市は港町の名、沖縄の宮古は島々の総称の名で、字は同じでも成り立ちは無関係だったが、同名回避の一字「島」が、結果として「島の市」であることをよく表す名前になった。なお宮古市と宮古島市は現在も別の市として併存しており、同名そのものではなく「同名になりかけた」事例として珍しい。
+    sources:
+    - s5-miyakojima-city-gappei
+    - s5-miyakojima-jirei
+    - s5-miyakojima-uub-arc
+  relations:
+  - pref/47
+  - muni/03-宮古市
+  unknowns:
+  - 「宮古（ミャーク）」という語そのものの語源（何を意味する語だったか）は、専門辞典でも確定した説明を確認できなかった
+  - 『元史』の「密牙古人」の記事の原文と年代は二次資料経由でしか確認できていない
+  - 「宮古市」から「宮古島市」への変更を正式に決めた会議の日付と議事は、市の公式年表では確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-沖縄市
+  code: '472115'
+  names:
+    ja: 沖縄市
+    reading: おきなわし
+    aliases:
+    - コザ市
+    - 胡差
+  user_terms:
+  - 沖縄市はどうやってできた
+  - コザって何
+  - 沖縄市の名前の由来
+  naming_type: 合併新設
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 1974年4月1日にコザ市と美里村の対等合併で誕生した新設の市名で、県内では那覇市に次ぐ第二の都市となった。前身のコザ市は、米軍嘉手納基地の門前町として発展した越来村が1956年に「コザ」へ改称して生まれた市で、「コザ」の語源には胡屋説と古謝説がある。1666年に分かれた越来・美里の両地域が308年ぶりに再び一つになった合併でもあった。
+  first_attestation:
+    era: 昭和49年
+    year_western: 1974
+    document: コザ市・美里村の合併協定（1973年12月27日調印）と1974年4月1日の沖縄市発足
+    note: 市名としての成立。前身の「コザ」は1956年に越来村の改称で生まれた名で、戦後に通称として定着していたと沖縄県公文書館の資料は伝える
+  claims:
+  - text: 1974年（昭和49年）4月1日、コザ市と美里村の対等合併により沖縄市が誕生し、人口約9万6,000人を擁する県下第二の都市となった（地方公共団体コードは472115）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-okinawa-yoran
+    - l6-okinawa-koho40
+    - b-cap-chiba-soumu-code
+  - text: 沖縄市公式の要覧によれば、1666年に越来間切から美里間切が分離して以来、1974年の合併で両地域は308年ぶりに再び一つになった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-okinawa-yoran
+  - text: 前身の越来村は嘉手納基地の門前町として発展し、1956年（昭和31年）6月にコザ村へ改称、同年7月に市制を施行してコザ市となった。そのため「コザ村」として存在した期間は1か月足らずだった（沖縄県公文書館の紹介資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-okinawa-archives
+    - l6-okinawa-yoran
+  - text: 沖縄県公文書館は、1956年の越来村からコザ村への名称変更に関する琉球政府文書を紹介し、「コザ」という名称は戦後に通称として定着していたと伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-okinawa-archives
+  - text: 前身名「コザ」の由来については、沖縄県立図書館のレファレンス回答が、参照した資料のうち2点は「胡屋」、1点は「古謝」を由来とするなど説が分かれることを紹介している
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - l6-okinawa-ndl-crd
+  - text: 米軍統治下の1945年には、旧越来村一帯に「胡差（古謝）市」、旧美里村一帯に「前原市」が置かれたが、いずれも翌年には解かれて村に戻った（沖縄市要覧）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-okinawa-yoran
+  - text: 沖縄市は本土復帰（1972年）から2年後の1974年に誕生し、市は合併後に策定した長期計画で「国際文化観光都市」を宣言した（沖縄市要覧）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-okinawa-yoran
+  column:
+    title: 1か月だけ存在した「コザ村」
+    text: 沖縄市の前身・コザ市には、短命だったもう一つの姿がある。1956年6月、越来（ごえく）村は「コザ村」に改称されたが、その翌月には市制を施行してコザ市になってしまった。つまり「コザ村」は1か月足らずしか存在しなかった。公文書館に残る改称の文書には、戦後の門前町で「コザ」という呼び名がすでに定着していたことがうかがえる。そして1974年、コザ市は美里村と合併して「沖縄市」となり、その名もまた18年で姿を消した。二つの短い名前の上に、現在の市名が立っている。
+    sources:
+    - l6-okinawa-archives
+    - l6-okinawa-yoran
+  relations:
+  - pref/47
+  unknowns:
+  - 新市名「沖縄市」の決定過程（候補案や選定理由）を示す一次資料は本調査では確認できなかった
+  - 「コザ」の語源（胡屋説・古謝説）の決着は未了
+  updated: '2026-11-13'
+- id: muni/47-浦添市
+  code: '472085'
+  names:
+    ja: 浦添市
+    reading: うらそえし
+    aliases:
+    - うらおそい
+    - 浦襲
+  user_terms:
+  - うらそえの由来
+  - 浦添ってどう読むの
+  - てだこのまち
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 「浦添」は当て字で、もとは「うらおそい」とかな書きされていた。琉球の言語学者・伊波普猷は「浦々を支配する所」の意と解釈し、市公式・沖縄県公式の説明もこの説に沿う。浦添は首里に王都が移る以前の琉球の中心で、舜天・英祖・察度の王統が拠った地である。1908年に浦添間切から浦添村となり、1970年に市制を施行した。
+  first_attestation:
+    era: 江戸時代初期
+    year_western: 1623
+    document: おもろさうし
+    note: 「うらおそい」とかな書きされた用例を伊波普猷『浦添考』が引く。『おもろさうし』は16世紀から1623年にかけて編纂された歌謡集。「浦添」の漢字表記は当て字で、本来の形は「うらおそい」
+  claims:
+  - text: 「浦添」の字は当て字であり、もとは「うらおそい」とかなで書かれ、『おもろさうし』や浦添ようどれの碑文にもその形が見えると、伊波普猷は『浦添考』で述べる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l6-urasoe-iha
+  - text: 伊波普猷は「うらおそい」を「浦（うら）」と「おそう（襲）」の名詞形に分け、「浦々を襲う、すなわち浦々を支配する所」の意であると解釈した
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l6-urasoe-iha
+  - text: 浦添市公式・沖縄県公式の説明も、「うらおそい（浦襲）」は津々浦々を支配するという意味であり、それが転じて「うらそえ」となり「浦添」の字が当てられたとする
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-urasoe-about
+    - l6-urasoe-pref
+  - text: 浦添は首里に王都が移る以前の琉球の王都であり、舜天王・英祖王・察度王の王統が浦添城を中心に約250年にわたって本島中南部の中心だったと、浦添市公式資料は伝える
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-urasoe-guide
+  - text: 1908年（明治41年）4月、浦添間切が浦添村に改められた（浦添市公式のあゆみ）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-urasoe-ayumi-pre
+  - text: 1970年（昭和45年）7月に浦添村が市制を施行して浦添市となった。米軍統治下での市制施行である（地方公共団体コードは472085）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-urasoe-ayumi
+    - b-cap-chiba-soumu-code
+  - text: 英祖王は「てだこ（太陽の子）」と敬称され、その母が、太陽が懐に入る夢を見て英祖を身籠ったという伝承を、浦添市公式のプロフィールは紹介する
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - l6-urasoe-profile
+  column:
+    title: 王都の名は「支配」の意味だった
+    text: 浦添の名の底にある「うらおそい」は、「浦々を支配する所」という意味だったと伊波普猷は解いた。王都にふさわしい名である。実際、浦添は首里に都が移る前の琉球の中心で、舜天・英祖・察度の三代の王統がここを拠りにした。王都が首里へ移った後も、「支配の中心」を意味する名は土地に残り続け、読みが「うらおそい」から「うらそえ」へ和らぎ、「浦添」の字が当てられて現代の市名になった。王のいなくなった都の名が、六百年以上も使われ続けている。
+    sources:
+    - l6-urasoe-iha
+    - l6-urasoe-guide
+  relations:
+  - pref/47
+  unknowns:
+  - 「うらおそい」より前の古名や、浦添ようどれ碑文の正確な年代の直接確認は未了
+  - 伊波普猷の解釈以外の語源説の有無は本調査では確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-石垣市
+  code: '472077'
+  names:
+    ja: 石垣市
+    reading: いしがきし
+    aliases:
+    - 石垣町
+  user_terms:
+  - 石垣島の由来
+  - 日本最南端の市
+  - 尖閣諸島がある市
+  naming_type: 一部の地名
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 市名は島名「石垣」に由来する。『精選版日本国語大辞典』は「いしがき」を「信覚（しがき）の変化した語といわれる」とし、奈良時代初めに使者を送った信覚国を石垣島に比定する説を紹介する。地元の方言では今も「イシャナギィ」と呼ばれ、古い音の痕跡を残す。市域は石垣島全域と無人の尖閣諸島を含み、日本最西端・最南端の市である。1947年に石垣町が市制を施行した。
+  first_attestation:
+    era: 和銅7年
+    year_western: 714
+    document: 続日本紀
+    note: 「信覚国」の記事。『精選版日本国語大辞典』は「いしがき」を信覚（しがき）の変化した語とし、信覚国を石垣島に比定する説を紹介する。前身名の初出として記録するもので、比定は説の段階にとどまる
+  claims:
+  - text: 『精選版日本国語大辞典』は「いしがき」について「信覚（しがき）の変化した語といわれる」とし、奈良時代の初めに使者をよこした信覚国は石垣島ともいわれる、とする
+    kind: fact
+    level: E3
+    status: contested
+    sources:
+    - l6-ishigaki-kotobank-jima
+  - text: 地元の方言では石垣を「イシャナギィ」といい、『日本歴史地名大系』も石垣村の読みを「いしやなぎい」とする
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l6-ishigaki-kotobank-jima
+  - text: 王府時代の市域は石垣・大浜・宮良の3間切に分かれ、石垣間切には石垣・新川・名蔵・崎枝・川平・桴海の6か村があった（『日本歴史地名大系』「石垣市」）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l6-ishigaki-kotobank-shi
+  - text: 石垣市は石垣島全域と無人の尖閣諸島を含む、日本最西端・最南端の市である（『日本歴史地名大系』「石垣市」）
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - l6-ishigaki-kotobank-shi
+  - text: 尖閣諸島の字（あざ）名は2020年（令和2年）10月に、石垣市字登野城から「登野城尖閣」へ変更された（石垣市公式サイト）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-ishigaki-city-senkaku
+  - text: 1969年（昭和44年）には、当時の石垣市長が自ら尖閣諸島に上陸し、5島に行政標柱を建立した（石垣市議会の決議資料）
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - l6-ishigaki-city-gikai
+  - text: 1947年（昭和22年）7月10日、石垣町が市制を施行して石垣市となったとWikipediaは紹介する。米軍統治下の八重山民政府のもとでの市制施行だった（地方公共団体コードは472077）
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - l6-ishigaki-wikipedia
+    - b-cap-chiba-soumu-code
+  column:
+    title: 「イシャナギィ」に残る古い音
+    text: 石垣の島の名は、標準語の音からは想像しにくい古い姿を方言に残している。地元の言葉では石垣は「イシャナギィ」。『精選版日本国語大辞典』が示す「信覚（しがき）から変化した」という説が正しければ、奈良時代に大和朝廷へ使者を送った「信覚国」の名が、1300年の歳月を経てこの方言の音の中に生きていることになる。比定はまだ説の段階だが、島の人々の日常の呼び名こそが、最も古い地名の記録なのかもしれない。
+    sources:
+    - l6-ishigaki-kotobank-jima
+  relations:
+  - pref/47
+  unknowns:
+  - 「信覚（しがき）」から「石垣」への音変化の過程を示す中世の用例は確認できなかった
+  - 「石垣」の漢字が当てられた時期の特定は未了
+  - 1947年の市制施行の正確な日付（7月10日）はWikipediaの整理に依拠し、公的資料での直接確認が未了
+  updated: '2026-11-13'
+- id: muni/47-糸満市
+  code: '472107'
+  names:
+    ja: 糸満市
+    reading: いとまんし
+    aliases:
+    - 糸満町
+    - いとまむ
+    - イチュマン
+  user_terms:
+  - いとまん
+  - 海人（あま）のまち
+  - 糸満ハーレーのまち
+  - 沖縄本島最南端の市
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島最南端の市で、昭和46年（1971年）12月1日に市制を施行した。本土復帰の前年、米軍統治下での発足である。「糸満」は近世の帳簿類に「いとまむ村」と記され、1713年の『琉球国由来記』で「糸満村」の表記が見える古い地名。方音は「イチュマン」。語源は漁師のまちにふさわしく「イト（優れたの意）＋アマ（海人）＝優れた漁師」とする説が糸満町史の編集者によって本命とされたが、他の学者の説もあって確定していない。
+  first_attestation:
+    era: 慶安2年
+    year_western: 1649
+    document: 『絵図郷村帳』
+    note: 慶安2年（1649年）の『絵図郷村帳』と翌年の『琉球国高極帳』では「いとまむ村」と表記され、康熙52年（1713年）の『琉球国由来記』では「糸満村」となっていることが紹介されている（二次資料経由の確認）
+  claims:
+  - text: 糸満市の地方公共団体コードは472107である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 糸満市は昭和46年（1971年）12月1日に市制を施行した、本土復帰の前年にあたる米軍統治下での発足である
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-itoman-kotobank
+    - s5-itoman-kukuru
+  - text: 前身の糸満町は明治41年（1908年）の町村制施行時に兼城間切の糸満村が町制を施行して生まれ、昭和36年（1961年）に兼城村・高嶺村・三和村と合併して新しい糸満町となった
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-itoman-kotobank
+    - s5-itoman-city-ayumi
+  - text: 「糸満」の表記は、慶安2年（1649年）の『絵図郷村帳』と翌年の『琉球国高極帳』では「いとまむ村」、康熙52年（1713年）の『琉球国由来記』では「糸満村」となっていることが紹介されている
+    kind: fact
+    level: E5
+    status: established
+    sources:
+    - s5-itoman-wiki
+  - text: 語源について、糸満町史の編集委員だった玉城貫は、第一・優れたなどの意味を持つ「イト」と海人の「アマ」を合わせた言葉で「優れた漁師」という意味だとする説を本命としたことが紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - s5-itoman-wiki
+  - text: 民俗学者の宮良當壯は「イユ・トゥイ・アマミ」（魚を捕る海人の集団）の約転であろうとする説を唱え、金関丈夫も別の語源を唱えるなど諸説があり、定説は得られていないことが紹介されている
+    kind: fact
+    level: E5
+    status: contested
+    sources:
+    - s5-itoman-wiki
+  - text: 井戸を掘る際に糸を食べている蟹が現れたことが「糸満」の名の起こりだという話が伝えられている
+    kind: legend
+    level: E5
+    status: established
+    sources:
+    - s5-itoman-wiki
+  - text: 方音は「イチュマン」で、糸満の漁師（海人）は戦前から日本近海のみならず海外にまで進出したことで知られる
+    kind: fact
+    level: E3
+    status: established
+    sources:
+    - s5-itoman-kotobank
+  column:
+    title: 町史の編集委員が激怒した「エイトマン説」
+    text: 糸満の語源には、変わった俗説がある。昔、8人の異人がこの地に漂着したから「エイトマン」と呼ばれ、それが訛って糸満になった、というものである。ところが糸満町史の編集にあたった玉城貫は、この説を著書で「学問を愚弄するもの」とまで言って切り捨てた。玉城自身の本命は、「イト（優れた）＋アマ（海人）」で「優れた漁師」という、漁師のまちの誇りを込めた解釈である。漂着した異人の数から名前を説明したくなる素朴な語源遊びと、それを許さなかった地元の史家の矜持との対比が、この地名の語られ方の面白さをよく示している。
+    sources:
+    - s5-itoman-wiki
+  relations:
+  - pref/47
+  unknowns:
+  - 語源の諸説はいずれもWikipedia経由で糸満市史・糸満町史の記述として紹介されたもので、市史そのものは未確認である
+  - 「糸を巻く」「糸を引く」といった漁の糸そのものに結びつける語源説は、井戸掘りの蟹の伝承以外には確認できなかった
+  - 『おもろさうし』など近世以前の古い史料における「いとまむ」の用例は確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-豊見城市
+  code: '472123'
+  names:
+    ja: 豊見城市
+    reading: とみぐすくし
+    aliases:
+    - 豊見城村
+    - 豊見城間切
+    - とよみ城
+  user_terms:
+  - とみぐすく
+  - 響（とよ）むまち
+  - 村から直接市になったまち
+  - 那覇のベッドタウン
+  naming_type: その他
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 沖縄本島南部、那覇市に隣接する市で、平成14年（2002年）4月1日に豊見城村が合併を経ず単独で市制を施行した。村から直接市になった珍しい例である。「豊見城（とみぐすく）」は琉球のグスクの名に由来し、南山王の従弟・汪応祖が築いた城を「とよみ城」と美称したことに始まると市は説明する。「とよむ」とは名声が高く鳴り響くさまを表す古琉球の美称で、その音が時代を経て「とみ」へ転じたとされる。
+  first_attestation:
+    era: null
+    year_western: null
+    document: 『球陽』
+    note: 琉球王府の史書『球陽』（18世紀の編纂）が、14世紀前半の三山対立期の記事として南山王に従った地方の中に「豊見城」の名を記していることが市の資料で紹介されている。事象の年代と文献の成立が大きく離れているため、初出の年は特定しない
+  claims:
+  - text: 豊見城市の地方公共団体コードは472123である
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - b-cap-chiba-soumu-code
+  - text: 豊見城市は平成14年（2002年）4月1日、豊見城村が合併を経ずに単独で市制を施行して発足した、市制施行の要件である人口50,000人を達成しての施行だった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-tomigusuku-plan4
+  - text: 前身の豊見城村は明治41年（1908年）の島嶼町村制により、豊見城間切の11字をもって誕生した
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-tomigusuku-shiryo
+  - text: 琉球の歴史書『球陽』によれば、14世紀の前半に沖縄本島で三山の対立が明確になったとき、南山王に従った地方の中に「豊見城」の名が記されていることが市の資料で紹介されている
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-tomigusuku-shiryo
+  - text: 地名の起こりとして、南山王の従弟・汪応祖（ワンオウソ）が漫湖を眺望する丘陵上にグスクを築き、「とよみ城（ぐすく）」と称したことが伝えられている
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - s5-tomigusuku-plan
+    - s5-tomigusuku-shiryo
+  - text: 「とよむ（鳴響む）」とは『おもろそうし』に記載もある美称の一つで、名声の高いさまを表しており、時代を経て「とよみ」が「とみぐすく」という読みに転じたと市は説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-tomigusuku-plan
+  - text: 近世の豊見城間切は現在の市域以外に那覇市・糸満市・八重瀬町の一部をも含む大きな領域をもっていた
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - s5-tomigusuku-shiryo
+  column:
+    title: 合併しないで「村」からいきなり「市」へ
+    text: 平成の大合併では、多くの自治体が合併して市になった。しかし豊見城市は2002年、合併を一切せず、豊見城村が単独のまま市制を施行した。那覇市に隣接する立地で宅地開発が進み、市制の要件である人口5万人に村のまま到達したためである。村から直接市になるのは全国的にも珍しく、沖縄県内では初めてのケースだった。その市名は、14世紀の南山の時代に築かれたグスクの名をそのまま受け継いだもの。人口増加率と年少人口の多さで知られる新しい住宅都市が、県内最古級の城の名前を背負っているという取り合わせが、この市の面白さである。
+    sources:
+    - s5-tomigusuku-plan4
+    - s5-tomigusuku-shiryo
+  relations:
+  - pref/47
+  unknowns:
+  - 『球陽』の「豊見城」の記事の原文は二次資料経由でしか確認できていない
+  - 「とよみ」が「とみ」へ転じた時期や過程は、市の資料にも詳述がなく確認できなかった
+  - 豊見城村が単独市制を選択した当時の議論の詳細（合併協議の有無を含む）は確認できなかった
+  updated: '2026-11-13'
+- id: muni/47-那覇市
+  code: '472018'
+  names:
+    ja: 那覇市
+    reading: なはし
+    aliases:
+    - 那波
+    - 奈波
+    - 浮島
+  user_terms:
+  - 那覇の名前の由来 漁場って本当
+  - ナーファ ナファ 那覇の読み方
+  - 首里と那覇はどう違う
+  - 那覇市はいつできた
+  naming_type: その他（港町「那覇」の名を継承し、那覇区への市制施行により市となった）
+  prefecture: 沖縄県
+  homonyms: []
+  summary: 市名は琉球王国の貿易港「那覇」に由来する。「なは」の語源については、島袋源七が提唱し伊波普猷が支持した「ナバ（漁場）」説が通説とされてきたが、反論もあり確定していない。王国の記録が伝える茸の形の石にちなむ命名伝承とは別系統の話として分けて扱う。王都・首里の外港だった那覇は、1879年に県庁が置かれて県都となり、1921年に市制が施行された。
+  first_attestation:
+    era: 文明3年
+    year_western: 1471
+    document: 海東諸国紀
+    note: 朝鮮の申叔舟が琉球の港を「那波」と記したものが、確認できる古い記録の一つ。当時この地が「ナバ」と呼ばれていた可能性を示すと『沖縄県の地名』は記す（国立国会図書館レファレンスが紹介）
+  claims:
+  - text: 市名「那覇」は港町の名に由来し、1921年（大正10年）5月20日、特別区制が廃されて一般市制が施行され、那覇区が那覇市となった
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-naha-city-ayumi
+  - text: 王国時代の那覇は、那覇川（現在の国場川）と安里川の注ぐ湾に浮かぶ島「浮島」であり、1451年（享徳3年）に尚金福王が長虹堤を築いて首里側と結び、那覇四町（西町・東町・若狭町・泉崎）を形成したと那覇市公式は説明する
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-naha-city-ayumi
+  - text: 王都は首里に置かれ、那覇はその外港・商都として発展したが、1879年（明治12年）の廃藩置県で県庁が那覇に置かれ、政治・経済・文化の中心は首里から那覇へ移った
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-naha-city-ayumi
+  - text: 『海東諸国紀』に「那波」とあって、15〜16世紀にはこの地が「ナバ」と唱えられていた可能性が高いと、『沖縄県の地名』（日本歴史地名大系・沖縄県編）は記している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-kaidoushokki
+    - f-cap-naha-ndl
+  - text: 「ナバ」の意味について、島袋源七が提唱し伊波普猷が支持・立証した漁場説が通説とされてきたが、海に面しない「ナバ」系の地名もあることなどから一仮説にとどまるとする批判的な見解もあり、語源は確定していない
+    kind: fact
+    level: E2
+    status: contested
+    sources:
+    - f-cap-naha-ndl
+  - text: 『琉球国由来記』巻八「那覇由来記」は、呉姓我那覇の屋敷の中に茸（世俗にナバという）の形に似た石があり、人々がこの地を「ナハ」と呼ぶようになり、後に字を「那覇」に改めたと伝える
+    kind: legend
+    level: E2
+    status: established
+    sources:
+    - f-cap-ryukyu-yuraiki
+    - f-cap-naha-ndl
+  - text: 那覇市公式は、那覇の読みは現地の「ナーファ」「ナファ」から転訛したもので、それまでナハ・ナファ・ナワ・ナバなどと呼ばれていた読みが、1934年（昭和9年）3月に日本放送語審査委員会の決定で「ナハ」に統一されたと説明している
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-naha-city-name
+  - text: 現在の市域は、1954年（昭和29年）に首里市・小禄村、1957年（昭和32年）に真和志市を合併して形成されたもので、王国期の那覇（浮島とその周辺）とは範囲が大きく異なる
+    kind: fact
+    level: E2
+    status: established
+    sources:
+    - f-cap-naha-city-siryou
+  column:
+    title: 王都ではない港町が、県都になった
+    text: 琉球王国の中心は、丘の上の王都・首里だった。那覇はその足元に浮かぶ「浮島」の港町で、冊封使や交易船を迎える玄関口だったが、政治の中心ではなかった。その力関係が逆転したのは1879年、廃藩置県で県庁が那覇に置かれてからである。首里城は象徴として残り、行政・経済の実務は港町へ移った。現在の那覇市は1950年代に首里市などを合併しており、いま市域に含まれる首里は「もとの王都を後から市域に迎えた」形になっている。港町の名前が、王都を含む市の名前になったわけである。
+    sources:
+    - f-cap-naha-city-ayumi
+    - f-cap-naha-city-siryou
+  relations:
+  - pref/47
+  unknowns:
+  - 「ナバ／ナハ」の語源は確定しておらず、漁場説も仮説の域を出ないとする批判的見解がある
+  - 漢字表記「那覇」の厳密な初出は本調査では特定できなかった（確認できる古い用例は『海東諸国紀』の「那波」である）
+  - 『琉球国由来記』の怪石伝承は、茸の形の石そのものが戦前に那覇の東町にあったとする伝えもあるが、史実としての検証はできないため伝承として扱う
+  updated: '2026-11-13'
+sources:
+  b-cap-chiba-soumu-code:
+    label: 総務省「地方公共団体コード一覧」
+    url: https://www.soumu.go.jp/main_content/000925834.pdf
+  f-cap-kaidoushokki:
+    label: 申叔舟『海東諸国紀』（1471年成立、琉球の港を「那波」と記す。紙資料）
+  f-cap-naha-city-ayumi:
+    label: 那覇市公式サイト「那覇市のあゆみ」（浮島と長虹堤、県庁設置、1921年の市制施行を紹介）
+    url: https://www.city.naha.okinawa.jp/admin/cityhall/profile/history/ayumi.html
+  f-cap-naha-city-name:
+    label: 那覇市公式サイト「市の名称」（ナーファ・ナファからの転訛、伊波普猷の漁場説、1934年の読み統一を説明）
+    url: https://www.city.naha.okinawa.jp/admin/cityhall/1003914/1003921.html
+  f-cap-naha-city-siryou:
+    label: 那覇市公式資料（那覇市の歴史概略年表、1954年の首里市・小禄村合併と1957年の真和志市合併を記載）
+    url: https://www.city.naha.okinawa.jp/websyuccyoujyo/kaiken/kaiken/051601.files/siryou_051601.pdf
+  f-cap-naha-ndl:
+    label: 国立国会図書館レファレンス協同データベース「那覇の地名の由来について知りたい。」（沖縄県立図書館回答、『沖縄県の地名』『琉球国由来記』『遺老説伝』伊波普猷説への批判的見解を確認）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000196564
+  f-cap-ryukyu-yuraiki:
+    label: 『琉球国由来記』巻八「那覇由来記」（1713年編纂、茸の形をした石にちなむ命名伝承を記す。紙資料）
+  l6-ishigaki-city-gikai:
+    label: 石垣市議会「尖閣諸島に字名標柱の設置を求める決議」（1969年に当時の市長自ら尖閣諸島に上陸し5島に行政標柱を建立したこと、字登野城尖閣の番地）
+    url: https://www.city.ishigaki.okinawa.jp/material/files/group/33/2020-12-14nakama.pdf
+  l6-ishigaki-city-senkaku:
+    label: 石垣市「尖閣諸島行政標柱完成記者発表を行いました」（2020年10月に尖閣諸島の字名が登野城から登野城尖閣へ変更されたことに伴う標柱の完成）
+    url: https://www.city.ishigaki.okinawa.jp/soshiki/snkaku-islands_response-room/senkaku/9914.html
+  l6-ishigaki-kotobank-jima:
+    label: コトバンク「石垣島」（精選版日本国語大辞典は「いしがき」を信覚（しがき）の変化した語といわれるとし、日本歴史地名大系は方音をイシャナギィとする）
+    url: https://kotobank.jp/word/%E7%9F%B3%E5%9E%A3%E5%B3%B6-30468
+  l6-ishigaki-kotobank-shi:
+    label: コトバンク「石垣市」（日本歴史地名大系。石垣島全域と無人の尖閣諸島を含む市域、王府時代の石垣間切の六か村）
+    url: https://kotobank.jp/word/%E7%9F%B3%E5%9E%A3%E5%B8%82-30466
+  l6-ishigaki-wikipedia:
+    label: Wikipedia「石垣市」（1947年7月10日に石垣町が市制施行。原典確認が未了のため低いレベルで扱う）
+    url: https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B8%82
+  l6-okinawa-archives:
+    label: 沖縄県公文書館「市町村の振興計画、合併及び名称変更に関する書類（4） つかの間のコザ村」（1956年の越来村からコザ村への名称変更に関する琉球政府文書の紹介。戦後に「コザ」の名称が定着していたこと）
+    url: https://www3.archives.pref.okinawa.jp/GRI/documents/%E5%B8%82%E7%94%BA%E6%9D%91%E3%81%AE%E6%8C%AF%E8%88%88%E8%A8%88%E7%94%83%E3%80%81%E5%90%88%E4%BD%B5%E5%8F%8A%E3%81%B3%E5%90%8D%E7%A7%B0%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9B%B8-4/
+  l6-okinawa-koho40:
+    label: 沖縄市「広報おきなわ 平成26年4月号・沖縄市のあゆみ 市制施行40周年」（1974年4月1日にコザ市と美里村が合併して沖縄市が誕生し、人口9万6千人を擁する県下第二の都市となった）
+    url: https://www.city.okinawa.okinawa.jp/kouhou/H26/04/02.html
+  l6-okinawa-ndl-crd:
+    label: レファレンス協同データベース・沖縄県立図書館の事例「コザ市の由来を知りたい」（参照資料のうち2点は「胡屋」、1点は「古謝」をコザの由来とすることを紹介）
+    url: https://crd.ndl.go.jp/reference/entry/index.php?id=1000169990&page=ref_view
+  l6-okinawa-yoran:
+    label: 沖縄市「沖縄市要覧」（1666年に越来間切から美里間切が分離、1956年に越来村がコザ村へ改称し市制施行してコザ市、1974年にコザ市と美里村の対等合併で沖縄市が誕生し308年ぶりに一つになった）
+    url: https://www.city.okinawa.okinawa.jp/documents/1861/44-49.pdf
+  l6-urasoe-about:
+    label: 浦添市「About Urasoe City」（市公式パンフレット。市の名は「うらおそい」＝津々浦々を支配する、に由来すると説明）
+    url: https://www.city.urasoe.lg.jp/doc/609e7c443d59ae2434bfeb00/file_contents/01_v2019.pdf
+  l6-urasoe-ayumi:
+    label: 浦添市「浦添市のあゆみ（市制施行〜）」（1970年7月に市制を施行し浦添市となった）
+    url: https://www.city.urasoe.lg.jp/doc/609e7eaa3d59ae2434bff048
+  l6-urasoe-ayumi-pre:
+    label: 浦添市「浦添市のあゆみ（明治〜浦添市制施行前）」（1908年4月に浦添間切が浦添村に改められた）
+    url: http://www.city.urasoe.lg.jp/doc/609e707a3d59ae2434bfd882
+  l6-urasoe-guide:
+    label: 浦添市「琉球王国発祥の地として栄えた浦添市」（市公式ガイド資料。舜天・英祖・察度の3王統が約250年にわたり浦添を本島中南部の中心とした）
+    url: https://www.city.urasoe.lg.jp/doc/609e849a3d59ae2434bffccc/file_contents/P4-5.pdf
+  l6-urasoe-iha:
+    label: 伊波普猷「浦添考」（青空文庫。「浦添」は当て字で本来は「うらおそい」であり、浦々を支配する所の意とする解釈、おもろさうしと浦添ようどれ碑文の用例）
+    url: https://www.aozora.gr.jp/cards/000232/files/60235_73872.html
+  l6-urasoe-pref:
+    label: 沖縄県「浦添市」（県公式。津々浦々をおそう＝諸国を支配する、という意味が転じてウラソイとなり浦添の文字が当てられたと説明）
+    url: https://www.pref.okinawa.jp/machizukuri/suido/1012453/1022435/1003450/1022437/1003460.html
+  l6-urasoe-profile:
+    label: 浦添市「浦添市のプロフィール」（「てだこの都市・浦添」の都市像と、英祖王の母が太陽の夢を見たという「てだこ」の伝承）
+    url: https://www.city.urasoe.lg.jp/doc/609e7a393d59ae2434bfe6ef
+  s5-ginowan-about:
+    label: 宜野湾市公式観光サイト「ぎのわんについて」（古謡「おもろそうし」に表された「ねたて」は「物事の根元」「共同体の中心」を意味し、市の合言葉「ねたての都市ぎのわん」の由来とする市公式解説）
+    url: https://www.city.ginowan.lg.jp/sightseeing/about_ginowan/index.html
+  s5-ginowan-city-gaiyo:
+    label: 宜野湾市公式「宜野湾市の概要」（本市の母体である宜野湾間切は1671年（康熙10年）に浦添間切から分立したとする市公式解説）
+    url: https://www.city.ginowan.lg.jp/soshiki/kikaku/4/1/2_1/1270.html
+  s5-ginowan-kotobank-magiri:
+    label: コトバンク「宜野湾間切」（『日本歴史地名大系』の解説。方音「じのーん」、『おもろさうし』巻15に散見するシマ名「きのわん」、康熙10年（1671年）の間切創設を紹介）
+    url: https://kotobank.jp/word/%E5%AE%9C%E9%87%8E%E6%B9%BE%E9%96%93%E5%88%87-3107642
+  s5-ginowan-kotobank-mura:
+    label: コトバンク「宜野湾村」（『日本歴史地名大系』の解説。『おもろさうし』巻15の「きのわん」、元和7年（1621年）の知行目録（高嶺家文書）の「儀野湾村」を紹介）
+    url: https://kotobank.jp/word/%E5%AE%9C%E9%87%8E%E6%B9%BE%E6%9D%91-3107643
+  s5-ginowan-plan:
+    label: 宜野湾市「第四次宜野湾市総合計画」資料（昭和37年（1962年）7月1日に市制が施行されたとする市公式資料）
+    url: https://www.city.ginowan.lg.jp/material/files/group/10/63029597.pdf
+  s5-ginowan-soumu:
+    label: 総務省「宜野湾市における戦災の状況」（戦前の宜野湾村・字宜野湾に村役場があり行政の中心地だったこと、宜野湾並松（ジノーンナンマチ）が昭和7年に国の天然記念物に指定されていたこと、戦後に普天間飛行場が建設されたことを記す公的資料）
+    url: https://www.soumu.go.jp/main_sosiki/daijinkanbou/sensai/situation/state/okinawa_12.html
+  s5-itoman-city-ayumi:
+    label: 糸満市公式「糸満市のあゆみ」（明治41年の町村制で兼城間切から糸満村が分かれて糸満町となり県内唯一の町が誕生したことなど市の沿革を記す市公式解説）
+    url: https://www.city.itoman.lg.jp/soshiki/31/1294.html
+  s5-itoman-kotobank:
+    label: コトバンク「糸満」（『日本大百科全書』の解説。方音イチュマン、1908年町制施行、1961年に兼城村・高嶺村・三和村と合併、1971年市制施行）
+    url: http://kotobank.jp/word/%E7%B3%B8%E6%BA%80-435011
+  s5-itoman-kukuru:
+    label: 糸満市観光文化交流拠点施設「くくる糸満」ブログ「糸満市誕生」（1971年12月に市制が施行されたことと、『合併十周年記念誌』に収められた初代市長・伊敷喜蔵の挨拶文を紹介）
+    url: https://www.kukuru-itomancity.jp/information_entry1.php?eid=143075
+  s5-itoman-wiki:
+    label: Wikipedia「糸満市」（地名の由来の諸説として、糸満町史の編集委員・玉城貫の「イト＋アマ＝優れた漁師」説、宮良當壯の「イユ・トゥイ・アマミ」約転説、井戸掘りの蟹の話、「エイトマン」説とその否定を紹介。1649年の『絵図郷村帳』の「いとまむ村」、1713年の『琉球国由来記』の「糸満村」の表記も紹介）
+    url: https://ja.wikipedia.org/wiki/%E7%B3%B8%E6%BA%80%E5%B8%82
+  s5-miyako-kotobank:
+    label: コトバンク「宮古」（『日本歴史地名大系』の解説。主島・宮古島を中心とする島々の総称で、方音はミャーク、別に麻姑山・都島・太平山ともみえる）
+    url: https://kotobank.jp/word/%E5%AE%AE%E5%8F%A4-639865
+  s5-miyako-wiki-island:
+    label: Wikipedia「宮古島」（島名の由来は諸説あり、一般に文献上の初出とされる『元史』の「密牙古人」の記事と、1701年成立の『中山世譜』に七島の総称として「宮古島、又曰麻姑山」と記されることを紹介）
+    url: https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8F%A4%E5%B3%B6
+  s5-miyakojima-city-gappei:
+    label: 宮古島市公式「宮古における市町村合併の経過」（2004年11月17日の合併推進協議会で新市名称「宮古市」に決定した経過を含む市公式年表）
+    url: https://www.city.miyakojima.lg.jp/syoukai/gappei.html
+  s5-miyakojima-jirei:
+    label: 合併基本項目資料「宮古島市（沖縄県）」（名称は合併協議で最も難航した項目で、「宮古市」で決定後に住民アンケートを実施して決定した経過を記録した合併事例資料）
+    url: http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/miyakojima051213.pdf
+  s5-miyakojima-koho20:
+    label: 『広報みやこじま』市制20周年特別号（平成17年10月1日に平良市・城辺町・下地町・上野村・伊良部町の5市町村が合併して宮古島市が誕生したとする市公式広報）
+    url: https://www.city.miyakojima.lg.jp/gyosei/kouhou/2025/files/10/20th-sp-all.pdf
+  s5-miyakojima-uub-arc:
+    label: 都道府県市区町村「落書き帳アーカイブズ『2つの「宮古市」は実現するか？』」（宮古側の協議会が新市名を「宮古市」と決めたものの最終的に「宮古島市」で決着した経緯と、岩手県宮古市との同名をめぐる議論を集めた記録）
+    url: https://uub.jp/arc/arc.cgi?N=454
+  s5-nago-kotobank:
+    label: コトバンク「名護」（『精選版日本国語大辞典』『日本大百科全書』の解説。方音はナグで、昭和45年市制とする）
+    url: https://kotobank.jp/word/%E5%90%8D%E8%AD%B7-588539
+  s5-nago-kotobank-magiri:
+    label: コトバンク「名護間切」（『日本歴史地名大系』の解説。『海東諸国紀』の「那五」、「おもろさうし」の「なこ」などの古い用例と、地名の意味は波の穏やかさ・平坦地など諸説あることを紹介）
+    url: https://kotobank.jp/word/%E5%90%8D%E8%AD%B7%E9%96%93%E5%88%87-3107856
+  s5-nago-kotobank-shi:
+    label: コトバンク「名護市」（『日本歴史地名大系』の解説。昭和45年（1970年）に名護町と屋部・羽地・屋我地・久志の4村が合併して市制を施行したとする）
+    url: http://kotobank.jp/word/%E5%90%8D%E8%AD%B7%E5%B8%82-108017
+  s5-nago-plan:
+    label: 名護市「第5次名護市総合計画」（市の象徴「あけみおのまち・名護」は古謡「おもろさうし」に出てくる「あきみよ」に由来するとする市公式計画）
+    url: https://www.city.nago.okinawa.jp/machidukuri/2026022500012/file_contents/hyousi.pdf
+  s5-nanjo-gusuku:
+    label: 南城市『市勢要覧2023』歴史紹介（「南城市の名称の由来にもなっている『城＝グスク』」とし、尚巴志ゆかりの佐敷城跡・島添大里城跡など市内のグスクを紹介する市公式資料）
+    url: https://www.city.nanjo.okinawa.jp/userfiles/files/kouhou/yoran2023-38-41.pdf
+  s5-nanjo-history:
+    label: 南城市公式資料「南城市の概要及び観光基盤の条件等」（市の沿革として2005年3月に新市名称を「南城市」に決定し合併協定書に調印、2006年1月1日に南城市が誕生したとする年表を収録）
+    url: https://www.city.nanjo.okinawa.jp/userfiles/files/shisei/673/2.pdf
+  s5-nanjo-yoran:
+    label: 南城市『令和5年度 市勢要覧』（2006年1月1日に佐敷町・知念村・玉城村・大里村の旧4町村が合併して誕生したとする市公式要覧）
+    url: https://www.city.nanjo.okinawa.jp/userfiles/files/kouhou/2023nanjo-yoran-a4.pdf
+  s5-nanjo-zhwiki:
+    label: 中国語版Wikipedia「南城市」（先行した佐敷町・知念村・玉城村・与那原町の合併協議会が2004年12月に新市名を「東方市」と決めたものの協議会が解散し、組み替え後の協議会で2005年3月に「南城市」に決まったとする紹介）
+    url: https://zh.wikipedia.org/wiki/%E5%8D%97%E5%9F%8E%E5%B8%82
+  s5-tomigusuku-plan:
+    label: 豊見城市「第5次豊見城市総合計画」（「豊見城」の地名は、後の南山王・汪応祖が漫湖を眺望する丘陵上に築城したグスクを「とよみ城」と称したことが由来で、「とよむ（鳴響む）」は『おもろそうし』にも記載のある美称で名声の高いさまを表し、時代を経て「とみぐすく」となったとする市公式解説）
+    url: https://www.city.tomigusuku.lg.jp/material/files/group/6/011sougokeikaku.pdf
+  s5-tomigusuku-plan4:
+    label: 豊見城市「第4次豊見城市総合計画」（市制施行の要件である人口50,000人を達成し、平成14年（2002年）4月1日に単独市制施行を果たしたとする市公式計画）
+    url: https://www.city.tomigusuku.lg.jp/material/files/group/6/4th_tomigusuku_sougoukeikaku.pdf
+  s5-tomigusuku-shiryo:
+    label: 豊見城市「第4次豊見城市総合計画 資料編」（琉球の歴史書『球陽』によれば14世紀前半の三山対立期に南山王に従った地方の中に「豊見城」の名が記されること、近世の豊見城間切は那覇市・糸満市・八重瀬町の一部も含む大きな領域だったこと、明治41年（1908年）に豊見城村が誕生したことを記す市公式資料）
+    url: https://www.city.tomigusuku.lg.jp/material/files/group/6/4th_soukei_shiryouhen.pdf
+  s5-uruma-20th:
+    label: うるま市「市制20周年記念誌」（2005年4月1日に旧具志川市・旧石川市・旧勝連町・旧与那城町の2市2町が合併して誕生し、市名は沖縄の古い言葉で「サンゴの島」を意味する「ウルマ」に由来するとする市公式資料）
+    url: https://www.city.uruma.lg.jp/documents/9390/20th_2pver_.pdf
+  s5-uruma-gaiyo:
+    label: うるま市「第1章 うるま市の概要」（市の総合計画資料。新市の名称は「うるま（珊瑚）の島という昔から沖縄を指す美称」とし、旧来の間切名は『おもろさうし』等の史料に確認できるが詳しい由来は不明とする市公式資料）
+    url: https://www.city.uruma.lg.jp/documents/8297/dai1syou.pdf
+  s5-uruma-yoran:
+    label: うるま市『市勢要覧2015』（新市名は全国公募5,233件・2,457種類から名称検討委員会が12種類に絞り合併協議会で決定した経緯と、「うるま」という語の歴史を紹介）
+    url: https://www.city.uruma.lg.jp/documents/998/05urumanomirai_1.pdf
