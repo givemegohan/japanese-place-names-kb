@@ -1,0 +1,724 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "e-cap-nihonshoki": {
+   "label": "『日本書紀』垂仁天皇紀（鳥取造・鳥取部の起源説話）",
+   "level": "E1",
+   "year": 720,
+   "note": "原文は未読。阪南市公式資料の引用・要約経由で参照"
+  },
+  "e-cap-soumu-code-list": {
+   "label": "総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）",
+   "level": "E2",
+   "url": "https://www.soumu.go.jp/denshijiti/code.html"
+  },
+  "e-cap-tottori-city-enkaku": {
+   "label": "鳥取市「市の沿革」（総務課資料）",
+   "level": "E2",
+   "url": "https://www.city.tottori.lg.jp/uploaded/attachment/51633.pdf"
+  },
+  "e-cap-wamyosho": {
+   "label": "『和名類聚抄（倭名類聚抄）』（承平年間成立）",
+   "level": "E1",
+   "note": "原文は未読。自治体公式・専門資料の紹介経由で参照"
+  },
+  "e-hannan-city-tottori": {
+   "label": "阪南市公式サイト「鳥取の由来」（『日本書紀』説話の紹介）",
+   "level": "E2",
+   "url": "https://www.city.hannan.lg.jp/kakuka/syogai/syogai_s/bunkazai_shokai/bunkazai_arekore/1371512696332.html"
+  },
+  "e-tottori-city-history": {
+   "label": "鳥取市公式サイト「鳥取市のなりたちとあゆみ」",
+   "level": "E2",
+   "url": "https://www.city.tottori.lg.jp/page/1105.html"
+  },
+  "h3-tottori-gaiyo": {
+   "label": "南部町（鳥取県）「町の概要」",
+   "url": "https://www.town.nanbu.tottori.jp/admin/chosei/gaiyo"
+  },
+  "h3-tottori-gikai": {
+   "label": "南部町（鳥取県）・南部町議会「南部町及び南部町議会の概要（令和8年4月版）」（新町名の理由を含む）",
+   "url": "https://www.town.nanbu.tottori.jp/user/filer_public/c1/0e/c10e77bf-f699-4aaa-bb48-b762ae8861c5/reiwa-8-nen-4-gatuban-_-nanbu-mati-oyobi-nanbu-tyougikai-no-gaiyou-26-04-01ver.pdf"
+  },
+  "h3-yamanashi-yukari": {
+   "label": "南部町（山梨県）観光サイト「南部氏ゆかりの地」",
+   "url": "https://www.town.nanbu.yamanashi.jp/kankou/rekishi/nanbushi/yukari.html"
+  },
+  "h6-hino-shiga-keikaku": {
+   "label": "滋賀県日野町「日野町文化財保存活用地域計画 第1章 日野町の概要」（日野町の由来：天喜4年の「東大寺使神成則請文」に法成寺領「日野御牧」として登場、1955年に1町6村が合併）",
+   "url": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8039/hino-bunkazaikeikaku_11.pdf"
+  },
+  "h6-hino-tottori-wiki": {
+   "label": "Wikipedia「日野町 (鳥取県)」（市町村コード31402-1、「日野」の初見は『出雲国風土記』とされること、1959年に根雨町・黒坂町が合併して発足）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E7%94%BA_(%E9%B3%A5%E5%8F%96%E7%9C%8C)"
+  },
+  "h6-hinogawa-wiki": {
+   "label": "Wikipedia「日野川」（語源は諸説あり定かでないこと、樋速日子命説、日野郡史の見解、ヤマタノオロチ伝説）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E5%B7%9D"
+  },
+  "l5-yonago-city-nenpyo": {
+   "label": "米子市公式サイト「米子歴史年表」",
+   "level": "E2",
+   "url": "https://www.city.yonago.lg.jp/16978.htm"
+  },
+  "l5-yonago-kotobank-chimei": {
+   "label": "コトバンク 日本歴史地名大系「米子市」",
+   "level": "E3",
+   "url": "https://kotobank.jp/word/%E7%B1%B3%E5%AD%90%E5%B8%82-146366"
+  },
+  "l5-yonago-uub": {
+   "label": "市区町村変遷情報「米子市（鳥取県）1927〜2005年」",
+   "level": "E4",
+   "url": "https://uub.jp/upd/c/8195.html"
+  },
+  "q1-kurayoshi-gaiyo": {
+   "label": "倉吉市議会概要（令和2年版）「市の概要」（市制施行は昭和28年10月1日、伯耆国府・国分寺の所在地であったこと、山名師義の打吹城と陣屋町の歴史、関金町との合併）",
+   "url": "https://www.city.kurayoshi.lg.jp/secure/3971/03_r01wan-cheng-ban.pdf"
+  },
+  "q1-kurayoshi-jiten": {
+   "label": "コトバンク『日本歴史地名大系』「倉吉市」（倉吉の地名由来は定かではないこと、初見は天正11年の吉川元春・元長連署宛行状の「西倉吉」であること、『因伯地名考』の岩倉＋住吉説）",
+   "url": "https://kotobank.jp/word/%E5%80%89%E5%90%89%E5%B8%82-56603"
+  },
+  "q1-kurayoshi-jr": {
+   "label": "JR西日本「発見！探検！わがまち再発見」倉吉特集（「蔵屋敷」が「くらやし」「くらよし」に転化したとする説、「暮らし良し」は語呂合わせとみる解説、打吹山の天女伝説）",
+   "url": "https://www.westjr.co.jp/company/info/issue/bsignal/04_vol_98/feature02.html"
+  },
+  "q1-sakaiminato-kotobank": {
+   "label": "コトバンク『精選版 日本国語大辞典』「境港」（西廻海運による港の発展、江戸時代に鳥取藩の船手改所・番所・廻米役所が置かれたこと、昭和31年市制）",
+   "url": "https://kotobank.jp/word/%E5%A2%83%E6%B8%AF-674991"
+  },
+  "q1-sakaiminato-localhistoria": {
+   "label": "ローカルヒストリア「境港市の歴史」（「境」の語源の国境説・内海と外海の境説、中世の表記の揺れ、鳥取藩の番所・廻米役所、1954年の境港町発足、水木しげるロード）",
+   "url": "https://local-historia.jp/tottori/sakaiminato"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/31-倉吉市",
+   "code": "312037",
+   "names": {
+    "ja": "倉吉市",
+    "reading": "くらよしし",
+    "aliases": [
+     "倉吉町",
+     "打吹"
+    ]
+   },
+   "user_terms": [
+    "くらよし",
+    "白壁土蔵群のまち",
+    "打吹玉川",
+    "伯耆国府のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "鳥取県",
+   "homonyms": [],
+   "summary": "市名は、打吹山の麓に開けた城下町「倉吉」の地名を継いだもの。「倉吉」の初見は天正11年（1583）の文書の「西倉吉」とされるが、語源は専門辞典でも定かではない。古代には伯耆国の国府・国分寺が置かれた地であり（現在の市街地の西方に跡が残る）、1953年に倉吉町を中心とする合併で市制を施行し、2005年に関金町を編入した。",
+   "first_attestation": {
+    "era": "天正11年",
+    "year_western": 1583,
+    "document": "吉川元春・同元長連署宛行状（益田家什書）",
+    "note": "『日本歴史地名大系』が「伯耆国久米郡之内西倉吉」をもって倉吉の初見とする。使用例の初出であり、命名そのものではない。"
+   },
+   "claims": [
+    {
+     "text": "『日本歴史地名大系』は、倉吉の地名由来は定かではないとし、天正11年（1583）7月2日の吉川元春・同元長連署宛行状（益田家什書）にみえる「伯耆国久米郡之内西倉吉」を倉吉の初見とする。",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q1-kurayoshi-jiten"
+     ]
+    },
+    {
+     "text": "岩倉城の落城に伴う移住で、住吉神社のあった神坂と一体の町になったことから、岩倉の「倉」と住吉の「吉」を合わせて倉吉としたという伝承を『因伯地名考』が伝えていると『日本歴史地名大系』は紹介する。",
+     "kind": "legend",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "q1-kurayoshi-jiten"
+     ]
+    },
+    {
+     "text": "「蔵屋敷（くらやしき）」が「くらやし」「くらよし」へ転化したとする説があり、「暮らし良し」は今日的な語呂合わせとみる解説がある。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "q1-kurayoshi-jr"
+     ]
+    },
+    {
+     "text": "現在の倉吉市街の西方約4キロメートルには伯耆国府跡と国分寺跡があり、古代の政治の中心は市名の発祥地とされる打吹山麓の町場とは少し離れた場所にあった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q1-kurayoshi-gaiyo"
+     ]
+    },
+    {
+     "text": "南北朝時代に山名師義が打吹城に移って城下町の基礎ができ、江戸時代には鳥取藩家老の荒尾氏が治める陣屋町となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q1-kurayoshi-gaiyo"
+     ]
+    },
+    {
+     "text": "1953年（昭和28年）10月1日に倉吉町・上井町など2町7村が合併して倉吉市が発足し、1955年（昭和30年）に灘手村の残部を、2005年（平成17年）3月22日に関金町を編入した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q1-kurayoshi-gaiyo"
+     ]
+    },
+    {
+     "text": "打吹山の名は、天女が置いていった2人の子どもが母を恋しがって山に登り、鼓を打ち笛を吹いた音が響いたことに由来するという天女伝説が伝えられている。",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "q1-kurayoshi-jr"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「暮らし良し」は語呂合わせ？",
+    "text": "倉吉を訪れると「暮らしの良さが地名になった町」という説明に出会う。けれども専門辞典は「地名由来は定かではない」とし、初見は天正11年（1583）の文書の「西倉吉」だと淡々と記す。蔵が建ち並んだ商家町から「蔵屋敷」がなまったとする説、戦国時代の移住に結びつける『因伯地名考』の伝承など、説はあっても決め手はない。「暮らし良し」は、豊かだった商家町への誇りを込めた後世の語呂合わせとみるのが穏当なようだ。城下の古名「打吹」にまつわる天女伝説とあわせ、倉吉は「由来が決まらないこと」自体が正直に残されている町である。",
+    "sources": [
+     "q1-kurayoshi-jiten",
+     "q1-kurayoshi-jr"
+    ]
+   },
+   "relations": [
+    "pref/31"
+   ],
+   "unknowns": [
+    "「倉吉」の語源は『日本歴史地名大系』でも定かでないとされ、蔵屋敷説と岩倉＋住吉説のいずれも確証はない",
+    "天正11年（1583）より前の「倉吉」の用例は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/31-南部町",
+   "code": "313891",
+   "names": {
+    "ja": "南部町",
+    "reading": "なんぶちょう",
+    "aliases": []
+   },
+   "user_terms": [
+    "南部町の名前の由来",
+    "南部町はなぜ南部という名前",
+    "西伯町と会見町が合併した町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鳥取県",
+   "homonyms": [
+    "muni/02-南部町",
+    "muni/19-南部町"
+   ],
+   "summary": "2004年に西伯町と会見町が合併して発足した新名。町議会の公式概要は「南部」という名称について、古くから周辺地域一帯の住民に親しまれた由緒ある地域名であることと、「南」の字の暖かいイメージが新町の方向性に合致したことを理由として明記する。南部氏とは無関係で、青森県・山梨県の南部町とは由来を異にする。",
+   "first_attestation": {
+    "era": "平成16年",
+    "year_western": 2004,
+    "document": "自治体名としての「南部町」（西伯町・会見町合併による）",
+    "note": "地域名としての「南部」の古い用例や指していた範囲は、確認した公式資料では示されず未確認"
+   },
+   "claims": [
+    {
+     "text": "2004年10月1日に西伯町と会見町が合併して南部町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-tottori-gaiyo"
+     ]
+    },
+    {
+     "text": "町議会の概要は「『南部』という名称は、古くからこの周辺地域一帯の住民にも親しまれ、歴史的にも文化的にも伝統と由緒ある名称であるとともに、南の文字が持つ暖かいイメージが新町の方向性と合致しています」と説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-tottori-gikai"
+     ]
+    },
+    {
+     "text": "青森県・山梨県の南部町の「南部」が南部氏に由来するのに対し、本町の「南部」は合併前の両町を含む周辺地域の旧来の地域名を新町名に採用したもので、氏族名とは別系統である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-tottori-gikai",
+      "h3-yamanashi-yukari"
+     ]
+    },
+    {
+     "text": "読みは青森県・山梨県の南部町と同じ「なんぶちょう」で、3町は読みまで一致するが、由来は一致しない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-tottori-gikai",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では本町のコードは313891とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「南」の字が持つ暖かさ",
+    "text": "新町名の理由に「南の文字が持つ暖かいイメージ」を挙げるのは、平成期の合併新名としては率直な部類です。古くから親しまれた地域名という由緒と、字のイメージという2つの理由が公式資料に併記されている点が、この町の命名の記録として特徴的です。",
+    "sources": [
+     "h3-tottori-gikai"
+    ]
+   },
+   "relations": [
+    "pref/31",
+    "muni/02-南部町",
+    "muni/19-南部町"
+   ],
+   "unknowns": [
+    "「南部」という地域名が具体的にいつ頃から、どの範囲を指して使われたか",
+    "合併協議会での新町名の候補一覧と選定過程の詳細"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/31-境港市",
+   "code": "312045",
+   "names": {
+    "ja": "境港市",
+    "reading": "さかいみなとし",
+    "aliases": [
+     "境",
+     "坂江",
+     "境津",
+     "堺村",
+     "境港町"
+    ]
+   },
+   "user_terms": [
+    "さかいみなと",
+    "ゲゲゲのまち",
+    "水木しげるロード",
+    "妖怪のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "鳥取県",
+   "homonyms": [],
+   "summary": "弓ヶ浜半島の先端、中海と日本海を結ぶ境水道に面した港町の市。中心地の「境」は中世から港として知られ、その名が何の境を指すのかは、出雲国と伯耆国の国境とする説と、内海（中海）と外海（美保湾）の境とする説があり定まらない。1954年に境港町が発足し、1956年に市制を施行した。1993年の水木しげるロード開設を機に「妖怪のまち」として知られる。",
+   "first_attestation": {
+    "era": "天文4年",
+    "year_western": 1535,
+    "document": "余子神社の棟札の写し（「坂江」表記）",
+    "note": "当地の名の古い用例。「境」の字では天正15・16年ごろの吉川広家の領地付立に「伯州之内堺村」とある。いずれも二次資料経由の確認である。"
+   },
+   "claims": [
+    {
+     "text": "「境」の名が何の境を指すかは定まらず、内海（中海）と外海（美保湾）の境に位置するためとする説を郷土資料『弓浜民談抄』が、出雲国と伯耆国の国境に立つためとする説を『境港市史』が取っている。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "q1-sakaiminato-localhistoria"
+     ]
+    },
+    {
+     "text": "中世の史料では当地の表記は一定せず、天文4年（1535）の棟札の写しには「坂江」、戦国期の小早川隆景の書状には「境津」、天正15・16年ごろの領地付立には「堺村」と記されている。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "q1-sakaiminato-localhistoria"
+     ]
+    },
+    {
+     "text": "江戸時代には西廻海運の発達により港が開け、鳥取藩の船手改所や番所、廻米役所が置かれた。",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q1-sakaiminato-kotobank"
+     ]
+    },
+    {
+     "text": "境村には鳥取藩の舟番所である西御番所と東御番所が置かれ、享保から天保期にかけて廻米役所や、出雲の鉄を諸国へ送る鉄山融通会所も設けられて、海峡の関門として扱われた。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "q1-sakaiminato-localhistoria"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）に6町村が合併して境港町が発足し、1956年（昭和31年）に市制を施行した。",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q1-sakaiminato-kotobank",
+      "q1-sakaiminato-localhistoria"
+     ]
+    },
+    {
+     "text": "境港で少年期を過ごした漫画家・水木しげるの作品世界にちなみ、1993年（平成5年）に境港駅から延びる商店街に水木しげるロードがつくられ、妖怪のブロンズ像が並ぶ観光地となった。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "q1-sakaiminato-localhistoria"
+     ]
+    }
+   ],
+   "column": {
+    "title": "国境の港が「妖怪のまち」になるまで",
+    "text": "「境」の一字は、この港の性格そのものだった。出雲と伯耆の国ざかいであり、中海と日本海の境であり、江戸時代には鳥取藩の番所と廻米役所が置かれる関門の町だった。明治には開港場となり、漁港としても栄えた。その港町が平成に入って新しい顔を得る。水木しげるが少年期を過ごした町として、1993年に駅前の商店街へ妖怪のブロンズ像が並び始めたのである。「境」という名の由来がいまだ決まらない一方で、町の知名度は妖怪たちが担っている。境目を見張る番所の町から、境目に棲む妖怪の町へ――呼び名の重心が移ったこと自体が、この町の近代史といえる。",
+    "sources": [
+     "q1-sakaiminato-localhistoria",
+     "q1-sakaiminato-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/31",
+    "muni/32-松江市"
+   ],
+   "unknowns": [
+    "「境」の語源の国境説と内海・外海の境説のいずれが正しいかは、史料上決められない",
+    "「境」に「港」を付けた「境港」の名が固まった時期は特定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/31-日野町",
+   "code": "314021",
+   "names": {
+    "ja": "日野町",
+    "reading": "ひのちょう",
+    "aliases": []
+   },
+   "user_terms": [
+    "日野町 日野郡の町",
+    "根雨と黒坂の合併した町",
+    "日野川の町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鳥取県",
+   "homonyms": [
+    "muni/25-日野町"
+   ],
+   "summary": "昭和34年（1959年）に根雨町と黒坂町が合併して生まれた町で、町名は所属する郡の名「日野郡」を採ったもの。「日野」の名自体は『出雲国風土記』にまで遡るとされる古い地名で、郡名・日野川の名として受け継がれてきた。滋賀県の日野町が地名そのものを中世から継承してきたのとは経路が異なる。日野川の語源は諸説あり定まっていない。",
+   "first_attestation": {
+    "era": "天平5年",
+    "year_western": 733,
+    "document": "出雲国風土記（仁多郡条）",
+    "note": "「日野」の地名の史料上の初見とされるもの（日野町の解説による二次的な紹介）。言及される範囲は現在の町域と必ずしも一致しない"
+   },
+   "claims": [
+    {
+     "text": "「日野」の地名の史料上の初見は『出雲国風土記』（733年）とされ、仁多郡の条で言及されている。その後『倭名類聚抄』には、日野郡の一郷として記載されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-hino-tottori-wiki"
+     ]
+    },
+    {
+     "text": "昭和34年（1959年）5月1日、日野郡根雨町・黒坂町が合併して日野町が発足した。町名は郡名「日野」をそのまま自治体名にした形である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-hino-tottori-wiki"
+     ]
+    },
+    {
+     "text": "日野川の語源は定説がなく、『出雲国風土記』大原郡斐伊郷条にある樋速日子命の故事から、国境の鳥髪山（船通山）を境に、出雲国を流れるのが斐伊川、伯耆国を流れるのが日野川だとする説がある。日野川は「簸之川」とも書かれた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "h6-hinogawa-wiki"
+     ]
+    },
+    {
+     "text": "日野神社の所在地や日野氏の居住地に由来する説もあるが、『日野郡史』によると川の名前が先であることが明白で、この説の信憑性は低いとされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "h6-hinogawa-wiki"
+     ]
+    },
+    {
+     "text": "滋賀県日野町は中世の「日野御牧」以来の地名を町名として継承してきたのに対し、鳥取県日野町は1959年に郡名を採用して命名された町であり、「日野」の名の継承経路が異なる（異なる層）",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-hino-tottori-wiki",
+      "h6-hino-shiga-keikaku"
+     ]
+    },
+    {
+     "text": "ヤマタノオロチが住む「ひの川」は、島根県の斐伊川ではなく鳥取県の日野川だという説が伝えられている",
+     "kind": "legend",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-hinogawa-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "二つの「ヒの川」と一つの郡名",
+    "text": "鳥髪山（船通山）という国境の山を挟んで、西へ流れれば「斐伊川」、東へ流れれば「日野川」。どちらも読みの頭は「ヒ」で、語源をたどると『出雲国風土記』の樋速日子命の故事に行き着くという説があります。日野町という町名は1959年の合併で生まれた新しい名ですが、その材料になった郡名「日野」は、風土記の時代からこの地域に貼りついてきた古い名です。新しく作られた町名と、千年以上続く地名の、二層構造になっています。",
+    "sources": [
+     "h6-hinogawa-wiki",
+     "h6-hino-tottori-wiki"
+    ]
+   },
+   "relations": [
+    "pref/31",
+    "muni/25-日野町"
+   ],
+   "unknowns": [
+    "日野郡・日野川の名の由来は諸説のままで、確定できる資料は未確認",
+    "『出雲国風土記』仁多郡条の「日野」への言及箇所の原文確認は未実施"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/31-米子市",
+   "code": "312021",
+   "names": {
+    "ja": "米子市",
+    "reading": "よなごし",
+    "aliases": [
+     "加茂"
+    ]
+   },
+   "user_terms": [
+    "米子の名前の由来",
+    "よなごの語源",
+    "米子はなぜ「米子」というの"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "鳥取県",
+   "homonyms": [],
+   "summary": "市名は城下町「米子」の継承。語源は定説がなく、火山灰性の細砂地形に由来するともされる。『家久君上京日記』（天正3年・1575年）に「よなこといへる町」とみえるのが早い時期の史料とされる。昭和2年（1927年）に米子町が市制を施行した。",
+   "first_attestation": {
+    "era": "天正3年",
+    "year_western": 1575,
+    "document": "家久君上京日記",
+    "note": "日本歴史地名大系が「米子の地名のみえる早い時期の史料」とするもの。島津家久一行が「よなこといへる町に着」と記した。それ以前の用例は確認できていない"
+   },
+   "claims": [
+    {
+     "text": "米子市の地方公共団体コードは312021である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "日本歴史地名大系は、『家久君上京日記』天正3年（1575年）6月21日の「よなこといへる町に着」という記事を、米子の地名のみえる早い時期の史料とする",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "l5-yonago-kotobank-chimei"
+     ]
+    },
+    {
+     "text": "米子の語源については定説がなく、火山灰性の細砂地形から来たともいわれると日本歴史地名大系は記す",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "l5-yonago-kotobank-chimei"
+     ]
+    },
+    {
+     "text": "米子の旧名は加茂と称したともいわれ、現在の加茂町にある賀茂神社天満宮（旧加茂大明神）にちなむとされる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "l5-yonago-kotobank-chimei"
+     ]
+    },
+    {
+     "text": "『伯耆民談記』には、粟島の長者の子が子宝に恵まれず神仏に祈ったところ88歳で初めて子を得て子孫が繁栄したため、「八十八の子」が転じて米子の地名が生まれたという伝説が記されている",
+     "kind": "legend",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "l5-yonago-kotobank-chimei"
+     ]
+    },
+    {
+     "text": "昭和2年（1927年）4月1日、西伯郡米子町が市制を施行して米子市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-yonago-city-nenpyo",
+      "l5-yonago-uub"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）3月31日に西伯郡淀江町と合併し、現在の米子市となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l5-yonago-uub"
+     ]
+    }
+   ],
+   "column": {
+    "title": "88歳で授かった子が地名になった？",
+    "text": "米子の語源は、専門の地名大系でさえ「定説を欠く」と明記する難題である。砂地の地形に由来するという地味な説明の一方で、『伯耆民談記』は粟島の長者の伝説を伝える。子に恵まれなかった長者が神仏に祈り続け、88歳にして初めて子を授かり、その子孫が繁栄したことから「八十八の子」が「米子」に転じたという。八十八は「米」の字を分解した数でもあり、文字遊びの要素も強い。語源の確定資料がない以上、この話は伝説として楽しむのが正しい付き合い方である。",
+    "sources": [
+     "l5-yonago-kotobank-chimei"
+    ]
+   },
+   "relations": [
+    "pref/31"
+   ],
+   "unknowns": [
+    "米子の語源を確定できる一次資料は確認できていない（地名大系も「定説を欠く」とする）",
+    "天正3年（1575年）より前の時代の「米子」の用例は未確認",
+    "米子市公式サイトに地名の由来を独立して解説するページは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/31-鳥取市",
+   "code": "312011",
+   "names": {
+    "ja": "鳥取市",
+    "reading": "とっとりし",
+    "aliases": []
+   },
+   "user_terms": [
+    "鳥取の名前の由来",
+    "鳥取砂丘のある市の名前",
+    "因幡の城下町の名前"
+   ],
+   "naming_type": "藩名",
+   "prefecture": "鳥取県",
+   "homonyms": [],
+   "summary": "市名は鳥取藩の城下町・鳥取町を引き継ぐ。「鳥取」は因幡国邑美郡の古代郷名で、久松山麓の平野部にいた鳥取部（ととりべ）という職業集団に由来すると市は説明する。明治22年（1889年）10月1日に市制を施行し、平成16年（2004年）の合併で現在の鳥取市となった。",
+   "first_attestation": {
+    "era": "承平年間",
+    "year_western": null,
+    "document": "和名類聚抄",
+    "note": "因幡国邑美郡の郷名「鳥取」の記載。鳥取市公式資料の紹介経由で参照し、原文は未読。職業集団としての鳥取部そのものは、それ以前の『日本書紀』に説話として見える"
+   },
+   "claims": [
+    {
+     "text": "鳥取市の地方公共団体コードは312011である（総務省「全国地方公共団体コード」市区町村コード一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-soumu-code-list"
+     ]
+    },
+    {
+     "text": "「鳥取」は因幡国邑美郡鳥取郷という古代の郷名に由来し、『倭名抄（和名類聚抄）』に記載された郷名が中世・近世・近代へと受け継がれてきたと鳥取市は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-tottori-city-history",
+      "e-cap-wamyosho"
+     ]
+    },
+    {
+     "text": "鳥取郷は久松山麓一帯の平野部であったと考えられ、この地に「鳥取部」という古代の部民（職業集団）がいたことが郷名の由来といわれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-tottori-city-history"
+     ]
+    },
+    {
+     "text": "鳥取は江戸時代、鳥取藩池田家32万石の城下町として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-tottori-city-enkaku"
+     ]
+    },
+    {
+     "text": "鳥取市は明治22年（1889年）10月1日に市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-tottori-city-enkaku",
+      "e-tottori-city-history"
+     ]
+    },
+    {
+     "text": "平成16年（2004年）11月1日、国府町・福部村・河原町・用瀬町・佐治村・気高町・鹿野町・青谷町との合併により、人口20万人を超える新「鳥取市」が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-tottori-city-history",
+      "e-cap-tottori-city-enkaku"
+     ]
+    },
+    {
+     "text": "『日本書紀』垂仁天皇の条には、言葉を発しなかった誉津別王（本牟智和気御子）が白鳥を見て初めて声を上げ、天湯河板挙がその鳥を追って捕らえた功により鳥取造の姓を賜り鳥取部が定められた、という起源説話が記されている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-hannan-city-tottori",
+      "e-cap-nihonshoki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "郷・城下町・市が同じ場所で重なる鳥取",
+    "text": "鳥取の名前は、移動していない。古代の鳥取郷は久松山麓一帯の平野部にあったと鳥取市は説明するが、その同じ山麓に戦国期の鳥取城が築かれ（天正元年・1573年に山名豊国が天守櫓を築いて「城下町鳥取」が生まれたと市の沿革は記す）、江戸時代には池田家32万石の城下町が広がった。古代の郷名が、城下町名・藩名・県名を経て、そのまま市名として現在の中心市街地に残っている例であり、名前と場所が一緒に千年以上受け継がれてきたことが鳥取の地名の特徴である。",
+    "sources": [
+     "e-tottori-city-history",
+     "e-cap-tottori-city-enkaku"
+    ]
+   },
+   "relations": [
+    "pref/31"
+   ],
+   "unknowns": [
+    "鳥取郷の正確な範囲（久松山麓一帯の平野部とされるが、郷域を特定できる一次文書は確認していない）",
+    "『日本書紀』の白鳥説話と因幡国鳥取郷の成立を直接結ぶ同時代資料は確認できておらず、両者の関係は未確認（県レコード pref/31 と同じ論点）"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

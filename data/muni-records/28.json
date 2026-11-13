@@ -1,0 +1,2402 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "d-cap-jlis-hyogo": {
+   "label": "地方公共団体情報システム機構（J-LIS）「兵庫県内市町」（地方公共団体コード住所一覧）",
+   "url": "https://www.j-lis.go.jp/spd/code-address/kinki/cms_14914183.html"
+  },
+  "d-cap-kobe-archives": {
+   "label": "神戸市歴史公文書館「神戸市誕生」（神戸市の年表）",
+   "url": "https://www.kobe-city-archives.jp/modern_history/archive/history_08"
+  },
+  "d-cap-kobe-ikuta": {
+   "label": "神戸市「絵葉書にみる生田神社・湊川神社」（市文書館資料）",
+   "url": "https://www.city.kobe.lg.jp/documents/56055/20250723183306.pdf"
+  },
+  "d-cap-kobe-kotobank": {
+   "label": "コトバンク「神戸」（『デジタル大辞泉』『精選版 日本国語大辞典』の解説）",
+   "url": "https://kotobank.jp/word/%E7%A5%9E%E6%88%B8-49582"
+  },
+  "d-cap-kobe-motomachi": {
+   "label": "神戸元町商店街「夢街道―神戸村」（地域資料）",
+   "url": "https://www.kobe-motomachi.or.jp/motomachi-magazine/highway/20001101.html"
+  },
+  "d-cap-kobe-port": {
+   "label": "神戸市「神戸港の歴史」",
+   "url": "https://www.city.kobe.lg.jp/a74134/kurashi/access/harbor/rekishi.html"
+  },
+  "h6-taishi-hyogo-ikaruga": {
+   "label": "兵庫県太子町公式キッズページ「斑鳩寺」（推古14年に聖徳太子が播磨国揖保郡の水田百町を寄進され「鵤荘」と名付け伽藍を建てたのが始まり、のち法隆寺に寄付）",
+   "url": "https://www.town.hyogo-taishi.lg.jp/kids/1425542358299.html"
+  },
+  "h6-taishi-hyogo-wiki": {
+   "label": "Wikipedia「太子町 (兵庫県)」（市町村コード28464-5、1951年に斑鳩町・石海村・太田村が合併して太子町が誕生、町名は聖徳太子ゆかりの町であることから。檀特山の伝説）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E7%94%BA_(%E5%85%B5%E5%BA%AB%E7%9C%8C)"
+  },
+  "h6-taishi-osaka-profile": {
+   "label": "大阪府太子町公式サイト「町のプロフィール」（昭和31年に磯長村と山田村が合併し、聖徳太子にちなんで太子町と名付けられた。王陵の谷と梅鉢御陵）",
+   "url": "https://www.town.taishi.osaka.jp/busyo/seisakusoumubu/hisyoseisakuka/town_profile/tprofile.html"
+  },
+  "k4-himeji-cci": {
+   "label": "姫路商工会議所「数字で見る姫路経済2024」（1889年4月に城下町を市域として全国30市とともに初の市制を施行）",
+   "url": "https://www.himeji-cci.or.jp/tokei/pdf/number/suuji_demiru2024.pdf"
+  },
+  "k4-himeji-gogen": {
+   "label": "語源由来辞典「姫路市」（『播磨風土記』の「日女道」→鎌倉期「姫道」→戦国期「姫路」の変遷、蚕子説と小道説）",
+   "url": "https://gogen-yurai.jp/himeji-shi-hyogo"
+  },
+  "k4-himeji-harima": {
+   "label": "播磨広域連携協議会「はりま風土記紀行 古の播磨を訪ねて 姫路市編」（『播磨国風土記』伊和里の14の丘に「日女道（ひめじ）丘」が挙げられる）",
+   "url": "https://www.harima-united.jp/column/climate/contents000161.html"
+  },
+  "k5-akashi-city-aramashi": {
+   "label": "明石市公式サイト「市のあらまし」",
+   "level": "E2",
+   "url": "https://www.city.akashi.lg.jp/seisaku/kouhou_ka/shise/gaiyo/aramashi/index.html"
+  },
+  "k5-akashi-kotobank-hyakka": {
+   "label": "コトバンク 日本大百科全書（ニッポニカ）「明石」",
+   "level": "E3",
+   "url": "https://kotobank.jp/word/%E6%98%8E%E7%9F%B3-24303"
+  },
+  "k5-akashi-lib-digital": {
+   "label": "明石市立図書館「明石 郷土の記憶デジタル版」（明石の地名に関する郷土史資料のデジタル版）",
+   "level": "E2",
+   "url": "https://adeac.jp/akashi-lib/texthtml/d100130/mp000030-100130/ht400780"
+  },
+  "k5-amagasaki-city-yurai": {
+   "label": "尼崎市公式サイト「『あまがさき』という地名の由来」",
+   "level": "E2",
+   "url": "https://www.city.amagasaki.hyogo.jp/shisei/sogo_annai/history/022yurai.html"
+  },
+  "k5-amagasaki-ndl-ref": {
+   "label": "レファレンス協同データベース事例「尼崎の地名の由来・表記」（国立国会図書館／回答は尼崎市立歴史博物館地域研究史料室）",
+   "level": "E2",
+   "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000110793"
+  },
+  "k5-amagasaki-zusetsu": {
+   "label": "尼崎市立歴史博物館「Web版 図説尼崎の歴史」近代編",
+   "level": "E2",
+   "url": "https://www.archives.city.amagasaki.hyogo.jp/chronicles/visual/04kindai/kindai3-3.html"
+  },
+  "k5-hirota-jinja-yurai": {
+   "label": "廣田神社公式サイト「西宮の地名のおこり」",
+   "level": "E2",
+   "url": "https://hirotahonsya.or.jp/pages/27"
+  },
+  "k5-nishinomiya-city-shoshi": {
+   "label": "西宮市公式サイト「西宮小史」",
+   "level": "E2",
+   "url": "http://www.city.nishinomiya.lg.jp/bunka/rekishitobunkazai/nishinomiyanorekishi/shoshi.html"
+  },
+  "k5-nishinomiya-kotobank-hyakka": {
+   "label": "コトバンク 日本大百科全書（ニッポニカ）「西宮市」",
+   "level": "E3",
+   "url": "https://kotobank.jp/word/%E8%A5%BF%E5%AE%AE%E5%B8%82-109522"
+  },
+  "k5-nishinomiya-sakurafm": {
+   "label": "西宮市公式サイト 広報さくらFM「徹底解剖」（西宮市制の沿革紹介）",
+   "level": "E2",
+   "url": "http://www.city.nishinomiya.lg.jp/shisei/koho/sakuraFM/tetteikaibo/2017/4gatsugo.html"
+  },
+  "l4-itami-city-chushin": {
+   "label": "伊丹市「中心市街地活性化基本計画 第1章」（1940年に伊丹町と稲野村が合併して市制を施行し、全国で174番目の市となったこと）",
+   "url": "https://www.city.itami.lg.jp/material/files/group/69/1syou.pdf"
+  },
+  "l4-itami-city-page": {
+   "label": "伊丹市「歴史／伊丹市」（14世紀初めの伊丹氏の登場と1574年の荒木村重による有岡城への改名）",
+   "url": "https://www.city.itami.lg.jp/mirai/sinosyoukai/21181.html"
+  },
+  "l4-itami-city-rekishi": {
+   "label": "伊丹市「伊丹の歴史」（伊丹氏と有岡城、近衛家領の伊丹郷町で栄えた「伊丹酒」「丹醸」）",
+   "url": "https://www.city.itami.lg.jp/material/files/group/7/03itaminorekisi06.pdf"
+  },
+  "l4-itami-localhistoria": {
+   "label": "ローカルヒストリア「伊丹市の歴史」（治承4年（1180）の『山槐記』に「伊多美」、嘉元元年（1303）の多田神社文書に「伊丹」）",
+   "url": "https://local-historia.jp/hyogo/itami"
+  },
+  "l4-itami-wikipedia": {
+   "label": "Wikipedia「伊丹市」（語源は諸説あること、大阪国際空港が「伊丹空港」の通称で呼ばれること。原典確認が未了のため低いレベルで扱う）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%B9%E5%B8%82"
+  },
+  "l4-kakogawa-city-gikai": {
+   "label": "加古川市議会「議会概要」（市章のいわれ＝「括弧川」「囲川」がいずれも加古川に通じること）",
+   "url": "https://www.city.kakogawa.lg.jp/material/files/group/90/202610gikaigaiyou.pdf"
+  },
+  "l4-kakogawa-city-reiki": {
+   "label": "加古川市例規集「市制施行」（昭和25年6月12日兵庫県告示第340号の本文。1950年6月15日に5町村を廃して加古川市を設置）",
+   "url": "https://www.city.kakogawa.lg.jp/section/reiki_int/reiki_honbun/k312RG00000001.html"
+  },
+  "l4-kakogawa-harima-column": {
+   "label": "播磨広域連携協議会「はりま風土記紀行 古の播磨を訪ねて（明石市・加古川市編）」（『播磨国風土記』賀古郡条の鹿児の由来譚の現代語訳）",
+   "url": "https://www.harima-united.jp/column/climate/contents000215.html"
+  },
+  "l4-kakogawa-rekihaku": {
+   "label": "兵庫県立歴史博物館「『播磨国風土記』にあらわれる郡と地名」（賀古郡の地名一覧に賀古駅・賀古松原・印南川など）",
+   "url": "https://rekihaku.pref.hyogo.lg.jp/digital_museum/harimanokunifudoki/places"
+  },
+  "l4-kakogawa-wikipedia": {
+   "label": "Wikipedia「加古川市」（江戸時代に加古川宿が置かれ西国街道の宿場町として発展したこと。原典確認が未了のため低いレベルで扱う）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82"
+  },
+  "l4-takarazuka-city-faq": {
+   "label": "宝塚市「市名の『塚』の『ヽ』について（よくある質問）」（物を拾う者に幸運が舞い込む古墳の説と宝物埋蔵の説、市で用いる「塚」の字体）",
+   "url": "https://www.city.takarazuka.hyogo.jp/faq/5000002/5000013/5000086/5000728.html"
+  },
+  "l4-takarazuka-city-kousou": {
+   "label": "宝塚市「歴史文化基本構想 第2章 地域の概況」（1954年4月1日の市制施行、1911年の宝塚新温泉開湯と1914年の宝塚少女歌劇）",
+   "url": "https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/001/335/ba_kihonkousou_2syou.pdf"
+  },
+  "l4-takarazuka-city-shishi": {
+   "label": "『宝塚市史』第三巻（たからづかデジタルミュージアム）「町村から市へ」（1951年3月15日に小浜村が町制を施行して宝塚町となったこと、長尾村・西谷村の編入と一部地区の伊丹市への分離）",
+   "url": "https://adeac.jp/takarazuka-city/texthtml/d100030/mp000030-100010/ht304110"
+  },
+  "l4-takarazuka-ndl": {
+   "label": "国立国会図書館「宝塚温泉」（電子展示会コラム。『摂陽群談』が伝える米谷村の塚の名「宝塚」と、1887年の宝塚温泉の命名）",
+   "url": "https://www.ndl.go.jp/landmarks/column/takarazuka_onsen"
+  },
+  "p4-ako-city-plan": {
+   "label": "赤穂市都市計画マスタープラン「第2章 赤穂市の現状と課題」（沿革＝1951年に赤穂町・坂越町・高雄村の合併と同時に市制施行、1955年の有年村合併、1963年の福浦地区の越県合併）",
+   "url": "https://www.city.ako.lg.jp/chiiki/keikaku/documents/dai2syou_tosimasu.pdf"
+  },
+  "p4-ashiya-kouhou": {
+   "label": "広報あしや2019年6月15日号「精道村発足から130年」（1889年に芦屋・打出・三条・津知の4か村が合併して精道村が発足）",
+   "url": "https://www.city.ashiya.lg.jp/kouhou/kensaku/r1/documents/20190615tx04.txt"
+  },
+  "p4-ashiya-seido": {
+   "label": "芦屋市「精道村のあゆみ（精道村発足130周年記念冊子）」（1940年11月10日に全国173番目の市として芦屋市が誕生、「芦屋市」を選んだ公文書の理由）",
+   "url": "https://www.city.ashiya.lg.jp/gakushuu/documents/seidoumura_p24-25.pdf"
+  },
+  "p4-ashiya-shishi": {
+   "label": "芦屋市『芦屋市史』本編「市名及び町名の由来」（芦屋市公式サイト掲載。芦屋は海辺・河辺の低湿地の芦原・葦原を意味する地形地名、歌書への登場、精道の名が普及しなかった経緯）",
+   "url": "https://www.city.ashiya.lg.jp/gakushuu/shishi/documents/31-2.pdf"
+  },
+  "p4-awaji-gappei": {
+   "label": "日本都市センター「淡路市（兵庫県）新市の基礎情報」（2005年4月1日に津名町・淡路町・北淡町・一宮町・東浦町が合併、合併協議の経緯）",
+   "url": "http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/awaji051101.pdf"
+  },
+  "p4-estat-toyooka": {
+   "label": "政府統計の総合窓口（e-Stat）「廃置分合等情報 兵庫県豊岡市」（2005年4月1日に豊岡市・城崎町・竹野町・日高町・出石町・但東町が合併し豊岡市を新設）",
+   "url": "https://www.e-stat.go.jp/municipalities/cities/absorption-separation-of-municipalities/28209"
+  },
+  "p4-kasai-city-rekishi": {
+   "label": "加西市「加西市の歴史文化の成り立ち」（文化財保存活用地域計画の資料。1955年の北条町・泉町・加西町の成立と、1967年4月1日に3町が合併して県内21番目の加西市が誕生したこと）",
+   "url": "https://www.city.kasai.hyogo.jp/uploaded/attachment/2066.pdf"
+  },
+  "p4-kawanishi-archive": {
+   "label": "川西市デジタルアーカイブ「年表 川西市のできごと」（1954年8月1日に川西町・多田村・東谷村が合併し川西市が誕生）",
+   "url": "https://adeac.jp/kawanishi-city/timeline/tm000010"
+  },
+  "p4-kawanishi-city-history": {
+   "label": "川西市「川西市の歴史」（市公式資料。市域の地名の由来、清和源氏の発祥の地と清和台の命名）",
+   "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/015/228/R6t4.pdf"
+  },
+  "p4-kawanishi-city-keii": {
+   "label": "川西市「まちづくりの経緯」（1889年の川西村発足、大正14年の町制、1954年の川西市誕生）",
+   "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/008/970/machinokeii.pdf"
+  },
+  "p4-kawanishi-panel": {
+   "label": "「川西市内の各町名の由来」（川西市郷土館の展示パネル『ふるさと川西景観展』の転載。川西市教育委員会・都市計画課の監修。川西村の村名候補に山根村・秋津村があったことなど）",
+   "url": "https://barnirun.info/wp/noseden/roots_of_towns_kawanishi"
+  },
+  "p4-kobe-ako": {
+   "label": "神戸新聞NEXT「赤穂は『あかほ』、忠臣蔵でも『あかほぎし』 では、いつから、なぜ『あこう』に？」（2021年11月25日。千種川の河原に赤い穂のタデが生えていたという由来説、駅名標や市広報の題字に残る「あかほ」の変遷）",
+   "url": "https://www.kobe-np.co.jp/news/seiban/202111/0014866530.shtml"
+  },
+  "p4-kojiruien-awaji": {
+   "label": "国際日本文化研究センター「古事類苑」データベース 地部・淡路國（淡路国は津名・三原の2郡を管したこと、『和名類聚抄』の読み「阿波知」、『古事記伝』の阿波道之島説の引用）",
+   "url": "https://ys.nichibun.ac.jp/kojiruien/index.php?%E5%9C%B0%E9%83%A8/%E6%B7%A1%E8%B7%AF%E5%9C%8B"
+  },
+  "p4-kokugakuin-awaji": {
+   "label": "國學院大學「古事記地名データベース 淡道之穂之狭別島」（大八島国の第一の島で淡路島に比定、アハヂは阿波国へ行く道の意味とされる、『日本書紀』の淡路洲の起源記事、伊弉諾神宮の比定）",
+   "url": "https://kojiki.kokugakuin.ac.jp/chimei/awajinohonosawakenoshima"
+  },
+  "p4-kotobank-ako": {
+   "label": "コトバンク「赤穂」（精選版日本国語大辞典。浅野長直の入城後に城下町として発展、長矩の刃傷で改易、1951年市制。デジタル大辞泉＝赤穂塩の産地）",
+   "url": "https://kotobank.jp/word/%E8%B5%A4%E7%A9%82-24429"
+  },
+  "p4-kotobank-ako-gun": {
+   "label": "コトバンク「赤穂郡」（日本歴史地名大系。天平19年（747）の大安寺文書に「赤穂郡十町」、『和名類聚抄』の読みは「阿加保」、『播磨国風土記』は赤穂郡条を欠く）",
+   "url": "https://kotobank.jp/word/%E8%B5%A4%E7%A9%82%E9%83%A1-3080647"
+  },
+  "p4-kotobank-kasai": {
+   "label": "コトバンク「加西」（日本大百科全書（ニッポニカ）＝1967年に北条・加西・泉の3町が合併して市制、市名は郡名による。精選版日本国語大辞典＝加西市の成立により加西郡は消滅）",
+   "url": "https://kotobank.jp/word/%E5%8A%A0%E8%A5%BF-461559"
+  },
+  "p4-kotobank-kasai-gun": {
+   "label": "コトバンク「加西郡」（日本歴史地名大系。古代の賀茂郡の一部で平安時代後期に東西に分かれて加東郡・加西郡が成立、康平2年（1059）の東大寺文書に「（賀）西郡」、賀西郡とも記した）",
+   "url": "https://kotobank.jp/word/%E5%8A%A0%E8%A5%BF%E9%83%A1-3079548"
+  },
+  "p4-kotobank-kawanishi": {
+   "label": "コトバンク「川西」（精選版日本国語大辞典＝「川の西側」の意、兵庫県の川西は猪名川を隔てて池田市と対する地。日本歴史地名大系「川西市」も併載）",
+   "url": "https://kotobank.jp/word/%E5%B7%9D%E8%A5%BF-48320"
+  },
+  "p4-kotobank-sasayamajo": {
+   "label": "コトバンク「篠山城跡」（日本歴史地名大系。松平康重が候補の三山から笹山（篠山）を城地に選び、藤堂高虎が縄張りを命じられた）",
+   "url": "http://kotobank.jp/word/%E7%AF%A0%E5%B1%B1%E5%9F%8E%E8%B7%A1-1444005"
+  },
+  "p4-kotobank-sumoto": {
+   "label": "コトバンク「洲本」（日本歴史地名大系＝文安2年（1445）の兵庫北関入船納帳に「洲本」「須本」の船が見える。精選版日本国語大辞典＝昭和15年（1940）市制、稲田氏の城下町）",
+   "url": "https://kotobank.jp/word/%E6%B4%B2%E6%9C%AC-543739"
+  },
+  "p4-kotobank-toyooka": {
+   "label": "コトバンク「豊岡市」（日本歴史地名大系。市名豊岡は近世初期に形成が始まった城下町豊岡に由来）",
+   "url": "https://kotobank.jp/word/%E8%B1%8A%E5%B2%A1%E5%B8%82-106007"
+  },
+  "p4-kotobank-toyooka-dict": {
+   "label": "コトバンク「豊岡」（精選版日本国語大辞典。京極氏3万5千石の城下町、1950年市制、豊岡県の範囲）",
+   "url": "https://kotobank.jp/word/%E8%B1%8A%E5%B2%A1-106008"
+  },
+  "p4-minamiawaji-city-gappei": {
+   "label": "南あわじ市公式サイト「合併までのあゆみ」（緑町・西淡町・三原町・南淡町合併協議会の記録。新市名や合併期日（平成17年1月11日）の確認）",
+   "url": "https://www.city.minamiawaji.hyogo.jp/soshiki/jyouhou/gappei6.html"
+  },
+  "p4-minamiawaji-ja": {
+   "label": "南あわじ市・あわじ島農業協同組合「連携協定に関する概要書」（市の概要＝平成17年1月11日に西淡町・三原町・南淡町・緑町が合併して南あわじ市になった）",
+   "url": "https://nodai-nri.jp/application/files/6216/8557/8153/awaji_gaiyosho.pdf"
+  },
+  "p4-mlit-inagawa": {
+   "label": "国土交通省水管理・国土保全局「日本の川 猪名川」（川辺郡多田庄（現在の川西市）は摂津源氏の本拠地）",
+   "url": "https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0610_inagawa/0610_inagawa_01.html"
+  },
+  "p4-nikkei-sasayama": {
+   "label": "日経BP「新・公民連携最前線」篠山市長・酒井隆明氏インタビュー「改元と同時に『篠山市』は『丹波篠山市』に、地域ブランド確立へ」（2018年11月の住民投票と出直し市長選挙、丹波市誕生による丹波篠山ブランドの混同）",
+   "url": "https://project.nikkeibp.co.jp/atclppp/PPP/433746/041500041"
+  },
+  "p4-sanda-city-gaiyo": {
+   "label": "三田市「三田市の概要」（三田藩九鬼氏3万6千石の城下町、一時置かれた三田県、市の沿革）",
+   "url": "https://www.city.sanda.lg.jp/soshiki/2/gyomu/gaiyo/profile/202.html"
+  },
+  "p4-sanda-city-kids": {
+   "label": "三田市キッズページ「三田市ができるまで」（1956〜57年の合併と1958年7月1日の市制施行）",
+   "url": "https://www.city.sanda.lg.jp/soshiki/2/gyomu/kids/135.html"
+  },
+  "p4-sanda-city-soukei": {
+   "label": "三田市「第5次三田市総合計画基本構想（素案）資料」（1969年の北摂ニュータウン計画発表と市の発展経緯）",
+   "url": "https://www.city.sanda.lg.jp/material/files/group/2/shiryou6_kihonkousousoan.pdf"
+  },
+  "p4-sanda-shishi-dayori": {
+   "label": "三田市市史編さん担当「三田市史だより 三田 ―地名の由来―」（2012年5月15日。寛正7年（1466）の清水寺文書に見える「三田村」が最古の用例、「さん」の意味は未解明とする）",
+   "url": "https://www.city.sanda.lg.jp/material/files/group/16/120515_1.pdf"
+  },
+  "p4-sumoto-city-gaiyo": {
+   "label": "洲本市「洲本市の概要」（市章の由来＝「洲本は往古海浜の洲にあったので、地名を洲本と呼ぶようになった」）",
+   "url": "https://www.city.sumoto.lg.jp/soshiki/7/1266.html"
+  },
+  "p4-sumoto-city-kyoiku": {
+   "label": "洲本市「教育要覧」（蜂須賀氏家臣の稲田氏が洲本城に居城し城下町が形成されたこと、明治4年の名東県と明治9年の兵庫県編入、市章の由来）",
+   "url": "https://www.city.sumoto.lg.jp/uploaded/life/32043_90516_misc.pdf"
+  },
+  "p4-tambasasayama-chimeiko": {
+   "label": "丹波篠山市公式サイト「丹波篠山地名考『篠山（ささやま）』」（篠山の由来は黒岡村の小山を聖なる山と称したこと、古くは佐佐山・笹山とも記された、初出は永享2年（1430）の感状。角川日本地名大辞典を参照）",
+   "url": "https://www.city.tambasasayama.lg.jp/photo_history/2/bunkazai_hubutu_huzoku/tanbasasayamatimeikou/14251.html"
+  },
+  "p4-tambasasayama-city-plan": {
+   "label": "丹波篠山市総合計画「第1章 丹波篠山市の概要」（1999年4月に多紀郡4町が合併して篠山市が誕生、2019年5月1日に丹波篠山市へ市名変更）",
+   "url": "https://www.city.tambasasayama.lg.jp/material/files/group/36/03_1shou_.pdf"
+  },
+  "p4-tambasasayama-joato": {
+   "label": "丹波篠山市「国指定史跡 篠山城跡」（慶長14年（1609）に徳川家康の命で松平康重が笹山に新城を築城した天下普請）",
+   "url": "https://www.city.tambasasayama.lg.jp/soshikikarasagasu/shinbunkazai/sasayamajo/2858.html"
+  },
+  "p4-toyooka-city-machi": {
+   "label": "豊岡市公式サイト「まちの姿」（2005年4月1日に1市5町が合併、2005年9月のコウノトリ放鳥）",
+   "url": "https://www.city.toyooka.lg.jp/shisei/shinoshokai/1023950/1023568/index.html"
+  },
+  "p4-toyooka-city-rekishi": {
+   "label": "豊岡市公式サイト「市町合併までの各まちの歴史」（1580年の宮部氏による築城、1668年の京極氏移封、豊岡県の設置と解体、1950年の市制）",
+   "url": "https://www.city.toyooka.lg.jp/shisei/shinoshokai/rekishi/1002340.html"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/28-三田市",
+   "code": "282197",
+   "names": {
+    "ja": "三田市",
+    "reading": "さんだし",
+    "aliases": [
+     "三田村",
+     "三田町"
+    ]
+   },
+   "user_terms": [
+    "三田の名前の由来",
+    "さんだ",
+    "北摂三田ニュータウン",
+    "三田牛の三田"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "三田は武庫川流域の農村地帯の中心地名で、確認できる最古の用例は寛正7年（1466）の古文書に見える「三田村」である。「さんだ」の語源は「さん」と「た（田）」に分けられるものの「さん」の意味は解明されておらず、市の市史編さんでも定説はないとされる。江戸時代には三田藩九鬼氏の城下町として栄え、1958年に合併を経て三田市が誕生した。",
+   "first_attestation": {
+    "era": "室町時代",
+    "year_western": 1466,
+    "document": "清水寺文書（古文書）",
+    "note": "三田市史だよりが紹介する寛正7年（1466）の古文書に見える「三田村」が、現在確認できる最古の用例"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282197である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "三田市史だよりによれば、現在確認できる最古の用例は寛正7年（1466）の古文書（清水寺文書）に見える「三田村」で、「三田」の用例は意外に時代が下る",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sanda-shishi-dayori"
+     ]
+    },
+    {
+     "text": "「さんだ」は「さん」と「だ（田）」に分解でき後半は田を意味すると考えられるが、「さん」の意味は解明されておらず、数字の「三」と読む理解についても音読みと訓読みの組み合わせになる異例さを市史編さん担当が指摘している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "p4-sanda-shishi-dayori"
+     ]
+    },
+    {
+     "text": "地名辞典類では「みた」と読む三田が古い時代から見えるのに対し、「さんだ」の地名はおおよそ室町時代以降の記録に残ると三田市史だよりは述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sanda-shishi-dayori"
+     ]
+    },
+    {
+     "text": "江戸時代の三田は三田藩九鬼氏3万6千石の城下町であり、周辺の豊かな農村地域から供給される米や材木の集散地として繁栄したと三田市は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sanda-city-gaiyo"
+     ]
+    },
+    {
+     "text": "明治初めには一時「三田県」が置かれ、その後兵庫県に編入された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sanda-city-gaiyo"
+     ]
+    },
+    {
+     "text": "1956年から1957年にかけての町村合併を経て、1958年（昭和33年）7月1日に三田市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sanda-city-kids"
+     ]
+    },
+    {
+     "text": "1969年（昭和44年）に北摂ニュータウン（現在の神戸三田国際公園都市）の計画が発表され、その後の開発で大阪・神戸の通勤圏の住宅都市として市街地が拡大した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sanda-city-soukei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「三」の意味が分からない",
+    "text": "三田の「さん」は何を意味するのか。市の市史編さんが地名辞典類を調べたところ、「みた」と読む地名は「御」や「美」が田を修飾する形に分解できるのに対して、「さんだ」の「さん」は謎のままだったという。数字の「三」だとすれば、「三ノ宮」のように「の」が入るのが普通で、音読みの「サン」と訓読みの「タ」をつなぐ読み方も異例だ。左右対称で親しみやすい八画の地名だが、その意味を探るのは意外と難しい、と市史だよりは結んでいる。",
+    "sources": [
+     "p4-sanda-shishi-dayori"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「さん」の語源の定説は確認できなかった",
+    "南北朝時代の記録に「三田城」の名が見えると市の概要は述べるが、その史料名までは特定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-丹波篠山市",
+   "code": "282219",
+   "names": {
+    "ja": "丹波篠山市",
+    "reading": "たんばささやまし",
+    "aliases": [
+     "篠山市",
+     "篠山町",
+     "笹山"
+    ]
+   },
+   "user_terms": [
+    "丹波篠山の名前の由来",
+    "たんばささやま",
+    "篠山市から改名した市",
+    "丹波篠山黒豆の産地"
+   ],
+   "naming_type": "その他",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "現在の市名は、合併によらず市名だけを変更した珍しい改称の結果である。もとの「篠山」は篠山盆地の小山（古くは佐佐山・笹山とも記された）の名に由来し、1609年に篠山城が築かれて城下町となった。1999年に多紀郡4町の合併で篠山市が誕生したが、2004年に隣接して丹波市が誕生して以降「丹波篠山」ブランドの混同が問題となり、2018年の住民投票を経て2019年5月1日に「丹波篠山市」へ改称した。",
+   "first_attestation": {
+    "era": "室町時代",
+    "year_western": 1430,
+    "document": "目代蔵人太夫感状",
+    "note": "丹波篠山市の地名考によれば、「篠山」の名が史料に初めて現れるのは永享2年（1430）の感状で、永享元年（1429）の「丹州篠山合戦」が記される"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282219である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "丹波篠山市の地名考によれば、「篠山」の由来は丹波国日置荘黒岡村にあった小山を聖なる山と称したことによるとされ、古くは「佐佐山」「笹山」とも記された",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p4-tambasasayama-chimeiko"
+     ]
+    },
+    {
+     "text": "「篠山」の名が史料に初めて現れるのは永享2年（1430）の「目代蔵人太夫感状」で、永享元年（1429）の「丹州篠山合戦」が記されている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p4-tambasasayama-chimeiko"
+     ]
+    },
+    {
+     "text": "慶長14年（1609年）、徳川家康の命により松平康重が笹山（篠山）に新城を築き、いわゆる天下普請によって篠山城とその城下町が形成された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-tambasasayama-joato",
+      "p4-kotobank-sasayamajo"
+     ]
+    },
+    {
+     "text": "1999年（平成11年）4月、多紀郡の篠山町・西紀町・丹南町・今田町が合併して篠山市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-tambasasayama-city-plan"
+     ]
+    },
+    {
+     "text": "2004年（平成16年）に隣接して丹波市が誕生すると、「丹波の黒豆」など「丹波篠山」の特産品ブランドが丹波市のものと誤解される問題が大きくなったと、当時の篠山市長はインタビューで説明している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p4-nikkei-sasayama"
+     ]
+    },
+    {
+     "text": "2018年（平成30年）11月に市名変更の是非を問う住民投票と市長の出直し選挙が同時に行われ、住民投票では賛成票が過半数を占めた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p4-nikkei-sasayama"
+     ]
+    },
+    {
+     "text": "令和元年（2019年）5月1日、合併を伴わない改称として、市名が「篠山市」から「丹波篠山市」に変更された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-tambasasayama-city-plan"
+     ]
+    }
+   ],
+   "column": {
+    "title": "改元と同じ日に生まれた市名",
+    "text": "「丹波篠山市」への改称日は、平成から令和への改元の日と同じ2019年5月1日だった。きっかけは隣にできた丹波市である。丹波篠山黒大豆や丹波栗で知られる「丹波篠山」の産地表示がどちらを指すのか曖昧になったとして、県から表示を差し控えるよう指導が来たことまで市長は明かしている。2017年に農協・商工会・観光協会が改称を要望し、賛否を問う住民投票では市民の意見が二つに割れたが、賛成が過半数を占めた。合併のためではなく「もとの名前を取り戻す」ための改称である。",
+    "sources": [
+     "p4-nikkei-sasayama"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「篠山（笹山）」の語源について、角川日本地名大辞典など専門辞典の本文による裏付けは未了",
+    "住民投票の正確な得票数は、市の公式資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-伊丹市",
+   "code": "282073",
+   "names": {
+    "ja": "伊丹市",
+    "reading": "いたみし",
+    "aliases": [
+     "伊多美"
+    ]
+   },
+   "user_terms": [
+    "伊丹の名前の由来",
+    "伊丹空港の伊丹はどこの伊丹",
+    "伊丹市はいつできたの",
+    "伊丹酒と丹醸"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "伊丹の地名は治承4年（1180）の『山槐記』に「伊多美」と見えるのが古い用例で、「伊丹」の表記は嘉元元年（1303）の文書に現れる。語源には諸説あるが定説はない。近世には近衛家領の伊丹郷町として酒造が栄え、伊丹の酒は「丹醸」と呼ばれた。1940年に伊丹町と稲野村が合併して市制を施行した。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": 1180,
+    "document": "山槐記",
+    "note": "治承4年（1180）の『山槐記』の中山忠親の記録に地名「伊多美」が見えるのが古い用例で、「伊丹」の字が現れるのは嘉元元年（1303）の多田神社文書"
+   },
+   "claims": [
+    {
+     "text": "ローカルヒストリアの研究によれば、地名の初見は治承4年（1180）の『山槐記』に記された「伊多美」で、「伊丹」と書かれるようになったのは嘉元元年（1303）の多田神社文書である（地方公共団体コードは282073）",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l4-itami-localhistoria",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "「伊丹」の語源については諸説があるが、定説は存在しない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "l4-itami-wikipedia"
+     ]
+    },
+    {
+     "text": "歴史地名の研究によれば、地名の方向性から、古くは古代・中世にその北部が摂関家の摂津国荘園内郷として成立し、南北朝時代の頃に郷名・郷町として確立したことがうかがえる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l4-itami-localhistoria"
+     ]
+    },
+    {
+     "text": "14世紀初めごろに伊丹氏が現れて伊丹城を本拠とし、天正2年（1574年）に荒木村重が伊丹城を有岡城と改名したと伊丹市は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-itami-city-page"
+     ]
+    },
+    {
+     "text": "近世の伊丹は近衛家領の郷町で酒造業が栄え、作られた日本酒は「伊丹酒」「丹醸」として江戸で愛飲されたと伊丹市は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-itami-city-rekishi"
+     ]
+    },
+    {
+     "text": "1940年（昭和15年）に伊丹町と稲野村が合併して伊丹市が誕生し、全国で174番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-itami-city-chushin"
+     ]
+    },
+    {
+     "text": "市内にある大阪国際空港は、所在地が伊丹市にもまたがることなどから通称「伊丹空港」と呼ばれることが多い",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l4-itami-wikipedia"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「丹醸」と呼ばれた伊丹の酒",
+    "text": "江戸時代、伊丹は近衛家の領地で、酒づくりの町として名を馳せた。伊丹の酒は「伊丹酒」「丹醸（たんじょう）」と称されて江戸へ下り、江戸の人々に愛飲された。酒の都としての繁栄は俳諧文化も育み、上島鬼貫らを輩出した伊丹の文芸の土壌となった。いま「伊丹」の名を最も広く伝えるのは空港の通称だが、もとの伊丹は酒と俳諧の町の名である。",
+    "sources": [
+     "l4-itami-city-rekishi",
+     "l4-itami-city-page"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「伊丹」の語源は諸説あるが定説はなく、諸説の内容自体も専門文献による確認が未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-加古川市",
+   "code": "282103",
+   "names": {
+    "ja": "加古川市",
+    "reading": "かこがわし",
+    "aliases": [
+     "賀古"
+    ]
+   },
+   "user_terms": [
+    "加古川の名前の由来",
+    "賀古郡って何",
+    "加古川市はいつできたの",
+    "川の名前が市の名前になった例"
+   ],
+   "naming_type": "合併新設（河川名「加古川」を市名とした）",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "加古川は、流域の古代の郡名「賀古（かこ）」に由来する市名で、河川「加古川」の名がそのまま市名になった。「賀古」は『播磨国風土記』にすでに見え、風土記は郡名の由来譚を伝える。1950年6月15日、加古川町・神野村・野口村・平岡村・尾上村が合併して加古川市が設置された。",
+   "first_attestation": {
+    "era": "奈良時代",
+    "year_western": 713,
+    "document": "播磨国風土記",
+    "note": "和銅6年（713年）の編纂開始とされる『播磨国風土記』の賀古郡の条に「賀古」の名が見え、市域は古代の賀古郡にあたる"
+   },
+   "claims": [
+    {
+     "text": "兵庫県立歴史博物館によれば、『播磨国風土記』の賀古郡の条には郡名の由来譚が記され、現在の加古川市域はこの賀古郡にあたる（地方公共団体コードは282103）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kakogawa-rekihaku",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『播磨国風土記』賀古郡の条は、景行天皇が日岡に立ったとき「この丘は鹿児（かこ）の姿のようだ」と言ったことが賀古の名の由来であると伝える（風土記の現代語訳に基づく）",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kakogawa-harima-column"
+     ]
+    },
+    {
+     "text": "『播磨国風土記』には、賀古郡のほか賀古駅・賀古松原・印南川などの地名も賀古郡一帯にまつわって現れると兵庫県立歴史博物館は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kakogawa-rekihaku"
+     ]
+    },
+    {
+     "text": "加古川市の市名は、市域を流れる一級河川「加古川」に由来し、市の章も加古川をモチーフとしていると加古川市議会の議会概要は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kakogawa-city-gikai"
+     ]
+    },
+    {
+     "text": "兵庫県告示第340号（昭和25年6月12日）により、1950年（昭和25年）6月15日から加古郡加古川町・神野村・野口村・平岡村・尾上村を廃止し、その区域をもって加古川市を設置することが告示された",
+     "kind": "fact",
+     "level": "E1",
+     "status": "established",
+     "sources": [
+      "l4-kakogawa-city-reiki"
+     ]
+    },
+    {
+     "text": "江戸時代には加古川宿が置かれて西国街道の宿場町として発展した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l4-kakogawa-wikipedia"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市章の文字遊び――「括弧川」と「囲い川」",
+    "text": "加古川市の議会概要は、市章に関する面白い屋号・屋内の名前を紹介している。その名も「（ ）川（括弧川）」と「川を囲う（囲川）」。いずれも「かこがわ」と読ませる文字遊びで、どちらも河川加古川がモチーフだ。古代の郡名「賀古」から川の名が生まれ、その川の名が市の名と市章のモチーフになった街ならではの、名前にまつわる遊び心である。",
+    "sources": [
+     "l4-kakogawa-city-gikai"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "古代の郡名「賀古」から河川名「加古川」へ移る過程の一次確認は未了",
+    "市名選定の経緯（当時検討された合併構想を含む）は加古川市史での確認が今後の課題"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-加西市",
+   "code": "282201",
+   "names": {
+    "ja": "加西市",
+    "reading": "かさいし",
+    "aliases": [
+     "加西町",
+     "賀西"
+    ]
+   },
+   "user_terms": [
+    "加西の名前の由来",
+    "かさい",
+    "加西郡だった市",
+    "北条の加西"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "加西市の名は郡名「加西郡」による。加西郡は古代の賀茂郡が平安時代後期に東西に分かれて成立した郡で、「賀西」とも記された。中心地の北条は近世以来の町場で、1955年に北条町・泉町・加西町の3町がそろい、1967年にこの3町が合併して加西市が誕生した。市制の成立と同時に加西郡は消滅した。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": 1059,
+    "document": "播磨国東大寺領畠注進状（東大寺文書）",
+    "note": "日本歴史地名大系によれば、康平2年（1059）の同文書に「（賀）西郡阿居郷桑原田」と見えるのが加西郡の古い用例"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282201である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "日本歴史地名大系によれば、加西郡は古代の賀茂郡の一部で、平安時代後期に同郡が東西に分かれて加東郡・加西郡が成立したと考えられる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-kasai-gun"
+     ]
+    },
+    {
+     "text": "康平2年（1059年）の播磨国東大寺領畠注進状には「（賀）西郡」と見え、近世の慶長国絵図では「賀西郡」とも記された",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-kasai-gun"
+     ]
+    },
+    {
+     "text": "日本大百科全書によれば、加西市の市名は郡名による",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-kasai"
+     ]
+    },
+    {
+     "text": "1955年（昭和30年）に、北条町（北条町・富田村・賀茂村・下里村の合併）、泉町（多加野村・西在田村・在田村の合併）、加西町（九会村・富合村の合併）が相次いで成立した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kasai-city-rekishi"
+     ]
+    },
+    {
+     "text": "1967年（昭和42年）4月1日、北条町・泉町・加西町の3町が合併して加西市が誕生し、県内で21番目の市制施行となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kasai-city-rekishi"
+     ]
+    },
+    {
+     "text": "加西市の成立により、加西郡は消滅した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-kasai"
+     ]
+    }
+   ],
+   "column": {
+    "title": "郡の東西で生まれた「加東」と「加西」",
+    "text": "加西の「西」は方角である。もとの賀茂郡が平安時代に東西へ分かれ、東は加東郡、西は賀西（加西）郡になった。「賀」の字が「加」に置き換わって定着し、やがて郡名がそのまま市の名になった。1967年の市制で加西郡そのものは消滅したが、郡の名前は市名として生き続けている。東隣には2006年に生まれた加東市があり、平安時代の分郡の記憶が現代の地図の上に今も並んで残っている。",
+    "sources": [
+     "p4-kotobank-kasai-gun",
+     "p4-kotobank-kasai"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "賀茂郡そのものの語源（賀茂氏や鴨神との関係など）については、専門辞典の本文での確認が未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-南あわじ市",
+   "code": "282243",
+   "names": {
+    "ja": "南あわじ市",
+    "reading": "みなみあわじし",
+    "aliases": [
+     "南淡町",
+     "西淡町"
+    ]
+   },
+   "user_terms": [
+    "南あわじの名前の由来",
+    "みなみあわじ",
+    "淡路島の南の市",
+    "玉ねぎの南あわじ"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "南あわじ市は2005年、三原郡の4町（緑町・西淡町・三原町・南淡町）が合併して誕生した。市名は淡路島の南部に位置することを示す「南」と島名「あわじ」の合成で、合併協議会で決定された。合併前の旧町にも西淡町・南淡町という方角地名があり、「淡」に方角を付ける命名はこの地域に以前からあった。",
+   "first_attestation": {
+    "era": "平成",
+    "year_western": 2005,
+    "document": "緑町・西淡町・三原町・南淡町合併協議会の決定",
+    "note": "市名そのものの初出は2005年1月11日の合併による市制施行時。協議の経過は南あわじ市公式サイト「合併までのあゆみ」に記録される"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282243である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）1月11日、三原郡の緑町・西淡町・三原町・南淡町が合併して南あわじ市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-minamiawaji-ja",
+      "p4-minamiawaji-city-gappei"
+     ]
+    },
+    {
+     "text": "新市の名称は4町の合併協議会の協議で決められ、合併の期日（平成17年1月11日）とともに「南あわじ市」とすることが確認された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-minamiawaji-city-gappei"
+     ]
+    },
+    {
+     "text": "合併前の旧町には、淡路の西部を指す西淡町、南部を指す南淡町という方角地名がすでに使われていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-minamiawaji-city-gappei"
+     ]
+    },
+    {
+     "text": "『古事類苑』の引く旧記によれば、淡路国は津名郡と三原郡の2郡からなり、南あわじ市を構成した4町はいずれも三原郡に属していた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kojiruien-awaji"
+     ]
+    },
+    {
+     "text": "國學院大學の地名データベースによれば、『古事記』の国生み神話で最初に生まれた「淡道之穂之狭別島」が淡路島に比定され、「アハヂ」は阿波国へ行く道の意味とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kokugakuin-awaji"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「南」と「西」に分かれていた淡路の南",
+    "text": "合併前の三原郡には、西淡町と南淡町という、よく似た名前の町が並んでいた。どちらも「淡路の西」「淡路の南」という位置を示す方角地名である。2005年の合併で4町が一つになると、新市名はその命名法を島全体の規模に広げた「南あわじ」になった。ひらがなの「あわじ」に方角の「南」を冠する形は、旧町名の伝統を受け継ぎながら、新しい市全体を指す名として選ばれたものである。",
+    "sources": [
+     "p4-minamiawaji-city-gappei",
+     "p4-minamiawaji-ja"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/28-淡路市",
+    "muni/28-洲本市"
+   ],
+   "unknowns": [
+    "新市名の候補に挙がった他の名称や、公募など選定方法の詳細は合併協議会資料の一部しか確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-太子町",
+   "code": "284645",
+   "names": {
+    "ja": "太子町",
+    "reading": "たいしちょう",
+    "aliases": [
+     "鵤荘"
+    ]
+   },
+   "user_terms": [
+    "太子町 斑鳩寺の町",
+    "鵤荘の町",
+    "太子町 兵庫 由来"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [
+    "muni/27-太子町"
+   ],
+   "summary": "昭和26年（1951年）に斑鳩町・石海村・太田村が合併して生まれた町で、町名は聖徳太子ゆかりの町であることから付けられた。その根拠は、推古14年（606年）に聖徳太子が寄進を受けたと伝わる荘園「鵤荘」と、その中核寺院・斑鳩寺である。大阪府の太子町も聖徳太子にちなむ命名だが、根拠が御廟の所在地である点が異なる。",
+   "first_attestation": {
+    "era": "昭和26年",
+    "year_western": 1951,
+    "document": "斑鳩町・石海村・太田村の合併による太子町の誕生（1951年4月1日）",
+    "note": "町名としての初出。合併前の町名「斑鳩町」も聖徳太子ゆかりの名だった"
+   },
+   "claims": [
+    {
+     "text": "昭和26年（1951年）4月1日、斑鳩町と石海村・太田村が合併して太子町が誕生した（昭和30年には龍田村を編入）",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-taishi-hyogo-wiki"
+     ]
+    },
+    {
+     "text": "町名は、聖徳太子ゆかりの町であることから付けられた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-taishi-hyogo-wiki"
+     ]
+    },
+    {
+     "text": "町公式資料によれば、推古14年（606年）、聖徳太子は推古天皇の御前で勝鬘経を講話した功により播磨国揖保郡の水田百町を寄進され、その地を「鵤荘」と名付けて伽藍を建てたのが斑鳩寺の始まりで、斑鳩寺はのちに法隆寺に寄付され、その荘園として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h6-taishi-hyogo-ikaruga"
+     ]
+    },
+    {
+     "text": "『日本書紀』推古14年条には、聖徳太子が法華経の講義を行ったため天皇から播磨国の水田100町を与えられ、斑鳩寺（法隆寺）領として納めたとあり、この地は「鵤荘」と呼ばれて現在の町域に当たるとされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-taishi-hyogo-wiki"
+     ]
+    },
+    {
+     "text": "大阪府の太子町も聖徳太子にちなむ合併時の命名という点は共通するが、根拠は御廟（墓所）の所在地であることであり、兵庫側の荘園・寺院の伝承とは異なる（異なる層）。また兵庫側は合併前の町名も「斑鳩町」で、二代続けて太子ゆかりの名を選んでいる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-taishi-hyogo-wiki",
+      "h6-taishi-osaka-profile"
+     ]
+    },
+    {
+     "text": "町内の檀特山の山頂にある大きな岩のくぼみは、応神天皇の御沓・御杖の跡、または聖徳太子が馬に乗って登り修行をした時についた蹄の跡と言い伝えられている",
+     "kind": "legend",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-taishi-hyogo-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "二代続けて太子の名を選んだ町",
+    "text": "1951年の合併で太子町が生まれる前、この土地の中心は「斑鳩町」でした。斑鳩も聖徳太子を象徴する名（法隆寺のある大和の斑鳩）です。つまりこの町は、斑鳩町から太子町へ、二代続けて聖徳太子ゆかりの名を選び続けたことになります。その土台は、606年に太子が水田百町を寄進されて「鵤荘」と名付けたと伝わる荘園と、法隆寺領として千年近く続いた斑鳩寺の歴史です。大阪の太子町が「太子の墓の町」なら、こちらは「太子の荘園の町」です。",
+    "sources": [
+     "h6-taishi-hyogo-wiki",
+     "h6-taishi-hyogo-ikaruga"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/27-太子町"
+   ],
+   "unknowns": [
+    "1951年の合併時に「太子町」の名を選んだ協議の記録（候補名の有無など）は未確認",
+    "鵤荘の範囲と現在の町域がどの程度一致するかは資料により幅がある"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-姫路市",
+   "code": "282014",
+   "names": {
+    "ja": "姫路市",
+    "reading": "ひめじし",
+    "aliases": [
+     "日女道",
+     "姫道"
+    ]
+   },
+   "user_terms": [
+    "ひめじ",
+    "白鷺城のまち",
+    "姫路城の城下町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "市名は奈良時代の『播磨国風土記』に見える「日女道（ひめじ）」に由来する。風土記の日女道丘の記事は流れ着いた蚕（蚕子）に由来すると伝えるが、「姫道＝丘に登る小道」と解する説もあり、語源の決着はついていない。表記は鎌倉期に「姫道」、戦国期に「姫路」となり、姫路城の城下町名を経て、1889年の市制施行で市名となった。",
+   "first_attestation": {
+    "era": "霊亀元年ごろ",
+    "year_western": 715,
+    "document": "『播磨国風土記』飾磨郡伊和里条（「日女道丘」）",
+    "note": "和銅6年（713年）の風土記編纂の詔に基づき霊亀元年（715年）ごろまでに成立したとされる。表記は「日女道」で読みは「ひめじ」。「姫路」の表記は戦国期からのものである。"
+   },
+   "claims": [
+    {
+     "text": "『播磨国風土記』には、飾磨郡伊和里の14の丘の一つとして「日女道（ひめじ）丘」が挙げられており、「姫路」の名はこの「日女道」に由来するとされる。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-himeji-harima",
+      "k4-himeji-gogen"
+     ]
+    },
+    {
+     "text": "風土記には「蚕子（ひめこ）落ちし処は、即ち日女道丘と号す」という記事があり、流れ着いた蚕にちなんで日女道丘と名付けられたという話が伝えられている。",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k4-himeji-gogen"
+     ]
+    },
+    {
+     "text": "一方、「日女道」は「姫道」の意味で、丘（姫山）に登る小道に由来する地名であるという解釈もあり、蚕子説については、風土記の説話は由来を知るための資料としては弱いという指摘もある。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k4-himeji-gogen"
+     ]
+    },
+    {
+     "text": "「日女道」の表記は鎌倉期に「姫道」、戦国期に「姫路」と記されるようになり、近世には姫路城の城下町名となった。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k4-himeji-gogen"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）4月、江戸時代の城下町とその外縁部を市域として、全国30市とともに我が国初の市制が施行され、姫路市が発足した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-himeji-cci"
+     ]
+    },
+    {
+     "text": "姫路市の地方公共団体コードは282014である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "白鷺の城が立つ丘の名は「日女道」",
+    "text": "姫路城が立つ姫山は、『播磨国風土記』に「日女道丘」として現れる丘に重なるとされる。風土記はこの丘の名を、流れ着いた蚕（蚕子＝ひめこ）の話で説明した。「ひめこ」が「ひめじ」に転じたと読むか、「姫の道」と読むかは今も決着していないが、少なくとも1300年以上前から、この丘のあたりは「ひめじ」の音で呼ばれていたことになる。白鷺城の白さが目立つ城下町の名は、奈良時代の地名の音をそのまま引き継いでいる。",
+    "sources": [
+     "k4-himeji-gogen",
+     "k4-himeji-harima"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「日女道」の本来の意味は蚕子説と小道（姫道）説が対立しており、決着していない。",
+    "姫路市公式サイトには市名の由来を解説する専用ページが見当たらず、本レコードは県・広域協議会・商工会議所等の資料に依拠した。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-宝塚市",
+   "code": "282146",
+   "names": {
+    "ja": "宝塚市",
+    "reading": "たからづかし",
+    "aliases": [
+     "小浜",
+     "宝塚温泉"
+    ]
+   },
+   "user_terms": [
+    "宝塚の名前の由来",
+    "宝塚の塚って何の塚",
+    "宝塚市はいつできたの",
+    "歌劇と温泉の市の名前"
+   ],
+   "naming_type": "合併新設（宝塚町の名を継承）",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "「宝塚」はもともと川辺郡米谷村にあった塚の名で、元禄頃の地誌『摂陽群談』が「この塚のあたりで物を拾う者には必ず幸いがある」という伝承とともに伝えた。1887年に武庫川対岸の伊孑志村で温泉が開かれて「宝塚温泉」と名乗り、1911年の新温泉と1914年の宝塚少女歌劇で名が全国に広がった。1951年に小浜村が町制施行して宝塚町となり、1954年に良元村と合併して宝塚市が誕生した。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": 1701,
+    "document": "摂陽群談",
+    "note": "国立国会図書館によれば、元禄頃に成立した『摂陽群談』に、川辺郡米谷村の塚の名として「宝塚」が見えるのが確認できる早い用例"
+   },
+   "claims": [
+    {
+     "text": "国立国会図書館によれば、「宝塚」はもともと川辺郡米谷村にあった塚の名前で、『摂陽群談』は「此塚の許に於いて、物を拾う者、必ず幸あり。是を以って、宝塚と号る」と伝える（地方公共団体コードは282146）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-takarazuka-ndl",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "塚の正体については、宝塚は古墳を指すとも、物を拾った者に幸運が舞い込んだという言い伝えとも、宝物が埋まっているという言い伝えともいわれると宝塚市の公式見解は述べる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "l4-takarazuka-city-faq"
+     ]
+    },
+    {
+     "text": "1887年（明治20年）、武庫郡伊孑志村で橋本宗吉が温泉を開業し、付近にあった宝塚の名にちなんで「宝塚温泉」と命名したと国立国会図書館は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-takarazuka-ndl"
+     ]
+    },
+    {
+     "text": "1911年（明治44年）に宝塚新温泉が開湯し、1914年（大正3年）に宝塚少女歌劇が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-takarazuka-city-kousou"
+     ]
+    },
+    {
+     "text": "川辺郡小浜村は1951年（昭和26年）3月15日に町制を施行して宝塚町となり、1954年（昭和29年）4月1日に武庫郡良元村と合併して宝塚市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-takarazuka-city-shishi"
+     ]
+    },
+    {
+     "text": "1955年（昭和30年）3月10日に長尾村、3月14日に西谷村を編入し、長尾村の一部（検見川・山原）は同年4月1日に伊丹市へ移った",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-takarazuka-city-shishi"
+     ]
+    },
+    {
+     "text": "名のもとになった塚があったのは米谷村（現在の宝塚市米谷）であり、塚の名は温泉の名として武庫川の対岸一帯に広がったもので、名前の発生地点と現在の中心市街地は川を隔てている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-takarazuka-ndl"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「塚」の字に点がある理由",
+    "text": "宝塚市の公式表記で使う「塚」の字には、点（ヽ）が打たれている。これは宝塚市が公式に示している表記で、市の刊行物や案内板でも点のある「塚（ヽ付き）」が使われている。歌劇と温泉で全国に知られる地名の、意外と知られていない一文字のこだわりである。ちなみに名のもとの塚は、中心市街地とは武庫川を挟んだ対岸、米谷の地にあったと伝えられる。",
+    "sources": [
+     "l4-takarazuka-city-faq",
+     "l4-takarazuka-ndl"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/28-伊丹市"
+   ],
+   "unknowns": [
+    "米谷にあった塚のうち、どの古墳が「宝塚」と呼ばれたかは特定されていない",
+    "『摂陽群談』の刊行年は「元禄頃」とされるにとどまり厳密な確認は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-尼崎市",
+   "code": "282022",
+   "names": {
+    "ja": "尼崎市",
+    "reading": "あまがさきし",
+    "aliases": [
+     "尼ヶ崎",
+     "海士崎",
+     "海人崎"
+    ]
+   },
+   "user_terms": [
+    "尼崎の名前の由来",
+    "あまがさきの語源",
+    "尼ヶ崎と尼崎はどっちが本来の表記なの",
+    "漁民の町から来た地名"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "市名は中世以来の港町「尼崎」の継承。久安年間（1145〜1151年）以後に新しくできた土地と古文書に記され、漁民を意味する「アマ」と海に突き出た土地「サキ」の結合と説明される。中世には「海士崎」「海人崎」とも書かれた。大正5年（1916年）に市制を施行した。",
+   "first_attestation": {
+    "era": "久安年間（1145〜1151年）",
+    "year_western": null,
+    "document": "大物浜・長洲浜請文（真福寺文書）",
+    "note": "尼崎市公式が「尼崎」の最古の用例として挙げる文書で、成立は平安時代末〜鎌倉時代初期とされる。文中に「久安以後の新出地」とあることから、地名の成立自体は久安年間ごろにさかのぼるとみられる"
+   },
+   "claims": [
+    {
+     "text": "尼崎市の地方公共団体コードは282022である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "「尼崎」の最古の用例は平安時代末〜鎌倉時代初期の「大物浜・長洲浜請文」（真福寺文書）で、尼崎浜は久安年間（1145〜1151年）以後に新しくできた土地と記されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-amagasaki-city-yurai"
+     ]
+    },
+    {
+     "text": "もとの「尼崎」は現在の阪神尼崎駅から大物駅の南側あたりにあった土地で、現在の市中心部とは位置がずれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-amagasaki-city-yurai"
+     ]
+    },
+    {
+     "text": "尼崎市公式の由来説明では、「尼崎」は漁民・海民を意味する「アマ」と、海に突き出た土地を意味する「サキ」が結びついた地名とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-amagasaki-city-yurai"
+     ]
+    },
+    {
+     "text": "中世の史料には「尼崎」のほかに「海士崎」「海人崎」「海ヶ崎」「尼カ崎」などの表記が見られ、このうち「海士崎」「海人崎」は海士・海人（あま）が住む崎という地名本来の由来を表す表記であろうと考えられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-amagasaki-ndl-ref"
+     ]
+    },
+    {
+     "text": "町制時代の正式な表記は「尼ヶ崎町」だったが、大正5年（1916年）の市制施行にあたり、町当局は古文書に「尼崎」とあることを根拠に「尼崎」が本来の表記であるとして市名に「尼崎市」を希望し、そのとおりに定められた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-amagasaki-ndl-ref"
+     ]
+    },
+    {
+     "text": "大正5年（1916年）4月1日、尼崎町と立花村の一部（東難波・西難波）が合併して市制を施行し、尼崎市が発足した（当時の人口は32,013人で、兵庫県内では3番目、全国では66番目の市制施行）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-amagasaki-zusetsu"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「尼ヶ崎」と書くか「尼崎」と書くか",
+    "text": "中世以来、「尼崎」の表記は一つではなかった。「海士崎」「海人崎」という由来を思わせる書き方から、近世の「尼ヶ崎」までが混用され、町制時代の正式表記は「尼ヶ崎町」だった。ところが町の公文書はほぼ例外なく「尼崎町」と書かれていた。1916年の市制施行の際、町当局は信長・秀吉時代の古文書に「尼崎」とある例を引いて、これが本来の表記であると国に上申し、市名は「尼崎市」に決まった。それでも「尼ヶ崎」の表記は慣例として長く残り、平成の直木賞受賞小説『赤目四十八瀧心中未遂』（車谷長吉）は、作中の地名をすべて「尼ヶ崎」で統一している。",
+    "sources": [
+     "k5-amagasaki-ndl-ref"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「大物浜・長洲浜請文」自体の正確な成立年代（平安末か鎌倉初期か）には幅がある",
+    "久安年間の「新出地」の記述以前に、この地が何と呼ばれていたかは不明"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-川西市",
+   "code": "282171",
+   "names": {
+    "ja": "川西市",
+    "reading": "かわにしし",
+    "aliases": [
+     "川西町",
+     "川西村"
+    ]
+   },
+   "user_terms": [
+    "川西の名前の由来",
+    "かわにし",
+    "清和源氏発祥の地",
+    "能勢電鉄の川西"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [
+    "muni/06-川西町",
+    "muni/29-川西町"
+   ],
+   "summary": "川西は猪名川の西岸一帯を指す方角地名で、江戸時代からこの地方の呼び名だったと伝わる。1889年に11か村が合併して川西村が発足する際、「山根村」「秋津村」の候補を退けて選ばれた名である。市域の多田は清和源氏の本拠地として知られ、1954年に川西町・多田村・東谷村が合併して川西市が誕生した。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "未確認",
+    "note": "江戸時代から猪名川西岸の地方を指す呼び名だったと郷土館の展示資料は伝えるが、文献上の初出は確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282171である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "「川西」は一般に川の西側を意味する地名で、兵庫県の川西は猪名川を隔てて大阪府池田市と相対する地を指す",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-kawanishi"
+     ]
+    },
+    {
+     "text": "川西市郷土館の展示資料によれば、1889年（明治22年）に11か村が合併して川西村が発足した際、村名の候補には「山根村」「秋津村」もあったが、猪名川西岸の地という意味で江戸時代からこの地方を指す呼び名であった「川西」が選ばれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p4-kawanishi-panel"
+     ]
+    },
+    {
+     "text": "川西村は大正14年（1925年）に町制を施行して川西町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kawanishi-city-keii"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）8月1日、川西町・多田村・東谷村が合併して川西市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kawanishi-archive"
+     ]
+    },
+    {
+     "text": "国土交通省の川の資料によれば、川辺郡多田庄（現在の川西市多田）は摂津源氏の本拠地であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-mlit-inagawa"
+     ]
+    },
+    {
+     "text": "川西市は市の歴史資料で市域が清和源氏の発祥の地であることを伝えており、住宅地名「清和台」もそれに由来すると説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kawanishi-city-history"
+     ]
+    }
+   ],
+   "column": {
+    "title": "候補に敗れた「山根村」と「秋津村」",
+    "text": "明治の町村合併で生まれた川西村には、別の名前の案があった。「山根村」と「秋津村」である。しかし実際に選ばれたのは、猪名川の西という位置そのものを名乗る「川西」だった。江戸時代から一帯を指す呼び名として定着していたことが決め手になったと、市の郷土館の展示は伝える。派手さはないが間違えようのない方角地名が、新しい村の名として生き残り、そのまま市名にもなった。",
+    "sources": [
+     "p4-kawanishi-panel"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/06-川西町",
+    "muni/29-川西町"
+   ],
+   "unknowns": [
+    "「川西」という呼び名の文献上の初出は確認できなかった",
+    "山形県川西町・奈良県川西町との由来の異同は相手側レコードで別途確認する"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-明石市",
+   "code": "282031",
+   "names": {
+    "ja": "明石市",
+    "reading": "あかしし",
+    "aliases": [
+     "赤石"
+    ]
+   },
+   "user_terms": [
+    "明石の名前の由来",
+    "赤石と明石はどっちが古いの",
+    "明るい土地という意味の地名なの",
+    "子午線のまちの名前の由来"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "市名は古代の明石郡・明石の地名の継承。『播磨国風土記』『日本書紀』では「赤石」と書かれ、『続日本紀』以降に「明石」の表記となった。語源には赤石の岩・明るい土地・赤磯（あかし）などの諸説があり定説はない。大正8年（1919年）に市制を施行した。",
+   "first_attestation": {
+    "era": "和銅6年ごろ",
+    "year_western": 713,
+    "document": "播磨国風土記",
+    "note": "明石市立図書館の資料によれば、『播磨国風土記』と『日本書紀』は「赤石」の表記を用い、『続日本紀』以降は「明石」と表記する。風土記の成立は和銅6年（713年）ごろとされる"
+   },
+   "claims": [
+    {
+     "text": "明石市の地方公共団体コードは282031である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『播磨国風土記』と『日本書紀』では「赤石」と書かれ、『続日本紀』以降は「明石」の表記が用いられた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-akashi-lib-digital"
+     ]
+    },
+    {
+     "text": "明石市立図書館の郷土史資料の検討では、「赤石」は風土記の編纂にあたって好字を著けるよう命じられたことによる表記であり、「赤い石」に地名の由来を求めるのは無理があるとされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k5-akashi-lib-digital"
+     ]
+    },
+    {
+     "text": "明石市公式は地名の由来の諸説として、林崎松江海岸の沖に沈む「赤石」という岩の名から変化したとする説と、西の方から見ると明るい土地だったためとする説を紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k5-akashi-city-aramashi"
+     ]
+    },
+    {
+     "text": "日本大百科全書は、『明石市史』が赤みがかった土を指す「赤磯（あかし）」に由来するとしていることを紹介している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "k5-akashi-kotobank-hyakka"
+     ]
+    },
+    {
+     "text": "林崎松江海岸の沖に沈むという「赤石」には、男が鹿に乗って海を渡り、矢で射られた鹿が血で赤い岩になったという伝説が伝わっている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-akashi-city-aramashi"
+     ]
+    },
+    {
+     "text": "大正8年（1919年）11月1日に市制を施行して明石市が発足した（兵庫県内では4番目、当時の人口は約32,000人）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-akashi-city-aramashi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "歌枕であり、子午線の通るまち",
+    "text": "「あかし」は早くから都の人々に知られた地名だった。『日本書紀』には大化の改新（645年）の際に畿内の西端を「赤石の櫛淵」と定めたとあり、柿本人麻呂をはじめとする歌人に詠まれ、『源氏物語』では明石巻の舞台となった。近代になると東経135度の日本標準時子午線が市内を通ることが知られるようになり、「子午線のまち」がもう一つの顔になった。古代の歌枕と近代の標準時とが、同じ地名の上に重なっている。",
+    "sources": [
+     "k5-akashi-city-aramashi"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "語源は確定していない（赤石の岩・明るい土地・赤磯のいずれの説も決め手を欠く）",
+    "林崎松江海岸沖で1987年に海底の石が確認されたと資料は伝えるが、その石と地名との関係は証明されていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-洲本市",
+   "code": "282057",
+   "names": {
+    "ja": "洲本市",
+    "reading": "すもとし",
+    "aliases": [
+     "洲本町",
+     "須本"
+    ]
+   },
+   "user_terms": [
+    "洲本の名前の由来",
+    "すもと",
+    "淡路島の中心の市",
+    "洲本城のある市"
+   ],
+   "naming_type": "その他",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "洲本は淡路島の中心地で、市の市章解説によれば「往古、海浜の洲にあった」ことから付いた地名である。中世には港町として史料に現れ、近世には徳島藩家老稲田氏の城下町となった。1940年に市制を施行し、2006年に五色町と合併して現在の市域となった。市名は中心地だった洲本町の名をそのまま継いでいる。",
+   "first_attestation": {
+    "era": "室町時代",
+    "year_western": 1445,
+    "document": "兵庫北関入船納帳・兵庫北関雑船納帳",
+    "note": "日本歴史地名大系によれば、文安2年（1445）の入船納帳の中に、米・塩・材木を積んだ「洲本」「スモト」「須本」の船が見える"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282057である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "洲本市は市章の由来として「洲本は往古海浜の洲にあったので、地名を洲本と呼ぶようになった」と説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sumoto-city-gaiyo"
+     ]
+    },
+    {
+     "text": "日本歴史地名大系によれば、現在の洲本川（塩屋川）河口右岸一帯を指す地名で「須本」とも記され、文安2年（1445）の兵庫北関の入船納帳に「洲本」の名が見える",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-sumoto"
+     ]
+    },
+    {
+     "text": "近世の洲本は、徳島藩（蜂須賀氏）の家老稲田氏が洲本城に代々居城した城下町で、淡路全域を支配する拠点となったと洲本市は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sumoto-city-kyoiku"
+     ]
+    },
+    {
+     "text": "明治4年（1871年）の廃藩置県で淡路島は名東県（徳島県側）となり、明治9年（1876年）に全島が兵庫県の管轄となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-sumoto-city-kyoiku"
+     ]
+    },
+    {
+     "text": "昭和15年（1940年）に市制が施行された",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-sumoto"
+     ]
+    },
+    {
+     "text": "平成18年（2006年）2月に五色町と合併した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-sumoto"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市章に残る「洲」の記憶",
+    "text": "洲本市の市章は「洲浜の紋」である。市が市章の由来として語るのは、「洲本は往古、海浜の洲にあったので、地名を洲本と呼ぶようになった」という説明だ。洲本川の河口にできた砂洲の集落が、やがて港町として史料に顔を出し、近世には淡路支配の拠点の城下町になった。地名の由来の説明がそのまま市の紋章の意匠になっている例は珍しく、洲本では名前と紋章が同じ物語を伝えている。",
+    "sources": [
+     "p4-sumoto-city-gaiyo",
+     "p4-sumoto-city-kyoiku"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/28-淡路市",
+    "muni/28-南あわじ市"
+   ],
+   "unknowns": [
+    "「本」の字の意味（洲の中心・本拠の意か）について、市の市章解説以上の典拠は確認できなかった",
+    "室町時代より前の用例は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-淡路市",
+   "code": "282260",
+   "names": {
+    "ja": "淡路市",
+    "reading": "あわじし",
+    "aliases": [
+     "淡路町"
+    ]
+   },
+   "user_terms": [
+    "淡路市の名前の由来",
+    "あわじ",
+    "国生みの島の市",
+    "伊弉諾神宮のある市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "淡路市は2005年、津名郡の5町（津名町・淡路町・北淡町・一宮町・東浦町）が合併して誕生し、市名は旧淡路町の名を引き継いだ。「淡路」は古代の国名で、『古事記』の国生み神話で最初に生まれた島「淡道之穂之狭別島」に比定される島の名であり、「アハヂ」は阿波国へ行く道の意味とされる。",
+   "first_attestation": {
+    "era": "古代",
+    "year_western": null,
+    "document": "『古事記』上巻（国生み神生み）",
+    "note": "國學院大學の地名データベースによれば、『古事記』に見える「淡道之穂之狭別島」が大八島国の第一の島で、淡路島に比定される"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282260である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "國學院大學の古事記地名データベースによれば、『古事記』の国生み神話で伊耶那岐神・伊耶那美神が最初に生んだ島「淡道之穂之狭別島」が淡路島に比定される",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kokugakuin-awaji"
+     ]
+    },
+    {
+     "text": "「アハヂ」という名は、阿波国へ行く道の意味とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kokugakuin-awaji"
+     ]
+    },
+    {
+     "text": "『日本書紀』神代第四段の本書には、最初に生まれた淡路洲を胞（えな）として意に快からず「淡路洲」と名付けたという地名起源の記事があることが、國學院大學の地名データベースで紹介されている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kokugakuin-awaji"
+     ]
+    },
+    {
+     "text": "『延喜式』神名帳の淡路国津名郡「淡路伊佐奈伎神社」は、現在の伊弉諾神宮（淡路市多賀）に当たるとされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-kokugakuin-awaji"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）4月1日、津名郡の津名町・淡路町・北淡町・一宮町・東浦町が合併して淡路市が誕生し、市名はその一つである淡路町の名を引き継いだ",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-awaji-gappei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "最初に生まれた島の名前",
+    "text": "『古事記』の国生みでは、伊耶那岐・伊耶那美の二神が生んだ大八島国のうち、最初に生まれたのが淡路島に比定される「淡道之穂之狭別島」だった。一方『日本書紀』には、最初に生まれたこの島を不完全な「胞」と見なして名付けたという、やや対照的な起源譚が残されている。市域の多賀には二神を祀る伊弉諾神宮があり、「国生み第一の島」という物語は、今も淡路市の看板であり続けている。",
+    "sources": [
+     "p4-kokugakuin-awaji"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/28-洲本市",
+    "muni/28-南あわじ市"
+   ],
+   "unknowns": [
+    "新市名の選定過程（公募の有無や他の候補名）については、合併協議会資料での確認が未了",
+    "「穂之狭別」の語義については諸説があり、特定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-神戸市",
+   "code": "281000",
+   "names": {
+    "ja": "神戸市",
+    "reading": "こうべし",
+    "aliases": [
+     "神戸村",
+     "神戸区",
+     "かんべ"
+    ]
+   },
+   "user_terms": [
+    "生田神社のまち",
+    "兵庫津の隣の港町",
+    "開港で育った港町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "市名は生田神社の神戸（かんべ）の集落名に由来する。神社に属して神社を支えた民戸の居住地が「神戸村」となり、1868年の開港で港町として発展し、1889年に神戸市が発足した。読みはもとの「かんべ」から「こうべ」へ変化した。",
+   "first_attestation": {
+    "era": "神功皇后摂政元年（伝承）",
+    "year_western": null,
+    "document": "『日本書紀』神功皇后条",
+    "note": "生田神社の創祀を伝える記事で、神戸の地名伝承の起点とされる。ただし地名「神戸」そのものの文書上の初出ではなく、その年代は未確認である。"
+   },
+   "claims": [
+    {
+     "text": "「神戸」の名称は生田神社の神戸（かんべ）に由来すると辞典類は解説する。神戸（かんべ）とは、神社に属して租・庸・調や雑役を神社に納めた民戸（神封戸）のことである。",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-kotobank"
+     ]
+    },
+    {
+     "text": "神戸市の資料も、古代、神領で神社を支えていた家のことを「かんべ」（神戸）といい、神戸の地名は生田神社の「かんべ」に由来すると伝わると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-ikuta"
+     ]
+    },
+    {
+     "text": "地名の読みは、もとの「かんべ」から「かうべ」を経て、現在の「こうべ」へと変化した。",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-kotobank"
+     ]
+    },
+    {
+     "text": "修好通商条約で開港が定められたのは兵庫津だったが、実際の開港場と外国人居留地は神戸村に置かれ、慶応3年12月7日（西暦1868年1月1日）に開港した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-port",
+      "d-cap-kobe-archives"
+     ]
+    },
+    {
+     "text": "1879年の郡区制実施に伴い、兵庫・神戸に坂本村を加えた「神戸区」が置かれ、現在の神戸市の原型となる行政単位が形成された。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-archives"
+     ]
+    },
+    {
+     "text": "1889年4月1日、神戸区に荒田村と葺合村を加えて神戸市が誕生した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-archives"
+     ]
+    },
+    {
+     "text": "開港前の神戸村は、現在の神戸市中央区の元町通三丁目から生田川へかけての一帯にあたる小さな村であった。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-motomachi"
+     ]
+    },
+    {
+     "text": "生田神社は、神功皇后により布引の滝付近にある砂山に祀られたことが始まりと『日本書紀』に記される伝承があり、799年の大洪水により砂山が崩壊したため、現在の地に移されたと伝えられる。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-kobe-ikuta"
+     ]
+    },
+    {
+     "text": "神戸市の地方公共団体コードは281000である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「神戸」は「かんべ」だった",
+    "text": "「神戸」という字面からは「神の戸」を想像しがちだが、もとの読みは「かんべ」である。神社に属し、神社の維持にあたった家々を神戸（神封戸）といい、生田神社の神戸の集落がそのまま地名になった。読みは「かうべ」を経て「こうべ」に変わったが、字は古代の制度の名をそのまま残している。開港地として世界に知られるようになった港町の名前は、実は律令時代の神社の戸籍に由来する。",
+    "sources": [
+     "d-cap-kobe-kotobank",
+     "d-cap-kobe-ikuta"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "地名「神戸」が文書に現れる初出の年代は、今回参照した市公式・辞典資料では特定できなかった。",
+    "生田神社の神戸がどの程度の規模の集落をなし、いつ「神戸村」として定着したかなど、成立過程の詳細は未確認である。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-芦屋市",
+   "code": "282065",
+   "names": {
+    "ja": "芦屋市",
+    "reading": "あしやし",
+    "aliases": [
+     "精道村",
+     "芦屋村"
+    ]
+   },
+   "user_terms": [
+    "芦屋の名前の由来",
+    "あしや",
+    "高級住宅地の芦屋",
+    "精道村という旧名"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "兵庫県",
+   "homonyms": [
+    "muni/40-芦屋町"
+   ],
+   "summary": "芦屋は、六甲山南麓の海辺の低湿地に広がった芦原（葦原）を意味する地形地名で、古代の歌書にも「芦屋の浦」「芦屋の灘」として現れる。ただし古代の「芦屋」は現在の市域に限らない一帯の総称だった。1889年に発足した精道村では「精道」の名が普及せず、1940年の市制施行の際、旧大字名で世間に知られた「芦屋」が市名に選ばれた。",
+   "first_attestation": {
+    "era": "古代",
+    "year_western": null,
+    "document": "『万葉集』『伊勢物語』などの歌書・物語",
+    "note": "芦屋市史が紹介する形での用例。当時は六甲山南麓の臨海低湿地一帯の総称を指し、現在の芦屋市域に限る名ではなかったと市史は述べる"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282065である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "芦屋市史によれば、「芦屋」は海辺や河辺の低湿地の芦原・葦原を意味する、地形に関係の深い地名である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-ashiya-shishi"
+     ]
+    },
+    {
+     "text": "芦屋市史は、「芦屋（葦の屋）」の名が『万葉集』『伊勢物語』『後拾遺和歌集』『千載和歌集』『新古今和歌集』などの歌書や物語に現れる古い地名だが、古代には六甲山南麓の臨海低湿地一帯の総称であり、のちに芦屋川河口の狭い地域の名になったと紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-ashiya-shishi"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）4月1日、芦屋村・打出村・三条村・津知村の4か村が合併して精道村が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-ashiya-kouhou"
+     ]
+    },
+    {
+     "text": "「精道」の村名は普及せず、鉄道の駅や郵便局などの施設は「芦屋」を冠していたと芦屋市史は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-ashiya-shishi"
+     ]
+    },
+    {
+     "text": "1940年（昭和15年）11月10日、精道村は町制を経ずに市制を施行して芦屋市となり、全国で173番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-ashiya-seido"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「精道市」にならなかった理由",
+    "text": "1940年の市制施行にあたり、村名のままなら「精道市」になるところだった。しかし精道村の公文書には、「芦屋」の名は全国はもとより海外にまで知られ、村民ですら精道村を「芦屋」と呼び、市内の国鉄・阪急・阪神の駅、警察署、郵便局、女学校の名称はすべて「芦屋」を冠して「精道」を冠するものはない、といった理由が記されていた。51年間使われた村名よりも、古くから人々に親しまれた地名の方が強いという判断である。今も「精道」は町名と小学校名にかろうじて名残をとどめる。",
+    "sources": [
+     "p4-ashiya-seido",
+     "p4-ashiya-shishi"
+    ]
+   },
+   "relations": [
+    "pref/28",
+    "muni/40-芦屋町"
+   ],
+   "unknowns": [
+    "『万葉集』など歌書における「芦屋」の具体的な歌と所在巻数までは市史本文で特定できなかった",
+    "福岡県芦屋町との由来の異同は相手側レコードで別途確認する"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-西宮市",
+   "code": "282049",
+   "names": {
+    "ja": "西宮市",
+    "reading": "にしのみやし",
+    "aliases": [
+     "西宮町"
+    ]
+   },
+   "user_terms": [
+    "西宮の名前の由来",
+    "えべっさんの神社から来た地名",
+    "広田神社と西宮の関係",
+    "西宮はなぜ「西」の宮なのか"
+   ],
+   "naming_type": "その他（神社名「西宮」の継承）",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "市名は西宮神社にちなむ。「西宮」はもともと式内社・広田神社とその摂社（戎社）を指す言葉で、最古の史料は元永2年（1119年）の『長秋記』に見える「西宮社」。神社を指した名が荘園・門前町へと広がり、やがて市名になった。大正14年（1925年）に市制を施行した。",
+   "first_attestation": {
+    "era": "元永2年",
+    "year_western": 1119,
+    "document": "長秋記（源師時）",
+    "note": "広田社への参詣の際に「西宮社」に奉幣したとあるのが最古の史料で、この時点では地名ではなく神社（西宮神社）を指す。平安時代には広田神社そのものの別称としても「西宮」が使われた"
+   },
+   "claims": [
+    {
+     "text": "西宮市の地方公共団体コードは282049である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "地名「西宮」は西宮神社にちなみ、その最古の史料は元永2年（1119年）の源師時『長秋記』で、広田社参詣の際に「西宮社」に奉幣した記事である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "k5-nishinomiya-kotobank-hyakka"
+     ]
+    },
+    {
+     "text": "西宮社はもと式内社・広田神社の摂社（戎社）で、鎌倉時代以降に独立して発展した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "k5-nishinomiya-kotobank-hyakka"
+     ]
+    },
+    {
+     "text": "『伊呂波字類抄』や『簾中抄』の段階では広田神社そのものが「西宮」と呼ばれるに至っており、「西宮」は当初は神社を指す言葉だった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "k5-nishinomiya-kotobank-hyakka"
+     ]
+    },
+    {
+     "text": "廣田神社公式によれば、都から見て西方にある重要な神社であったため中世の貴族が広田神社を「西宮」と別称し、呼称が広田神郷（荘園）全体を指す地名となり、近世には戎社のある浜南宮周辺、すなわち旧西宮町の地名となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-hirota-jinja-yurai"
+     ]
+    },
+    {
+     "text": "西宮神社の祭神は、鳴尾の沖で漁師の網にかかって引き上げられた神を祀ったことに始まるという伝承がある",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-nishinomiya-city-shoshi"
+     ]
+    },
+    {
+     "text": "大正14年（1925年）4月1日に市制を施行して西宮市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k5-nishinomiya-sakurafm"
+     ]
+    }
+   ],
+   "column": {
+    "title": "神社の名前がまちの名前になるまで",
+    "text": "「西宮」が指す範囲は、時代とともに一段ずつ広がっていった。はじめは広田神社の摂社である戎社（西宮社）を指し、やがて広田神社そのものの別称として使われ、荘園である広田神郷全体の名となり、近世には戎社の門前にできた町の名になった。1925年に市制が施行されると、その町名がそのまま市名になる。神社の一社の名が、千年かけて一つの市の名に育った例である。",
+    "sources": [
+     "k5-hirota-jinja-yurai",
+     "k5-nishinomiya-kotobank-hyakka"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「西宮」の呼称が地名として定着した正確な時期は特定できない",
+    "西宮社（戎社）の創建年代は不明"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-豊岡市",
+   "code": "282090",
+   "names": {
+    "ja": "豊岡市",
+    "reading": "とよおかし",
+    "aliases": [
+     "豊岡町",
+     "豊岡県"
+    ]
+   },
+   "user_terms": [
+    "豊岡の名前の由来",
+    "とよおか",
+    "コウノトリの豊岡",
+    "かばんのまち豊岡",
+    "城崎温泉のある市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "豊岡の名は、近世初期に形成が始まった城下町「豊岡」に由来すると日本歴史地名大系は説明する。1580年に宮部氏が神武山に城を築いて以来の城下町で、江戸時代は京極氏が治め、明治初年には但馬・丹後などを管轄する豊岡県の県庁が置かれた。現在の市は1950年の市制を経て、2005年に城崎町など5町と合併して生まれた。",
+   "first_attestation": {
+    "era": "安土桃山時代",
+    "year_western": null,
+    "document": "未確認",
+    "note": "「豊岡」は近世初期の城下町名として成立したと日本歴史地名大系は述べるが、文献上の初出の特定はできなかった"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282090である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "日本歴史地名大系によれば、市名「豊岡」は近世初期に形成が始まった城下町豊岡に由来する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-toyooka"
+     ]
+    },
+    {
+     "text": "「豊岡」の語源については、日本歴史地名大系や国語辞典にも字義を説明する記述は見当たらず、定説は確認できない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "p4-kotobank-toyooka",
+      "p4-kotobank-toyooka-dict"
+     ]
+    },
+    {
+     "text": "豊岡市公式の歴史解説によれば、1580年に羽柴秀吉の武将宮部善祥房が神武山に城を築き城下町の形成に着手したのが、豊岡のまちの始まりであるといわれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-toyooka-city-rekishi"
+     ]
+    },
+    {
+     "text": "1668年（寛文8年）に京極高盛が丹後田辺城から移封されて以来、豊岡は京極氏3万5千石の城下町として発展した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-toyooka-city-rekishi",
+      "p4-kotobank-toyooka-dict"
+     ]
+    },
+    {
+     "text": "明治4年（1871年）の廃藩置県で但馬8郡・丹後5郡・丹波3郡を管轄する豊岡県が設置され豊岡はその県庁所在地となったが、明治9年（1876年）に豊岡県は解体され兵庫県と京都府に分割された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-toyooka-city-rekishi"
+     ]
+    },
+    {
+     "text": "1950年（昭和25年）に豊岡町と五荘村・新田村・中筋村が合併して、最初の豊岡市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-toyooka-city-rekishi"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）4月1日、旧豊岡市と城崎町・竹野町・日高町・出石町・但東町が合併して現在の豊岡市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-toyooka-city-machi",
+      "p4-estat-toyooka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "県庁のあったまち ― 豊岡県の5年間",
+    "text": "明治4年（1871年）から明治9年（1876年）までのわずか5年ほど、豊岡は「豊岡県」の県庁所在地だった。その管轄は現在の兵庫県北部（但馬）にとどまらず、丹後全域と丹波の一部にまで及ぶ広大なものだった。府県の再編で豊岡県は姿を消し、但馬は兵庫県、丹後は京都府へ分かれたが、「豊岡」の名は町名・市名として残り、平成の合併でも新市の名前として選ばれ続けた。県名としては消えた名前が、市名としては生き延びた例である。",
+    "sources": [
+     "p4-toyooka-city-rekishi",
+     "p4-kotobank-toyooka-dict"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「豊岡」の語源について、「豊かな岡」といった字義説を含め専門的な典拠は確認できなかった",
+    "『和名類聚抄』所載の城崎郡・気多郡の郷名の中に「豊岡」に当たるものがあるかは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/28-赤穂市",
+   "code": "282120",
+   "names": {
+    "ja": "赤穂市",
+    "reading": "あこうし",
+    "aliases": [
+     "赤穂町",
+     "あかほ"
+    ]
+   },
+   "user_terms": [
+    "赤穂の名前の由来",
+    "あこう",
+    "あかほ",
+    "忠臣蔵の赤穂",
+    "赤穂の塩の町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "兵庫県",
+   "homonyms": [],
+   "summary": "赤穂は播磨国の郡名に由来する古い地名で、天平19年（747）の文書に「赤穂郡」が見える。読みは古く「あかほ」で、『和名類聚抄』も「阿加保」とする。語源には、千種川の河原に赤い穂のタデが生えていたという説が地元で伝えられる。江戸時代は浅野氏らの城下町となり赤穂事件で知られ、1951年に市制を施行した。読みは後に「あこう」へ改められた。",
+   "first_attestation": {
+    "era": "奈良時代",
+    "year_western": 747,
+    "document": "大安寺伽藍縁起并流記資財帳",
+    "note": "日本歴史地名大系によれば、天平19年（747）の同文書に大安寺の墾田として「赤穂郡十町」と見えるのが古い用例"
+   },
+   "claims": [
+    {
+     "text": "地方公共団体コードは282120である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-hyogo"
+     ]
+    },
+    {
+     "text": "日本歴史地名大系によれば、天平19年（747）の大安寺伽藍縁起并流記資財帳に「赤穂郡十町」と見え、同年の勅旨（東大寺要録）にも「播磨国赤穂郡五十戸」とあって、「赤穂郡」の名は奈良時代にさかのぼる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-ako-gun"
+     ]
+    },
+    {
+     "text": "『播磨国風土記』は現存する部分に赤穂郡の条を欠いており、古代の赤穂を伝える文献史料は乏しい",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-ako-gun"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』（東急本）での郡名の読みは「阿加保」で、地名の読みは古く「あかほ」だった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-ako-gun"
+     ]
+    },
+    {
+     "text": "地元で伝えられる語源として、千種川の河原一面に赤い穂のタデが生えていたことに由来するという説がある",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "p4-kobe-ako"
+     ]
+    },
+    {
+     "text": "江戸時代の赤穂は浅野氏の城下町として発展し、浅野長矩の刃傷事件による改易と赤穂義士で知られ、製塩（赤穂塩）の町でもあった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p4-kotobank-ako"
+     ]
+    },
+    {
+     "text": "1951年（昭和26年）、赤穂町・坂越町・高雄村が合併と同時に市制を施行して赤穂市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p4-ako-city-plan"
+     ]
+    },
+    {
+     "text": "読みは長く「あかほ」で、大正時代の駅名標にも「ばんしうあかほ」とあったが、後に「あこう」に改められ、市の広報紙の題字も「あかほ」から「あこう」に変更された経緯が地元紙の調査でたどれる",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p4-kobe-ako"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「あかほぎし」が「あこうぎし」になるまで",
+    "text": "忠臣蔵の舞台として知られる赤穂だが、かつて読みは「あかほ」で、「赤穂義士」も「あかほぎし」と呼ばれていたという。大正時代の播州赤穂駅の看板にも「ばんしうあかほ」の文字が残る。ところが現在の正式な読みは「あこう」で、市の広報紙も題字が「あかほ」から「あこう」に改められた歴史を持つ。地名の文字は奈良時代の文書から変わらないのに、読みだけが千年あまりをかけて静かに移り変わった例である。",
+    "sources": [
+     "p4-kobe-ako",
+     "p4-kotobank-ako-gun"
+    ]
+   },
+   "relations": [
+    "pref/28"
+   ],
+   "unknowns": [
+    "「赤穂」の語源の定説（赤いタデの穂説のほか、赤土や入江に結びつける説を含む専門的な検討）は確認できなかった",
+    "読みを「あこう」に改めた正確な年月日と告示は、市の公式資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

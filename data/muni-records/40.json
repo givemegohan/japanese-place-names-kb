@@ -1,0 +1,3902 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "f-cap-chikuzen-fudoki-zoku": {
+   "label": "貝原益軒『筑前国続風土記』巻之三（1709年頃成立、福岡命名の経緯を記す地誌。紙資料）"
+  },
+  "f-cap-fukuoka-city-port": {
+   "label": "福岡市「博多港の歴史」（那の津と博多の初出を紹介）",
+   "url": "https://www.city.fukuoka.lg.jp/kowan/somu/hakata-port/port-history.html"
+  },
+  "f-cap-fukuoka-museum-nanotsu": {
+   "label": "福岡市博物館 アーカイブズ No.269「那津官家とその時代」（『日本書紀』宣化天皇元年の那津官家記事を紹介）",
+   "url": "https://museum.city.fukuoka.jp/archives/leaflet/269/index.html"
+  },
+  "f-fukuoka-city": {
+   "label": "福岡市「福岡市史 福岡歴史コラム」福岡と博多の成立に関する解説",
+   "url": "https://www.city.fukuoka.lg.jp/shishi/column_b01.html"
+  },
+  "f-fukuoka-ndl": {
+   "label": "国立国会図書館レファレンス協同データベース「九州の福岡の地名の由来は、岡山県の備前福岡と関係があるか」（岡山県立図書館回答、『筑前國續風土記』『黒田家譜』『角川日本地名大辞典』等を確認）",
+   "url": "https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&fi=2_2%205_%E5%85%A8%E5%B9%B4%E9%BD%A2&id=1000154808&lsmp=1&mcmd=25&page=ref_view&rnk=1&st=ref_cnt_all"
+  },
+  "h3-kawasaki-f-hitahiko": {
+   "label": "日田彦山線沿線紹介サイト「川崎町」（東・西川崎村からの沿革）",
+   "url": "https://www.hitahiko.jp/machi_kawasaki.php"
+  },
+  "h3-kawasaki-f-kotobank": {
+   "label": "コトバンク「川崎」（日本大百科全書。福岡県川崎町の炭鉱町としての発達を含む）",
+   "url": "http://kotobank.jp/word/%E5%B7%9D%E5%B4%8E-48227"
+  },
+  "h3-kawasaki-f-town": {
+   "label": "川崎町（福岡県）公式「町の概要」",
+   "url": "https://www.town-kawasaki.com/machiannai/kihon/643"
+  },
+  "h3-kawasaki-f-yoran": {
+   "label": "川崎町（福岡県）「町勢要覧2020」",
+   "url": "https://www.town-kawasaki.com/wp-content/uploads/2022/09/%E5%B7%9D%E5%B4%8E%E7%94%BA%E5%8B%A2%E8%A6%81%E8%A6%A72020-1.pdf"
+  },
+  "h3-kawasaki-kotobank": {
+   "label": "コトバンク「川崎町」（日本歴史地名大系。宮城県・福岡県の両川崎町を収載）",
+   "url": "https://kotobank.jp/word/%E5%B7%9D%E5%B4%8E%E7%94%BA-48225"
+  },
+  "h3-kawasaki-m-juku": {
+   "label": "コトバンク「川崎宿」（日本歴史地名大系。宮城県柴田郡・前川村の川崎宿）",
+   "url": "https://kotobank.jp/word/%E5%B7%9D%E5%B4%8E%E5%AE%BF-1294410"
+  },
+  "h3-kawasaki-m-uub": {
+   "label": "市区町村変遷情報「法的根拠等に基づく変遷 宮城県」（1889年の川崎村新設の構成村）",
+   "url": "https://uub.jp/upd/s_miyagi.html"
+  },
+  "h5-hirogawa-fukuoka-ayumi": {
+   "label": "福岡県広川町「広川町を写真とともにふりかえる」（町公式の歴史冊子。昭和30年4月に上広川村と中広川村が合併して広川町が誕生、12月に下広川村を合併編入し一部は筑後市と筑邦町へ分離）",
+   "url": "https://www.town.hirogawa.fukuoka.jp/material/files/group/9/FILE_13_48.pdf"
+  },
+  "h5-hirogawa-fukuoka-enkaku": {
+   "label": "福岡県広川町「町の概況」（町公式の沿革。明治22年の町村制施行により上広川村・中広川村・下広川村となり、下広川村は明治8年以来の広川村・藤田村・一条村を区域とした）",
+   "url": "https://www.town.hirogawa.fukuoka.jp/soshiki/kikaku/1/16/2/724.html"
+  },
+  "h5-hirogawa-fukuoka-masterplan": {
+   "label": "福岡県広川町「広川町都市計画マスタープラン」（町公式。昭和30年4月1日に上広川村・中広川村が新設合併、同年12月1日に下広川村の一部が編入合併。発心山に源を発する広川が広川谷の盆地を流れる）",
+   "url": "https://www.town.hirogawa.fukuoka.jp/material/files/group/27/147852.pdf"
+  },
+  "h5-hirogawa-kotobank": {
+   "label": "コトバンク「広川」（『日本歴史地名大系』は和歌山県の広川を全長20km・有田郡内2位の河川とし、『日本大百科全書』は広川町について1955年の合併成立と1996年の読み変更「ひろかわ」から「ひろがわ」を記す）",
+   "url": "https://kotobank.jp/word/%E5%BA%83%E5%B7%9D-3084232"
+  },
+  "h5-hirogawa-wakayama-gaiyo": {
+   "label": "和歌山県広川町「町の概要」（町公式。町の由来は旧三か町村を流れて海に注ぐ当地最大の河川「広川」の名称を採ったもの。昭和30年4月1日に広町・南広村・津木村の合併で発足。広川町全域は古く広庄と呼ばれた）",
+   "url": "https://www.town.hirogawa.wakayama.jp/hirogawa/gaiyou.html"
+  },
+  "h5-jlis-fukuoka": {
+   "label": "地方公共団体情報システム機構（J-LIS）「地方公共団体コード住所・福岡県内市町村」（広川町の団体コード405442）",
+   "url": "https://www.j-lis.go.jp/spd/code-address/kyuusyuu/cms_16114187.html"
+  },
+  "k6-kitakyushu-city-pr": {
+   "label": "北九州市「市政だより令和5年4月15日号・連載『市制60周年』」（5市合併と市名公募の経緯）",
+   "url": "https://ssl.city.kitakyushu.lg.jp/page/dayori/230415/topics/series.html"
+  },
+  "k6-kitakyushu-ndl-crd": {
+   "label": "レファレンス協同データベース・北九州市立中央図書館の事例「『北九州市』という市名はどういう経過で決まったのですか」（『北九州五市合併の記録』等に基づく回答）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000058424&page=ref_view"
+  },
+  "k6-kurume-city-bunkazai": {
+   "label": "久留米市「久留米市の歴史文化の特徴」（歴史文化基本構想関連資料。2005年の4町編入・2008年の中核市移行）",
+   "url": "https://www.city.kurume.fukuoka.jp/1100keikaku/2060jouhoukoukai/3060kaigiroku/4040shiminbunka/files/fy2019_2nd_meeting_materials_of_regional_planning_council_for_the_conservation_and_utilization_cultural_properties4-2.pdf"
+  },
+  "k6-kurume-city-history": {
+   "label": "久留米市「久留米市の誕生」（市公式の歴史ページ。1889年の市制施行・有馬氏の入部・筑後国府）",
+   "url": "https://www.city.kurume.fukuoka.jp/1100keikaku/2010shoukai/3030rekishi/history.html"
+  },
+  "k6-kurume-wikipedia": {
+   "label": "Wikipedia「久留米市」（地名の初出と語源諸説の整理。原典確認が未了のため低いレベルで扱う）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82"
+  },
+  "l6-omuta-city-ayumi": {
+   "label": "大牟田市「大牟田市のあゆみ」（市公式年表。1917年の市制施行、1929年の三川町編入）",
+   "url": "https://www.city.omuta.lg.jp/kiji00318875/3_18875_100089_up_k5ro4p1o.pdf"
+  },
+  "l6-omuta-daijayama": {
+   "label": "おおむた大蛇山まつり公式サイト「まつり紹介」（大蛇山の起源、水の神としての蛇と水神信仰、1852年の記録）",
+   "url": "https://www.omuta-daijayama.com/about"
+  },
+  "l6-omuta-env-kyushu": {
+   "label": "環境省九州地方環境事務所「6 大牟田市」（雲仙天草国立公園関連資料。市の名称は有明海沿岸の大きな低湿地帯（ムタ）に由来すると説明）",
+   "url": "https://kyushu.env.go.jp/content/900175140.pdf"
+  },
+  "l6-omuta-ndl-crd": {
+   "label": "レファレンス協同データベース・大分県立図書館の事例「九重の『千町無田（せんちょうむた）』という地名の由来を知りたい」（無田（牟田）は沼地・湿地のことと回答）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000340731&page=ref_view"
+  },
+  "l6-omuta-wikipedia": {
+   "label": "Wikipedia「大牟田市」（1889年の大牟田町発足と1917年3月1日の市制。原典確認が未了のため低いレベルで扱う）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%89%9F%E7%94%B0%E5%B8%82"
+  },
+  "r2-dazaifu-city-chimei": {
+   "label": "太宰府市公式「地名と由来」",
+   "url": "https://www.city.dazaifu.lg.jp/soshiki/2/1846.html"
+  },
+  "r2-dazaifu-city-faq": {
+   "label": "太宰府市公式「『大宰府』と『太宰府』のちがいについて教えてください」",
+   "url": "https://www.city.dazaifu.lg.jp/site/bunkazai/1137.html"
+  },
+  "r2-dazaifu-city-plan": {
+   "label": "太宰府市「太宰府市文化財保存活用地域計画」（太宰府市公式）",
+   "url": "https://www.city.dazaifu.lg.jp/uploaded/attachment/14992.pdf"
+  },
+  "r2-dazaifu-wikipedia": {
+   "label": "Wikipedia「太宰府市」",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82"
+  },
+  "r2-fukutsu-city-20th": {
+   "label": "福津市「福津市20周年記念誌」（福津市公式）",
+   "url": "https://www.city.fukutsu.lg.jp/material/files/group/1/20th_P2-3.pdf"
+  },
+  "r2-fukutsu-city-gaikyo": {
+   "label": "福津市公式資料「第1章 概況・沿革」",
+   "url": "https://www.city.fukutsu.lg.jp/material/files/group/21/gaikyo.pdf"
+  },
+  "r2-itoshima-gun-wikipedia": {
+   "label": "Wikipedia「糸島郡」",
+   "url": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E5%B3%B6%E9%83%A1"
+  },
+  "r2-itoshima-kobunsyokan": {
+   "label": "福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 〜糸島市〜」",
+   "url": "https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=1045"
+  },
+  "r2-itoshima-uub": {
+   "label": "市区町村変遷情報「糸島市」",
+   "url": "https://uub.jp/upd/c/592.html"
+  },
+  "r2-kasuga-city-chimei": {
+   "label": "春日市公式「地名の由来」",
+   "url": "https://www.city.kasuga.fukuoka.jp/miryoku/town/1002176.html"
+  },
+  "r2-kasuga-city-yurai": {
+   "label": "春日市公式「市名の由来」",
+   "url": "https://www.city.kasuga.fukuoka.jp/miryoku/history/1010879/1010921/1011656.html"
+  },
+  "r2-kasuga-kobunsyokan": {
+   "label": "福岡共同公文書館ブログ「公文書でめぐる ふるさと福岡 〜春日市〜」",
+   "url": "https://kobunsyokan.pref.fukuoka.lg.jp/blog/?p=2300"
+  },
+  "r2-koga-city-history": {
+   "label": "古賀市公式「古賀の歴史 近代・現代」",
+   "url": "https://www.city.koga.fukuoka.jp/guide/history/006.php"
+  },
+  "r2-koga-namedic": {
+   "label": "日本姓氏語源辞典「古賀」",
+   "url": "https://myoji.namedic.jp/sei/character/%E5%8F%A4"
+  },
+  "r2-koga-wikipedia": {
+   "label": "Wikipedia「古賀市」",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B3%80%E5%B8%82"
+  },
+  "r2-kokugakuin-munakata": {
+   "label": "國學院大學「古事記学」神社データベース「宗像大社」",
+   "url": "https://kojiki.kokugakuin.ac.jp/jinjya/munakatataisha/"
+  },
+  "r2-kokugakuin-takirihime": {
+   "label": "國學院大學「古事記学」神名データベース「多紀理毘売命」",
+   "url": "https://kojiki.kokugakuin.ac.jp/shinmei/takiribimenomikoto"
+  },
+  "r2-munahaku-chimei": {
+   "label": "むなかた電子博物館「地形による地名」（宗像・福間・津屋崎の地名の由来）",
+   "url": "https://munahaku.jp/history/place_name/more_geograph"
+  },
+  "r2-munakata-city-plan": {
+   "label": "宗像市「宗像市歴史的風致維持向上計画 第2章」（宗像市公式）",
+   "url": "https://www.city.munakata.lg.jp/kiji0031961/3_1961_5_1rekishiR3.pdf"
+  },
+  "r2-onojo-city-gaiyo": {
+   "label": "大野城市公式「市の概要」",
+   "url": "https://www.city.onojo.fukuoka.jp/s005/020/010/1040.html"
+  },
+  "r2-onojo-kotobank": {
+   "label": "コトバンク「大野城（改訂新版 世界大百科事典）」",
+   "url": "https://kotobank.jp/word/%E5%A4%A7%E9%87%8E%E5%9F%8E-1158344"
+  },
+  "r3-amagi-yasunaga": {
+   "label": "「緒方春朔の史跡を訪ねて・甘木安長寺」（「甘木の由来」の節で福岡県町村合併調書の記述を引用する郷土資料サイト）",
+   "url": "http://www.ogata-shunsaku.com/antyoji.html"
+  },
+  "r3-asakura-fukko": {
+   "label": "朝倉市「朝倉市復興実施計画」（第2章に市の沿革。1954年の甘木市発足と2006年の朝倉市誕生）",
+   "url": "https://www.city.asakura.lg.jp/uploaded/attachment/6376.pdf"
+  },
+  "r3-asakura-kotobank-gun": {
+   "label": "コトバンク『日本歴史地名大系』「朝倉郡」（1896年に上座・下座・夜須の三郡が合併して成立）",
+   "url": "https://kotobank.jp/word/%E6%9C%9D%E5%80%89%E9%83%A1-3096588"
+  },
+  "r3-asakura-museum": {
+   "label": "甘木歴史資料館（朝倉市公式）展示解説シート「朝倉橘広庭宮の謎をめぐって」（斉明7年の遷宮と『和名類聚抄』の上座・下座の解説）",
+   "url": "https://www.city.asakura.lg.jp/uploaded/attachment/8575.pdf"
+  },
+  "r3-asakura-pref-gappei": {
+   "label": "福岡県「合併協議会の協議状況等（平成18年4月1日現在）」（甘木市・朝倉町・杷木町合併協議会。新市の名称「朝倉市」と事務所位置）",
+   "url": "https://www.pref.fukuoka.lg.jp/uploaded/life/654737_61464943_misc.pdf"
+  },
+  "r3-chikugo-ayumi": {
+   "label": "筑後市公式「筑後市のあゆみ（昭和29年〜昭和39年）」（1954年の誕生と1955年の西牟田町合併）",
+   "url": "https://www.city.chikugo.lg.jp/shisei/_6139/_1035/_1036.html"
+  },
+  "r3-chikugo-gikai-yoran": {
+   "label": "筑後市議会「令和8（2026）年度 議会要覧」（市章は1954年10月に公募で制定され「ち」を図案化）",
+   "url": "https://www.city.chikugo.lg.jp/var/rev0/0057/1034/126519181926.pdf"
+  },
+  "r3-chikugo-kanko-hainuzuka": {
+   "label": "筑後市観光協会「羽犬塚発祥の碑」（羽の生えた犬の二つの伝説を紹介）",
+   "url": "https://chikugo.net/%E8%A6%B3%E5%85%89%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E6%97%A7/%E7%BE%BD%E7%8A%AC%E5%A1%9A%E7%99%BA%E7%A5%A5%E3%81%AE%E7%A2%91"
+  },
+  "r3-chikugo-localhistoria": {
+   "label": "ローカルヒストリア「筑後市の歴史」（羽犬塚が薩摩街道の宿場・久留米藩の三宿の一つだったとする地域史サイト）",
+   "url": "https://local-historia.jp/fukuoka/chikugo"
+  },
+  "r3-chikugo-reiki": {
+   "label": "筑後市例規集所収の告示文（総理府告示第255号・福岡県告示第253号。1954年4月1日から羽犬塚町・水田村・古川村・岡山村大字前津及び長浜の区域をもって筑後市を置く）",
+   "url": "https://www.city.chikugo.lg.jp/reiki_int/reiki_honbun/q013RG00000001.html"
+  },
+  "r3-iizuka-chushinshi": {
+   "label": "飯塚市「中心市宣言書」（長崎街道の宿場町としての繁栄と、炭鉱閉山による人口減の経緯）",
+   "url": "https://www.city.iizuka.lg.jp/uploaded/attachment/5492.pdf"
+  },
+  "r3-iizuka-kanko": {
+   "label": "飯塚市観光ポータル「飯塚の歴史と史跡・地名の由来」（「飯の山」を地名発祥の地とし、建久8年の明星寺復興に結び付ける）",
+   "url": "https://kankou-iizuka.jp/history"
+  },
+  "r3-iizuka-kokudo": {
+   "label": "国土地理協会「市町村変更情報・福岡県」（2006年3月26日の飯塚市・筑穂町・穂波町・庄内町・頴田町の合併）",
+   "url": "https://www.kokudo.or.jp/marge/tdfk.php?tdfk_cd=40"
+  },
+  "r3-iizuka-kotobank": {
+   "label": "コトバンク『日本歴史地名大系』「飯塚市」（市名は「飯の塚」と「何日（いつか）」の言葉に由来するという伝承を紹介。1932年市制）",
+   "url": "https://kotobank.jp/word/%E9%A3%AF%E5%A1%9A%E5%B8%82-29769"
+  },
+  "r3-iizuka-museum": {
+   "label": "飯塚市立図書館「飯塚市デジタルミュージアム・炭都の記憶」（明治14年の目尾炭坑における筑豊初の蒸気ポンプ揚水成功）",
+   "url": "https://adeac.jp/iizuka-city/texthtml/d400010/mp000020-400010/ht000000"
+  },
+  "r3-iizuka-yurai": {
+   "label": "飯塚市公式「地名の由来」（神功皇后の「いつか」説と聖光上人の「飯の塚」説の二説を紹介）",
+   "url": "https://www.city.iizuka.lg.jp/soshiki/8/2637.html"
+  },
+  "r3-kotobank-amagi": {
+   "label": "コトバンク「甘木」（『精選版日本国語大辞典』は安長寺にちなむ命名とし、『デジタル大辞泉』は安長寺の門前町に始まるとする）",
+   "url": "https://kotobank.jp/word/%E7%94%98%E6%9C%A8-27120"
+  },
+  "r3-kurume-kokufu": {
+   "label": "久留米市公式「筑後国府跡が追加指定されました」（筑後国府跡は久留米市合川町にあり国指定史跡）",
+   "url": "https://www.city.kurume.fukuoka.jp/1080kankou/2015bunkazai/3010bunkazai/2025-1211-1159-280.html"
+  },
+  "r3-nakama-kobunsyokan": {
+   "label": "福岡共同公文書館ブログ「公文書でめぐるふるさと福岡 ～中間市～」（長津村の成立、通称「中間」の定着、1924年の改称可決と1958年の市制を公文書でたどる）",
+   "url": "https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=2139"
+  },
+  "r3-nakama-yoran": {
+   "label": "中間市「2025年中間市市勢要覧」（年表に1621年の堀川掘削工事開始、1762年の中間唐戸完成、1924年の長津町から中間町への改称、1958年の市制施行を収録）",
+   "url": "https://www.city.nakama.lg.jp/uploaded/attachment/11289.pdf"
+  },
+  "r3-nogata-shiho": {
+   "label": "直方市「市報のおがた」市制施行90周年記事（1926年の合併、1931年1月の市制、1955年3月の植木町編入の年表）",
+   "url": "https://www.city.nogata.fukuoka.jp/library/data/siseijouhou/PDF/shihounoogata/R03/0310/031001_shiho_web_06-07.pdf"
+  },
+  "r3-nogata-yurai": {
+   "label": "直方市公式「市名の由来」（東蓮寺藩から直方藩への改称と、貝原元端が『易経』から「直方」の字を当てたとする命名譚。王方説も併記）",
+   "url": "https://www.city.nogata.fukuoka.jp/shisei/_1233/_2027.html"
+  },
+  "r3-ogori-50th": {
+   "label": "小郡市公式「市制施行50周年」ページ（1972年4月1日の市制で、官報告示に小郡市が最初に掲載されたとする市の紹介）",
+   "url": "https://www.city.ogori.fukuoka.jp/1139/1145/50"
+  },
+  "r3-ogori-nokankyo": {
+   "label": "小郡市「小郡市農村環境計画」（『日本書紀』に客館として「筑紫小郡」が記され、奈良時代に小郡官衙が置かれたとする市の計画書）",
+   "url": "https://www.city.ogori.fukuoka.jp/application/files/6815/4598/1128/E1qW0h.pdf"
+  },
+  "r3-ogori-shokai": {
+   "label": "小郡市公式「市の紹介」（飛鳥時代に小郡官衙が置かれたとし、1889年の小郡村誕生から1955年の合併・1972年の市制までの沿革）",
+   "url": "https://www.city.ogori.fukuoka.jp/1139/1145/1996"
+  },
+  "r3-ogori-weblio": {
+   "label": "Weblio辞書「小郡市」（山口県に2005年まであった小郡町とは異なる自治体である旨の曖昧さ回避を含む）",
+   "url": "https://www.weblio.jp/content/%E5%B0%8F%E9%83%A1%E5%B8%82"
+  },
+  "r3-tagawa-kotobank": {
+   "label": "コトバンク『精選版日本国語大辞典』「田川」（田川郡は古くは「たかは」といい鷹羽・高羽・田河とも書かれた）",
+   "url": "https://kotobank.jp/word/%E7%94%B0%E5%B7%9D-92828"
+  },
+  "r3-tagawa-kotobank-gun": {
+   "label": "コトバンク『日本歴史地名大系』「田川郡」（古くは田河とも書き、郡域は古代からほぼ変化がないとする）",
+   "url": "https://kotobank.jp/word/%E7%94%B0%E5%B7%9D%E9%83%A1-3027503"
+  },
+  "r3-tagawa-lib": {
+   "label": "田川市立図書館デジタルアーカイブ（昭和18年に伊田町・後藤寺町が合併して田川市が誕生したとする市の記録）",
+   "url": "https://adeac.jp/tagawa-lib/texthtml/d100010/mp000000-100010/ht000370"
+  },
+  "r3-tagawa-rekishi": {
+   "label": "田川市公式「たがわの歴史」（筑豊での石炭発見を文明10年（1478）の言い伝えとして紹介）",
+   "url": "https://www.joho.tagawa.fukuoka.jp/kiji00389/index.html"
+  },
+  "r3-tagawa-tankosetsu": {
+   "label": "田川市公式「炭坑節発祥の地」（二本煙突と伊田竪坑櫓が歌われた炭坑節の紹介）",
+   "url": "https://www.joho.tagawa.fukuoka.jp/kiji00353/index.html"
+  },
+  "r3-tagawa-tanto": {
+   "label": "田川市公式「炭都田川の隆盛」（三井田川鉱業所の沿革と伊田竪坑・二本煙突）",
+   "url": "https://www.joho.tagawa.fukuoka.jp/kiji00351/index.html"
+  },
+  "r3-tagawa-uub": {
+   "label": "市区町村変遷情報「田川市」（1943年11月3日の新設・市制と1955年4月5日の猪位金村編入を収録）",
+   "url": "https://uub.jp/upd/c/6888.html"
+  },
+  "r3-yame-ayumi": {
+   "label": "八女市公式「八女市の歩み」（日本書紀の八女津媛を由来とし、1896年の八女郡形成と1954年の市誕生を記す）",
+   "url": "https://www.city.yame.fukuoka.jp/soshiki/3/17/1/7/1455882047746.html"
+  },
+  "r3-yame-jinja": {
+   "label": "八女市公式「八女津媛神社」（矢部村北矢部に鎮座し女神・八女津媛を祀る）",
+   "url": "https://www.city.yame.fukuoka.jp/soshiki/15/y01/2/1454653614316.html"
+  },
+  "r3-yame-kanko": {
+   "label": "八女福島観光協会ブログ「旧八女郡から八女市への道」（福島城下と1896年の八女命名をたどる郷土解説）",
+   "url": "https://yamekanko.com/%E7%AC%AC%EF%BC%91%EF%BC%91%E5%9B%9E%E2%80%95-%E6%97%A7%E5%85%AB%E5%A5%B3%E9%83%A1%E3%81%8B%E3%82%89%E5%85%AB%E5%A5%B3%E5%B8%82%E3%81%B8%E3%81%AE%E9%81%93"
+  },
+  "r3-yame-kobunsyokan": {
+   "label": "福岡共同公文書館ブログ「公文書でめぐるふるさと福岡 ～八女市～」（県の公文書に基づく市名決定の経緯「福島市」→「筑後福島市」→「八女市」）",
+   "url": "https://kobunsyokan.pref.fukuoka.lg.jp/blog?p=2259"
+  },
+  "r3-yame-uub-detail": {
+   "label": "市区町村変遷情報「八女市・詳細情報」（総理府告示第383〜385号と市名変更条例第5号による1954年4月1日の発足・改称の記録）",
+   "url": "https://uub.jp/upd/u/u5571.html"
+  },
+  "r3-yanagawa-chimei": {
+   "label": "柳川市公式「柳川の地名の由来」（諸説はいずれも決め手を欠くとする市の解説）",
+   "url": "https://www.city.yanagawa.fukuoka.jp/rekishibunka/rekishi/rekishi_chimei.html"
+  },
+  "r3-yanagawa-jokamachi": {
+   "label": "柳川市公式「城下町柳川」（蒲池氏の築城から立花宗茂・田中吉政までの城下町形成）",
+   "url": "https://www.city.yanagawa.fukuoka.jp/rekishibunka/rekishi/rekishi_jokamachi.html"
+  },
+  "r3-yanagawa-sogokeikaku": {
+   "label": "柳川市「第2次柳川市総合計画・前期基本計画」（第2章「柳川市のあゆみと特性」。立花宗茂の再封を元和6年とする）",
+   "url": "https://www.city.yanagawa.fukuoka.jp/library/download/08shiseijoho/02shiseiunei_keikaku/sougoukeikaku/dai2jisougoukeikakuzennki.pdf"
+  },
+  "r3-yanagawa-soumu-gappei": {
+   "label": "総務省「市町村合併資料集・福岡県」（2005年3月21日の柳川市・大和町・三橋町の新設合併）",
+   "url": "https://www.soumu.go.jp/gapei/hensen_hukuoka.html"
+  },
+  "r3-yanagawa-uub": {
+   "label": "市区町村変遷情報「柳川市」（1951年の柳川町成立、1952年の市制、1955年の昭代村・蒲池村編入を収録）",
+   "url": "https://uub.jp/upd/c/583.html"
+  },
+  "r3-yukuhashi-kids": {
+   "label": "行橋市公式キッズページ「行橋市の歴史」（1889年の合併で「行橋」が誕生したとする説明と、古代の京都郡・仲津郡）",
+   "url": "https://www.city.yukuhashi.fukuoka.jp/site/kids/13497.html"
+  },
+  "r3-yukuhashi-koho": {
+   "label": "行橋市広報（1954年10月10日の1町8村合併による市制施行と、市の花コスモスの8枚の花びらの由来）",
+   "url": "https://www.city.yukuhashi.fukuoka.jp/uploaded/attachment/12440.pdf"
+  },
+  "r3-yukuhashi-shishi": {
+   "label": "『行橋市史』第七編（行橋市デジタルアーカイブ。行事・大橋・宮市の3村の合併で「行橋」が生まれたとする総説）",
+   "url": "https://adeac.jp/yukuhashi-city/texthtml/d100010/mp000000-000010/ht3070000010"
+  },
+  "r4-buzen-wikipedia": {
+   "label": "Wikipedia「豊前市」（昭和30年4月10日に宇島市として発足し、旧八屋町側の反発を受けて合併翌日に豊前市への改称を決定、4月14日に改称したとする経緯。「宇島市わずか4日で豊前市に改名」と報じた新聞記事も引かれる）",
+   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%89%8D%E5%B8%82"
+  },
+  "r4-chikushino-pamphlet": {
+   "label": "筑紫野市「筑紫野市ってこんなまちです！」（市の公式パンフレット。「筑紫」は『古事記』の国生み神話にみえる古代九州の総称であること、市の木の椿は古事記や万葉集の歌に詠まれた花として「万葉の里・筑紫野」のシンボルであること、昭和47年の市制施行）",
+   "url": "https://www.city.chikushino.fukuoka.jp/uploaded/attachment/25344.pdf"
+  },
+  "r4-chikushino-rekishi": {
+   "label": "筑紫野市公式「筑紫野市の歴史」（大宰府・水城・大野城・基肄城に囲まれた交通の要衝としての市域の歴史、二日市宿・山家宿・原田宿）",
+   "url": "https://www.city.chikushino.fukuoka.jp/soshiki/38/1941.html"
+  },
+  "r4-chikushino-wikipedia-futsukaichi": {
+   "label": "Wikipedia「二日市（筑紫野市）」（昭和30年3月1日に二日市町・山口村・筑紫村・山家村・御笠村が合併して筑紫野町となり、昭和47年4月1日に市制施行したとする変遷）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%97%A5%E5%B8%82_(%E7%AD%91%E7%B4%AB%E9%87%8E%E5%B8%82)"
+  },
+  "r4-kama-kanko-ayumi": {
+   "label": "嘉麻市観光まちづくり協会「嘉麻市のあゆみ」（1市3町の合併経緯、新市名の公募398種・1,531件と「嘉麻市」決定の理由、最終選考に嘉穂市・嘉南市が残ったこと、「嘉麻の由来」として日本書紀の鎌の屯倉と和銅6年の好字化を挙げる）",
+   "url": "https://www.kama-kanko.com/316"
+  },
+  "r4-kama-wikipedia-gun": {
+   "label": "Wikipedia「嘉麻郡」（明治29年の郡統合で嘉麻郡と穂波郡をもって嘉穂郡が発足し、嘉麻郡は廃止されたとする郡の変遷）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%98%89%E9%BA%BB%E9%83%A1"
+  },
+  "r4-miyama-hensen-db": {
+   "label": "市区町村変遷情報「みやま市（福岡県）2007年〜」（新市名公募の上位10点と最終候補3点（三山・山門・筑南）、「みやま市」の選定を伝える）",
+   "url": "https://uub.jp/upd/c/890.html"
+  },
+  "r4-miyama-shisei-gaiyo": {
+   "label": "みやま市「市勢概要（令和6年度）」（3町の合併協議と平成19年1月29日の「みやま市」誕生、市名は山門郡と三池郡の名称にちなみ3町の3つの山や美しい山をイメージさせるとする市の説明）",
+   "url": "https://www.city.miyama.lg.jp/s002/shisei/060/010/020/pdf/zenpage.pdf"
+  },
+  "r4-miyawaka-bunkazai-plan": {
+   "label": "宮若市教育委員会「宮若市文化財保護基本計画」（市の公式資料。本市は平成18年2月11日に鞍手郡宮田町と若宮町の合併で発足、中世の本市域は宗像社領・若宮荘・粥田荘で、若宮荘の名は若宮八幡宮が起こりと推定されるとする）",
+   "url": "https://www.city.miyawaka.lg.jp/kiji003446915/3_446915_3374_up_n1q1c6m2.pdf"
+  },
+  "r4-miyawaka-hensen-db": {
+   "label": "市区町村変遷情報「宮若市（福岡県）2006年〜」（新市名公募の候補10点と最終候補2点（宮田・宮若）、直鞍合併協議会からの離脱を経た2町合併の経緯を伝える）",
+   "url": "https://uub.jp/upd/c/1120.html"
+  },
+  "r4-nakagawa-antoku-kyodo": {
+   "label": "那珂川町郷土史研究会の現地探訪記録（安徳台は安徳天皇と平家一門の九州下向の際に居館が置かれた地と伝えられ、「安徳」の地名の起こりとされること、安徳宮と「天皇さまこもり」の行事）",
+   "url": "http://nnmymsm.web.fc2.com/bastanbounakagawa.html"
+  },
+  "r4-nakagawa-city-gaiyo": {
+   "label": "那珂川市公式「市の概要」（市の沿革。明治22年に南畑村・岩戸村・安徳村が誕生し、昭和31年4月1日に3村が合併して筑紫郡那珂川町が誕生、平成30年10月1日に那珂川市となったこと。背振連山に源を発する那珂川が市の中央を貫流すること）",
+   "url": "https://www.city.nakagawa.lg.jp/soshiki/49/matigaiyo.html"
+  },
+  "r4-nakagawa-gikai-yoran": {
+   "label": "那珂川市議会「議会要覧（令和8年度版）」（平成27年国勢調査で人口5万人を突破し、平成30年10月1日に福岡県内では21年ぶりの単独市制施行により那珂川市が誕生したとする沿革）",
+   "url": "https://www.city.nakagawa.lg.jp/uploaded/attachment/32730.pdf"
+  },
+  "r4-nakagawa-sakuta": {
+   "label": "那珂川市公式（文化財課）「裂田溝（さくたのうなで）」（那珂川の一の井手から安徳・五郎丸・松木を通って今光に至る総延長約5.5kmの人工用水路で、『日本書紀』にゆかりを持つ古い用水路とする市の説明）",
+   "url": "https://www.city.nakagawa.lg.jp/site/bunkazai/nihonisansakutanounade.html"
+  },
+  "r4-okawa-rekishi-bunka": {
+   "label": "大川市「大川市歴史文化基本構想」第2章（市の公式資料。明治22年に大川町が誕生、昭和29年に大川町と三又村・木室村・田口村・川口村・大野島村が合併して大川市が誕生し「大川」の名が継承されたこと、筑後川の旧称と榎津の船大工の歴史）",
+   "url": "https://www.city.okawa.lg.jp/s065/010/010/020/03_1-2.pdf"
+  },
+  "r4-ukiha-city-profile": {
+   "label": "うきは市公式「概要・市民の歌」（平成17年3月20日に旧浮羽町と旧吉井町が合併して「うきは市」が誕生したとする市の概要）",
+   "url": "https://www.city.ukiha.fukuoka.jp/kiji0035589/index.html"
+  },
+  "r4-ukiha-gappei-jirei": {
+   "label": "合併事例資料「うきは市（福岡県）」（新市の名称の決定手続き・選定理由を収録。公募し幹事会で5点に絞り込み協議会の投票で決定、理由は「慣れ親しんだ名称」「ひらがなの方が読みやすく優しい感じ」）",
+   "url": "http://www.toshi.or.jp/app-def/wp/wp-content/uploads/2013/09/ukiha050907.pdf"
+  },
+  "r4-ukiha-kobunshokan": {
+   "label": "福岡共同公文書館ブログ「公文書でめぐるふるさと福岡 ～うきは市～」（福岡県。昭和26年に御幸町が浮羽町へ町名変更、平成17年に浮羽町・吉井町が合併してうきは市が誕生）",
+   "url": "https://kobunsyokan.pref.fukuoka.lg.jp/blog?cat=160"
+  },
+  "r4-ukiha-kotobank-ikuha": {
+   "label": "コトバンク「生葉郡」（平凡社『日本歴史地名大系』の解説。『日本書紀』景行天皇18年条の浮羽の地名伝承、『筑後国風土記』逸文の宇枳波夜郡、霊亀2年の平城宮木簡を郡名の初見とする）",
+   "url": "https://kotobank.jp/word/%E7%94%9F%E8%91%89%E9%83%A1-3097199"
+  },
+  "r4-ukiha-wikipedia-gun": {
+   "label": "Wikipedia「浮羽郡」（明治29年に竹野郡・生葉郡の一部をもって浮羽郡が発足したとする郡の変遷）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%AE%E7%BE%BD%E9%83%A1"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/40-うきは市",
+   "code": "402257",
+   "names": {
+    "ja": "うきは市",
+    "reading": "うきはし",
+    "aliases": [
+     "浮羽町",
+     "吉井町"
+    ]
+   },
+   "user_terms": [
+    "うきははなぜひらがななの",
+    "浮羽（うきは）の読み方",
+    "フルーツの里うきは",
+    "筑後吉井の白壁のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）3月20日、浮羽町と吉井町が合併して発足した市。市名は両町が属した浮羽郡の名によるが、表記は合併協議会が公募と投票を経て平仮名の「うきは」を選んだ。「浮羽」の名は古代の生葉郡（いくは）に連なり、『日本書紀』景行天皇条には、従者が盞（うき）を忘れた地を「浮羽」と号したという地名伝承が記されている。",
+   "first_attestation": {
+    "era": "霊亀2年",
+    "year_western": 716,
+    "document": "平城宮跡出土木簡（「筑後国生葉郡煮塩年魚…」と記す）",
+    "note": "郡名「生葉」の初見として『日本歴史地名大系』が示すもの。「浮羽」の表記は『日本書紀』景行天皇18年条の地名伝承記事に見えるが、実際の行政地名としては「的」「生葉」が先行し、「浮羽」が郡名になったのは明治29年（1896年）である"
+   },
+   "claims": [
+    {
+     "text": "うきは市の地方公共団体コードは402257である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）3月20日、旧浮羽町と旧吉井町が合併して「うきは市」が誕生し、福岡県内26番目の市となったと市公式の概要は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-city-profile"
+     ]
+    },
+    {
+     "text": "新市の名称は、住民らを対象に公募し、幹事会で5点に絞り込んだうえで合併協議会の委員による投票で決定され、選定理由として「慣れ親しんだ名称であること」と「『ひらがな』の方が読みやすく優しい感じがすること」が挙げられた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-gappei-jirei"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、『日本書紀』景行天皇18年8月条に「的邑に到りて進食す。是の日に、膳夫等、盞を遺る。故、時人、其の盞を忘れし処を号けて浮羽と曰ふ」とみえ、盞（ウキ）を「浮羽」と呼んだことからその地を「浮羽」と称し、これが訛って的（いくは）邑になったとする記事があることを紹介している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-kotobank-ikuha"
+     ]
+    },
+    {
+     "text": "『筑後国風土記』逸文（『釈日本紀』所引）は、景行天皇が「惜しきかも。朕が酒盞はや」と言ったことから「宇枳波夜郡（ウキハヤノコホリ）」と呼んだが、後の人が誤って「生葉郡」となったと伝えており、「浮羽」と「生葉」のどちらが本字かは古代の資料の間でも説明が食い違う",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "r4-ukiha-kotobank-ikuha"
+     ]
+    },
+    {
+     "text": "郡名の初見は霊亀2年（716年）の年紀をもつ平城宮跡出土木簡の「筑後国生葉郡」の記載であり、『和名類聚抄』も筑後国に生葉郡（訓は「以久波」）を載せると『日本歴史地名大系』は記す",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-kotobank-ikuha"
+     ]
+    },
+    {
+     "text": "明治29年（1896年）に竹野郡と生葉郡の一部をもって浮羽郡が発足し、昭和26年（1951年）には御幸町が周辺の村を編入して浮羽町へと改称した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-wikipedia-gun",
+      "r4-ukiha-kobunshokan"
+     ]
+    },
+    {
+     "text": "景行天皇がこの地で食事をした際、供の者が酒盞（うき）を持ってくるのを忘れ、天皇が「惜しきかも、朕が酒盞（うき）はや」と嘆いたことが「うきは」の名の起こりだと伝えられる",
+     "kind": "legend",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-kotobank-ikuha"
+     ]
+    }
+   ],
+   "column": {
+    "title": "盞を忘れた天皇と、ひらがなの市名",
+    "text": "『日本書紀』と『筑後国風土記』の逸文は、景行天皇が九州巡幸の途次、この地で盞（さかずき）を忘れた従者を嘆いた故事を「浮羽」の名の起こりとして伝える。ただし実際に使われた郡名は長く「生葉（いくは）」で、「浮羽」が郡名として復活したのは明治29年（1896年）のことだった。平成17年（2005年）の合併では、その由緒ある漢字ではなく平仮名の「うきは」が選ばれた。理由は「ひらがなの方が読みやすく優しい感じがする」からだという。古代の天皇の嘆きに由来する名が、優しさを理由に平仮名で蘇った市名である。",
+    "sources": [
+     "r4-ukiha-kotobank-ikuha",
+     "r4-ukiha-gappei-jirei"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「浮羽」の語源について、『日本書紀』は盞（ウキ）の故事を掲げ、生葉（イクハ）はその訛とするが、実際の用例では生葉が先行しており、語源の確定はできない",
+    "新市名公募の応募総数と、最終候補5点の具体的な名称は、確認した資料では示されていなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-みやま市",
+   "code": "402290",
+   "names": {
+    "ja": "みやま市",
+    "reading": "みやまし",
+    "aliases": [
+     "瀬高町",
+     "山川町",
+     "高田町"
+    ]
+   },
+   "user_terms": [
+    "みやま市はなぜ「みやま」なの",
+    "旧瀬高町のあたり",
+    "三池と山門のまち",
+    "セロリの産地みやま"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "平成19年（2007年）1月29日、山門郡の瀬高町・山川町と三池郡の高田町が合併して発足した市。市の説明では、市名「みやま」は山門郡と三池郡の名称にちなみ、3町にある清水山・御牧山・愛宕山の3つの山や、美しい山並みに囲まれた豊かな市をイメージしたものとされる。市役所は旧瀬高町に置かれた。",
+   "first_attestation": {
+    "era": "平成18年",
+    "year_western": 2006,
+    "document": "総務大臣による瀬高町・山川町・高田町の合併の告示（平成18年7月13日）",
+    "note": "市名「みやま」としての初出はこの合併告示とされ、自治体としては平成19年（2007年）1月29日に発足した。もとの地名である瀬高・山川・高田はいずれも古い村名に遡るが、市名自体は合併時の新命名である"
+   },
+   "claims": [
+    {
+     "text": "みやま市の地方公共団体コードは402290である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "山門郡の瀬高町・山川町と三池郡の高田町の3町は合併協議会を設置して協議を進め、平成18年（2006年）3月に調印と合併の議決を終え、平成19年（2007年）1月29日に「みやま市」が誕生したと市の市勢概要は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyama-shisei-gaiyo"
+     ]
+    },
+    {
+     "text": "市名「みやま」の由来について市の市勢概要は、「山門郡と三池郡の名称にちなみ、また3町にある清水山、御牧山、愛宕山の3つの山、美しい山、海と山に囲まれた豊かな市をイメージさせます」と説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyama-shisei-gaiyo"
+     ]
+    },
+    {
+     "text": "新市名は公募され、応募の上位には「三山（みやま）」「山門（やまと）」「筑南（ちくなん）」などが挙がり、最終候補3点（三山・山門・筑南）の中から「みやま」が選定されたと市区町村変遷のデータベースは伝える",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-miyama-hensen-db"
+     ]
+    },
+    {
+     "text": "合併協議会は全部で13回開催され、平成18年（2006年）7月13日に総務大臣による合併の告示が行われたと市の市勢概要は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyama-shisei-gaiyo"
+     ]
+    },
+    {
+     "text": "市の中心となった旧瀬高町は矢部川沿いに栄えた町で、新市役所も旧瀬高町（瀬高町小川）に置かれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyama-shisei-gaiyo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "二つの郡の名を編んだ「みやま」",
+    "text": "みやま市の名は、合併した3町が属していた二つの郡、山門郡と三池郡の名にちなむと市は説明する。三池の「み」と山門の「やま」をつないだ読みに、3町それぞれの山（清水山・御牧山・愛宕山）の姿と「美しい山」の願いが重ねられた。公募では漢字の「三山」が最有力候補だったと伝えられ、それを平仮名に開いた「みやま」が最終的に選ばれた。郡の境界を越えた合併の象徴として、どちらの郡の名も捨てずに編み合わせた市名である。",
+    "sources": [
+     "r4-miyama-shisei-gaiyo",
+     "r4-miyama-hensen-db"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "旧中心地名「瀬高」の語源（矢部川の瀬に由来するという説があるが、公的・専門資料では確認できなかった）",
+    "公募の応募総数と、最終候補から「みやま」を選んだ投票等の具体的な手続きは、市の公表資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-中間市",
+   "code": "402150",
+   "names": {
+    "ja": "中間市",
+    "reading": "なかまし",
+    "aliases": [
+     "中間町",
+     "長津町",
+     "長津村",
+     "中間村",
+     "底井野村"
+    ]
+   },
+   "user_terms": [
+    "なかまし",
+    "長津から改名した市",
+    "堀川と遠賀川のまち",
+    "北九州のベッドタウン"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県北部、遠賀川中流の市。1889年に岩瀬村と中間村が合併して長津村となったが、「長津」の名は住民に浸透せず、もとの村名である「中間」の通称が広く使われたため、1924年に中間町へ改称した。1958年11月1日に市制を施行して中間市となった。江戸時代には遠賀川から洞海湾へ通す運河・堀川の起点となり、明治末からは筑豊炭田の炭坑のまちとして栄えた。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": null,
+    "note": "「中間」は近世の村名（中間村）に遡るが、文献上の初出は未確認である。1889年の合併でいったん長津村を構成する村名となり、1924年に自治体の正式名として復活した"
+   },
+   "claims": [
+    {
+     "text": "中間市の地方公共団体コードは402150である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）、遠賀郡岩瀬村と中間村が合併して遠賀郡長津村が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nakama-kobunsyokan"
+     ]
+    },
+    {
+     "text": "村名「長津」は、斉明天皇が磐瀬にあった磐瀬行宮を「長津宮」と改称したことに由来するといわれていたが、郷土史家らの研究によって磐瀬は別の場所であることが明らかになり、「長津」の名称は住民にあまり浸透せず「中間」の通称が広く用いられていたと、福岡共同公文書館は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-nakama-kobunsyokan"
+     ]
+    },
+    {
+     "text": "1922年（大正11年）11月に町制を施行して長津町となり、1924年3月に長津町から中間町への改称の認可申請が町会で満場一致で可決され、同年9月1日に中間町と改称した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nakama-kobunsyokan",
+      "r3-nakama-yoran"
+     ]
+    },
+    {
+     "text": "1932年（昭和7年）3月1日に遠賀郡底井野村を編入し、1958年（昭和33年）11月1日に市制を施行して中間市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nakama-kobunsyokan",
+      "r3-nakama-yoran"
+     ]
+    },
+    {
+     "text": "江戸時代初め、遠賀川の洪水対策と物資輸送のため、中間から洞海湾へ通す運河「堀川」の開削が1621年に着工され、黒田長政の死去などで中断を経て、1762年に中間唐戸（水門）が完成した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nakama-kobunsyokan",
+      "r3-nakama-yoran"
+     ]
+    },
+    {
+     "text": "明治末期から昭和初期にかけてこの地で石炭が開発され、中間は炭坑のまちとして筑豊炭田の一翼を担い、人口は明治末の約4,800人から昭和34年（1959年）には約46,000人にまで増えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nakama-kobunsyokan"
+     ]
+    },
+    {
+     "text": "市の中央を遠賀川が南北に流れ、市域は通称「川東」と「川西」に分かれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nakama-kobunsyokan"
+     ]
+    }
+   ],
+   "column": {
+    "title": "35年で捨てられた「長津」、残った通称「中間」",
+    "text": "1889年に生まれた村の名は「長津」。斉明天皇ゆかりの由緒ある名前のはずだったが、根拠とされた磐瀬行宮は別の場所のものと分かり、住民の口にもなじまなかった。人々がふだん使っていたのは、もとの村の名「中間」のほうだった。1924年、町会は満場一致で改称を決め、35年間使った「長津」を捨てて、通称を正式な名にした。地名とは公文書が決めるものであると同時に、人々の呼び方が決めるものでもある、という好例である。",
+    "sources": [
+     "r3-nakama-kobunsyokan"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "村名「中間」自体の語源は確認できなかった。遠賀川と堀川の「中間」に位置することに由来するという地形説が語られることがあるが、今回確認した公的資料（市勢要覧・福岡共同公文書館）ではその裏付けは取れなかった。なお堀川は中間を起点として開削されており、「中間」の地名は運河より古い層に属する",
+    "中間村の名の文献上の初出は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-久留米市",
+   "code": "402036",
+   "names": {
+    "ja": "久留米市",
+    "reading": "くるめし",
+    "aliases": [
+     "久留目"
+    ]
+   },
+   "user_terms": [
+    "久留米の名前の由来",
+    "久留米藩と有馬氏",
+    "クルメクって何",
+    "久留米市はいつできたの"
+   ],
+   "naming_type": "その他（城下町・郡の名「久留米」を継承して市制を施行）",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は、筑後国府の置かれた地に育ち、有馬氏21万石の城下町となった「久留米」の名をそのまま継いだもの。地名の確実な用例は室町時代に遡るが、語源については玖留目神説・機織りの工人に由来する説・来目皇子説・筑後川の蛇行をいう「クルメク」説などが併記され、定説はない。",
+   "first_attestation": {
+    "era": "応永25年",
+    "year_western": 1418,
+    "document": "報恩寺坪付帳",
+    "note": "「久留目」という表記での用例。Wikipediaが紹介するもので、原典の直接確認は未了"
+   },
+   "claims": [
+    {
+     "text": "1889年（明治22年）4月1日、市制施行により久留米市が誕生した。当時の人口は24,750人で、福岡市とともに福岡県で最初の市の一つであった（地方公共団体コードは402036）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kurume-city-history",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "古代には筑後国府がこの地に置かれ、北部九州の行政・交通の要衝として栄えたと久留米市は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kurume-city-history"
+     ]
+    },
+    {
+     "text": "江戸時代には有馬氏が丹波国福知山から入部し（1621年）、明治まで11代の城主が治める21万石の城下町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kurume-city-history"
+     ]
+    },
+    {
+     "text": "「久留米」という地名は室町時代から文献に見られ、応永25年（1418年）の「報恩寺坪付帳」には「久留目」と記されているとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "k6-kurume-wikipedia"
+     ]
+    },
+    {
+     "text": "語源には、天慶7年（944年）の「筑後国神名帳」にみえる「玖留目神」に由来するとする説、大陸から渡来した機織りの工人の「呉姫（くれひめ）」「繰女（くりめ）」が転訛したとする説、用明天皇の皇子・来目皇子に由来する説、筑後川の大きな蛇行を意味する「クルメク（転く）」を語源とする説などがあり、定説はない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "k6-kurume-wikipedia"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）2月に田主丸町・北野町・城島町・三潴町の4町を編入して市域が拡大し、2008年（平成20年）4月には九州では県庁所在地以外で唯一の中核市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kurume-city-bunkazai"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市制の年に襲った大洪水——筑後川との戦いの始まり",
+    "text": "久留米市が生まれた1889年、その年の7月に筑後川が氾濫し、流域は泥土と化して流失家屋は1,262戸に及んだと記録にある。市はこの後も大正10年、昭和28年と大洪水に見舞われ続けた。久留米市自身が「本市の歴史は、筑後川との戦いの歴史であったということができます」と書くほどで、城下町の繁栄も軍都の発展も、つねにこの大河の恵みと脅威の裏表だった。",
+    "sources": [
+     "k6-kurume-city-history"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "語源諸説と1418年の用例は、現時点ではWikipediaの整理に依拠しており、『筑後国神名帳』『報恩寺坪付帳』の原典や角川日本地名大辞典での直接確認が未了",
+    "筑後国府の所在地が現在の市街地とどう重なるか（位置のずれ）の精密な検討は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-八女市",
+   "code": "402109",
+   "names": {
+    "ja": "八女市",
+    "reading": "やめし",
+    "aliases": [
+     "福島町",
+     "福島市（発足直前に県へ提出された市名）",
+     "筑後福島市（計画段階の候補名）"
+    ]
+   },
+   "user_terms": [
+    "八女茶のまち",
+    "八女津媛のふるさと",
+    "幻の福島市",
+    "白壁の町並み・福島",
+    "やめし"
+   ],
+   "naming_type": "文献から命名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県南部、矢部川流域の市で、八女茶や手すき和紙・仏壇などの伝統工芸で知られる。地名「八女」は『日本書紀』が伝える女神・八女津媛に由来するといわれ、1896年に八女郡の名として行政区画に採用された。1954年の市制では当初「福島市」として県へ書類が提出され、「筑後福島市」案を経て、最終的に郡名の「八女市」として発足した。2006年に上陽町、2010年に黒木町・立花町・星野村・矢部村を編入して現在の市域となった。",
+   "first_attestation": {
+    "era": "景行天皇18年（『日本書紀』の編年）",
+    "year_western": null,
+    "document": "『日本書紀』",
+    "note": "景行天皇の筑紫巡行の記事の中に女神「八女津媛」の名が見える。書紀の編年上の年次であり実年代を示すものではない。市公式が地名の由来として引く最古の文献である"
+   },
+   "claims": [
+    {
+     "text": "八女市の地方公共団体コードは402109である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "八女市公式は、地名の由来として『日本書紀』の「この地方に女神あり、その名を八女津媛といい、常に山中にある」という一節を紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-ayumi",
+      "r3-yame-kobunsyokan"
+     ]
+    },
+    {
+     "text": "市域の矢部地区（北矢部）には、女神・八女津媛を祀る八女津媛神社が鎮座する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-jinja"
+     ]
+    },
+    {
+     "text": "1896年（明治29年）に福島町を中心として八女郡が形成され、「八女」が行政区画の名として採用された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-ayumi"
+     ]
+    },
+    {
+     "text": "近世の中心地は福島で、福島町は八女地方の物産集積地として栄え、福島城の城下に由来する白壁の町並みが現在の市中心部に残る",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-ayumi",
+      "r3-yame-kanko"
+     ]
+    },
+    {
+     "text": "1954年4月1日、福島町に川崎村・忠見村・岡山村の一部が編入して市制を施行し、八女市が誕生した（市制施行時の人口は41,240人）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-ayumi",
+      "r3-yame-kobunsyokan"
+     ]
+    },
+    {
+     "text": "市名は当初「福島市」として1954年3月12日付で県に提出されたが、福島県の福島市と同名になるため「筑後福島市」に改められた後、隣接する羽犬塚町ほかが「筑後市」として発足することや字画が多すぎるといった意見を受けて再検討され、旧福島町住民の反対を説得の上で最終的に「八女市」に決定したと、福岡共同公文書館は県の公文書に基づいて伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-kobunsyokan"
+     ]
+    },
+    {
+     "text": "自治体の変遷記録では、1954年4月1日にいったん「福島市」として市制が施行され、同日付の市名変更条例（条例第5号）と総理府告示第385号によって「八女市」へ名称変更された形で記録されている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "r3-yame-uub-detail"
+     ]
+    },
+    {
+     "text": "2006年10月1日に上陽町を編入し、2010年2月1日に黒木町・立花町・星野村・矢部村を編入合併した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-ayumi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "幻の「福島市」と「筑後福島市」",
+    "text": "1954年の市制を前に、八女の新しい市の名前は二転三転した。最初は中心地の名を取った「福島市」。しかし福島県に同名の市がある。そこで「筑後福島市」としたものの、今度は隣の羽犬塚町などが「筑後市」を名乗ることになり、字画も多すぎると再検討になった。旧福島町の住民からは反対も出たが、説得の末に決まったのが、女神の名に由来する郡名「八女」だった。告示の上では「福島市」が一日だけ存在したことになる、日本でも珍しい同名回避の顛末である。",
+    "sources": [
+     "r3-yame-kobunsyokan",
+     "r3-yame-uub-detail"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "『日本書紀』の八女津媛の記事が現在の八女市域を指すという比定の根拠は、市公式の解説では示されていない",
+    "「八女」という語そのものの語源（女神の名が先か、地名が先か）は確定していない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-北九州市",
+   "code": "401005",
+   "names": {
+    "ja": "北九州市",
+    "reading": "きたきゅうしゅうし",
+    "aliases": []
+   },
+   "user_terms": [
+    "北九州市はどうやってできたの",
+    "西京市って何",
+    "門司 小倉 八幡の合併",
+    "九州で最初の100万都市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "1963年2月10日、門司・小倉・若松・八幡・戸畑の5市が対等合併して誕生した市で、市名は全国公募を経て「北九州市」に決まった。公募の最多票は「西京市」だったが、合併促進協議会が「呼び慣れていて身近に感じる」として、次点の「北九州市」を選んだという経緯が残る。",
+   "first_attestation": {
+    "era": "昭和37年",
+    "year_western": 1962,
+    "document": "新市名の全国公募と北九州五市合併促進協議会による「北九州」の決定",
+    "note": "市名としての成立。翌1963年2月10日に市が発足した。「北九州」という地域名自体は、合併前から五市一帯を指す呼び名として定着していた"
+   },
+   "claims": [
+    {
+     "text": "1963年（昭和38年）2月10日、門司市・小倉市・若松市・八幡市・戸畑市の5市が対等合併して北九州市が誕生し、九州初の100万都市となった（地方公共団体コードは401005）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kitakyushu-city-pr",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "新市名は全国に募集され、約13万7,000通の応募があった。最多は「西京市」の約1万2,100通で、「北九州市」は約6,600通で次点だったと北九州市政だよりは伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kitakyushu-city-pr"
+     ]
+    },
+    {
+     "text": "最終的には北九州五市合併促進協議会で、「呼び慣れていて、身近に感じる」などの理由から「北九州市」に決まった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kitakyushu-city-pr"
+     ]
+    },
+    {
+     "text": "国立国会図書館のレファレンス事例によれば、公募は1962年（昭和37年）4月1日から5月10日まで行われ、応募総数137,142通・市名の種類は19,292種に上り、同年6月10日に「北九州」と決定したと当日の夕刊が報じた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kitakyushu-ndl-crd"
+     ]
+    },
+    {
+     "text": "合併前の五市一帯はすでに「北九州」と呼ばれており、その呼び慣れた広域地名が新しい市の名として採用された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kitakyushu-city-pr"
+     ]
+    },
+    {
+     "text": "旧5市の区域は現在の門司区・小倉北区・小倉南区・若松区・八幡東区・八幡西区・戸畑区の7区のおおむねのもとになっており、北九州市は政令指定都市である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-kitakyushu-city-pr",
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "公募1位は「西京市」だった",
+    "text": "新しい市の名前を全国から募ったところ、集まったのは約13万7,000通。いちばん多かったのは「西京市」で、「北九州市」はその半分ほどしかなかった。それでも最終的に選ばれたのは「北九州市」だった。合併協議会の理由は「呼び慣れていて、身近に感じる」から。応募作の中には「八小門若戸」「19635」「NKC」のような珍名も並んでいたと『北九州五市合併の記録』は伝える。人気投票ではなく「日常の呼び名」を採った判断が、そのまま定着した市名を決めた。",
+    "sources": [
+     "k6-kitakyushu-city-pr",
+     "k6-kitakyushu-ndl-crd"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「北九州」という広域地名がいつ頃から五市一帯を指して使われ始めたか（北九州工業地帯の呼称の定着過程）は、本調査では確認できなかった",
+    "政令指定都市への移行日（1963年4月1日とされる）については、市の公式年表での直接確認が未了のため主張に含めていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-古賀市",
+   "code": "402231",
+   "names": {
+    "ja": "古賀市",
+    "reading": "こがし",
+    "aliases": [
+     "席内"
+    ]
+   },
+   "user_terms": [
+    "古賀市の名前の由来",
+    "駅の名前が町名になった市",
+    "むしろうちが古賀になった理由"
+   ],
+   "naming_type": "その他（旧村名「席内」から、村内の一地区名「古賀」へ改称して継承した）",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は、もとの村名「席内（むしろうち）」を1938年の町制施行の際に改めた「古賀」に由来する。古賀は村内の海岸沿いの一地区の名で、明治期に開業した古賀駅の所在地として知られていた。1955年に小野村・青柳村と合併して古賀町となり、1997年10月1日に市制を施行した。地区名「古賀」自体の語源は明らかでない。",
+   "first_attestation": {
+    "era": "昭和13年",
+    "year_western": 1938,
+    "document": "町制施行に伴う改称（席内村から古賀町へ）",
+    "note": "自治体名としての「古賀」の初出。地区名としての「古賀」はそれ以前から存在したが、文献上の初出は未確認"
+   },
+   "claims": [
+    {
+     "text": "古賀市の地方公共団体コードは402231である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1889年の町村制施行により糟屋郡に席内村・小野村・青柳村が発足し、席内村は1938年の町制施行により古賀町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-koga-city-history"
+     ]
+    },
+    {
+     "text": "1955年に旧古賀町・小野村・青柳村が合併して新・古賀町となり、1997年10月1日に市制を施行して古賀市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-koga-city-history"
+     ]
+    },
+    {
+     "text": "古賀駅は1890年（明治23年）9月28日に開業した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-koga-city-history"
+     ]
+    },
+    {
+     "text": "席内が古賀に改称したのは、鉄道が敷かれる際に集落を避けて海岸沿いの「古賀」（現在の天神地区）に駅が作られたためであると言われている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-koga-wikipedia"
+     ]
+    },
+    {
+     "text": "地区名「古賀」の語源は明らかではなく、九州の「古賀」は湿地を意味する「こが」の当て字であるとする名字・地名系資料の説明があるにとどまる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "r2-koga-namedic"
+     ]
+    }
+   ],
+   "column": {
+    "title": "駅が村の名前を変えた",
+    "text": "もとの名は「席内（むしろうち）」といった。ところが明治23年（1890年）、村に鉄道の駅ができると、駅は集落を避けて海岸沿いの「古賀」という地区に置かれ、「古賀駅」と名付けられた。やがて人々が村を指して呼ぶ名は、駅の名前のほうへ移っていく。1938年、村が町になるとき、ついに自治体の名前そのものが「古賀」に改められた。鉄道の駅名が村名を置き換えた、近代らしい地名の交代である。",
+    "sources": [
+     "r2-koga-wikipedia",
+     "r2-koga-city-history"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-福津市",
+    "muni/40-宗像市"
+   ],
+   "unknowns": [
+    "地区名「古賀」の文献上の初出と語源は確認できなかった",
+    "改称の理由について、市の一次資料による明示は未確認であり、駅に由来するという説明は言い伝えとして伝わるもの"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-嘉麻市",
+   "code": "402273",
+   "names": {
+    "ja": "嘉麻市",
+    "reading": "かまし",
+    "aliases": [
+     "山田市",
+     "稲築町",
+     "碓井町",
+     "嘉穂町"
+    ]
+   },
+   "user_terms": [
+    "嘉麻はなぜ嘉麻というの",
+    "旧山田市のあたり",
+    "遠賀川の源流のまち",
+    "嘉穂の南部"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "平成18年（2006年）3月27日、山田市・稲築町・碓井町・嘉穂町の1市3町が合併して発足した市。市名の「嘉麻」は、明治29年（1896年）の郡統合で姿を消した古代以来の郡名「嘉麻郡」の復活で、公募398種・1,531件の中から「地域の歴史・文化に根ざした名称」として選ばれた。もとの名は『日本書紀』にみえる「鎌」に、和銅6年（713年）の好字化で「嘉麻」の字が当てられたと伝えられる。",
+   "first_attestation": {
+    "era": "和銅6年",
+    "year_western": 713,
+    "document": "郡郷名の好字二字化（『続日本紀』和銅6年条に諸国の郡郷名に好字を命じた記事がある）",
+    "note": "「嘉麻」の字が当てられた時期として嘉麻市観光まちづくり協会の資料が伝えるもの。『日本書紀』巻十八の安閑天皇条には前身とされる「鎌の屯倉」の記事がみえるが、「嘉麻」表記そのものの最古の用例は直接確認していない"
+   },
+   "claims": [
+    {
+     "text": "嘉麻市の地方公共団体コードは402273である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "平成16年（2004年）11月に嘉穂南部1市3町合併協議会が設置され、平成18年（2006年）3月27日に山田市・稲築町・碓井町・嘉穂町が合併して「嘉麻市」が誕生した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r4-kama-kanko-ayumi"
+     ]
+    },
+    {
+     "text": "新市の名称は一般公募され、398種・1,531件の応募の中から「地域の歴史・文化に根ざした名称である」「インパクトがある」等の理由により「嘉麻市」と決定し、最終選考には「嘉穂市」と「嘉南市」が残った",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r4-kama-kanko-ayumi"
+     ]
+    },
+    {
+     "text": "「嘉麻」の由来について嘉麻市観光まちづくり協会は、『日本書紀』巻十八の安閑天皇の条に「鎌の屯倉（みやけ）」を置いたと記され、その後、和銅6年（713年）に諸国の郡郷名に好字をつけることが命令されたときに「嘉麻」の字が当てられたと説明している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r4-kama-kanko-ayumi"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村制施行時にもこの一帯の村々は嘉麻郡に属していたが、明治29年（1896年）の郡統合で嘉麻郡と穂波郡をもって嘉穂郡が発足し、嘉麻郡は廃止されたため、「嘉麻」の名は約110年ぶりに地域の名として復活したことになる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-kama-wikipedia-gun",
+      "r4-kama-kanko-ayumi"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、延喜5年（925年）の観世音寺資財帳にみえる筑前国の「碓井封」が嘉麻郡碓井郷にあたると紹介しており、合併前の碓井町の名は古代の碓井郷に遡る",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r4-ukiha-kotobank-ikuha"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えた郡の名の復活",
+    "text": "「嘉麻」は新しい造語ではない。古代の筑前国に嘉麻郡があり、その名は『日本書紀』の「鎌の屯倉」に、和銅6年（713年）の好字二字化で瑞祥の字を当てたものと伝えられる。ところが明治29年（1896年）の郡統合で嘉麻郡は嘉穂郡に吸収され、地図から消えた。平成18年（2006年）の合併で新市名を公募したところ、住民の応募の中からこの「嘉麻」が掘り起こされ、「嘉穂市」「嘉南市」を退けて選ばれた。約110年ぶりに、古代の郡名が市名としてよみがえったのである。",
+    "sources": [
+     "r4-kama-kanko-ayumi",
+     "r4-kama-wikipedia-gun"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「鎌（かま）」という元の地名の語源（鎌形の地形に由来するのか等）は、確認した資料では説明されていなかった",
+    "『日本書紀』の「鎌の屯倉」の記事と後の嘉麻郡とのつながりは市の観光協会資料の説明によるもので、専門辞典による裏付けは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-大川市",
+   "code": "402125",
+   "names": {
+    "ja": "大川市",
+    "reading": "おおかわし",
+    "aliases": [
+     "大川町"
+    ]
+   },
+   "user_terms": [
+    "大川はなぜ大川というの",
+    "家具のまち大川",
+    "大川家具の産地",
+    "榎津（えのきづ）のあたり"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "筑後川の河口域に位置する家具のまち。明治22年（1889年）に誕生した大川町の名を引き継ぎ、昭和29年（1954年）に大川町と周辺5村が合併して大川市となった。市は「大川」の名を「筑後川にゆかりある地名」と説明するが、命名の具体的な経緯や語源の定説は公表資料では示されていない。河口の榎津・若津は古くから水運の拠点で、船大工の技術が後の大川家具の基盤になった。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行による大川町の発足",
+    "note": "自治体名としての「大川」の初出。それ以前に集落名・地域名として「大川」がどの範囲を指して使われていたかは、確認した市の資料では明らかにされていない"
+   },
+   "claims": [
+    {
+     "text": "大川市の地方公共団体コードは402125である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村合併に伴い大川町が誕生したと大川市の歴史文化基本構想は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-okawa-rekishi-bunka"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）の町村合併の際に、三瀦郡大川町と三又村・木室村・田口村・川口村・大野島村の1町5村が合併して「大川市」が誕生し、「大川」の名は新市の名称として継承された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-okawa-rekishi-bunka"
+     ]
+    },
+    {
+     "text": "「大川」の名について市は「筑後川にゆかりのある地名として市民に定着している」と説明するにとどまり、命名の経緯や語源の定説は市の公表資料では示されていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "r4-okawa-rekishi-bunka"
+     ]
+    },
+    {
+     "text": "筑後川はかつて「ちとせ川（千年川）」や「一夜川」、筑前・筑後の両国の中間にあるため「筑間川」とも呼ばれ、江戸幕府の命により寛永13年（1636年）に「筑後川」と改称されたと市の資料は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-okawa-rekishi-bunka"
+     ]
+    },
+    {
+     "text": "市域の榎津には近世初期に船大工が住んでいたことが史料で確認でき、日田の木材が筑後川を通じて運ばれたことが、後の木工・家具産業の発展の基盤になった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-okawa-rekishi-bunka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "川の名を冠する家具のまち",
+    "text": "大川市の市名は、九州最大の川・筑後川の河口に開けた町の名である。河口の榎津・若津は水運の拠点として栄え、船大工たちが高度な木工技術を伝えた。明治に入ると榎津指物は「大川指物」と呼ばれるようになり、昭和54年（1979年）には生産額1,000億円を超えて「日本一の家具のまち」となった。川が運んだ木材と、川の名を冠した町の名は、このまちでは今も切り離せない。",
+    "sources": [
+     "r4-okawa-rekishi-bunka"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「大川」の語源の定説（筑後川そのものを指した呼び名だったのか、1889年の合併時に新たに付けられたのか）は、公的・専門資料では確認できなかった",
+    "明治22年（1889年）の大川町の成立時の構成（榎津・小保・向島などの範囲）は、市の要約資料からは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-大牟田市",
+   "code": "402028",
+   "names": {
+    "ja": "大牟田市",
+    "reading": "おおむたし",
+    "aliases": []
+   },
+   "user_terms": [
+    "大牟田ってどういう意味",
+    "三池炭鉱のまち",
+    "大蛇山まつりのまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は、有明海沿岸に広がっていた大きな低湿地帯を指す「ムタ（牟田）」に由来すると公的資料は説明する。「牟田」は沼地・湿地を意味する古い地名語で、1889年に合併で生まれた大牟田町がそのまま1917年に市制を施行して大牟田市となった。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行による三池郡大牟田町の発足",
+    "note": "大牟田町は大牟田・下里・稲荷・横須の4か村の合併で発足し、構成村の一つ大牟田村の名を継いだ。村名としての「大牟田」の文書上の初出は本調査では特定できなかった"
+   },
+   "claims": [
+    {
+     "text": "環境省九州地方環境事務所の資料は「本市の名称は、有明海沿岸の大きな低湿地帯（ムタ）に由来する」と説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-omuta-env-kyushu"
+     ]
+    },
+    {
+     "text": "「牟田（無田）」は沼地・湿地を意味する語で、大分県立図書館のレファレンス回答も「無田（牟田）は沼地、湿地のこと」と解説する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-omuta-ndl-crd"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）4月1日、町村制の施行により大牟田・下里・稲荷・横須の4か村が合併して三池郡大牟田町が発足したとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l6-omuta-wikipedia"
+     ]
+    },
+    {
+     "text": "1917年（大正6年）に市制を施行して大牟田市となった（地方公共団体コードは402028）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-omuta-city-ayumi",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "市制後も市名は受け継がれ、1929年（昭和4年）には三川町を編入するなど市域を広げながら「大牟田」の名を維持した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-omuta-city-ayumi"
+     ]
+    },
+    {
+     "text": "市の夏祭り「大蛇山」は三池の祇園祭に由来し、蛇は水の神様の象徴とする水神信仰と結びついた行事であると祭りの公式サイトは説明する。1852年（嘉永5年）の三池祇園の祭りで約30人が山を曳いた記録が原型とされる",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l6-omuta-daijayama"
+     ]
+    }
+   ],
+   "column": {
+    "title": "ムタのまちと、水の神の大蛇",
+    "text": "「大牟田」という名の芯にあるのは、沼地や湿地を指す古い言葉「ムタ」である。有明海の干潟に面した低湿地の地名が、そのまま炭鉱のまちの名になった。一方、このまちの夏を彩る大蛇山まつりで主役になるのは、水の神の象徴とされる大蛇の山車である。湿地の名を持つまちが、水の神を祀る祭りを育てたという重なりは、偶然以上の土地の記憶を感じさせる。もっとも、これは地名と祭りの由来を直接結ぶ資料があるわけではなく、あくまで読み物としての感想にとどまる。",
+    "sources": [
+     "l6-omuta-env-kyushu",
+     "l6-omuta-daijayama"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "村名としての「大牟田」の文書上の初出（中世・近世の三池郡大牟田村の用例）は本調査では特定できなかった",
+    "『角川日本地名大辞典』など専門辞典における大牟田の語源記述の直接確認が未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-大野城市",
+   "code": "402192",
+   "names": {
+    "ja": "大野城市",
+    "reading": "おおのじょうし",
+    "aliases": [
+     "大野"
+    ]
+   },
+   "user_terms": [
+    "大野城市の名前の由来",
+    "大野城跡の市",
+    "日本最古の山城の名前の市"
+   ],
+   "naming_type": "その他（古代の山城「大野城」の名に由来し、旧村名・町名「大野」を経て市名となった）",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は、天智4年（665年）に大野山（現在の四王寺山）に築かれた朝鮮式山城「大野城」に由来すると市は説明する。663年の白村江の戦いの敗北を受け、大宰府を守るために築かれた日本最古級の山城で、その名は1889年発足の大野村、大野町を経て、1972年4月の市制施行により大野城市となった。",
+   "first_attestation": {
+    "era": "天智4年",
+    "year_western": 665,
+    "document": "日本書紀（天智天皇4年条）",
+    "note": "憶礼福留らを筑紫に遣わして大野城と基肄城（椽城）を築かせた記事として『改訂新版 世界大百科事典』が紹介するもの。原文の直接確認は未了のため紹介形で記録する"
+   },
+   "claims": [
+    {
+     "text": "大野城市の地方公共団体コードは402192である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "大野城市の名称は、天智4年（665年）に大野山（現在の四王寺山）に築かれた、わが国最古の朝鮮式山城「大野城」に由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-onojo-city-gaiyo"
+     ]
+    },
+    {
+     "text": "大野城は663年の白村江の戦いの敗北を受けて唐・新羅の攻撃に備えて築かれ、水城・基肄城と連携して大宰府の防衛にあたった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-onojo-city-gaiyo"
+     ]
+    },
+    {
+     "text": "『日本書紀』天智天皇4年条には、百済系の憶礼福留と四比福夫を筑紫国に遣わして大野城と椽城（基肄城）を築かせたことが記されていると『改訂新版 世界大百科事典』は紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r2-onojo-kotobank"
+     ]
+    },
+    {
+     "text": "現在の市域は1889年の村制施行による大野村の誕生をもって一つの自治体となり、1950年に町制を施行して大野町、1972年4月に市制を施行して大野城市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-onojo-city-gaiyo"
+     ]
+    },
+    {
+     "text": "大野城跡は太宰府市・宇美町にもまたがる国の特別史跡で、四王寺山一帯に全周約6キロを超える土塁・石垣の跡が残る",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r2-onojo-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "山の上の城の名を名乗る市",
+    "text": "大野城市の市役所のあたりに、城はない。市の名の由来となった大野城は、市域の端、四王寺山の山上にある。665年、白村江の敗戦の衝撃の中で築かれた朝鮮式山城で、全周6キロを超える土塁が山を取り巻いた。城跡自体は太宰府市・宇美町にもまたがり、今は特別史跡として静かに残るだけだが、その名は大野村・大野町を経て市の名前となり、1300年以上も呼ばれ続けている。実物の城が役目を終えたあとも、名前だけが平地の市に生き残ったのである。",
+    "sources": [
+     "r2-onojo-city-gaiyo",
+     "r2-onojo-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-太宰府市",
+    "muni/40-春日市",
+    "muni/40-福岡市"
+   ],
+   "unknowns": [
+    "1889年の大野村の村名が大野城に直接由来することを示す当時の記録は未確認であり、市の説明の範囲にとどまる",
+    "「大野」という地名自体の語源は、今回の資料では特定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-太宰府市",
+   "code": "402214",
+   "names": {
+    "ja": "太宰府市",
+    "reading": "だざいふし",
+    "aliases": [
+     "大宰府",
+     "宰府"
+    ]
+   },
+   "user_terms": [
+    "太宰府と大宰府の違い",
+    "令和の都 太宰府",
+    "太宰府天満宮の市",
+    "大宰府政庁跡"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は、九州全体を統治した古代の役所「大宰府」に由来する。役所の正式表記は「大宰府」だが、地名としては奈良時代から「太宰府」の表記も現れ、中世以降は「太」が主流となり、近世にはほとんど「太宰府」と書かれた。1881年に宰府村が太宰府村と改称し、1892年に太宰府町、1982年4月1日に太宰府市となった。現在も役所・遺跡は「大宰府」、地名・自治体は「太宰府」と書き分けられている。",
+   "first_attestation": {
+    "era": "天智10年",
+    "year_western": 671,
+    "document": "日本書紀",
+    "note": "「大宰府」の語の初出とWikipediaが紹介するもの。原文の直接確認は未了のため紹介形で記録する"
+   },
+   "claims": [
+    {
+     "text": "太宰府市の地方公共団体コードは402214である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "古代の役所の正式な表記は、現存する印影「大宰之印」や『続日本紀』の表記から「大宰府」であったと考えられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-city-faq"
+     ]
+    },
+    {
+     "text": "奈良時代の文書にもすでに「太宰府」と表記されたものがあり、中世からは「太宰府」と書く文書が多くなり、近世以降は地名としてほとんど「太宰府」と書かれるようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-city-faq"
+     ]
+    },
+    {
+     "text": "太宰府市公式によれば、昭和30年代末頃に九州大学の鏡山猛教授らが古代の役所と中世以降の地名を書き分けることを始めたことがきっかけとなり、現在は律令時代の役所・遺跡を「大宰府」、中世以降の地名や太宰府天満宮を「太宰府」と表記し、行政表記も「大宰府政庁跡」「太宰府市」のように明確に使い分けられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-city-faq",
+      "r2-dazaifu-city-plan"
+     ]
+    },
+    {
+     "text": "「宰府」という略称の確認できる最古の用例は永長2年（1097年）の記述で、12世紀以降に使用例が増えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-city-faq"
+     ]
+    },
+    {
+     "text": "1881年に御笠郡宰府村が太宰府村と改称し、1889年の町村制で太宰府村となり、1892年に町制を施行して太宰府町となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-wikipedia"
+     ]
+    },
+    {
+     "text": "1955年3月1日に水城村と対等合併して新・太宰府町となり、1982年4月1日に市制を施行して太宰府市となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-wikipedia"
+     ]
+    },
+    {
+     "text": "大宰府は九州における政治の重要性を考えて古代律令制下に置かれた役所であり、その読みは和名でオオイミコトモチノツカサであったと太宰府市は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-dazaifu-city-chimei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "元号「令和」は太宰府で生まれた",
+    "text": "新元号「令和」の典拠となった『万葉集』巻5の「梅花の宴」の序文は、大宰府の長官・大伴旅人の邸宅で催された宴を記したものである。730年正月、九州各地の官人たちが旅人の邸に集い、梅の花を題に32首の歌を詠んだ。その宴の序に「初春の令月、気淑く風和らぐ」とあったことが、1300年近くを経て日本の元号の出典となった。太宰府市はこのゆかりから「令和発祥の都」を掲げている。古代の役所の名を継ぐ市が、元号のふるさとにもなったのである。",
+    "sources": [
+     "r2-dazaifu-city-plan"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-大野城市",
+    "muni/40-福岡市"
+   ],
+   "unknowns": [
+    "村名として「太宰府」の表記が1881年の改称で採用された経緯（なぜ「大」でなく「太」だったのか）は、市の公式資料では確認できなかった",
+    "『日本書紀』の671年の記事が「大宰府」の初出であるという説はWikipediaの紹介によるもので、原文の確認は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-宗像市",
+   "code": "402206",
+   "names": {
+    "ja": "宗像市",
+    "reading": "むなかたし",
+    "aliases": [
+     "胸形",
+     "胸肩",
+     "宗形",
+     "牟那加多"
+    ]
+   },
+   "user_terms": [
+    "宗像の名前の由来",
+    "宗像大社の市",
+    "沖ノ島の世界遺産の市",
+    "胸形と書いた宗像"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は、宗像大社とそれを奉斎した胸形氏（のちの宗像氏）、そして古代の宗像郡の名を継ぐ。ムナカタは記紀では「胸形」「胸肩」などと書かれ、「宗像」の表記は平安から中世以降に定着した。1955年に宗像町が成立し、1981年に市制を施行、2003年に玄海町と合併、2005年に大島村を編入して現在の市域となった。2017年には宗像大社の三宮を含む資産が世界遺産に登録された。",
+   "first_attestation": {
+    "era": "奈良時代",
+    "year_western": 712,
+    "document": "古事記",
+    "note": "宗像三女神の鎮座地として「胸形の奥津宮・中津宮・辺津宮」のように「胸形」の表記で現れる（國學院大學の神社データベースが紹介）。現在の「宗像」の表記ではない点に注意"
+   },
+   "claims": [
+    {
+     "text": "宗像市の地方公共団体コードは402206である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "國學院大學の神社データベースによれば、『古事記』は宗像三女神が「胸形の奥津宮・中津宮・辺津宮」に鎮座すると伝え、三女神を奉斎する氏族を記紀の本書は「胸形君」とする",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kokugakuin-munakata"
+     ]
+    },
+    {
+     "text": "ムナカタの表記は古くは胸形・胸肩・宗形・牟那加多など様々に書かれたが、平安時代以降（むなかた電子博物館は中世以降とする）に「宗像」の表記が定着したとされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kokugakuin-takirihime",
+      "r2-munahaku-chimei"
+     ]
+    },
+    {
+     "text": "古代の宗像郡は現在の宗像市・福津市・古賀市のほぼ全域を含む範囲であり、『和名類聚抄』には郡内に十四郷があったと宗像市の計画資料は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-munakata-city-plan"
+     ]
+    },
+    {
+     "text": "1981年に宗像町が市制を施行し、2003年に玄海町と合併、2005年に大島村を編入して現在の宗像市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-munakata-city-plan"
+     ]
+    },
+    {
+     "text": "宗像大社の沖津宮・中津宮・辺津宮を含む「『神宿る島』宗像・沖ノ島と関連遺産群」が2017年7月に世界遺産に登録され、三宮すべてが同一自治体内に所在するようになったことが登録活動の弾みになったと宗像市は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-munakata-city-plan"
+     ]
+    },
+    {
+     "text": "ムナカタの語源については、『宗像郡勢大鑑』がムネ（高くなった所）・カタ（方）の転訛で沼沢地に接する集落を意味するとし、『福岡県地名考』はヌマ・カタ・ガタ（潟）の転訛とする説を紹介しており、定説はない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "r2-munahaku-chimei"
+     ]
+    },
+    {
+     "text": "『西海道風土記』の逸文に基づく伝承として、宗像三女神の形代を奉祭したことから「身の形・身の像」と称し、これが宗像の名の起こりであると伝えられる",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r2-munahaku-chimei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "合併が世界遺産を後押しした",
+    "text": "宗像大社は、沖ノ島の沖津宮、大島の中津宮、本土の辺津宮の三宮からなる。この三宮は、もともと別々の自治体に分かれて存在していた。2003年に玄海町が、2005年に大島村が宗像市に加わったことで、三宮すべてがひとつの市の中にそろった。市の計画資料は、この合併が世界遺産登録への活動の大きな弾みになったと振り返る。2017年、「『神宿る島』宗像・沖ノ島と関連遺産群」は世界遺産に登録された。地名の由来である神社の三宮が、平成の市町村合併によって一つの自治体に収まったのである。",
+    "sources": [
+     "r2-munakata-city-plan"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-福津市",
+    "muni/40-古賀市"
+   ],
+   "unknowns": [
+    "「胸形」の語義（なぜ「胸」の字があてられたのか）は、今回の資料では確定できなかった",
+    "宗像郡という郡名の文献上の初出は特定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-宮若市",
+   "code": "402265",
+   "names": {
+    "ja": "宮若市",
+    "reading": "みやわかし",
+    "aliases": [
+     "宮田町",
+     "若宮町"
+    ]
+   },
+   "user_terms": [
+    "宮若はなぜ宮若というの",
+    "旧宮田町・若宮町のあたり",
+    "犬鳴（いぬなき）の山あい",
+    "脇田温泉のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "平成18年（2006年）2月11日、鞍手郡の宮田町と若宮町が合併して発足した市。市名「宮若」は宮田の「宮」と若宮の「若」を合わせた合成地名で、公募では「宮田」との一騎打ちの末に選ばれたと伝えられる。若宮の名は中世の荘園「若宮荘」に遡り、その起こりは若宮八幡宮と推定されている。",
+   "first_attestation": {
+    "era": "平成17年",
+    "year_western": 2005,
+    "document": "合併の官報告示（平成17年4月28日）",
+    "note": "市名「宮若」としての初出はこの合併告示とされ、自治体としては平成18年（2006年）2月11日に発足した。もとの地名の層では、中世の荘園名「若宮荘」が古い用例にあたる"
+   },
+   "claims": [
+    {
+     "text": "宮若市の地方公共団体コードは402265である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "本市は平成18年（2006年）2月11日、鞍手郡宮田町と若宮町の合併を経て発足したと宮若市教育委員会の文化財保護基本計画は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyawaka-bunkazai-plan"
+     ]
+    },
+    {
+     "text": "中世の本市域は宗像社領や若宮荘・粥田荘の領域で、若宮荘の名は、京都六条若宮との関係でこの地に置かれた若宮八幡宮がその名の起こりと推定されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyawaka-bunkazai-plan"
+     ]
+    },
+    {
+     "text": "若宮町は昭和18年（1943年）に町制を施行し、昭和26年（1951年）に中村・山口村と合併したと市の計画は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-miyawaka-bunkazai-plan"
+     ]
+    },
+    {
+     "text": "新市名は公募され、「若宮田」「宮田」「宮若」「犬鳴」など候補10点が挙がり、最終候補2点（宮田・宮若）の中から「宮若」が選ばれたと市区町村変遷のデータベースは伝える",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-miyawaka-hensen-db"
+     ]
+    },
+    {
+     "text": "市名「宮若」は、合併した宮田町と若宮町の名から一字ずつを取った合成地名である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-miyawaka-hensen-db"
+     ]
+    }
+   ],
+   "column": {
+    "title": "大きな合併からこぼれて生まれた市",
+    "text": "宮若市の合併は、最初から2町の合併だったわけではない。当初は直方市を中心とする「直鞍合併協議会」が平成15年（2003年）に設置され、5市町での大合併が目指された。しかし若宮町が協議から離脱を表明し、宮田町もこれに続いて、結局は2町だけの法定協議会が作り直された。平成18年（2006年）2月11日、宮田の「宮」と若宮の「若」を編んだ「宮若市」が誕生した。大きな枠組みからこぼれた2町が、自分たちの頭文字で新しい市の名を作ったのである。",
+    "sources": [
+     "r4-miyawaka-hensen-db",
+     "r4-miyawaka-bunkazai-plan"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "宮田の「宮」がどの宮（神社）に由来するかは、確認した市の資料では説明されていなかった",
+    "新市名の最終決定が投票によるものか等の具体的な手続きは、公表資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-小郡市",
+   "code": "402168",
+   "names": {
+    "ja": "小郡市",
+    "reading": "おごおりし",
+    "aliases": [
+     "小郡町",
+     "小郡村"
+    ]
+   },
+   "user_terms": [
+    "七夕の里おごおり",
+    "筑紫小郡",
+    "小郡官衙のまち",
+    "おごおりし"
+   ],
+   "naming_type": "文献から命名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県南西部、宝満川流域の市。地名は『日本書紀』に外国使節の饗応の場として記される「筑紫小郡」に遡り、市域には大宰府の客館の施設とされる小郡官衙遺跡がある。1889年に小郡村が成立し、1955年の合併を経て1972年4月1日に市制を施行した。山口県に2005年まであった小郡町とは別の自治体であり、現行の同名自治体はない。",
+   "first_attestation": {
+    "era": "持統天皇3年",
+    "year_western": 689,
+    "document": "『日本書紀』",
+    "note": "「筑紫の小郡にして新羅の弔使に設たまふ」という記事に見える。小郡市公式の資料が『日本書紀』に客館として「筑紫小郡」の名が記されていると紹介する形で確認した"
+   },
+   "claims": [
+    {
+     "text": "小郡市の地方公共団体コードは402168である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "小郡市公式の農村環境計画は、『日本書紀』に客館（外国使節の接待施設）として「筑紫小郡」の名が記されていると紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-ogori-nokankyo"
+     ]
+    },
+    {
+     "text": "市域には官衙の遺跡である小郡官衙遺跡があり、大宰府の客館の所在地として栄えたと市の資料は伝える。ただし設置の時期は、市の「紹介」ページが飛鳥時代、農村環境計画が奈良時代としており、市の資料の間でも表現が分かれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-ogori-shokai",
+      "r3-ogori-nokankyo"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に三井郡小郡村が誕生し、昭和28年（1953年）に町制を施行、昭和30年（1955年）に小郡町・三国村・立石村・御原村・味坂村の1町4村が合併して新・小郡町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-ogori-shokai",
+      "r3-ogori-nokankyo"
+     ]
+    },
+    {
+     "text": "昭和47年（1972年）4月1日に市制を施行して小郡市となった。市制は筑紫野市・春日市・大野城市と同日で、官報告示では小郡市が最初に掲載されたことを市は紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-ogori-50th",
+      "r3-ogori-shokai"
+     ]
+    },
+    {
+     "text": "江戸時代には薩摩街道（坊の津街道）などが市内の松崎を通り、松崎は宿場町として栄えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-ogori-shokai"
+     ]
+    },
+    {
+     "text": "山口県にあった小郡町は2005年に山口市との合併で消滅しており、現在の小郡市と同名の現行自治体は存在しない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r3-ogori-weblio"
+     ]
+    }
+   ],
+   "column": {
+    "title": "客をもてなす場所の名前",
+    "text": "「小郡」は、もとは郡の名前ではない。『日本書紀』の筑紫小郡は、外国からの使節を迎えて饗応する客館の名だった。市内には小郡官衙遺跡が残り、大宰府の客をもてなす表玄関だったことを今に伝える。1889年の村名、1972年の市名として受け継がれたこの二文字は、行政区画の名になるずっと前から、遠来の客を迎える場所の名前だったのである。",
+    "sources": [
+     "r3-ogori-nokankyo",
+     "r3-ogori-shokai"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「小郡」が『日本書紀』に見える「大郡」と対になる、大小の客館を指す名だったという語源説明は広く流布しているが、専門辞典の原文では確認できなかった",
+    "小郡官衙の設置時期については、市の資料でも飛鳥時代と奈良時代に表現が分かれており確定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-川崎町",
+   "code": "406058",
+   "names": {
+    "ja": "川崎町",
+    "reading": "かわさきまち",
+    "aliases": [
+     "川崎村",
+     "東川崎村",
+     "西川崎村"
+    ]
+   },
+   "user_terms": [
+    "川崎町の名前の由来",
+    "福岡の川崎町はなぜ川崎",
+    "田川郡の炭鉱町"
+   ],
+   "naming_type": "その他",
+   "prefecture": "福岡県",
+   "homonyms": [
+    "muni/04-川崎町"
+   ],
+   "summary": "明治期に東川崎村・西川崎村が合併して生まれた川崎村を前身とし、1937年に安真木村と合併、1938年に町制を施行して川崎町となった。「川崎」の名は村名として先行していたが、その語源は確認した資料では説明されない。宮城県川崎町とは成立の経緯が異なり、共通の命名理由は立証できない。",
+   "first_attestation": {
+    "era": "明治時代（明治20年）",
+    "year_western": 1887,
+    "document": "東川崎村・西川崎村の合併による川崎村の成立",
+    "note": "東・西川崎の村名自体はこれ以前から存在するが、「川崎」の初出・語源は未確認"
+   },
+   "claims": [
+    {
+     "text": "明治20年（1887年）4月に東川崎村と西川崎村が合併して川崎村となり、明治22年（1889年）には川崎・田原・池尻が合併して新たな川崎村が誕生したと沿線紹介資料が伝える",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-f-hitahiko"
+     ]
+    },
+    {
+     "text": "昭和12年（1937年）に南部の安真木村と北部の川崎村が合併し、昭和13年（1938年）から町制を施行して川崎町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-f-town",
+      "h3-kawasaki-f-yoran"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、町域中部を中元寺川が北流し、古代律令制下では和名抄の位登郷に含まれていたとみられると紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-kotobank"
+     ]
+    },
+    {
+     "text": "明治末期以降、古河大峰・三井田川などの炭鉱を有する炭鉱町として発達したが、昭和30年代後半にすべて閉山されたと百科事典の解説にある",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-f-kotobank"
+     ]
+    },
+    {
+     "text": "宮城県川崎町とは「川崎村」を前身とする点は共通する。ただし宮城では1889年の構成5村に「川崎」がなく宿場名「川崎宿」が先行したのに対し、福岡では東・西川崎という村名が先行する点が異なる。両町とも「川崎」の語源そのものは未確認で、共通の命名理由は立証できない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "h3-kawasaki-m-uub",
+      "h3-kawasaki-m-juku",
+      "h3-kawasaki-f-hitahiko"
+     ]
+    },
+    {
+     "text": "総務省「地方公共団体コード一覧」では本町のコードは406058とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    }
+   ],
+   "column": {
+    "title": "川崎村が二度生まれた町",
+    "text": "この町の前身「川崎村」は、1887年に東・西川崎の合併で一度生まれ、1889年の町村制施行でもう一度、田原・池尻を加えて生まれ直しています。さらに1937年の安真木村との合併でも名は「川崎」のまま残り、翌年に町になりました。合併のたびに残り続けた名ですが、その最初の語源だけが記録に残っていません。",
+    "sources": [
+     "h3-kawasaki-f-hitahiko",
+     "h3-kawasaki-f-town"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/04-川崎町"
+   ],
+   "unknowns": [
+    "東・西川崎村の初出と「川崎」の語源（中元寺川との関係を含む）",
+    "1887年・1889年の合併の法的根拠の一次確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-広川町",
+   "code": "405442",
+   "names": {
+    "ja": "広川町",
+    "reading": "ひろかわまち",
+    "aliases": [
+     "上広川村",
+     "中広川村",
+     "下広川村"
+    ]
+   },
+   "user_terms": [
+    "福岡の広川町の由来",
+    "八女の広川町 なぜ広川か",
+    "上広川 中広川 下広川"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [
+    "muni/30-広川町"
+   ],
+   "summary": "八女郡の町で、読みは「ひろかわまち」。「広川」は1889（明治22）年の町村制で上広川村・中広川村・下広川村の3村がそろって名乗った、町村制以前の広川村に遡る既存の地名である。昭和30年（1955）に上・中両村の合併で広川町が発足し、同年12月に下広川村の一部が編入された。同名の和歌山県広川町が合併時に川名を新たに採用した新名であるのと対照的に、こちらは古い地名の継承・統一である。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行による上広川村・中広川村・下広川村の発足",
+    "note": "「広川」は下広川村を構成した広川村のように、町村制以前から存在した村名・川名に遡る。町としての初出は1955年"
+   },
+   "claims": [
+    {
+     "text": "昭和30年（1955）4月1日に上広川村と中広川村が新設合併して広川町が発足し、同年12月1日に下広川村の一部が編入されて現在の町域となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-fukuoka-masterplan"
+     ]
+    },
+    {
+     "text": "明治22年（1889）の町村制施行により、町域には上広川村・中広川村・下広川村が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-fukuoka-enkaku"
+     ]
+    },
+    {
+     "text": "下広川村は明治8年以来の広川村・藤田村・一条村を区域としており、「広川」という村名は町村制以前から存在した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-fukuoka-enkaku"
+     ]
+    },
+    {
+     "text": "下広川村の区域は全域が広川町に入ったのではなく、一部は筑後市と筑邦町へ分かれて編入された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-fukuoka-ayumi"
+     ]
+    },
+    {
+     "text": "町域は発心山に源を発する広川がつくる広川谷の盆地にあり、町名と同じ川が流れ下って筑後川に注ぐ",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-fukuoka-masterplan"
+     ]
+    },
+    {
+     "text": "共通する層として、同名の和歌山県広川町も「広川」という川の名にちなむ町名であり、両町とも町の中心地帯を同名の川が流れる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-wakayama-gaiyo"
+     ]
+    },
+    {
+     "text": "異なる層として、福岡の「広川」は合併で新しく作られた名ではなく、1889年以来3村が共有してきた地名を引き継いで一つの町名に統一したものである。和歌山のように川名を新たに町名へ採用した事例とは成り立ちが逆であり、読みも「ひろかわまち」と異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-hirogawa-fukuoka-enkaku",
+      "h5-hirogawa-kotobank"
+     ]
+    },
+    {
+     "text": "地方公共団体情報システム機構（J-LIS）のコード一覧で、広川町の団体コードは405442とされている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h5-jlis-fukuoka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "上・中・下、川の流れで分かれていた三つの「広川」",
+    "text": "福岡の広川町の前身は、川の上流から下流へ、上広川村・中広川村・下広川村と並んでいました。同じ川の流域に暮らしながら、1889年以来ずっと別々の村だったのです。1955年4月にまず上と中が合併して広川町になり、下は同年12月にようやく一部が町へ加わりましたが、残りは筑後市や筑邦町へと分かれました。一つの川の名前を分け合っていた三つの村が、一つの町に結び直されたのが、この町の成り立ちです。",
+    "sources": [
+     "h5-hirogawa-fukuoka-enkaku",
+     "h5-hirogawa-fukuoka-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/30-広川町"
+   ],
+   "unknowns": [
+    "川名「広川」の語源（広い川原・氾濫原に由来するか等）の町史・地名辞典での確認は未了",
+    "町村制以前の「広川村」の成立時期、近世の村名としての初出は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-春日市",
+   "code": "402184",
+   "names": {
+    "ja": "春日市",
+    "reading": "かすがし",
+    "aliases": []
+   },
+   "user_terms": [
+    "春日市の名前の由来",
+    "春日神社の市",
+    "奈良の春日と関係ある春日",
+    "奴国の地の市",
+    "合併していない市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名は旧春日村の名を継ぐもので、その「春日」は春日神社に由来する。神社の名は、768年に大和国（奈良）の春日郷に祀られていた神々をこの地に迎えたことに始まると社記が伝え、地名も神社にちなんで名付けられたと『筑前国続風土記』が記す。1889年に5村の合併で発足した春日村は、その後一度も合併・分離を経験せず、1953年に春日町、1972年4月1日に春日市となった。",
+   "first_attestation": {
+    "era": "神護景雲2年",
+    "year_western": 768,
+    "document": "筑前国那珂郡春日大明神記録（春日神社社記）",
+    "note": "春日神社に「春日」の名が付いた年として社記が伝えるもの。地名としての使用はその後とみられる。社記の記述は春日市公式サイトの紹介によって確認した"
+   },
+   "claims": [
+    {
+     "text": "春日市の地方公共団体コードは402184である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1889年4月1日、那珂郡の春日村・小倉村・須玖村・上白水村・下白水村の5村が合併して新・春日村が発足し、村名は面積が最も大きかった旧春日村の「春日」を取って付けられた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kasuga-city-yurai"
+     ]
+    },
+    {
+     "text": "春日市は1889年の発足以来、一度の分離も合併も経験しておらず、「春日」の地名が今日まで続いてきたまれな自治体である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kasuga-city-yurai"
+     ]
+    },
+    {
+     "text": "春日村は1953年1月1日に町制を施行して春日町となり、1972年4月1日に市制を施行して春日市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kasuga-kobunsyokan"
+     ]
+    },
+    {
+     "text": "『筑前国続風土記』の春日神社の項には「春日村にあり。村の名前も此神社あるによりて名つけたり」とあり、地名「春日」は春日神社に由来すると春日市は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kasuga-city-chimei"
+     ]
+    },
+    {
+     "text": "春日神社の「春日」は、神護景雲2年（768年）に大和国添上郡春日郷（現在の奈良市春日野町）に祀られていた天児屋命らがこの地に迎えられて祀られたことに始まると社記は伝え、筑前の春日の名は大和の春日郷に由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kasuga-city-yurai"
+     ]
+    },
+    {
+     "text": "「春日」はもと「ハルヒ」と読まれたが、「春日（ハルヒ）がカスム（霞む）」という連想から次第に「カスガ」と読まれるようになったと市は説明し、カスガの語義には霞の多い所（霞処）、神の住所（カスカ）、砂礫地を指す古語などの諸説がある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r2-kasuga-city-chimei"
+     ]
+    },
+    {
+     "text": "春日神社の社記が村民の言い伝えとして記すところによれば、661年に斉明天皇とともに筑紫に下った中大兄皇子（後の天智天皇）が、この地に天児屋命を祀ったのが春日神社の始まりであるという",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-kasuga-city-yurai"
+     ]
+    }
+   ],
+   "column": {
+    "title": "奈良から来た「春日」",
+    "text": "福岡県に「春日」と名のつく市があるのは、奈良の春日と無関係ではない。768年、大宰府にゆかりの藤原氏が、大和国春日郷（現在の奈良市春日野町）の神々をこの地に迎えて祀ったのが春日神社の始まりだと社記は伝える。地名の「春日」はその神社から生まれ、読みももとの「ハルヒ」から、霞のイメージを重ねて「カスガ」へと変わっていったという。九州の春日は、奈良の春日の分身として生まれた地名なのである。全国に点在する「春日」の地名の多くも、こうした勧請の広がりを映している。",
+    "sources": [
+     "r2-kasuga-city-yurai",
+     "r2-kasuga-city-chimei"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-大野城市",
+    "muni/40-福岡市"
+   ],
+   "unknowns": [
+    "地名としての「春日」の文献上の初出は特定できなかった",
+    "「ハルヒ」から「カスガ」へ読みが変わった時期は、市の説明でも特定されていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-朝倉市",
+   "code": "402281",
+   "names": {
+    "ja": "朝倉市",
+    "reading": "あさくらし",
+    "aliases": [
+     "甘木市",
+     "朝倉町",
+     "杷木町"
+    ]
+   },
+   "user_terms": [
+    "甘木・朝倉の合併市",
+    "朝倉橘広庭宮の地",
+    "三連水車のまち",
+    "原鶴温泉のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県中央部の市。2006年3月20日、甘木市・朝倉町・杷木町が新設合併して誕生し、市名は3市町に共通する旧郡名「朝倉」を継いだ。朝倉の名は古代に遡り、斉明天皇7年（661）には朝倉橘広庭宮が営まれ、『和名類聚抄』は上座・下座の「あさくら」の訓を伝える。1896年には上座・下座・夜須の三郡が合併して朝倉郡が成立した。なお現在の朝倉郡（筑前町・東峰村）は本市とは別の区域であり、同名の現行市区町村はない。",
+   "first_attestation": {
+    "era": "斉明天皇7年",
+    "year_western": 661,
+    "document": "『日本書紀』",
+    "note": "朝倉橘広庭宮への遷居の記事として「朝倉」が見える。甘木歴史資料館の展示解説が紹介する形で確認した"
+   },
+   "claims": [
+    {
+     "text": "朝倉市の地方公共団体コードは402281である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2006年3月20日、甘木市・朝倉郡朝倉町・杷木町が新設合併して朝倉市が誕生した。新市の事務所の位置は旧甘木市大字菩提寺412番地2（現在の市役所所在地）とされた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-asakura-pref-gappei",
+      "r3-asakura-fukko"
+     ]
+    },
+    {
+     "text": "合併は甘木市・朝倉町・杷木町合併協議会（2004年10月に法定協議会を設置）で協議され、新市の名称は「朝倉市」と決定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-asakura-pref-gappei"
+     ]
+    },
+    {
+     "text": "朝倉郡は1896年（明治29年）に上座郡・下座郡・夜須郡が合併して成立した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r3-asakura-kotobank-gun"
+     ]
+    },
+    {
+     "text": "甘木歴史資料館の展示解説によれば、『和名類聚抄』は朝倉の地を上座（かみつあさくら）・下座（しもつあさくら）に分け、「座」の字に「あさくら」の読みを対応させている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-asakura-museum"
+     ]
+    },
+    {
+     "text": "斉明天皇7年（661）、百済を救援する西征に際して朝倉に朝倉橘広庭宮が造営され、斉明天皇は約2か月後にこの宮で崩御した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-asakura-museum"
+     ]
+    },
+    {
+     "text": "旧中心地・甘木の名は、豪族の甘木安長が建立した甘木山安長寺にちなんで呼ばれたと『精選版日本国語大辞典』は説明し、福岡県町村合併調書も9〜10世紀頃の安長寺の建立を由来として紹介している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r3-kotobank-amagi",
+      "r3-amagi-yasunaga"
+     ]
+    },
+    {
+     "text": "前身の甘木市は1954年4月1日、甘木町・秋月町・上秋月村・安川村・立石村・福田村・馬田村・蜷城村・三奈木村・金川村の合併によって発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-asakura-fukko"
+     ]
+    }
+   ],
+   "column": {
+    "title": "宮の名と寺の名——二つの由来を持つ市",
+    "text": "朝倉市の名は古代の宮に遡る。661年、斉明天皇は百済を救う西征の途上、朝倉に橘広庭宮を営み、ここで崩御した。一方、合併前の中心市だった甘木市の「甘木」は、豪族・甘木安長が建てた甘木山安長寺の寺号から来たと伝えられる。2006年の合併で選ばれたのは、寺の名でも宮の名でもなく、3市町に共通する郡の名「朝倉」だった。歴史の層のいちばん下にある名前が、いちばん新しく市名になった。",
+    "sources": [
+     "r3-asakura-museum",
+     "r3-kotobank-amagi"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "新市名「朝倉市」の選定方法（公募の有無や候補名・得票など）は、県の合併協議会資料では確認できなかった",
+    "朝倉橘広庭宮の所在地については諸説があり確定していない",
+    "「朝倉」の語源（校倉造りの倉庫にちなむ説、神を迎える朝の座にちなむ説が専門辞典で候補として紹介される）はいずれも確定説ではない",
+    "『日本書紀』に見える、朝倉社の木を切って宮を造ったため神が怒って殿を壊したという記事は、二次資料経由でのみ接し、市公式資料での裏付けは取れなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-柳川市",
+   "code": "402079",
+   "names": {
+    "ja": "柳川市",
+    "reading": "やながわし",
+    "aliases": [
+     "柳河町",
+     "柳川町",
+     "簗川（最古の用例とされる表記）"
+    ]
+   },
+   "user_terms": [
+    "水郷柳川",
+    "掘割と川下りのまち",
+    "柳河（旧表記）",
+    "立花宗茂の城下町",
+    "さげもんのまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県南西部、矢部川の下流に広がる水郷の市で、掘割の川下りで知られる。地名「柳川」の由来は定かではなく、市公式も諸説いずれも決め手を欠くとし、最古の用例は永仁4年（1296）の「簗川」だと紹介する。柳の木の景観説、漁具の簗に由来する説、城下の水路の名とする説が並立する。江戸時代は柳川藩の城下町として栄え、1952年に市制を施行、2005年に大和町・三橋町と合併して現在の市となった。",
+   "first_attestation": {
+    "era": "鎌倉時代（永仁4年）",
+    "year_western": 1296,
+    "document": "「簗川」と記された史料（柳川市公式「柳川の地名の由来」が紹介するもの）",
+    "note": "市公式が「柳川」の最古の用例として挙げるのは「簗川」の表記である。「柳川」「柳河」の表記は安土桃山時代から見えると同ページは伝える"
+   },
+   "claims": [
+    {
+     "text": "柳川市の地方公共団体コードは402079である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "柳川市公式「柳川の地名の由来」は、「柳川」の由来について、柳の木の景観説・漁具の簗に由来する説・水路の名とする説のいずれも決め手を欠き、由来は定かではないとしている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "r3-yanagawa-chimei"
+     ]
+    },
+    {
+     "text": "市公式によれば、「柳川」の最古の用例は永仁4年（1296）の史料に見える「簗川」で、川に仕掛ける漁具「簗」に由来する可能性がある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-yanagawa-chimei"
+     ]
+    },
+    {
+     "text": "市公式は、柳の多い土地であることを由来とする説が江戸時代の地誌『太宰管内志』に既に見えること、柳河藩士・西原一甫の『柳河明証図会』が音楽寺（現在の八剣神社）裏を流れる小流「柳川」を地名の起源とする水路名説を唱えたことを併せて紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-yanagawa-chimei"
+     ]
+    },
+    {
+     "text": "戦国時代に蒲池氏が柳川城を築き、天正15年（1587）に立花宗茂が柳川を城地として城下町の形成を本格化させ、慶長6年（1601）に入城した田中吉政が城の大修築と町割りを行ったと市公式は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yanagawa-jokamachi"
+     ]
+    },
+    {
+     "text": "関ヶ原の戦いで改易された立花宗茂が柳川へ再封された年は、柳川市公式の資料でも「城下町柳川」が元和7年（1621）、第2次総合計画が元和6年（1620）としており、表記が分かれている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-yanagawa-jokamachi",
+      "r3-yanagawa-sogokeikaku"
+     ]
+    },
+    {
+     "text": "1951年4月1日に柳河町と城内村・沖端村・西宮永村・東宮永村・両開村が合併して柳川町となり、このとき自治体名の表記は「柳川」に統一され、1952年4月1日に市制を施行して柳川市が誕生した（1955年には昭代村・蒲池村を編入）",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r3-yanagawa-uub"
+     ]
+    },
+    {
+     "text": "2005年3月21日に柳川市・大和町・三橋町が新設合併して、現在の柳川市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yanagawa-soumu-gappei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "柳か、簗か——決め手のない地名",
+    "text": "柳川といえば柳の並木と掘割の川下りが思い浮かぶが、市の公式の由来解説は意外なほど慎重で、「いずれの説も決め手を欠く」と結んでいる。現存する最古の用例は「柳」ではなく「簗川」（1296年）で、川に仕掛ける漁具の簗から来たのかもしれない。柳の景観説は江戸時代の地誌『太宰管内志』に既に見える由緒ある説だが、それでも決着はついていない。水の町の名前の底には、柳の緑と漁の仕掛けの両方が沈んでいる。",
+    "sources": [
+     "r3-yanagawa-chimei"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "永仁4年（1296）の「簗川」が見える史料の具体的な名称は、市の公式ページに示されておらず確認できなかった",
+    "「柳川」と「柳河」の表記が、藩の公式文書でどのように使い分けられたかは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-田川市",
+   "code": "402061",
+   "names": {
+    "ja": "田川市",
+    "reading": "たがわし",
+    "aliases": [
+     "伊田町",
+     "後藤寺町"
+    ]
+   },
+   "user_terms": [
+    "炭都たがわ",
+    "炭坑節のふるさと",
+    "二本煙突のまち"
+   ],
+   "naming_type": "その他（合併した両町の名ではなく、郡名「田川」を市名としたもの）",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県北東部、田川盆地の市で、筑豊炭田の南部を担った炭鉱のまち。市名は郡名「田川」に由来し、この名は古くは「たかは」と読まれ、鷹羽・高羽・田河とも書かれたという。1943年11月3日、炭鉱で栄えた伊田町と後藤寺町が合併して田川市が誕生した。炭坑節に歌われる二本煙突と伊田竪坑櫓が市の象徴である。",
+   "first_attestation": {
+    "era": "古代",
+    "year_western": null,
+    "document": null,
+    "note": "田川郡の名は古代に遡るが、初出文献の原文確認はできなかった。『精選版日本国語大辞典』は郡名の古い読みを「たかは」とし、鷹羽・高羽・田河の表記を伝える"
+   },
+   "claims": [
+    {
+     "text": "田川市の地方公共団体コードは402061である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『精選版日本国語大辞典』によれば田川郡は古くは「たかは」といい、鷹羽・高羽・田河とも書かれたといい、『日本歴史地名大系』「田川郡」も古くは田河と書かれたことと、郡域が古代からほぼ変化なかったことを記している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r3-tagawa-kotobank",
+      "r3-tagawa-kotobank-gun"
+     ]
+    },
+    {
+     "text": "「田川（たかは）」の語源について、今回確認した専門辞典には確定的な語源説の記載がなく、語源は確定していない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "r3-tagawa-kotobank"
+     ]
+    },
+    {
+     "text": "昭和18年（1943年）に伊田町と後藤寺町が合併して田川市が誕生したと、田川市立図書館のデジタルアーカイブは伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-tagawa-lib"
+     ]
+    },
+    {
+     "text": "合併による市制の日付は1943年11月3日と変遷記録に残り、1955年4月5日には猪位金村を編入した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r3-tagawa-uub"
+     ]
+    },
+    {
+     "text": "明治33年（1900）に三井田川炭礦が創業し（大正7年に三井田川鉱業所へ改称）、明治43年（1910）に竣工した伊田竪坑は筑豊の首座とされた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-tagawa-tanto"
+     ]
+    },
+    {
+     "text": "伊田竪坑櫓と第一・第二煙突（通称・二本煙突）は「炭坑節」に歌われる市の象徴で、田川は炭坑節発祥の地とされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-tagawa-tankosetsu",
+      "r3-tagawa-tanto"
+     ]
+    },
+    {
+     "text": "筑豊における石炭の発見は文明10年（1478）のことだという言い伝えを、田川市公式の歴史解説は紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-tagawa-rekishi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「たかは」だった田川",
+    "text": "いま「たがわ」と読む田川は、古くは「たかは」と呼ばれ、鷹羽・高羽・田河とも書かれた。読みも字も大きく変わっているのに、郡域は古代からほぼそのままだったというから面白い。その田川が全国に知られるようになったのは石炭によってである。伊田と後藤寺、二つの炭鉱町が合併して市になった1943年以降、二本煙突と竪坑櫓は炭坑節とともに「炭都」の印になった。",
+    "sources": [
+     "r3-tagawa-kotobank",
+     "r3-tagawa-tankosetsu"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「田川（たかは）」の語源は解明されておらず、川の名前に由来するかどうかも確認できなかった",
+    "『日本書紀』景行天皇12年条に「田川」が初出するという地元のウェブサイトの紹介は、原典での裏付けが取れなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-直方市",
+   "code": "402044",
+   "names": {
+    "ja": "直方市",
+    "reading": "のおがたし",
+    "aliases": [
+     "直方藩",
+     "東蓮寺藩",
+     "東蓮寺村",
+     "直方（能方）村"
+    ]
+   },
+   "user_terms": [
+    "のおがた（読みにくい市名）",
+    "直方藩の城下町",
+    "筑豊三都のひとつ",
+    "のおがたチューリップフェスタのまち"
+   ],
+   "naming_type": "藩名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県北部、遠賀川流域の市で、飯塚市・田川市と並ぶ筑豊三都の一つ。中心部はもと東蓮寺村と呼ばれ、1623年に東蓮寺藩、1675年に直方藩が置かれた。「直方」の名は、藩内の小村・直方（能方）村の読み「のうがた」に、儒学者・貝原益軒の兄である元端が『易経』から縁起の良い「直方」の字を当てたものと市公式は伝える。1931年1月に市制を施行した。",
+   "first_attestation": {
+    "era": "延宝3年",
+    "year_western": 1675,
+    "document": "直方藩への改称（直方市公式「市名の由来」による）",
+    "note": "藩名としての「直方」の初出。もとになった村名「直方（能方）」自体の初出は未確認である"
+   },
+   "claims": [
+    {
+     "text": "直方市の地方公共団体コードは402044である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "直方の中心部はかつて東蓮寺村と呼ばれ（鞍手郡倉久村の内山寺の末寺・東蓮寺があったため）、元和9年（1623）に黒田長政の遺言によって四男の高政に4万石が与えられ、東蓮寺藩が成立したと市公式は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nogata-yurai"
+     ]
+    },
+    {
+     "text": "延宝3年（1675）に東蓮寺藩は直方藩へ改称した。市公式によれば命名は儒学者・貝原益軒の兄の貝原元端によるもので、藩内の小村「直方（能方）村」の読み「のうがた」を取り、『易経』から縁起の良い「直方」の字を当てたと伝えられる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nogata-yurai"
+     ]
+    },
+    {
+     "text": "南北朝時代にこの地方が懐良親王方、すなわち「王方（のうがた）」と呼ばれたことにちなむという別伝も、市公式は併せて伝えている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-nogata-yurai"
+     ]
+    },
+    {
+     "text": "もとの読みは「のうがた」で、現在の「のおがた」はその変化した形とみられる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "inferred",
+     "sources": [
+      "r3-nogata-yurai"
+     ]
+    },
+    {
+     "text": "1926年に直方町・頓野村・新入村・下境村・福地村が合併して新・直方町となり、1931年1月に市制を施行し、1955年3月に植木町を編入した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nogata-shiho"
+     ]
+    },
+    {
+     "text": "市報の市制90周年記事は、直方のまちの歩みを1623年の直方藩の設置に始まり、敗戦と復興、石炭景気、その後の石炭産業の衰退と産業構造の転換を経てきたものと概観している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-nogata-shiho"
+     ]
+    }
+   ],
+   "column": {
+    "title": "『易経』が決めた藩の名前",
+    "text": "直方の読みは「のおがた」。もとは藩内の小さな村の名「のうがた（能方）」だった。1675年に藩の名を改めるとき、儒学者・貝原益軒の兄である元端が、この読みに『易経』の「直方」——まっすぐで方正であるという意味の字——を当てたという。読みにくいと評判の市名は、江戸の学者が選んだ縁起の良い当て字の贈り物だった。南北朝の「王方（のうがた）」に由来するというもう一つの伝説とともに、市公式はこの命名の物語を大切に伝えている。",
+    "sources": [
+     "r3-nogata-yurai"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "村名「直方（能方）」自体の由来と初出は、市公式の解説でも示されていない",
+    "貝原元端の命名を裏付ける藩の一次記録は確認できておらず、市公式の伝える伝承として記録した"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-福岡市",
+   "code": "401307",
+   "names": {
+    "ja": "福岡市",
+    "reading": "ふくおかし",
+    "aliases": [
+     "博多",
+     "福崎",
+     "那の津（那津）"
+    ]
+   },
+   "user_terms": [
+    "福岡市と博多市はなぜ分かれていたの",
+    "福岡と博多 どっちが古い地名",
+    "那の津ってどこ",
+    "市名は福岡なのに駅名は博多なのはなぜ"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "市名「福岡」は、1601年に黒田長政が博多の西隣に築いた城下町の名で、長政が先祖ゆかりの備前福岡にちなんで命名したと地誌が伝える。その下には、古代の港「那津（那の津）」と中世以来の貿易港「博多」という古い地名の層があり、1889年の市制施行では福岡と博多が一つの市となり、市名を福岡とするか博多とするかが争われた。",
+   "first_attestation": {
+    "era": "慶長6年",
+    "year_western": 1601,
+    "document": "福岡城・城下町の命名（経緯は『筑前国続風土記』等に記録）",
+    "note": "市名「福岡」そのものの起源。地名の層としては、8世紀の記録に現れる「博多」、さらに古い「那津」が下に重なる"
+   },
+   "claims": [
+    {
+     "text": "市名「福岡」は、1601年（慶長6年）に黒田長政が那珂川西岸の福崎の地に築いた城下町の名に由来し、1889年（明治22年）の市制施行でそのまま市名となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-fukuoka-city",
+      "f-fukuoka-ndl"
+     ]
+    },
+    {
+     "text": "『筑前国続風土記』は、長政が黒田氏先祖ゆかりの備前国邑久郡福岡にちなんで「福岡」と名付けたと記すと、福岡市史関係資料と国立国会図書館レファレンスが紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-chikuzen-fudoki-zoku",
+      "f-fukuoka-ndl",
+      "f-fukuoka-city"
+     ]
+    },
+    {
+     "text": "命名の動機については、備前福岡由来説に対し、築城地の旧名「福崎」の丘陵地にちなむとする説もあり、完全には決着していない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "f-fukuoka-ndl"
+     ]
+    },
+    {
+     "text": "那珂川を挟んだ東側の博多は、もともと博多湾岸一帯を指す広い地名で、中世以降は国際貿易の中心となった都市部分を指すようになったと福岡市史コラムは説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-fukuoka-city"
+     ]
+    },
+    {
+     "text": "「博多」の文献上の初出は、『続日本紀』（797年完成）の天平宝字3年（759年）の記事にみえる「博多大津」であると福岡市（博多港の歴史）が紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-fukuoka-city-port"
+     ]
+    },
+    {
+     "text": "さらに古い層として、港は「那津（那の津）」と呼ばれ、『日本書紀』宣化天皇元年（536年）条には、那津の口に穀物を集める官家（那津官家）を造った記事があることを福岡市博物館が紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-fukuoka-museum-nanotsu"
+     ]
+    },
+    {
+     "text": "1889年の市制施行後も、市会では「博多市」への改称が争われ、僅差で「福岡」が維持された話が有名であると福岡市史コラムは伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-fukuoka-city"
+     ]
+    },
+    {
+     "text": "博多の名は、駅名として残ったほか、1972年（昭和47年）に福岡市が政令指定都市へ移行した際、行政区名「博多区」として復活した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-fukuoka-city"
+     ]
+    },
+    {
+     "text": "「ハカタ」の語源は確定しておらず、福岡市史コラムも湾岸の地形に由来するという見方を紹介するにとどまる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "f-fukuoka-city"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市名は福岡、駅名は博多——妥協が生んだ二つの顔",
+    "text": "1889年、福岡と博多は一つの市になったが、市名をどちらにするかは最後までもめた。人口では博多が福岡を上回っていた時期もあり、翌年の市会でも改称案が争われたと福岡市史は伝える。決着の落としどころとして、同年に開業した九州鉄道の駅名は「福岡駅」ではなく「博多駅」とされた。市役所のある市は福岡、九州最大のターミナル駅は博多、空港は福岡空港——このねじれは、那珂川を挟んで並立した武家の町と商人の町の、400年越しの力関係の化石である。",
+    "sources": [
+     "f-fukuoka-city"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "「ハカタ」の語源（地形由来とされるが具体的な原義）は確定していない",
+    "『日本書紀』の「那津」と『続日本紀』の「博多大津」が完全に同一の港を指すかについては検討を要すると専門事典が指摘しており、本KBでは断定しない",
+    "福岡命名を命じた長政自身の同時代文書の現存は本調査では確認できず、命名経緯は後世の地誌と家譜に依拠する"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-福津市",
+   "code": "402249",
+   "names": {
+    "ja": "福津市",
+    "reading": "ふくつし",
+    "aliases": []
+   },
+   "user_terms": [
+    "福津の名前の由来",
+    "福間と津屋崎が合併した市",
+    "幸福が集まる津"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "2005年1月24日に宗像郡福間町と津屋崎町が合併して誕生した新市で、市名は全国公募によって選ばれた。市の20周年記念誌は、「福津」という名に「幸福が集まる津（港、場所）」「津々浦々まで幸福であるように」という思いが込められていると説明する。旧町名の福間は中世以来の地域呼称「ふくま」に、津屋崎は岬の地形に由来するとされる古い港町の名に、それぞれ由来の層がある。",
+   "first_attestation": {
+    "era": "平成17年",
+    "year_western": 2005,
+    "document": "福間町・津屋崎町合併協議会による新市名の決定",
+    "note": "自治体名としての「福津市」の初出。新市名は公募3,064通・698種類の中から選ばれた（福津市20周年記念誌）"
+   },
+   "claims": [
+    {
+     "text": "福津市の地方公共団体コードは402249である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2005年1月24日、宗像郡福間町と津屋崎町が合併して福津市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-fukutsu-city-gaikyo"
+     ]
+    },
+    {
+     "text": "市名「福津」は公募で選ばれた名であり、全国から3,064通・698種類の応募があったと福津市の20周年記念誌は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-fukutsu-city-20th"
+     ]
+    },
+    {
+     "text": "福津市の20周年記念誌は、「福津」という地名には「幸福が集まる津（港、場所）」「津々浦々まで幸福であるように」という思いが込められていると説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-fukutsu-city-20th"
+     ]
+    },
+    {
+     "text": "福間という名は、西郷川下流域（現在のJR福間駅から西の海岸線までの地域）を中世から「ふくま」と呼んでいたことに由来すると『福岡県地名考』は紹介する",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r2-munahaku-chimei"
+     ]
+    },
+    {
+     "text": "福間の語源については、『福間町史』が『和名類聚抄』の蓑生郷（訓み「美乃布」）の「美乃布の隈（入り込んだ地形）」が縮まって「布隈」となり「ふくま」になったとする説を説明し、『市町村名語源辞典』はフケ（湿地）・マ（接尾語）の転化で砂州に囲まれた湿地を指すとする説を挙げており、両説が併存する",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "r2-munahaku-chimei"
+     ]
+    },
+    {
+     "text": "津屋崎の語源については、『市町村名語源辞典』がツエ（崩壊地形）・サキ（崎）の転じたもので断崖の岬を指すとする説と、「津屋」を港の施設とする説を紹介している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "r2-munahaku-chimei"
+     ]
+    },
+    {
+     "text": "津屋崎の波折神社の縁起には、神功皇后が杖をさした地が「杖さし」から津恵崎になったという言い伝えがあり、また仏像の漂着を一晩通夜してお祭りした「通夜崎」が転じたという言い伝えもあるが、『津屋崎風土記』はいずれも伝説の域を出ないとしている",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r2-munahaku-chimei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市の名前に込めた「幸福」の願い",
+    "text": "福津市の名前は、全国公募で集まった3,064通・698種類の候補の中から選ばれた。候補には「北筑前市」「宮地岳市」、そして「うみがめ市」といった名もあったという。「福間」の「福」と「津屋崎」の「津」を合わせた形にも読めるこの名前について、市自身は別の説明を用意している。「幸福が集まる津（港、場所）」「津々浦々まで幸福であるように」という願いが込められている、と。合併で生まれる新しい市に、旧町名の面影と未来への願いを同時に託した命名だった。",
+    "sources": [
+     "r2-fukutsu-city-20th"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-宗像市",
+    "muni/40-古賀市"
+   ],
+   "unknowns": [
+    "市名の最終選考過程（候補の絞り込みと決定理由）を示す合併協議会の議事録は未確認",
+    "福間の語源は諸説が併存し、確定していない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-筑後市",
+   "code": "402117",
+   "names": {
+    "ja": "筑後市",
+    "reading": "ちくごし",
+    "aliases": [
+     "羽犬塚町",
+     "水田村",
+     "古川村"
+    ]
+   },
+   "user_terms": [
+    "羽犬塚のまち",
+    "恋のくに筑後",
+    "旧国名を名乗る市",
+    "はね丸のまち"
+   ],
+   "naming_type": "その他（旧国名「筑後」をそのまま市名に採用したもの）",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県南部、筑後平野の市。1954年4月1日、八女郡羽犬塚町・水田村・古川村・岡山村の一部が合併して誕生し、旧国名「筑後」を市名とした。中心地の羽犬塚は薩摩街道の宿場町で、羽の生えた犬「羽犬」の伝説を伝える。なお古代の筑後国の国府の跡（筑後国府跡）は市内ではなく隣の久留米市にあり、国名を名乗る市と国府の跡地は一致しない。",
+   "first_attestation": {
+    "era": "律令制下",
+    "year_western": null,
+    "document": null,
+    "note": "「筑後」は筑紫国が筑前・筑後に分かれて生まれた旧国名だが、その初出文献は今回の調査では特定できなかった。市名としての「筑後」の初出は1954年の合併による"
+   },
+   "claims": [
+    {
+     "text": "筑後市の地方公共団体コードは402117である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "1954年4月1日、八女郡羽犬塚町・水田村・古川村と岡山村の大字前津・長浜の区域をもって筑後市が置かれた（総理府告示第255号・福岡県告示第253号。発足時の人口は37,139人）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-chikugo-reiki",
+      "r3-chikugo-ayumi"
+     ]
+    },
+    {
+     "text": "1955年3月に三潴郡西牟田町が筑後市に合併した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-chikugo-ayumi"
+     ]
+    },
+    {
+     "text": "羽犬塚町ほかの合併で「筑後市」が発足することは1954年3月の時点で隣接する八女郡福島町側にも知られており、八女側が市名案「筑後福島市」を再検討する理由の一つになったと福岡共同公文書館は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yame-kobunsyokan"
+     ]
+    },
+    {
+     "text": "市章は1954年10月に公募によって制定され、「ちくご」の「ち」を図案化したものである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-chikugo-gikai-yoran"
+     ]
+    },
+    {
+     "text": "中心地の羽犬塚は薩摩街道の宿場町で、久留米藩の三宿の一つに数えられた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r3-chikugo-localhistoria"
+     ]
+    },
+    {
+     "text": "羽犬塚の地名は、豊臣秀吉の九州遠征の際に羽の生えた怪犬に出くわして退治し塚に葬ったという伝説、あるいは秀吉の愛犬が病死したため塚を立てて弔ったという伝説に由来すると、筑後市観光協会は伝える",
+     "kind": "legend",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "r3-chikugo-kanko-hainuzuka"
+     ]
+    },
+    {
+     "text": "筑後国府跡は筑後市内ではなく久留米市合川町にあり、国指定史跡となっている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-kurume-kokufu"
+     ]
+    }
+   ],
+   "column": {
+    "title": "羽の生えた犬と、国名を名乗る市",
+    "text": "中心地・羽犬塚の名は、羽の生えた犬の伝説で知られる。秀吉が怪犬を退治して葬った塚とも、速い愛犬を弔った塚ともいう。そんな小さな地名を押しのけて市名になったのは、旧国名の「筑後」だった。ところが古代の筑後国の国府は、隣の久留米市にある。国名を名乗る市、国府のあった市、羽犬の眠る町——「筑後の中心」は、時代ごとに少しずつ場所を変えてきた。",
+    "sources": [
+     "r3-chikugo-kanko-hainuzuka",
+     "r3-kurume-kokufu"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "1954年の合併で中心地の名を採らず「筑後市」が選ばれた理由・経緯は、市の公式資料では確認できなかった",
+    "羽犬塚の史料上の初見（天正14年の上井覚兼の日記に「灰塚」と見えるという紹介）や「駅馬塚」の転訛とする説は、専門資料での裏付けが取れなかった",
+    "国名「筑後」の初出文献は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-筑紫野市",
+   "code": "402176",
+   "names": {
+    "ja": "筑紫野市",
+    "reading": "ちくしのし",
+    "aliases": [
+     "筑紫野町",
+     "二日市町"
+    ]
+   },
+   "user_terms": [
+    "筑紫野はなぜ筑紫野というの",
+    "旧二日市町のあたり",
+    "二日市温泉のまち",
+    "万葉の里ちくしの"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "昭和30年（1955年）3月1日、二日市町・山口村・筑紫村・山家村・御笠村の5町村が合併して筑紫野町が発足し、昭和47年（1972年）4月1日に市制施行して筑紫野市となった。「筑紫野」は構成町村のいずれの名でもない新町名で、市はその由来となる「筑紫」について、『古事記』の国生み神話に「筑紫島」とみえる古代九州の総称であることを説明する。中心地の二日市は長崎街道の宿場町で、二日市温泉で知られる。",
+   "first_attestation": {
+    "era": "昭和30年",
+    "year_western": 1955,
+    "document": "合併による筑紫野町の発足",
+    "note": "町名「筑紫野」としての初出。もとの語「筑紫」は『古事記』上巻の国生み神話に「筑紫島」としてみえる古い名だが、「筑紫野」という地名の古代・中世の用例は確認できていない"
+   },
+   "claims": [
+    {
+     "text": "筑紫野市の地方公共団体コードは402176である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）3月1日に二日市町・山口村が筑紫村・山家村・御笠村と合併して筑紫野町となり、昭和47年（1972年）4月1日に筑紫野町は市制を施行して筑紫野市となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-chikushino-wikipedia-futsukaichi"
+     ]
+    },
+    {
+     "text": "市のパンフレットは、「筑紫野市の由来となる『筑紫（つくし）』は、『古事記』の国生み神話の中に『筑紫（筑紫島）、身ひとつにして面四つ（筑紫国、豊国、肥国、熊曾国）』とあり、古代九州の総称であることがうかがえる」と説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-chikushino-pamphlet"
+     ]
+    },
+    {
+     "text": "市域は福岡平野と筑後平野の接点に位置する交通の要衝で、周辺には大宰府の防衛施設である水城・大野城・基肄城が築かれたと市公式の歴史解説は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-chikushino-rekishi"
+     ]
+    },
+    {
+     "text": "江戸時代には長崎街道の二日市宿や、筑前六宿の山家宿・原田宿が市域に置かれ、多くの人やモノが往来して筑紫野の原型が作られたと市公式の歴史解説は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-chikushino-rekishi"
+     ]
+    },
+    {
+     "text": "市の木の椿は、『古事記』や『万葉集』の歌によく歌われている花として選ばれ、市は椿を「万葉の里・筑紫野」のシンボルとしている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-chikushino-pamphlet"
+     ]
+    }
+   ],
+   "column": {
+    "title": "中心地の名を採らなかった合併",
+    "text": "昭和30年（1955年）の合併の中心は、宿場町として栄えた二日市町だった。ところが新町の名は「二日市」ではなく、どの構成町村の名でもない「筑紫野」が選ばれた。筑紫は古代の九州そのものを指した大きな名である。二日市は今も市内の地名・駅名として残り、二日市温泉の名で親しまれるが、自治体の看板はより古く大きな地名に譲った。中心地の名を捨てて地域の古名を掲げた、平成の大合併以前の先行例である。",
+    "sources": [
+     "r4-chikushino-wikipedia-futsukaichi",
+     "r4-chikushino-pamphlet"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "昭和30年（1955年）の合併時に「筑紫野」の名が選ばれた具体的な経緯（公募の有無、候補名、「万葉集にちなんだ」という説の典拠）は、公的・専門資料では確認できなかった",
+    "中心地名「二日市」の由来（市（いち）の開かれた日にちなむという通説）について、専門資料による裏付けは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-糸島市",
+   "code": "402303",
+   "names": {
+    "ja": "糸島市",
+    "reading": "いとしまし",
+    "aliases": []
+   },
+   "user_terms": [
+    "糸島の名前の由来",
+    "糸島半島の市",
+    "伊都国のあった市",
+    "糸島郡から生まれた市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "2010年1月1日に前原市・二丈町・志摩町が合併して誕生した新市で、市名「糸島」はこの地域が属した糸島郡と、広く知られる糸島半島の名を継いだ。糸島郡は1896年に怡土郡と志摩郡が合併して生まれた郡名で、その下にはさらに『魏志倭人伝』に記される伊都国の比定地という古代の層がある。糸島郡は市の発足と同時に消滅した。",
+   "first_attestation": {
+    "era": "平成22年",
+    "year_western": 2010,
+    "document": "糸島1市2町合併協議会による新市名の決定",
+    "note": "自治体名としての「糸島市」の初出。地域名としての「糸島」は糸島郡（1896年発足）に遡る"
+   },
+   "claims": [
+    {
+     "text": "糸島市の地方公共団体コードは402303である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2010年1月1日、前原市・志摩町・二丈町が合併して糸島市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-itoshima-kobunsyokan"
+     ]
+    },
+    {
+     "text": "糸島郡は1896年4月1日に怡土郡と志摩郡の区域をもって発足し、糸島市が発足した2010年1月1日に消滅した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-itoshima-gun-wikipedia"
+     ]
+    },
+    {
+     "text": "郡名「糸島」は、怡土（いと）の「糸」と志摩（しま）の「島」から一字ずつを取った合成地名とされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-itoshima-gun-wikipedia"
+     ]
+    },
+    {
+     "text": "糸島市の市域は『魏志倭人伝』に記される伊都国があった地とされ、平原遺跡から出土した内行花文鏡は国宝に指定されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r2-itoshima-kobunsyokan"
+     ]
+    },
+    {
+     "text": "新市名の公募では「伊都」「いとしま」「伊都国」「伊都島」など伊都国にちなむ案も上位に挙がったが、「糸島」が新市名に選ばれたと市区町村変遷情報は伝える",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-itoshima-uub"
+     ]
+    },
+    {
+     "text": "合併前の前原市・二丈町・志摩町はいずれも糸島郡に属しており、旧郡域と新市域はほぼ一致する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r2-itoshima-gun-wikipedia",
+      "r2-itoshima-uub"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「伊都」と「糸島」のあいだ",
+    "text": "糸島市が生まれるとき、新しい市の名前の公募には、古代の「伊都国」にちなむ案が数多く寄せられた。「伊都」「伊都国」「伊都の国」――市域が『魏志倭人伝』の伊都国の地とされるだけに、古代の名への期待は大きかった。しかし最終的に選ばれたのは、明治29年（1896年）に怡土郡と志摩郡の合併で生まれた郡名「糸島」だった。古代の王国の名よりも、百年余り地域の住所として使われてきた郡名のほうが、住民にとっての「自分たちの名前」だったということなのだろう。糸島郡は市の誕生と同時に消滅し、郡名は市名として生き続けることになった。",
+    "sources": [
+     "r2-itoshima-uub",
+     "r2-itoshima-kobunsyokan"
+    ]
+   },
+   "relations": [
+    "pref/40",
+    "muni/40-福岡市"
+   ],
+   "unknowns": [
+    "新市名の選定理由を記した合併協議会の一次資料（議事録等）は確認できなかった",
+    "「糸島半島」という呼称がいつ頃から使われるようになったかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-行橋市",
+   "code": "402133",
+   "names": {
+    "ja": "行橋市",
+    "reading": "ゆくはしし",
+    "aliases": [
+     "行橋町",
+     "行橋村",
+     "行事村",
+     "大橋村"
+    ]
+   },
+   "user_terms": [
+    "ゆくはし（読みにくい地名）",
+    "行事と大橋の合成地名",
+    "コスモスのまち",
+    "京築の中心"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県北東部、周防灘に面する京築地域の中心市。地名「行橋」は1889年（明治22年）の町村合併の際に生まれた合成地名で、『行橋市史』によれば、合併した行事・大橋・宮市の3村のうち、行事と大橋から1字ずつを取って名付けられた。読みは「ゆくはし」。1954年10月10日、行橋町と8村が合併して市制を施行した。市の花コスモスの8枚の花びらは、合併した8村を表すとされる。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "町村制施行時の合併による行橋村の成立（『行橋市史』による）",
+    "note": "合成地名としての「行橋」の初出。構成元の行事・大橋の両地名自体はそれ以前から存在した"
+   },
+   "claims": [
+    {
+     "text": "行橋市の地方公共団体コードは402133である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "『行橋市史』によれば、「行橋」という地名は明治22年（1889年）の町村合併で長峡川に向き合う行事・大橋・宮市の3村が合併した際、行事と大橋から1字ずつを取って生まれた。行橋市のキッズページも、行事村の「行」と大橋村の「橋」から取った合成地名と説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yukuhashi-shishi",
+      "r3-yukuhashi-kids"
+     ]
+    },
+    {
+     "text": "行事と大橋は古くからこの地域の商業の中心地で、明治11年（1878年）の市域人口22,557人のうち4,562人が両地区に集中していたと『行橋市史』は記す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yukuhashi-shishi"
+     ]
+    },
+    {
+     "text": "古代の律令制下で、現在の行橋市域は豊前国に属し、西側が京都郡、東側が仲津郡にあたったと市公式は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yukuhashi-kids"
+     ]
+    },
+    {
+     "text": "1954年10月10日、京都郡行橋町と蓑島・今元・仲津・泉・今川・稗田・延永・椿市の8村が合併して市制を施行し、行橋市は県下18番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yukuhashi-koho"
+     ]
+    },
+    {
+     "text": "市の花コスモスは花びらが8枚であることから、合併した8村を表すものとして市は紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-yukuhashi-koho"
+     ]
+    }
+   ],
+   "column": {
+    "title": "三つの村から、二文字だけ借りた名前",
+    "text": "1889年に合併したのは行事・大橋・宮市の3村だった。ところが新しい村の名前は「行橋」——行事の「行」と大橋の「橋」だけで、宮市の文字は入らなかった。行事と大橋は、長峡川を挟んで向かい合う古くからの商業の中心地で、人口もこの2地区に集中していた。読みの「ゆくはし」も、行事の読みの流れを引くという。名前は合併の記念碑であると同時に、まちの重心がどこにあったかの記録でもある。",
+    "sources": [
+     "r3-yukuhashi-shishi",
+     "r3-yukuhashi-kids"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "構成元の行事・大橋・宮市それぞれの地名の由来は確認できなかった",
+    "合成に際して宮市の文字が採用されなかった理由は、『行橋市史』の総説では説明されていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-豊前市",
+   "code": "402141",
+   "names": {
+    "ja": "豊前市",
+    "reading": "ぶぜんし",
+    "aliases": [
+     "宇島市",
+     "八屋町",
+     "宇島町"
+    ]
+   },
+   "user_terms": [
+    "豊前はなぜ豊前というの",
+    "4日だけの宇島市",
+    "旧八屋町のあたり",
+    "宇島港のまち"
+   ],
+   "naming_type": "その他（合併直後の改称で旧国名「豊前」を採用したもの）",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "昭和30年（1955年）4月10日、築上郡の八屋町・宇島町ほかの合併により「宇島市」として発足したが、市名「宇島」に旧八屋町側の住民が強く反発し、合併翌日の4月11日には改称が決まって、4月14日に旧国名にちなむ「豊前市」へ改称された。「宇島市」はわずか4日間だけ存在した市名である。市の中心は旧八屋町に置かれている。",
+   "first_attestation": {
+    "era": "昭和30年",
+    "year_western": 1955,
+    "document": "宇島市から豊前市への改称（昭和30年4月14日）",
+    "note": "市名「豊前市」としての初出。「豊前」の語自体は旧国名（豊前国）として古代に遡るが、国府は現在の豊前市域にはなく、市名は地域の総称として新たに採用されたものである"
+   },
+   "claims": [
+    {
+     "text": "豊前市の地方公共団体コードは402141である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）4月10日、八屋町・宇島町ほかの合併により「宇島市」が誕生した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-buzen-wikipedia"
+     ]
+    },
+    {
+     "text": "当初の合併市名を「宇島市」としたことに対し、旧八屋町の住民が激しく反発して旧八屋町部分の分町を主張し、この影響で千束村・横武村が合併から離脱した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-buzen-wikipedia"
+     ]
+    },
+    {
+     "text": "その後、「宇島」「八屋」「築上」のいずれでもない名に改称することで合意がなされ、合併翌日の4月11日に「豊前市」と改称することが決定し、4月14日に改称された",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-buzen-wikipedia"
+     ]
+    },
+    {
+     "text": "改称先の「豊前」は、この地域を含む旧国名（豊前国）の名であり、構成町村のいずれの名でもない地域全体の総称として選ばれた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "r4-buzen-wikipedia"
+     ]
+    }
+   ],
+   "column": {
+    "title": "4日間だけ存在した「宇島市」",
+    "text": "昭和30年（1955年）4月10日に誕生した宇島市は、日本の市制史上でも指折りの短命な市名だった。港町・宇島の名を市名にしたことに、内陸の中心地だった旧八屋町側が「分町も辞さない」と反発し、実際に2村が合併から離脱した。妥協として選ばれたのが、どちらの町の名でもない旧国名「豊前」である。翌4月11日に改称が決まり、14日に豊前市となった。市名を巡る対立と、旧国名による「中立命名」の決着は、昭和の大合併期の市名決定の難しさを今に伝える。",
+    "sources": [
+     "r4-buzen-wikipedia"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "改称の経緯についての市の公式な詳細記録（市勢要覧の記述等）は直接確認できておらず、主張は主にWikipediaの記述による",
+    "「豊前」の名を誰が候補に挙げたかなど、改称決定の内幕は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-那珂川市",
+   "code": "402311",
+   "names": {
+    "ja": "那珂川市",
+    "reading": "なかがわし",
+    "aliases": [
+     "那珂川町"
+    ]
+   },
+   "user_terms": [
+    "那珂川はなぜ那珂川というの",
+    "福岡でいちばん新しい市",
+    "旧那珂川町",
+    "裂田溝（さくたのうなで）のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "平成30年（2018年）10月1日、筑紫郡那珂川町が単独で市制を施行して発足した、福岡県では21年ぶりの新しい市。市名は市を貫流する那珂川に由来し、町自体は昭和31年（1956年）に南畑村・岩戸村・安徳村が合併して誕生した。この川には古代の用水路・裂田溝が今も残り、安徳の地名には安徳天皇の行宮伝承が結びついて伝えられる。",
+   "first_attestation": {
+    "era": "昭和31年",
+    "year_western": 1956,
+    "document": "町村合併による筑紫郡那珂川町の発足（昭和31年4月1日）",
+    "note": "町名としての初出。川名「那珂川」自体はこれより古く、古代の筑前国には那珂郡も置かれたが、川名の初出と語源は確認できていない"
+   },
+   "claims": [
+    {
+     "text": "那珂川市の地方公共団体コードは402311である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に南畑村・岩戸村・安徳村の三村が誕生し、昭和31年（1956年）4月1日にこの三村が合併して筑紫郡那珂川町が誕生したと市公式の沿革は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-nakagawa-city-gaiyo"
+     ]
+    },
+    {
+     "text": "平成27年（2015年）の国勢調査で人口5万人を突破し、平成30年（2018年）10月1日、福岡県内では21年ぶりの単独市制施行により那珂川市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-nakagawa-gikai-yoran"
+     ]
+    },
+    {
+     "text": "那珂川は背振連山に源を発し、市の中央を南北に貫流して博多湾に注ぐ川であり、町名・市名はこの川に由来する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-nakagawa-city-gaiyo"
+     ]
+    },
+    {
+     "text": "市内には、那珂川の「一の井手」から安徳・五郎丸・松木を通って今光に至る総延長約5.5kmの人工用水路「裂田溝（さくたのうなで）」が残り、市は『日本書紀』にゆかりを持つ古い用水路と説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r4-nakagawa-sakuta"
+     ]
+    },
+    {
+     "text": "合併前の安徳村の地である安徳台には、壇ノ浦へ向かう途中の安徳天皇と平家一門を迎えた居館（行宮）が置かれたと伝えられ、「安徳」の名の起こりとされる",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "r4-nakagawa-antoku-kyodo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "幼い帝を悼みつづける村の名",
+    "text": "那珂川市の一角、安徳台には、寿永の乱のさなか九州に下向した安徳天皇と平家一門の居館が置かれたという伝承がある。やがて壇ノ浦で8歳の生涯を閉じた幼帝を悼み、地元では安徳宮を祀り、命日には「天皇さまこもり」の行事が今も続けられているという。昭和31年（1956年）に南畑・岩戸と合併して那珂川町が生まれたとき、「安徳」の名は村の名としては消えたが、地区の名と伝承は残った。市名は川の名に譲られたが、市内には帝の名を負う古い地名が静かに生きている。",
+    "sources": [
+     "r4-nakagawa-antoku-kyodo",
+     "r4-nakagawa-city-gaiyo"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "川名「那珂川」の語源と初出は、公的・専門資料では確認できなかった（古代の筑前国那珂郡の「那珂」との関係も含め未確定）",
+    "昭和31年（1956年）の合併に際して川名を町名に採用した決定過程の詳細は、公表資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/40-飯塚市",
+   "code": "402052",
+   "names": {
+    "ja": "飯塚市",
+    "reading": "いいづかし",
+    "aliases": [
+     "飯塚町",
+     "飯塚宿"
+    ]
+   },
+   "user_terms": [
+    "炭都いいづか",
+    "筑豊の商都",
+    "長崎街道の宿場町",
+    "嘉穂劇場のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "福岡県",
+   "homonyms": [],
+   "summary": "福岡県中央部、遠賀川流域に位置する筑豊地方の中心市。市名「飯塚」の由来は定かでなく、飯塚市公式は、神功皇后が兵士との別れに言った「いつか」がなまったとする説と、聖光上人が明星寺の再建の際に余った飯を塚に積んだ「飯の塚」説の、二つの伝説を紹介する。江戸時代は長崎街道の飯塚宿として、明治以後は筑豊炭田の商業の中心として栄え、1932年に市制を施行、2006年に筑穂町・穂波町・庄内町・頴田町と合併した。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「飯塚」の文献上の確実な初出は今回の調査では確認できなかった。地名の伝説は建久8年（1198）の聖光上人による明星寺の復興に結び付けられる"
+   },
+   "claims": [
+    {
+     "text": "飯塚市の地方公共団体コードは402052である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "神功皇后がこの地で兵士たちと別れる際「いつか再びお会いしたい」と言って別れを惜しんだことが「いつか」と伝わり、それがなまって「飯塚」になったという伝説が伝わる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-iizuka-yurai",
+      "r3-iizuka-kanko"
+     ]
+    },
+    {
+     "text": "聖光上人が明星寺の再建を指揮した際、炊いたご飯が余って塚のように積み上げられたことから「飯の塚（めしのつか）」と呼ばれ、「飯塚」になったという伝説が伝わり、市内には地名発祥の地とされる「飯の山」がある",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "r3-iizuka-yurai",
+      "r3-iizuka-kanko"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』も、市名は明星寺造営の際にできた「飯の塚」と、神功皇后が兵士との離別のときに言ったと伝える「何日（いつか）」の言葉に由来するという伝承を紹介するにとどまり、文献に基づく語源は確定していない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "r3-iizuka-kotobank"
+     ]
+    },
+    {
+     "text": "江戸時代、飯塚は長崎街道の宿場町（飯塚宿）として栄え、遠賀川の水運の拠点でもあった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-iizuka-chushinshi"
+     ]
+    },
+    {
+     "text": "明治14年（1881）に市域の目尾炭坑で筑豊初の蒸気ポンプによる揚水が成功するなど、市は筑豊炭田の商業の中心として発展し、飯塚市立図書館のデジタルミュージアムは当時の姿を「炭都の記憶」として伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-iizuka-museum",
+      "r3-iizuka-chushinshi"
+     ]
+    },
+    {
+     "text": "1932年（昭和7年）に市制を施行して飯塚市となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "r3-iizuka-kotobank"
+     ]
+    },
+    {
+     "text": "2006年3月26日に飯塚市・筑穂町・穂波町・庄内町・頴田町が合併して、現在の飯塚市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "r3-iizuka-kokudo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "皇后の「いつか」と、上人の余り飯",
+    "text": "飯塚の名の由来は、二つの物語の競演である。一つは、神功皇后が兵士との別れに言った「いつか（再び会いたい）」がなまったという説。もう一つは、明星寺を再建した聖光上人のもとで炊かれた飯が余り、塚のように積まれたという「飯の塚」説で、市内には発祥の地とされる「飯の山」まである。どちらも文献で裏付けられた語源ではないが、遠賀川の宿場町らしい「人と食」の記憶が、名前の物語として残った。",
+    "sources": [
+     "r3-iizuka-yurai",
+     "r3-iizuka-kanko"
+    ]
+   },
+   "relations": [
+    "pref/40"
+   ],
+   "unknowns": [
+    "中世の荘園名など、「飯塚」の文献上の初出は確認できなかった",
+    "市制施行の正確な日付（1932年1月20日）は、個人が編纂した市名一覧でしか確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

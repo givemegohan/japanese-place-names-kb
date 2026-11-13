@@ -1,0 +1,1458 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "e-cap-matsue-city-gaiyo": {
+   "label": "松江市公式サイト「位置と面積・生い立ち」",
+   "level": "E2",
+   "url": "https://www.city.matsue.lg.jp/gyoseijoho/shinogaiyo/8792.html"
+  },
+  "e-cap-matsuyama-city-castle": {
+   "label": "松山市公式サイト「松山城跡」",
+   "level": "E2",
+   "url": "https://www.city.matsuyama.ehime.jp/kanko/kankoguide/rekishibunka/bunkazai/kuni/matsuyamajou_ato.html"
+  },
+  "e-cap-matsuyama-city-gaiyo": {
+   "label": "松山市公式サイト「松山市の概要等」",
+   "level": "E2",
+   "url": "https://www.city.matsuyama.ehime.jp/kurashi/bosai/sbbousai/sbtoukei/1263612024072.files/2gaiyoutou_7.pdf"
+  },
+  "e-cap-matsuyama-city-riyu": {
+   "label": "松山市公式サイト「松山という名がつけられた理由」",
+   "level": "E2",
+   "url": "https://www.city.matsuyama.ehime.jp/shisei/matsuyama/matsuyamariyu.html"
+  },
+  "e-cap-soumu-code-list": {
+   "label": "総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）",
+   "level": "E2",
+   "url": "https://www.soumu.go.jp/denshijiti/code.html"
+  },
+  "h1-matsumae-ehime-yoran": {
+   "label": "愛媛県「市町要覧」松前町の項（町名の由来＝正木の改字説と諸説ありの留保、1955年の合併）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/182942.pdf"
+  },
+  "h1-matsumae-jtb": {
+   "label": "日本交通公社 全国観光資源台帳「松前町（北海道）」（福山町への改称・松前町への改称年・松前藩の城下町）",
+   "url": "https://tabi.jtb.or.jp/city?opt=%E5%8C%97%E6%B5%B7%E9%81%93%2C%E6%9D%BE%E5%89%8D%E7%94%BA&type=city"
+  },
+  "l5-imabari-pref-youran": {
+   "label": "愛媛県「市町要覧」今治市（沿革・由来）",
+   "level": "E2",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/77575.pdf"
+  },
+  "l5-niihama-city-shiryou": {
+   "label": "新居浜市「新居浜市の概要 資料編」（沿革表）",
+   "level": "E2",
+   "url": "https://www.city.niihama.lg.jp/uploaded/attachment/5171.pdf"
+  },
+  "l5-niihama-pref-youran": {
+   "label": "愛媛県「市町要覧」新居浜市（沿革・由来）",
+   "level": "E2",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/77770.pdf"
+  },
+  "q5-ehime-youran-shikokuchuo": {
+   "label": "愛媛県「市町要覧 四国中央市」（県公式資料。四国中央市は新市の位置を地理的にイメージしやすい名称で、四国の交流拠点として発展する希望・気概が込められた名称とする。1954年の川之江市・伊予三島市の市制と2004年の合併も記す）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/89124.pdf"
+  },
+  "q5-saijo-history-pdf": {
+   "label": "西条市「2市2町の歴史」（市公式の合併資料。1941年の合併で地域の総称「西條」を市名に決定したこと、条里制起源説と深谷寺の古文書、「新居西條庄」の記載を紹介）",
+   "url": "https://www.city.saijo.ehime.jp/uploaded/attachment/5477.pdf"
+  },
+  "q5-saijo-keikan": {
+   "label": "西条市 景観計画資料（市公式。旧西条藩陣屋跡や、市内の広い範囲で自噴する「うちぬき」の水資源について記す）",
+   "url": "https://www.city.saijo.ehime.jp/uploaded/attachment/29338.pdf"
+  },
+  "q5-saijo-plan-pdf": {
+   "label": "西条市 総合計画「第1編 総括」（市公式。西条の地名は奈良時代の条里制に起因する説があり鎌倉時代の荘園名に見えること、2004年の合併でも一般公募で市名に選ばれたこと）",
+   "url": "https://www.city.saijo.ehime.jp/uploaded/attachment/84488.pdf"
+  },
+  "q5-shikokuchuo-wiki": {
+   "label": "Wikipedia「四国中央市」（新市名称の全国公募と2003年の協議会投票による決定、公募結果の順位と決定後の議論）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%9B%BD%E4%B8%AD%E5%A4%AE%E5%B8%82"
+  },
+  "q6-ehime-kenshi-iyo": {
+   "label": "『愛媛県史』文学編 第一章「伊予と愛媛の名称」（データベース『えひめの記憶』、愛媛県生涯学習情報提供システム）",
+   "url": "https://www.i-manabi.jp/system/regionals/regionals/ecode:2/52/view/6815"
+  },
+  "q6-ehime-kenshi-ozu": {
+   "label": "『愛媛県史』地誌II（南予）「城下町大洲」（データベース『えひめの記憶』。旧称大津と万治元年の改称）",
+   "url": "https://www.i-manabi.jp/system/regionals/regionals/ecode:2/34/view/4860"
+  },
+  "q6-ehime-yoran": {
+   "label": "愛媛県「市町要覧まとめ」（各市町の沿革・由来を収録した県公式要覧）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/78248.pdf"
+  },
+  "q6-ehime-yoran-ozu": {
+   "label": "愛媛県「市町要覧」大洲市（沿革・由来。大津から大洲への書き改めの伝承）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/89134.pdf"
+  },
+  "q6-ehime-yoran-seiyo": {
+   "label": "愛媛県「市町要覧」西予市（沿革・由来。市名の公募と「伊予の西部」の意味）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/77679.pdf"
+  },
+  "q6-ehime-yoran-toon": {
+   "label": "愛媛県「市町要覧」東温市（沿革・由来。市名の公募と選定理由）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/78251.pdf"
+  },
+  "q6-ehime-yoran-uwajima": {
+   "label": "愛媛県「市町要覧」宇和島市（沿革・由来。板島から宇和島への命名）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/78243.pdf"
+  },
+  "q6-ehime-yoran-yawatahama": {
+   "label": "愛媛県「市町要覧」八幡浜市（沿革・由来）",
+   "url": "https://www.pref.ehime.jp/uploaded/attachment/114009.pdf"
+  },
+  "q6-iyo-ayumi": {
+   "label": "伊予市公式「旧伊予市のあゆみ」（市の沿革年表）",
+   "url": "https://www.city.iyo.lg.jp/shise/gaiyo/profile/iyo.html"
+  },
+  "q6-iyo-kanko-goshiki": {
+   "label": "伊予市観光公式Webサイト「五色浜神社」（五色姫伝説を描いた絵馬の紹介）",
+   "url": "https://iyokankou.jp/spot/spot-421"
+  },
+  "q6-iyo-kaso-plan": {
+   "label": "伊予市「伊予市過疎地域持続的発展計画」（2023年7月改定。旧市町の変遷・2005年の新設合併を記載）",
+   "url": "https://www.city.iyo.lg.jp/machisou/machizukuri/toshi/kekaku/documents/kaso_sustainabledevelopmentplan_202307.pdf"
+  },
+  "q6-ozu-rekishi-fuchi": {
+   "label": "大洲市公式「歴史的風致形成の背景」（大洲市歴史的風致維持向上計画。市の沿革・市域の変遷）",
+   "url": "https://www.city.ozu.ehime.jp/uploaded/attachment/47034.pdf"
+  },
+  "q6-seiyo-kihon-data": {
+   "label": "西予市公式「西予市基本データ」（市の紹介・旧町の沿革。明浜の改称を含む）",
+   "url": "https://www.city.seiyo.ehime.jp/kakuka/seisaku_kikaku/seisakusuishin/shinogaiyou/434.html"
+  },
+  "q6-uwajima-date-museum": {
+   "label": "宇和島市立伊達博物館改築事業基本構想（宇和島市の歴史。宇和郡と歴代領主）",
+   "url": "https://www.city.uwajima.ehime.jp/uploaded/attachment/24646.pdf"
+  },
+  "q6-uwajima-keikan": {
+   "label": "宇和島市「遊子水荷浦地区景観計画」（市の歴史的経緯。大正10年の市制施行）",
+   "url": "https://www.city.uwajima.ehime.jp/uploaded/attachment/4830.pdf"
+  },
+  "q6-yawatahama-enkaku": {
+   "label": "八幡浜市公式「市の沿革」（地名の由来と市制施行の年表）",
+   "url": "https://www.city.yawatahama.ehime.jp/intro/enkaku"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/38-今治市",
+   "code": "382027",
+   "names": {
+    "ja": "今治市",
+    "reading": "いまばりし",
+    "aliases": [
+     "今張"
+    ]
+   },
+   "user_terms": [
+    "今治の名前の由来",
+    "今治はなぜ「いまばり」と読むの",
+    "いまはると呼ばれていたの"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "市名は中世以来の地名で、古くは「今張」と書かれた。愛媛県の市町要覧によれば、慶長5年（1600年）に藤堂高虎が今治城の築城に際して「今張」を「今治」として届け出たといわれ、宝永2年（1705年）以降「今治」の表記が定着した。読みもイマハリ・イマハルなど一定せず、大正9年（1920年）の市制施行後に市議会の議決で「いまばり」と定められた。",
+   "first_attestation": {
+    "era": "建治2年",
+    "year_western": 1276,
+    "document": "文献上の初出（愛媛県「市町要覧」が「今治」の初出とするもの。具体的な文書名は要覧に明記なし）",
+    "note": "県要覧による初出。14世紀後半の『太平記』には「今張」と記され、徳川初期の『予章記』は「今治」の表記を用いていると要覧は紹介する"
+   },
+   "claims": [
+    {
+     "text": "今治市の地方公共団体コードは382027である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "愛媛県の市町要覧によれば、「今治」が文献にあらわれた最初は建治2年（1276年）ごろで、14世紀後半の『太平記』には「今張」と記されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-imabari-pref-youran"
+     ]
+    },
+    {
+     "text": "徳川初期の『予章記』は「今治」の表記を用いていると愛媛県の市町要覧は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-imabari-pref-youran"
+     ]
+    },
+    {
+     "text": "慶長5年（1600年）、藤堂高虎がこの地に任じ今治城を築城した際、「今張」を「今治」として届け出たといわれると愛媛県の市町要覧は記す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-imabari-pref-youran"
+     ]
+    },
+    {
+     "text": "宝永2年（1705年）以降、「今治」の表記が専用されるようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-imabari-pref-youran"
+     ]
+    },
+    {
+     "text": "読みはイマハリ、イマハル、いまばる、いまばりなど種々使われて一定しなかったが、大正9年（1920年）2月11日の市制施行後に呼称問題となり、同年9月8日に市議会が「いまばり」と呼称することを議決した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-imabari-pref-youran"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）1月16日、旧今治市と越智郡の11か町村（朝倉村・玉川町・波方町・大西町・菊間町・吉海町・宮窪町・伯方町・上浦町・大三島町・関前村）が合併し、人口約18万人の県下第2の都市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-imabari-pref-youran"
+     ]
+    }
+   ],
+   "column": {
+    "title": "読み方を議会で決めた市",
+    "text": "今治は、漢字も読みも長く揺れていた地名である。表記は「今張」と「今治」が交錯し、江戸時代前期までは一定しなかった。読みにいたってはイマハリ、イマハル、いまばる、いまばりと地域や時代でばらばらだった。決着をつけたのは近代の議会である。1920年に市制が施行されると呼称問題が持ち上がり、同年9月8日の市議会で「いまばり」と呼称することが議決された。地名の読みが民主的な手続きで決まった、珍しい事例として残っている。",
+    "sources": [
+     "l5-imabari-pref-youran"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "建治2年（1276年）ごろの初出とされる文献の具体名は、市町要覧に明記されておらず未確認",
+    "「今治」の字義を「今から治める」と結びつける命名譚は広く流布しているが、史料による裏づけは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-伊予市",
+   "code": "382108",
+   "names": {
+    "ja": "伊予市",
+    "reading": "いよし",
+    "aliases": [
+     "郡中町"
+    ]
+   },
+   "user_terms": [
+    "伊予市はなぜ伊予という名前なの",
+    "県庁所在地じゃないのに国名がそのまま市名",
+    "郡中（ぐんちゅう）のまち",
+    "五色姫のまち"
+   ],
+   "naming_type": "その他（旧国名「伊予」をそのまま市名に採用したもの）",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "昭和30年（1955年）1月1日、伊予郡の郡中町・北山崎村・南伊予村・南山崎村が合併して発足した市で、市名は旧国名の伊予（伊豫国・伊予郡）に由来する。伊予は『古事記』の国生み神話に「伊予之二名島」と見える古い名だが、県庁所在地は松山市で、国名そのままの市名は県都とは別の港町が名乗っている。平成17年（2005年）には中山町・双海町と新設合併し、その際も公募によって改めて「伊予市」が新市名に選ばれた。",
+   "first_attestation": {
+    "era": "奈良時代",
+    "year_western": 712,
+    "document": "『古事記』上巻（国生みの条）",
+    "note": "四国を指す「伊予之二名島」としての初出で、本文に「伊予国は愛比売といひ」とある。自治体名としての「伊予市」は昭和30年（1955年）の発足が初出"
+   },
+   "claims": [
+    {
+     "text": "伊予市の地方公共団体コードは382108である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）1月1日、郡中町・北山崎村・南伊予村・南山崎村が合併して伊予市が発足したと伊予市公式の沿革年表は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-iyo-ayumi"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）4月1日、伊予市・中山町・双海町の1市2町が新設対等合併して現在の伊予市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-iyo-kaso-plan"
+     ]
+    },
+    {
+     "text": "愛媛県の市町要覧は「伊予は伊豫の国、伊豫郡から由来している」と説明し、平成17年の合併に伴い市の名称を公募して「伊予市（いよし）」と決定したと記す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran"
+     ]
+    },
+    {
+     "text": "『愛媛県史』文学編は、「伊予（伊豫）」の名が『古事記』『日本書紀』の国生み神話に「伊予之二名島」として見え、伊予国は愛比売と呼ばれたとする記載を紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-kenshi-iyo"
+     ]
+    },
+    {
+     "text": "「伊予（イヨ）」がなぜ国名になったのか、その語源については『愛媛県史』文学編も「語源をめぐる伝承は残っていない」としており、定説は確認できない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "q6-ehime-kenshi-iyo"
+     ]
+    },
+    {
+     "text": "伊予市の五色浜には、平家の5人の姫が海に身を投げて五色の石になったという「五色姫伝説」が伝わり、五色浜神社の拝殿にはこの伝説を描いた絵馬が飾られているという",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "q6-iyo-kanko-goshiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "五色の石になった姫たち――五色姫伝説と復活祭",
+    "text": "伊予市の五色浜には、源氏に敗れた平家の5人の姫がこの地に逃れ、悲劇の末に海に身を投げ、五色の小石になったという五色姫伝説が伝わる。五色浜神社の拝殿には伝説を描いた絵馬があり、「土地の人々の哀れみの心が五色姫を復活させた」という後日譚にあやかって、5色の石を奉納すると願いがかなうともいわれる。市では平成元年（1989年）から五色姫復活祭が開かれており、悲しい入水伝説が「復活」の物語として語り直され、まちの祭りになっている。",
+    "sources": [
+     "q6-iyo-kanko-goshiki",
+     "q6-iyo-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "昭和30年（1955年）の市制発足時に「伊予市」の名が選ばれた具体的な選定経緯（候補名や理由）は、市公式の沿革資料では確認できなかった",
+    "「伊予」の語源そのものは県史も伝承なしとしており未確定"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-八幡浜市",
+   "code": "382043",
+   "names": {
+    "ja": "八幡浜市",
+    "reading": "やわたはまし",
+    "aliases": [
+     "八幡浜町",
+     "保内町"
+    ]
+   },
+   "user_terms": [
+    "八幡浜はなぜ八幡浜というの",
+    "伊予の大阪と呼ばれたまち",
+    "四国の西の玄関口",
+    "みかんと魚の港町"
+   ],
+   "naming_type": "その他（八幡大神が浜に立ったという伝承に結びつく古い地名）",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "佐田岬半島の付け根にある港町で、「八幡浜」という地名は養老年間（717年〜724年）からあると市が伝え、その由来は八幡大神がこの地の浜に立たせられたことによるとされる。明治には商港として「伊予の大阪」と謳われるほど栄えた。昭和10年（1935年）に八幡浜町が神山町・千丈村・舌田村を併合して市制を施行し、平成17年（2005年）に保内町と合併して現在の市域となった。",
+   "first_attestation": {
+    "era": "養老年間",
+    "year_western": 717,
+    "document": "古文書（愛媛県市町要覧が「古文書に記されている」とするが、文書名は示されていない）",
+    "note": "地名の初出とされる時期。八幡大神の降臨伝承と結びついて伝えられており、史実として確認できる初出ではない"
+   },
+   "claims": [
+    {
+     "text": "八幡浜市の地方公共団体コードは382043である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "八幡浜市公式の沿革は、「八幡浜」という地名はすでに養老年間（717年〜724年）からあったと伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-yawatahama-enkaku"
+     ]
+    },
+    {
+     "text": "その由来は、八幡大神がこの地の浜に立たせられたことによると伝えられ、愛媛県の市町要覧は「古文書に記されている」と紹介する",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-yawatahama-enkaku",
+      "q6-ehime-yoran-yawatahama"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）の町村制施行で八幡浜町が誕生し、大正・昭和にかけて周辺町村を併合したと八幡浜市公式の沿革は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-yawatahama-enkaku"
+     ]
+    },
+    {
+     "text": "昭和10年（1935年）、八幡浜町は神山町・千丈村・舌田村を併合して市制を施行し、人口30,501人の八幡浜市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-yawatahama-enkaku"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）3月28日、八幡浜市と保内町が合併して新しい八幡浜市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-yawatahama"
+     ]
+    },
+    {
+     "text": "明治の初め頃、八幡浜は商業・海運で活況を呈し「伊予の大阪」と謳われたと愛媛県の市町要覧は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-yawatahama"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「伊予の大阪」と謳われた港町",
+    "text": "八幡浜は四国の西の玄関口で、対岸の大分とを結ぶ航路の発着地として発展した。愛媛県の市町要覧によれば、明治の初め頃には商工業が活況を呈し、「伊予の大阪」と謳われるほどだったという。みかんと魚の集散地として栄えた港町の繁栄は、八幡大神が浜に立ったという養老年間の伝承とともに、この市の古い地名を今に伝えている。",
+    "sources": [
+     "q6-ehime-yoran-yawatahama"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "県要覧が「古文書に記されている」とする養老元年（717年）の八幡大神の記事について、その古文書の名称・現存状況は確認できなかった",
+    "「八幡」の社（八幡神社）の勧請経緯と地名化の過程は、公式資料では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-四国中央市",
+   "code": "382132",
+   "names": {
+    "ja": "四国中央市",
+    "reading": "しこくちゅうおうし",
+    "aliases": []
+   },
+   "user_terms": [
+    "四国中央市の名前の由来",
+    "四国の真ん中にあるの？",
+    "宇摩市にならなかったのはなぜ",
+    "紙の町の名前"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "2004年（平成16年）4月1日に川之江市・伊予三島市・土居町・新宮村が合併して発足した市。市名は全国公募を経て合併協議会の投票で決定されたもので、四国のほぼ中央に位置し、四国の4県すべてに接する立地をイメージした名である。ただし公募の応募数では旧郡名の「宇摩市」が1位で「四国中央市」は5位だったため、決定をめぐっては議論もあった。",
+   "first_attestation": {
+    "era": "平成16年",
+    "year_western": 2004,
+    "document": "四国中央市の市制施行（2004年4月1日）",
+    "note": "合併により新設された市名であるため、名前の初出は市制施行そのもの。市名自体の決定は2003年2月14日の第7回合併協議会における投票による"
+   },
+   "claims": [
+    {
+     "text": "四国中央市の地方公共団体コードは382132である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2004年（平成16年）4月1日、川之江市・伊予三島市・土居町・新宮村の4市町村が合併して四国中央市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-ehime-youran-shikokuchuo"
+     ]
+    },
+    {
+     "text": "愛媛県の公式資料は「四国中央市」について、全国からみても新市の位置を地理的にイメージしやすい名称であり、四国の4県が接する自治体として、四国の交流拠点都市として発展するという希望や気概が込められた名称であると説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-ehime-youran-shikokuchuo"
+     ]
+    },
+    {
+     "text": "新市名は2002年9月から10月に全国公募され、2003年2月14日の第7回合併協議会において、5つの候補の中から投票により過半数を得て「四国中央市」と決定した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-shikokuchuo-wiki"
+     ]
+    },
+    {
+     "text": "公募の応募数では、旧宇摩郡の郡名による「宇摩市」が1位、「うま市」が2位、「法皇市」が3位、「ひうち市」が4位で、「四国中央市」は5位だったとされる。決定後には再考を求める署名が1万名を超えて集まるなど、命名をめぐる議論が続いた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-shikokuchuo-wiki"
+     ]
+    },
+    {
+     "text": "合併前の両市はともに1954年（昭和29年）11月1日に市制を施行しており、川之江市は中心の川之江町に、伊予三島市は中心の三島町にそれぞれ由来する市名だった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-ehime-youran-shikokuchuo"
+     ]
+    },
+    {
+     "text": "市は日本有数の製紙業の集積地で「紙の町」として知られ、三島川之江港は四国最大規模の国際貿易港であると愛媛県の公式資料は記す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-ehime-youran-shikokuchuo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "公募1位は「宇摩市」だった",
+    "text": "四国中央市の命名は、平成の大合併でも珍しい「公募の人気投票と最終決定が食い違った」事例である。全国公募で最も多くの支持を集めたのは、この地の古代からの郡名「宇摩」を継ぐ「宇摩市」だった。ところが合併協議会の投票で選ばれたのは、応募数5位の「四国中央市」である。四国の真ん中で4県と接する結節点という、将来の姿を描いた名が、由緒ある郡名に優先された。決定後には再考を求める署名が1万名を超えて集まったという。旧伊予三島市の市長は、宇摩の名について「若い人は馬の鳴き声のようで嫌だと言う」と取材に答えたとも伝えられる。名前の「正しさ」ではなく「将来のイメージ」で選ぶという、平成合併らしい判断の記録である。",
+    "sources": [
+     "q5-shikokuchuo-wiki",
+     "q5-ehime-youran-shikokuchuo"
+    ]
+   },
+   "relations": [
+    "pref/38",
+    "muni/38-西条市"
+   ],
+   "unknowns": [
+    "市域が地理的に四国の重心に当たるかどうかについては議論があり、公式の測定値は確認できていない",
+    "伊予三島市が「伊予」を冠した理由（静岡県三島市との区別とする説明が一般的）について、一次資料での裏付けは確認できていない",
+    "公募の応募総数や候補ごとの得票数の公式記録は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-大洲市",
+   "code": "382078",
+   "names": {
+    "ja": "大洲市",
+    "reading": "おおずし",
+    "aliases": [
+     "大津",
+     "大洲町"
+    ]
+   },
+   "user_terms": [
+    "大洲はなぜ大洲というの",
+    "伊予の小京都",
+    "おはなはんのまち",
+    "肱川の城下町"
+   ],
+   "naming_type": "その他（旧称「大津」を同名回避のため「大洲」に書き改めたと伝わる）",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "肱川中流の城下町で、もとは「大津（大いなる渡し場）」と呼ばれていた。江戸時代に大洲藩主加藤氏が入ってから、近江・土佐の大津と紛れるという理由で「大洲」と書き改められたと伝えられ、「洲」は肱川の氾濫でできた中洲・砂洲の地勢にちなむ字と説明される。昭和29年（1954年）に大洲町など10か町村が合併して市制を施行し、平成17年（2005年）に長浜町・肱川町・河辺村と合併して現在の市域となった。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": "大津から大洲への改称（加藤氏の入部後）",
+    "note": "「大洲」の表記の始まり。改称の時期は元和3年（1617年）の加藤貞泰入城後とする県要覧と、万治元年（1658年）とする県史地誌編とで異なり、特定できない。旧称「大津」はそれ以前の城下の呼称"
+   },
+   "claims": [
+    {
+     "text": "大洲市の地方公共団体コードは382078である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "大洲は以前「大津」と呼ばれており、「大津」とは大いなる渡し場の意であると愛媛県の市町要覧は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-ozu"
+     ]
+    },
+    {
+     "text": "「大津」から「大洲」への書き改めの時期については、県要覧が元和3年（1617年）に米子から移封された加藤貞泰の入城後とするのに対し、『愛媛県史』地誌編は加藤氏によって万治元年（1658年）に大洲と改められたとし、資料によって異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "q6-ehime-yoran-ozu",
+      "q6-ehime-kenshi-ozu"
+     ]
+    },
+    {
+     "text": "改称の理由は「大津は、近江の大津、土佐の大津に紛れる処あり」とされたためだと県要覧は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-ozu"
+     ]
+    },
+    {
+     "text": "「洲」は河川の氾濫により土砂等が高低に堆積された地勢（砂洲・中洲）を意味し、「大洲」はその地勢の現象に相応しい地名呼称であると県要覧は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-ozu"
+     ]
+    },
+    {
+     "text": "大洲は藩政時代、伊予大洲藩加藤氏六万石の城下町として栄え、「伊予の小京都」と呼ばれてきた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ozu-rekishi-fuchi"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）9月1日、大洲町・平野村・南久米村・菅田村・大川村・柳沢村・新谷村・三善村・粟津村・上須戒村の10か町村が合併して大洲市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ozu-rekishi-fuchi"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）1月11日、大洲市・長浜町・肱川町・河辺村の1市2町1村が合併し、現在の市域が形成された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ozu-rekishi-fuchi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "大津から大洲へ――改名の年が定まらない",
+    "text": "大洲の旧称「大津」は「大いなる渡し場」の意で、肱川の渡津の町らしい名だった。それが「大洲」に書き改められた理由は、近江の大津・土佐の大津と紛れるからだと伝えられる。ところが改名の年は資料によって揺れる。愛媛県の市町要覧は1617年の加藤貞泰の入城後とし、『愛媛県史』地誌編は1658年（万治元年）とする。貞泰は1623年に没しているため、1658年説では改名したのは後の代の加藤氏ということになる。同じ「公的資料」でも年が違う好例で、本レコードでは両説を併記した。",
+    "sources": [
+     "q6-ehime-yoran-ozu",
+     "q6-ehime-kenshi-ozu"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "「大津」という旧称自体の文書上の初出は確認できなかった",
+    "改称を行った藩主が加藤貞泰か後の代かは、2つの公的資料の記述が異なり確定できない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-宇和島市",
+   "code": "382035",
+   "names": {
+    "ja": "宇和島市",
+    "reading": "うわじまし",
+    "aliases": [
+     "板島",
+     "宇和島町"
+    ]
+   },
+   "user_terms": [
+    "宇和島はなぜ宇和島というの",
+    "仙台の伊達家と宇和島の関係",
+    "闘牛のまち",
+    "南予の中心都市"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "南予（宇和郡）の中心となった城下町で、もとは「板島」と呼ばれていた。元和元年（1615年）に伊達政宗の長子・秀宗が入部した直後、宇和郡の「宇和」と板島の「島」を取って「宇和島」と名付けたと県の要覧は推定する。以後、伊達氏10万石の城下町として発展し、大正10年（1921年）に市制を施行、平成17年（2005年）に吉田町・三間町・津島町と合併して現在の市域となった。",
+   "first_attestation": {
+    "era": "元和元年",
+    "year_western": 1615,
+    "document": "伊達秀宗の入部に伴う命名（愛媛県市町要覧が紹介）",
+    "note": "「宇和島」の名の成立時期。命名の経緯は県要覧も「思われる」と推定の形で記す。「宇和」の部分は古代の宇和郡に由来する"
+   },
+   "claims": [
+    {
+     "text": "宇和島市の地方公共団体コードは382035である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "宇和島市立伊達博物館の資料は、大宝律令や『日本書紀』によると、かつてこの地は宇和郡（うわごおり）と呼ばれていたと紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-uwajima-date-museum"
+     ]
+    },
+    {
+     "text": "元和元年（1615年）に伊達秀宗が当地に入部した時、この地は「板島の町」と呼ばれていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-uwajima"
+     ]
+    },
+    {
+     "text": "直後に、宇和郡（今の南予）の政治の中心になるよう、「宇和郡」の「宇和」と「板島」の「島」を取り「宇和島」と名付けたと思われると愛媛県の市町要覧は推定する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "inferred",
+     "sources": [
+      "q6-ehime-yoran-uwajima"
+     ]
+    },
+    {
+     "text": "文禄年間に宇和島城が築かれ、慶長19年（1614年）に伊達政宗の長子秀宗が封じられて以来、城下町として発展を続けた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-uwajima"
+     ]
+    },
+    {
+     "text": "大正10年（1921年）、宇和島町は丸穂村の編入（大正6年）を経て八幡村と合併し、市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-uwajima-keikan"
+     ]
+    },
+    {
+     "text": "平成17年（2005年）8月1日、宇和島市・吉田町・三間町・津島町が合併して新しい宇和島市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-uwajima"
+     ]
+    }
+   ],
+   "column": {
+    "title": "仙台から来た伊達――宇和島と2つの伊達市",
+    "text": "宇和島藩祖の伊達秀宗は、仙台藩主・伊達政宗の長子で、元和元年（1615年）に宇和島へ入部した。「伊達」の名を持つ自治体は、名字の地である福島県伊達市、仙台藩一門の亘理伊達家が開拓した北海道伊達市、そして伊達家の城下町だった宇和島市と、日本に3か所ある。宇和島市の名そのものは伊達家にちなむのではなく宇和郡と板島の合成だが、その城下町としての歴史は伊達家と切り離せない。",
+    "sources": [
+     "q6-ehime-yoran-uwajima",
+     "q6-uwajima-date-museum"
+    ]
+   },
+   "relations": [
+    "pref/38",
+    "muni/07-伊達市"
+   ],
+   "unknowns": [
+    "「宇和郡」の「宇和」の語源そのものは、確認した公的資料では説明されていなかった",
+    "板島の「板島」という旧称の由来（板のような島の地形にちなむ等の説）は、公的資料で確認できなかった",
+    "宇和島の命名者が秀宗本人かどうかは、県要覧も推定の表現にとどまり確定できない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-新居浜市",
+   "code": "382051",
+   "names": {
+    "ja": "新居浜市",
+    "reading": "にいはまし",
+    "aliases": []
+   },
+   "user_terms": [
+    "新居浜の名前の由来",
+    "にいはまの語源",
+    "新居浜と別子銅山の関係"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "市名は、神野郡（のちの新居郡）新居郷の北方の海浜を指した「新居浜」の継承。奈良時代末期に郡家（郡役所）が郡東部の中村へ移され、新しい庁舎を「新居」と称したことが「新居」の起こりで、その北の浜が新居浜と呼ばれるようになったと市・県の公式資料は説明する。昭和12年（1937年）に市制を施行した。",
+   "first_attestation": {
+    "era": "奈良時代末期",
+    "year_western": null,
+    "document": "神野郡の郡家移転に伴う「新居」の成立（新居浜市・愛媛県の公式説明）",
+    "note": "地名の成立そのものの説明。文書名で確認できる「新居浜」の初出は未確認"
+   },
+   "claims": [
+    {
+     "text": "新居浜市の地方公共団体コードは382051である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "大化の改新後にこの地方に神野郡（後の新居郡）が置かれ、郡家（郡役所）は初め郡の西部（西条地方）に設けられた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-pref-youran"
+     ]
+    },
+    {
+     "text": "奈良時代末期に郡家が郡東部の中村へ移され、新しい庁舎が創建されて「新居」と称されるようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-pref-youran"
+     ]
+    },
+    {
+     "text": "神野郡新居郷の北方の海浜が「新居浜」と呼ばれるようになった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-pref-youran"
+     ]
+    },
+    {
+     "text": "大同4年（809年）に、神野郡は新居郡と改められた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-pref-youran"
+     ]
+    },
+    {
+     "text": "元禄4年（1691年）の別子銅山の開坑によって新居浜は繁栄し、沿岸には住友関係の工場群が形成されて四国屈指の臨海工業都市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-pref-youran"
+     ]
+    },
+    {
+     "text": "昭和12年（1937年）11月3日、新居郡新居浜町・金子村・高津村が合併して市制を施行し、新居浜市が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-city-shiryou"
+     ]
+    },
+    {
+     "text": "平成15年（2003年）4月1日、別子銅山という文化歴史的背景を共有する別子山村を編入した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l5-niihama-pref-youran"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「新しい役所」が地名になった",
+    "text": "新居浜の「新居」は、もともと「新しい郡家（郡役所）の庁舎」を指す言葉だった。郡の役所が引っ越して新庁舎ができ、その周辺が「新居」と呼ばれ、北側の浜が「新居浜」になった。役所の移転という行政上の出来事が、1200年以上も残る地名になったわけである。なお市の南には、江戸時代から銅を産んだ別子銅山の別子山村があったが、2003年に編入されて市域に加わり、山と浜が再び一つの市に収まった。",
+    "sources": [
+     "l5-niihama-pref-youran"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "「新居浜」の表記が見える最古の文書は未確認",
+    "郡家の中村への移転の正確な年代と、その史料的根拠は未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-東温市",
+   "code": "382159",
+   "names": {
+    "ja": "東温市",
+    "reading": "とうおんし",
+    "aliases": [
+     "重信町",
+     "川内町"
+    ]
+   },
+   "user_terms": [
+    "東温市はなぜ東温というの",
+    "とうおんという読み方",
+    "温泉郡の東にあった市",
+    "重信川のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "平成16年（2004年）9月21日、温泉郡の重信町と川内町が新設合併して誕生した市。市名は公募で選ばれ、二町が温泉郡の東部に位置し古くから「東温地区」と呼ばれていたこと、由緒ある温泉郡の名の一部「温」を含むことなどが理由と県の要覧は説明する。つまり「東温」は、温泉郡の東という位置と郡名の合成による合併新市名である。",
+   "first_attestation": {
+    "era": "平成16年",
+    "year_western": 2004,
+    "document": "東温市の発足（重信町・川内町の新設合併）",
+    "note": "自治体名としての初出。ただし「東温地区」という地域呼称と、東温を冠した公共施設の名は合併以前から使われていたと県要覧は記す"
+   },
+   "claims": [
+    {
+     "text": "東温市の地方公共団体コードは382159である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "平成16年（2004年）9月21日、温泉郡重信町と川内町が合併して東温市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-toon"
+     ]
+    },
+    {
+     "text": "市名は公募され、「東温市」が選定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-toon"
+     ]
+    },
+    {
+     "text": "選定理由の一つは、二町が温泉郡の東部に位置し、古くから「東温地区」と呼ばれていたことであり、東温を冠した公共施設などがあり多くの住民に親しまれていたことも挙げられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-toon"
+     ]
+    },
+    {
+     "text": "「東温」には由緒ある「温泉郡」の名称の一部が含まれていること、温暖で人情豊かなまちのイメージにふさわしいことも選定理由とされた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-toon"
+     ]
+    },
+    {
+     "text": "市は松山平野の東部、県都松山市から12キロメートルのところに位置し、1級河川重信川の流域に開けている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-toon"
+     ]
+    }
+   ],
+   "column": {
+    "title": "通称がそのまま市名になった――「東温地区」の先行使用",
+    "text": "合併新市名は公募でまったく新しい名が生まれることも多いが、東温市の場合は逆で、合併前から地域の通称だった「東温地区」という呼び名がそのまま正式の市名に昇格した。県の要覧は、東温を冠した公共施設があり住民に親しまれていたことを選定理由の一つに挙げる。温泉郡の東という位置を示す実用的な通称が、郡そのものが消えた後も「温」の字を市名に残したことになる。",
+    "sources": [
+     "q6-ehime-yoran-toon"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "公募の応募総数や「東温市」以外の最終候補名は、県要覧では確認できなかった",
+    "「温泉郡」の郡名自体の由来（道後温泉との関係など）は本レコードの調査範囲では未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-松前町",
+   "code": "384011",
+   "names": {
+    "ja": "松前町",
+    "reading": "まさきちょう",
+    "aliases": [
+     "正木"
+    ]
+   },
+   "user_terms": [
+    "松前町は「まさき」と読むのはなぜ",
+    "松前町（愛媛）の名前の由来",
+    "正木城があった町"
+   ],
+   "naming_type": "その他（「まさき」の音を継ぎ、表記を「松前」に改めたという言い伝えに基づく）",
+   "prefecture": "愛媛県",
+   "homonyms": [
+    "muni/01-松前町"
+   ],
+   "summary": "読みは「まさき」。愛媛県の市町要覧によれば、慶長8年（1603年）に加藤嘉明が正木（まさき）城から勝山に居城を移して「松山城」と命名した際、「松山（城）の前」の意で「松前（まさき）」に改字したといわれている。ただし同要覧は「他にも諸説あり詳細は不明」と明記しており、確定した由来ではない。昭和30年（1955年）3月31日に旧松前町・岡田村・北伊予村が合併して現在の松前町となった。北海道松前町とは漢字が同じだけで、読みも由来も無関係である。",
+   "first_attestation": {
+    "era": "慶長8年",
+    "year_western": 1603,
+    "document": "加藤嘉明の居城移転に伴う改字の言い伝え",
+    "note": "「松前」の表記が始まったとされる年。ただし愛媛県市町要覧自身が「諸説あり詳細は不明」と留保しており、一次文書による確定ではない。「正木」の地名自体は中世以来のものである"
+   },
+   "claims": [
+    {
+     "text": "愛媛県の市町要覧は、町名の由来について、慶長8年（1603年）に加藤嘉明が正木（まさき）城から勝山（現松山市）に居城を移し「松山城」と命名した際に、松山（城）の前の意で「松前（まさき）」に改字したといわれていると紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "h1-matsumae-ehime-yoran"
+     ]
+    },
+    {
+     "text": "同じく愛媛県の市町要覧は、この改字説について「他にも諸説あり詳細は不明」と明記しており、県の公式資料の水準でも由来は確定していない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "h1-matsumae-ehime-yoran"
+     ]
+    },
+    {
+     "text": "読みは「まさき」であり、「松前」の表記に「まさき」と読ませるのは、もとの地名「正木（まさき）」の音を継いだものと位置づけられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-ehime-yoran"
+     ]
+    },
+    {
+     "text": "正木城は加藤嘉明の居城であり、嘉明は慶長8年（1603年）に正木城から勝山へ居城を移した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-ehime-yoran"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）3月31日、旧松前町・岡田村・北伊予村が合併して、現在の松前町となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-ehime-yoran"
+     ]
+    },
+    {
+     "text": "（異なる層）北海道松前町とは漢字表記が同じだけで、読み（まさき／まつまえ）も、由来（正木の改字の言い伝え／アイヌ語地名と松前藩の系譜）も異なる、無関係の地名である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-ehime-yoran",
+      "h1-matsumae-jtb"
+     ]
+    },
+    {
+     "text": "加藤嘉明が松山城を命名したとき、もとの居城の地を「松山の前」として「松前」と書き改めたという話は、地元で言い伝えとして語られている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h1-matsumae-ehime-yoran"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「まつまえ」とは読まない松前",
+    "text": "同じ「松前」という漢字でも、北海道の町は「まつまえ」、愛媛の町は「まさき」と読みます。愛媛の「まさき」は、もとの地名「正木（まさき）」の音をそのまま残し、字だけを替えたものと伝えられます。言い伝えでは、加藤嘉明が新しい城を「松山城」と名付けたとき、古い城下を「松山の前」と位置づけて「松前」の字をあてた、とされます。ただし愛媛県の公式資料自身が「諸説あり詳細は不明」と書く話です。読み方が違えば郵便も間違えようがない、というのは同名地名の中では珍しい幸運かもしれません。",
+    "sources": [
+     "h1-matsumae-ehime-yoran"
+    ]
+   },
+   "relations": [
+    "pref/38",
+    "muni/01-松前町"
+   ],
+   "unknowns": [
+    "改字説を裏づける一次文書は未確認（愛媛県市町要覧も「詳細は不明」とする）",
+    "「諸説あり」とされる他の説の具体的な内容は、市町要覧の範囲では未確認",
+    "「正木」の地名の初出文書の特定は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-松山市",
+   "code": "382019",
+   "names": {
+    "ja": "松山市",
+    "reading": "まつやまし",
+    "aliases": []
+   },
+   "user_terms": [
+    "松山の名前の由来",
+    "松山城のある市の名前",
+    "道後温泉のある市の名前",
+    "松江と間違えやすい市の名前"
+   ],
+   "naming_type": "新規命名",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "市名は松山城の城名に由来する。城が築かれた山はもともと勝山と呼ばれていたが、慶長7年（1602年）に築城に着手した加藤嘉明が翌慶長8年（1603年）に「松山城」と名付け、城名が町・市の名になった。命名理由には松の木に由来する説と、松平家の「松」を取ったとする説があり、市は2説を併記している。松山市は明治22年（1889年）12月15日に市制を施行した。島根県の松江市とは読みが似るが別の自治体である。",
+   "first_attestation": {
+    "era": "慶長8年",
+    "year_western": 1603,
+    "document": "松山城の命名（松山市公式「松山という名がつけられた理由」）",
+    "note": "城名としての命名。築城着工は慶長7年（1602年）で、山そのものは勝山と呼ばれていた"
+   },
+   "claims": [
+    {
+     "text": "松山市の地方公共団体コードは382019である（総務省「全国地方公共団体コード」市区町村コード一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-soumu-code-list"
+     ]
+    },
+    {
+     "text": "松山の名は、慶長7年（1602年）に加藤嘉明が築城にかかり、翌慶長8年（1603年）に松山城と名づけたことに始まる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-matsuyama-city-gaiyo",
+      "e-cap-matsuyama-city-riyu"
+     ]
+    },
+    {
+     "text": "松山城が築かれたのは、標高132メートル・周囲約4キロメートルの独立丘陵である勝山を中心とする地で、城の完成は嘉明の転封後、寛永4年（1627年）に第2代城主・蒲生忠知によって成されたと伝えられる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-matsuyama-city-castle"
+     ]
+    },
+    {
+     "text": "命名の理由の一説として、お城のある山に多くの松の木が植えられていたことが挙げられている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "e-cap-matsuyama-city-riyu"
+     ]
+    },
+    {
+     "text": "もう一説として、徳川家の一族である松平家の「松」の字を取って付けられたとする説があり、松山市はその典拠を奥平貞虎編『予陽郡郷俚諺集』とする。ただしこれは江戸時代の俚諺集に基づく後世の説明で、命名した加藤嘉明との関係を示す同時代資料は確認されていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "e-cap-matsuyama-city-riyu"
+     ]
+    },
+    {
+     "text": "明治6年（1873年）に愛媛県庁が設置されて県都となり、明治22年（1889年）12月15日に市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-matsuyama-city-gaiyo"
+     ]
+    },
+    {
+     "text": "島根県松江市（まつえ）とは読みが似るが別の自治体であり、「松山」が加藤嘉明の名付けた城名に由来するのに対し、「松江」は堀尾氏が白潟・末次を合わせて称した城下町名に由来するなど、成立の事情は異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-matsuyama-city-riyu",
+      "e-cap-matsue-city-gaiyo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "勝山から松山へ ― 山の名前が市の名前になった",
+    "text": "松山城の山は、城ができる前は「勝山」と呼ばれていた。加藤嘉明が1602年に築城を始め、翌年に城を「松山城」と名付けたことで、山の名も町の名も「松山」に切り替わった。もとの「勝山」も縁起のよい名だったはずだが、新しい城主は新しい名を選んだ。松山市の公式解説は命名理由を2説併記する。山に松が多かったという素朴な説と、松平家の「松」を取ったという説である。後者は江戸時代の俚諺集が出典で、命名の当事者である嘉明との結びつきは薄い。「なぜ松なのか」は、今も決着していない。",
+    "sources": [
+     "e-cap-matsuyama-city-riyu",
+     "e-cap-matsuyama-city-castle"
+    ]
+   },
+   "relations": [
+    "pref/38",
+    "muni/32-松江市"
+   ],
+   "unknowns": [
+    "命名理由の2説（松の木説・松平家の「松」説）のどちらが正しいかは資料上決められず、特に松平説は松平氏が松山の城主となる時期との関係を含め同時代資料での裏付けが確認できていない",
+    "加藤嘉明が「松山」と名付けた経緯を記した同時代の一次文書は今回特定できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-西予市",
+   "code": "382141",
+   "names": {
+    "ja": "西予市",
+    "reading": "せいよし",
+    "aliases": [
+     "宇和町",
+     "野村町",
+     "城川町",
+     "明浜町",
+     "三瓶町"
+    ]
+   },
+   "user_terms": [
+    "西予市はなぜ西予というの",
+    "せいよしという読み方",
+    "伊予の西にある市",
+    "旧宇和町のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "平成16年（2004年）4月1日、東宇和郡の明浜町・宇和町・野村町・城川町と西宇和郡の三瓶町が合併して誕生した市。市名は一般公募で選ばれ、愛媛県（伊予）の西部に位置することにちなむ方角地名である。中心となった宇和町は古代の宇和郡に連なる古い地名を残していたが、市名としては旧町名のいずれでもない広域の位置を示す名が選ばれた。",
+   "first_attestation": {
+    "era": "平成16年",
+    "year_western": 2004,
+    "document": "西予市の発足（5町の新設合併）",
+    "note": "自治体名としての初出。市名は一般公募により選定された"
+   },
+   "claims": [
+    {
+     "text": "西予市の地方公共団体コードは382141である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "平成16年（2004年）4月1日、東宇和郡の明浜町・宇和町・野村町・城川町と西宇和郡三瓶町の五町が合併して西予市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-seiyo-kihon-data"
+     ]
+    },
+    {
+     "text": "市町村合併にあたり、市名は一般公募された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-seiyo"
+     ]
+    },
+    {
+     "text": "「西予」は愛媛県（伊予）の西部に位置することにちなむ名で、自然豊かで水・空気が澄んだ清らかな特徴をイメージさせ、西予地域を代表する市になるようにとの願いが込められていると愛媛県の市町要覧は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-seiyo"
+     ]
+    },
+    {
+     "text": "市の中心となった宇和町は古代以来の宇和郡に連なる地名で、合併した5町は近世以来宇和郡を東西に分けた東宇和郡・西宇和郡に属していた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-seiyo-kihon-data",
+      "q6-uwajima-date-museum"
+     ]
+    },
+    {
+     "text": "市の総面積は約515平方キロメートルと県内2番目の広さで、そのうち75パーセントを山林が占める",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-ehime-yoran-seiyo"
+     ]
+    },
+    {
+     "text": "旧明浜町は、かつて「明浜（あかはま）」と呼ばれていたが、明るく未来に開ける浜という期待を込め、昭和33年（1958年）の合併の際に一般公募の中から「あけはま（明浜）」と改められたと西予市公式は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q6-seiyo-kihon-data"
+     ]
+    }
+   ],
+   "column": {
+    "title": "南予にあって「西予」を名乗る",
+    "text": "県の要覧自身はこの市の位置を「愛媛県南西部」「愛媛県南部の中心」と紹介する。それなのに市名は「西予」だ。要覧によれば、これは愛媛県すなわち伊予の「西部」に位置することにちなむ名で、「西予地域を代表する市になるように」との願いが込められたという。方角地名は基準の取り方しだいで、県を南北に見るか東西に見るかで、同じ土地が「南」にも「西」にもなる好例である。",
+    "sources": [
+     "q6-ehime-yoran-seiyo"
+    ]
+   },
+   "relations": [
+    "pref/38"
+   ],
+   "unknowns": [
+    "公募の応募総数や「西予」以外の最終候補名は、県要覧・市公式ページでは確認できなかった",
+    "「西予地域」という広域呼称が合併以前から行政・地域の呼び名としてどの程度使われていたかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/38-西条市",
+   "code": "382060",
+   "names": {
+    "ja": "西条市",
+    "reading": "さいじょうし",
+    "aliases": [
+     "西條"
+    ]
+   },
+   "user_terms": [
+    "西条市の名前の由来",
+    "西条は条里制の名前？",
+    "うちぬきの水の町",
+    "西条藩と地名の関係"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "愛媛県",
+   "homonyms": [],
+   "summary": "「西条」は鎌倉時代の荘園名「新居西條庄」に見える古い地域名で、奈良時代の条里制に由来するという説がある。1941年（昭和16年）に西条町など2町3村が合併して市制を施行した際、昔からこの地域の総称だった「西條」を市名に決定した。江戸時代の西条藩の陣屋より、地名の方がはるかに古い。2004年（平成16年）には東予市・丹原町・小松町との新設合併で新しい西条市となり、市名は一般公募でも改めて「西条」が選ばれた。",
+   "first_attestation": {
+    "era": "鎌倉時代末期",
+    "year_western": null,
+    "document": "「新居西條庄」の記載がある文書（西条市公式の合併資料が鎌倉末期のものと推定される文書として紹介）",
+    "note": "市公式資料の紹介によるもので、原典の文書名は特定できていない。条里制に由来するという説自体は市公式資料が「起因するという説」として紹介する"
+   },
+   "claims": [
+    {
+     "text": "西条市の地方公共団体コードは382060である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "西条市公式の合併資料によれば、「西條」という地名は条里制に起因するものと言われ、新居浜市角野にあった深谷寺の古文書には「島山以東を東條といい、島山以西を西條という」とあったとされる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-saijo-history-pdf"
+     ]
+    },
+    {
+     "text": "鎌倉時代末期と推定される文書に「新居西條庄」という記載があり、荘園名として「西條」が用いられていたことが西条市公式資料に紹介されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-saijo-history-pdf"
+     ]
+    },
+    {
+     "text": "1941年（昭和16年）4月29日、西条町・氷見町・飯岡村・神戸村・橘村が合併して市制を施行した際、昔からこの地域の総称であった「西條」を市名に決定した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-saijo-history-pdf"
+     ]
+    },
+    {
+     "text": "2004年（平成16年）11月1日、西条市・東予市・丹原町・小松町の2市2町が新設合併して新しい西条市が誕生した。市名は平成の合併にあたっても一般公募で「西条」が選ばれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-saijo-plan-pdf"
+     ]
+    },
+    {
+     "text": "江戸時代には西条藩の陣屋が置かれたが（旧西条藩陣屋跡が残る）、地名「西条」はそれより数百年古い荘園名の時代に遡る",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-saijo-keikan",
+      "q5-saijo-history-pdf"
+     ]
+    },
+    {
+     "text": "市内の広い範囲では地下水が自然に湧き出す「うちぬき」があり、西条は水の豊かな町として知られる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-saijo-keikan"
+     ]
+    }
+   ],
+   "column": {
+    "title": "島山をはさんで「東條」と「西條」",
+    "text": "西条の名は、対の名前と一緒に生まれた。新居浜の角野にあった深谷寺の古文書には「島山以東を東條といい、島山以西を西條という」とあったと、西条市の合併資料は伝える。条里制の区画に由来するというこの説明が正しければ、「西条」は方角を示す行政の名として千年以上の寿命を持つことになる。面白いのは2004年の合併の相手に「東予市」がいたことだ。東予は「伊予の東」という意味の近代の地域名で、古い方角地名（西條）と新しい方角地名（東予）が合併し、残ったのは古い方だった。公募でも西条が選ばれたという。",
+    "sources": [
+     "q5-saijo-history-pdf",
+     "q5-saijo-plan-pdf"
+    ]
+   },
+   "relations": [
+    "pref/38",
+    "muni/38-四国中央市"
+   ],
+   "unknowns": [
+    "条里制起源説の根拠とされる深谷寺の古文書そのものは確認できていない（市公式資料の紹介による）",
+    "「新居西條庄」の文書の名称と正確な年代は特定できていない",
+    "「東條」と呼ばれた地域が現在のどの範囲に当たるかは資料で確認できていない"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

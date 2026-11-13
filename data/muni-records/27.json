@@ -1,0 +1,2993 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "d-cap-jlis-osaka": {
+   "label": "地方公共団体情報システム機構（J-LIS）「大阪府内市町村」（地方公共団体コード住所一覧）",
+   "url": "https://www.j-lis.go.jp/spd/code-address/kinki/cms_14814183.html"
+  },
+  "d-cap-osaka-city-name": {
+   "label": "大阪市「市名 市章 市歌 市の花 市政」",
+   "url": "https://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000010271.html"
+  },
+  "d-cap-osaka-ndl": {
+   "label": "レファレンス協同データベース「『大坂』が『大阪』になったのはなぜですか」（大阪市立中央図書館）",
+   "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000039969&page=ref_view"
+  },
+  "d-cap-osaka-nenpyo": {
+   "label": "大阪市「市政年表」",
+   "url": "https://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000010179.html"
+  },
+  "d-cap-osaka-tayori": {
+   "label": "大阪市史編纂所「市史編さん所だより第33号」（大阪市制120年）",
+   "url": "https://www.oml.city.osaka.lg.jp/torikomi/upload/tayori033.pdf"
+  },
+  "h6-taishi-hyogo-ikaruga": {
+   "label": "兵庫県太子町公式キッズページ「斑鳩寺」（推古14年に聖徳太子が播磨国揖保郡の水田百町を寄進され「鵤荘」と名付け伽藍を建てたのが始まり、のち法隆寺に寄付）",
+   "url": "https://www.town.hyogo-taishi.lg.jp/kids/1425542358299.html"
+  },
+  "h6-taishi-hyogo-wiki": {
+   "label": "Wikipedia「太子町 (兵庫県)」（市町村コード28464-5、1951年に斑鳩町・石海村・太田村が合併して太子町が誕生、町名は聖徳太子ゆかりの町であることから。檀特山の伝説）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E7%94%BA_(%E5%85%B5%E5%BA%AB%E7%9C%8C)"
+  },
+  "h6-taishi-osaka-profile": {
+   "label": "大阪府太子町公式サイト「町のプロフィール」（昭和31年に磯長村と山田村が合併し、聖徳太子にちなんで太子町と名付けられた。王陵の谷と梅鉢御陵）",
+   "url": "https://www.town.taishi.osaka.jp/busyo/seisakusoumubu/hisyoseisakuka/town_profile/tprofile.html"
+  },
+  "h6-taishi-osaka-wiki": {
+   "label": "Wikipedia「太子町 (大阪府)」（市町村コード27381-3、1956年に磯長村・山田村が合併して発足、大字「太子」は旧磯長村）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E7%94%BA_(%E5%A4%A7%E9%98%AA%E5%BA%9C)"
+  },
+  "k4-higashiosaka-50nen": {
+   "label": "東大阪市「市政だより平成29年2月1日号（別紙）東大阪市50年のあゆみ」（「東大阪市」の市名の由来：合併以前からの市民の呼称で、1966年8月に決定）",
+   "url": "https://www.city.higashiosaka.lg.jp/0000018922.html"
+  },
+  "k4-higashiosaka-ayumi": {
+   "label": "東大阪市「東大阪市の歩み」（1967年2月1日に布施・河内・枚岡の3市合併で誕生、1969年7月に人口50万人突破）",
+   "url": "https://www.city.higashiosaka.lg.jp/0000018494.html"
+  },
+  "k4-higashiosaka-suido": {
+   "label": "東大阪市「東大阪市水道 通水90周年」（前身の旧布施町で1932年3月に給水開始）",
+   "url": "https://www.city.higashiosaka.lg.jp/0000032398.html"
+  },
+  "k4-hirakata-ayumi": {
+   "label": "枚方市「枚方のあゆみ」（公式PDF。『播磨国風土記』に「河内国茨田郡枚方里」と記されることを紹介。1947年8月1日市制施行）",
+   "url": "https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000000/733/24394.pdf"
+  },
+  "k4-hirakata-fudoki": {
+   "label": "高田幸夫「枚方の歴史」（郷土史解説。『播磨国風土記』揖保郡条の「枚方の里」の記事と、白肩津転化説を紹介）",
+   "url": "http://v-rise.world.coocan.jp/rekisan/htdocs/oosakaindex/hirakatac/hirakata.html"
+  },
+  "k4-hirakata-kusuha": {
+   "label": "枚方市「枚方八景 樟葉宮跡の杜」（『日本書紀』により継体天皇が507年に樟葉で即位し5年間樟葉宮を営んだとする）",
+   "url": "https://www.city.hirakata.osaka.jp/0000000636.html"
+  },
+  "k4-neyagawa-chimei": {
+   "label": "「寝屋」の地名の由来（地名由来解説サイト。星田牧の宿泊所説・布施屋説・「ネ（川岸）＋ヤ（湿地）」説、寝屋長者屋敷跡の伝承地を紹介）",
+   "url": "http://folklore2017.com/timei900/963.htm"
+  },
+  "k4-neyagawa-hachikazuki": {
+   "label": "寝屋川市「新寝屋川八景を訪ねる散策コース 8 鉢かづき姫伝説コース」（市が鉢かづき姫の伝説をたどるコースを設定）",
+   "url": "https://www.city.neyagawa.osaka.jp/organization_list/shiminkatsudou/bunkasport/bunkazai/sinhakkei/sansaku/23061.html"
+  },
+  "k4-neyagawa-koho": {
+   "label": "寝屋川市広報「広報ねやがわ」令和元年10月号特集「あなたは、まだ寝屋川を知らない」（市名の由来は川名、川名は「寝屋」の地区名に由来。1889年に4村合併で寝屋川村）",
+   "url": "https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/kikakusanka/kouhou/koho/kohoneyagwatext/h31/1568788223512.html"
+  },
+  "k4-neyagawa-shisho": {
+   "label": "寝屋川市「市章のいわれ」（市制施行した昭和26年5月3日に制定。「ネ」と「矢」で「寝屋」を表す）",
+   "url": "https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/hisyo/shishou/index.html"
+  },
+  "k4-sakai-chukatsu": {
+   "label": "堺市「堺市中心市街地活性化基本計画」（平安時代に摂津・和泉の2国の境に位置したことから「さかい」と呼ばれるようになったとする）",
+   "url": "https://www.city.sakai.lg.jp/shisei/toshi/machizukuri/chukatsukeikaku.files/1.pdf"
+  },
+  "k4-sakai-gappei": {
+   "label": "堺市「堺市の合併の歴史」（1889年市制施行、14次にわたる編入、2005年2月1日美原町編入）",
+   "url": "https://www.city.sakai.lg.jp/shisei/daitoshi_chihobun_koiki/seirei/gappei.html"
+  },
+  "k4-sakai-gikai": {
+   "label": "堺市議会「市勢の概要」（「堺の地名と市章の由来」を含む。さかいの初出は11世紀中頃・3国の境とする）",
+   "url": "https://www.city.sakai.lg.jp/shigikai/jimukyoku/sisatuukeire.files/260630gaiyo.pdf"
+  },
+  "k4-sakai-kadokawa": {
+   "label": "角川日本地名大辞典「堺（中世）」（JLogos掲載。中世の堺は住吉郡・大鳥郡にまたがる堺北荘・堺南荘の総称、貞永元年の文書に「泉州堺津」）",
+   "url": "https://jlogos.com/docomosp/word.html?id=7383277"
+  },
+  "k4-sakai-rekimachi": {
+   "label": "堺市「堺市歴史的風致維持向上計画」第1章（2005年の美原町合併を契機に2006年に政令指定都市へ移行）",
+   "url": "https://www.city.sakai.lg.jp/kanko/rekishi/bunkazai/bunkazai/rekimachi/rekimachi2_nintei.files/rekimachi2_2.pdf"
+  },
+  "k4-suita-enkaku": {
+   "label": "吹田市「吹田市の沿革」（1940年4月1日に4町村の合併で吹田市が誕生）",
+   "url": "https://www.city.suita.osaka.jp/shisei/1018754/1018755/1012273.html"
+  },
+  "k4-suita-history": {
+   "label": "吹田市「吹田市の歴史」（「吹田」の名前の由来：『行基年譜』の「次田（スキタ）」が初見、音便と草書体の字形から「吹田」へ）",
+   "url": "https://www.city.suita.osaka.jp/suitablecity/1016975/1016976/index.html"
+  },
+  "k4-suita-shishi": {
+   "label": "吹田市史 総説編（『醍醐雑事記』に貞観7年（865年）の吹田庄成立が記されることを紹介）",
+   "url": "https://www.city.suita.osaka.jp/_res/projects/default_project/_page_/001/023/714/sousetsu.pdf"
+  },
+  "k4-takatsuki-gogen": {
+   "label": "語源由来辞典「高槻市」（「高月」から「高槻」への転化は高い槻の木の近くの本陣に由来するという説、「高月」の語源3説）",
+   "url": "https://gogen-yurai.jp/takatsuki-shi-osaka"
+  },
+  "k4-takatsuki-kyodo": {
+   "label": "高槻市「郷土の沿革」（公式資料。高槻の地名のおこりは「高月」で鎌倉時代から南北朝時代に史上に現れる。1943年市制施行、2003年中核市移行）",
+   "url": "https://www.city.takatsuki.osaka.jp/uploaded/attachment/58620.pdf"
+  },
+  "k4-takatsuki-shisho": {
+   "label": "高槻市「市章・市歌・市民の木・市民の花」（市章は大阪市と京都市の市章を組み合わせ、高槻の「高」をかたどった）",
+   "url": "http://www.city.takatsuki.osaka.jp/soshiki/4/1199.html"
+  },
+  "k4-toyonaka-history": {
+   "label": "豊中市「豊中の歴史と歩み」（豊中村の誕生は1889年、豊島郡の中央にあたることから命名と伝える。1936年市制施行）",
+   "url": "https://www.city.toyonaka.osaka.jp/joho/shoukai/history/history.html"
+  },
+  "k4-toyonaka-youran": {
+   "label": "豊中市教育委員会「教育要覧」（市章の由来：「ト」を4つ組み合わせて「豊」、全体の形を「中」と見立てた）",
+   "url": "https://www.city.toyonaka.osaka.jp/kosodate/kosodatetorikumi/nenji_hokoku/youran.files/R3_yoran.pdf"
+  },
+  "k4-yao-gaiyo": {
+   "label": "八尾市「八尾市の概要」（市制施行は昭和23年4月1日、当時の人口64,431人・面積18.99平方キロメートル）",
+   "url": "https://www.city.yao.osaka.jp/shisei/yaoshinoshoukai/1012611/1009255.html"
+  },
+  "k4-yao-iwaware": {
+   "label": "八尾市「『八尾』の地名のいわれ」（鶯の尾羽根説・矢負い説・八百の杭説の3つの「いわれ」を紹介）",
+   "url": "https://www.city.yao.osaka.jp/shisei/yaoshinoshoukai/1012611/1012656.html"
+  },
+  "k4-yao-library": {
+   "label": "八尾市立図書館「八尾 地名の起り」（初出は長久2年（1041年）の矢作神社文書。矢負い説・八つ尾の鶯伝説・八百の柵説などを『八尾市史』等の資料で整理）",
+   "url": "http://web-lib.city.yao.osaka.jp/digital/archive/yao_16.html"
+  },
+  "l4-ibaraki-city-keikaku": {
+   "label": "茨木市「都市計画マスタープラン序章（茨木の都市づくりのあゆみ）」（1948年に1町3村が合併して市制施行、大阪府内13番目の市）",
+   "url": "https://www.city.ibaraki.osaka.jp/material/files/group/42/R5-3j_2-1soan.pdf"
+  },
+  "l4-ibaraki-city-tokei": {
+   "label": "茨木市「茨木市統計書（市の概況・沿革）」（地名の由来は明らかでないこと、『勝尾寺文書』正治2年（1200）の初見、中川清秀の茨木城）",
+   "url": "https://www.city.ibaraki.osaka.jp/material/files/group/2/toukeisho03new.pdf"
+  },
+  "l4-ibaraki-city-tokei-h25": {
+   "label": "茨木市「茨木市統計書 平成25年版」（西国街道と「椿の本陣」）",
+   "url": "https://www.city.ibaraki.osaka.jp/material/files/group/13/h25toukeisyo.pdf"
+  },
+  "l4-ibaraki-kotobank": {
+   "label": "コトバンク「茨木」（日本大百科全書ニッポニカ。1948年に茨木町と三島・春日・玉櫛の3村が合併して市制施行）",
+   "url": "https://kotobank.jp/word/%E8%8C%A8%E6%9C%A8-1156078"
+  },
+  "l4-ibaraki-wikipedia": {
+   "label": "Wikipedia「茨木市」（語源諸説と「いばらき」と連濁しない読み。原典確認が未了のため低いレベルで扱う）",
+   "url": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E6%9C%A8%E5%B8%82"
+  },
+  "l4-kadoma-city-rekishi": {
+   "label": "門真市「歴史」（記紀に仁徳天皇が渡来人に茨田堤を築かせたと記されること）",
+   "url": "https://www.city.kadoma.osaka.jp/shisei/shokai/5397.html"
+  },
+  "l4-kadoma-city-shiori": {
+   "label": "門真市「市勢要覧（沿革・位置）」（河内屈指の穀倉地帯で河内蓮根が特産物であったこと）",
+   "url": "https://www.city.kadoma.osaka.jp/material/files/group/1/01_overview.pdf"
+  },
+  "l4-kadoma-city-tokei": {
+   "label": "門真市「門真市統計書 令和4年版（沿革）」（1939年の町制、1956年の3村編入、1963年8月1日の市制施行）",
+   "url": "https://www.city.kadoma.osaka.jp/material/files/group/8/R4toukei.pdf"
+  },
+  "l4-kadoma-shishitsu": {
+   "label": "門真市史料室研究会「門真・合併の歴史」（『門真市史』・市広報に基づく研究。普賢寺庄から門真へ、門真一番上など19村の統合）",
+   "url": "http://www.kadoma-shisyokurou.org/gappei-kenkyu/gappei_kenkyu7.html"
+  },
+  "l4-kadoma-wikipedia": {
+   "label": "Wikipedia「門真市」（「潟沼」から転じたとする説など語源諸説。原典確認が未了のため低いレベルで扱う）",
+   "url": "https://ja.wikipedia.org/wiki/%E9%96%80%E7%9C%9F%E5%B8%82"
+  },
+  "l4-minoh-city-onko": {
+   "label": "箕面市「箕面 温故知新（箕面の概要）」（白雉元年（650）に役行者が箕面寺を開基したと伝えること、1889年の4村発足、1956年12月1日の市制）",
+   "url": "https://www.city.minoh.lg.jp/~data/minoh-onkochishin/minoh.html"
+  },
+  "l4-minoh-city-profile": {
+   "label": "箕面市「箕面の歴史（プロフィール）」（平安後期に箕面の聖の住処が『梁塵秘抄』に歌われたこと）",
+   "url": "https://www.city.minoh.lg.jp/shisei/profile/history.html"
+  },
+  "l4-minoh-city-water": {
+   "label": "箕面市「水道事業年報 第1章 事業沿革」（1948年の町制と合併、1956年の市制施行、1910年の箕面有馬電気軌道開通）",
+   "url": "https://www.city.minoh.lg.jp/water/jigyou-nenpou/documents/03-r4kyoutsuu1-01.pdf"
+  },
+  "l4-minoh-gogen": {
+   "label": "語源由来辞典「箕面市」（平安中期の「箕尾山」・後期の「箕面山」、箕面大滝に由来するとする説と「水の尾」説）",
+   "url": "https://gogen-yurai.jp/minoh-shi-osaka"
+  },
+  "p3-daito-kentei": {
+   "label": "大東市公式「市制施行70周年プレ企画 大東マスター検定 正解発表」（飯盛山の名称の由来は、そのなだらかな山容がご飯を高く盛ったように見えることから名付けられたと伝えられること）",
+   "url": "https://www.city.daito.lg.jp/site/iju/67988.html"
+  },
+  "p3-daito-sankei": {
+   "label": "産経ニュース「大阪・大東にあるのに、駅も警察も『四條畷』…鍵は『小楠公』ゆかりの神社に」（大東市立歴史民俗資料館館長の説明として、「四條」の地名は条里制の「四条」に由来すること、市内の駅は住道・野崎・四条畷で「大東」と名のつく駅はないこと、四条畷駅は四條畷神社への参拝手段として開通した鉄道の駅であること）",
+   "url": "https://www.sankei.com/article/20240330-UJYZ6S6ECRNPNO6PWMIMWSUTJ4"
+  },
+  "p3-daito-toukei": {
+   "label": "大東市統計書（令和4年版）「市名と市章の由来」（大東市は住道町・四条町・南郷村の2町1村が合併して昭和31年（1956年）4月1日に誕生したこと、大阪市の東部に隣接する衛星都市として飛躍的発展が期待されるという展望のもと、過去の栄光と「光は東方より」という将来への明確な展望を託して「大東市」と命名されたこと、市章は「大とう」の文字をデザイン化したもので公募によって定められ昭和31年8月に制定されたこと）",
+   "url": "https://www.city.daito.lg.jp/uploaded/attachment/31623.pdf"
+  },
+  "p3-habikino-keikan": {
+   "label": "羽曳野市景観計画（第2部 景観マスタープラン編）（墳丘長425mで我が国第2位の規模を誇る応神天皇陵古墳をはじめ、古市古墳群の古墳が市域に多数現存すること）",
+   "url": "https://www.city.habikino.lg.jp/material/files/group/46/33581916.pdf"
+  },
+  "p3-habikino-kotobank": {
+   "label": "コトバンク「羽曳野市」（平凡社『日本歴史地名大系』。羽曳野の名は日本武尊の白鳥伝説にちなむこと、『日本書紀』景行天皇40年条では白鳥は河内の古市で天に上るが、白鳥神社・大鳥神社の縁起によれば白鳥はさらに埴生の丘を羽を曳くがごとく西に飛んだため、その丘を「羽曳野」あるいは「羽曳山」と呼ぶようになったという、地名伝承の形成時期は不明だが江戸時代中期の埴生野新田関係文書（西山家文書）の中に「羽曳原」と見えること）",
+   "url": "http://kotobank.jp/word/%E7%BE%BD%E6%9B%B3%E9%87%8E%E5%B8%82-115995"
+  },
+  "p3-habikino-ryakushi": {
+   "label": "羽曳野市公式「羽曳野市略史」（昭和31年（1956年）9月に古市・高鷲・丹比・埴生・西浦・駒ヶ谷の2町4村が合併して南大阪町が誕生したこと、昭和34年（1959年）1月15日に市制を施行して名称を羽曳野市としたこと）",
+   "url": "https://www.city.habikino.lg.jp/soshiki/shichou/hisho/about/gaioyou/627.html"
+  },
+  "p3-habikino-shiratori": {
+   "label": "白鳥神社（羽曳野市古市）公式サイト「歴史」（白鳥に姿を変えた日本武尊が羽を曳くように天に昇ったという『日本書紀』のエピソードに「羽曳野」という地名は由来するという神社の説明、白鳥伝説の3つの聖地は能褒野・琴弾原・河内の旧市村であること）",
+   "url": "https://shiratori-jinja.com/page-5741"
+  },
+  "p3-ikeda-enkaku": {
+   "label": "池田市「池田市の沿革及び地勢」（市勢要覧。古代に市域は秦上郷・秦下郷・豊島郷と呼ばれたこと、室町時代に土豪の池田氏が勢力を持つようになりこの頃から「池田」の地名が生まれたといわれていること、昭和14年4月29日に府下6番目に市制施行）",
+   "url": "https://www.city.ikeda.osaka.jp/material/files/group/39/6ennkaku.pdf"
+  },
+  "p3-ikeda-kanko": {
+   "label": "池田市観光協会「歴史散策コース（池田のルーツを探る旅）」（呉服神社は「呉服」という言葉の発祥とされ機織りの技術を日本に伝えた呉服媛を祭る、伊居太神社と織姫伝説、地元で呉服神社は「下の宮さん」、伊居太神社は「上の宮さん」と呼ばれること）",
+   "url": "https://www.ikedashi-kanko.jp/course/recommend-course08"
+  },
+  "p3-ikeda-kotobank": {
+   "label": "コトバンク「池田市」（平凡社『日本歴史地名大系』。市名ともなった池田の地名は、もと川辺郡小坂田村（現・伊丹市）にあったという式内社・伊居太神社の遷座にちなむともいわれるが不詳、『和名抄』東急本にみえる豊島郡の七郷）",
+   "url": "https://kotobank.jp/word/%E6%B1%A0%E7%94%B0%E5%B8%82-30273"
+  },
+  "p3-ikeda-kousou": {
+   "label": "池田市「池田市歴史文化基本構想」（平成29年。11世紀に土師氏によって開発された呉庭荘の成立、呉織・穴織伝承は『日本書紀』を題材にしたもので史実ではないとする説明、13世紀末の藤原景正の石造物と地名「池田」の使用開始の推定、池田城の築城と応仁の乱での落城）",
+   "url": "https://www.city.ikeda.osaka.jp/material/files/group/29/h29_rekishibunkakihonkousou_2.pdf"
+  },
+  "p3-izumi-kinenshi": {
+   "label": "和泉市「和泉市制施行70周年記念誌」（和泉市は昭和31年9月1日に大阪府内23番目の市として誕生）",
+   "url": "https://www.city.osaka-izumi.lg.jp/section/70th/assets/img/web_kinenshi_0818.pdf"
+  },
+  "p3-izumi-kotobank": {
+   "label": "コトバンク「和泉市」（平凡社『日本歴史地名大系』。市名は当市の府中にかつて和泉国の中心機関である和泉国府があったことに由来する）",
+   "url": "https://kotobank.jp/word/%E5%92%8C%E6%B3%89%E5%B8%82-30856"
+  },
+  "p3-izumi-localhist": {
+   "label": "ローカルヒストリア「和泉市の歴史」（霊亀2年に和泉監が置かれ天平勝宝9歳に和泉国が成立したこと、国の名は泉井上神社の霊泉「和泉清水」に由来し好字令で「和」を添えたこと、国府は府中町一帯に置かれたこと）",
+   "url": "https://local-historia.jp/osaka/o-izumi"
+  },
+  "p3-izumi-wiki": {
+   "label": "Wikipedia「和泉市」（1956年に和泉町・北池田村・南池田村・北松尾村・南松尾村・横山村・南横山村が合併して市制を施行したこと、大阪府知事宛の合併申請書に記された市名選定の理由、1960年に八坂町・信太村を編入したこと）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B3%89%E5%B8%82"
+  },
+  "p3-izumi-yurai": {
+   "label": "和泉市公式「地名の由来」（和泉の地名は泉井上神社の境内にある「和泉清水」に由来し『日本得名』の記述を引くこと、神功皇后が訪れた際に一夜にして清泉が湧いたという伝承、もとは「泉」一字で和銅6年の好字令を受けて「和」の雅字を添えたと推定されること）",
+   "url": "https://www.city.osaka-izumi.lg.jp/izumishi_profile/yurai.html"
+  },
+  "p3-izumisano-kanko": {
+   "label": "泉佐野市公式観光サイト「泉佐野市について」（市名の由来は中世以来の村名「佐野」に旧国名和泉を冠したもので、伝承では「狭い原野」ということから「狭野」というようになり、それが転じて「佐野」と呼ばれるようになったこと）",
+   "url": "https://www.kankou-izumisano.jp/izumisanocity.html"
+  },
+  "p3-izumisano-localhist": {
+   "label": "ローカルヒストリア「泉佐野市の歴史」（市域は和泉国日根郡の賀美郷にあたり『和名類聚抄』に見える日根郡4郷の1つで郷名は今も上之郷に残ること、1889年に佐野村、1911年に町制を施行して佐野町となったこと）",
+   "url": "https://local-historia.jp/osaka/izumisano"
+  },
+  "p3-izumisano-plan": {
+   "label": "泉佐野市「第5次泉佐野市総合計画」（昭和12年4月に佐野町と北中通村が合併して新たな佐野町が生まれ、昭和23年4月に佐野町が市制を施行し泉佐野市が誕生したこと、昭和29年に南中通・日根野・長滝・上之郷・大土の5か村が合併したこと）",
+   "url": "https://www.city.izumisano.lg.jp/material/files/group/33/dai5zi_honpen_4.pdf"
+  },
+  "p3-kawachinagano-folklore": {
+   "label": "「河内長野」の地名の由来（地名由来紹介サイト。合併の構成は長野町・三日市村・高向村・加賀田村・天見村・川上村であること、「河内」は長野県長野市と重複しないよう旧国名を冠したものとする説明、「長野」はナガ（川沿いの長い土地）・ノ（野）とする説明）",
+   "url": "http://folklore2017.com/timei990/991184.htm"
+  },
+  "p3-kawachinagano-koza": {
+   "label": "河内長野市公式「河内長野市の地名・町名の由来（三日市公民館）」（市制70周年記念講座の報告。1町5村が合併した昭和29年の市誕生の際に住民から新市名称の公募を受け付け、「楠公市」「楠美市」「楠光市」など196の候補名の中から最も多かった「河内長野市」に決定したこと、「長野」の「なが」という音には水神の意味があり、水神の地が語源である可能性も紹介されたこと）",
+   "url": "https://www.city.kawachinagano.lg.jp/soshiki/52/101543.html"
+  },
+  "p3-kawachinagano-localhist": {
+   "label": "ローカルヒストリア「河内長野市の歴史」（市域は河内国錦部郡に属し、文武天皇3年（699年）に錦部郡鳩原の犬養広麻呂が白鳩を献上したことが『続日本紀』に記され、市域の地名が中央の記録に現れる最も早い例とされること）",
+   "url": "https://local-historia.jp/osaka/kawachinagano"
+  },
+  "p3-kishiwada-100": {
+   "label": "岸和田市「岸和田市100年のあゆみ」（市制施行100周年記念誌。大正11年11月に岸和田町が市制を施行し、全国87番目・府内では大阪市、堺市に次いで3番目）",
+   "url": "https://www.city.kishiwada.lg.jp/kinenshi/m100th_p68-71.html"
+  },
+  "p3-kishiwada-chimei": {
+   "label": "岸和田市郷土文化課・きしわだ自然資料館ニュースレター第78号（令和2年）井関裕子「『岸和田』という地名」（『泉州志』の「岸の和田」説、和田文書に登場する岸和田治氏・快智、名字は治める土地の名を取るのが通例という指摘、門真市の岸和田庄）",
+   "url": "https://www.city.kishiwada.lg.jp/uploaded/life/257050_650130_misc.pdf"
+  },
+  "p3-kishiwada-danjiri": {
+   "label": "だんじり彫刻研究会コラム「岸和田の神々と城下町の成立」（当地はかつてキシ（岸）と呼ばれ、キシのワダ（海）からキシワダの地名が起こったとする地形語源説）",
+   "url": "https://danjiri-culture.jp/column/column-1358"
+  },
+  "p3-kishiwada-jo": {
+   "label": "岸和田市公式「岸和田城いまむかし」（建武元年に楠木正成の一族・和田氏が「岸」と呼ばれた地に城を築いたことが地名の起こりと紹介、大正11年11月1日に大阪市・堺市に次いで府下3番目に市制施行）",
+   "url": "https://www.city.kishiwada.lg.jp/page/36-kishiwadajyo-imamukashi.html"
+  },
+  "p3-kishiwada-komonjo": {
+   "label": "岸和田市・きしわだ自然資料館ニュースレター 山中吾朗「古文書を読む」（応永7年に足利義満が岸和田荘の半分を石清水八幡宮寺へ寄進した文書が、地名としての「岸和田」の初見史料であること）",
+   "url": "https://www.city.kishiwada.lg.jp/uploaded/life/270120_684123_misc.pdf"
+  },
+  "p3-kishiwada-wiki": {
+   "label": "Wikipedia「岸和田市」（昭和17年に春木町・山直町・南掃守村と新設合併して改めて岸和田市となった沿革など）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E5%B8%82"
+  },
+  "p3-matsubara-kotobank": {
+   "label": "コトバンク「松原市」（平凡社『日本歴史地名大系』。市名は近世から近代を通じ当地辺りの中心であった松原村・松原町による）",
+   "url": "https://kotobank.jp/word/%E6%9D%BE%E5%8E%9F%E5%B8%82-136726"
+  },
+  "p3-matsubara-localhist": {
+   "label": "ローカルヒストリア「松原市の歴史」（昭和30年（1955年）2月1日に松原町・天美町・布忍村・恵我村・三宅村が合併して松原市が発足したこと、昭和32年（1957年）に北八下村を編入したこと、市域は河内国丹比郡で『和名類聚抄』の丹比郡の郷がいずれも現市域の地名につながること）",
+   "url": "https://local-historia.jp/osaka/matsubara"
+  },
+  "p3-matsubara-meishou": {
+   "label": "松原市公式「21 市名『松原』の登場」（「松原」の初見は平安時代の『御室御所高野山御参籠日記』の久安4年（1148年）閏6月10日・11日条で「松原庄」と記されたこと、松原荘は京都太秦の広隆寺領で現在の近鉄河内松原駅南側の上田・新堂・岡地区にあたること、当地がなぜ松原という名になったのかはよく分からないと市が明記していること、昭和50年（1975年）に市の木マツ・市の花バラが制定され合わせると「マツバラ」になること）",
+   "url": "https://www.city.matsubara.lg.jp/docs/page4601.html"
+  },
+  "p3-matsubara-rekishi": {
+   "label": "松原市公式「松原市の歴史」（『日本書紀』に第18代反正天皇がこの地に丹比柴籬宮を置いたと記されること、古墳時代に竹内街道が通り交通の要所だったこと）",
+   "url": "https://www.city.matsubara.lg.jp/docs/page4377.html"
+  },
+  "p3-matsubara-shisho": {
+   "label": "松原市公式「松原市の市章」（昭和30年（1955年）2月1日の市制施行にあたり、合併した5カ町村の結束を象徴する市章が公募により制定されたこと）",
+   "url": "https://www.city.matsubara.lg.jp/docs/page4759.html"
+  },
+  "p3-moriguchi-gikai": {
+   "label": "守口市議会事務局「令和8年度 守口市議会の概要」（昭和21年11月1日に守口町と三郷町が合併し、全国で206番目・大阪府で11番目の市として守口市が誕生したこと、昭和32年に庭窪町と合併して現在の市の姿になったこと）",
+   "url": "https://www.city.moriguchi.osaka.jp/material/files/group/71/reiwa8_sigikainogaiyou.pdf"
+  },
+  "p3-moriguchi-gogen": {
+   "label": "語源由来辞典「守口市」（守口は室町期に「森口」で見え、川洲に沿って森林があったといわれその森の入口のことであろう、「森口」から「守口」に転じたのは大坂城や石山本願寺の軍事的な意味からと考えられている）",
+   "url": "https://gogen-yurai.jp/moriguchi-shi-osaka"
+  },
+  "p3-moriguchi-nenpyo": {
+   "label": "守口市公式「市史年表（付録）」（仁和4年に仁和寺が建立され、朝廷は守口の地を同時に寄進し、以後この地を下仁和寺荘という）",
+   "url": "https://www.city.moriguchi.osaka.jp/material/files/group/61/nenpyou.pdf"
+  },
+  "p3-moriguchi-shishi": {
+   "label": "郷土史サイト「文禄堤（守口市）」（昭和38年発刊『守口市史』本文編第1巻の結論として、室町期には既に下仁和寺庄森口／守口村と2つの表記が存在し初期は森口が多く見られること、原生林の入り口の意の「森口」が石山本願寺・大坂城との関係で軍事的意味の「守口」に変化したこと、豊臣秀吉の「まもり口」説は俗言であることを紹介）",
+   "url": "https://maru1san9.jimdofree.com/%E9%81%93%E3%81%AE%E6%97%85%E4%BA%BA/%E4%BA%AC%E8%A1%97%E9%81%93/%E6%96%87%E7%A6%84%E5%A0%94-%E5%AE%88%E5%8F%A3%E5%B8%82"
+  },
+  "p3-tondabayashi-bunka": {
+   "label": "文化庁「国指定文化財等データベース」富田林市富田林（重要伝統的建造物群保存地区。石川西側の河岸段丘上に室町時代末に開かれた興正寺別院を中心とする寺内町で、現在もほぼ寺内町の町割りをとどめる）",
+   "url": "https://kunishitei.bunka.go.jp/bsys/maindetails/103/50"
+  },
+  "p3-tondabayashi-gaiyo": {
+   "label": "富田林市公式「市の概要」（昭和25年4月に人口約3万人余で、大阪府下16番目の市として富田林市が誕生したこと）",
+   "url": "https://www.city.tondabayashi.lg.jp/soshiki/6/1835.html"
+  },
+  "p3-tondabayashi-jinai": {
+   "label": "富田林市公式「富田林発祥の地 じないまち」（富田林の起こりは永禄2年に「富田の芝」と呼ばれる荒芝地を切り開き寺内町が建設されたことにあり、「富田林」という呼び名は寺内町建設を発願した証秀上人によって名付けられたこと、領主から約2万坪の土地を銭百貫文で申し請けたこと、周辺4か村の「八人衆」が建設を指揮したこと）",
+   "url": "https://www.city.tondabayashi.lg.jp/site/bunkazai/2516.html"
+  },
+  "p3-tondabayashi-kotobank": {
+   "label": "コトバンク「富田林市」（平凡社『日本歴史地名大系』。市名は当地域の中心であった富田林村・富田林町に由来する）",
+   "url": "http://kotobank.jp/word/%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82-107133"
+  },
+  "p3-tondabayashi-wiki": {
+   "label": "Wikipedia「富田林寺内町」（永禄3年に興正寺別院を中核に開発された宗教自治都市で、周辺4か村の協力により「富田林と改めたことに始まる」という『興正寺御門跡兼帯所由緒書抜』の記述と、由緒書は江戸時代の編纂物であることから信憑性をめぐる議論があること）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E6%9E%97%E5%AF%BA%E5%86%85%E7%94%BA"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/27-八尾市",
+   "code": "272124",
+   "names": {
+    "ja": "八尾市",
+    "reading": "やおし",
+    "aliases": [
+     "矢尾",
+     "八尾庄",
+     "八尾木"
+    ]
+   },
+   "user_terms": [
+    "やお",
+    "鶯の伝説のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は中世以来の地名「八尾」の継承で、文献上の初出は長久2年（1041年）の矢作神社文書とされる。語源は決着しておらず、矢作部の「矢負い」が転訛したという説、尾羽根が8枚ある鶯の伝説、由義宮造営に伴う築堤の「八百の柵」説などが並び立つ。1948年に市制を施行した。",
+   "first_attestation": {
+    "era": "長久2年",
+    "year_western": 1041,
+    "document": "矢作神社文書（「河内国若江郡八尾八幡掃部別宮」）",
+    "note": "八尾市立図書館が『八尾市史』等の資料に基づき紹介する初出。古くは「矢尾」とも書かれた。"
+   },
+   "claims": [
+    {
+     "text": "八尾市立図書館は、「八尾」という地名が初めて文献に登場するのは、長久2年（1041年）の矢作神社文書に見える「河内国若江郡八尾八幡掃部別宮」であるという。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-yao-library"
+     ]
+    },
+    {
+     "text": "一つ目の説として、古代の八尾の地に大豪族・物部氏の配下で弓矢の生産に従事していた矢作部や弓削部があったことから「矢負い」という語が生まれ、転訛して「やを」になり「八尾」の字があてられるようになったという説が唱えられている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k4-yao-library"
+     ]
+    },
+    {
+     "text": "尾羽根が8枚ある鶯が美しい声で鳴いたという「八つ尾の鶯」の話は、天文22年（1553年）に三条西公条の『吉野詣記』に記されたもので、もとは「八尾木」の伝説であったものが八尾の地名伝説に転じていったと『八尾市史』は述べている。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-yao-library"
+     ]
+    },
+    {
+     "text": "宝亀元年（770年）から行われた古大和川（長瀬川）の大築堤工事で打ち込まれた大小の柵（木）の壮観を人々が「八百の木」と呼んだことが、「八尾」に転じたという説もあり、称徳天皇の由義宮（西の京）造営計画と結びつけて語られている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k4-yao-library"
+     ]
+    },
+    {
+     "text": "このほか、低湿地を意味する古語「矢野」・「谷野」が転訛したという説や、信貴生駒連峰の八つの尾嶺に由来するという説も唱えられている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k4-yao-library"
+     ]
+    },
+    {
+     "text": "八尾市公式の「地名のいわれ」のページも、鶯の尾羽根説・矢負い説・八百の杭説の3つを、市の地名の「いわれ」として並べて紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-yao-iwaware"
+     ]
+    },
+    {
+     "text": "昭和23年（1948年）4月1日に市制を施行した（当時の人口64,431人、面積18.99平方キロメートル）。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-yao-gaiyo"
+     ]
+    },
+    {
+     "text": "八尾市の地方公共団体コードは272124である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「八尾木」の鶯が「八尾」の鶯になるまで",
+    "text": "八尾の鶯伝説は、もともと地名そのものの話ではなかった。『八尾市史』によれば、八つ尾の鶯の話は「八尾木」という木にまつわる伝説として語られていたものが、後に「八尾」の地名伝説へと転じていったという。1553年に吉野詣での途中でこの話を聞いた公卿・三条西公条は、「鶯の八尾のつばさ八千とせの声」と歌まで残した。伝説が地名に取り込まれていく過程を、市史がここまで具体的にたどれる例は珍しい。",
+    "sources": [
+     "k4-yao-library"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「八尾」の語源は諸説が並立しており、矢負い説・八百の柵説・地形説のいずれにも決着はついていない。",
+    "昭和23年（1948年）の市制施行に至る合併の構成町村は、今回確認した市公式資料には記載がなく、未確認である。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-吹田市",
+   "code": "272051",
+   "names": {
+    "ja": "吹田市",
+    "reading": "すいたし",
+    "aliases": [
+     "次田",
+     "吹田庄"
+    ]
+   },
+   "user_terms": [
+    "すいた",
+    "万博のまち",
+    "千里ニュータウン"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は古代以来の地名「吹田」の継承だが、その出発点は「次田（スキタ）」である。吹田市公式によれば、初見は『行基年譜』の天平13年（741年）の記事で、「スキタ」が音便で「スイタ」に変わり、草書体で「次」に似た「吹」の字があてられて「吹田」になった。1940年に4町村の合併で市制を施行した。",
+   "first_attestation": {
+    "era": "天平13年",
+    "year_western": 741,
+    "document": "『行基年譜』",
+    "note": "現在の「吹田」表記ではなく「嶋下郡次田里」「次田堀川」とあり、「次田（スキタ）」としての初見である。「吹田」表記への移行過程は市公式の説明による。"
+   },
+   "claims": [
+    {
+     "text": "吹田市公式は、吹田の地名の初見は「行基年譜」の天平13年（741年）の記にある「嶋下郡次田里」「次田堀川」で、もとは「次田」と書いて「スキタ」と読んでいたと考えられると説明している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-suita-history"
+     ]
+    },
+    {
+     "text": "「スキタ」は音便で「スイタ」に変化し、草書体で「次」の字に似ている「吹」の字が使われるようになったと考えられると市公式は説明している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-suita-history"
+     ]
+    },
+    {
+     "text": "吹田市史総説編は、『醍醐雑事記』に、貞観7年（865年）に淳和天皇の皇子・基貞親王の領田として吹田庄が成立し、後に清住寺に寄進されたことが記されていると紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-suita-shishi"
+     ]
+    },
+    {
+     "text": "のちの文献では「スイタ」を「水田」と書く例も見られると市公式は記している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-suita-history"
+     ]
+    },
+    {
+     "text": "昭和15年（1940年）4月1日、三島郡吹田町・千里村・岸部村と豊能郡豊津村の4町村が合併して吹田市が誕生した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-suita-enkaku"
+     ]
+    },
+    {
+     "text": "吹田市の地方公共団体コードは272051である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「次」が「吹」になったまち",
+    "text": "地名の漢字が変わる理由は、音の変化や縁起担ぎが多いが、吹田の場合は「字の形」である。「次田（スキタ）」の「次」を草書体で書くと「吹」に似るため、いつしか「吹」の字が使われるようになったというのが市の説明だ。音便で読みが「スイタ」に滑らかになるのと並行して、表記まで隣の字へ滑っていった。読みと字形の両方が少しずつずれて固まった地名は、全国的にも珍しい部類に入るだろう。",
+    "sources": [
+     "k4-suita-history"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "『行基年譜』自体は後世に編まれた年譜であり、天平13年（741年）当時の同時代史料で「次田」を確認できたわけではない。",
+    "「吹田」表記が文献に定着した時期は、市公式の説明でも明確には示されていない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-和泉市",
+   "code": "272191",
+   "names": {
+    "ja": "和泉市",
+    "reading": "いずみし",
+    "aliases": [
+     "泉",
+     "和泉町",
+     "和泉国"
+    ]
+   },
+   "user_terms": [
+    "和泉という地名の由来",
+    "和泉の「和」はなぜ読まないの",
+    "和泉国府があった市",
+    "いずみの国 和泉市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は旧国名「和泉」による。和泉の名は、現在の和泉市府中にある泉井上神社の霊泉「和泉清水」に由来し、清水が多く湧く地であったことによるという。もとの表記は「泉」一字で、和銅6年（713年）の好字令を受けて「和」の雅字を添えて「和泉」と記すようになったと推定され、「和」は読まない。霊亀2年（716年）に和泉監が置かれて和泉国が成立し、その国府は現在の和泉市府中に置かれた。昭和31年（1956年）、和泉町など7町村の合併で市制を施行する際、国名にちなむ「和泉市」が選ばれた。",
+   "first_attestation": {
+    "era": "霊亀2年",
+    "year_western": 716,
+    "document": "『続日本紀』（河内国から和泉郡・日根郡を分けて和泉監を置く記事）",
+    "note": "国名としての「和泉」の成立を示す記録。なお字の表記は、和銅6年（713年）の好字令を受けて「泉」に「和」の雅字を添えたものと市公式は推定する。『続日本紀』の原文そのものは未読のため、主張側では二次資料経由として扱う"
+   },
+   "claims": [
+    {
+     "text": "和泉市公式サイトは、「和泉」の地名は泉井上神社の境内にある霊泉「和泉清水」に由来するとし、和泉の名を説く『日本得名』の「彼国清水多ク出ル処ナレハ、和泉ト号ス」という記述を紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumi-yurai"
+     ]
+    },
+    {
+     "text": "神功皇后が新羅出兵の途中この地を訪れたところ、地中に波音があり、一夜にして清泉が湧き出たことから、それにちなんで「和泉」と名づけられたと伝えられていると和泉市公式サイトは紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumi-yurai"
+     ]
+    },
+    {
+     "text": "もとの表記は「泉」一字だったと思われるが、和銅6年（713年）に諸国の国郡郷名に良い字を付けるよう命じられたことを受け、「和」という雅字を添えて「和泉」と記すようになったと推定されると和泉市公式サイトは説明しており、「和」は読まない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumi-yurai"
+     ]
+    },
+    {
+     "text": "霊亀2年（716年）に河内国から和泉郡・日根郡（後に大鳥郡も）を分けて和泉監が置かれ、天平勝宝9歳（757年）に再び分けられて和泉国が成立し、その国府は現在の和泉市府中町一帯に置かれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-izumi-localhist",
+      "p3-izumi-yurai"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、和泉市の市名は当市の府中にかつて和泉国の中心機関である和泉国府があったことに由来すると説明している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p3-izumi-kotobank"
+     ]
+    },
+    {
+     "text": "昭和31年（1956年）9月1日、和泉町・北池田村・南池田村・北松尾村・南松尾村・横山村・南横山村が合併して市制を施行し、大阪府内23番目の市として和泉市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumi-kinenshi",
+      "p3-izumi-wiki"
+     ]
+    },
+    {
+     "text": "大阪府知事に宛てた合併申請書には、新市名選定の理由として、和泉国にちなんで和泉町の名称を附している関係上「和泉市」とすれば一般に最も親しみある名称となるためこの市名を選定した旨が記されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "p3-izumi-wiki"
+     ]
+    },
+    {
+     "text": "昭和35年（1960年）に八坂町と信太村を編入し、現在の市域が形成された",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "p3-izumi-wiki"
+     ]
+    },
+    {
+     "text": "和泉市の地方公共団体コードは272191である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「和泉」の「和」はなぜ読まないのか",
+    "text": "「和泉」と書いて「いずみ」と読み、「和」は読みません。和泉市公式の説明によれば、もとの地名は「泉」の一字でした。ところが和銅6年（713年）、国や郡や郷の名には縁起のよい二字を使うよう命じる「好字令」が出され、「泉」にも飾りの字「和」が添えられて「和泉」になったと推定されます。このような意味を持たない飾りの文字を雅字といい、同じ仕組みで「木」に「紀」を添えたのが紀伊国です。読まない字には、奈良時代の役所の都合が刻まれているのです。",
+    "sources": [
+     "p3-izumi-yurai"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「和泉清水」そのものの初出となる古代の記録は特定できなかった（和泉清水由来説は市公式と『日本得名』の引用に拠る）",
+    "合併申請書の市名選定理由は Wikipedia 経由での引用確認にとどまり、申請書そのものは未確認",
+    "713年の好字令で「泉」に「和」が添えられたという経緯は、市公式も「推定」とする段階のもので、同時代史料による直接の裏付けは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-堺市",
+   "code": "271403",
+   "names": {
+    "ja": "堺市",
+    "reading": "さかいし",
+    "aliases": [
+     "堺津"
+    ]
+   },
+   "user_terms": [
+    "さかい",
+    "環濠都市",
+    "政令指定都市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は中世以来の港町「堺」の継承である。「さかい」の名は、この地が摂津・河内・和泉の国の境（あるいは摂津・和泉の2国の境）にあったことに由来すると説明され、文献への初登場は11世紀中頃とされる。中世後期には環濠都市・貿易港として繁栄し、1889年に市制を施行、2006年に政令指定都市となった。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": "文献名不詳（堺市議会「市勢の概要」は「さかい」の地名が文献に初めて登場するのは11世紀中頃とするが、書名を示していない）",
+    "note": "書名を伴う用例としては、角川日本地名大辞典が貞永元年（1232年）の文書に見える「泉州堺津」を紹介している。初出の年には資料間で幅がある。"
+   },
+   "claims": [
+    {
+     "text": "堺市議会の「市勢の概要」は、「さかい」の地名が初めて文献に登場するのは11世紀中頃で、堺が摂津・河内・和泉の国境にあったことによるものと言われていると記している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-sakai-gikai"
+     ]
+    },
+    {
+     "text": "一方で堺市の中心市街地活性化基本計画は、平安時代にこの地が摂津・和泉の2国の境に位置していたことから「さかい」と呼ばれるようになったと説明しており、「境」の国の数をめぐっては市公式資料の間でも2国説と3国説が併存する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k4-sakai-chukatsu",
+      "k4-sakai-gikai"
+     ]
+    },
+    {
+     "text": "角川日本地名大辞典は、中世の堺を摂津国住吉郡と和泉国大鳥郡にまたがる堺北荘・堺南荘の総称とし、貞永元年（1232年）の文書に、鋳物師らが廻船の拠点とした「泉州堺津」が見えることを示している。",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "k4-sakai-kadokawa"
+     ]
+    },
+    {
+     "text": "中世後期の堺は、良港を擁して朱印船貿易など海外貿易の物資集散地となり、防衛のため濠を巡らせた環濠都市が形成され、自治都市として繁栄した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-sakai-chukatsu"
+     ]
+    },
+    {
+     "text": "1889年4月1日に市制が施行されて堺市が発足し、その後、明治27年（1894年）の第1次合併から14次にわたって22町村を編入して現在の市域が形成された。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-sakai-gappei"
+     ]
+    },
+    {
+     "text": "2005年2月1日に南河内郡美原町を編入し、これを契機として2006年4月に政令指定都市へ移行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-sakai-gappei",
+      "k4-sakai-rekimachi"
+     ]
+    },
+    {
+     "text": "堺市の地方公共団体コードは271403である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "三つの「市」の字が語る、国境のまち",
+    "text": "明治28年（1895年）に制定された堺の市章は、「市」の字を三つ組み合わせた形をしている。堺市議会の資料によれば、これは3国の境に発達した都市という意味を込めたものだという。国と国の境目という、行政の周縁にあったはずの場所が、港の地の利を得て中世には会合衆が治める自治都市にまで育った。市章の三つの「市」は、その出自を今も静かに語り続けている。",
+    "sources": [
+     "k4-sakai-gikai",
+     "k4-sakai-chukatsu"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-大阪市"
+   ],
+   "unknowns": [
+    "「さかい」の初出について、堺市議会資料は11世紀中頃とするが具体的な文献名を示しておらず、角川地名大辞典が示す鎌倉期の用例との間で幅があり、一次文献での確定には至らなかった。",
+    "境の国の数が2国（摂津・和泉）か3国（摂津・河内・和泉）かは、市の公式資料の間でも説明が分かれており決着していない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-大東市",
+   "code": "272183",
+   "names": {
+    "ja": "大東市",
+    "reading": "だいとうし",
+    "aliases": [
+     "住道町",
+     "四条町",
+     "南郷村"
+    ]
+   },
+   "user_terms": [
+    "大東という地名の由来",
+    "だいとう",
+    "住道のある市",
+    "四条畷駅のある市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「大東」は昭和31年（1956年）の合併・市制施行の際に新しく生まれた市名である。大東市公式資料によれば、住道町・四条町・南郷村の2町1村が合併した際、大阪市の東部に隣接する衛星都市として飛躍的発展が期待されるという展望のもと、過去の栄光と「光は東方より」という将来への展望を託して「大東市」と命名された。合併前の中心地名である住道や、条里制の「四条」に由来するとされる四條の名は、現在も駅名などに残っている。",
+   "first_attestation": {
+    "era": "昭和31年",
+    "year_western": 1956,
+    "document": "『大東市統計書』「市名と市章の由来」",
+    "note": "「大東」は1956年の合併・市制施行に際して命名された新しい地名で、それ以前に地名として使われた例はない。市公式資料が命名の経緯を伝える"
+   },
+   "claims": [
+    {
+     "text": "大東市は住道町・四条町・南郷村の2町1村が合併して、昭和31年（1956年）4月1日に誕生したと『大東市統計書』は記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-daito-toukei"
+     ]
+    },
+    {
+     "text": "『大東市統計書』「市名と市章の由来」は、大阪市の東部に隣接する衛星都市として飛躍的発展が期待されるという明るい展望のもと、市制のスタートを切り、過去の栄光と「光は東方より」という将来への明確な展望を託して「大東市」と命名されたと説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-daito-toukei"
+     ]
+    },
+    {
+     "text": "市章は「大とう」の文字をデザイン化したもので公募によって定められ、昭和31年（1956年）8月に制定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-daito-toukei"
+     ]
+    },
+    {
+     "text": "合併した旧町村のうち「四條」の地名は条里制の「四条」に由来すると、大東市立歴史民俗資料館の館長が説明している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-daito-sankei"
+     ]
+    },
+    {
+     "text": "市内には「大東」と名のつく駅はなく、JR片町線の駅は旧町村名を残す住道・野崎・四条畷で、四条畷駅や四條畷警察署も所在地は大東市内である",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-daito-sankei"
+     ]
+    },
+    {
+     "text": "市の東に望む飯盛山の名は、そのなだらかな山容がご飯を高く盛ったように見えることから名付けられたと伝えられている",
+     "kind": "legend",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "p3-daito-kentei"
+     ]
+    },
+    {
+     "text": "大東市の地方公共団体コードは272183である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「大東駅」のない大東市",
+    "text": "大東市には「大東」という名前の駅がありません。市の玄関口は旧町名を残す住道駅、そして市の北東部にある四条畷駅も、実は四條畷市ではなく大東市内にあります。この駅は明治時代に、四條畷市の四條畷神社へ参拝する鉄道の終点として開業した名残で、管轄の警察署まで「四條畷」を名乗ります。1956年に生まれた「大東」という新しい市の名前よりも、条里制や神社の参道に遡る古い地名のほうが、今も街の看板では目立っているのです。",
+    "sources": [
+     "p3-daito-sankei"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-四條畷市"
+   ],
+   "unknowns": [
+    "「大東」の命名が公募によるものか協議によるものかなど、選定過程の詳細は市公式資料では確認できなかった（公募で定められたのは市章である）",
+    "合併前の中心地名「住道」の語源については、今回の調査では典拠を確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-大阪市",
+   "code": "271004",
+   "names": {
+    "ja": "大阪市",
+    "reading": "おおさかし",
+    "aliases": [
+     "大坂",
+     "小坂"
+    ]
+   },
+   "user_terms": [
+    "天下の台所",
+    "大坂のまち",
+    "商都"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は城下町・大坂の名の継承である。地名「大坂」は蓮如の御文章を最古の用例として本願寺の寺内町とともに広まり、江戸時代を通じて「大坂」表記が主流だったが、明治10年ごろ「大阪」の表記に落ち着いた。その過程の途上で、1889年に大阪市が発足した。",
+   "first_attestation": {
+    "era": "明応5年",
+    "year_western": 1496,
+    "document": "蓮如『御文』（御文章）",
+    "note": "大阪市公式が「文献に残る最古」とする「攝州東成郡生玉之庄内大坂」の用例。明応7年（1498年）の蓮如の消息を初見とする資料もあり、年には揺れがある（pref/27でも対立として記録）。"
+   },
+   "claims": [
+    {
+     "text": "大阪市公式は、市名のいわれには諸説がありはっきりしないとしつつ、文献に残る最古の「大坂」は、室町時代に石山本願寺を建てた蓮如の御文章に書かれた「攝州東成郡生玉之庄内大坂」であると説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-city-name"
+     ]
+    },
+    {
+     "text": "当時の文献には「大坂」とも「小坂」とも記され、いずれもオサカと発音されていたと思われると大阪市公式は説明する。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-city-name"
+     ]
+    },
+    {
+     "text": "江戸時代には「大坂」が多く使われ「大阪」も混用されてきたが、明治10年ごろになって、ようやく「大阪」に落ち着いた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-city-name"
+     ]
+    },
+    {
+     "text": "もともと「坂」と「阪」は同字で、「阪」から「坂」の字が生まれたとされ、1868年に大阪府が設置されてからも両表記は混用されていたが、明治10年代には「大阪」が一般的になった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-ndl"
+     ]
+    },
+    {
+     "text": "「坂の字は土に反る（土に帰る）ので不吉として忌み、『阪』を用いるようになった」という説明が流布しているが、これは文化5年（1808年）の『摂陽落穂集』が「坂は不吉な文字として忌み嫌う人もおり、阪をもちいる人もいた」と記す言い伝えに由来するもので、改字を命じた公的記録によるものではない。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "d-cap-osaka-ndl"
+     ]
+    },
+    {
+     "text": "1889年4月1日、大阪府の東区・南区・西区・北区の4つの区の区域に市制が施行され、大阪市が誕生した。この年に全国で39の市が成立している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-tayori"
+     ]
+    },
+    {
+     "text": "市制特例により当初の大阪市には市役所ができず、府の知事が市長の職務を行い、府の書記官が助役の職務を行った。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-tayori"
+     ]
+    },
+    {
+     "text": "1898年10月、市制特例の廃止を受けて田村太兵衛が初代大阪市長に就任した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-osaka-nenpyo"
+     ]
+    },
+    {
+     "text": "「大坂」の語源そのものについては、大阪市公式も「いろいろな説がありはっきりとしていません」と述べており、確定していない。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "d-cap-osaka-city-name"
+     ]
+    },
+    {
+     "text": "大阪市の地方公共団体コードは271004である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "府も市も、名前の表記が固まる前に生まれた",
+    "text": "大阪府の設置は1868年、大阪市の誕生は1889年。ところが「大阪」という表記が一般的になったのは明治10年代のこととされる。つまり府も市も、「大坂」と書くか「大阪」と書くかがまだ定まらないうちに発足していたことになる。しかも字の古さでいえば、もともと坂と阪は同字で、阪から坂が生まれたというから、表記の移行は「新しい字への変更」というより「古い字への回帰」に近い。",
+    "sources": [
+     "d-cap-osaka-ndl",
+     "d-cap-osaka-tayori"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/26-京都市"
+   ],
+   "unknowns": [
+    "「大坂」の語源は大阪市公式も確定していないとしており、本レコードでも諸説の決着には至らなかった。",
+    "蓮如の用例の年（1496年か1498年か）は資料により異なり、原典での確定には至っていない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-太子町",
+   "code": "273813",
+   "names": {
+    "ja": "太子町",
+    "reading": "たいしちょう",
+    "aliases": []
+   },
+   "user_terms": [
+    "太子町 聖徳太子のお墓",
+    "叡福寺のある町",
+    "王陵の谷の町"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [
+    "muni/28-太子町"
+   ],
+   "summary": "昭和31年（1956年）に磯長村と山田村が合併した際、聖徳太子にちなんで命名された町。町内には聖徳太子御廟（叡福寺）があり、天皇陵が集まる「王陵の谷」の中心に位置する。兵庫県の太子町も聖徳太子ゆかりを理由とする命名で、この層は共通するが、大阪側の根拠は太子の墓所そのものが町内にあることにある。",
+   "first_attestation": {
+    "era": "昭和31年",
+    "year_western": 1956,
+    "document": "磯長村・山田村の合併による太子町の発足（1956年9月30日）",
+    "note": "町名としての初出。地名「太子」自体は旧磯長村の大字名として先行する"
+   },
+   "claims": [
+    {
+     "text": "町公式プロフィールによれば、昭和31年（1956年）9月30日に磯長村と山田村が合併し、「聖徳太子にちなんで太子町と名付けられた」",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h6-taishi-osaka-profile"
+     ]
+    },
+    {
+     "text": "町内には聖徳太子御廟（叡福寺）があり、敏達・用明・推古・孝徳の各天皇陵とあわせて「梅鉢御陵」と総称され、一帯は天皇・皇族級の古墳が集中する「王陵の谷」と呼ばれる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h6-taishi-osaka-profile"
+     ]
+    },
+    {
+     "text": "旧磯長村の大字には「太子」があり、現在も太子町の大字として残る。町名は、合併地に先行するこの地名の側からも受け継がれた形になっている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "h6-taishi-osaka-wiki"
+     ]
+    },
+    {
+     "text": "兵庫県の太子町も、聖徳太子ゆかりの町であることを理由に昭和26年（1951年）の合併で命名されており、「聖徳太子にちなむ合併時の命名」という層は共通する（共通する層）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h6-taishi-osaka-profile",
+      "h6-taishi-hyogo-wiki"
+     ]
+    },
+    {
+     "text": "両町の違いは根拠の置きどころにあり、大阪側は聖徳太子の御廟（墓所）そのものが町内にあるのに対し、兵庫側は太子が寄進を受けた荘園（鵤荘）と斑鳩寺の伝承が根拠である（異なる層）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h6-taishi-osaka-profile",
+      "h6-taishi-hyogo-ikaruga"
+     ]
+    },
+    {
+     "text": "飛鳥時代、この一帯は大和の「遠つ飛鳥」に対して「近つ飛鳥」と呼ばれ、推古天皇によって整備された大道（のちの竹内街道）が通っていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "h6-taishi-osaka-profile"
+     ]
+    }
+   ],
+   "column": {
+    "title": "王陵の谷の真ん中で",
+    "text": "太子町は「天皇のお墓だらけの町」です。敏達・用明・推古・孝徳の4天皇陵と聖徳太子御廟を合わせて「梅鉢御陵」と呼び、一帯は「王陵の谷」と呼ばれます。飛鳥の都に近い「近つ飛鳥」として、皇族の墓所が集中的に営まれた土地でした。1956年の命名は、この御廟の存在を町の看板に据えたもの。兵庫県の太子町が「太子ゆかりの荘園」を看板にするのと並べると、同じ聖徳太子でも「墓」と「荘園」という対照が見えてきます。",
+    "sources": [
+     "h6-taishi-osaka-profile"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/28-太子町"
+   ],
+   "unknowns": [
+    "大字「太子」の名がいつ・どのように御廟にちなんで付けられたかの記録は未確認",
+    "1956年の合併時に他の候補名があったかどうかは未確認"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-守口市",
+   "code": "272094",
+   "names": {
+    "ja": "守口市",
+    "reading": "もりぐちし",
+    "aliases": [
+     "森口",
+     "守口村",
+     "守口町",
+     "守口宿"
+    ]
+   },
+   "user_terms": [
+    "守口という名前の由来",
+    "森口から守口になった市",
+    "京街道の守口宿",
+    "守口は大阪の入口なの"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「守口」のもとの表記は「森口」で、室町期には河内国茨田郡の下仁和寺荘に森口村・守口村の両表記が見られ、当初は森口が多かったと『守口市史』は結論づけている。「森口」は生駒山地へ広がる原生林の入口を意味し、のちに石山本願寺・大坂城の軍事的な重要性から「守口」の字に変わったと考えられている。豊臣秀吉が大坂城の「守り口」と名づけたという有名な説は、市史では俗説と位置づけられている。京街道の宿場町・守口宿として栄え、昭和21年（1946年）に市制を施行した。",
+   "first_attestation": {
+    "era": "室町時代",
+    "year_western": null,
+    "document": "未特定（下仁和寺荘の森口村・守口村）",
+    "note": "『守口市史』本文編第1巻によれば室町期には既に「森口」「守口」の2表記が存在し初期は「森口」が多く見られたとされるが、具体的な初出文献と年代は特定できなかった"
+   },
+   "claims": [
+    {
+     "text": "『守口市史』は、室町期には既に下仁和寺庄に森口村・守口村と2つの表記が存在しており、初期は「森口」の表記が多く見られると結論づけていると郷土史資料は紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-moriguchi-shishi"
+     ]
+    },
+    {
+     "text": "「森口」は、守口周辺から生駒山地へ広がっていた原生林の入り口を意味する地名であり、平凡社『大阪府の地名』も「もりぐち」はもともと森口と書かれ「森の入り口」を意味していたと説明する",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-moriguchi-shishi",
+      "l4-kadoma-shishitsu"
+     ]
+    },
+    {
+     "text": "「森口」が「守口」に転じたのは、石山本願寺や大坂城との関係で軍事的な意味が意識されたためと考えられている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "p3-moriguchi-shishi",
+      "p3-moriguchi-gogen"
+     ]
+    },
+    {
+     "text": "豊臣秀吉が大坂城築城に伴ってこの地を「まもり口」と呼んだことが「守口」の由来だとする説は広く知られているが、室町期に既に「守口」の表記があったことから、『守口市史』を引く郷土史資料はこの説を俗言（俗説）と位置づけている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "p3-moriguchi-shishi"
+     ]
+    },
+    {
+     "text": "守口市公式の市史年表によれば、仁和4年（888年）に仁和寺が建立された際、朝廷は守口の地を同時に寄進し、以後この地は下仁和寺荘と呼ばれた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-moriguchi-nenpyo"
+     ]
+    },
+    {
+     "text": "守口は京街道の宿場町（守口宿）として栄え、守口市議会事務局編『もりぐち 市政の概要』によれば江戸時代の元禄年間に「守口町」と公称された",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l4-kadoma-shishitsu"
+     ]
+    },
+    {
+     "text": "昭和21年（1946年）11月1日、守口町と三郷町が合併して市制を施行し、全国で206番目・大阪府で11番目の市として守口市が誕生した。その後、昭和32年（1957年）に庭窪町と合併して現在の市の姿になった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-moriguchi-gikai"
+     ]
+    },
+    {
+     "text": "守口市の地方公共団体コードは272094である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「森の入口」が「城を守る口」になった",
+    "text": "守口の名前は、もとは「森口」でした。淀川の川洲に沿って森が広がり、その森の入口にあたる場所だったというのが『守口市史』の結論です。ところが戦国時代以降、大坂が軍事の要衝になると、同じ「もりぐち」に「守口」の字があてられるようになりました。有名な「秀吉が大坂城の守り口と名づけた」という話は、実は室町期の史料に既に「守口」の表記があるため、市史では俗説扱いです。森の入口から城の守り口へ、字の変化そのものがこの土地の役割の変化を物語っています。",
+    "sources": [
+     "p3-moriguchi-shishi",
+     "p3-moriguchi-gogen"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-門真市"
+   ],
+   "unknowns": [
+    "「森口」「守口」の初出となる具体的な古文書と年代は特定できなかった（室町期に両表記があったことは『守口市史』の結論を郷土史資料経由で確認したにとどまる）",
+    "『守口市史』本文編第1巻そのものを直接確認できておらず、市史の結論は二次的な引用経由である",
+    "「守口」表記への切り替わりがいつ完了したのか（元禄年間に「守口町」と公称されたこと以上の経緯）は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-富田林市",
+   "code": "272141",
+   "names": {
+    "ja": "富田林市",
+    "reading": "とんだばやしし",
+    "aliases": [
+     "富田の芝",
+     "富田林村",
+     "富田林町"
+    ]
+   },
+   "user_terms": [
+    "富田林という地名の由来",
+    "とんだばやしと読む理由",
+    "寺内町のある市",
+    "じないまち富田林"
+   ],
+   "naming_type": "その他（寺内町の建設に際して証秀上人が命名したと伝えられる地名の継承）",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「富田林」は、戦国時代末期に生まれた計画的な宗教都市・寺内町の名前である。市公式によれば、永禄2年（1559年）に興正寺の証秀上人が「富田の芝」と呼ばれる荒芝地を切り開いて寺内町を建設し、「富田林」という呼び名は発願した証秀上人によって名付けられたという。もっとも成立を永禄3年（1560年）とする資料もあり、経緯を伝える由緒書は江戸時代の編纂物であるため留保が要る。寺内町の町並みは国の重要伝統的建造物群保存地区に選定され、昭和25年（1950年）に富田林町が市制を施行した。",
+   "first_attestation": {
+    "era": "永禄2年",
+    "year_western": 1559,
+    "document": "『興正寺御門跡兼帯所由緒書抜』（寺内町の成立と「富田林」への改称を伝える。ただし江戸時代の編纂物）",
+    "note": "市公式は寺内町の成立を永禄2年（1559年）とするが、永禄3年（1560年）とする辞典類もあり、年に異同がある。いずれにせよ「富田林」はこの寺内町建設の時期に生まれた名である"
+   },
+   "claims": [
+    {
+     "text": "富田林市公式サイトは、富田林の起こりは永禄2年（1559年）に「富田の芝」と呼ばれる荒芝地を切り開き寺内町が建設されたことにあり、「富田林」という呼び名は、このとき寺内町建設を発願した証秀上人によって名付けられたと説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "p3-tondabayashi-jinai"
+     ]
+    },
+    {
+     "text": "寺内町の成立を永禄3年（1560年）とする資料もあり、「富田林と改めたことに始まる」という経緯を伝える『興正寺御門跡兼帯所由緒書抜』は江戸時代の編纂物であることから、その信憑性をめぐっては議論がある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "p3-tondabayashi-wiki"
+     ]
+    },
+    {
+     "text": "証秀上人は領主から約2万坪の土地を銭百貫文で申し請け、町の建設は周辺の4か村から集められた「八人衆」と呼ばれる町人の代表によって指揮されたと富田林市公式サイトは説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-tondabayashi-jinai"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、富田林市の市名は当地域の中心であった富田林村・富田林町に由来すると説明している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p3-tondabayashi-kotobank"
+     ]
+    },
+    {
+     "text": "文化庁の国指定文化財等データベースによれば、富田林寺内町は石川西側の河岸段丘上に室町時代末に開かれた興正寺別院を中心とする寺内町で、現在もほぼ寺内町の町割りをとどめており、重要伝統的建造物群保存地区に選定されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-tondabayashi-bunka"
+     ]
+    },
+    {
+     "text": "昭和25年（1950年）4月に人口約3万人余で、大阪府下16番目の市として富田林市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-tondabayashi-gaiyo"
+     ]
+    },
+    {
+     "text": "富田林市の地方公共団体コードは272141である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "荒芝地に生まれた計画都市の名前",
+    "text": "富田林は、自然に育った村の名前ではありません。戦国時代の末、石川を見下ろす台地の「富田の芝」という荒れ地を、お坊さんがお金で買い取り、土居と堀で囲んだ宗教自治都市をゼロから設計して生まれた名前です。名付け親とされるのは興正寺の証秀上人。六筋七町に整然と区画された町割りは今も残り、国の重要伝統的建造物群保存地区になっています。読みの「とんだばやし」も難読として知られ、「富田」の素直な読み「とみた」から大きく姿を変えた名前でもあります。",
+    "sources": [
+     "p3-tondabayashi-jinai",
+     "p3-tondabayashi-bunka"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "証秀上人がなぜ「富田林」という名を選んだのか（命名の意味・理由）を明示する典拠は確認できなかった",
+    "寺内町建設以前の「富田の芝」の「富田」が何に由来するか（周辺の旧村名・小地名との関係）は確認できなかった",
+    "「とみたばやし」ではなく「とんだばやし」と読む音変化の経緯を説明する典拠は確認できなかった",
+    "寺内町の成立年は永禄2年（1559年）と永禄3年（1560年）で資料により異なり、由緒書の信憑性の問題もあって確定できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-寝屋川市",
+   "code": "272159",
+   "names": {
+    "ja": "寝屋川市",
+    "reading": "ねやがわし",
+    "aliases": [
+     "寝屋川村",
+     "寝屋川町"
+    ]
+   },
+   "user_terms": [
+    "ねやがわ",
+    "鉢かづき姫のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は川の名「寝屋川」の転用である。寝屋川市広報によれば、川名はその起点付近の集落「寝屋」に由来し、1889年に合併で生まれた村が、域内を流れる川の名を村名に採用した。それが町制を経て1951年の市制施行まで受け継がれた。「寝屋」の語源自体は諸説あり確定していない。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "寝屋川村の成立（町村制による木田・堀溝・河北・萱島流作新田の4村合併）",
+    "note": "自治体名としての「寝屋川」の初出。川名「寝屋川」は江戸時代初期の記録に初めて登場すると市広報は伝えるが、具体的な書名は示されていない。"
+   },
+   "claims": [
+    {
+     "text": "寝屋川市広報は、市名の由来である「寝屋川」という名称は、傍示川と北谷川が合流して寝屋川が始まる地にある「寝屋」という地区の地名に由来すると説明している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-neyagawa-koho"
+     ]
+    },
+    {
+     "text": "同広報は、寝屋川が記録に初めて登場したのは江戸時代の初期で、それ以前から呼ばれていたようだがはっきりしないと述べている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-neyagawa-koho"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）4月、木田・堀溝・河北・萱島流作新田の4村が合併して寝屋川村が誕生し、4村に流れていた川の名が村名に採用され、その後、寝屋川町を経て寝屋川市へと受け継がれた。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-neyagawa-koho"
+     ]
+    },
+    {
+     "text": "昭和26年（1951年）5月3日に市制を施行し、同日制定された市章は、中央の部分が「ネ」と「矢」で「寝屋」を、周囲が「川」を表す形で市名を図案化したものである。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-neyagawa-shisho"
+     ]
+    },
+    {
+     "text": "集落名「寝屋」の語源については、星田牧の従事者の宿泊所が存在したことによるとする説と、東高野街道の旅人のための布施屋の設備があったことによるとする説が紹介されている。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k4-neyagawa-chimei"
+     ]
+    },
+    {
+     "text": "「寝屋」は「ネ（川岸）」と「ヤ（湿地）」からなる地形名で、川沿いの湿地を指すのではないかという見方もある。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k4-neyagawa-chimei"
+     ]
+    },
+    {
+     "text": "市内の寝屋地区には、御伽草子で知られる「鉢かづき姫」の舞台となった寝屋長者の屋敷跡と伝えられる場所があり、寝屋川市はこの伝説をたどる散策コースを設けている。",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-neyagawa-hachikazuki",
+      "k4-neyagawa-chimei"
+     ]
+    },
+    {
+     "text": "寝屋川市の地方公共団体コードは272159である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "お伽草子の姫が眠るまち、寝屋",
+    "text": "「鉢かづき姫」は、継母に大きな鉢をかぶせられながらも幸せをつかむ姫の物語で、室町時代のお伽草子として知られる。その舞台とされるのが寝屋川市の寝屋地区で、姫の父とされる寝屋長者の屋敷跡と伝えられる場所が残り、市は「鉢かづき姫伝説コース」として散策路に組み入れている。川の名がまちの名になり、そのまちの一角には物語の伝承地が残る。地名と伝説が重なり合う好例である。",
+    "sources": [
+     "k4-neyagawa-hachikazuki",
+     "k4-neyagawa-chimei"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「寝屋」の語源は宿泊所説・布施屋説・地形説が並立し、確定していない。",
+    "川名「寝屋川」の記録上の初出（江戸時代初期）について、市広報は具体的な書名を示しておらず未確認である。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-岸和田市",
+   "code": "272027",
+   "names": {
+    "ja": "岸和田市",
+    "reading": "きしわだし",
+    "aliases": [
+     "岸和田荘",
+     "岸和田村",
+     "岸和田町"
+    ]
+   },
+   "user_terms": [
+    "だんじり祭の岸和田",
+    "岸和田城の城下町",
+    "岸和田という名前はどこから来たの",
+    "ちきり城のある市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「岸和田」の名は、南北朝時代の史料『和田文書』に武将・岸和田治氏らの名字として現れ、地名としては応永7年（1400年）の岸和田荘への寄進文書が初見とされる。由来では、江戸時代の地誌『泉州志』が伝える「岸と呼ばれた地に楠木一族の和田氏が住んだため『岸の和田』と呼ばれた」という説が最も有名だが、名字は治める土地の名を取るのが通例であることから、もともと地名があって氏が名乗ったとする見方も市公式資料で示されており、決着していない。岸和田城の城下町として発展し、大正11年（1922年）に大阪府下で3番目に市制を施行した。",
+   "first_attestation": {
+    "era": "応永7年",
+    "year_western": 1400,
+    "document": "足利義満御判御教書（『石清水文書』。岸和田荘の半分を石清水八幡宮寺へ寄進）",
+    "note": "地名としての初出。なお「岸和田」の語自体は、これに先立つ延元2年（1337年）の岸和田治氏の軍忠状（『和田文書』所収）に人名（名字）として現れる"
+   },
+   "claims": [
+    {
+     "text": "岸和田市公式資料は、応永7年（1400年）に足利義満が岸和田荘の半分を石清水八幡宮寺へ寄進した文書を、地名としての「岸和田」の初見史料としている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-kishiwada-komonjo"
+     ]
+    },
+    {
+     "text": "岸和田市公式資料によれば、南北朝時代の史料『和田文書』には「岸和田治氏」「岸和田快智」など、「岸和田」を名字として名乗る人物が登場する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-kishiwada-chimei"
+     ]
+    },
+    {
+     "text": "由来として最も有名なのは、元禄13年（1700年）の地誌『泉州志』が伝える説で、「岸村」と呼ばれた地に楠木正成の一族である和田高家が城郭を構えて住んだことから「岸の和田」と称し、「岸和田」という地名が生まれたとするもので、岸和田市公式の観光ページも建武元年（1334年）の和田氏の築城を地名の起こりとして紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "p3-kishiwada-chimei",
+      "p3-kishiwada-jo"
+     ]
+    },
+    {
+     "text": "一方で岸和田市公式資料は、武士の名字はたいてい自分たちが治めていた土地の名前が付くものであることから、和田氏が地名を生んだのではなく、もともと「岸和田」という地名が付いていたと考える方が当時の習わしに合うと指摘しており、『泉州志』説の先後関係には疑問が示されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "p3-kishiwada-chimei"
+     ]
+    },
+    {
+     "text": "「岸（キシ）」は海に面した地を指し、「和田」のワダは海を意味する古語であるため、「岸の海」からキシワダの地名が起こったとする地形由来説も唱えられている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "p3-kishiwada-danjiri"
+     ]
+    },
+    {
+     "text": "大正11年（1922年）11月1日、岸和田町が市制を施行して岸和田市となり、大阪市・堺市に次ぐ大阪府下3番目、全国では87番目の市制施行であった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-kishiwada-100",
+      "p3-kishiwada-jo"
+     ]
+    },
+    {
+     "text": "昭和17年（1942年）4月1日に春木町・山直町・南掃守村と新設合併して改めて岸和田市となり、現在の市域の骨格ができた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "p3-kishiwada-wiki"
+     ]
+    },
+    {
+     "text": "岸和田市の地方公共団体コードは272027である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "大阪府に2つある「岸和田」",
+    "text": "「岸和田」という地名は、大阪府内に実は2か所あります。もう1つは門真市内に今も残る字「岸和田」で、平安時代に後白河上皇が新日吉社の社領として寄進した荘園「岸和田庄」の名残です。岸和田市の「岸和田」とは別の場所で生まれた同名の地名です。そして岸和田市の側も、和田氏が来たから地名が生まれたのか、地名があったから和田氏が名乗ったのかという「鶏と卵」の問いに、今も結論が出ていません。",
+    "sources": [
+     "p3-kishiwada-chimei"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-門真市"
+   ],
+   "unknowns": [
+    "「岸和田」の語を構成する「岸」「和田」それぞれの原義について、専門辞典による確定的な語源説明は確認できなかった",
+    "延元2年（1337年）の軍忠状を「岸和田」の語の初出とする年代の裏付けは、岸和田治氏に関する二次的な記述に拠っており、軍忠状そのものの翻刻での確認は未実施",
+    "岸和田城の築城者・築城年について、市教育委員会のパンフレットでも「詳しいことは不明」とされており、建武元年（1334年）の和田氏築城は伝承の域を出ない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-東大阪市",
+   "code": "272272",
+   "names": {
+    "ja": "東大阪市",
+    "reading": "ひがしおおさかし",
+    "aliases": []
+   },
+   "user_terms": [
+    "ひがしおおさか",
+    "三市合併のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は1967年の3市合併で生まれた新名である。東大阪市公式によれば、「東大阪市」という呼び名は合併以前から市民に親しみをもって呼称されてきた通称で、新市が地域の中核都市として発展するにふさわしい名称として、合併前の1966年8月に決定された。翌1967年2月1日、布施市・河内市・枚岡市が合併して東大阪市が誕生した。",
+   "first_attestation": {
+    "era": "昭和41年",
+    "year_western": 1966,
+    "document": "合併に先立つ新市名称の決定（1966年8月）",
+    "note": "「東大阪」の呼称自体は合併以前からこの地域を指す通称として市民に使われていたもので、1966年8月に正式な市名として決定された。"
+   },
+   "claims": [
+    {
+     "text": "昭和42年（1967年）2月1日、布施市・河内市・枚岡市の3市が合併して東大阪市が誕生した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-higashiosaka-ayumi"
+     ]
+    },
+    {
+     "text": "東大阪市公式は、「東大阪市」という呼び名は三市合併以前から市民に親しみをもって呼称されてきたものであり、将来この新しい市が地域の中核都市として発展するにふさわしい名称であるとして、合併前の昭和41年（1966年）8月に決定したと説明している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-higashiosaka-50nen"
+     ]
+    },
+    {
+     "text": "昭和44年（1969年）7月、東大阪市の人口は50万人を突破し、当時、人口50万人以上の都市は全国で15番目であった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-higashiosaka-ayumi"
+     ]
+    },
+    {
+     "text": "前身の一つである旧布施町では、昭和7年（1932年）3月に給水が開始されており、これは現在の東大阪市水道の起点となっている。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-higashiosaka-suido"
+     ]
+    },
+    {
+     "text": "2017年には市制施行（合併）50周年を迎え、市政だよりは市名の由来を含む特集「東大阪市50年のあゆみ」を組んだ。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-higashiosaka-50nen"
+     ]
+    },
+    {
+     "text": "東大阪市の地方公共団体コードは272272である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "通称がそのまま市名になったまち",
+    "text": "市同士の合併では、どの旧市名を残すかが揉め事の種になりやすい。ところが1967年の布施・河内・枚岡の合併では、3市のどれでもない「東大阪市」が選ばれた。決め手は格付けではなく日常の言葉だった。この一帯は合併前から市民に「東大阪」と呼ばれており、その通称が「地域の中核都市にふさわしい名称」として1966年8月に正式採用されたのである。行政が作った名前が市民に浸透するのではなく、市民の呼び名が行政を追認させた、珍しい順序の命名だった。",
+    "sources": [
+     "k4-higashiosaka-50nen"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-大阪市"
+   ],
+   "unknowns": [
+    "1966年の市名決定の際、「東大阪市」以外にどのような候補が検討されたかは、今回確認した市の公式資料には記載がなかった。",
+    "前身3市（布施市・河内市・枚岡市）それぞれの市制施行年は、本レコードの調査範囲では公式資料で個別に確認していない。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-松原市",
+   "code": "272175",
+   "names": {
+    "ja": "松原市",
+    "reading": "まつばらし",
+    "aliases": [
+     "松原庄",
+     "松原村",
+     "松原町"
+    ]
+   },
+   "user_terms": [
+    "松原という地名の由来",
+    "まつばら",
+    "河内松原",
+    "丹比柴籬宮のあった地"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「松原」は平安時代の荘園名「松原荘」に遡る地名で、松原市公式によれば久安4年（1148年）の『御室御所高野山御参籠日記』に「松原庄」と記されたのが初見である。松原荘は京都太秦の広隆寺領で、その名は中世・近世を通じて受け継がれ、当地の中心だった松原村・松原町を経て市名となった。なぜ「松原」と呼ばれたのかについては市公式も「よく分かりません」としており、松の緑と瑞穂の景観があったのではないかという推測が紹介されるにとどまる。昭和30年（1955年）に松原町など5町村の合併で市制を施行した。",
+   "first_attestation": {
+    "era": "久安4年",
+    "year_western": 1148,
+    "document": "『御室御所高野山御参籠日記』",
+    "note": "市公式が「松原」の初見とする。仁和寺の覚法法親王が高野山参籠の途上に松原に至った記事に「子刻許、到着松原庄」と記される"
+   },
+   "claims": [
+    {
+     "text": "松原市公式サイトは、「松原」の名の初見は平安時代の『御室御所高野山御参籠日記』の久安4年（1148年）閏6月10日および11日条で、仁和寺の覚法法親王が高野山参籠のため松原に至った記事であり、史料には「子刻許、到着松原庄∧広隆寺庄∨」と記されていると紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-matsubara-meishou"
+     ]
+    },
+    {
+     "text": "松原荘は京都太秦の広隆寺領で、現在の近鉄河内松原駅南側の上田・新堂・岡地区に該当し、平安時代の松原荘の名が中世・近世・近現代と続いて現在の市名に受け継がれていると松原市公式サイトは説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-matsubara-meishou"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、松原市の市名は近世から近代を通じ当地辺りの中心であった松原村・松原町によると説明している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p3-matsubara-kotobank"
+     ]
+    },
+    {
+     "text": "当地がなぜ「松原」という名になったのかは市公式も「よく分かりません」としており、考古学者の末永雅雄は『松原市史』（1985年）の序文で、市域はかつて松の緑と黄金の瑞穂の景観をもっていたかもしれないと述べたにとどまる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "p3-matsubara-meishou"
+     ]
+    },
+    {
+     "text": "松原市公式サイトは、市域にあたる地について、『日本書紀』に第18代反正天皇が丹比柴籬宮を置いたと記されること、古墳時代には竹内街道が通り交通の要所だったことを紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-matsubara-rekishi"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）2月1日に松原町・天美町・布忍村・恵我村・三宅村の5町村が合併して松原市が発足し、昭和32年（1957年）10月15日に北八下村を編入した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-matsubara-localhist",
+      "p3-matsubara-shisho"
+     ]
+    },
+    {
+     "text": "松原市の地方公共団体コードは272175である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "マツとバラを合わせると「マツバラ」",
+    "text": "松原の名の由来は、市の公式見解をもってしても「よく分かりません」。平安時代の荘園名がそのまま残ったものの、なぜ松原と呼ばれたのかは謎のままです。ところが昭和50年（1975年）、市制20周年を機に市の木にマツ、市の花にバラが制定されました。合わせると「マツバラ」。由来の分からない名前に、語呂合わせで新しい意味を重ねたのです。いま市内のあちこちで見かけるマツとバラは、名付けの謎への、市の側からのささやかな回答でもあります。",
+    "sources": [
+     "p3-matsubara-meishou"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-羽曳野市"
+   ],
+   "unknowns": [
+    "「松原」という地名の語源（なぜ松原と呼ばれたか）は市公式・専門辞典のいずれでも確定しておらず、松の植生との関係も推測の域を出ない",
+    "松原荘の成立時期など、久安4年（1148年）の初見以前の経緯は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-枚方市",
+   "code": "272108",
+   "names": {
+    "ja": "枚方市",
+    "reading": "ひらかたし",
+    "aliases": [
+     "枚方里",
+     "枚方宿"
+    ]
+   },
+   "user_terms": [
+    "ひらかた",
+    "京街道の宿場町",
+    "樟葉宮のまち"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は古代の「枚方里」の継承である。奈良時代初頭の『播磨国風土記』は、播磨に同名の里ができた由来として河内国茨田郡の枚方里の存在を伝えており、河内の枚方はそれ以前から知られた地名だった。一方、「ひらかた」の語源そのものは枚方市公式も「わからない」としており、確定していない。1947年に市制を施行した。",
+   "first_attestation": {
+    "era": "和銅6年〜霊亀元年",
+    "year_western": 713,
+    "document": "『播磨国風土記』揖保郡条",
+    "note": "播磨国の枚方の里の名の由来を述べる中で「河内の国、茨田の郡の枚方の里」に言及する形で現れる。河内の枚方里の成立はこれ以前に遡るはずだが、年代は未確認である（成立年は713〜715年の幅がある）。"
+   },
+   "claims": [
+    {
+     "text": "枚方市公式の概説は、いつのころから「ひらかた」と呼ばれるようになったのかは分からないとしながら、『播磨国風土記』に「河内国茨田郡枚方里」と記されていることを紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-hirakata-ayumi"
+     ]
+    },
+    {
+     "text": "郷土史の解説は、『播磨国風土記』揖保郡条に「枚方と名づる所以は、河内の国、茨田の郡の枚方の里の漢人、来たりて初めてこの村に居りき」という記事があり、播磨の枚方の里は河内の枚方里からの移住者にちなむ名であることを紹介している。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "k4-hirakata-fudoki"
+     ]
+    },
+    {
+     "text": "枚方市公式の概説が「いつのころから『ひらかた』と呼ばれるようになったのかはわかりません」と述べるとおり、「ひらかた」の語源は確定していない。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "indeterminate",
+     "sources": [
+      "k4-hirakata-ayumi"
+     ]
+    },
+    {
+     "text": "一説に、神武東征の説話に現れる「白肩津（しろかたつ）」という地名が転化して「枚方」になったともいわれる。",
+     "kind": "legend",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k4-hirakata-fudoki"
+     ]
+    },
+    {
+     "text": "枚方市公式は、『日本書紀』によれば越前から迎えられた男大迹王（後の継体天皇）が507年に樟葉で即位し、5年にわたり宮を営んだとされ、交野天神社境内が樟葉宮跡の伝承地であると紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-hirakata-kusuha"
+     ]
+    },
+    {
+     "text": "江戸時代には、岡新町・岡・三矢・泥町の4か村が枚方宿に指定されて京街道の宿場町を形成し、淀川を上下する過書船の中継地としても賑わった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-hirakata-ayumi"
+     ]
+    },
+    {
+     "text": "昭和22年（1947年）8月1日に市制を施行し、昭和30年（1955年）に津田町を合併して現在の市域となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-hirakata-ayumi"
+     ]
+    },
+    {
+     "text": "枚方市の地方公共団体コードは272108である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "もう一つの枚方は「平方」になった",
+    "text": "『播磨国風土記』が伝えるもう一つの「枚方」は、播磨国揖保郡（現在の兵庫県たつの市方面）にあった里で、河内の枚方から移り住んだ人々にちなむ名だったとされる。興味深いことに、播磨の枚方は後に「平方」と書かれるようになったという。残った大阪の枚方は、初見の古さに反して読み方が難しく、「まいかた」「まきかた」と読み間違えられることの多い地名として知られる。同じ名前から出発した二つの里は、表記の運命まで分かれたことになる。",
+    "sources": [
+     "k4-hirakata-fudoki",
+     "k4-hirakata-ayumi"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「ひらかた」の語源は枚方市公式も不明としており、白肩津転化説を含め決着はついていない。",
+    "枚方里について『和名類聚抄』での郡・郷の記載と読みは、今回の調査では確認できなかった。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-池田市",
+   "code": "272043",
+   "names": {
+    "ja": "池田市",
+    "reading": "いけだし",
+    "aliases": [
+     "池田村",
+     "池田町",
+     "呉庭荘"
+    ]
+   },
+   "user_terms": [
+    "池田という地名の由来",
+    "呉服の里の池田",
+    "池田城のあった市",
+    "カップヌードル発祥の池田"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "池田の名は中世に現れる地名である。古代の摂津国豊島郡に「池田郷」はなく、市域は秦上郷・秦下郷・豊島郷などと呼ばれ、11世紀には荘園の呉庭荘（くれはのしょう）が成立していた。『日本歴史地名大系』は、池田の地名は式内社・伊居太（いけだ）神社の遷座にちなむともいわれるが不詳とする。鎌倉時代末期から「池田」と呼ばれるようになったとされ、国人の池田氏が築いた池田城の城下町として発展し、昭和14年（1939年）に市制を施行した。",
+   "first_attestation": {
+    "era": "鎌倉時代末期（13世紀末）",
+    "year_western": null,
+    "document": "未特定",
+    "note": "池田市歴史文化基本構想は、13世紀末に池田氏の祖先と思われる藤原景正が建立した石造物が残ることから、地名として「池田」が使われるのもこの頃からと考えられるとする。具体的な初出文献は特定できていない"
+   },
+   "claims": [
+    {
+     "text": "池田市公式の沿革によれば、古墳時代から奈良時代にかけて市域には渡来系氏族の秦氏が居住し、秦上郷・秦下郷・豊島郷などと呼ばれていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-ikeda-enkaku"
+     ]
+    },
+    {
+     "text": "『日本歴史地名大系』は、市名ともなった池田の地名について、もと川辺郡小坂田村（現在の伊丹市）にあったという式内社・伊居太（いけだ）神社の遷座にちなむともいわれるが不詳であるとし、『和名類聚抄』東急本にみえる豊島郡の七郷の中にも「池田郷」は含まれていない",
+     "kind": "fact",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "p3-ikeda-kotobank"
+     ]
+    },
+    {
+     "text": "池田市歴史文化基本構想によれば、11世紀に河内国土師の里（現在の藤井寺市あたり）出身の土師氏によって開発された荘園・呉庭荘（くれはのしょう）が市域に成立した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-ikeda-kousou"
+     ]
+    },
+    {
+     "text": "池田には、呉の国から来た呉織（クレハトリ）と穴織（アヤハトリ）の姉妹が機織りの技術を伝えたという伝承があり、市の歴史文化基本構想は『日本書紀』の記述を題材にしたもので史実ではないと断ったうえで、船が着いたという唐船が淵、糸を染めた染殿井、星明かりのもとで機を織った星の宮、織り上げた絹を干した絹掛けの松など、物語の各場面に対応する旧跡が残ると紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-ikeda-kousou"
+     ]
+    },
+    {
+     "text": "池田市公式の沿革は「室町時代に土豪の池田氏が大きな勢力を持つようになり、この頃から『池田』という地名が生まれたといわれている」と述べる一方、市の歴史文化基本構想は13世紀末には地名として「池田」が使われていたと考えられるとしており、池田氏が地名を生んだのか地名が氏に先行したのかは確定していない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "p3-ikeda-enkaku",
+      "p3-ikeda-kousou"
+     ]
+    },
+    {
+     "text": "池田市歴史文化基本構想によれば、池田氏は中世に五月山南麓へ池田城を築いたと考えられ、応仁・文明の乱では池田充政が細川方についたため大内氏に攻められ、池田城は落城した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-ikeda-kousou"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に池田村が町制を施行して池田町となり、昭和10年（1935年）に細河村・北豊島村・秦野村と合併し、昭和14年（1939年）4月29日、人口約3万6千人をもって大阪府下で6番目に市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-ikeda-enkaku"
+     ]
+    },
+    {
+     "text": "池田市の地方公共団体コードは272043である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「呉服」という言葉が生まれた里",
+    "text": "「池田」という名前より古い層に、この地の古名「呉服（くれは）の里」があります。伝承では、呉の国から渡ってきた呉織・穴織の姉妹が機織りを伝え、呉織は呉服媛として呉服神社に祭られました。池田市観光協会はこの呉服神社を「呉服」という言葉の発祥の地として紹介しています。今も市内には呉服町・呉服橋・呉服神社の名が残り、地元の人は呉服神社を「下の宮さん」、伝承の妹姫・穴織を祭る伊居太神社を「上の宮さん」と呼び分けています。",
+    "sources": [
+     "p3-ikeda-kanko",
+     "p3-ikeda-kousou"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-和泉市"
+   ],
+   "unknowns": [
+    "「池田」という地名そのものの語源は『日本歴史地名大系』も「不詳」としており、伊居太神社遷座説以外の裏付けのある説明は確認できなかった",
+    "「池田」の初出を示す具体的な古文書は特定できなかった（13世紀末という推定は市の歴史文化基本構想による）",
+    "摂津池田氏の発祥を和泉国池田村（現在の和泉市域）とする系譜伝承があり、豊島郡の池田という地名との先後関係は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-河内長野市",
+   "code": "272167",
+   "names": {
+    "ja": "河内長野市",
+    "reading": "かわちながのし",
+    "aliases": [
+     "長野村",
+     "長野町"
+    ]
+   },
+   "user_terms": [
+    "河内長野という地名の由来",
+    "かわちながの",
+    "奥河内の市",
+    "楠木正成ゆかりの地"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「河内長野」は、中心地名「長野」に旧国名「河内」を冠した合成地名である。昭和29年（1954年）に長野町など1町5村が合併して市制を施行する際、新市名は住民公募で寄せられた196の候補名の中から最も多かった「河内長野市」に決定したと市公式の講座で紹介されている。一方で、「河内」を冠したのは長野県長野市との重複を避けるためだとする説明もあり、理由の説明は資料により異なる。中心地名「長野」の語源についても、水神に由来するという説が市立図書館の講座で紹介されるなど、定説は定まっていない。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": "未特定",
+    "note": "中心地名「長野」は近世の錦部郡長野村に遡るが、村名としての初出文献は特定できなかった"
+   },
+   "claims": [
+    {
+     "text": "河内長野市は、昭和29年（1954年）に1町5村が合併して誕生したと、河内長野市公式サイトの市制70周年記念講座の報告は伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-kawachinagano-koza"
+     ]
+    },
+    {
+     "text": "合併した1町5村は長野町・三日市村・高向村・加賀田村・天見村・川上村で、中心の長野町は近世の長野村に遡り、明治22年（1889年）の町村制で長野村、明治43年（1910年）に町制を施行して長野町となった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "p3-kawachinagano-folklore"
+     ]
+    },
+    {
+     "text": "新市名は住民公募で寄せられた196の候補名の中から最も多かった「河内長野市」に決定し、候補には「楠公市」「楠美市」「楠光市」など楠木正成にちなむ名もあったと、市立図書館の講師による講座で紹介された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-kawachinagano-koza"
+     ]
+    },
+    {
+     "text": "「河内」を冠した理由について、地名の由来を扱う資料は長野県長野市と重複しないよう旧国名の「河内」を冠したものと説明するが、市公式の講座では公募で最も多かった名に決定したとされており、理由の説明は資料により異なる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "p3-kawachinagano-folklore",
+      "p3-kawachinagano-koza"
+     ]
+    },
+    {
+     "text": "「長野」の「なが」という音には水神の意味があり、長い土地ではなく水神の地が「長野」の語源である可能性もあると、市立図書館の講師による講座で紹介された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "p3-kawachinagano-koza"
+     ]
+    },
+    {
+     "text": "一方、地名の由来を扱う資料は「長野」を「ナガ（川沿いの長い土地）・ノ（野）」と解する通説的な説明を紹介しており、「長野」の語源は定まっていない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "p3-kawachinagano-folklore"
+     ]
+    },
+    {
+     "text": "市域は古代の河内国錦部郡に属し、文武天皇3年（699年）に錦部郡鳩原の犬養広麻呂が白鳩を献上したことが『続日本紀』に記され、市域の地名が中央の記録に現れる最も早い例とされると、郷土史サイト「ローカルヒストリア」は紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-kawachinagano-localhist"
+     ]
+    },
+    {
+     "text": "河内長野市の地方公共団体コードは272167である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「楠公市」にならなかった公募のまち",
+    "text": "1954年の市制施行にあたって河内長野市が行った新市名の公募には、196もの候補名が寄せられました。楠木正成が生まれ育った河内の一角らしく、「楠公市」「楠美市」「楠光市」といった楠公ちなみの名前がずらりと並びました。それでも最も多かったのは、中心の町の名に旧国名を冠した「河内長野市」。英雄の名を冠する案を退けて、土地の名そのものを選んだところに、新しい市の素朴な自己紹介が表れています。",
+    "sources": [
+     "p3-kawachinagano-koza"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/20-長野市",
+    "muni/27-富田林市"
+   ],
+   "unknowns": [
+    "中心地名「長野」の初出文献（村名として史料に現れる最も古い例）は特定できなかった",
+    "「河内」を冠した理由は資料により説明が異なり（長野市との重複回避説と公募最多説）、市の一次資料では確定できなかった",
+    "「長野」の語源は水神説と「川沿いの長い土地」説があり、典拠のある確定説明は得られなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-泉佐野市",
+   "code": "272132",
+   "names": {
+    "ja": "泉佐野市",
+    "reading": "いずみさのし",
+    "aliases": [
+     "佐野村",
+     "佐野町",
+     "佐野荘"
+    ]
+   },
+   "user_terms": [
+    "泉佐野という名前の由来",
+    "佐野に泉がついた理由",
+    "関西空港の玄関口の市",
+    "泉州タオルのふるさと"
+   ],
+   "naming_type": "その他（中世以来の村名「佐野」に旧国名「和泉」の「泉」を冠した合成地名）",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は、中世以来の村名「佐野」に旧国名「和泉」の「泉」を冠した合成地名である。「佐野」については、「狭い原野」を意味する「狭野」が転じたものという伝承が残る。もとの佐野は和泉国日根郡の村で、明治に佐野村、大正に佐野町となり、昭和23年（1948年）4月の市制施行にあたって「泉佐野市」と名乗った。昭和29年（1954年）に周辺5か村と合併して現在の市域の骨格ができた。",
+   "first_attestation": {
+    "era": "中世（鎌倉時代）",
+    "year_western": null,
+    "document": "未特定",
+    "note": "市名の核である「佐野」は中世以来の村名・荘園名（佐野荘）とされるが、「佐野」の語の具体的な初出文献と年代は特定できなかった"
+   },
+   "claims": [
+    {
+     "text": "泉佐野市の公式観光サイトは、市名の由来について、中世以来の村名「佐野」に旧国名・和泉を冠したものであると説明している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumisano-kanko"
+     ]
+    },
+    {
+     "text": "「佐野」の由来については、「狭い原野」ということから「狭野」というようになり、それが転じて「佐野」と呼ばれるようになったという伝承が残っていると泉佐野市公式観光サイトは紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumisano-kanko"
+     ]
+    },
+    {
+     "text": "市域は古代には和泉国日根郡の賀美郷にあたり、『和名類聚抄』に見える日根郡の4郷の1つで、その郷名は今も上之郷という地名に残っている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-izumisano-localhist"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）に日根郡佐野村が町村制を施行し、明治44年（1911年）に町制を施行して佐野町となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "p3-izumisano-localhist"
+     ]
+    },
+    {
+     "text": "昭和12年（1937年）4月に佐野町と北中通村が合併して新たな佐野町が生まれ、昭和23年（1948年）4月に佐野町が市制を施行して泉佐野市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumisano-plan"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）には、南中通・日根野・長滝・上之郷・大土の5か村が泉佐野市に合併し、新しい泉佐野市が形成された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-izumisano-plan"
+     ]
+    },
+    {
+     "text": "泉佐野市の地方公共団体コードは272132である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "村名の上に国名を載せた「泉佐野」",
+    "text": "「泉佐野」は二段構造の名前です。下の段は中世以来の村の名前「佐野」、上の段は旧国名「和泉」の頭の一字「泉」。ふつう合併や市制のときに新しく作られる合成地名は町村どうしの名前を組み合わせますが、泉佐野の場合は、村の名前に「国」の名前を載せたところが変わっています。市制施行は昭和23年（1948年）のことで、この「泉」の一字が、今では関西国際空港の玄関口を名乗る市の看板になっています。",
+    "sources": [
+     "p3-izumisano-kanko",
+     "p3-izumisano-plan"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/09-佐野市"
+   ],
+   "unknowns": [
+    "「佐野」の語の具体的な初出文献・年代は特定できなかった（「狭野」からの転訛は伝承として伝えられる段階）",
+    "市制施行にあたって「泉」を冠した理由について、栃木県佐野市との同名回避のためとする説明が一般に流布しているが、典拠のある市公式の説明は確認できなかった（市公式観光サイトの説明は「旧国名和泉を冠したもの」とするにとどまる）",
+    "佐野荘の成立時期と「佐野」の表記の初出については、専門辞典での確認ができなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-箕面市",
+   "code": "272205",
+   "names": {
+    "ja": "箕面市",
+    "reading": "みのおし",
+    "aliases": [
+     "箕尾山",
+     "箕面山"
+    ]
+   },
+   "user_terms": [
+    "箕面の名前の由来",
+    "箕面の滝と地名の関係",
+    "みのお の読み方",
+    "箕面市はいつできたの"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "箕面は箕面大滝で知られる山あいの地名で、その名は平安時代に「箕尾山」「箕面山」と見え、大滝の姿が農具の「箕」に似ることに由来すると考えられている。1889年に箕面村など4村が発足し、1948年に箕面町、1956年12月1日に豊川村と合併して箕面市が誕生した。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": "箕尾山の用例が見える平安時代の史料",
+    "note": "語源由来辞典によれば、「箕面」の名は平安中期に「箕尾山」、平安後期に「箕面山」として見える"
+   },
+   "claims": [
+    {
+     "text": "語源由来辞典によれば、「箕面」の名は平安中期に「箕尾山」、平安後期に「箕面山」として見え、箕面大滝に由来すると考えられる（地方公共団体コードは272205）",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l4-minoh-gogen",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "滝の名の由来には、穀物をふるい分ける農具「箕」の尾の形、あるいは箕を伏せた形に滝が似るためとする説と、「水の尾（ミノヲ）」すなわち滝水そのものを表した名とする説がある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l4-minoh-gogen"
+     ]
+    },
+    {
+     "text": "箕面寺（現在の瀧安寺）は、白雉元年（650年）に修験道の開祖とされる役行者によって開基されたと伝えられる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-minoh-city-onko"
+     ]
+    },
+    {
+     "text": "平安時代後期には、箕面の山中の聖の住処は歌謡集『梁塵秘抄』に歌われるほど全国的に知られていたと箕面市は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-minoh-city-profile"
+     ]
+    },
+    {
+     "text": "1889年（明治22年）の町村制施行により、箕面・萱野・止々呂美・豊川の4村が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-minoh-city-water",
+      "l4-minoh-city-onko"
+     ]
+    },
+    {
+     "text": "1948年（昭和23年）に箕面村が町制を施行して箕面町となり萱野村・止々呂美村を合併し、1956年（昭和31年）12月1日に豊川村と合併して市制を施行し、大阪府内24番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-minoh-city-water",
+      "l4-minoh-city-onko"
+     ]
+    },
+    {
+     "text": "1910年（明治43年）に箕面有馬電気軌道（現在の阪急箕面線）が開通したことが、箕面が観光地として発展する契機となったと箕面市の事業沿革は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-minoh-city-water"
+     ]
+    }
+   ],
+   "column": {
+    "title": "修験の山、歌に詠まれた箕面",
+    "text": "箕面の滝のほとりは、古くから修験道の行場だった。箕面寺（瀧安寺）は役行者の開基と伝えられ、平安時代後期には山にこもる聖たちの住処として『梁塵秘抄』にも歌われたという。「箕面」の名が山と滝の名として文献に現れるのはちょうどその頃で、地名はまず信仰と景勝の名として広がっていった。紅葉の名所という現代の箕面の顔は、この古い霊場の延長線上にある。",
+    "sources": [
+     "l4-minoh-city-profile",
+     "l4-minoh-city-onko"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "語源（箕の形とする説と「水の尾」説）は語源由来辞典の紹介にとどまり、専門文献による裏付けは未了",
+    "「箕尾山」「箕面山」の用例が見える平安時代の原典の特定は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-羽曳野市",
+   "code": "272221",
+   "names": {
+    "ja": "羽曳野市",
+    "reading": "はびきのし",
+    "aliases": [
+     "南大阪町",
+     "羽曳原",
+     "羽曳山"
+    ]
+   },
+   "user_terms": [
+    "羽曳野という地名の由来",
+    "はびきの",
+    "白鳥伝説の地",
+    "古市古墳群・応神天皇陵のある市"
+   ],
+   "naming_type": "その他（市制施行に際して日本武尊の白鳥伝説にちなむ古地名「羽曳野」を採用）",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "「羽曳野」は、日本武尊の白鳥伝説にちなむとされる古い広域地名である。『日本歴史地名大系』によれば、『日本書紀』は白鳥と化した日本武尊が河内の古市に降り立ったと記すにとどまるが、神社の縁起では白鳥が埴生の丘を羽を曳くがごとく西へ飛んだため、その丘を「羽曳野」と呼ぶようになったという。地名として文献で確認できるのは江戸時代中期の文書に見える「羽曳原」が古い。昭和34年（1959年）、南大阪町が市制を施行する際にこの古名を市名として採用した。",
+   "first_attestation": {
+    "era": "江戸時代中期",
+    "year_western": null,
+    "document": "埴生野新田関係文書（西山家文書）",
+    "note": "『日本歴史地名大系』によれば「羽曳原」と見える。伝説の舞台は『日本書紀』景行天皇40年条の河内国古市だが、「羽曳野」の地名自体の形成時期は不明とされる"
+   },
+   "claims": [
+    {
+     "text": "『日本歴史地名大系』は、羽曳野の名は日本武尊の白鳥伝説にちなむと説明している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p3-habikino-kotobank"
+     ]
+    },
+    {
+     "text": "『日本書紀』景行天皇40年条は、伊勢の能褒野陵に葬られた日本武尊が白鳥と化して大和・河内に飛び、降り立った大和の琴弾原と河内の古市に陵墓が造営されたと記し、書紀では白鳥はここで天に上るとされる一方、「羽曳野」と呼ぶようになった経緯は神社の縁起によって伝えられていると『日本歴史地名大系』は説明している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p3-habikino-kotobank"
+     ]
+    },
+    {
+     "text": "白鳥神社と堺市の大鳥神社の縁起によれば、白鳥は古市からさらに埴生の丘を羽を曳くがごとく西に飛び、和泉大鳥の地にとどまってやがて天高く飛び消え去ったため、古市西方の埴生の丘を「羽曳野」あるいは「羽曳山」と呼ぶようになったという",
+     "kind": "legend",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "p3-habikino-kotobank"
+     ]
+    },
+    {
+     "text": "羽曳野市の白鳥神社は、「羽曳野」という地名は、白鳥に姿を変えた日本武尊が羽を曳くように天に昇ったという『日本書紀』のエピソードに由来すると説明している",
+     "kind": "legend",
+     "level": "E4",
+     "status": "indeterminate",
+     "sources": [
+      "p3-habikino-shiratori"
+     ]
+    },
+    {
+     "text": "この白鳥にちなむ地名伝承の形成された時期は不明であるが、江戸時代中期の埴生野新田関係文書（西山家文書）の中に「羽曳原」と見えると『日本歴史地名大系』は記している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "p3-habikino-kotobank"
+     ]
+    },
+    {
+     "text": "羽曳野市公式「羽曳野市略史」によれば、昭和31年（1956年）9月に古市・高鷲・丹比・埴生・西浦・駒ヶ谷の2町4村が合併して南大阪町が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-habikino-ryakushi"
+     ]
+    },
+    {
+     "text": "昭和34年（1959年）1月15日に南大阪町は市制を施行し、名称を羽曳野市としたと羽曳野市公式「羽曳野市略史」は記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-habikino-ryakushi"
+     ]
+    },
+    {
+     "text": "市域には、墳丘長425mで我が国第2位の規模を誇る応神天皇陵古墳をはじめとする古市古墳群の古墳が多数現存すると羽曳野市の景観計画は記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "p3-habikino-keikan"
+     ]
+    },
+    {
+     "text": "羽曳野市の地方公共団体コードは272221である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "白鳥が羽を曳いた丘",
+    "text": "ヤマトタケルの白鳥伝説には、三重の能褒野、奈良の琴弾原、そして河内の古市という3つの聖地があります。『日本書紀』では、白鳥は古市に降り立ち、そこで天に上って物語は終わります。しかし地元の神社の縁起では、物語には続きがありました。白鳥は古市を発つと、西の埴生の丘の上を、羽を曳くように低く飛んでいった——その姿が「羽曳野」の名になったというのです。1959年に市となったとき、街は「南大阪」という実務的な名を捨て、千年以上語り継がれたこの物語の名前を選びました。",
+    "sources": [
+     "p3-habikino-kotobank",
+     "p3-habikino-shiratori"
+    ]
+   },
+   "relations": [
+    "pref/27",
+    "muni/27-松原市",
+    "muni/27-富田林市"
+   ],
+   "unknowns": [
+    "市制施行時に「南大阪町」から「羽曳野市」へ改称した理由や選定過程を説明する市公式の一次資料は確認できなかった（古名の採用とみられるが経緯は未確認）",
+    "「羽曳野」の地名が江戸時代中期の「羽曳原」より古い文献に現れる例は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-茨木市",
+   "code": "272116",
+   "names": {
+    "ja": "茨木市",
+    "reading": "いばらきし",
+    "aliases": [
+     "茨木村"
+    ]
+   },
+   "user_terms": [
+    "茨木の名前の由来",
+    "いばらき か いばらぎ か",
+    "茨木市はいつできたの",
+    "茨城県と関係あるの"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "茨木は摂津国島下郡の地名で、茨木市統計書は地名の由来は明らかでないとし、記録上の初見を『勝尾寺文書』正治2年（1200）の「島下郡中条茨木村」とする。語源には諸説があるが定説はない。中世・近世には茨木城の城下町、西国街道の宿場として栄え、1948年に茨木町・春日村・三島村・玉櫛村が合併して市制を施行した。",
+   "first_attestation": {
+    "era": "鎌倉時代",
+    "year_western": 1200,
+    "document": "勝尾寺文書",
+    "note": "茨木市統計書によれば、正治2年（1200）の『勝尾寺文書』の中に「島下郡中条茨木村」という地名が記されているのが記録上の初見"
+   },
+   "claims": [
+    {
+     "text": "茨木市統計書は、地名「いばらき」のいわれは明らかではないとし、記録上の初見は鎌倉時代の正治2年（1200）の『勝尾寺文書』にある「島下郡中条茨木村」であるとする（地方公共団体コードは272116）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-ibaraki-city-tokei",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "語源については、イバラの木が多いことから生じたという説や、「味木の里」が鈍ったという説などが挙げられるが、いずれも裏付けは弱く諸説の域を出ない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l4-ibaraki-wikipedia"
+     ]
+    },
+    {
+     "text": "坂上田村麿が茨を切り取り「荊切りの里」を作ったことに由来するという話が伝えられる",
+     "kind": "legend",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l4-ibaraki-wikipedia"
+     ]
+    },
+    {
+     "text": "市の中心部には中川清秀が整備した茨木城があり、城下町が形成されたと茨木市統計書は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-ibaraki-city-tokei"
+     ]
+    },
+    {
+     "text": "茨木は西国街道が東西に通り参勤交代にも利用された地で、「椿の本陣」が知られると茨木市統計書は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-ibaraki-city-tokei-h25"
+     ]
+    },
+    {
+     "text": "1948年（昭和23年）に茨木町・春日村・三島村・玉櫛村の1町3村が合併して市制を施行し、大阪府内13番目の市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-ibaraki-city-keikaku",
+      "l4-ibaraki-kotobank"
+     ]
+    },
+    {
+     "text": "市名の読みは「いばらき」で、「いばらぎ」のように連濁しない読み方が正しいとされる",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "l4-ibaraki-wikipedia"
+     ]
+    }
+   ],
+   "column": {
+    "title": "西国街道の「椿の本陣」",
+    "text": "茨木の町を東西に貫いた西国街道は、京都と西国を結ぶ大動脈で、参勤交代の大名行列も行き交った。その宿場の本陣として知られるのが「椿の本陣」である。茨木市統計書がわざわざ名を挙げるほどの存在で、城下町であると同時に街道の宿場町でもあった茨木の二つの顔を今に伝える。地名の由来が「明らかではない」と市が正直に認める一方で、町の歩みそのものは街道と城にくっきりと刻まれている。",
+    "sources": [
+     "l4-ibaraki-city-tokei-h25",
+     "l4-ibaraki-city-tokei"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "語源の定説はなく、茨木市公式資料も「明らかではない」と明記している",
+    "坂上田村麿の「荊切り」伝承の典拠の一次確認は未了で、Wikipedia経由の紹介にとどまる"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-豊中市",
+   "code": "272035",
+   "names": {
+    "ja": "豊中市",
+    "reading": "とよなかし",
+    "aliases": [
+     "豊中村",
+     "豊中町"
+    ]
+   },
+   "user_terms": [
+    "とよなか",
+    "文教都市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は1889年に生まれた「豊中村」の継承である。豊島郡の新免・南轟木・山ノ上・桜塚・岡町の5か村が合併した際、郡の中央にあたることから「豊中」と名付けたと伝えられる。1927年に町制、1936年に近隣3村との合併を伴って市制を施行した。",
+   "first_attestation": {
+    "era": "明治22年",
+    "year_western": 1889,
+    "document": "豊中村の成立（町村制による5か村の合併）",
+    "note": "地名「豊中」そのものの初出。もとの郡名「豊島」は『古事記』（712年）にまで遡るが、「豊中」は明治の合併で生まれた新しい地名である。"
+   },
+   "claims": [
+    {
+     "text": "豊中市公式は、「豊中」の地名は明治22年（1889年）4月に摂津国豊島郡の新免村・南轟木村・山ノ上村・桜塚村・岡町村の5か村が合併して豊中村が置かれたときに生まれ、豊島郡の中央にあたることから名付けたと伝えられると説明している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-toyonaka-history"
+     ]
+    },
+    {
+     "text": "豊中市公式は、豊島の名が文献に見えるのは和銅5年（712年）に撰上された『古事記』中巻からで、神護景雲3年（769年）には称徳天皇が豊島の人15人に姓を授けた記録が『続日本紀』に見えると紹介している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-toyonaka-history"
+     ]
+    },
+    {
+     "text": "明治29年（1896年）4月に豊島郡と能勢郡が合併して豊能郡となったため、豊中村は豊能郡豊中村となった。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-toyonaka-history"
+     ]
+    },
+    {
+     "text": "昭和2年（1927年）に町制を施行して豊中町となり、昭和11年（1936年）に豊中町・麻田村・桜井谷村・熊野田村が合併して豊中市が発足した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-toyonaka-history"
+     ]
+    },
+    {
+     "text": "昭和22年（1947年）には中豊島村・南豊島村・小曽根村を編入した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-toyonaka-history"
+     ]
+    },
+    {
+     "text": "豊中市の地方公共団体コードは272035である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市章の中に隠れた「豊中」の文字",
+    "text": "1939年に公募で制定された豊中市の市章は、一見すると幾何学模様だが、実は文字遊びになっている。豊中（トヨナカ）の頭文字「ト」を4個組み合わせて「トヨ（豊）」ともじり、全体の形を「中」と見立てて「豊中」と読ませるのだという。地名の由来が「郡の真ん中」という位置の説明だったまちは、その名前を図案の中にもう一度「真ん中」の字で閉じ込めたことになる。",
+    "sources": [
+     "k4-toyonaka-youran",
+     "k4-toyonaka-history"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「豊島郡の中央にあたることから名付けた」という命名理由は、市公式が「伝えられています」とする伝承レベルの説明であり、命名当時の公文書での裏付けは確認できなかった。"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-門真市",
+   "code": "272230",
+   "names": {
+    "ja": "門真市",
+    "reading": "かどまし",
+    "aliases": [
+     "普賢寺荘",
+     "門真荘"
+    ]
+   },
+   "user_terms": [
+    "門真の名前の由来",
+    "かどま の意味",
+    "門真市はいつできたの",
+    "パナソニックの門真"
+   ],
+   "naming_type": "その他（門真町の単独市制施行）",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "門真は河内平野の低湿地に開けた地名で、室町時代初期までは「普賢寺庄」と呼ばれ、室町時代末期から「門真」の名が使われ始めたとされる。「かどま」の意味には「門間」とする説と「潟沼」から転じたとする説がある。1939年に門真町となり、1956年に大和田村・四宮村・二島村を編入、1963年8月1日に市制を施行した。",
+   "first_attestation": {
+    "era": "室町時代",
+    "year_western": null,
+    "document": "門真荘関係の史料",
+    "note": "門真市史料室の研究によれば、室町時代初期までは「普賢寺庄」と呼ばれ、室町時代末期から「門真」の地名が使われ始めた。戦国時代には「門真荘」の名も見える"
+   },
+   "claims": [
+    {
+     "text": "門真市史料室の研究によれば、室町時代初期までこの一帯は「普賢寺庄」と呼ばれており、室町時代末期から「門真」の地名が使われ始めた（地方公共団体コードは272230）",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l4-kadoma-shishitsu",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "「かどま」の意味については、「門間」で、低湿地などで生産性の低い荘園が領主から免田として認められたことから来た名前とする説明を、同研究は吉田茂樹『日本地名事典』を引いて紹介する",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "l4-kadoma-shishitsu"
+     ]
+    },
+    {
+     "text": "「潟沼（かたぬま）」から転じたとする説もあり、「門真」の語源は一つに定まっていない",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "l4-kadoma-wikipedia"
+     ]
+    },
+    {
+     "text": "門真市の公式の歴史ページは、『古事記』『日本書紀』に、仁徳天皇が低湿地帯だったこの地方を淀川の氾濫から守るため、渡来人に「茨田堤」を築かせたと記されていることを紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kadoma-city-rekishi"
+     ]
+    },
+    {
+     "text": "江戸時代末期の現在の門真市域には、門真一番上・門真一番下・門真二番・門真三番・門真四番など19の村があり、1889年（明治22年）に門真村・大和田村・四宮村・二島村の4村にまとめられた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "l4-kadoma-shishitsu"
+     ]
+    },
+    {
+     "text": "門真村は1939年（昭和14年）に町制を施行して門真町となり、1956年（昭和31年）9月30日に大和田村・四宮村・二島村を編入し、1963年（昭和38年）8月1日に市制を施行した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kadoma-city-tokei"
+     ]
+    },
+    {
+     "text": "門真はもともと河内屈指の穀倉地帯で、河内蓮根が特産物として知られる農村地帯だったと門真市の市勢要覧は述べる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l4-kadoma-city-shiori"
+     ]
+    }
+   ],
+   "column": {
+    "title": "番号で呼ばれた村々――門真一番上から四番まで",
+    "text": "江戸時代末期、今の門真市域には19の村があった。そのうち中心部の村の名前が面白い。門真一番上、門真一番下、門真二番、門真三番、門真四番――まるで背番号のように「門真」に番号が振られていたのである。低湿地を開きながら集落が枝分かれしていった歴史が、この素っ気ない名前に刻まれている。1889年の町村制でこれらは門真村など4村に統合され、番号の村名は地図から消えた。",
+    "sources": [
+     "l4-kadoma-shishitsu"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「門間」説と「潟沼」説のいずれが正しいかは決められず、語源は未確定",
+    "「門真」の初出とされる室町時代末期の具体的な文書の特定は未了"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/27-高槻市",
+   "code": "272078",
+   "names": {
+    "ja": "高槻市",
+    "reading": "たかつきし",
+    "aliases": [
+     "高月",
+     "高槻庄"
+    ]
+   },
+   "user_terms": [
+    "たかつき",
+    "京と大阪の中間",
+    "高山右近の城下町"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "大阪府",
+   "homonyms": [],
+   "summary": "市名は中世以来の地名の継承で、そのおこりは「高月」である。高槻市公式資料は「高月」の名が鎌倉時代から南北朝時代にかけて史上に現れるとし、戦国期には「高槻庄」と記された。「高槻」への転化は、高い槻（ケヤキ）の木にまつわるという説が伝えられる。1943年に市制を施行した。",
+   "first_attestation": {
+    "era": "鎌倉時代",
+    "year_western": null,
+    "document": "史料名不詳（高槻市公式資料は「高月」の名が鎌倉時代から南北朝時代に史上に現れるとするが、具体的な書名を示していない）",
+    "note": "「高槻」の形では戦国期の「高槻庄」が古い用例として語源由来辞典に紹介されている。"
+   },
+   "claims": [
+    {
+     "text": "高槻市公式の郷土史資料は、高槻の地名のおこりは「高月」で、その名が史上に現れるのは鎌倉時代から南北朝時代であること、南北朝から戦国時代には芥川城や高槻城をめぐる攻防の地であったことを記している。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-takatsuki-kyodo"
+     ]
+    },
+    {
+     "text": "戦国期には「高槻庄」の名が見え、「高月」から「高槻」に転じたのは、高い槻の木（ケヤキの呼称）の近くに本陣が立てられたことからといわれる。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k4-takatsuki-gogen"
+     ]
+    },
+    {
+     "text": "もとの「高月」の由来については、高くなった所を表す「タカ」と「ツキ」を重ねた地形由来説のほか、安満庄の神社名に由来する説、神武東征の説話に軍の旗印の月を結びつける説など、諸説が並立している。",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "k4-takatsuki-gogen"
+     ]
+    },
+    {
+     "text": "江戸時代には慶安年間に封じられた永井直清以来、高槻藩永井家の城下町として発展し、高槻城は明治7年（1874年）に破却された。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-takatsuki-kyodo"
+     ]
+    },
+    {
+     "text": "昭和18年（1943年）1月1日、大阪府下で9番目の市として高槻市が市制を施行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-takatsuki-kyodo"
+     ]
+    },
+    {
+     "text": "平成15年（2003年）4月1日、大阪府内で2番目の中核市へ移行した。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k4-takatsuki-kyodo"
+     ]
+    },
+    {
+     "text": "高槻市の地方公共団体コードは272078である。",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "d-cap-jlis-osaka"
+     ]
+    }
+   ],
+   "column": {
+    "title": "市章が宣言する「京と大阪の真ん中」",
+    "text": "高槻市の市章は、大阪市の市章と京都市の市章を組み合わせ、その形で高槻の「高」をかたどったものだと市は説明する。淀川を挟んで両都のちょうど中間に位置するこのまちは、古来、京と大坂を結ぶ交通の要衝だった。地名の由来には確かな決着がついていない一方で、市章のほうは「両都の真ん中」という自己認識をはっきりと図案に刻んでいる。",
+    "sources": [
+     "k4-takatsuki-shisho",
+     "k4-takatsuki-kyodo"
+    ]
+   },
+   "relations": [
+    "pref/27"
+   ],
+   "unknowns": [
+    "「高月」の初出の具体的な史料名・年は、市公式資料にも示されておらず未確認である。",
+    "「高槻」表記が定着した時期と経緯は、槻の木にまつわる伝承的説明以外に確認できなかった。"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,2394 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "f-cap-kagoshima-city-profile": {
+   "label": "鹿児島市「市勢の概要」（鶴丸城築城と城下整備、1889年の市制施行を紹介）",
+   "url": "https://www.city.kagoshima.lg.jp/kensetu/toshikeikaku/toshikeikaku/machizukuri/toshikekaku/toshi/documents/02toshikei26_1shiseigaiyou.pdf"
+  },
+  "f-cap-kagoshima-city-sousetu": {
+   "label": "鹿児島市議会「市勢要覧 総説」（市制施行時の構成を50町村と示す表を収載）",
+   "url": "https://www.city.kagoshima.lg.jp/gikai/seimuchousa/shigikai/koho/shisegaiyo/documents/r301-sousetu.pdf"
+  },
+  "f-cap-kagoshima-pref-goroumon": {
+   "label": "鹿児島県公式資料（鶴丸城御楼門関連、『続日本紀』天平宝字8年の記事にみえる「麑島」を鹿児島の初見として紹介）",
+   "url": "https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/goroumon/documents/52264_20160603212847-1.pdf"
+  },
+  "f-cap-sandai-jitsuroku": {
+   "label": "『日本三代実録』貞観2年（860年）3月条（薩摩国鹿児島神への叙位を記録。紙資料）"
+  },
+  "f-kagoshima-kotobank": {
+   "label": "コトバンク「鹿児島郡」（『日本歴史地名大系』、桜島の古名とするのが妥当とする見解を紹介）",
+   "url": "https://kotobank.jp/word/%E9%B9%BF%E5%85%90%E5%B3%B6%E9%83%A1-3105919"
+  },
+  "f-kagoshima-pref": {
+   "label": "鹿児島県公式サイト「地名の由来」（鹿児島・桜島の諸説を県が併記）",
+   "url": "https://www.pref.kagoshima.jp/ab23/pr/gaiyou/rekishi/bunka/yurai.html"
+  },
+  "k6-ibusuki-city-bunkazai": {
+   "label": "指宿市「指宿市文化財保存活用地域計画」（地名の初出と小川亥三郎の研究、1954年の市制・2006年の合併）",
+   "url": "https://www.city.ibusuki.lg.jp/main/uploads/syakyo/docs/%E6%8C%87%E5%AE%BF%E5%B8%82%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E5%AD%98%E6%B4%BB%E7%94%A8%E5%9C%B0%E5%9F%9F%E8%A8%88%E7%94%88.pdf"
+  },
+  "l6-kirishima-enkaku": {
+   "label": "霧島市「沿革」（2005年11月7日に国分市と6町が合併、2004年2月12日に新市の名称を「霧島市」と決定、1955年の国分市制）",
+   "url": "http://www.city-kirishima.jp/kikaku/shise/shinoshokai/gaiyo/enkaku.html"
+  },
+  "l6-kirishima-na": {
+   "label": "霧島市「霧島という名」（市公式の郷土史資料。市名は市民公募3,887件で最多、続日本後紀の「霧嶋岑神」が霧島の初出、名の由来の2説は推測の域を出ないとする）",
+   "url": "https://www.city-kirishima.jp/bunka/documents/kirishimatoiuna.pdf"
+  },
+  "l6-kirishima-townshi": {
+   "label": "霧島市「霧島町史 第四編 現代の霧島町」（1934年の国立公園指定を機に論議され、1935年に東襲山村が霧島村へ改称した経緯）",
+   "url": "https://www.city-kirishima.jp/kyoudoshi/j05_kirishima_04_gendai.pdf"
+  },
+  "s3-amami-city-tanjo": {
+   "label": "奄美市「奄美市の誕生」（市公式。平成18年3月20日に名瀬市・住用村・笠利町が合併して奄美市が誕生したこと、当初1市2町3村で始まった合併協議から瀬戸内町・宇検村・大和村が離脱した経過）",
+   "url": "https://www.city.amami.lg.jp/kikaku/shise/gaiyo/shokai/tanjo.html"
+  },
+  "s3-izumi-city-env": {
+   "label": "出水市「出水市環境基本計画（本編）」（市公式。出水市郷土誌に基づき、「出水」という地名は扇状地の扇端部に湧水が豊かだったことに由来するといわれること、ツルの渡来地が国の特別天然記念物であること）",
+   "url": "https://www.city.kagoshima-izumi.lg.jp/site_data/izumi02/forms/%E5%87%BA%E6%B0%B4%E5%B8%82%E7%92%B0%E5%A2%83%E5%9F%BA%E6%9C%AC%E8%A8%88%E7%94%BA(%E6%9C%AC%E7%B7%A8).pdf"
+  },
+  "s3-izumi-wiki": {
+   "label": "Wikipedia「出水市」（現在の市域は『和名抄』の薩摩国出水郡の地であること、江戸時代の出水郷と「出水兵児」、1954年4月1日に出水町・米ノ津町が合併して出水市が発足し、2006年3月13日に野田町・高尾野町と合併して新・出水市となったことの紹介）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E6%B0%B4%E5%B8%82"
+  },
+  "s3-nishinoomote-koho": {
+   "label": "西之表市広報「市政の窓」2004年11月号（広報紙500号記念号。昭和33年10月1日に市制施行で「西之表市」が発足したこと）",
+   "url": "https://www.city.nishinoomote.lg.jp/material/files/group/55/200411shiseinomado.pdf"
+  },
+  "s3-nishinoomote-port": {
+   "label": "鹿児島県「西之表港」（県公式。西之表港は種子島の北西岸に位置する重要港湾で、鹿児島や屋久島への定期フェリー・高速船が就航し「島の表玄関」とされること）",
+   "url": "https://www.pref.kagoshima.jp/ah09/infra/port/minato/cruising/nishinoomote.html"
+  },
+  "s3-nishinoomote-wiki": {
+   "label": "Wikipedia「西之表市」（1889年に北種子村が発足し、1926年4月1日に改称・町制して西之表町となったこと、種子島氏の城下町として栄えたことの紹介）",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%8B%E8%A1%A8%E5%B8%82"
+  },
+  "s3-tarumizu-kotobank": {
+   "label": "コトバンク「垂水」（『日本歴史地名大系』の解説：垂水は中世後期からみえる地名で江戸時代の市来・中俣両村が垂水村と称されたこと。『精選版日本国語大辞典』：たるみ（垂水）は垂れ落ちる水・滝の意で『万葉集』に用例があること。『日本大百科全書』：1955年に垂水町と牛根・新城の2村が合併し1958年に市制施行、鹿児島市との間にカーフェリーが就航すること）",
+   "url": "https://kotobank.jp/word/%E5%9E%82%E6%B0%B4-563398"
+  },
+  "s4-aira-caldera-kagoshima-u": {
+   "label": "鹿児島大学理学部「姶良カルデラ」（松本唯一が1933年に「姶良火山」の名を提唱し、1943年に姶良カルデラと正式に命名したとする大学の解説）",
+   "url": "https://www.sci.kagoshima-u.ac.jp/oyo/advanced/caldera/aira.html"
+  },
+  "s4-aira-kagoshima-u": {
+   "label": "鹿児島大学工学部「姶良市合併発足に至るまでの情勢分析」（平成23年度報告。1955年の姶良町発足時に「三町村の郷土に共通する」理由で郡名が採用された経緯を含む）",
+   "url": "https://www.eng.kagoshima-u.ac.jp/wp-content/uploads/2018/03/H23_report_04.pdf"
+  },
+  "s4-aira-uub": {
+   "label": "都道府県市区町村「姶良市（2010年〜）市区町村変遷情報」（2010年3月23日に加治木町・蒲生町・姶良町が新設合併して発足、姶良西部合併協議会の記録）",
+   "url": "https://uub.jp/upd/c/860.html"
+  },
+  "s4-aira-wiki": {
+   "label": "Wikipedia「姶良市」（鹿児島湾の奥に位置し、姶良カルデラの北西側の外輪山にあたる位置にあるとする地理の解説）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A7%B6%E8%89%AF%E5%B8%82"
+  },
+  "s4-airagun-wiki": {
+   "label": "Wikipedia「姶良郡」（江戸時代は始羅郡と呼ばれた地域で、古代大隅国の姶羅郡は現在の鹿屋市付近の別郡であり、混同されて明治期に「姶良」に統一された経緯）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A7%B6%E8%89%AF%E9%83%A1"
+  },
+  "s4-akune-city-rekishi": {
+   "label": "阿久根市公式「阿久根市の歴史」（平安時代末期に英祢院と称されたこと、15世紀中期に「阿久根」に変わったこと、昭和27年4月に県下6番目の市として発足し昭和30年に三笠町と合併したこと）",
+   "url": "https://www.city.akune.lg.jp/shiseijoho/17/shinoshokai/1777.html"
+  },
+  "s4-akune-wiki": {
+   "label": "Wikipedia「阿久根市」（「アク」は魚や漁業、「ネ」は岩礁を表すという語源解釈、1451年に島津用久により阿久根と改称されたとする解説、大正14年の町制）",
+   "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82"
+  },
+  "s4-hioki-city-enkaku": {
+   "label": "日置市公式「沿革」（平成17年5月1日に東市来町・伊集院町・日吉町・吹上町が合併して日置市が誕生、平成15年12月17日に新市名称「日置市」を決定した経緯）",
+   "url": "http://www.city.hioki.lg.jp/kouho/shisejoho/gaiyo/gaiyo/enkaku.html"
+  },
+  "s4-hioki-uub": {
+   "label": "都道府県市区町村「日置市（2005年〜）市区町村変遷情報」（2005年5月1日に東市来町・日吉町・吹上町・伊集院町が新設合併して発足）",
+   "url": "https://uub.jp/upd/c/684.html"
+  },
+  "s4-hiokigun-kotobank": {
+   "label": "コトバンク「日置郡」（『日本歴史地名大系』の解説。『和名類聚抄』東急本国郡部に「比於支」の訓でみえること、近世前期はヘキ（ヘギ）と称したとも考えられること）",
+   "url": "https://kotobank.jp/word/%E6%97%A5%E7%BD%AE%E9%83%A1-3106125"
+  },
+  "s4-ichiki-city-ayumi": {
+   "label": "いちき串木野市公式「市のあゆみ」（旧串木野市・旧市来町の沿革年表）",
+   "url": "http://www.city.ichikikushikino.lg.jp/somu1/shise/koho/ayumi.html"
+  },
+  "s4-ichiki-folklore": {
+   "label": "地名の由来・名字の由来サイト「『市来』の地名の由来」（「市が立つ里」の解釈などを紹介する個人系解説）",
+   "url": "https://www.folklore2017.com/timei990/993346.htm"
+  },
+  "s4-ichiki-jlogos": {
+   "label": "JLogos「いちき串木野市」（『都市データパック』の市章・由来情報。新市名は公募により決定、串木野の語源諸説を収録）",
+   "url": "http://s.jlogos.com/d026/8509522.html"
+  },
+  "s4-ichiki-kotobank": {
+   "label": "コトバンク「市来」（『日本大百科全書（ニッポニカ）』の解説。平安時代に市来院があり、1930年に西市来村が市来町へ改称）",
+   "url": "https://kotobank.jp/word/%E5%B8%82%E6%9D%A5-31246"
+  },
+  "s4-ichiki-uub": {
+   "label": "都道府県市区町村「いちき串木野市（2005年〜）市区町村変遷情報」（2005年10月11日に市来町・串木野市が新設合併して発足）",
+   "url": "https://uub.jp/upd/c/1002.html"
+  },
+  "s4-isa-city-keikaku": {
+   "label": "伊佐市「合併市町村基本計画」（平成29年12月・令和4年6月一部改定。市公式の合併経緯資料）",
+   "url": "https://www.city.isa.kagoshima.jp/wp-content/uploads/2022/07/adb97f7754d1ef763cd71790531c130d.pdf"
+  },
+  "s4-isa-isalove": {
+   "label": "伊佐LOVE.net「伊佐市の歴史」（地域ガイドサイト。住民投票で合併が一度不成立となり、2006年に協議会を再設置して2008年に合併した経緯）",
+   "url": "http://www.isalove.net/index.php?%E4%BC%8A%E4%BD%90%E5%B8%82%E3%81%AE%E6%AD%B4%E5%8F%B2"
+  },
+  "s4-isa-kotobank": {
+   "label": "コトバンク「伊佐」（『日本大百科全書（ニッポニカ）』『デジタル大辞泉』の解説。2008年に大口市と伊佐郡菱刈町が合併して成立）",
+   "url": "https://kotobank.jp/word/%E4%BC%8A%E4%BD%90-431752"
+  },
+  "s4-isa-uub": {
+   "label": "都道府県市区町村「鹿児島県 伊佐市の新設（2008年11月1日）市区町村変遷情報」（伊佐地区合併協議会の経過、旧協議会は2005年5月10日解散）",
+   "url": "https://uub.jp/upd/u/u861.html"
+  },
+  "s4-isagun-kotobank": {
+   "label": "コトバンク「伊佐郡」（『日本歴史地名大系』の解説。近世初頭に牛屎院・答院の地域を合わせて成立した郡で、古代の伊作郡とは別）",
+   "url": "http://kotobank.jp/word/%E4%BC%8A%E4%BD%90%E9%83%A1-3105916"
+  },
+  "s4-isagun-wiki": {
+   "label": "Wikipedia「伊佐郡」（1879年の行政区画発足、1897年に北伊佐郡と菱刈郡の合併で再発足し郡域が現伊佐市の全域にあたること）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BD%90%E9%83%A1"
+  },
+  "s4-kasedashi-uub": {
+   "label": "都道府県市区町村「加世田市（1954〜2005年）市区町村変遷情報」（1954年7月15日に加世田町・万世町が合併して発足）",
+   "url": "https://uub.jp/upd/c/5400.html"
+  },
+  "s4-kushikino-kotobank": {
+   "label": "コトバンク「串木野」（『精選版日本国語大辞典』『デジタル大辞泉』の解説。旧表記「櫛木野」、昭和25年市制）",
+   "url": "https://kotobank.jp/word/%E4%B8%B2%E6%9C%A8%E9%87%8E-55197"
+  },
+  "s4-kushikinogou-kotobank": {
+   "label": "コトバンク「串木野郷」（『日本歴史地名大系』の解説。江戸時代の鹿児島藩外城で上名・下名・荒川・羽島の四か村からなる）",
+   "url": "https://kotobank.jp/word/%E4%B8%B2%E6%9C%A8%E9%87%8E%E9%83%B7-3106209"
+  },
+  "s4-makurazaki-city-nenpyo": {
+   "label": "枕崎市公式「歴史年表」（大正12年7月の町制施行で枕崎町が誕生したことなど市公式年表）",
+   "url": "https://www.city.makurazaki.lg.jp/site/ijyu/69.html"
+  },
+  "s4-makurazaki-kotobank": {
+   "label": "コトバンク「枕崎市」（『日本歴史地名大系』の解説。市名は箱枕に入った金仏が鹿籠浦の瀬崎に漂着した故事にちなむという『枕崎市史』の説、昭和24年市制）",
+   "url": "https://kotobank.jp/word/%E6%9E%95%E5%B4%8E%E5%B8%82-135916"
+  },
+  "s4-makurazaki-maff-gi": {
+   "label": "農林水産省「特定農林水産物等登録簿 登録番号第168号」（枕崎鰹節の地理的表示（GI）登録。令和7年3月18日登録、300年以上の歴史をもつ伝統食品とする）",
+   "url": "https://www.maff.go.jp/j/shokusan/gi_act/register/0168/pdf/0168_register.pdf"
+  },
+  "s4-makurazakiura-kotobank": {
+   "label": "コトバンク「枕崎浦」（『日本歴史地名大系』の解説。寛政12年（1800年）書写の諸郷村附並浦附に鹿籠郷の浦として枕崎浦がみえること）",
+   "url": "https://kotobank.jp/word/%E6%9E%95%E5%B4%8E%E6%B5%A6-3106103"
+  },
+  "s4-minamikyushu-city-koho": {
+   "label": "南九州市広報「市制施行10周年記念特別号」（平成19年12月1日に旧頴娃町・旧知覧町・旧川辺町が合併して南九州市が誕生したとする市公式広報）",
+   "url": "https://www.city.minamikyushu.lg.jp/material/files/group/6/10th.pdf"
+  },
+  "s4-minamikyushu-uub": {
+   "label": "都道府県市区町村「南九州市（2007年〜）市区町村変遷情報」（新市名の公募上位10点・最終候補「南薩／南九州」と決定の記録、市役所は知覧町役場）",
+   "url": "https://uub.jp/upd/c/1310.html"
+  },
+  "s4-minamikyushu-wiki": {
+   "label": "Wikipedia「南九州市」（市名は九州島の南部に位置することに由来すること、今尾恵介による「僭称地名」批判、読み9文字で自治体名最長、合併で川辺郡・揖宿郡が消滅したこと）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E4%B9%9D%E5%B7%9E%E5%B8%82"
+  },
+  "s4-minamisatsuma-city-gaiyo": {
+   "label": "南さつま市公式「位置・地勢・歴史」（薩摩半島の南西部に位置し南と西は東シナ海に面する、国の名勝『坊津』を含む市の概要）",
+   "url": "https://www.city.minamisatsuma.lg.jp/goshokai/gaiyo/e015402.html"
+  },
+  "s4-minamisatsuma-city-youran": {
+   "label": "南さつま市「市勢要覧（2020年版）」（平成17年11月7日に加世田市・笠沙町・大浦町・坊津町・金峰町の1市4町が合併し市制施行したとする市公式要覧）",
+   "url": "https://www.city.minamisatsuma.lg.jp/living/docs/2020shiseiyouran040314.pdf"
+  },
+  "s4-minamisatsuma-uub": {
+   "label": "都道府県市区町村「南さつま市（2005年〜）市区町村変遷情報」（新市名の公募上位・最終候補「南薩摩／南さつま」と決定の記録）",
+   "url": "https://uub.jp/upd/c/963.html"
+  },
+  "s4-shibushi-city": {
+   "label": "志布志市公式「志布志市の概況」（沿革。2006年1月1日に志布志町・有明町・松山町が合併して発足）",
+   "url": "https://www.city.shibushi.lg.jp/soshiki/1/1148.html"
+  },
+  "s4-shibushi-kanko": {
+   "label": "志布志市観光特産品協会「志布志の地名由来について」（天智天皇の献布伝説、1316年の寄進文書を文献初出とする紹介、平安時代は救仁院と呼ばれたこと）",
+   "url": "https://www.sibusi-k-t.jp/%E5%BF%97%E5%B8%83%E5%BF%97%E3%81%AE%E5%9C%B0%E5%90%8D%E7%94%B1%E6%9D%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+  },
+  "s4-shibushi-kotobank": {
+   "label": "コトバンク「志布志」（『改訂新版 世界大百科事典』『デジタル大辞泉』の解説。2006年1月に有明町・志布志町・松山町が合体して成立）",
+   "url": "https://kotobank.jp/word/%E5%BF%97%E5%B8%83%E5%BF%97-74885"
+  },
+  "s4-shibushi-wiki": {
+   "label": "Wikipedia「志布志市」（天智天皇が「志」篤き里人に感激し命名したという伝承、志布志港が中核国際港湾であること）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E5%B8%83%E5%BF%97%E5%B8%82"
+  },
+  "s4-soo-city-toukei": {
+   "label": "曽於市「曽於市統計書（平成29年版）」（平成17年7月1日に曽於郡末吉町・大隅町・財部町の3町が合併して誕生したとする市公式統計書）",
+   "url": "https://www.city.soo.kagoshima.jp/gyousei/toukei/files/toukeisyo_h29.pdf"
+  },
+  "s4-soo-kojiruien": {
+   "label": "古事類苑「地部／大隅國」（国書刊行会。『和名類聚抄』の大隅国八郡の一つとして囎唹（ソヲ）を収録すること、明治に囎唹郡を改称した経緯）",
+   "url": "https://ys.nichibun.ac.jp/kojiruien/?%E5%9C%B0%E9%83%A8/%E5%A4%A7%E9%9A%85%E5%9C%8B"
+  },
+  "s4-soo-kotobank": {
+   "label": "コトバンク「曽於」（『日本大百科全書（ニッポニカ）』の解説。2005年に曽於郡の大隅町・財部町・末吉町が合併して成立し「市名は郡名を採用」）",
+   "url": "http://kotobank.jp/word/%E6%9B%BD%E6%96%BC-553503"
+  },
+  "s4-soogun-kotobank": {
+   "label": "コトバンク「曾於郡」（『日本歴史地名大系』の解説。大隅半島北東部の郡で財部・末吉・大隅・志布志などの町を含む）",
+   "url": "https://kotobank.jp/word/%E6%9B%BE%E6%96%BC%E9%83%A1-3106618"
+  },
+  "s4-soogun-wiki": {
+   "label": "Wikipedia「曽於郡」（肥後国球磨郡との連称「球磨囎唹」がみられ熊襲と同定する説があること）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9B%BD%E6%96%BC%E9%83%A1"
+  },
+  "s4-takarabe-uub": {
+   "label": "都道府県市区町村「財部町（1926〜2005年）市区町村変遷情報」（前身の財部村が囎唹郡に属していたこと、2005年に曽於市の一部となったこと）",
+   "url": "https://uub.jp/upd/c/8260.html"
+  },
+  "s5-kanoya-fudoki": {
+   "label": "鹿屋市教育委員会『かのや風土記』歴史編（「鹿屋」の語源として熊襲の首長・鹿文の名による説、茅の名が転じた説、鹿が多かったとする説の3説を併記し、いずれも「定かではありません」とする市公式資料）",
+   "url": "https://www.city.kanoya.lg.jp/documents/9588/p61-p110_rekishi.pdf"
+  },
+  "s5-kanoya-gaiyo": {
+   "label": "鹿屋市『かのや風土記』「鹿屋市の概要」（2006年1月1日に鹿屋市・輝北町・串良町・吾平町の1市3町が合併して新「鹿屋市」が誕生したとする市公式資料）",
+   "url": "https://www.city.kanoya.lg.jp/documents/9588/p1-p22_komin.pdf"
+  },
+  "s5-kanoya-kotobank-go": {
+   "label": "コトバンク「鹿屋郷」（『日本歴史地名大系』の解説。肝属川上流の笠野原・鹿屋原の台地に挟まれた郷で、近世は肝属郡に属したとする）",
+   "url": "https://kotobank.jp/word/%E9%B9%BF%E5%B1%8B%E9%83%B7-3106456"
+  },
+  "s5-kanoya-wiki": {
+   "label": "Wikipedia「鹿屋市」（平安時代中期の『和名類聚抄』に大隅国姶羅郡の郷として「鹿屋」がみえ、地名としての初出とする紹介、および初代鹿屋市の市制施行の経緯）",
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B1%8B%E5%B8%82"
+  },
+  "s5-sendai-city-intro": {
+   "label": "薩摩川内市公式「薩摩川内市の紹介」（平成16年10月12日の1市4町4村の合併で「薩摩川内市」が誕生したとする市公式プロフィール）",
+   "url": "https://www.city.satsumasendai.lg.jp/soshiki/1042/2/10/1/633.html"
+  },
+  "s5-sendai-koho-yurai": {
+   "label": "『広報薩摩川内』2014年2月号「薩摩川内市の名前の由来」（鹿児島純心女子大学との共同企画。川内市歴史資料館編『川内市文化財要覧』を参考文献に、「千台」の旧表記、ニニギノミコトの神話説、川の内側説、島津吉貴による「川内」への統一を紹介）",
+   "url": "https://www.city.satsumasendai.lg.jp/material/files/group/2/224-14-15.pdf"
+  },
+  "s5-sendai-kotobank": {
+   "label": "コトバンク「川内」（『精選版日本国語大辞典』の解説。瓊瓊杵尊が都を置いた地と伝えられ、奈良時代に薩摩国の国府・国分寺が置かれたとする）",
+   "url": "http://kotobank.jp/word/%E5%B7%9D%E5%86%85-48176"
+  },
+  "s5-sendai-uub": {
+   "label": "都道府県市区町村「薩摩川内市（2004年〜）市区町村変遷情報」（川薩地区法定合併協議会による新設合併の経過と1929年の川内町発足・1940年の市制施行の記録）",
+   "url": "https://uub.jp/upd/c/948.html"
+  },
+  "s5-sendai-wiki": {
+   "label": "Wikipedia「薩摩川内市」（新市名決定までの経緯として、川内市の単独継承が見送られた事情と仙台市との混同回避の観点を紹介）",
+   "url": "https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/46-いちき串木野市",
+   "code": "462195",
+   "names": {
+    "ja": "いちき串木野市",
+    "reading": "いちきくしきのし",
+    "aliases": [
+     "串木野市",
+     "市来町",
+     "櫛木野"
+    ]
+   },
+   "user_terms": [
+    "串木野",
+    "いちき",
+    "マグロのまち",
+    "さつま揚げ発祥の地"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）10月11日、串木野市と日置郡市来町が新設合併して発足した市。市名は旧市来町の「市来（いちき）」を平仮名にし、旧串木野市の「串木野」をそのまま連ねた合成地名で、平仮名と漢字を組み合わせた全国的にも珍しい形式である。「串木野」は近世の外城名に遡り、旧表記に「櫛木野」がある。「市来」は平安時代に市来院が置かれた古い地名である。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「いちき串木野」という市名自体は2005年の合併で生まれた命名そのものが初出。構成要素では「市来」が平安時代の市来院に、「串木野」が近世の串木野郷に遡るが、各語の文献上の確かな初出は今回特定できなかった"
+   },
+   "claims": [
+    {
+     "text": "いちき串木野市の地方公共団体コードは462195である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "いちき串木野市は平成17年（2005年）10月11日、串木野市と日置郡市来町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-ichiki-city-ayumi",
+      "s4-ichiki-uub"
+     ]
+    },
+    {
+     "text": "新市名は公募により決定され、旧市来町の「市来」と旧串木野市の「串木野」を連ねた合成地名である",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-ichiki-jlogos"
+     ]
+    },
+    {
+     "text": "串木野は昭和25年（1950年）に市制を施行した旧市で、「串木野」の旧表記として「櫛木野」がある",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-kushikino-kotobank"
+     ]
+    },
+    {
+     "text": "串木野郷は江戸時代の鹿児島藩の外城の一つで、上名村・下名村・荒川村・羽島村の四か村からなっていた",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-kushikinogou-kotobank"
+     ]
+    },
+    {
+     "text": "「串木野」の語源については、冠岳神社の祭神・櫛御気命にちなむという説、葦の生い茂る所を意味するアイヌ語に由来するという説、神が臥木（ふしき）で仮宿した故事に由来するという説などが伝えられ、定説はない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "s4-ichiki-jlogos"
+     ]
+    },
+    {
+     "text": "市来には平安時代に市来院（倉院）が置かれており、昭和5年（1930年）に西市来村が町制施行と同時に市来町と改称した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-ichiki-kotobank"
+     ]
+    },
+    {
+     "text": "「市来」は「市が立つ里」の意味であるという解釈が地名解説で紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "s4-ichiki-folklore"
+     ]
+    }
+   ],
+   "column": {
+    "title": "平仮名と漢字を連ねた市名",
+    "text": "合併した両市町の名前をどちらも残すため、「市来」を平仮名の「いちき」にして「串木野」の前に連ねたのが「いちき串木野市」である。平仮名部分と漢字部分が同居する市名は全国でも例が少なく、旧市来町域の住民にとっては、自治体名としては消えた「市来」の読みだけが市名の先頭に残った形になった。なお旧串木野市の「串木野」には「櫛木野」という旧表記があり、現在の表記自体も歴史の中で定着したものである。",
+    "sources": [
+     "s4-ichiki-jlogos",
+     "s4-kushikino-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-日置市"
+   ],
+   "unknowns": [
+    "「串木野」「市来」それぞれの文献上の確かな初出（出典名と年代）は特定できなかった",
+    "新市名の公募件数や最終候補の一覧は、合併協議会の一次資料では確認できなかった",
+    "「市来」を平仮名表記にした決定理由の公式記録は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-伊佐市",
+   "code": "462241",
+   "names": {
+    "ja": "伊佐市",
+    "reading": "いさし",
+    "aliases": [
+     "大口市",
+     "菱刈町",
+     "伊佐郡"
+    ]
+   },
+   "user_terms": [
+    "大口",
+    "菱刈",
+    "いさ",
+    "鹿児島の北海道"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成20年（2008年）11月1日、大口市と伊佐郡菱刈町が新設合併して発足した市。市名は両市町を含む旧郡名「伊佐郡」に由来する。ただしこの伊佐郡は近世初頭に中世の牛屎院・答院の地域を合わせて成立した郡であり、古代薩摩国の郡の一つだった伊作郡（現在の日置市域）とは字面が似るだけで別の郡である。合併は一度、住民投票の結果で不成立になった経緯がある。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「伊佐郡」は近世初頭の成立と『日本歴史地名大系』が紹介するが、「伊佐」の語そのものの初出・語源は確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "伊佐市の地方公共団体コードは462241である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "伊佐市は平成20年（2008年）11月1日、大口市と伊佐郡菱刈町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-isa-city-keikaku",
+      "s4-isa-kotobank"
+     ]
+    },
+    {
+     "text": "市名「伊佐」は、両市町を含む旧郡名である伊佐郡の名を引き継いだものである",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-isa-kotobank",
+      "s4-isa-uub"
+     ]
+    },
+    {
+     "text": "薩摩国の伊佐郡は近世初頭に成立した郡で、中世の牛屎院・答院の地域を合わせたものであり、薩摩半島中央西部にあった古代の伊作郡とは郡域もまったく異なる別の郡である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-isagun-kotobank"
+     ]
+    },
+    {
+     "text": "明治30年（1897年）に北伊佐郡と大隅国菱刈郡が合併して伊佐郡が再発足し、その郡域は現在の伊佐市の全域にあたっていた",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-isagun-wiki"
+     ]
+    },
+    {
+     "text": "合併協議は一度不成立に終わっており、旧伊佐地区合併協議会は平成17年（2005年）5月10日に解散し、平成18年（2006年）8月28日に協議会が再設置されて合併に至った",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-isa-uub",
+      "s4-isa-isalove"
+     ]
+    },
+    {
+     "text": "旧菱刈町域には金・銀を産出する菱刈鉱山があり、日本大百科全書は伊佐市の産業として鉱山への言及を含む",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-isa-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "一度は否決された「伊佐市」",
+    "text": "「伊佐市」という名前は、実は一度お蔵入りした名前である。2000年代初頭に大口市と菱刈町は合併協議会を立ち上げ、新市名を「伊佐市」と決めたが、菱刈町で行われた住民投票で反対が賛成を上回り、協議会は2005年に解散した。その後2006年に協議会が再び立ち上げられ、新市名は前回と同じ「伊佐市」として合意され、2008年にようやく市が発足した。郡名という、どちらの自治体の名前でもない「中立の名」が、二度にわたって選ばれたことになる。",
+    "sources": [
+     "s4-isa-isalove",
+     "s4-isa-uub"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "「伊佐」という語自体の語源は専門資料で確認できなかった",
+    "新市名の公募・選定過程の詳細（候補一覧等）は合併協議会の一次資料では確認できなかった",
+    "1897年の伊佐郡再発足についてはWikipedia以外の高次資料で裏付けが取れなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-出水市",
+   "code": "462080",
+   "names": {
+    "ja": "出水市",
+    "reading": "いずみし",
+    "aliases": [
+     "出水町",
+     "米ノ津町"
+    ]
+   },
+   "user_terms": [
+    "ツルの渡来地",
+    "出水兵児のふるさと",
+    "いずみ"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "鹿児島県北端の市で、昭和29年（1954年）4月1日に出水町・米ノ津町が合併して発足し、平成18年（2006年）3月13日に野田町・高尾野町と合併して現在の市域となった。「出水」は薩摩国の郡名として『和名類聚抄』に見える古い地名で、市は、出水平野の扇状地の扇端に湧水が豊かだったことに地名が由来するといわれると説明する。ツルの渡来地として知られる。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": "『和名類聚抄』",
+    "note": "薩摩国出水郡として見えることを二次資料が紹介する。原文を直接確認していないため紹介形で記録する"
+   },
+   "claims": [
+    {
+     "text": "出水市の地方公共団体コードは462080である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "「出水」という地名は、扇状地の扇端部のいたるところに湧水が見られた、その湧水の豊かさに由来するといわれていると、出水市郷土誌に基づく市の環境基本計画は記す",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-izumi-city-env"
+     ]
+    },
+    {
+     "text": "現在の出水市域は『和名類聚抄』に見える薩摩国出水郡の地であり、江戸時代には薩摩藩の出水郷が置かれ、その武士団は「出水兵児（いずみへこ）」と呼ばれたとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s3-izumi-wiki"
+     ]
+    },
+    {
+     "text": "昭和29年（1954年）4月1日に出水町と米ノ津町が合併して出水市が発足し、同年10月に大川内村を編入、平成18年（2006年）3月13日に野田町・高尾野町と合併して新・出水市となったとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s3-izumi-wiki"
+     ]
+    },
+    {
+     "text": "出水平野の背後の山麓部には扇状地が発達して地表水は少なく、雨水は伏流水となり、中心部の地下水位は地表から2〜3mと浅いことが出水地域の特徴であると市は説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-izumi-city-env"
+     ]
+    },
+    {
+     "text": "ツルの渡来地は国の特別天然記念物「鹿児島県のツルおよびその渡来地」に指定され、出水市はツルの里として全国に名を知られている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-izumi-city-env"
+     ]
+    }
+   ],
+   "column": {
+    "title": "湧き水の平野に、ツルが冬を越しに来る",
+    "text": "出水平野は、川が山を出たところに広がる扇状地である。扇状地では降った雨が地下に潜り、扇の末端で湧き水となって現れる。出水の市街地の地下水位は地表からわずか2〜3mと浅く、かつては扇端のいたるところに湧水が見られた。その水の豊かさが「出水」という名になったといわれる。冬、この水の豊かな平野にシベリアから1万羽を超えるツルが渡ってくる。古代の郡名として残った「出水」は、水が出る土地という意味を千年にわたって裏切り続けていない。",
+    "sources": [
+     "s3-izumi-city-env"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "『和名類聚抄』における「出水郡」の読み（訓）は確認できなかった",
+    "「出水」の名が付けられた主体と正確な年代は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-南さつま市",
+   "code": "462209",
+   "names": {
+    "ja": "南さつま市",
+    "reading": "みなみさつまし",
+    "aliases": [
+     "加世田市",
+     "南薩摩"
+    ]
+   },
+   "user_terms": [
+    "南薩",
+    "加世田",
+    "坊津",
+    "みなみさつま"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）11月7日、加世田市・笠沙町・大浦町・坊津町・金峰町の1市4町が新設合併して発足した、薩摩半島南西部の市。市名は公募で最も多く寄せられた「南さつま」で、最終候補には読みがまったく同じ「南薩摩」も残り、漢字表記でなく平仮名表記が選ばれた。「さつま」は旧国名・薩摩の平仮名表記であり、市域は薩摩国の南部（南薩）にあたる。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「南さつま」という市名自体は2005年の合併で生まれた命名そのものが初出。旧中心地名「加世田」は近世の郷名に遡るが、その確かな初出は今回確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "南さつま市の地方公共団体コードは462209である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "南さつま市は平成17年（2005年）11月7日、加世田市・笠沙町・大浦町・坊津町・金峰町の1市4町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-minamisatsuma-city-youran"
+     ]
+    },
+    {
+     "text": "本市は薩摩半島の南西部に位置し、南側と西側は東シナ海に面する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-minamisatsuma-city-gaiyo"
+     ]
+    },
+    {
+     "text": "新市名は公募で「南さつま」が最も多く寄せられ、最終候補は読みが同じ「南薩摩（みなみさつま）」と「南さつま」の2点で、平仮名表記の「南さつま」が選ばれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-minamisatsuma-uub"
+     ]
+    },
+    {
+     "text": "旧中心の加世田市は昭和29年（1954年）7月15日、加世田町と万世町が合併して発足した市であった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-kasedashi-uub"
+     ]
+    },
+    {
+     "text": "市域の坊津は古くからの良港で知られ、一帯は国の名勝『坊津』に指定されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-minamisatsuma-city-gaiyo"
+     ]
+    }
+   ],
+   "column": {
+    "title": "読みが同じ2つの最終候補",
+    "text": "南さつま市の市名決定は、最終候補が「南薩摩」と「南さつま」という、読みがまったく同じ2案に絞られた珍しい決選だった。争われたのは意味ではなく表記であり、結果は漢字の重厚さよりも平仮名のやわらかさを取った「南さつま」の勝利だった。公募の上位には「南薩」「薩南」「川辺」「加世田」なども並んでおり、旧郡名や旧市名を推す声も少なくなかったことがうかがえる。",
+    "sources": [
+     "s4-minamisatsuma-uub"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-南九州市",
+    "muni/46-枕崎市",
+    "muni/46-日置市"
+   ],
+   "unknowns": [
+    "市名の命名理由を述べた合併協議会・市公式の一次説明は確認できなかった（公募結果と候補の変遷は変遷情報データベースによる）",
+    "旧中心地名「加世田」の語源と確かな初出は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-南九州市",
+   "code": "462233",
+   "names": {
+    "ja": "南九州市",
+    "reading": "みなみきゅうしゅうし",
+    "aliases": [
+     "知覧町",
+     "川辺町",
+     "頴娃町"
+    ]
+   },
+   "user_terms": [
+    "知覧",
+    "川辺",
+    "みなみきゅうしゅう",
+    "知覧茶のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成19年（2007年）12月1日、揖宿郡頴娃町・川辺郡知覧町・川辺町の3町が新設合併して発足した市。市名は九州の南部に位置することに由来する方角地名で、県名も旧国名も含まない。読みの「みなみきゅうしゅう」は9文字で自治体名の読みとしては日本最長とされる一方、市域が九州南部の一部にすぎないことから「広域地名の僭称」との批判も受けている。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「南九州」という市名自体は2007年の合併で生まれた命名そのものが初出。広域地域名としての「南九州」はそれ以前から一般に使われていた"
+   },
+   "claims": [
+    {
+     "text": "南九州市の地方公共団体コードは462233である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "南九州市は平成19年（2007年）12月1日、旧頴娃町・旧知覧町・旧川辺町の3町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-minamikyushu-city-koho",
+      "s4-minamikyushu-uub"
+     ]
+    },
+    {
+     "text": "市名「南九州」は、市が九州島の南部に位置することに由来する方角地名である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-minamikyushu-wiki"
+     ]
+    },
+    {
+     "text": "新市名は公募の上位案から絞り込まれ、最終候補の「南薩（なんさつ）」と「南九州」の2点から「南九州」が選ばれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-minamikyushu-uub"
+     ]
+    },
+    {
+     "text": "市名の読み仮名「みなみきゅうしゅう」は9文字となり、日本の自治体名の読みとしては最長である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-minamikyushu-wiki"
+     ]
+    },
+    {
+     "text": "地名研究者の今尾恵介は、九州南部のうちの一部地域にすぎない本市が「南九州」を名乗ることを「僭称地名」の筆頭格として批判している",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "s4-minamikyushu-wiki"
+     ]
+    },
+    {
+     "text": "この合併で川辺郡と揖宿郡はともに消滅し、市役所は旧知覧町役場に置かれた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-minamikyushu-uub",
+      "s4-minamikyushu-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "候補にあった「平和」という市名",
+    "text": "南九州市の新市名公募の上位10点には、「薩南」「南薩」といった地域名に混じって「平和（へいわ）」という案が入っていた。旧知覧町には特攻隊の出撃基地だった知覧特攻平和会館があり、平和への願いを市名に託そうという発想だったとみられる。最終候補は「南薩」と「南九州」に絞られ、選ばれたのは九州全体を背負う大きな名だった。その大胆さゆえ「僭称」との批判も受けるが、読みの長さ日本一という記録とともに、この市名は平成の大合併が生んだ最も議論を呼ぶ命名の一つになっている。",
+    "sources": [
+     "s4-minamikyushu-uub",
+     "s4-minamikyushu-wiki"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-南さつま市",
+    "muni/46-枕崎市",
+    "muni/46-指宿市"
+   ],
+   "unknowns": [
+    "市名の選定理由を述べた合併協議会・市公式の一次説明は確認できなかった（公募結果と候補の変遷は変遷情報データベースとWikipediaによる）",
+    "「平和」が候補に入った理由（知覧の特攻平和会館との関係）は推測の域を出ず、公式記録では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-垂水市",
+   "code": "462144",
+   "names": {
+    "ja": "垂水市",
+    "reading": "たるみずし",
+    "aliases": [
+     "垂水町"
+    ]
+   },
+   "user_terms": [
+    "桜島の対岸の市",
+    "鹿児島湾フェリーの玄関口",
+    "たるみず"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "大隅半島西岸、桜島の対岸にある市。昭和30年（1955年）に垂水町・牛根村・新城村が合併して垂水町となり、昭和33年（1958年）10月1日に市制を施行した。「垂水」は中世後期から見える地名で、古語の「たるみ」は垂れ落ちる水・滝を意味する。江戸時代には市来・中俣の両村一帯が垂水村と称された。",
+   "first_attestation": {
+    "era": "室町時代",
+    "year_western": 1474,
+    "document": "雲遊雑記伝（行脚僧の雑録）",
+    "note": "『日本歴史地名大系』が紹介する文明6年（1474年）の記録に、下大隅の石井氏と「垂水の丹波守」との関係が見える。同大系は「垂水」を中世後期から見える地名とする"
+   },
+   "claims": [
+    {
+     "text": "垂水市の地方公共団体コードは462144である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "昭和30年（1955年）に垂水町と牛根・新城の2村が合併し、昭和33年（1958年）に市制を施行した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s3-tarumizu-kotobank"
+     ]
+    },
+    {
+     "text": "「垂水」は中世後期から見える地名で、下大隅郡に含まれ、江戸時代の市来・中俣両村が垂水村と称されたことから、この両村一帯に比定される",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s3-tarumizu-kotobank"
+     ]
+    },
+    {
+     "text": "「たるみ（垂水）」は垂れ落ちる水・滝を意味する古語で、『万葉集』に「石走る垂水の水をむすびて飲みつ」の用例があると『精選版日本国語大辞典』は紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s3-tarumizu-kotobank"
+     ]
+    },
+    {
+     "text": "蒲生氏系図は、保安4年（1123年）ごろに舜清が垂水に下向して垂水城を拠点にしたと伝える",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s3-tarumizu-kotobank"
+     ]
+    },
+    {
+     "text": "垂水市は鹿児島湾に面し、鹿児島市（鴨池港）との間に大型カーフェリーが就航する大隅半島の表玄関である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s3-tarumizu-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「垂水」は滝のこと――万葉の古語が残る地名",
+    "text": "「たるみず」と読むこの地名の核は、古語の「たるみ」である。垂れ落ちる水、すなわち滝を意味し、『万葉集』にも「石走（いはばし）る垂水の水」と歌われた。だから「垂水」は特定の固有名詞というより、水の垂れる地形を指す普通名詞の地名で、神戸市垂水区や大阪府吹田市にも同名の地名が残る。鹿児島の垂水は中世後期から記録に見え、シラス台地の崖から水の湧く大隅半島西岸の地形と響き合う。桜島を正面に望む小さな市の名は、千二百年前の歌の言葉をいまに伝えている。",
+    "sources": [
+     "s3-tarumizu-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "この地が「垂水」と呼ばれるようになった具体的な理由（どの滝や水源を指したか）は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-奄美市",
+   "code": "462225",
+   "names": {
+    "ja": "奄美市",
+    "reading": "あまみし",
+    "aliases": [
+     "名瀬市"
+    ]
+   },
+   "user_terms": [
+    "奄美大島の中心都市",
+    "世界自然遺産の島の市",
+    "あまみ"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成18年（2006年）3月20日、名瀬市・住用村・笠利町が合併して発足した。市名は奄美大島の名「奄美」をそのまま採ったもので、合併協議は当初1市2町3村で始まったが、瀬戸内町・宇検村・大和村が離脱して3市町村での発足となった。「奄美」は古く「海見」「阿麻弥」とも表記され、県の資料は琉球国の始祖アマミクの降臨によるという伝承を紹介する。旧中心地・名瀬の語源には定説がない。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "鹿児島県の資料は古い表記として「海見」「阿麻弥」「奄美」を挙げるが、初出の文献名と年代は確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "奄美市の地方公共団体コードは462225である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "奄美市は平成18年（2006年）3月20日、名瀬市・住用村・笠利町が合併して誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-amami-city-tanjo"
+     ]
+    },
+    {
+     "text": "合併協議は当初1市2町3村で始まったが、平成16年（2004年）に住民投票の結果により瀬戸内町が、平成17年（2005年）に宇検村・大和村が協議会を離脱し、最終的に1市1町1村の合併となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-amami-city-tanjo"
+     ]
+    },
+    {
+     "text": "「奄美」は奄美大島および奄美諸島全域を指す名で、古くは「海見」「阿麻弥」「奄美」と表記されていたと鹿児島県は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-kagoshima-pref"
+     ]
+    },
+    {
+     "text": "奄美地区は慶長14年（1609年）の島津氏による琉球侵攻以前は琉球（沖縄）国に属していた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-kagoshima-pref"
+     ]
+    },
+    {
+     "text": "旧中心地である名瀬の名の由来については、魚瀬（ナゼ）からきたとする説、空地（ナージ）からきたとする説、大島の中地（ナージ）からきたとする説があるが、定説はないと鹿児島県は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "f-kagoshima-pref"
+     ]
+    },
+    {
+     "text": "「奄美」の名の由来は、琉球国の始祖「阿麻弥久（アマミク）」がこの地に降臨したことによるといわれる",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-kagoshima-pref"
+     ]
+    }
+   ],
+   "column": {
+    "title": "島の名前をそのまま市名に――6市町村の協議から3市町村の発足へ",
+    "text": "奄美市の合併協議は、奄美大島の全6市町村（1市2町3村）で始まった。だが住民投票で瀬戸内町が離脱し、宇検村・大和村も続いて、残ったのは名瀬市・笠利町・住用村の3市町村だった。2006年に生まれた新市の名は、島そのものの名「奄美」。県の資料によれば、この名は古く「海見」「阿麻弥」とも書かれ、琉球の始祖アマミクが降臨した地という伝承を持つ。市域は島の約4割にとどまるが、市名は島全体の名を掲げることになった。沖縄の文化圏に属しながら鹿児島県にあるという、この島の二重の帰属も「奄美」という古い名の中に折り重なっている。",
+    "sources": [
+     "s3-amami-city-tanjo",
+     "f-kagoshima-pref"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "「奄美」の語源の定説は確認できなかった（県公式資料はアマミク降臨の伝承を紹介するのみ）",
+    "「阿麻弥」「海見」表記の初出の文献と年代は確認できなかった",
+    "新市名「奄美市」の選定過程（公募の有無など）は市公式ページでは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-姶良市",
+   "code": "462250",
+   "names": {
+    "ja": "姶良市",
+    "reading": "あいらし",
+    "aliases": [
+     "姶良町",
+     "加治木町",
+     "蒲生町",
+     "始羅郡"
+    ]
+   },
+   "user_terms": [
+    "あいら",
+    "加治木",
+    "蒲生",
+    "姶良カルデラ"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成22年（2010年）3月23日、姶良郡の加治木町・姶良町・蒲生町が新設合併して発足した市で、鹿児島県内では平成の大合併の最後に生まれた市である。市名は3町共通の郡名「姶良郡」に由来するが、この郡名には取り違えの歴史がある。市域は江戸時代に始羅郡と呼ばれた土地で、古代大隅国の姶羅郡は現在の鹿屋市付近の別郡だったものが混同され、明治期に「姶良」の表記が正式名として定着した。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": null,
+    "document": null,
+    "note": "市域を指す郡名としては江戸時代の「始羅郡」が実体で、「姶良」の表記は古代の姶羅郡（鹿屋市付近）との混同を経て明治期に統一されたもの。始羅・姶羅それぞれの文献上の確かな初出は今回確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "姶良市の地方公共団体コードは462250である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "姶良市は平成22年（2010年）3月23日、姶良郡加治木町・姶良町・蒲生町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-aira-uub"
+     ]
+    },
+    {
+     "text": "市名は3町に共通する郡名「姶良郡」に由来し、1955年に発足した旧姶良町も「三町村の郷土に共通するという理由」から郡名を町名に採用していた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-aira-kagoshima-u"
+     ]
+    },
+    {
+     "text": "現在の姶良郡の地域は江戸時代には始羅郡（しらぐん）と呼ばれており、古代の大隅国に存在した姶羅郡（あいらぐん）とは別の郡である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-airagun-wiki"
+     ]
+    },
+    {
+     "text": "古代の姶羅郡は現在の鹿屋市付近を指し中世までに肝属郡へ編入された郡で、始羅郡がこれと混同されたため明治期に「姶良」へ表記が統一された",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-airagun-wiki"
+     ]
+    },
+    {
+     "text": "姶良市は鹿児島湾の奥側に位置し、巨大噴火で形成された姶良カルデラの北西側の外輪山にあたる位置にある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-aira-wiki"
+     ]
+    },
+    {
+     "text": "「姶良カルデラ」という名称は地名の姶良に由来し、松本唯一が1933年に「姶良火山」の名を提唱、1943年に正式に命名したもので、地名のほうがカルデラの名より先である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-aira-caldera-kagoshima-u"
+     ]
+    }
+   ],
+   "column": {
+    "title": "取り違えられて定着した郡名",
+    "text": "「姶良」という名は、本来よその郡の名前だった。古代の大隅国にあった姶羅郡は、現在の鹿屋市あたりの郡で、中世までに消えた。一方、現在の姶良市一帯は江戸時代まで始羅郡と呼ばれていたが、読みの似た両者が混同され、明治期に表記が「姶良」に統一されてしまった。つまり姶良市は、別の場所の古代の郡名を「借りた」土地に、1955年に共通の名として郡名を採用し、2010年に市名にした、という重なった経緯を持つ。姶良カルデラという世界的に知られる地学用語も、源をたどればこの取り違えの先に生まれた地名から名付けられている。",
+    "sources": [
+     "s4-airagun-wiki",
+     "s4-aira-caldera-kagoshima-u"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-鹿屋市",
+    "muni/46-霧島市"
+   ],
+   "unknowns": [
+    "始羅郡・姶羅郡の混同と表記統一の経緯はWikipedia以外の高次資料で裏付けが取れなかった",
+    "「始羅」「姶良」の語自体の語源は確認できなかった",
+    "2010年の市名選定過程（公募の有無等）は一次資料で確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-志布志市",
+   "code": "462217",
+   "names": {
+    "ja": "志布志市",
+    "reading": "しぶしし",
+    "aliases": [
+     "志布志町",
+     "有明町",
+     "松山町"
+    ]
+   },
+   "user_terms": [
+    "しぶし",
+    "志布志港",
+    "志布志湾",
+    "志布志市志布志町志布志"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成18年（2006年）1月1日、曽於郡の志布志町・有明町・松山町が新設合併して発足した市。市名は中心町だった旧志布志町の名を継承した。「志布志」は「志」の字を重ねた名で、天智天皇が布を献上した里人の厚い志に感激して名付けたという伝承で知られるが、文献上の初出は鎌倉末期（1316年）の寄進文書とされる。市役所のある大字は「志布志町志布志」で、「志」が何重にも連なる住所表記でも有名である。",
+   "first_attestation": {
+    "era": "鎌倉時代",
+    "year_western": 1316,
+    "document": "宝満寺再興に際する寄進文書（志布志津の一角を寄進した文書）",
+    "note": "志布志市観光特産品協会が「文献上に初めて現れる」用例として紹介するもの。文書そのものは未確認のため、主張は紹介の形で格下げして記録した"
+   },
+   "claims": [
+    {
+     "text": "志布志市の地方公共団体コードは462217である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "志布志市は平成18年（2006年）1月1日、曽於郡の志布志町・有明町・松山町が新設合併して発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-shibushi-city",
+      "s4-shibushi-kotobank"
+     ]
+    },
+    {
+     "text": "市名は合併前の中心町であった志布志町の名を引き継いだものである",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-shibushi-wiki"
+     ]
+    },
+    {
+     "text": "「志布志」の文献上の初出は鎌倉末期の1316年、宝満寺再興の折に志布志津の一角を宝満寺に寄進した文書であると志布志市観光特産品協会は紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-shibushi-kanko"
+     ]
+    },
+    {
+     "text": "平安時代、この地域は救仁院と呼ばれ、前川の河口部は荘園・島津荘の港（水門）としての役割を果たしていたと同協会は紹介している",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-shibushi-kanko"
+     ]
+    },
+    {
+     "text": "この地を訪れた天智天皇が、布を献上した土地の女性と、その召使いの女性の厚い志に感激し、「上下より布を志す、誠にこれは上下の志布志である」と述べて一帯を志布志と呼ぶようになったという伝承がある",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-shibushi-kanko",
+      "s4-shibushi-wiki"
+     ]
+    },
+    {
+     "text": "市の南部の志布志湾に面する志布志港は、中核国際港湾に指定されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-shibushi-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「志」が四つ重なる住所",
+    "text": "志布志市の市役所の住所は「志布志市志布志町志布志二丁目」。「しぶしし・しぶしちょう・しぶし」と同じ音が三段に重なり、漢字では「志」の字が4つ連なる。合併前の旧志布志町の中心地名をそのまま残した結果生まれた表記で、早口言葉のような住所として全国に知られる。もとをたどれば、布を献じた人々の「志」に天皇が感激したという伝説の名であり、言葉遊びのような現代の住所表記の底には、7世紀の天皇にまつわる物語が横たわっている（伝承はあくまで伝承として、市もそのように紹介している）。",
+    "sources": [
+     "s4-shibushi-kanko",
+     "s4-shibushi-wiki"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-曽於市",
+    "muni/45-串間市"
+   ],
+   "unknowns": [
+    "「志布志」の語源について、伝説以外の言語学的な解釈は専門辞典で確認できなかった",
+    "1316年の寄進文書は観光特産品協会の紹介経由でのみ確認しており、文書そのものは未確認である",
+    "2006年の市名選定過程の一次資料は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-指宿市",
+   "code": "462101",
+   "names": {
+    "ja": "指宿市",
+    "reading": "いぶすきし",
+    "aliases": [
+     "湯豊宿"
+    ]
+   },
+   "user_terms": [
+    "指宿の読み方と由来",
+    "なぜ指宿と書くの",
+    "指宿市はいつできたの",
+    "指宿の温泉と地名"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "「指宿（いぶすき）」は難読地名として知られるが、その読みの核は「湯」を含む古い形にある。指宿市の文化財計画によれば、地名の初出は927年編纂の『延喜式』とされ、郷土史家・小川亥三郎は本来の意味を「湯生村（ユフスキ）」とし、713年の好字令の影響で好字の「指宿」に書き換えられたとする説を唱えた。1954年に指宿町と今和泉村の合併で市となり、2006年に山川町・開聞町と合併して現在の市になった。",
+   "first_attestation": {
+    "era": "延長5年",
+    "year_western": 927,
+    "document": "延喜式",
+    "note": "指宿市の文化財保存活用地域計画が、小川亥三郎の研究として紹介する初出。『和名類聚抄』には読みが「以夫須岐（イフスキ）」と記されるという"
+   },
+   "claims": [
+    {
+     "text": "指宿の地名の初出は927年（延長5年）に編纂された『延喜式』とされ、『和名類聚抄』には読みが「以夫須岐（イフスキ）」と記されていると、指宿市の文化財保存活用地域計画は紹介する（地方公共団体コードは462101）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-ibusuki-city-bunkazai",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "郷土史家の小川亥三郎は、「指宿」の本来の意味は「湯生村（ユフスキ）」であり、713年（和銅6年）の諸国郡郷名著好字令の影響で好字の「指宿」になったとする説を唱えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "k6-ibusuki-city-bunkazai"
+     ]
+    },
+    {
+     "text": "1543年（天文12年）に津曲兼任が建立した板碑には「湯豊宿（ユブスキ）」の表記があり、本来の意味に近い書き方が中世まで残っていたことがうかがえる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-ibusuki-city-bunkazai"
+     ]
+    },
+    {
+     "text": "市域には「湯」を含む小字が周辺に比べて圧倒的に多く、地名群の上からも温泉と結びついた土地であることがうかがえると同計画は指摘する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-ibusuki-city-bunkazai"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）4月、指宿町と今和泉村が合併して指宿市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-ibusuki-city-bunkazai"
+     ]
+    },
+    {
+     "text": "2006年（平成18年）1月1日、山川町・開聞町と合併して、新しい指宿市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "k6-ibusuki-city-bunkazai"
+     ]
+    }
+   ],
+   "column": {
+    "title": "好字令で書き換えられた名前——「湯」から「指」へ",
+    "text": "奈良時代の713年、政府は「郡や郷の名には良い字を二つ使え」という令を出した（諸国郡郷名著好字令）。小川亥三郎の研究によれば、「指宿」もこの波に洗われた名の一つで、もとは「湯生村（ユフスキ）」、つまり温泉の湧く里をそのまま表す名だったという。ところが16世紀の板碑には「湯豊宿」の字が残っており、公式の書き換えの後も、土地の人々の記憶の中では「湯」の名が生き続けていたことがわかる。難読地名「指宿」の半分は、千年以上前の漢字政策の名残なのである。",
+    "sources": [
+     "k6-ibusuki-city-bunkazai"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "『延喜式』における「指宿」の具体的な表記字形は、市の計画PDFの抽出で欠けた部分があり、原典での直接確認が未了",
+    "小川亥三郎の説に対する学界の評価や、対抗する語源説の有無は本調査では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-日置市",
+   "code": "462161",
+   "names": {
+    "ja": "日置市",
+    "reading": "ひおきし",
+    "aliases": [
+     "東市来町",
+     "伊集院町",
+     "日吉町",
+     "吹上町",
+     "日置郡"
+    ]
+   },
+   "user_terms": [
+    "ひおき",
+    "伊集院",
+    "吹上浜",
+    "日置郡のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）5月1日、日置郡の東市来町・伊集院町・日吉町・吹上町の4町が新設合併して発足した市。市名は4町が属した郡名「日置郡」に由来し、合併により郡は消滅して名だけが市名として残った。日置郡は『和名類聚抄』に「比於支」の訓でみえる古い郡名で、近世前期には「ヘキ（ヘギ）」とも読まれたとされる。市域には中世の日置郷の遺称地である大字・日置（現日吉町日置）が残る。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": "和名類聚抄",
+    "note": "『日本歴史地名大系』が、東急本の国郡部に薩摩国日置郡が「比於支（ひおき）」の訓でみえることを紹介するもの。和名抄そのものは未確認のため主張は紹介の形で格下げして記録した"
+   },
+   "claims": [
+    {
+     "text": "日置市の地方公共団体コードは462161である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "日置市は平成17年（2005年）5月1日、東市来町・伊集院町・日吉町・吹上町の4町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-hioki-city-enkaku",
+      "s4-hioki-uub"
+     ]
+    },
+    {
+     "text": "新市名称「日置市」は、合併協議の途上だった平成15年（2003年）12月17日に日置合併協議会で決定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-hioki-city-enkaku"
+     ]
+    },
+    {
+     "text": "市名は4町が属していた日置郡の郡名に由来し、2005年の合併で日置郡は消滅した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-hioki-uub"
+     ]
+    },
+    {
+     "text": "『和名類聚抄』東急本の国郡部には薩摩国日置郡が「比於支」の訓でみえることを『日本歴史地名大系』が紹介している",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-hiokigun-kotobank"
+     ]
+    },
+    {
+     "text": "日置郡は近世前期には「ヘキ（ヘギ）」と称したとも考えられている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "contested",
+     "sources": [
+      "s4-hiokigun-kotobank"
+     ]
+    },
+    {
+     "text": "市域の現・日吉町日置は中世の日置郷の遺称地であり、日置村は1955年に吉利村と合併して日吉町の一部となった",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-hioki-uub"
+     ]
+    }
+   ],
+   "column": {
+    "title": "郡が消えて、名だけが残った",
+    "text": "日置市は「消えた郡の名を市が引き継いだ」例である。もともと合併協議は6町で始まり、途中で枠組みが変わる中、2003年12月には新市名「日置市」が先に決まっていた。2005年5月、残った4町が合併して日置市が発足し、薩摩国以来の郡名だった日置郡は地図から消えた。一方で市内には「日置」という大字（日吉町日置）が残り、中世の日置郷の名を今に伝えている。郡名と郷名、二つの層の「日置」が一つの市の中に重なっている。",
+    "sources": [
+     "s4-hioki-city-enkaku",
+     "s4-hiokigun-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-いちき串木野市",
+    "muni/46-南さつま市",
+    "muni/46-鹿児島市"
+   ],
+   "unknowns": [
+    "中世にこの地を治めたとされる日置氏の詳細は、専門資料で確認できなかった",
+    "「日置」という語自体の語源（日置部との関係を含む）は、薩摩国の日置については確認できなかった",
+    "古代の日置部・日置氏一般については世界大百科事典等の解説があるが、本市域との直接の結びつきは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-曽於市",
+   "code": "462179",
+   "names": {
+    "ja": "曽於市",
+    "reading": "そおし",
+    "aliases": [
+     "末吉町",
+     "財部町",
+     "大隅町",
+     "囎唹郡"
+    ]
+   },
+   "user_terms": [
+    "そお",
+    "曽於郡",
+    "末吉",
+    "財部",
+    "和牛のまち"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成17年（2005年）7月1日、曽於郡の末吉町・財部町・大隅町が新設合併して発足した市。市名は3町が属した郡名「曽於郡」をそのまま採用したものである。「曽於」は大隅国の古い郡名に遡り、『和名類聚抄』には「囎唹（そを）」の形でみえる。江戸・明治期の文書でも長く「囎唹郡」の表記が使われ、「曽於」の表記と「そお」という読みは後世のものである。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": "和名類聚抄",
+    "note": "『古事類苑』が大隅国の郡の一つとして『和名類聚抄』の「囎唹（ソヲ）」を収録する。和名抄そのものは未確認のため、主張は紹介の形で格下げして記録した。現表記の「曽於」による初出は確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "曽於市の地方公共団体コードは462179である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "曽於市は平成17年（2005年）7月1日、曽於郡末吉町・大隅町・財部町の3町の新設合併で発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-soo-city-toukei"
+     ]
+    },
+    {
+     "text": "市名は郡名（曽於郡）を採用したものである",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-soo-kotobank"
+     ]
+    },
+    {
+     "text": "『古事類苑』は『和名類聚抄』の大隅国の郡の一つとして「囎唹（ソヲ）」を収録しており、曽於は古代の大隅国の郡名に遡る",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-soo-kojiruien"
+     ]
+    },
+    {
+     "text": "近世から近代にかけても郡名は「囎唹郡」と書かれるのが通例で、財部町・大隅町の前身の村々も囎唹郡に属していた",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s4-soo-kojiruien",
+      "s4-takarabe-uub"
+     ]
+    },
+    {
+     "text": "古代の文書には肥後国球磨郡と連ねた「球磨囎唹」という表記がみられ、これを熊襲（くまそ）と同定する説がある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "s4-soogun-wiki"
+     ]
+    },
+    {
+     "text": "現在の市域は、江戸時代の財部郷・末吉郷・恒吉郷の3つの郷を起点とすると市は紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-soo-city-toukei"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「そお」と読めるようになるまで",
+    "text": "曽於市の「曽於」は、初見では読めない難読地名の一つだが、もとの表記はさらに難しかった。古代から近代まで郡名は「囎唹」と書かれ、『和名類聚抄』では「ソヲ」と読まれた。旁が「曾」である「曽於」の表記に改まり、読みも「そお」へと移ったのは後世のことである。この地はまた、古代に朝廷へ抵抗した熊襲（くまそ）の故地とも関連づけて語られることがあり、「球磨囎唹」を熊襲と結びつける説もある。2005年の合併で3町は、新しい造語ではなく千年以上の歴史を持つ郡名をそのまま市名に選んだ。",
+    "sources": [
+     "s4-soo-kojiruien",
+     "s4-soogun-kotobank",
+     "s4-soogun-wiki",
+     "s4-soo-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-志布志市",
+    "muni/46-鹿屋市",
+    "muni/45-都城市"
+   ],
+   "unknowns": [
+    "「曽於（囎唹）」の語自体の語源は専門資料で確認できなかった",
+    "「囎唹」から「曽於」への表記の切り替え時期は特定できなかった",
+    "2005年の市名選定過程（公募の有無等）は一次資料で確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-枕崎市",
+   "code": "462047",
+   "names": {
+    "ja": "枕崎市",
+    "reading": "まくらざきし",
+    "aliases": [
+     "枕崎町",
+     "枕崎浦",
+     "鹿篭郷",
+     "東南方村"
+    ]
+   },
+   "user_terms": [
+    "まくらざき",
+    "カツオのまち",
+    "枕崎鰹節",
+    "本土最南端の駅"
+   ],
+   "naming_type": "その他",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "昭和24年（1949年）に単独で市制を施行した市で、平成の大合併でも他市町と合併しなかった。市名は近世の浦の名「枕崎浦」に遡り、江戸時代の市域は薩摩国川辺郡の鹿篭郷だった。「枕崎」の名の由来として『枕崎市史』は、箱枕に入った金仏が鹿籠浦の瀬崎に漂着した故事にちなむと伝える。カツオ漁と鰹節の町として知られるが、地名の「枕」は鰹節の形ではなく、この漂着の故事に結びつけて語られている。",
+   "first_attestation": {
+    "era": "江戸時代",
+    "year_western": 1800,
+    "document": "諸郷村附並浦附（寛政12年書写）",
+    "note": "『日本歴史地名大系』が鹿籠郷の浦として「枕崎浦」がみえる用例として紹介するもの。それ以前の用例は今回確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "枕崎市の地方公共団体コードは462047である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "枕崎市は昭和24年（1949年）に枕崎町が単独で市制を施行して発足した",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-makurazaki-kotobank"
+     ]
+    },
+    {
+     "text": "枕崎町は大正12年（1923年）の町制施行で誕生し、それ以前の村は東南方村と称していた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-makurazaki-city-nenpyo"
+     ]
+    },
+    {
+     "text": "江戸時代、市域は薩摩国川辺郡の鹿籠（鹿篭）郷に属し、枕崎はその浦の一つで、寛政12年（1800年）書写の諸郷村附並浦附に「枕崎浦」とみえる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-makurazakiura-kotobank"
+     ]
+    },
+    {
+     "text": "市名の由来として『枕崎市史』は、かつて箱枕に入った金仏が鹿籠浦の瀬崎（せざき）に漂着したという故事にちなむと伝えている",
+     "kind": "legend",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s4-makurazaki-kotobank"
+     ]
+    },
+    {
+     "text": "枕崎はカツオ漁と鰹節製造で知られ、「枕崎鰹節」は令和7年（2025年）に地理的表示（GI）保護制度へ登録された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-makurazaki-maff-gi"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「枕」は鰹節の形ではなかった",
+    "text": "カツオの町・枕崎の「枕」は、鰹節の形が枕に似ているから、と思われがちである。しかし『枕崎市史』が伝える由来は別の話で、箱枕に入った金仏が鹿籠浦の瀬崎（せざき）に漂着した故事にちなむという。つまり順序としては、港の名「枕崎」が先にあり、後にこの地が鰹節の一大産地になった。鰹節が枕の形をしているのは偶然の符合だが、その符合のおかげで「枕崎＝鰹節の形」という分かりやすい俗説が生まれやすい土地でもある。市史の伝える故事自体も伝説の層として読むべきもので、事実として確定した語源ではない。",
+    "sources": [
+     "s4-makurazaki-kotobank",
+     "s4-makurazaki-maff-gi"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-南さつま市",
+    "muni/46-南九州市"
+   ],
+   "unknowns": [
+    "「枕崎」の言語学的な語源（瀬崎からの転訛か等）は専門資料で確定できなかった",
+    "金仏漂着の故事の原典（いつ・どの資料に初めて記録されたか）は確認できなかった",
+    "鰹節の形に由来するという俗説がいつ頃から語られるようになったかは確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-薩摩川内市",
+   "code": "462152",
+   "names": {
+    "ja": "薩摩川内市",
+    "reading": "さつませんだいし",
+    "aliases": [
+     "川内市",
+     "川内町",
+     "千台"
+    ]
+   },
+   "user_terms": [
+    "せんだい（旧市名の読み）",
+    "川内（旧市名）",
+    "薩摩川内原発のある市",
+    "甑島への玄関口"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "平成16年（2004年）10月12日、川内市と薩摩郡の樋脇町・入来町・東郷町・祁答院町・里村・上甑村・下甑村・鹿島村の1市4町4村が新設合併して発足した市。中心地名の「川内」は川内川に由来する古い地名で、古くは「千台（千臺）」とも書かれ、江戸時代に「川内」の表記に統一された。新市名では県名でも藩名でもない旧国名「薩摩」を冠し、「川内」だけでは宮城県仙台市と読みが混同される問題の解消も図られた。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「川内」の確かな初出は今回確認できなかった。奈良時代にはこの地に薩摩国の国府・国分寺が置かれていたことが辞典類に紹介されているが、「川内」という地名そのものの初出文書は特定できていない"
+   },
+   "claims": [
+    {
+     "text": "薩摩川内市の地方公共団体コードは462152である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "薩摩川内市は平成16年（2004年）10月12日、川内市・樋脇町・入来町・東郷町・祁答院町・里村・上甑村・下甑村・鹿島村の1市4町4村の新設合併で誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-sendai-city-intro",
+      "s5-sendai-uub"
+     ]
+    },
+    {
+     "text": "新市名については中心だった川内市の名をそのまま使う案もあったが、9つもの自治体の合併で川内市が名称にこだわりすぎると他の自治体の合併意欲を削ぎかねない懸念と、宮城県仙台市との混同を防ぐ観点から単独継承は見送られ、旧国名「薩摩」を冠した「薩摩川内市」が採用されたことが紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s5-sendai-wiki"
+     ]
+    },
+    {
+     "text": "旧川内市は昭和4年（1929年）に隈之城村・平佐村・東水引村の合併で川内町として発足し、昭和15年（1940年）2月11日に市制を施行した",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s5-sendai-uub"
+     ]
+    },
+    {
+     "text": "「川内」の文字は古くは「千台（旧字体で千臺）」であり、時代や古文書によって「千代」「川内」など表記が異なっていたが、江戸時代に薩摩藩主・島津吉貴が地図を作成する際に「川内」の文字に統一したと市の広報は川内市歴史資料館編『川内市文化財要覧』を引いて紹介する",
+     "kind": "fact",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s5-sendai-koho-yurai"
+     ]
+    },
+    {
+     "text": "「川内」の語源については、川内川の北側（内側）に薩摩国の国府や国分寺が置かれており、川北を「川内」、川南を「川外」と呼んでいたことに由来するという説が市の広報で紹介されている",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "s5-sendai-koho-yurai"
+     ]
+    },
+    {
+     "text": "「千台」の名は、その昔ニニギノミコト（瓊瓊杵尊）が「千の台（うてな）」を作るように命じたという神話に由来するという説が伝えられている",
+     "kind": "legend",
+     "level": "E4",
+     "status": "established",
+     "sources": [
+      "s5-sendai-koho-yurai",
+      "s5-sendai-kotobank"
+     ]
+    },
+    {
+     "text": "この地は奈良時代に薩摩国の国府・国分寺が置かれた土地であることが『精選版日本国語大辞典』で紹介されている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s5-sendai-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「せんだい」違いを解消するための「薩摩」",
+    "text": "日本には「せんだい」と読む大きな地名が二つある。宮城県の仙台市と、鹿児島県の旧川内市である。読みだけでなく、東北新幹線の「仙台」と九州新幹線の「川内」は駅名でも紛らわしく、混同は長年の悩みだった。2004年の合併で旧国名の「薩摩」を頭に付けた新市名「薩摩川内市」は、この混同を避ける狙いもあって選ばれたとされる。もっとも漢字の成り立ちは対照的で、仙台の「仙」は仙台城の雅称に由来する後付けの字、川内の方はもとは「千台」と書かれた古い地名である。「せんだい」の音は同じでも、字の履歴は正反対の二つのまち、というのが面白い対比である。",
+    "sources": [
+     "s5-sendai-wiki",
+     "s5-sendai-koho-yurai"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "「川内」という地名の確かな初出（文献名と年代）は確認できなかった",
+    "新市名の公募件数や最終候補の顔ぶれなど選定過程の詳細は、合併協議会の一次資料では確認できなかった",
+    "「川の内側」説以外の語源説（川内川の川名が先か地名が先かを含む）は専門辞典では確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-西之表市",
+   "code": "462136",
+   "names": {
+    "ja": "西之表市",
+    "reading": "にしのおもてし",
+    "aliases": [
+     "西之表町",
+     "北種子村"
+    ]
+   },
+   "user_terms": [
+    "種子島北部の市",
+    "鉄砲伝来の島の玄関口",
+    "にしのおもて"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "種子島北部の市で、明治22年（1889年）に北種子村として発足し、大正15年（1926年）に改称・町制して西之表町、昭和33年（1958年）10月1日に市制を施行した。中心の西之表は種子島氏の城下町で、西海岸の港は島の表玄関とされる。「西之表」という地名自体の語源は、確認した公式・辞典資料では明らかにできなかった。",
+   "first_attestation": {
+    "era": null,
+    "year_western": null,
+    "document": null,
+    "note": "「西之表」の初出は確認できなかった。少なくとも町村制以前から地区の名として存在し、大正15年（1926年）の改称で自治体名になった"
+   },
+   "claims": [
+    {
+     "text": "西之表市の地方公共団体コードは462136である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "明治22年（1889年）4月1日に熊毛郡北種子村が発足し、大正15年（1926年）4月1日に改称・町制して西之表町となったとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s3-nishinoomote-wiki"
+     ]
+    },
+    {
+     "text": "昭和33年（1958年）10月1日に市制を施行して「西之表市」が発足した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-nishinoomote-koho"
+     ]
+    },
+    {
+     "text": "西之表は日本最南端の士族である種子島家の城下町として栄え、現在は熊毛支庁や国の出先機関が置かれる種子島および熊毛地区の政治・経済の中心であるとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s3-nishinoomote-wiki"
+     ]
+    },
+    {
+     "text": "西之表港は種子島の北西岸に位置する重要港湾で、背後に西之表市の市街地が広がり、鹿児島や屋久島への定期フェリー・高速船が就航する「島の表玄関」であると鹿児島県は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s3-nishinoomote-port"
+     ]
+    },
+    {
+     "text": "天文12年（1543年）に鉄砲が伝来した種子島において、西之表は島主・種子島氏の本拠であり、16世紀末に第16代島主久時が知覧へ所替えとなった後も、江戸時代を通じて種子島は種子島家の私領地であったとWikipediaは紹介する",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s3-nishinoomote-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "鉄砲は南から、政治は西之表から",
+    "text": "種子島といえば1543年の鉄砲伝来だが、ポルトガル船が漂着したのは島の南端（現在の南種子町）である。一方、島を治めた種子島氏の城下町は北部の西之表に置かれ、ここが島の政治の中心だった。現在の西之表市も、熊毛支庁が置かれる大隅諸島の行政の中心であり、西海岸の西之表港は鹿児島と島を結ぶ「表玄関」と県に呼ばれる。島の名を世界史に刻んだ出来事の舞台と、島の暮らしの中心とは、島の両端に分かれているのである。なお「西之表」の「表」が何を指すのか、地名の語源そのものは今回の調査では確定できなかった。",
+    "sources": [
+     "s3-nishinoomote-wiki",
+     "s3-nishinoomote-port"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "「西之表」という地名の語源（「表」の意味を含む）は、確認した市公式資料・県公式資料・専門辞典の範囲では明らかにできなかった",
+    "大正15年（1926年）に北種子村から西之表町へ改称した理由は確認できなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-阿久根市",
+   "code": "462063",
+   "names": {
+    "ja": "阿久根市",
+    "reading": "あくねし",
+    "aliases": [
+     "阿久根町",
+     "英祢院",
+     "莫祢"
+    ]
+   },
+   "user_terms": [
+    "あくね",
+    "阿久根大島",
+    "文旦の里",
+    "漁港のまち"
+   ],
+   "naming_type": "その他",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "昭和27年（1952年）4月1日に阿久根町が単独で市制を施行し、県下6番目の市として発足した（昭和30年に三笠町と合併）。読みの「あくね」は古い地名で、平安時代末期には荘園の「英祢（あくね）院」と称され、後に「莫祢」とも書かれた。表記が現在の「阿久根」に改まったのは15世紀中期と市は伝えており、読みは千年近く保たれたまま漢字だけが何度も変わった地名である。",
+   "first_attestation": {
+    "era": "平安時代",
+    "year_western": null,
+    "document": null,
+    "note": "市公式は平安時代末期に「英祢院」と称されたことを伝えるが、その根拠となる一次文書名は今回確認できなかった"
+   },
+   "claims": [
+    {
+     "text": "阿久根市の地方公共団体コードは462063である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "阿久根市は昭和27年（1952年）4月に阿久根町が市制を施行して県下6番目の市として発足し、昭和30年（1955年）に隣接の三笠町と合併して現在の形態となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-akune-city-rekishi"
+     ]
+    },
+    {
+     "text": "阿久根は平安時代末期には英祢（あくね）院と称され、その院司に任命されていた英祢氏によって統治されていたと市は伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-akune-city-rekishi"
+     ]
+    },
+    {
+     "text": "「英祢」は後に「莫祢」とも書かれ、15世紀中期に現在の「阿久根」に変わったと市は伝えている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s4-akune-city-rekishi"
+     ]
+    },
+    {
+     "text": "「阿久根」への改称は1451年（宝徳3年）に島津用久によって行われたとする解説がある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-akune-wiki"
+     ]
+    },
+    {
+     "text": "語源については、「アク」は魚や漁業を意味する言葉、「ネ」は岩礁を表すという解釈が紹介されている",
+     "kind": "fact",
+     "level": "E5",
+     "status": "indeterminate",
+     "sources": [
+      "s4-akune-wiki"
+     ]
+    },
+    {
+     "text": "大正14年（1925年）に阿久根村が町制を施行して阿久根町となり、これが市制施行の直接の前身である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s4-akune-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "読みは千年、漢字は三度",
+    "text": "阿久根の読み「あくね」は、平安時代の荘園名「英祢院」の頃から続く古い音である。ところが漢字表記は安定しなかった。鎌倉時代には「莫祢」と書かれ、15世紀中期になってようやく「阿久根」に改まったと市は伝える。地名の漢字は時代ごとに読みに当てはめ直される「宛字」であることが多いが、阿久根はその典型で、音が先にあって字が後からついて回った。2025年現在も残る「英祢」「莫祢」の旧表記は、漁港として古くから開けたこの土地の歴史の古さを物語っている。",
+    "sources": [
+     "s4-akune-city-rekishi",
+     "s4-akune-wiki"
+    ]
+   },
+   "relations": [
+    "pref/46",
+    "muni/46-出水市",
+    "muni/46-薩摩川内市"
+   ],
+   "unknowns": [
+    "「あく＝灰」に由来するという説は、今回確認した市公式・専門辞典・Wikipediaのいずれにも見当たらなかった",
+    "「英祢院」の根拠となる平安時代の一次文書名は確認できなかった",
+    "語源の「アク＝魚・漁業、ネ＝岩礁」説はWikipedia以外の高次資料で裏付けが取れなかった"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-霧島市",
+   "code": "462187",
+   "names": {
+    "ja": "霧島市",
+    "reading": "きりしまし",
+    "aliases": []
+   },
+   "user_terms": [
+    "霧島市はどうやってできた",
+    "霧島神宮のまち",
+    "霧島の名前の意味"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "2005年11月7日に国分市と6町が合併して誕生した新設の市名。市民公募3,887件の中で最も応募が多かった名前で、「霧島山を擁する市」として選ばれた。「霧島」という地名自体は承和4年（837年）の『続日本後紀』が初出とされ、語源には霧の島説と噴煙説があるが、市の公式資料も「推測の域を出ず確定できない」としている。",
+   "first_attestation": {
+    "era": "承和4年",
+    "year_western": 837,
+    "document": "続日本後紀",
+    "note": "「霧島」の名の初出とされる記事。「諸縣郡霧嶋岑神」が官社になった記事を霧島市公式資料（郷土史資料）が紹介する。市名そのものは2005年の新設"
+   },
+   "claims": [
+    {
+     "text": "2005年（平成17年）11月7日、国分市・溝辺町・横川町・牧園町・霧島町・隼人町・福山町の1市6町が合併して霧島市が誕生した（地方公共団体コードは462187）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-kirishima-enkaku",
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "新市の名称は市民公募で募った3,887件の中で最も多い名前であり、2004年（平成16年）2月12日に新市の名称を「霧島市」とすることが正式に決定された（霧島市公式の郷土史資料・沿革）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-kirishima-na",
+      "l6-kirishima-enkaku"
+     ]
+    },
+    {
+     "text": "霧島市公式資料は、市民アンケートの集計結果などから「霧島山を擁する市である」という意味で新市名が選ばれた、と説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-kirishima-na"
+     ]
+    },
+    {
+     "text": "「霧島」の文字の初出は承和4年（837年）の『続日本後紀』で、「諸縣郡霧嶋岑神」という神社が官社になった記事であると霧島市公式の郷土史資料は紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-kirishima-na"
+     ]
+    },
+    {
+     "text": "「霧島」の名の由来については、このあたりの霧が深く、雲海から覗く連山が霧に浮かぶ島のように見えることにちなむとする説と、高千穂峰などの噴火の噴煙が霧に見えたことにちなむとする説があるが、市の公式資料は「どちらも推測の域を出ず確定できない」としている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "l6-kirishima-na"
+     ]
+    },
+    {
+     "text": "合併前の旧霧島町は、もとの東襲山村が1934年（昭和9年）の霧島山の国立公園指定を機に名の論議を経て、1935年（昭和10年）に霧島村と改称し、1958年（昭和33年）に町制を施行したものである（霧島町史第四編）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-kirishima-townshi"
+     ]
+    },
+    {
+     "text": "霧島市公式の郷土史資料は、『続日本紀』延暦7年（788年）の「大隅国贈於郡曽乃峯」の噴火記事を御鉢の噴火とし、霧島一帯の古名「贈於（そお）」の用例として紹介する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "l6-kirishima-na"
+     ]
+    }
+   ],
+   "column": {
+    "title": "公募1位は、山の名前だった",
+    "text": "合併で新しい市名を決めるとき、通常は旧自治体のどれかの名が残ることが多い。霧島市の場合は違った。市民公募3,887件で最多だったのは、構成自治体のいずれの名でもなく、山の名「霧島」だった。そして実は、この山の名を自治体名にするのは二度目である。旧霧島町も、もとは東襲山村という名で、1935年に霧島山の国立公園指定をきっかけに「霧島」へ改名していた。70年を隔てて、同じ山の名が二度、自治体の名に選ばれたことになる。",
+    "sources": [
+     "l6-kirishima-na",
+     "l6-kirishima-townshi"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "「霧島」の語源は市公式資料でも「推測の域を出ず確定できない」とされており未確定",
+    "『続日本後紀』承和4年条の原文の直接確認は未了（市公式資料の紹介に基づく）"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-鹿児島市",
+   "code": "462012",
+   "names": {
+    "ja": "鹿児島市",
+    "reading": "かごしまし",
+    "aliases": [
+     "麑嶋",
+     "鹿児島郡"
+    ]
+   },
+   "user_terms": [
+    "鹿児島市と桜島はどっちが先の名前",
+    "鹿児島市の名前 鹿と関係あるの",
+    "鹿児島市はいつできた 最初の市"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "市名は薩摩国鹿児島郡・城下町「鹿児島」に由来する。「鹿児島」はもともと桜島の古名だったとする見方が有力だが、その語源は鹿の子・火山を意味する「カグ」・水夫「カコ」・崖を意味する「カゴ」など諸説あり確定していない。1889年に旧城下の町々と近在の村々の合併で発足し、全国で最初に市制が施行された市の一つとなった。",
+   "first_attestation": {
+    "era": "天平宝字8年",
+    "year_western": 764,
+    "document": "続日本紀",
+    "note": "桜島の噴火を記した記事に「麑島」とあるのが「鹿児島」の文献上の初見であると鹿児島県の資料は紹介する。指示対象は現在の桜島とされる。神名としての「鹿児島」は『日本三代実録』貞観2年（860年）条に確認できる"
+   },
+   "claims": [
+    {
+     "text": "鹿児島市は1889年（明治22年）4月1日に市制が施行されて発足し、全国で最初に市制が施行された市の一つである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-kagoshima-city-profile"
+     ]
+    },
+    {
+     "text": "市勢要覧の総説に収められた表は、市制施行時の鹿児島市の構成を50町村と示している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-kagoshima-city-sousetu"
+     ]
+    },
+    {
+     "text": "「鹿児島」はもともと桜島の古名だったとする見方があり、鹿児島県公式が紹介し、『日本歴史地名大系』も妥当としている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-kagoshima-pref",
+      "f-kagoshima-kotobank"
+     ]
+    },
+    {
+     "text": "鹿児島県の資料は、『続日本紀』天平宝字8年（764年）の桜島噴火の記事にみえる「麑島」を、「鹿児島」の文献上の初見として紹介している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-kagoshima-pref-goroumon"
+     ]
+    },
+    {
+     "text": "『日本三代実録』貞観2年（860年）3月条に、薩摩国の鹿児島神に従五位上を授けたことが記録されており、「鹿児島」の名は9世紀には神名として存在した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-sandai-jitsuroku",
+      "f-kagoshima-kotobank"
+     ]
+    },
+    {
+     "text": "鹿児島の語源について鹿児島県公式は、野生の鹿の子が多く生息していたから、火山を意味する「カグ」という言葉から、多くの水夫（かこ）が住んでいたから、などさまざまな説があるとして併記している",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "f-kagoshima-pref"
+     ]
+    },
+    {
+     "text": "山幸彦（天津日高彦穂々出見尊）が海神の宮へ行く際に乗った舟が鹿児山で作られたことに由来するという、神話に結びつけた由来譚も伝えられている",
+     "kind": "legend",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "f-kagoshima-kotobank"
+     ]
+    },
+    {
+     "text": "城下町としての鹿児島の都市的起源は、1602年（慶長7年）に島津家久が鶴丸城を構築し城下町を整備したことにあり、以来江戸時代を通じて島津氏の居城として藩政の中心となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "f-cap-kagoshima-city-profile"
+     ]
+    }
+   ],
+   "column": {
+    "title": "名前は、湾の向こうの島から渡ってきた",
+    "text": "鹿児島という名の最初の持ち主は、市街地ではなく対岸の火山の島——いまの桜島——だったとされる。島のほうが「桜島」と呼ばれるようになるのは江戸時代後期のことで、それまでは鹿児島とも向島とも呼ばれていた。半島側の城下町が「鹿児島」を名乗り続けた結果、名前は島から町へ渡り、島は別の名を得た。1914年の大噴火で桜島が大隅半島と陸続きになっても、この名の所属は元に戻らなかった。フェリーで15分の距離にある島と市が、名前の元と継ぎ手の関係にあるのが鹿児島の面白さである。",
+    "sources": [
+     "f-kagoshima-pref",
+     "f-kagoshima-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "「鹿児島」の語源は確定しておらず、崖説・火山説・水夫説・鹿の子説のいずれも決定的な証拠を欠く",
+    "764年の「麑島」が桜島を指すことの厳密な検証は、県資料の紹介経由であり一次資料では確認していない",
+    "桜島の名称統一（1698年・薩摩藩通達とされる）の一次資料は本調査では直接確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/46-鹿屋市",
+   "code": "462039",
+   "names": {
+    "ja": "鹿屋市",
+    "reading": "かのやし",
+    "aliases": [
+     "鹿屋町",
+     "鹿屋郷"
+    ]
+   },
+   "user_terms": [
+    "かのや",
+    "大隅半島の中心の市",
+    "鹿屋航空基地のまち",
+    "ばらのまち"
+   ],
+   "naming_type": "その他",
+   "prefecture": "鹿児島県",
+   "homonyms": [],
+   "summary": "大隅半島の中央部に位置する市で、現在の鹿屋市は平成18年（2006年）1月1日に旧鹿屋市と輝北町・串良町・吾平町が合併して発足した2代目である。「鹿屋」の名は平安時代中期の『和名類聚抄』に大隅国姶羅郡の郷名として確認できる古い地名だが、語源は熊襲の首長・鹿文の名による説、茅（かや）が転じた説、鹿が多かったとする説が併記されるにとどまり、市の公式資料も「定かではありません」とする。なお鹿児島市の「鹿」と由来を共有するわけではない。",
+   "first_attestation": {
+    "era": "承平年間",
+    "year_western": 935,
+    "document": "『和名類聚抄』",
+    "note": "平安時代中期（930年代）の『和名類聚抄』に大隅国姶羅郡の郷として「鹿屋」「串伎」がみえることが紹介されており、地名としての「鹿屋」の初出とされる。ただし二次資料経由の確認であり、原文は未確認"
+   },
+   "claims": [
+    {
+     "text": "鹿屋市の地方公共団体コードは462039である",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "現在の鹿屋市は平成18年（2006年）1月1日、鹿屋市・輝北町・串良町・吾平町の1市3町が合併して誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-kanoya-gaiyo"
+     ]
+    },
+    {
+     "text": "初代の鹿屋市は昭和16年（1941年）5月27日に鹿屋町が市制を施行して発足した",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "s5-kanoya-wiki"
+     ]
+    },
+    {
+     "text": "平安時代中期の辞書『和名類聚抄』には、大隅国姶羅郡の郷として「鹿屋」「串伎」がみられ、地名としての「鹿屋」はこれが初出であると紹介されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-kanoya-wiki"
+     ]
+    },
+    {
+     "text": "「鹿屋」の語源について、鹿屋市教育委員会『かのや風土記』は、熊襲の首長・鹿文（かや）の名による説と、大隅地方に多く生えた茅の名が「かのや」に転じた説などを挙げたうえで、いずれも「定かではありません」としている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "contested",
+     "sources": [
+      "s5-kanoya-fudoki"
+     ]
+    },
+    {
+     "text": "この地に鹿が多く棲んでいたので「鹿屋」と呼ぶようになったという説も、鹿屋市教育委員会『かのや風土記』が語源説の一つとして紹介している",
+     "kind": "legend",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "s5-kanoya-fudoki"
+     ]
+    },
+    {
+     "text": "近世の鹿屋郷は肝属川上流の笠野原・鹿屋原の台地に挟まれた一帯で肝属郡に属し、鹿児島藩の外城の一つだったことが『日本歴史地名大系』で紹介されている",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s5-kanoya-kotobank-go"
+     ]
+    },
+    {
+     "text": "鹿屋は古代の姶羅郡に属したが、近世には肝属郡の地となっており、同じ「鹿屋」でも所属する郡は時代によって異なる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "s5-kanoya-kotobank-go",
+      "s5-kanoya-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "鹿児島の「鹿」と鹿屋の「鹿」は無関係",
+    "text": "鹿児島と鹿屋は、どちらも「鹿」の字を持ち、読みも「かごしま」「かのや」と似た響きを持つため、同じ語源ではと思われがちである。しかし県名「鹿児島」はもともと桜島の古名だったとする見方が有力で、鹿屋の方は熊襲の首長・鹿文の名、茅の転訛、鹿が多かった土地という全く別の諸説が語られる。つまり二つの「鹿」は、たまたま同じ字が宛てられた別々の地名である。同じ県の中で「鹿」つながりに見える地名が、由来では何の縁もないという点に、地名の当て字の面白さが表れている。",
+    "sources": [
+     "s5-kanoya-fudoki",
+     "f-kagoshima-pref"
+    ]
+   },
+   "relations": [
+    "pref/46"
+   ],
+   "unknowns": [
+    "語源の3説のうちどれが正しいかは、市の公式資料でも「定かではありません」とされ確定できなかった",
+    "『和名類聚抄』の「鹿屋」の原文（漢字表記と万葉仮名の読み）は二次資料経由でしか確認できていない",
+    "鹿屋城下が整備された近世以降の地名の広がりについては、市史の通史編そのものは未確認である"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}

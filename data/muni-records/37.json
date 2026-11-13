@@ -1,0 +1,959 @@
+{
+ "sources": {
+  "b-cap-chiba-soumu-code": {
+   "label": "総務省「地方公共団体コード一覧」",
+   "url": "https://www.soumu.go.jp/main_content/000925834.pdf"
+  },
+  "e-cap-soumu-code-list": {
+   "label": "総務省「全国地方公共団体コード」市区町村コード一覧（令和6年1月1日更新）",
+   "level": "E2",
+   "url": "https://www.soumu.go.jp/denshijiti/code.html"
+  },
+  "e-cap-takamatsu-city-castle": {
+   "label": "高松市公式サイト「史跡高松城跡の歴史」",
+   "level": "E2",
+   "url": "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kurashi/shisetsu/park/tamamo/bunzai201806051.html"
+  },
+  "e-cap-takamatsu-city-plan": {
+   "label": "高松市総合計画（市名の由来を平安時代中期の史書に見える「高松郷」に発するとする市の公式資料）",
+   "level": "E2",
+   "url": "https://www.city.takamatsu.kagawa.jp/kurashi/shinotorikumi/public/shuryou/ichiran/h27/6thgenan.files/25509_L11_sougoukeikaku.pdf"
+  },
+  "e-cap-takamatsu-city-profile": {
+   "label": "高松市公式サイト「高松市のプロフィール」",
+   "level": "E2",
+   "url": "https://www.city.takamatsu.kagawa.jp/smph/kurashi/shinotorikumi/profile/shokai/profile.html"
+  },
+  "e-cap-takamatsu-gogen": {
+   "label": "語源由来辞典「高松市」",
+   "level": "E3",
+   "url": "https://gogen-yurai.jp/takamatsu-shi-kagawa"
+  },
+  "e-cap-takamatsu-kotobank": {
+   "label": "コトバンク「高松市」（『日本歴史地名大系』）",
+   "level": "E3",
+   "url": "http://kotobank.jp/word/%E9%AB%98%E6%9D%BE%E5%B8%82-92745"
+  },
+  "e-cap-wamyosho": {
+   "label": "『和名類聚抄（倭名類聚抄）』（承平年間成立）",
+   "level": "E1",
+   "note": "原文は未読。自治体公式・専門資料の紹介経由で参照"
+  },
+  "q5-higashikagawa-keii": {
+   "label": "東かがわ市「合併までの経緯」（市公式。引田町・白鳥町・大内町の3町は手袋生産で全国シェアの約9割を占めるなど古くから結びつきが深かったことを記す）",
+   "url": "https://www.higashikagawa.jp/soshikikarasagasu/senryaku/gyomuannai/824/2/1413.html"
+  },
+  "q5-higashikagawa-name": {
+   "label": "東かがわ市「新市名称選定の経緯」（市公式。公募5,967件・2,867種類から10候補・3候補を経て「東かがわ」が選定された経過と、2003年4月1日の市制施行を記す）",
+   "url": "https://www.higashikagawa.jp/soshikikarasagasu/senryaku/gyomuannai/824/2/761.html"
+  },
+  "q5-kagawa-lib-sakaide": {
+   "label": "香川県立図書館「歴史（坂出・綾歌地区）」（県立図書館の郷土資料紹介。1829年に久米氏により東西浜大浜の塩田が開拓され塩都の基礎ができたこと、1890年に坂出町となったこと）",
+   "url": "https://www.library.pref.kagawa.lg.jp/know/local/local_0005-09"
+  },
+  "q5-kanonji-city-temple": {
+   "label": "観音寺市「神恵院・観音寺」（市公式。四国八十八箇所第68番神恵院・第69番観音寺の解説。大同年間に弘法大師が伽藍を建立して観音寺と改めたこと、日証上人の創立を伝える）",
+   "url": "https://www.city.kanonji.kagawa.jp/soshiki/21/339.html"
+  },
+  "q5-kanonji-kyotei": {
+   "label": "観音寺市・大野原町・豊浜町「合併協定書」（2005年1月27日。新市の名称を観音寺市と定めた合併協定）",
+   "url": "https://www.city.kanonji.kagawa.jp/kot/data/conf/kyouteisyou.pdf"
+  },
+  "q5-kanonji-tokei": {
+   "label": "観音寺市「令和4年版 統計かんおんじ」（市公式統計書の沿革。1955年1月1日に観音寺町・高室村・常磐村・柞田村の合併で市制施行、2005年10月11日に大野原町・豊浜町と合併して新市が誕生）",
+   "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/35062.pdf"
+  },
+  "q5-marugame-city-castle": {
+   "label": "丸亀市「丸亀城の歴史」（市公式。丸亀市の中心市街地の始まりは慶長2年=1597年の生駒親正・一正による亀山への築城であるとする）",
+   "url": "https://www.city.marugame.lg.jp/site/castle/2930.html"
+  },
+  "q5-marugame-gogen": {
+   "label": "地名の由来・名字の由来まとめサイト「丸亀の地名の由来」（地名辞典類の「城山の形が亀に似ていたことにちなむ」という説明と、瑞祥地名の可能性の指摘を紹介）",
+   "url": "https://folklore2017.com/timei900/0221.htm"
+  },
+  "q5-marugame-kadokawa": {
+   "label": "角川日本地名大辞典「丸亀（近世）」（築城以前は那珂郡柞原郷丸亀浦などに属した地で、慶長年間に丸亀と称されたとする。jlogos掲載）",
+   "url": "https://jlogos.com/ausp/word.html?id=7430422"
+  },
+  "q5-marugame-kotobank": {
+   "label": "コトバンク「丸亀市」（日本歴史地名大系「市名は城および城下の名称にちなむ」、ブリタニカ国際大百科事典「1899年市制」）",
+   "url": "https://kotobank.jp/word/%E4%B8%B8%E4%BA%80%E5%B8%82-137506"
+  },
+  "q5-mitoyo-archives": {
+   "label": "国立公文書館所蔵資料展「近代日本のあゆみと三豊」（国立公文書館・三豊市文書館共催。明治32年=1899年の香川県下郡廃置の公布原本などを紹介）",
+   "url": "https://www.archives.go.jp/exhibition/kangai_04.html"
+  },
+  "q5-mitoyo-city-gappei": {
+   "label": "三豊市「合併の経緯」（市公式。高瀬町・山本町・三野町・豊中町・詫間町・仁尾町・財田町の7町による三豊合併協議会の設置から新市誕生までの経過）",
+   "url": "https://www.city.mitoyo.lg.jp/gyosei/profile/3052.html"
+  },
+  "q5-mitoyo-city-youran": {
+   "label": "三豊市「市勢要覧 統計資料編2016」（市公式。2006年1月1日に三豊郡の旧7町が合併して三豊市が誕生したことを記す）",
+   "url": "https://www.city.mitoyo.lg.jp/material/files/group/6/shiseiyouran_data_2016.pdf"
+  },
+  "q5-mitoyo-gun-wiki": {
+   "label": "Wikipedia「三豊郡」（1899年に三野郡と豊田郡が合併して発足した郡で、合成地名のカテゴリに分類される）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%B1%8A%E9%83%A1"
+  },
+  "q5-sakaide-city-ayumi": {
+   "label": "坂出市「坂出市のあゆみ」（市公式。1942年7月1日に坂出町と林田村が合併して市制を施行したことを記す）",
+   "url": "https://www.city.sakaide.lg.jp/soshiki/seisaku/ayumi.html"
+  },
+  "q5-sakaide-kotobank": {
+   "label": "コトバンク「坂出」（日本大百科全書「地名は宇多津からの小高い坂道を出た所の意」、改訂新版世界大百科事典「地名の初出は戦国末らしく確認できるのは1637年、文政年間に久米栄左衛門が東西大浜の塩田を完成」）",
+   "url": "https://kotobank.jp/word/%E5%9D%82%E5%87%BA-66199"
+  },
+  "q5-sakaide-wiki": {
+   "label": "Wikipedia「坂出市」（地名の語源を「宇多津の田尾坂を上って出た場所」とする説明）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E5%87%BA%E5%B8%82"
+  },
+  "q5-sanuki-city-history": {
+   "label": "さぬき市「歴史」（市公式。2002年4月1日に津田町・大川町・志度町・寒川町・長尾町の5町が合体・市制施行してさぬき市となったことを記す）",
+   "url": "https://www.city.sanuki.lg.jp/soshiki/hishokoho/gyomu/1/1/1145.html"
+  },
+  "q5-sanuki-wiki": {
+   "label": "Wikipedia「さぬき市」（2002年の新設合併が香川県初の「平成の大合併」であったこと）",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E5%B8%82"
+  },
+  "q5-zentsuji-city-history": {
+   "label": "善通寺市「市の沿革」（市公式。1954年3月31日に善通寺町・与北村・吉原村・筆岡村・竜川村が合併して善通寺市が誕生したこと、総本山善通寺の門前町として栄えたことを記す）",
+   "url": "https://www.city.zentsuji.kagawa.jp/soshiki/4/zentsujihistory.html"
+  },
+  "q5-zentsuji-nenpyo": {
+   "label": "総本山善通寺「善通寺の歴史1」（寺の公式年表。宝亀5年=774年の空海誕生、大同2年=807年の創建、弘仁4年=813年の落慶）",
+   "url": "https://zentsuji.com/yuisho/nenpyou1"
+  },
+  "q5-zentsuji-wiki": {
+   "label": "Wikipedia「善通寺市」（香川県の市で唯一海に面していない市であること）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%96%84%E9%80%9A%E5%AF%BA%E5%B8%82"
+  },
+  "q5-zentsuji-yuisho": {
+   "label": "総本山善通寺「善通寺の由来」（寺の公式解説。『多度郡屏風浦善通寺之記』によれば大同2年=807年に建立が始まり、父の諱「善通」をとって善通寺と号したと記す）",
+   "url": "https://zentsuji.com/yuisho"
+  }
+ },
+ "records": [
+  {
+   "id": "muni/37-さぬき市",
+   "code": "372064",
+   "names": {
+    "ja": "さぬき市",
+    "reading": "さぬきし",
+    "aliases": []
+   },
+   "user_terms": [
+    "さぬき市の名前の由来",
+    "さぬきはなぜ平仮名なの",
+    "讃岐とさぬき市の違い",
+    "ひらがなの市名"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "2002年（平成14年）4月1日に、大川郡の津田町・大川町・志度町・寒川町・長尾町の5町が合併して発足した市で、香川県における「平成の大合併」の第1号となった。市名には旧国名「讃岐」の名を取り、漢字ではなく平仮名の「さぬき」と表記した。合併前のどの町の名でも、郡名（大川郡）でもない広域の国名を市名に採用した点が特徴である。",
+   "first_attestation": {
+    "era": "平成14年",
+    "year_western": 2002,
+    "document": "さぬき市の市制施行（2002年4月1日）",
+    "note": "合併により新たに採用された市名であるため、名前の初出は市制施行そのもの。元の国名「讃岐」の初出や語源は香川県の都道府県レコード側で扱う"
+   },
+   "claims": [
+    {
+     "text": "さぬき市の地方公共団体コードは372064である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2002年（平成14年）4月1日、大川郡津田町・大川町・志度町・寒川町・長尾町の5町が合体して市制を施行し、さぬき市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-sanuki-city-history"
+     ]
+    },
+    {
+     "text": "この合併は、香川県における「平成の大合併」の最初の事例であった",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-sanuki-wiki"
+     ]
+    },
+    {
+     "text": "市名「さぬき」は旧国名「讃岐」の読みを平仮名で表記したもので、合併前の5町のいずれの町名も、所属していた大川郡の郡名も採用されていない",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-sanuki-city-history"
+     ]
+    },
+    {
+     "text": "市役所は旧志度町（志度地区）に置かれている。志度は四国八十八箇所第86番札所・志度寺の門前町として知られた地区である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-sanuki-wiki"
+     ]
+    },
+    {
+     "text": "市内には四国八十八箇所の結願に近い第86番志度寺・第87番長尾寺・第88番大窪寺の3か寺があり、「さぬき」の名は讃岐うどんなどを通じて全国的に知られる国名の読みである",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-sanuki-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "県名ではなく国名を選んだ市",
+    "text": "平成の大合併で生まれた市の多くは、合併前の中心町の名や郡名を引き継いだ。さぬき市はそのどちらでもなく、旧国名の「讃岐」を選んだ。しかも漢字の「讃岐市」ではなく、平仮名の「さぬき市」である。讃岐という名は、うどんの代名詞として全国の誰もが読める一方、漢字の「讃岐」は初見では読みにくい。読みやすさと知名度を両取りした命名といえる。香川県第1号の平成合併市が、県内でも早い時期にこうした「広域の名＋平仮名」という様式を選んだことになる。",
+    "sources": [
+     "q5-sanuki-city-history",
+     "q5-sanuki-wiki"
+    ]
+   },
+   "relations": [
+    "pref/37"
+   ],
+   "unknowns": [
+    "市名の公募・選定過程の詳細（候補名や応募数）は、市の刊行物『さぬき市誕生までの歩み』等に記録があるとみられるが、オンラインで確認できる公式資料では裏付けが取れなかった",
+    "「讃岐」の国名自体の語源は本レコードでは扱わず、都道府県レコード（香川県）側の課題とした"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-三豊市",
+   "code": "372081",
+   "names": {
+    "ja": "三豊市",
+    "reading": "みとよし",
+    "aliases": []
+   },
+   "user_terms": [
+    "三豊市の名前の由来",
+    "三豊は三野と豊田を合わせた名前？",
+    "みとよの意味",
+    "三豊郡はもうないの"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "2006年（平成18年）1月1日に、三豊郡の高瀬町・山本町・三野町・豊中町・詫間町・仁尾町・財田町の7町が合併して発足した市。市名は7町が属していた郡名「三豊郡」をそのまま受け継いだ。三豊郡は1899年に三野郡と豊田郡が合併して生まれた合成郡名であり、2006年の合併によって郡そのものは消滅した。",
+   "first_attestation": {
+    "era": "明治32年",
+    "year_western": 1899,
+    "document": "香川県下の郡廃置による三豊郡の設置（1899年3月）",
+    "note": "市名の直接の由来である郡名「三豊」の初出。その公布原本は三豊市文書館に伝わり、国立公文書館との共催展で公開された"
+   },
+   "claims": [
+    {
+     "text": "三豊市の地方公共団体コードは372081である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2006年（平成18年）1月1日、三豊郡の高瀬町・山本町・三野町・豊中町・詫間町・仁尾町・財田町の7町が合併して三豊市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-mitoyo-city-youran",
+      "q5-mitoyo-city-gappei"
+     ]
+    },
+    {
+     "text": "合併前の7町はいずれも三豊郡に属しており、市名はこの郡名をそのまま市名としたものである",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-mitoyo-city-youran"
+     ]
+    },
+    {
+     "text": "三豊郡は1899年（明治32年）に三野郡と豊田郡が合併して設置された郡である。当時の郡廃置の公布原本は三豊市文書館に所蔵され、国立公文書館との共催展で公開された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-mitoyo-archives",
+      "q5-mitoyo-gun-wiki"
+     ]
+    },
+    {
+     "text": "「三豊」という郡名は、三野郡の「三」と豊田郡の「豊」を合わせた合成地名であると説明される",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-mitoyo-gun-wiki"
+     ]
+    },
+    {
+     "text": "2006年の合併で三豊郡に属する自治体はすべて三豊市となったため、三豊郡は消滅した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-mitoyo-city-youran"
+     ]
+    }
+   ],
+   "column": {
+    "title": "消えた郡の名を、市が受け継いだ",
+    "text": "三豊という名は、もともと市町村の名ではなかった。1899年、三野郡と豊田郡が合併して生まれた郡の名で、両郡から一字ずつ取った合成地名である。その107年後、郡に残っていた7つの町が一つに合併して市になるとき、新しい市は中心町の名（高瀬、詫間など）ではなく、7町すべてに共通する郡の名を選んだ。結果として、三豊郡は合併と同時に消滅したが、その名は市の名として生き残った。行政区分としては消えた郡名が、自治体の名として継承されるという逆転が起きたわけである。",
+    "sources": [
+     "q5-mitoyo-city-youran",
+     "q5-mitoyo-gun-wiki"
+    ]
+   },
+   "relations": [
+    "pref/37",
+    "muni/37-観音寺市"
+   ],
+   "unknowns": [
+    "市名の選定過程（公募の有無や他の候補名）の詳細は、三豊合併協議会の記録など一次資料では確認できていない",
+    "「三豊」が三野・豊田両郡名からの一字ずつの合成であることについて、郡設置当時の命名理由を示す一次資料は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-丸亀市",
+   "code": "372021",
+   "names": {
+    "ja": "丸亀市",
+    "reading": "まるがめし",
+    "aliases": [
+     "丸亀浦"
+    ]
+   },
+   "user_terms": [
+    "丸亀の名前の由来",
+    "丸亀はなぜ丸亀というの",
+    "丸亀城と地名の関係",
+    "亀山の形が由来？"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "市名は丸亀城とその城下町の名に由来する。慶長2年（1597年）に生駒親正が亀山（円亀山）に築城して丸亀城と称したことに始まるとされ、城下町の形成とともに「丸亀」が地名として広がった。一方で、築城以前からこの一帯には丸亀浦という地名があったことも専門辞典に記されており、語源については亀の形をした山にちなむという説が広く伝えられる。",
+   "first_attestation": {
+    "era": "慶長2年",
+    "year_western": 1597,
+    "document": "生駒親正による丸亀築城（丸亀城の称の始まり）",
+    "note": "城下町名としての「丸亀」の始まり。これ以前に那珂郡柞原郷「丸亀浦」の地名があったことが角川日本地名大辞典に記されるが、その初出年代は特定できていない"
+   },
+   "claims": [
+    {
+     "text": "丸亀市の地方公共団体コードは372021である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "市名は城および城下の名称にちなむものである（日本歴史地名大系）",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-marugame-kotobank"
+     ]
+    },
+    {
+     "text": "丸亀市の中心市街地の始まりは、慶長2年（1597年）に生駒親正・一正が亀山に城を築いたことにある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-marugame-city-castle"
+     ]
+    },
+    {
+     "text": "城下町が造成される以前、この地は那珂郡柞原郷の丸亀浦などに属しており、生駒氏が築城した慶長年間に「丸亀」と称されるようになった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-marugame-kadokawa"
+     ]
+    },
+    {
+     "text": "地名の由来は、城の築かれた亀山の形が亀に似ていたことにちなむと地名辞典類は説明するが、縁起のよい名を付けた瑞祥地名ではないかという見方もあり、定説として確定はしていない",
+     "kind": "fact",
+     "level": "E4",
+     "status": "contested",
+     "sources": [
+      "q5-marugame-gogen"
+     ]
+    },
+    {
+     "text": "1899年（明治32年）に市制を施行して丸亀市となり、2005年には綾歌町・飯山町を編入して現在の市域となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-marugame-kotobank"
+     ]
+    },
+    {
+     "text": "丸亀は江戸時代、金毘羅参りの船着き場として発展し、うちわの産地としても知られる",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-marugame-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "城より先に「丸亀浦」があった",
+    "text": "「丸亀」の説明では、生駒親正が亀の形の山に城を築いて丸亀城と名付けた、という城名先行の話がよく語られる。ところが角川日本地名大辞典によれば、築城以前のこの地は「丸亀浦」と呼ばれていた。つまり「丸亀」の名そのものは城より古く、浦（港のある入り江）の名として先に存在し、城と城下町がその名を引き継いだと読むこともできる。亀山の形にちなむという語源についても、辞典類は断定を避けており、「丸亀」は城の命名と港の地名が重なったところに成立した名といえる。",
+    "sources": [
+     "q5-marugame-kadokawa",
+     "q5-marugame-kotobank"
+    ]
+   },
+   "relations": [
+    "pref/37"
+   ],
+   "unknowns": [
+    "「丸亀浦」の初出年代と、その語源（亀山の形に由来するか）は特定できていない",
+    "亀山が「円亀山」とも呼ばれた経緯を示す一次資料は確認できていない",
+    "生駒親正が城を「丸亀城」と称した際の命名理由を記す同時代の記録は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-善通寺市",
+   "code": "372048",
+   "names": {
+    "ja": "善通寺市",
+    "reading": "ぜんつうじし",
+    "aliases": []
+   },
+   "user_terms": [
+    "善通寺市の名前の由来",
+    "善通寺は人の名前？",
+    "空海の生まれた町の名前",
+    "善通って誰"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "市名は真言宗善通寺派の総本山・善通寺に由来する。総本山善通寺の公式解説によれば、寺は空海が父の寄進した地に建立したもので、父の諱「善通（よしみち）」を取って「善通寺」と号したと伝えられる。市は1954年（昭和29年）に善通寺町など1町4村が合併して発足し、寺の門前町の名がそのまま市名になった。",
+   "first_attestation": {
+    "era": "大同2年",
+    "year_western": 807,
+    "document": "『多度郡屏風浦善通寺之記』（江戸時代中期成立。総本山善通寺の公式解説が引く創建の記録）",
+    "note": "寺名「善通寺」の由来とされる創建（807年）の記録だが、根拠は江戸時代の寺記であり、平安時代の同時代史料ではない"
+   },
+   "claims": [
+    {
+     "text": "善通寺市の地方公共団体コードは372048である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "総本山善通寺の公式解説によれば、江戸時代中期成立の『多度郡屏風浦善通寺之記』には、大同2年（807年）に空海が父の寄進した四町四方の地に長安・青龍寺を模して寺を建立し始め、弘仁4年（813年）の落慶に際して父の諱「善通」を取って「善通寺」と号したと記されている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-zentsuji-yuisho"
+     ]
+    },
+    {
+     "text": "空海は宝亀5年（774年）に現在の善通寺市の地（当時は屏風浦と呼ばれた）に生まれたと、総本山善通寺の公式年表は伝える",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-zentsuji-nenpyo",
+      "q5-zentsuji-yuisho"
+     ]
+    },
+    {
+     "text": "市域は中世以降、弘法大師空海の誕生地として信仰を集め、総本山善通寺の門前町として栄え、市街地は寺を中心に形成されてきた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-zentsuji-city-history"
+     ]
+    },
+    {
+     "text": "1954年（昭和29年）3月31日、仲多度郡善通寺町・与北村・吉原村・筆岡村・竜川村が合併して善通寺市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-zentsuji-city-history"
+     ]
+    },
+    {
+     "text": "善通寺市は香川県の市の中で唯一、海に面していない市である",
+     "kind": "fact",
+     "level": "E5",
+     "status": "established",
+     "sources": [
+      "q5-zentsuji-wiki"
+     ]
+    }
+   ],
+   "column": {
+    "title": "父の名前が、寺の名前になり、市の名前になった",
+    "text": "「善通寺」は、もとは人名である。空海の父・佐伯善通（よしみち）の諱を、息子が自分の建てた寺の名にした、と寺の由緒は伝える。その寺が四国八十八箇所の霊場として信仰を集め、門前町が育ち、やがて町名になり、市名になった。人名→寺名→地名という三段の継承は全国でも珍しい部類である。なお空海が生まれた頃、この地は「屏風浦（びょうぶうら）」と呼ばれていた。寺の西に連なる五つの山（五岳）が屏風のように見えたことによるという。市の中心の地名としては善通寺に取って代わられたが、山号「屏風浦五岳山」や院号「誕生院」の中に、古い土地の名と誕生の記憶が残されている。",
+    "sources": [
+     "q5-zentsuji-yuisho",
+     "q5-zentsuji-city-history"
+    ]
+   },
+   "relations": [
+    "pref/37"
+   ],
+   "unknowns": [
+    "寺名の由来の根拠は江戸時代中期成立の寺記であり、平安時代の同時代史料では確認できていない",
+    "「善通寺」が寺名ではなく土地の名（郷名・村名）として文献に現れる初出は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-坂出市",
+   "code": "372030",
+   "names": {
+    "ja": "坂出市",
+    "reading": "さかいでし",
+    "aliases": []
+   },
+   "user_terms": [
+    "坂出の名前の由来",
+    "坂出はなぜ「さかいで」と読むの",
+    "塩田の町の名前",
+    "瀬戸大橋のたもとの市"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "市名は古くからの集落名「坂出」に由来する。日本大百科全書は、坂出を「宇多津からの小高い坂道を出た所」の意と説明する。江戸時代に塩田が開かれて塩の町として発展し、1942年（昭和17年）に坂出町と林田村が合併して市制を施行した。古代の讃岐国府が置かれた府中地区（現在の坂出市府中町）も市域に含む。",
+   "first_attestation": {
+    "era": "寛永14年",
+    "year_western": 1637,
+    "document": "村高の記録（改訂新版世界大百科事典の紹介による）",
+    "note": "地名の初出は戦国時代末頃とみられるが、確認できるのは1637年（寛永14年）の記録で、当時の村高は490石余と世界大百科事典は紹介する。原典は未確認"
+   },
+   "claims": [
+    {
+     "text": "坂出市の地方公共団体コードは372030である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "地名「坂出」は、宇多津からの小高い坂道を出た所を意味すると日本大百科全書は説明する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-sakaide-kotobank"
+     ]
+    },
+    {
+     "text": "その坂道を「田尾坂」と特定し、「宇多津の田尾坂を上って出た場所」が語源だとする説明もある",
+     "kind": "fact",
+     "level": "E5",
+     "status": "contested",
+     "sources": [
+      "q5-sakaide-wiki"
+     ]
+    },
+    {
+     "text": "地名の初出は戦国時代末頃とされるが、確認できる古い記録は1637年（寛永14年）のもので、当時の村高は490石余であったと改訂新版世界大百科事典は紹介する",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-sakaide-kotobank"
+     ]
+    },
+    {
+     "text": "江戸時代には播州赤穂からの移住者らによって塩田が開かれ、文政12年（1829年）に久米栄左衛門（通賢）によって東西大浜の塩田が完成して、日本を代表する塩田の町となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-sakaide-kotobank",
+      "q5-kagawa-lib-sakaide"
+     ]
+    },
+    {
+     "text": "1942年（昭和17年）7月1日、坂出町と林田村が合併して市制を施行し、坂出市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-sakaide-city-ayumi"
+     ]
+    },
+    {
+     "text": "律令時代の讃岐国府は阿野郡、現在の坂出市府中町に置かれたとされる。「府中」の地名がその名残である",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "q5-sakaide-kotobank"
+     ]
+    }
+   ],
+   "column": {
+    "title": "坂を「出た」ところに生まれた港町",
+    "text": "坂出の名は、道の記憶である。西隣の宇多津から東へ向かうと小高い坂があり、それを越えて「出た」ところが坂出だった、と日本大百科全書は説明する。その坂の名を田尾坂とする伝えもある。海に面したこの地は、江戸時代になると一面の塩田に姿を変え、久米栄左衛門の大浜塩田の完成で「塩の都」と呼ばれるまでになった。塩田はやがて埋め立てられて工業地帯となり、1988年には瀬戸大橋がこの町から本州へ向けて架かった。街道の坂の名が、塩の町を経て、四国と本州を結ぶ橋の取り付けの市の名になっている。",
+    "sources": [
+     "q5-sakaide-kotobank",
+     "q5-kagawa-lib-sakaide"
+    ]
+   },
+   "relations": [
+    "pref/37"
+   ],
+   "unknowns": [
+    "「田尾坂」説の典拠となる地誌・古文書は確認できていない",
+    "「さかいで」という読みの成立過程（「さかで」など他の読みの有無）は確認できていない",
+    "戦国時代末とされる初出の具体的な文献名は確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-東かがわ市",
+   "code": "372072",
+   "names": {
+    "ja": "東かがわ市",
+    "reading": "ひがしかがわし",
+    "aliases": []
+   },
+   "user_terms": [
+    "東かがわ市の名前の由来",
+    "東かがわはなぜ平仮名なの",
+    "東讃と東かがわの違い",
+    "新市名の候補に何があったの"
+   ],
+   "naming_type": "合併新設",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "2003年（平成15年）4月1日に引田町・白鳥町・大内町の3町が合併して発足した市。市名は町外の人にも呼びかけた公募で集まった5,967件の応募の中から選ばれ、最終候補の「讃東」「東かがわ」「東瀬戸」の中から「東かがわ」が選定された。県の東部に位置することを示す方角地名であり、「かがわ」を平仮名で書く表記が特徴である。",
+   "first_attestation": {
+    "era": "平成15年",
+    "year_western": 2003,
+    "document": "東かがわ市の市制施行（2003年4月1日）",
+    "note": "合併により新設された市名であるため、名前の初出は市制施行そのもの"
+   },
+   "claims": [
+    {
+     "text": "東かがわ市の地方公共団体コードは372072である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "2003年（平成15年）4月1日、引田町・白鳥町・大内町の合併と市制施行により、香川県で7番目の市として東かがわ市が誕生した",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-higashikagawa-name"
+     ]
+    },
+    {
+     "text": "新市の名称は町外の人にも呼びかけて公募され、2000年6月から8月の募集に5,967件の応募があり、候補名は2,867種類に及んだ",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-higashikagawa-name"
+     ]
+    },
+    {
+     "text": "公募の候補は2度の選定で10候補（あずま・讃東・三本松・讃和・太陽・とらまる・東かがわ・東香川・東瀬戸・三瀬戸）に絞られ、合併協議会の協議でさらに讃東・東かがわ・東瀬戸の3候補となり、最終的に「東かがわ」が選定された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-higashikagawa-name"
+     ]
+    },
+    {
+     "text": "合併で消えた引田・白鳥・大内の町名は、それぞれ大字の名称として残された",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-higashikagawa-name"
+     ]
+    },
+    {
+     "text": "合併した3町は、地場産業である手袋生産が3町合わせて全国シェアの約90パーセントを占めるなど、経済・文化・生活の面で古くから深い結びつきがあった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-higashikagawa-keii"
+     ]
+    }
+   ],
+   "column": {
+    "title": "最終候補に残った「とらまる」と「太陽」",
+    "text": "東かがわ市の名前は、2,867種類もの候補の中から選ばれた。10候補まで絞られた段階では、「東かがわ」「東香川」という本命のほか、「讃東」「東瀬戸」という地域名系、「三本松」「三瀬戸」という三町・三地区を意識した名、そして「太陽」「とらまる」という個性派も残っていた。「とらまる」は白鳥町の虎丸山や、とらまる公園にちなむ名とみられる。最終的には、県の東部であることが一目で分かる「東かがわ」に落ち着いたが、全く新しい名を公募したからこそ残った候補の顔ぶれが、この地域の自己イメージの幅を今に伝えている。",
+    "sources": [
+     "q5-higashikagawa-name"
+    ]
+   },
+   "relations": [
+    "pref/37",
+    "muni/37-さぬき市"
+   ],
+   "unknowns": [
+    "「かがわ」を漢字の「香川」ではなく平仮名とした理由について、公式ページには選定経過の記載はあるが理由の明記は確認できなかった",
+    "「讃東」「東瀬戸」が退けられた具体的な理由は、市の公式ページには明記されていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-観音寺市",
+   "code": "372056",
+   "names": {
+    "ja": "観音寺市",
+    "reading": "かんおんじし",
+    "aliases": []
+   },
+   "user_terms": [
+    "観音寺市の名前の由来",
+    "かんおんじとかんのんじの違い",
+    "観音寺は寺の名前から？",
+    "銭形砂絵の市の名前"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "市名は中心の観音寺町に由来し、その名は四国八十八箇所第69番札所の観音寺（第68番神恵院と同じ境内）にちなむとされる。市は1955年（昭和30年）に観音寺町など1町3村の合併で発足し、2005年（平成17年）には大野原町・豊浜町と新設合併して現在の観音寺市となった。寺の名は「かんのんじ」と読むが、市の名は「かんおんじ」と読む。",
+   "first_attestation": {
+    "era": "大同年間",
+    "year_western": null,
+    "document": "観音寺への改称（観音寺市公式の神恵院・観音寺解説による）",
+    "note": "寺名「観音寺」の始まりとされる時期（大同年間=806〜810年）。地名としての「観音寺」の文献上の初出は確認できていない"
+   },
+   "claims": [
+    {
+     "text": "観音寺市の地方公共団体コードは372056である（総務省「地方公共団体コード一覧」による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "b-cap-chiba-soumu-code"
+     ]
+    },
+    {
+     "text": "観音寺市公式の解説によれば、琴弾八幡宮の別当寺として創立された神恵院は、大同年間（806〜810年）に弘法大師が7代目住職のときに諸像を安置して七堂伽藍を建立し、「観音寺」と改められた。現在は神恵院が四国八十八箇所第68番、観音寺が第69番で、同じ境内にある",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-kanonji-city-temple"
+     ]
+    },
+    {
+     "text": "1955年（昭和30年）1月1日、観音寺町・高室村・常磐村・柞田村が合併して市制を施行し、観音寺市となった",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-kanonji-tokei"
+     ]
+    },
+    {
+     "text": "2005年（平成17年）10月11日、旧観音寺市・大野原町・豊浜町が新設合併して新しい観音寺市が発足した。新市の名称は合併協定書で「観音寺市」と定められていた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-kanonji-kyotei",
+      "q5-kanonji-tokei"
+     ]
+    },
+    {
+     "text": "寺院の「観音寺」は「かんのんじ」と読むが、市の名は「かんおんじ」と読む。同じ漢字で読みが異なる",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-kanonji-city-temple"
+     ]
+    },
+    {
+     "text": "市域西部の琴弾公園には、寛永通宝をかたどった巨大な銭形砂絵があり、隣接する琴弾八幡宮とともに市の象徴となっている",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "q5-kanonji-city-temple"
+     ]
+    }
+   ],
+   "column": {
+    "title": "「かんのんじ」の寺と「かんおんじ」の市",
+    "text": "観音寺という同じ三文字でも、寺を指すときは「かんのんじ」、市を指すときは「かんおんじ」と読み分けるのが当地の流儀である。「観音（かんのん）」に促音の入る寺の読みと、市名としての平板な読み。由来の寺と、それを頂いた自治体とで読みがずれるのは、名前が宗教の世界から行政の世界へ移る過程で起きた小さな変化である。訪れる人はまず第68番・第69番の札所で「かんのんじ」に手を合わせ、駅に降りれば「かんおんじし」の看板に迎えられる。",
+    "sources": [
+     "q5-kanonji-city-temple",
+     "q5-kanonji-tokei"
+    ]
+   },
+   "relations": [
+    "pref/37",
+    "muni/37-三豊市"
+   ],
+   "unknowns": [
+    "「観音寺」が寺名ではなく土地の名として文献に現れる初出は確認できていない",
+    "観音寺町の町名が寺にちなむことを明示した町村制施行時などの一次資料は確認できていない",
+    "寺の創立を日証上人に帰する伝えは寺伝の性格が強く、同時代の史料では確認できていない"
+   ],
+   "updated": "2026-11-13"
+  },
+  {
+   "id": "muni/37-高松市",
+   "code": "372013",
+   "names": {
+    "ja": "高松市",
+    "reading": "たかまつし",
+    "aliases": []
+   },
+   "user_terms": [
+    "高松の名前の由来",
+    "うどんの市の名前の意味",
+    "高松城の城下町の名前",
+    "高松郷と高松城の関係"
+   ],
+   "naming_type": "一部の地名",
+   "prefecture": "香川県",
+   "homonyms": [],
+   "summary": "市名の源は、讃岐国香川郡の古代郷名「高松郷」にある。天正16年（1588年）、生駒親正が玉藻浦の笑原郷（のはら）の地に高松城を築く際、著名だった高松郷の名を取って城と城下町の名とした。高松郷そのものは現在の古高松地区にあたり、名の原点と城下町の位置は市域の東西でずれている。高松市は明治23年（1890年）に市制を施行した。",
+   "first_attestation": {
+    "era": "承平年間",
+    "year_western": null,
+    "document": "和名類聚抄",
+    "note": "讃岐国香川郡の郷名「高松」の記載とされる（語源由来辞典による）。原文は未読。城下町名としての使用は天正16年（1588年）の築城から"
+   },
+   "claims": [
+    {
+     "text": "高松市の地方公共団体コードは372013である（総務省「全国地方公共団体コード」市区町村コード一覧による）",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-soumu-code-list"
+     ]
+    },
+    {
+     "text": "「高松」の地名は平安前期の『和名抄（和名類聚抄）』に「高松郷」で見えるのが古く、高松市は市名の由来が平安時代中期の史書に見える「高松郷」（現在の古高松地区）に発すると説明する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-takamatsu-gogen",
+      "e-cap-takamatsu-city-plan",
+      "e-cap-wamyosho"
+     ]
+    },
+    {
+     "text": "近世の高松城下町が発達した地は、律令時代には香川郡笑原郷（のはら）といわれた地であり、高松市公式の高松城跡解説は築城地の旧地名を「野原」と表記する",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-takamatsu-kotobank",
+      "e-cap-takamatsu-city-castle"
+     ]
+    },
+    {
+     "text": "天正16年（1588年）、生駒親正は築城の際、屋島合戦などで中央にも知られた高松郷の名を取って高松城とし、その城下町名としたことから、城下町としての高松の地名が始まった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "e-cap-takamatsu-kotobank",
+      "e-cap-takamatsu-city-profile"
+     ]
+    },
+    {
+     "text": "明治23年（1890年）に市制を施行し高松市となった",
+     "kind": "fact",
+     "level": "E3",
+     "status": "established",
+     "sources": [
+      "e-cap-takamatsu-kotobank"
+     ]
+    },
+    {
+     "text": "生駒氏の転封後、寛永19年（1642年）に松平頼重が東讃12万石を与えられて入部し、以後松平11代の城下町として明治を迎えた",
+     "kind": "fact",
+     "level": "E2",
+     "status": "established",
+     "sources": [
+      "e-cap-takamatsu-city-castle",
+      "e-cap-takamatsu-city-profile"
+     ]
+    },
+    {
+     "text": "高松郷の語源については、海の近くに高い松の林があったことが地名の由来といわれている",
+     "kind": "legend",
+     "level": "E3",
+     "status": "indeterminate",
+     "sources": [
+      "e-cap-takamatsu-gogen"
+     ]
+    }
+   ],
+   "column": {
+    "title": "名の原点は城下の東にあった ― 高松郷と玉藻浦",
+    "text": "高松という名前には「原点のずれ」がある。名の出どころである古代の高松郷は、現在の高松市東部の古高松地区にあたる。一方、生駒親正が1588年に城を築いたのは、その西方の玉藻浦で、律令時代には笑原郷（のはら）と呼ばれた別の地だった。親正は自分の城地の旧名ではなく、屋島合戦で中央にも知られた由緒ある郷名「高松」を借りてきて、城と新しい城下町に看板として掲げたのである。市名の地図上の原点は、城のある場所ではなく、東の古高松に置くべきだということになる。",
+    "sources": [
+     "e-cap-takamatsu-city-plan",
+     "e-cap-takamatsu-kotobank",
+     "e-cap-takamatsu-gogen"
+    ]
+   },
+   "relations": [
+    "pref/37"
+   ],
+   "unknowns": [
+    "高松郷の正確な郷域と、笑原郷との境界を特定できる一次文書は確認していない",
+    "「高い松の林」説のほか高松郷の語源の定説は確認できていない",
+    "『和名類聚抄』の高松郷の記載そのものは未読で、語源由来辞典などの紹介経由である"
+   ],
+   "updated": "2026-11-13"
+  }
+ ]
+}
