@@ -2,23 +2,23 @@ entities:
 - id: muni/01-えりも町
   prefecture: 北海道
   name: えりも町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-せたな町
   prefecture: 北海道
   name: せたな町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-むかわ町
   prefecture: 北海道
   name: むかわ町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-ニセコ町
   prefecture: 北海道
   name: ニセコ町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-七飯町
   prefecture: 北海道
   name: 七飯町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-三笠市
   prefecture: 北海道
   name: 三笠市
@@ -26,63 +26,63 @@ entities:
 - id: muni/01-上ノ国町
   prefecture: 北海道
   name: 上ノ国町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-上士幌町
   prefecture: 北海道
   name: 上士幌町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-上富良野町
   prefecture: 北海道
   name: 上富良野町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-上川町
   prefecture: 北海道
   name: 上川町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-上砂川町
   prefecture: 北海道
   name: 上砂川町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-下川町
   prefecture: 北海道
   name: 下川町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-中富良野町
   prefecture: 北海道
   name: 中富良野町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-中川町
   prefecture: 北海道
   name: 中川町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-中札内村
   prefecture: 北海道
   name: 中札内村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-中標津町
   prefecture: 北海道
   name: 中標津町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-中頓別町
   prefecture: 北海道
   name: 中頓別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-乙部町
   prefecture: 北海道
   name: 乙部町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-京極町
   prefecture: 北海道
   name: 京極町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-仁木町
   prefecture: 北海道
   name: 仁木町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-今金町
   prefecture: 北海道
   name: 今金町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-伊達市
   prefecture: 北海道
   name: 伊達市
@@ -90,23 +90,23 @@ entities:
 - id: muni/01-佐呂間町
   prefecture: 北海道
   name: 佐呂間町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-余市町
   prefecture: 北海道
   name: 余市町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-倶知安町
   prefecture: 北海道
   name: 倶知安町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-八雲町
   prefecture: 北海道
   name: 八雲町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-共和町
   prefecture: 北海道
   name: 共和町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-函館市
   prefecture: 北海道
   name: 函館市
@@ -114,23 +114,23 @@ entities:
 - id: muni/01-初山別村
   prefecture: 北海道
   name: 初山別村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-別海町
   prefecture: 北海道
   name: 別海町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-利尻富士町
   prefecture: 北海道
   name: 利尻富士町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-利尻町
   prefecture: 北海道
   name: 利尻町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-剣淵町
   prefecture: 北海道
   name: 剣淵町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-北広島市
   prefecture: 北海道
   name: 北広島市
@@ -142,7 +142,7 @@ entities:
 - id: muni/01-北竜町
   prefecture: 北海道
   name: 北竜町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-北見市
   prefecture: 北海道
   name: 北見市
@@ -154,31 +154,31 @@ entities:
 - id: muni/01-南富良野町
   prefecture: 北海道
   name: 南富良野町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-南幌町
   prefecture: 北海道
   name: 南幌町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-占冠村
   prefecture: 北海道
   name: 占冠村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-厚岸町
   prefecture: 北海道
   name: 厚岸町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-厚沢部町
   prefecture: 北海道
   name: 厚沢部町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-厚真町
   prefecture: 北海道
   name: 厚真町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-古平町
   prefecture: 北海道
   name: 古平町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-名寄市
   prefecture: 北海道
   name: 名寄市
@@ -186,15 +186,15 @@ entities:
 - id: muni/01-和寒町
   prefecture: 北海道
   name: 和寒町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-喜茂別町
   prefecture: 北海道
   name: 喜茂別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-増毛町
   prefecture: 北海道
   name: 増毛町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-士別市
   prefecture: 北海道
   name: 士別市
@@ -202,11 +202,11 @@ entities:
 - id: muni/01-士幌町
   prefecture: 北海道
   name: 士幌町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-壮瞥町
   prefecture: 北海道
   name: 壮瞥町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-夕張市
   prefecture: 北海道
   name: 夕張市
@@ -214,31 +214,31 @@ entities:
 - id: muni/01-大樹町
   prefecture: 北海道
   name: 大樹町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-大空町
   prefecture: 北海道
   name: 大空町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-天塩町
   prefecture: 北海道
   name: 天塩町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-奈井江町
   prefecture: 北海道
   name: 奈井江町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-奥尻町
   prefecture: 北海道
   name: 奥尻町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-妹背牛町
   prefecture: 北海道
   name: 妹背牛町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-安平町
   prefecture: 北海道
   name: 安平町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-室蘭市
   prefecture: 北海道
   name: 室蘭市
@@ -250,11 +250,11 @@ entities:
 - id: muni/01-寿都町
   prefecture: 北海道
   name: 寿都町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-小平町
   prefecture: 北海道
   name: 小平町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-小樽市
   prefecture: 北海道
   name: 小樽市
@@ -262,11 +262,11 @@ entities:
 - id: muni/01-小清水町
   prefecture: 北海道
   name: 小清水町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-岩内町
   prefecture: 北海道
   name: 岩内町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-岩見沢市
   prefecture: 北海道
   name: 岩見沢市
@@ -274,7 +274,7 @@ entities:
 - id: muni/01-島牧村
   prefecture: 北海道
   name: 島牧村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-帯広市
   prefecture: 北海道
   name: 帯広市
@@ -282,35 +282,35 @@ entities:
 - id: muni/01-幌加内町
   prefecture: 北海道
   name: 幌加内町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-幌延町
   prefecture: 北海道
   name: 幌延町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-幕別町
   prefecture: 北海道
   name: 幕別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-平取町
   prefecture: 北海道
   name: 平取町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-広尾町
   prefecture: 北海道
   name: 広尾町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-弟子屈町
   prefecture: 北海道
   name: 弟子屈町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-当別町
   prefecture: 北海道
   name: 当別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-当麻町
   prefecture: 北海道
   name: 当麻町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-恵庭市
   prefecture: 北海道
   name: 恵庭市
@@ -318,31 +318,31 @@ entities:
 - id: muni/01-愛別町
   prefecture: 北海道
   name: 愛別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-斜里町
   prefecture: 北海道
   name: 斜里町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-新ひだか町
   prefecture: 北海道
   name: 新ひだか町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-新冠町
   prefecture: 北海道
   name: 新冠町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-新十津川町
   prefecture: 北海道
   name: 新十津川町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-新得町
   prefecture: 北海道
   name: 新得町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-新篠津村
   prefecture: 北海道
   name: 新篠津村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-日高町
   prefecture: 北海道
   name: 日高町
@@ -354,19 +354,19 @@ entities:
 - id: muni/01-更別村
   prefecture: 北海道
   name: 更別村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-月形町
   prefecture: 北海道
   name: 月形町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-木古内町
   prefecture: 北海道
   name: 木古内町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-本別町
   prefecture: 北海道
   name: 本別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-札幌市
   prefecture: 北海道
   name: 札幌市
@@ -374,11 +374,11 @@ entities:
 - id: muni/01-東川町
   prefecture: 北海道
   name: 東川町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-東神楽町
   prefecture: 北海道
   name: 東神楽町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-松前町
   prefecture: 北海道
   name: 松前町
@@ -386,11 +386,11 @@ entities:
 - id: muni/01-枝幸町
   prefecture: 北海道
   name: 枝幸町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-栗山町
   prefecture: 北海道
   name: 栗山町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-根室市
   prefecture: 北海道
   name: 根室市
@@ -402,15 +402,15 @@ entities:
 - id: muni/01-様似町
   prefecture: 北海道
   name: 様似町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-標津町
   prefecture: 北海道
   name: 標津町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-標茶町
   prefecture: 北海道
   name: 標茶町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-歌志内市
   prefecture: 北海道
   name: 歌志内市
@@ -418,7 +418,7 @@ entities:
 - id: muni/01-比布町
   prefecture: 北海道
   name: 比布町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-江別市
   prefecture: 北海道
   name: 江別市
@@ -426,7 +426,7 @@ entities:
 - id: muni/01-江差町
   prefecture: 北海道
   name: 江差町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-池田町
   prefecture: 北海道
   name: 池田町
@@ -434,49 +434,49 @@ entities:
 - id: muni/01-沼田町
   prefecture: 北海道
   name: 沼田町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-泊村（古宇郡）
   prefecture: 北海道
   name: 泊村（古宇郡）
-  coverage: planned
+  coverage: recorded
   county: 古宇郡
   subprefecture: 後志総合振興局
   note: 北海道内に同名の泊村が2村ある（もう一方は国後郡泊村）。基データでは同名のため1フィーチャに統合されていたものを、郡で区別して分離した。レコード化の際は同名ペアとして横断チェックすること
 - id: muni/01-泊村（国後郡）
   prefecture: 北海道
   name: 泊村（国後郡）
-  coverage: planned
+  coverage: recorded
   county: 国後郡
   subprefecture: 根室振興局
   note: 北海道内に同名の泊村が2村ある（もう一方は古宇郡泊村）。国後島の村で、現在はロシアが実効支配している。基データでは同名のため1フィーチャに統合されていたものを、郡で区別して分離した。レコード化の際は同名ペアとして横断チェックすること
 - id: muni/01-洞爺湖町
   prefecture: 北海道
   name: 洞爺湖町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-津別町
   prefecture: 北海道
   name: 津別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-浜中町
   prefecture: 北海道
   name: 浜中町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-浜頓別町
   prefecture: 北海道
   name: 浜頓別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-浦幌町
   prefecture: 北海道
   name: 浦幌町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-浦河町
   prefecture: 北海道
   name: 浦河町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-浦臼町
   prefecture: 北海道
   name: 浦臼町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-深川市
   prefecture: 北海道
   name: 深川市
@@ -488,15 +488,15 @@ entities:
 - id: muni/01-清里町
   prefecture: 北海道
   name: 清里町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-湧別町
   prefecture: 北海道
   name: 湧別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-滝上町
   prefecture: 北海道
   name: 滝上町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-滝川市
   prefecture: 北海道
   name: 滝川市
@@ -504,23 +504,23 @@ entities:
 - id: muni/01-猿払村
   prefecture: 北海道
   name: 猿払村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-由仁町
   prefecture: 北海道
   name: 由仁町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-留別村
   prefecture: 北海道
   name: 留別村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-留夜別村
   prefecture: 北海道
   name: 留夜別村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-留寿都村
   prefecture: 北海道
   name: 留寿都村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-留萌市
   prefecture: 北海道
   name: 留萌市
@@ -532,19 +532,19 @@ entities:
 - id: muni/01-白糠町
   prefecture: 北海道
   name: 白糠町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-白老町
   prefecture: 北海道
   name: 白老町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-真狩村
   prefecture: 北海道
   name: 真狩村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-知内町
   prefecture: 北海道
   name: 知内町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-石狩市
   prefecture: 北海道
   name: 石狩市
@@ -556,19 +556,19 @@ entities:
 - id: muni/01-礼文町
   prefecture: 北海道
   name: 礼文町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-神恵内村
   prefecture: 北海道
   name: 神恵内村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-福島町
   prefecture: 北海道
   name: 福島町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-秩父別町
   prefecture: 北海道
   name: 秩父別町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-稚内市
   prefecture: 北海道
   name: 稚内市
@@ -576,7 +576,7 @@ entities:
 - id: muni/01-積丹町
   prefecture: 北海道
   name: 積丹町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-紋別市
   prefecture: 北海道
   name: 紋別市
@@ -584,7 +584,7 @@ entities:
 - id: muni/01-紗那村
   prefecture: 北海道
   name: 紗那村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-網走市
   prefecture: 北海道
   name: 網走市
@@ -592,11 +592,11 @@ entities:
 - id: muni/01-置戸町
   prefecture: 北海道
   name: 置戸町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-羅臼町
   prefecture: 北海道
   name: 羅臼町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-美唄市
   prefecture: 北海道
   name: 美唄市
@@ -604,27 +604,27 @@ entities:
 - id: muni/01-美幌町
   prefecture: 北海道
   name: 美幌町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-美深町
   prefecture: 北海道
   name: 美深町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-美瑛町
   prefecture: 北海道
   name: 美瑛町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-羽幌町
   prefecture: 北海道
   name: 羽幌町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-興部町
   prefecture: 北海道
   name: 興部町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-色丹村
   prefecture: 北海道
   name: 色丹村
-  coverage: planned
+  coverage: recorded
 - id: muni/01-芦別市
   prefecture: 北海道
   name: 芦別市
@@ -632,7 +632,7 @@ entities:
 - id: muni/01-芽室町
   prefecture: 北海道
   name: 芽室町
-  coverage: planned
+  coverage: recorded
 - id: muni/01-苫前町
   prefecture: 北海道
   name: 苫前町
