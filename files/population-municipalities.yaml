@@ -6679,23 +6679,23 @@ entities:
 - id: muni/46-さつま町
   prefecture: 鹿児島県
   name: さつま町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-三島村
   prefecture: 鹿児島県
   name: 三島村
-  coverage: planned
+  coverage: recorded
 - id: muni/46-与論町
   prefecture: 鹿児島県
   name: 与論町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-中種子町
   prefecture: 鹿児島県
   name: 中種子町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-伊仙町
   prefecture: 鹿児島県
   name: 伊仙町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-伊佐市
   prefecture: 鹿児島県
   name: 伊佐市
@@ -6707,7 +6707,7 @@ entities:
 - id: muni/46-十島村
   prefecture: 鹿児島県
   name: 十島村
-  coverage: planned
+  coverage: recorded
 - id: muni/46-南さつま市
   prefecture: 鹿児島県
   name: 南さつま市
@@ -6719,19 +6719,19 @@ entities:
 - id: muni/46-南大隅町
   prefecture: 鹿児島県
   name: 南大隅町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-南種子町
   prefecture: 鹿児島県
   name: 南種子町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-和泊町
   prefecture: 鹿児島県
   name: 和泊町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-喜界町
   prefecture: 鹿児島県
   name: 喜界町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-垂水市
   prefecture: 鹿児島県
   name: 垂水市
@@ -6739,15 +6739,15 @@ entities:
 - id: muni/46-大和村
   prefecture: 鹿児島県
   name: 大和村
-  coverage: planned
+  coverage: recorded
 - id: muni/46-大崎町
   prefecture: 鹿児島県
   name: 大崎町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-天城町
   prefecture: 鹿児島県
   name: 天城町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-奄美市
   prefecture: 鹿児島県
   name: 奄美市
@@ -6759,15 +6759,15 @@ entities:
 - id: muni/46-宇検村
   prefecture: 鹿児島県
   name: 宇検村
-  coverage: planned
+  coverage: recorded
 - id: muni/46-屋久島町
   prefecture: 鹿児島県
   name: 屋久島町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-徳之島町
   prefecture: 鹿児島県
   name: 徳之島町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-志布志市
   prefecture: 鹿児島県
   name: 志布志市
@@ -6787,7 +6787,7 @@ entities:
 - id: muni/46-東串良町
   prefecture: 鹿児島県
   name: 東串良町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-枕崎市
   prefecture: 鹿児島県
   name: 枕崎市
@@ -6795,19 +6795,19 @@ entities:
 - id: muni/46-湧水町
   prefecture: 鹿児島県
   name: 湧水町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-瀬戸内町
   prefecture: 鹿児島県
   name: 瀬戸内町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-知名町
   prefecture: 鹿児島県
   name: 知名町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-肝付町
   prefecture: 鹿児島県
   name: 肝付町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-薩摩川内市
   prefecture: 鹿児島県
   name: 薩摩川内市
@@ -6819,11 +6819,11 @@ entities:
 - id: muni/46-錦江町
   prefecture: 鹿児島県
   name: 錦江町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-長島町
   prefecture: 鹿児島県
   name: 長島町
-  coverage: planned
+  coverage: recorded
 - id: muni/46-阿久根市
   prefecture: 鹿児島県
   name: 阿久根市
@@ -6843,7 +6843,7 @@ entities:
 - id: muni/46-龍郷町
   prefecture: 鹿児島県
   name: 龍郷町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-うるま市
   prefecture: 沖縄県
   name: うるま市
@@ -6851,51 +6851,51 @@ entities:
 - id: muni/47-与那原町
   prefecture: 沖縄県
   name: 与那原町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-与那国町
   prefecture: 沖縄県
   name: 与那国町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-中城村
   prefecture: 沖縄県
   name: 中城村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-久米島町
   prefecture: 沖縄県
   name: 久米島町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-今帰仁村
   prefecture: 沖縄県
   name: 今帰仁村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-伊平屋村
   prefecture: 沖縄県
   name: 伊平屋村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-伊是名村
   prefecture: 沖縄県
   name: 伊是名村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-伊江村
   prefecture: 沖縄県
   name: 伊江村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-八重瀬町
   prefecture: 沖縄県
   name: 八重瀬町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-北中城村
   prefecture: 沖縄県
   name: 北中城村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-北大東村
   prefecture: 沖縄県
   name: 北大東村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-北谷町
   prefecture: 沖縄県
   name: 北谷町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-南城市
   prefecture: 沖縄県
   name: 南城市
@@ -6903,11 +6903,11 @@ entities:
 - id: muni/47-南大東村
   prefecture: 沖縄県
   name: 南大東村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-南風原町
   prefecture: 沖縄県
   name: 南風原町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-名護市
   prefecture: 沖縄県
   name: 名護市
@@ -6915,23 +6915,23 @@ entities:
 - id: muni/47-嘉手納町
   prefecture: 沖縄県
   name: 嘉手納町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-国頭村
   prefecture: 沖縄県
   name: 国頭村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-多良間村
   prefecture: 沖縄県
   name: 多良間村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-大宜味村
   prefecture: 沖縄県
   name: 大宜味村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-宜野座村
   prefecture: 沖縄県
   name: 宜野座村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-宜野湾市
   prefecture: 沖縄県
   name: 宜野湾市
@@ -6943,11 +6943,11 @@ entities:
 - id: muni/47-座間味村
   prefecture: 沖縄県
   name: 座間味村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-恩納村
   prefecture: 沖縄県
   name: 恩納村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-所属未定地
   prefecture: 沖縄県
   name: 所属未定地
@@ -6956,11 +6956,11 @@ entities:
 - id: muni/47-本部町
   prefecture: 沖縄県
   name: 本部町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-東村
   prefecture: 沖縄県
   name: 東村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-沖縄市
   prefecture: 沖縄県
   name: 沖縄市
@@ -6972,11 +6972,11 @@ entities:
 - id: muni/47-渡名喜村
   prefecture: 沖縄県
   name: 渡名喜村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-渡嘉敷村
   prefecture: 沖縄県
   name: 渡嘉敷村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-石垣市
   prefecture: 沖縄県
   name: 石垣市
@@ -6984,11 +6984,11 @@ entities:
 - id: muni/47-竹富町
   prefecture: 沖縄県
   name: 竹富町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-粟国村
   prefecture: 沖縄県
   name: 粟国村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-糸満市
   prefecture: 沖縄県
   name: 糸満市
@@ -6996,11 +6996,11 @@ entities:
 - id: muni/47-西原町
   prefecture: 沖縄県
   name: 西原町
-  coverage: planned
+  coverage: recorded
 - id: muni/47-読谷村
   prefecture: 沖縄県
   name: 読谷村
-  coverage: planned
+  coverage: recorded
 - id: muni/47-豊見城市
   prefecture: 沖縄県
   name: 豊見城市
@@ -7012,4 +7012,4 @@ entities:
 - id: muni/47-金武町
   prefecture: 沖縄県
   name: 金武町
-  coverage: planned
+  coverage: recorded
