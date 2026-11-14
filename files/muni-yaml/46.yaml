@@ -2373,12 +2373,12 @@ records:
     status: established
     sources:
     - upg-s3-kushira-kotobank
-  - text: 明治初年の串良郷は、新川西村・川東村・川西村・岩弘村・池之原村（現・東串良町）と上小原村・下小原村・岡崎村・細山田村・有里村（現・鹿屋市）からなっていたと、『角川日本地名大辞典』に基づく郷構成としてWikipediaは紹介している
+  - text: 明治初年の串良郷は、新川西村・川東村・川西村・岩弘村・池之原村（現・東串良町）と上小原村・下小原村・岡崎村・細山田村・有里村（現・鹿屋市）からなっていたと、『角川日本地名大辞典』（旧地名編）「串良郷（近世）」は記している
     kind: fact
-    level: E5
+    level: E3
     status: established
     sources:
-    - s2-kimotsuki-gun-wiki
+    - upg-higashikushira-kadokawa-jlogos
   - text: 1889年4月1日の町村制施行で、串良郷は串良川を境に東西に分けられ、東側が東串良村、西側が西串良村として発足したと、東串良町公式資料と歴史的行政区域データセットは記録している
     kind: fact
     level: E2
@@ -2414,7 +2414,7 @@ records:
   - 『和名類聚抄』の大隅国肝属郡に串良郷が収録されているかは確認できなかった
   - 『大隅風土記』と呼ばれる原典の成立年代・書誌は確認できなかった
   - 「串良」の語源について、命名譚以外の学術的な説明は確認できなかった
-  updated: '2026-11-13'
+  updated: '2026-11-14'
 - id: muni/46-枕崎市
   code: '462047'
   names:
@@ -3994,6 +3994,9 @@ sources:
   upg-ah6-yoron-kadokawa:
     label: 『角川日本地名大辞典』第46巻 鹿児島県「与論」（JLogos掲載。島は「ユンヌ」とも呼ばれ、『南島風土記』に「与留濃（ユンヌ）」の記事があること、『奄美大島史』が「論」は島の義で古くは「由論（ゆろん）」とも書き、「与論」と書く理由は不明で近世の文字であろうと記すことを紹介）
     url: https://jlogos.com/ausp/word.html?id=7239512
+  upg-higashikushira-kadokawa-jlogos:
+    label: 『角川日本地名大辞典』（旧地名編）「串良郷（近世）」（JLogos掲載。江戸期～明治22年の郷名で、細山田・上小原・下小原・有里・岡崎・岩弘・池之原・川東・新川西・川西の10か村からなり、明治22年に細山田・有里・岡崎・下小原・上小原の5か村が西串良村、岩弘・池之原・川東・新川西・川西の5か村が東串良村となったと記す）
+    url: https://jlogos.com/ausp/word.html?id=7461882
   upg-s10-koniya-port:
     label: 鹿児島県「古仁屋港」（県公式の港湾紹介。古仁屋港の定期航路として、鹿児島・名瀬方面へのフェリーのほか、町営の加計呂麻島行きフェリー「かけろま」と請島・与路島行き貨客船「せとなみ」を挙げる）
     url: https://www.pref.kagoshima.jp/ah09/infra/port/minato/cruising/index_7.html

@@ -3201,13 +3201,14 @@ records:
     status: established
     sources:
     - n6-gamagori-crd
-  - text: 明治9年（1876年）に蒲形村と西之郡村が合併して蒲郡村となった（合併の実施は明治9年で、県の正式な認可は明治11年（1878年）12月28日）。明治24年（1891年）10月6日に町制を施行して蒲郡町となった
+  - text: 蒲形村と西之郡村が合併して蒲郡村となった年次は、資料によって食い違う。蒲郡市公式の統計資料は、合併の実施は明治9年（1876年）で、県の正式な認可は明治11年（1878年）12月28日であるとする。一方、『角川日本地名大辞典』は「明治8年に合併した蒲形村と西郡村の各1字を組み合わせたもの」とし、蒲郡村（近代）を明治8〜22年の村名とする。明治24年（1891年）10月6日に町制を施行して蒲郡町となった
     kind: fact
     level: E2
-    status: established
+    status: contested
     sources:
     - upg-ae6-gamagori-tokei
     - upg-ae6-gamagori-geoshape
+    - upg-parent-gamagori-kadokawa
   - text: 昭和29年（1954年）4月1日、蒲郡町・三谷町・塩津村が合併して蒲郡市が市制を施行した
     kind: fact
     level: E2
@@ -3255,7 +3256,7 @@ records:
   unknowns:
   - 「蒲形（かまがた）」という地名そのものの語源（蒲＝ガマの生える潟地に由来するという説など）は、『角川日本地名大辞典』『日本歴史地名大系』の該当項目で直接確認できなかった
   - 蒲形荘の初出文献（何の文書にいつ見えるか）は未確認
-  updated: '2026-11-13'
+  updated: '2026-11-14'
 - id: muni/23-蟹江町
   code: '234257'
   names:
@@ -4521,6 +4522,9 @@ sources:
   upg-ag7-kota-geoshape:
     label: 歴史的行政区域データセットβ版（CODH）「愛知県額田郡幸田村」（幸田村の有効期間の開始日が1908年7月28日と記録される）
     url: https://geoshape.ex.nii.ac.jp/city/resource/23B0050008.html
+  upg-parent-gamagori-kadokawa:
+    label: 『角川日本地名大辞典』第23巻（愛知県）「蒲郡」（JLogos掲載の本文を直接確認：地名は明治8年に合併した蒲形村と西郡村の各1字を組み合わせたものとし、蒲郡村（近代）を「明治8〜22年の村名」とする）
+    url: https://jlogos.com/ausp/word.html?id=7117251
   upg-q11-gamagori-museum-gappei:
     label: 蒲郡市博物館「合併までのあゆみ」（蒲郡市公式。昭和29年4月1日に三谷町・蒲郡町・塩津村の3町村が合併して蒲郡市が生まれたことなど、昭和の大合併に至る経緯）
     url: https://www.city.gamagori.lg.jp/site/museum/rekibun-gappei.html
